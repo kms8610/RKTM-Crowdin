@@ -1,0 +1,6 @@
+files:
+  - source: '*.xml'
+    ignore:
+      - About.xml
+      - LoadFolders.xml
+    translation: /**/%language%/%original_file_name%
