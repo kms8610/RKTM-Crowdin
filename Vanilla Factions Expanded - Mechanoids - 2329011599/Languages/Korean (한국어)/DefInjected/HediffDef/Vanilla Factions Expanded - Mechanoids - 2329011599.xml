@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFE_FasterMovement.label>faster movement bonus</VFE_FasterMovement.label>
+  <VFE_FasterMovement.description>faster movement bonus</VFE_FasterMovement.description>
+  <VFE_BrainWashedNotFully.label>major brainwash</VFE_BrainWashedNotFully.label>
+  <VFE_BrainWashedNotFully.description>I got ejected abruptly in the middle of a conversion. I don't feel too great.</VFE_BrainWashedNotFully.description>
+  <VFE_BrainWashedFully.label>minor brainwash</VFE_BrainWashedFully.label>
+  <VFE_BrainWashedFully.description>My new beliefs are amazing, but the sudden conversion takes some time getting used to.</VFE_BrainWashedFully.description>
+  <VFE_MechanoidUplink.label>mechanoid uplink</VFE_MechanoidUplink.label>
+  <VFE_MechanoidUplink.description>mechanoid uplink</VFE_MechanoidUplink.description>
+  <VFE_MechaniteUnderArmorHediff.label>Mechanite clothing optimisation</VFE_MechaniteUnderArmorHediff.label>
+  <VFE_MechaniteUnderArmorHediff.labelNoun>a mechanite optimisation</VFE_MechaniteUnderArmorHediff.labelNoun>
+  <VFE_MechaniteUnderArmorHediff.description>Embedded mechanites are optimizing this individuals digestive tract, suppressing their need to eat.</VFE_MechaniteUnderArmorHediff.description>
+  <VFE_Mechanoids_GlobalWorkSpeed.label>inspired</VFE_Mechanoids_GlobalWorkSpeed.label>
+  <VFE_Mechanoids_GlobalWorkSpeed.labelNoun>inspired</VFE_Mechanoids_GlobalWorkSpeed.labelNoun>
+  <VFE_Mechanoids_GlobalWorkSpeed.description>inspired</VFE_Mechanoids_GlobalWorkSpeed.description>
+</LanguageData>
