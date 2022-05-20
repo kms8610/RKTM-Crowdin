@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_Mechanoid.label>메카노이드 무리</VFE_Mechanoid.label>
-  <VFE_Mechanoid.description>A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. Controlled remotely by human commanders in one of the core worlds, in the center of this mechanoid swarm lies a lair, where countless machines are constructed and deconstructed continuously to serve the greater cause.\n\nThey are not concerned with human rights and don't perceive inhabitants of this rimworld as anything but apes that need to be terminated for the terraforming project to continue.\n\nThis mechanoid swarm cannot be allied with.</VFE_Mechanoid.description>
-  <VFE_Mechanoid.pawnSingular>메카노이드</VFE_Mechanoid.pawnSingular>
-  <VFE_Mechanoid.pawnsPlural>메카노이드들</VFE_Mechanoid.pawnsPlural>
+  <VanillaExpanded.label>바닐라 확장</VanillaExpanded.label>
 </LanguageData>
