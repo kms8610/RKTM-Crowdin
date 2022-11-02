@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VAEA_Apparel_BattleBanner.label>battle banner</VAEA_Apparel_BattleBanner.label>
+  <VAEA_Apparel_BattleBanner.description>A battle banner. Gives the wearer a fighting spirit and confidence.</VAEA_Apparel_BattleBanner.description>
+  <VAEA_Apparel_MedicBag.label>medic bag</VAEA_Apparel_MedicBag.label>
+  <VAEA_Apparel_MedicBag.description>A bag with everything needed to provide medical treatment.</VAEA_Apparel_MedicBag.description>
+  <VAEA_Apparel_Quiver.label>quiver</VAEA_Apparel_Quiver.label>
+  <VAEA_Apparel_Quiver.description>Small quiver for arrows.</VAEA_Apparel_Quiver.description>
+  <VAEA_Apparel_ToolBelt.label>tool belt</VAEA_Apparel_ToolBelt.label>
+  <VAEA_Apparel_ToolBelt.description>A simple tool belt with everything needed to nail a couple of planks or fix electrical appliances.</VAEA_Apparel_ToolBelt.description>
+  <VAEA_Apparel_AmmoPack.label>ammo pack</VAEA_Apparel_AmmoPack.label>
+  <VAEA_Apparel_AmmoPack.description>Bandolier with ammunition.</VAEA_Apparel_AmmoPack.description>
+  <VAEA_Apparel_ExplosiveBelt.label>explosive belt</VAEA_Apparel_ExplosiveBelt.label>
+  <VAEA_Apparel_ExplosiveBelt.description>A belt with explosives.</VAEA_Apparel_ExplosiveBelt.description>
+  <VAEA_Apparel_RangedShieldBelt.label>ranged shield belt</VAEA_Apparel_RangedShieldBelt.label>
+  <VAEA_Apparel_RangedShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It doesn't prevent the wearer from firing out, and shuts down instantly if hit by EMP.</VAEA_Apparel_RangedShieldBelt.description>
+  <VAEA_Apparel_RessurectorBelt.label>ressurector belt</VAEA_Apparel_RessurectorBelt.label>
+  <VAEA_Apparel_RessurectorBelt.description>A belt containing a dose of resurrector serum. Injects the serum immediately after death.</VAEA_Apparel_RessurectorBelt.description>
+  <VAEA_Apparel_MiniTurretPack.label>mini-turret pack</VAEA_Apparel_MiniTurretPack.label>
+  <VAEA_Apparel_MiniTurretPack.description>A small pack of ammunition and components that control a shoulder mounted mini-turret.</VAEA_Apparel_MiniTurretPack.description>
+  <VAEA_Apparel_MiniTurretPack.verbs.0.label>Gun</VAEA_Apparel_MiniTurretPack.verbs.0.label>
+  <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.label>Gun</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.label>
+  <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.visualLabel>mini-turret gun</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.visualLabel>
+  <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.description>A simple automatic gun made to be mounted on a shoulder.</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.description>
+</LanguageData>
