@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_Mech_AdvancedCentipede.label>강화 센터피드</VFE_Mech_AdvancedCentipede.label>
-  <VFE_Mech_AdvancedLancer.label>강화 랜서</VFE_Mech_AdvancedLancer.label>
-  <VFE_Mech_AdvancedKnight.label>강화 나이트</VFE_Mech_AdvancedKnight.label>
-  <VFE_Mech_AdvancedInquisitor.label>강화 인퀴저터</VFE_Mech_AdvancedInquisitor.label>
-  <VFE_Mech_AdvancedScyther.label>강화 사이더</VFE_Mech_AdvancedScyther.label>
-  <VFE_Mech_AdvancedPikeman.label>강화 파이크맨</VFE_Mech_AdvancedPikeman.label>
-  <VFE_Mech_AdvancedPikeman.labelPlural>강화 파이크맨들</VFE_Mech_AdvancedPikeman.labelPlural>
-  <VFE_Mech_AdvancedCarpenter.label>강화 카펜터</VFE_Mech_AdvancedCarpenter.label>
-  <VFE_Mech_AdvTermite.label>advanced termite</VFE_Mech_AdvTermite.label>
-  <VFE_Mech_AdvTermite.labelPlural>termites</VFE_Mech_AdvTermite.labelPlural>
-  <VFE_AncientMech_AncientCarpenter.label>카펜터</VFE_AncientMech_AncientCarpenter.label>
-  <VFE_Mechanoids_Autocleaner.label>자동 청소기</VFE_Mechanoids_Autocleaner.label>
-  <VFE_Mechanoids_Autohauler.label>자동 운반기</VFE_Mechanoids_Autohauler.label>
-  <VFE_Mechanoids_Autominer.label>자동 채굴기</VFE_Mechanoids_Autominer.label>
-  <VFE_Mechanoids_Combat.label>전투 메카노이드</VFE_Mechanoids_Combat.label>
-  <VFE_Mechanoids_Riot.label>진압 메카노이드</VFE_Mechanoids_Riot.label>
-  <VFE_Mechanoids_Turret.label>이동식 포탑</VFE_Mechanoids_Turret.label>
-  <VFE_Mechanoids_Autostrider.label>autostrider</VFE_Mechanoids_Autostrider.label>
-  <VFE_Mechanoids_AutoMedic.label>auto-medic</VFE_Mechanoids_AutoMedic.label>
-  <VFE_Mechanoids_Raider.label>raider mechanoid</VFE_Mechanoids_Raider.label>
-  <VFE_Mechanoids_Pyro.label>pyro mechanoid</VFE_Mechanoids_Pyro.label>
-  <VFE_Mechanoids_Autobroadcaster.label>autobroadcaster</VFE_Mechanoids_Autobroadcaster.label>
-  <VFE_Mech_Centipede.label>센터피드</VFE_Mech_Centipede.label>
-  <VFE_Mech_Lancer.label>랜서</VFE_Mech_Lancer.label>
-  <VFE_Mech_Knight.label>기사</VFE_Mech_Knight.label>
-  <VFE_Mech_Inquisitor.label>심문관</VFE_Mech_Inquisitor.label>
-  <VFE_Mech_Scyther.label>사이더</VFE_Mech_Scyther.label>
-  <VFE_Mech_Pikeman.label>파이크맨</VFE_Mech_Pikeman.label>
-  <VFE_Mech_Pikeman.labelPlural>파이크맨들</VFE_Mech_Pikeman.labelPlural>
-  <VFE_Mech_Carpenter.label>카펜터</VFE_Mech_Carpenter.label>
-  <VFE_Mech_Termite.label>흰개미</VFE_Mech_Termite.label>
-  <VFE_Mech_Termite.labelPlural>termites</VFE_Mech_Termite.labelPlural>
+  <VFE_Mechanoid.label>메카노이드 무리</VFE_Mechanoid.label>
+  <VFE_Mechanoid.description>A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. 중심계 중 한 곳의 인간 사령관이 원격으로 제어하는 이 메카노이드 무리의 중앙부에는 더 큰 대의를 위해 수많은 메카노이드가 지속적으로 제작되고 해체되는 은신처가 있습니다.\n\n그들은 인권에 관심이 없고 이 변경계의 거주자들을 환경 조성 계획을 계속하기 위해 제거해야 하는 유인원 이외의 것으로 인식합니다.\n\n이 메카노이드 무리와는 동맹을 맺을 수 없습니다.</VFE_Mechanoid.description>
+  <VFE_Mechanoid.pawnSingular>메카노이드</VFE_Mechanoid.pawnSingular>
+  <VFE_Mechanoid.pawnsPlural>메카노이드들</VFE_Mechanoid.pawnsPlural>
 </LanguageData>
