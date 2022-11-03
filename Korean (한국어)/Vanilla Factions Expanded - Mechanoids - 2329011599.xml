@@ -1,4 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEM_MechShipArrival.textEnemy>{0}의 메카노이드 함선이 근처에 착륙했습니다.</VFEM_MechShipArrival.textEnemy>
+  <VFEM_BringIngredients>재료 추출</VFEM_BringIngredients>
+  <VFEM_BringIngredientsDesc>인접한 호퍼에서 성분을 추출하는 공정을 시작합니다.</VFEM_BringIngredientsDesc>
+  <VFEMech.MustPlaceOnFactoryFloor>공장 바닥에 직접 배치해야 합니다.</VFEMech.MustPlaceOnFactoryFloor>
+  <VFEMech.MustPlaceOnPowerConduit>전선에 직접 배치해야 합니다.</VFEMech.MustPlaceOnPowerConduit>
+  <VFEM_SiloNoTarget>현재 목표 없음</VFEM_SiloNoTarget>
+  <VFEM_SiloTargeting>현재 {1}의 {0}(이)가 목표가 되었습니다</VFEM_SiloTargeting>
+  <VFEM_SiloConditionsSatisfied>모든 자원이 존재합니다</VFEM_SiloConditionsSatisfied>
+  <VFEM_SiloConditionsUnsatisfied>일부 자원이 없습니다</VFEM_SiloConditionsUnsatisfied>
+  <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
+  <VFEM_SiloAimAtQuestSite>위치에 대상이 될만큼 큰 개체가 없습니다.</VFEM_SiloAimAtQuestSite>
+  <SmallFish>Small Fish</SmallFish>
+  <MediumFish>Medium Fish</MediumFish>
+  <LargeFish>Large Fish</LargeFish>
+  <GizmoDescriptionSmall>Have the Fish Taunter catch small fish.</GizmoDescriptionSmall>
+  <GizmoDescriptionMedium>Have the Fish Taunter catch medium fish.</GizmoDescriptionMedium>
+  <GizmoDescriptionLarge>Have the Fish Taunter catch large fish.</GizmoDescriptionLarge>
+  <VFE_FishTrapperGizmoLabelSmall>Small Fish</VFE_FishTrapperGizmoLabelSmall>
+  <VFE_FishTrapperGizmoLabelMedium>Medium Fish</VFE_FishTrapperGizmoLabelMedium>
+  <VFE_FishTrapperGizmoLabelLarge>Large Fish</VFE_FishTrapperGizmoLabelLarge>
+  <VFEM.PropagandaMode>Mode: {0}</VFEM.PropagandaMode>
+  <VFEM.RelaxingMusic>Relaxing music</VFEM.RelaxingMusic>
+  <VFEM.InspirationalMusic>Inspirational music</VFEM.InspirationalMusic>
+  <VFEM.IdeoPropaganda>Ideology propaganda</VFEM.IdeoPropaganda>
+  <VFEM.Recruitment>Prisoner recruitment</VFEM.Recruitment>
+  <VFEM.RelaxingMusicDesc>Play relaxing music, making anyone that hears it a bit happier.</VFEM.RelaxingMusicDesc>
+  <VFEM.InspirationalMusicDesc>Play inspirational music, motivating pawns to work harder.</VFEM.InspirationalMusicDesc>
+  <VFEM.IdeoPropagandaDesc>Play propaganda music, increasing the certainty of colonists.</VFEM.IdeoPropagandaDesc>
+  <VFEM.RecruitmentDesc>Play music that is liked by prisoners, reducing their resistance.</VFEM.RecruitmentDesc>
+  <VFEM.SelectIdeology>Select ideology</VFEM.SelectIdeology>
+  <VFEM.SelectIdeologyDesc>Select ideology the autobroadcaster should tune its music to.</VFEM.SelectIdeologyDesc>
+  <VFEM.CurrentIdeology>Current ideology: {0}</VFEM.CurrentIdeology>
+  <VFEM.MustHaveAnotherIdeology>Must believe in another ideology</VFEM.MustHaveAnotherIdeology>
+  <VFEM.CannotEnter>Cannot enter: {0}</VFEM.CannotEnter>
+  <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef}(이)가 합류하길 원합니다.</VFEMech.LetterJoinOfferTitle>
+  <VFEMech.LetterJoinOfferLabel>합류 요청: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+  <VFEMech.LetterJoinOfferText>신뢰와 감사의 표시로 {PAWN_nameDef}(은)는 {PAWN_pronoun}가 정착지에 중요한 도움이 될 수 있다고 믿습니다.\n{PAWN_pronoun}가 당신의 정착지에 영구적으로 합류하고자 합니다.</VFEMech.LetterJoinOfferText>
+  <VFEMech.RaidWarningTitle>습격 임박: {FACTION_name}</VFEMech.RaidWarningTitle>
+  <VFEMech.RaidWarningText>{FACTION_name}(이)가 앞으로 12시간 내에 당신을 습격할 것입니다. {1}</VFEMech.RaidWarningText>
+  <VFEMech.DisableTotalWarMechanic>전면전 방식 비활성화</VFEMech.DisableTotalWarMechanic>
+  <VFEMech.AdjustIncidentTimeInterval>함선 착륙 주기 조정:</VFEMech.AdjustIncidentTimeInterval>
+  <VFEMech.AdjustIncidentChanceLabel>다음 사건의 기본 확률 조정:</VFEMech.AdjustIncidentChanceLabel>
+  <VFEMech.AdjustMechPresenceLabel>다음에 의해 생성되는 메카노이드 개체 요인 조정:</VFEMech.AdjustMechPresenceLabel>
+  <VFEMech.AdjustMinimunColonistCountLabel>함선 착륙 사건에 필요한 최소 정착민 수 조정:</VFEMech.AdjustMinimunColonistCountLabel>
+  <VFEMech.AdjustMinimunWealthCountLabel>Adjust minimum wealth count required for ship landing incidents:</VFEMech.AdjustMinimunWealthCountLabel>
+  <VFEMech.AdjustMaximumDistanceForShipsLabel>함선 착륙 지점의 최대 거리 조정:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+  <VFEM_factorySpeedMultiplier>공장 속도 배수</VFEM_factorySpeedMultiplier>
+  <VFEM_factorySpeedMultiplierTooltip>공장 속도 배수로, 기본값은 1입니다.\n숫자가 낮을수록 공장 작동 속도가 빨라지고 숫자가 높을수록 작동 속도가 느려집니다.</VFEM_factorySpeedMultiplierTooltip>
+  <VFEM_SuperComputerResearchPointYield>슈퍼컴퓨터의 연구점수 산출 값입니다. 기본값은 1입니다.</VFEM_SuperComputerResearchPointYield>
+  <VFEMech.FactionDestroyedShip>{FACTION_name}(이)가 {1}(을)를 파괴했습니다.</VFEMech.FactionDestroyedShip>
+  <VFEMech.FactionDestroyedShipDesc>{FACTION_name}(은)는 교묘한 전략과 수많은 사상자 및 놀라운 인내력으로 {1}(을)를 파괴했습니다.</VFEMech.FactionDestroyedShipDesc>
+  <VFEMech.IdeologyConversionTarget>Ideology conversion target: {0}</VFEMech.IdeologyConversionTarget>
+  <VFEMech.SetIdeologyConversionTarget>Set ideology conversion target.</VFEMech.SetIdeologyConversionTarget>
+  <VFEMech.SetIdeologyConversionTargetDesc>Select the ideology that the selected colonist should be converted to.</VFEMech.SetIdeologyConversionTargetDesc>
+  <VFEMech.CurrentCertainty>{PAWN_nameDef}'s certainty in {1} is {2}%</VFEMech.CurrentCertainty>
+  <VFEMech.EnterIndoctrinationPod>Enter indoctrination pod</VFEMech.EnterIndoctrinationPod>
 </LanguageData>
