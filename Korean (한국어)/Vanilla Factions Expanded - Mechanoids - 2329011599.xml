@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_Bullet_InfernoSpewerSmall.label>small inferno spewer shot</VFE_Bullet_InfernoSpewerSmall.label>
-  <VFE_Bullet_InfernoSpewer.label>지옥 화염 줄기</VFE_Bullet_InfernoSpewer.label>
-  <VFE_Bullet_AdvancedInfernoSpewer.label>지옥 화염 줄기</VFE_Bullet_AdvancedInfernoSpewer.label>
+  <VFE_MechaniteUnderArmorThought.stages.0.label>mechanite under armor</VFE_MechaniteUnderArmorThought.stages.0.label>
+  <VFE_MechaniteUnderArmorThought.stages.0.description>I feel strangely comfortable.</VFE_MechaniteUnderArmorThought.stages.0.description>
+  <VFE_Mechanoids_RelaxingMusic.stages.0.label>Relaxing music</VFE_Mechanoids_RelaxingMusic.stages.0.label>
+  <VFE_Mechanoids_RelaxingMusic.stages.0.description>Propaganda bot is playing my favourite jam.</VFE_Mechanoids_RelaxingMusic.stages.0.description>
+  <VFE_Thought_BrainWashedNotFully.stages.0.label>todo</VFE_Thought_BrainWashedNotFully.stages.0.label>
+  <VFE_Thought_BrainWashedNotFully.stages.0.description>todo</VFE_Thought_BrainWashedNotFully.stages.0.description>
+  <VFE_Thought_BrainWashedFully.stages.0.label>todo</VFE_Thought_BrainWashedFully.stages.0.label>
+  <VFE_Thought_BrainWashedFully.stages.0.description>todo</VFE_Thought_BrainWashedFully.stages.0.description>
 </LanguageData>
