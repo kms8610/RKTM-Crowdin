@@ -1,21 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEM_MechShipDestroyed.label>메카노이드 함선이 파괴됨</VFEM_MechShipDestroyed.label>
-  <VFEM_MechShipDestroyed.letterLabel>{FACTION_name}(이)가 {1}(을)를 파괴했습니다.</VFEM_MechShipDestroyed.letterLabel>
-  <VFEM_MechShipDestroyed.letterText>{FACTION_name}(은)는 교묘한 전략과 수많은 사상자 및 놀라운 인내력으로 {1}(을)를 파괴했습니다.</VFEM_MechShipDestroyed.letterText>
-  <VFEM_ShipLandFrigate.label>소형 구축함 착륙</VFEM_ShipLandFrigate.label>
-  <VFEM_ShipLandFrigate.letterLabel>함선 착륙: 소형 구축함</VFEM_ShipLandFrigate.letterLabel>
-  <VFEM_ShipLandFrigate.letterText>{0} sent a new ship to land on the planet.\n\nA small ship often used for ground recon operations. It has minimal defenses. 파괴되면 행성 표면의 메카노이드 개체 수가 적어집니다.\n\n만약 기동하게 두면 메카노이드 공격의 규모가 커질 것입니다.</VFEM_ShipLandFrigate.letterText>
-  <VFEM_ShipLandDestroyer.label>구축함 착륙</VFEM_ShipLandDestroyer.label>
-  <VFEM_ShipLandDestroyer.letterLabel>함선 착륙: 구축함</VFEM_ShipLandDestroyer.letterLabel>
-  <VFEM_ShipLandDestroyer.letterText>{0} sent a new ship to land on the planet.\n\nDestroyer is a medium-sized ship usually serving as mechanoid hive defender. It has no short range defenses. 파괴되면 행성 표면의 메카노이드 개체 수가 적어집니다.\n\n만약 기동하게 두면 메카노이드 공격의 규모가 커질 것입니다.</VFEM_ShipLandDestroyer.letterText>
-  <VFEM_ShipLandCruiser.label>순양함 착륙</VFEM_ShipLandCruiser.label>
-  <VFEM_ShipLandCruiser.letterLabel>함선 착륙: 순양함</VFEM_ShipLandCruiser.letterLabel>
-  <VFEM_ShipLandCruiser.letterText>{0} sent a new ship to land on the planet.\n\nCruiser is a medium-sized ship usually serving as a bulk of a mechanoid hive fleet. Is has a number of short range defensive measures, but lacks long range weaponry. 파괴되면 행성 표면의 메카노이드 개체 수가 적어집니다.\n\n만약 기동하게 두면 메카노이드 공격의 규모가 커질 것입니다.</VFEM_ShipLandCruiser.letterText>
-  <VFEM_ShipLandTroopship.label>병력 수송함 착륙</VFEM_ShipLandTroopship.label>
-  <VFEM_ShipLandTroopship.letterLabel>함선 착륙: 병력 수송함</VFEM_ShipLandTroopship.letterLabel>
-  <VFEM_ShipLandTroopship.letterText>{0} sent a new ship to land on the planet.\n\nTroopship is a large mechanoid factory-ship, capable of producing large amounts of combat-ready mechanoids in very little time. 파괴되면 행성 표면의 메카노이드 개체 수가 적어집니다.\n\n만약 기동하게 두면 메카노이드 공격의 규모가 커질 것입니다.</VFEM_ShipLandTroopship.letterText>
-  <VFEM_ShipLandCarrier.label>함공모함 착륙</VFEM_ShipLandCarrier.label>
-  <VFEM_ShipLandCarrier.letterLabel>함선 착륙: 항공모함</VFEM_ShipLandCarrier.letterLabel>
-  <VFEM_ShipLandCarrier.letterText>{0}(이)가 행성에 착륙하기 위해 새 항공모함을 보냈습니다.\n\n항공모함은 메카노이드 군락에서 가장 큰 군함으로 방어력이 뛰어나며 전투 준비가 된 새로운 메카노이드를 생산할 수 있는 다양한 수단을 갖추고 있습니다. 파괴되면 행성 표면의 메카노이드 개체 수가 적어집니다.\n\n만약 기동하게 두면 메카노이드 공격의 규모가 커질 것입니다.</VFEM_ShipLandCarrier.letterText>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>questName->[abandoned] [factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>questName->[abandoned] [factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>questName->[asker_nameDef](와)과 [abandoned] [factory]</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>abandoned->버려진</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>abandoned->오래된</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>abandoned->해체된</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>abandoned->파괴된</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>factory->공장</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>factory->생산 시설</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>factory->자동화 공장</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>factory->제조 현장</VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby abandoned factory have been raiding their caravans. The factory site is controlled by [siteFaction_name]. It can be a great opportunity to obtain factory elements and mechanoid components.
+\n[asker_nameDef] is asking us to eliminate the threat, and cares not about the fate of the old machine pieces. [asker_label] says that [sitePart0_description].</VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.label>임무 만료: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_AbandonedFactory.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.label>임무 실패: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.text>After being discovered, the bandit camp has dispersed. [resolvedQuestName] 임무가 끝났습니다.</VFE_OpportunitySite_AbandonedFactory.root.nodes.13.node.nodes.0.text>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.customLetterLabel>보수 도착</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.customLetterLabel>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.customLetterText>당신은 도적 캠프를 격퇴했습니다!\n\n[asker_faction_name]에서 보상이 도착했습니다.</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.customLetterText>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</VFE_OpportunitySite_AbandonedFactory.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>questName->[abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>questName->[abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>questName->[asker_nameDef](와)과 [abandoned] [broadcasting] [station]</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>abandoned->버려진</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>abandoned->오래된</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>abandoned->해체된</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>abandoned->파괴된</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>broadcasting->방송</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>broadcasting->레이더</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>broadcasting->추정</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>broadcasting->슈퍼 컴퓨터</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>station->중계소</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.11>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>station->시설</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.12>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>station->안테나</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.13>
+  <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>station->전초기지</VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings.14>
+  <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. According to them, [siteFaction_pawnsPlural] have been using the nearby broadcasting station as a base of operations. The site is controlled by [siteFaction_name]. It is guaranteed to contain some still functioning supercomputer units.
+\n[asker_nameDef] is asking us to take care of the enemies, and cares not about the fate of the old electronical apparatus. [asker_label] says that [sitePart0_description].</VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.label>임무 만료: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.text>The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_BroadcastingStation.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.label>임무 실패: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.text>After being discovered, the bandit camp has dispersed. [resolvedQuestName] 임무가 끝났습니다.</VFE_OpportunitySite_BroadcastingStation.root.nodes.13.node.nodes.0.text>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.customLetterLabel>보수 도착</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.customLetterLabel>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.customLetterText>당신은 도적 캠프를 격퇴했습니다!\n\n[asker_faction_name]에서 보상이 도착했습니다.</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.customLetterText>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+  <VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service.</VFE_OpportunitySite_BroadcastingStation.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.0>questName->[asker_faction_name]의 사람들 구조</VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.1>questName->[asker_faction_name]에 대한 메카노이드 포위 공격</VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.2>questName->[asker_faction_name] 공성전</VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.3>questName->[asker_faction_name] 공격받음</VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings.0>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] outpost is under attack by mechanoids.
+\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it to the outpost in time, the men you save can choose to join you.\n\nYou can expect the defenders to be heavily outnumbered and wounded.</VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.label>임무 만료: [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.text> The outpost has fallen to the mechanoid attack force. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.label>메카노이드를 물리쳤습니다.</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.text>그 지역의 모든 메카노이드가 파괴되었습니다.</VFE_OpportunitySite_MechanoidAttackParty.root.nodes.14.node.nodes.0.text>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>questName(priority=1)->[asker_nameDef]의 메카노이드 [landing](와)과 관련된 [intel]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>questName->메카노이드 [landing]</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>intel->군사 정보</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>intel->단서</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>intel->조언</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>intel->정보</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>landing->착륙 지역</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>landing->착륙장</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>landing->함선 착륙 임박</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>landing->착륙지</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>landing->함선 접근</VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->We've obtained encrypted information about an incoming mechanoid ship, planning to touch down not far from [map_definite]. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid ship intending to land not too far from our area. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.label>착륙 신호기가 파괴되었습니다</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.text>모든 착륙 신호기가 파괴되었습니다.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.12.node.nodes.0.text>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label>임무 만료 (신호기 1을 파괴하는 데 실패했습니다): [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text>The mechanoid ship has landed. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.14.node.nodes.1.text>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label>임무 만료 (신호기 2를 파괴하는 데 실패했습니다): [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.label>
+  <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text>The mechanoid ship has landed. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.15.node.nodes.1.text>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.0>questName(priority=1)->[asker_nameDef]의 메카노이드 [storage]에 대한 [intel]</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.1>questName->메카노이드 [storage]</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.2>intel->군사 정보</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.2>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.3>intel->단서</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.3>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.4>intel->조언</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.4>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.5>intel->정보</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.5>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.6>storage->저장 구역</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.6>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.7>storage->재활용 구역</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.7>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.8>storage->보급 좌표</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.8>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.9>storage->보물</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.9>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.10>storage->보급품</VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings.10>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.0>questDescription(askerIsNull==true)->We've intercepted encrypted communication about a large amount of raw resources worth [itemStashContentsValue] ready for collection not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.0>
+  <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.1>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid resources [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] informs us that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings.1>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.label>임무 만료: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.label>
+  <VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.text>Intercepted communications indicate the item stash has been uplifted to orbit. The quest [resolvedQuestName] has expired.</VFE_OpportunitySite_MechanoidStoragePickup.root.nodes.12.node.nodes.0.text>
 </LanguageData>
