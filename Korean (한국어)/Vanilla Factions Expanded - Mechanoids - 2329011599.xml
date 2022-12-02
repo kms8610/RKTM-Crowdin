@@ -1,104 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.0>r_name->[fmechpart] [smechpart] [mechhive] [natoalphabet]</VFE_NamerFactionMechanoid.rulePack.rulesStrings.0>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.1>mechhive->메카무리</VFE_NamerFactionMechanoid.rulePack.rulesStrings.1>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.2>fmechpart->우주</VFE_NamerFactionMechanoid.rulePack.rulesStrings.2>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.3>fmechpart->고출력</VFE_NamerFactionMechanoid.rulePack.rulesStrings.3>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.4>fmechpart->반응</VFE_NamerFactionMechanoid.rulePack.rulesStrings.4>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.5>fmechpart->자동제어</VFE_NamerFactionMechanoid.rulePack.rulesStrings.5>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.6>fmechpart->자주적</VFE_NamerFactionMechanoid.rulePack.rulesStrings.6>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.7>fmechpart->인공두뇌</VFE_NamerFactionMechanoid.rulePack.rulesStrings.7>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.8>fmechpart->자율규제</VFE_NamerFactionMechanoid.rulePack.rulesStrings.8>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.9>fmechpart->태양광</VFE_NamerFactionMechanoid.rulePack.rulesStrings.9>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.10>fmechpart->디지털</VFE_NamerFactionMechanoid.rulePack.rulesStrings.10>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.11>fmechpart->신인류</VFE_NamerFactionMechanoid.rulePack.rulesStrings.11>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.12>fmechpart->고전력</VFE_NamerFactionMechanoid.rulePack.rulesStrings.12>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.13>fmechpart->자동화</VFE_NamerFactionMechanoid.rulePack.rulesStrings.13>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.14>fmechpart->통합</VFE_NamerFactionMechanoid.rulePack.rulesStrings.14>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.15>fmechpart->소형</VFE_NamerFactionMechanoid.rulePack.rulesStrings.15>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.16>fmechpart->궁극</VFE_NamerFactionMechanoid.rulePack.rulesStrings.16>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.17>fmechpart->슈퍼</VFE_NamerFactionMechanoid.rulePack.rulesStrings.17>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.18>fmechpart->전략</VFE_NamerFactionMechanoid.rulePack.rulesStrings.18>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.19>fmechpart->통합</VFE_NamerFactionMechanoid.rulePack.rulesStrings.19>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.20>fmechpart->독립적인</VFE_NamerFactionMechanoid.rulePack.rulesStrings.20>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.21>fmechpart->임시</VFE_NamerFactionMechanoid.rulePack.rulesStrings.21>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.22>fmechpart->긴급</VFE_NamerFactionMechanoid.rulePack.rulesStrings.22>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.23>fmechpart->기계</VFE_NamerFactionMechanoid.rulePack.rulesStrings.23>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.24>fmechpart->프로그램</VFE_NamerFactionMechanoid.rulePack.rulesStrings.24>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.25>fmechpart->전략</VFE_NamerFactionMechanoid.rulePack.rulesStrings.25>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.26>fmechpart->핵</VFE_NamerFactionMechanoid.rulePack.rulesStrings.26>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.27>smechpart->작업</VFE_NamerFactionMechanoid.rulePack.rulesStrings.27>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.28>smechpart->무효화</VFE_NamerFactionMechanoid.rulePack.rulesStrings.28>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.29>smechpart->환경조성</VFE_NamerFactionMechanoid.rulePack.rulesStrings.29>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.30>smechpart->침략</VFE_NamerFactionMechanoid.rulePack.rulesStrings.30>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.31>smechpart->안전</VFE_NamerFactionMechanoid.rulePack.rulesStrings.31>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.32>smechpart->탐색</VFE_NamerFactionMechanoid.rulePack.rulesStrings.32>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.33>smechpart->종료</VFE_NamerFactionMechanoid.rulePack.rulesStrings.33>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.34>smechpart->수확</VFE_NamerFactionMechanoid.rulePack.rulesStrings.34>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.35>smechpart->응답</VFE_NamerFactionMechanoid.rulePack.rulesStrings.35>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.36>smechpart->처리</VFE_NamerFactionMechanoid.rulePack.rulesStrings.36>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.37>smechpart->전쟁관리</VFE_NamerFactionMechanoid.rulePack.rulesStrings.37>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.38>smechpart->폭동진압</VFE_NamerFactionMechanoid.rulePack.rulesStrings.38>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.39>smechpart->수명설계</VFE_NamerFactionMechanoid.rulePack.rulesStrings.39>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.40>smechpart->알고리즘</VFE_NamerFactionMechanoid.rulePack.rulesStrings.40>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.41>smechpart->관리자</VFE_NamerFactionMechanoid.rulePack.rulesStrings.41>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.42>smechpart->전쟁</VFE_NamerFactionMechanoid.rulePack.rulesStrings.42>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.43>smechpart->수집</VFE_NamerFactionMechanoid.rulePack.rulesStrings.43>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.44>smechpart->집행</VFE_NamerFactionMechanoid.rulePack.rulesStrings.44>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.45>natoalphabet->알파</VFE_NamerFactionMechanoid.rulePack.rulesStrings.45>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.46>natoalphabet->브라보</VFE_NamerFactionMechanoid.rulePack.rulesStrings.46>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.47>natoalphabet->찰리</VFE_NamerFactionMechanoid.rulePack.rulesStrings.47>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.48>natoalphabet->델타</VFE_NamerFactionMechanoid.rulePack.rulesStrings.48>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.49>natoalphabet->에코</VFE_NamerFactionMechanoid.rulePack.rulesStrings.49>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.50>natoalphabet->폭스트롯</VFE_NamerFactionMechanoid.rulePack.rulesStrings.50>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.51>natoalphabet->골프</VFE_NamerFactionMechanoid.rulePack.rulesStrings.51>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.52>natoalphabet->호텔</VFE_NamerFactionMechanoid.rulePack.rulesStrings.52>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.53>natoalphabet->인디아</VFE_NamerFactionMechanoid.rulePack.rulesStrings.53>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.54>natoalphabet->줄리엣</VFE_NamerFactionMechanoid.rulePack.rulesStrings.54>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.55>natoalphabet->킬로</VFE_NamerFactionMechanoid.rulePack.rulesStrings.55>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.56>natoalphabet->리마</VFE_NamerFactionMechanoid.rulePack.rulesStrings.56>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.57>natoalphabet->마이크</VFE_NamerFactionMechanoid.rulePack.rulesStrings.57>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.58>natoalphabet->노벰버</VFE_NamerFactionMechanoid.rulePack.rulesStrings.58>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.59>natoalphabet->오스카</VFE_NamerFactionMechanoid.rulePack.rulesStrings.59>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.60>natoalphabet->파파</VFE_NamerFactionMechanoid.rulePack.rulesStrings.60>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.61>natoalphabet->쿼벡</VFE_NamerFactionMechanoid.rulePack.rulesStrings.61>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.62>natoalphabet->로미오</VFE_NamerFactionMechanoid.rulePack.rulesStrings.62>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.63>natoalphabet->시에라</VFE_NamerFactionMechanoid.rulePack.rulesStrings.63>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.64>natoalphabet->탱고</VFE_NamerFactionMechanoid.rulePack.rulesStrings.64>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.65>natoalphabet->유니폼</VFE_NamerFactionMechanoid.rulePack.rulesStrings.65>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.66>natoalphabet->빅터</VFE_NamerFactionMechanoid.rulePack.rulesStrings.66>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.67>natoalphabet->위스키</VFE_NamerFactionMechanoid.rulePack.rulesStrings.67>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.68>natoalphabet->엑스레이</VFE_NamerFactionMechanoid.rulePack.rulesStrings.68>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.69>natoalphabet->양키</VFE_NamerFactionMechanoid.rulePack.rulesStrings.69>
-  <VFE_NamerFactionMechanoid.rulePack.rulesStrings.70>natoalphabet->줄루</VFE_NamerFactionMechanoid.rulePack.rulesStrings.70>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.0>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.1>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.2>shiptype->소형 구축함</VFE_NamerShipFrigate.rulePack.rulesStrings.2>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipFrigate.rulePack.rulesStrings.3>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.4>
-  <VFE_NamerShipFrigate.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipFrigate.rulePack.rulesStrings.5>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.0>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.1>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.2>shiptype->구축함</VFE_NamerShipDestroyer.rulePack.rulesStrings.2>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipDestroyer.rulePack.rulesStrings.3>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.4>
-  <VFE_NamerShipDestroyer.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipDestroyer.rulePack.rulesStrings.5>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.0>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.1>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.2>shiptype->순양함</VFE_NamerShipCruiser.rulePack.rulesStrings.2>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipCruiser.rulePack.rulesStrings.3>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.4>
-  <VFE_NamerShipCruiser.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipCruiser.rulePack.rulesStrings.5>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.0>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.1>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.2>shiptype->병력 수송함</VFE_NamerShipTroopship.rulePack.rulesStrings.2>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipTroopship.rulePack.rulesStrings.3>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.4>
-  <VFE_NamerShipTroopship.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipTroopship.rulePack.rulesStrings.5>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.0>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.0>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.1>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.1>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.2>shiptype->항공모함</VFE_NamerShipCarrier.rulePack.rulesStrings.2>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.3>maybe_letter(p=3)-></VFE_NamerShipCarrier.rulePack.rulesStrings.3>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.4>maybe_letter->[Letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.4>
-  <VFE_NamerShipCarrier.rulePack.rulesStrings.5>maybe_letter->[Letter][Letter]</VFE_NamerShipCarrier.rulePack.rulesStrings.5>
+  <VFE_FactoryBasics.label>공장 기초</VFE_FactoryBasics.label>
+  <VFE_FactoryBasics.description>공장 활용에 대한 기본적인 이해를 배우고 중장비 지원이 가능한 공장 호퍼 및 건설 가능 지형을 잠금 해제합니다.</VFE_FactoryBasics.description>
+  <VFE_ElectronicsFabricationFactory.label>전자 제조 공장</VFE_ElectronicsFabricationFactory.label>
+  <VFE_ElectronicsFabricationFactory.description>암석 덩어리에서 소량의 강철을 추출해서 사용하여 자동으로 단순한 기계 부품과 첨단 전자 부품으로 조립할 수 있는 기능을 가진 기계를 연구합니다.</VFE_ElectronicsFabricationFactory.description>
+  <VFE_MasonryandMetallicsFactory.label>석조 및 금속 공장</VFE_MasonryandMetallicsFactory.label>
+  <VFE_MasonryandMetallicsFactory.description>행성 표면의 암석 덩어리를 자동으로 채굴할 수 있는 기계를 연구하여, 벽돌을 가공하고, 플라스틸과 구별할 수 없는 고급 재료로 더욱 정교하게 제작할 수 있습니다.</VFE_MasonryandMetallicsFactory.description>
+  <VFE_MunitionsandArmamentsFactory.label>군수품 및 무기 공장</VFE_MunitionsandArmamentsFactory.label>
+  <VFE_MunitionsandArmamentsFactory.description>유기 물질을 화학 연료로 자동으로 정제하는 기계들을 연구하고, 그것을 무기나 대규모 박격포탄으로 제작하게 합니다.</VFE_MunitionsandArmamentsFactory.description>
+  <VFE_WearablesandTextilesFactory.label>의류 및 섬유 공장</VFE_WearablesandTextilesFactory.label>
+  <VFE_WearablesandTextilesFactory.description>Research a series of machines that grant the ability to automatically recycle old apparel into salvaged scrap as well as assemble new apparel from the aforementioned scraps. Additionally unlocks a machine capable of molecularly reconfiguring apparel to mimic the properties of synthread.</VFE_WearablesandTextilesFactory.description>
+  <VFE_ProvisionsPackagingFactory.label>포장 공장</VFE_ProvisionsPackagingFactory.label>
+  <VFE_ProvisionsPackagingFactory.description>자동으로 동물 고기를 다듬어 효율적으로 수확하고 요리하여, 다양한 생존 식사와 사료 및 통조림으로 포장할 수 있는 기계들을 연구합니다.</VFE_ProvisionsPackagingFactory.description>
+  <VFE_MedicinalCompoundingFactory.label>의약품 복합 공장</VFE_MedicinalCompoundingFactory.label>
+  <VFE_MedicinalCompoundingFactory.description>뉴트로아민과 매우 유사한 두꺼운 글리세롤을 자동으로 정제할 수 있는 기계들을 연구합니다.\n또한 다양한 약이나 불법 약물로 정제하는 것을 해금합니다.</VFE_MedicinalCompoundingFactory.description>
+  <VFE_BasicDroneAssembly.label>기본 드론 조립</VFE_BasicDroneAssembly.label>
+  <VFE_BasicDroneAssembly.description>운반, 채굴 및 청소가 가능한 기본적인 자동 충전식 드론을 조립할 수 있는 기계를 연구합니다.</VFE_BasicDroneAssembly.description>
+  <VFE_AutomatedDefensiveMeasures.label>자동화 방어 수단</VFE_AutomatedDefensiveMeasures.label>
+  <VFE_AutomatedDefensiveMeasures.description>이동식 포탑, 박격포, 폭동 진압 및 기타 방어적 대응 등 다양한 목적으로 자동화된 드론을 무기화할 수 있는 능력을 연구합니다.</VFE_AutomatedDefensiveMeasures.description>
+  <VFE_MechanoidStructures.label>mechanoid structures</VFE_MechanoidStructures.label>
+  <VFE_MechanoidStructures.description>Research the ability to utilize mechanoid tech for different kind of structures, at a high cost.</VFE_MechanoidStructures.description>
+  <VFE_AdvancedDroneAssembly.label>advanced drone assembly</VFE_AdvancedDroneAssembly.label>
+  <VFE_AdvancedDroneAssembly.description>Research more advanced drones, capable of analyzing and processing complex information.</VFE_AdvancedDroneAssembly.description>
+  <VFE_IndustrialRoasting.label>산업용 로스팅</VFE_IndustrialRoasting.label>
+  <VFE_IndustrialRoasting.description>Research an industrial-sized oven that deeply roasts coffee beans before dispensing them to a quern that grinds them into grounds. Boiling water is then forced and filtered through the grounds into a mass amount of coffee. Nearby hoppers can also hold other products for processing a number of coffee-related drinks.</VFE_IndustrialRoasting.description>
+  <VFE_CheeseMaking.label>산업용 치즈 제조법</VFE_CheeseMaking.label>
+  <VFE_CheeseMaking.description>Research a tank capable of rapidly heating milk until curds begin to form, then automatically straining and pressing them into multiple wheels of cheese at once. Nearby hoppers can hold enough milk to make several wheels and finished wheels will automatically be dispensed.</VFE_CheeseMaking.description>
+  <VFE_IndustrialSoups.label>산업용 수프</VFE_IndustrialSoups.label>
+  <VFE_IndustrialSoups.description>Research a very large vat with a series of mounted, spinning blades towards the top. Attached hoppers can be filled with a variety of raw food products. Thereafter they are vacuumed through the top, sliced and simmered deeply into a variety of soups. Finished soups will be dispensed to an opposing hopper without the need of processing steps. Input and output both are done en masse and require much less management than traditional slow cooking.</VFE_IndustrialSoups.description>
+  <VFE_IndustrialBeekeeping.label>industrial beekeeping</VFE_IndustrialBeekeeping.label>
+  <VFE_IndustrialBeekeeping.description>Research a robot-handled artificial apiary that will allow beekeepers to extract honey from bees much faster than usual.</VFE_IndustrialBeekeeping.description>
+  <VFE_Aquaponics.label>아쿠아포닉스</VFE_Aquaponics.label>
+  <VFE_Aquaponics.description>Research a deep water filled basin capable of processing vegetable matter into an algae-like paste for continuous feeding of fish living within. Fish within live in optimal water conditions and temperature and therefore breed quite quickly. Matured fish will occasionally be deposited to a nearby output hopper.</VFE_Aquaponics.description>
 </LanguageData>
