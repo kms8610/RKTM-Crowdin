@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEM_Disassemble.reportString>TargetA 분해 중.</VFEM_Disassemble.reportString>
-  <VFEM_RefuelSilo.reportString>TargetA 연료 채우는 중.</VFEM_RefuelSilo.reportString>
-  <VFEM_EnterIndoctrinationPod.reportString>entering indoctrination pod.</VFEM_EnterIndoctrinationPod.reportString>
+  <VFE_RidableMechanoidFullyFormed.label>완전체</VFE_RidableMechanoidFullyFormed.label>
 </LanguageData>
