@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_Mechanoid.label>메카노이드 무리</VFE_Mechanoid.label>
-  <VFE_Mechanoid.description>A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. 중심계 중 한 곳의 인간 사령관이 원격으로 제어하는 이 메카노이드 무리의 중앙부에는 더 큰 대의를 위해 수많은 메카노이드가 지속적으로 제작되고 해체되는 은신처가 있습니다.\n\n그들은 인권에 관심이 없고 이 변경계의 거주자들을 환경 조성 계획을 계속하기 위해 제거해야 하는 유인원 이외의 것으로 인식합니다.\n\n이 메카노이드 무리와는 동맹을 맺을 수 없습니다.</VFE_Mechanoid.description>
-  <VFE_Mechanoid.pawnSingular>메카노이드</VFE_Mechanoid.pawnSingular>
-  <VFE_Mechanoid.pawnsPlural>메카노이드들</VFE_Mechanoid.pawnsPlural>
+  <VFE_ClimateAdjuster.label>기후 조절 장치</VFE_ClimateAdjuster.label>
+  <VFE_ClimateAdjuster.letterText>기후 조절 장치</VFE_ClimateAdjuster.letterText>
+  <VFE_ClimateAdjuster.description>기후 조절 장치</VFE_ClimateAdjuster.description>
+  <VFE_ClimateAdjuster.descriptionFuture>공기를 차갑게 냉각시켜[gameConditionDuration_duration] 동안 [map_definite] 주변 지역의 온도를 떨어뜨려, 적절한 보호가 없는 작물과 사람, 동물에게 피해를 줍니다.</VFE_ClimateAdjuster.descriptionFuture>
+  <VFE_ClimateAdjuster.endMessage>갑작스런 한파가 끝났습니다.</VFE_ClimateAdjuster.endMessage>
+  <VFE_EMIDynamo.label>EMI 교란기</VFE_EMIDynamo.label>
+  <VFE_EMIDynamo.letterText>EMI 교란기</VFE_EMIDynamo.letterText>
+  <VFE_EMIDynamo.description>EMI 교란기</VFE_EMIDynamo.description>
+  <VFE_EMIDynamo.descriptionFuture>EMI 교란기</VFE_EMIDynamo.descriptionFuture>
+  <VFE_EMIDynamo.endMessage>EMI 교란기</VFE_EMIDynamo.endMessage>
 </LanguageData>
