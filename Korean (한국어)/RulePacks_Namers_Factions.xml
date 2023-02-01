@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerFactionRefugee.rulePack.rulesStrings>
+    <li>r_name->[adj] [group]</li>
+    <li>group->생존자들</li>
+    <li>group->망명자들</li>
+    <li>group->도망자들</li>
+    <li>group->조난자들</li>
+    <li>group->떠돌이들</li>
+    <li>group->유목민들</li>
+    <li>group->방랑자들</li>
+    <li>group->떠돌이들</li>
+    <li>group->유목민</li>
+    <li>adj->지친</li>
+    <li>adj->진이 빠진</li>
+    <li>adj->피곤한</li>
+    <li>adj->기진맥진한</li>
+    <li>adj->추방된</li>
+    <li>adj->회복하는</li>
+    <li>adj->강인한</li>
+    <li>adj->끈질긴</li>
+    <li>adj->결연한</li>
+  </NamerFactionRefugee.rulePack.rulesStrings>
+</LanguageData>
