@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Spacedrone.label>spacedrone</Spacedrone.label>
-  <Spacedrone.description>An ancient ultratech spacedrone.</Spacedrone.description>
+  <PsychicDroner.label>정신 조종장치</PsychicDroner.label>
+  <PsychicDroner.description>정신 조작기가 정착지의 {0}들을 미치게 합니다.</PsychicDroner.description>
+  <PsychicDroner.letterText>정신 조작기가 정착지에 영향을 미치기 시작했습니다.</PsychicDroner.letterText>
 </LanguageData>
