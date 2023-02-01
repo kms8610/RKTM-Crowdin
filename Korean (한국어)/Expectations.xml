@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ExpectationsSlave.stages.destitute_slave_expectations.label>destitute slave expectations</ExpectationsSlave.stages.destitute_slave_expectations.label>
-  <ExpectationsSlave.stages.destitute_slave_expectations.description>I'm a slave of a destitute group. I expect nothing.</ExpectationsSlave.stages.destitute_slave_expectations.description>
-  <ExpectationsSlave.stages.poor_slave_expectations.label>poor slave expectations</ExpectationsSlave.stages.poor_slave_expectations.label>
-  <ExpectationsSlave.stages.poor_slave_expectations.description>I'm a slave of a poor group. I expect very little.</ExpectationsSlave.stages.poor_slave_expectations.description>
-  <ExpectationsSlave.stages.meager_slave_expectations.label>meager slave expectations</ExpectationsSlave.stages.meager_slave_expectations.label>
-  <ExpectationsSlave.stages.meager_slave_expectations.description>I'm a slave of a group with meager holdings. I expect little.</ExpectationsSlave.stages.meager_slave_expectations.description>
-  <ExpectationsSlave.stages.slave_expectations.label>slave expectations</ExpectationsSlave.stages.slave_expectations.label>
-  <ExpectationsSlave.stages.slave_expectations.description>I'm a slave. I don't expect much.</ExpectationsSlave.stages.slave_expectations.description>
+  <Expectations.stages.skyhigh_expectations.label>지나친 기대감</Expectations.stages.skyhigh_expectations.label>
+  <Expectations.stages.skyhigh_expectations.description>나는 사치를 누릴 자격이 있어.</Expectations.stages.skyhigh_expectations.description>
+  <Expectations.stages.high_expectations.label>높은 기대감</Expectations.stages.high_expectations.label>
+  <Expectations.stages.high_expectations.description>이곳에선 절약할 필요가 없어.</Expectations.stages.high_expectations.description>
+  <Expectations.stages.moderate_expectations.label>평범한 기대감</Expectations.stages.moderate_expectations.label>
+  <Expectations.stages.moderate_expectations.description>여유를 부리기에는 조금 부족해.</Expectations.stages.moderate_expectations.description>
+  <Expectations.stages.low_expectations.label>낮은 기대감</Expectations.stages.low_expectations.label>
+  <Expectations.stages.low_expectations.description>아직 많은 걸 바랄 수는 없겠지.</Expectations.stages.low_expectations.description>
+  <Expectations.stages.very_low_expectations.label>약간의 기대감</Expectations.stages.very_low_expectations.label>
+  <Expectations.stages.very_low_expectations.description>살아남으려면 더욱 강해져야 해.</Expectations.stages.very_low_expectations.description>
+  <Expectations.stages.extremely_low_expectations.label>기대감 없음</Expectations.stages.extremely_low_expectations.label>
+  <Expectations.stages.extremely_low_expectations.description>살아남기 위해서라면 뭐든지 할 거야.</Expectations.stages.extremely_low_expectations.description>
+  <Expectations.stages.noble_expectations.label>귀족의 기대감</Expectations.stages.noble_expectations.label>
+  <Expectations.stages.noble_expectations.description>나는 서민들 위에서 행복을 누릴 자격이 있어.</Expectations.stages.noble_expectations.description>
+  <Expectations.stages.royal_expectations.label>왕족의 기대감</Expectations.stages.royal_expectations.label>
+  <Expectations.stages.royal_expectations.description>군주님 맙소사!  이런 구석에 계속 머물러야 하는 현실이 믿어지지 않아.</Expectations.stages.royal_expectations.description>
+  <Expectations.stages.elite_expectations.label>상류층의 기대감</Expectations.stages.elite_expectations.label>
+  <Expectations.stages.elite_expectations.description>나는 정말 중요한 위치에 있고 대우 받을 자격이 있어.</Expectations.stages.elite_expectations.description>
+  <Expectations.stages.supreme_expectations.label>권력자의 기대감</Expectations.stages.supreme_expectations.label>
+  <Expectations.stages.supreme_expectations.description>이곳의 중심은 나야. 내게 도전할 사람은 아무도 없어.</Expectations.stages.supreme_expectations.description>
 </LanguageData>
