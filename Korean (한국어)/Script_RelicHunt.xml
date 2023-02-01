@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <RelicHunt.questDescriptionRules.rulesStrings>
+    <li>questDescription(classicMode==True)->You've learned that a valuable relic is nearby.\n\nThe [relic_name] is one of [relicGlobalCount] ancient objects venerated by many people. If you could collect it, you could build a reliquary to make your colonists happy and attract wealthy pilgrims.</li>
+    <li>questDescription(classicMode==False)->You've learned that a relic of [ideo_name] is nearby.\n\nThe [relic_name] is an ancient object venerated by all [ideo_memberNamePlural]. If you could collect it, you could build a great reliquary to make [ideo_memberNamePlural] happy, attract wealthy pilgrims, and bring more people to [ideo_name].</li>
+    <li>questDescriptionPartBeforeDiscovery->우선 [relic_name](을)를 찾아야 합니다. 관련 정보를 수집할 기회를 주시하세요.</li>
+  </RelicHunt.questDescriptionRules.rulesStrings>
+  <RelicHunt.questNameRules.rulesStrings>
+    <li>questName->[item]의 [hunt]</li>
+    <li>questName->The [itemAdj] [item]</li>
+    <li>questName(classicMode==False)->The [item] of [ideo_name]</li>
+    <li>hunt->추적</li>
+    <li>hunt->탐색</li>
+    <li>hunt->발자취를 따라</li>
+    <li>item(p=4)->[relic_name]</li>
+    <li>item->성물</li>
+    <li>item->유물</li>
+    <li>itemAdj->고대의</li>
+    <li>itemAdj->추앙받는</li>
+    <li>itemAdj->숭배받는</li>
+  </RelicHunt.questNameRules.rulesStrings>
+</LanguageData>
