@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BecameLover.label>연인이 됨</BecameLover.label>
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->[PURSUER_nameDef]과 [ACCEPTER_nameDef]는 연인이 됨</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull]는 [ACCEPTER_nameFull]의 귀에 달콤한 말들을 속삭임</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull]는 [ACCEPTER_nameFull]의 손을 침대로 유도함</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull]는 [ACCEPTER_nameFull]가 있는 침대에서 뛰어다님</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull]는 [ACCEPTER_nameFull]에게 딥키스를 함</li>
+    <li>circumstance_phrase->비현실적으로 큰 침대에서</li>
+    <li>circumstance_phrase->잠자리에서</li>
+    <li>circumstance_phrase->옷이 거의 보이지 않으며</li>
+    <li>circumstance_phrase->둘 다 땀에 흠뻑 젖는 동안</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]에게 바짝 붙어있습니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]와 눈을 마주하고 있습니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]에게 숨을 불어넣고 있습니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]와 말 그대로 결합되어 있습니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]와 거의 거울과 같이 행동합니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]는 [ACCEPTER_nameDef]를 정력적으로 건드리고 있습니다.</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <BondedWithAnimal.label>각별한 관계</BondedWithAnimal.label>
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[HUMAN_nameDef]의 [ANIMAL_nameDef]과의 각별함</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull]는 [ANIMAL_nameFull]와 각별함</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull]는 [ANIMAL_nameFull]과 깊은 유대감을 형성함</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull]는 [HUMAN_possessive] 진실된 사랑은 [ANIMAL_nameFull]이라는 것을 깨달음</li>
+    <li>circumstance_phrase->다른 동물들이 지켜보는 가운데</li>
+    <li>circumstance_phrase->[ANIMAL_nameDef]의 눈을 바라보며</li>
+    <li>circumstance_phrase->만족감을 가지고</li>
+    <li>desc_sentence->[ANIMAL_nameDef]가 [HUMAN_nameDef] 곁에 바짝 붙어있습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 사랑에 취해서 졸린 것 같습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]가 우뚝 서있는 것이 고상하게 보입니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 긍정적인 반응을 보이고 있습니다.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <Breakup.label>이별</Breakup.label>
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->[DUMPER_nameDef]와 [REJECTED_nameDef]의 결별</li>
+    <li>image->[circumstance_group] [DUMPER_nameFull]와 [REJECTED_nameFull]는 앉아서 불쾌한 대화를 나누고 있음</li>
+    <li>image->[circumstance_group] [DUMPER_nameFull]는 [REJECTED_nameFull]와 멀리 떨어진 곳에 서있음</li>
+    <li>image->[circumstance_group] [DUMPER_nameFull]는 [REJECTED_nameFull]를 침대에서 밀어냄</li>
+    <li>image->[circumstance_group] [DUMPER_nameFull]는 [REJECTED_nameFull]의 포옹을 거부함</li>
+    <li>circumstance_phrase->매우 슬픈 순간에</li>
+    <li>circumstance_phrase->남들이 멋쩍게 눈을 돌리자</li>
+    <li>circumstance_phrase->남들이 보기에</li>
+    <li>desc_sentence->[REJECTED_nameDef]는 걷잡을 수 없이 흐느껴 울고 있습니다.</li>
+    <li>desc_sentence->[REJECTED_nameDef]는 조소하며 울고 있습니다.</li>
+    <li>desc_sentence->[REJECTED_nameDef]는 충격으로 얼굴이 돌처럼 굳어있습니다.</li>
+    <li>desc_sentence->[DUMPER_nameDef]는 말 그대로 [REJECTED_nameDef]와 떨어져있습니다.</li>
+    <li>desc_sentence->[REJECTED_nameDef]는 경련하며 바닥에 쓰러졌습니다.</li>
+    <li>desc_sentence->[REJECTED_nameDef]는 화가나서 [DUMPER_nameDef]를 손가락질 합니다.</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <Marriage.label>결혼</Marriage.label>
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->[SPOUSE1_nameDef]와 [SPOUSE2_nameDef]는 결혼함</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull]는 [SPOUSE2_nameFull]와 결혼함</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull]는 [SPOUSE2_nameFull]에게 [SPOUSE1_possessive] 결혼 서약을 말함</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull]는 [SPOUSE2_nameFull]와 함께 통로를 걸어내려감</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull]는 결혼식에서 [SPOUSE2_nameFull]와 손을 맞잡음</li>
+    <li>circumstance_phrase->의젓하게</li>
+    <li>circumstance_phrase->둘 모두 화사하게 웃으며</li>
+    <li>circumstance_phrase->다른 이들이 엄숙하게 지켜보는 가운데</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]에게 바짝 붙어있습니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]와 눈을 마주합니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]에게 숨을 불어넣습니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]와 말 그대로 붙어있습니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]와 거의 거울과 같이 행동합니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]는 [SPOUSE2_nameDef]를 정력적으로 건드리고 있습니다.</li>
+  </Marriage.rulePack.rulesStrings>
+</LanguageData>
