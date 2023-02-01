@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Alpaca.label>알파카</Alpaca.label>
+  
+  <Capybara.label>카피바라</Capybara.label>
+  
+  <Megasloth.label>거대늘보</Megasloth.label>
+  
+  <Sheep.label>양</Sheep.label>
+  <Sheep.labelFemale>양</Sheep.labelFemale>
+  <Sheep.labelMale>ram</Sheep.labelMale>
+  <Sheep.labelPlural>양</Sheep.labelPlural>
+  <Sheep.lifeStages.lamb.label>새끼 양</Sheep.lifeStages.lamb.label>
+  <Sheep.lifeStages.lamb.labelPlural>새끼 양들</Sheep.lifeStages.lamb.labelPlural>
+</LanguageData>
