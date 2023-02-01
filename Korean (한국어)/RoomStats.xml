@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beauty.label>환경</Beauty.label>
+  <Beauty.scoreStages.hideous.label>1등급 (최고 8등급)</Beauty.scoreStages.hideous.label>
+  <Beauty.scoreStages.ugly.label>못생김</Beauty.scoreStages.ugly.label>
+  <Beauty.scoreStages.neutral.label>중립</Beauty.scoreStages.neutral.label>
+  <Beauty.scoreStages.pretty.label>잘생김</Beauty.scoreStages.pretty.label>
+  <Beauty.scoreStages.beautiful.label>아름다운</Beauty.scoreStages.beautiful.label>
+  <Beauty.scoreStages.very_beautiful.label>6등급 (최고 8등급)</Beauty.scoreStages.very_beautiful.label>
+  <Beauty.scoreStages.extremely_beautiful.label>7등급 (최고 8등급)</Beauty.scoreStages.extremely_beautiful.label>
+  <Beauty.scoreStages.unbelievably_beautiful.label>8등급 (최고 8등급)</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <Cleanliness.label>청결</Cleanliness.label>
+  <Cleanliness.scoreStages.very_dirty.label>매우 더러움</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.dirty.label>더러움</Cleanliness.scoreStages.dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>약간 더러움</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.clean.label>청소하기</Cleanliness.scoreStages.clean.label>
+  <Cleanliness.scoreStages.sterile.label>청결</Cleanliness.scoreStages.sterile.label>
+  
+  <FoodPoisonChance.label>식중독 확률</FoodPoisonChance.label>
+  
+  <GraveVisitingJoyGainFactor.label>무덤 방문 시 오락 수치</GraveVisitingJoyGainFactor.label>
+  
+  <Impressiveness.label>인상</Impressiveness.label>
+  <Impressiveness.scoreStages.awful.label>끔찍</Impressiveness.scoreStages.awful.label>
+  <Impressiveness.scoreStages.dull.label>2등급 (최고 10등급)</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.mediocre.label>3등급 (최고 9등급)</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.decent.label>4등급 (최고 10등급)</Impressiveness.scoreStages.decent.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>5등급 (최고 10등급)</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>6등급 (최고 10등급)</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.very_impressive.label>7등급 (최고 10등급)</Impressiveness.scoreStages.very_impressive.label>
+  <Impressiveness.scoreStages.extremely_impressive.label>8등급 (최고 10등급)</Impressiveness.scoreStages.extremely_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>9등급 (최고 10등급)</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>10등급 (최고 10등급)</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <InfectionChanceFactor.label>감염 확률</InfectionChanceFactor.label>
+  
+  <ResearchSpeedFactor.label>연구속도</ResearchSpeedFactor.label>
+  
+  <Space.label>크기</Space.label>
+  <Space.scoreStages.cramped.label>좁아터짐</Space.scoreStages.cramped.label>
+  <Space.scoreStages.rather_tight.label>빡빡함</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.averagesized.label>평범</Space.scoreStages.averagesized.label>
+  <Space.scoreStages.somewhat_spacious.label>약간 넓음</Space.scoreStages.somewhat_spacious.label>
+  <Space.scoreStages.quite_spacious.label>꽤나 넓음</Space.scoreStages.quite_spacious.label>
+  <Space.scoreStages.very_spacious.label>상당히 넓음</Space.scoreStages.very_spacious.label>
+  <Space.scoreStages.extremely_spacious.label>매우 넓음</Space.scoreStages.extremely_spacious.label>
+  
+  <SurgerySuccessChanceCleanlinessFactor.label>수술 성공 확률</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <Wealth.label>재산 변동</Wealth.label>
+  <Wealth.scoreStages.impoverished.label>1등급 (최고 9등급)</Wealth.scoreStages.impoverished.label>
+  <Wealth.scoreStages.somewhat_poor.label>2등급 (최고 9등급)</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.mediocre.label>3등급 (최고 9등급)</Wealth.scoreStages.mediocre.label>
+  <Wealth.scoreStages.somewhat_rich.label>4등급 (최고 9등급)</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.rich.label>도련님</Wealth.scoreStages.rich.label>
+  <Wealth.scoreStages.luxurious.label>6등급 (최고 9등급)</Wealth.scoreStages.luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>7등급 (최고 9등급)</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>8등급 (최고 9등급)</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>9등급 (최고 9등급)</Wealth.scoreStages.unbelievably_luxurious.label>
+</LanguageData>
