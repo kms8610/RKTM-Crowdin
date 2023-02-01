@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ranching_Central.label>central</Ranching_Central.label>
-  <Ranching_Central.description>We must raise and consume many large animals, and we must not eat plants.</Ranching_Central.description>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.0>No animals</Ranching_Central.comps.0.thoughtStageDescriptions.0>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.1>Scarce animals {STAGE1}</Ranching_Central.comps.0.thoughtStageDescriptions.1>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.2>Few animals {STAGE2}</Ranching_Central.comps.0.thoughtStageDescriptions.2>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.3>Some animals {STAGE4}</Ranching_Central.comps.0.thoughtStageDescriptions.3>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.4>Lots of animals {STAGE5}</Ranching_Central.comps.0.thoughtStageDescriptions.4>
-  <Ranching_Central.comps.0.thoughtStageDescriptions.5>Tons of animals</Ranching_Central.comps.0.thoughtStageDescriptions.5>
+  <Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>no animals</Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>We have no animals at all! It's everything I am against.</Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>scarce animals</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>We have far too few animals in our colony. We are not even close to living the right way.</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>few animals</Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>We have few animals in our colony. It's not right.</Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>some animals</Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>It's good to be raising animals here, though more would be even better.</Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>lots of animals</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>It's great we're raising lots of animals here, though a few more wouldn't hurt.</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>tons of animals</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>Our ranch is thriving. This is the right way to be.</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>
+  
+  <Ranching_SowedPlant.stages.sowed_human_food_plant.label>sowed human food plant</Ranching_SowedPlant.stages.sowed_human_food_plant.label>
+  <Ranching_SowedPlant.stages.sowed_human_food_plant.description>I sowed a human food plant. It was wrong - humans should eat animals, and animals should eat nature-made plants.</Ranching_SowedPlant.stages.sowed_human_food_plant.description>
 </LanguageData>
