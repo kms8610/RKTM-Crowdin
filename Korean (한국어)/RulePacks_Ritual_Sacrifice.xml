@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerRitualSacrifice.rulePack.rulesStrings>
+    <li>r_ritualName(p=2)->[memeAdjective] [sacrifice]</li>
+    <li>r_ritualName->[chosenTheme]의 [sacrifice]</li>
+    <li>r_ritualName->[chosenAdjective] [sacrifice]</li>
+    <li>r_ritualName->[keyDeity]의 [sacrifice]</li>
+    <li>r_ritualName->[keyDeity](을)를 위한 [sacrifice]</li>
+    <li>r_ritualName->[memeConcept]의 [sacrifice]</li>
+    <li>r_ritualName->[chosenIdeoName]의 [sacrifice]</li>
+    <li>sacrifice->희생</li>
+    <li>sacrifice->헌납</li>
+    <li>sacrifice->번제</li>
+    <li>sacrifice->봉헌</li>
+    <li>sacrifice->살육</li>
+  </NamerRitualSacrifice.rulePack.rulesStrings>
+</LanguageData>
