@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_Essential.label>필수적임</DrugUse_Essential.label>
-  <DrugUse_Essential.description>들뜬 마음이야말로 좋은 삶의 핵심이다.</DrugUse_Essential.description>
-  <DrugUse_Essential.comps.0.description>매 {DAYSSATISIFED}일마다 약물 사용함</DrugUse_Essential.comps.0.description>
+  <HighLife.stages.high_life-0.label>high life</HighLife.stages.high_life-0.label>
+  <HighLife.stages.high_life-0.description>The right path goes through altered consciousness, and I am walking it.</HighLife.stages.high_life-0.description>
+  <HighLife.stages.high_life-1.label>high life</HighLife.stages.high_life-1.label>
+  <HighLife.stages.high_life_missing-0.label>high life missing</HighLife.stages.high_life_missing-0.label>
+  <HighLife.stages.high_life_missing-0.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.high_life_missing-0.description>
+  <HighLife.stages.high_life_missing-1.label>high life missing</HighLife.stages.high_life_missing-1.label>
+  <HighLife.stages.high_life_missing-1.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.high_life_missing-1.description>
 </LanguageData>
