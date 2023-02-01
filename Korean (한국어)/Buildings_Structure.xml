@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalFlap.label>동물 간이 문</AnimalFlap.label>
+  <AnimalFlap.description>벽 사이에 두껍게 겹친 천이나 가죽을 걸어놓습니다. 동물들이 온도에 영향주지 않고 지나갈 수 있도록 도와줍니다. 이 간이문은 흔히 우리에 갇힌 동물들에게 잘 수 있는 곳을 제공하기 위한 헛간의 문으로 사용됩니다.</AnimalFlap.description>
+  
+  <Autodoor.label>자동문</Autodoor.label>
+  <Autodoor.description>방을 나눕니다. 전기로 작동하며 문 통과시 이동속도 감소가 적거나 없습니다.\n\n조립식 장비들은 새 정착지를 꾸리는 데에 매우 중요한데, 이는 위험한 변경에서는 속도가 생명이기 때문입니다.</Autodoor.description>
+  
+  <Column.label>칼럼</Column.label>
+  <Column.description>시야나 이동을 방해하지 않고, 지붕을 지탱할 수 있는 기둥으로 멋져 보입니다.</Column.description>
+  
+  <Door.label>문</Door.label>
+  <Door.description>정착민 뿐만 아니라 죄수들도 열 수있는 문입니다.</Door.description>
+  
+  <Fence.label>울타리</Fence.label>
+  <Fence.description>특정 종류의 동물을 위한 헛간을 만드는 데 사용되는 울타리입니다. 포식자는 울타리 밖에서 사냥을 못하지만, 울타리를 넘어들어와 배회하게 될 수도 있습니다.</Fence.description>
+  
+  <FenceGate.label>울타리 문</FenceGate.label>
+  <FenceGate.description>간단한 문입니다. 울타리처럼 몇몇의 동물만 막을 수 있습니다. 조련사는 이 문을 통해 동물들을 우리 안팎으로 몰이를 할 수 있습니다.</FenceGate.description>
+  
+  <Wall.label>벽</Wall.label>
+  <Wall.description>지나갈 수 없는 벽입니다. 지붕을 지지할 수 있습니다.</Wall.description>
+</LanguageData>
