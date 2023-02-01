@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArchotechArm.label>초월공학 팔</ArchotechArm.label>
+  <ArchotechArm.description>초월공학 팔이 설치되어 있습니다.</ArchotechArm.description>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.labelNoun>초월공학 팔</ArchotechArm.labelNoun>
+  
+  <ArchotechEye.label>초월공학 눈</ArchotechEye.label>
+  <ArchotechEye.description>초월공학 눈이 설치되어 있습니다.</ArchotechEye.description>
+  <ArchotechEye.labelNoun>초월공학 눈</ArchotechEye.labelNoun>
+  
+  <ArchotechLeg.label>초월공학 다리</ArchotechLeg.label>
+  <ArchotechLeg.description>초월공학 다리가 설치되어 있습니다.</ArchotechLeg.description>
+  <ArchotechLeg.labelNoun>초월공학 다리</ArchotechLeg.labelNoun>
+</LanguageData>
