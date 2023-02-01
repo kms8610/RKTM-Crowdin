@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_MedicalOnly.label>medical only</DrugUse_MedicalOnly.label>
-  <DrugUse_MedicalOnly.description>Poisoning the body for recreational purposes is a deeply immoral act.</DrugUse_MedicalOnly.description>
-  <DrugUse_MedicalOnly.comps.2.description>Ingest recreational drug</DrugUse_MedicalOnly.comps.2.description>
-  <DrugUse_MedicalOnly.comps.5.description>Administer recreational drug</DrugUse_MedicalOnly.comps.5.description>
+  <AdministeredDrug_Horrible.stages.administered_drug.label>administered drug</AdministeredDrug_Horrible.stages.administered_drug.label>
+  <AdministeredDrug_Horrible.stages.administered_drug.description>I administered a drug. It was a horrible offense against my beliefs.</AdministeredDrug_Horrible.stages.administered_drug.description>
   
-  <DrugUse_MedicalOrSocial.label>medical or social only</DrugUse_MedicalOrSocial.label>
-  <DrugUse_MedicalOrSocial.description>A drink with a smoke is fine, especially with friends, but poisoning the body with powerful chemicals is wrong.</DrugUse_MedicalOrSocial.description>
-  <DrugUse_MedicalOrSocial.comps.2.description>Ingest hard drug</DrugUse_MedicalOrSocial.comps.2.description>
-  <DrugUse_MedicalOrSocial.comps.5.description>Administer hard drug</DrugUse_MedicalOrSocial.comps.5.description>
+  <AdministeredDrug_Know_Horrible.stages.administered_drug.label>administered drug</AdministeredDrug_Know_Horrible.stages.administered_drug.label>
   
-  <DrugUse_Prohibited.label>prohibited</DrugUse_Prohibited.label>
-  <DrugUse_Prohibited.description>The body should absolutely not be poisoned by chemicals. The only exception is the use of medicine in direct medical care.</DrugUse_Prohibited.description>
-  <DrugUse_Prohibited.comps.0.description>Ingest drug</DrugUse_Prohibited.comps.0.description>
-  <DrugUse_Prohibited.comps.5.description>Administer drug</DrugUse_Prohibited.comps.5.description>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>administered hard drug</AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>I administered a hard drug - not medical or even social. It was a horrible offense against my beliefs.</AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>
+  
+  <AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>administered hard drug</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>
+  
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>administered recreational drug</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>I administered a recreational drug. It was a horrible offense against my beliefs.</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>
+  
+  <AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>administered recreational drug</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>
+  
+  <IngestedDrug_Horrible.stages.used_drug.label>used drug</IngestedDrug_Horrible.stages.used_drug.label>
+  <IngestedDrug_Horrible.stages.used_drug.description>I used a drug. Such chemicals in the body are a horrible offense against my beliefs.</IngestedDrug_Horrible.stages.used_drug.description>
+  
+  <IngestedDrug_Know_Horrible.stages.used_drug.label>used drug</IngestedDrug_Know_Horrible.stages.used_drug.label>
+  
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.label>used hard drug</IngestedHardDrug_Horrible.stages.used_hard_drug.label>
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.description>I used a hard drug - not medical or even social. It was a horrible offense against my beliefs.</IngestedHardDrug_Horrible.stages.used_hard_drug.description>
+  
+  <IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>used hard drug</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>
+  
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>used recreational drug</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>I used a recreational drug. It was an offense against my beliefs.</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>
+  
+  <IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>used recreational drug</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>
 </LanguageData>
