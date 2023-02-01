@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShipBasics.label>우주 비행 기초</ShipBasics.label>
+  <ShipBasics.description>성간 우주선의 골조와 보조 요소를 건설할 수 있습니다. 이 연구는 이 성계를 떠나기 위한 그 첫 발자국입니다.</ShipBasics.description>
+  <ShipBasics.discoveredLetterText>Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive.</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterTitle>우주선 발사에 관하여</ShipBasics.discoveredLetterTitle>
+  
+  <ShipComputerCore.label>우주선 인공지능</ShipComputerCore.label>
+  <ShipComputerCore.description>선장 역할을 할 자가 학습 인공지능 시스템을 설계합니다. 사람들은 성간 이동 중에 동면된 상태이므로, 장기간의 항해에 복잡한 결정을 수행하기 위해서는 고도의 인공지능이 필요합니다.</ShipComputerCore.description>
+  
+  <ShipCryptosleep.label>우주선 동면관</ShipCryptosleep.label>
+  <ShipCryptosleep.description>별들 사이를 오가는 데는 오랜 시간이 걸리기 때문에, 진공에 노출되어도 끄떡없는 동면 캡슐이 필요합니다.</ShipCryptosleep.description>
+  
+  <ShipEngine.label>존슨-타나카 추진기</ShipEngine.label>
+  <ShipEngine.description>선박용 존슨-다나카 추진기를 설계합니다. JT 추진기는 양자 스케일 효과를 사용하여 우주선을 먼 별로 이동시키는 데에 사용됩니다. 물론 어디로 향하든 여전히 많은 시간이 걸릴 것입니다.</ShipEngine.description>
+  
+  <ShipReactor.label>우주선 반물질 원자로</ShipReactor.label>
+  <ShipReactor.description>우주선에 동력을 공급하기 위한 반물질 원자로를 설계합니다. 원자로는 장시간의 시동 과정을 거치면서 약탈자를 끌어들입니다.</ShipReactor.description>
+  
+  <ShipSensorCluster.label>우주선 센서 클러스터</ShipSensorCluster.label>
+  <ShipSensorCluster.description>우주선용 장거리 센서를 설계합니다. 이러한 센서는 항해, 통신 및 위협 회피에 필수적입니다.</ShipSensorCluster.description>
+</LanguageData>
