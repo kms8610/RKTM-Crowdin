@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->그 [bandit] [camp]</li>
+    <li>questName->[bandit] [camp]</li>
+    <li>questName->[asker_nameDef](와)과 [camp]</li>
+    <li>camp->주둔지</li>
+    <li>camp->전초기지</li>
+    <li>camp->은신처</li>
+    <li>camp->야영지</li>
+    <li>bandit->도둑</li>
+    <li>bandit->침입자</li>
+    <li>bandit->도망자</li>
+    <li>bandit->무법자</li>
+    <li>bandit->탈주자</li>
+    <li>bandit->약탈자</li>
+    <li>bandit->강도</li>
+    <li>bandit->산적</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>임무 만료: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>도적 캠프가 짐을 싸서 이동했습니다. [resolvedQuestName] 임무가 만료되었습니다.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>임무 실패: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>발각된 후 도적 캠프가 흩어졌습니다. [resolvedQuestName] 임무는 종료되었습니다.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>보수 도착</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>당신은 도적 캠프를 격퇴했습니다!\n\n[asker_faction_name]에서 보상이 도착했습니다.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>이 정착민들은 [resolvedQuestName] 임무에 참여해 승리했습니다. [asker_definite](은)는 [asker_faction_royalFavorLabel] [royalFavorReward_amount]장을 누가 받아야 하는지 알고 싶어합니다.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+</LanguageData>
