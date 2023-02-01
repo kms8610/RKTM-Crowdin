@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SpouseCount_Female_MaxOne.label>오직 하나만</SpouseCount_Female_MaxOne.label>
-  <SpouseCount_Female_MaxOne.description>여성은 한 명의 배우자만 가질 수 있습니다.</SpouseCount_Female_MaxOne.description>
+  <GotMarried_SpouseCount_FiveOrMore.label>다섯 이상의 배우자가 있음</GotMarried_SpouseCount_FiveOrMore.label>
   
-  <SpouseCount_Male_MaxOne.label>오직 하나만</SpouseCount_Male_MaxOne.label>
-  <SpouseCount_Male_MaxOne.description>남자는 한 명의 배우자만 가질 수 있습니다.</SpouseCount_Male_MaxOne.description>
+  <GotMarried_SpouseCount_Four.label>넷 이상의 배우자가 있음</GotMarried_SpouseCount_Four.label>
+  
+  <GotMarried_SpouseCount_Three.label>셋 이상의 배우자가 있음</GotMarried_SpouseCount_Three.label>
 </LanguageData>
