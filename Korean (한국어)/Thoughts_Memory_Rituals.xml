@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.label>장엄한 수여식</GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.label>
+  <GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.description>역사의 한 순간을 장식하는 듯한 수여식이었어.</GrandioseBestowingCeremony.stages.grandiose_bestowing_ceremony.description>
+  
+  <HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.label>명예로운 수여식</HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.label>
+  <HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.description>참여자들에게 명예와 존엄의 감정을 불러일으키는 수여식이었어.</HonorableBestowingCeremony.stages.honorable_bestowing_ceremony.description>
+  
+  <TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.label>끔찍한 수여식</TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.label>
+  <TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.description>보잘 것 없고 제멋대로인 수여식이었어.</TerribleBestowingCeremony.stages.terrible_bestowing_ceremony.description>
+  
+  <UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.label>시시한 수여식</UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.label>
+  <UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.description>기계적이고 생기가 없는 수여식이었어.</UnimpressiveBestowingCeremony.stages.unimpressive_bestowing_ceremony.description>
+</LanguageData>
