@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFE_MechanoidAttackParty.label>a friendly outpost under mech attack</VFE_MechanoidAttackParty.label>
-  <VFE_MechanoidAttackParty.description>A friendly outpost invaded by a mechanoid force, begging for help.</VFE_MechanoidAttackParty.description>
-  <VFE_MechanoidShipLanding.label>mechanoid ship landing</VFE_MechanoidShipLanding.label>
-  <VFE_MechanoidShipLanding.description>mechanoid ship landing.</VFE_MechanoidShipLanding.description>
-  <VFE_MechanoidStorage.label>mechanoid storage</VFE_MechanoidStorage.label>
-  <VFE_MechanoidStorage.description>Mechanoid storage.</VFE_MechanoidStorage.description>
-  <VFEV_AbandonedFactory.label>abandoned factory</VFEV_AbandonedFactory.label>
-  <VFEV_AbandonedFactory.description>An abandoned factory.</VFEV_AbandonedFactory.description>
-  <VFEV_BroadcastingStation.label>abandoned broadcasting station</VFEV_BroadcastingStation.label>
-  <VFEV_BroadcastingStation.description>An broadcasting station.</VFEV_BroadcastingStation.description>
+  <VFEMech-IgorInvader.label>Igor Invader</VFEMech-IgorInvader.label>
+  <VFEMech-IgorInvader.description>Igor Invader holds no regard for boring stories about thriving colonies. The only story worth telling is the one of combat. He will send raids every two or three days, rewarding players for dealing with them swiftly, and punishing player for any losses. This storyteller doubles all damage types, but also warns you about upcoming raids 12 hours before they happen.</VFEMech-IgorInvader.description>
 </LanguageData>
