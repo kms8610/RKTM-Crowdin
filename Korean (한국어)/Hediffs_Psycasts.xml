@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicAmplifier.label>싸이링크</PsychicAmplifier.label>
-  <PsychicAmplifier.description>An organic connection to a larger psychic field. This allows a person to psychically induce a distant archotech superintelligence to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with the legendary anima tree.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism.</PsychicAmplifier.description>
-  <PsychicAmplifier.descriptionShort>Allows a person to psychically-induce an archotech to influence reality in ways that seem impossible. Higher levels of psylink permit the use of more powers.</PsychicAmplifier.descriptionShort>
+  <EntropyLink.label>정신 연결</EntropyLink.label>
+  <EntropyLink.description>다른 사람과 정신적으로 연결했습니다. 한명의 득과 실은 곧 다른 한명에게 똑같이 공유됩니다.</EntropyLink.description>
+  
+  <Joyfuzz.label>쾌락잔향</Joyfuzz.label>
+  <Joyfuzz.description>정신 간섭에 의해 수용감, 편안함, 따뜻함을 느낍니다. 기분이 좋아지지만, 가벼운 마비를 유발하고 의식이 저하됩니다.</Joyfuzz.description>
+  
+  <PsychicAnesthesia.label>정신 마취</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>초능력에 의해 통증에 둔감해졌습니다.</PsychicAnesthesia.description>
+  
+  <PsychicBlindness.label>정신 실명</PsychicBlindness.label>
+  <PsychicBlindness.description>초능력에 의해 눈이 멀었습니다.</PsychicBlindness.description>
+  
+  <PsychicBreakdown.label>정신 혼란</PsychicBreakdown.label>
+  <PsychicBreakdown.description>과도한 정신에 쌓인 에 의해 발생하는 정신적 불안증세입니다. 엔트로피가 사라지더라도 혼란은 며칠 동안 지속되어 다양한 종류의 정신 장애를 일으킬 수 있습니다.</PsychicBreakdown.description>
+  <PsychicBreakdown.stages.minor.label>가벼움</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.major.label>심각함</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.total.label>한계</PsychicBreakdown.stages.total.label>
+  
+  <PsychicBurden.label>정신 부하</PsychicBurden.label>
+  <PsychicBurden.description>초능력으로 인해 움직임이 둔해졌습니다.</PsychicBurden.description>
+  
+  <PsychicEntropy.label>정신력 혼돈치</PsychicEntropy.label>
+  <PsychicEntropy.description>Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage.</PsychicEntropy.description>
+  <PsychicEntropy.descriptionShort>Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness.</PsychicEntropy.descriptionShort>
+  <PsychicEntropy.stages.safe.label>안전</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.overloaded.label>부하</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>과부하</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.extreme.label>극심함</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.overwhelming.label>압도당함</PsychicEntropy.stages.overwhelming.label>
+  
+  <PsychicFocus.label>정신 집중</PsychicFocus.label>
+  <PsychicFocus.description>Psychically-induced mental focus, increasing sight, hearing and movement capacities.</PsychicFocus.description>
+  
+  <PsychicInvisibility.label>정신적 실명</PsychicInvisibility.label>
+  <PsychicInvisibility.description>초능력으로 인한 실명입니다. 이것은 가까이 있는 다른 사람들한테도 영향을 미쳐, 실제로 눈에 영향이 없더라도 그들의 뇌가 시야 속의 물체를 인식하지 못하게 합니다.</PsychicInvisibility.description>
+  
+  <PsychicLove.label>초능력 애정</PsychicLove.label>
+  <PsychicLove.description>Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup.</PsychicLove.description>
+  <PsychicLove.targetPrefix>for</PsychicLove.targetPrefix>
+  
+  <PsychicVertigo.label>초능력 현기증</PsychicVertigo.label>
+  <PsychicVertigo.description>초능력으로 인해 방향감각이 상실되었습니다. 이로 인해 구토감에 시달립니다.</PsychicVertigo.description>
 </LanguageData>
