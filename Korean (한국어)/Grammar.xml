@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IndefiniteArticle>이것</IndefiniteArticle>
+  <DefiniteArticle>이것</DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <Proits>그것의</Proits>
+  <Prohis>그의</Prohis>
+  <Proher>그녀의</Proher>
+  <ProitsCap>그것의</ProitsCap>
+  <ProhisCap>그의</ProhisCap>
+  <ProherCap>그녀의</ProherCap>
+
+  <ProitObj>그것을</ProitObj>
+  <ProhimObj>그를</ProhimObj>
+  <ProherObj>그녀의</ProherObj>
+  <ProitObjCap>그것을</ProitObjCap>
+  <ProhimObjCap>그의</ProhimObjCap>
+  <ProherObjCap>그녀의</ProherObjCap>
+
+  <Prohe>그</Prohe>
+  <Proshe>그녀</Proshe>
+  <Proit>그것을</Proit>
+  <ProheCap>그</ProheCap>
+  <ProsheCap>그녀</ProsheCap>
+  <ProitCap>그것을</ProitCap>
+
+  <ClauseSequence2>{0} and {1}.</ClauseSequence2>
+  <ClauseSequence3>{0}, {1}, {2}</ClauseSequence3>
+  <ClauseSequence4>{0}, {1}, {2}, {3}</ClauseSequence4>
+  <ClauseSequence5>{0}, {1}, {2}, {3}, {4}</ClauseSequence5>
+  <ClauseSequence6>{0}, {1}, {2}, {3}, {4}, {5}</ClauseSequence6>
+  <ClauseSequence7>{0}, {1}, {2}, {3}, {4}, {5}, {6}</ClauseSequence7>
+  <ClauseSequence8>{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}</ClauseSequence8>
+
+  <XorY>{0} 또는 {1}</XorY>
+
+</LanguageData>
