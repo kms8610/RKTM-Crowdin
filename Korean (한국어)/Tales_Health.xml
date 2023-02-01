@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Downed.label>쓰러짐</Downed.label>
+  <Downed.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [WEAPON_label]로 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->[WEAPON_label]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->[VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>image->[VICTIM_nameFull]는 [with_weapon_optional] [KILLER_nameFull]에 의해 [wound_name_past]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 잔인하게 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [VICTIM_nameFull]는 [wound_name_past]</li>
+    <li>wound_name_past->무력화됨</li>
+    <li>wound_name_past->불구가됨</li>
+    <li>wound_name_past->의식을 잃음</li>
+    <li>wound_name_past->장애를 입음</li>
+    <li>wound_name_present->무력화함</li>
+    <li>wound_name_present->피해입힘</li>
+    <li>wound_name_present->기절시킴</li>
+    <li>wound_name_present->장애를 줌</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->격노하여</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->어쩔 수 없이</li>
+    <li>circumstance_phrase->비겁하고 어정쩡한 태도로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 눈을 감았습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </Downed.rulePack.rulesStrings>
+  
+  <Exhausted.label>탈진</Exhausted.label>
+  <Exhausted.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef](은)는 탈진하여 쓰러짐</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 땅위에 쓰러짐</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 땅위에 드러누움</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 침대에 누움</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 의자에 쓰러짐</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 평온하게 잠듬</li>
+    <li>circumstance_phrase->눈을 감으며</li>
+    <li>circumstance_phrase->눈에 띄게 탈진하여</li>
+    <li>circumstance_phrase->땀으로 뒤덮여</li>
+    <li>circumstance_phrase->근육을 움직일 수 조차 없어서</li>
+    <li>desc_sentence->[PAWN_nameDef]의 마지막 임무는 거의 완료했습니다.</li>
+    <li>desc_sentence->놀라울 정도의 일거리 들이 [PAWN_nameDef] 주변에 쌓여 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 [PAWN_nameDef]의 영웅적인 노력에 감사하는 표정입니다.</li>
+    <li>desc_sentence->비슷한 상태의 [Quantity_adjphrase] [PersonJob]들이 보입니다.</li>
+    <li>desc_sentence->그 현장은 새로운 [Community] 안에서 발생했습니다.</li>
+  </Exhausted.rulePack.rulesStrings>
+  
+  <GaveBirth.label>출산</GaveBirth.label>
+  <GaveBirth.rulePack.rulesStrings>
+    <li>tale_noun->[MOTHER_nameDef]이 [CHILD_nameDef]를 출산함</li>
+    <li>image->[MOTHER_nameFull]이 [circumstance_group] 출산함</li>
+    <li>image->[MOTHER_nameFull]는 [circumstance_group] [MOTHER_possessive] [baby]를 안아듬</li>
+    <li>image->[MOTHER_nameFull]는 [circumstance_group] [MOTHER_possessive] [baby] 옆에 누움</li>
+    <li>image->[MOTHER_nameFull]는 [circumstance_group] [MOTHER_possessive] [baby]와 함께 의자에 쓰러짐</li>
+    <li>baby->갓난아기</li>
+    <li>baby->신생아</li>
+    <li>baby->아기</li>
+    <li>circumstance_phrase->[CHILD_nameFull], 울고있는 핏덩이</li>
+    <li>circumstance_phrase->[CHILD_nameFull], 은은하게 [Color]으로 빛나는</li>
+    <li>circumstance_phrase->[CHILD_nameFull], 벌써 스스로 일어나려 하는</li>
+    <li>circumstance_phrase->[CHILD_nameFull], 평온한 표정으로 주위를 둘러보는</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 평온하게 잠자고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들이 그 광경을 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]이 먼 거리에서 바라봅니다.</li>
+    <li>desc_sentence->그 현장은 새로운 [Community] 안에서 발생했습니다.</li>
+  </GaveBirth.rulePack.rulesStrings>
+  
+  <HeatstrokeRevealed.label>열사병</HeatstrokeRevealed.label>
+  <HeatstrokeRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 열사병에 걸림</li>
+    <li>tale_noun->[PAWN_nameDef]는 과열됨</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 모래 위를 터벅터벅 걸어감</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [TerrainFeature]의 그늘에 모여 앉아있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 물을 찾고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 그늘을 찾고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 햇빛에 그을린 흙 위를 기어다님</li>
+    <li>circumstance_phrase->벌겋게 탄 피부로</li>
+    <li>circumstance_phrase->딸으로 뒤덮여</li>
+    <li>circumstance_phrase->건조한 입술이 갈라지며</li>
+    <li>circumstance_phrase->구토하는 하며</li>
+    <li>desc_sentence->[Quantity_adjphrase] 건조한 [Animal]의 시체들이 그 지역에 널려있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 옷이 찢어져 누더기가 되었습니다.</li>
+    <li>desc_sentence->맹렬한 태양이 뒤를 비추고 있습니다.</li>
+    <li>desc_sentence->그 현장은 작열하는 사막 내에서 발생했습니다.</li>
+    <li>desc_sentence->그 장면은 난방기 내부나 옆에서 발생하는 것으로 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 움직이지 않는 [Animal]들이 그 현장에 널려있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 죽어가는 [Animal]들이 바닥에 누워있습니다.</li>
+  </HeatstrokeRevealed.rulePack.rulesStrings>
+  
+  <HypothermiaRevealed.label>저체온증</HypothermiaRevealed.label>
+  <HypothermiaRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 저체온증에 걸림</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 눈 위를 터벅터벅 걸어감</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [TerrainFeature] 옆에 모여있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 따뜻한 [Apparel]를 찾고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 불 옆에 웅크리고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 불을 피우려 시도함</li>
+    <li>circumstance_phrase->[PAWN_possessive]의 얼굴이 서서히 퍼렇게 변하며</li>
+    <li>circumstance_phrase->걷잡을 수 없이 몸을 떨며</li>
+    <li>circumstance_phrase->서리로 뒤덮이며</li>
+    <li>circumstance_phrase->입김을 뿜으며</li>
+    <li>desc_sentence->[Quantity_adjphrase] 얼어붙은 [Animal]의 시체가 그 지역에 널려있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 옷이 헤져서 누더기가 되었습니다.</li>
+    <li>desc_sentence->차가운 푸른 달이 배경에 어렴풋이 보입니다.</li>
+    <li>desc_sentence->그 현장은 눈으로 덮인 [TreeType] 숲 속에서 발생했습니다.</li>
+    <li>desc_sentence->그 현장은 냉동고 안에서 발생하는 것으로 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 몸을 떠는 [Animal]들이 그 현장에 널려있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 죽어가는 [Animal]들이 바닥에 누워있습니다.</li>
+  </HypothermiaRevealed.rulePack.rulesStrings>
+  
+  <IllnessRevealed.label>전염병</IllnessRevealed.label>
+  <IllnessRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 [ILLNESS_label]에 시달리고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 비틀거리며 들판을 가로지름</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 땅위에 드러누움</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 침대에 누움</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 병원 침대에 누워있음</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 의자에 쓰러짐</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 불 옆에 웅크리고 있음</li>
+    <li>circumstance_phrase->겉잡을 수 없이 땀을 흘리며</li>
+    <li>circumstance_phrase->걷잡을 수 없이 몸을 떨며</li>
+    <li>circumstance_phrase->땀을 흘리고 몸을 떨며</li>
+    <li>circumstance_phrase->건조한 입술이 갈라지며</li>
+    <li>circumstance_phrase->구토하는 하며</li>
+    <li>circumstance_phrase->두드러기가 보이며</li>
+    <li>circumstance_phrase->의사의 보살핌을 받으며</li>
+    <li>desc_sentence->[Quantity_adjphrase] 날짐승 [Animal]의 시체들이 그 지역에 널려있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 비틀린 [Color] [TerrainFeature]들이 에워싼 광경이 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 같은 상황에 처했습니다.</li>
+    <li>desc_sentence->그 현장은 [TreeType] 숲 속에서 발생했습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 죽어가는 [Animal]들이 바닥에 누워있습니다.</li>
+  </IllnessRevealed.rulePack.rulesStrings>
+  
+  <KilledCapacity.label>죽음</KilledCapacity.label>
+  <KilledCapacity.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [WEAPON_label]로 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]의 [CAPACITY_label]에 대한 능력 [cap_removal]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]의 [VICTIM_possessive] [CAPACITY_label]을 [cap_removal]으로 인해 [VICTIM_nameFull]는 [wound_name_present]</li>
+    <li>cap_removal->파괴함</li>
+    <li>cap_removal->제거함</li>
+    <li>cap_removal->끝장냄</li>
+    <li>wound_name_past->썰림</li>
+    <li>wound_name_past->처형됨</li>
+    <li>wound_name_past->암살됨</li>
+    <li>wound_name_past->제거됨</li>
+    <li>wound_name_present->썰었음</li>
+    <li>wound_name_present->처형함</li>
+    <li>wound_name_present->암살함</li>
+    <li>wound_name_present->제거함</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 눈을 감았습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </KilledCapacity.rulePack.rulesStrings>
+  
+  <KilledLongRange.label>저격</KilledLongRange.label>
+  <KilledLongRange.rulePack.rulesStrings>
+    <li>tale_noun->극단적으로 먼 거리에서 [KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->극단적으로 먼 거리에서 [KILLER_nameDef]는 [WEAPON_label]로 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->먼 거리에서 [KILLER_nameDef]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->먼 거리에서 [KILLER_nameDef]의 [WEAPON_label]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 조준함</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 냉담하게 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>wound_name_past->살해됨</li>
+    <li>wound_name_past->썰림</li>
+    <li>wound_name_past->도살됨</li>
+    <li>wound_name_past->제거됨</li>
+    <li>wound_name_present->살해함</li>
+    <li>wound_name_present->썰었음</li>
+    <li>wound_name_present->도살함</li>
+    <li>wound_name_present->제거함</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->먼 거리에서</li>
+    <li>circumstance_phrase->매우 높은 곳에서</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->비겁하고 어정쩡한 태도로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 눈을 감았습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </KilledLongRange.rulePack.rulesStrings>
+  
+  <KilledMajorThreat.label>수장 암살</KilledMajorThreat.label>
+  <KilledMajorThreat.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [WEAPON_label]로 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]의 [WEAPON_label]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>image->[VICTIM_nameFull]는 [with_weapon_optional] [KILLER_nameFull]에 의해 [wound_name_past]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 잔인하게 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [VICTIM_nameFull]는 [wound_name_past]</li>
+    <li>wound_name_past->썰림</li>
+    <li>wound_name_past->격퇴됨</li>
+    <li>wound_name_past->압도됨</li>
+    <li>wound_name_present->썰었음</li>
+    <li>wound_name_present->격퇴함</li>
+    <li>wound_name_present->압도함</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->대단히 영웅적으로</li>
+    <li>circumstance_phrase->믿을 수 없는 힘으로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 눈을 감았습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]와 [KILLER_nameDef]는 모두 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 몸이 [KILLER_nameDef]에게로 무너졌습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 거대한 시체가 [TerrainFeature]를 뒤덮고 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 눈이 [Color]으로 빛납니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [AdjectiveBadass] 보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 영웅적인 후광으로 빛나고 있습니다.</li>
+  </KilledMajorThreat.rulePack.rulesStrings>
+  
+  <KilledMelee.label>암살</KilledMelee.label>
+  <KilledMelee.rulePack.rulesStrings>
+    <li>tale_noun->근접전에서 [KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->근접전에서 [KILLER_nameDef]는 [WEAPON_label]로 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->근접에서 [KILLER_nameDef]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->근접전에서 [KILLER_nameDef]의 [WEAPON_label]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>image->[VICTIM_nameFull]는 [with_weapon_optional] [KILLER_nameFull]에 의해 [wound_name_past]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 잔인하게 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [VICTIM_nameFull]는 [wound_name_past]</li>
+    <li>wound_name_past->살해됨</li>
+    <li>wound_name_past->썰림</li>
+    <li>wound_name_past->도살됨</li>
+    <li>wound_name_past->훼손됨</li>
+    <li>wound_name_present->살해함</li>
+    <li>wound_name_present->썰었음</li>
+    <li>wound_name_present->도살함</li>
+    <li>wound_name_present->훼손함</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->비겁하고 어정쩡한 태도로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 눈을 감았습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]와 [KILLER_nameDef]는 모두 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 야릇한 표정을 짓습니다.</li>
+  </KilledMelee.rulePack.rulesStrings>
+  
+  <KilledMortar.label>폭사</KilledMortar.label>
+  <KilledMortar.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]는 박격포로 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->[VICTIM_nameDef]는 [KILLER_nameDef]의 박격포로 인해 죽음</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]는 조심스럽게 포구를 조정함</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]는 먼곳을 바라봄</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]는 종이에 계산함</li>
+    <li>image->[circumstance_group] [KILLER_nameFull]는 풍향을 가늠함</li>
+    <li>circumstance_phrase->[VICTIM_nameFull]가 대규모 폭발로 산화하는 동안</li>
+    <li>circumstance_phrase->포탄이 포물선으로 [VICTIM_nameFull]를 향해 내려가는 동안</li>
+    <li>circumstance_phrase->[VICTIM_nameFull]가 의식을 잃고 나뒹구는 동안</li>
+    <li>circumstance_phrase->[VICTIM_nameFull]가 전력질주 하는 동안</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 폭발에 휩싸였습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 크레이터에 둘러쌓여 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </KilledMortar.rulePack.rulesStrings>
+  
+  <ToxicityRevealed.label>중독됨</ToxicityRevealed.label>
+  <ToxicityRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 몸이 중독됨</li>
+    <li>tale_noun->[PAWN_nameDef]는 맹독에 의해 중독됨</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 비틀거리며 들판을 가로지름</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 땅위에 드러누움</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 침대에 누움</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 불 옆에 웅크리고 있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 불을 피우려 시도함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [PAWN_possessive] 옷을 무심하게 제거함</li>
+    <li>circumstance_phrase->겉잡을 수 없이 땀을 흘리며</li>
+    <li>circumstance_phrase->걷잡을 수 없이 몸을 떨며</li>
+    <li>circumstance_phrase->땀을 흘리고 몸을 떨며</li>
+    <li>circumstance_phrase->건조한 입술이 갈라지며</li>
+    <li>circumstance_phrase->구토하는 하며</li>
+    <li>circumstance_phrase->두드러기가 보이며</li>
+    <li>desc_sentence->[Quantity_adjphrase] 비틀린 [Animal]의 시체가 그 지역에 널려있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 옷이 삭아가고 있습니다.</li>
+    <li>desc_sentence->하늘이 탁한 [Color] 색입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 비틀린 [Color] [TerrainFeature]들이 에워싼 광경이 보입니다.</li>
+    <li>desc_sentence->그 현장은 비틀린 [TreeType] 숲 속에서 발생했습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 죽어가는 [Animal]들이 바닥에 누워있습니다.</li>
+  </ToxicityRevealed.rulePack.rulesStrings>
+  
+  <Wounded.label>부상자</Wounded.label>
+  <Wounded.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]는 [VICTIM_nameDef]를 [WEAPON_label]로 [wound_name_present]</li>
+    <li>tale_noun->[KILLER_nameDef]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->[WEAPON_label]에 의한 [VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>tale_noun->[VICTIM_nameDef]의 [wound_name_present]</li>
+    <li>image->[VICTIM_nameFull]는 [with_weapon_optional] [KILLER_nameFull]에 의해 [wound_name_past]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [KILLER_nameFull]는 잔인하게 [VICTIM_nameFull]를 [wound_name_present]</li>
+    <li>image->[with_weapon_optional] [VICTIM_nameFull]는 [wound_name_past]</li>
+    <li>wound_name_past->부상당함</li>
+    <li>wound_name_past->피해입음</li>
+    <li>wound_name_past->상처입음</li>
+    <li>wound_name_past->폭행당함</li>
+    <li>wound_name_past->공격당함</li>
+    <li>wound_name_present->부상입힘</li>
+    <li>wound_name_present->피해입힘</li>
+    <li>wound_name_present->상처입힘</li>
+    <li>wound_name_present->폭행함</li>
+    <li>wound_name_present->공격함</li>
+    <li>with_weapon_optional->[circumstance_group] [WEAPON_label]으로</li>
+    <li>with_weapon_optional->[circumstance_group]</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->격노하여</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->어쩔 수 없이</li>
+    <li>circumstance_phrase->비겁하고 어정쩡한 태도로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 몸 주변에 피가 웅덩이를 이룹니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [AdjectiveAngsty] 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 고통에 앓고 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 극도의 고통에 앓고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </Wounded.rulePack.rulesStrings>
+</LanguageData>
