@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Abasia.label>마비성 보행불능</Abasia.label>
-  <Abasia.description>운동피질에 문제가 생겨 이동이 불가능한 상태입니다. 충분한 시간이 지나면 뇌가 기능을 되찾지만, 회복 속도가 대단히 느립니다. 특별한 수술을 받으면 단번에 완치되지만 대량의 번화계 약품을 소모합니다.</Abasia.description>
-  <Abasia.descriptionShort>A neurological condition that makes a person unable to walk. Patients recover naturally but the process is slow.</Abasia.descriptionShort>
+  <CureAbasia.label>마비성 보행불능 치료</CureAbasia.label>
+  <CureAbasia.description>뇌를 손상시키지 않고 신경활동의 조정된 구조를 재배치하기 위해 대량의 메카나이트를 사용합니다. 이는 환자를 보행불능으로 인한 마비를 영구적으로 치료하지만 많은 번화계 약품이 필요합니다.</CureAbasia.description>
+  <CureAbasia.jobString>마비성 보행불능 치료 중.</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 마비성 보행불능을 치료했습니다.</CureAbasia.successfullyRemovedHediffMessage>
   
-  <BloodRot.label>혈액부패</BloodRot.label>
-  <BloodRot.description>천천히 성장하는 박테리아 질병입니다. 박테리아는 성장하는 동안 영향을 거의 미치지 않지만, 포화수준에 도달하면 독성 급발작을 유발하여 즉시 사망할 수 있습니다.\n\n인체의 면역체계는 오랜시간이 지나면 혈액부패가 없어지며, 정상적인 의약품을 사용하여 그때까지 억제하는 것이 표준 치료법입니다. 번화계의 의사들은 대량의 메카나이트를 투여하여 즉시 치료할 수 있지만 비용이 많이 듭니다.</BloodRot.description>
-  <BloodRot.descriptionShort>A slow-growing bacterial disease. Upon reaching full saturation, it will kill the affected individual.</BloodRot.descriptionShort>
-  <BloodRot.stages.minor.label>가벼움</BloodRot.stages.minor.label>
-  <BloodRot.stages.major.label>심각함</BloodRot.stages.major.label>
-  <BloodRot.stages.extreme.label>극심함</BloodRot.stages.extreme.label>
+  <CureBloodRot.label>혈액부패 치료</CureBloodRot.label>
+  <CureBloodRot.description>메카나이트 살균바이러스를 대량으로 주입하여 혈액부패를 치료할 특별한 수술입니다.</CureBloodRot.description>
+  <CureBloodRot.jobString>혈액부패 치료 중.</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 혈액부패를 치료했습니다.</CureBloodRot.successfullyRemovedHediffMessage>
 </LanguageData>
