@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Scarification.label>scarification</Scarification.label>
+  <Scarification_Extreme.label>극심함</Scarification_Extreme.label>
+  <Scarification_Extreme.description>모든 사람은 전신에 상흔 문신을 남길 의무가 있다.</Scarification_Extreme.description>
+  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>상흔 문신 (5개 필요)</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>상흔 문신 (5개 필요)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+  
+  <Scarification_Heavy.label>단단한 지면</Scarification_Heavy.label>
+  <Scarification_Heavy.description>모든 사람은 신체의 대부분에 상흔 문신을 남길 의무가 있다.</Scarification_Heavy.description>
+  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>상흔 문신 (3개 필요)</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>상흔 문신 (3개 필요)</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+  
+  <Scarification_Horrible.label>강력하게 혐오함</Scarification_Horrible.label>
+  <Scarification_Horrible.description>사상적 이유로 상흔 문신을 새기는 것은 끔찍하다.</Scarification_Horrible.description>
+  <Scarification_Horrible.comps.0.description>누군가가 상흔 문신을 새김</Scarification_Horrible.comps.0.description>
+  
+  <Scarification_Minor.label>가벼움</Scarification_Minor.label>
+  <Scarification_Minor.description>모든 사람은 상흔 문신을 남길 의무가 있다.</Scarification_Minor.description>
+  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>상흔 문신 (1개 필요)</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>상흔 문신 (1개 필요)</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
 </LanguageData>
