@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_PermanentBurn.label>permanent burn</AA_PermanentBurn.label>
+  <AA_PermanentBurn.description>A permanent burn scar that cannot be treated.</AA_PermanentBurn.description>
+  <AA_PermanentBurn.labelNoun>a permanent burn</AA_PermanentBurn.labelNoun>
+  <AA_PermanentBurn.comps.1.permanentLabel>permanent burn</AA_PermanentBurn.comps.1.permanentLabel>
+  <AA_PermanentBurn.injuryProps.destroyedLabel>Burned off</AA_PermanentBurn.injuryProps.destroyedLabel>
+  <AA_PermanentBurn.injuryProps.destroyedOutLabel>Burned out</AA_PermanentBurn.injuryProps.destroyedOutLabel>
+  <AA_InvisibleArcticLion.label>stalking</AA_InvisibleArcticLion.label>
+  <AA_InvisibleArcticLion.description>This arctic lion is stalking its prey and... Hey, how are you reading this, you cheater??</AA_InvisibleArcticLion.description>
+  <AA_CrushingEverything.label>crushing everything on its path</AA_CrushingEverything.label>
+  <AA_CrushingEverything.description>If I were you, I wouldn't get in the path of a rampaging Summit Crab...</AA_CrushingEverything.description>
+  <AA_Nocturnal.label>nocturnal animal</AA_Nocturnal.label>
+  <AA_Nocturnal.description>Deprecated nocturnal animal Hediff. This shouldn't ever appear ingame.</AA_Nocturnal.description>
+  <AA_LockJawDisease.description>A painful and uncomfortable disease that inflamates the jaw, making it very hard to eat or talk. The disease will go away after it has been sucessfully treated a set number of times.</AA_LockJawDisease.description>
+  <AA_LockJawDisease.label>lockjaw disease</AA_LockJawDisease.label>
+  <AA_Paralysis.description>A fast acting toxin is coursing through this creature's veins, paralyzing his muscles. It will wear off after a while.</AA_Paralysis.description>
+  <AA_Paralysis.label>paralysis</AA_Paralysis.label>
+  <AA_Paralysis.stages.0.label>initial</AA_Paralysis.stages.0.label>
+  <AA_Paralysis.stages.1.label>stunned</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>very stunned</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.3.label>paralysed</AA_Paralysis.stages.3.label>
+  <AA_Electric.description>A dangerous electric shock. It might have damaged the heart, and the higher the intensity the hgher the possibility of a heart attack.</AA_Electric.description>
+  <AA_Electric.label>electric shock</AA_Electric.label>
+  <AA_Electric.stages.0.label>initial</AA_Electric.stages.0.label>
+  <AA_Electric.stages.1.label>shocked</AA_Electric.stages.1.label>
+  <AA_Electric.stages.2.label>very shocked</AA_Electric.stages.2.label>
+  <AA_Electric.stages.3.label>paralysed</AA_Electric.stages.3.label>
+  <AA_ToxicBuildup.description>Toxins in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.
+\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.
+\nContrary to base game toxic buildup, creatures who die with this toxic damage can be eaten.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.label>toxic buildup</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.stages.0.label>initial</AA_ToxicBuildup.stages.0.label>
+  <AA_ToxicBuildup.stages.1.label>initial</AA_ToxicBuildup.stages.1.label>
+  <AA_ToxicBuildup.stages.2.label>minor</AA_ToxicBuildup.stages.2.label>
+  <AA_ToxicBuildup.stages.3.label>moderate</AA_ToxicBuildup.stages.3.label>
+  <AA_ToxicBuildup.stages.4.label>serious</AA_ToxicBuildup.stages.4.label>
+  <AA_ToxicBuildup.stages.5.label>extreme</AA_ToxicBuildup.stages.5.label>
+  <AA_LowRest.description>This creature has very little need for sleep, and can stay awake for a long time.</AA_LowRest.description>
+  <AA_LowRest.label>needs very little sleep</AA_LowRest.label>
+  <AA_PsionicallyNuzzled.description>Blessed by an Animus Vox.</AA_PsionicallyNuzzled.description>
+  <AA_PsionicallyNuzzled.label>psionically nuzzled</AA_PsionicallyNuzzled.label>
+  <AA_GatheredResource.description>This colonist has recently gathered an animal resource.</AA_GatheredResource.description>
+  <AA_GatheredResource.label>gathered animal resource</AA_GatheredResource.label>
+  <AA_CorpseFeast.description>This Helixien slug has recently fed on human corpses. The tastiest meat.</AA_CorpseFeast.description>
+  <AA_CorpseFeast.label>feasted on human corpses</AA_CorpseFeast.label>
+  <AA_AteFinestClothes.description>This Angel Moth has recently consumed clothes of Legendary quality.</AA_AteFinestClothes.description>
+  <AA_AteFinestClothes.label>feasted on legendary clothing</AA_AteFinestClothes.label>
+  <AA_RechargingBatteries.description>This TetraSlug has recently recharged a nearby battery.</AA_RechargingBatteries.description>
+  <AA_RechargingBatteries.label>recharging batteries</AA_RechargingBatteries.label>
+  <AA_FertilizedTerrain.description>This Sand Squid has recently fertilized some sandy terrain.</AA_FertilizedTerrain.description>
+  <AA_FertilizedTerrain.label>fertilized terrain</AA_FertilizedTerrain.label>
+  <AA_SwarmlingImplantation.label>swarmling implantation</AA_SwarmlingImplantation.label>
+  <AA_SwarmlingImplantation.description>Affected by Swarmling implantation. If the disease is not properly treated, or if the creature dies when it is sufficiently advanced, Swarmling larvae will devour it from inside and hatch from its corpse.</AA_SwarmlingImplantation.description>
+  <AA_SwarmlingImplantation.stages.0.label>minor</AA_SwarmlingImplantation.stages.0.label>
+  <AA_SwarmlingImplantation.stages.1.label>major</AA_SwarmlingImplantation.stages.1.label>
+  <AA_SwarmlingImplantation.stages.2.label>extreme</AA_SwarmlingImplantation.stages.2.label>
+  <AA_SwarmlingImplantation.stages.3.label>extreme</AA_SwarmlingImplantation.stages.3.label>
+  <AA_Resurrection.label>rise from your grave!</AA_Resurrection.label>
+  <AA_Resurrection.description>This animal can survive up to 9 fatal wounds, coming back from the dead.</AA_Resurrection.description>
+  <AA_MimeHediff.label>hiding in plain sight</AA_MimeHediff.label>
+  <AA_MimeHediff.description>This colonist may not be a real person after all...</AA_MimeHediff.description>
+  <AA_BurrowingUnderSand.description>This Sand Prowler is burrowing under the sand, making it very resistant to damage. I hate sand. Its course, and ruff, and irritating. And it gets everywhere.</AA_BurrowingUnderSand.description>
+  <AA_BurrowingUnderSand.label>burrowing under sand</AA_BurrowingUnderSand.label>
+  <AA_VirulentFungalInfection.label>virulent fungal infection</AA_VirulentFungalInfection.label>
+  <AA_VirulentFungalInfection.labelNoun>a virulent fungal infection</AA_VirulentFungalInfection.labelNoun>
+  <AA_VirulentFungalInfection.description>Fungal infection in a wound. Without treatment, the infection will advance at an astonishing rate, killing the afflicted in a few hours. Luckily, it is very easy to treat, and it will be kept contained and disappear as long as a medic treats it fast and with a decent treatment quality.</AA_VirulentFungalInfection.description>
+  <AA_VirulentFungalInfection.stages.0.label>minor</AA_VirulentFungalInfection.stages.0.label>
+  <AA_VirulentFungalInfection.stages.1.label>major</AA_VirulentFungalInfection.stages.1.label>
+  <AA_VirulentFungalInfection.stages.2.label>extreme</AA_VirulentFungalInfection.stages.2.label>
+  <AA_VirulentFungalInfection.stages.3.label>extreme</AA_VirulentFungalInfection.stages.3.label>
+  <AA_AnoleGrown.label>explosive growth</AA_AnoleGrown.label>
+  <AA_AnoleGrown.description>An unstable cocktail of growth hormones and biomechanical mechanites is causing a runaway growth of this creature's cells. This will greatly increase its metabolism, fighting power and resistance for a few hours. Afterwards it will be exhausted and require some extra food to recover its energy.</AA_AnoleGrown.description>
+  <AA_AnoleGrown.comps.0.tools.0.label>claws</AA_AnoleGrown.comps.0.tools.0.label>
+  <AA_AnoleGrownExhausted.label>explosive growth (exhausted)</AA_AnoleGrownExhausted.label>
+  <AA_AnoleGrownExhausted.description>This creature has recently been subject to anomalous growth, exhausting it and making it ravenously hungry. It won't be able to activate this explosive growth again until this condition has passed.</AA_AnoleGrownExhausted.description>
+  <AA_EatenACorpse.label>eaten a corpse</AA_EatenACorpse.label>
+  <AA_EatenACorpse.description>Erins love a good, tasty corpse. Eating a fresh corpse will provide the Erin with a considerable boost to its health for almost half a day.</AA_EatenACorpse.description>
+  <AA_WinterPelt.label>winter pelt</AA_WinterPelt.label>
+  <AA_WinterPelt.description>This animal is sporting a nice winter pelt, giving it good resistance against the cold.</AA_WinterPelt.description>
+  <AA_JunglePelt.label>jungle pelt</AA_JunglePelt.label>
+  <AA_JunglePelt.description>This animal is sporting a nice jungle pelt, giving it slight resistance against the heat.</AA_JunglePelt.description>
+  <AA_DesertPelt.label>desert pelt</AA_DesertPelt.label>
+  <AA_DesertPelt.description>This animal is sporting a nice desert pelt, giving it great resistance against the heat.</AA_DesertPelt.description>
+  <AA_NoPain.description>This creature has a reduced pain sensitivity, and it takes longer to be downed due to pain.</AA_NoPain.description>
+  <AA_NoPain.label>no pain sensitivity</AA_NoPain.label>
+  <AA_Kamikaze.label>sudden detonation</AA_Kamikaze.label>
+  <AA_Kamikaze.description>Boom.</AA_Kamikaze.description>
+  <AA_Kamikaze.stages.0.label>initial-hidden</AA_Kamikaze.stages.0.label>
+  <AA_Kamikaze.stages.1.label>critical</AA_Kamikaze.stages.1.label>
+  <AA_CarryWeight1.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight1.description>
+  <AA_CarryWeight1.label>extra carry weight (awful)</AA_CarryWeight1.label>
+  <AA_CarryWeight2.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight2.description>
+  <AA_CarryWeight2.label>extra carry weight (poor)</AA_CarryWeight2.label>
+  <AA_CarryWeight3.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight3.description>
+  <AA_CarryWeight3.label>extra carry weight (normal)</AA_CarryWeight3.label>
+  <AA_CarryWeight4.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight4.description>
+  <AA_CarryWeight4.label>extra carry weight (good)</AA_CarryWeight4.label>
+  <AA_CarryWeight5.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight5.description>
+  <AA_CarryWeight5.label>extra carry weight (excellent)</AA_CarryWeight5.label>
+  <AA_CarryWeight6.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight6.description>
+  <AA_CarryWeight6.label>extra carry weight (masterwork)</AA_CarryWeight6.label>
+  <AA_CarryWeight7.description>This creature can carry extra weight both while hauling and on caravans.</AA_CarryWeight7.description>
+  <AA_CarryWeight7.label>extra carry weight (legendary)</AA_CarryWeight7.label>
+  <AA_MutantLeg.description>This leg seems to be covered in a slick secretion that constantly drips from every pore. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantLeg.description>
+  <AA_MutantLeg.label>mutant leg</AA_MutantLeg.label>
+  <AA_MutantLeg.labelNoun>a mutant leg</AA_MutantLeg.labelNoun>
+  <AA_MutantArm.label>mutant arm</AA_MutantArm.label>
+  <AA_MutantArm.description>This arm twitches and bends in strange unnatural ways, as if it had a mind of its own. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantArm.description>
+  <AA_MutantArm.labelNoun>a mutant arm</AA_MutantArm.labelNoun>
+  <AA_MutantArm.comps.0.tools.0.label>fist</AA_MutantArm.comps.0.tools.0.label>
+  <AA_MutantEye.label>mutant eye</AA_MutantEye.label>
+  <AA_MutantEye.labelNoun>a mutant eye</AA_MutantEye.labelNoun>
+  <AA_MutantEye.description>This eye constantly blinks on its own, like a nervous tic, and a second set of vertical eyelids seems to be present behind the normal, human ones. Something seems... off about it, as if it wasn't a completely natural creation.</AA_MutantEye.description>
+  <AA_PawnmorphAerofleetTF.label>aerofleetmorph</AA_PawnmorphAerofleetTF.label>
+  <AA_PawnmorphAerofleetTF.description>This person has mechanites in their blood that are slowly mutating them into an aerofleet. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more gasbag than human.</AA_PawnmorphAerofleetTF.description>
+  <AA_PawnmorphAerofleetTF.stages.0.label>reeling</AA_PawnmorphAerofleetTF.stages.0.label>
+  <AA_PawnmorphAerofleetTF.stages.1.label>transforming</AA_PawnmorphAerofleetTF.stages.1.label>
+  <AA_PawnmorphAerofleetTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphAerofleetTF.stages.1.letterText>
+  <AA_PawnmorphAerofleetTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphAerofleetTF.stages.1.letterLabel>
+  <AA_PawnmorphAerofleetTF.stages.2.label>changing</AA_PawnmorphAerofleetTF.stages.2.label>
+  <AA_PawnmorphAerofleetTFPartial.label>aerofleet partial</AA_PawnmorphAerofleetTFPartial.label>
+  <AA_PawnmorphAerofleetTFPartial.description>This person has mechanites in their blood that are providing them with aerofleet-esque mutations.</AA_PawnmorphAerofleetTFPartial.description>
+  <AA_PawnmorphAnimusVoxTF.label>animusmorph</AA_PawnmorphAnimusVoxTF.label>
+  <AA_PawnmorphAnimusVoxTF.description>This person has mechanites in their blood that are slowly mutating them into an animusmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming foxy.</AA_PawnmorphAnimusVoxTF.description>
+  <AA_PawnmorphAnimusVoxTF.stages.0.label>reeling</AA_PawnmorphAnimusVoxTF.stages.0.label>
+  <AA_PawnmorphAnimusVoxTF.stages.1.label>transforming</AA_PawnmorphAnimusVoxTF.stages.1.label>
+  <AA_PawnmorphAnimusVoxTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphAnimusVoxTF.stages.1.letterText>
+  <AA_PawnmorphAnimusVoxTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphAnimusVoxTF.stages.1.letterLabel>
+  <AA_PawnmorphAnimusVoxTF.stages.2.label>changing</AA_PawnmorphAnimusVoxTF.stages.2.label>
+  <AA_PawnmorphAnimusVoxTFPartial.label>animus vox partial</AA_PawnmorphAnimusVoxTFPartial.label>
+  <AA_PawnmorphAnimusVoxTFPartial.description>This person has mechanites in their blood that are providing them with animus vox-esque mutations.</AA_PawnmorphAnimusVoxTFPartial.description>
+  <AA_PawnmorphHelixienTF.label>helixienmorph</AA_PawnmorphHelixienTF.label>
+  <AA_PawnmorphHelixienTF.description>This person has mechanites in their blood that are slowly mutating them into a helixienmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more slug than human.</AA_PawnmorphHelixienTF.description>
+  <AA_PawnmorphHelixienTF.stages.0.label>reeling</AA_PawnmorphHelixienTF.stages.0.label>
+  <AA_PawnmorphHelixienTF.stages.1.label>transforming</AA_PawnmorphHelixienTF.stages.1.label>
+  <AA_PawnmorphHelixienTF.stages.1.letterText>TransformationStageWarningContent</AA_PawnmorphHelixienTF.stages.1.letterText>
+  <AA_PawnmorphHelixienTF.stages.1.letterLabel>TransformationStageWarningLabel</AA_PawnmorphHelixienTF.stages.1.letterLabel>
+  <AA_PawnmorphHelixienTF.stages.2.label>changing</AA_PawnmorphHelixienTF.stages.2.label>
+  <AA_PawnmorphHelixienTFPartial.label>helixien partial</AA_PawnmorphHelixienTFPartial.label>
+  <AA_PawnmorphHelixienTFPartial.description>This person has mechanites in their blood that are providing them with helixien-esque mutations.</AA_PawnmorphHelixienTFPartial.description>
+  <AA_ProstheticTentacle.label>simple prosthetic tentacle</AA_ProstheticTentacle.label>
+  <AA_ProstheticTentacle.description>A simple prosthetic tentacle.</AA_ProstheticTentacle.description>
+  <AA_ProstheticTentacle.comps.0.tools.0.label>prosthetic tentacle</AA_ProstheticTentacle.comps.0.tools.0.label>
+  <AA_BionicTentacle.label>bionic tentacle</AA_BionicTentacle.label>
+  <AA_BionicTentacle.description>A bionic tentacle.</AA_BionicTentacle.description>
+  <AA_BionicTentacle.comps.0.tools.0.label>bionic tentacle</AA_BionicTentacle.comps.0.tools.0.label>
+  <AA_ProstheticBeak.label>simple prosthetic beak</AA_ProstheticBeak.label>
+  <AA_ProstheticBeak.description>A simple prosthetic beak.</AA_ProstheticBeak.description>
+  <AA_ProstheticBeak.comps.0.tools.0.label>prosthetic beak</AA_ProstheticBeak.comps.0.tools.0.label>
+  <AA_BionicBeak.label>bionic beak</AA_BionicBeak.label>
+  <AA_BionicBeak.description>A bionic beak.</AA_BionicBeak.description>
+  <AA_BionicBeak.comps.0.tools.0.label>bionic beak</AA_BionicBeak.comps.0.tools.0.label>
+  <AA_BionicMotionDetector.label>bionic motion detector</AA_BionicMotionDetector.label>
+  <AA_BionicMotionDetector.description>Improved bionic motion detector for animals. This motion detector replaces echolocation organs and vibration sensors.</AA_BionicMotionDetector.description>
+  <AA_ProstheticBuoyancyMechanism.label>simple prosthetic buoyancy mechanism</AA_ProstheticBuoyancyMechanism.label>
+  <AA_ProstheticBuoyancyMechanism.description>Simple prosthetic buoyancy mechanism. Should be able to replace hydrogen sacs and other exotic organs keeping hovering creatures in the air.</AA_ProstheticBuoyancyMechanism.description>
+  <AA_BionicBuoyancyMechanism.label>bionic buoyancy mechanism</AA_BionicBuoyancyMechanism.label>
+  <AA_BionicBuoyancyMechanism.description>Improved bionic buoyancy mechanism for animals. Should be able to replace hydrogen sacs and other exotic organs keeping hovering creatures in the air.</AA_BionicBuoyancyMechanism.description>
+  <AA_ProstheticShell.label>simple prosthetic shell</AA_ProstheticShell.label>
+  <AA_ProstheticShell.description>Simple prosthetic shell. Should be able to replace carapaces and shells.</AA_ProstheticShell.description>
+  <AA_BionicShell.label>bionic shell</AA_BionicShell.label>
+  <AA_BionicShell.description>Improved bionic shell for animals. Should be able to replace carapaces and shells.</AA_BionicShell.description>
+  <AA_ProstheticWing.label>simple prosthetic wing</AA_ProstheticWing.label>
+  <AA_ProstheticWing.description>Simple prosthetic wing. Should be able to replace any type of wing.</AA_ProstheticWing.description>
+  <AA_BionicWing.label>bionic wing</AA_BionicWing.label>
+  <AA_BionicWing.description>Improved bionic wing for animals. Should be able to replace any type of wing.</AA_BionicWing.description>
+  <AB_SimpleProstheticClaw.label>simple prosthetic claw</AB_SimpleProstheticClaw.label>
+  <AB_SimpleProstheticClaw.description>Simple prosthetic claw. Fits animals with sharpened claws.</AB_SimpleProstheticClaw.description>
+  <AB_SimpleProstheticClaw.comps.0.tools.0.label>simple prosthetic claw</AB_SimpleProstheticClaw.comps.0.tools.0.label>
+  <AB_BionicClaw.label>bionic claw</AB_BionicClaw.label>
+  <AB_BionicClaw.description>Improved bionic claw. Fits animals with sharpened claws.</AB_BionicClaw.description>
+  <AB_BionicClaw.comps.0.tools.0.label>bionic claw</AB_BionicClaw.comps.0.tools.0.label>
+  <AA_GooAcidifier.label>goo acidifier</AA_GooAcidifier.label>
+  <AA_GooAcidifier.labelNoun>a goo acidifier</AA_GooAcidifier.labelNoun>
+  <AA_GooAcidifier.description>A goo acidifier increases the acidity of a goo's internal organs, making it explode as soon as it is downed. Basically transforms goos into biological suicide bombers.</AA_GooAcidifier.description>
+  <AA_RangedSpinneretImplant.label>ranged spinneret implant</AA_RangedSpinneretImplant.label>
+  <AA_RangedSpinneretImplant.labelNoun>a ranged spinneret implant</AA_RangedSpinneretImplant.labelNoun>
+  <AA_RangedSpinneretImplant.description>An installed ranged spinneret implant. This implant will allow this creature to use a ranged stunning web attack.\n\nNote that installing this on a creature that already has a ranged spinneret will have no effect.</AA_RangedSpinneretImplant.description>
+  <AA_RangedSpinneretImplant.comps.0.verbs.0.label>web</AA_RangedSpinneretImplant.comps.0.verbs.0.label>
+  <AA_RangedSpinneretImplant.comps.0.verbProps.0.label>web</AA_RangedSpinneretImplant.comps.0.verbProps.0.label>
+  <AA_VenomousSpitterImplant.label>venomous spitter implant</AA_VenomousSpitterImplant.label>
+  <AA_VenomousSpitterImplant.labelNoun>a venomous spitter implant</AA_VenomousSpitterImplant.labelNoun>
+  <AA_VenomousSpitterImplant.description>An installed venomous spitter implant. This implant will allow this creature to use a ranged venomous spit attack.\n\nNote that installing this on a creature that already has a venomous spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_VenomousSpitterImplant.description>
+  <AA_VenomousSpitterImplant.comps.0.verbs.0.label>venomous spit</AA_VenomousSpitterImplant.comps.0.verbs.0.label>
+  <AA_VenomousSpitterImplant.comps.0.verbProps.0.label>venomous spit</AA_VenomousSpitterImplant.comps.0.verbProps.0.label>
+  <AA_AcidicSpitterImplant.label>acidic spitter implant</AA_AcidicSpitterImplant.label>
+  <AA_AcidicSpitterImplant.labelNoun>an acidic spitter implant</AA_AcidicSpitterImplant.labelNoun>
+  <AA_AcidicSpitterImplant.description>An installed acidic spitter implant. This implant will allow this creature to use a ranged acidic spit attack that causes additional damage over time.\n\nNote that installing this on a creature that already has an acidic spitter will have no effect. This implant can only be used by animals that have a mouth (and not, for example, a beak or proboscis).</AA_AcidicSpitterImplant.description>
+  <AA_AcidicSpitterImplant.comps.0.verbs.0.label>acidic spit</AA_AcidicSpitterImplant.comps.0.verbs.0.label>
+  <AA_AcidicSpitterImplant.comps.0.verbProps.0.label>acidic spit</AA_AcidicSpitterImplant.comps.0.verbProps.0.label>
+  <AA_BarbedQuillThrowerImplant.label>barbed quill thrower implant</AA_BarbedQuillThrowerImplant.label>
+  <AA_BarbedQuillThrowerImplant.labelNoun>a barbed quill thrower implant</AA_BarbedQuillThrowerImplant.labelNoun>
+  <AA_BarbedQuillThrowerImplant.description>An installed barbed quill thrower implant. This implant will allow this creature to use a ranged venomous quill attack that causes toxic buildup.\n\nNote that installing this on a creature that already has a barbed quill thrower will have no effect.</AA_BarbedQuillThrowerImplant.description>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>barbed quills</AA_BarbedQuillThrowerImplant.comps.0.verbs.0.label>
+  <AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>barbed quills</AA_BarbedQuillThrowerImplant.comps.0.verbProps.0.label>
+  <AA_QuadTeslaCannonImplant.label>quad tesla cannon implant</AA_QuadTeslaCannonImplant.label>
+  <AA_QuadTeslaCannonImplant.labelNoun>a quad tesla cannon implant</AA_QuadTeslaCannonImplant.labelNoun>
+  <AA_QuadTeslaCannonImplant.description>An installed quad tesla cannon implant. This implant will allow this creature to use a powerful ranged plasma attack.\n\nNote that installing this on a creature that already has a quad tesla cannon will have no effect.</AA_QuadTeslaCannonImplant.description>
+  <AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbs.0.label>
+  <AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>quad tesla cannon</AA_QuadTeslaCannonImplant.comps.0.verbProps.0.label>
+  <AA_BioelectricOrganImplant.label>bioelectric organ implant</AA_BioelectricOrganImplant.label>
+  <AA_BioelectricOrganImplant.labelNoun>a bioelectric organ implant</AA_BioelectricOrganImplant.labelNoun>
+  <AA_BioelectricOrganImplant.description>An installed bioelectric organ implant. This implant will allow this creature to use a powerful ranged electric attack that may paralyze and cause heart attacks.\n\nNote that installing this on a creature that already has a bioelectric organ will have no effect.</AA_BioelectricOrganImplant.description>
+  <AA_BioelectricOrganImplant.comps.0.verbs.0.label>electric bolt</AA_BioelectricOrganImplant.comps.0.verbs.0.label>
+  <AA_BioelectricOrganImplant.comps.0.verbProps.0.label>electric bolt</AA_BioelectricOrganImplant.comps.0.verbProps.0.label>
+  <AA_LightFocusingLensImplant.label>light focusing lens implant</AA_LightFocusingLensImplant.label>
+  <AA_LightFocusingLensImplant.labelNoun>a light focusing lens implant</AA_LightFocusingLensImplant.labelNoun>
+  <AA_LightFocusingLensImplant.description>An installed light focusing lens implant. This implant will allow this creature to use a powerful ranged laser attack that sets enemies on fire.\n\nNote that installing this on a creature that already has a light focusing lens will have no effect. This implant takes the space of one of the creature's eyes, so it can't be installed in eyeless animals.</AA_LightFocusingLensImplant.description>
+  <AA_LightFocusingLensImplant.comps.0.verbs.0.label>laser</AA_LightFocusingLensImplant.comps.0.verbs.0.label>
+  <AA_LightFocusingLensImplant.comps.0.verbProps.0.label>laser</AA_LightFocusingLensImplant.comps.0.verbProps.0.label>
+  <AA_HyperAcidicStomachImplant.label>hyper acidic stomach implant</AA_HyperAcidicStomachImplant.label>
+  <AA_HyperAcidicStomachImplant.labelNoun>a hyper acidic stomach implant</AA_HyperAcidicStomachImplant.labelNoun>
+  <AA_HyperAcidicStomachImplant.description>An installed hyper acidic stomach implant. This implant will allow this creature to use a ranged acid attack that causes damage over time.\n\nNote that installing this on a creature that already has a hyper acidic stomach will have no effect. This implant takes the space of the creature's stomach, so it can't be installed in animals that lack one.</AA_HyperAcidicStomachImplant.description>
+  <AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbs.0.label>
+  <AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>acidic vomit</AA_HyperAcidicStomachImplant.comps.0.verbProps.0.label>
+</LanguageData>
