@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Megascarab.label>메가스케럽</Megascarab.label>
+  <Megascarab.description>A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain.</Megascarab.description>
+  <Megascarab.tools.mandibles.label>턱</Megascarab.tools.mandibles.label>
+  <Megascarab.tools.head.label>머리</Megascarab.tools.head.label>
   
   <Megaspider.label>메가스파이더</Megaspider.label>
+  <Megaspider.description>Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain.</Megaspider.description>
+  <Megaspider.race.meatLabel>곤충 고기</Megaspider.race.meatLabel>
+  <Megaspider.tools.head_claw.label>머리 갈고리 발톱</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head.label>머리</Megaspider.tools.head.label>
   
   <Spelopede.label>스펠로피드</Spelopede.label>
+  <Spelopede.description>A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain.</Spelopede.description>
+  <Spelopede.tools.head_claw.label>머리 갈고리 발톱</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head.label>머리</Spelopede.tools.head.label>
 </LanguageData>
