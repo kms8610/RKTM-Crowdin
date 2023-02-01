@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Anesthetize.label>마취</Anesthetize.label>
+  <Anesthetize.description>마취약을 투여해 대상을 기절시킵니다.</Anesthetize.description>
+  <Anesthetize.jobString>마취 중.</Anesthetize.jobString>
+  
+  <Euthanize.label>안락사</Euthanize.label>
+  <Euthanize.description>목을 빠르게 베어 안락사를 진행합니다.</Euthanize.description>
+  <Euthanize.jobString>안락사 중.</Euthanize.jobString>
+  
+  <RemoveBodyPart.label>부위 제거</RemoveBodyPart.label>
+  <RemoveBodyPart.description>몸의 일부를 제거합니다.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>몸 부위 제거 중.</RemoveBodyPart.jobString>
+</LanguageData>
