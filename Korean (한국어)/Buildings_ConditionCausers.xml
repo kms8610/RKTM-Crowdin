@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ClimateAdjustment.label>기후 조절기</ClimateAdjustment.label>
+  <ClimateAdjustment.description>근처의 기후 조절기가 온도를 변화시키고 있습니다.</ClimateAdjustment.description>
+  <ClimateAdjustment.letterText>기후 조절기의 온도 변화가 시작되었습니다.</ClimateAdjustment.letterText>
+  
+  <EMIField.label>전자기 간섭장치</EMIField.label>
+  <EMIField.description>전자기 간섭 발전기가 전자기 간섭 필드를 투사하여 전기 장치를 비활성화합니다.</EMIField.description>
+  <EMIField.descriptionFuture>먼 곳의 전자 교란기가 내뿜은 전자기장이 [map_definite] 주변까지 도달했습니다. [gameConditionDuration_duration] 동안 모든 전자기기가 작동을 멈춥니다.</EMIField.descriptionFuture>
+  <EMIField.endMessage>전자기 간섭 필드가 사라졋습니다.</EMIField.endMessage>
+  <EMIField.letterText>전자기 간섭 필드가 생성되었습니다. 전기 장치가 비활성화되고 있습니다.</EMIField.letterText>
+  
+  <GiantSmokeCloud.label>커다란 연기 구름</GiantSmokeCloud.label>
+  <GiantSmokeCloud.description>근처에 있는 연기 분출기가 이 지역의 햇빛을 줄이고 있습니다.</GiantSmokeCloud.description>
+  <GiantSmokeCloud.letterText>연기 분출기가 태양을 차단하기 시작했습니다.</GiantSmokeCloud.letterText>
+  
+  <PsychicSuppression.label>초능력 억제기</PsychicSuppression.label>
+  <PsychicSuppression.description>초능력 신호 차단기는 {0}에 영향을 미치고 그들의 의식을 감소시키고 있습니다. 그 효과는 개인의 초능력 민감도에 의해서 정해집니다.</PsychicSuppression.description>
+  <PsychicSuppression.descriptionFuture>정신력 억제기는 [map_definite]의 주변에서 [gameConditionDuration_duration] 동안 [psychicSuppressorGender]들의 의식을 감소시킵니다.</PsychicSuppression.descriptionFuture>
+  <PsychicSuppression.endMessage>초능력 억제 필드가 사라졌습니다.</PsychicSuppression.endMessage>
+  <PsychicSuppression.letterText>초능력 억제 필드는 전 지역에 걸쳐 {0}의 의식을 감소시키기 시작했습니다. 그 효과는 개인의 초능력 민감도에 의해서 정해집니다</PsychicSuppression.letterText>
+  
+  <SunBlocker.label>차광 장치</SunBlocker.label>
+  <SunBlocker.description>근처의 차광 장치가 상부 대기를 불투명하게하여 태양을 차단하기 시작합니다.</SunBlocker.description>
+  <SunBlocker.letterText>차광장치가 태양을 차단하기 시작했습니다.</SunBlocker.letterText>
+  
+  <ToxicSpewer.label>독성 분출기</ToxicSpewer.label>
+  <ToxicSpewer.description>근처에 있는 독성 분출기가 이 지역 전체를 독으로 뒤덮고 있습니다.</ToxicSpewer.description>
+  <ToxicSpewer.letterText>독성 분출 기계가 지역 전체를 독으로 뒤덮고 있습니다.</ToxicSpewer.letterText>
+  
+  <WeatherController.label>날씨 조절기</WeatherController.label>
+  <WeatherController.description>근처의 날씨 조절기가 날씨를이 구성으로 강제합니다.</WeatherController.description>
+  <WeatherController.descriptionFuture>날씨 조절기는 [map_definite]의 주변 날씨가 [gameConditionDuration_duration] 동안 [forcedWeather_indefinite](이)가 되도록 합니다.</WeatherController.descriptionFuture>
+  <WeatherController.endMessage>날씨 조절기가 더 이상 날씨를 변경하지 않습니다.</WeatherController.endMessage>
+  <WeatherController.letterText>날씨 조절기가 날씨에 영향을 미치기 시작했습니다.</WeatherController.letterText>
+</LanguageData>
