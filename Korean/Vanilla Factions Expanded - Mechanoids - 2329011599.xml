@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VFEM_RefuelSilo.label>refuel rocket silo</VFEM_RefuelSilo.label>
-  <VFEM_RefuelSilo.verb>refuel</VFEM_RefuelSilo.verb>
-  <VFEM_RefuelSilo.gerund>refueling</VFEM_RefuelSilo.gerund>
-  <VFE_Mechanoids_RepairMachine.label>repair machine</VFE_Mechanoids_RepairMachine.label>
-  <VFE_Mechanoids_RepairMachine.verb>repair</VFE_Mechanoids_RepairMachine.verb>
-  <VFE_Mechanoids_RepairMachine.gerund>repairing</VFE_Mechanoids_RepairMachine.gerund>
-  <VFE_Mechanoids_AttachTurret.label>attach turret</VFE_Mechanoids_AttachTurret.label>
-  <VFE_Mechanoids_AttachTurret.verb>attach turret to</VFE_Mechanoids_AttachTurret.verb>
-  <VFE_Mechanoids_AttachTurret.gerund>attaching turret to</VFE_Mechanoids_AttachTurret.gerund>
+  <VFEM_Frigate.description>Slightly increases mechanoid presence.</VFEM_Frigate.description>
+  <VFEM_Frigate.label>mechanoid frigate</VFEM_Frigate.label>
+  <VFEM_Destroyer.description>Increases mechanoid presence.</VFEM_Destroyer.description>
+  <VFEM_Destroyer.label>mechanoid destroyer</VFEM_Destroyer.label>
+  <VFEM_Cruiser.description>Greatly increases mechanoid presence.</VFEM_Cruiser.description>
+  <VFEM_Cruiser.label>mechanoid cruiser</VFEM_Cruiser.label>
+  <VFEM_Troopship.description>Drastically increases mechanoid presence.</VFEM_Troopship.description>
+  <VFEM_Troopship.label>mechanoid troopship</VFEM_Troopship.label>
+  <VFEM_Carrier.description>Tremendously increases mechanoid presence.</VFEM_Carrier.description>
+  <VFEM_Carrier.label>mechanoid carrier</VFEM_Carrier.label>
+  <VFEM_TravelingMissile.label>missile</VFEM_TravelingMissile.label>
+  <VFEM_TravelingMissile.description>missile in flight.</VFEM_TravelingMissile.description>
 </LanguageData>
