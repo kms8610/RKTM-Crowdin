@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+    <li>r_ritualName->[keyDeity]의 [ritNoun]</li>
+    <li>r_ritualName->[chosenTheme]의 [ritNoun]</li>
+    <li>r_ritualName->[memeConcept]의 [ritNoun]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->절삭</li>
+    <li>ritNoun->절단</li>
+    <li>ritNoun->절개</li>
+    <li>ritNoun->박피</li>
+    <li>ritNoun->칼부림</li>
+    <li>ritNoun->찢음</li>
+    <li>ritNoun->짓이김</li>
+    <li>ritNoun->살점깎기</li>
+    <li>ritNoun->깊은 상처</li>
+    <li>ritNoun->찢어발김</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
+</LanguageData>
