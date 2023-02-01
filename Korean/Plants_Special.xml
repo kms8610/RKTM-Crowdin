@@ -1,32 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChoppedStump_Gauranlen.label>chopped gauranlen stump</ChoppedStump_Gauranlen.label>
-  <ChoppedStump_Gauranlen.description>A stump left behind after a garuanlen tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Gauranlen.description>
+  <ChoppedStump_Polux.label>chopped polux stump</ChoppedStump_Polux.label>
+  <ChoppedStump_Polux.description>A stump left behind after a polux tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Polux.description>
   
-  <GauranlenSeed.label>Gauranlen seed</GauranlenSeed.label>
-  <GauranlenSeed.description>The seed of a Gauranlan tree. It can be planted to create a new Gauranlen tree.</GauranlenSeed.description>
+  <Plant_TreePolux.label>polux tree</Plant_TreePolux.label>
+  <Plant_TreePolux.description>After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks.</Plant_TreePolux.description>
   
-  <Plant_Fibercorn.label>fibercorn</Plant_Fibercorn.label>
-  <Plant_Fibercorn.description>An inedible, fibrous plant which produces a small amount of a wood-like substance.</Plant_Fibercorn.description>
+  <PoluxSeed.label>polux seed</PoluxSeed.label>
+  <PoluxSeed.description>The seed of a polux tree. It can be planted to create a new polux tree which will absorb pollution from nearby terrain.</PoluxSeed.description>
   
-  <Plant_MossGauranlen.label>Gauranlen moss</Plant_MossGauranlen.label>
-  <Plant_MossGauranlen.description>Symbiotic moss that grows near Gauranlen trees.</Plant_MossGauranlen.description>
-  
-  <Plant_Nutrifungus.label>nutrifungus</Plant_Nutrifungus.label>
-  <Plant_Nutrifungus.description>A meaty bioengineered mushroom grown for its nutritious value. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it.</Plant_Nutrifungus.description>
-  
-  <Plant_PodGauranlen.label>Gauranlen pod</Plant_PodGauranlen.label>
-  <Plant_PodGauranlen.description>A small pod that protects a single Gauranlen seed. This seed can be harvested and used to plant a Gauranlen tree.</Plant_PodGauranlen.description>
-  
-  <Plant_Timbershroom.label>timbershroom</Plant_Timbershroom.label>
-  <Plant_Timbershroom.description>A tall brown mushroom with a long stem. When harvested, it yields a wood-like substance.</Plant_Timbershroom.description>
-  
-  <Plant_TreeBonsai.label>bonsai tree</Plant_TreeBonsai.label>
-  <Plant_TreeBonsai.description>A small tree, pruned and shaped to look visually pleasing.</Plant_TreeBonsai.description>
-  
-  <Plant_TreeGauranlen.label>Gauranlen tree</Plant_TreeGauranlen.label>
-  <Plant_TreeGauranlen.description>A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds.</Plant_TreeGauranlen.description>
-  
-  <SmashedStump_Gauranlen.label>smashed gauranlen stump</SmashedStump_Gauranlen.label>
-  <SmashedStump_Gauranlen.description>The remnants of a gauranlen tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Gauranlen.description>
+  <SmashedStump_Polux.label>smashed polux stump</SmashedStump_Polux.label>
+  <SmashedStump_Polux.description>The remnants of a polux tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Polux.description>
 </LanguageData>
