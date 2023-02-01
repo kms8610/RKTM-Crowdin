@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name] is calling from nearby. [asker_possessive] guards were killed in an ambush. [asker_pronoun] escaped, but is now being followed by (*Threat)a manhunting [animalKindDef_label](/Threat).\n\n[asker_nameDef] wants you to keep [asker_objective] safe at [map_definite] for a few hours until [asker_possessive] shuttle can come pick [asker_objective] up.\n\n[asker_pronoun] will bestow [royalFavorReward] [asker_faction_royalFavorLabel] on whoever accepts this quest. This is enough [asker_faction_royalFavorLabel] to receive the royal title of Yeoman, and all benefits that come with it - including the first level of psychic powers.</li>
+  </Intro_Wimp.questDescriptionRules.rulesStrings>
+  <Intro_Wimp.questNameRules.rulesStrings>
+    <li>questName->[adjAny] [asker_royalTitleInCurrentFaction]</li>
+    <li>adjAny->사냥당하는</li>
+    <li>adjAny->도망치는</li>
+    <li>adjAny->혼자 떨어진</li>
+    <li>adjAny->매복당한</li>
+  </Intro_Wimp.questNameRules.rulesStrings>
+  <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] 도착</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>[asker_nameDef](이)가 도망치던 \"치명적인\" [animalKindDef_label](이)가 도착했습니다.\n\n꽤 얌전하고 온순하여 공격적이지 않은걸로 밝혀졌습니다.</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterLabelAngryAnimal.slateRef>식인 [animalKindDef_label]</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>[asker_nameFull](을)를 뒤쫓던 [animalKindDef_label](이)가 따라왔습니다.</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.InspectStringDepartShuttle.slateRef>왕복선에 탑승해야 함</Intro_Wimp.InspectStringDepartShuttle.slateRef>
+  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>왕복선 도착</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>[asker_nameDef](을)를 데려갈 왕복선이 도착했습니다.</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterLabelGuestDied.slateRef>내빈객 사망: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestDied.slateRef>
+  <Intro_Wimp.LetterTextGuestDied.slateRef>보호 임무를 맡은 {SUBJECT_definite}(이)가 사망했습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>승인되지 않은 수술: {SUBJECT_definite}</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>보호해야 될 {SUBJECT_definite}에게 승인되지 않은 수술이 실행되었습니다. 이 위반으로 인해 [asker_pronoun]는 떠나려고 합니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>Xenogerm absorbed: {SUBJECT_definite}</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. Because of this violation, {SUBJECT_pronoun} will now attempt to leave. [failLetterEndingCommon]</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <Intro_Wimp.LetterLabelCaptured.slateRef>포획: {SUBJECT_definite}</Intro_Wimp.LetterLabelCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>접대해야 될 {SUBJECT_definite}(이)가 잡혀갔습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterLabelGuestLost.slateRef>내빈객 실종: {SUBJECT_definite}</Intro_Wimp.LetterLabelGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>보호해야 할 책임이 있는 {SUBJECT_definite}(이)가 지정된 정착지에서 떠났습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>내빈객 실종: {SUBJECT_definite}</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>보호하기로 한 {SUBJECT_definite}(이)가 야생으로 뛰쳐나갔습니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>파괴된 왕복선</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>[asker_nameDef](을)를 데리러 온 왕복선이 파괴되었습니다. [asker_pronoun]는 걸어서 떠납니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterLabelQuestFailed.slateRef>임무 실패: [resolvedQuestName]</Intro_Wimp.LetterLabelQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>[asker_nameDef](을)를 데리러 온 왕복선이 [asker_objective] 태우지 않고 떠났습니다. [asker_pronoun]는 걸어서 떠납니다. [failLetterEndingCommon]</Intro_Wimp.LetterTextQuestFailed.slateRef>
+</LanguageData>
