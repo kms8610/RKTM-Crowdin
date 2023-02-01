@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CharityFulfilled_Beggars.label>거지들을 도움</CharityFulfilled_Beggars.label>
+  
+  <CharityFulfilled_HospitalityRefugees.label>피난민을 도움</CharityFulfilled_HospitalityRefugees.label>
+  
+  <CharityFulfilled_IntroWimp.label>귀족을 구함</CharityFulfilled_IntroWimp.label>
+  
+  <CharityFulfilled_RefugeePodCrash.label>추락한 피난민을 도움</CharityFulfilled_RefugeePodCrash.label>
+  
+  <CharityFulfilled_ShuttleCrashRescue.label>생존자를 도와줌</CharityFulfilled_ShuttleCrashRescue.label>
+  
+  <CharityFulfilled_ThreatReward_Joiner.label>절망적인 피난민을 받아들임</CharityFulfilled_ThreatReward_Joiner.label>
+  
+  <CharityFulfilled_WandererJoins.label>방랑자를 도움</CharityFulfilled_WandererJoins.label>
+  
+  <CharityRefused_Beggars.label>거지떼 거부함</CharityRefused_Beggars.label>
+  
+  <CharityRefused_Beggars_Betrayed.label>거지들을 배신함</CharityRefused_Beggars_Betrayed.label>
+  
+  <CharityRefused_HospitalityRefugees.label>피난민을 거부함</CharityRefused_HospitalityRefugees.label>
+  
+  <CharityRefused_IntroWimp.label>겁쟁이 거부함</CharityRefused_IntroWimp.label>
+  
+  <CharityRefused_Pilgrims.label>pilgrims refused</CharityRefused_Pilgrims.label>
+  
+  <CharityRefused_Pilgrims_Betrayed.label>pilgrims betrayed</CharityRefused_Pilgrims_Betrayed.label>
+  
+  <CharityRefused_RefugeePodCrash.label>피난민 거부함</CharityRefused_RefugeePodCrash.label>
+  
+  <CharityRefused_ShuttleCrashRescue.label>생존자 거부함</CharityRefused_ShuttleCrashRescue.label>
+  
+  <CharityRefused_WandererJoins.label>방랑자 거부함</CharityRefused_WandererJoins.label>
+</LanguageData>
