@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+    <li>r_roleName->야수지배자</li>
+    <li>r_roleName->동물관리인</li>
+    <li>firstPart->터럭</li>
+    <li>firstPart->발톱</li>
+    <li>firstPart->발굽</li>
+    <li>firstPart->꼬리</li>
+    <li>firstPart->수염</li>
+    <li>firstPart->송곳니</li>
+    <li>firstPart->야생</li>
+    <li>firstPart->주둥이</li>
+    <li>secondPart(p=4)->수</li>
+    <li>secondPart(p=4)->지기</li>
+  </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+  
+  <NamerRoleBrawler.rulePack.rulesStrings>
+    <li>r_roleName->광전사</li>
+    <li>firstPart->참격</li>
+    <li>firstPart->주먹</li>
+    <li>firstPart->타격</li>
+    <li>firstPart->칼날</li>
+    <li>firstPart->싸움</li>
+    <li>firstPart->격투</li>
+    <li>firstPart->창</li>
+    <li>firstPart->검</li>
+    <li>firstPart->둔기</li>
+    <li>firstPart->검날</li>
+    <li>firstPart->절단</li>
+    <li>firstPart->묵사발</li>
+    <li>firstPart->박살</li>
+  </NamerRoleBrawler.rulePack.rulesStrings>
+  
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+    <li>firstPart->건강</li>
+    <li>firstPart->회복</li>
+    <li>firstPart->심장</li>
+    <li>firstPart->의무</li>
+    <li>firstPart->메스</li>
+    <li>firstPart->요양</li>
+    <li>firstPart->수술</li>
+    <li>firstPart->진료</li>
+  </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+  
+  <NamerRoleMiner.rulePack.rulesStrings>
+    <li>r_roleName->광부</li>
+    <li>firstPart->채굴</li>
+    <li>firstPart->고랑</li>
+    <li>firstPart->땅속</li>
+    <li>firstPart->돌</li>
+    <li>firstPart->동굴</li>
+    <li>firstPart->곡괭이</li>
+    <li>firstPart->드릴</li>
+    <li>firstPart->아랫</li>
+    <li>firstPart->짱돌</li>
+    <li>firstPart->언덕</li>
+    <li>firstPart->구멍</li>
+    <li>firstPart->터널</li>
+    <li>firstPart->땅굴</li>
+  </NamerRoleMiner.rulePack.rulesStrings>
+  
+  <NamerRoleMoralist.rulePack.rulesStrings>
+    <li>r_roleName(p=4)->[memeMoralist]</li>
+    <li>r_roleName(p=2)->[memeAdjective] [memeMoralist]</li>
+    <li>r_roleName->[chosenTheme]의 [memeMoralist]</li>
+    <li>r_roleName->[keyDeity]의 [memeMoralist]</li>
+    <li>r_roleName->[memeConcept]의 [memeMoralist]</li>
+    <li>r_roleName->[chosenIdeoName]의 [memeMoralist]</li>
+    <li>r_roleName->[chosenAdjective] [memeMoralist]</li>
+    <li>r_roleName->[keyDeity]의 [memeMoralist]</li>
+  </NamerRoleMoralist.rulePack.rulesStrings>
+  
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings>
+    <li>r_roleName->제조업자</li>
+    <li>r_roleName->수리전문가</li>
+    <li>r_roleName->제작자</li>
+    <li>firstPart->제작</li>
+    <li>firstPart->공예</li>
+    <li>firstPart->건축</li>
+    <li>firstPart->제조</li>
+    <li>firstPart->제작</li>
+  </NamerRoleProductionSpecialist.rulePack.rulesStrings>
+  
+  <NamerRoleResearcher.rulePack.rulesStrings>
+    <li>r_roleName->승천한 정신</li>
+    <li>r_roleName->cogitor</li>
+    <li>r_roleName->학자</li>
+    <li>r_roleName->탐구자</li>
+    <li>firstPart->정신</li>
+    <li>firstPart->생각</li>
+    <li>firstPart->집중</li>
+    <li>firstPart->논리</li>
+    <li>firstPart->사고</li>
+    <li>firstPart->상상</li>
+  </NamerRoleResearcher.rulePack.rulesStrings>
+  
+  <NamerRoleShooter.rulePack.rulesStrings>
+    <li>firstPart->총</li>
+    <li>firstPart->발포</li>
+    <li>firstPart->방아쇠</li>
+    <li>firstPart->총알</li>
+    <li>firstPart->탄환</li>
+    <li>firstPart->조준</li>
+    <li>firstPart->저격</li>
+    <li>firstPart->명중</li>
+    <li>firstPart->탄약</li>
+    <li>secondPart(p=4)->잡이</li>
+  </NamerRoleShooter.rulePack.rulesStrings>
+  
+  <NamerRoleSower.rulePack.rulesStrings>
+    <li>r_roleName->농부</li>
+    <li>firstPart->잎</li>
+    <li>firstPart->식물</li>
+    <li>firstPart->녹색</li>
+    <li>firstPart->새싹</li>
+    <li>firstPart->정원</li>
+    <li>firstPart->꽃</li>
+    <li>firstPart->허브</li>
+    <li>firstPart->작물</li>
+    <li>firstPart->농장</li>
+    <li>firstPart->땅</li>
+    <li>firstPart->흙</li>
+    <li>firstPart->씨앗</li>
+    <li>firstPart->토양</li>
+    <li>firstPart->뿌리</li>
+  </NamerRoleSower.rulePack.rulesStrings>
+  
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>secondPart->의 달인</li>
+    <li>secondPart->지기</li>
+    <li>secondPart->불꽃</li>
+    <li>secondPart->집착자</li>
+    <li>secondPart->책임자</li>
+    <li>secondPart->eye</li>
+    <li>secondPart->손</li>
+    <li>secondPart->마</li>
+    <li>secondPart->두뇌</li>
+    <li>secondPart->고정자</li>
+    <li>secondPart->인도자</li>
+    <li>secondPart->교육자</li>
+    <li>secondPart->전달자</li>
+    <li>secondPart->둥이</li>
+    <li>secondPart->애호가</li>
+    <li>secondPart->잡이</li>
+    <li>secondPart->유일자</li>
+    <li>secondPart->달인</li>
+    <li>secondPart->장이</li>
+    <li>secondPart->쟁이</li>
+    <li>secondPart->장인</li>
+    <li>secondPart->장</li>
+    <li>secondPart->꾼</li>
+    <li>secondPart->사</li>
+  </NamerRoleSpecialistUtility.rulePack.rulesStrings>
+</LanguageData>
