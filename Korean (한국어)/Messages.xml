@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MessageMustChooseIdeo>정착지의 사상을 생성하거나 기존 사상에서 선택하세요.</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>사상의 이름을 비울 수 없습니다.</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1}(와)과 {PRECEPT2}(을)를 함께 선택할 수 없습니다.</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}(이)가 {ROLE}의 예복과 충돌합니다.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL}(은)는 {ROLE}의 예복인 {ROLEAPPAREL}(와)과 충돌합니다. 이것은 {ROLE}(이)가 필요로 하고 원하는 옷을 같이 입을 수 없게 만듭니다.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageRitualMissingTarget>{PRECEPT}에는 다음 건물 중 하나 필요</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>{PRECEPT}에는 관련된 행사가 필요합니다.</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort}의 사상으로 인해 이 일을 거부했습니다.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef}(이)가 {RECIPIENT_nameDef}(을)를 자신의 사상으로 교화하려고 시도했습니다. {RECIPIENT_nameDef}의 믿음이 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}까지 떨어졌으나, 자신을 향한 교화 시도에는 분노했습니다.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef}(이)가 {PAWN2_nameDef}(을)를 자신의 사상으로 교화하려고 시도했습니다. 이로 인해 사교적 다툼이 발생했습니다!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>최소 {0}개의 가르침을 선택해야 합니다.</MessageNotEnoughMemes>
+  <MessageTooManyMemes>{0}개보다 많은 가르침을 선택할 수 없습니다.</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>구조를 선택해야 합니다.</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label}(와)과 {1_label}(을)를 함께 선택할 수 없습니다.</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>{1}(을)를 시작하려면 {0}(이)가 필요합니다.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNotEnoughSpectators>At least {0} spectator(s) are required to start the {1}.</MessageNotEnoughSpectators>
+  <MessageRoleChangeChooseDifferentRole>You must choose a role.</MessageRoleChangeChooseDifferentRole>
+  <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>Need at least one {0} participating.</MessageNeedAtLeastOneParticipantOfIdeo>
+  
+  <MessageRoleAssigned>{0_labelShort}(이)가 {1}의 지위에 올랐습니다.</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>{0_labelShort}(이)가 수감되었으므로 더 이상 {1}(이)가 아닙니다.</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>경고: 나무를 베면 {0}(이)가 분노할 것입니다.</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>경고: 채굴하면 {0}(이)가 분노할 것입니다.</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>{TREE_label}(와)과 {PAWN_nameDef}의 교감이 끊어졌습니다. {TREE_label}(와)과 다시 교감하려면 {DURATION}(을)를 기다려야 합니다.</MessageConnectedPawnDied>
+
+  <!-- Slave interactions -->
+  <MessageSlaveEmancipated>{1_nameDef}(이)가 {0_nameDef}(을)를 해방시켰습니다.</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{1_nameDef}(이)가 {0_nameDef}(을)를 노예로 삼았습니다.</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>{0_nameDef}(이)가 수감자 {1_nameDef}의 의지를 꺾었습니다.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>이제 노예로 삼을 수 있습니다.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  <!-- Prisoner interactions -->
+  <MessageNoWardenCapableOfEnslavement>어떤 간수도 이 사람을 노예로 삼지 않을 것입니다.</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}(을)를 교화할 수 있는 {MEMBERNAME} 간수가 없습니다. {PRISONER_possessive} 처우를 "상호작용 없음"으로 재설정했습니다.</MessageNoWardenOfIdeo>
+
+  <!-- Camps -->
+  <MessageCampDetected>근처에서 {FACTION_name}(이)가 운영하는 {CAMP_label}(을)를 발견했습니다.</MessageCampDetected>
+
+  <!-- Charity -->
+  <MessageCharityEventRefused>이타적 사상 위배</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>이타적 사상 충족</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0} are leaving empty-handed.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItems>{0} have accepted the requested items and are leaving.</MessageBeggarsLeavingWithItems>
+  <MessageWandererLeftToDie>{0_nameDef}(이)가 아무런 치료도 받지 못하고 사망했습니다.</MessageWandererLeftToDie>
+  <MessageWandererRecruited>{0_nameDef}(을)를 포섭했습니다.</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef}(이)가 건강하게 지역을 빠져나갔습니다.</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>{0} has been failed.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0} has been successfully completed.</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <CannotRemove>제거 불가</CannotRemove>
+  <CannotRemoveMemeRequired>{MEME}(을)를 제거할 수 없음</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>{MEME}(을)를 제거할 수 없음: 플레이어 세력 요구사항</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>{FACTION_name} 요구사항</RequiredByFaction>
+  <OverlappingRoleApparel>각각의 지위는 서로 같은 예복을 가질 수 없습니다.</OverlappingRoleApparel>
+  
+  <SelfDestructCountdown>{0}(이)가 {1} 후 자폭합니다.</SelfDestructCountdown>
+  <PreceptNameTooLong>Precept name is too long (maximum {0} letters)</PreceptNameTooLong>
+
+  <!-- Ancient complex -->
+  <MessageAncientTerminalDiscovered>{0}의 정보가 담긴 고대 단말기를 발견했습니다!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>{0}에 대한 비밀 정보를 입수했습니다! 왕복선에 탑승하여 출발하세요.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>고대 보급 위성이 활성화됐습니다. 보급품이 근처로 낙하합니다.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0}의 {1}(이)가 보급 신호를 탐지한 후 공격하고 있습니다.</MessageAncientSignalHostileDetected>
+
+  <!-- Ancient altar -->
+  <MessageAncientAltarThreatsWokenUp>모든 보안 시스템이 활성화되고 있습니다!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>보안 시스템의 모든 구성 요소에 존재가 노출됐습니다.</MessageAncientAltarThreatsAlerted>
+
+  <!-- Animals -->
+  <MessageAnimalIsVeneratedForAllColonists>경고: 모든 {PAWNS}(이)가 {PAWNKINDLABELPLURAL}(을)를 신성시합니다. 아무도 해를 끼치지 않을 것입니다.</MessageAnimalIsVeneratedForAllColonists>
+
+  <!-- Archonexus -->
+  <MessageNewColonyMax>새로운 정착지로 데려갈 {0}(을)를 {1}명까지 선택하세요.</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>적어도 한 명의 정착민을 선택해야 합니다.</MessageNewColoyRequiresOneColonist>
+
+  <!-- Fuel node -->
+  <MessageFuelNodeTriggered>{0}에 불이 붙어서 폭발하려고 합니다!</MessageFuelNodeTriggered>
+
+  <!-- Ancient complex -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural}(이)가 {1} 후 깨어납니다.</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>곤충 군락이 다가오고 있습니다.</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0}(이)가 자극을 받았습니다. 곧 폭발할 수 있습니다!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
+
+  <!-- Fluid ideo messages -->
+  <MessageDevelopmentPointsEarned>개혁 점수가 {0}에서 {1}로 변화했습니다. ({2})</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>구조, 가르침및 스타일은 한 번만 변경할 수 있습니다.</MessageFluidIdeoOneChangeAllowed>
+
+</LanguageData>
