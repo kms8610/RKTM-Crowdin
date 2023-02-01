@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChangeTreeMode.label>change dryad types</ChangeTreeMode.label>
+  <ChangeTreeMode.gerund>changing dryad caste for</ChangeTreeMode.gerund>
+  <ChangeTreeMode.verb>change dryad caste for</ChangeTreeMode.verb>
+  
+  <ConvertPrisoner.label>convert prisoners</ConvertPrisoner.label>
+  <ConvertPrisoner.gerund>converting</ConvertPrisoner.gerund>
+  <ConvertPrisoner.verb>convert</ConvertPrisoner.verb>
+  
+  <EmancipateSlave.label>emancipate slaves</EmancipateSlave.label>
+  <EmancipateSlave.gerund>emancipating</EmancipateSlave.gerund>
+  <EmancipateSlave.verb>emancipate</EmancipateSlave.verb>
+  
+  <EnslavePrisoner.label>enslave prisoners</EnslavePrisoner.label>
+  <EnslavePrisoner.gerund>enslaving</EnslavePrisoner.gerund>
+  <EnslavePrisoner.verb>enslave</EnslavePrisoner.verb>
+  
+  <ExecuteSlave.label>수감자 도축</ExecuteSlave.label>
+  <ExecuteSlave.gerund>executing</ExecuteSlave.gerund>
+  <ExecuteSlave.verb>처형</ExecuteSlave.verb>
+  
+  <ExtractSkull.label>extract skull</ExtractSkull.label>
+  <ExtractSkull.gerund>extracting skull of</ExtractSkull.gerund>
+  <ExtractSkull.verb>꺼내기</ExtractSkull.verb>
+  
+  <HaulToBiosculpterPod.label>carry to biosculpter pod</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.gerund>채우기</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.verb>채우기</HaulToBiosculpterPod.verb>
+  
+  <ImprisonSlave.label>imprison slaves</ImprisonSlave.label>
+  <ImprisonSlave.gerund>imprisoning</ImprisonSlave.gerund>
+  <ImprisonSlave.verb>imprison</ImprisonSlave.verb>
+  
+  <PruneGauranlenTree.label>prune Gauranlen trees</PruneGauranlenTree.label>
+  <PruneGauranlenTree.gerund>가지치기</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.verb>prune</PruneGauranlenTree.verb>
+  
+  <SuppressSlave.label>suppress slaves</SuppressSlave.label>
+  <SuppressSlave.gerund>suppressing</SuppressSlave.gerund>
+  <SuppressSlave.verb>복종시키기</SuppressSlave.verb>
+</LanguageData>
