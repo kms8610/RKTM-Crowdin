@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->[map_definite]에서 멀지 않은 곳에 [itemStashContentsValue] 만큼 가치가 있는 귀중품에 대한 메시지를 가로챘습니다.\n\n수집품목 구성:\n\n[itemStashContents]\n\n[allSitePartsDescriptionsExceptFirst]에서 찾을 수 있을 것 같습니다.</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]의 [asker_faction_leaderTitle], [asker_nameDef](이)가 멀지 않은 곳에 [itemStashContentsValue] 만큼의 가치가 있는 곳의 위치를 알려주었습니다.\n\n수집품목 구성:\n\n[itemStashContents]\n\n[asker_label](은)는 [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[asker_nameDef]의 [treasure](이)가 있는 [stash]</li>
+    <li>questName->[treasure](이)가 있는 [stash]</li>
+    <li>stash->상자</li>
+    <li>stash->은닉처</li>
+    <li>stash->보물상자</li>
+    <li>stash->오두막집</li>
+    <li>treasure->보물</li>
+    <li>treasure->귀중품</li>
+    <li>treasure->재물</li>
+    <li>treasure->탐낼만한 물건</li>
+    <li>treasure->보급품</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>임무 만료: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>가로챈 통신에는 다른 이들이 수집품들을 가져갔다고 알려줍니다. [resolvedQuestName] 임무가 만료되었습니다.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+</LanguageData>
