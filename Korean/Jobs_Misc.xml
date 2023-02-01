@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActivateArchonexusCore.reportString>invoking archotech.</ActivateArchonexusCore.reportString>
+  <AbsorbXenogerm.reportString>absorbing xenogerm from TargetA.</AbsorbXenogerm.reportString>
   
-  <Blind.reportString>Blinding TargetA.</Blind.reportString>
+  <CarryGenepackToContainer.reportString>hauling TargetA to TargetB.</CarryGenepackToContainer.reportString>
   
-  <CarryToBiosculpterPod.reportString>carrying TargetA to biosculpter pod.</CarryToBiosculpterPod.reportString>
+  <CarryToBuilding.reportString>carrying TargetB to TargetA.</CarryToBuilding.reportString>
   
-  <DeliverToAltar.reportString>delivering TargetA to altar.</DeliverToAltar.reportString>
+  <CastAbilityGoToThing.reportString>Doing something.</CastAbilityGoToThing.reportString>
   
-  <DyeHair.reportString>dyeing hair</DyeHair.reportString>
+  <CastAbilityOnThingWithoutWeapon.reportString>Doing something.</CastAbilityOnThingWithoutWeapon.reportString>
   
-  <EnterBiosculpterPod.reportString>entering biosculpter pod.</EnterBiosculpterPod.reportString>
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>Doing something.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
   
-  <ExtractRelic.reportString>extracting TargetB from TargetA.</ExtractRelic.reportString>
+  <ClearPollution.reportString>cleaning pollution.</ClearPollution.reportString>
   
-  <ExtractToInventory.reportString>extracting TargetB to inventory.</ExtractToInventory.reportString>
+  <ControlMech.reportString>taking control of TargetA.</ControlMech.reportString>
   
-  <GetNeuralSupercharge.reportString>getting neural supercharge from TargetA</GetNeuralSupercharge.reportString>
+  <CreateXenogerm.reportString>creating xenogerm.</CreateXenogerm.reportString>
   
-  <GiveToPawn.reportString>giving TargetA to TargetB.</GiveToPawn.reportString>
+  <Deathrest.reportString>deathresting.</Deathrest.reportString>
   
-  <InduceSlaveToRebel.reportString>inducing TargetA to rebel.</InduceSlaveToRebel.reportString>
+  <DisassembleMech.reportString>disassembling TargetA.</DisassembleMech.reportString>
   
-  <InstallRelic.reportString>installing TargetA in TargetB</InstallRelic.reportString>
+  <EnterBuilding.reportString>entering TargetA.</EnterBuilding.reportString>
   
-  <MeditatePray.reportString>praying.</MeditatePray.reportString>
+  <GetReimplanted.reportString>absorbing xenogerm from TargetA.</GetReimplanted.reportString>
   
-  <OpenStylingStationDialog.reportString>changing style at TargetA.</OpenStylingStationDialog.reportString>
+  <HaulMechToCharger.reportString>hauling TargetA to charger.</HaulMechToCharger.reportString>
   
-  <RecolorApparel.reportString>recoloring apparel</RecolorApparel.reportString>
+  <InstallMechlink.reportString>installing TargetA.</InstallMechlink.reportString>
   
-  <Sacrifice.reportString>Sacrificing TargetA.</Sacrifice.reportString>
+  <MechCharge.reportString>charging.</MechCharge.reportString>
   
-  <Scarify.reportString>Scarifying TargetA.</Scarify.reportString>
+  <PrisonerBloodfeed.reportString>feeding on TargetA.</PrisonerBloodfeed.reportString>
   
-  <UseStylingStation.reportString>changing style at TargetA.</UseStylingStation.reportString>
+  <ReadDatacore.reportString>decrypting TargetA.</ReadDatacore.reportString>
   
-  <UseStylingStationAutomatic.reportString>changing style at TargetA.</UseStylingStationAutomatic.reportString>
+  <ReleaseMechs.reportString>releasing mechanoids.</ReleaseMechs.reportString>
+  
+  <RemoveMechlink.reportString>Doing something.</RemoveMechlink.reportString>
+  
+  <RepairMech.reportString>repairing TargetA.</RepairMech.reportString>
+  
+  <RepairMechRemote.reportString>repairing TargetA.</RepairMechRemote.reportString>
+  
+  <SelfShutdown.reportString>dormant self-charging.</SelfShutdown.reportString>
+  
+  <ShieldMech.reportString>shielding TargetA.</ShieldMech.reportString>
+  
+  <TryRomance.reportString>romancing TargetA.</TryRomance.reportString>
+  
+  <Wait_WithSleeping.reportString>waiting.</Wait_WithSleeping.reportString>
 </LanguageData>
