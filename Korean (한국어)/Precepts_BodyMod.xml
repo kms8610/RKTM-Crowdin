@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BodyModification.label>신체 개조</BodyModification.label>
+  <BodyMod_Abhorrent.label>절대적으로 혐오함</BodyMod_Abhorrent.label>
+  <BodyMod_Abhorrent.description>인간의 자연스러운 신체를 개조하는 것은 극악무도한 행위다.</BodyMod_Abhorrent.description>
+  
+  <BodyMod_Approved.label>찬성함</BodyMod_Approved.label>
+  <BodyMod_Approved.description>인간은 결점 투성이인 자연적 신체를 개선하여 스스로의 잠재력을 최대로 이끌어내야 한다.</BodyMod_Approved.description>
+  
+  <BodyMod_Disapproved.label>약간 혐오함</BodyMod_Disapproved.label>
+  <BodyMod_Disapproved.description>인간의 자연스러운 신체를 개조하는 것은 역겹고 더러운 행위다.</BodyMod_Disapproved.description>
 </LanguageData>
