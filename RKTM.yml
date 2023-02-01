@@ -5,3 +5,5 @@ files:
       - LoadFolders.xml
     translation: /**/%language%/%original_file_name%
     content_segmentation: 0
+  - source: '*.txt'
+    translation: /**/%language%/%original_file_name%
