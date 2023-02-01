@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InsectMeat.label>곤충 고기</InsectMeat.label>
+  <InsectMeatEating_Despised_Classic.label>천박함</InsectMeatEating_Despised_Classic.label>
+  <InsectMeatEating_Despised_Classic.description>벌레 고기는 보기만 해도 역겹고, 먹기 싫습니다. 불쾌해!</InsectMeatEating_Despised_Classic.description>
 </LanguageData>
