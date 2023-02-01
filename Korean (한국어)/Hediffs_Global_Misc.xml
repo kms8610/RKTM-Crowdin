@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Anesthetic.label>마취</Anesthetic.label>
+  <Anesthetic.description>마취제가 혈액을 타고 흐릅니다. 마취제는 생물체를 무의식 상태로 만듭니다.</Anesthetic.description>
+  <Anesthetic.stages.wearing_off.label>지침</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.woozy.label>멍함</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.sedated.label>진정됨</Anesthetic.stages.sedated.label>
+  
+  <BloodLoss.label>출혈</BloodLoss.label>
+  <BloodLoss.description>A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply.</BloodLoss.description>
+  <BloodLoss.stages.minor-0.label>가벼움</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-1.label>가벼움</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.moderate.label>진행됨</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.severe.label>심각함</BloodLoss.stages.severe.label>
+  <BloodLoss.stages.extreme.label>극심함</BloodLoss.stages.extreme.label>
+  
+  <BrainShock.label>brain shock</BrainShock.label>
+  <BrainShock.description>뇌에 전기 충격이 가해졌습니다. 일반적으로 EMP 폭발에 휘말린 뇌 임플란트의 영향으로 발생합니다.</BrainShock.description>
+  <BrainShock.labelNoun>뇌충격</BrainShock.labelNoun>
+  
+  <CatatonicBreakdown.label>신경쇠약</CatatonicBreakdown.label>
+  <CatatonicBreakdown.description>정신충격으로 움직일 수 없는 상태입니다. 피해자는 무의식적으로 무너집니다.</CatatonicBreakdown.description>
+  <CatatonicBreakdown.labelNoun>신경쇠약</CatatonicBreakdown.labelNoun>
+  
+  <CoveredInFirefoam.label>covered in firefoam</CoveredInFirefoam.label>
+  <CoveredInFirefoam.description>Covered in a fire-retardant foam.</CoveredInFirefoam.description>
+  
+  <CryptosleepSickness.label>동면병</CryptosleepSickness.label>
+  <CryptosleepSickness.description>동면관을 사용한 후에 찾아오는 현상입니다. 동면관은 노화와 사망을 방지하기 위해 많은 신체기능을 일시 중단하고 대체합니다. 동면관이 정지하면 신체는 신진대사를 다시 회복하고 균형을 잡는대까지 시간이 걸립니다. 이것이 진행되는 동안, 환자는 메스꺼움, 현기증 및 불안정한 심적 상태로 고통받습니다.</CryptosleepSickness.description>
+  <CryptosleepSickness.descriptionShort>After-effects of using a cryptosleep pod including dizziness, nausea, and vomiting.</CryptosleepSickness.descriptionShort>
+  
+  <DrugOverdose.label>약물과용</DrugOverdose.label>
+  <DrugOverdose.description>혈액 속 약물의 과도한 농도로 인한 신체적 피해를 받습니다.</DrugOverdose.description>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>과다복용: {0}</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>{0}(이)가 과다로 복용했습니다!</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <DrugOverdose.labelNoun>약물과용</DrugOverdose.labelNoun>
+  <DrugOverdose.stages.minor-0.label>가벼움</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-1.label>가벼움</DrugOverdose.stages.minor-1.label>
+  <DrugOverdose.stages.major.label>심각함</DrugOverdose.stages.major.label>
+  
+  <FoodPoisoning.label>식중독</FoodPoisoning.label>
+  <FoodPoisoning.description>소화 질환입니다. 먹은 음식이 썩었거나, 더러운 환경에서 조리되거나, 실수로 독이 들어가거나, 날것이었을 때 발생할 수 있습니다. 환자는 한동안 구토 증세를 느끼며 고통받을 것입니다.</FoodPoisoning.description>
+  <FoodPoisoning.stages.recovering.label>회복 중</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.major.label>심각함</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.initial.label>초기</FoodPoisoning.stages.initial.label>
+  
+  <HeartAttack.label>심근경색</HeartAttack.label>
+  <HeartAttack.description>심장의 리듬이 망가지고 있습니다. 심장 마비는 몹시 고통스럽습니다. 이것은 악화되고 사망으로 이어지거나 회복할 수 있습니다.</HeartAttack.description>
+  <HeartAttack.labelNoun>심근경색</HeartAttack.labelNoun>
+  <HeartAttack.stages.painful.label>고통</HeartAttack.stages.painful.label>
+  <HeartAttack.stages.debilitating.label>쇠약</HeartAttack.stages.debilitating.label>
+  <HeartAttack.stages.fatal.label>치명적</HeartAttack.stages.fatal.label>
+  
+  <Pregnant.label>임신</Pregnant.label>
+  <Pregnant.description>이 생물은 임신 중입니다. 시간이 지나면 출산합니다. 굶주리거나 다치면 유산할 수 있습니다.</Pregnant.description>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>{0}(이)가 임신했습니다!</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <Pregnant.labelNoun>임신</Pregnant.labelNoun>
+  <Pregnant.stages.earlystage.label>초기</Pregnant.stages.earlystage.label>
+  <Pregnant.stages.middlestage.label>중기</Pregnant.stages.middlestage.label>
+  <Pregnant.stages.latestage.label>만삭</Pregnant.stages.latestage.label>
+  
+  <PsychicComa.label>psychic coma</PsychicComa.label>
+  <PsychicComa.description>초능력 과부하에서 뇌가 회복되는 동안 양성 혼수상태의 한 형태입니다.</PsychicComa.description>
+  <PsychicComa.labelNoun>초능력 혼수상태</PsychicComa.labelNoun>
+  
+  <PsychicHangover.label>psychic hangover</PsychicHangover.label>
+  <PsychicHangover.description>쌓여있던 신경열이 흩어지면서 발생하는 정신적 후유증입니다. 귀찮지만 위험하지는 않습니다.</PsychicHangover.description>
+  <PsychicHangover.labelNoun>정신적 후유증</PsychicHangover.labelNoun>
+  <PsychicHangover.stages.forming.label>형성 중</PsychicHangover.stages.forming.label>
+  <PsychicHangover.stages.buzzing.label>귀울림</PsychicHangover.stages.buzzing.label>
+  
+  <PsychicShock.label>정신충격</PsychicShock.label>
+  <PsychicShock.description>정신적 충격에 의해 뇌에 혼란이 온 상태입니다. 타인의 초능력에 의해 뇌를 공격당하거나 스스로 초능력을 과도하게 사용하는 것 때문에 발생하며, 회복되기까지 오랜 시간이 걸립니다.</PsychicShock.description>
+  <PsychicShock.labelNoun>사이킥 쇼크</PsychicShock.labelNoun>
+  
+  <ResurrectionSickness.label>부활 후유증</ResurrectionSickness.label>
+  <ResurrectionSickness.description>After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves.</ResurrectionSickness.description>
+  
+  <ToxicBuildup.label>중독</ToxicBuildup.label>
+  <ToxicBuildup.description>Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance.</ToxicBuildup.description>
+  <ToxicBuildup.stages.initial-0.label>초기</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-1.label>초기</ToxicBuildup.stages.initial-1.label>
+  <ToxicBuildup.stages.minor.label>가벼움</ToxicBuildup.stages.minor.label>
+  <ToxicBuildup.stages.moderate.label>진행됨</ToxicBuildup.stages.moderate.label>
+  <ToxicBuildup.stages.serious.label>심각함</ToxicBuildup.stages.serious.label>
+  <ToxicBuildup.stages.extreme.label>극심함</ToxicBuildup.stages.extreme.label>
+</LanguageData>
