@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PartyCloseWander.label>파티</PartyCloseWander.label>
-  
-  <PartyDance.label>무도회</PartyDance.label>
-  
-  <PlayTargetInstrument.label>음악 연주</PlayTargetInstrument.label>
+  <Party.label>파티</Party.label>
 </LanguageData>
