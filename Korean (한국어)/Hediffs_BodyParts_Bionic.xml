@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallBionicArm.label>생체공학 팔 이식</InstallBionicArm.label>
-  <InstallBionicArm.description>생체공학 팔을 이식합니다.</InstallBionicArm.description>
-  <InstallBionicArm.jobString>생체공학 팔 이식 중.</InstallBionicArm.jobString>
+  <BionicArm.label>생체공학 팔</BionicArm.label>
+  <BionicArm.description>생체공학 팔이 설치되어 있습니다.</BionicArm.description>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.labelNoun>생체공학 팔</BionicArm.labelNoun>
   
-  <InstallBionicEar.label>생체공학 귀 이식</InstallBionicEar.label>
-  <InstallBionicEar.description>생체공학 귀를 이식합니다.</InstallBionicEar.description>
-  <InstallBionicEar.jobString>생체공학 귀 이식 중.</InstallBionicEar.jobString>
+  <BionicEar.label>생체공학 귀</BionicEar.label>
+  <BionicEar.description>생체공학 귀가 설치되어 있습니다.</BionicEar.description>
+  <BionicEar.labelNoun>생체공학 귀</BionicEar.labelNoun>
   
-  <InstallBionicEye.label>생체공학 눈 이식</InstallBionicEye.label>
-  <InstallBionicEye.description>생체공학 눈을 이식합니다.</InstallBionicEye.description>
-  <InstallBionicEye.jobString>생체공학 눈 이식 중.</InstallBionicEye.jobString>
+  <BionicEye.label>생체공학 눈</BionicEye.label>
+  <BionicEye.description>생체공학 눈이 설치되어 있습니다.</BionicEye.description>
+  <BionicEye.labelNoun>생체공학 눈</BionicEye.labelNoun>
   
-  <InstallBionicHeart.label>생체공학 심장 이식</InstallBionicHeart.label>
-  <InstallBionicHeart.description>생체공학 심장을 이식합니다.</InstallBionicHeart.description>
-  <InstallBionicHeart.jobString>생체공학 심장 이식 중.</InstallBionicHeart.jobString>
+  <BionicHeart.label>생체공학 심장</BionicHeart.label>
+  <BionicHeart.description>생체공학 심장이 설치되어 있습니다.</BionicHeart.description>
+  <BionicHeart.labelNoun>생체공학 심장</BionicHeart.labelNoun>
   
-  <InstallBionicLeg.label>생체공학 다리 이식</InstallBionicLeg.label>
-  <InstallBionicLeg.description>생체공학 다리를 이식합니다.</InstallBionicLeg.description>
-  <InstallBionicLeg.jobString>생체공학 다리 이식 중.</InstallBionicLeg.jobString>
+  <BionicLeg.label>생체공학 다리</BionicLeg.label>
+  <BionicLeg.description>생체공학 다리가 설치되어 있습니다.</BionicLeg.description>
+  <BionicLeg.labelNoun>생체공학 다리</BionicLeg.labelNoun>
   
-  <InstallBionicSpine.label>생체공학 척추 이식</InstallBionicSpine.label>
-  <InstallBionicSpine.description>생체공학 척추를 이식합니다.</InstallBionicSpine.description>
-  <InstallBionicSpine.jobString>생체공학 척추 이식 중.</InstallBionicSpine.jobString>
+  <BionicSpine.label>생체공학 척추</BionicSpine.label>
+  <BionicSpine.description>생체공학 척추가 설치되어 있습니다.</BionicSpine.description>
+  <BionicSpine.labelNoun>생체공학 척추</BionicSpine.labelNoun>
   
-  <InstallBionicStomach.label>생체공학 위 이식</InstallBionicStomach.label>
-  <InstallBionicStomach.description>생체공학 위를 이식합니다.</InstallBionicStomach.description>
-  <InstallBionicStomach.jobString>생체공학 위 이식 중.</InstallBionicStomach.jobString>
+  <BionicStomach.label>생체공학 위</BionicStomach.label>
+  <BionicStomach.description>생체공학 위가 설치되어 있습니다.</BionicStomach.description>
+  <BionicStomach.labelNoun>생체공학 위</BionicStomach.labelNoun>
   
-  <InstallBionicTongue.label>생체공학 혀 이식</InstallBionicTongue.label>
-  <InstallBionicTongue.description>생체공학 혀를 이식합니다.</InstallBionicTongue.description>
-  <InstallBionicTongue.jobString>생체공학 혀 이식 중</InstallBionicTongue.jobString>
+  <BionicTongue.label>bionic tongue</BionicTongue.label>
+  <BionicTongue.description>생체공학 혀가 설치되어 있습니다.</BionicTongue.description>
+  <BionicTongue.labelNoun>생체공학 혀</BionicTongue.labelNoun>
   
-  <InstallDeathAcidifier.label>사후 처리장치 설치</InstallDeathAcidifier.label>
-  <InstallDeathAcidifier.description>사후 처리장치를 설치합니다.</InstallDeathAcidifier.description>
-  <InstallDeathAcidifier.jobString>사후 처리장치 설치 중</InstallDeathAcidifier.jobString>
+  <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
+  <DeathAcidifier.description>사후 처리장치가 설치되어 있습니다.</DeathAcidifier.description>
+  <DeathAcidifier.labelNoun>사후 처리장치</DeathAcidifier.labelNoun>
 </LanguageData>
