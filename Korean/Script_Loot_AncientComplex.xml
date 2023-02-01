@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
-    <li>questDescription->You've learned of an ancient complex nearby that is said to contain ancient treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</li>
-  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
-  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
-    <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
-    <li>questName->[complex] [finalWord]</li>
+  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+    <li>questDescription->You've [discoveryDesc] of an ancient complex nearby that contains the remains of a long-dead mechanitor.\n\nMechanitors can create, control, and manipulate mechanoids for work and combat. If you can break into the complex and collect the mechanitor's corpse, you can extract their mechlink and turn one of your own colonists into a mechanitor.\n\nBe warned - these kinds of structures can contain a variety of threats, and your activity at the complex might draw unwanted attention.</li>
+    <li>discoveryDesc(discovered==false)->learned</li>
+    <li>discoveryDesc(discovered==true)->determined the location</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
+    <li>questName->mechanitor [complex]</li>
     <li>complexAdj->secret</li>
-    <li>complexAdj->mysterious</li>
     <li>complexAdj->ancient</li>
     <li>complexAdj->old</li>
     <li>complexAdj->hidden</li>
-    <li>complexAdj->deathly</li>
+    <li>complexAdj->dusty</li>
+    <li>complexAdj->dangerous</li>
+    <li>complexAdj->hidden</li>
     <li>complex->complex</li>
-    <li>complex->installation</li>
-    <li>complex->structure</li>
-    <li>finalWord->treasure</li>
-    <li>finalWord->riches</li>
-    <li>finalWord->trove</li>
-    <li>finalWord->cache</li>
-    <li>finalWord->loot</li>
-    <li>finalWord->robbing</li>
-    <li>finalWord->looting</li>
-    <li>finalWord->raiding</li>
-    <li>finalWord->theft</li>
-    <li>finalWord->heist</li>
-    <li>finalWord->caper</li>
-    <li>finalWord->booty</li>
-  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>complex->lair</li>
+    <li>complex->base</li>
+    <li>complex->compound</li>
+    <li>complex->crypt</li>
+    <li>complex->mechplex</li>
+    <li>complex->mechsite</li>
+  </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
 </LanguageData>
