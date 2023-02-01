@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>기념비 완성됨</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>기념비를 완성하였습니다.\n\n최소한 [keepMonumentTicks_duration] 동안 유지하지 않는다면, [asker_factionName](을)를 화나게 할 것입니다. ([goodwillChangeIfMonumentDestroyed] 우호도)</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>기념비 파괴됨</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>[asker_nameDef](은)는 기념비가 완성되자마자 파괴한 것에 대해 불쾌하게 생각합니다.\n\n[asker_faction_name](와)과의 관계가 [goodwillChangeIfMonumentDestroyed] 만큼 하락합니다.</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>{0} 기념비 유지</BuildMonumentWorker.KeepMonument.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>'[resolvedQuestName]' 임무의 기념비가 훼손되었습니다. 이에 합당한 대응이 있을 것입니다.</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>{0} 동안 기념비 보호</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>{0}까지 기념비 보호</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>{0} 동안 보호</BuildMonumentWorker.ProtectMonument.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>새로운 기념비 표지 도착</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>기념비 표지가 파괴되어, 새로운 표지를 보냈습니다.</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>기념비 시간만료</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>기념비를 건설할 제한시간이 만료되었습니다. [failLetterEndingCommon]</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+</LanguageData>
