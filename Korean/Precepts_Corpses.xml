@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ObservedLayingCorpse.label>observed corpse</ObservedLayingCorpse.label>
-  
-  <ObservedLayingRottingCorpse.label>observed rotten corpse</ObservedLayingRottingCorpse.label>
+  <Corpses.label>corpses</Corpses.label>
 </LanguageData>
