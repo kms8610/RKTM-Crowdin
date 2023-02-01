@@ -1,93 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IdeoligionForbids>Ideoligion forbids</IdeoligionForbids>
-  <OnlyMembersCanBuild>Only {0}s can build</OnlyMembersCanBuild>
-  <CantStartRitualAlreadyInProgress>{0} is already in progress.</CantStartRitualAlreadyInProgress>
-  <CantJoinRitualInExtremeWeather>One or more participants can't join due to extreme temperature.</CantJoinRitualInExtremeWeather>
-  <CantStartRitualTargetIsAlreadyInRitual>{0} is already participating in a ritual.</CantStartRitualTargetIsAlreadyInRitual>
-  <CantStartRitualRoleNotAssigned>You must assign the role of {0} in order to start this ritual.</CantStartRitualRoleNotAssigned>
-  <CantStartRitualNoConvertee>There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion.</CantStartRitualNoConvertee>
-  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} cannot be {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
-  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} must be a {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
-  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} is psychically deaf.</CantStartRitualSelectedPawnPsychicallyDeaf>
-  <CantStartNotEnoughSpaceDuelSpectators>Not enough space for spectators. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required.</CantStartNotEnoughSpaceDuelSpectators>
-  <CantStartNotEnoughSpaceDuelDuelists>Not enough space for duelists. There must be a clear circle of radius {MINRADIUS}. At least {1} standable spots in that radius required.</CantStartNotEnoughSpaceDuelDuelists>
-  <CantStartNotEnoughSpaceDuelSpeaker>Not enough space for speaker. There must be a clear circle of radius {MINRADIUS}.</CantStartNotEnoughSpaceDuelSpeaker>
-  <CantStartFuneralForSlave>{0_labelShort} is a slave. Slaves don't get funerals.</CantStartFuneralForSlave>
-  <NoSlaveBed>Need a slave bed that is reachable, not reserved, and in safe temperature.</NoSlaveBed>
-  <ReturnToSlaveBed>Return to slave bed</ReturnToSlaveBed>
-  <NotAllowedForFaction>not allowed for faction</NotAllowedForFaction>
+  <NotAMechanitor>Not a mechanitor</NotAMechanitor>
+  <NotEnoughBandwidth>Not enough bandwidth</NotEnoughBandwidth>
+  <ControlMech>Take control of {0}</ControlMech>
+  <CannotControlMech>Cannot control {0}</CannotControlMech>
+  <CannotControlMechAlreadyControlled>Already controlled by {0}</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>Not enough bandwidth</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>Never controllable</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>Cannot disconnect from {0}</CannotDisconnectMech>
+  <DisconnectMech>Disconnect from {0}</DisconnectMech>
+  <DisassembleMech>Permanently disassemble {0}</DisassembleMech>
+  <CannotDisassembleMech>Cannot permanently disassemble {0}</CannotDisassembleMech>
+  <MustBeOverseer>Must be overseer</MustBeOverseer>
+  <Extract>Extract</Extract>
+  <OutOfCommandRange>Out of command range</OutOfCommandRange>
+  <CannotGoOutOfRange>Cannot go here</CannotGoOutOfRange>
+  <WasteContainerFull>Must be emptied</WasteContainerFull>
+  <CannotRepairMech>Cannot repair mech {0}</CannotRepairMech>
 
-  <Remove>Remove</Remove>
-  <RemovePrecept>Remove precept</RemovePrecept>
-  <Regenerate>Regenerate</Regenerate>
-  <CannotEdit>Cannot edit</CannotEdit>
-  <NoChoicesAvailable>No choices available</NoChoicesAvailable>
-  <RequiredByMeme>Required by meme {0}</RequiredByMeme>
-  <Required>Required</Required>
-  <StyleCategory>Style category</StyleCategory>
-  <AddStyleCategory>Add style category</AddStyleCategory>
-  <MaxRitualCount>Can't add more than {0} rituals.</MaxRitualCount>
-  <MaxRelicCount>Can't add more than {0} relics.</MaxRelicCount>
-  <MaxMultiRolesCount>can't have more than {0} specialists.</MaxMultiRolesCount>
-  <MaxPreceptCount>max {0}</MaxPreceptCount>
-  <SetTargetGender>Set gender</SetTargetGender>
-  <RoleApparelRequirementIncompatibleFaction>must be {0} faction</RoleApparelRequirementIncompatibleFaction>
-  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>tribal</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
-  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>non-tribal</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
-  <RoleApparelRequirementIncompatibleAnyMemeRequired>requires any of these memes</RoleApparelRequirementIncompatibleAnyMemeRequired>
-  <BodyPartAlreadyCovered>cannot be worn with assigned apparel</BodyPartAlreadyCovered>
-  <NoteRoleApparelRequirementEffects>People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated.</NoteRoleApparelRequirementEffects>
-  <NeuralSuperchargeNotReady>supercharge not ready</NeuralSuperchargeNotReady>
-  <NeuralSuperchargeAlreadyGetting>already getting</NeuralSuperchargeAlreadyGetting>
-  <SetApparelType>Set type</SetApparelType>
+  <ExtractXenogermFrom>Extract xenogerm from {PAWN_nameDef}</ExtractXenogermFrom>
+  <EnterBuilding>Enter {0_labelShort}</EnterBuilding>
+  <PawnHasNoGenes>{PAWN_nameDef} has no genes</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} has no extractable genes.</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>In xenogermination coma</InXenogerminationComa>
+  <Occupied>Occupied</Occupied>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} was ejected from a growth vat</OccupantEjectedFromGrowthVat>
+  <TooOld>{PAWN_nameDef} must be younger than {AGEYEARS} years old.</TooOld>
+  <PawnIsTooOld>{PAWN_nameDef} is too old.</PawnIsTooOld>
+  <PawnBiostarving>{PAWN_nameDef} is suffering from biostarvation.</PawnBiostarving>
+  <NoViablePawns>No available people</NoViablePawns>
+  <NoExtractablePawns>No extractable people</NoExtractablePawns>
+  <NoImplantablePawns>No implantable people</NoImplantablePawns>
+  <CannotEnterBuilding>Cannot enter {0_labelShort}</CannotEnterBuilding>
+  <AssignedToOtherPawn>{0_labelShort} is assigned to another person.</AssignedToOtherPawn>
 
-  <ChangeStyle>change style</ChangeStyle>
-  <DeitiesRequired>{0} {DEITYNOUN} required</DeitiesRequired>
-  <Deity>deity</Deity>
-  <RequiresMeme>requires meme</RequiresMeme>
-  <RequiresOneOfMemes>requires one of</RequiresOneOfMemes>
-  <ConflictsWithMeme>conflicts with meme</ConflictsWithMeme>
-  <ConflictsWithMemes>conflicts with memes</ConflictsWithMemes>
-  <IdeoAlreadyHasAltar>can only have one altar/ideogram</IdeoAlreadyHasAltar>
-  <RecolorApparel>recolor apparel</RecolorApparel>
+  <AbsorbXenogerm>Absorb xenogerm of {PAWN_nameDef}</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>Cannot absorb {PAWN_nameDef}'s xenogerm</CannotAbsorbXenogerm>
+  <SameXenotype>{PAWN_nameDef} is already {PAWN_xenotype}</SameXenotype>
+  <XenogermLossShockPresent>{PAWN_nameDef} suffering from xenogerm loss shock</XenogermLossShockPresent>
+  <CarryToSpecificThing>Carry to {0_labelShort}</CarryToSpecificThing>
+  <NoCasketOrBed>No reachable, un-reserved bed or deathrest casket in safe temperature.</NoCasketOrBed>
+  <TemporaryFactionMember>{PAWN_nameDef} is a temporary faction member.</TemporaryFactionMember>
 
-  <Hack>Hack {0}</Hack>
-  <CannotHack>Cannot hack {0}</CannotHack>
-  <AlreadyHacked>Already hacked</AlreadyHacked>
-  <IncapableOfHacking>Incapable of hacking</IncapableOfHacking>
-  <ToDropSupplies>to drop supplies</ToDropSupplies>
+  <SubcoreScannerNotInit>Scanner not initiated</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>Waiting for ingredients</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>Occupied</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>Enter {0}</EnterSubcoreScanner>
 
-  <InstallRelic>Install {0}</InstallRelic>
-  <ExtractRelic>Extract {0}</ExtractRelic>
-  <ExtractRelicToInventory>Extract {0} to inventory ({1})</ExtractRelicToInventory>
-  <NoRelicToInstall>No relic to install</NoRelicToInstall>
-  <InstallInReliquary>Install in reliquary</InstallInReliquary>
-  <NoEmptyReliquary>no empty accessible reliquary</NoEmptyReliquary>
+  <BabyCareBreastfeed>Breastfeed {BABY_labelShort}</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>Cannot breastfeed {BABY_labelShort}</BabyCareBreastfeedUnable>
+  <NoBabyFood>No baby-edible food</NoBabyFood>
 
-  <NoWardenOfIdeo>No {MEMBERNAME} warden</NoWardenOfIdeo>
+  <CannotInteractBabyPlayFull>play need full</CannotInteractBabyPlayFull>
 
-  <RemoveCurrentRole>Remove current role</RemoveCurrentRole>
+  <BloodfeedOn>Feed on {PAWN_nameDef}</BloodfeedOn>
+  <CannotBloodfeedOn>Cannot feed on {PAWN_nameDef}</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>Not enough blood.</CannotFeedOnWouldKill>
 
-  <EnterBiosculpterPod>Enter biosculpter pod for {0} cycle ({1})</EnterBiosculpterPod>
-  <BiosculpterBiotunedToAnother>Biotuned to someone else.</BiosculpterBiotunedToAnother>
-  <UnderMinBiosculpterAgeReversalAge>Must be {0} years old for age reversal.</UnderMinBiosculpterAgeReversalAge>
-  <CarryToBiosculpterPod>Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle)</CarryToBiosculpterPod>
-  <CannotCarryToBiosculpterPod>Cannot carry to biosculpter pod</CannotCarryToBiosculpterPod>
-  <NoBiosculpterPod>No available biosculpter pod.</NoBiosculpterPod>
-  <BiosculpterNutritionNotLoaded>Nutrition not loaded</BiosculpterNutritionNotLoaded>
-  <BiosculpterOccupied>Occupied</BiosculpterOccupied>
-  <CannotEnter>Cannot enter</CannotEnter>
-  <BiosculpterCannotStartCycle>Cannot start {0} cycle</BiosculpterCannotStartCycle>
-  <BiosculpterMissingIngredients>Cannot find cycle ingredients ({INGREDIENTS})</BiosculpterMissingIngredients>
-  <BiosculpterNoEligiblePawns>Nobody around can use this</BiosculpterNoEligiblePawns>
-  <BiosculpterNoEligiblePawnsBiotuned>Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around</BiosculpterNoEligiblePawnsBiotuned>
-  <BiosculpterAutoLoadNutritionLabel>Auto load nutrition</BiosculpterAutoLoadNutritionLabel>
-  <BiosculpterAutoLoadNutritionDescription>Automatically load the nutrition required to run a cycle</BiosculpterAutoLoadNutritionDescription>
-  <BiosculpterAutoAgeReversalLabel>Auto age reversal for {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
-  <BiosculpterAutoAgeReversalDescription>Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
-  <BiosculpterAutoAgeReversalDescriptionFuture>If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready.</BiosculpterAutoAgeReversalDescriptionFuture>
-  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled.</BiosculpterAutoAgeReversalDescriptionNow>
-  <BiosculpterJobReportCollectIngredients>Collecting ingredients for biosculpter cycle</BiosculpterJobReportCollectIngredients>
+  <!-- BreastfeedFailReason strings-->
+  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} does not have enough milk</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} cannot breastfeed right now</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} is too full to suckle</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} is forbidden to {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} can breastfeed {BABY_labelShort} without help</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} is inside a container</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} is being carried</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
+
+  <OrderImplantationIntoPawn>Order implantation into {PAWN_nameDef}</OrderImplantationIntoPawn>
+  <AcceptXenogerm>Accept {0_xenotype} xenogerm</AcceptXenogerm>
+
+  <CarryToRechargerOrdered>Carry {PAWN_labelShort} to recharger</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>Cannot carry {PAWN_labelShort} to recharger</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>No available recharger</CannotCarryToRechargerNoneAvailable>
+
+  <CannotStudy>Cannot study</CannotStudy>
+  <AlreadyStudied>already studied</AlreadyStudied>
+  <NoResearchBench>no reachable, un-reserved research bench available</NoResearchBench>
+
+  <NotAllowedHemogen>Hemogen packs disabled by food restriction.</NotAllowedHemogen>
+
+  <EjectGenepackFromGeneBank>Eject genepack from gene bank</EjectGenepackFromGeneBank>
+
+  <ResultingMetTooLow>Resulting metabolism would be too low</ResultingMetTooLow>
+
+  <RomanceOnCooldown>attempted romance too recently</RomanceOnCooldown><!-- text_todo -->
+
 </LanguageData>
