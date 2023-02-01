@@ -1,9 +1,414 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlaceMakerCommon.rulePack.rulesStrings>
-    <li>place_personalWeapon->돌격소총</li>
-    <li>place_massWeapon->초월공학 질량역전기</li>
-    <li>seismicDevice->지진파 생성기</li>
-    <li>anEMPAttack->생체유지 시스템에 가해진 EMP 공격</li>
-  </PlaceMakerCommon.rulePack.rulesStrings>
+  <AturaStation.placeRules.rulesStrings>
+    <li>place_name->아투라 정거장</li>
+    <li>place_adjective->아투라의</li>
+    <li>place_summary->궤도 조선소</li>
+    <li>place_community->왕복선 정착장</li>
+    <li>place_community->생산 지구</li>
+    <li>place_community->거주 지구</li>
+    <li>place_powerCenter->중앙 관리실</li>
+    <li>place_job->건설 드론 조종사</li>
+    <li>place_job->관리자</li>
+    <li>place_job->실험기 조종사</li>
+    <li>place_job->판매원</li>
+    <li>place_job->3D 프린터 기술자</li>
+    <li>place_personalWeapon->전기충격기</li>
+    <li>place_personalWeapon->아크 용접기</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->용접 드론</li>
+    <li>place_foeLeader->범죄조직 수장</li>
+    <li>place_foeSoldiers->강도들</li>
+  </AturaStation.placeRules.rulesStrings>
+  
+  <Bagua5.placeRules.rulesStrings>
+    <li>place_name->바구아 V</li>
+    <li>place_adjective->바구아의</li>
+    <li>place_summary->고철 처리장 행성</li>
+    <li>place_community->요새화 고철 처리장</li>
+    <li>place_community->우수 처리 공장</li>
+    <li>place_community->고철마을</li>
+    <li>place_powerCenter->우주 거래소</li>
+    <li>place_job->폐품꾼</li>
+    <li>place_job->상인</li>
+    <li>place_job->기계학자</li>
+    <li>place_job->경비원</li>
+    <li>place_job->폐품처리인</li>
+    <li>place_personalWeapon->급조 소총</li>
+    <li>place_personalWeapon->고철검</li>
+    <li>place_massWeapon->복원한 핵무기</li>
+    <li>place_massWeapon->녹 바이러스</li>
+    <li>place_foeLeader->폐품군주</li>
+    <li>place_foeSoldiers->강철머리들</li>
+  </Bagua5.placeRules.rulesStrings>
+  
+  <Boccocarro.placeRules.rulesStrings>
+    <li>place_name->보코카로</li>
+    <li>place_adjective->보코카로의</li>
+    <li>place_summary->속 빈 껍질 세계</li>
+    <li>place_community->표면 터널</li>
+    <li>place_community->버섯 동굴</li>
+    <li>place_community->수원지</li>
+    <li>place_powerCenter->연설 회관</li>
+    <li>place_job->광부</li>
+    <li>place_job->버섯 재배사</li>
+    <li>place_job->지상 폐품지기</li>
+    <li>place_job->공동체 영양사</li>
+    <li>place_job->개구리 사냥꾼</li>
+    <li>place_personalWeapon->곡괭이</li>
+    <li>place_personalWeapon->유압식 쇠뇌</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->화약 폭탄</li>
+    <li>place_foeLeader->채굴 감독관</li>
+    <li>place_foeSoldiers->심연해병들</li>
+  </Boccocarro.placeRules.rulesStrings>
+  
+  <Chelis.placeRules.rulesStrings>
+    <li>place_name->첼리스</li>
+    <li>place_adjective->첼리스의</li>
+    <li>place_summary->건조한 세계</li>
+    <li>place_community->습기농장</li>
+    <li>place_community->메마른 마을</li>
+    <li>place_community->물 공급소</li>
+    <li>place_powerCenter->상류 저택</li>
+    <li>place_job->물 채집꾼</li>
+    <li>place_job->악어 가죽을 벗기는 자</li>
+    <li>place_job->오아시스 탐색가</li>
+    <li>place_job->선인장 채집꾼</li>
+    <li>place_job->폐품치기</li>
+    <li>place_personalWeapon->모래화살</li>
+    <li>place_personalWeapon->선인장 몽둥이</li>
+    <li>place_massWeapon->초월공학으로 유도한 모래폭풍</li>
+    <li>place_massWeapon->가시도마뱀의 광란</li>
+    <li>place_foeLeader->추장</li>
+    <li>place_foeSoldiers->모래전사들</li>
+  </Chelis.placeRules.rulesStrings>
+  
+  <Creticon.placeRules.rulesStrings>
+    <li>place_name->크레티콘</li>
+    <li>place_adjective->크레티콘의</li>
+    <li>place_summary->파괴된 죽음의 세계</li>
+    <li>place_community->방공호</li>
+    <li>place_community->동굴</li>
+    <li>place_community->빙벽대피소</li>
+    <li>place_powerCenter->임원의 방공호</li>
+    <li>place_job->물재생기 수리기사</li>
+    <li>place_job->녹조류 농부</li>
+    <li>place_job->의사</li>
+    <li>place_job->선생</li>
+    <li>place_job->민병대 지휘관</li>
+    <li>place_job->왕복선 조종사</li>
+    <li>place_personalWeapon->자동권총</li>
+    <li>place_personalWeapon->경기관총</li>
+    <li>place_massWeapon->어깨 부착형 핵 미사일</li>
+    <li>place_massWeapon->궤도 폭격</li>
+    <li>place_massWeapon->화학폭탄</li>
+    <li>place_massWeapon->해킹한 메카노이드</li>
+    <li>place_foeLeader->전쟁군주</li>
+    <li>place_foeSoldiers->용병들</li>
+  </Creticon.placeRules.rulesStrings>
+  
+  <Filson.placeRules.rulesStrings>
+    <li>place_name->필손</li>
+    <li>place_adjective->필손의</li>
+    <li>place_summary->농업행성</li>
+    <li>place_community->마을회관</li>
+    <li>place_community->비료 처리 공장</li>
+    <li>place_community->거대 곡창</li>
+    <li>place_community->수압채굴지</li>
+    <li>place_powerCenter->마을회관</li>
+    <li>place_job->농장 인부</li>
+    <li>place_job->과수원 인부</li>
+    <li>place_job->수송기사</li>
+    <li>place_job->학교 선생</li>
+    <li>place_job->토양 공학자</li>
+    <li>place_personalWeapon->소총</li>
+    <li>place_personalWeapon->낫</li>
+    <li>place_massWeapon->비료 폭탄</li>
+    <li>place_massWeapon->무기화한 분사식 살충제</li>
+    <li>place_massWeapon->궤도 거울</li>
+    <li>place_foeLeader->지주</li>
+    <li>place_foeSoldiers->민병단원들</li>
+  </Filson.placeRules.rulesStrings>
+  
+  <Ilwaba.placeRules.rulesStrings>
+    <li>place_name->일와바</li>
+    <li>place_adjective->일와바의</li>
+    <li>place_summary->자연이 차지한 폐허 세계</li>
+    <li>place_community->마천루 마을</li>
+    <li>place_community->고속도로 교역소</li>
+    <li>place_community->황폐지 오아시스</li>
+    <li>place_powerCenter->재성장의 집</li>
+    <li>place_job->크테라 섬 농부</li>
+    <li>place_job->길잡이</li>
+    <li>place_job->유물 사냥꾼</li>
+    <li>place_job->땅굴걸이</li>
+    <li>place_job->유물 복원가</li>
+    <li>place_personalWeapon->고철검</li>
+    <li>place_personalWeapon->톱니단검</li>
+    <li>place_massWeapon->발굴한 핵무기</li>
+    <li>place_massWeapon->고대의 독성 폭탄</li>
+    <li>place_foeLeader->해석지도자</li>
+    <li>place_foeSoldiers->해석군인들</li>
+  </Ilwaba.placeRules.rulesStrings>
+  
+  <Iwamura.placeRules.rulesStrings>
+    <li>place_name->이와무라</li>
+    <li>place_adjective->이와무라의</li>
+    <li>place_summary->암석 소행성</li>
+    <li>place_community->거래소 캡슐</li>
+    <li>place_community->창고 캡슐</li>
+    <li>place_community->정거장 도킹 모듈</li>
+    <li>place_powerCenter->정거장</li>
+    <li>place_job->생명유지장치 공학자</li>
+    <li>place_job->무역상</li>
+    <li>place_job->관제사</li>
+    <li>place_job->무중력 운동선수</li>
+    <li>place_job->라디오 진행자</li>
+    <li>place_personalWeapon->전자기 소총</li>
+    <li>place_personalWeapon->용접기</li>
+    <li>place_massWeapon->독소 분사기</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->생체유지장치 파괴 바이러스</li>
+    <li>place_foeLeader->거대기업 CEO</li>
+    <li>place_foeSoldiers->사설경관들</li>
+  </Iwamura.placeRules.rulesStrings>
+  
+  <Kemia.placeRules.rulesStrings>
+    <li>place_name->케미아</li>
+    <li>place_adjective->케미아의</li>
+    <li>place_summary->독성 전쟁 세계</li>
+    <li>place_community->빈민가</li>
+    <li>place_community->땅굴 정착지</li>
+    <li>place_community->지하마을</li>
+    <li>place_powerCenter->도시 대저택</li>
+    <li>place_job->도로 청소부</li>
+    <li>place_job->처리 공학자</li>
+    <li>place_job->단백질 농부</li>
+    <li>place_job->택시 운전기사</li>
+    <li>place_job->무기공</li>
+    <li>place_personalWeapon->가스 폭탄</li>
+    <li>place_personalWeapon->유독성 화염발사기</li>
+    <li>place_massWeapon->방사능 폭탄</li>
+    <li>place_massWeapon->인공 역병</li>
+    <li>place_massWeapon->관통형 독성 폭탄</li>
+    <li>place_foeLeader->맹독군주</li>
+    <li>place_foeSoldiers->맹독군인들</li>
+  </Kemia.placeRules.rulesStrings>
+  
+  <Lutuni.placeRules.rulesStrings>
+    <li>place_name->루투니</li>
+    <li>place_adjective->루투니의</li>
+    <li>place_summary->열대우림 낙원</li>
+    <li>place_community->증강 진료소</li>
+    <li>place_community->초월요트</li>
+    <li>place_community->무중력 경기장</li>
+    <li>place_powerCenter->궤도 엘리베이터</li>
+    <li>place_job->관광 가이드</li>
+    <li>place_job->무중력 공연자</li>
+    <li>place_job->루시페륨 보급책</li>
+    <li>place_job->가상세계 연예인</li>
+    <li>place_job->왕복선 조종사</li>
+    <li>place_personalWeapon->진동검</li>
+    <li>place_personalWeapon->전자기 권총</li>
+    <li>place_massWeapon->조직 파괴 박테리아</li>
+    <li>place_massWeapon->a smuggled orbital bombardment targeter</li>
+    <li>place_foeLeader->오락계 거물</li>
+    <li>place_foeSoldiers->집행자들</li>
+  </Lutuni.placeRules.rulesStrings>
+  
+  <Novaroma.placeRules.rulesStrings>
+    <li>place_name->노바로마</li>
+    <li>place_adjective->노바로마의</li>
+    <li>place_summary->미행성</li>
+    <li>place_community->허가증 관리소</li>
+    <li>place_community->상류층 거주구역</li>
+    <li>place_community->고층도시</li>
+    <li>place_community->지상도시</li>
+    <li>place_powerCenter->거대도시 시청</li>
+    <li>place_job->사무원</li>
+    <li>place_job->공무원</li>
+    <li>place_job->음식 배달원</li>
+    <li>place_job->택시 운전기사</li>
+    <li>place_job->소매업자</li>
+    <li>place_personalWeapon->리볼버</li>
+    <li>place_personalWeapon->단검</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->집속폭탄</li>
+    <li>place_massWeapon->서류가방 핵폭탄</li>
+    <li>place_foeLeader->뒷세계의 지배자</li>
+    <li>place_foeSoldiers->비밀군인들</li>
+  </Novaroma.placeRules.rulesStrings>
+  
+  <Nuchadus.placeRules.rulesStrings>
+    <li>place_name->누카두스</li>
+    <li>place_adjective->누카두스의</li>
+    <li>place_summary->어두운 화산 세계</li>
+    <li>place_community->현무암 섬</li>
+    <li>place_community->칼데라 호수마을</li>
+    <li>place_community->거주비행선</li>
+    <li>place_powerCenter->보온 시설</li>
+    <li>place_job->지진학자</li>
+    <li>place_job->용암달팽이 농부</li>
+    <li>place_job->전차궤도 수리병</li>
+    <li>place_job->창공 정찰대원</li>
+    <li>place_personalWeapon->흑요석 단검</li>
+    <li>place_personalWeapon->작살 소총</li>
+    <li>place_massWeapon->초월공학으로 유도한 화산 폭발</li>
+    <li>place_massWeapon->화학 약품 폭탄</li>
+    <li>place_foeLeader->용암 군주</li>
+    <li>place_foeSoldiers->칠흑의 병사들</li>
+  </Nuchadus.placeRules.rulesStrings>
+  
+  <Oubanyen.placeRules.rulesStrings>
+    <li>place_name->우바니옌</li>
+    <li>place_adjective->우바니옌의</li>
+    <li>place_summary->찌는 듯한 정글 세계</li>
+    <li>place_community->나무 꼭대기 마을</li>
+    <li>place_community->주술사 동굴</li>
+    <li>place_community->언덕 꼭대기 사원</li>
+    <li>place_powerCenter->도시 신전</li>
+    <li>place_job->주술사</li>
+    <li>place_job->사냥꾼</li>
+    <li>place_job->어부</li>
+    <li>place_job->채집꾼</li>
+    <li>place_job->염소치기</li>
+    <li>place_personalWeapon->투창</li>
+    <li>place_personalWeapon->단창</li>
+    <li>place_massWeapon->치명적인 정신파동</li>
+    <li>place_massWeapon->신경독 폭탄</li>
+    <li>place_foeLeader->벌목대장</li>
+    <li>place_foeSoldiers->병사들</li>
+  </Oubanyen.placeRules.rulesStrings>
+  
+  <Rhydell.placeRules.rulesStrings>
+    <li>place_name->라이델</li>
+    <li>place_adjective->라이델의</li>
+    <li>place_summary->야생 밀림 위성</li>
+    <li>place_community->개조 수송선</li>
+    <li>place_community->저각보호막 야영지</li>
+    <li>place_community->통신 기지</li>
+    <li>place_powerCenter->장갑을 두른 주거지</li>
+    <li>place_job->최전방 식물학자</li>
+    <li>place_job->전리품 사냥꾼</li>
+    <li>place_job->의무관</li>
+    <li>place_job->야영지 요리사</li>
+    <li>place_job->생체연구소 공학자</li>
+    <li>place_personalWeapon->저격소총</li>
+    <li>place_personalWeapon->마체테</li>
+    <li>place_massWeapon->식물 추출 신경독 가스</li>
+    <li>place_massWeapon->궤도 레이저 폭격</li>
+    <li>place_foeLeader->암흑기업 총수</li>
+    <li>place_foeSoldiers->암흑기업 집행자</li>
+  </Rhydell.placeRules.rulesStrings>
+  
+  <Rogia.placeRules.rulesStrings>
+    <li>place_name->로지아</li>
+    <li>place_adjective->로지아의</li>
+    <li>place_summary->번화계 행성</li>
+    <li>place_community->의학 협회</li>
+    <li>place_community->우주 엘리베이터</li>
+    <li>place_community->로봇 제조시설</li>
+    <li>place_powerCenter->행성 수도</li>
+    <li>place_job->우주공군 생도</li>
+    <li>place_job->농업 지도자</li>
+    <li>place_job->소셜미디어 천재</li>
+    <li>place_job->무중력 운동선수</li>
+    <li>place_job->번화계 밀수업자</li>
+    <li>place_personalWeapon->전자기포</li>
+    <li>place_personalWeapon->결속 단분자검</li>
+    <li>place_massWeapon->반물질 탄두</li>
+    <li>place_massWeapon->무기화한 컴퓨터 바이러스</li>
+    <li>place_massWeapon->무선조종형 메카노이드 일꾼들</li>
+    <li>place_foeLeader->부패한 관료</li>
+    <li>place_foeSoldiers->생체공학 경비들</li>
+  </Rogia.placeRules.rulesStrings>
+  
+  <Wavia.placeRules.rulesStrings>
+    <li>place_name->와비아</li>
+    <li>place_adjective->와비아의</li>
+    <li>place_summary->바다 행성</li>
+    <li>place_community->환초 거래소</li>
+    <li>place_community->부양 마을</li>
+    <li>place_community->해초 정제소</li>
+    <li>place_powerCenter->수도 대교</li>
+    <li>place_job->어부</li>
+    <li>place_job->진주 사냥꾼</li>
+    <li>place_job->돛장이</li>
+    <li>place_job->선장</li>
+    <li>place_job->수초 채집꾼</li>
+    <li>place_personalWeapon->작살</li>
+    <li>place_personalWeapon->가시그물</li>
+    <li>place_massWeapon->고위력 어뢰</li>
+    <li>place_massWeapon->유인한 [seaBeast]</li>
+    <li>place_foeLeader->고래기수 제독</li>
+    <li>place_foeSoldiers->고래기수 해병들</li>
+    <li>seaBeast->심연 크라켄</li>
+    <li>seaBeast->와비아 거수</li>
+  </Wavia.placeRules.rulesStrings>
+  
+  <Xanides.placeRules.rulesStrings>
+    <li>place_name->자나이즈</li>
+    <li>place_adjective->자나이즈의</li>
+    <li>place_summary->고갈된 광업행성</li>
+    <li>place_community->노천 광산</li>
+    <li>place_community->광석 정제소</li>
+    <li>place_community->영양죽 식당</li>
+    <li>place_powerCenter->산소 보급소</li>
+    <li>place_job->광부</li>
+    <li>place_job->감독관</li>
+    <li>place_job->기술자</li>
+    <li>place_job->정비공</li>
+    <li>place_job->생명유지장치 공학자</li>
+    <li>place_personalWeapon->진압봉</li>
+    <li>place_personalWeapon->자동권총</li>
+    <li>place_massWeapon->폭발물</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_foeLeader->채굴기업 사장</li>
+    <li>place_foeSoldiers->채굴기업 사병들</li>
+  </Xanides.placeRules.rulesStrings>
+  
+  <Yttak.placeRules.rulesStrings>
+    <li>place_name->이탁</li>
+    <li>place_adjective->이탁의</li>
+    <li>place_summary->얼음위성 감옥</li>
+    <li>place_community->죄수식당</li>
+    <li>place_community->경비 막사</li>
+    <li>place_community->구치소</li>
+    <li>place_powerCenter->간수 공관</li>
+    <li>place_job->억류자</li>
+    <li>place_job->경비원</li>
+    <li>place_job->탈옥수</li>
+    <li>place_job->관리 잡부</li>
+    <li>place_job->수송기사</li>
+    <li>place_personalWeapon->급조 단검</li>
+    <li>place_personalWeapon->기관단총</li>
+    <li>place_massWeapon->급조 화학폭탄</li>
+    <li>place_massWeapon->궤도 레이저 폭격</li>
+    <li>place_foeLeader->고위 간수</li>
+    <li>place_foeSoldiers->부패한 경비들</li>
+  </Yttak.placeRules.rulesStrings>
+  
+  <Zoutera.placeRules.rulesStrings>
+    <li>place_name->주테라</li>
+    <li>place_adjective->주테라의</li>
+    <li>place_summary->수풀림 공룡세계</li>
+    <li>place_community->무역 도시</li>
+    <li>place_community->텐트 마을</li>
+    <li>place_community->매머드 묘지</li>
+    <li>place_powerCenter->언덕 요새</li>
+    <li>place_job->공룡기수</li>
+    <li>place_job->머팔로 목동</li>
+    <li>place_job->사냥꾼</li>
+    <li>place_job->무두장이</li>
+    <li>place_personalWeapon->대나무 봉</li>
+    <li>place_personalWeapon->사냥폭탄 화살</li>
+    <li>place_massWeapon->미쳐 날뛰는 [megaFauna] 무리</li>
+    <li>place_massWeapon->a fertilizer bomb</li>
+    <li>place_foeLeader->상아군주</li>
+    <li>place_foeSoldiers->엄니전사들</li>
+    <li>megaFauna->안킬로사우루스</li>
+    <li>megaFauna->푸른 매머드</li>
+    <li>megaFauna->노보랩터</li>
+  </Zoutera.placeRules.rulesStrings>
 </LanguageData>
