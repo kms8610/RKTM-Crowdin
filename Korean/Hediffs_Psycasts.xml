@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicAmplifier.label>psylink</PsychicAmplifier.label>
-  <PsychicAmplifier.description>An organic connection to a larger psychic field. This allows a person to psychically induce a distant archotech superintelligence to influence reality in ways that seem impossible.\n\nHigher levels of psylink permit the use of more powers. Regardless of psylink level, a person can only use specific powers that they have learned.\n\nPsylink comes from a variety of sources. Single-use psylink neuroformer devices can create a psylink. Tribal peoples also know how to develop it through ritual linking with the legendary anima tree.\n\nAs a physical phenomenon in the brain, psylink is poorly-understood by scientists, not least because it seems to actively conceal itself if studied too closely. One thing most agree on is that it somehow connects people to archotechs and harnesses their power, possibly through some sort of negotiation or sympathy mechanism.</PsychicAmplifier.description>
-  <PsychicAmplifier.descriptionShort>Allows a person to psychically-induce an archotech to influence reality in ways that seem impossible. Higher levels of psylink permit the use of more powers.</PsychicAmplifier.descriptionShort>
+  <PsychicAmplifier.label>psylink neuroformer</PsychicAmplifier.label>
+  <PsychicAmplifier.description>A consumable archotech-created device that forms or upgrades a psylink in the user's mind.\n\nThe user presses the device over the eyes, where it links to the brain directly and restructures part of it. Afterwards, the device disintegrates into worthless ash.</PsychicAmplifier.description>
+  <PsychicAmplifier.comps.CompUsableImplant.useLabel>Use neuroformer to form psylink</PsychicAmplifier.comps.CompUsableImplant.useLabel>
 </LanguageData>
