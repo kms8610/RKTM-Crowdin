@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
-  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
-  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.description>An installed archotech arm.</ArchotechArm.description>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
   
-  <InstallArchotechEye.label>install archotech eye</InstallArchotechEye.label>
-  <InstallArchotechEye.description>Install an archotech eye.</InstallArchotechEye.description>
-  <InstallArchotechEye.jobString>Installing archotech eye.</InstallArchotechEye.jobString>
+  <ArchotechEye.label>archotech eye</ArchotechEye.label>
+  <ArchotechEye.description>An installed archotech eye.</ArchotechEye.description>
+  <ArchotechEye.labelNoun>an archotech eye</ArchotechEye.labelNoun>
   
-  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
-  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
-  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.description>An installed archotech leg.</ArchotechLeg.description>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
 </LanguageData>
