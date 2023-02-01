@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GotLovin.label>사랑을 이야기함</GotLovin.label>
+  
+  <GotLovin_NonSpouse.label>혼외자와 사랑을 나눔</GotLovin_NonSpouse.label>
+  
+  <GotLovin_Spouse.label>배우자와 사랑을 나눔</GotLovin_Spouse.label>
+  
+  <InitiatedLovin.label>사랑의 시작 목격</InitiatedLovin.label>
+  
+  <SharedBed.label>침대 공유</SharedBed.label>
+  
+  <SharedBed_NonSpouse.label>혼외자와 침대 공유</SharedBed_NonSpouse.label>
+  
+  <SharedBed_Spouse.label>배우자와 동침</SharedBed_Spouse.label>
+</LanguageData>
