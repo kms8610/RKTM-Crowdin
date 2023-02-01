@@ -1,95 +1,318 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NotAMechanitor>Not a mechanitor</NotAMechanitor>
-  <NotEnoughBandwidth>Not enough bandwidth</NotEnoughBandwidth>
-  <ControlMech>Take control of {0}</ControlMech>
-  <CannotControlMech>Cannot control {0}</CannotControlMech>
-  <CannotControlMechAlreadyControlled>Already controlled by {0}</CannotControlMechAlreadyControlled>
-  <CannotControlMechNotEnoughBandwidth>Not enough bandwidth</CannotControlMechNotEnoughBandwidth>
-  <CannotControlMechNeverControllable>Never controllable</CannotControlMechNeverControllable>
-  <CannotDisconnectMech>Cannot disconnect from {0}</CannotDisconnectMech>
-  <DisconnectMech>Disconnect from {0}</DisconnectMech>
-  <DisassembleMech>Permanently disassemble {0}</DisassembleMech>
-  <CannotDisassembleMech>Cannot permanently disassemble {0}</CannotDisassembleMech>
-  <MustBeOverseer>Must be overseer</MustBeOverseer>
-  <Extract>Extract</Extract>
-  <OutOfCommandRange>Out of command range</OutOfCommandRange>
-  <CannotGoOutOfRange>Cannot go here</CannotGoOutOfRange>
-  <WasteContainerFull>Must be emptied</WasteContainerFull>
-  <CannotRepairMech>Cannot repair mech {0}</CannotRepairMech>
+  <CallOnRadio>{0} 연락</CallOnRadio>
+  <CannotUseReason>사용 불가 ({0})</CannotUseReason>
+  <CannotUseSolarFlare>사용 불가 (회로 마비)</CannotUseSolarFlare>
+  <CannotUseNoPower>사용 불가 (전력 없음)</CannotUseNoPower>
+  <CannotUseNoPath>사용 불가 (경로 없음)</CannotUseNoPath>
+  <CannotUseReserved>사용 불가 (예약됨)</CannotUseReserved>
+  <CannotUseFull>사용 불가 (가득참)</CannotUseFull>
+  <LeaderUnavailable>지도자 {1_labelShort}(이)가 바쁨</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>지도자 없음</LeaderUnavailableNoLeader>
+  <NotAllowed>허용되지 않음</NotAllowed>
+  
+  <FireAt>{1_label}에게 사격</FireAt>
 
-  <ExtractXenogermFrom>Extract xenogerm from {PAWN_nameDef}</ExtractXenogermFrom>
-  <EnterBuilding>{0_labelShort} 진입</EnterBuilding>
-  <PawnHasNoGenes>{PAWN_nameDef} has no genes</PawnHasNoGenes>
-  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} has no extractable genes.</PawnHasNoNonArchiteGenes>
-  <InXenogerminationComa>In xenogermination coma</InXenogerminationComa>
-  <Occupied>가득 참</Occupied>
-  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} was ejected from a growth vat</OccupantEjectedFromGrowthVat>
-  <TooOld>{PAWN_nameDef} must be younger than {AGEYEARS} years old.</TooOld>
-  <PawnIsTooOld>{PAWN_nameDef} is too old.</PawnIsTooOld>
-  <PawnBiostarving>{PAWN_nameDef} is suffering from biostarvation.</PawnBiostarving>
-  <NoViablePawns>No available people</NoViablePawns>
-  <NoExtractablePawns>No extractable people</NoExtractablePawns>
-  <NoImplantablePawns>No implantable people</NoImplantablePawns>
-  <CannotEnterBuilding>Cannot enter {0_labelShort}</CannotEnterBuilding>
-  <AssignedToOtherPawn>{0_labelShort} is assigned to another person.</AssignedToOtherPawn>
+  <OutOfRange>범위를 벗어남</OutOfRange>
+  <TooClose>너무 가까움</TooClose>
+  <CannotHitTarget>대상을 공격할 수 없음</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{1_labelShort}(은)는 싸울 수 없음</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>전투 불가</IncapableOfViolenceLower>
+  <IsIncapableOfShootingLower>{0_labelShort}(은)는 사격할 수 없음</IsIncapableOfShootingLower>
+  <IsNotDraftedLower>{1_labelShort}(이)가 소집되지 않음</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>소유하지 않은 유닛에 명령을 내릴 수 없음</CannotOrderNonControlledLower>
+  <CannotAttackSelf>자신을 공격할 수 없음</CannotAttackSelf>
+  <CannotAttackSameFactionMember>아군 세력을 공격할 수 없음</CannotAttackSameFactionMember>
+  <IncapableOfFirefighting>Incapable of firefighting.</IncapableOfFirefighting>
 
-  <AbsorbXenogerm>Absorb xenogerm of {PAWN_nameDef}</AbsorbXenogerm>
-  <CannotAbsorbXenogerm>Cannot absorb {PAWN_nameDef}'s xenogerm</CannotAbsorbXenogerm>
-  <SameXenotype>{PAWN_nameDef} is already {PAWN_xenotype}</SameXenotype>
-  <XenogermLossShockPresent>{PAWN_nameDef} suffering from xenogerm loss shock</XenogermLossShockPresent>
-  <CarryToSpecificThing>Carry to {0_labelShort}</CarryToSpecificThing>
-  <NoCasketOrBed>No reachable, un-reserved bed or deathrest casket in safe temperature.</NoCasketOrBed>
-  <TemporaryFactionMember>{PAWN_nameDef} is a temporary faction member.</TemporaryFactionMember>
+  <OrderManThing>{1_labelShort} 조작</OrderManThing>
+  
+  <MeleeAttack>{1_label} 근접 공격</MeleeAttack>
+  <MeleeAttackToDeath>{1_label}(이)가 죽을 때까지 근접 공격</MeleeAttackToDeath>
+  <NoPath>경로 없음</NoPath>
+  <Burying>매장</Burying>
+  <DesignatedFor>{0} 지정됨</DesignatedFor>
 
-  <SubcoreScannerNotInit>Scanner not initiated</SubcoreScannerNotInit>
-  <SubcoreScannerRequiresIngredients>Waiting for ingredients</SubcoreScannerRequiresIngredients>
-  <SubcoreScannerOccupied>가득 참</SubcoreScannerOccupied>
-  <EnterSubcoreScanner>{0} 진입</EnterSubcoreScanner>
+  <ForbiddenLower>상호작용 금지됨</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>허가구역 외부</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>거주구역 외부</NotInHomeArea>
+  <BurningLower>화상</BurningLower>
+  <NoEmptyPlaceLower>비어있고 접근 가능한 장소 없음</NoEmptyPlaceLower>
+  <NoMergeTarget>정리할 장소가 없음</NoMergeTarget>
+  <AlreadyFilledLower>가득 참</AlreadyFilledLower>
+  <MissingMaterials>missing {0}</MissingMaterials>
+  <NoMedicineMatchingCategory>No medicine for restriction '{CATEGORY}'.</NoMedicineMatchingCategory>
+  <UnderRequiredSkill>요구 기술 {0} 이하</UnderRequiredSkill>
+  <UnderAllowedSkill>허가 기술 {0} 이하</UnderAllowedSkill>
+  <AboveAllowedSkill>허가 기술 {0} 이상</AboveAllowedSkill>
+  <NoReachableOutsideCell>야외에 도달할 수 없음</NoReachableOutsideCell>
+  <MissingRequiredSkillLevel>부족한 기술 수준</MissingRequiredSkillLevel>
+  <AnimalInteractedTooRecently>최근에 상호작용함</AnimalInteractedTooRecently>
+  <PrisonerInteractedTooRecently>interacted with too recently</PrisonerInteractedTooRecently>
+  <NoUsableFood>사용 가능한 식량 없음</NoUsableFood>
+  <NoFood>식량 없음</NoFood>
+  <NoFoodMatchingRestrictions>no food matching restrictions</NoFoodMatchingRestrictions>
+  <NoIngredient>{0_label} 없음</NoIngredient>
+  <FoodBelowTitleRequirements>{0}의 요구 사항</FoodBelowTitleRequirements>
+  <AnimalsSkillTooLow>조련기술 부족 - {0} 필요</AnimalsSkillTooLow>
+  <CantInteractAnimalDowned>쓰러진 동물</CantInteractAnimalDowned>
+  <CantInteractAnimalAsleep>잠든 동물</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>바쁜 동물</CantInteractAnimalBusy>
+  <CantRopeAnimalNoUsableReachablePens>상호작용 가능한 우리에 도달할 수 없음</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoEnclosedPens>완성된 우리 없음</CantRopeAnimalNoEnclosedPens>
+  <CantRopeAnimalNoAllowedPens>상호작용 가능한 우리 없음</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoReachablePens>도달할 수 있는 우리 없음</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalCantTouch>도달할 수 없음</CantRopeAnimalCantTouch>
+  <CantRopeAnimalNoSpace>우리에 자리 없음</CantRopeAnimalNoSpace>
+  <CantRopeAnimalMentalState>{0_labelShort}(은)는 {1} 상태입니다</CantRopeAnimalMentalState>
+  <CantRopeAnimalAlreadyInBestPen>이미 최적의 우리 안에 있음</CantRopeAnimalAlreadyInBestPen>
+  <SkillTooLowForConstruction>{0} 기술 부족</SkillTooLowForConstruction>
+  <NoComponentsToRepair>부품 필요</NoComponentsToRepair>
+  <NoFuelToRefuel>{0} 필요</NoFuelToRefuel>
+  <NoWort>맥아즙 필요</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>사용 가능한 음식이 높은 우선순위의 보관 장소에 있음</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>적절한 음식 없음</NoFoodToFillHopper>
+  <SelfTendDisabled>자가치료 금지됨</SelfTendDisabled>
+  <ReservedForPrisoners>수감자 전용</ReservedForPrisoners>
+  <CannotReach>갈 수 없음</CannotReach>
+  <NotSurgeryReady>수술 준비 안됨</NotSurgeryReady>
+  <SkillDisabled>기술 없음</SkillDisabled>
+  <CantSowCavePlantBecauseOfLight>너무 밝음</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>지붕 없음</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>해체 불가능</IncapableOfDeconstruction>
+  <IncapableOfMining>채굴 불가능</IncapableOfMining>
+  <AngersFaction>세력 분노</AngersFaction>
+  <InstallImplantNoBodyPart>신체부위 없음</InstallImplantNoBodyPart>
+  <InstallImplantNotAllowedForNonColonists>정착민이 아님</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantAlreadyInstalled>이미 설치됨</InstallImplantAlreadyInstalled>
+  <InstallImplantHediffRequired>requires an existing {0}</InstallImplantHediffRequired>
+  <InstallImplantAlreadyMaxLevel>이미 최고단계임</InstallImplantAlreadyMaxLevel>
+  <InstallImplantMinLevel>requires min level {0}</InstallImplantMinLevel>
+  <InstallImplantPsychicallyDeaf>정신적 무감각</InstallImplantPsychicallyDeaf>
+  <UpgradeImplant>{0}(을)를 {1}단계로 향상</UpgradeImplant>
+  <SurgeryViolationFellowFactionMember>아군 세력의 위반</SurgeryViolationFellowFactionMember>
+  <BeingCarriedBy>{0_labelShort}에 의해 옮겨지는 중</BeingCarriedBy>
+  <ContainerFull>넓은 수염</ContainerFull>
+  <AlreadyAssigned>이미 할당됨</AlreadyAssigned>
+  
+  <ConsumeThing>{1_labelShort} 섭취</ConsumeThing>
+  
+  <CannotGoNoPath>갈 수 없음 (경로 없음)</CannotGoNoPath>
+  <GoHere>여기로 이동</GoHere>
+  
+  <Arrest>{0} 체포</Arrest>
+  <TryToArrest>{1_label} 체포 시도 ({2} 확률)</TryToArrest>
+  <CannotArrest>체포 불가</CannotArrest>
+  <ArrestChance>체포 확률 {0}</ArrestChance>
 
-  <BabyCareBreastfeed>Breastfeed {BABY_labelShort}</BabyCareBreastfeed>
-  <BabyCareBreastfeedUnable>Cannot breastfeed {BABY_labelShort}</BabyCareBreastfeedUnable>
-  <NoBabyFood>No baby-edible food</NoBabyFood>
+  <Capture>{1_label} 포획</Capture>
+  <CannotCapture>포획 불가</CannotCapture>
+  <Unrecruitable>한결같은 충성</Unrecruitable>
 
-  <CannotInteractBabyPlayFull>play need full</CannotInteractBabyPlayFull>
+  <Rescue>{1_label} 구조</Rescue>
+  <PutSomewhereSafe>Put {1_label} somewhere safe</PutSomewhereSafe>
+  <TakingToBed>Taking {0_labelShort} to bed.</TakingToBed>
+  <CannotRescue>구조 불가</CannotRescue>
 
-  <BloodfeedOn>Feed on {PAWN_nameDef}</BloodfeedOn>
-  <CannotBloodfeedOn>Cannot feed on {PAWN_nameDef}</CannotBloodfeedOn>
-  <CannotFeedOnWouldKill>Not enough blood.</CannotFeedOnWouldKill>
+  <CarryToCryptosleepCasket>{1_label}(을)를 동면장치로 운반</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>동면장치로 운반 불가</CannotCarryToCryptosleepCasket>
 
-  <!-- BreastfeedFailReason strings-->
-  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} does not have enough milk</BreastfeedFailReason_MomNotEnoughMilk>
-  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} cannot breastfeed right now</BreastfeedFailReason_MomInMentalState>
-  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} is too full to suckle</BreastfeedFailReason_BabyTooFull>
-  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} is forbidden to {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
-  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
-  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} can breastfeed {BABY_labelShort} without help</BreastfeedFailReason_MomIsMobile>
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
-  <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
-  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} is inside a container</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
-  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} is being carried</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
+  <CarryToShuttle>{0_label}(을)를 왕복선으로 운반</CarryToShuttle>
 
-  <OrderImplantationIntoPawn>Order implantation into {PAWN_nameDef}</OrderImplantationIntoPawn>
-  <AcceptXenogerm>Accept {0_xenotype} xenogerm</AcceptXenogerm>
+  <NoCryptosleepCasket>사용 가능한 동면장치가 없음</NoCryptosleepCasket>
+  <CryptosleepCasketGuestsNotAllowed>임시 정착민은 동면시킬 수 없음</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>외부에서 받은 수감자는 불가능합니다.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketOccupied>이미 사용 중</CryptosleepCasketOccupied>
+  <NoPrisonerBed>접근 가능하고 적합한 온도의 빈 수감자 침대 없음</NoPrisonerBed>
+  <NoNonPrisonerBed>접근 가능하며 적절한 온도의 빈 침대 없음</NoNonPrisonerBed>
+  <NoAnimalBed>접근 가능하며 적절한 온도의 빈 동물 침대 없음</NoAnimalBed>
+  <Reserved>누군가에게 예약됨</Reserved>
+  <ReservedBy>{1_labelShort}(이)가 예약함</ReservedBy>
+  <IsReservedBy>{0}(은)는 {1}에게 예약됨</IsReservedBy>
+  <TooHeavy>너무 무거움</TooHeavy>
+  <SameFaction>{0_labelShort}(은)는 같은 세력입니다.</SameFaction>
 
-  <CarryToRechargerOrdered>Carry {PAWN_labelShort} to recharger</CarryToRechargerOrdered>
-  <CannotCarryToRecharger>Cannot carry {PAWN_labelShort} to recharger</CannotCarryToRecharger>
-  <CannotCarryToRechargerNoneAvailable>No available recharger</CannotCarryToRechargerNoneAvailable>
+  <Incapable>불가능</Incapable>
+  <IncapableOfCapacity>{0} 불가능</IncapableOfCapacity>
+  <MustHaveHediff>Must have {0_label}</MustHaveHediff>
 
-  <CannotStudy>Cannot study</CannotStudy>
-  <AlreadyStudied>already studied</AlreadyStudied>
-  <NoResearchBench>no reachable, un-reserved research bench available</NoResearchBench>
+  <MinSkill>최소 기술</MinSkill>
+  
+  <Equip>{0} 착용</Equip>
+  <EquipWarningBrawler>(싸움꾼이 싫어함)</EquipWarningBrawler>
+  <CannotEquip>{0} 착용 불가</CannotEquip>
+  <CannotManThing>{1_labelShort} 조작 불가</CannotManThing>
+  
+  <ForceWear>{1_labelShort} 착용 강제</ForceWear>
+  <CannotWear>{1_label} 착용 불가</CannotWear>
+  <ForceEquipApparel>{1_labelShort} 강제 착용</ForceEquipApparel>
+  <CannotEquipApparel>{1_label} 착용 불가</CannotEquipApparel>
+  <CannotWearBecauseOfMissingBodyParts>신체 결손</CannotWearBecauseOfMissingBodyParts>
+  
+  <Reload>{AMMO_label}(으)로 {GEAR_labelShort} 재장전</Reload>
+  <ReloadFull>최대</ReloadFull>
+  <ReloadNotEnough>너무 적음</ReloadNotEnough>
+  <ReloadCannotCarryEnough>Cannot carry enough {AMMO_label} to reload 1 charge.</ReloadCannotCarryEnough>
+  
+  <CannotPickUp>{1_labelShort} 주울 수 없음</CannotPickUp>
+  <CannotPickUpAll>{1_label} 모두 주울 수 없음</CannotPickUpAll>
+  <PickUpOne>Pick up {1_labelShort} x1</PickUpOne>
+  <PickUpAll>{1_label} 모두 줍기</PickUpAll>
+  <PickUpSome>약간의 {1_labelShort} 줍기...</PickUpSome>
+  <PickUpCount>x{{0}}개 만큼 {1_labelShort} 줍기</PickUpCount>
+  <CannotPickUpSome>{1_labelShort} 주울 수 없음</CannotPickUpSome>
+  <MaxPickUpAllowed>{0}개의 {1} 허용됨</MaxPickUpAllowed>
+  
+  <CannotGiveToPackAnimal>짐꾼 동물에게 {1_label} 줄 수 없음</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>짐꾼 동물에게 {1_label} (모두) 줄 수 없음</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>짐꾼 동물에게 {1_label} 주기</GiveToPackAnimal>
+  <GiveToPackAnimalAll>짐꾼 동물에게 {1_label} (모두) 주기</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>짐꾼 동물에게 {1_labelShort} 주기</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>{1_labelShort} x{{0}} 가져가기</GiveToPackAnimalCount>
+  
+  <CannotLoadIntoCaravan>상단에 {1_label}(을)를 적재할 수 없음</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>상단에 {1_label} 모두 적재할 수 없음</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>상단에 {1_label}(을)를 적재함</LoadIntoCaravan>
+  <LoadIntoCaravanAll>상단에 {1_label} 모두 적재함</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>상단에 {1_labelShort}(을)를 적재함...</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>{1_labelShort} x{{0}} 적재</LoadIntoCaravanCount>
+  <OverweightLower>무게 초과</OverweightLower>
 
-  <NotAllowedHemogen>Hemogen packs disabled by food restriction.</NotAllowedHemogen>
+  <CannotCarryToExit>{1_label} 가지고 나갈 수 없음</CannotCarryToExit>
+  <CarryToExit>{1_label} 가지고 나가기</CarryToExit>
+  <CarryToExitAndCapture>{1_label}(을)를 포획 후 지역 떠나기</CarryToExitAndCapture>
+  
+  <Strip>{1_label} 벗기기</Strip>
+  <CannotStrip>{1_label} 벗기기 불가</CannotStrip>
+  <CannotDrop>{1_label} 제거 불가</CannotDrop>
+  <Carry>{0_label} 들쳐 메기</Carry>
+  <CannotCarry>{0_label}(을)를 들쳐 멜 수 없음</CannotCarry>
+  <QuestRelated>임시 정착민</QuestRelated>
+  <QuestRelated_Outfit>임시 정착민의 의상은 변경할 수 없습니다.</QuestRelated_Outfit>
+  <WouldReplaceLockedApparel>잠긴 의복 대체</WouldReplaceLockedApparel>
 
-  <EjectGenepackFromGeneBank>Eject genepack from gene bank</EjectGenepackFromGeneBank>
+  <CannotPlaceIn>{0_label}(을)를 {1_label}에 넣을 수 없음</CannotPlaceIn>
+  <PlaceIn>{0_label}(을)를 {1_label}에 넣기</PlaceIn>
 
-  <ResultingMetTooLow>Resulting metabolism would be too low</ResultingMetTooLow>
+  <SelfDestructHere>여기서 자폭</SelfDestructHere>
+  
+  <Drop>{1_label} 버리기</Drop>
 
-  <RomanceOnCooldown>attempted romance too recently</RomanceOnCooldown><!-- text_todo -->
+  <UseMedicalBed>완전히 치료될 때까지 휴식</UseMedicalBed>
+  <NotInjured>부상 없음</NotInjured>
+  <NoDoctor>no doctor</NoDoctor>
+  <NotForSlaves>medical bed not for slaves</NotForSlaves><!-- text_todo -->
+  <SomeoneElseSleeping>{0}(이)가 사용 중</SomeoneElseSleeping>
+  
+  <TradeWith>{0}(와)과 거래</TradeWith>
+  <CannotTrade>거래 불가</CannotTrade>
+
+  <Open>{0_label} 열기</Open>
+  <CannotOpen>{0_label} 열 수 없음</CannotOpen>
+  
+  <EnterMap>{0} 진입</EnterMap>
+  <VisitSettlement>{0} 방문</VisitSettlement>
+  <VisitPeaceTalks>{0} 방문</VisitPeaceTalks>
+  <VisitEscapeShip>{0} 방문</VisitEscapeShip>
+  <AttackSettlement>{0} 공격</AttackSettlement>
+  <ApproachSite>{0} 접근</ApproachSite>
+  <ApproachingSite>{0} 접근 중</ApproachingSite>
+  <OfferGifts>선물 제공</OfferGifts>
+  <TradeWithSettlement>{0}(와)과 거래</TradeWithSettlement>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>동면장치에 탑승</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>동면장치 열기</OpenCryptosleepCasket>
+  <EnterShuttle>왕복선에 탑승</EnterShuttle>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <CannotGenericWork>{1} {0} 불가</CannotGenericWork>
+  <CannotGenericWorkCustom>{0} 불가</CannotGenericWorkCustom>
+
+  <CannotMissingHealthActivities>Cannot prioritize: Incapable of {0}</CannotMissingHealthActivities>
+
+  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <CannotGenericAlreadyAm>이미 {1}(을)를 {0} 중</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAmCustom>이미 {0} 중</CannotGenericAlreadyAmCustom>
+
+  <CannotPrioritizeWorkTypeDisabled>우선시 불가 ({0} 불가능)</CannotPrioritizeWorkTypeDisabled>
+  <MissingTitleAbility>필요 작위 부족</MissingTitleAbility>
+
+  <CannotPrioritizeWorkGiverDisabled>우선시 불가 (절대 {0} 하지 않음)</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>{0} 불가</WillNever>
+
+  <CannotPrioritizeNotAssignedToWorkType>우선시 불가 ({0} 할당되지 않음)</CannotPrioritizeNotAssignedToWorkType>
+  <NotAssigned>할당되지 않음</NotAssigned>
+  <NotAssignedToWorkType>{0}에 할당되지 않음</NotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>우선시 불가 (연구 프로젝트)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>우선시 불가 ({1_label}의 상호작용 금지됨)</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>우선시 불가 (상호작용 금지됨)</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>우선 시 불가 (허가구역 외부)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeBurying>매장 우선시 불가</CannotPrioritizeBurying>
+
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <PrioritizeGeneric>우선 {1} {0}</PrioritizeGeneric>
+  
+  <DropAtEdge>가장자리에 낙하</DropAtEdge>
+  <DropInCenter>중앙에 낙하</DropInCenter>
+  <AttackShuttle>{0} 공격</AttackShuttle>
+  <AttackAndDropAtEdge>{0} 공격: 가장자리에 낙하</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>{0} 공격: 중앙에 낙하</AttackAndDropInCenter>
+  
+  <VomitingLower>토하는 중</VomitingLower>
+  <NotInterruptibleLower>명령 불가</NotInterruptibleLower>
+  
+  <AddWaypoint>새 경유지 추가</AddWaypoint>
+  <RemoveWaypoint>경유지 제거</RemoveWaypoint>
+
+  <RemoveAllDesignations>모든 지정 취소</RemoveAllDesignations>
+  <DesignateAll>모두 지정</DesignateAll>
+  <CountToDesignate>{0} 영향</CountToDesignate>
+  <ForbidAllItems>모든 항목 금지</ForbidAllItems>
+  <UnforbidAllItems>모든 항목 허용</UnforbidAllItems>
+
+  <!-- Transport pods -->
+  <LandInExistingMap>{0} 착륙 지점을 확대하고 선택</LandInExistingMap>
+  <TransportPodsContentsWillBeLost>내용물 손실됨</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>이 곳에 상단을 구성</FormCaravanHere>
+  <GiveToCaravan>{0}에게 주기</GiveToCaravan>
+  <GiveGiftViaTransportPods>{0}에게 선물로 제공 ({1})</GiveGiftViaTransportPods>
+  <NotPartOfLaunchGroup>발사 그룹에 속하지 않음</NotPartOfLaunchGroup>
+
+  <!-- Rescue quest -->
+  <FreePrisoner>수감자 해방</FreePrisoner>
+  <OfferHelp>도움 제공</OfferHelp>
+
+  <ApplyTechprint>{0} 적용</ApplyTechprint>
+
+  <EnterCooldownBlocksEntering>위험</EnterCooldownBlocksEntering>
+
+  <!-- CommsConsole -->
+  <NoCommsTarget>연락 가능한 대상 없음</NoCommsTarget>
+
+  <Invoke>{0} 발동</Invoke>
+  <CannotInvoke>{0} 발동 불가</CannotInvoke>
+  <Power>전력</Power>
+  <AlreadyInvoked>이미 발동함</AlreadyInvoked>
+
+  <Tend>{0} 치료</Tend>
+  <CannotTend>{0} 치료 불가</CannotTend>
+  <TendingNotRequired>{0}(은)는 치료가 필요하지 않음</TendingNotRequired>
+  <WithoutMedicine>약품 없이</WithoutMedicine>
+
+  <RepairThing>{0} 수리</RepairThing>
+  <CannotRepair>{0} 수리 불가</CannotRepair>
+
+  <CannotEnter>진입 불가</CannotEnter>
+
+  <!-- Romance partner -->
+  <CannotRomance>Cannot romance {0}</CannotRomance>
+  <CanRomance>Romance {0}</CanRomance>
+
+  <!-- Feeding -->
+  <WarningFoodDisliked>disliked food</WarningFoodDisliked>
 
 </LanguageData>
