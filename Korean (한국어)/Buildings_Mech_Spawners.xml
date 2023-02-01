@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MechAssembler.label>메카 조립대</MechAssembler.label>
+  <MechAssembler.description>정기적으로 새로운 메카노이드를 조립하여 배치하는 자동화된 메카노이드 공장입니다.</MechAssembler.description>
+  
+  <MechCapsule.label>우주선 조각 (독성)</MechCapsule.label>
+  <MechCapsule.description>추락한 우주선의 일부입니다. 치명적인 방어 시스템과 유용한 재료들을 싣고 있습니다. 주변 토양을 오염시키고 식물들을 시들게 합니다.</MechCapsule.description>
+  
+  <MechDropBeacon.label>메카 낙하신호기</MechDropBeacon.label>
+  <MechDropBeacon.description>메카노이드 증원 낙하신호기로, 활성화가 되면 메카 무리를 불러 근처에 낙하기가 도착합니다.</MechDropBeacon.description>
+</LanguageData>
