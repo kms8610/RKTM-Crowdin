@@ -1,23 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bullet_ToxbombLauncher.label>toxbomb launcher shell</Bullet_ToxbombLauncher.label>
+  <Bullet_AssaultRifle.label>돌격소총 탄환</Bullet_AssaultRifle.label>
   
-  <Flamebow.label>flamebow</Flamebow.label>
-  <Flamebow.description>A simple short selfbow with a load of incendiary arrows. The arrows carry fuel and an igniter. Upon impact, they spray fuel around and ignite it.</Flamebow.description>
-  <Flamebow.tools.limb.label>활대</Flamebow.tools.limb.label>
-  <Flamebow.verbs.Verb_Shoot.label>flamebow</Flamebow.verbs.Verb_Shoot.label>
+  <Bullet_Autopistol.label>자동권총 탄환</Bullet_Autopistol.label>
   
-  <Gun_ToxbombLauncher.label>toxbomb launcher</Gun_ToxbombLauncher.label>
-  <Gun_ToxbombLauncher.description>A self-loading low-pressure canister launcher loaded with tox bombs. Upon impact, the tox bombs will stick to the ground and release tox gas for several seconds.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Gun_ToxbombLauncher.description>
-  <Gun_ToxbombLauncher.tools.stock.label>개머리판</Gun_ToxbombLauncher.tools.stock.label>
-  <Gun_ToxbombLauncher.tools.barrel.label>총열</Gun_ToxbombLauncher.tools.barrel.label>
-  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>toxbomb launcher</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+  <Bullet_BoltActionRifle.label>사냥용 소총 탄환</Bullet_BoltActionRifle.label>
   
-  <Proj_FireArrow.label>fire arrow</Proj_FireArrow.label>
+  <Bullet_EMPLauncher.label>EMP 탄</Bullet_EMPLauncher.label>
   
-  <Proj_GrenadeTox.label>tox grenade</Proj_GrenadeTox.label>
+  <Bullet_HeavySMG.label>기관단총 탄환</Bullet_HeavySMG.label>
   
-  <Weapon_GrenadeTox.label>tox grenades</Weapon_GrenadeTox.label>
-  <Weapon_GrenadeTox.description>Grenades loaded with liquified tox gas. Upon landing, they stick to the ground and release tox gas for several seconds.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Weapon_GrenadeTox.description>
-  <Weapon_GrenadeTox.verbs.throw_tox_grenade.label>throw tox grenade</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
+  <Bullet_IncendiaryLauncher.label>30mm 폭발탄 (소이탄)</Bullet_IncendiaryLauncher.label>
+  
+  <Bullet_LMG.label>경기관총 탄환</Bullet_LMG.label>
+  
+  <Bullet_MachinePistol.label>기관권총 탄환</Bullet_MachinePistol.label>
+  
+  <Bullet_Minigun.label>미니건 탄환</Bullet_Minigun.label>
+  
+  <Bullet_Revolver.label>리볼버 탄환</Bullet_Revolver.label>
+  
+  <Bullet_Shotgun.label>산탄총 탄환</Bullet_Shotgun.label>
+  
+  <Bullet_SmokeLauncher.label>연막 발사탄</Bullet_SmokeLauncher.label>
+  
+  <Bullet_SniperRifle.label>저격소총 탄환</Bullet_SniperRifle.label>
+  
+  <Gun_AssaultRifle.label>돌격소총</Gun_AssaultRifle.label>
+  <Gun_AssaultRifle.description>야전 또는 도시 전투를 위한 범용 가스 작동식 공격 소총. 좋은 범위, 적당한 힘, 그리고 좋은 정확도를 가지고 있습니다.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.tools.stock.label>개머리판</Gun_AssaultRifle.tools.stock.label>
+  <Gun_AssaultRifle.tools.barrel.label>총열</Gun_AssaultRifle.tools.barrel.label>
+  <Gun_AssaultRifle.verbs.Verb_Shoot.label>돌격소총</Gun_AssaultRifle.verbs.Verb_Shoot.label>
+  
+  <Gun_Autopistol.label>자동권총</Gun_Autopistol.label>
+  <Gun_Autopistol.description>고전적인 블로우백 방식의 자동 장전 권총. 저지력과 사정거리가 부족하지만 발사가 빠릅니다.</Gun_Autopistol.description>
+  <Gun_Autopistol.tools.grip.label>손잡이</Gun_Autopistol.tools.grip.label>
+  <Gun_Autopistol.tools.barrel.label>총열</Gun_Autopistol.tools.barrel.label>
+  <Gun_Autopistol.verbs.Verb_Shoot.label>자동권총</Gun_Autopistol.verbs.Verb_Shoot.label>
+  
+  <Gun_BoltActionRifle.label>사냥용 소총</Gun_BoltActionRifle.label>
+  <Gun_BoltActionRifle.description>고전적인 사냥용 소총. 사정거리가 길고 화력이 낮기 때문에 동물들이 보복할 가능성이 별로 없어 사냥을 위한 좋은 무기가 됩니다.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.tools.stock.label>개머리판</Gun_BoltActionRifle.tools.stock.label>
+  <Gun_BoltActionRifle.tools.barrel.label>총열</Gun_BoltActionRifle.tools.barrel.label>
+  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>사냥용 소총</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
+  
+  <Gun_ChainShotgun.label>전투 산탄총</Gun_ChainShotgun.label>
+  <Gun_ChainShotgun.description>탄창 급탄식 완전 자동 산탄총. 전형적인 산탄총보다 훨씬 사정거리가 더 짧지만, 연발이 가능해서 훨씬 위협적입니다.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.tools.stock.label>개머리판</Gun_ChainShotgun.tools.stock.label>
+  <Gun_ChainShotgun.tools.barrel.label>총열</Gun_ChainShotgun.tools.barrel.label>
+  <Gun_ChainShotgun.verbs.Verb_Shoot.label>전투 산탄총</Gun_ChainShotgun.verbs.Verb_Shoot.label>
+  
+  <Gun_EmpLauncher.label>EMP 발사기</Gun_EmpLauncher.label>
+  <Gun_EmpLauncher.description>넓은 총열을 가진 EMP 탄 발사기입니다. 착탄시 폭발 범위 내의 기계적인 목표물(메카노이드, 포탑, 박격포),과 보호막을 무력화합니다.</Gun_EmpLauncher.description>
+  <Gun_EmpLauncher.tools.stock.label>개머리판</Gun_EmpLauncher.tools.stock.label>
+  <Gun_EmpLauncher.tools.barrel.label>총열</Gun_EmpLauncher.tools.barrel.label>
+  <Gun_EmpLauncher.verbs.Verb_Shoot.label>EMP 발사기</Gun_EmpLauncher.verbs.Verb_Shoot.label>
+  
+  <Gun_HeavySMG.label>기관단총</Gun_HeavySMG.label>
+  <Gun_HeavySMG.description>권총 탄환을 사용합니다. 사정거리가 매우 짧지만 저지력이 우수하고 다루기 편합니다.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.tools.grip.label>손잡이</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.tools.barrel.label>총열</Gun_HeavySMG.tools.barrel.label>
+  <Gun_HeavySMG.verbs.Verb_Shoot.label>기관단총</Gun_HeavySMG.verbs.Verb_Shoot.label>
+  
+  <Gun_IncendiaryLauncher.label>소이탄 발사기</Gun_IncendiaryLauncher.label>
+  <Gun_IncendiaryLauncher.description>넓은 총열의 볼트 발사기. 이 볼트는 착탄시 작은 폭발을 일으켜 화재를 발생시킵니다.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.tools.stock.label>개머리판</Gun_IncendiaryLauncher.tools.stock.label>
+  <Gun_IncendiaryLauncher.tools.barrel.label>총열</Gun_IncendiaryLauncher.tools.barrel.label>
+  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>소이탄 발사기</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
+  
+  <Gun_LMG.label>경기관총</Gun_LMG.label>
+  <Gun_LMG.description>가스 작동식 경기관총. 다소 다루기 힘들고 부정확하지만, 그것의 연사력은 적 집단에게 효과적입니다.</Gun_LMG.description>
+  <Gun_LMG.tools.stock.label>개머리판</Gun_LMG.tools.stock.label>
+  <Gun_LMG.tools.barrel.label>총열</Gun_LMG.tools.barrel.label>
+  <Gun_LMG.verbs.Verb_Shoot.label>경기관총</Gun_LMG.verbs.Verb_Shoot.label>
+  
+  <Gun_MachinePistol.label>기관권총</Gun_MachinePistol.label>
+  <Gun_MachinePistol.description>초소형 기관총. 사정거리가 짧지만 아주 가볍습니다. 연사력이 약점을 보완해줍니다.</Gun_MachinePistol.description>
+  <Gun_MachinePistol.tools.grip.label>손잡이</Gun_MachinePistol.tools.grip.label>
+  <Gun_MachinePistol.tools.barrel.label>총열</Gun_MachinePistol.tools.barrel.label>
+  <Gun_MachinePistol.verbs.Verb_Shoot.label>기관권총</Gun_MachinePistol.verbs.Verb_Shoot.label>
+  
+  <Gun_Minigun.label>미니건</Gun_Minigun.label>
+  <Gun_Minigun.description>다중 총열 기관총. 다루기 힘들지만 일단 발사하면 아주 빨리 발사됩니다. 대부분의 자동장전 소총이 화약으로부터 나오는 에너지로 동력을 얻지만, 미니건은 전기 모터를 사용해 카트리지를 빠르게 순환시킵니다.</Gun_Minigun.description>
+  <Gun_Minigun.tools.barrels.label>총열</Gun_Minigun.tools.barrels.label>
+  <Gun_Minigun.verbs.Verb_Shoot.label>미니건</Gun_Minigun.verbs.Verb_Shoot.label>
+  
+  <Gun_PumpShotgun.label>산탄총</Gun_PumpShotgun.label>
+  <Gun_PumpShotgun.description>빽빽이 들어찬 아주 작은 총알들을 방출하는 구식 디자인의 샷건입니다. 하지만, 근거리에서는 치명적입니다.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.tools.stock.label>개머리판</Gun_PumpShotgun.tools.stock.label>
+  <Gun_PumpShotgun.tools.barrel.label>총열</Gun_PumpShotgun.tools.barrel.label>
+  <Gun_PumpShotgun.verbs.Verb_Shoot.label>산탄총</Gun_PumpShotgun.verbs.Verb_Shoot.label>
+  
+  <Gun_Revolver.label>리볼버</Gun_Revolver.label>
+  <Gun_Revolver.description>고전 방식의 이중액션 리볼버입니다. 매우 강력하지는 않지만, 권총보다 사정거리가 길고 장전이 빠릅니다.</Gun_Revolver.description>
+  <Gun_Revolver.tools.grip.label>손잡이</Gun_Revolver.tools.grip.label>
+  <Gun_Revolver.tools.barrel.label>총열</Gun_Revolver.tools.barrel.label>
+  <Gun_Revolver.verbs.Verb_Shoot.label>리볼버</Gun_Revolver.verbs.Verb_Shoot.label>
+  
+  <Gun_SmokeLauncher.label>연막 발사기</Gun_SmokeLauncher.label>
+  <Gun_SmokeLauncher.description>넓은 총열을 가진 연막탄 발사기입니다. 이 탄은 착탄시 연막 구름을 방출하여, 포탑의 추적을 방해하고 발사체의 정확도를 떨어뜨립니다.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.tools.stock.label>개머리판</Gun_SmokeLauncher.tools.stock.label>
+  <Gun_SmokeLauncher.tools.barrel.label>총열</Gun_SmokeLauncher.tools.barrel.label>
+  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>연막 발사기</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
+  
+  <Gun_SniperRifle.label>저격소총</Gun_SniperRifle.label>
+  <Gun_SniperRifle.description>고전적인 디자인의 정밀한 저격소총. 볼트 액션 방식으로 예외적으로 긴 사거리와 높은 정확도, 좋은 파워를 가지고 있습니다. 하지만 너무 다루기 힘들어서, 근거리에선 다른 무기들이 그것을 능가합니다.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.tools.stock.label>개머리판</Gun_SniperRifle.tools.stock.label>
+  <Gun_SniperRifle.tools.barrel.label>총열</Gun_SniperRifle.tools.barrel.label>
+  <Gun_SniperRifle.verbs.Verb_Shoot.label>저격소총</Gun_SniperRifle.verbs.Verb_Shoot.label>
 </LanguageData>
