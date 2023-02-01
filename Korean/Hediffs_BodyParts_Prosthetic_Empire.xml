@@ -1,41 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrillArm.label>drill arm</DrillArm.label>
-  <DrillArm.description>An installed drill arm.</DrillArm.description>
-  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>drill</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
-  <DrillArm.labelNoun>a drill arm</DrillArm.labelNoun>
+  <InstallDrillArm.label>install drill arm</InstallDrillArm.label>
+  <InstallDrillArm.description>Install a drill arm.</InstallDrillArm.description>
+  <InstallDrillArm.jobString>Installing drill arm.</InstallDrillArm.jobString>
   
-  <ElbowBlade.label>elbow blade</ElbowBlade.label>
-  <ElbowBlade.description>An installed elbow blade.</ElbowBlade.description>
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>blade</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
-  <ElbowBlade.labelNoun>an elbow blade</ElbowBlade.labelNoun>
+  <InstallElbowBlade.label>install elbow blade</InstallElbowBlade.label>
+  <InstallElbowBlade.description>Install an elbow blade.</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>Installing elbow blade.</InstallElbowBlade.jobString>
   
-  <FieldHand.label>field hand</FieldHand.label>
-  <FieldHand.description>An installed field hand.</FieldHand.description>
-  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>knuckle</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
-  <FieldHand.labelNoun>a field hand</FieldHand.labelNoun>
+  <InstallFieldHand.label>install field hand</InstallFieldHand.label>
+  <InstallFieldHand.description>Install a field hand.</InstallFieldHand.description>
+  <InstallFieldHand.jobString>Installing field hand.</InstallFieldHand.jobString>
   
-  <HandTalon.label>hand talon</HandTalon.label>
-  <HandTalon.description>An installed hand talon.</HandTalon.description>
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>talon</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
-  <HandTalon.labelNoun>a hand talon</HandTalon.labelNoun>
+  <InstallHandTalon.label>install hand talon</InstallHandTalon.label>
+  <InstallHandTalon.description>Install a hand talon.</InstallHandTalon.description>
+  <InstallHandTalon.jobString>Installing hand talon.</InstallHandTalon.jobString>
   
-  <KneeSpike.label>knee spike</KneeSpike.label>
-  <KneeSpike.description>An installed knee spike.</KneeSpike.description>
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>spike</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
-  <KneeSpike.labelNoun>a knee spike</KneeSpike.labelNoun>
+  <InstallKneeSpike.label>install knee spike</InstallKneeSpike.label>
+  <InstallKneeSpike.description>Install a knee spike.</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>Installing knee spike.</InstallKneeSpike.jobString>
   
-  <Mindscrew.label>mindscrew</Mindscrew.label>
-  <Mindscrew.description>An installed mindscrew.</Mindscrew.description>
-  <Mindscrew.labelNoun>a mindscrew</Mindscrew.labelNoun>
+  <InstallMindscrew.label>install mindscrew</InstallMindscrew.label>
+  <InstallMindscrew.description>Install a mindscrew.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>Installing mindscrew.</InstallMindscrew.jobString>
   
-  <VenomFangs.label>venom fangs</VenomFangs.label>
-  <VenomFangs.description>An installed set of venom fangs.</VenomFangs.description>
-  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>venom fangs</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
-  <VenomFangs.labelNoun>a set of venom fangs</VenomFangs.labelNoun>
+  <InstallVenomFangs.label>install venom fangs</InstallVenomFangs.label>
+  <InstallVenomFangs.description>Install venom fangs.</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>Installing venom fangs.</InstallVenomFangs.jobString>
   
-  <VenomTalon.label>venom talon</VenomTalon.label>
-  <VenomTalon.description>An installed venom talon.</VenomTalon.description>
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>venom talon</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
-  <VenomTalon.labelNoun>a venom talon</VenomTalon.labelNoun>
+  <InstallVenomTalon.label>install venom talon</InstallVenomTalon.label>
+  <InstallVenomTalon.description>Install a venom talon.</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>Installing venom talon.</InstallVenomTalon.jobString>
+  
+  <RemoveElbowBlade.label>remove elbow blade</RemoveElbowBlade.label>
+  <RemoveElbowBlade.description>Remove elbow blade.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>Removing elbow blade.</RemoveElbowBlade.jobString>
+  
+  <RemoveHandTalon.label>remove hand talon</RemoveHandTalon.label>
+  <RemoveHandTalon.description>Remove hand talon.</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>Removing hand talon.</RemoveHandTalon.jobString>
+  
+  <RemoveKneeSpike.label>remove knee spike</RemoveKneeSpike.label>
+  <RemoveKneeSpike.description>Remove knee spike.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>Removing knee spike.</RemoveKneeSpike.jobString>
+  
+  <RemoveVenomFangs.label>remove venom fangs</RemoveVenomFangs.label>
+  <RemoveVenomFangs.description>Remove venom fangs.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>Removing venom fangs.</RemoveVenomFangs.jobString>
+  
+  <RemoveVenomTalon.label>remove venom talon</RemoveVenomTalon.label>
+  <RemoveVenomTalon.description>Remove venom talon.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>Removing venom talon.</RemoveVenomTalon.jobString>
 </LanguageData>
