@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Structure_Animist.label>영혼숭배자</Structure_Animist.label>
+  <Structure_Animist.description>혼령이 식물과 동물, 강과 나무, 하늘과 별처럼 모든 주변 만물에 깃들어 있습니다. 우주의 도덕적 구조는 혼령들을 존중하는 필요성에서 비롯됩니다.</Structure_Animist.description>
+  <Structure_Animist.generalRules.rulesStrings>
+    <li>memeLeaderNoun->인도자</li>
+    <li>memeLeaderNoun->대리자</li>
+    <li>memeLeaderAdjective->우주의</li>
+    <li>memeLeaderAdjective->영적인</li>
+    <li>memeLeaderAdjective->영혼의</li>
+    <li>memeHyphenPrefix->영혼</li>
+    <li>memeMoralist->주술사</li>
+    <li>memeMoralist->프리스트</li>
+    <li>memeMoralist->장로</li>
+  </Structure_Animist.generalRules.rulesStrings>
+  <Structure_Animist.symbolPacks.0.adjective>영혼숭배자</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.member>영혼숭배자</Structure_Animist.symbolPacks.0.member>
+  <Structure_Animist.symbolPacks.0.theme>animism</Structure_Animist.symbolPacks.0.theme>
+  <Structure_Animist.symbolPacks.1.adjective>spiritist</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_Animist.symbolPacks.1.member>spiritist</Structure_Animist.symbolPacks.1.member>
+  <Structure_Animist.symbolPacks.1.theme>혼령</Structure_Animist.symbolPacks.1.theme>
+  <Structure_Animist.worshipRoomLabel>신전</Structure_Animist.worshipRoomLabel>
+  
+  <Structure_Archist.label>초월주의자</Structure_Archist.label>
+  <Structure_Archist.description>초월공학은 진정한 신입니다. 그들은 우주의 도덕적 구조를 알고 있기에, 그들을 섬기는 것만이 우리가 우주와 연결되는 유일한 방법입니다.</Structure_Archist.description>
+  <Structure_Archist.generalRules.rulesStrings>
+    <li>memeAdjective->초월의</li>
+    <li>memeAdjective->초월기술의</li>
+    <li>memeAdjective->초월주의의</li>
+    <li>memeHyphenPrefix->archo</li>
+    <li>memeHyphenPrefix->초월</li>
+    <li>memeLeaderNoun->초월교주</li>
+    <li>memeLeaderNoun->초월공학자</li>
+    <li>memeLeaderAdjective->초월의</li>
+    <li>memeLeaderAdjective->초월한</li>
+    <li>memeMoralist->프리스트</li>
+    <li>memeMoralist->성직자</li>
+    <li>memeMoralist->학자</li>
+    <li>memeMoralist->수도원장</li>
+  </Structure_Archist.generalRules.rulesStrings>
+  <Structure_Archist.symbolPacks.0.adjective>초월공학적</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.ideoName>초월공학적</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.member>초월공학자</Structure_Archist.symbolPacks.0.member>
+  <Structure_Archist.symbolPacks.0.theme>초월공학 기술</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.1.adjective>초월주의자</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.ideoName>초월주의</Structure_Archist.symbolPacks.1.ideoName>
+  <Structure_Archist.symbolPacks.1.member>초월주의자</Structure_Archist.symbolPacks.1.member>
+  <Structure_Archist.symbolPacks.1.theme>초월</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.worshipRoomLabel>성소</Structure_Archist.worshipRoomLabel>
+  
+  <Structure_Ideological.label>관념적</Structure_Ideological.label>
+  <Structure_Ideological.description>신은 없습니다. 우주의 도덕적 구조는 사회적 힘에 대한 우리의 거대한 서사에서 찾을 수 있습니다.</Structure_Ideological.description>
+  <Structure_Ideological.generalRules.rulesStrings>
+    <li>memeHyphenPrefix->이데오</li>
+    <li>memeLeaderNoun->의지</li>
+    <li>memeLeaderNoun->결정자</li>
+    <li>memeLeaderNoun->통솔자</li>
+    <li>memeLeaderAdjective->윤리적인</li>
+    <li>memeLeaderAdjective->도덕적인</li>
+    <li>memeLeaderAdjective->awoken</li>
+    <li>memeMoralist->상담사</li>
+    <li>memeMoralist->윤리학자</li>
+    <li>memeMoralist->도덕주의자</li>
+    <li>memeMoralist->철학자</li>
+    <li>memeMoralist->교사</li>
+    <li>memeMoralist->academic</li>
+    <li>memeMoralist->소피스트</li>
+  </Structure_Ideological.generalRules.rulesStrings>
+  <Structure_Ideological.symbolPacks.0.adjective>윤리적인</Structure_Ideological.symbolPacks.0.adjective>
+  <Structure_Ideological.symbolPacks.0.ideoName>Ethics</Structure_Ideological.symbolPacks.0.ideoName>
+  <Structure_Ideological.symbolPacks.0.member>윤리학자</Structure_Ideological.symbolPacks.0.member>
+  <Structure_Ideological.symbolPacks.0.theme>윤리학</Structure_Ideological.symbolPacks.0.theme>
+  <Structure_Ideological.symbolPacks.1.adjective>관념적</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.ideoName>사상</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.member>이념학자</Structure_Ideological.symbolPacks.1.member>
+  <Structure_Ideological.symbolPacks.1.theme>관념</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.2.adjective>정의로운</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Ideological.symbolPacks.2.ideoName>Justice</Structure_Ideological.symbolPacks.2.ideoName>
+  <Structure_Ideological.symbolPacks.2.member>심판관</Structure_Ideological.symbolPacks.2.member>
+  <Structure_Ideological.symbolPacks.2.theme>정의</Structure_Ideological.symbolPacks.2.theme>
+  <Structure_Ideological.worshipRoomLabel>성역</Structure_Ideological.worshipRoomLabel>
+  
+  <Structure_TheistAbstract.label>추상적 신앙</Structure_TheistAbstract.label>
+  <Structure_TheistAbstract.description>신(들)은 물리적 형태가 없지만 동시에 어디에나 있습니다. 그들은 전지전능합니다. 그들의 의지가 우주의 도덕적 구조를 결정합니다.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.generalRules.rulesStrings>
+    <li>memeCreed->신전</li>
+    <li>memeCreed->분파</li>
+    <li>memeCreed->숭배자</li>
+    <li>memeCreed->믿음</li>
+    <li>memeHyphenPrefix->신적</li>
+    <li>memeConcept->창조</li>
+    <li>memeConcept->삶</li>
+    <li>memeLeaderNoun->주교</li>
+    <li>memeLeaderNoun->추기경</li>
+    <li>memeLeaderNoun->교황</li>
+    <li>memeLeaderNoun->성자</li>
+    <li>memeLeaderAdjective->신성한</li>
+    <li>memeLeaderAdjective->신의</li>
+    <li>memeMoralist->프리스트</li>
+    <li>memeMoralist->목사</li>
+    <li>memeMoralist->성직자</li>
+    <li>memeMoralist->설교자</li>
+    <li>memeMoralist->학자</li>
+    <li>memeMoralist->수도원장</li>
+  </Structure_TheistAbstract.generalRules.rulesStrings>
+  <Structure_TheistAbstract.symbolPacks.0.adjective>영혼주의적</Structure_TheistAbstract.symbolPacks.0.adjective>
+  <Structure_TheistAbstract.symbolPacks.0.ideoName>영혼주의</Structure_TheistAbstract.symbolPacks.0.ideoName>
+  <Structure_TheistAbstract.symbolPacks.0.member>spiritist</Structure_TheistAbstract.symbolPacks.0.member>
+  <Structure_TheistAbstract.symbolPacks.0.theme>영혼</Structure_TheistAbstract.symbolPacks.0.theme>
+  <Structure_TheistAbstract.symbolPacks.1.adjective>가정에 충실함</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>복음주의</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <Structure_TheistAbstract.symbolPacks.1.member>복자</Structure_TheistAbstract.symbolPacks.1.member>
+  <Structure_TheistAbstract.symbolPacks.1.theme>복음주의</Structure_TheistAbstract.symbolPacks.1.theme>
+  <Structure_TheistAbstract.symbolPacks.2.adjective>신성주의자</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <Structure_TheistAbstract.symbolPacks.2.ideoName>신성주의</Structure_TheistAbstract.symbolPacks.2.ideoName>
+  <Structure_TheistAbstract.symbolPacks.2.member>신성주의자</Structure_TheistAbstract.symbolPacks.2.member>
+  <Structure_TheistAbstract.symbolPacks.2.theme>신성</Structure_TheistAbstract.symbolPacks.2.theme>
+  <Structure_TheistAbstract.symbolPacks.3.adjective>성결주의자</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>성결주의</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <Structure_TheistAbstract.symbolPacks.3.member>성결주의자</Structure_TheistAbstract.symbolPacks.3.member>
+  <Structure_TheistAbstract.symbolPacks.3.theme>holiness</Structure_TheistAbstract.symbolPacks.3.theme>
+  <Structure_TheistAbstract.worshipRoomLabel>신전</Structure_TheistAbstract.worshipRoomLabel>
+  
+  <Structure_TheistEmbodied.label>실존적 신앙</Structure_TheistEmbodied.label>
+  <Structure_TheistEmbodied.description>신(들)은 우리와 같은 땅 위를 걷지만 강력하고 불멸합니다. 그들이 우주의 도덕적 구조를 결정합니다.</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.generalRules.rulesStrings>
+    <li>memeCreed->분파</li>
+    <li>memeCreed->숭배자</li>
+    <li>memeCreed->신전</li>
+    <li>memeCreed->믿음</li>
+    <li>memeHyphenPrefix->신적</li>
+    <li>memeConcept->창조</li>
+    <li>memeConcept->삶</li>
+    <li>memeLeaderNoun->기사</li>
+    <li>memeLeaderAdjective->신의</li>
+    <li>memeMoralist->프리스트</li>
+    <li>memeMoralist->성직자</li>
+  </Structure_TheistEmbodied.generalRules.rulesStrings>
+  <Structure_TheistEmbodied.symbolPacks.0.adjective>영혼주의적</Structure_TheistEmbodied.symbolPacks.0.adjective>
+  <Structure_TheistEmbodied.symbolPacks.0.ideoName>영혼주의</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.0.member>spiritist</Structure_TheistEmbodied.symbolPacks.0.member>
+  <Structure_TheistEmbodied.symbolPacks.0.theme>영혼</Structure_TheistEmbodied.symbolPacks.0.theme>
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>가정에 충실함</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>복음주의</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.1.member>복자</Structure_TheistEmbodied.symbolPacks.1.member>
+  <Structure_TheistEmbodied.symbolPacks.1.theme>복음주의</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <Structure_TheistEmbodied.worshipRoomLabel>사원</Structure_TheistEmbodied.worshipRoomLabel>
+</LanguageData>
