@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_AncientComplex_Mechanitor.label>ancient mechanitor complex</GiveQuest_AncientComplex_Mechanitor.label>
-  <GiveQuest_AncientComplex_Mechanitor.letterLabel>ancient mechanitor complex</GiveQuest_AncientComplex_Mechanitor.letterLabel>
+  <OrbitalTraderArrival.label>궤도 상인 도착</OrbitalTraderArrival.label>
   
-  <PoluxTreeSpawn.label>polux tree</PoluxTreeSpawn.label>
-  <PoluxTreeSpawn.letterLabel>Polux tree sprout</PoluxTreeSpawn.letterLabel>
-  <PoluxTreeSpawn.letterText>A polux tree has sprouted nearby!\n\nPolux trees slowly absorb pollution from the terrain around them. Unlike most methods of clearing polluted terrain, polux trees do not generate toxic wastepacks.</PoluxTreeSpawn.letterText>
+  <RaidFriendly.label>아군 지원</RaidFriendly.label>
   
-  <RefugeePodCrash_Baby.label>수송기 추락</RefugeePodCrash_Baby.label>
+  <ShipChunkDrop.label>함선 잔해 추락</ShipChunkDrop.label>
+  
+  <StrangerInBlackJoin.label>구세주</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>구세주</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>위기의 순간 한 명의 신비한 [PAWN_kind](이)가 나타났습니다.\n\n과연 [PAWN_pronoun]는 이 위기에서 정착지를 구할 수 있을까요?</StrangerInBlackJoin.letterText>
+  
+  <TraderCaravanArrival.label>행상인 도착</TraderCaravanArrival.label>
+  
+  <TravelerGroup.label>여행자들</TravelerGroup.label>
+  
+  <VisitorGroup.label>방문객 무리</VisitorGroup.label>
 </LanguageData>
