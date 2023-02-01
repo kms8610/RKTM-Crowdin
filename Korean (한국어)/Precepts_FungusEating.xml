@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FungusEating_Despised.label>천박함</FungusEating_Despised.label>
-  <FungusEating_Despised.description>어둠 속에서 자란 버섯은 역겨운 것이다.</FungusEating_Despised.description>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>ate fungus cooked</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>That whole meal smelled like a dead rat left in a stagnant pool.</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>
   
-  <FungusEating_Preferred.label>선호</FungusEating_Preferred.label>
-  <FungusEating_Preferred.description>버섯이야말로 길러야 하는 작물이다. 빛의 작물들은 공기와 태양에 오염됐다.</FungusEating_Preferred.description>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>ate cooked fungus</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>I ate a meal with fungus. Is there any dish it doesn't complement?</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>
+  
+  <AteFungus_Despised.stages.ate_fungus_raw.label>ate fungus raw</AteFungus_Despised.stages.ate_fungus_raw.label>
+  <AteFungus_Despised.stages.ate_fungus_raw.description>That fungus smelled like damp rags and tasted no better.</AteFungus_Despised.stages.ate_fungus_raw.description>
+  
+  <AteFungus_Preferred.stages.ate_fungus.label>ate fungus</AteFungus_Preferred.stages.ate_fungus.label>
+  <AteFungus_Preferred.stages.ate_fungus.description>I ate some fungus and it was just what I like!</AteFungus_Preferred.stages.ate_fungus.description>
+  
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>ate non-fungus plant cooked</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>I ate a meal with a plant of the light. I wish it were a fungus.</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>
+  
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>ate non-fungus plant raw</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>I had to eat a non-fungus plant food I despise. I much prefer fungus.</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>
 </LanguageData>
