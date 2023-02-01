@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Fabric.label>옷감</Fabric.label>
+  <Fabric.noun>옷감</Fabric.noun>
+  
+  <Leathery.label>가죽</Leathery.label>
+  <Leathery.noun>가죽</Leathery.noun>
+  
+  <Metallic.label>금속제</Metallic.label>
+  <Metallic.noun>metal</Metallic.noun>
+  
+  <Stony.label>석재</Stony.label>
+  <Stony.noun>석재</Stony.noun>
+  
+  <Woody.label>목재</Woody.label>
+  <Woody.noun>목재</Woody.noun>
+</LanguageData>
