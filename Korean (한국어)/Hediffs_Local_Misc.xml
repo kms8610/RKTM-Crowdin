@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AcidBurn.label>산화상</AcidBurn.label>
-  <AcidBurn.description>산성 화상.</AcidBurn.description>
-  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>관리됨</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>붕대감음</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
-  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>관리됨</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
-  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>산성 화상 흉터</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
-  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
-  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
-  <AcidBurn.labelNoun>산화상</AcidBurn.labelNoun>
-  <AcidBurn.labelNounPretty>{0}(은)는 {1}의 영향을 받고 있습니다.</AcidBurn.labelNounPretty>
+  <Abasia.label>마비성 보행불능</Abasia.label>
+  <Abasia.description>운동피질에 문제가 생겨 이동이 불가능한 상태입니다. 충분한 시간이 지나면 뇌가 기능을 되찾지만, 회복 속도가 대단히 느립니다. 특별한 수술을 받으면 단번에 완치되지만 대량의 번화계 약품을 소모합니다.</Abasia.description>
+  <Abasia.descriptionShort>A neurological condition that makes a person unable to walk. Patients recover naturally but the process is slow.</Abasia.descriptionShort>
   
-  <BloodfeederMark.label>bloodfeeder mark</BloodfeederMark.label>
-  <BloodfeederMark.description>Two small puncture wounds.</BloodfeederMark.description>
-  <BloodfeederMark.labelNoun>a bloodfeeder mark</BloodfeederMark.labelNoun>
-  
-  <ImplantedIUD.label>implanted IUD</ImplantedIUD.label>
-  <ImplantedIUD.description>A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</ImplantedIUD.description>
-  
-  <ToxGasExposure.label>tox gas</ToxGasExposure.label>
-  <ToxGasExposure.description>Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death.</ToxGasExposure.description>
-  <ToxGasExposure.stages.mild.label>가벼움</ToxGasExposure.stages.mild.label>
-  <ToxGasExposure.stages.moderate.label>진행됨</ToxGasExposure.stages.moderate.label>
-  <ToxGasExposure.stages.severe.label>심각함</ToxGasExposure.stages.severe.label>
-  
-  <TubalLigation.label>tubal ligation</TubalLigation.label>
-  <TubalLigation.description>This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus.</TubalLigation.description>
-  
-  <Vasectomy.label>vasectomy</Vasectomy.label>
-  <Vasectomy.description>This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</Vasectomy.description>
+  <BloodRot.label>혈액부패</BloodRot.label>
+  <BloodRot.description>천천히 성장하는 박테리아 질병입니다. 박테리아는 성장하는 동안 영향을 거의 미치지 않지만, 포화수준에 도달하면 독성 급발작을 유발하여 즉시 사망할 수 있습니다.\n\n인체의 면역체계는 오랜시간이 지나면 혈액부패가 없어지며, 정상적인 의약품을 사용하여 그때까지 억제하는 것이 표준 치료법입니다. 번화계의 의사들은 대량의 메카나이트를 투여하여 즉시 치료할 수 있지만 비용이 많이 듭니다.</BloodRot.description>
+  <BloodRot.descriptionShort>A slow-growing bacterial disease. Upon reaching full saturation, it will kill the affected individual.</BloodRot.descriptionShort>
+  <BloodRot.stages.minor.label>가벼움</BloodRot.stages.minor.label>
+  <BloodRot.stages.major.label>심각함</BloodRot.stages.major.label>
+  <BloodRot.stages.extreme.label>극심함</BloodRot.stages.extreme.label>
 </LanguageData>
