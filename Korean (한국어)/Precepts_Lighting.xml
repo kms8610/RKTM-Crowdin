@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DarknessCombat.label>어둠 속 전투</DarknessCombat.label>
+  <Darklight_Preferred.label>암광 선호함</Darklight_Preferred.label>
+  <Darklight_Preferred.description>평범한 빛은 너무 밝다. 암광이 더 낫다.</Darklight_Preferred.description>
   
-  <Eclipse.label>일식</Eclipse.label>
+  <DarknessCombat_Preferred.label>선호함</DarknessCombat_Preferred.label>
+  <DarknessCombat_Preferred.description>우리는 어둠 속에서 더 잘 싸운다.</DarknessCombat_Preferred.description>
   
-  <Lighting.label>조명</Lighting.label>
+  <Eclipse_Beautiful.label>아름다운</Eclipse_Beautiful.label>
+  <Eclipse_Beautiful.description>Eclipses are a beautiful respite from the blinding sunlight.</Eclipse_Beautiful.description>
 </LanguageData>
