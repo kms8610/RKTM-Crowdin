@@ -1,83 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Hair_Blonde.label>blonde hair</Hair_Blonde.label>
-  <Hair_Blonde.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_Blonde.description>
+  <Body_Fat.label>fat body</Body_Fat.label>
+  <Body_Fat.description>Carriers can have fat bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed.</Body_Fat.description>
+  <Body_Fat.symbolPack.prefixSymbols.0.symbol>뚱뚱한</Body_Fat.symbolPack.prefixSymbols.0.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.1.symbol>blub</Body_Fat.symbolPack.prefixSymbols.1.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.2.symbol>단단한 지면</Body_Fat.symbolPack.prefixSymbols.2.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.3.symbol>짓밟기</Body_Fat.symbolPack.prefixSymbols.3.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.4.symbol>flub</Body_Fat.symbolPack.prefixSymbols.4.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.5.symbol>grease</Body_Fat.symbolPack.prefixSymbols.5.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.6.symbol>부피</Body_Fat.symbolPack.prefixSymbols.6.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.7.symbol>flab</Body_Fat.symbolPack.prefixSymbols.7.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.8.symbol>lard</Body_Fat.symbolPack.prefixSymbols.8.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.0.symbol>lard</Body_Fat.symbolPack.suffixSymbols.0.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.1.symbol>blub</Body_Fat.symbolPack.suffixSymbols.1.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.2.symbol>짓밟기</Body_Fat.symbolPack.suffixSymbols.2.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.3.symbol>ball</Body_Fat.symbolPack.suffixSymbols.3.symbol>
   
-  <Hair_BrightRed.label>red hair</Hair_BrightRed.label>
-  <Hair_BrightRed.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_BrightRed.description>
+  <Body_Hulk.label>hulk body</Body_Hulk.label>
+  <Body_Hulk.description>Carriers can have large bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed.</Body_Hulk.description>
+  <Body_Hulk.symbolPack.prefixSymbols.0.symbol>덩치큰</Body_Hulk.symbolPack.prefixSymbols.0.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.1.symbol>큼</Body_Hulk.symbolPack.prefixSymbols.1.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.2.symbol>broad</Body_Hulk.symbolPack.prefixSymbols.2.symbol>
+  <Body_Hulk.symbolPack.prefixSymbols.3.symbol>hunk</Body_Hulk.symbolPack.prefixSymbols.3.symbol>
+  <Body_Hulk.symbolPack.suffixSymbols.0.symbol>덩치큰</Body_Hulk.symbolPack.suffixSymbols.0.symbol>
+  <Body_Hulk.symbolPack.suffixSymbols.1.symbol>chunk</Body_Hulk.symbolPack.suffixSymbols.1.symbol>
   
-  <Hair_DarkBlack.label>dark-black hair</Hair_DarkBlack.label>
-  <Hair_DarkBlack.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_DarkBlack.description>
+  <Body_Standard.label>standard body</Body_Standard.label>
+  <Body_Standard.description>Carriers can have average-shaped bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed.</Body_Standard.description>
   
-  <Hair_DarkBrown.label>brown hair</Hair_DarkBrown.label>
-  <Hair_DarkBrown.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_DarkBrown.description>
+  <Body_Thin.label>thin body</Body_Thin.label>
+  <Body_Thin.description>Carriers can have thin bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed.</Body_Thin.description>
+  <Body_Thin.symbolPack.prefixSymbols.0.symbol>멸치</Body_Thin.symbolPack.prefixSymbols.0.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.1.symbol>scrawn</Body_Thin.symbolPack.prefixSymbols.1.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.2.symbol>lean</Body_Thin.symbolPack.prefixSymbols.2.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.3.symbol>slim</Body_Thin.symbolPack.prefixSymbols.3.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.4.symbol>pole</Body_Thin.symbolPack.prefixSymbols.4.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.5.symbol>wan</Body_Thin.symbolPack.prefixSymbols.5.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.6.symbol>bony</Body_Thin.symbolPack.prefixSymbols.6.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.7.symbol>lank</Body_Thin.symbolPack.prefixSymbols.7.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.8.symbol>reed</Body_Thin.symbolPack.prefixSymbols.8.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.9.symbol>slink</Body_Thin.symbolPack.prefixSymbols.9.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.10.symbol>stilt</Body_Thin.symbolPack.prefixSymbols.10.symbol>
+  <Body_Thin.symbolPack.prefixSymbols.11.symbol>twig</Body_Thin.symbolPack.prefixSymbols.11.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.0.symbol>stick</Body_Thin.symbolPack.suffixSymbols.0.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.1.symbol>뼈</Body_Thin.symbolPack.suffixSymbols.1.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.2.symbol>pole</Body_Thin.symbolPack.suffixSymbols.2.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.3.symbol>lank</Body_Thin.symbolPack.suffixSymbols.3.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.4.symbol>reed</Body_Thin.symbolPack.suffixSymbols.4.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.5.symbol>slink</Body_Thin.symbolPack.suffixSymbols.5.symbol>
+  <Body_Thin.symbolPack.suffixSymbols.6.symbol>stilt</Body_Thin.symbolPack.suffixSymbols.6.symbol>
   
-  <Hair_DarkReddish.label>dark-reddish hair</Hair_DarkReddish.label>
-  <Hair_DarkReddish.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_DarkReddish.description>
+  <Ears_Cat.label>고양이 귀</Ears_Cat.label>
+  <Ears_Cat.description>Carriers of this gene have cat-like ears.</Ears_Cat.description>
+  <Ears_Cat.symbolPack.prefixSymbols.0.symbol>고양이</Ears_Cat.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.1.symbol>kitty</Ears_Cat.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.2.symbol>새끼</Ears_Cat.symbolPack.prefixSymbols.2.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.3.symbol>tabby</Ears_Cat.symbolPack.prefixSymbols.3.symbol>
+  <Ears_Cat.symbolPack.prefixSymbols.4.symbol>tom</Ears_Cat.symbolPack.prefixSymbols.4.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.0.symbol>고양이</Ears_Cat.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.1.symbol>새끼 고양이</Ears_Cat.symbolPack.suffixSymbols.1.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.2.symbol>tabby</Ears_Cat.symbolPack.suffixSymbols.2.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.3.symbol>tom</Ears_Cat.symbolPack.suffixSymbols.3.symbol>
+  <Ears_Cat.symbolPack.suffixSymbols.4.symbol>귀</Ears_Cat.symbolPack.suffixSymbols.4.symbol>
   
-  <Hair_DarkSaturatedReddish.label>dark-brown hair</Hair_DarkSaturatedReddish.label>
-  <Hair_DarkSaturatedReddish.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_DarkSaturatedReddish.description>
+  <Ears_Floppy.label>floppy ears</Ears_Floppy.label>
+  <Ears_Floppy.description>Carriers of this gene grow long, floppy hound-like ears.</Ears_Floppy.description>
+  <Ears_Floppy.symbolPack.prefixSymbols.0.symbol>flop</Ears_Floppy.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.1.symbol>flap</Ears_Floppy.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.2.symbol>dog</Ears_Floppy.symbolPack.prefixSymbols.2.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.3.symbol>droop</Ears_Floppy.symbolPack.prefixSymbols.3.symbol>
+  <Ears_Floppy.symbolPack.prefixSymbols.4.symbol>sag</Ears_Floppy.symbolPack.prefixSymbols.4.symbol>
+  <Ears_Floppy.symbolPack.suffixSymbols.0.symbol>사냥개</Ears_Floppy.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Floppy.symbolPack.suffixSymbols.1.symbol>귀</Ears_Floppy.symbolPack.suffixSymbols.1.symbol>
   
-  <Hair_Gray.label>gray hair</Hair_Gray.label>
-  <Hair_Gray.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_Gray.description>
+  <Ears_Human.label>human ears</Ears_Human.label>
+  <Ears_Human.description>Carriers of this gene have regular human ears.</Ears_Human.description>
   
-  <Hair_InkBlack.label>ink-black hair</Hair_InkBlack.label>
-  <Hair_InkBlack.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_InkBlack.description>
+  <Ears_Pig.label>pig ears</Ears_Pig.label>
+  <Ears_Pig.description>Carriers of this gene will grow pointed pig-like ears.</Ears_Pig.description>
+  <Ears_Pig.symbolPack.prefixSymbols.0.symbol>돼지</Ears_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Pig.symbolPack.prefixSymbols.1.symbol>돼지고기</Ears_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.0.symbol>돼지</Ears_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.1.symbol>돼지고기</Ears_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Ears_Pig.symbolPack.suffixSymbols.2.symbol>귀</Ears_Pig.symbolPack.suffixSymbols.2.symbol>
   
-  <Hair_LightBlue.label>blue hair</Hair_LightBlue.label>
-  <Hair_LightBlue.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_LightBlue.description>
+  <Ears_Pointed.label>pointed ears</Ears_Pointed.label>
+  <Ears_Pointed.description>Carriers of this gene have pointed ears.</Ears_Pointed.description>
+  <Ears_Pointed.symbolPack.prefixSymbols.0.symbol>끝</Ears_Pointed.symbolPack.prefixSymbols.0.symbol>
+  <Ears_Pointed.symbolPack.prefixSymbols.1.symbol>날카로운</Ears_Pointed.symbolPack.prefixSymbols.1.symbol>
+  <Ears_Pointed.symbolPack.suffixSymbols.0.symbol>귀</Ears_Pointed.symbolPack.suffixSymbols.0.symbol>
+  <Ears_Pointed.symbolPack.suffixSymbols.1.symbol>끝</Ears_Pointed.symbolPack.suffixSymbols.1.symbol>
   
-  <Hair_LightGreen.label>green hair</Hair_LightGreen.label>
-  <Hair_LightGreen.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_LightGreen.description>
+  <ElongatedFingers.label>elongated fingers</ElongatedFingers.label>
+  <ElongatedFingers.description>Long, delicate fingers improve the carrier's manipulation capacity. This aids with many tasks, especially crafting and construction.</ElongatedFingers.description>
+  <ElongatedFingers.symbolPack.prefixSymbols.0.symbol>긴 생머리</ElongatedFingers.symbolPack.prefixSymbols.0.symbol>
+  <ElongatedFingers.symbolPack.prefixSymbols.1.symbol>elon</ElongatedFingers.symbolPack.prefixSymbols.1.symbol>
+  <ElongatedFingers.symbolPack.prefixSymbols.2.symbol>연필</ElongatedFingers.symbolPack.prefixSymbols.2.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.0.symbol>손가락</ElongatedFingers.symbolPack.suffixSymbols.0.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.1.symbol>dactyl</ElongatedFingers.symbolPack.suffixSymbols.1.symbol>
+  <ElongatedFingers.symbolPack.suffixSymbols.2.symbol>손가락</ElongatedFingers.symbolPack.suffixSymbols.2.symbol>
   
-  <Hair_LightOrange.label>orange hair</Hair_LightOrange.label>
-  <Hair_LightOrange.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_LightOrange.description>
+  <Hands_Human.label>human hands</Hands_Human.label>
+  <Hands_Human.description>Carriers of this gene have regular human hands.</Hands_Human.description>
   
-  <Hair_LightPurple.label>purple hair</Hair_LightPurple.label>
-  <Hair_LightPurple.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_LightPurple.description>
+  <Hands_Pig.label>trotter hands</Hands_Pig.label>
+  <Hands_Pig.description>Carriers of this gene have hands that partially resemble pig trotters. This reduces their ability to manipulate objects.</Hands_Pig.description>
+  <Hands_Pig.symbolPack.prefixSymbols.0.symbol>trot</Hands_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.1.symbol>돼지</Hands_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.2.symbol>돼지고기</Hands_Pig.symbolPack.prefixSymbols.2.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.3.symbol>boar</Hands_Pig.symbolPack.prefixSymbols.3.symbol>
+  <Hands_Pig.symbolPack.prefixSymbols.4.symbol>hog</Hands_Pig.symbolPack.prefixSymbols.4.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.0.symbol>trot</Hands_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.1.symbol>돼지</Hands_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.2.symbol>swine</Hands_Pig.symbolPack.suffixSymbols.2.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.3.symbol>boar</Hands_Pig.symbolPack.suffixSymbols.3.symbol>
+  <Hands_Pig.symbolPack.suffixSymbols.4.symbol>hog</Hands_Pig.symbolPack.suffixSymbols.4.symbol>
+  <Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>쪽발</Hands_Pig.symbolPack.wholeNameSymbols.0.symbol>
   
-  <Hair_LightTeal.label>teal hair</Hair_LightTeal.label>
-  <Hair_LightTeal.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_LightTeal.description>
+  <Head_Gaunt.label>gaunt head</Head_Gaunt.label>
+  <Head_Gaunt.description>Carriers of this gene have a pinched, gaunt appearance in their face and head.</Head_Gaunt.description>
+  <Head_Gaunt.symbolPack.prefixSymbols.0.symbol>gaunt</Head_Gaunt.symbolPack.prefixSymbols.0.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.1.symbol>두개골</Head_Gaunt.symbolPack.prefixSymbols.1.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.2.symbol>사망</Head_Gaunt.symbolPack.prefixSymbols.2.symbol>
+  <Head_Gaunt.symbolPack.prefixSymbols.3.symbol>뼈</Head_Gaunt.symbolPack.prefixSymbols.3.symbol>
   
-  <Hair_MidBlack.label>mid-black hair</Hair_MidBlack.label>
-  <Hair_MidBlack.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_MidBlack.description>
+  <Headbone_CenterHorn.label>center-horn</Headbone_CenterHorn.label>
+  <Headbone_CenterHorn.description>Carriers of this gene grow a single horn protruding from the center of the forehead.</Headbone_CenterHorn.description>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>rhino</Headbone_CenterHorn.symbolPack.prefixSymbols.0.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>뿔</Headbone_CenterHorn.symbolPack.prefixSymbols.1.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>knob</Headbone_CenterHorn.symbolPack.prefixSymbols.2.symbol>
+  <Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>스파이크</Headbone_CenterHorn.symbolPack.prefixSymbols.3.symbol>
+  <Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>뿔</Headbone_CenterHorn.symbolPack.suffixSymbols.0.symbol>
+  <Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>스파이크</Headbone_CenterHorn.symbolPack.suffixSymbols.1.symbol>
   
-  <Hair_Pink.label>pink hair</Hair_Pink.label>
-  <Hair_Pink.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_Pink.description>
+  <Headbone_Human.label>human headbone</Headbone_Human.label>
+  <Headbone_Human.description>Carriers of this gene have regular human skulls.</Headbone_Human.description>
   
-  <Hair_ReddishBrown.label>reddish-brown hair</Hair_ReddishBrown.label>
-  <Hair_ReddishBrown.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_ReddishBrown.description>
+  <Headbone_MiniHorns.label>mini-horns</Headbone_MiniHorns.label>
+  <Headbone_MiniHorns.description>Carriers of this gene grow two small horns protruding from the forehead.</Headbone_MiniHorns.description>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>뿔</Headbone_MiniHorns.symbolPack.prefixSymbols.0.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>knob</Headbone_MiniHorns.symbolPack.prefixSymbols.1.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>스파이크</Headbone_MiniHorns.symbolPack.prefixSymbols.2.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>devil</Headbone_MiniHorns.symbolPack.prefixSymbols.3.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>악마</Headbone_MiniHorns.symbolPack.prefixSymbols.4.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>luci</Headbone_MiniHorns.symbolPack.prefixSymbols.5.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>beelze</Headbone_MiniHorns.symbolPack.prefixSymbols.6.symbol>
+  <Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>hell</Headbone_MiniHorns.symbolPack.prefixSymbols.7.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>뿔</Headbone_MiniHorns.symbolPack.suffixSymbols.0.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>스파이크</Headbone_MiniHorns.symbolPack.suffixSymbols.1.symbol>
+  <Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>vil</Headbone_MiniHorns.symbolPack.suffixSymbols.2.symbol>
   
-  <Hair_SandyBlonde.label>sandy-blonde hair</Hair_SandyBlonde.label>
-  <Hair_SandyBlonde.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_SandyBlonde.description>
+  <Jaw_Baseline.label>human jaw</Jaw_Baseline.label>
+  <Jaw_Baseline.description>Carriers of this gene have regularly-shaped jaws.</Jaw_Baseline.description>
   
-  <Hair_SnowWhite.label>snow-white hair</Hair_SnowWhite.label>
-  <Hair_SnowWhite.description>Carriers of this gene have a particular hair color. With multiple hair color genes, one is randomly selected.</Hair_SnowWhite.description>
+  <Jaw_Heavy.label>heavy jaw</Jaw_Heavy.label>
+  <Jaw_Heavy.description>Carriers of this gene have large jaws.</Jaw_Heavy.description>
+  <Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>보병</Jaw_Heavy.symbolPack.prefixSymbols.0.symbol>
+  <Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>턱</Jaw_Heavy.symbolPack.prefixSymbols.1.symbol>
+  <Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>lug</Jaw_Heavy.symbolPack.prefixSymbols.2.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>보병</Jaw_Heavy.symbolPack.suffixSymbols.0.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>턱</Jaw_Heavy.symbolPack.suffixSymbols.1.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>lug</Jaw_Heavy.symbolPack.suffixSymbols.2.symbol>
+  <Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>thal</Jaw_Heavy.symbolPack.suffixSymbols.3.symbol>
   
-  <Skin_Melanin1.label>skin color</Skin_Melanin1.label>
-  <Skin_Melanin1.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin1.description>
+  <Nose_Human.label>human nose</Nose_Human.label>
+  <Nose_Human.description>Carriers of this gene have regular human noses.</Nose_Human.description>
   
-  <Skin_Melanin2.label>skin color</Skin_Melanin2.label>
-  <Skin_Melanin2.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin2.description>
+  <Nose_Pig.label>pig nose</Nose_Pig.label>
+  <Nose_Pig.description>Carriers of this gene have pig-like snouts.</Nose_Pig.description>
+  <Nose_Pig.symbolPack.prefixSymbols.0.symbol>돼지</Nose_Pig.symbolPack.prefixSymbols.0.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.1.symbol>돼지고기</Nose_Pig.symbolPack.prefixSymbols.1.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.2.symbol>snout</Nose_Pig.symbolPack.prefixSymbols.2.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.3.symbol>boar</Nose_Pig.symbolPack.prefixSymbols.3.symbol>
+  <Nose_Pig.symbolPack.prefixSymbols.4.symbol>hog</Nose_Pig.symbolPack.prefixSymbols.4.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.0.symbol>돼지</Nose_Pig.symbolPack.suffixSymbols.0.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.1.symbol>snout</Nose_Pig.symbolPack.suffixSymbols.1.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.2.symbol>swine</Nose_Pig.symbolPack.suffixSymbols.2.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.3.symbol>boar</Nose_Pig.symbolPack.suffixSymbols.3.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.4.symbol>hog</Nose_Pig.symbolPack.suffixSymbols.4.symbol>
+  <Nose_Pig.symbolPack.suffixSymbols.5.symbol>코</Nose_Pig.symbolPack.suffixSymbols.5.symbol>
   
-  <Skin_Melanin3.label>skin color</Skin_Melanin3.label>
-  <Skin_Melanin3.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin3.description>
+  <VoicePig.label>pig voice</VoicePig.label>
+  <VoicePig.description>Carriers have a squealing voice like that of a pig.</VoicePig.description>
+  <VoicePig.symbolPack.prefixSymbols.0.symbol>squeal</VoicePig.symbolPack.prefixSymbols.0.symbol>
+  <VoicePig.symbolPack.prefixSymbols.1.symbol>oink</VoicePig.symbolPack.prefixSymbols.1.symbol>
+  <VoicePig.symbolPack.prefixSymbols.2.symbol>snuffle</VoicePig.symbolPack.prefixSymbols.2.symbol>
+  <VoicePig.symbolPack.prefixSymbols.3.symbol>snort</VoicePig.symbolPack.prefixSymbols.3.symbol>
+  <VoicePig.symbolPack.suffixSymbols.0.symbol>oinker</VoicePig.symbolPack.suffixSymbols.0.symbol>
+  <VoicePig.symbolPack.suffixSymbols.1.symbol>hog</VoicePig.symbolPack.suffixSymbols.1.symbol>
+  <VoicePig.symbolPack.suffixSymbols.2.symbol>돼지</VoicePig.symbolPack.suffixSymbols.2.symbol>
+  <VoicePig.symbolPack.suffixSymbols.3.symbol>snorter</VoicePig.symbolPack.suffixSymbols.3.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.0.symbol>squealer</VoicePig.symbolPack.wholeNameSymbols.0.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.1.symbol>oinker</VoicePig.symbolPack.wholeNameSymbols.1.symbol>
+  <VoicePig.symbolPack.wholeNameSymbols.2.symbol>snorter</VoicePig.symbolPack.wholeNameSymbols.2.symbol>
   
-  <Skin_Melanin4.label>skin color</Skin_Melanin4.label>
-  <Skin_Melanin4.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin4.description>
+  <VoiceRoar.label>roar voice</VoiceRoar.label>
+  <VoiceRoar.description>Carriers have an animal-like roaring voice.</VoiceRoar.description>
+  <VoiceRoar.symbolPack.prefixSymbols.0.symbol>포효</VoiceRoar.symbolPack.prefixSymbols.0.symbol>
+  <VoiceRoar.symbolPack.prefixSymbols.1.symbol>growl</VoiceRoar.symbolPack.prefixSymbols.1.symbol>
+  <VoiceRoar.symbolPack.prefixSymbols.2.symbol>snarl</VoiceRoar.symbolPack.prefixSymbols.2.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.0.symbol>포효</VoiceRoar.symbolPack.suffixSymbols.0.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.1.symbol>snarl</VoiceRoar.symbolPack.suffixSymbols.1.symbol>
+  <VoiceRoar.symbolPack.suffixSymbols.2.symbol>growl</VoiceRoar.symbolPack.suffixSymbols.2.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>roarer</VoiceRoar.symbolPack.wholeNameSymbols.0.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>growler</VoiceRoar.symbolPack.wholeNameSymbols.1.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>snarler</VoiceRoar.symbolPack.wholeNameSymbols.2.symbol>
+  <VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>bellower</VoiceRoar.symbolPack.wholeNameSymbols.3.symbol>
   
-  <Skin_Melanin5.label>skin color</Skin_Melanin5.label>
-  <Skin_Melanin5.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin5.description>
-  
-  <Skin_Melanin6.label>skin color</Skin_Melanin6.label>
-  <Skin_Melanin6.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin6.description>
-  
-  <Skin_Melanin7.label>skin color</Skin_Melanin7.label>
-  <Skin_Melanin7.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin7.description>
-  
-  <Skin_Melanin8.label>skin color</Skin_Melanin8.label>
-  <Skin_Melanin8.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin8.description>
-  
-  <Skin_Melanin9.label>skin color</Skin_Melanin9.label>
-  <Skin_Melanin9.description>Carriers of this gene have a particular skin color. With multiple skin color genes, one is randomly selected.</Skin_Melanin9.description>
+  <Voice_Human.label>human voice</Voice_Human.label>
+  <Voice_Human.description>Carriers of this gene have regular human vocal chords.</Voice_Human.description>
 </LanguageData>
