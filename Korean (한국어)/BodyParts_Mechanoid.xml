@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArtificialBrain.label>인공 두뇌</ArtificialBrain.label>
+  
+  <Blade.label>날</Blade.label>
+  
+  <FluidReprocessor.label>유체 재처리기</FluidReprocessor.label>
+  
+  <HearingSensor.label>청각 센서</HearingSensor.label>
+  
+  <MechanicalArm.label>팔</MechanicalArm.label>
+  
+  <MechanicalCentipedeBodyFifthRing.label>다섯 번째 몸체 고리</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>몸체 고리</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <MechanicalCentipedeBodyFirstRing.label>첫 번째 몸체 고리</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>몸체 고리</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <MechanicalCentipedeBodyFourthRing.label>네 번째 몸체 고리</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>몸체 고리</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <MechanicalCentipedeBodySecondRing.label>두 번째 몸체 고리</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>몸체 고리</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <MechanicalCentipedeBodySixthRing.label>여섯 번째 몸체 고리</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>몸체 고리</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <MechanicalCentipedeBodyThirdRing.label>세 번째 몸체 고리</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>몸체 고리</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <MechanicalFinger.label>손가락</MechanicalFinger.label>
+  
+  <MechanicalFoot.label>발</MechanicalFoot.label>
+  
+  <MechanicalHand.label>손</MechanicalHand.label>
+  
+  <MechanicalHead.label>머리</MechanicalHead.label>
+  
+  <MechanicalLeg.label>다리</MechanicalLeg.label>
+  
+  <MechanicalNeck.label>목</MechanicalNeck.label>
+  
+  <MechanicalShoulder.label>어깨</MechanicalShoulder.label>
+  
+  <MechanicalThorax.label>흉부</MechanicalThorax.label>
+  
+  <MechanicalThoraxCanManipulate.label>흉부</MechanicalThoraxCanManipulate.label>
+  
+  <Reactor.label>원자로</Reactor.label>
+  
+  <SightSensor.label>시각 센서</SightSensor.label>
+  
+  <SmellSensor.label>후각 센서</SmellSensor.label>
+</LanguageData>
