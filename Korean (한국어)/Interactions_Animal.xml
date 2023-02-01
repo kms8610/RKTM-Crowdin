@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalChat.label>동물과 대화</AnimalChat.label>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef](은)는 [tamed] [RECIPIENT_nameDef]의 주의를 끔.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [INITIATOR_objective] 응시하는 [RECIPIENT_nameDef]에게 천천히 다가가 [TalkTopicAny]에 관하여 이야기 함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 가까이 접근하여 [TalkTopicAny]에 관해 속삭이듯 부드럽게 이야기를 건넴.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 다가오는 [RECIPIENT_nameDef]에게 조심스럽게 접근하여 [TalkTopicAny]에 관하여 이야기를 건넴.</li>
+    <li>tamed->차분한 느낌의 목소리로</li>
+    <li>tamed->천천히, 그리고 부드러운 몸짓으로</li>
+    <li>tamed->괴성을 내며</li>
+    <li>tamed->듣기 좋은 소리를 내며</li>
+    <li>tamed->부드러운 몸짓을 통해</li>
+    <li>tamed->천천히 접근하며</li>
+    <li>tamed->부드럽게 만지며</li>
+    <li>tamed->침착하고, 용기있게</li>
+    <li>tamed->호흡을 정돈하며</li>
+    <li>tamed->보다 낮은 자세를 유지하며</li>
+    <li>tamed->침착하고 냉정한 모습으로</li>
+    <li>tamed->부주의한 태도로</li>
+    <li>tamed->부드럽게 콧노래를 부르며</li>
+    <li>tamed->오랜 자장가를 부르며</li>
+    <li>tamed->부드럽지만 단호한 손짓으로</li>
+    <li>tamed->느긋하게 접근하며</li>
+    <li>tamed->성급하게 접근하지 않고 기다리면서</li>
+    <li>tamed->[TalkTopicAny]에 대한 이야기를 속삭이면서</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+  
+  <Nuzzle.label>애교</Nuzzle.label>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 몸에 [nuzzleadverb] [nuzzled] 애교를 부림.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [nuzzleadverb] [INITIATOR_possessive] 코를 [RECIPIENT_nameDef]의 [rubbedpart]에 문지르며 애교를 부림.</li>
+    <li>nuzzled(p=2)->코로 문지르며</li>
+    <li>nuzzled->안겨서</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->조심스럽게</li>
+    <li>nuzzleadverb->격려하듯이</li>
+    <li>nuzzleadverb->행복하게</li>
+    <li>nuzzleadverb->부드럽게</li>
+    <li>nuzzleadverb->힘내라는 듯</li>
+    <li>nuzzleadverb->가볍게</li>
+    <li>nuzzleadverb->따스하게</li>
+    <li>nuzzleadverb->구슬프게</li>
+    <li>nuzzleadverb->사랑을 담아</li>
+    <li>nuzzleadverb->애정을 담아</li>
+    <li>rubbedpart->다리</li>
+    <li>rubbedpart->무릎</li>
+    <li>rubbedpart->발</li>
+    <li>rubbedpart->팔꿈치</li>
+    <li>rubbedpart->엉덩이</li>
+    <li>rubbedpart->어깨</li>
+    <li>rubbedpart->손</li>
+    <li>rubbedpart->옆구리</li>
+    <li>rubbedpart->팔</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+  
+  <ReleaseToWild.label>야생 방출</ReleaseToWild.label>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 마지막으로 [RECIPIENT_nameDef](을)를 쓰다듬습니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 따듯한 말을 건넵니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 목줄을 제거했습니다.</li>
+    <li>farewell->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](와)과 했던 [INITIATOR_pronoun]와의 추억을 생각합니다.</li>
+    <li>released->그리고 [RECIPIENT_objective](을)를 야생에 놓아줍니다.</li>
+    <li>released->그리고 [RECIPIENT_objective]를 풀어줍니다.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->그리고 [RECIPIENT_objective]의 곁을 떠납니다.</li>
+    <li>released->그리고 등을 돌리며 [RECIPIENT_objective](을)를 떠나 정착지로 홀로 돌아옵니다.</li>
+    <li>released->그리고 과거처럼 자유롭게 살길 바라며 [RECIPIENT_objective](을)를 놓아줍니다.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
+  <TameAttempt.label>조련 시도</TameAttempt.label>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef](을)를 길들이기를 시도함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]의 행동을 제어하려 시도함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 개목걸이를 사용하려고 시도함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 순종을 요구함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 불러 [INITIATOR_objective]로 오게 함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 앉아 있게 함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef](을)를 짖지 못하게 함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef](을)를 가만히 있도록 지시함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 큰소리로 명령을 내림.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef](을)를 위협하며 우위를 과시함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef](을)를 정착지로 합류하도록 시도함.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](을)를 다시 소통하도록 부름.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 복종을 요구하며 [RECIPIENT_nameDef]의 취약한 부위를 건드림.</li>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef](이)가 오기를 요구하며 땅바닥을 가리킴.</li>
+    <li>r_logentry->[INITIATOR_nameDef](이)가 [RECIPIENT_nameDef]에게 첫 명령을 시도함.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+  
+  <TrainAttempt.label>훈련 시도</TrainAttempt.label>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]에게 [trained].</li>
+    <li>trained(p=2)->[tried]을 훈련시킴.</li>
+    <li>trained->[tried]에게 새로운 속임수를 보여주려고 함.</li>
+    <li>trained->[tried]을 훈육시킴.</li>
+    <li>trained->[tried]에게 지시함.</li>
+    <li>trained->[tried]에게 새로운 기술을 배우도록 함.</li>
+    <li>trained->에게 솜씨를 발휘하게 함.</li>
+    <li>trained->에게서 새로운 대답을 들을 수 있도록 장려함.</li>
+    <li>tried->훈련된</li>
+    <li>tried->이미 시도된</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+</LanguageData>
