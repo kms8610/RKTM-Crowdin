@@ -1,39 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Character tab -->
-  <RoyalTitleTooltipHasTitle>{PAWN_labelShort}(은)는 {FACTION_name}의 {TITLE}입니다.</RoyalTitleTooltipHasTitle>
-  <RoyalTitleTooltipConceited>{PAWN_labelShort}(은)는 이 작위의 권한을 완전히 존중하도록 요구합니다.</RoyalTitleTooltipConceited>
-  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}(은)는 이 작위의 권한에 대해 유연하게 행동합니다.</RoyalTitleTooltipNonConceited>
-  <RoyalTitleTooltipNextTitle>다음 작위</RoyalTitleTooltipNextTitle>
-  <RoyalTitleTooltipNextTitleFavorCost>비용 {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
-  <RoyalTitleTooltipFinalTitle>이 행성에서는 더 이상 작위를 올릴 수 없습니다.</RoyalTitleTooltipFinalTitle>
-  <RoyalTitleTooltipInheritance>{PAWN_nameDef}(이)가 사망하면, {PAWN_possessive} 작위는 {HEIR_nameFull}에게 상속됩니다.</RoyalTitleTooltipInheritance>
-  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull}(은)는 어떤 세력에도 소속되어있지 않습니다.</RoyalTitleTooltipHeirNoFaction>
-  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull}(은)는 {FACTION_name} 소속입니다.</RoyalTitleTooltipHeirDifferentFaction>
-  <RoyalTitleTooltipNoHeir>{PAWN_nameDef}의 작위를 상속받을 수 있는 인물이 없습니다. {PAWN_pronoun}(이)가 사망하면 작위는 회수됩니다.</RoyalTitleTooltipNoHeir>
-  <RoyalTitleTooltipTitlesEarnable>{FACTION_name}의 획득 가능한 작위</RoyalTitleTooltipTitlesEarnable>
-  <RoyalTitleTooltipTitlesNonEarnable>{FACTION_name}의 다른 작위</RoyalTitleTooltipTitlesNonEarnable>
-  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
-  <RoyalTitleTooltipRoyalFavorTotal>총 {0}</RoyalTitleTooltipRoyalFavorTotal>
+  <!-- ITab titles -->
+  <TabBills>계획서</TabBills>
+  <TabGrowing>배양 중</TabGrowing>
+  <TabCharacter>캐릭터</TabCharacter>
+  <TabTraining>훈련</TabTraining>
+  <TabPrisoner>수감자</TabPrisoner>
+  <TabGuest>방문객</TabGuest>
+  <TabGear>장비</TabGear>
+  <TabNeeds>욕구</TabNeeds>
+  <TabStorage>저장고</TabStorage>
+  <TabShells>탄</TabShells>
+  <TabHealth>건강</TabHealth>
+  <TabRace>종족</TabRace>
+  <TabBasics>기본</TabBasics>
+  <TabStats>통계</TabStats>
+  <TabRecords>기록</TabRecords>
+  <TabArt>예술</TabArt>
+  <TabSocial>관계</TabSocial>
+  <TabLog>일지</TabLog>
+  <TabPenAnimals>동물</TabPenAnimals>
+  <TabPenFood>음식</TabPenFood>
+  <TabPenAutoCut>자동 제초</TabPenAutoCut>
+  <TabFormingCaravan>상단</TabFormingCaravan>
+  <TabTransporterContents>내용물</TabTransporterContents>
+  <TabCasketContents>내용물</TabCasketContents>
+  <TabWindTurbineAutoCut>자동 제초</TabWindTurbineAutoCut>
+  
+  <!-- Bills tab  -->
+  <AddBill>계획서 추가</AddBill>
+  <RecipeRequiresSkills>{0}의 요구 기술은 아래와 같습니다. 조건을 만족하는 정착민이 없어 작업이 진행되지 않습니다.</RecipeRequiresSkills>
+  <MinimumSkill>최소 기술</MinimumSkill>
+  <SuspendedCaps>일시 정지</SuspendedCaps>
+  <BoundWorkerIs>작업자: {1_labelShort}</BoundWorkerIs>
+  <PlantVerb>원예</PlantVerb>
+  <ClipboardBillNotAvailableHere>복사된 계획서는 이곳에 붙여넣을 수 없습니다.</ClipboardBillNotAvailableHere>
+  <ReorderBillUpTip>위로 이동</ReorderBillUpTip>
+  <ReorderBillDownTip>아래로 이동</ReorderBillDownTip>
+  <DeleteBillTip>제거</DeleteBillTip>
+  <CopyBillTip>클립보드에 복사</CopyBillTip>
+  <SuspendBillTip>정지</SuspendBillTip>
+  <PasteBillTip>붙여넣기</PasteBillTip>
+  <PasteBillTip_LimitReached>더 이상 추가 불가</PasteBillTip_LimitReached>
 
-  <RecruitmentResistanceRoyalTitleOffset>{0} 작위</RecruitmentResistanceRoyalTitleOffset>
+  <!-- Guest/prisoner tab -->
+  <RecruitmentResistance>레지스탕스</RecruitmentResistance>
+  <RecruitmentResistanceDesc>수감자가 정착지에 가지는 거부감입니다. 0이 되면 포섭할 수 있습니다.</RecruitmentResistanceDesc>
+  <RecruitmentResistanceFromPawnKind>{0}의 기본 저항심</RecruitmentResistanceFromPawnKind>
+  <PrisonerReleasePotentialRelationGains>해방 시 얻는 우호도</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleaseRelationGainsDesc>수감자를 석방하면 수감자의 소속 세력과 관계가 개선됩니다. 개선되는 수치는 수감자의 지위, 건강, 정신 상태에 따라 달라집니다.</PrisonerReleaseRelationGainsDesc>
+  <PrisonBreakMTBDays>탈옥 주기</PrisonBreakMTBDays>
+  <PrisonBreakMTBDaysDescription>평균적으로 탈옥을 시도할 간격입니다. 기분, 이동 속도, 출입문의 개수, 마지막 탈옥 시도와의 간격에 영향을 받습니다.\n\n이 수치는 깨어있는 시간만 고려한 것입니다.</PrisonBreakMTBDaysDescription>
+  <Never>없음</Never>
+  <NotWhileAsleep>잠든 동안에는 없음</NotWhileAsleep>
+  <CurrentlyPrisonBreaking>지금 탈옥 중</CurrentlyPrisonBreaking>
+  <FactorForDoorCount>출입문의 수로 인한 계수</FactorForDoorCount>
+  <FactorForMovement>이동 능력으로 인한 계수</FactorForMovement>
+  <SlavePrice>노예 가치</SlavePrice>
+  <SlavePriceDescription>The base market value of this slave if sold.</SlavePriceDescription>
+  <GetsFood>음식 제공</GetsFood>
+  <DoctorsCare>의사 진료</DoctorsCare>
+  <GetsMedicine>약품 제공</GetsMedicine>
+  <ShouldTryToRecruit>포섭 시도</ShouldTryToRecruit>
+  <ConsideredGuilty>유죄 판명 ({0} 후 만료)</ConsideredGuilty>
+  <ConsideredGuiltyNoTimer>유죄 판결</ConsideredGuiltyNoTimer>
+  <LastRecruitment>Last resistance reduction</LastRecruitment>
+  <LastRecruitmentDescription>How much {0_nameDef}'s resistance was reduced by {1} when {0_pronoun} was last recruited.</LastRecruitmentDescription>
+  <OpinionOfRecruiter>Opinion of recruiter</OpinionOfRecruiter>
+  <RecruiterNegotiationAbility>Recruiter negotiation ability</RecruiterNegotiationAbility>
+  <NonRecruitable>Unwavering loyalty</NonRecruitable>
+  <NonRecruitableTip>This prisoner is so unwaveringly loyal to their home that they refuse to be recruited entirely.</NonRecruitableTip>
+  <NonRecruitableTipCannotConvert>Their loyalty extends to their beliefs and they cannot be converted.</NonRecruitableTipCannotConvert>
+
+
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>이동속도</MoveSpeed>
+  <Efficiency>효율</Efficiency>
+  <PartEfficiency>부위 능률</PartEfficiency>
+  <BodyPartEfficiency>신체부위 능률</BodyPartEfficiency>
+  <MissingBodyPart>사라짐</MissingBodyPart>
+  <DestroyedBodyPart>파괴됨</DestroyedBodyPart>
+  <ShatteredBodyPart>산산조각</ShatteredBodyPart>
+  <RemovedBodyPart>제거됨</RemovedBodyPart>
+  <Healthy>건강함</Healthy>
+  <InPain>고통스러움</InPain>
+  <PainLevel>고통</PainLevel>
+  <Injured>부상</Injured>
+  <UntendedInjury>돌보지 않은 상처</UntendedInjury>
+  <NoHealthConditions>건강 이상없음</NoHealthConditions>
+  <WholeBody>전신</WholeBody>
+  <DataProcessing>데이터 처리</DataProcessing>
+  <Communication>통신</Communication>
+  <Affects>영향</Affects>
+  <BleedingRate>출혈</BleedingRate>
+  <TimeToDeath>{0} 후 사망</TimeToDeath>
+  <WontBleedOutSoon>아직 큰 위험 없음</WontBleedOutSoon>
+  <HealthOverview>개요</HealthOverview>
+  <MedicalOperationsShort>수술</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifications</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>의료 작업</MedicalOperations>
+  <Amputate>절단</Amputate>
+  <HarvestOrgan>장기 적출</HarvestOrgan>
+  <RemoveOrgan>제거</RemoveOrgan>
+  <MemoryLower>기억</MemoryLower>
+  <SocialInteractionsLower>사회적 상호작용</SocialInteractionsLower>
+  <HungerRate>굶주림</HungerRate>
+  <FoodConsumption>Food consumption</FoodConsumption>
+  <Tiredness>피로도</Tiredness>
+  <PainFactor>고통</PainFactor>
+  <PreventsInfection>감염 방지</PreventsInfection>
+  <SelfTend>자가 치료</SelfTend>
+  <SelfTendTip>자가 치료가 활성화된 {0}(은)는 자기 자신을 일반 효율의 {1}로 그 자리에서 바로 치료합니다.</SelfTendTip>
+  <DeathIn>{0} 후 사망</DeathIn>
   
-  <!-- Permits tab -->
-  <TabPermits>지원 요청</TabPermits>
-  <PermitsFromFaction>{FACTION_name}에 지원 요청</PermitsFromFaction>
-  <CurrentTitle>현재 작위</CurrentTitle>
-  <UnusedPermits>남은 지원 요청 권한</UnusedPermits>
-  <ReturnAllPermits>지원 요청 권한 초기화</ReturnAllPermits>
-  <NoPermitsToReturn>{PAWN_nameDef}(은)는 초기화할 지원 요청 권한이 없습니다.</NoPermitsToReturn>
-  <NotEnoughFavor>{FAVOR}(이)가 부족합니다. 지원 요청 권한을 초기화하려면 {FAVOR} {FAVORCOST}개가 필요하지만 현재 보유량은 {CURFAVOR}개입니다.</NotEnoughFavor>
-  <ReturnAllPermits_Desc>모든 지원 요청 권한을 초기화하여 다시 선택할 수 있게 합니다.\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Desc>
-  <ReturnAllPermits_Confirm>모든 지원 요청 권한을 초기화하고 다시 선택하시겠습니까?\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Confirm>
-  <SwitchFaction_Desc>세력 전환</SwitchFaction_Desc>
-  <AcceptPermit>지원 요청 권한 획득</AcceptPermit>
-  <RequiresTitle>요구 작위: {0}</RequiresTitle>
-  <UpgradeFrom>{0}(을)를 대체함</UpgradeFrom>
-  <Cooldown>재사용 대기시간</Cooldown>
-  <CooldownUseFavorCost>재사용 대기시간 중 사용시 {HONOR} 비용이 소모됨</CooldownUseFavorCost>
+  <!-- Medical - Body and activities condition -->
+  <None>없음</None>
+  <VeryPoor>매우 나쁨</VeryPoor>
+  <Poor>나쁨</Poor>
+  <Weakened>약화됨</Weakened>
+  <GoodCondition>확인</GoodCondition>
+  <Enhanced>강화됨</Enhanced>
+  <SeriouslyImpaired>심각하게 손상됨</SeriouslyImpaired>
+  <Impaired>손상됨</Impaired>
+  <SlightlyImpaired>경미하게 손상됨</SlightlyImpaired>
+  <NoPain>없음</NoPain>
+  <LittlePain>귀여운</LittlePain>
+  <MediumPain>중형</MediumPain>
+  <SeverePain>극심</SeverePain>
+  <ExtremePain>극심함</ExtremePain>
+
+  <!-- Training tab -->
+  <Trainability>훈련 시 지능</Trainability>
+  <CannotTrainNotSmartEnough>훈련시 필요 지능: {0}</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{1_labelShort}의 크기가 훈련을 받기에 너무 작습니다.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>선행 훈련 필요: {0}</TrainingNeedsPrerequisite>
   
+  <!-- Social tab -->
+  <Kidnapped>납치</Kidnapped>
+  <Lent>{FACTION_name}에 빌려준 {1}(이)가 돌아옴</Lent>
+  <Missing>실종</Missing>
+  <Slave>노예</Slave>
+  <FactionLeader>세력 지도자</FactionLeader>
+  <OpinionOf>Opinion of {0}</OpinionOf>
+  <SomeonesOpinionOfMe>{0}'s opinion of me</SomeonesOpinionOfMe>
+  <IAmDead>사망</IAmDead>
+  <IAmPsychopath>사이코패스</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <OverallArmor>방어 합계</OverallArmor>
+  <MassCarried>소지품 무게: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>적응 온도 범위</ComfyTemperatureRange>
+  <ArmorBlunt>둔탁함</ArmorBlunt>
+  <ArmorSharp>날카로움</ArmorSharp>
+  <ArmorHeat>열기</ArmorHeat>
+  
+  <!-- Log tab -->
+  <ShowAll>모두 보기</ShowAll>
+  <ShowCombat>전투 보기</ShowCombat>
+  <ShowSocial>사교 보기</ShowSocial>
+  <NoRecentEntries>최근 항목 없음</NoRecentEntries>
+  <CopyLogTip>클립보드에 로그를 복사합니다.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <FormingCaravanStatus_GatheringAnimals>동물들 집결 중</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>동물들 집결 중 (대기 중)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringItems>물품들 수집 중</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems_Pause>물품들 수집 중 (대기 중)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns>쓰러진 인원 구조 중</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>쓰러진 인원 구조 중 (대기 중)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_Leaving>떠나는 중</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving_Pause>떠나는 중 (대기 중)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Waiting>대기 중</FormingCaravanStatus_Waiting>
+  <CaravanMembers>구성원들</CaravanMembers>
+  <CaravanAnimals>동물</CaravanAnimals>
+  <ItemsToLoad>적재할 물품들</ItemsToLoad>
+  <LoadedItems>적재된 물품들</LoadedItems>
+  <PackAnimalsCountLower>짐꾼 동물들</PackAnimalsCountLower>
+  <InMentalStateCountLower>상태 이상</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <RemoveSliderText>{{0}}x {0} 제거</RemoveSliderText>
+  <ContainedItems>포함된 항목</ContainedItems>
+  <ConfirmRemoveItemDialog>정말 {0}(을)를 제거 하시겠습니까?</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <DismissQuest>이 임무를 비활성화하고 기록 탭으로 이동시킵니다.\n\n언제든지 임무를 비활성화할 수 있지만 효과와 만료 시간은 정상적으로 진행됩니다. 비활성 임무에 대한 알림은 제공되지 않습니다.</DismissQuest>
+  <UnDismissQuest>이 임무를 활성화합니다.\n\n임무를 다시 진행할 수 있게 되며 알림이 제공됩니다.</UnDismissQuest>
+  <QuestDismissed>이 임무는 비활성 상태입니다.\n\n만료되기 전까지는 다시 활성화할 수 있습니다.</QuestDismissed>
+  <DeleteQuest>이 임무를 삭제하여 임무 목록에서 완전히 지웁니다.</DeleteQuest>
+
+  <!-- Animal pen food tab -->
+  <PenFoodTab_NotEnclosed>우리를 완성해서 먹이 정보 계산</PenFoodTab_NotEnclosed>
+
+  <PenFoodTab_StockpileTotal>비축한 열량</PenFoodTab_StockpileTotal>
+  <PenFoodTab_StockpileTotalDescription>이 우리 안에 비축한 먹이의 양입니다.</PenFoodTab_StockpileTotalDescription>
+  <PenFoodTab_StockpileEmptyDays>비축량 소진까지 남은 일 수</PenFoodTab_StockpileEmptyDays>
+  <PenFoodTab_StockpileEmptyDaysDescription>열량 섭취량이 성장률을 초과합니다. 시간이 지나면 동물들이 우리의 모든 먹이를 소모한 후 굶을 것입니다.</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <PenFoodTab_AnimalType>동물 유형</PenFoodTab_AnimalType>
+  <PenFoodTab_Count>수</PenFoodTab_Count>
+  <PenFoodTab_CurrentDay>오늘</PenFoodTab_CurrentDay>
+  <PenFoodTab_Nutrition_Unit>열량</PenFoodTab_Nutrition_Unit>
+  <PenFoodTab_NutritionPerDay_Unit>/일</PenFoodTab_NutritionPerDay_Unit>
+  <PenFoodTab_AddAnimal>동물 강제 표시...</PenFoodTab_AddAnimal>
+
+  <PenFoodTab_NaturalNutritionGrowthRate>열량 성장률</PenFoodTab_NaturalNutritionGrowthRate>
+  <PenFoodTab_GrowthPerSeason>계절당 성장률</PenFoodTab_GrowthPerSeason>
+  <PenFoodTab_TotalNutritionConsumptionRate>열량 섭취량</PenFoodTab_TotalNutritionConsumptionRate>
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>이 우리 안의 섭취 가능한 식물이 제공하는 평균 열량입니다.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <PenFoodTab_NutritionConsumptionDescription>현재 이 우리 안의 동물이 필요로 하는 열량입니다.\n\n더 많은 먹이를 확보하려면 우리를 넓혀 야생 식물이 더 많이 자라게 하거나, 건초 등 비축해둔 먹이를 우리로 운반하세요.</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>참고: 식물의 성장률은 계절, 날씨, 야생동물의 섭취와 기타 다른 요인의 영향을 받습니다. 이 값은 추정 값입니다.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>총 섭취량</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>각각의 동물 종류가 이 우리 안에서 매일 섭취하는 총 열량입니다.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <PenFoodTab_NutritionConsumedPerDay>{ANIMALDEF_label}의 일간 섭취량</PenFoodTab_NutritionConsumedPerDay>
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>각각 {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <PenFoodTab_AnimalTypeAnimalCapacity>다른 동물이 없을 때, 열량 성장률만으로 수용할 수 있는 수</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <PenFoodTab_EdibleNow>지금 먹을 수 있음</PenFoodTab_EdibleNow>
+
+  <PenAutoCut_EnabledCheckbox>우리 안의 식물 자동 제초</PenAutoCut_EnabledCheckbox>
+  <PenAutoCut_EnabledCheckboxTip>섭취할 수 없는 특정 식물을 제거하도록 지정합니다. 빈 자리에는 먹을 수 있는 식물을 길러서 동물에게 먹일 수 있습니다.\n\n자동 제초 지정은 선택한 식물에만 주기적으로 발생합니다.\n\n뚫린 우리에서는 동작하지 않습니다.</PenAutoCut_EnabledCheckboxTip>
+
+  <AutocutUnenclosedPen>뚫린 우리</AutocutUnenclosedPen>
+  <AutocutUnenclosedPenTip>Pen is not enclosed now, so auto-cut won't occur.</AutocutUnenclosedPenTip>
+
+  <WindTurbineAutoCut_EnabledCheckbox>Auto-cut blocking plants</WindTurbineAutoCut_EnabledCheckbox>
+
 </LanguageData>
