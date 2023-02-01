@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>root(priority=1,sitePart==ClimateAdjuster)->지역 온도 [temperatureOffset]가 조정되는 (*Threat)기후 조정장치(/Threat)</li>
+      <li>root(priority=1,sitePart==PsychicDroner)->[affectedGender]들을 미치게 만드는 (*Threat)정신 조작기(/Threat)</li>
+      <li>root(priority=1,sitePart==PsychicSuppressor)->[affectedGender] 성별에 영향을 주는 (*Threat)정신 억제기(/Threat)</li>
+      <li>root(priority=1,sitePart==WeatherController)->지역의 날씨를 [weather_label](으)로 강제 지정하는 (*Threat)날씨 조정장치(/Threat)</li>
+      <li>root(priority=1,sitePart==SmokeSpewer)->지역에 연기를 뿜어내는 (*Threat)연기 발생장치(/Threat)</li>
+      <li>root(priority=1,sitePart==SunBlocker)->한 지역의 빛을 차단하는 (*Threat)태양 차단장치(/Threat)</li>
+      <li>root(priority=1,sitePart==EMIDynamo)->전기장치들을 비활성화 할 수 있는 (*Threat)EMI 발생장치(/Threat)</li>
+      <li>root(priority=1,sitePart==ToxicSpewer)->독으로 지역을 뒤덮을 수 있는 (*Threat)유독성 살포장치(/Threat)</li>
+      <li>root(priority=1,sitePart==RaidSource)->[mtbDays] 마다 습격하게 되는 (*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 군사구역</li>
+      <li>root(priority=1,sitePart==Outpost)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 전초기지</li>
+      <li>root(priority=1,sitePart==BanditCamp)->(*Threat)[enemiesLabel] [enemiesCount]명(/Threat)이 지키고 있는 도적 주둔지</li>
+      <li>root(priority=1,sitePart==Manhunters,count==1)->근처를 방황하는 (*Threat)식인 [kindLabel](/Threat)</li>
+      <li>root(priority=1,sitePart==Manhunters,count>1)->근처를 방황하는 (*Threat)[count] 마리의 식인 [kindLabel](/Threat)</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count==1)->근처에서 휴면 중인 (*Threat)메카노이드(/Threat)</li>
+      <li>root(priority=1,sitePart==SleepingMechanoids,count>1)->근처에서 휴면 중인 (*Threat)[count] 마리의 메카노이드(/Threat)</li>
+      <li>root(priority=1,sitePart==Turrets)->(*Threat)[threatsInfo](/Threat) 지역 방어</li>
+      <li>root(priority=1,sitePart==AmbushEdge)->타 세력을 기습하기 위해 매복 중인 (*Threat)적대적인 세력(/Threat)</li>
+      <li>root(priority=1,sitePart==AmbushHidden)->타 세력을 기습하기 위해 매복 중인 (*Threat)적대적인 세력(/Threat)</li>
+      <li>root(priority=1,sitePart==MechCluster)->(*Threat)메카노이드 전초기지(/Threat)</li>
+      <li>root(priority=1,sitePart==PossibleUnknownThreatMarker)->(*Threat)알려지지 않은 위협(/Threat)</li>
+      <li>root->[label](이)가 있습니다</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <Util_MechCluster.questDescriptionRules.rulesStrings>
+    <li>threatDescription->다음으로 구성된 메카 전초기지가 [map_definite]에 떨어집니다.\n\n[allThreats]</li>
+  </Util_MechCluster.questDescriptionRules.rulesStrings>
+  
+  <Util_Raid.questDescriptionRules.rulesStrings>
+    <li>threatDescription->[enemyFaction_name]의 [enemyFaction_pawnsPlural](이)가 당신의 정착지를 공격할 것입니다.\n\n그들의 구성은 다음과 같습니다.\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+  </Util_Raid.questDescriptionRules.rulesStrings>
+  
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>pawnKindsParagraph(raidCount==1)->[enemyFaction_pawnsPlural]의 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
+    <li>pawnKindsParagraph(raidCount==2)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n두 번째로 비슷한 규모의 무리가 곧 뒤따릅니다.</li>
+    <li>pawnKindsParagraph(raidCount==3)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 두 무리가 곧 뒤따릅니다.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->[enemyFaction_pawnsPlural]의 첫 번째 구성은 다음과 같습니다.\n\n[raid0/raidPawnKinds]\n\n비슷한 규모의 [raidCountMinusOne] 무리가 곧 뒤따릅니다.</li>
+    <li>numGroupsOf(raidCount==1)-></li>
+    <li>numGroupsOf(raidCount==2)->2 무리의</li>
+    <li>numGroupsOf(raidCount==3)->3 무리의</li>
+    <li>numGroupsOf(raidCount>=4)->[raidCount] 무리의</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+</LanguageData>
