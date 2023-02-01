@@ -1,19 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Brazier.label>화로</Brazier.label>
-  <Brazier.description>불을 붙일 때 사용하는 그릇 모양의 가구입니다. 주위를 밝혀주고 열을 발생시킵니다.</Brazier.description>
+  <AnimalBed.label>동물 침대</AnimalBed.label>
+  <AnimalBed.description>동물이 잘 수 있는 부드러운 침대입니다. 모든 크기의 동물에게 적합합니다.</AnimalBed.description>
   
-  <DarklightBrazier.label>희미한 화로</DarklightBrazier.label>
-  <DarklightBrazier.description>주변에 희미한 빛을 발산하고 열을 발생시키는 특수처리된 화로입니다. 왕실 화로 요구사항을 충족시킵니다.</DarklightBrazier.description>
+  <AnimalSleepingBox.label>동물 상자</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>작은 동물이 잘 수 있는 상자입니다. 닭, 고양이, 작은 개까지 들어갈 수 있습니다.</AnimalSleepingBox.description>
   
-  <Drape.label>휘장</Drape.label>
-  <Drape.description>수직의 나무에 천을 달아놓은 장식으로 왕실에 적합합니다.</Drape.description>
+  <AnimalSleepingSpot.label>동물 잠자리</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>동물이 잠을 청할 위치를 지정합니다.</AnimalSleepingSpot.description>
   
-  <GrandThrone.label>대왕좌</GrandThrone.label>
-  <GrandThrone.description>앉아서 통치할 귀족을 위해 설계된 거대하고 화려한 의자입니다. 왕좌를 배치하면 알현실로 정의되며, 귀족들의 욕구를 만족시키기 위해 앉을 수 있습니다.</GrandThrone.description>
-  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Throne ownership requires a person with a royal title.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <Armchair.label>팔걸이 의자</Armchair.label>
+  <Armchair.description>커다랗고 부드럽고 편안한 의자입니다. 휴식하기에 좋습니다.</Armchair.description>
   
-  <Throne.label>왕좌</Throne.label>
-  <Throne.description>귀족만이 앉을 수 있는 크고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</Throne.description>
-  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Throne ownership requires a person with a royal title.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <Bed.label>침대</Bed.label>
+  <Bed.description>아늑한 매트리스와 천으로 덮여있는 침대입니다.</Bed.description>
+  
+  <Bedroll.label>침낭</Bedroll.label>
+  <Bedroll.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대입니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</Bedroll.description>
+  
+  <BedrollDouble.label>큰 침낭</BedrollDouble.label>
+  <BedrollDouble.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대로, 두 명까지 사용할 수 있습니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</BedrollDouble.description>
+  
+  <DiningChair.label>식탁 의자</DiningChair.label>
+  <DiningChair.description>사람들이 앉을 수 있는 편안하고 매력적인 의자입니다.</DiningChair.description>
+  
+  <DoubleBed.label>큰 침대</DoubleBed.label>
+  <DoubleBed.description>간단한 2인용 침대입니다.</DoubleBed.description>
+  
+  <DoubleSleepingSpot.label>큰 잠자리</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>바닥에 정착민들이 잠을 청할 위치를 정합니다. 불편합니다.</DoubleSleepingSpot.description>
+  
+  <Dresser.label>옷장</Dresser.label>
+  <Dresser.description>주위 모든 침대의 편안함을 개선합니다. 한 침대는 옷장 하나의 영향만 받습니다.</Dresser.description>
+  
+  <EndTable.label>협탁</EndTable.label>
+  <EndTable.description>다른 가구 옆에 배치하는 작은 탁자입니다. 근처 침대의 머리맡에 붙여서 배치하면 편안함을 개선합니다. 한 침대는 협탁 하나의 영향만 받습니다.</EndTable.description>
+  
+  <HospitalBed.label>의료용 침대</HospitalBed.label>
+  <HospitalBed.description>부상자들을 위한 특별한 침대입니다. 치료와 수술의 질을 높입니다.</HospitalBed.description>
+  
+  <PlantPot.label>화분</PlantPot.label>
+  <PlantPot.description>꽃으로 주변 사람들의 기분을 좋게 만듭니다.</PlantPot.description>
+  
+  <RoyalBed.label>고급 침대</RoyalBed.label>
+  <RoyalBed.description>금으로 장식까지 한, 높으신 분들을 위한 호화로운 침대입니다. 매우 편하고 두 명까지 누울 수 있습니다.</RoyalBed.description>
+  
+  <Shelf.label>선반</Shelf.label>
+  <Shelf.description>A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</Shelf.description>
+  
+  <ShelfSmall.label>small shelf</ShelfSmall.label>
+  <ShelfSmall.description>A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</ShelfSmall.description>
+  
+  <SleepingSpot.label>잠자리</SleepingSpot.label>
+  <SleepingSpot.description>바닥에 정착민이 잠을 청할 위치를 정합니다. 불편합니다.</SleepingSpot.description>
+  
+  <StandingLamp.label>스탠드 조명</StandingLamp.label>
+  <StandingLamp.description>주변을 밝게 비추는 일반적인 전등입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다.</StandingLamp.description>
+  
+  <Stool.label>의자</Stool.label>
+  <Stool.description>앉을 수 있는 간단한 받침대입니다.</Stool.description>
+  
+  <SunLamp.label>태양등</SunLamp.label>
+  <SunLamp.description>작물이 충분히 자랄 수 있도록 주변을 밝게 비춰줍니다. 밤에는 자동으로 꺼집니다.</SunLamp.description>
+  <SunLamp.comps.CompSchedule.offMessage>작물 휴식기에 꺼짐</SunLamp.comps.CompSchedule.offMessage>
+  
+  <Table1x2c.label>식탁 (1x2)</Table1x2c.label>
+  <Table1x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table1x2c.description>
+  
+  <Table2x2c.label>식탁 (2x2)</Table2x2c.label>
+  <Table2x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x2c.description>
+  
+  <Table2x4c.label>식탁 (2x4)</Table2x4c.label>
+  <Table2x4c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x4c.description>
+  
+  <Table3x3c.label>식탁 (3x3)</Table3x3c.label>
+  <Table3x3c.description>의자가 있으면 여기서 밥을 먹습니다.</Table3x3c.description>
+  
+  <TorchLamp.label>횃불</TorchLamp.label>
+  <TorchLamp.description>주변을 밝게 비추는 나무 횃불입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다. 나무를 자동으로 다시 넣을 수 있습니다. 약한 열을 발산합니다.</TorchLamp.description>
 </LanguageData>
