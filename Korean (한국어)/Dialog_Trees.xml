@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royalty -->
+  <RequestChangeRoyalHeir>{HOLDER_labelShort}의 {TITLE} 후계자를 {HEIR_labelShort}에서 다른 인물로 변경</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>{HOLDER_labelShort}의 {TITLE} 후계자 지정</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>{PAWN_labelShort}(은)는 이미 계승 중</RequestChangeRoyalHeirAlreadyInProgress>
+  
+</LanguageData>
