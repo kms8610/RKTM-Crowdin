@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>damage_source->의 머리 위로 [roof]이 [collapsed]</li>
+    <li>roof->roof</li>
+    <li>roof->지붕</li>
+    <li>roof->천장</li>
+    <li>collapsed->쓰러짐</li>
+    <li>collapsed->낙하함</li>
+    <li>collapsed->떨어짐</li>
+    <li>damaged_present->후려침</li>
+    <li>damaged_present->내려침</li>
+    <li>damaged_present->멍듦</li>
+    <li>damaged_present->찢어짐</li>
+    <li>destroyed_present->산산조각 남</li>
+    <li>destroyed_present->찌그러짐</li>
+    <li>destroyed_present->말살 중</li>
+    <li>destroyed_present->전멸 중</li>
+    <li>destroyed_present->부숴버림</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>damage_source->(이)가 [fire]</li>
+    <li>fire(p=3)->fire</li>
+    <li>fire(p=3)->a fire</li>
+    <li>fire(p=3)->불에 탐</li>
+    <li>fire->열기의 피해를 받음</li>
+    <li>fire->화재로 인해 타오름</li>
+    <li>fire->화염에 휩싸임</li>
+    <li>damaged_present->데어버림</li>
+    <li>damaged_present->그슬림</li>
+    <li>damaged_present->화상을 입음</li>
+    <li>damaged_present->익어버림</li>
+    <li>destroyed_present->탄화됨</li>
+    <li>destroyed_present->구워짐</li>
+    <li>destroyed_present->삶아짐</li>
+    <li>destroyed_present->불타 없어짐</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <DamageEvent_Include.rulePack.rulesStrings>
+    <li>r_logentry->[RECIPIENT_nameDef][damage_source]. [destroyed_targets](이)가 [destroyed_present].</li>
+    <li>r_logentry->[RECIPIENT_nameDef][damage_source]. [destroyed_targets](이)가 [destroyed_present]. 동시에 [damaged_targets]도 [damaged_present].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[RECIPIENT_nameDef][damage_source]. [damaged_targets](이)가 [damaged_present].</li>
+    <li>r_logentry(p=0.1)->[damage_source][RECIPIENT_nameDef].</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>damage_source->의 머리 위에 [sky](이)가 열림</li>
+    <li>damage_source->(은)는 엄청난 [power]의 광선에 [damaged_past]</li>
+    <li>damage_source->(은)는 [light]의 기둥에 [damaged_past]</li>
+    <li>sky->하늘</li>
+    <li>sky->구름</li>
+    <li>sky->창공</li>
+    <li>power->power</li>
+    <li>power->에너지</li>
+    <li>power->열기</li>
+    <li>light->빛</li>
+    <li>light->열기</li>
+    <li>light->화염</li>
+    <li>light(p=0.2)->백열</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>damage_source->(은)는 [spiraling] 토네이도에 [enveloped]</li>
+    <li>destroyed_present(p=3)->찢어내는</li>
+    <li>spiraling->휘몰아치는</li>
+    <li>spiraling->소용돌이치는</li>
+    <li>spiraling->빙글빙글 도는</li>
+    <li>spiraling(p=10)-></li>
+    <li>enveloped(p=8)->휩싸임</li>
+    <li>enveloped->휘말림</li>
+    <li>enveloped->삼켜짐</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>damage_source->(은)는 [spiketrap]에 찔림</li>
+    <li>damage_source->(은)는 [spiketrap]에 가격당함</li>
+    <li>damage_source->(은)는 [spiketrap]에 쏘임</li>
+    <li>spiketrap(p=3)->a spike trap</li>
+    <li>spiketrap(p=3)->가시 함정</li>
+    <li>spiketrap->가시</li>
+    <li>spiketrap->날카로운 함정</li>
+    <li>spiketrap->뾰족한 함정</li>
+    <li>damaged_present->구멍이 뚫림</li>
+    <li>damaged_present->spearing</li>
+    <li>damaged_present->관통함</li>
+    <li>damaged_present->찔림</li>
+    <li>destroyed_present->갈갈이 찢어짐</li>
+    <li>destroyed_present->찢어짐</li>
+    <li>destroyed_present->절개됨</li>
+    <li>destroyed_present->폭발함</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+</LanguageData>
