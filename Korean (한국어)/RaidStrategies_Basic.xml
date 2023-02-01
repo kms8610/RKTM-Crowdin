@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ImmediateAttack.arrivalTextEnemy>적들이 바로 공격할 것입니다.</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextFriendly>아군이 도움을 주기 위해 바로 이동할 것입니다.</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.letterLabelEnemy>습격</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>아군</ImmediateAttack.letterLabelFriendly>
+  
+  <ImmediateAttackFriendly.arrivalTextEnemy>적들이 바로 공격할 것입니다.</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextFriendly>아군이 도움을 주기 위해 바로 이동할 것입니다.</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.letterLabelEnemy>습격</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelFriendly>아군</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  <ImmediateAttackSmart.arrivalTextEnemy>적들이 바로 공격할 것입니다.\n\n주의하세요. 전략에 굉장히 숙달된 것으로 보입니다. 그들은 포탑 사거리를 피해 다니고 함정도 알아챌 것입니다.</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextFriendly>아군이 도움을 주기 위해 바로 이동할 것입니다.</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.letterLabelEnemy>습격</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>아군</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <StageThenAttack.arrivalTextEnemy>적들은 잠시 준비한 후 공격할 것입니다.\n\n방어를 준비하거나 선제공격을 하세요.</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextFriendly>아군은 잠시 준비한 후 도움을 주기 위해 이동할 것입니다.</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.letterLabelEnemy>습격</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>아군</StageThenAttack.letterLabelFriendly>
+</LanguageData>
