@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallNaturalHeart.label>install heart</InstallNaturalHeart.label>
-  <InstallNaturalHeart.description>Install a biological heart.</InstallNaturalHeart.description>
-  <InstallNaturalHeart.jobString>Installing heart.</InstallNaturalHeart.jobString>
+  <Heart.label>heart</Heart.label>
+  <Heart.description>A biological human heart. Pumps blood around the body.</Heart.description>
   
-  <InstallNaturalKidney.label>install kidney</InstallNaturalKidney.label>
-  <InstallNaturalKidney.description>Install a biological kidney.</InstallNaturalKidney.description>
-  <InstallNaturalKidney.jobString>Installing kidney.</InstallNaturalKidney.jobString>
+  <Kidney.label>kidney</Kidney.label>
+  <Kidney.description>A biological human kidney. Filters and removes waste products from the blood.</Kidney.description>
   
-  <InstallNaturalLiver.label>install liver</InstallNaturalLiver.label>
-  <InstallNaturalLiver.description>Install a biological liver.</InstallNaturalLiver.description>
-  <InstallNaturalLiver.jobString>Installing liver.</InstallNaturalLiver.jobString>
+  <Liver.label>liver</Liver.label>
+  <Liver.description>A biological human liver. Plays an important role in metabolism.</Liver.description>
   
-  <InstallNaturalLung.label>install lung</InstallNaturalLung.label>
-  <InstallNaturalLung.description>Install a lung.</InstallNaturalLung.description>
-  <InstallNaturalLung.jobString>Installing lung.</InstallNaturalLung.jobString>
+  <Lung.label>lung</Lung.label>
+  <Lung.description>A biological human lung. A pair of these form the core of the human respiratory system.</Lung.description>
 </LanguageData>
