@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Malnutrition.label>영양실조</Malnutrition.label>
+  <Malnutrition.description>Abnormally low body fat and weight, typically caused by lack of food. Malnutrition is always very unpleasant, but its initial effects are mild. Without food, though, a malnourished creature will waste away, losing muscle mass and capacities. Malnutrition ends with death. Upon re-feeding malnutrition naturally recovers over time. Malnourished creatures have larger appetites than normal.</Malnutrition.description>
+  <Malnutrition.stages.trivial.label>사소함</Malnutrition.stages.trivial.label>
+  <Malnutrition.stages.minor.label>가벼움</Malnutrition.stages.minor.label>
+  <Malnutrition.stages.moderate.label>진행됨</Malnutrition.stages.moderate.label>
+  <Malnutrition.stages.severe.label>심각함</Malnutrition.stages.severe.label>
+  <Malnutrition.stages.extreme.label>극심함</Malnutrition.stages.extreme.label>
+</LanguageData>
