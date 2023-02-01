@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CureScaria.label>스카리아 치료</CureScaria.label>
-  <CureScaria.description>스카리아를 치료할 특별한 수술입니다.</CureScaria.description>
-  <CureScaria.jobString>스카리아 치료 중</CureScaria.jobString>
-  <CureScaria.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 스카리아를 치료했습니다.</CureScaria.successfullyRemovedHediffMessage>
+  <AcidBurn.label>산화상</AcidBurn.label>
+  <AcidBurn.description>산성 화상.</AcidBurn.description>
+  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>관리됨</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>붕대감음</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>관리됨</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>산성 화상 흉터</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
+  <AcidBurn.labelNoun>산화상</AcidBurn.labelNoun>
+  <AcidBurn.labelNounPretty>{0}(은)는 {1}의 영향을 받고 있습니다.</AcidBurn.labelNounPretty>
   
-  <Sterilize.label>sterilize</Sterilize.label>
-  <Sterilize.description>더 이상 번식할 수 없도록 불임 시술을 할 수 있습니다.</Sterilize.description>
-  <Sterilize.jobString>targetA 불임 시술 중</Sterilize.jobString>
-  <Sterilize.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}(을)를 중성화했습니다.</Sterilize.successfullyRemovedHediffMessage>
+  <BloodfeederMark.label>bloodfeeder mark</BloodfeederMark.label>
+  <BloodfeederMark.description>Two small puncture wounds.</BloodfeederMark.description>
+  <BloodfeederMark.labelNoun>a bloodfeeder mark</BloodfeederMark.labelNoun>
+  
+  <ImplantedIUD.label>implanted IUD</ImplantedIUD.label>
+  <ImplantedIUD.description>A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</ImplantedIUD.description>
+  
+  <ToxGasExposure.label>tox gas</ToxGasExposure.label>
+  <ToxGasExposure.description>Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death.</ToxGasExposure.description>
+  <ToxGasExposure.stages.mild.label>가벼움</ToxGasExposure.stages.mild.label>
+  <ToxGasExposure.stages.moderate.label>진행됨</ToxGasExposure.stages.moderate.label>
+  <ToxGasExposure.stages.severe.label>심각함</ToxGasExposure.stages.severe.label>
+  
+  <TubalLigation.label>tubal ligation</TubalLigation.label>
+  <TubalLigation.description>This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus.</TubalLigation.description>
+  
+  <Vasectomy.label>vasectomy</Vasectomy.label>
+  <Vasectomy.description>This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</Vasectomy.description>
 </LanguageData>
