@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AgeReversal_Demanded.label>요구됨</AgeReversal_Demanded.label>
-  <AgeReversal_Demanded.description>Why get old? If over age 25, one must have a once-yearly age reversal treatment in the biosculpter pod.</AgeReversal_Demanded.description>
+  <AgeReversalDemanded.stages.harmful_aging.label>harmful aging</AgeReversalDemanded.stages.harmful_aging.label>
+  <AgeReversalDemanded.stages.harmful_aging.description>I'm getting old. I should get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.harmful_aging.description>
+  <AgeReversalDemanded.stages.terrible_aging.label>terrible aging</AgeReversalDemanded.stages.terrible_aging.label>
+  <AgeReversalDemanded.stages.terrible_aging.description>My youth is draining away. I should get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.terrible_aging.description>
+  <AgeReversalDemanded.stages.horrific_aging.label>horrific aging</AgeReversalDemanded.stages.horrific_aging.label>
+  <AgeReversalDemanded.stages.horrific_aging.description>I am trapped in a decaying prison of flesh! I need to get an age reversal in a biosculpter pod.</AgeReversalDemanded.stages.horrific_aging.description>
   
-  <BioSculpter_Despised.label>천박함</BioSculpter_Despised.label>
-  <BioSculpter_Despised.description>생체 재구축기는 육체의 순수함을 훼손하는 기계입니다. 절대 사용해서는 안됩니다.</BioSculpter_Despised.description>
+  <AgeReversalReceived.stages.received_age_reversal.label>received age reversal</AgeReversalReceived.stages.received_age_reversal.label>
+  <AgeReversalReceived.stages.received_age_reversal.description>Aging and death have no hold on me. I am forever, as an enhanced human ought to be.</AgeReversalReceived.stages.received_age_reversal.description>
   
-  <Biosculpting_Accelerated.label>가속됨</Biosculpting_Accelerated.label>
-  <Biosculpting_Accelerated.description>모든 생체 재구축 주기가 평소의 절반으로 줄어듭니다.</Biosculpting_Accelerated.description>
+  <BioSculpterDespised.stages.used_biosculpter_pod.label>생체 재구축기를 사용함</BioSculpterDespised.stages.used_biosculpter_pod.label>
+  <BioSculpterDespised.stages.used_biosculpter_pod.description>My body was despoiled by the use of a biosculpter pod.</BioSculpterDespised.stages.used_biosculpter_pod.description>
   
-  <NeuralSupercharge_Preferred.label>선호</NeuralSupercharge_Preferred.label>
-  <NeuralSupercharge_Preferred.description>신경 과충전은 새 시대의 표준이다. 과충전을 받지 않는 자는 구 시대의 잔재일 뿐이다.</NeuralSupercharge_Preferred.description>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.label>want neural supercharge</NeedNeuralSupercharge.stages.want_neural_supercharge.label>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.description>Without a neural supercharge, I'm running below my true capacity. It's depressing.</NeedNeuralSupercharge.stages.want_neural_supercharge.description>
   
-  <SleepAccelerator_Preferred.label>선호</SleepAccelerator_Preferred.label>
-  <SleepAccelerator_Preferred.description>항상 수면 가속기를 사용해야 한다. 느린 잠은 잠재력을 버리는 멍청한 행위이다.</SleepAccelerator_Preferred.description>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>used sleep accelerator</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>I slept with a sleep accelerator. It's helping me attain my true potential, as one should.</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>
 </LanguageData>
