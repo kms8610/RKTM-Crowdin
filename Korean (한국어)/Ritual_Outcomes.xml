@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AttendedSpeech.description>의식의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</AttendedSpeech.description>
+  <AttendedSpeech.comps.0.label>{PAWN_labelShort}의 사교 능력</AttendedSpeech.comps.0.label>
+  <AttendedSpeech.comps.0.labelAbstract>설교자의 사교 능력</AttendedSpeech.comps.0.labelAbstract>
+  <AttendedSpeech.comps.1.label>참가자 수</AttendedSpeech.comps.1.label>
+  <AttendedSpeech.comps.2.label>방 인상</AttendedSpeech.comps.2.label>
+  <AttendedSpeech.outcomeChances.0.label>끔찍한</AttendedSpeech.outcomeChances.0.label>
+  <AttendedSpeech.outcomeChances.1.label>인상적이지 않은</AttendedSpeech.outcomeChances.1.label>
+  <AttendedSpeech.outcomeChances.2.label>강렬한</AttendedSpeech.outcomeChances.2.label>
+  <AttendedSpeech.outcomeChances.3.label>격려</AttendedSpeech.outcomeChances.3.label>
+</LanguageData>
