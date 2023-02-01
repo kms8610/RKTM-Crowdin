@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  <Deities>신적 존재</Deities>
+  <ButtonShowAllIdeoligions>모든 사상 보기</ButtonShowAllIdeoligions>
+  <IdeoligionOf>다음 세력의 사상</IdeoligionOf>
+  <Memes>Memes</Memes>
+  <CoreNarrative>Narrative</CoreNarrative>
+  <CoreNarrativeDesc>사상의 핵심 구절입니다. 게임 플레이에는 영향을 주지 않습니다.</CoreNarrativeDesc>
+  <EditNarrative>구절 편집</EditNarrative>
+  <LockButtonDesc>사상의 현재 구절을 고정하거나 고정 해제합니다. 구절을 고정하면 사상을 편집해도 바뀌지 않습니다.</LockButtonDesc>
+  <LockInOn>{0} 고정이 켜져있습니다. {1}(이)가 자동으로 재생성되지 않습니다.</LockInOn>
+  <LockInOff>{0} 고정이 꺼져있습니다. {1}(이)가 자동으로 재생성될 수 있습니다.</LockInOff>
+  <LockPreceptNameButtonDesc>이 규율을 고정하거나 고정 해제합니다. 규율을 고정하면 사상을 편집해도 규율 이름이 바뀌지 않습니다.</LockPreceptNameButtonDesc>
+  <Precepts>Precepts</Precepts>
+  <Rituals>행사</Rituals>
+  <IdeoRoles>지위</IdeoRoles>
+  <IdeoBuildings>구조물</IdeoBuildings>
+  <IdeoRelics>Relics</IdeoRelics>
+  <IdeoApparel>선호 의복</IdeoApparel>
+  <IdeoApparelDesire>의복 희망</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>거절</UnwillingToDoIdeoAction>
+  <PreceptStats>통계</PreceptStats>
+  <Prohibitions>금지</Prohibitions>
+  <Opinions>의견</Opinions>
+  <RandomizeName>무작위 이름</RandomizeName>
+  <RandomizePrecepts>무작위 규율</RandomizePrecepts>
+  <RandomizeDeities>무작위 신적 존재</RandomizeDeities>
+  <AddDeity>신적 존재 추가</AddDeity>
+  <ChooseMemes>가르침 선택</ChooseMemes>
+  <ChooseStartingMeme>시작 가르침 선택</ChooseStartingMeme>
+  <ChooseStructure>구조 선택</ChooseStructure>
+  <ChooseCulture>문화 선택</ChooseCulture>
+  <Culture>문화</Culture>
+  <CultureTip>문화는 이름과 외형, 상징에 영향을 줍니다.</CultureTip>
+  <StructureMeme>Structure</StructureMeme>
+  <StructureMemeTip>사상의 핵심이 되는 존재와 그 형태를 결정합니다. 게임 플레이에 직접적인 영향을 주지는 않습니다.</StructureMemeTip>
+  <Adjective>형용사</Adjective>
+  <WorshipRoom>의식장</WorshipRoom>
+  <IdeoMembers>구성원 호칭</IdeoMembers>
+  <IdeoMembersPlural>구성원 복수형</IdeoMembersPlural>
+  <EditSymbols>상징 편집</EditSymbols>
+  <EditDeity>신적 존재 편집</EditDeity>
+  <EditApparelRequirement>필요 의복 편집</EditApparelRequirement>
+  <EditName>이름 편집</EditName>
+  <StartingCondition_Anytime>아무 때나</StartingCondition_Anytime>
+  <StartingCondition_Date>날짜</StartingCondition_Date>
+  <StartingCondition>시작 조건</StartingCondition>
+  <Edit>수정</Edit>
+  <RandomizeSymbols>무작위 상징</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>사상의 이름, 아이콘, 구절, 지도자 호칭, 의식 이름, 보직 이름 등 모든 텍스트를 무작위로 지정합니다. 가르침과 규율처럼 게임 플레이에 영향을 주는 요소는 바꾸지 않습니다.</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>구성 요소를 클릭해 편집</ClickAnyElementToEditIt>
+  <LeaderTitle>지도자 호칭</LeaderTitle>
+  <DeityName>신적 존재 이름</DeityName>
+  <DeityTitle>신적 존재 호칭</DeityTitle>
+  <DeityGender>신적 존재 성별</DeityGender>
+  <Name>이름</Name>
+  <Icon>아이콘</Icon>
+  <RelatedToMeme>관련된 가르침</RelatedToMeme>
+  <IdeoCharityQuestInfo>이것은 이타적 임무입니다. 이타적 사상인 {0}(을)를 믿는 다음 정착민들은 임무가 성공하면 기뻐하고, 실패하면 실망할 것입니다. ({1})</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>노예가 할 수 없음</WorkDisabledSlave>
+  <WorkDisabledRole>{0} 지위로 인해 비활성</WorkDisabledRole>
+  <AffectedByTraits>특성의 영향</AffectedByTraits>
+  <CharityQuestTip>이것은 이타적 임무입니다. 이타적 믿음을 가진 사람들은 임무 결과에 영향을 받게 됩니다</CharityQuestTip>
+  <Formerly>이전</Formerly>
+  <All>전체</All>
+  <RelicTip>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가하며, 외부인이 유물의 사상으로 전향할 확률이 높아집니다.</RelicTip>
+  <RelicTipClassic>Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals.</RelicTipClassic>
+  <Animal>동물</Animal>
+  <VeneratedAnimals>성스러운 동물</VeneratedAnimals>
+  <IdeoWeapon>무기 속성별 호불호 추가</IdeoWeapon>
+  <IdeoWeapons>무기</IdeoWeapons>
+  <SwapNobleAndDespised>교체</SwapNobleAndDespised>
+  <Noble>귀족</Noble>
+  <Despised>천박함</Despised>
+  <UnlockedRecipes>제작 가능한 물품</UnlockedRecipes>
+  <IdeoStartWithResearch>연구와 함께 시작</IdeoStartWithResearch>
+  <AgreeableTraits>잘 맞는 특성</AgreeableTraits>
+  <DisagreeableTraits>충돌하는 특성</DisagreeableTraits>
+  <Shooting>사격</Shooting>
+  <IdeoImpact>충격</IdeoImpact>
+  <IdeoImpactOverall>전반적 영향</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>어떤 가르침은 다른 가르침보다 게임 플레이에 더 큰 영향을 줍니다. 가르침의 영향도 점수를 통해 게임 플레이가 얼마나 바뀔지 짐작할 수 있습니다.</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>낮음</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>중간</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>높음</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>낮음</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>낮음</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>진행됨</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>진행됨</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>강한</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>강한</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>매우 높음</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>매우 높음</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>극심함</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>정착지의 시작 사상입니다.</InitialPlayerIdeo>
+  
+  
+  <FluidIdeoTip>이 사상은 신생 사상이며 행성 내에서 따르는 사람도 거의 없으므로 아직 유동적입니다. 유동적인 사상은 시간이 지나며 점차 발달할 수 있습니다.\n\n사상이 발달하려면 개혁 점수가 필요합니다. 개혁 점수는 의식을 완료하거나 사상에 관련된 임무를 완수해서 획득할 수 있습니다.\n\n충분한 개혁 점수를 모으면 새로운 가르침, 규율, 양식 등으로 사상을 개혁할 수 있습니다.</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>개발 포인트를 얻는 방법</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>당신의 사상으로 누군가를 교화하세요.</FluidIdeoTipGetPoinsByConversion>
+
+  <ResearchProjectHasDefsWithMissingMemes>{0} 연구 보상 중 사상의 영향으로 만들 수 없는 물품이 포함되어 있습니다.</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>경고: 이 유형의 작업은 {0_labelShort}의 사상에 반하기 때문에 기분이 나빠집니다.</SelectedWorkTypeOpposedByIdeo>
+
+  <DevelopmentPoints>개혁 점수</DevelopmentPoints>
+
+</LanguageData>
