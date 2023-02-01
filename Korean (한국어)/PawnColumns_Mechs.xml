@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AllowedAreaMech.label>허가 구역</AllowedAreaMech.label>
+  <AllowedAreaMech.headerTip>Allowed areas only apply for mechs in work and recharge modes.</AllowedAreaMech.headerTip>
+  
+  <AutoRepair.label>auto repair</AutoRepair.label>
+  
+  <ControlGroup.label>control group</ControlGroup.label>
+  
+  <DraftMech.label>소집</DraftMech.label>
+  
+  <Energy.label>에너지</Energy.label>
+  
+  <Overseer.label>overseer</Overseer.label>
+  
+  <WorkMode.label>작업 모드</WorkMode.label>
+</LanguageData>
