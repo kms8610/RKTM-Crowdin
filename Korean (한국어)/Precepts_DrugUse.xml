@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse.label>약물 사용 목격</DrugUse.label>
+  <DrugUse_MedicalOnly.label>오로지 약품만</DrugUse_MedicalOnly.label>
+  <DrugUse_MedicalOnly.description>사교 목적으로 신체를 중독시키는 것은 매우 부도덕한 행위이다.</DrugUse_MedicalOnly.description>
+  <DrugUse_MedicalOnly.comps.2.description>사교 약물 사용 목격</DrugUse_MedicalOnly.comps.2.description>
+  <DrugUse_MedicalOnly.comps.5.description>사교 약물 투여 목격</DrugUse_MedicalOnly.comps.5.description>
+  
+  <DrugUse_MedicalOrSocial.label>약품 및 사교용 약물만</DrugUse_MedicalOrSocial.label>
+  <DrugUse_MedicalOrSocial.description>친구들과 연초와 술을 즐기는 것은 괜찮다. 하지만 강한 약물로 신체를 괴롭히는 것은 잘못된 일이다.</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.comps.2.description>강력한 약물을 사용함</DrugUse_MedicalOrSocial.comps.2.description>
+  <DrugUse_MedicalOrSocial.comps.5.description>강력한 약물을 투여함</DrugUse_MedicalOrSocial.comps.5.description>
+  
+  <DrugUse_Prohibited.label>금지된 것</DrugUse_Prohibited.label>
+  <DrugUse_Prohibited.description>육신은 절대로 약물 따위에 더럽혀져서는 안된다. 유일한 예외는 직접적인 치료에 약품을 사용할 때이다.</DrugUse_Prohibited.description>
+  <DrugUse_Prohibited.comps.0.description>약물을 사용함</DrugUse_Prohibited.comps.0.description>
+  <DrugUse_Prohibited.comps.5.description>약물을 투여함</DrugUse_Prohibited.comps.5.description>
 </LanguageData>
