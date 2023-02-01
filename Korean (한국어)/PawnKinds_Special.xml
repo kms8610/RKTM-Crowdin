@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Slave.label>노예</Slave.label>
+  
+  <StrangerInBlack.label>검은 옷의 이방인</StrangerInBlack.label>
+  <StrangerInBlack.labelFemale>검은 옷의 여성</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelMale>구세주</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelPlural>검은 옷의 이방인들</StrangerInBlack.labelPlural>
+  
+  <WildMan.label>야인</WildMan.label>
+  <WildMan.labelFemale>여성 야인</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>여성 야인들</WildMan.labelFemalePlural>
+  <WildMan.labelPlural>야인들</WildMan.labelPlural>
+</LanguageData>
