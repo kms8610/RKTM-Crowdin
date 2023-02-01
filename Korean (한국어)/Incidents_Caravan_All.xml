@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ambush.label>매복</Ambush.label>
+  <Ambush.letterLabel>상단 피습</Ambush.letterLabel>
+  <Ambush.letterText>{2}에서 {0}(이)가 {1}에게 공격받고 있습니다!</Ambush.letterText>
+  
+  <CaravanDemand.label>물건 요구</CaravanDemand.label>
+  
+  <CaravanMeeting.label>상단 조우</CaravanMeeting.label>
+  
+  <ManhunterAmbush.label>식인동물의 기습</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>상단 피습 (식인동물)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>{0}(이)가 식인 {1}에게 공격받고 있습니다!</ManhunterAmbush.letterText>
+</LanguageData>
