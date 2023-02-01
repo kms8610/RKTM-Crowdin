@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MarriageCeremony.label>결혼식</MarriageCeremony.label>
+  
+  <Party.label>파티</Party.label>
+  <Party.calledOffMessage>파티가 취소되었습니다.</Party.calledOffMessage>
+  <Party.finishedMessage>파티가 끝났습니다.</Party.finishedMessage>
+  <Party.letterText>{ORGANIZER_labelShort}(이)가 파티를 열었습니다! 참가자는 누구나 오락과 관계, 기분에 지속적인 이점을 얻게 됩니다.</Party.letterText>
+  <Party.letterTitle>파티</Party.letterTitle>
+</LanguageData>
