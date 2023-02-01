@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>questDescription->근처의 오래된 유적에 고대의 보물이 잠들어 있다는 정보를 들었습니다.\n\n내부로 들어가 노획품을 챙겨올 수 있습니다.\n\n하지만 조심하십시오. 이러한 건물에는 여러 위험이 도사리고 있으며, 원치 않은 적의 주의를 끌 수도 있습니다.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
+    <li>questName->[complex] [finalWord]</li>
+    <li>complexAdj->비밀의</li>
+    <li>complexAdj->신비의</li>
+    <li>complexAdj->고대의</li>
+    <li>complexAdj->오래된</li>
+    <li>complexAdj->숨겨진</li>
+    <li>complexAdj->죽음의</li>
+    <li>complex->단지</li>
+    <li>complex->시설</li>
+    <li>complex->구조물</li>
+    <li>finalWord->보물</li>
+    <li>finalWord->재화</li>
+    <li>finalWord->재물</li>
+    <li>finalWord->은닉처</li>
+    <li>finalWord->전리품</li>
+    <li>finalWord->털기</li>
+    <li>finalWord->노략</li>
+    <li>finalWord->약탈</li>
+    <li>finalWord->절도</li>
+    <li>finalWord->강탈</li>
+    <li>finalWord->작전</li>
+    <li>finalWord->노획품</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+</LanguageData>
