@@ -1,75 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RecipeRequiresMechanitor>The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill.</RecipeRequiresMechanitor>
+  <!-- Character tab -->
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort}(은)는 {FACTION_name}의 {TITLE}입니다.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort}(은)는 이 작위의 권한을 완전히 존중하도록 요구합니다.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}(은)는 이 작위의 권한에 대해 유연하게 행동합니다.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>다음 작위</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>비용 {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>이 행성에서는 더 이상 작위를 올릴 수 없습니다.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>{PAWN_nameDef}(이)가 사망하면, {PAWN_possessive} 작위는 {HEIR_nameFull}에게 상속됩니다.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull}(은)는 어떤 세력에도 소속되어있지 않습니다.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull}(은)는 {FACTION_name} 소속입니다.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>{PAWN_nameDef}의 작위를 상속받을 수 있는 인물이 없습니다. {PAWN_pronoun}(이)가 사망하면 작위는 회수됩니다.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>{FACTION_name}의 획득 가능한 작위</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>{FACTION_name}의 다른 작위</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>총 {0}</RoyalTitleTooltipRoyalFavorTotal>
 
-  <GenepackPlural>genepacks</GenepackPlural>
-  <TraitsDevelopLaterBaby>Traits develop later during childhood</TraitsDevelopLaterBaby>
-  <SkillsDevelopLaterBaby>Skills develop later during childhood</SkillsDevelopLaterBaby>
-  <TabGenes>Genes</TabGenes>
-
-  <ViewGenes>View genes</ViewGenes>
-  <ViewGenesDesc>Click to view {PAWN_nameDef}'s genes.</ViewGenesDesc>
-
-  <!-- Feeding tab (human babies) -->
-  <TabFeeding>Feeding</TabFeeding>
-  <AutofeedSectionHeader>Auto feed settings</AutofeedSectionHeader>
-  <AutofeedModeNever>오지 않음</AutofeedModeNever>
-  <AutofeedModeChildcare>childcare</AutofeedModeChildcare>
-  <AutofeedModeUrgent>비상</AutofeedModeUrgent>
-  <AutofeedNone>Nobody can feed this baby.</AutofeedNone>
-  <AutofeedModeTooltipNever>{FEEDER_nameDef} will not automatically feed {BABY_nameDef}.</AutofeedModeTooltipNever>
-  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} will feed {BABY_nameDef} as childcare work.</AutofeedModeTooltipChildcare>
-  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare.</AutofeedModeTooltipUrgent>
-  <BabyFoodConsumables>Consumable foods</BabyFoodConsumables>
-
-  <!-- Social tab (human babies) -->
-  <IdeoExposureSectionHeader>ideoligion exposure</IdeoExposureSectionHeader>
-  <IdeoExposureNoExposure>{BABY_labelShort} has not been exposed to any ideoligions yet.</IdeoExposureNoExposure>
-  <IdeoExposureNoExposureDetail>{BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to.</IdeoExposureNoExposureDetail>
-  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}.</IdeoExposurePointsTooltipJoinLikelihood>
-  <IdeoExposurePointsTooltipJoinDescription>As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}.</IdeoExposurePointsTooltipJoinDescription>
-  <IdeoExposurePointsTooltipExposureDescription>Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with.</IdeoExposurePointsTooltipExposureDescription>
-  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} exposure points</IdeoExposurePointsTooltipIdeoExposure>
-  <IdeoExposurePointsTooltipTotalExposure>Total exposure points</IdeoExposurePointsTooltipTotalExposure>
-
-  <!-- Social tab (romance) -->
-  <TryRomanceButtonLabel>Romance</TryRomanceButtonLabel>
-  <TryRomanceNoOptsMessage>Nobody for {0_labelShort} to romance.</TryRomanceNoOptsMessage>
-  <CantRomanceTargetUnreachable>unreachable</CantRomanceTargetUnreachable>
-  <CantRomanceTargetSleeping>수면 중</CantRomanceTargetSleeping>
-  <CantRomanceTargetDowned>무력화됨</CantRomanceTargetDowned>
-  <CantRomanceTargetDrafted>소집됨</CantRomanceTargetDrafted>
-  <CantRomanceTargetMentalState>정신이상</CantRomanceTargetMentalState>
-  <CantRomanceTargetIncest>근친상간</CantRomanceTargetIncest>
-  <CantRomanceTargetOpinion>낮은 의견</CantRomanceTargetOpinion>
-  <CantRomanceTargetSexuality>incompatible orientation</CantRomanceTargetSexuality>
-  <CantRomanceTargetPrisoner>죄수</CantRomanceTargetPrisoner>
-  <CantRomanceTargetYoung>too young</CantRomanceTargetYoung>
-  <CantRomanceTargetZeroChance>zero chance</CantRomanceTargetZeroChance>
-  <CantRomanceInitiateMessagePrisoner>{0_labelShort} cannot try to romance because {0_pronoun} is a prisoner.</CantRomanceInitiateMessagePrisoner>
-  <CantRomanceInitiateMessageSlave>{0_labelShort} cannot try to romance because {0_pronoun} is a slave.</CantRomanceInitiateMessageSlave>
-  <CantRomanceInitiateMessageAsexual>{0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait.</CantRomanceInitiateMessageAsexual>
-  <CantRomanceInitiateMessageDowned>{0_labelShort} cannot try to romance because {0_pronoun} is incapacitated.</CantRomanceInitiateMessageDowned>
-  <CantRomanceInitiateMessageDrafted>{0_labelShort} cannot try to romance because {0_pronoun} is drafted.</CantRomanceInitiateMessageDrafted>
-  <CantRomanceInitiateMessageMentalState>{0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state.</CantRomanceInitiateMessageMentalState>
-  <CantRomanceInitiateMessageTalk>{0_labelShort} cannot try to romance because {0_pronoun} is unable to speak.</CantRomanceInitiateMessageTalk>
-  <CantRomanceInitiateMessageCooldown>{0_labelShort} tried romancing recently and must wait {1} until trying again.</CantRomanceInitiateMessageCooldown>
-  <TryRomanceFailedMessage>{0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful.</TryRomanceFailedMessage>
-  <RomanceExistingRelationshipWarning>Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations.</RomanceExistingRelationshipWarning>
-  <RomanceChance>Romance chance</RomanceChance>
-  <RomanceChanceExistingRelation>already {PAWN_nameDef}'s {RELATION}</RomanceChanceExistingRelation>
-  <RomanceChanceCant>Cannot romance</RomanceChanceCant>
-  <RomanceChanceAgeFactor>Relative age</RomanceChanceAgeFactor>
-  <RomanceChanceBeautyFactor>미관</RomanceChanceBeautyFactor>
-  <RomanceChanceOpinionFactor>Opinion</RomanceChanceOpinionFactor>
-  <RomanceChancePartnerFactor>Opinion of partner</RomanceChancePartnerFactor>
-  <RomanceFailedUnexpected>{0_labelShort} was unable to romance {1_labelShort}</RomanceFailedUnexpected>
-  <RomanceWarningMonogamous>{0_nameDef} is already in a relationship.</RomanceWarningMonogamous>
-  <RomanceWarningPolygamous>{0_nameDef} already has {1} partners.</RomanceWarningPolygamous>
-
-  <!-- Guest tab (prisoners) -->
-  <FactorForGenes>Multiplier for genes</FactorForGenes>
-  <PrisonBreakingDisabledDueToGene>Prison breaking is disabled by {GENE_label} gene.</PrisonBreakingDisabledDueToGene>
-
+  <RecruitmentResistanceRoyalTitleOffset>{0} 작위</RecruitmentResistanceRoyalTitleOffset>
+  
+  <!-- Permits tab -->
+  <TabPermits>지원 요청</TabPermits>
+  <PermitsFromFaction>{FACTION_name}에 지원 요청</PermitsFromFaction>
+  <CurrentTitle>현재 작위</CurrentTitle>
+  <UnusedPermits>남은 지원 요청 권한</UnusedPermits>
+  <ReturnAllPermits>지원 요청 권한 초기화</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef}(은)는 초기화할 지원 요청 권한이 없습니다.</NoPermitsToReturn>
+  <NotEnoughFavor>{FAVOR}(이)가 부족합니다. 지원 요청 권한을 초기화하려면 {FAVOR} {FAVORCOST}개가 필요하지만 현재 보유량은 {CURFAVOR}개입니다.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>모든 지원 요청 권한을 초기화하여 다시 선택할 수 있게 합니다.\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>모든 지원 요청 권한을 초기화하고 다시 선택하시겠습니까?\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>세력 전환</SwitchFaction_Desc>
+  <AcceptPermit>지원 요청 권한 획득</AcceptPermit>
+  <RequiresTitle>요구 작위: {0}</RequiresTitle>
+  <UpgradeFrom>{0}(을)를 대체함</UpgradeFrom>
+  <Cooldown>재사용 대기시간</Cooldown>
+  <CooldownUseFavorCost>재사용 대기시간 중 사용시 {HONOR} 비용이 소모됨</CooldownUseFavorCost>
+  
 </LanguageData>
