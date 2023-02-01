@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Captured.label>사람 포획</Captured.label>
+  <Captured.rulePack.rulesStrings>
+    <li>tale_noun->[CAPTURER_nameDef]가 [PRISONER_nameDef]를 포획함</li>
+    <li>tale_noun->[PRISONER_nameDef]는 [CAPTURER_nameDef]에게 포획됨</li>
+    <li>tale_noun->[PRISONER_nameDef]의 포획</li>
+    <li>image->[CAPTURER_nameFull]는 [circumstance_group] [PRISONER_nameFull]를 포획함</li>
+    <li>image->[CAPTURER_nameFull]는 [circumstance_group] [PRISONER_nameFull]의 손을 묶음</li>
+    <li>image->[CAPTURER_nameFull]는 [PRISONER_objective]를 포획 중 [circumstance_group] [PRISONER_nameFull]를 때림</li>
+    <li>circumstance_phrase->땅에서 온몸을 비트는</li>
+    <li>circumstance_phrase->고통에 몸부림치는</li>
+    <li>circumstance_phrase->효율적인 전문성으로</li>
+    <li>circumstance_phrase->대충 어림짐작으로</li>
+    <li>circumstance_phrase->명백하게 과도한 힘으로</li>
+    <li>circumstance_phrase->쾌락으로</li>
+    <li>circumstance_phrase->우쭐대며 웃으며</li>
+    <li>desc_sentence->[CAPTURER_nameDef]는 지배의식을 가지며 [PRISONER_nameDef]의 눈을 들여다 봅니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]가 다쳐서 아픈 것으로 보입니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 [PRISONER_possessive] 운명에 체념한 것 같습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 패배의 분노로 씩씩대고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]는 [PRISONER_objective]를 제압하기 위해 [PRISONER_nameDef]를 때리고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]는 [PRISONER_nameDef]의 귀를 비틀고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]는 관절기로 [PRISONER_nameDef]를 고정하고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]는 [PRISONER_nameDef]의 얼굴에 침을 뱉고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]가 [PRISONER_nameDef]의 눈에 눈물이 가득 차도록 간지럼 태우고 있습니다.</li>
+    <li>desc_sentence->[CAPTURER_nameDef]가 뚜력한 이유 없이  [PRISONER_nameDef]를 걷어차고 있습니다.</li>
+  </Captured.rulePack.rulesStrings>
+  
+  <DefeatedHostileFactionLeader.label>적대적인 지도자 격퇴</DefeatedHostileFactionLeader.label>
+  
+  <DidSurgery.label>수술 진행</DidSurgery.label>
+  <DidSurgery.rulePack.rulesStrings>
+    <li>tale_noun->[SURGEON_nameDef]는 [PATIENT_nameDef]를 수술함</li>
+    <li>tale_noun->[SURGEON_nameDef]는 [PATIENT_nameDef]에 대한 의료수술을 수행함</li>
+    <li>tale_noun->[PATIENT_nameDef]의 수술 진행</li>
+    <li>image->[SURGEON_nameFull]는 [circumstance_group][PATIENT_nameFull]를 마취제로 재움</li>
+    <li>image->[SURGEON_nameFull]는 수술 중 [circumstance_group] [PATIENT_nameFull]의 팔꿈치 깊이 삽입함</li>
+    <li>image->[SURGEON_nameFull]는 수술 중 [circumstance_group] [PATIENT_nameFull]를 절개함</li>
+    <li>circumstance_phrase->두려움에 떠는</li>
+    <li>circumstance_phrase->[SURGEON_nameDef]의 발밑이 피웅덩이가 되어</li>
+    <li>circumstance_phrase->무섭게 생긴 수술 도구들 속에서</li>
+    <li>circumstance_phrase->즉흥적이지만 효과적인 도구들로</li>
+    <li>desc_sentence->[SURGEON_nameDef]는 땀을 비오듯 흘리고 있습니다.</li>
+    <li>desc_sentence->[SURGEON_nameDef]는 놀라울 정도로 그 일에 집중하는 것 같습니다.</li>
+    <li>desc_sentence->[SURGEON_nameDef]는 [SURGEON_possessive] 얼굴에 피가 묻어 있습니다.</li>
+    <li>desc_sentence->[PATIENT_nameDef]는 떨며 극심한 고통으로 온몸을 비틀고 있습니다.</li>
+  </DidSurgery.rulePack.rulesStrings>
+  
+  <ExecutedPrisoner.label>죄수 처형</ExecutedPrisoner.label>
+  <ExecutedPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[EXECUTIONER_nameDef]가 [PRISONER_nameDef]를 처형함</li>
+    <li>tale_noun->[PRISONER_nameDef]는 [EXECUTIONER_nameDef]에게 처형됨</li>
+    <li>tale_noun->[PRISONER_nameDef]의 처형</li>
+    <li>image->[EXECUTIONER_nameFull]는 [circumstance_group] [PRISONER_nameFull]를 처형함</li>
+    <li>image->[EXECUTIONER_nameFull]는 [circumstance_group] [PRISONER_nameFull]를 사형에 처함</li>
+    <li>image->[EXECUTIONER_nameFull]는 [circumstance_group] [PRISONER_nameFull]를 처형할 준비를 함</li>
+    <li>image->[EXECUTIONER_nameFull]는 감옥으로 들어가서 [circumstance_group] [PRISONER_nameFull]를 처형함</li>
+    <li>circumstance_phrase->땅에서 온몸을 비트는</li>
+    <li>circumstance_phrase->고통에 몸부림치는</li>
+    <li>circumstance_phrase->공포에 질려 외치는</li>
+    <li>circumstance_phrase->효율적인 전문성으로</li>
+    <li>circumstance_phrase->대충 어림짐작으로</li>
+    <li>circumstance_phrase->명백하게 과도한 힘으로</li>
+    <li>circumstance_phrase->쾌락으로</li>
+    <li>circumstance_phrase->우쭐대며 웃으며</li>
+    <li>circumstance_phrase->[EXECUTIONER_possessive]의 눈에 눈물을 글썽이며</li>
+    <li>circumstance_phrase->무심한 표정으로</li>
+    <li>circumstance_phrase->불필요한 고통을 가하며</li>
+    <li>circumstance_phrase->딴 생각을 하면서</li>
+    <li>circumstance_phrase->대의를 위해</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef]는 땀을 비오듯 흘리고 있습니다.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef]는 약간 침을 흘리고 있습니다.</li>
+    <li>desc_sentence->[EXECUTIONER_nameDef]는 [EXECUTIONER_possessive] 얼굴에 피가 묻어있습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 떨며 고통에 온몸을 비틀고 있습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 완전히 포기한 것 같습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 [PRISONER_possessive] 눈을 감은 채, 더 높은 권력자에게 기도하는 것 같습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 반항적으로 보입니다.</li>
+  </ExecutedPrisoner.rulePack.rulesStrings>
+  
+  <Hunted.label>동물 사냥</Hunted.label>
+  <Hunted.rulePack.rulesStrings>
+    <li>tale_noun->[HUNTER_nameDef]가 [PREY_nameDef]를 사냥함</li>
+    <li>tale_noun->[PREY_nameDef]는 [HUNTER_nameDef]에게 사냥당함</li>
+    <li>tale_noun->[HUNTER_nameDef]의 성공적인 사냥</li>
+    <li>image->[PREY_nameFull]는 [circumstance_group] [HUNTER_nameFull]에게 사냥당함</li>
+    <li>image->[HUNTER_nameFull]는 먼곳에서 [circumstance_group] [PREY_nameFull]를 뒤쫓음</li>
+    <li>image->[HUNTER_nameFull]는 [circumstance_group] [PREY_nameFull]를 사냥함</li>
+    <li>circumstance_phrase->[PREY_nameDef]가 긴장을 풀 때</li>
+    <li>circumstance_phrase->[PREY_nameDef]가 이동할 때</li>
+    <li>circumstance_phrase->[PREY_nameDef]가 식사할 때</li>
+    <li>desc_sentence->[PREY_nameDef]는 완전히 의식하지 못하는 것같습니다.</li>
+    <li>desc_sentence->[HUNTER_nameDef]는 [HUNTER_possessive] 무기를 꽉 쥐고 있습니다.</li>
+    <li>desc_sentence->[PREY_nameDef]는 마치 [PREY_pronoun]가 뭔가 잘못 됐다는 것을 감지한 듯 주위를 두리번 거립니다.</li>
+  </Hunted.rulePack.rulesStrings>
+  
+  <KidnappedColonist.label>납치된 정착민</KidnappedColonist.label>
+  <KidnappedColonist.rulePack.rulesStrings>
+    <li>tale_noun->[KIDNAPPER_nameDef]가 [VICTIM_nameDef]를 납치함</li>
+    <li>tale_noun->[VICTIM_nameDef]는 [KIDNAPPER_nameDef]에게 납치됨</li>
+    <li>tale_noun->[VICTIM_nameDef]의 납치</li>
+    <li>image->[KIDNAPPER_nameFull]는 [circumstance_group] [VICTIM_nameFull]를 [KIDNAPPER_factionName]로 운반함</li>
+    <li>image->[KIDNAPPER_factionName]의 [KIDNAPPER_nameFull]는 [circumstance_group] [VICTIM_nameFull]를 납치함</li>
+    <li>image->[KIDNAPPER_nameFull]는 [circumstance_group] [VICTIM_nameFull]를 납치함</li>
+    <li>circumstance_phrase->고통에 몸부림치는</li>
+    <li>circumstance_phrase->효율적인 전문성으로</li>
+    <li>circumstance_phrase->대충 어림짐작으로</li>
+    <li>circumstance_phrase->명백하게 과도한 힘으로</li>
+    <li>circumstance_phrase->쾌락으로</li>
+    <li>circumstance_phrase->우쭐대며 웃으며</li>
+    <li>circumstance_phrase->피와 오물로 범벅이 된</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 완전히 포기한 것 같습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 [VICTIM_possessive] 눈을 감은 채, 더 높은 권력자에게 기도하는 것 같습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 반항적으로 보입니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 분노와 공포로 비명을 지르고 있습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 망가지고 지친것 같습니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]는 중상을 입은 것 같습니다.</li>
+  </KidnappedColonist.rulePack.rulesStrings>
+  
+  <KilledBy.label>죽음</KilledBy.label>
+  <KilledBy.rulePack.rulesStrings>
+    <li>tale_noun->[KILLER_nameDef]가 [VICTIM_nameDef]를 죽임</li>
+    <li>tale_noun->[VICTIM_nameDef]가 [KILLER_nameDef]에게 죽임을 당함</li>
+    <li>tale_noun->[KILLER_nameDef]에 의한 [VICTIM_nameDef]의 죽음</li>
+    <li>tale_noun->[VICTIM_nameDef]의 죽음</li>
+    <li>image->[VICTIM_nameFull]는 [KILLER_nameFull]에 의해 [circumstance_group] 죽임을 당함</li>
+    <li>image->[KILLER_nameFull]는 [circumstance_group] [VICTIM_nameFull]를 죽임</li>
+    <li>image->[KILLER_nameFull]는 [circumstance_group] [VICTIM_nameFull]의 삶을 끝냄</li>
+    <li>image->[KILLER_nameFull]는 [circumstance_group] [VICTIM_nameFull]를 잔인하게 살해함</li>
+    <li>image->[VICTIM_nameFull]는 [circumstance_group] 살해됨</li>
+    <li>circumstance_phrase->겉보기에 양심의 가책 없이</li>
+    <li>circumstance_phrase->시리도록 효율적으로</li>
+    <li>circumstance_phrase->격노하여</li>
+    <li>circumstance_phrase->빠르고 효율적인 동작으로</li>
+    <li>circumstance_phrase->감정도 표현도 없이</li>
+    <li>circumstance_phrase->어쩔 수 없이</li>
+    <li>circumstance_phrase->비겁하고 어정쩡한 태도로</li>
+    <li>desc_sentence->그 사건의 상징적인 메아리 속에서 태양은 그들의 뒤로 지고있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 바라봅니다.</li>
+    <li>desc_sentence->[PersonJob]는 묵묵히 [side_position]를 바라봅니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 몸 주변에 피가 웅덩이를 이룹니다.</li>
+    <li>desc_sentence->[VICTIM_nameDef]의 눈은 현실적으로 생기가 없습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_possessive] 이를 드러내고 있습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 [KILLER_pronoun]이 행하는 일에 대해 괴로워보입니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 그 상황에 만족한 것 같습니다.</li>
+    <li>desc_sentence->[KILLER_nameDef]는 득의양양해 보입니다.</li>
+  </KilledBy.rulePack.rulesStrings>
+  
+  <KilledColonist.label>정착민 죽음</KilledColonist.label>
+  
+  <KilledColonyAnimal.label>정착지 동물 죽음</KilledColonyAnimal.label>
+  
+  <Recruited.label>사람 포섭</Recruited.label>
+  <Recruited.rulePack.rulesStrings>
+    <li>tale_noun->[RECRUITER_nameDef]가 [JOINER_nameDef]를 포섭함</li>
+    <li>tale_noun->[JOINER_nameDef]는 [RECRUITER_nameDef]에 의해 포섭됨</li>
+    <li>tale_noun->[JOINER_nameDef]의 포섭</li>
+    <li>image->[RECRUITER_nameFull]는 [circumstance_group] [JOINER_nameFull]를 포섭함</li>
+    <li>image->[RECRUITER_nameFull]는 [JOINER_pronoun]를 정착민으로서 [circumstance_group] [JOINER_nameFull]를 환영함</li>
+    <li>image->[RECRUITER_nameFull]는 [circumstance_group] [JOINER_nameFull]에게 설득력 있게 말함</li>
+    <li>circumstance_phrase->분명한 호의로</li>
+    <li>circumstance_phrase->힘찬 악수를 하며</li>
+    <li>circumstance_phrase->빙그레 웃으며</li>
+    <li>circumstance_phrase->정착지 앞에서</li>
+    <li>circumstance_phrase->감옥에서</li>
+    <li>desc_sentence->[JOINER_nameDef]는 이해하며 고개를 끄덕이고 있습니다.</li>
+    <li>desc_sentence->[JOINER_nameDef]가 웃으며 눈을 마주하고 있습니다.</li>
+    <li>desc_sentence->[JOINER_nameDef]는 안도하는 표정입니다.</li>
+    <li>desc_sentence->[JOINER_nameDef]는 희망에 찬 표정입니다.</li>
+  </Recruited.rulePack.rulesStrings>
+  
+  <SoldPrisoner.label>죄수 판매</SoldPrisoner.label>
+  <SoldPrisoner.rulePack.rulesStrings>
+    <li>tale_noun->[PRISONER_nameDef]가 상인에게 판매됨</li>
+    <li>tale_noun->[SELLER_nameDef]가 [PRISONER_nameDef]를 노예로서 판매함</li>
+    <li>tale_noun->[PRISONER_nameDef]가 [SELLER_nameDef]에 의해 노예로서 판매됨</li>
+    <li>image->[circumstance_group] [TRADER_nameFull]는 [SELLER_nameFull]에게서 [PRISONER_nameFull]를 구매함</li>
+    <li>image->[circumstance_group] [SELLER_nameFull]는 [PRISONER_nameFull]를 [TRADER_nameFull]에게 판매함</li>
+    <li>circumstance_phrase->다른 정착민들은 탐탁치 않아보이지만</li>
+    <li>circumstance_phrase->[SELLER_nameDef]가 [TRADER_possessive] 돈을 계산하는 동안</li>
+    <li>circumstance_phrase->[PRISONER_nameDef]가 애처롭게 신음하는 동안</li>
+    <li>circumstance_phrase->[PRISONER_nameDef]가 원통하게도</li>
+    <li>desc_sentence->[TRADER_nameDef]는 악마처럼 미소짓고 있습니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]는 미친듯이 웃고 있습니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]는 마지못해 [PRISONER_nameDef]를 상인에게 넘깁니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 [PRISONER_possessive] 새 주인을 도전적으로 노려봅니다.</li>
+    <li>desc_sentence->[TRADER_nameDef]는 [PRISONER_possessive] 쇠사슬로 [PRISONER_nameDef]를 끌고갑니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 [SELLER_nameDef]를 노려보며, [PRISONER_possessive] 복수를 다짐합니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 울음을 터트립니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 [SELLER_nameDef]의 얼굴에 침을 뱉고 있습니다.</li>
+    <li>desc_sentence->[PRISONER_nameDef]는 땅속에 드러눕고 있습니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]는 [PRISONER_nameDef]의 쇠사슬을 [TRADER_nameDef]의 손에 들이밀고 있습니다.</li>
+    <li>desc_sentence->절망적인 분위기가 그 상황을 휘감고 있습니다.</li>
+  </SoldPrisoner.rulePack.rulesStrings>
+  
+  <TamedAnimal.label>동물 조련</TamedAnimal.label>
+  <TamedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TAMER_nameDef]에 의해 [ANIMAL_nameDef] 길들임</li>
+    <li>tale_noun->[TAMER_nameDef]의 [ANIMAL_nameDef] 길들임</li>
+    <li>image->[TAMER_nameFull]가 [circumstance_group] [ANIMAL_nameFull] 길들임</li>
+    <li>image->[TAMER_nameFull]가 [circumstance_group] [ANIMAL_nameFull]에게 적은 양의 음식을 제공함</li>
+    <li>image->[TAMER_nameFull]가 [circumstance_group] 겁이 많은 [ANIMAL_label]에게 속삭임</li>
+    <li>image->[TAMER_nameFull]가 [circumstance_group] 야생의 [ANIMAL_label]를 진정시킴</li>
+    <li>circumstance_phrase->매우 관심을 가지고 조심해서</li>
+    <li>circumstance_phrase->미소와 함께</li>
+    <li>circumstance_phrase->기진맥진하지만 행복하게</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 공격적으로 으르렁거리고 있습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 사랑에 취해서 졸린 것 같습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 최면상태에 빠진 것 같습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 무섭지만 흥미로워 보입니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 매혹된 것 같습니다.</li>
+    <li>desc_sentence->[TAMER_nameDef]는 [ANIMAL_nameDef]에 강력한 사랑의 감정을 투영하고 있습니다.</li>
+  </TamedAnimal.rulePack.rulesStrings>
+  
+  <TradedWith.label>누군가와 거래</TradedWith.label>
+  <TradedWith.rulePack.rulesStrings>
+    <li>tale_noun->[SELLER_nameFull]과 [BUYER_nameFull] 사이의 거래</li>
+    <li>image->[BUYER_nameFull]는 [circumstance_group] [SELLER_nameFull]로부터 상품을 구매함</li>
+    <li>image->[SELLER_nameFull]는 [circumstance_group] [BUYER_nameFull]에게 상품을 판매함</li>
+    <li>circumstance_phrase->탐욕스럽게</li>
+    <li>circumstance_phrase->[SELLER_nameDef]가 [BUYER_shortNameDef]를 비웃는 동안</li>
+    <li>desc_sentence->[BUYER_nameDef]가 [SELLER_nameDef]의 제품을 검사하고 있습니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]가 아이템을 고려하고 있습니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]가 흥정을 시작합니다.</li>
+    <li>desc_sentence->[BUYER_nameDef]가 [SELLER_nameDef]와 논쟁합니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]와 [BUYER_nameDef]는 가격에 대해 합의했습니다.</li>
+    <li>desc_sentence->[BUYER_nameDef]가 물건값을 치릅니다.</li>
+    <li>desc_sentence->[SELLER_nameDef]이 [SELLER_possessive] 돈을 세고 있습니다.</li>
+    <li>desc_sentence->[BUYER_nameDef]이 [BUYER_possessive] 상품을 가져갑니다.</li>
+  </TradedWith.rulePack.rulesStrings>
+  
+  <TrainedAnimal.label>동물 훈련</TrainedAnimal.label>
+  <TrainedAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[TRAINER_nameDef]가 [ANIMAL_nameDef]를 훈련함</li>
+    <li>tale_noun->[ANIMAL_nameDef]의 훈련</li>
+    <li>tale_noun->[TRAINER_nameDef]에 의한 [ANIMAL_nameDef] 훈련</li>
+    <li>image->[TRAINABLE_label]에서 [circumstance_group] [TRAINER_nameFull]는 [ANIMAL_nameFull] [train_syn]</li>
+    <li>image->[circumstance_group] [TRAINER_nameFull]는 [ANIMAL_nameFull]에게 [TRAINABLE_label]를 가르침 [circumstance_group]</li>
+    <li>image->[circumstance_group] [TRAINER_nameFull]는 [ANIMAL_nameFull]과 함께 [TRAINABLE_label]를 훈련함</li>
+    <li>train_syn->훈련함</li>
+    <li>train_syn->교련함</li>
+    <li>train_syn->지도함</li>
+    <li>train_syn->주입함</li>
+    <li>train_syn->학습함</li>
+    <li>circumstance_phrase->남들이 보기에</li>
+    <li>circumstance_phrase->혐오감에 사로잡힌 야생 [Animal]들의 눈빛으로</li>
+    <li>circumstance_phrase->[ANIMAL_nameDef]이 [ANIMAL_pronoun]가 야생동물이었던 더 단순했던 시절을 생각하며</li>
+    <li>circumstance_phrase->[TRAINER_nameDef]가 점심이 뭔지 생각하며</li>
+    <li>circumstance_phrase->다른 정착민들이 실제 일을 하듯이</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 기쁨을 보입니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 미소짓고 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 지루해 보입니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 [TRAINER_possessive] 주먹을 위협적으로 휘두르고 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 집중하여 [TRAINER_possessive] 눈썹을 찡그립니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 의아해 보입니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 [ANIMAL_possessive] 입속에 무기를 갖고 있습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 힘겹내 앓는 소리를 내고 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 [TRAINER_possessive] 머리를 흔들며 좌절합니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 두려움에 떨고 있습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 [Vegetable]로 변하는 것 같습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 전기 기구 더미를 대변합니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 반은 [Color], 반은 [Color] 입니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]는 비늘로 완전히 덮여있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 [Quantity_adjphrase] 팔로 묘사하고 있습니다.</li>
+    <li>desc_sentence->[TRAINER_nameDef]는 [ANIMAL_definite]로 전환중입니다.</li>
+  </TrainedAnimal.rulePack.rulesStrings>
+</LanguageData>
