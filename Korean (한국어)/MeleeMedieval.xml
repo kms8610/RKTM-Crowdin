@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeWeapon_Axe.label>도끼</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.description>인류의 가장 오래된 무기 중 하나인 전투도끼는 손자루에 부착된 짧은 날붙이 입니다. 단순하고 고대적인 이 디자인은 강력한 오버 핸드 스윙에서 발생하는 팔의 힘에 절삭력이 집중됩니다.</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.tools.handle.label>손잡이</MeleeWeapon_Axe.tools.handle.label>
+  <MeleeWeapon_Axe.tools.edge.label>날</MeleeWeapon_Axe.tools.edge.label>
+  
+  <MeleeWeapon_Warhammer.label>전투망치</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.description>잔악무도한 망치가 달린 긴 막대깁니다. 강력한 충격은 갑옷을 통해 적의 내부를 파괴할 것입니다.</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.tools.handle.label>손잡이</MeleeWeapon_Warhammer.tools.handle.label>
+  <MeleeWeapon_Warhammer.tools.head.label>머리</MeleeWeapon_Warhammer.tools.head.label>
+</LanguageData>
