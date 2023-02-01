@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BionicArm.label>bionic arm</BionicArm.label>
-  <BionicArm.description>An installed bionic arm.</BionicArm.description>
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>fist</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
   
-  <BionicEar.label>bionic ear</BionicEar.label>
-  <BionicEar.description>An installed bionic ear.</BionicEar.description>
-  <BionicEar.labelNoun>a bionic ear</BionicEar.labelNoun>
+  <InstallBionicEar.label>install bionic ear</InstallBionicEar.label>
+  <InstallBionicEar.description>Install a bionic ear.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>Installing bionic ear.</InstallBionicEar.jobString>
   
-  <BionicEye.label>bionic eye</BionicEye.label>
-  <BionicEye.description>An installed bionic eye.</BionicEye.description>
-  <BionicEye.labelNoun>a bionic eye</BionicEye.labelNoun>
+  <InstallBionicEye.label>install bionic eye</InstallBionicEye.label>
+  <InstallBionicEye.description>Install a bionic eye.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>Installing bionic eye.</InstallBionicEye.jobString>
   
-  <BionicHeart.label>bionic heart</BionicHeart.label>
-  <BionicHeart.description>An installed bionic heart.</BionicHeart.description>
-  <BionicHeart.labelNoun>a bionic heart</BionicHeart.labelNoun>
+  <InstallBionicHeart.label>install bionic heart</InstallBionicHeart.label>
+  <InstallBionicHeart.description>Install a bionic heart.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>Installing bionic heart.</InstallBionicHeart.jobString>
   
-  <BionicLeg.label>bionic leg</BionicLeg.label>
-  <BionicLeg.description>An installed bionic leg.</BionicLeg.description>
-  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
   
-  <BionicSpine.label>bionic spine</BionicSpine.label>
-  <BionicSpine.description>An installed bionic spine.</BionicSpine.description>
-  <BionicSpine.labelNoun>a bionic spine</BionicSpine.labelNoun>
+  <InstallBionicSpine.label>install bionic spine</InstallBionicSpine.label>
+  <InstallBionicSpine.description>Install a bionic spine.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>Installing bionic spine.</InstallBionicSpine.jobString>
   
-  <BionicStomach.label>bionic stomach</BionicStomach.label>
-  <BionicStomach.description>An installed bionic stomach.</BionicStomach.description>
-  <BionicStomach.labelNoun>a bionic stomach</BionicStomach.labelNoun>
+  <InstallBionicStomach.label>install bionic stomach</InstallBionicStomach.label>
+  <InstallBionicStomach.description>Install a bionic stomach.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>Installing bionic stomach.</InstallBionicStomach.jobString>
   
-  <BionicTongue.label>bionic tongue</BionicTongue.label>
-  <BionicTongue.description>An installed bionic tongue.</BionicTongue.description>
-  <BionicTongue.labelNoun>a bionic tongue</BionicTongue.labelNoun>
+  <InstallBionicTongue.label>install bionic tongue</InstallBionicTongue.label>
+  <InstallBionicTongue.description>Install a bionic tongue.</InstallBionicTongue.description>
+  <InstallBionicTongue.jobString>Installing bionic tongue.</InstallBionicTongue.jobString>
   
-  <DeathAcidifier.label>death acidifier</DeathAcidifier.label>
-  <DeathAcidifier.description>An installed death acidifier.</DeathAcidifier.description>
-  <DeathAcidifier.labelNoun>a death acidifier</DeathAcidifier.labelNoun>
+  <InstallDeathAcidifier.label>install death acidifier</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.description>Install a death acidifier.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.jobString>Installing death acidifier.</InstallDeathAcidifier.jobString>
 </LanguageData>
