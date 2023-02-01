@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blindness.label>실명</Blindness.label>
+  <Blinding_Horrible.label>강력하게 혐오함</Blinding_Horrible.label>
+  <Blinding_Horrible.description>사상을 위해 맹인이 되는 것은 끔찍하다.</Blinding_Horrible.description>
+  <Blinding_Horrible.comps.0.description>누군가가 맹인이 됨</Blinding_Horrible.comps.0.description>
+  
+  <Blindness_Elevated.label>고상함</Blindness_Elevated.label>
+  <Blindness_Elevated.description>눈이 먼 것이 보이는 것보다 순수하다.</Blindness_Elevated.description>
+  <Blindness_Elevated.comps.8.eventLabel>blinded someone</Blindness_Elevated.comps.8.eventLabel>
+  
+  <Blindness_Respected.label>중시함</Blindness_Respected.label>
+  <Blindness_Respected.description>맹인이 되는 것은 존경스러운 행위이다.</Blindness_Respected.description>
+  <Blindness_Respected.comps.5.eventLabel>blinded someone</Blindness_Respected.comps.5.eventLabel>
+  
+  <Blindness_Sublime.label>숭고함</Blindness_Sublime.label>
+  <Blindness_Sublime.description>눈이 있으면 외견에 얽매이게 된다. 따라서 맹인만큼 숭고한 존재는 없다.</Blindness_Sublime.description>
+  <Blindness_Sublime.comps.8.eventLabel>blinded someone</Blindness_Sublime.comps.8.eventLabel>
 </LanguageData>
