@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Skullspike_Desired.label>갈망함</Skullspike_Desired.label>
-  <Skullspike_Desired.description>우리의 우월함을 나타내기 위해 두개골을 효수하라.</Skullspike_Desired.description>
-  <Skullspike_Desired.comps.0.description>효수대 목격</Skullspike_Desired.comps.0.description>
+  <Skullspike_Desired.stages.skullspikes-0.label>skullspikes</Skullspike_Desired.stages.skullspikes-0.label>
+  <Skullspike_Desired.stages.skullspikes-0.description>I've been around a few skullspikes recently. I like being reminded of our power.</Skullspike_Desired.stages.skullspikes-0.description>
+  <Skullspike_Desired.stages.skullspikes-1.label>skullspikes</Skullspike_Desired.stages.skullspikes-1.label>
+  <Skullspike_Desired.stages.skullspikes-1.description>I've been around quite a few skullspikes recently. All will fear us.</Skullspike_Desired.stages.skullspikes-1.description>
+  <Skullspike_Desired.stages.skullspikes-2.label>skullspikes</Skullspike_Desired.stages.skullspikes-2.label>
+  <Skullspike_Desired.stages.skullspikes-2.description>Surrounded by the dead grin of spiked skulls, nobody could doubt our power! </Skullspike_Desired.stages.skullspikes-2.description>
   
-  <Skullspike_Disapproved.label>약간 혐오함</Skullspike_Disapproved.label>
-  <Skullspike_Disapproved.description>두개골을 효수하는 행위는 야만적인 전통이다.</Skullspike_Disapproved.description>
-  <Skullspike_Disapproved.comps.0.description>효수대 목격</Skullspike_Disapproved.comps.0.description>
+  <Skullspike_Disapproved.stages.skullspikes-0.label>skullspikes</Skullspike_Disapproved.stages.skullspikes-0.label>
+  <Skullspike_Disapproved.stages.skullspikes-0.description>I've been around skulls on spikes. Just a few of them, but it's still disturbing.</Skullspike_Disapproved.stages.skullspikes-0.description>
+  <Skullspike_Disapproved.stages.skullspikes-1.label>skullspikes</Skullspike_Disapproved.stages.skullspikes-1.label>
+  <Skullspike_Disapproved.stages.skullspikes-1.description>There are quite a few skulls on spikes around here. It's rather disturbing.</Skullspike_Disapproved.stages.skullspikes-1.description>
+  <Skullspike_Disapproved.stages.skullspikes-2.label>skullspikes</Skullspike_Disapproved.stages.skullspikes-2.label>
+  <Skullspike_Disapproved.stages.skullspikes-2.description>Why am I surrounded by a forest of heads on spikes? This is horrific.</Skullspike_Disapproved.stages.skullspikes-2.description>
 </LanguageData>
