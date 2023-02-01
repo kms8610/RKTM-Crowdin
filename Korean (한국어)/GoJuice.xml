@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GoJuice.label>고주스</GoJuice.label>
+  <GoJuiceAddiction.label>고주스 중독</GoJuiceAddiction.label>
+  <GoJuiceAddiction.description>A chemical addiction to go-juice. Long-term presence of go-juice has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of go-juice, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.stages.withdrawal.label>금단현상</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <GoJuiceHigh.label>고주스에 취함</GoJuiceHigh.label>
+  <GoJuiceHigh.description>혈류속에 잔재하는 고주스 성분입니다. 전투 관련 능력을 강화합니다.</GoJuiceHigh.description>
+  <GoJuiceHigh.labelNoun>고주스에 취함</GoJuiceHigh.labelNoun>
+  
+  <GoJuiceTolerance.label>고주스 내성</GoJuiceTolerance.label>
+  <GoJuiceTolerance.description>고주스에 대한 내성입니다. 이 수치가 심할수록 동일한 효과를 얻는데 더 많은 고주스가 필요합니다.</GoJuiceTolerance.description>
+  <GoJuiceTolerance.stages.small.label>작음</GoJuiceTolerance.stages.small.label>
+  <GoJuiceTolerance.stages.large.label>큼</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.massive.label>심각함</GoJuiceTolerance.stages.massive.label>
 </LanguageData>
