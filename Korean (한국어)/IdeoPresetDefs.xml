@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Classic.label>클래식</Classic.label>
+  <Classic.description>Classic RimWorld without the ideoligion system. Good for your first few games, or when you're not trying to do something specific. All Ideology expansion content remains active.</Classic.description>
+  <Classic.groupLabel>클래식</Classic.groupLabel>
+  
+  <Custom.label>주문제작</Custom.label>
+  <Custom.description>새로운 사상을 생성하고, 모든 항목을 직접 설정합니다.</Custom.description>
+  <Custom.groupLabel>사용자 설정</Custom.groupLabel>
+  
+  <Fluid.label>유동적 사상</Fluid.label>
+  <Fluid.description>단순한 사상으로 시작해서 점차 발달해나갑니다.</Fluid.description>
+  <Fluid.groupLabel>유동적 사상</Fluid.groupLabel>
+  
+  <Intense.label>강렬한</Intense.label>
+  <Intense.description>게임 플레이가 클래식 림월드와 매우 달라지도록 하는, 극히 변형된 사상입니다. 난이도가 크게 올라갑니다.</Intense.description>
+  <Intense.groupLabel>Preset ideoligions</Intense.groupLabel>
+  
+  <Mild.label>가벼움</Mild.label>
+  <Mild.description>클래식 게임 플레이에 작은 변화를 줍니다.</Mild.description>
+  <Mild.groupLabel>Preset ideoligions</Mild.groupLabel>
+  
+  <Strong.label>강한</Strong.label>
+  <Strong.description>클래식 림월드와 크게 다른 플레이 스타일을 지원하는 뚜렷한 사상입니다.</Strong.description>
+  <Strong.groupLabel>Preset ideoligions</Strong.groupLabel>
+</LanguageData>
