@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChoppedStump_Anima.label>chopped anima stump</ChoppedStump_Anima.label>
+  <ChoppedStump_Anima.description>A stump left behind after an anima tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Anima.description>
+  
+  <Plant_GrassAnima.label>영혼잔디</Plant_GrassAnima.label>
+  <Plant_GrassAnima.description>발광미생물이 가득한 풀입니다. 부족민들이 명상할 때 영혼나무 밑에서 잔디가 자라는 것을 발견했습니다. 이는 나무의 정신 능력을 강화시키는 것으로 보입니다.\n\n외부계의 과학자들이 이 현상을 연구하려고 노력했지만, 너무 가까이서 관찰하게 되면 변질하여 일반 식물이 됩니다.\n\n동물들은 이 영혼잔디를 섭취하길 거부하는데, 부족민의 설에 따르면 존경과 두려움으로 이루어졌다고 합니다.</Plant_GrassAnima.description>
+  
+  <Plant_TreeAnima.label>영혼나무</Plant_TreeAnima.label>
+  <Plant_TreeAnima.description>따듯하고 매끄러운 껍질과 긴 무지갯빛의 잎이 있는 나무입니다. 발광미생물이 있는 있는 영혼나무는 주변의 생물체와 독특한 형태의 정신적 공생을 형성하여 다양한 생물군계에서 자랄 수 있습니다.\n\n초능력자든 아니든 영혼나무 주변에서 명상을 하게 되면, 주위에 영혼잔디가 자랍니다. 풀이 충분히 자란다면 나무와 정신연결 의식을 수행하여 초능력을 향상시킬 수 있지만, 오직 부족민만 이 의식의 비밀을 알고 있습니다. 부족민 시전자들 또한 명상하는 동안 영혼나무에서 초집중을 끌어낼 수 있습니다.\n\n인공 구조물이 근처에 배치가 된다면 영혼나무의 정신속성이 약화됩니다. 이러한 종들은 갇히거나, 관찰되는 것을 거부하며, 오직 자연 상태로만 존재하길 원합니다.\n\n대부분의 부족민들이 영혼나무는 단순한 나무가 아니라 단일세계 정신의 육체적 극치라고 믿고 있습니다.</Plant_TreeAnima.description>
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>영혼나무 연결에 대하여</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>영혼나무 주변에 {0} 영혼잔디가 있습니다. 부족민들이 첫 의식을 시작하기에 충분한 양입니다!\n\n연결 의식은 추가적인 정신력 증폭 단계와 초집중 능력을 줍니다. 상위 정신력 증폭 단계를 얻기 위해서는 20 영혼잔디가 필요합니다.\n\n추가적인 초집중 능력을 얻기 위한 연결 의식에는 {1} 영혼잔디가 필요합니다.\n\n자연 집중 유형을 가진 정착민만이 영혼나무와 연결할 수 있습니다. 정보 창을 통해 정착민의 집중 유형을 확인할 수 있습니다.</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>
+  <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>The anima tree has died and emitted a disturbing psychic scream.</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <SmashedStump_Anima.label>smashed anima stump</SmashedStump_Anima.label>
+  <SmashedStump_Anima.description>The remnants of an anima tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Anima.description>
+</LanguageData>
