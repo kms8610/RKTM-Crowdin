@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Execution.label>execution</Execution.label>
+  <ExecutedColonist.label>executed colonist</ExecutedColonist.label>
+  
+  <ExecutedGuest.label>executed guest</ExecutedGuest.label>
+  
+  <ExecutedPrisoner.label>executed prisoner</ExecutedPrisoner.label>
+  
+  <ExecutedPrisonerGuilty.label>executed guilty prisoner</ExecutedPrisonerGuilty.label>
+  
+  <ExecutedPrisonerInnocent.label>executed innocent prisoner</ExecutedPrisonerInnocent.label>
 </LanguageData>
