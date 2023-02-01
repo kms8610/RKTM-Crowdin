@@ -1,54 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbsorbXenogerm.reportString>absorbing xenogerm from TargetA.</AbsorbXenogerm.reportString>
+  <ActivateThing.reportString>TargetA 활성 중.</ActivateThing.reportString>
   
-  <CarryGenepackToContainer.reportString>hauling TargetA to TargetB.</CarryGenepackToContainer.reportString>
+  <ApplyTechprint.reportString>TargetB 사용중</ApplyTechprint.reportString>
   
-  <CarryToBuilding.reportString>carrying TargetB to TargetA.</CarryToBuilding.reportString>
+  <AttackMelee.reportString>TargetA 공격 중.</AttackMelee.reportString>
   
-  <CastAbilityGoToThing.reportString>하는 중.</CastAbilityGoToThing.reportString>
+  <AttackStatic.reportString>TargetA에 사격 중.</AttackStatic.reportString>
   
-  <CastAbilityOnThingWithoutWeapon.reportString>하는 중.</CastAbilityOnThingWithoutWeapon.reportString>
+  <BeatFire.reportString>화재 진압 중.</BeatFire.reportString>
   
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>하는 중.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <Carried.reportString>하는 중.</Carried.reportString>
   
-  <ClearPollution.reportString>cleaning pollution.</ClearPollution.reportString>
+  <CastAbilityOnThing.reportString>하는 중.</CastAbilityOnThing.reportString>
   
-  <ControlMech.reportString>taking control of TargetA.</ControlMech.reportString>
+  <CastAbilityOnThingMelee.reportString>하는 중.</CastAbilityOnThingMelee.reportString>
   
-  <CreateXenogerm.reportString>creating xenogerm.</CreateXenogerm.reportString>
+  <CastAbilityOnThingUninterruptible.reportString>하는 중.</CastAbilityOnThingUninterruptible.reportString>
   
-  <Deathrest.reportString>deathresting.</Deathrest.reportString>
+  <CastAbilityOnWorldTile.reportString>하는 중.</CastAbilityOnWorldTile.reportString>
   
-  <DisassembleMech.reportString>disassembling TargetA.</DisassembleMech.reportString>
+  <CastAbilityTouch.reportString>하는 중.</CastAbilityTouch.reportString>
   
-  <EnterBuilding.reportString>TargetA에 들어가는 중.</EnterBuilding.reportString>
+  <CastJump.reportString>하는 중.</CastJump.reportString>
   
-  <GetReimplanted.reportString>absorbing xenogerm from TargetA.</GetReimplanted.reportString>
+  <ClearSnow.reportString>눈 치우는 중.</ClearSnow.reportString>
   
-  <HaulMechToCharger.reportString>hauling TargetA to charger.</HaulMechToCharger.reportString>
+  <DeliverToBed.reportString>TargetA 놓는 중</DeliverToBed.reportString>
   
-  <InstallMechlink.reportString>TargetA 설치중</InstallMechlink.reportString>
+  <DeliverToCell.reportString>TargetA 놓는 중</DeliverToCell.reportString>
   
-  <MechCharge.reportString>충전 중.</MechCharge.reportString>
+  <DropEquipment.reportString>TargetA 놓는 중.</DropEquipment.reportString>
   
-  <PrisonerBloodfeed.reportString>feeding on TargetA.</PrisonerBloodfeed.reportString>
+  <EmptyThingContainer.reportString>TargetA 비우는 중.</EmptyThingContainer.reportString>
   
-  <ReadDatacore.reportString>decrypting TargetA.</ReadDatacore.reportString>
+  <EnterCryptosleepCasket.reportString>동면장치로 이동 중.</EnterCryptosleepCasket.reportString>
   
-  <ReleaseMechs.reportString>releasing mechanoids.</ReleaseMechs.reportString>
+  <EnterTransporter.reportString>TargetA에 들어가는 중.</EnterTransporter.reportString>
   
-  <RemoveMechlink.reportString>하는 중.</RemoveMechlink.reportString>
+  <Equip.reportString>TargetA 장착 중.</Equip.reportString>
   
-  <RepairMech.reportString>TargetA 수리 중.</RepairMech.reportString>
+  <ExtinguishSelf.reportString>자신에게 붙은 불을 끄는 중.</ExtinguishSelf.reportString>
   
-  <RepairMechRemote.reportString>TargetA 수리 중.</RepairMechRemote.reportString>
+  <FillFermentingBarrel.reportString>TargetA 채우는 중.</FillFermentingBarrel.reportString>
   
-  <SelfShutdown.reportString>dormant self-charging.</SelfShutdown.reportString>
+  <Flee.reportString>도망치는 중.</Flee.reportString>
   
-  <ShieldMech.reportString>shielding TargetA.</ShieldMech.reportString>
+  <FleeAndCower.reportString>도망치는 중.</FleeAndCower.reportString>
   
-  <TryRomance.reportString>romancing TargetA.</TryRomance.reportString>
+  <Flick.reportString>전원 설정 중.</Flick.reportString>
   
-  <Wait_WithSleeping.reportString>대기 중.</Wait_WithSleeping.reportString>
+  <Follow.reportString>TargetA 따르는 중.</Follow.reportString>
+  
+  <FollowClose.reportString>TargetA 따르는 중.</FollowClose.reportString>
+  
+  <FollowRoper.reportString>TargetA 따르는 중.</FollowRoper.reportString>
+  
+  <GiveToPackAnimal.reportString>TargetA(와)과 대화 중.</GiveToPackAnimal.reportString>
+  
+  <Goto.reportString>이동 중.</Goto.reportString>
+  
+  <GotoMindControlled.reportString>이동 중.</GotoMindControlled.reportString>
+  
+  <GotoSafeTemperature.reportString>안전한 온도를 찾는 중.</GotoSafeTemperature.reportString>
+  
+  <GotoWander.reportString>떠도는 중.</GotoWander.reportString>
+  
+  <HaulCorpseToPublicPlace.reportString>TargetA 운반 중.</HaulCorpseToPublicPlace.reportString>
+  
+  <HaulToTransporter.reportString>TargetA 운반 중.</HaulToTransporter.reportString>
+  
+  <IdleWhileDespawned.reportString>idling.</IdleWhileDespawned.reportString>
+  
+  <Ignite.reportString>TargetA에 방화 중.</Ignite.reportString>
+  
+  <InducePrisonerToEscape.reportString>TargetA의 탈옥을 부추기는 중.</InducePrisonerToEscape.reportString>
+  
+  <Ingest.reportString>TargetA 섭취 중.</Ingest.reportString>
+  
+  <Insult.reportString>TargetA 모욕 중.</Insult.reportString>
+  
+  <LayDown.reportString>내려놓는 중.</LayDown.reportString>
+  
+  <LayDownAwake.reportString>내려놓는 중.</LayDownAwake.reportString>
+  
+  <LayDownResting.reportString>내려놓는 중.</LayDownResting.reportString>
+  
+  <Lovin.reportString>사랑하는 중.</Lovin.reportString>
+  
+  <ManTurret.reportString>포탑 조작 중.</ManTurret.reportString>
+  
+  <OfferHelp.reportString>TargetA(을)를 돕는 중.</OfferHelp.reportString>
+  
+  <Open.reportString>TargetA 여는 중</Open.reportString>
+  
+  <PickupToHold.reportString>picking up TargetA.</PickupToHold.reportString>
+  
+  <RearmTurret.reportString>TargetA 재장전</RearmTurret.reportString>
+  
+  <RearmTurretAtomic.reportString>TargetA 재장전</RearmTurretAtomic.reportString>
+  
+  <Refuel.reportString>TargetA 연료 채우는 중.</Refuel.reportString>
+  
+  <RefuelAtomic.reportString>TargetA 연료 채우는 중.</RefuelAtomic.reportString>
+  
+  <Reload.reportString>TargetA 장전 중</Reload.reportString>
+  
+  <RemoveApparel.reportString>TargetA 제거 중.</RemoveApparel.reportString>
+  
+  <Resurrect.reportString>TargetA 부활 중.</Resurrect.reportString>
+  
+  <SocialFight.reportString>TargetA(와)과 싸우는 중.</SocialFight.reportString>
+  
+  <Strip.reportString>TargetA 벗기는 중.</Strip.reportString>
+  
+  <TakeBeerOutOfFermentingBarrel.reportString>TargetA에서 맥주 꺼내는 중.</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <TakeCountToInventory.reportString>TargetA 소지품에 넣는 중</TakeCountToInventory.reportString>
+  
+  <TakeFromOtherInventory.reportString>grabbing TargetA from TargetB.</TakeFromOtherInventory.reportString>
+  
+  <TakeInventory.reportString>TargetA 소지품에 넣는 중</TakeInventory.reportString>
+  
+  <TradeWithPawn.reportString>TargetA(와)과 거래 중.</TradeWithPawn.reportString>
+  
+  <TriggerObject.reportString>triggering TargetA.</TriggerObject.reportString>
+  
+  <UnloadInventory.reportString>TargetA 비우는 중.</UnloadInventory.reportString>
+  
+  <UnloadYourInventory.reportString>소지품 비우는 중.</UnloadYourInventory.reportString>
+  
+  <UseArtifact.reportString>유물 활성화 중.</UseArtifact.reportString>
+  
+  <UseItem.reportString>TargetA 사용 중.</UseItem.reportString>
+  
+  <UseNeurotrainer.reportString>신경교육장치 사용 중.</UseNeurotrainer.reportString>
+  
+  <UseVerbOnThing.reportString>하는 중.</UseVerbOnThing.reportString>
+  
+  <UseVerbOnThingStatic.reportString>하는 중.</UseVerbOnThingStatic.reportString>
+  
+  <Vomit.reportString>토하는 중.</Vomit.reportString>
+  
+  <Wait.reportString>대기 중.</Wait.reportString>
+  
+  <Wait_Asleep.reportString>수면 중.</Wait_Asleep.reportString>
+  
+  <Wait_Combat.reportString>적을 찾는 중.</Wait_Combat.reportString>
+  
+  <Wait_Downed.reportString>쓰러짐.</Wait_Downed.reportString>
+  
+  <Wait_MaintainPosture.reportString>대기 중.</Wait_MaintainPosture.reportString>
+  
+  <Wait_SafeTemperature.reportString>안전한 온도에서 대기 중.</Wait_SafeTemperature.reportString>
+  
+  <Wait_Wander.reportString>떠도는 중.</Wait_Wander.reportString>
+  
+  <Wear.reportString>TargetA 착용 중.</Wear.reportString>
 </LanguageData>
