@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PsychicHarmonizer.label>초능력 조화기</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>초능력 조화기가 설치되었습니다.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.labelNoun>초능력 조화기</PsychicHarmonizer.labelNoun>
+  
+  <PsychicReader.label>초능력 판독기</PsychicReader.label>
+  <PsychicReader.description>초능력 판독기가 설치되었습니다.</PsychicReader.description>
+  <PsychicReader.labelNoun>초능력 판독기</PsychicReader.labelNoun>
+  
+  <PsychicSensitizer.label>초능력 증진기</PsychicSensitizer.label>
+  <PsychicSensitizer.description>초능력 증진기가 설치되었습니다.</PsychicSensitizer.description>
+  <PsychicSensitizer.labelNoun>초능력 증진기</PsychicSensitizer.labelNoun>
+</LanguageData>
