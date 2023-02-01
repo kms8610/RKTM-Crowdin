@@ -1,70 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AestheticNose.label>aesthetic nose</AestheticNose.label>
-  <AestheticNose.description>An installed aesthetic nose.</AestheticNose.description>
-  <AestheticNose.labelNoun>an aesthetic nose</AestheticNose.labelNoun>
+  <InstallAestheticNose.label>install aesthetic nose</InstallAestheticNose.label>
+  <InstallAestheticNose.description>Install an aesthetic nose.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>Installing aesthetic nose.</InstallAestheticNose.jobString>
   
-  <AestheticShaper.label>aesthetic shaper</AestheticShaper.label>
-  <AestheticShaper.description>An installed aesthetic shaper.</AestheticShaper.description>
-  <AestheticShaper.labelNoun>an aesthetic shaper</AestheticShaper.labelNoun>
+  <InstallAestheticShaper.label>install aesthetic shaper</InstallAestheticShaper.label>
+  <InstallAestheticShaper.description>Install an aesthetic shaper.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>Installing aesthetic shaper.</InstallAestheticShaper.jobString>
   
-  <ArmorskinGland.label>armorskin gland</ArmorskinGland.label>
-  <ArmorskinGland.description>An installed armorskin gland.</ArmorskinGland.description>
-  <ArmorskinGland.labelNoun>a armorskin gland</ArmorskinGland.labelNoun>
+  <InstallArmorskinGland.label>install armorskin gland</InstallArmorskinGland.label>
+  <InstallArmorskinGland.description>Install an armorskin gland.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.jobString>Installing armorskin gland.</InstallArmorskinGland.jobString>
   
-  <CircadianAssistant.label>circadian assistant</CircadianAssistant.label>
-  <CircadianAssistant.description>An installed circadian assistant.</CircadianAssistant.description>
-  <CircadianAssistant.labelNoun>a circadian assistant</CircadianAssistant.labelNoun>
+  <InstallCircadianAssistant.label>install circadian assistant</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.description>Install a circadian assistant.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>Installing circadian assistant.</InstallCircadianAssistant.jobString>
   
-  <CircadianHalfCycler.label>circadian half-cycler</CircadianHalfCycler.label>
-  <CircadianHalfCycler.description>An installed circadian half-cycler.</CircadianHalfCycler.description>
-  <CircadianHalfCycler.labelNoun>a circadian half-cycler</CircadianHalfCycler.labelNoun>
+  <InstallCircadianHalfCycler.label>install circadian half-cycler</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.description>Install a circadian half-cycler.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>Installing circadian half-cycler.</InstallCircadianHalfCycler.jobString>
   
-  <Coagulator.label>coagulator</Coagulator.label>
-  <Coagulator.description>An installed coagulator implant.</Coagulator.description>
-  <Coagulator.labelNoun>a coagulator</Coagulator.labelNoun>
+  <InstallCoagulator.label>install coagulator</InstallCoagulator.label>
+  <InstallCoagulator.description>Install a coagulator.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>Installing coagulator.</InstallCoagulator.jobString>
   
-  <DetoxifierStomach.label>sterilizing stomach</DetoxifierStomach.label>
-  <DetoxifierStomach.description>An installed sterilizing stomach.</DetoxifierStomach.description>
-  <DetoxifierStomach.labelNoun>a sterilizing stomach</DetoxifierStomach.labelNoun>
+  <InstallDetoxifierStomach.label>install sterilizing stomach</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.description>Install a sterilizing stomach.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.jobString>Installing sterilizing stomach.</InstallDetoxifierStomach.jobString>
   
-  <GastroAnalyzer.label>gastro-analyzer</GastroAnalyzer.label>
-  <GastroAnalyzer.description>An installed gastro-analyzer.</GastroAnalyzer.description>
-  <GastroAnalyzer.labelNoun>a gastro-analyzer</GastroAnalyzer.labelNoun>
+  <InstallGastroAnalyzer.label>install gastro-analyzer</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.description>Install a gastro-analyzer.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>Installing gastro-analyzer.</InstallGastroAnalyzer.jobString>
   
-  <HealingEnhancer.label>healing enhancer</HealingEnhancer.label>
-  <HealingEnhancer.description>An installed healing enhancer implant.</HealingEnhancer.description>
-  <HealingEnhancer.labelNoun>a healing enhancer</HealingEnhancer.labelNoun>
+  <InstallHealingEnhancer.label>install healing enhancer</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.description>Install a healing enhancer.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>Installing healing enhancer.</InstallHealingEnhancer.jobString>
   
-  <Immunoenhancer.label>immunoenhancer</Immunoenhancer.label>
-  <Immunoenhancer.description>An installed immunoenhancer.</Immunoenhancer.description>
-  <Immunoenhancer.labelNoun>an immunoenhancer</Immunoenhancer.labelNoun>
+  <InstallImmunoenhancer.label>install immunoenhancer</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.description>Install an immunoenhancer.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>Installing immunoenhancer.</InstallImmunoenhancer.jobString>
   
-  <LearningAssistant.label>learning assistant</LearningAssistant.label>
-  <LearningAssistant.description>An installed learning assistant.</LearningAssistant.description>
-  <LearningAssistant.labelNoun>a learning assistant</LearningAssistant.labelNoun>
+  <InstallLearningAssistant.label>install learning assistant</InstallLearningAssistant.label>
+  <InstallLearningAssistant.description>Install a learning assistant.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>Installing learning assistant.</InstallLearningAssistant.jobString>
   
-  <LoveEnhancer.label>love enhancer</LoveEnhancer.label>
-  <LoveEnhancer.description>An installed love enhancer.</LoveEnhancer.description>
-  <LoveEnhancer.labelNoun>a love enhancer</LoveEnhancer.labelNoun>
+  <InstallLoveEnhancer.label>install love enhancer</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.description>Install a love enhancer.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>Installing love enhancer.</InstallLoveEnhancer.jobString>
   
-  <Neurocalculator.label>neurocalculator</Neurocalculator.label>
-  <Neurocalculator.description>An installed neurocalculator.</Neurocalculator.description>
-  <Neurocalculator.labelNoun>a neurocalculator</Neurocalculator.labelNoun>
+  <InstallNeurocalculator.label>install neurocalculator</InstallNeurocalculator.label>
+  <InstallNeurocalculator.description>Install a neurocalculator.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>Installing neurocalculator.</InstallNeurocalculator.jobString>
   
-  <NuclearStomach.label>nuclear stomach</NuclearStomach.label>
-  <NuclearStomach.description>An installed nuclear stomach.</NuclearStomach.description>
-  <NuclearStomach.labelNoun>a nuclear stomach</NuclearStomach.labelNoun>
+  <InstallNuclearStomach.label>install nuclear stomach</InstallNuclearStomach.label>
+  <InstallNuclearStomach.description>Install a nuclear stomach.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.jobString>Installing nuclear stomach.</InstallNuclearStomach.jobString>
   
-  <ReprocessorStomach.label>reprocessor stomach</ReprocessorStomach.label>
-  <ReprocessorStomach.description>An installed reprocessor stomach.</ReprocessorStomach.description>
-  <ReprocessorStomach.labelNoun>a reprocessor stomach</ReprocessorStomach.labelNoun>
+  <InstallReprocessorStomach.label>install reprocessor stomach</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.description>Install a reprocessor stomach.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.jobString>Installing reprocessor stomach.</InstallReprocessorStomach.jobString>
   
-  <StoneskinGland.label>stoneskin gland</StoneskinGland.label>
-  <StoneskinGland.description>An installed stoneskin gland.</StoneskinGland.description>
-  <StoneskinGland.labelNoun>a stoneskin gland</StoneskinGland.labelNoun>
+  <InstallStoneskinGland.label>install stoneskin gland</InstallStoneskinGland.label>
+  <InstallStoneskinGland.description>Install a stoneskin gland.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.jobString>Installing stoneskin gland.</InstallStoneskinGland.jobString>
   
-  <ToughskinGland.label>toughskin gland</ToughskinGland.label>
-  <ToughskinGland.description>An installed toughskin gland.</ToughskinGland.description>
-  <ToughskinGland.labelNoun>a toughskin gland</ToughskinGland.labelNoun>
+  <InstallToughskinGland.label>install toughskin gland</InstallToughskinGland.label>
+  <InstallToughskinGland.description>Install a toughskin gland.</InstallToughskinGland.description>
+  <InstallToughskinGland.jobString>Installing toughskin gland.</InstallToughskinGland.jobString>
+  
+  <RemoveAestheticNose.label>remove aesthetic nose</RemoveAestheticNose.label>
+  <RemoveAestheticNose.description>Remove aesthetic nose.</RemoveAestheticNose.description>
+  <RemoveAestheticNose.jobString>Removing aesthetic nose.</RemoveAestheticNose.jobString>
+  
+  <RemoveAestheticShaper.label>remove aesthetic shaper</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.description>Remove aesthetic shaper.</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.jobString>Removing aesthetic shaper.</RemoveAestheticShaper.jobString>
+  
+  <RemoveArmorskinGland.label>remove armorskin gland</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.description>Remove armorskin gland.</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.jobString>Removing armorskin gland.</RemoveArmorskinGland.jobString>
+  
+  <RemoveCircadianAssistant.label>remove circadian assistant</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.description>Remove circadian assistant.</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.jobString>Removing circadian assistant.</RemoveCircadianAssistant.jobString>
+  
+  <RemoveCircadianHalfCycler.label>remove circadian half-cycler</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.description>Remove circadian half-cycler.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.jobString>Removing circadian half-cycler.</RemoveCircadianHalfCycler.jobString>
+  
+  <RemoveCoagulator.label>remove coagulator</RemoveCoagulator.label>
+  <RemoveCoagulator.description>Remove coagulator.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>Removing coagulator.</RemoveCoagulator.jobString>
+  
+  <RemoveGastroAnalyzer.label>remove gastro-analyzer</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.description>Remove gastro-analyzer.</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.jobString>Removing gastro-analyzer.</RemoveGastroAnalyzer.jobString>
+  
+  <RemoveHealingEnhancer.label>remove healing enhancer</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.description>Remove healing enhancer.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.jobString>Removing healing enhancer.</RemoveHealingEnhancer.jobString>
+  
+  <RemoveImmunoenhancer.label>remove immunoenhancer</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.description>Remove immunoenhancer.</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.jobString>Removing immunoenhancer.</RemoveImmunoenhancer.jobString>
+  
+  <RemoveLearningAssistant.label>remove learning assistant</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.description>Remove learning assistant.</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.jobString>Removing learning assistant.</RemoveLearningAssistant.jobString>
+  
+  <RemoveLoveEnhancer.label>remove love enhancer</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.description>Remove love enhancer.</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.jobString>Removing love enhancer.</RemoveLoveEnhancer.jobString>
+  
+  <RemoveNeurocalculator.label>remove neurocalculator</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.description>Remove neurocalculator.</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.jobString>Removing neurocalculator.</RemoveNeurocalculator.jobString>
+  
+  <RemoveStoneskinGland.label>remove stoneskin gland</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.description>Remove stoneskin gland.</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.jobString>Removing stoneskin gland.</RemoveStoneskinGland.jobString>
+  
+  <RemoveToughskinGland.label>remove toughskin gland</RemoveToughskinGland.label>
+  <RemoveToughskinGland.description>Remove toughskin gland.</RemoveToughskinGland.description>
+  <RemoveToughskinGland.jobString>Removing toughskin gland.</RemoveToughskinGland.jobString>
 </LanguageData>
