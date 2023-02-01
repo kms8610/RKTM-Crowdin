@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ActivatorCountdown.label>카운트다운 장치</ActivatorCountdown.label>
+  <ActivatorCountdown.description>메카노이드 활성화 장치입니다. 카운트다운이 끝나면 근처 휴면중이던 메카노이드와 그 구조물이 활성화합니다.</ActivatorCountdown.description>
+  
+  <ActivatorProximity.label>경보 장치</ActivatorProximity.label>
+  <ActivatorProximity.description>메카노이드들이 사용하는 경보장치입니다. 근처의 인간과 같은 위협을 감지하면 근처의 전투 메카노이드 또는 구조물을 활성화합니다.</ActivatorProximity.description>
+</LanguageData>
