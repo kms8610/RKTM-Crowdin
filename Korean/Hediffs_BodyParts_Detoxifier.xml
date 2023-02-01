@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DetoxifierKidney.label>detoxifier kidney</DetoxifierKidney.label>
-  <DetoxifierKidney.description>An installed detoxifier kidney.</DetoxifierKidney.description>
-  <DetoxifierKidney.labelNoun>a detoxifier kidney</DetoxifierKidney.labelNoun>
+  <InstallDetoxifierKidney.label>install detoxifier kidney</InstallDetoxifierKidney.label>
+  <InstallDetoxifierKidney.description>Install a detoxifier kidney.</InstallDetoxifierKidney.description>
+  <InstallDetoxifierKidney.jobString>Installing detoxifier kidney.</InstallDetoxifierKidney.jobString>
   
-  <DetoxifierLung.label>detoxifier lung</DetoxifierLung.label>
-  <DetoxifierLung.description>An installed detoxifier lung. Prevents lung rot in this lung and negates the irritation of acidic smog.\n\nNote that the detoxifier lung does not prevent the irritating effect of tox gas.</DetoxifierLung.description>
-  <DetoxifierLung.labelNoun>a detoxifier lung</DetoxifierLung.labelNoun>
+  <InstallDetoxifierLung.label>install detoxifier lung</InstallDetoxifierLung.label>
+  <InstallDetoxifierLung.description>Install a detoxifier lung.</InstallDetoxifierLung.description>
+  <InstallDetoxifierLung.jobString>Installing detoxifier lung.</InstallDetoxifierLung.jobString>
 </LanguageData>
