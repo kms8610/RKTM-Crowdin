@@ -1,272 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <StatsReport_Slave>Multiplier for enslaved (low motivation)</StatsReport_Slave>
+  <StatsReport_Terror>Terror offset</StatsReport_Terror>
+  <StatsReport_LeaderOffset>Faction leader bonus</StatsReport_LeaderOffset>
+  <StatsReport_OccupiedCorpseCasket>Contains corpse</StatsReport_OccupiedCorpseCasket>
 
-  <Tool>도구</Tool>
-  <DamageLower>피해</DamageLower>
-  <SecondsPerAttackLower>초당 공격력</SecondsPerAttackLower>
+  <StatsReport_InstalledRelicConvertPowerFactor>Conversion power bonus on map</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_RelicAtRitualMoodBonus>Mood bonus for rituals in room</StatsReport_RelicAtRitualMoodBonus>
 
-  <StatsReport_BaseValue>기본값</StatsReport_BaseValue>
-  <StatsReport_RelevantTraits>관련 특성</StatsReport_RelevantTraits>
-  <StatsReport_RelevantGear>관련 장비</StatsReport_RelevantGear>
-  <StatsReport_RelevantHediffs>관련 건강 상태</StatsReport_RelevantHediffs>
-  <StatsReport_LifeStage>성장 단계</StatsReport_LifeStage>
-  <StatsReport_Material>재료</StatsReport_Material>
-  <StatsReport_CharacterQuality>품질</StatsReport_CharacterQuality>
-  <StatsReport_Skills>기술</StatsReport_Skills>
-  <StatsReport_OtherStats>기타 능력치</StatsReport_OtherStats>
-  <StatsReport_Health>건강</StatsReport_Health>
-  <HealthFactorPercentImpact>비율 {0}</HealthFactorPercentImpact>
-  <HealthOffsetScale>{0} 충격</HealthOffsetScale>
-  <HealthFactorMaxImpact>최대 {0}</HealthFactorMaxImpact>
-  <HealthFactorAllowedDefect>{0}이하일 경우</HealthFactorAllowedDefect>
-  <StatsReport_PostProcessed>후처리 커브</StatsReport_PostProcessed>
-  <StatsReport_ShootingExampleDistances>The chances to hit at increasing distances are</StatsReport_ShootingExampleDistances>
-  <StatsReport_FinalValue>최종 값</StatsReport_FinalValue>
-  <StatsReport_MultiplierFor>Multiplier for {0}</StatsReport_MultiplierFor>
-  <StatsReport_MarketValueFromStuffsAndWork>재료와 노동</StatsReport_MarketValueFromStuffsAndWork>
-  <StatsReport_QualityMultiplier>품질 계수</StatsReport_QualityMultiplier>
-  <StatsReport_QualityOffset>품질 영향</StatsReport_QualityOffset>
-  <StatsReport_MaxGain>최대 값</StatsReport_MaxGain>
-  <StatsReport_AgeMultiplier>나이 {0}에 대한 계수</StatsReport_AgeMultiplier>
-  <StatsReport_AgeOffset>Offset for age {0}</StatsReport_AgeOffset>
-  <StatsReport_HealthMultiplier>건강 {0}에 대한 계수</StatsReport_HealthMultiplier>
-  <StatsReport_ReloadMarketValue>재장전 비용 ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
-  <StatsReport_ReloadRemainingChargesMultipler>남은 {CHARGENOUN_plural}에 대한 계수 ({0})</StatsReport_ReloadRemainingChargesMultipler>
-  <StatsReport_MoodMultiplier>기분 {0}에 대한 계수</StatsReport_MoodMultiplier>
-  <StatsReport_LightMultiplier>빛 {0}에 대한 계수</StatsReport_LightMultiplier>
-  <StatsReport_DifficultyMultiplier>난이도 {0}에 대한 계수</StatsReport_DifficultyMultiplier>
-  <StatsReport_InBed>침대 안</StatsReport_InBed>
-  <StatsReport_Facilities>생산 보조시설</StatsReport_Facilities>
-  <StatsReport_BodySize>신체 크기 {0}에 대한 계수</StatsReport_BodySize>
-  <StatsReport_HasHediffExplanation>파손된</StatsReport_HasHediffExplanation>
-  <StatsReport_MeleeDPSExplanation>초당 피해량 = 근접 공격력 * 근접 명중률 / 근접 재사용 대기시간</StatsReport_MeleeDPSExplanation>
-  <StatsReport_MeleeDamage>근접 공격력</StatsReport_MeleeDamage>
-  <StatsReport_Cooldown>재사용 대기시간</StatsReport_Cooldown>
-  <StatsReport_MeleeHitChance>근접 명중률</StatsReport_MeleeHitChance>
-  <StatsReport_CooldownFormat>{0} 초</StatsReport_CooldownFormat>
-  <StatsReport_BlockedByFences>울타리를 넘지 못함</StatsReport_BlockedByFences>
-  <StatsReport_RoamInterval>배회 주기</StatsReport_RoamInterval>
-  <StatsReport_CaravanRideableAge>상단이 탑승 가능한 나이</StatsReport_CaravanRideableAge>
-  <StatsReport_LifeExpectancy>기대 수명</StatsReport_LifeExpectancy>
-  <StatsReport_MissingBodyParts>신체 결손으로 인한 계수</StatsReport_MissingBodyParts>
-  <StatsReport_GearAndInventoryMass>장비 및 소지품</StatsReport_GearAndInventoryMass>
-  <StatsReport_WornByCorpse>유품에 대한 계수</StatsReport_WornByCorpse>
-  <AverageOfAllAttacks>전체 공격 평균</AverageOfAllAttacks>
-  <StatsReport_ScenarioFactor>시나리오</StatsReport_ScenarioFactor>
-  <StatsReport_IngredientsMass>재료</StatsReport_IngredientsMass>
-  <StatsReport_PermanentlyDisabled>영구적 비활성화.</StatsReport_PermanentlyDisabled>
-  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
-  <StatsReport_AddedBodyPartsMass>추가된 신체부위</StatsReport_AddedBodyPartsMass>
-  <StatsReport_StuffEffectMultiplier>재료 효과 계수</StatsReport_StuffEffectMultiplier>
-  <StatsReport_Resting>휴식 중</StatsReport_Resting>
-  <StatsReport_JoyKind>오락 유형</StatsReport_JoyKind>
-  <StatsReport_WorkToUninstall>해체 작업</StatsReport_WorkToUninstall>
-  <StatsReport_Fence>울타리</StatsReport_Fence>
-  <StatsReport_PlantGrowth>성장 {0}에 대한 계수</StatsReport_PlantGrowth>
-  <StatsReport_PlantGrowth_Wild>야생 수치</StatsReport_PlantGrowth_Wild>
-  <StatsReport_NotFlesh>육체가 아님</StatsReport_NotFlesh>
-  <StatsReport_NotFresh>신선하지 않음</StatsReport_NotFresh>
-  <StatsReport_WildMan>야만인</StatsReport_WildMan>
-  <StatsReport_NonToolAttack>공격</StatsReport_NonToolAttack>
-  <StatsReport_Ideoligion>믿음관</StatsReport_Ideoligion>
-  <StatsReport_Malnutrition>영양실조 {0}에 대한 계수</StatsReport_Malnutrition>
+  <Stat_Thing_RelicOf_Name>Relic of</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Desc>The ideology this relic belongs to.</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicStatus>Relic status</Stat_Thing_RelicStatus>
+  <Stat_Thing_RelicStatus_Desc>A widely sought-after item of religious or ideological significance.</Stat_Thing_RelicStatus_Desc>
 
-  <StatReport_PossibleOffsets>가능한 오프셋</StatReport_PossibleOffsets>
-  <StatsReport_RoomImpressiveness>인상적인 방</StatsReport_RoomImpressiveness>
-  <StatsReport_Lit>약간 어두움</StatsReport_Lit>
-  <StatsReport_GraveFull>Contains {0}</StatsReport_GraveFull>
-  <StatsReport_GraveFullAbstract>인간 시체 포함</StatsReport_GraveFullAbstract>
-  <StatsReport_GraveCorpseRelatedAbstract>명상은 내부의 시체와 연관 있음</StatsReport_GraveCorpseRelatedAbstract>
-  <StatsReport_FromQuality>From quality</StatsReport_FromQuality>
-  <StatsReport_NearbyArtificialStructures>근처 인공 구조물</StatsReport_NearbyArtificialStructures>
-  <StatsReport_SatisfiesTitle>작위 요구사항 충족</StatsReport_SatisfiesTitle>
+  <Stat_Thing_RelatedToIdeos_Name>Related to</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Desc>The ideoligions this thing belongs to.</Stat_Thing_RelatedToIdeos_Desc>
 
-  <Stat_RecreationType_Desc>많은 유형의 오락 기구는 많은 유형의 오락을 만족하게 합니다. 정착민들은 같은 오락 기구를 반복해서 사용하면 지루해하므로, 다양한 유형의 오락기구를 제공하는 것이 좋습니다.</Stat_RecreationType_Desc>
-  <Stat_JoyKind_AllTypes>모든 오락 유형</Stat_JoyKind_AllTypes>
-  <Stat_MineableThing_Name>채굴자원</Stat_MineableThing_Name>
-  <Stat_MineableThing_Desc>이것을 채굴할 때 얻을 수 있는 자원입니다.</Stat_MineableThing_Desc>
-  <Stat_MiningYield_Name>채굴량</Stat_MiningYield_Name>
-  <Stat_MiningYield_Desc>채굴할 때 얻을 수 있는 최대개수입니다. 실제 채굴량은 광부의 기술 등급에 따라 달라질 수 있습니다.</Stat_MiningYield_Desc>
-  <Stat_SourceSpecies_Name>동물자원</Stat_SourceSpecies_Name>
-  <Stat_SourceSpecies_Desc>이것을 얻기 위해 필요한 동물의 종류입니다.</Stat_SourceSpecies_Desc>
-  <Stat_Stuff_Name>재료</Stat_Stuff_Name>
-  <Stat_Stuff_Desc>무언가를 구성하는 주요 소재는 피해, 방어력, 단열, 내구력, 아름다움, 시장 가치 등을 포함한 많은 부분에 영향을 미칩니다.</Stat_Stuff_Desc>
-  <Stat_Weapon_Name>무기</Stat_Weapon_Name>
-  <Stat_Weapon_Desc>포탑에 장착된 무기의 종류입니다.</Stat_Weapon_Desc>
-  <Stat_HitPoints_Desc>대상이 파괴되기 전까지 받아낼 수 있는 피해량입니다.</Stat_HitPoints_Desc>
-  <Stat_Thing_WorkToUninstall_Desc>대상을 해체하기 위해 필요한 작업량입니다.</Stat_Thing_WorkToUninstall_Desc>
-  <Stat_Thing_Fence_Desc>이 건물이 울타리의 한 종류인지 나타냅니다. 울타리는 다음 동물의 길을 막을 수 있습니다</Stat_Thing_Fence_Desc>
-  <Stat_Thing_CreatedAt_Desc>대상을 생산하기 위해 필요한 시설입니다.</Stat_Thing_CreatedAt_Desc>
-  <Stat_Thing_Damage_Desc>무기로 입힐 수 있는 피해량입니다.\n\n이것은 대상의 방어력에 의해 무시되거나 약화될 수 있습니다.</Stat_Thing_Damage_Desc>
-  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>이 약물로 환자를 치료할 때 의사가 얻게 되는 경험치의 계수입니다.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
-  <Stat_Thing_Plant_Attributes_Desc>식물이 지닌 특성입니다.</Stat_Thing_Plant_Attributes_Desc>
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>의류 (나체주의자)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
-  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>나체주의자가 이 장비를 의류로 취급하는지 나타냅니다. 의류로 취급하지 않는 장비는 나체주의자가 입어도 기분이 나빠지지 않습니다.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
-  <Stat_Thing_Apparel_Covers_Desc>장비가 가려주는 신체 범위입니다.\n\n해당하지 않는 신체 부위는 보호하지 못합니다.</Stat_Thing_Apparel_Covers_Desc>
-  <Stat_Thing_Apparel_Layer_Desc>장비가 착용되는 위치입니다. 신체 부위별로 오직 하나의 장비만을 착용할 수 있습니다.</Stat_Thing_Apparel_Layer_Desc>
-  <Stat_Thing_Plant_FertilityRequirement_Desc>식물이 자라기 위해 필요한 최소한의 토질입니다.</Stat_Thing_Plant_FertilityRequirement_Desc>
-  <Stat_Thing_Plant_FertilitySensitivity_Desc>식물이 토질에 얼마나 민감한지를 나타냅니다.\n\n민감도가 낮은 식물은 어떤 환경에서든 거의 같은 속도로 자라납니다. 민감도가 높은 식물은 낮은 토질에서 더 느리게 자라며, 높은 토질에서 더 빠르게 자랍니다.</Stat_Thing_Plant_FertilitySensitivity_Desc>
-  <Stat_Thing_Plant_LightRequirement_Desc>식물이 자라기 위해 필요한 빛의 양입니다.</Stat_Thing_Plant_LightRequirement_Desc>
-  <Stat_Thing_Plant_LifeSpan_Desc>식물의 수명입니다. 식물은 수확하지 않더라도 특정 연령에 도달하면 자연스럽게 죽습니다.</Stat_Thing_Plant_LifeSpan_Desc>
-  <Stat_Thing_Plant_HarvestYield_Desc>식물을 수확할 때 생산되는 자원의 양을 나타냅니다.</Stat_Thing_Plant_HarvestYield_Desc>
-  <Stat_Thing_Plant_MinGrowthTemperature_Desc>식물이 생존 가능한 최저 온도입니다. 적정 온도에서 벗어난 식물은 천천히 죽어갑니다.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
-  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>식물이 생존 가능한 최고 온도입니다. 적정 온도에서 벗어난 식물은 천천히 죽어갑니다.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
-  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>식물을 수확하기 위해 필요한 최소한의 재배 기술입니다.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
-  <Stat_Race_Diet_Desc>동물이 먹을 수 있는 음식의 종류입니다.\n\n먹을 수 있는 음식: {0}</Stat_Race_Diet_Desc>
-  <Stat_Race_LeatherType_Desc>동물에서 채취할 수 있는 가죽의 종류입니다.</Stat_Race_LeatherType_Desc>
-  <Stat_Race_Animal_TameFailedRevengeChance_Desc>동물을 길들이려 할 때 덤벼들 확률입니다.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
-  <Stat_Race_Trainability_Desc>동물의 훈련 적합성을 나타냅니다. 지능과 집중력에 좌우되며, 훈련 가능한 작업의 종류를 결정합니다.</Stat_Race_Trainability_Desc>
-  <Stat_Race_LifeExpectancy_Desc>동물의 평균 수명입니다.</Stat_Race_LifeExpectancy_Desc>
-  <Stat_Race_BlockedByFences_Desc>이 동물이 울타리와 방어벽을 넘을 수 없는지 나타냅니다.</Stat_Race_BlockedByFences_Desc>
-  <Stat_Race_RoamInterval_Desc>길들인 동물이 떠돌다가 지역 밖으로 나가는 주기입니다.\n\n동물은 지역 경계로 통하는 경로가 있어야 떠돌아다닐 수 있습니다. 울타리, 방어벽, 벽, 문을 사용해서 가둬놓으세요.\n\n배회 중인 동물은 조련사가 우리로 데려갑니다.</Stat_Race_RoamInterval_Desc>
-  <Stat_Thing_Ingestible_Joy_Desc>약품을 섭취할 때 채워지는 오락 수치를 나타냅니다.</Stat_Thing_Ingestible_Joy_Desc>
-  <Stat_Race_BodySize_Desc>동물의 크기를 평균적인 성인 인간과 비교한 수치입니다.</Stat_Race_BodySize_Desc>
-  <Stat_Race_Growth_Desc>성체에 얼마나 근접한지 나타냅니다\n\n성장에는 열량이 필요합니다. 배고픈 동물은 잘 먹은 동물보다 성장 속도가 느립니다.</Stat_Race_Growth_Desc>
-  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>이 무기를 사용하는 데 걸리는 시간 간격입니다.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
-  <Stat_Thing_Weapon_RangedWarmupTime_Desc>How much time passes between when a ranged attack begins aiming and when it fires.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
-  <Stat_Thing_Weapon_BurstShotCount_Desc>원거리 무기가 한번에 발사할 수 있는 탄환의 양입니다.</Stat_Thing_Weapon_BurstShotCount_Desc>
-  <Stat_Thing_Weapon_BurstShotFireRate_Desc>원거리 무기가 발사되기 위해 필요한 시간 간격입니다.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
-  <Stat_Thing_Weapon_Range_Desc>원거리 무기의 최대 사거리입니다.</Stat_Thing_Weapon_Range_Desc>
-  <Stat_Thing_Weapon_MissRadius_Desc>원거리 무기의 발사체가 목표 주변으로 얼마나 확산되는지에 대한 수치입니다.\n\n값이 높아질수록 발사체가 빗나갈 가능성이 높아집니다.</Stat_Thing_Weapon_MissRadius_Desc>
-  <Stat_Thing_Weapon_DirectHitChance_Desc>원거리 무기의 엄폐하지 않은 대상에 대한 명중율입니다.</Stat_Thing_Weapon_DirectHitChance_Desc>
-  <Stat_Thing_MoodChange_Desc>신체 부위가 소유자의 기분에 영향을 미치는 정도입니다.</Stat_Thing_MoodChange_Desc>
-  <Stat_Recipe_Skill_Desc>작업을 수행하면서 얻을 수 있는 기술의 종류입니다.</Stat_Recipe_Skill_Desc>
-  <Stat_Recipe_Ingredients_Desc>작업에 필요한 재료의 종류입니다.</Stat_Recipe_Ingredients_Desc>
-  <Stat_Recipe_SkillRequirements_Desc>작업에 필요한 기술의 종류입니다.</Stat_Recipe_SkillRequirements_Desc>
-  <Stat_Recipe_Products_Desc>작업을 통해 생산되는 자원입니다.</Stat_Recipe_Products_Desc>
-  <Stat_Recipe_WorkSpeedStat_Desc>작업 진행 속도를 결정하는 요소입니다.</Stat_Recipe_WorkSpeedStat_Desc>
-  <Stat_Recipe_EfficiencyStat_Desc>작업에서 결과물의 품질 또는 생산량을 결정하는 요소입니다.</Stat_Recipe_EfficiencyStat_Desc>
-  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>수술이 성공할 확률입니다.\n\n의사의 레벨, 시설의 청결도, 약의 수준에 따라 큰 차이가 납니다.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>손쉬운 수술</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
-  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>이 수술은 환자에게 매우 안전합니다.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
-  <Stat_Thing_Surgery_DeathOnFailChance_Desc>수술이 실패할 경우 환자가 사망할 확률입니다.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
-  <Stat_Hediff_TotalBleedFactor_Name>총 출혈계수</Stat_Hediff_TotalBleedFactor_Name>
-  <Stat_Hediff_TotalBleedFactor_Desc>혈액이 얼마나 손실되었는지를 나타냅니다.</Stat_Hediff_TotalBleedFactor_Desc>
-  <Stat_Hediff_NaturalHealingFactor_Name>자연치유력</Stat_Hediff_NaturalHealingFactor_Name>
-  <Stat_Hediff_NaturalHealingFactor_Desc>자연적인 상처 치유 속도를 나타냅니다.</Stat_Hediff_NaturalHealingFactor_Desc>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Name>Food poisoning chance factor</Stat_Hediff_FoodPoisoningChanceFactor_Name>
-  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>실수로 식중독을 유발하는 요리를 만들 확률입니다.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
-  <Stat_Hediff_BleedingRate_Desc>출혈 속도를 나타냅니다.</Stat_Hediff_BleedingRate_Desc>
-  <Stat_Hediff_Pain_Desc>통증의 수준을 나타냅니다.</Stat_Hediff_Pain_Desc>
-  <Stat_Hediff_PartEfficiency_Desc>이것에 의해 영향받는 신체 부위의 효율성입니다.</Stat_Hediff_PartEfficiency_Desc>
-  <Stat_Hediff_Affects_Desc>효과가 정신에 영향을 미치는 정도입니다.</Stat_Hediff_Affects_Desc>
-  <Stat_Hediff_HungerRateOffset_Name>Hunger rate offset</Stat_Hediff_HungerRateOffset_Name>
-  <Stat_Hediff_HungerRateFactor_Desc>포만감 상실 계수입니다.</Stat_Hediff_HungerRateFactor_Desc>
-  <Stat_Hediff_HungerRateOffset_Desc>포만감이 상실되는 기본 속도입니다.</Stat_Hediff_HungerRateOffset_Desc>
-  <Stat_Hediff_TirednessOffset_Name>피로 누적 속도</Stat_Hediff_TirednessOffset_Name>
-  <Stat_Hediff_TirednessOffset_Desc>An offset applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessOffset_Desc>
-  <Stat_Hediff_TirednessFactor_Desc>A multiplier applied to the rate at which the creature's sleep need falls.</Stat_Hediff_TirednessFactor_Desc>
-  <Stat_Hediff_PreventsInfection_Desc>감염 예방 확률입니다.</Stat_Hediff_PreventsInfection_Desc>
-  <Stat_Thing_Terrain_Supports_Desc>지형이 지탱할 수 있는 무게입니다.</Stat_Thing_Terrain_Supports_Desc>
-  <Stat_Thing_TerrainRequirement_Desc>해당 유형의 지형에만 배치할 수 있습니다.</Stat_Thing_TerrainRequirement_Desc>
-  <Stat_Thing_Terrain_Fine_Name>존경</Stat_Thing_Terrain_Fine_Name>
-  <Stat_Thing_Terrain_Fine_Value>좋은식사 이하</Stat_Thing_Terrain_Fine_Value>
-  <Stat_Thing_Terrain_Fine_Desc>왕실에 적절한 바닥입니다.</Stat_Thing_Terrain_Fine_Desc>
-  <Stat_Thing_PowerConsumption_Desc>시설이 작동하기 위해 요구하는 전력의 양입니다.</Stat_Thing_PowerConsumption_Desc>
-  <Stat_Thing_ReloadChargesRemaining_Name>잔여 {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
-  <Stat_Thing_ReloadChargesRemaining_Desc>이 개체에 남아있는 {CHARGENOUN_plural}의 수입니다. 모두 소모되면 특수 능력을 사용할 수 없습니다.</Stat_Thing_ReloadChargesRemaining_Desc>
-  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
-  <Stat_Thing_ReloadMaxCharges_Desc>이 개체의 최대 {CHARGENOUN_plural} 수입니다.</Stat_Thing_ReloadMaxCharges_Desc>
-  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} 재장전 비용</Stat_Thing_ReloadRefill_Name>
-  <Stat_Thing_ReloadRefill_Desc>이 개체를 완전히 재장전하는 데 필요한 항목의 양입니다.\n\n비어 버리기 전에 재장전할 수 있지만, 비용은 똑같습니다.</Stat_Thing_ReloadRefill_Desc>
-  <Stat_Thing_ReloadPerCharge_Name>{CHARGENOUN}당 재장전 비용</Stat_Thing_ReloadPerCharge_Name>
-  <Stat_Thing_ReloadPerCharge_Desc>하나의 {CHARGENOUN}(을)를 재장전하는 데 필요한 항목의 양입니다. 여러 {CHARGENOUN_plural}(을)를 한번에 재장전할 수 있습니다.</Stat_Thing_ReloadPerCharge_Desc>
-  <Stat_Thing_ReloadDestroyOnEmpty_Name>배기장치 사라짐</Stat_Thing_ReloadDestroyOnEmpty_Name>
-  <Stat_Thing_ReloadDestroyOnEmpty_Desc>이 물품은 마지막 {CHARGENOUN}(을)를 사용하면 사라집니다.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
-  <Stat_Thing_BodyPartEfficiency_Desc>신체부위의 전반적인 효율성을 나타냅니다.</Stat_Thing_BodyPartEfficiency_Desc>
-  <Stat_Thing_InstallSites>Install sites</Stat_Thing_InstallSites>
-  <Stat_Thing_InstallSites_Desc>Areas on the body where this can be installed.</Stat_Thing_InstallSites_Desc>
-  <Stat_Thing_ReplacesParts>Replaces parts</Stat_Thing_ReplacesParts>
-  <Stat_Thing_ReplacesParts_Desc>Body parts which are replaced by this when installed.</Stat_Thing_ReplacesParts_Desc>
-  <Stat_Thing_Biocoded_Name>생체인증</Stat_Thing_Biocoded_Name>
-  <Stat_Thing_Biocoded_Desc>이 장비를 작동하기 위해서는 지정된 인물의 생체인증을 필요로 합니다.</Stat_Thing_Biocoded_Desc>
-  <Stat_Pawn_RequiredApparel_Name>의복 종류 요구사항</Stat_Pawn_RequiredApparel_Name>
-  <Stat_Thing_Plant_GrowthRate>성장 속도</Stat_Thing_Plant_GrowthRate>
-  <Stat_Thing_Plant_GrowthRate_Desc>The rate at which a plant is growing.\n\nGrowth rate is affected by things like soil fertility, temperature, light, and environmental conditions.</Stat_Thing_Plant_GrowthRate_Desc>
-  <Stat_Thing_Plant_Age>나이</Stat_Thing_Plant_Age>
-  <Stat_Thing_Plant_AgeDesc>How long this has been alive.</Stat_Thing_Plant_AgeDesc>
-  <Stat_Thing_Plant_Lifespan>수명</Stat_Thing_Plant_Lifespan>
-  <Stat_Building_Paintable>Paintable</Stat_Building_Paintable>
-  <Stat_Building_PaintableDesc>Whether this can be painted using dye.</Stat_Building_PaintableDesc>
-  <Stat_Building_PaintColor>Paint color</Stat_Building_PaintColor>
-  <Stat_Building_PaintColorDesc>The color this building was painted.</Stat_Building_PaintColorDesc>
+  <StatsReports_HasRelic>Holding relic</StatsReports_HasRelic>
 
-  <!-- Drugs -->
-  <Stat_Thing_Drug_Chemical_Desc>이 약의 활성 화학물질입니다.\n\n때에 따라 같은 화학물질이 여러 가지의 다른 약물에 존재합니다. 이러한 약물들은 다른 방법으로 같은 중독성을 만족할 수 있습니다.</Stat_Thing_Drug_Chemical_Desc>
-  <Stat_Thing_Drug_Category_Desc>이 약물이 속하는 약물 범주입니다.</Stat_Thing_Drug_Category_Desc>
-  <Stat_Thing_Drug_HighGainPerDose_Desc>이 약물의 복용당 획득량입니다.</Stat_Thing_Drug_HighGainPerDose_Desc>
-  <Stat_Thing_Drug_HighFallPerDay_Desc>이 약물의 취함에 대해 하루에 감소되는 양입니다.</Stat_Thing_Drug_HighFallPerDay_Desc>
-  <Stat_Thing_Drug_HighDurationPerDose_Desc>1회 복용당 얼마나 지속하는지 나타냅니다.\n\n이는 복용당 획득량과 하락률로부터 계산됩니다.</Stat_Thing_Drug_HighDurationPerDose_Desc>
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>복용당 화학물질에 대한 사용자의 내성이 얼마나 증가하는지 나타냅니다.\n\n같은 화학물질이 다른 형태에 따라 다를 수 있습니다.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>화학물질에 대한 내성이 하루에 얼마나 떨어지는지 나타냅니다.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
-  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>이 약물에 중독되는 데 필요한 최소 내성입니다.\n\n사용자가 이 내성보다 낮다면 약물 복용으로 말미암은 중독은 없습니다.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size.</Stat_Thing_Drug_SafeDoseInterval_Desc>
-  <Stat_Thing_Drug_RandomODChance_Desc>약을 복용할 때 걸릴 과다복용 확률입니다. 과다복용하는 것은 처음 복용을 하든, 여러 번 복용을 하든 상관없이 모든 복용에 발생할 수 있습니다.</Stat_Thing_Drug_RandomODChance_Desc>
-  <Stat_Thing_Drug_Addictiveness_Desc>이 약의 복용당 중독확률입니다.\n\n약물 중독에 대한 최소 내성이 있다면, 내성이 이 수준을 초과해야 적용됩니다. 최소 내성이 없다면, 복용할 때마다 중독될 수 있습니다.</Stat_Thing_Drug_Addictiveness_Desc>
-  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>이 약물 중독의 심각도 단계입니다.\n\n많은 약물을 복용하면 중독의 심각도가 증가하지만, 시간이 지나면 감소합니다.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
-  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>초기 중독에서 회복되는 시간을 나타냅니다.\n\n중독 심각도를 중독 회복률로 나눈 값으로 계산됩니다. 다시 먹게 된다면 중독이 더 오래 걸립니다.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
-  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>약물 복용당 기존 중독성에 얼마나 많은 심각도가 추가되는지 나타냅니다.\n\n중독 심각도는 100%를 초과할 수 없습니다.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
-  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>중독자가 금단증상을 예방하기 위해 얼마나 자주 이 약을 복용해야 하는지 나타냅니다.\n\n이는 중독필요 하락률과 복용당 중독필요량으로부터 계산됩니다.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
-  <Stat_Thing_Drug_AddictionNeedOffset_Desc>복용당 화학물질에 대한 중독자의 필요량을 얼마나 채워주는지 나타냅니다.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
-  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>중독자의 화학물질에 대한 필요량이 얼마나 떨어지는지 나타냅니다.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
-  <Stat_Thing_Drug_AddictionCost_Desc>금단현상 없이 이 약물의 중독을 지원하기 위해 하루에 소비해야 하는 시장가치입니다.\n\n이 값은 중독자의 복용당 중독필요량, 중독필요 하락률, 약물의 시장가치로부터 계산됩니다.\n\n참고로 다른 비용으로 같은 화학물질을 얻는 방법이 있을 수도 있습니다.</Stat_Thing_Drug_AddictionCost_Desc>
+  <StatsReport_BlindPsychicSensitivityOffset>Blind bonus</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_SightPsychicSensitivityOffset>Sight bonus</StatsReport_SightPsychicSensitivityOffset>
 
-  <Stat_Thing_StyleLabel>스타일</Stat_Thing_StyleLabel>
-  <Stat_Thing_StyleDesc>스타일은 물체의 외형을 결정하며 게임 플레이에는 영향을 주지 않습니다. 스타일은 서로 다른 믿음과 문화를 가진 사람들이 사용하는 각자의 건설 방식을 구성하곤 합니다.</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDominanceCategory>Dominating style</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategoryDesc>The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs.</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_IdeosSatisfied>Satisfies ideoligions</Stat_Thing_IdeosSatisfied>
+  <Style>Style</Style>
 
-  <Stat_Animal_GestationTime>생식 주기</Stat_Animal_GestationTime>
-  <Stat_Animal_GestationTimeDesc>새끼나 알을 낳을 때까지 걸리는 시간입니다.</Stat_Animal_GestationTimeDesc>
-  <Stat_Animal_LitterSize>한배 새끼수</Stat_Animal_LitterSize>
-  <Stat_Animal_LitterSizeDesc>매 출산 또는 부화에서 태어나는 새끼의 수입니다. 범위로 된 값일 경우 해당 범위 안의 무작위 수만큼 태어납니다.</Stat_Animal_LitterSizeDesc>
-  <Stat_Animal_AdultMeatAmount>성체 고기량</Stat_Animal_AdultMeatAmount>
-  <Stat_Animal_AdultMeatAmountDesc>이 동물종의 성체를 도축했을 때 얻을 수 있는 기본 고기량입니다. 실제로 얻는 고기의 양은 신체 피해량과 도축 기술 등의 영향을 받습니다.</Stat_Animal_AdultMeatAmountDesc>
-  <Stat_Animal_GrowthTime>성장에 필요한 기간</Stat_Animal_GrowthTime>
-  <Stat_Animal_GrowthTimeDesc>동물이 성체가 되기까지 일반적으로 걸리는 시간입니다. 굶주린 동물이 성체가 되려면 더 오랜 시간이 필요합니다.</Stat_Animal_GrowthTimeDesc>
-  <Stat_Animal_MeatPerDayDuringGrowth>성장 중 일간 고기량</Stat_Animal_MeatPerDayDuringGrowth>
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>동물이 성체가 되기까지 자라면서 매일 증가하는 고기의 양입니다.\n\n이 값은 고기량과 성장에 필요한 기간을 통해 계산합니다.</Stat_Animal_MeatPerDayDuringGrowthDesc>
-  <Stat_Animal_GrassToMaintain>유지에 필요한 잡초</Stat_Animal_GrassToMaintain>
-  <Stat_Animal_GrassToMaintainDesc>이 동물이 필요를 채우기 위해 일반적으로 섭취하는 잡초의 수입니다. 보통의 성장 속도를 가진 일반 잡초 기준이며 겨울은 고려하지 않습니다.</Stat_Animal_GrassToMaintainDesc>
-  <Stat_Animal_EggType>알 종류</Stat_Animal_EggType>
-  <Stat_Animal_EggTypeDesc>이 동물이 낳는 알의 종류입니다.</Stat_Animal_EggTypeDesc>
-  <Stat_Animal_EggsPerYear>연간 알 생산량</Stat_Animal_EggsPerYear>
-  <Stat_Animal_EggsPerYearDesc>이 동물이 연간 낳는 알의 양입니다. 어떤 동물은 수정을 해야 알을 낳을 수 있습니다. 동물이 굶주릴 경우 알을 더 느리게 낳습니다.</Stat_Animal_EggsPerYearDesc>
-  <Stat_Animal_EggNutrition>알 열량</Stat_Animal_EggNutrition>
-  <Stat_Animal_EggNutritionDesc>이 동물이 낳는 알의 개당 열량입니다.</Stat_Animal_EggNutritionDesc>
-  <Stat_Animal_EggNutritionYearly>연간 알 열량</Stat_Animal_EggNutritionYearly>
-  <Stat_Animal_EggNutritionYearlyDesc>이 동물이 연간 낳는 알의 총 열량입니다.\n\n이 값은 연간 알 생산량과 알 열량으로 계산합니다.</Stat_Animal_EggNutritionYearlyDesc>
-  <Stat_Animal_EggMarketValue>알 시장 가치</Stat_Animal_EggMarketValue>
-  <Stat_Animal_EggMarketValueDesc>이 동물이 낳는 알의 개당 시장 가치입니다.</Stat_Animal_EggMarketValueDesc>
-  <Stat_Animal_EggMarketValueYearly>연간 알 시장 가치</Stat_Animal_EggMarketValueYearly>
-  <Stat_Animal_EggMarketValueYearlyDesc>이 동물이 연간 낳는 알의 총 시장 가치입니다.\n\n이 값은 연간 알 생산량과 알 시장 가치로 계산합니다.</Stat_Animal_EggMarketValueYearlyDesc>
-  <Stat_Animal_MilkType>우유 종류</Stat_Animal_MilkType>
-  <Stat_Animal_MilkTypeDesc>이 동물이 생산하는 젖의 종류입니다.</Stat_Animal_MilkTypeDesc>
-  <Stat_Animal_MilkAmount>우유의 양</Stat_Animal_MilkAmount>
-  <Stat_Animal_MilkAmountDesc>이 동물이 매 착유마다 생산하는 젖의 양입니다.</Stat_Animal_MilkAmountDesc>
-  <Stat_Animal_MilkGrowthTime>착유 주기</Stat_Animal_MilkGrowthTime>
-  <Stat_Animal_MilkGrowthTimeDesc>착유 후 다시 착유할 때까지 필요한 시간입니다.</Stat_Animal_MilkGrowthTimeDesc>
-  <Stat_Animal_MilkPerYear>연간 젖 생산량</Stat_Animal_MilkPerYear>
-  <Stat_Animal_MilkPerYearDesc>이 동물이 연간 생산하는 젖의 총량입니다.\n\n이 값은 유량과 착유 주기로 계산합니다.</Stat_Animal_MilkPerYearDesc>
-  <Stat_Animal_MilkValue>젖 시장 가치</Stat_Animal_MilkValue>
-  <Stat_Animal_MilkValueDesc>이 동물이 생산하는 젖의 단위당 시장 가치입니다.</Stat_Animal_MilkValueDesc>
-  <Stat_Animal_MilkValuePerYear>연간 젖 시장 가치</Stat_Animal_MilkValuePerYear>
-  <Stat_Animal_MilkValuePerYearDesc>이 동물이 연간 생산하는 젖의 총 시장 가치입니다. 동물이 굶주리지 않고, 매 착유 주기에 맞춰 즉시 착유했을 때를 가정한 값입니다.\n\n이 값은 연간 젖 생산량과 젖 시장 가치로 계산합니다.</Stat_Animal_MilkValuePerYearDesc>
-  <Stat_Animal_WoolType>털의 종류</Stat_Animal_WoolType>
-  <Stat_Animal_WoolTypeDesc>이 동물이 생산하는 털의 종류입니다.</Stat_Animal_WoolTypeDesc>
-  <Stat_Animal_WoolAmount>털의 양</Stat_Animal_WoolAmount>
-  <Stat_Animal_WoolAmountDesc>이 동물을 깎았을 때 얻을 수 있는 털의 양입니다.</Stat_Animal_WoolAmountDesc>
-  <Stat_Animal_WoolGrowthTime>전모 주기</Stat_Animal_WoolGrowthTime>
-  <Stat_Animal_WoolGrowthTimeDesc>털을 다시 깎을 때까지 필요한 시간입니다.</Stat_Animal_WoolGrowthTimeDesc>
-  <Stat_Animal_WoolPerYear>연간 털 생산량</Stat_Animal_WoolPerYear>
-  <Stat_Animal_WoolPerYearDesc>이 동물이 연간 생산하는 털의 총량입니다.\n\n이 값은 털 양과 전모 주기로 계산합니다.</Stat_Animal_WoolPerYearDesc>
-  <Stat_Animal_WoolValue>털 시장 가치</Stat_Animal_WoolValue>
-  <Stat_Animal_WoolValueDesc>이 동물이 생산하는 털의 단위당 시장 가치입니다.</Stat_Animal_WoolValueDesc>
-  <Stat_Animal_WoolValuePerYear>연간 털 시장 가치</Stat_Animal_WoolValuePerYear>
-  <Stat_Animal_WoolValuePerYearDesc>이 동물이 연간 생산하는 털의 총 시장 가치입니다.\n\n이 값은 연간 털 생산량과 털 시장 가치로 계산합니다.</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Pawn_DarknessCombatShooting_Name>Darkness shooting accuracy</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Desc>An offset applied to the chance to hit a target based on the target's light level.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Darkness melee dodge chance</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>An offset applied to the melee dodge chance based on the local light level.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>Darkness melee hit chance</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>An offset applied to the melee hit chance based on the target's light level.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>The following offsets can be applied</Stat_PawnDarkness_FollowingOffset>
 
-  <Stat_Studiable_Desc>이 물체에 수행할 수 있는 전체 연구 중 진행한 양입니다.</Stat_Studiable_Desc>
+  <StatsReport_BiosculptingSpeedFactor>Biosculpting speed</StatsReport_BiosculptingSpeedFactor>
 
-  <Stat_Source_Label>출처</Stat_Source_Label>
-  <Stat_Source_OfficialExpansionReport>공식 확장팩에서 추가됨</Stat_Source_OfficialExpansionReport>
-  <Stat_Source_ModReport>모드에서 추가됨</Stat_Source_ModReport>
-  
-</LanguageData>
+  <Stat_Thing_HackingProgress>The amount of progress that has been made towards hacking this object.</Stat_Thing_HackingProgress>
+
+  </LanguageData>
