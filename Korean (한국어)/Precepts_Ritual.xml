@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.label>영혼나무 연결</AnimaTreeLinking.label>
-  <AnimaTreeLinking.description>영혼나무와 정신적으로 연결되는 의식입니다. 연결자는 영혼나무 앞에서 명상을 시작하고, 다른 이들은 동그랗게 모여 의식을 지켜보며 정신력을 보탤 것입니다.</AnimaTreeLinking.description>
-  
-  <ThroneSpeech.label>연설</ThroneSpeech.label>
-  <ThroneSpeech.description>왕좌에서 연설을 시작합니다. {ORGANIZER_labelShort}(이)가 자신의 왕좌로 모든 정착민을 불러 연설을 청취하도록 만듭니다. 결과가 좋다면 청취자들은 영감을 받을 수 있고 {ORGANIZER_labelShort}에 대한 존경심이 높아집니다. 반대로 결과가 좋지 않으면 사교적 불이익이 생깁니다. 결과는 {ORGANIZER_labelShort}의 사교 기술에 따라 달라집니다.</ThroneSpeech.description>
+  <Ritual.label>의식</Ritual.label>
 </LanguageData>
