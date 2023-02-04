@@ -1,38 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Chinchilla.label>털실쥐</Chinchilla.label>
-  <Chinchilla.description>작고 민첩한 설치류. 털실쥐의 털은 우주의 어떤 것보다도 부드러워서, 무역 상품으로 매우 가치 있습니다.</Chinchilla.description>
-  <Chinchilla.tools.left_claw.label>왼쪽 발톱</Chinchilla.tools.left_claw.label>
-  <Chinchilla.tools.right_claw.label>오른쪽 발톱</Chinchilla.tools.right_claw.label>
-  <Chinchilla.tools.head.label>머리</Chinchilla.tools.head.label>
   
   <Deer.label>사슴</Deer.label>
-  <Deer.description>잡목림과 평원에서 사는 걸 선호하는 중간 크기의 초식동물로, 매우 빠릅니다.</Deer.description>
-  <Deer.race.meatLabel>사슴고기</Deer.race.meatLabel>
-  <Deer.tools.left_hoof.label>왼쪽 발굽</Deer.tools.left_hoof.label>
-  <Deer.tools.right_hoof.label>오른쪽 발굽</Deer.tools.right_hoof.label>
-  <Deer.tools.teeth.label>이빨</Deer.tools.teeth.label>
-  <Deer.tools.head.label>머리</Deer.tools.head.label>
+  <Deer.labelFemale>암사슴</Deer.labelFemale>
+  <Deer.labelMale>벅샷</Deer.labelMale>
+  <Deer.labelPlural>사슴</Deer.labelPlural>
   
   <Gazelle.label>가젤들</Gazelle.label>
-  <Gazelle.description>작고 빠르며 긴 점프로 유명한 사슴 친구입니다.</Gazelle.description>
-  <Gazelle.tools.left_hoof.label>왼쪽 발굽</Gazelle.tools.left_hoof.label>
-  <Gazelle.tools.right_hoof.label>오른쪽 발굽</Gazelle.tools.right_hoof.label>
-  <Gazelle.tools.head.label>머리</Gazelle.tools.head.label>
   
   <Ibex.label>산양</Ibex.label>
-  <Ibex.description>염소의 조상인 산양은 영양분이 희박한 이끼와 풀들을 먹으면서 살아남을 수 있는 한계 지역에 살고 있습니다. 산양은 절벽 사이를 뛰어다니며, 난폭한 성격으로도 유명합니다.</Ibex.description>
-  <Ibex.tools.left_hoof.label>왼쪽 발굽</Ibex.tools.left_hoof.label>
-  <Ibex.tools.right_hoof.label>오른쪽 발굽</Ibex.tools.right_hoof.label>
-  <Ibex.tools.head.label>머리</Ibex.tools.head.label>
+  <Ibex.labelFemale>암컷 산양</Ibex.labelFemale>
+  <Ibex.labelMale>수컷 산양</Ibex.labelMale>
+  <Ibex.labelPlural>산양들</Ibex.labelPlural>
   
   <Pig.label>돼지</Pig.label>
-  <Pig.description>돼지는 인간이 길들인 최초의 동물 중 하나입니다. 보통 고기를 위해 길러지고, 잡식성이어서 키우기 쉽습니다. 돼지는 성질에 따라 복잡한 일을 하는 훈련을 받을 수 있습니다.</Pig.description>
-  <Pig.race.meatLabel>돼지고기</Pig.race.meatLabel>
-  <Pig.tools.head.label>머리</Pig.tools.head.label>
+  <Pig.labelFemale>암퇘지</Pig.labelFemale>
+  <Pig.lifeStages.piglet.label>새끼 돼지</Pig.lifeStages.piglet.label>
   
   <WildBoar.label>멧돼지</WildBoar.label>
-  <WildBoar.description>털이 많은 이 잡식동물은 탈출한 돼지의 후손으로 야생에서 살기 위해 진화했습니다.\n\n어금니가 있기 때문에 보통 돼지보다 더 나은 전투 능력을 보여줍니다. 불행히도, 야생성 때문에 복잡한 일을 훈련 시키는 것은 어렵습니다.</WildBoar.description>
-  <WildBoar.tools.tusk.label>엄니</WildBoar.tools.tusk.label>
-  <WildBoar.tools.head.label>머리</WildBoar.tools.head.label>
 </LanguageData>
