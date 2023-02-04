@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bridge.label>다리</Bridge.label>
-  <Bridge.description>물 위에 지을 수 있는 구조물. 다리 위에는 가벼운 구조물도 세울 수 있지만, 다리가 손상되면 함께 무너집니다.</Bridge.description>
-  
-  <Underwall.label>기반</Underwall.label>
+  <FungalGravel.label>fungal gravel</FungalGravel.label>
+  <FungalGravel.description>A spreadable form of gravel for growing fungal crops underground. It must be placed under overhead mountain so the dank coolness of the depths can nourish the fungal spores.</FungalGravel.description>
 </LanguageData>
