@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_FirefoampopPack.label>firefoam pop pack</Apparel_FirefoampopPack.label>
-  <Apparel_FirefoampopPack.description>A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer.</Apparel_FirefoampopPack.description>
-  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>firefoam pop</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
-  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>on cooldown</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
-  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>pop firefoam</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  <Apparel_PackBandwidth.label>bandwidth pack</Apparel_PackBandwidth.label>
+  <Apparel_PackBandwidth.description>A backpack containing bandwidth-expansion computer and antenna. It can increase a mechanitor's maximum total bandwidth.</Apparel_PackBandwidth.description>
   
-  <Apparel_SmokepopBelt.label>smokepop pack</Apparel_SmokepopBelt.label>
-  <Apparel_SmokepopBelt.description>방어용 연막 장치입니다. 착용자가 짙은 연막을 살포하면, 적의 시야를 차단하고 포탑의 조준을 방지합니다.</Apparel_SmokepopBelt.description>
-  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>연막구름</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
-  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>on cooldown</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
-  <Apparel_SmokepopBelt.verbs.pop_smoke.label>연막 터뜨리기</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  <Apparel_PackControl.label>control pack</Apparel_PackControl.label>
+  <Apparel_PackControl.description>A backpack containing mech control assist computers. It allows a mechanitor to control one additional control group.</Apparel_PackControl.description>
+  
+  <Apparel_PackTox.label>tox pack</Apparel_PackTox.label>
+  <Apparel_PackTox.description>A reusable backpack containing canisters of reagents and a mechanism that uses them to generate tox gas. When the wearer activates the pack, it will begin spreading tox gas and continue for several seconds until it runs out of reagents.\n\nOnce used, it must be reloaded with chemfuel before it can be used again.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Apparel_PackTox.description>
+  <Apparel_PackTox.comps.CompReloadable.chargeNoun>tox pack</Apparel_PackTox.comps.CompReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>on cooldown</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
+  <Apparel_PackTox.verbs.deploy_tox_pack.label>deploy tox pack</Apparel_PackTox.verbs.deploy_tox_pack.label>
 </LanguageData>
