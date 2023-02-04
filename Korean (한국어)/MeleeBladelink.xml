@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeleeWeapon_MonoSwordBladelink.label>결속 단분자검</MeleeWeapon_MonoSwordBladelink.label>
-  <MeleeWeapon_MonoSwordBladelink.description>A crystal-metallic longsword infused with mechanites that maintain a mono-molecular cutting edge. It cuts through even thick armor with ease, while its light weight and onboard persona permit extremely fast attacks.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with frightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.</MeleeWeapon_MonoSwordBladelink.description>
-  <MeleeWeapon_MonoSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_MonoSwordBladelink.tools.handle.label>
-  <MeleeWeapon_MonoSwordBladelink.tools.point.label>끝</MeleeWeapon_MonoSwordBladelink.tools.point.label>
-  <MeleeWeapon_MonoSwordBladelink.tools.edge.label>날</MeleeWeapon_MonoSwordBladelink.tools.edge.label>
-  
-  <MeleeWeapon_PlasmaSwordBladelink.label>결속 플라즈마검</MeleeWeapon_PlasmaSwordBladelink.label>
-  <MeleeWeapon_PlasmaSwordBladelink.description>A metal-cored sword with a cutting edge. Plasma is wrapped around the core, held in place by an energy field. Targets are both sliced by the metal core, as well as burned or ignited by the plasma sheath.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with frightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.</MeleeWeapon_PlasmaSwordBladelink.description>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.point.label>끝</MeleeWeapon_PlasmaSwordBladelink.tools.point.label>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>날</MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>
-  
-  <MeleeWeapon_ZeusHammerBladelink.label>결속 제우스해머</MeleeWeapon_ZeusHammerBladelink.label>
-  <MeleeWeapon_ZeusHammerBladelink.description>A warhammer with an embedded EMP capacitor. Upon impact, it blasts the target with an EMP burst in addition to the physical damage.\n\nThis weapon has an onboard persona that can bond to only a single person. The wielder and intelligent weapon can synchronize their reflexes and attack with frightening speed, accuracy, and creativity. Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else.</MeleeWeapon_ZeusHammerBladelink.description>
-  <MeleeWeapon_ZeusHammerBladelink.tools.handle.label>손잡이</MeleeWeapon_ZeusHammerBladelink.tools.handle.label>
-  <MeleeWeapon_ZeusHammerBladelink.tools.head.label>머리</MeleeWeapon_ZeusHammerBladelink.tools.head.label>
+  <NamerWeaponBladelink.rulePack.rulesStrings>
+    <li>r_weapon_name(p=3)->[noun][verber]</li>
+    <li>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[beginSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[NamePerson]</li>
+    <li>r_weapon_name(p=1)->[nameAnimal]</li>
+    <li>nameAnimal->[NameAnimalUnisex]</li>
+    <li>nameAnimal->[NameAnimalMale]</li>
+    <li>nameAnimal->[NameAnimalFemale]</li>
+    <li>noun->서약</li>
+    <li>noun->약속</li>
+    <li>noun->죽음</li>
+    <li>noun->고통</li>
+    <li>noun->혈흔</li>
+    <li>noun->파멸</li>
+    <li>noun->살해</li>
+    <li>noun->정의</li>
+    <li>noun->우려</li>
+    <li>noun->공포</li>
+    <li>noun->혼돈</li>
+    <li>noun->명령</li>
+    <li>noun->전쟁</li>
+    <li>noun->고요</li>
+    <li>noun->은혜</li>
+    <li>verber->파수꾼</li>
+    <li>verber->제공자</li>
+    <li>verber->발송자</li>
+    <li>verber->기부자</li>
+    <li>verber->조물주</li>
+    <li>verber->파쇄자</li>
+    <li>verber->조련사</li>
+    <li>verber->가속기</li>
+    <li>verber->거래처</li>
+    <li>verber->인식체</li>
+    <li>verber->실천가</li>
+    <li>beginSyl->비</li>
+    <li>beginSyl->나</li>
+    <li>beginSyl->로</li>
+    <li>beginSyl->라</li>
+    <li>beginSyl->토</li>
+    <li>beginSyl->겔</li>
+    <li>beginSyl->잰</li>
+    <li>beginSyl->켈</li>
+    <li>middleSyl->셀</li>
+    <li>middleSyl->갈</li>
+    <li>middleSyl->롤</li>
+    <li>middleSyl->벤</li>
+    <li>middleSyl->잔</li>
+    <li>middleSyl->살</li>
+    <li>endSyl->이스</li>
+    <li>endSyl->오르</li>
+    <li>endSyl->아르</li>
+    <li>endSyl->섬</li>
+    <li>endSyl->도르</li>
+    <li>endSyl->마르</li>
+    <li>endSyl->구르</li>
+  </NamerWeaponBladelink.rulePack.rulesStrings>
 </LanguageData>
