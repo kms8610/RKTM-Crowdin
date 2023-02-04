@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Corpses.label>시체</Corpses.label>
+  <Corpses_Ugly.label>못생김</Corpses_Ugly.label>
+  <Corpses_Ugly.description>죽은 사람의 모습은 끔찍합니다.</Corpses_Ugly.description>
 </LanguageData>
