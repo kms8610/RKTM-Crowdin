@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Hare.label>산토끼</Hare.label>
+  <Hare.description>작고 단독 생활을 하는 이 초식동물은 위험에서 재빨리 벗어날 수 있습니다.</Hare.description>
+  <Hare.tools.head.label>머리</Hare.tools.head.label>
   
   <Snowhare.label>눈토끼</Snowhare.label>
+  <Snowhare.description>이 강인한 동물은 먹을 수 있는 식물을 찾기 위해 눈을 파서 잔인한 겨울을 견뎌냅니다.</Snowhare.description>
+  <Snowhare.tools.head.label>머리</Snowhare.tools.head.label>
 </LanguageData>
