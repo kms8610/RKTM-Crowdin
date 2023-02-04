@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KillWithDespisedWeapon.label>천박한 무기로 승리함</KillWithDespisedWeapon.label>
-  
-  <KillWithNobleWeapon.label>고결한 무기로 승리함</KillWithNobleWeapon.label>
-  
-  <UsedDespisedWeapon.label>천박한 무기를 사용함</UsedDespisedWeapon.label>
-  
-  <UsedNobleWeapon.label>used noble weapon</UsedNobleWeapon.label>
+  <Weapons.label>무기</Weapons.label>
 </LanguageData>
