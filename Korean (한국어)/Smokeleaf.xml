@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmokeleafAddiction.label>연초 의존증</SmokeleafAddiction.label>
-  <SmokeleafAddiction.description>A chemical addiction to smokeleaf. Long-term use of smokeleaf has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of smokeleaf, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</SmokeleafAddiction.description>
-  <SmokeleafAddiction.stages.withdrawal.label>금단현상</SmokeleafAddiction.stages.withdrawal.label>
-  
-  <SmokeleafHigh.label>연초에 취함</SmokeleafHigh.label>
-  <SmokeleafHigh.description>연초 연기가 몸속 깊숙히 침투합니다. 평안하고 부드러운 기분이 듭니다.</SmokeleafHigh.description>
-  <SmokeleafHigh.labelNoun>연초에 취함</SmokeleafHigh.labelNoun>
-  
-  <SmokeleafTolerance.label>연초 내성</SmokeleafTolerance.label>
-  <SmokeleafTolerance.description>연초에 내성이 생겼습니다. 이 수치가 클수록 동일한 기분을 얻기 위해서는 더 많은 연초가 필요합니다.</SmokeleafTolerance.description>
-  <SmokeleafTolerance.stages.small.label>작음</SmokeleafTolerance.stages.small.label>
-  <SmokeleafTolerance.stages.large.label>큼</SmokeleafTolerance.stages.large.label>
-  <SmokeleafTolerance.stages.massive.label>심각함</SmokeleafTolerance.stages.massive.label>
+  <Chemical_Smokeleaf.label>연초</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>연초 의존증으로 인한 금단 현상을 피하려면 주기적인 흡연이 필요합니다.</Chemical_Smokeleaf.description>
 </LanguageData>
