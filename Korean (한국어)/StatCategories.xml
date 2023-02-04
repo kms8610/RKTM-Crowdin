@@ -1,62 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ability.label>능력</Ability.label>
+  <Mechanitor.label>Mechanitor</Mechanitor.label>
   
-  <AnimalProductivity.label>동물 생산성</AnimalProductivity.label>
-  
-  <Apparel.label>의복</Apparel.label>
-  
-  <Basics.label>기본</Basics.label>
-  
-  <BasicsImportant.label>기본</BasicsImportant.label>
-  
-  <BasicsNonPawn.label>기본</BasicsNonPawn.label>
-  
-  <BasicsNonPawnImportant.label>기본</BasicsNonPawnImportant.label>
-  
-  <BasicsPawn.label>기본</BasicsPawn.label>
-  
-  <BasicsPawnImportant.label>기본</BasicsPawnImportant.label>
-  
-  <Building.label>건물</Building.label>
-  
-  <CapacityEffects.label>효과</CapacityEffects.label>
-  
-  <Drug.label>약물</Drug.label>
-  
-  <DrugAddiction.label>약물중독</DrugAddiction.label>
-  
-  <EquippedStatOffsets.label>착용 시 능력치 변경치</EquippedStatOffsets.label>
-  
-  <Genetics.label>유전학</Genetics.label>
-  
-  <Implant.label>이식물</Implant.label>
-  
-  <Meditation.label>Meditation</Meditation.label>
-  
-  <PawnCombat.label>전투</PawnCombat.label>
-  
-  <PawnMisc.label>기타</PawnMisc.label>
-  
-  <PawnSocial.label>관계</PawnSocial.label>
-  
-  <PawnWork.label>작업</PawnWork.label>
-  
-  <Source.label>내용 출처</Source.label>
-  
-  <StuffOfEquipmentStatFactors.label>재료로써 장비 능력치 계수</StuffOfEquipmentStatFactors.label>
-  
-  <StuffStatFactors.label>재료로써 능력치 계수</StuffStatFactors.label>
-  
-  <StuffStatOffsets.label>재료로써 능력치 변경치</StuffStatOffsets.label>
-  
-  <Surgery.label>수술</Surgery.label>
-  
-  <Terrain.label>지형</Terrain.label>
-  
-  <Weapon.label>무기</Weapon.label>
-  
-  <Weapon_Melee.label>Weapon (melee)</Weapon_Melee.label>
-  
-  <Weapon_Ranged.label>Weapon (ranged)</Weapon_Ranged.label>
+  <Mechanoid.label>Mechanoid</Mechanoid.label>
 </LanguageData>
