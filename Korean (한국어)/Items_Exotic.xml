@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AIPersonaCore.label>기계 자아 핵</AIPersonaCore.label>
-  <AIPersonaCore.description>초인간적인 기계 자아가 탑재된 고도로 발달된 컴퓨터 핵입니다. 분리된 현재는 작동하고 있지 않지만, 적절한 보조 장치만 갖춰진다면 무서운 지능을 가진 두뇌가 될 것입니다.</AIPersonaCore.description>
-  
-  <ElephantTusk.label>상아</ElephantTusk.label>
-  <ElephantTusk.description>코끼리의 엄니입니다. 매우 튼튼하고 비쌉니다. 치명적이지만 무기로 사용하기엔 약간 거추장스럽습니다.</ElephantTusk.description>
-  <ElephantTusk.tools.point.label>끝</ElephantTusk.tools.point.label>
-  <ElephantTusk.tools.base.label>상아날</ElephantTusk.tools.base.label>
-  
-  <MechSerumHealer.label>회복 혈청</MechSerumHealer.label>
-  <MechSerumHealer.description>건강 이상을 치료하기 위해 조정된 일회용 고농축 메카나이트 혈청입니다. 메카나이트 군체는 대상의 건강에 영향을 미치는 모든 요소를 재조정하며 심지어 불치병마저도 치료합니다. 또한 필요한 경우 변형하여 새로운 사지나 기관을 형성합니다.</MechSerumHealer.description>
-  <MechSerumHealer.comps.CompUsable.useLabel>사용 {0_label}</MechSerumHealer.comps.CompUsable.useLabel>
-  
-  <MechSerumResurrector.label>부활 혈청</MechSerumResurrector.label>
-  <MechSerumResurrector.description>A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions.</MechSerumResurrector.description>
-  <MechSerumResurrector.comps.CompUsable.useLabel>사용 {0_label}</MechSerumResurrector.comps.CompUsable.useLabel>
-  
-  <TechprofSubpersonaCore.label>기술 교육용 인공자아 핵</TechprofSubpersonaCore.label>
-  <TechprofSubpersonaCore.description>교육 기능을 가진 저급의 인공자아 핵입니다. 사용하면 모르는 기술을 즉시 가르쳐줍니다. 한 번만 사용할 수 있습니다.</TechprofSubpersonaCore.description>
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>사용 {0_label}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
-  
-  <ThrumboHorn.label>트럼보 뿔</ThrumboHorn.label>
-  <ThrumboHorn.description>트럼보의 뿔입니다. 매우 날카롭고 단단하며 부르는게 값입니다. 진정한 의미의 전리품입니다.</ThrumboHorn.description>
-  <ThrumboHorn.tools.point.label>끝</ThrumboHorn.tools.point.label>
-  <ThrumboHorn.tools.base.label>상아날</ThrumboHorn.tools.base.label>
+  <AdministerMechSerumHealer.label>회복 혈청 투여</AdministerMechSerumHealer.label>
+  <AdministerMechSerumHealer.description>회복혈청을 투여합니다.</AdministerMechSerumHealer.description>
+  <AdministerMechSerumHealer.jobString>회복 혈청 투여 중.</AdministerMechSerumHealer.jobString>
 </LanguageData>
