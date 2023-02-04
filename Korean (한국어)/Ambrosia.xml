@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ambrosia.label>암브로시아</Ambrosia.label>
+  <AmbrosiaAddiction.label>암브로시아 중독</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.description>A chemical addiction to ambrosia. Long-term presence of ambrosia has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of ambrosia, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.stages.withdrawal.label>금단현상</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <AmbrosiaHigh.label>암브로시아 열기</AmbrosiaHigh.label>
+  <AmbrosiaHigh.description>혈류속 암브로시아의 성분이 흐릅니다. 기분을 좋게합니다.</AmbrosiaHigh.description>
+  
+  <AmbrosiaTolerance.label>암브로시아 내성</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.description>암브로시아에 대한 내성입니다. 이 수치가 높을수록 동일한 효과를 얻는 데 더 많은 양이 필요할 것입니다.</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.stages.small.label>작음</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.large.label>큼</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.massive.label>심각함</AmbrosiaTolerance.stages.massive.label>
 </LanguageData>
