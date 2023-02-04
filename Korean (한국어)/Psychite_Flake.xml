@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FlakeHigh.stages.high_on_flake.label>플레이크에 취함</FlakeHigh.stages.high_on_flake.label>
-  <FlakeHigh.stages.high_on_flake.description>아, 좋아. 너무 좋아.</FlakeHigh.stages.high_on_flake.description>
+  <FlakeHigh.label>플레이크에 취함</FlakeHigh.label>
+  <FlakeHigh.description>플레이크가 피를 타고 흐릅니다. 기분을 좋게하지만, 몸을 쇠약하게 만듭니다.</FlakeHigh.description>
+  <FlakeHigh.labelNoun>플레이크에 취함</FlakeHigh.labelNoun>
 </LanguageData>
