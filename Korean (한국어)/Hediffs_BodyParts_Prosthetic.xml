@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CochlearImplant.label>보청기</CochlearImplant.label>
-  <CochlearImplant.description>보청기가 설치되어 있습니다.</CochlearImplant.description>
-  <CochlearImplant.labelNoun>보청기</CochlearImplant.labelNoun>
+  <InstallCochlearImplant.label>보청기 이식</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>보청기를 귀에 이식합니다.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>보청기 이식 중.</InstallCochlearImplant.jobString>
   
-  <Joywire.label>쾌락회로</Joywire.label>
-  <Joywire.description>쾌락회로가 설치되어 있습니다.</Joywire.description>
-  <Joywire.labelNoun>쾌락회로</Joywire.labelNoun>
+  <InstallJoywire.label>쾌락회로 이식</InstallJoywire.label>
+  <InstallJoywire.description>쾌락회로를 이식합니다.</InstallJoywire.description>
+  <InstallJoywire.jobString>쾌락회로 이식 중.</InstallJoywire.jobString>
   
-  <Painstopper.label>통각차단장치</Painstopper.label>
-  <Painstopper.description>통각차단장치가 설치되어 있습니다.</Painstopper.description>
-  <Painstopper.labelNoun>통각차단장치</Painstopper.labelNoun>
+  <InstallPainstopper.label>통각차단장치 이식</InstallPainstopper.label>
+  <InstallPainstopper.description>통각차단장치를 이식합니다.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>통각차단장치 이식 중.</InstallPainstopper.jobString>
   
-  <PowerClaw.label>강화 발톱</PowerClaw.label>
-  <PowerClaw.description>강화 발톱이 설치되어 있습니다.</PowerClaw.description>
-  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>발톱</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
-  <PowerClaw.labelNoun>강화 발톱</PowerClaw.labelNoun>
+  <InstallPowerClaw.label>강화 발톱 이식</InstallPowerClaw.label>
+  <InstallPowerClaw.description>강화 발톱을 이식합니다.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>강화 발톱 이식 중.</InstallPowerClaw.jobString>
   
-  <SimpleProstheticArm.label>간단한 강철 의수</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>간단한 강철 의수가 설치되어 있습니다.</SimpleProstheticArm.description>
-  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <SimpleProstheticArm.labelNoun>간단한 강철 의수</SimpleProstheticArm.labelNoun>
+  <InstallSimpleProstheticArm.label>간단한 강철 의수 장착</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>간단한 강철 의수을 장착합니다.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>간단한 강철 의수 설치 중.</InstallSimpleProstheticArm.jobString>
   
-  <SimpleProstheticHeart.label>인공 심장</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.description>인공심장이 설치되어 있습니다.</SimpleProstheticHeart.description>
-  <SimpleProstheticHeart.labelNoun>인공 심장</SimpleProstheticHeart.labelNoun>
+  <InstallSimpleProstheticHeart.label>인공심장 이식</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>인공심장을 이식합니다.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>인공심장 이식 중.</InstallSimpleProstheticHeart.jobString>
   
-  <SimpleProstheticLeg.label>간단한 강철 의족</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>간단한 강철 의족이 설치되어 있습니다.</SimpleProstheticLeg.description>
-  <SimpleProstheticLeg.labelNoun>간단한 강철 의족</SimpleProstheticLeg.labelNoun>
+  <InstallSimpleProstheticLeg.label>간단한 강철 의족 장착</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>간단한 강철 의족을 장착합니다.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>간단한 강철 의족 설치 중.</InstallSimpleProstheticLeg.jobString>
+  
+  <RemovePainstopper.label>통각차단장치 제거</RemovePainstopper.label>
+  <RemovePainstopper.description>통각차단장치를 제거합니다.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>통각차단장치 제거 중</RemovePainstopper.jobString>
 </LanguageData>
