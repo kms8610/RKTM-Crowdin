@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicSuppression.label>초능력 억제기</PsychicSuppression.label>
-  <PsychicSuppression.description>초능력 억제 필드의 효과. 초능력 조정능력과 추리능력이 혼동됩니다.</PsychicSuppression.description>
+  <ClimateAdjuster.label>기후 조정기</ClimateAdjuster.label>
+  <ClimateAdjuster.description>기후 조정기입니다.</ClimateAdjuster.description>
+  
+  <EMIDynamo.label>EMI 교란기</EMIDynamo.label>
+  <EMIDynamo.description>EMI 교란기입니다.</EMIDynamo.description>
+  
+  <PsychicDroner.label>정신 조종장치</PsychicDroner.label>
+  <PsychicDroner.description>정신파 드론입니다.</PsychicDroner.description>
+  
+  <PsychicSuppressor.label>초능력 신호 차단기</PsychicSuppressor.label>
+  <PsychicSuppressor.description>초능력 신호 차단기입니다.</PsychicSuppressor.description>
+  
+  <SmokeSpewer.label>연막 살포기</SmokeSpewer.label>
+  <SmokeSpewer.description>연막 살포기입니다.</SmokeSpewer.description>
+  
+  <SunBlocker.label>태양 차단기</SunBlocker.label>
+  <SunBlocker.description>태양 차단기입니다.</SunBlocker.description>
+  
+  <ToxicSpewer.label>독성 분출기</ToxicSpewer.label>
+  <ToxicSpewer.description>독성 살포기입니다.</ToxicSpewer.description>
+  
+  <WeatherController.label>날씨 조절기</WeatherController.label>
+  <WeatherController.description>날씨 조절기입니다.</WeatherController.description>
 </LanguageData>
