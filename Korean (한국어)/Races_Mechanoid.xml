@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Mech_CentipedeBlaster.label>centipede blaster</Mech_CentipedeBlaster.label>
-  <Mech_CentipedeBlaster.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_CentipedeBlaster.description>
-  <Mech_CentipedeBlaster.tools.head.label>머리</Mech_CentipedeBlaster.tools.head.label>
   
   <Mech_CentipedeBurner.label>centipede burner</Mech_CentipedeBurner.label>
-  <Mech_CentipedeBurner.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_CentipedeBurner.description>
-  <Mech_CentipedeBurner.tools.head.label>머리</Mech_CentipedeBurner.tools.head.label>
   
   <Mech_CentipedeGunner.label>centipede gunner</Mech_CentipedeGunner.label>
-  <Mech_CentipedeGunner.description>Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics.</Mech_CentipedeGunner.description>
-  <Mech_CentipedeGunner.tools.head.label>머리</Mech_CentipedeGunner.tools.head.label>
   
   <Mech_Lancer.label>랜서</Mech_Lancer.label>
-  <Mech_Lancer.description>장거리 무기를 조준하기 위한 거대한 광학 센서가 얼굴에 달린 인간 크기의 전투 메카노이드. 장거리에서는 효과적이지만 근거리 전투에는 약합니다. 메카노이드 전쟁의 고참병들은 랜서에게 돌격하는 게 오히려 안전하다는 것을 경험으로 알고 있습니다.</Mech_Lancer.description>
-  <Mech_Lancer.tools.left_fist.label>왼쪽 주먹</Mech_Lancer.tools.left_fist.label>
-  <Mech_Lancer.tools.right_fist.label>오른쪽 주먹</Mech_Lancer.tools.right_fist.label>
-  <Mech_Lancer.tools.head.label>머리</Mech_Lancer.tools.head.label>
   
   <Mech_Pikeman.label>파이크맨</Mech_Pikeman.label>
-  <Mech_Pikeman.description>투박한 다수의 다리에 장거리 무기 플랫폼으로 특화된 전투용 메카노이드입니다. 장거리에서는 효과적이지만, 근접전에 약합니다.\n\n메카노이드 전쟁의 고참병들은 파이크맨 주위에 있는 것이 안전하다는 것을 알고 있습니다.</Mech_Pikeman.description>
-  <Mech_Pikeman.tools.front_left_leg.label>왼쪽 앞다리</Mech_Pikeman.tools.front_left_leg.label>
-  <Mech_Pikeman.tools.front_right_leg.label>오른쪽 앞다리</Mech_Pikeman.tools.front_right_leg.label>
-  <Mech_Pikeman.tools.head.label>머리</Mech_Pikeman.tools.head.label>
+  <Mech_Pikeman.labelPlural>파이크맨들</Mech_Pikeman.labelPlural>
   
   <Mech_Scyther.label>사이더</Mech_Scyther.label>
-  <Mech_Scyther.description>Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive.</Mech_Scyther.description>
-  <Mech_Scyther.tools.left_blade.label>왼쪽 칼날</Mech_Scyther.tools.left_blade.label>
-  <Mech_Scyther.tools.right_blade.label>오른쪽 칼날</Mech_Scyther.tools.right_blade.label>
-  <Mech_Scyther.tools.head.label>머리</Mech_Scyther.tools.head.label>
-  
-  <Mech_Termite.label>흰개미</Mech_Termite.label>
-  <Mech_Termite.description>중간 크기의 메카노이드입니다. 이 개체는 굴을 파고, 땅을 파며, 방어 시설을 뚫는 것을 전문으로 하고 있습니다. 이들이 나타난다면, 그들이 방어망을 뚫고 나타날때까지 기다리던가, 나타나는 곳으로 가서 먼저 파괴하던가 결정해야 합니다.</Mech_Termite.description>
-  <Mech_Termite.tools.head.label>머리</Mech_Termite.tools.head.label>
 </LanguageData>
