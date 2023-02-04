@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AdministeredDrug.label>약물 투여 목격</AdministeredDrug.label>
+  <AbsorbedXenogerm.label>absorbed xenogerm</AbsorbedXenogerm.label>
   
-  <AdministeredHardDrug.label>강한 약물 투여 목격</AdministeredHardDrug.label>
+  <ExtractedHemogenPack.label>extracted hemogen from member</ExtractedHemogenPack.label>
   
-  <AdministeredRecreationalDrug.label>오락용 약물 투여</AdministeredRecreationalDrug.label>
+  <PollutedBase.label>polluted base</PollutedBase.label>
   
-  <AteHumanMeat.label>인육 섭취 목격</AteHumanMeat.label>
+  <PollutedNearbySite.label>polluted nearby site</PollutedNearbySite.label>
   
-  <BuildSpecificDef.label>build building</BuildSpecificDef.label>
-  
-  <CharityRefused_ThreatReward_Joiner.label>피난민 합류 거부함</CharityRefused_ThreatReward_Joiner.label>
-  
-  <CutTree.label>cut tree</CutTree.label>
-  
-  <DestroyedMineable.label>파괴된 자연벽</DestroyedMineable.label>
-  
-  <IngestedDrug.label>약물 사용</IngestedDrug.label>
-  
-  <IngestedHardDrug.label>강한 약물 사용 목격</IngestedHardDrug.label>
-  
-  <IngestedRecreationalDrug.label>오락용 약물 사용</IngestedRecreationalDrug.label>
-  
-  <InstalledProsthetic.label>보철물 목격</InstalledProsthetic.label>
-  
-  <Mined.label>mined</Mined.label>
-  
-  <MinifiedTreeDied.label>나무가 죽음</MinifiedTreeDied.label>
-  
-  <Researching.label>연구</Researching.label>
-  
-  <SowedHumanFoodPlant.label>작물 파종</SowedHumanFoodPlant.label>
-  
-  <SowedPlant.label>식물 파종</SowedPlant.label>
+  <ToxicWasteDumping.label>toxic waste dumping</ToxicWasteDumping.label>
 </LanguageData>
