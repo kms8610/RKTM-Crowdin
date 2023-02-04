@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Empire.label>와해된 제국</Empire.label>
-  <Empire.description>소피아문다 행성에서 온 첨단기술 집단으로, 기사도에 기반한 복잡한 규정과 문화적 정체성을 강요하는 엄격한 사회계급 제도를 갖추고 있습니다.\n\n이들은 소피아 사회를 분열시킨 대재앙에서 간신히 살아남았으며, 남은 함대를 모아 변방계로 도망쳐 왔습니다. 많은 희생을 치렀지만 그들의 함선과 기술은 여전히 매우 강력합니다.\n\n이들은 자신들을 섬기지 않는 자와는 거래하지 않습니다.</Empire.description>
-  <Empire.leaderTitle>항성군주</Empire.leaderTitle>
-  <Empire.pawnSingular>제국 수염</Empire.pawnSingular>
-  <Empire.pawnsPlural>제국</Empire.pawnsPlural>
-  <Empire.royalFavorLabel>명예</Empire.royalFavorLabel>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name(p=2)->[ofThing] [empire]</li>
+    <li>r_name(p=2)->[ofThing] [empire]</li>
+    <li>r_name->붕괴된 [empire]</li>
+    <li>r_name->난민 [empire]</li>
+    <li>r_name->무너진 [empire]</li>
+    <li>r_name->와해된 [empire]</li>
+    <li>r_name->몰락한 [empire]</li>
+    <li>r_name->[Color] [empire]</li>
+    <li>empire(p=4)->제국</li>
+    <li>empire->연방국</li>
+    <li>empire->초대국</li>
+    <li>empire->자치령</li>
+    <li>empire->자주국</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->태양의</li>
+    <li>ofThing->달의</li>
+    <li>ofThing->은하</li>
+    <li>ofThing->하늘</li>
+    <li>ofThing->완전한</li>
+    <li>ofThing->영원한</li>
+    <li>ofThing->성령</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  
+  <NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameLast] [ImperialNameFirstMale]</li>
+    <li>r_name(p=2)->[WordImperial] [ImperialNameFirstMale]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
+  
+  <NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameLast] [ImperialNameFirstFemale]</li>
+    <li>r_name(p=2)->[WordImperial] [ImperialNameFirstFemale]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
+  
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->아이움</li>
+    <li>townend(p=3)->아이오르</li>
+    <li>townend(p=3)->폴리스</li>
+    <li>townend->놀</li>
+    <li>townend->란</li>
+    <li>townend->락스</li>
+    <li>townend->릭스</li>
+    <li>townend->린</li>
+    <li>townend->리안</li>
+    <li>townend->프룸</li>
+    <li>townend->포르</li>
+    <li>townend->테오</li>
+    <li>townend->오플</li>
+    <li>townend->오피움</li>
+    <li>townend->오르</li>
+    <li>townend->아이토르</li>
+    <li>townend->에이움</li>
+    <li>townend->아이티움</li>
+    <li>townend->아엠</li>
+    <li>townend->에이움</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
 </LanguageData>
