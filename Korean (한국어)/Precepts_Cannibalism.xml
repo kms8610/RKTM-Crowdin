@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteHumanMeatAsIngredient.label>인간 고기로 만든 식사</AteHumanMeatAsIngredient.label>
-  
-  <AteHumanMeatDirect.label>인육 섭취 목격</AteHumanMeatDirect.label>
-  
-  <ButcheredHuman.label>인간을 도축함</ButcheredHuman.label>
+  <Cannibalism.label>식인</Cannibalism.label>
 </LanguageData>
