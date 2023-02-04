@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Gathering_Concert.rulePack.rulesStrings>
-    <li>circumstance_phrase->눈을 감으며</li>
-    <li>circumstance_phrase->만족스러운 미소로</li>
-    <li>desc_sentence->명량한 분위기가 감돕니다.</li>
-  </Gathering_Concert.rulePack.rulesStrings>
+  <AttendedConcert.label>연주회 참석</AttendedConcert.label>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ORGANIZER_nameDef]의 연주회에 참석하는 [ATTENDER_nameDef]</li>
+    <li>tale_noun->[ORGANIZER_nameDef]의 공연을 듣는 [ATTENDER_nameDef]</li>
+    <li>image->[circumstance_group] 조용히 듣는 [ATTENDER_nameFull]</li>
+    <li>image->[circumstance_group] [ORGANIZER_nameFull]의 공연을 즐기는 [ATTENDER_nameFull]</li>
+    <li>image->[circumstance_group] 음악에 맞춰 흔드는 [ATTENDER_nameFull]</li>
+    <li>image->[circumstance_group] 음악에 열중하는 [ATTENDER_nameFull]</li>
+    <li>circumstance_phrase->박수 치면서</li>
+    <li>desc_sentence->[Quantity_adjphrase]명의 [PersonJob]들이 함께 춤을 춥니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase]마리의 [Animal]들이 귀 기울여 듣습니다.</li>
+  </AttendedConcert.rulePack.rulesStrings>
+  
+  <HeldConcert.label>연주회 개최</HeldConcert.label>
+  <HeldConcert.rulePack.rulesStrings>
+    <li>tale_noun->[ORGANIZER_nameDef]의 연주회 공연</li>
+    <li>image->[circumstance_group] 특색있는 노래를 연주하는 [ORGANIZER_nameFull]</li>
+    <li>image->청중들과 같이 노래를 하는 [ORGANIZER_nameFull]</li>
+    <li>image->감동적인 노래를 하는 [ORGANIZER_nameFull]</li>
+    <li>image->[circumstance_group] 어려운 곡을 연주하는 [ORGANIZER_nameFull]</li>
+    <li>circumstance_phrase->강렬한 표정으로</li>
+    <li>desc_sentence->[Quantity_adjphrase]명의 [PersonJob]들이 근처에서 듣고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase]마리의 [Animal]들이 근처에서 듣고 있습니다.</li>
+  </HeldConcert.rulePack.rulesStrings>
 </LanguageData>
