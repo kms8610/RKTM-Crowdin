@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Chicken.label>닭</Chicken.label>
-  <Chicken.description>가장 전통적인 가금류인 닭은 달걀과 고기를 위해 길러집니다. 매우 빨리 자라고 알을 자주 낳습니다.</Chicken.description>
-  <Chicken.tools.claws.label>발톱</Chicken.tools.claws.label>
-  <Chicken.tools.beak.label>부리</Chicken.tools.beak.label>
-  <Chicken.tools.head.label>머리</Chicken.tools.head.label>
+  <Chicken.labelFemale>암탉</Chicken.labelFemale>
+  <Chicken.labelMale>수탉</Chicken.labelMale>
+  <Chicken.lifeStages.chick.label>병아리</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>수탉</Chicken.lifeStages.cockerel.labelMale>
   
   <Duck.label>오리</Duck.label>
-  <Duck.description>매우 흔한 종류의 농장 새로, 맛있는 고기 때문에 길러지며, 야생에도 나타납니다. 오리는 빨리 자라며, 알을 꽤 많이 낳습니다.</Duck.description>
-  <Duck.tools.claws.label>발톱</Duck.tools.claws.label>
-  <Duck.tools.beak.label>부리</Duck.tools.beak.label>
-  <Duck.tools.head.label>머리</Duck.tools.head.label>
+  <Duck.lifeStages.duckling.label>새끼 오리</Duck.lifeStages.duckling.label>
   
   <Goose.label>goose</Goose.label>
-  <Goose.description>인간이 알과 고기를 얻기 위해 가금류로서 사육하는 길들여진 새입니다. 알을 매우 자주 낳지만, 부화하는데 오랜 시간이 걸립니다.</Goose.description>
-  <Goose.tools.claws.label>발톱</Goose.tools.claws.label>
-  <Goose.tools.beak.label>부리</Goose.tools.beak.label>
-  <Goose.tools.head.label>머리</Goose.tools.head.label>
+  <Goose.labelPlural>거위</Goose.labelPlural>
   
   <Turkey.label>칠면조</Turkey.label>
-  <Turkey.description>짧고 뚱뚱하고 날 수 없는 새입니다. 웃긴 울음소리로 잘 알려졌습니다. 가축이 된 지 오래지만 야생에서도 서식합니다.</Turkey.description>
-  <Turkey.tools.claws.label>발톱</Turkey.tools.claws.label>
-  <Turkey.tools.beak.label>부리</Turkey.tools.beak.label>
-  <Turkey.tools.head.label>머리</Turkey.tools.head.label>
 </LanguageData>
