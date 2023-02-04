@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulletShieldPsychic.label>완전차폐 보호막</BulletShieldPsychic.label>
+  <Blight.label>병충해</Blight.label>
   
-  <Flashstorm.label>섬광폭풍</Flashstorm.label>
+  <Explosion.label>폭발</Explosion.label>
   
-  <MonumentMarker.label>기념비</MonumentMarker.label>
-  <MonumentMarker.description>기념비를 세울 장소를 표시합니다. 일단 배치되면 이동할 수 없습니다.</MonumentMarker.description>
+  <PawnJumper.label>비행중</PawnJumper.label>
   
-  <SolarPinhole.label>빛의 구멍</SolarPinhole.label>
+  <RadialTrigger.label>근접 트리거</RadialTrigger.label>
+  
+  <RectTrigger.label>직사각 트리거</RectTrigger.label>
+  
+  <Tornado.label>토네이도</Tornado.label>
+  
+  <TriggerContainerEmptied.label>용기 비움 트리거</TriggerContainerEmptied.label>
+  
+  <TriggerUnfogged.label>안개비 제거기</TriggerUnfogged.label>
+  
+  <TunnelHiveSpawner.label>터널</TunnelHiveSpawner.label>
 </LanguageData>
