@@ -1,59 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HungerMaker.label>먹보</HungerMaker.label>
-  <HungerMaker.description>이 무기의 자아는 음식을 좋아하며, 사용자에게도 같은 감정을 전이합니다. 사용자가 느끼는 허기가 50% 증가합니다.</HungerMaker.description>
+  <HungerMaker.label>허기</HungerMaker.label>
+  <HungerMaker.description>결속 무기의 영향으로 허기를 더 많이 느낍니다.</HungerMaker.description>
   
-  <Jealous.label>질투심</Jealous.label>
-  <Jealous.description>이 무기의 자아는 결속자가 다른 무기를 사용하면 질투하여 나쁜 기분을 유도합니다.</Jealous.description>
+  <NeuralHeatRecoveryGain.label> 신경냉각</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>결속 무기의 영향으로 신경열이 더 빠르게 소멸합니다.</NeuralHeatRecoveryGain.description>
   
-  <NeedKill.label>피의 갈망</NeedKill.label>
-  <NeedKill.description>이 무기의 인격체는 살육하기 위해 태어났습니다. 20일 동안 아무도 죽이지 못하면 결속자에게 정신 이상을 유발합니다.</NeedKill.description>
+  <NoPain.label>통각차단</NoPain.label>
+  <NoPain.description>결속 무기의 영향으로 고통을 느끼는 능력이 마비됩니다.</NoPain.description>
   
-  <NeuralHeatRecoveryGain.label>신경 냉각</NeuralHeatRecoveryGain.label>
-  <NeuralHeatRecoveryGain.description>이 무기의 자아는 신경열을 분산시키는 기능이 있습니다. 결속자의 신경열이 초당 0.15 빠르게 해소됩니다.</NeuralHeatRecoveryGain.description>
-  
-  <NeverBond.label>자유 의지</NeverBond.label>
-  <NeverBond.description>이 무기의 자아는 주인을 고르지 않습니다. 누구라도 집어서 사용할 수 있습니다.</NeverBond.description>
-  
-  <NoPain.label>통각 차단</NoPain.label>
-  <NoPain.description>이 무기의 자아는 정신적 고통을 가로채는 기능이 있습니다. 사용자는 아무 고통도 느끼지 못합니다.</NoPain.description>
-  
-  <OnKill_PsyfocusGain.label>살인 집중</OnKill_PsyfocusGain.label>
-  <OnKill_PsyfocusGain.description>이 무기의 자아는 죽음의 감정을 이용합니다. 이 무기로 누군가를 죽일 때 사용자는 즉시 초집중 20%를 얻습니다.</OnKill_PsyfocusGain.description>
-  
-  <OnKill_ThoughtBad.label>살인 거부</OnKill_ThoughtBad.label>
-  <OnKill_ThoughtBad.description>이 무기의 자아는 살인을 싫어합니다. 누군가를 죽이면 무기가 느끼는 슬픔이 사용자에게 전이됩니다.</OnKill_ThoughtBad.description>
-  
-  <OnKill_ThoughtGood.label>살인 중독</OnKill_ThoughtGood.label>
-  <OnKill_ThoughtGood.description>이 무기의 자아는 살인을 좋아합니다. 누군가를 죽이면 무기가 느끼는 기쁨이 사용자에게 전이됩니다.</OnKill_ThoughtGood.description>
-  
-  <PsychicSensitivityDownMajor.label>정신 안개</PsychicSensitivityDownMajor.label>
-  <PsychicSensitivityDownMajor.description>이 무기는 사용자의 정신 감응력을 30% 억제합니다. 무기를 들고 있는 동안만 적용됩니다.</PsychicSensitivityDownMajor.description>
-  
-  <PsychicSensitivityDownMinor.label>고요한 정신</PsychicSensitivityDownMinor.label>
-  <PsychicSensitivityDownMinor.description>이 무기는 사용자의 정신 감응력을 15% 억제합니다. 무기를 들고 있는 동안만 적용됩니다.</PsychicSensitivityDownMinor.description>
-  
-  <PsychicSensitivityUpMajor.label>정신 과민</PsychicSensitivityUpMajor.label>
-  <PsychicSensitivityUpMajor.description>이 무기는 사용자의 정신 감응력을 40% 증폭시킵니다. 무기를 들고 있는 동안만 적용됩니다.</PsychicSensitivityUpMajor.description>
-  
-  <PsychicSensitivityUpMinor.label>초능력 증진기</PsychicSensitivityUpMinor.label>
-  <PsychicSensitivityUpMinor.description>이 무기는 사용자의 정신 감응력을 20% 증폭시킵니다. 무기를 들고 있는 동안만 적용됩니다.</PsychicSensitivityUpMinor.description>
-  
-  <PsyfocusMeditationBonus.label>명상 지원</PsyfocusMeditationBonus.label>
-  <PsyfocusMeditationBonus.description>이 무기는 효과적인 명상 매개체가 될 수 있습니다. 사용자는 명상 효율이 10% 상승합니다.</PsyfocusMeditationBonus.description>
-  
-  <SpeedBoost.label>신속 질주</SpeedBoost.label>
-  <SpeedBoost.description>이 무기의 자아는 운동신경을 자극하는 기능이 있습니다. 사용자는 이동 속도가 15% 빨라집니다.</SpeedBoost.description>
-  
-  <ThoughtCalm.label>고요한 생각</ThoughtCalm.label>
-  <ThoughtCalm.description>이 무기의 자아는 편안하고 안정적입니다. 항시 결속자에게 차분한 생각을 속삭여 좋은 기분을 유도합니다.</ThoughtCalm.description>
-  
-  <ThoughtKind.label>친절한 생각</ThoughtKind.label>
-  <ThoughtKind.description>이 무기의 자아는 친절하고 이타적입니다. 항시 결속자에게 친절한 생각을 속삭여 좋은 기분을 유도합니다.</ThoughtKind.description>
-  
-  <ThoughtMuttering.label>불평</ThoughtMuttering.label>
-  <ThoughtMuttering.description>이 무기의 자아는 불안정하고 신경질적입니다. 항시 결속자에게 미친 생각을 속삭여 나쁜 기분을 유도합니다.</ThoughtMuttering.description>
-  
-  <ThoughtWailing.label>통곡</ThoughtWailing.label>
-  <ThoughtWailing.description>이 무기의 자아는 매우 불안정해 조용할 날이 없습니다. 항시 결속자에게 미친 생각을 전달해 나쁜 기분을 유도합니다.</ThoughtWailing.description>
+  <SpeedBoost.label>질주</SpeedBoost.label>
+  <SpeedBoost.description>결속 무기의 영향으로 이동속도가 빨라집니다.</SpeedBoost.description>
 </LanguageData>
