@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArchotechArm.label>초월공학 팔</ArchotechArm.label>
-  <ArchotechArm.description>초월공학 팔이 설치되어 있습니다.</ArchotechArm.description>
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <ArchotechArm.labelNoun>초월공학 팔</ArchotechArm.labelNoun>
+  <InstallArchotechArm.label>초월공학 팔 이식</InstallArchotechArm.label>
+  <InstallArchotechArm.description>초월공학 팔을 이식합니다.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>초월공학 팔 이식 중.</InstallArchotechArm.jobString>
   
-  <ArchotechEye.label>초월공학 눈</ArchotechEye.label>
-  <ArchotechEye.description>초월공학 눈이 설치되어 있습니다.</ArchotechEye.description>
-  <ArchotechEye.labelNoun>초월공학 눈</ArchotechEye.labelNoun>
+  <InstallArchotechEye.label>초월공학 눈 이식</InstallArchotechEye.label>
+  <InstallArchotechEye.description>초월공학 눈을 이식합니다.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>초월공학 눈 이식 중.</InstallArchotechEye.jobString>
   
-  <ArchotechLeg.label>초월공학 다리</ArchotechLeg.label>
-  <ArchotechLeg.description>초월공학 다리가 설치되어 있습니다.</ArchotechLeg.description>
-  <ArchotechLeg.labelNoun>초월공학 다리</ArchotechLeg.labelNoun>
+  <InstallArchotechLeg.label>초월공학 다리 이식</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>초월공학 다리를 이식합니다.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>초월공학 다리 이식 중.</InstallArchotechLeg.jobString>
 </LanguageData>
