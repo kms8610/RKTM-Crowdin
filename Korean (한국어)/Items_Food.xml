@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Kibble.label>사료</Kibble.label>
-  <Kibble.description>동물성과 식물성 재료가 잘 섞인 동물 사료입니다. 사람도 먹을 수는 있지만 정말, 정말 싫어합니다.</Kibble.description>
+  <BabyFood.label>baby food</BabyFood.label>
+  <BabyFood.description>A bland vegetarian mash. Babies love it, but children and adults will be upset if they're forced to eat it.</BabyFood.description>
   
-  <MealFine.label>좋은 식사</MealFine.label>
-  <MealFine.description>다양한 재료로 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine.description>
-  
-  <MealFine_Meat.label>좋은 육식 위주 식사</MealFine_Meat.label>
-  <MealFine_Meat.description>고기들을 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Meat.description>
-  
-  <MealFine_Veg.label>좋은 채식 위주 식사</MealFine_Veg.label>
-  <MealFine_Veg.description>채식식재를 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Veg.description>
-  
-  <MealLavish.label>호화로운 식사</MealLavish.label>
-  <MealLavish.description>숙련된 요리사가 신선한 식재료의 가장 좋은 부분과 값비싼 향신료를 사용해 만든 고급요리입니다. 몸과 마음에 충분한 영양분을 공급합니다.</MealLavish.description>
-  
-  <MealLavish_Meat.label>호화로운 육식 위주 식사</MealLavish_Meat.label>
-  <MealLavish_Meat.description>숙련된 요리사가 신선한 식재료의 가장 좋은 부분과 값비싼 향신료를 사용해 만든 고급요리입니다. 몸과 마음에 충분한 영양분을 공급합니다.</MealLavish_Meat.description>
-  
-  <MealLavish_Veg.label>호화로운 채식 위주 식사</MealLavish_Veg.label>
-  <MealLavish_Veg.description>숙련된 요리사가 신선한 식재료의 가장 좋은 부분과 값비싼 향신료를 사용해 만든 고급요리입니다. 몸과 마음에 충분한 영양분을 공급합니다.</MealLavish_Veg.description>
-  
-  <MealNutrientPaste.label>영양 죽</MealNutrientPaste.label>
-  <MealNutrientPaste.description>단백질, 탄수화물, 비타민, 아미노산과 미네랄 등으로 이루어진 합성 물질입니다. 신체가 정확히 필요로 하는 것이지만 매우 역겹습니다.</MealNutrientPaste.description>
-  
-  <MealSimple.label>간단한 식사</MealSimple.label>
-  <MealSimple.description>단순한 재료로 빠르게 만들 수 있는 요리입니다.</MealSimple.description>
-  
-  <MealSurvivalPack.label>보존 식량</MealSurvivalPack.label>
-  <MealSurvivalPack.description>생존상황에서 사용하기 위해 제조된 고품질 포장 식사입니다. 그것은 절대 썩지 않지만, 밖에 놔두면 여전히 망가질 수 있습니다. 여행하기에 아주 좋습니다.</MealSurvivalPack.description>
-  
-  <Pemmican.label>페미컨</Pemmican.label>
-  <Pemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 1년 이상 멀쩡합니다.</Pemmican.description>
+  <HemogenPack.label>hemogen pack</HemogenPack.label>
+  <HemogenPack.description>A package of refined hemogen in a specialized container that prevents spoilage. Hemogenic humans can consume it to restore their internal hemogen stores. It can be administered via an operation to reverse blood loss.</HemogenPack.description>
 </LanguageData>
