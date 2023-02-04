@@ -1,45 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MinifiedThing.label>소형화된 물건</MinifiedThing.label>
-  
-  <MinifiedTree.label>포장된 나무</MinifiedTree.label>
-  
-  <UnfinishedApparel.label>미완성 의복</UnfinishedApparel.label>
-  <UnfinishedApparel.description>미완성된 의복입니다.</UnfinishedApparel.description>
-  
-  <UnfinishedArmor.label>미완성 방어구</UnfinishedArmor.label>
-  <UnfinishedArmor.description>미완성된 방어구입니다.</UnfinishedArmor.description>
-  
-  <UnfinishedBelt.label>미완성 벨트</UnfinishedBelt.label>
-  <UnfinishedBelt.description>미완성된 벨트입니다.</UnfinishedBelt.description>
-  
-  <UnfinishedComponent.label>미완성 부품</UnfinishedComponent.label>
-  <UnfinishedComponent.description>미완성된 부품입니다.</UnfinishedComponent.description>
-  
-  <UnfinishedGun.label>미완성 화기</UnfinishedGun.label>
-  <UnfinishedGun.description>미완성된 화기입니다.</UnfinishedGun.description>
-  
-  <UnfinishedHealthItemBionic.label>미완성 생체공학</UnfinishedHealthItemBionic.label>
-  <UnfinishedHealthItemBionic.description>미완성된 생체공학입니다.</UnfinishedHealthItemBionic.description>
-  
-  <UnfinishedHealthItemProsthetic.label>미완성 보철물</UnfinishedHealthItemProsthetic.label>
-  <UnfinishedHealthItemProsthetic.description>미완성된 보철물입니다.</UnfinishedHealthItemProsthetic.description>
-  
-  <UnfinishedMask.label>unfinished mask</UnfinishedMask.label>
-  <UnfinishedMask.description>An unfinished mask.</UnfinishedMask.description>
-  
-  <UnfinishedMetallicTechArmor.label>미완성 금속 방어구</UnfinishedMetallicTechArmor.label>
-  <UnfinishedMetallicTechArmor.description>미완성된 금속 방어구입니다.</UnfinishedMetallicTechArmor.description>
-  
-  <UnfinishedPack.label>미완성 등짐</UnfinishedPack.label>
-  <UnfinishedPack.description>미완성된 등짐 조각입니다.</UnfinishedPack.description>
-  
-  <UnfinishedSculpture.label>미완성 예술품</UnfinishedSculpture.label>
-  <UnfinishedSculpture.description>미완성된 예술품입니다.</UnfinishedSculpture.description>
-  
-  <UnfinishedTechArmor.label>미완성 고급 방어구</UnfinishedTechArmor.label>
-  <UnfinishedTechArmor.description>미완성된 고급 방어구입니다.</UnfinishedTechArmor.description>
-  
-  <UnfinishedWeapon.label>미완성된 무기</UnfinishedWeapon.label>
-  <UnfinishedWeapon.description>미완성된 무기입니다.</UnfinishedWeapon.description>
+  <UnfinishedSubcore.label>unfinished subcore</UnfinishedSubcore.label>
+  <UnfinishedSubcore.description>An unfinished mechanoid subcore.</UnfinishedSubcore.description>
 </LanguageData>
