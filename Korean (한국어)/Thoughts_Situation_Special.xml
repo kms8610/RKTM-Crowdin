@@ -1,59 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Aurora.stages.beautiful_aurora.label>아름다운 오로라</Aurora.stages.beautiful_aurora.label>
-  <Aurora.stages.beautiful_aurora.description>정말 아름다운 경치야.</Aurora.stages.beautiful_aurora.description>
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>archotech emanation</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>The scale of it. The fractal logic-scape of the multiversal hyperplane. No distance. No time. No me or them. I'm everything. I'm nothing.</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>archotech emanation</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>
+  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>I can feel the edge of its thoughts, see the endless scope when I close my eyes. I need to focus on my physical body or I drift away.</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>
   
-  <ColonistLeftUnburied.stages.colonist_left_unburied.label>매장되지 않은 정착민</ColonistLeftUnburied.stages.colonist_left_unburied.label>
-  <ColonistLeftUnburied.stages.colonist_left_unburied.description>죽은 동료를 밖에 그냥 내버려 두고 있어. 아무도 이런 식으로 대접받아선 안돼. 사람들은 정당한 장례를 받아 마땅하다고.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>archotech emanation</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>It makes me perceive so much. Eyeless knowledge of absolute existence, all minds speaking and dying and birthing at once. It's hard not to lose connection with myself.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>archotech emanation</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>
+  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>It pays no attention to me but I sense the edge of its perception. Flashes of terrifying timeless sight. Hard to ignore.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>
   
-  <DoingPassionateWork.stages.minor_passion_for_my_work.label>minor passion for my work</DoingPassionateWork.stages.minor_passion_for_my_work.label>
-  <DoingPassionateWork.stages.minor_passion_for_my_work.description>일하는 게 즐거워.</DoingPassionateWork.stages.minor_passion_for_my_work.description>
-  <DoingPassionateWork.stages.burning_passion_for_my_work.label>불타는 열정</DoingPassionateWork.stages.burning_passion_for_my_work.label>
-  <DoingPassionateWork.stages.burning_passion_for_my_work.description>일하는 게 너무 좋아. 매일 하루종일이라도 할 수 있어.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
-  
-  <Joywire.stages.joywire.label>쾌락회로</Joywire.stages.joywire.label>
-  <Joywire.stages.joywire.description>정말 놀라운 느낌이야.</Joywire.stages.joywire.description>
-  
-  <MissingTongue.stages.missing_tongue.label>missing tongue</MissingTongue.stages.missing_tongue.label>
-  <MissingTongue.stages.missing_tongue.description>I am missing my tongue. It is so frustrating not being able to speak!</MissingTongue.stages.missing_tongue.description>
-  
-  <Naked.stages.naked.label>벌거벗음</Naked.stages.naked.label>
-  <Naked.stages.naked.description>난 벌거벗었어... 이건 굴욕적이야.</Naked.stages.naked.description>
-  
-  <Pain.stages.minor_pain.label>가벼운 고통</Pain.stages.minor_pain.label>
-  <Pain.stages.minor_pain.description>아야! 아프잖아.</Pain.stages.minor_pain.description>
-  <Pain.stages.serious_pain.label>심각한 고통</Pain.stages.serious_pain.label>
-  <Pain.stages.serious_pain.description>아파... 그만해...</Pain.stages.serious_pain.description>
-  <Pain.stages.intense_pain.label>심각한 고통</Pain.stages.intense_pain.label>
-  <Pain.stages.intense_pain.description>제발 그만... 제발 그만... 제발 그만...</Pain.stages.intense_pain.description>
-  <Pain.stages.mindshattering_pain.label>정신이 찢어지는 고통</Pain.stages.mindshattering_pain.label>
-  <Pain.stages.mindshattering_pain.description>아아아아!!! 차라리 죽여줘!</Pain.stages.mindshattering_pain.description>
-  
-  <PsychicDrone.stages.psychic_soothe.label>편안한 정신파동</PsychicDrone.stages.psychic_soothe.label>
-  <PsychicDrone.stages.psychic_soothe.description>그것은 영혼을 달래는 조용한 흥얼거림으로 내 마음을 편안하게 만들고 있다.</PsychicDrone.stages.psychic_soothe.description>
-  <PsychicDrone.stages.low_psychic_drone.label>괴로운 정신파동 (약함)</PsychicDrone.stages.low_psychic_drone.label>
-  <PsychicDrone.stages.low_psychic_drone.description>마음을 할퀴는 느낌이야. 어떤 목소리가 속삭이고 있어. 알아듣긴 힘들지만 너무 불쾌해.</PsychicDrone.stages.low_psychic_drone.description>
-  <PsychicDrone.stages.moderate_psychic_drone.label>괴로운 정신파동 (중간)</PsychicDrone.stages.moderate_psychic_drone.label>
-  <PsychicDrone.stages.moderate_psychic_drone.description>내 눈 밖의 누군가가 자꾸 내게 속삭이고 있어. 목소리는 계속 바뀌지만 똑같은 말만을 반복해. 난 모두를 공격해야돼. 이 목소리를 멈춰야 해!</PsychicDrone.stages.moderate_psychic_drone.description>
-  <PsychicDrone.stages.high_psychic_drone.label>괴로운 정신파동 (강함)</PsychicDrone.stages.high_psychic_drone.label>
-  <PsychicDrone.stages.high_psychic_drone.description>이 목소리... 너무 시끄러워서 견디기도 힘들어. 대답을 해도, 큰 소리를 쳐도, 무조건 소리만 지르고 있다고!</PsychicDrone.stages.high_psychic_drone.description>
-  <PsychicDrone.stages.extreme_psychic_drone.label>괴로운 정신파동 (극심함)</PsychicDrone.stages.extreme_psychic_drone.label>
-  <PsychicDrone.stages.extreme_psychic_drone.description>심장이 쿵쾅거리고 식은 땀이 나. 다치고, 다치게 하고, 고통을 주고, 겪고, 내 주위의 모든 사람들은... 적들은... 내 악몽이야. 악몽. 악몽...</PsychicDrone.stages.extreme_psychic_drone.description>
-  
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>편안한 정신파동 방출기</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
-  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>정신파동때문에 기분이 이상해. 하지만 정말 편안한걸.</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
-  
-  <RotStink.stages.rot_stink.label>rot stink</RotStink.stages.rot_stink.label>
-  <RotStink.stages.rot_stink.description>A rotten stink invades my nostrils and sticks to my skin. It makes me sick.</RotStink.stages.rot_stink.description>
-  <RotStink.stages.awful_rot_stink.label>awful rot stink</RotStink.stages.awful_rot_stink.label>
-  <RotStink.stages.awful_rot_stink.description>The stench of rot is so thick I almost feel like I'm swimming in it. I can hardly breathe in this filth!</RotStink.stages.awful_rot_stink.description>
-  
-  <RotStinkLingering.stages.rot_stink_lingering.label>rot stink lingering</RotStinkLingering.stages.rot_stink_lingering.label>
-  <RotStinkLingering.stages.rot_stink_lingering.description>That rot stink was horrible - and it feels like it's still stuck to me.</RotStinkLingering.stages.rot_stink_lingering.description>
-  
-  <SharedBed.stages.sharing_bed.label>sharing bed</SharedBed.stages.sharing_bed.label>
-  <SharedBed.stages.sharing_bed.description>이 사람하고 같은 침대에서 자고 싶지는 않은데.</SharedBed.stages.sharing_bed.description>
-  
-  <ToxicFallout.stages.toxic_fallout.label>유독성 낙진</ToxicFallout.stages.toxic_fallout.label>
-  <ToxicFallout.stages.toxic_fallout.description>Sickly yellow toxic flakes drift around me like snow. The air burns my skin, throat, and lungs everywhere it touches.</ToxicFallout.stages.toxic_fallout.description>
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>archotech emanation</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>These thoughts coming from the structure, they open doors to such vastness... I feel so small that I might disappear.</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>archotech emanation</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>
+  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>I can feel the edge of its wordless whispers... They make me uneasy.</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>
 </LanguageData>
