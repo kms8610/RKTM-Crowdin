@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalCalm.label>동물 진정</AnimalCalm.label>
-  <AnimalCalm.description>특수한 동물 교감 기술을 통해 화난 야수를 진정시킵니다.</AnimalCalm.description>
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(을)를 성공적으로 진정시켰습니다.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AcidSpray.label>acid spray</AcidSpray.label>
+  <AcidSpray.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.</AcidSpray.description>
   
-  <BerserkTrance.label>피의 무아지경</BerserkTrance.label>
-  <BerserkTrance.description>The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours.</BerserkTrance.description>
+  <AnimalWarcall.label>animal warcall</AnimalWarcall.label>
+  <AnimalWarcall.description>With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours.</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>warcall</AnimalWarcall.verbProperties.label>
   
-  <CombatCommand.label>전투 지휘</CombatCommand.label>
-  <CombatCommand.description>지도력을 발휘하여 주변 모든 아군의 격투 기술을 향상시킵니다.</CombatCommand.description>
+  <Bloodfeed.label>bloodfeed</Bloodfeed.label>
+  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size.</Bloodfeed.description>
   
-  <ConversionRitual.label>교화 의식</ConversionRitual.label>
-  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n의식을 시작하려면 행사 장소 또는 제단, 상징문양을 선택하세요.</ConversionRitual.description>
+  <Coagulate.label>coagulate</Coagulate.label>
+  <Coagulate.description>Use special glands in the wrists to quickly tend someone's wounds.</Coagulate.description>
   
-  <Convert.label>convert</Convert.label>
-  <Convert.description>대상을 전도사의 사상으로 교화하도록 시도합니다. 대상의 사상에 대한 믿음을 감소시킵니다. 믿음의 감소는 전도사의 협상 능력에 따릅니다.</Convert.description>
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort} 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}(으)로 감소했습니다.</Convert.comps.CompAbilityEffect_Convert.failMessage>
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}(으)로 교화시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <FireBurst.label>fire burst</FireBurst.label>
+  <FireBurst.description>Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground.</FireBurst.description>
   
-  <Counsel.label>심리 상담</Counsel.label>
-  <Counsel.description>대상자와 상담을 통해 나쁜 기억을 제거합니다. 성공 확률은 상담사의 사교 기술과 상담자와의 사회적 관계에 영향을 받습니다.</Counsel.description>
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 그르쳤습니다. {RECIPIENT_labelShort}의 기분이 상했습니다.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}(이)가 상담을 성공적으로 마쳐 {RECIPIENT_labelShort}의 {2} 무드 효과를 제거했습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 성공적으로 마쳐 
- {RECIPIENT_possessive} 무드를 {MOODBONUS}만큼 증가시켰습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <FireSpew.label>fire spew</FireSpew.label>
+  <FireSpew.description>Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition.</FireSpew.description>
   
-  <FarmingCommand.label>농업 감독</FarmingCommand.label>
-  <FarmingCommand.description>지도력을 발휘하여 주변 모든 정착민의 재배 기술을 향상시킵니다.</FarmingCommand.description>
+  <FirefoampopMech.label>firefoam pop</FirefoampopMech.label>
+  <FirefoampopMech.description>Release a fire-retardant foam in a circular area.</FirefoampopMech.description>
   
-  <ImmunityDrive.label>Immunity drive</ImmunityDrive.label>
-  <ImmunityDrive.description>정신적인 지원을 통해 대상의 신체의 활력을 불어넣어 면역력을 하룻동안 증가시킵니다.</ImmunityDrive.description>
+  <FoamSpray.label>foam spray</FoamSpray.label>
+  <FoamSpray.description>Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches.</FoamSpray.description>
   
-  <LeaderSpeech.label>지도 연설</LeaderSpeech.label>
-  <LeaderSpeech.description>지도자가 연설을 시작합니다. 연설이 잘 진행된다면 청자들은 기분이 향상되고, 지도자에 대한 존경심을 가지며, 때때로 영감을 얻게 됩니다. 그러나 연설이 끔찍하다고 느낀다면 실망할 것입니다.</LeaderSpeech.description>
+  <Longjump.label>longjump</Longjump.label>
+  <Longjump.description>Jump to a distant location using super-strong hemogen-powered legs.</Longjump.description>
+  <Longjump.verbProperties.label>점프</Longjump.verbProperties.label>
   
-  <MarksmanCommand.label>사수 지휘</MarksmanCommand.label>
-  <MarksmanCommand.description>지도력을 발휘하여 주변 모든 아군의 사격 기술을 향상시킵니다.</MarksmanCommand.description>
+  <LongjumpMech.label>mech longjump</LongjumpMech.label>
+  <LongjumpMech.description>Jump to a distant location using special ultrafast mechanoid muscles.</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>점프</LongjumpMech.verbProperties.label>
   
-  <MiningCommand.label>채굴 감독</MiningCommand.label>
-  <MiningCommand.description>지도력을 발휘하여 주변 모든 정착민의 채굴 능력을 향상시킵니다.</MiningCommand.description>
+  <LongjumpMechLauncher.label>jump launcher</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>Jump to a distant location using a built-in jump launcher.</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>점프</LongjumpMechLauncher.verbProperties.label>
   
-  <PreachHealth.label>preach health</PreachHealth.label>
-  <PreachHealth.description>대상의 생존 의지를 자극하여 상처 재생 능력과 면역 획득 속도를 증가시킵니다.</PreachHealth.description>
+  <PiercingSpine.label>piercing spine</PiercingSpine.label>
+  <PiercingSpine.description>Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.</PiercingSpine.description>
   
-  <ProductionCommand.label>생산 감독</ProductionCommand.label>
-  <ProductionCommand.description>지도력을 발휘하여 주변 모든 정착민의 건설 및 제작 능력을 향상시킵니다.</ProductionCommand.description>
+  <ReimplantXenogerm.label>implant genes</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
   
-  <Reassure.label>reassure</Reassure.label>
-  <Reassure.description>대상자의 사상에 대한 믿음을 강화합니다. 회복되는 믿음의 수치는 전도사의 협상 능력에 따릅니다.</Reassure.description>
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}에게 다시 확신을 심어주었습니다. {RECIPIENT_labelShort}의 {IDEO}에 대한 믿음이 {BEFORECERTAINTY}에서 {AFTERCERTAINTY}(으)로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Resurrect.label>resurrect</Resurrect.label>
+  <Resurrect.description>Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely.</Resurrect.description>
   
-  <ResearchCommand.label>연구 지휘</ResearchCommand.label>
-  <ResearchCommand.description>지도력을 발휘하여 주변 모든 정착민의 연구 속도를 향상시킵니다.</ResearchCommand.description>
+  <ResurrectionMech.label>resurrect mech</ResurrectionMech.label>
+  <ResurrectionMech.description>Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed.</ResurrectionMech.description>
   
-  <Trial.label>재판</Trial.label>
-  <Trial.description>용의자를 기소하여 죄의 유무를 판단할 재판을 진행합니다. 유죄가 선고된다면, 피의자를 수감 및 추방, 처형을 통한 불이익이 발생하지 않습니다. 판결의 결과는 피고와 원고의 사교적 능력치에 영향을 받습니다.</Trial.description>
-  
-  <WorkDrive.label>작업 격려</WorkDrive.label>
-  <WorkDrive.description>정착민 하나를 지정해 잠깐 더 열심히 작업하도록 합니다.</WorkDrive.description>
+  <SmokepopMech.label>mech smokepop</SmokepopMech.label>
+  <SmokepopMech.description>Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</SmokepopMech.description>
 </LanguageData>
