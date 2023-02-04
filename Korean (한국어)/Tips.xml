@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BiotechTips.CallBossgroups>Mechanitors can summon powerful mechs. Fight them yourself - or draw them into your enemies.</BiotechTips.CallBossgroups>
-  <BiotechTips.ChildrenBarracks>Children can sleep in the same room as parents and other children without any negative mood effect.</BiotechTips.ChildrenBarracks>
-  <BiotechTips.NoxiousHaze>The more polluted nearby world tiles are, the more often you'll get acidic smog.</BiotechTips.NoxiousHaze>
-  <BiotechTips.CustomXenotypes>When starting a new game, you can create custom xenotypes with any genetic combination you want.</BiotechTips.CustomXenotypes>
-  <BiotechTips.ArmedChildren>Enemies are less likely to target or hunt down children who are unarmed. You can keep kids safer by not giving them weapons.</BiotechTips.ArmedChildren>
+  <RoyaltyTips.TitleMilitaryAid>귀족은 종종 군사 지원을 요청할 수 있습니다. 이것은 가장 힘든 순간을 이겨낼 수 있게 합니다.</RoyaltyTips.TitleMilitaryAid>
+  <RoyaltyTips.NoblesDemandPrivileges>제국의 귀족들은 작위에 걸맞은 특권을 요구합니다. 탐욕이나 질투 특성이 없는 한, 정착민 출신 귀족은 조금 더 유연하게 행동합니다.</RoyaltyTips.NoblesDemandPrivileges>
+  <RoyaltyTips.RoyalArmor>장교 갑옷과 엘텍스 의복은 왕실 의복 조건을 충족합니다.</RoyaltyTips.RoyalArmor>
+  <RoyaltyTips.TitleInheritance>작위 보유자가 사망하면 작위는 선택된 상속자에게로 넘어갑니다.</RoyaltyTips.TitleInheritance>
+  <RoyaltyTips.ChangeHeir>통신기를 통해 왕실 작위 보유자의 후계자를 변경할 수 있으나, 의식을 완성해야 합니다.</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.FreePsychicAmplifier>제국은 작위 보유자에게 작위에 걸맞은 수준의 정신력 증폭기를 수여합니다.</RoyaltyTips.FreePsychicAmplifier>
+  <RoyaltyTips.IllegalImplantUse>Psylink neuroformers can be acquired through quests. These items can give a person psychic powers.</RoyaltyTips.IllegalImplantUse>
+  <RoyaltyTips.InstallingPsychicAmplifier>정신력 증폭 단계가 높아질 때마다 하나의 무작위 초집중 능력을 얻게 됩니다.</RoyaltyTips.InstallingPsychicAmplifier>
+  <RoyaltyTips.PsycastAdvantage>초능력 주문은 전투에서 상당한 이점을 얻을 수 있습니다.</RoyaltyTips.PsycastAdvantage>
+  <RoyaltyTips.PsycastFactionRelations>동맹에게 부정적인 초능력을 시전할 때만 관계에 영향을 미칩니다.</RoyaltyTips.PsycastFactionRelations>
+  <RoyaltyTips.PsycastInvisibility>공격할 때도 투명 초능력 효과는 사라지지 않습니다.</RoyaltyTips.PsycastInvisibility>
+  <RoyaltyTips.PsychicEntropyLimit>신경열 한계를 초과하면 정신 혼란 상태가 잠시간 지속될 수 있습니다.</RoyaltyTips.PsychicEntropyLimit>
+  <RoyaltyTips.PsycastSensitivity>정신 감응력이 높은 생명체는 초능력 주문에 더 많은 영향을 받습니다.</RoyaltyTips.PsycastSensitivity>
+  <RoyaltyTips.EltexGear>초능력자가 초집중 장비를 장착하면 신경열 한계와 재생속도가 증가합니다.</RoyaltyTips.EltexGear>
+  <RoyaltyTips.MechClusterPowercell>메카노이드 전초 기지를 공격할 때는 불안정한 발전기를 노려보세요. 폭발하면서 주변에 큰 피해를 줍니다.</RoyaltyTips.MechClusterPowercell>
+  <RoyaltyTips.MechClusterDormant>몇몇 메카 전초기지는 방해 받을 때까지 휴면 상태에 있습니다. 그 시간을 이용해 공격할 준비를 하세요.</RoyaltyTips.MechClusterDormant>
+  <RoyaltyTips.RoyalTributeCollector>공물 징수인은 1년에 두 번 도착하며, 신임장을 발행하는 대가로 포로와 금을 받습니다.</RoyaltyTips.RoyalTributeCollector>
+  <RoyaltyTips.MechClusterDormantTrigger>휴면 중인 메카노이드 전초기지는 공격하거나 경보 장치를 자극하지 않는 한 안전합니다.</RoyaltyTips.MechClusterDormantTrigger>
+  <RoyaltyTips.SkipPsycastsMultiuse>초집중 도약 효과는 자신, 아군, 적, 심지어 아이템에도 사용할 수 있습니다. 전술적 가능성은 무궁무진합니다.</RoyaltyTips.SkipPsycastsMultiuse>
+  <RoyaltyTips.JumpPackRescue>점프팩을 사용 중일 때도 쓰러진 아군을 들쳐 멜 수 있습니다. 공중 구조로 목숨을 살리세요.</RoyaltyTips.JumpPackRescue>
 </LanguageData>
