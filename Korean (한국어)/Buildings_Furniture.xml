@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BabyDecoration.label>baby decoration</BabyDecoration.label>
-  <BabyDecoration.description>A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas.</BabyDecoration.description>
+  <Brazier.label>화로</Brazier.label>
+  <Brazier.description>불을 붙일 때 사용하는 그릇 모양의 가구입니다. 주위를 밝혀주고 열을 발생시킵니다.</Brazier.description>
   
-  <BabySleepingSpot.label>baby sleeping spot</BabySleepingSpot.label>
-  <BabySleepingSpot.description>Designates a spot on the ground where people should leave a baby. Not comfortable.</BabySleepingSpot.description>
+  <DarklightBrazier.label>희미한 화로</DarklightBrazier.label>
+  <DarklightBrazier.description>주변에 희미한 빛을 발산하고 열을 발생시키는 특수처리된 화로입니다. 왕실 화로 요구사항을 충족시킵니다.</DarklightBrazier.description>
   
-  <Blackboard.label>칠판</Blackboard.label>
-  <Blackboard.description>A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time.</Blackboard.description>
-  <Blackboard.comps.CompStatEntry.reportText>When near a desk where a lesson is taking place, this building increases the student's learning rate. This effect can stack up to three times.</Blackboard.comps.CompStatEntry.reportText>
-  <Blackboard.comps.CompStatEntry.statLabel>Learning rate bonus</Blackboard.comps.CompStatEntry.statLabel>
+  <Drape.label>휘장</Drape.label>
+  <Drape.description>수직의 나무에 천을 달아놓은 장식으로 왕실에 적합합니다.</Drape.description>
   
-  <Crib.label>crib</Crib.label>
-  <Crib.description>A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks.</Crib.description>
+  <GrandThrone.label>대왕좌</GrandThrone.label>
+  <GrandThrone.description>앉아서 통치할 귀족을 위해 설계된 거대하고 화려한 의자입니다. 왕좌를 배치하면 알현실로 정의되며, 귀족들의 욕구를 만족시키기 위해 앉을 수 있습니다.</GrandThrone.description>
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Throne ownership requires a person with a royal title.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
-  <SchoolDesk.label>school desk</SchoolDesk.label>
-  <SchoolDesk.description>A desk where adults can teach lessons to children.</SchoolDesk.description>
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>A multiplier on how quickly children learn during lessons which are assisted by this.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>Learning rate bonus</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
-  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>Learning rate bonus</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
-  
-  <ToyBox.label>toy box</ToyBox.label>
-  <ToyBox.description>A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play.</ToyBox.description>
+  <Throne.label>왕좌</Throne.label>
+  <Throne.description>귀족만이 앉을 수 있는 크고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</Throne.description>
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>Throne ownership requires a person with a royal title.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
 </LanguageData>
