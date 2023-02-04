@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychiteTea.label>광이차</PsychiteTea.label>
-  <PsychiteTea.description>말린 광이풀 잎을 끓인 차로, 좋은 향을 풍기며 마시면 약한 도취감을 느낄 수 있습니다. 만들기 매우 쉽지만 중독에 주의해야 합니다.\n\n많은 부족들이 삶의 활력소가 필요하거나 사회적, 종교적 의식의 일부로 광이차를 사용하기도 합니다.</PsychiteTea.description>
-  <PsychiteTea.ingestible.ingestCommandString>{0} 마시기</PsychiteTea.ingestible.ingestCommandString>
-  <PsychiteTea.ingestible.ingestReportString>{0} 마시는 중</PsychiteTea.ingestible.ingestReportString>
+  <PsychiteTeaHigh.stages.psychite_tea.label>광이차</PsychiteTeaHigh.stages.psychite_tea.label>
+  <PsychiteTeaHigh.stages.psychite_tea.description>이 차를 마시는건 대단해. 날 너무 기분 좋게 해!</PsychiteTeaHigh.stages.psychite_tea.description>
 </LanguageData>
