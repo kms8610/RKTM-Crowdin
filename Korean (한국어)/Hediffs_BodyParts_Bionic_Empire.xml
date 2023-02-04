@@ -1,53 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <AestheticNose.label>코 성형 보철물</AestheticNose.label>
-  <AestheticNose.description>코에 장착되어, 얼굴 형태를 사용자가 원하는 형태로 교정하여 아름답게 만들어주는 장치입니다.</AestheticNose.description>
+  <AestheticNose.description>미형 코로 성형했습니다.</AestheticNose.description>
+  <AestheticNose.labelNoun>미형 코</AestheticNose.labelNoun>
   
   <AestheticShaper.label>미형 몸</AestheticShaper.label>
-  <AestheticShaper.description>호르몬과 나노 머신을 방출해 인체의 근육과 지방의 형태를 원하는 대로 교정할 수 있는 정교한 이식물입니다. 착용자 또는 연인의 취향에 따라 다양한 외형을 구현할 수 있습니다.</AestheticShaper.description>
+  <AestheticShaper.description>미형 몸으로 성형했습니다.</AestheticShaper.description>
+  <AestheticShaper.labelNoun>미형 몸</AestheticShaper.labelNoun>
   
   <ArmorskinGland.label>갑옷피부</ArmorskinGland.label>
-  <ArmorskinGland.description>이 생체공학 기술은 화학물질과 나노머신을 이용하여 피부를 튼튼하게 하고 필요한 부분엔 유연한 각질 플레이트를 추가합니다. 이것은 사용자의 몸 전체를 보호할 것입니다. 불행하게도, 이 변화는 피부를 가죽처럼 보이게 하고, 몸과 얼굴 전체에 주름이 생겨, 일반적으로 보기 흉한 모습이 됩니다.</ArmorskinGland.description>
+  <ArmorskinGland.description>갑옷피부를 설치했습니다.</ArmorskinGland.description>
+  <ArmorskinGland.labelNoun>갑옷피부</ArmorskinGland.labelNoun>
   
   <CircadianAssistant.label>생체리듬 보조기</CircadianAssistant.label>
-  <CircadianAssistant.description>뇌에서 독소 축적을 제거하는 화학 물질 및 나노 머신을 생산합니다.</CircadianAssistant.description>
+  <CircadianAssistant.description>생체리듬 보조기를 설치했습니다.</CircadianAssistant.description>
+  <CircadianAssistant.labelNoun>생체리듬 보조기</CircadianAssistant.labelNoun>
   
   <CircadianHalfCycler.label>생체리듬 반주기</CircadianHalfCycler.label>
-  <CircadianHalfCycler.description>뇌의 절반을 강제 휴식시켜 사용자가 깨어있는 동안 다른 절반은 잠들게 하는 장치입니다. 뇌 반쪽을 번갈아 가면서 사용하기 때문에 사용자는 잠을 잘 필요가 없습니다. 불행하게도, 나뉘어진 뇌는 하나보다 낫습니다. 두뇌 반으로 일하기 때문에 의식이 감소합니다.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.description>생체리듬 반감기를 이식했습니다.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.labelNoun>생체리듬 반감기</CircadianHalfCycler.labelNoun>
   
   <Coagulator.label>응고제</Coagulator.label>
-  <Coagulator.description>혈액 손실을 줄이기 위해 응고제를 사용하여 출혈속도를 현저히 줄일 수 있습니다.</Coagulator.description>
+  <Coagulator.description>응고제를 설치했습니다.</Coagulator.description>
+  <Coagulator.labelNoun>응고제</Coagulator.labelNoun>
   
   <DetoxifierStomach.label>sterilizing stomach</DetoxifierStomach.label>
-  <DetoxifierStomach.description>An artificial stomach replacement with a broad-spectrum filtration and sterilization system. It allows the user to eat almost anything without ever worrying about food poisoning.</DetoxifierStomach.description>
+  <DetoxifierStomach.description>An installed sterilizing stomach.</DetoxifierStomach.description>
+  <DetoxifierStomach.labelNoun>a sterilizing stomach</DetoxifierStomach.labelNoun>
   
   <GastroAnalyzer.label>냄새 분석기</GastroAnalyzer.label>
-  <GastroAnalyzer.description>이 생체공학 코 이식물은 음식 관련 냄새에 중점을 두어 감각을 향상시킵니다. 초 미세 흡수 필터는 공기 중 화합물을 감지합니다. 후각 신경 신호를 포맷하여 신경을 통해 뇌로 보냅니다. 그 결과, 사용자는 강화되지 않은 인간 사이에서 알려지지 않은, 풍부하고도 다양한 재료의 냄새를 맡아 효과적으로 요리를 할 수 있습니다. 이 장치는 사용자의 외형에 영향을 주지 않으면서 코에 설치할 수 있을 정도로 작습니다.</GastroAnalyzer.description>
+  <GastroAnalyzer.description>분석장치 위를 설치했습니다.</GastroAnalyzer.description>
+  <GastroAnalyzer.labelNoun>분석장치 위</GastroAnalyzer.labelNoun>
   
   <HealingEnhancer.label>재생력 증진기</HealingEnhancer.label>
-  <HealingEnhancer.description>상처 치유 속도를 높이는 나노 머신과 치유 인자를 생산합니다. 이 이식물은 물리적인 상처에만 도움이 되며, 바이러스 성 질병이나 다른 건강 문제와는 아무런 관련이 없습니다.</HealingEnhancer.description>
+  <HealingEnhancer.description>재생력 증진기를 설치했습니다.</HealingEnhancer.description>
+  <HealingEnhancer.labelNoun>재생력 증진기</HealingEnhancer.labelNoun>
   
   <Immunoenhancer.label>면역 증진기</Immunoenhancer.label>
-  <Immunoenhancer.description>면역 증진기는 혈류를 검사하고 병원체를 분류하여 신체의 면역계가 더 빠르게 반응하도록 돕습니다. 착용자는 면역력이 크게 향상됩니다.</Immunoenhancer.description>
+  <Immunoenhancer.description>면역 증진기를 설치했습니다.</Immunoenhancer.description>
+  <Immunoenhancer.labelNoun>면역 증진기</Immunoenhancer.labelNoun>
   
   <LearningAssistant.label>학습 보조기</LearningAssistant.label>
-  <LearningAssistant.description>수면 중 중요한 경험을 재생하여 복습시켜 주는 새로운 감각 기록 시스템입니다.</LearningAssistant.description>
+  <LearningAssistant.description>학습 보조기를 설치했습니다.</LearningAssistant.description>
+  <LearningAssistant.labelNoun>학습 보조기</LearningAssistant.labelNoun>
   
   <LoveEnhancer.label>애정 증진기</LoveEnhancer.label>
-  <LoveEnhancer.description>인류는 성적 쾌락을 증진하기 위해 끝없이 도전했습니다. 생체공학도 예외는 아닙니다. 이 장치는 착용자의 신체를 물리적, 화학적으로 변화시켜 본인과 파트너 모두에게 사랑의 경험을 향상시킵니다. 남성과 여성 모두에게 이식할 수 있습니다.</LoveEnhancer.description>
+  <LoveEnhancer.description>애정 증진기를 설치했습니다.</LoveEnhancer.description>
+  <LoveEnhancer.labelNoun>애정 증진기</LoveEnhancer.labelNoun>
   
   <Neurocalculator.label>신경 연산보조기</Neurocalculator.label>
-  <Neurocalculator.description>시각, 촉각 신경 신호에 의해 제어되는 비 지능형 마이크로 컴퓨터입니다. 두뇌에 이식되어 기억의 기록과 계산을 보조합니다.</Neurocalculator.description>
+  <Neurocalculator.description>신경 연산보조기를 설치했습니다.</Neurocalculator.description>
+  <Neurocalculator.labelNoun>신경 연산보조기</Neurocalculator.labelNoun>
   
   <NuclearStomach.label>핵융합 위</NuclearStomach.label>
-  <NuclearStomach.description>인체에 적합하도록 설계된 초미세 원자로입니다. 착용자에게 영양분 대신 에너지를 직접 공급합니다. 음식은 신체에서 빠져나간 물질을 대체할 때만 필요해지므로 사용자의 섭취량이 크게 줄어듭니다. 사용자는 더 이상 식중독에 걸리지 않습니다. 그러나 방사선이 흘러나와 암에 걸릴 확률을 증가시킵니다.</NuclearStomach.description>
+  <NuclearStomach.description>핵 위를 설치했습니다.</NuclearStomach.description>
+  <NuclearStomach.labelNoun>핵 위</NuclearStomach.labelNoun>
   
   <ReprocessorStomach.label>소화강화 위</ReprocessorStomach.label>
-  <ReprocessorStomach.description>신체가 일반적으로 소화할 수 없는 영양분마저 소화하여 효율성을 높입니다.</ReprocessorStomach.description>
+  <ReprocessorStomach.description>소화강화 위를 이식했습니다.</ReprocessorStomach.description>
+  <ReprocessorStomach.labelNoun>소화강화 위</ReprocessorStomach.labelNoun>
   
   <StoneskinGland.label>바위피부</StoneskinGland.label>
-  <StoneskinGland.description>이 생체공학 기술은 화학물질과 나노머신을 방출하여 사용자의 피부를 내장된 갑옷으로 변형시켜줍니다. 전체 피부는 화상을 견딜 수 있도록 두껍고 굳세게 하며, 머리와 얼굴을 포함하여 가능한 모든 곳에 형성됩니다. 이 이식물을 사용하면 더 이상 신체를 다치게 하는 것은 어렵지만, 이 딱딱하고 바위같은 피부는 사용자의 매력을 크게 떨어뜨립니다.</StoneskinGland.description>
+  <StoneskinGland.description>바위피부를 설치했습니다.</StoneskinGland.description>
+  <StoneskinGland.labelNoun>바위피부</StoneskinGland.labelNoun>
   
   <ToughskinGland.label>거친피부</ToughskinGland.label>
-  <ToughskinGland.description>이 생체공학 기술은 화학물질과 나노머신을 방출하여 사용자의 피부를 튼튼하게 만들어 줍니다. 다른 피부강화 이식물같이 많은 보호 기능을 제공하지는 않지만, 사용자의 외관을 눈에 띄게 변경하지 않는 이점이 있습니다.</ToughskinGland.description>
+  <ToughskinGland.description>피부를 거칠게 만들었습니다.</ToughskinGland.description>
+  <ToughskinGland.labelNoun>거친피부</ToughskinGland.labelNoun>
 </LanguageData>
