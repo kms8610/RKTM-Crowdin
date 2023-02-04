@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HungerMaker.label>허기</HungerMaker.label>
-  <HungerMaker.description>결속 무기의 영향으로 허기를 더 많이 느낍니다.</HungerMaker.description>
+  <BondedThoughtCalm.stages.s_calm_thoughts.label>{WEAPON}의 차분한 속삭임</BondedThoughtCalm.stages.s_calm_thoughts.label>
+  <BondedThoughtCalm.stages.s_calm_thoughts.description>결속무기 {WEAPON}(이)가 차분한 생각을 속삭이고 있어.</BondedThoughtCalm.stages.s_calm_thoughts.description>
   
-  <NeuralHeatRecoveryGain.label> 신경냉각</NeuralHeatRecoveryGain.label>
-  <NeuralHeatRecoveryGain.description>결속 무기의 영향으로 신경열이 더 빠르게 소멸합니다.</NeuralHeatRecoveryGain.description>
+  <BondedThoughtKind.stages.s_kind_thoughts.label>{WEAPON}의 친절한 속삭임</BondedThoughtKind.stages.s_kind_thoughts.label>
+  <BondedThoughtKind.stages.s_kind_thoughts.description>결속무기 {WEAPON}(이)가 친절한 생각을 속삭이고 있어.</BondedThoughtKind.stages.s_kind_thoughts.description>
   
-  <NoPain.label>통각차단</NoPain.label>
-  <NoPain.description>결속 무기의 영향으로 고통을 느끼는 능력이 마비됩니다.</NoPain.description>
+  <BondedThoughtMuttering.stages.s_muttering.label>{WEAPON}의 중얼거림</BondedThoughtMuttering.stages.s_muttering.label>
+  <BondedThoughtMuttering.stages.s_muttering.description>결속무기 {WEAPON}(이)가 머릿속에서 중얼거리고 있어. 가끔은 무시하기 너무 힘들어.</BondedThoughtMuttering.stages.s_muttering.description>
   
-  <SpeedBoost.label>질주</SpeedBoost.label>
-  <SpeedBoost.description>결속 무기의 영향으로 이동속도가 빨라집니다.</SpeedBoost.description>
+  <BondedThoughtWailing.stages.s_wailing.label>{WEAPON}의 울부짖음</BondedThoughtWailing.stages.s_wailing.label>
+  <BondedThoughtWailing.stages.s_wailing.description>결속무기 {WEAPON}(이)가 머릿속에서 미친듯이 울부짖고 있어. 너무 신경쓰여.</BondedThoughtWailing.stages.s_wailing.description>
+  
+  <JealousRage.stages.s_jealousy.label>{WEAPON}의 질투</JealousRage.stages.s_jealousy.label>
+  <JealousRage.stages.s_jealousy.description>다른 무기를 착용한 것 때문에 {WEAPON}(이)가 질투하고 있어. 머릿 속이 분노한 비명 소리로 가득해.</JealousRage.stages.s_jealousy.description>
+  
+  <OnKill_BadThought.stages.s_kill_sorrow.label>{WEAPON}의 비애감</OnKill_BadThought.stages.s_kill_sorrow.label>
+  <OnKill_BadThought.stages.s_kill_sorrow.description>{WEAPON}(은)는 사람을 죽인 것에 슬퍼하고 있어. 마음 속까지 전해져.</OnKill_BadThought.stages.s_kill_sorrow.description>
+  
+  <OnKill_GoodThought.stages.s_kill_happiness.label>{WEAPON}의 행복감</OnKill_GoodThought.stages.s_kill_happiness.label>
+  <OnKill_GoodThought.stages.s_kill_happiness.description>{WEAPON}(은)는 사람을 죽이고 기뻐하고 있어, 나도 조금은 그 기분을 알 것 같아.</OnKill_GoodThought.stages.s_kill_happiness.description>
 </LanguageData>
