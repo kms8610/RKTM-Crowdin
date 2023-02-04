@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>웨이크업 금단현상</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
-  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>흐릿하고 혼란스럽고, 너무 피곤해.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
+  <WakeUp.label>웨이크업</WakeUp.label>
 </LanguageData>
