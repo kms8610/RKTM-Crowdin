@@ -1,27 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttendedConcert.label>연주회 참석</AttendedConcert.label>
-  <AttendedConcert.rulePack.rulesStrings>
-    <li>tale_noun->[ORGANIZER_nameDef]의 연주회에 참석하는 [ATTENDER_nameDef]</li>
-    <li>tale_noun->[ORGANIZER_nameDef]의 공연을 듣는 [ATTENDER_nameDef]</li>
-    <li>image->[circumstance_group] 조용히 듣는 [ATTENDER_nameFull]</li>
-    <li>image->[circumstance_group] [ORGANIZER_nameFull]의 공연을 즐기는 [ATTENDER_nameFull]</li>
-    <li>image->[circumstance_group] 음악에 맞춰 흔드는 [ATTENDER_nameFull]</li>
-    <li>image->[circumstance_group] 음악에 열중하는 [ATTENDER_nameFull]</li>
-    <li>circumstance_phrase->박수 치면서</li>
-    <li>desc_sentence->[Quantity_adjphrase]명의 [PersonJob]들이 함께 춤을 춥니다.</li>
-    <li>desc_sentence->[Quantity_adjphrase]마리의 [Animal]들이 귀 기울여 듣습니다.</li>
-  </AttendedConcert.rulePack.rulesStrings>
+  <AttendedParty.label>파티</AttendedParty.label>
+  <AttendedParty.rulePack.rulesStrings>
+    <li>tale_noun->[ATTENDER_nameDef]는 [ORGANIZER_nameDef]의 파티에 참석함</li>
+    <li>tale_noun->[ATTENDER_nameDef]는 파티에서 [ORGANIZER_nameDef]와 휴식을 취함</li>
+    <li>image->[circumstance_group] [ATTENDER_nameFull]는 [ORGANIZER_nameFull]와 대화를 나눔</li>
+    <li>image->[circumstance_group] [ATTENDER_nameFull]는 [ORGANIZER_nameFull]에게서 술을 건네받음</li>
+    <li>image->[circumstance_group] [ATTENDER_nameFull]는 [ORGANIZER_nameFull]와 잡담을 나눔</li>
+    <li>image->[circumstance_group] [ORGANIZER_nameFull]는 [ATTENDER_nameFull]를 환영함</li>
+    <li>image->[circumstance_group] [ORGANIZER_nameFull]는 [ATTENDER_nameFull]를 친구로서 초대함</li>
+    <li>circumstance_phrase->활짝 웃으며</li>
+    <li>circumstance_phrase->크게 웃으며</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 미소로</li>
+    <li>circumstance_phrase->웃고 떠들며</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 표정을 지으며</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들이 이 대화에 참여합니다.</li>
+    <li>desc_sentence->그 지역은 [Color]과 [Color]으로 장식되어있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 놀고있습니다.</li>
+  </AttendedParty.rulePack.rulesStrings>
   
-  <HeldConcert.label>연주회 개최</HeldConcert.label>
-  <HeldConcert.rulePack.rulesStrings>
-    <li>tale_noun->[ORGANIZER_nameDef]의 연주회 공연</li>
-    <li>image->[circumstance_group] 특색있는 노래를 연주하는 [ORGANIZER_nameFull]</li>
-    <li>image->청중들과 같이 노래를 하는 [ORGANIZER_nameFull]</li>
-    <li>image->감동적인 노래를 하는 [ORGANIZER_nameFull]</li>
-    <li>image->[circumstance_group] 어려운 곡을 연주하는 [ORGANIZER_nameFull]</li>
-    <li>circumstance_phrase->강렬한 표정으로</li>
-    <li>desc_sentence->[Quantity_adjphrase]명의 [PersonJob]들이 근처에서 듣고 있습니다.</li>
-    <li>desc_sentence->[Quantity_adjphrase]마리의 [Animal]들이 근처에서 듣고 있습니다.</li>
-  </HeldConcert.rulePack.rulesStrings>
+  <BuiltSnowman.label>눈사람</BuiltSnowman.label>
+  <BuiltSnowman.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]가 눈사람을 만듬</li>
+    <li>tale_noun->[PAWN_nameDef]가 눈밭에서 뛰어놈</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 눈덩이를 만들어냄</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 땅위를 굴려 거대한 눈덩이를 만들어냄</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [Vegetable]들을 사람의 얼굴모양으로 서툴게 배열함</li>
+    <li>image->[circumstance_group]  [PAWN_nameFull] 눈밭에 드러누움</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] 파카로 몸을 감싸며</li>
+    <li>circumstance_phrase->가벼운 눈보라 속에서</li>
+    <li>circumstance_phrase->[PAWN_possessive] 친구들이 요새를 건설하는 동안</li>
+    <li>circumstance_phrase->[PAWN_possessive] 친구들이 눈사람을 만드는 동안</li>
+    <li>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</li>
+    <li>desc_sentence->멀리에는 [Community]가 눈에 뒤덮여있습니다.</li>
+    <li>desc_sentence->[Vegetable] 밭이 눈사이로 간간히 보입니다.</li>
+    <li>desc_sentence->눈 덮인 [TerrainFeature]를 멀리서 볼 수 있습니다.</li>
+  </BuiltSnowman.rulePack.rulesStrings>
+  
+  <BuriedCorpse.label>시체 매장</BuriedCorpse.label>
+  <BuriedCorpse.rulePack.rulesStrings>
+    <li>tale_noun->[DIGGER_nameDef]가 [CORPSE_nameDef]를 매장함</li>
+    <li>tale_noun->[DIGGER_nameDef]가 [CORPSE_nameDef]를 쉼터에 눕힘</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 무덤 옆에 서있음</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 무덤 옆에 앉아있음</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 무덤에 기대어있음</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 무덤에 글귀를 새기고 있음</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 무덤에 벽화를 새기고 있음</li>
+    <li>image->[circumstance_group] [DIGGER_nameFull]는 [CORPSE_nameFull]의 몸을 무덤에 안치시키고 있음</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] 표정으로</li>
+    <li>circumstance_phrase->생각에 잠겨</li>
+    <li>circumstance_phrase->먼 곳에 떨어진 [TerrainFeature]을 바라보며</li>
+    <li>circumstance_phrase->기념비와 조용히 이야기를 나누며</li>
+    <li>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</li>
+    <li>desc_sentence->멀리에는 [Community]가 눈에 뒤덮여있습니다.</li>
+    <li>desc_sentence->[AdjectiveFriendly] 표정으로 [CORPSE_nameDef]의 회상이 떠오릅니다.</li>
+    <li>desc_sentence->[AdjectiveFriendly] 표정을 지으며 [DIGGER_nameDef]는 [CORPSE_nameDef]를 회상합니다.</li>
+    <li>desc_sentence->[AdjectiveAngsty] 표정으로 [CORPSE_nameDef]의 회상이 떠오릅니다.</li>
+    <li>desc_sentence->[AdjectiveAngsty] 표정을 지으며 [DIGGER_nameDef]는 [CORPSE_nameDef]를 회상합니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 쉬고 있습니다.</li>
+  </BuriedCorpse.rulePack.rulesStrings>
+  
+  <CompletedLongConstructionProject.label>대형 건설계획 완료</CompletedLongConstructionProject.label>
+  <CompletedLongConstructionProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]가 [OBJECT_label] 건설을 완료함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]를 건설함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]를 조립함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]의 표면을 연마함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 이름을 [OBJECT_label]에 새김</li>
+    <li>circumstance_phrase->[PAWN_possessive] 눈을 반짝이며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 이마의 땀을 닦으며</li>
+    <li>circumstance_phrase->검댕이에 뒤덮여</li>
+    <li>circumstance_phrase->자랑스럽게 웃으며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 얼굴에 만족한 표정을 띄우고</li>
+    <li>desc_sentence->[OBJECT_label]는 [PAWN_nameDef] 앞에 나타났습니다.</li>
+    <li>desc_sentence->[OBJECT_label]는 부드럽게 [Color]으로 빛납니다.</li>
+    <li>desc_sentence->[OBJECT_label]는 복잡할 정도로 정밀합니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]는 [OBJECT_label]에 경탄합니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]는 경탄에 차 바라봅니다.</li>
+  </CompletedLongConstructionProject.rulePack.rulesStrings>
+  
+  <CompletedLongCraftingProject.label>대형 제작계획 완료</CompletedLongCraftingProject.label>
+  <CompletedLongCraftingProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]가 [OBJECT_label] 제작을 완료함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]를 제작함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]의 표면을 연마함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label] 표면에 세부정보를 추가함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 이름을 [OBJECT_label]에 새김</li>
+    <li>circumstance_phrase->[PAWN_possessive] 눈을 반짝이며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 이마의 땀을 닦으며</li>
+    <li>circumstance_phrase->검댕이에 뒤덮여</li>
+    <li>circumstance_phrase->자랑스럽게 웃으며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 얼굴에 만족한 표정을 띄우고</li>
+    <li>desc_sentence->[OBJECT_label]는 부드럽게 [Color]으로 빛납니다.</li>
+    <li>desc_sentence->[OBJECT_label]는 복잡할 정도로 정밀합니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 [OBJECT_label]를 가뿐하게 들어올립니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들이 그 장치에 경탄합니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]는 경탄에 차 바라봅니다.</li>
+  </CompletedLongCraftingProject.rulePack.rulesStrings>
+  
+  <EnteredCryptosleep.label>동면</EnteredCryptosleep.label>
+  <EnteredCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 깊은 잠에 들어감</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 동면관 안에 누움</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 비어있는 동면관을 열음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 동면관에 스스로를 봉인함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 잠들지 못하고 떠날 세상을 동면관 너머로 바라봄</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] 표정으로</li>
+    <li>circumstance_phrase->생각에 잠겨</li>
+    <li>circumstance_phrase->먼 곳에 떨어진 [TerrainFeature]을 바라보며</li>
+    <li>circumstance_phrase->조용하게 혼잣말하며</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 쉬고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들이 그 지역으로 접근합니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]이 각오를 다집니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 눈에 띄게 상처입었습니다.</li>
+    <li>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 동면관이 풍경을 가득 채우고 있습니다.</li>
+  </EnteredCryptosleep.rulePack.rulesStrings>
+  
+  <GainedMasterSkillWithPassion.label>장인</GainedMasterSkillWithPassion.label>
+  <GainedMasterSkillWithPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 [SKILL_label] 작업에서 장인이 되었음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 기술을 수련함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 방법에 대한 전공책을 읽음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 기술 훈련을 받음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 열심히 작업함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 계획을 끝마침</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 표정으로</li>
+    <li>circumstance_phrase->즐거운 표정으로</li>
+    <li>circumstance_phrase->[VerbFriendly] 하며</li>
+    <li>circumstance_phrase->활기차게 외치며</li>
+    <li>circumstance_phrase->땀으로 뒤덮여</li>
+    <li>circumstance_phrase->눈에 띄게 지친 상태로</li>
+    <li>desc_sentence->[Quantity_adjphrase] 실패한 실험의 결과에 대한 주제로 토의중입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 책에 대해 토의중입니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 기술이 그 작품에서 엿보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 놀라며 구경하고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 놀라며 바라봅니다.</li>
+    <li>desc_sentence->고대 거장들의 [Quantity_adjphrase] 혼이 위에서 지켜봅니다.</li>
+  </GainedMasterSkillWithPassion.rulePack.rulesStrings>
+  
+  <GainedMasterSkillWithoutPassion.label>명장</GainedMasterSkillWithoutPassion.label>
+  <GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 [SKILL_label] 작업에서 장인이 되었음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 기술을 수련함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 방법에 대한 전공책을 읽음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [SKILL_label] 기술을 숙련함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 열심히 작업함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 계획을 끝마침</li>
+    <li>circumstance_phrase->땀으로 뒤덮여</li>
+    <li>circumstance_phrase->눈에 띄게 지친 상태로</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] 표정으로</li>
+    <li>circumstance_phrase->지루한 표정으로</li>
+    <li>desc_sentence->[Quantity_adjphrase] 실패한 실험에 대해 토의중입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 책에 대해 토의중입니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 기술이 그 작품에서 엿보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 놀라며 구경하고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 놀라며 바라봅니다.</li>
+    <li>desc_sentence->고대 거장들의 [Quantity_adjphrase] 혼이 위에서 지켜봅니다.</li>
+  </GainedMasterSkillWithoutPassion.rulePack.rulesStrings>
+  
+  <IncreasedMenagerie.label>야생동물 합류</IncreasedMenagerie.label>
+  <IncreasedMenagerie.rulePack.rulesStrings>
+    <li>tale_noun(p=3)->[HUMAN_nameDef]가 [HUMAN_possessive] 성장중인 [AnimalGroup]에 또다른 동물을 포섭함</li>
+    <li>tale_noun->[HUMAN_nameDef]이 [AnimalGroup]를 쫓아다님</li>
+    <li>tale_noun->[HUMAN_nameDef]의 [ANIMAL_nameDef] 조련</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull]는 [ANIMAL_nameFull]를 조련함</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull]는 [ANIMAL_nameFull]에게 약간의 음식을 제공함</li>
+    <li>image->[HUMAN_nameFull]가 [circumstance_group] 겁이 많은 [ANIMAL_label]에게 속삭임</li>
+    <li>image->[HUMAN_nameFull]가 [circumstance_group] 야생의 [ANIMAL_label]를 진정시킴</li>
+    <li>circumstance_phrase->매우 관심을 가지고 조심해서</li>
+    <li>circumstance_phrase->미소와 함께</li>
+    <li>circumstance_phrase->기진맥진하지만 행복하게</li>
+    <li>circumstance_phrase->배경에 [AnimalGroup]가 보이며</li>
+    <li>desc_sentence->[HUMAN_nameDef]가 헤아릴 수 없는 [Animal]들에게 둘러싸여 있습니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef]가 동족인 [AnimalGroup]에 합류할 움직임을 보입니다.</li>
+    <li>desc_sentence->[Animal]들과 [Animal]들로 가득찬 풍경이 보입니다.</li>
+    <li>desc_sentence->헤아릴 수 없는 동물들이 줄지어서 [HUMAN_nameDef]에게 길들여지기를 기다립니다.</li>
+  </IncreasedMenagerie.rulePack.rulesStrings>
+  
+  <Meditated.label>명상</Meditated.label>
+  <Meditated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 명상함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [TreeType] 나무 아래에 앉아 있음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 묵묵히 앉아 있음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 먼곳을 응시함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 눈을 감음</li>
+    <li>circumstance_phrase->평온함을 보이며</li>
+    <li>circumstance_phrase->평온한 미소로</li>
+    <li>circumstance_phrase->[VerbFriendly] 미소로</li>
+    <li>circumstance_phrase->은은하게 빛나며</li>
+    <li>circumstance_phrase->[Color] 분위기 속에서</li>
+    <li>desc_sentence->[Quantity_adjphrase] 명의 [PersonJob]들이 [PAWN_pronoun]를 주시하고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [Quantity_adjphrase] [Animal]들에게 둘러싸여있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 평화롭게 쉬고있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 그 장면에 경악합니다.</li>
+  </Meditated.rulePack.rulesStrings>
+  
+  <MinedValuable.label>값비싼 광맥</MinedValuable.label>
+  <MinedValuable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 [MATERIAL_label]의 광맥을 채굴함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 채굴도구로 [MATERIAL_label]벽을 작업함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group]  [MATERIAL_label]의 덩어리를 들어올림</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 벽에 기대 쉬고있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 풍부한 광맥에 대비하여 발군단을 조정함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 풍부한 광맥을 주의깊게 조사함</li>
+    <li>circumstance_phrase->진땀을 흘리며</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 표정을 지으며</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 표정을 지으며</li>
+    <li>circumstance_phrase->자랑스럽게 웃으며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 얼굴의 만족스러운 표정으로</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]들이 도와줍니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 지역을 배회합니다.</li>
+    <li>desc_sentence->배경으로 [Community]가 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 먼곳에 더 많은 광맥이 보입니다.</li>
+    <li>desc_sentence->멀리서 [TerrainFeature]가 보입니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 작업으로 인해 땀에 젖고 더럽습니다.</li>
+  </MinedValuable.rulePack.rulesStrings>
+  
+  <PlayedGame.label>게임</PlayedGame.label>
+  <PlayedGame.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 [OBJECT_label]에서 휴식을 취함</li>
+    <li>tale_noun->[PAWN_nameDef]는 [OBJECT_label]에서 게임을 즐김</li>
+    <li>tale_noun->[PAWN_nameDef](은)는 [OBJECT_label]에 주먹질하며 즐기는 중</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 의자에서 기다림</li>
+    <li>image->[PAWN_nameFull](은)는 [OBJECT_label] 앞에서 자세를 잡고 [circumstance_group]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label] 옆에 앉음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]에서 승리함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label]에서 패배함</li>
+    <li>circumstance_phrase->바짝 기장합니다</li>
+    <li>circumstance_phrase->긴장을 풀고 안정을 얻음</li>
+    <li>circumstance_phrase->[PAWN_possessive] 다음 행동을 준비하며</li>
+    <li>circumstance_phrase->가볍게 손목을 주무름</li>
+    <li>circumstance_phrase->[AdjectiveAngsty](을)를 표출하는 [angstyverb]</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] 표정으로</li>
+    <li>circumstance_phrase->[angstyverb]</li>
+    <li>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</li>
+    <li>desc_sentence->멀리서 [Community]의 모습이 보입니다.</li>
+    <li>desc_sentence->멀리서 [TerrainFeature]의 모습이 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들이 잘 놀고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 놀고있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 [Color] 분위기로 빛납니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](은)는 과장됐습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](은)는 보기보다 실력이 좋습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 패배하여 주저앉아있습니다.</li>
+  </PlayedGame.rulePack.rulesStrings>
+  
+  <Prayed.label>기도</Prayed.label>
+  <Prayed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]가 기도함</li>
+    <li>tale_noun->[PAWN_nameDef]가 신에게 기도함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 먼곳을 응시함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 눈을 감음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 손을 움켜쥠</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 하늘을 바라봄</li>
+    <li>circumstance_phrase->평온함을 보이며</li>
+    <li>circumstance_phrase->부드럽게 속삭이며</li>
+    <li>circumstance_phrase->희망에찬 표정으로</li>
+    <li>circumstance_phrase->은은하게 빛나며</li>
+    <li>circumstance_phrase->[Color] 분위기 속에서</li>
+    <li>desc_sentence->[Quantity_adjphrase] 명의 [PersonJob]들이 [PAWN_pronoun]를 주시하고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [Quantity_adjphrase] [Animal]들에게 둘러싸여있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 평화롭게 쉬고있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 그 장면에 경악합니다.</li>
+  </Prayed.rulePack.rulesStrings>
+  
+  <PutIntoCryptosleep.label>동면</PutIntoCryptosleep.label>
+  <PutIntoCryptosleep.rulePack.rulesStrings>
+    <li>tale_noun->[CARRIER_nameDef]가 [SLEEPER_nameDef]를 동면관에 넣음</li>
+    <li>image->[circumstance_group] [CARRIER_nameFull]는 [SLEEPER_nameDef]를 동면관에 안치함</li>
+    <li>image->[circumstance_group] [CARRIER_nameFull]는 [SLEEPER_nameDef]를 부축하며 동면관을 열음</li>
+    <li>image->[circumstance_group] [CARRIER_nameFull]는 [SLEEPER_nameDef]가 들어있는 동면관을 봉인함</li>
+    <li>image->[circumstance_group] [CARRIER_nameFull]는 [SLEEPER_nameDef]가 잠들어 있는 동면관을 바라보며 걸어감</li>
+    <li>circumstance_phrase(p=3)->[AdjectiveAny] 표정으로</li>
+    <li>circumstance_phrase->생각에 잠겨</li>
+    <li>circumstance_phrase->먼 곳에 떨어진 [TerrainFeature]을 바라보며</li>
+    <li>circumstance_phrase->긴장하며</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 쉬고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들이 그 지역으로 접근합니다.</li>
+    <li>desc_sentence->[CARRIER_nameDef]는 각오를 다집니다.</li>
+    <li>desc_sentence->[SLEEPER_nameDef]는 눈에 띄게 상처입었습니다.</li>
+    <li>desc_sentence->[SLEEPER_nameDef]는 지쳐보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 동면관이 풍경을 가득 채우고 있습니다.</li>
+  </PutIntoCryptosleep.rulePack.rulesStrings>
+  
+  <Stripped.label>탈의</Stripped.label>
+  <Stripped.rulePack.rulesStrings>
+    <li>tale_noun->[TAKER_nameDef]는 [STRIPPED_nameDef]의 옷을 벗김</li>
+    <li>image->[TAKER_nameFull]는 [STRIPPED_nameFull]를 공개적으로 탈의시킴</li>
+    <li>image->[circumstance_group] [TAKER_nameFull]는 [STRIPPED_nameFull]의 옷을 제거함</li>
+    <li>image->[circumstance_group] [TAKER_nameFull]는 [Apparel]의 옷을 껴안고 벌거벗은 [STRIPPED_nameFull] 옆에 서있음</li>
+    <li>image->[circumstance_group] [TAKER_nameFull]는 [STRIPPED_nameFull]이 [STRIPPED_possessive] 옷을 벗을 때 까지 참을성 있게 기다림</li>
+    <li>circumstance_phrase->목적의식을 가지고</li>
+    <li>circumstance_phrase->조금도 부끄러워 하지 않고</li>
+    <li>circumstance_phrase->다른 사람들이 지켜보는 가운데</li>
+    <li>circumstance_phrase->뚜렷한 이유없이</li>
+    <li>circumstance_phrase->동물들이 혼란스럽게 바라보는 가운데</li>
+    <li>desc_sentence->[STRIPPED_nameDef]는 눈에띄게 흥분했습니다.</li>
+    <li>desc_sentence->[STRIPPED_nameDef]는 설명할 수 없는 열기로 뒤덮여있습니다.</li>
+    <li>desc_sentence->[STRIPPED_nameDef]는 뚜렷한 이유 없이 숨을 크게 들이쉬고 있습니다.</li>
+    <li>desc_sentence->[STRIPPED_nameDef]는 몸을 숨길 수풀을 찾고 있습니다.</li>
+    <li>desc_sentence->[STRIPPED_nameDef]는 [AdjectiveAngsty] 표정만을 짓고 있습니다.</li>
+  </Stripped.rulePack.rulesStrings>
+  
+  <VisitedGrave.label>추모</VisitedGrave.label>
+  <VisitedGrave.rulePack.rulesStrings>
+    <li>tale_noun->[VISITOR_nameDef]는 [CORPSE_nameDef]의 무덤을 방문함</li>
+    <li>tale_noun->[VISITOR_nameDef]가 [CORPSE_nameDef]의 무덤에 방문함</li>
+    <li>image->[circumstance_group] [VISITOR_nameFull]는 [CORPSE_nameFull]의 무덤 옆에 서있음</li>
+    <li>image->[circumstance_group] [VISITOR_nameFull]는 [CORPSE_nameFull]의 무덤 옆에 앉아있음</li>
+    <li>image->[circumstance_group] [VISITOR_nameFull]는 [CORPSE_nameFull]의 무덤에 기대어있음</li>
+    <li>image->[circumstance_group] [VISITOR_nameFull]는 [CORPSE_nameFull]의 무덤에 쓰여진 글귀를 읽고 있음</li>
+    <li>image->[circumstance_group] [VISITOR_nameFull]는 [CORPSE_nameFull]의 무덤에 그려진 벽화를 구경하고 있음</li>
+    <li>circumstance_phrase->[AdjectiveAngsty] 표정으로</li>
+    <li>circumstance_phrase->생각에 잠겨</li>
+    <li>circumstance_phrase->먼 곳에 떨어진 [TerrainFeature]을 바라보며</li>
+    <li>circumstance_phrase->기념비와 조용히 이야기를 나누며</li>
+    <li>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</li>
+    <li>desc_sentence->멀리에는 [Community]가 눈에 뒤덮여있습니다.</li>
+    <li>desc_sentence->[AdjectiveFriendly] 표정으로 [CORPSE_nameDef]의 회상이 떠오릅니다.</li>
+    <li>desc_sentence->[AdjectiveFriendly] 표정을 짓으며 [VISITOR_nameDef]는 [CORPSE_nameDef]를 회상합니다.</li>
+    <li>desc_sentence->[AdjectiveAngsty] 표정으로 [CORPSE_nameDef]의 회상이 떠오릅니다.</li>
+    <li>desc_sentence->[AdjectiveAngsty] 표정을 짓으며 [VISITOR_nameDef]는 [CORPSE_nameDef]를 회상합니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 근처에서 쉬고 있습니다.</li>
+  </VisitedGrave.rulePack.rulesStrings>
 </LanguageData>
