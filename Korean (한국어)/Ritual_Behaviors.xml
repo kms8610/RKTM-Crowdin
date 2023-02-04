@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildBirth.roles.0.label>어머니</ChildBirth.roles.0.label>
-  <ChildBirth.roles.1.label>의사</ChildBirth.roles.1.label>
-  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>giving birth</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
-  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>giving birth</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
-  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>delivering baby</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
+  <AnimaTreeLinking.roles.0.label>주최자</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.roles.0.customChildDisallowMessage>Only adults can link with an anima tree.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>자연 유형의 집중명상이 가능하고 정신적 무감각하지 않고 정신력 증폭기 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  <AnimaTreeLinking.spectatorFilter.description>자연 집중명상이 가능해야 합니다.</AnimaTreeLinking.spectatorFilter.description>
+  <AnimaTreeLinking.spectatorGerund>참가하기</AnimaTreeLinking.spectatorGerund>
+  <AnimaTreeLinking.spectatorsLabel>참여자</AnimaTreeLinking.spectatorsLabel>
+  
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} is giving a speech from the throne.\n\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities.</ThroneSpeech.letterText>
+  <ThroneSpeech.letterTitle>왕의 연설</ThroneSpeech.letterTitle>
+  <ThroneSpeech.roles.0.label>organizer</ThroneSpeech.roles.0.label>
 </LanguageData>
