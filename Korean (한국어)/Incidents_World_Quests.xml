@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_EndGame_RoyalAscent.label>지위 상승</GiveQuest_EndGame_RoyalAscent.label>
+  <GiveQuest_EndGame_ShipEscape.label>여행 제안</GiveQuest_EndGame_ShipEscape.label>
+  <GiveQuest_EndGame_ShipEscape.letterLabel>여정 제안</GiveQuest_EndGame_ShipEscape.letterLabel>
   
-  <GiveQuest_Intro_Deserter.label>제국의 황폐화</GiveQuest_Intro_Deserter.label>
-  
-  <GiveQuest_Intro_Wimp.label>제국의 불안</GiveQuest_Intro_Wimp.label>
-  
-  <ProblemCauser.label>문제의 원인</ProblemCauser.label>
+  <GiveQuest_Random.label>임무</GiveQuest_Random.label>
+  <GiveQuest_Random.letterLabel>가능한 임무</GiveQuest_Random.letterLabel>
 </LanguageData>
