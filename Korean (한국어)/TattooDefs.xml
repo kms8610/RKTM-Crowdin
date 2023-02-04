@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NoTattoo_Body.label>없음</NoTattoo_Body.label>
+  <Body_Buttons.label>buttons</Body_Buttons.label>
   
-  <NoTattoo_Face.label>없음</NoTattoo_Face.label>
+  <Body_Cross.label>cross</Body_Cross.label>
+  
+  <Body_Heart.label>심장</Body_Heart.label>
+  
+  <Body_Insect.label>곤충</Body_Insect.label>
+  
+  <Body_Jester.label>어릿광대</Body_Jester.label>
+  
+  <Body_Moon.label>moon</Body_Moon.label>
+  
+  <Body_Power.label>전력</Body_Power.label>
+  
+  <Body_Rings.label>rings</Body_Rings.label>
+  
+  <Body_Royal.label>귀족</Body_Royal.label>
+  
+  <Body_Scar.label>흉터</Body_Scar.label>
+  
+  <Body_Skeleton.label>해골</Body_Skeleton.label>
+  
+  <Body_Skull.label>두개골</Body_Skull.label>
+  
+  <Body_Spike.label>스파이크</Body_Spike.label>
+  
+  <Body_Sun.label>sun</Body_Sun.label>
+  
+  <Body_Tiger.label>호랑이</Body_Tiger.label>
+  
+  <Body_Wings.label>날개</Body_Wings.label>
+  
+  <Face_Cobweb.label>cobweb</Face_Cobweb.label>
+  
+  <Face_Eclipse.label>일식</Face_Eclipse.label>
+  
+  <Face_Headshot.label>headshot</Face_Headshot.label>
+  
+  <Face_Line.label>선</Face_Line.label>
+  
+  <Face_Love.label>사랑</Face_Love.label>
+  
+  <Face_Oracle.label>사제</Face_Oracle.label>
+  
+  <Face_Pantheon.label>사원</Face_Pantheon.label>
+  
+  <Face_Spider.label>거미</Face_Spider.label>
+  
+  <Face_Stars.label>stars</Face_Stars.label>
+  
+  <Face_Tear.label>죽임</Face_Tear.label>
+  
+  <Face_Tiger.label>호랑이</Face_Tiger.label>
+  
+  <Face_Warpaint.label>war paint</Face_Warpaint.label>
+  
+  <Face_Worried.label>worried</Face_Worried.label>
 </LanguageData>
