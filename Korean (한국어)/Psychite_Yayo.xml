@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychiteAddiction.label>사이카이트 중독</PsychiteAddiction.label>
-  <PsychiteAddiction.description>A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction.</PsychiteAddiction.description>
-  <PsychiteAddiction.stages.withdrawal.label>금단현상</PsychiteAddiction.stages.withdrawal.label>
-  
-  <PsychiteTolerance.label>사이카이트 내성</PsychiteTolerance.label>
-  <PsychiteTolerance.description>광이성분에 대한 내성입니다. 이 내성이 클수록 플레이크 또는 야요와 같은 광이성분 약물로 동일한 효과를 얻는데 더 많은 약물이 필요합니다.</PsychiteTolerance.description>
-  <PsychiteTolerance.stages.small.label>작음</PsychiteTolerance.stages.small.label>
-  <PsychiteTolerance.stages.large.label>큼</PsychiteTolerance.stages.large.label>
-  <PsychiteTolerance.stages.massive.label>심각함</PsychiteTolerance.stages.massive.label>
-  
-  <YayoHigh.label>야요에 취함</YayoHigh.label>
-  <YayoHigh.description>피에 야요가 흐릅니다. 강렬한 무드 상승 효과가 있습니다.</YayoHigh.description>
-  <YayoHigh.labelNoun>야요에 취함</YayoHigh.labelNoun>
+  <Chemical_Psychite.label>사이카이트</Chemical_Psychite.label>
+  <Chemical_Psychite.description>사이카이트 중독으로 인한 금단 현상을 피하려면 주기적인 섭취가 필요합니다.</Chemical_Psychite.description>
 </LanguageData>
