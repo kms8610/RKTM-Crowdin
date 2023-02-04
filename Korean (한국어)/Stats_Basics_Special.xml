@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeditationPlantGrowthOffset.label>식물 성장(명상) 수치</MeditationPlantGrowthOffset.label>
-  <MeditationPlantGrowthOffset.description>An offset applied to the growth rate of plants, like anima grass, from meditation. This value can change based on the number of artificial buildings nearby.</MeditationPlantGrowthOffset.description>
+  <CleaningTimeFactor.label>cleaning time multiplier</CleaningTimeFactor.label>
+  <CleaningTimeFactor.description>A multiplier on how long it takes to clean filth from this surface.</CleaningTimeFactor.description>
+  
+  <ConstructionSpeedFactor.label>건설 속도</ConstructionSpeedFactor.label>
+  <ConstructionSpeedFactor.description>해당 재료가 사용된 건물을 건설할 때 속도에 영향을 주는 수치입니다.\n\n예를 들어 석재 건물은 느리게 만들어지지만 목재 건물은 빠르게 만들어집니다.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.labelForFullStatList>건설 속도 (재료 계수)</ConstructionSpeedFactor.labelForFullStatList>
+  
+  <FilthMultiplier.label>오물 수치</FilthMultiplier.label>
+  <FilthMultiplier.description>표면이 얼마나 더러워지기 쉬운지를 표시합니다. 이 값이 100% 미만일 경우 여기에 쌓이는 오물 중 일부는 즉시 사라집니다.</FilthMultiplier.description>
+  
+  <MedicalPotency.label>약효</MedicalPotency.label>
+  <MedicalPotency.description>상처와 질병 또는 수술을 치료할 때 해당 약품이 지닌 효과입니다.\n\n높은 약효는 치료의 품질을 개선하고, 수술 중 성공 확률 계수로 작용합니다.\n약효는 의사의 수준, 용품, 청결함 그리고 운을 포함한 것들 중에서도 의학적 결과 요인이 됩니다.</MedicalPotency.description>
+  
+  <MedicalQualityMax.label>최대 의료 품질</MedicalQualityMax.label>
+  <MedicalQualityMax.description>해당 약품을 사용하여 달성할 수 있는 최대 의료 품질입니다.\n\n이 수치가 높을수록 더 빠르고 안정적인 치료가 가능합니다.</MedicalQualityMax.description>
+  
+  <MeditationFocusStrength.label>집중명상</MeditationFocusStrength.label>
+  <MeditationFocusStrength.description>이 물체를 명상하는 동안 집중을 통해 얻을 수 있는 양입니다. 물체에 따라, 이 수는 주변과 명상하는 사람에 따라 변경될 수 있습니다.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.formatString>{0}/일</MeditationFocusStrength.formatString>
+  <MeditationFocusStrength.formatStringUnfinalized>{0}/일</MeditationFocusStrength.formatStringUnfinalized>
+  
+  <PsychicSensitivityOffset.label>psychic sensitivity offset</PsychicSensitivityOffset.label>
+  <PsychicSensitivityOffset.description>사용자의 정신 감응력에 적용되는 오프셋입니다.</PsychicSensitivityOffset.description>
 </LanguageData>
