@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Convert.label>convert</Convert.label>
-  <Convert.description>간수들은 수감자를 정착지의 사상으로 동화하려 시도할 것입니다.</Convert.description>
+  <Bloodfeed.label>bloodfeed</Bloodfeed.label>
+  <Bloodfeed.description>Wardens will ignore this prisoner. When a bloodfeeder's hemogen levels are low, they may feed on this prisoner. Other prisoners who are bloodfeeders can also feed on this prisoner, if they are in the same cell.</Bloodfeed.description>
   
-  <Enslave.label>enslave</Enslave.label>
-  <Enslave.description>간수는 수감자를 위협해 그들의 의지를 꺾으려 들 것입니다. 의지가 꺾인 수감자는 노예로 부릴 수 있습니다.</Enslave.description>
-  
-  <ReduceWill.label>의지 꺾기</ReduceWill.label>
-  <ReduceWill.description>간수는 수감자를 위협해 그들의 의지를 꺾으려 들 것입니다. 하지만 노예로 만들지는 않습니다.</ReduceWill.description>
+  <HemogenFarm.label>hemogen farm</HemogenFarm.label>
+  <HemogenFarm.description>An operation to extract hemogen packs will be automatically queued on this prisoner whenever it can be done without killing them. The operation will be carried out by a doctor.</HemogenFarm.description>
 </LanguageData>
