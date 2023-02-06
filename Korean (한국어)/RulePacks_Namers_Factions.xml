@@ -1,24 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NamerFactionRefugee.rulePack.rulesStrings>
-    <li>r_name->[adj] [group]</li>
-    <li>group->생존자들</li>
-    <li>group->망명자들</li>
-    <li>group->도망자들</li>
-    <li>group->조난자들</li>
-    <li>group->떠돌이들</li>
-    <li>group->유목민들</li>
-    <li>group->방랑자들</li>
-    <li>group->떠돌이들</li>
-    <li>group->유목민</li>
-    <li>adj->지친</li>
-    <li>adj->진이 빠진</li>
-    <li>adj->피곤한</li>
-    <li>adj->기진맥진한</li>
-    <li>adj->추방된</li>
-    <li>adj->회복하는</li>
-    <li>adj->강인한</li>
-    <li>adj->끈질긴</li>
-    <li>adj->결연한</li>
-  </NamerFactionRefugee.rulePack.rulesStrings>
+  <NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name->[msyl][msyl] [mechhive]</li>
+    <li>mechhive->메카무리</li>
+    <li>msyl->니아르</li>
+    <li>msyl->알그</li>
+    <li>msyl->잔</li>
+    <li>msyl->젤</li>
+    <li>msyl->킬</li>
+    <li>msyl->렌</li>
+    <li>msyl->랙스</li>
+    <li>msyl->알파</li>
+    <li>msyl->옴</li>
+    <li>msyl->아이리</li>
+    <li>msyl->슬린</li>
+    <li>msyl->토스</li>
+    <li>msyl->아스</li>
+    <li>msyl->언스</li>
+    <li>msyl->옥스</li>
+    <li>msyl->암</li>
+    <li>msyl->머드</li>
+    <li>msyl->젠</li>
+    <li>msyl->요스</li>
+    <li>msyl->라이트</li>
+  </NamerFactionMechanoid.rulePack.rulesStrings>
+  
+  <NamerFactionOutlander.rulePack.rulesStrings>
+    <li>r_name(p=3)->[nearnameinitial]</li>
+    <li>r_name->[political_union_outlander] [nearnameinitial]</li>
+    <li>r_name->[political_adjective] [political_union_outlander]의 [nearnameinitial]</li>
+    <li>r_name->[nearnameinitial] [political_union_outlander]</li>
+    <li>r_name->[political_adjective] [nearnameinitial] [political_union_outlander]</li>
+    <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
+    <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
+  </NamerFactionOutlander.rulePack.rulesStrings>
+  
+  <NamerFactionPirate.rulePack.rulesStrings>
+    <li>r_name->[AnimalBadass]들</li>
+    <li>r_name->[AnimalBadass] 자식</li>
+    <li>r_name->[ConceptBadass] [AnimalBadass]</li>
+    <li>r_name->[ConceptBadass] [PersonBadass]</li>
+    <li>r_name->[PersonBadass]들</li>
+    <li>r_name->[Enemy]들</li>
+    <li>r_name->[Weapon] 병사</li>
+    <li>r_name->[Weapon]들</li>
+    <li>r_name->[Weapon] [AnimalBadass]들</li>
+    <li>r_name->[Weapon] [Enemy]들</li>
+    <li>r_name->[ColorBadass] [Weapon]들</li>
+    <li>r_name->[ColorBadass] [AnimalBadass]들</li>
+    <li>r_name->[ColorBadass] [PersonBadass]들</li>
+    <li>r_name->[ColorBadass] [Enemy]들</li>
+    <li>r_name->[PersonBadass] [groupname]</li>
+    <li>r_name->[Enemy]의 [Enemy]들</li>
+    <li>r_name->[AdjectiveBadass] [groupname]</li>
+    <li>r_name->[AdjectiveBadass] [AnimalBadass]들</li>
+    <li>r_name->[AdjectiveBadass] [Enemy]들</li>
+    <li>r_name->[AdjectiveBadass] [PersonBadass]들</li>
+    <li>r_name->[ConceptBadass] [PersonAlly]</li>
+    <li>r_name(p=0.4)->[Gore] 포식자</li>
+    <li>r_name->[NamePerson]의 [Enemy]들</li>
+    <li>r_name->[NamePerson]의 [AnimalBadass]들</li>
+    <li>r_name->[NamePerson]의 [Weapon]들</li>
+    <li>r_name->[groupname] [Weapon]</li>
+    <li>r_name->[groupname] [ConceptBadass]</li>
+  </NamerFactionPirate.rulePack.rulesStrings>
+  
+  <NamerFactionTribal.rulePack.rulesStrings>
+    <li>r_name->[political_union_tribal] [WordTribal]</li>
+    <li>r_name->[WordTribal] [political_union_tribal]</li>
+    <li>r_name->[Color] [TerrainFeature] [political_union_tribal]</li>
+    <li>r_name->[WordTribal] [political_union_tribal]</li>
+    <li>r_name->[Color] [Animal] [WordTribal]</li>
+    <li>r_name->[TerrainFeature] [political_union_tribal]</li>
+  </NamerFactionTribal.rulePack.rulesStrings>
+  
+  <NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name->정착지</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
+  
+  <NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name->마을</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
+  
+  <NamerSettlementOutlander.rulePack.rulesStrings>
+    <li>r_name(p=12)->[townname_wordgen]</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Game]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun] [Community]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun] [Community]</li>
+    <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [TerrainFeature]</li>
+    <li>townname_combo(p=2)->[concept_positive] [Community]</li>
+    <li>townname_combo(p=3)->[Character]의 [TerrainFeature]</li>
+    <li>townname_combo(p=3)->[Character]의 [Community]</li>
+    <li>townname_near->[TerrainFeature]의 [nearnameinitial]</li>
+    <li>townname_near->[TerrainFeature] 옆의 [nearnameinitial]</li>
+    <li>townname_near->[TerrainFeature] 위의 [nearnameinitial]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+    <li>townname_wordgen->[TerrainFeature][townend]</li>
+    <li>townname_wordgen->[topicalnoun][townend]</li>
+    <li>townend->바일</li>
+    <li>townend->타운</li>
+    <li>townend->허스트</li>
+    <li>townend->부른</li>
+    <li>townend->브라드</li>
+    <li>townend->데일</li>
+    <li>townend->호프</li>
+    <li>townend->잉그</li>
+    <li>townend->네스</li>
+    <li>townend->미어</li>
+    <li>townend->샤우</li>
+    <li>townend->윅</li>
+    <li>townend->톤</li>
+    <li>townend->스톤</li>
+    <li>townend->오스</li>
+    <li>townend->덴</li>
+    <li>townend->타스</li>
+    <li>townend->우드</li>
+    <li>townend->랜드</li>
+    <li>townend->워스</li>
+    <li>townend->룬</li>
+    <li>townend->론</li>
+    <li>townend->웰</li>
+  </NamerSettlementOutlander.rulePack.rulesStrings>
+  
+  <NamerSettlementPirate.rulePack.rulesStrings>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[AnimalBadass] [geography]</li>
+    <li>townname_combo->[AnimalBadass]의 [geography]</li>
+    <li>townname_combo->[ConceptBadass] [geography]</li>
+    <li>townname_combo->[ConceptBadass]의 [geography]</li>
+    <li>townname_combo->[PersonBadass] [geography]</li>
+    <li>townname_combo->[PersonBadass]의 [geography]</li>
+    <li>townname_combo->[Enemy]의 [geography]</li>
+    <li>townname_combo->[Enemy] [geography]</li>
+    <li>townname_combo->[Weapon]의 [geography]</li>
+    <li>townname_combo->[Weapon] [geography]</li>
+    <li>townname_combo->[ColorBadass] [geography]</li>
+    <li>geography(p=2)->[TerrainFeature]</li>
+    <li>geography->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->바스트</li>
+    <li>townendevil->바르그</li>
+    <li>townendevil->빅스</li>
+    <li>townendevil->토르</li>
+    <li>townendevil->테어</li>
+    <li>townendevil->컷</li>
+    <li>townendevil->로프</li>
+    <li>townendevil->오제</li>
+    <li>townendevil->오즐</li>
+    <li>townendevil->라치</li>
+    <li>townendevil->록</li>
+    <li>townendevil->번</li>
+    <li>townendevil->시어</li>
+    <li>townendevil->샹크</li>
+    <li>townendevil->허트</li>
+    <li>townendevil->배시</li>
+    <li>townendevil->와르그</li>
+    <li>townendevil->부그</li>
+    <li>townendevil->소트</li>
+    <li>townendevil->사드</li>
+    <li>townendevil->샤드</li>
+  </NamerSettlementPirate.rulePack.rulesStrings>
+  
+  <NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name(p=2)->[WordTribal]</li>
+    <li>r_name->[Color] [WordTribal]</li>
+    <li>r_name->[Color] [TerrainFeature]</li>
+    <li>r_name->[TerrainFeature] [WordTribal]</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
 </LanguageData>
