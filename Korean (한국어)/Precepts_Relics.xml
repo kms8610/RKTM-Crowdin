@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoRelic.label>relic</IdeoRelic.label>
-  <IdeoRelic.description>종교적 의미가 담긴 성물입니다.</IdeoRelic.description>
+  <RelicDestroyed.stages.relic_destroyed.label>유물 파괴됨</RelicDestroyed.stages.relic_destroyed.label>
+  <RelicDestroyed.stages.relic_destroyed.description>The relic was destroyed! A travesty!</RelicDestroyed.stages.relic_destroyed.description>
+  
+  <RelicLost.stages.relic_lost.label>유물 잃음</RelicLost.stages.relic_lost.label>
+  <RelicLost.stages.relic_lost.description>The relic has been lost! A travesty!</RelicLost.stages.relic_lost.description>
 </LanguageData>
