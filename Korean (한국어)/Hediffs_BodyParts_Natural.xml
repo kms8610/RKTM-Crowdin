@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Heart.label>심장</Heart.label>
-  <Heart.description>전신에 혈액과 산소를 공급합니다. 새 주인을 찾을 준비가 되었습니다.</Heart.description>
+  <InstallNaturalHeart.label>심장 이식</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>심장을 이식합니다.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>심장 이식 중.</InstallNaturalHeart.jobString>
   
-  <Kidney.label>신장</Kidney.label>
-  <Kidney.description>혈액에서 노폐물을 걸러주고 제거합니다.</Kidney.description>
+  <InstallNaturalKidney.label>신장 이식</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>신장을 이식합니다.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>신장 이식 중.</InstallNaturalKidney.jobString>
   
-  <Liver.label>간</Liver.label>
-  <Liver.description>신체 대사에 중요한 역할을 합니다.</Liver.description>
+  <InstallNaturalLiver.label>간 이식</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>간을 이식합니다.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>간 이식 중.</InstallNaturalLiver.jobString>
   
-  <Lung.label>폐</Lung.label>
-  <Lung.description>호흡기의 필수 부분입니다.</Lung.description>
+  <InstallNaturalLung.label>폐 이식</InstallNaturalLung.label>
+  <InstallNaturalLung.description>폐를 이식합니다.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>폐 이식 중.</InstallNaturalLung.jobString>
 </LanguageData>
