@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Comfort_Ignored.label>무시됨</Comfort_Ignored.label>
-  <Comfort_Ignored.description>우리는 편안함에 얽매여선 안 된다.</Comfort_Ignored.description>
-  
-  <SlabBed_Preferred.label>선호</SlabBed_Preferred.label>
-  <SlabBed_Preferred.description>딱딱한 침대에서 잠을 청하는 것이 옳은 방식이다.</SlabBed_Preferred.description>
-  <SlabBed_Preferred.comps.0.description>딱딱한 침대에서 잠</SlabBed_Preferred.comps.0.description>
+  <SlabBed_Preferred.stages.slept_on_slab_bed.label>slept on slab bed</SlabBed_Preferred.stages.slept_on_slab_bed.label>
+  <SlabBed_Preferred.stages.slept_on_slab_bed.description>I demonstrated my morality by accepting the discomfort of the slab bed.</SlabBed_Preferred.stages.slept_on_slab_bed.description>
 </LanguageData>
