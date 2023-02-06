@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteFungus.label>ate fungus</AteFungus.label>
-  
-  <AteFungusAsIngredient.label>버섯 요리 섭취</AteFungusAsIngredient.label>
-  
-  <AteNonFungusMealWithPlants.label>버섯 이외의 것을 먹음</AteNonFungusMealWithPlants.label>
-  
-  <AteNonFungusPlant.label>버섯 이외의 작물을 먹음</AteNonFungusPlant.label>
+  <FungusEating.label>진균류</FungusEating.label>
 </LanguageData>
