@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChoppedStump_Polux.label>chopped polux stump</ChoppedStump_Polux.label>
-  <ChoppedStump_Polux.description>A stump left behind after a polux tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump_Polux.description>
+  <BurnedTree.label>burned stump</BurnedTree.label>
+  <BurnedTree.description>A burned tree stump. It's ugly and yields very little usable wood.</BurnedTree.description>
   
-  <Plant_TreePolux.label>polux tree</Plant_TreePolux.label>
-  <Plant_TreePolux.description>After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks.</Plant_TreePolux.description>
+  <ChoppedStump.label>chopped stump</ChoppedStump.label>
+  <ChoppedStump.description>A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</ChoppedStump.description>
   
-  <PoluxSeed.label>polux seed</PoluxSeed.label>
-  <PoluxSeed.description>The seed of a polux tree. It can be planted to create a new polux tree which will absorb pollution from nearby terrain.</PoluxSeed.description>
+  <Dye.label>염색</Dye.label>
+  <Dye.description>Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more.</Dye.description>
   
-  <SmashedStump_Polux.label>smashed polux stump</SmashedStump_Polux.label>
-  <SmashedStump_Polux.description>The remnants of a polux tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump_Polux.description>
+  <Plant_Ambrosia.label>암브로시아 덤불</Plant_Ambrosia.label>
+  <Plant_Ambrosia.description>암브로시아 열매를 맺는 희귀한 야생 덤불입니다. 암브로시아 과일은 맛있고 마약과 같은 기분을 북돋아 줍니다. 암브로시아는 경작할 수 없어서 야생의 암브로시아 숲은 매우 귀중한 자원입니다.\n\n이는 희귀성, 아름다움, 그리고 욕구에 대한 갈망으로 고대 그리스 신들의 음식 이름을 따온 이유이기도 합니다.</Plant_Ambrosia.description>
+  
+  <Plant_Tinctoria.label>염색풀</Plant_Tinctoria.label>
+  <Plant_Tinctoria.description>A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more.</Plant_Tinctoria.description>
+  
+  <SmashedStump.label>smashed stump</SmashedStump.label>
+  <SmashedStump.description>The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time.</SmashedStump.description>
 </LanguageData>
