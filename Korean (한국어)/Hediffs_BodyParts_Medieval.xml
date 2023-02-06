@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallDenture.label>틀니 장착</InstallDenture.label>
-  <InstallDenture.description>틀니를 장착합니다.</InstallDenture.description>
-  <InstallDenture.jobString>틀니 설치 중.</InstallDenture.jobString>
+  <Denture.label>틀니</Denture.label>
+  <Denture.description>틀니가 설치되어 있습니다.</Denture.description>
+  <Denture.labelNoun>틀니</Denture.labelNoun>
   
-  <InstallPegLeg.label>나무 의족 장착</InstallPegLeg.label>
-  <InstallPegLeg.description>나무 의족을 장착합니다.</InstallPegLeg.description>
-  <InstallPegLeg.jobString>의족 설치 중.</InstallPegLeg.jobString>
+  <PegLeg.label>의족</PegLeg.label>
+  <PegLeg.description>나무 의족이 설치되어 있습니다.</PegLeg.description>
+  <PegLeg.labelNoun>나무 의족</PegLeg.labelNoun>
   
-  <InstallWoodenFoot.label>목발 장착</InstallWoodenFoot.label>
-  <InstallWoodenFoot.description>나무로 만든 간단한 목발을 장착합니다.</InstallWoodenFoot.description>
-  <InstallWoodenFoot.jobString>목발 설치 중.</InstallWoodenFoot.jobString>
+  <WoodenFoot.label>목재 발</WoodenFoot.label>
+  <WoodenFoot.description>목발이 설치되어 있습니다.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>목발</WoodenFoot.labelNoun>
   
-  <InstallWoodenHand.label>나무 의수 장착</InstallWoodenHand.label>
-  <InstallWoodenHand.description>나무 의수를 장착합니다.</InstallWoodenHand.description>
-  <InstallWoodenHand.jobString>나무 의수 장착 중</InstallWoodenHand.jobString>
+  <WoodenHand.label>wooden hand</WoodenHand.label>
+  <WoodenHand.description>목재 손이 설치되어 있습니다.</WoodenHand.description>
+  <WoodenHand.labelNoun>목재 손</WoodenHand.labelNoun>
 </LanguageData>
