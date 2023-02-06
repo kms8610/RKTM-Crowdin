@@ -1,22 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_StoneBlocksGranite.label>화강암 석재 만들기</Make_StoneBlocksGranite.label>
-  <Make_StoneBlocksGranite.description>화강암 덩어리를 석재로 가공합니다.</Make_StoneBlocksGranite.description>
-  <Make_StoneBlocksGranite.jobString>석재 만드는 중.</Make_StoneBlocksGranite.jobString>
+  <BlocksGranite.label>화강암 석재</BlocksGranite.label>
+  <BlocksGranite.description>단단한 화강암 석재. 매우 단단한 석재입니다.</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>화강암</BlocksGranite.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksLimestone.label>석회암 석재 만들기</Make_StoneBlocksLimestone.label>
-  <Make_StoneBlocksLimestone.description>석회암 덩어리를 석재로 가공합니다.</Make_StoneBlocksLimestone.description>
-  <Make_StoneBlocksLimestone.jobString>석재 만드는 중.</Make_StoneBlocksLimestone.jobString>
+  <BlocksLimestone.label>석회암 석재</BlocksLimestone.label>
+  <BlocksLimestone.description>단단한 석회암 석재입니다.</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>석회암</BlocksLimestone.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksMarble.label>대리석 석재 만들기</Make_StoneBlocksMarble.label>
-  <Make_StoneBlocksMarble.description>대리석 덩어리를 석재로 가공합니다.</Make_StoneBlocksMarble.description>
-  <Make_StoneBlocksMarble.jobString>석재 만드는 중.</Make_StoneBlocksMarble.jobString>
+  <BlocksMarble.label>대리석 석재</BlocksMarble.label>
+  <BlocksMarble.description>단단한 대리석 석재. 대리석은 조각하기 쉬워 널리 사용된 아름다운 돌입니다.</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>대리석</BlocksMarble.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksSandstone.label>사암 석재 만들기</Make_StoneBlocksSandstone.label>
-  <Make_StoneBlocksSandstone.description>사암 덩어리를 석재로 가공합니다.</Make_StoneBlocksSandstone.description>
-  <Make_StoneBlocksSandstone.jobString>석재 만드는 중.</Make_StoneBlocksSandstone.jobString>
+  <BlocksSandstone.label>사암 석재</BlocksSandstone.label>
+  <BlocksSandstone.description>단단한 사암 석재. 사암은 비교적 부드러운 암석이라 쉽게 부서집니다.</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>사암</BlocksSandstone.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksSlate.label>점판암 석재 만들기</Make_StoneBlocksSlate.label>
-  <Make_StoneBlocksSlate.description>점판암 덩어리를 석재로 가공합니다.</Make_StoneBlocksSlate.description>
-  <Make_StoneBlocksSlate.jobString>석재 만드는 중.</Make_StoneBlocksSlate.jobString>
+  <BlocksSlate.label>점판암 석재</BlocksSlate.label>
+  <BlocksSlate.description>단단한 점판암 석재. 쉽게 갈라지는 검은 색의 석재입니다.</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>점판암</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <ChunkGranite.label>화강암 덩어리</ChunkGranite.label>
+  <ChunkGranite.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkGranite.description>
+  
+  <ChunkLimestone.label>석회암 덩어리</ChunkLimestone.label>
+  <ChunkLimestone.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkLimestone.description>
+  
+  <ChunkMarble.label>대리석 덩어리</ChunkMarble.label>
+  <ChunkMarble.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkMarble.description>
+  
+  <ChunkSandstone.label>사암 덩어리</ChunkSandstone.label>
+  <ChunkSandstone.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkSandstone.description>
+  
+  <ChunkSlagSteel.label>고철 덩어리</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>고철 한 덩어리. 현재 상태로는 쓸모가 없지만, 제련하여 강철을 회수할 수 있습니다.</ChunkSlagSteel.description>
+  
+  <ChunkSlate.label>점판암 덩어리</ChunkSlate.label>
+  <ChunkSlate.description>바위 덩어리입니다. 사용 가능한 석재로 잘라낼 수 있습니다.</ChunkSlate.description>
+  
+  <Granite.label>화강암</Granite.label>
+  <Granite.description>매우 단단한 화강암 입니다.</Granite.description>
+  
+  <Limestone.label>석회암</Limestone.label>
+  <Limestone.description>석회암은 고대 조개 껍질들의 퇴적물로 형성되었습니다.</Limestone.description>
+  
+  <Marble.label>대리석</Marble.label>
+  <Marble.description>부드러운 변성암입니다.</Marble.description>
+  
+  <Sandstone.label>사암</Sandstone.label>
+  <Sandstone.description>모래입자로 이루어진 퇴적암입니다.</Sandstone.description>
+  
+  <Slate.label>점판암</Slate.label>
+  <Slate.description>어두운 색의 변성암. 미세한 층은 비늘 모양으로 갈라져 있습니다.</Slate.description>
+  
+  <SmoothedGranite.label>매끄러운 화강암</SmoothedGranite.label>
+  <SmoothedGranite.description>매우 강한 화성암. 빛나는 표면은 검은색, 흰색, 분홍색 얼룩무늬 모자이크로 채워져 있습니다.</SmoothedGranite.description>
+  
+  <SmoothedLimestone.label>매끄러운 석회암</SmoothedLimestone.label>
+  <SmoothedLimestone.description>석회암은 고대 조개 껍질들의 퇴적물로 형성되었다. 부드러운 흰색을 내며, 안에 있는 불순물들이 가볍게 빛납니다.</SmoothedLimestone.description>
+  
+  <SmoothedMarble.label>매끄러운 대리석</SmoothedMarble.label>
+  <SmoothedMarble.description>부드러운 변성암. 이 우윳빛 바위는 내부로부터 빛이 반사되는 것처럼 보입니다.</SmoothedMarble.description>
+  
+  <SmoothedSandstone.label>매끄러운 사암</SmoothedSandstone.label>
+  <SmoothedSandstone.description>모래입자로 이루어진 퇴적암. 모래 층이 평평하고 매끄러운 표면으로 다듬어져 있습니다.</SmoothedSandstone.description>
+  
+  <SmoothedSlate.label>매끄러운 점판암</SmoothedSlate.label>
+  <SmoothedSlate.description>어두운 색의 변성암. 미세한 층은 비늘 모양으로 갈라져 있다. 내부 층은 광택을 낸 표면을 통해 뚜렷이 보입니다.</SmoothedSlate.description>
 </LanguageData>
