@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FlakeHigh.label>플레이크에 취함</FlakeHigh.label>
-  <FlakeHigh.description>플레이크가 피를 타고 흐릅니다. 기분을 좋게하지만, 몸을 쇠약하게 만듭니다.</FlakeHigh.description>
-  <FlakeHigh.labelNoun>플레이크에 취함</FlakeHigh.labelNoun>
+  <Flake.label>플레이크</Flake.label>
+  <Flake.description>광이풀에서 정제한, 눈꽃 모양 결정을 가진 물질로, 흡연을 통해 짧지만 강렬한 절정을 느낄 수 있습니다. 저렴하게 생산할 수 있지만 중독성이 높습니다. 플레이크는 생명과 공동체, 사회 전체를 파괴하는 것으로 알려져 있습니다.</Flake.description>
+  <Flake.ingestible.ingestCommandString>{0} 피우기</Flake.ingestible.ingestCommandString>
+  <Flake.ingestible.ingestReportString>{0} 피우는 중.</Flake.ingestible.ingestReportString>
 </LanguageData>
