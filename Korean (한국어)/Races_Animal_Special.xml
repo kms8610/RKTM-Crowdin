@@ -1,50 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Dryad_Barkskin.label>나무가죽 나무지기</Dryad_Barkskin.label>
-  <Dryad_Barkskin.description>A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Barkskin.description>
-  <Dryad_Barkskin.tools.left_claw.label>왼쪽 발톱</Dryad_Barkskin.tools.left_claw.label>
-  <Dryad_Barkskin.tools.right_claw.label>오른쪽 발톱</Dryad_Barkskin.tools.right_claw.label>
-  <Dryad_Barkskin.tools.head.label>머리</Dryad_Barkskin.tools.head.label>
   
   <Dryad_Basic.label>어린 나무지기</Dryad_Basic.label>
-  <Dryad_Basic.description>Dryads are small mammalian creatures that have a symbiotic relationship with the Gauranlen tree. This immature dryad can support and protect its tree, but its main purpose is to morph into more specialized and powerful dryad forms.</Dryad_Basic.description>
-  <Dryad_Basic.tools.left_claw.label>왼쪽 발톱</Dryad_Basic.tools.left_claw.label>
-  <Dryad_Basic.tools.right_claw.label>오른쪽 발톱</Dryad_Basic.tools.right_claw.label>
-  <Dryad_Basic.tools.head.label>머리</Dryad_Basic.tools.head.label>
   
   <Dryad_Berrymaker.label>열매돋이 나무지기</Dryad_Berrymaker.label>
-  <Dryad_Berrymaker.description>A dryad caste specialized in food production. Together with its Gauranlen tree, this dryad can generate nourishing berries on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Berrymaker.description>
-  <Dryad_Berrymaker.tools.left_claw.label>왼쪽 발톱</Dryad_Berrymaker.tools.left_claw.label>
-  <Dryad_Berrymaker.tools.right_claw.label>오른쪽 발톱</Dryad_Berrymaker.tools.right_claw.label>
-  <Dryad_Berrymaker.tools.head.label>머리</Dryad_Berrymaker.tools.head.label>
   
   <Dryad_Carrier.label>짐꾼 나무지기</Dryad_Carrier.label>
-  <Dryad_Carrier.description>A dryad caste specialized in carrying items. Under human influence, it can help haul things where they need to go.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Carrier.description>
-  <Dryad_Carrier.tools.left_claw.label>왼쪽 발톱</Dryad_Carrier.tools.left_claw.label>
-  <Dryad_Carrier.tools.right_claw.label>오른쪽 발톱</Dryad_Carrier.tools.right_claw.label>
-  <Dryad_Carrier.tools.head.label>머리</Dryad_Carrier.tools.head.label>
   
   <Dryad_Clawer.label>뾰족발톱 나무지기</Dryad_Clawer.label>
-  <Dryad_Clawer.description>A dryad caste with huge claws that is specialized in aggression and damage-dealing attacks. Though it can do tremendous damage, it is vulnerable to attacks itself.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Clawer.description>
-  <Dryad_Clawer.tools.left_claw.label>왼쪽 발톱</Dryad_Clawer.tools.left_claw.label>
-  <Dryad_Clawer.tools.right_claw.label>오른쪽 발톱</Dryad_Clawer.tools.right_claw.label>
-  <Dryad_Clawer.tools.head.label>머리</Dryad_Clawer.tools.head.label>
   
   <Dryad_Gaumaker.label>요정단지 나무지기</Dryad_Gaumaker.label>
-  <Dryad_Gaumaker.description>A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Gaumaker.description>
-  <Dryad_Gaumaker.tools.left_claw.label>왼쪽 발톱</Dryad_Gaumaker.tools.left_claw.label>
-  <Dryad_Gaumaker.tools.right_claw.label>오른쪽 발톱</Dryad_Gaumaker.tools.right_claw.label>
-  <Dryad_Gaumaker.tools.head.label>머리</Dryad_Gaumaker.tools.head.label>
   
   <Dryad_Medicinemaker.label>약돋이 나무지기</Dryad_Medicinemaker.label>
-  <Dryad_Medicinemaker.description>A dryad caste specialized in medicine production. Together with its Gauranlen tree, this dryad can generate medicinal herbs on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Medicinemaker.description>
-  <Dryad_Medicinemaker.tools.left_claw.label>왼쪽 발톱</Dryad_Medicinemaker.tools.left_claw.label>
-  <Dryad_Medicinemaker.tools.right_claw.label>오른쪽 발톱</Dryad_Medicinemaker.tools.right_claw.label>
-  <Dryad_Medicinemaker.tools.head.label>머리</Dryad_Medicinemaker.tools.head.label>
   
   <Dryad_Woodmaker.label>가지돋이 나무지기</Dryad_Woodmaker.label>
-  <Dryad_Woodmaker.description>A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</Dryad_Woodmaker.description>
-  <Dryad_Woodmaker.tools.left_claw.label>왼쪽 발톱</Dryad_Woodmaker.tools.left_claw.label>
-  <Dryad_Woodmaker.tools.right_claw.label>오른쪽 발톱</Dryad_Woodmaker.tools.right_claw.label>
-  <Dryad_Woodmaker.tools.head.label>머리</Dryad_Woodmaker.tools.head.label>
 </LanguageData>
