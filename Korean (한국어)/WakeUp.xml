@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUp.label>웨이크업</WakeUp.label>
-  <WakeUp.description>A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug.</WakeUp.description>
-  <WakeUp.ingestible.ingestCommandString>{0} 복용</WakeUp.ingestible.ingestCommandString>
-  <WakeUp.ingestible.ingestReportString>{0} 복용 중.</WakeUp.ingestible.ingestReportString>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>웨이크업 금단현상</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>흐릿하고 혼란스럽고, 너무 피곤해.</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
 </LanguageData>
