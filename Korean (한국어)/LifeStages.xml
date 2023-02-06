@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HumanlikePreTeenager.label>preteen</HumanlikePreTeenager.label>
+  <AnimalAdult.label>성체</AnimalAdult.label>
+  
+  <AnimalBaby.label>게르지</AnimalBaby.label>
+  
+  <AnimalBabyTiny.label>게르지</AnimalBabyTiny.label>
+  
+  <AnimalJuvenile.label>성장기</AnimalJuvenile.label>
+  
+  <EusocialInsectAdult.label>성체</EusocialInsectAdult.label>
+  
+  <EusocialInsectJuvenile.label>아성체</EusocialInsectJuvenile.label>
+  
+  <EusocialInsectLarva.label>애벌레</EusocialInsectLarva.label>
+  
+  <HumanlikeAdult.label>성체</HumanlikeAdult.label>
+  
+  <HumanlikeBaby.label>게르지</HumanlikeBaby.label>
+  <HumanlikeBaby.customMoodTipString>Mood represents how happy or stressed someone is. Babies with low mood are more likely to cry, while babies with a high mood are more likely to giggle.</HumanlikeBaby.customMoodTipString>
+  
+  <HumanlikeChild.label>무리 안내자</HumanlikeChild.label>
+  
+  <HumanlikeTeenager.label>청소년</HumanlikeTeenager.label>
+  <HumanlikeTeenager.adjective>청소년</HumanlikeTeenager.adjective>
+  
+  <MechanoidFullyFormed.label>완전체</MechanoidFullyFormed.label>
 </LanguageData>
