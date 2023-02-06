@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beer.label>맥주</Beer.label>
-  <Beer.description>물을 제외한다면 인류가 발명한 최초의 음료수 입니다. 맛있지만 사람을 취하게 만듭니다. 과다 섭취는 알콜 중독으로 이어질 수 있습니다.</Beer.description>
-  <Beer.ingestible.ingestCommandString>{0} 마시기</Beer.ingestible.ingestCommandString>
-  <Beer.ingestible.ingestReportString>{0} 마시는 중</Beer.ingestible.ingestReportString>
-  <Beer.tools.bottle.label>병</Beer.tools.bottle.label>
-  <Beer.tools.neck.label>목</Beer.tools.neck.label>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>카페인 금단증상</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
+  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>불안한 느낌이야. 모든것들이 나를 열받게 해. 계속 술을 마시고 싶어.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
   
-  <Wort.label>맥아즙</Wort.label>
-  <Wort.description>발효되지 않은 맥주 입니다. 마실 수 있는 맥주가 되려면 통에서 발효해야합니다.</Wort.description>
+  <Hungover.stages.mild_hangover.label>가벼운 숙취</Hungover.stages.mild_hangover.label>
+  <Hungover.stages.mild_hangover.description>두통이 어느정도 사라졌다.</Hungover.stages.mild_hangover.description>
+  <Hungover.stages.serious_hangover.label>심한 숙취</Hungover.stages.serious_hangover.label>
+  <Hungover.stages.serious_hangover.description>술 때문에 머리가 아프다.</Hungover.stages.serious_hangover.description>
+  <Hungover.stages.pounding_hangover.label>두들기는 듯 한 숙취</Hungover.stages.pounding_hangover.label>
+  <Hungover.stages.pounding_hangover.description>마치 거위때의 소음이 내 골통을 쪼는 것 같아.</Hungover.stages.pounding_hangover.description>
+  
+  <Inebriated.stages.alcohol_warmth.label>알콜의 따스함</Inebriated.stages.alcohol_warmth.label>
+  <Inebriated.stages.alcohol_warmth.description>술을 마시고 나면 조금 풀어지는 느낌이야, 정말 좋아.</Inebriated.stages.alcohol_warmth.description>
+  <Inebriated.stages.quite_inebriated.label>매우 취함</Inebriated.stages.quite_inebriated.label>
+  <Inebriated.stages.quite_inebriated.description>조금씩 비틀거리는게 꽤 즐거워.</Inebriated.stages.quite_inebriated.description>
+  <Inebriated.stages.drunk.label>어지러움</Inebriated.stages.drunk.label>
+  <Inebriated.stages.drunk.description>난 완전히 풀어헤쳤어 아무 두려움도 없고! 정말 최고야!.</Inebriated.stages.drunk.description>
+  <Inebriated.stages.hammered.label>취함</Inebriated.stages.hammered.label>
+  <Inebriated.stages.hammered.description>우! 무슨 일이야?</Inebriated.stages.hammered.description>
 </LanguageData>
