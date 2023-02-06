@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NobleDespisedWeapons.label>존경과 멸시</NobleDespisedWeapons.label>
-  <NobleDespisedWeapons.description>전투에서 사용할 무기의 선호도입니다.</NobleDespisedWeapons.description>
-  <NobleDespisedWeapons.comps.0.description>고결한 무기를 사용함</NobleDespisedWeapons.comps.0.description>
-  <NobleDespisedWeapons.comps.1.description>천박한 무기를 사용함</NobleDespisedWeapons.comps.1.description>
-  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>고결한 무기를 착용함</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
-  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>천박한 무기를 착용함</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>victory by noble weapon</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>I have claimed victory while wielding a noble weapon!</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+  
+  <UsedDespisedWeapon.stages.used_despised_weapon.label>천박한 무기를 사용함</UsedDespisedWeapon.stages.used_despised_weapon.label>
+  <UsedDespisedWeapon.stages.used_despised_weapon.description>I used a filthy weapon which ought never to be used. How humiliating.</UsedDespisedWeapon.stages.used_despised_weapon.description>
+  
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>I am wielding a {WEAPON_label}. Such a noble weapon!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>wielding {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>I am wielding a {WEAPON_label}. Such a detestable weapon!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
 </LanguageData>
