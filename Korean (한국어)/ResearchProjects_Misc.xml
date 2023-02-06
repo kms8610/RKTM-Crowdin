@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Archogenetics.label>archogenetics</Archogenetics.label>
-  <Archogenetics.description>Allows a gene assembler to use archite capsules to create seemingly-impossible genes. Archite genes and archite capsules can be obtained from traders.</Archogenetics.description>
+  <Bioregeneration.label>신체 재생</Bioregeneration.label>
+  <Bioregeneration.description>생체 재구축기에 신체 재생 절차를 추가합니다. 이 절차는 대상이 지닌 모든 상처 및 무작위 흉터 하나를 제거하고, 손가락처럼 작은 신체 결손 부위를 복원하며, 노화로 인해 발생하는 여러 질병들을 제거합니다.</Bioregeneration.description>
   
-  <Deathrest.label>deathrest</Deathrest.label>
-  <Deathrest.description>Those with the deathrest gene must periodically undergo a special deathrest coma that lasts several days. This research project allows you to construct buildings which accelerate the deathrest coma and confer specific bonuses on the deathrester. Over time, you can build a grand deathrest temple.</Deathrest.description>
+  <Biosculpting.label>생체 재구축</Biosculpting.label>
+  <Biosculpting.description>생체에 다양한 혜택을 제공하는 생체 재구축기를 만들 수 있습니다. 신체 개조 사상을 가진 이들에게 매우 중요한 장치입니다.</Biosculpting.description>
   
-  <FertilityProcedures.label>fertility procedures</FertilityProcedures.label>
-  <FertilityProcedures.description>Perform the surgeries necessary to create a test tube embryo from a fertile man and woman, then implant the embryo in a surrogate mother or growth vat. Also, perform sterilization surgeries on men and women.</FertilityProcedures.description>
-  
-  <GeneProcessor.label>gene processor</GeneProcessor.label>
-  <GeneProcessor.description>Build gene processors, which allow a gene assembler to create xenogerms of higher genetic complexity.</GeneProcessor.description>
-  
-  <GrowthVats.label>growth vats</GrowthVats.label>
-  <GrowthVats.description>Construct growth vats which can gestate an embryo or accelerate a child's growth.</GrowthVats.description>
-  
-  <ToxFiltration.label>toxin filtration</ToxFiltration.label>
-  <ToxFiltration.description>Craft and install bionic organs that can filter out toxins from the environment and from enemy attacks.</ToxFiltration.description>
-  
-  <ToxGas.label>tox gas</ToxGas.label>
-  <ToxGas.description>Produce weapons that utilize caustic tox gas.</ToxGas.description>
-  
-  <ToxifierGenerator.label>toxifier generator</ToxifierGenerator.label>
-  <ToxifierGenerator.description>Create toxifier generators which generate electricity, but also spread pollution around themselves.</ToxifierGenerator.description>
-  
-  <Xenogermination.label>xenogenetics</Xenogermination.label>
-  <Xenogermination.description>Create xenogerms which can be implanted in a person to genetically modify them. Extract genepacks from living people using a gene extractor so you can reimplant their genes into someone else.</Xenogermination.description>
+  <NeuralSupercharger.label>신경 과충전</NeuralSupercharger.label>
+  <NeuralSupercharger.description>의식과 학습 효율을 높이지만 허기를 자극하는 신경 과충전기를 만들 수 있습니다. 신체 개조 사상을 가진 이들에게 매우 중요한 장치입니다.</NeuralSupercharger.description>
 </LanguageData>
