@@ -1,196 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Work tab -->
-  <ManualPriorities>중요도 수동조절</ManualPriorities>
-  <HigherPriority>높은 중요도</HigherPriority>
-  <LowerPriority>낮은 중요도</LowerPriority>
-  <RelevantSkills>관련 기술: {0}\n관련 기술들의 평균값: {1}</RelevantSkills>
-  <ClickToJumpTo>클릭하여 이동:</ClickToJumpTo>
-  <CannotDoThisWork>{1_labelShort}(은)는 이 작업을 할 수 없습니다.</CannotDoThisWork>
-  <NoneBrackets>(없음)</NoneBrackets>
-  <IncapableOfWorkTypeBecauseOfCapacities>This colonist is not able to do any work of this type because of their health condition.</IncapableOfWorkTypeBecauseOfCapacities>
-  <EmergencyWorkMarker>동</EmergencyWorkMarker>
-  <SelectedWorkTypeWithVeryBadSkill>경고: 관련 기술이 매우 낮습니다.</SelectedWorkTypeWithVeryBadSkill>
-  <PriorityOneDoneFirst>작업에 할당된 숫자가 1에 가까울수록 우선적으로 실행됩니다.</PriorityOneDoneFirst>
-  <Priority0>보류</Priority0>
-  <Priority1>즉시 실행</Priority1>
-  <Priority2>높은 우선순위</Priority2>
-  <Priority3>보통 우선순위</Priority3>
-  <Priority4>낮은 우선순위</Priority4>
-  <PawnFactionInfo>{0}\n\n현재 {1_nameDef} 세력에 속해 있습니다.\n\n세력을 보려면 클릭하세요.</PawnFactionInfo>
-  <WorkDisabledByBackstory>Disabled by {0} backstory</WorkDisabledByBackstory>
-  <WorkDisabledByTrait>Disabled by {0} trait</WorkDisabledByTrait>
-  <WorkDisabledByQuest>Disabled by quest '{0}'</WorkDisabledByQuest>
+  <!-- Ideoligions -->
+  <Deities>신적 존재</Deities>
+  <ButtonShowAllIdeoligions>모든 사상 보기</ButtonShowAllIdeoligions>
+  <IdeoligionOf>다음 세력의 사상</IdeoligionOf>
+  <Memes>Memes</Memes>
+  <CoreNarrative>Narrative</CoreNarrative>
+  <CoreNarrativeDesc>사상의 핵심 구절입니다. 게임 플레이에는 영향을 주지 않습니다.</CoreNarrativeDesc>
+  <EditNarrative>구절 편집</EditNarrative>
+  <LockButtonDesc>사상의 현재 구절을 고정하거나 고정 해제합니다. 구절을 고정하면 사상을 편집해도 바뀌지 않습니다.</LockButtonDesc>
+  <LockInOn>{0} 고정이 켜져있습니다. {1}(이)가 자동으로 재생성되지 않습니다.</LockInOn>
+  <LockInOff>{0} 고정이 꺼져있습니다. {1}(이)가 자동으로 재생성될 수 있습니다.</LockInOff>
+  <LockPreceptNameButtonDesc>이 규율을 고정하거나 고정 해제합니다. 규율을 고정하면 사상을 편집해도 규율 이름이 바뀌지 않습니다.</LockPreceptNameButtonDesc>
+  <Precepts>Precepts</Precepts>
+  <Rituals>행사</Rituals>
+  <IdeoRoles>지위</IdeoRoles>
+  <IdeoBuildings>구조물</IdeoBuildings>
+  <IdeoRelics>Relics</IdeoRelics>
+  <IdeoApparel>선호 의복</IdeoApparel>
+  <IdeoApparelDesire>의복 희망</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>거절</UnwillingToDoIdeoAction>
+  <PreceptStats>통계</PreceptStats>
+  <Prohibitions>금지</Prohibitions>
+  <Opinions>의견</Opinions>
+  <RandomizeName>무작위 이름</RandomizeName>
+  <RandomizePrecepts>무작위 규율</RandomizePrecepts>
+  <RandomizeDeities>무작위 신적 존재</RandomizeDeities>
+  <AddDeity>신적 존재 추가</AddDeity>
+  <ChooseMemes>가르침 선택</ChooseMemes>
+  <ChooseStartingMeme>시작 가르침 선택</ChooseStartingMeme>
+  <ChooseStructure>구조 선택</ChooseStructure>
+  <ChooseCulture>문화 선택</ChooseCulture>
+  <Culture>문화</Culture>
+  <CultureTip>문화는 이름과 외형, 상징에 영향을 줍니다.</CultureTip>
+  <StructureMeme>Structure</StructureMeme>
+  <StructureMemeTip>사상의 핵심이 되는 존재와 그 형태를 결정합니다. 게임 플레이에 직접적인 영향을 주지는 않습니다.</StructureMemeTip>
+  <Adjective>형용사</Adjective>
+  <WorshipRoom>의식장</WorshipRoom>
+  <IdeoMembers>구성원 호칭</IdeoMembers>
+  <IdeoMembersPlural>구성원 복수형</IdeoMembersPlural>
+  <EditSymbols>상징 편집</EditSymbols>
+  <EditDeity>신적 존재 편집</EditDeity>
+  <EditApparelRequirement>필요 의복 편집</EditApparelRequirement>
+  <EditName>이름 편집</EditName>
+  <StartingCondition_Anytime>아무 때나</StartingCondition_Anytime>
+  <StartingCondition_Date>날짜</StartingCondition_Date>
+  <StartingCondition>시작 조건</StartingCondition>
+  <Edit>수정</Edit>
+  <RandomizeSymbols>무작위 상징</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>사상의 이름, 아이콘, 구절, 지도자 호칭, 의식 이름, 보직 이름 등 모든 텍스트를 무작위로 지정합니다. 가르침과 규율처럼 게임 플레이에 영향을 주는 요소는 바꾸지 않습니다.</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>구성 요소를 클릭해 편집</ClickAnyElementToEditIt>
+  <LeaderTitle>지도자 호칭</LeaderTitle>
+  <DeityName>신적 존재 이름</DeityName>
+  <DeityTitle>신적 존재 호칭</DeityTitle>
+  <DeityGender>신적 존재 성별</DeityGender>
+  <Name>이름</Name>
+  <Icon>아이콘</Icon>
+  <RelatedToMeme>관련된 가르침</RelatedToMeme>
+  <IdeoCharityQuestInfo>이것은 이타적 임무입니다. 이타적 사상인 {0}(을)를 믿는 다음 정착민들은 임무가 성공하면 기뻐하고, 실패하면 실망할 것입니다. ({1})</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>노예가 할 수 없음</WorkDisabledSlave>
+  <WorkDisabledRole>{0} 지위로 인해 비활성</WorkDisabledRole>
+  <AffectedByTraits>특성의 영향</AffectedByTraits>
+  <CharityQuestTip>이것은 이타적 임무입니다. 이타적 믿음을 가진 사람들은 임무 결과에 영향을 받게 됩니다</CharityQuestTip>
+  <Formerly>이전</Formerly>
+  <All>전체</All>
+  <RelicTip>유물은 영적으로, 또는 사상적으로 중요한 물체로서 길고 위험한 임무를 통해 찾아낼 수 있습니다. 유물을 유물함에 설치하면 순례자가 찾아오고, 의식의 효과가 증가하며, 외부인이 유물의 사상으로 전향할 확률이 높아집니다.</RelicTip>
+  <RelicTipClassic>Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims and enhance rituals.</RelicTipClassic>
+  <Animal>동물</Animal>
+  <VeneratedAnimals>성스러운 동물</VeneratedAnimals>
+  <IdeoWeapon>무기 속성별 호불호 추가</IdeoWeapon>
+  <IdeoWeapons>무기</IdeoWeapons>
+  <SwapNobleAndDespised>교체</SwapNobleAndDespised>
+  <Noble>귀족</Noble>
+  <Despised>천박함</Despised>
+  <UnlockedRecipes>제작 가능한 물품</UnlockedRecipes>
+  <IdeoStartWithResearch>연구와 함께 시작</IdeoStartWithResearch>
+  <AgreeableTraits>잘 맞는 특성</AgreeableTraits>
+  <DisagreeableTraits>충돌하는 특성</DisagreeableTraits>
+  <Shooting>사격</Shooting>
+  <IdeoImpact>충격</IdeoImpact>
+  <IdeoImpactOverall>전반적 영향</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>어떤 가르침은 다른 가르침보다 게임 플레이에 더 큰 영향을 줍니다. 가르침의 영향도 점수를 통해 게임 플레이가 얼마나 바뀔지 짐작할 수 있습니다.</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>낮음</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>중간</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>높음</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>낮음</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>낮음</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>진행됨</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>진행됨</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>강한</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>강한</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>매우 높음</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>매우 높음</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>극심함</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>정착지의 시작 사상입니다.</InitialPlayerIdeo>
   
-  <!-- Assign tab -->
-  <ManageOutfits>복장 관리</ManageOutfits>
-  <Unchangeable>교체 불가</Unchangeable>
-  <ClearForcedApparel>강제지정 취소</ClearForcedApparel>
-  <ApparelForcedLower>강제됨</ApparelForcedLower>
-  <ApparelLockedLower>잠김</ApparelLockedLower>
-  <ForcedApparel>강제된 의복</ForcedApparel>
-  <AssignTabEdit>수정...</AssignTabEdit>
-  <ManageDrugPolicies>약물 정책 관리</ManageDrugPolicies>
-  <ManageFoodRestrictions>식량 정책 관리</ManageFoodRestrictions>
   
-  <!-- Restrictions tab -->
-  <Copy>복사</Copy>
-  <Paste>붙여넣기</Paste>
-  <AllowedArea>허가구역</AllowedArea>
-  
-  <!-- Animals tab -->
-  <Master>주인</Master>
-  <PregnantIconDesc>임신 ({0} / {1})</PregnantIconDesc>
-  <BondedTo>각별함</BondedTo>
-  <SterilizeAnimal>Sterilize animal.</SterilizeAnimal>
-  <AnimalAlreadySterile>Animal sterile.</AnimalAlreadySterile>
-  
-  <!-- Wildlife tab -->
-  <IsPredator>이 생명체는 포식자입니다. 배가 고프면 사람들을 포함한 작은 생물들을 사냥할 것입니다.</IsPredator>
-  <IsInMentalState>이 동물의 정신 상태: {0}</IsInMentalState>
-  
-  <!-- Factions tab -->
-  <Hostile>적대</Hostile>
-  <Ally>동맹</Ally>
-  <HostileLower>적대</HostileLower>
-  <AllyLower>동맹</AllyLower>
-  <DefeatedLower>패배</DefeatedLower>
-  <HostileTo>{0} 세력과 적대적 관계</HostileTo>
-  <EnemyOf>적대 중: </EnemyOf>
-  <RecentEvents>최근 사건</RecentEvents>
-  <OngoingEvents>진행 중인 사건</OngoingEvents>
-  <CurrentGoodwillTip_PermanentEnemy>이 세력은 영구적으로 적대적이며 정착지와 상단을 습격할 것입니다. 어떤 이유든 관계를 개선할 수 없습니다.</CurrentGoodwillTip_PermanentEnemy>
-  <CurrentGoodwillTip_Ally>이 세력은 동맹 세력이며 어려움에 처했을 때 지원군을 보내 도와주려 합니다. 관계가 {0} 아래로 떨어지면 중립이 됩니다.</CurrentGoodwillTip_Ally>
-  <CurrentGoodwillTip_Neutral>이 세력은 중립 세력이며 자유롭게 대화하고 거래할 수 있습니다. 관계가 {0} 아래로 떨어지면 적대가 됩니다. 관계가 {1} 이상 오르면 동맹이 되어 적극적으로 도움 받을 수 있습니다.</CurrentGoodwillTip_Neutral>
-  <CurrentGoodwillTip_Hostile>이 세력은 적대 세력이며 정착지와 상단을 습격할 것입니다. 관계가 {0} 이상 오르면 중립이 됩니다.</CurrentGoodwillTip_Hostile>
+  <FluidIdeoTip>이 사상은 신생 사상이며 행성 내에서 따르는 사람도 거의 없으므로 아직 유동적입니다. 유동적인 사상은 시간이 지나며 점차 발달할 수 있습니다.\n\n사상이 발달하려면 개혁 점수가 필요합니다. 개혁 점수는 의식을 완료하거나 사상에 관련된 임무를 완수해서 획득할 수 있습니다.\n\n충분한 개혁 점수를 모으면 새로운 가르침, 규율, 양식 등으로 사상을 개혁할 수 있습니다.</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>개발 포인트를 얻는 방법</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>당신의 사상으로 누군가를 교화하세요.</FluidIdeoTipGetPoinsByConversion>
 
-  <!-- Social tab -->
-  <Friend>친구</Friend>
-  <Rival>적</Rival>
-  <Acquaintance>지인</Acquaintance>
-  
-  <!-- History tab - subtabs -->
-  <Graph>그래프</Graph>
-  <Messages>메시지</Messages>
-  <Statistics>통계</Statistics>
-  
-  <!-- History tab - Graphs -->
-  <SelectGraph>그래프 선택</SelectGraph>
-  <Last30Days>지난 30일간</Last30Days>
-  <Last100Days>지난 100일간</Last100Days>
-  <Last300Days>지난 300일간</Last300Days>
-  <AllDays>전체</AllDays>
-  <Value>최고 가치</Value>
-  <External>외부</External>
+  <ResearchProjectHasDefsWithMissingMemes>{0} 연구 보상 중 사상의 영향으로 만들 수 없는 물품이 포함되어 있습니다.</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>경고: 이 유형의 작업은 {0_labelShort}의 사상에 반하기 때문에 기분이 나빠집니다.</SelectedWorkTypeOpposedByIdeo>
 
-  <!-- History tab - Messages -->
-  <ShowLetters>알림 보기</ShowLetters>
-  <ShowMessages>메시지 보기</ShowMessages>
-  <PinArchivableTip>이 메시지를 고정하거나 고정 해제를 합니다.\n\n{0}개의 메시지 한도에 도달하면 가장 오래된 고정 해제 메시지가 자동적으로 삭제됩니다.</PinArchivableTip>
-  <NoMessages>메시지 없음</NoMessages>
-
-  <!-- History tab - Statistics -->
-  <Playtime>플레이 시간</Playtime>
-  <Storyteller>이야기꾼</Storyteller>
-  <ThisMapColonyWealthTotal>정착지 재산 (이 지역에서)</ThisMapColonyWealthTotal>
-  <ThisMapColonyWealthItems>정착지 재산 (아이템) (이 지역에서)</ThisMapColonyWealthItems>
-  <ThisMapColonyWealthBuildings>정착지 재산 (건물) (이 지역에서)</ThisMapColonyWealthBuildings>
-  <ThisMapColonyWealthColonistsAndTameAnimals>정착지 재산 (정착민과 동물) (이 지역에서)</ThisMapColonyWealthColonistsAndTameAnimals>
-  <NumThreatBigs>큰 위협의 수</NumThreatBigs>
-  <NumEnemyRaids>적의 습격</NumEnemyRaids>
-  <ThisMapDamageTaken>받은 피해량 (이 지역에서)</ThisMapDamageTaken>
-  <ColonistsKilled>죽은 정착민</ColonistsKilled>
-  <ColonistsLaunched>우주로 날아간 정착민</ColonistsLaunched>
-
-  <!-- Research tab -->
-  <Research>연구</Research>
-  <Study>수업</Study>
-  <StudyThing>Study {0}</StudyThing>
-  <Unresearched>연구되지 않음</Unresearched>
-  <Finished>완료됨</Finished>
-  <InProgress>연구 중</InProgress>
-  <Locked>잠김</Locked>
-  <ResearchPrerequisites>요구사항</ResearchPrerequisites>
-  <ResearchTechprintRequirement>기술청사진 필요 ({0}/{1})</ResearchTechprintRequirement>
-  <InsufficientTechprintsApplied>기술청사진 부족 ({0}/{1})</InsufficientTechprintsApplied>
-  <PrerequisitesNotCompleted>요구조건이 충족되지 않음</PrerequisitesNotCompleted>
-  <MissingRequiredResearchFacilities>Missing required research facilities</MissingRequiredResearchFacilities>
-  <RequiredResearchBench>요구 작업대</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>요구 보조기구</RequiredResearchBenchFacilities>
-  <ResearchCostComparison>연구의 기본 비용 {0}(이)가 당신의 기술 수준으로 인해 {1}(이)가 되었습니다.</ResearchCostComparison>
-  <ResearchTechprintsFromFactions>다음 세력과의 무역이나 임무를 통해 기술청사진을 얻을 수 있습니다.</ResearchTechprintsFromFactions>
-  <TechLevelTooLow>{0}시대 수준의 기술로 {1}시대 수준의 연구를 진행할 경우 {2}의 연구 속도가 적용됩니다.</TechLevelTooLow>
-  <UnlockedWith>연구 보상 +</UnlockedWith>
-
-  <!-- Factions tab -->
-  <FactionsTab>세력</FactionsTab>
-  <NoFactions>알려진 세력 없음</NoFactions>
-
-  <!-- Quests tab -->
-  <AvailableQuests>사용할 수 있는 모드</AvailableQuests>
-  <ActiveQuests>활성화</ActiveQuests>
-  <HistoricalQuests>기록</HistoricalQuests>
-  <NoQuestSelected>임무가 선택되지 않음</NoQuestSelected>
-  <AppearedDaysAgo>{0}일 전에 나타남</AppearedDaysAgo>
-  <AppearedOn>{0}에 나타남</AppearedOn>
-  <AcceptedAgo>{0} 전에 수락함</AcceptedAgo>
-  <AcceptedOn>{0}에 수락함</AcceptedOn>
-  <AcceptedAgoBy>{1}(이)가 {0} 전에 수락함</AcceptedAgoBy>
-  <AcceptedOnBy>{1}(이)가 {0}에 수락함</AcceptedOnBy>
-  <QuestExpiresIn>Expires in {0}</QuestExpiresIn>
-  <QuestExpiresOn>{0}에 만료</QuestExpiresOn>
-  <QuestAveragePawnMood>방문객 평균 기분 (이전 {0}): {1}</QuestAveragePawnMood>
-  <QuestAveragePawnMoodTargets>이전 {1}에 대한 {0}의 평균 기분</QuestAveragePawnMoodTargets>
-  <ShuttleArrivesIn>{0} 후에 왕복선 도착</ShuttleArrivesIn>
-  <ShuttleArrivesOn>{0}에 왕복선 도착</ShuttleArrivesOn>
-  <ShuttleDepartsIn>{0} 후에 왕복선 출발</ShuttleDepartsIn>
-  <ShuttleDepartsOn>{0}에 왕복선 출발</ShuttleDepartsOn>
-  <GuestsDepartsIn>{0} 후에 방문객 출발</GuestsDepartsIn>
-  <GuestsDepartsOn>{0}에 방문객 출발</GuestsDepartsOn>
-  <QuestFinishedAgo>{0} 전에 완료</QuestFinishedAgo>
-  <AcceptQuest>임무 수락</AcceptQuest>
-  <AcceptWith>{0_labelShort} 수락</AcceptWith>
-  <AcceptQuestFor>수락</AcceptQuestFor>
-  <AcceptQuestForTip>이 임무에 대한 보상을 수락하려면 클릭하세요.</AcceptQuestForTip>
-  <QuestOutcomeInfo_OfferExpired>이 임무는 만료되었습니다.</QuestOutcomeInfo_OfferExpired>
-  <QuestOutcomeInfo_UnknownOrSuccess>이 임무는 완수되었습니다.</QuestOutcomeInfo_UnknownOrSuccess>
-  <QuestOutcomeInfo_Failed>이 임무는 실패했습니다.</QuestOutcomeInfo_Failed>
-  <QuestOutcomeInfo_Invalid>이 임무는 수락되기 전에 무효가 됐습니다.</QuestOutcomeInfo_Invalid>
-  <JumpToTargetCustom>{0}(으)로 바로가기</JumpToTargetCustom>
-  <SelectHiveTargets>군락 선택</SelectHiveTargets>
-  <QuestChallengeRatingTip>도전 등급. 당신이 지닌 요소들을 감안할 때 임무가 얼마나 어려울지에 대한 대략적인 평가입니다. 도전적인 임무는 더 큰 보상을 줍니다.\n\n★: 쉬움\n★★: 중간\n★★★: 어려움\n★★★★: 매우 어려움</QuestChallengeRatingTip>
-  <QuestAcceptanceRequirementsDescription>임무 조건:</QuestAcceptanceRequirementsDescription>
-  <QuestBedroomRequirementsUnsatisfied>다음 작위에 어울리는 빈 침실들: </QuestBedroomRequirementsUnsatisfied>
-  <QuestBedroomRequirementsUnsatisfiedSingle>다음 작위에 어울리는 빈 침실: </QuestBedroomRequirementsUnsatisfiedSingle>
-  <QuestThroneRoomRequirementsUnsatisfied>{PAWN_definite}의 {TITLE} 작위 요건을 충족하는 알현실</QuestThroneRoomRequirementsUnsatisfied>
-  <QuestNoThroneRoom>{PAWN_definite}의 알현실 지정</QuestNoThroneRoom>
-  <QuestNoColonistWithTitle>다음 작위를 보유한 정착민: {0}.</QuestNoColonistWithTitle>
-  <QuestPawnNotOnColonyMap>{PAWN_definite}(은)는 정착지에 있어야 함</QuestPawnNotOnColonyMap>
-  <QuestRequiresNoDangerOnMap>지도상에 수여자 세력의 적들이 없어야 함</QuestRequiresNoDangerOnMap>
-  <QuestCanNotStartUntilBestowingCeremonyFinished>현재 진행 중인 수여식 임무 완료</QuestCanNotStartUntilBestowingCeremonyFinished>
-  <ChooseRewards>보상 설정</ChooseRewards>
-  <ChooseRewardsDesc>다른 세력에게 향후 임무의 어떤 보상을 원하는지 알려주세요. 이미 수락한 임무에는 아무 영향이 없습니다.</ChooseRewardsDesc>
-  <AcceptRoyalFavor>{FACTION_royalFavorLabel} 수여</AcceptRoyalFavor>
-  <AcceptRoyalFavorDesc>{FACTION_name}(으)로부터 {FACTION_royalFavorLabel}(을)를 하사받겠습니까?\n\n거절한다면 {FACTION_name}(은)는 다른 형태의 적당한 보상을 제공할 것입니다.\n\n이 설정은 새로 도착한 임무만 영향을 미칩니다.</AcceptRoyalFavorDesc>
-  <AcceptGoodwill>우호도 받기</AcceptGoodwill>
-  <AcceptGoodwillDesc>{FACTION_name}(와)과의 세력 우호도를 보상으로 받을지 선택할 수 있습니다.\n\n비활성되어 있다면 {FACTION_name}(이)가 대신 다른 유형의 보상을 제공합니다.\n\n이 설정은 새로 생성된 임무에만 유효합니다.</AcceptGoodwillDesc>
-  <RoyalFavorOn>현재 {FACTION_royalFavorLabel}(을)를 받기로 한 상태입니다.</RoyalFavorOn>
-  <RoyalFavorOff>현재 {FACTION_royalFavorLabel}(을)를 거부하기로 한 상태입니다.</RoyalFavorOff>
-  <GoodwillTip>{0_name}(와)과의 관계가 {1}만큼 향상됩니다.\n\n현재 우호도: {4} ({5}).\n\n우호도는 세력간 관계를 나타냅니다. 우호도가 {2}보다 낮아지면 적대 세력으로 돌아서서 정착지와 상단을 공격합니다. 우호도가 {3}보다 높아지면 동맹이 되어, 전투 시 지원군을 보내 도와줄 것입니다. 그 외의 경우, 세력은 중립으로 남으며 자유롭게 거래하고 대화할 수 있습니다.</GoodwillTip>
-  <PawnQuestReward>{0_labelShort} 합류</PawnQuestReward>
-  <QuestBetrayalOffer>배반 제안: 대상 {0} 남음</QuestBetrayalOffer>
-  <QuestBetrayalOfferTip>{0}(은)는 {1}의 모든 구성원을 처리하면 보상을 제공합니다.</QuestBetrayalOfferTip>
-  <QuestRequiredPlayerWealth>최소 {0}의 정착지 재산</QuestRequiredPlayerWealth>
-  <QuestAlliedTo>{0}(와)과 동맹 체결</QuestAlliedTo>
-  <QuestHostileTo>{0}(와)과 적대</QuestHostileTo>
-  <QuestNeutralTo>{0}(와)과 중립</QuestNeutralTo>
-  <QuestRequiredThingStudied>{0_labelShort}의 연구를 마침</QuestRequiredThingStudied>
-
-  <!-- Health tab -->
-  <CreatesNeed>필요 생성</CreatesNeed>
-
-  <!-- Misc -->
-  <ClickToEdit>클릭해서 편집</ClickToEdit>
+  <DevelopmentPoints>개혁 점수</DevelopmentPoints>
 
 </LanguageData>
