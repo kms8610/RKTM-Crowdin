@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Spacedrone.label>spacedrone</Spacedrone.label>
-  <Spacedrone.description>An ancient ultratech spacedrone.</Spacedrone.description>
+  <BroadshieldProjector.label>burnout low-shield</BroadshieldProjector.label>
+  <BroadshieldProjector.description>휴대용 저각 보호막 생성기입니다. 발사체가 밖으로 나갈 수 있지만 들어오지는 못하게 합니다. 일정 시간 후 소진됩니다.</BroadshieldProjector.description>
+  <BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>소진까지</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
 </LanguageData>
