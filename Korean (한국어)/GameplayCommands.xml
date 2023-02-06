@@ -1,38 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <CommandAutoRepair>Auto-repair</CommandAutoRepair>
-  <CommandAutoRepairDesc>If active, a mechanitor will automatically repair this mechanoid. Repairing a mechanoid drains its energy.</CommandAutoRepairDesc>
+  
+  <!-- Heritage -->
+  <ChooseHeir>{HOLDER_nameIndef}의 새로운 후계자 선택:</ChooseHeir>
+  <MakeHeirConfirm>{0_name} {HOLDER_nameIndef} 작위의 후계자를 변경합니다. 새로운 후계자가 공인받기 위해서는 제한된 시간 내에 기념비를 건설해야 합니다.</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>이 행위는 {HOLDER_possessive}의 현재 후계자인 {HEIR_nameFull}의 분노를 부를 것입니다.</MakeHeirPreviousHeirWarning>
 
-  <CommandDisabledDeathresting>{0_labelShort} is deathresting.</CommandDisabledDeathresting>
+  <!-- Call aid -->
+  <CommandCallRoyalAid>Call aid...</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>제국으로부터 부여받은 지원 요청 권한을 사용합니다.\n\n각각의 지원은 무상으로 요청할 수 있지만, 연이어 요청하기 위해서는 신임장이 필요합니다. 다시 무상 요청이 가능해지려면 긴 준비 기간이 필요합니다. </CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>방문객은 지원을 요청할 수 없습니다.</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>노예는 지원을 요청할 수 없습니다.</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>{FACTION_name}(와)과 적대하고 있습니다.</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>무료</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>{0}일 동안 {FACTION_royalFavorLabel} {1}개 필요</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>제국에 지원을 요청했지만, 일부 적 세력은 {0_name}와 적대적이지 않습니다. 지원 병력은 {1}에 소속된 사람들을 공격하지 않을 것입니다. </CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>신임장 부족함</CommandCallRoyalAidNotEnoughFavor>
+  
+  <!-- Call laborers -->
+  <CommandCallLaborers>작업자 호출</CommandCallLaborers>
+  <CommandCallLaborersDesc>동맹으로부터 작업자들을 지원받을 수 있습니다. 이들은 작업만 가능하지만, 정착민처럼 제어가 가능합니다. 안전하게 지켜주세요.</CommandCallLaborersDesc>
+  <CommandOnCooldown>{0}일 후 재사용 가능.</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>작업자 {0}명</CommandCallLaborersNumLaborers>
 
-  <CommandCancelGrowth>Cancel vatgrowth</CommandCancelGrowth>
-  <CommandCancelGrowthDesc>Cancel vatgrowth for the current occupant. The occupant will be ejected.</CommandCancelGrowthDesc>
+  <!-- Abilities -->
+  <CommandPsycastWouldExceedEntropy>정신력 혼돈치가 안전한도를 초과했습니다.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME}(은)는 초집중 {0}(을)를 사용하지만, {CASTERNAME}에는 {1}만 있습니다.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME}(은)는 {1}의 정신이상을 멈추기 위해 {0} 초집중이 필요하지만, {CASTERNAME}의 초집중은 {2} 뿐입니다.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>{0} 단계 사이링크가 필요합니다.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>정신 민감도가 없습니다.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>정신을 잃은 상태입니다.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>이를 시전하려면 적어도 {0} 초집중이 필요합니다.</CommandPsycastLowPsyfocus>
+  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <PsyfocusLetter>P</PsyfocusLetter>
 
-  <CommandSelectOverseer>Select overseer</CommandSelectOverseer>
-  <CommandSelectOverseerDesc>Select the mechanitor who is the overseer of this mech.</CommandSelectOverseerDesc>
-  <CommandSelectOverseerDisabledDesc>No overseer.</CommandSelectOverseerDisabledDesc>
+  <!-- Select monument marker -->
+  <CommandSelectMonumentMarker>기념비 선택</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>기념비 표지를 선택합니다.</CommandSelectMonumentMarkerDesc>
 
-  <CommandCancelExtraction>Cancel extraction</CommandCancelExtraction>
-  <CommandCancelExtractionDesc>Cancel the extraction process. The contained person will be ejected.</CommandCancelExtractionDesc>
+  <!-- Warn in building radius -->
+  <CommandWarnInBuildingRadius>건설 반경 경고</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>너무 가까이 있어서 명상에 방해된다면, 이 물체는 구상메뉴를 사용하여 배치한 건물에 빨간색 선을 보여줍니다.\n\n명상에 사용할 생각이 없다면 이 기능을 끌 수 있습니다.</CommandWarnInBuildingRadiusDesc>
+  
+  <!-- Permits -->
+  <ChooseRoyalPermit>지원 요청 선택</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>지원 요청 선택 버튼을 눌러 새로운 지원 요청 권한을 획득하세요.</ChooseRoyalPermit_Desc>
 
-  <CommandCallBossgroup>Summon mech threat...</CommandCallBossgroup>
-  <CommandCallBossgroupDesc>Summon an enemy leader mechanoid along with escorts.\n\nIf you defeat the leader mechanoid, it will drop a special chip which you can use to advance your own mechanoid technology.\n\nThere are three leader mechanoid types, each summoned a different way, each dropping a different type of chip.</CommandCallBossgroupDesc>
-
-  <CommandAutoLoad>Toggle auto load {0}</CommandAutoLoad>
-  <CommandAutoLoadDesc>If active, colonists will automatically load this with {0}.</CommandAutoLoadDesc>
-
-  <CommandEjectContents>Eject contents</CommandEjectContents>
-  <CommandEjectContentsDesc>Eject all contained {0} onto the ground.</CommandEjectContentsDesc>
-
-  <CommandSelectAllMechs>Select all mechs</CommandSelectAllMechs>
-  <CommandSelectAllMechsDesc>Select all mechanoids controlled by this mechanitor.</CommandSelectAllMechsDesc>
-
-  <CommandToggleTurret>Turret enabled</CommandToggleTurret>
-  <CommandToggleTurretDesc>Toggle turret being able to fire at will.\n\nWhen disabled, the turret will not automatically fire. This is useful while sneaking up on enemies.</CommandToggleTurretDesc>
-
-  <CommandCancelSubcoreScan>Cancel scan</CommandCancelSubcoreScan>
-  <CommandCancelSubcoreScanDesc>Cancel the scan process. The contained person will be ejected.</CommandCancelSubcoreScanDesc>
-
-  <ForceXenogermImplantation>Force xenogerm implantation</ForceXenogermImplantation>
-  <ForceXenogermImplantationDesc>Force this person to implant their xenogenes into another individual using a special injector organ. If this person's genes are currently regrowing, they will die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ForceXenogermImplantationDesc>
+  <CommandLeaveBestowingCeremony>수여식 떠나기</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>수여식 참여를 중단합니다.</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>수여식 취소</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>수여식을 즉시 끝냅니다. 수여자는 떠나게 되지만, 수여식을 다시 할 기회가 찾아올 것입니다.</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>정말 수여식을 취소하시겠습니까?</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>
