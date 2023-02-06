@@ -1,52 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BandNode.label>band node</BandNode.label>
-  <BandNode.description>A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 1 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer.</BandNode.description>
+  <AnimusStone.label>영혼석</AnimusStone.label>
+  <AnimusStone.description>신성한 부족 조각품으로 새겨진 고대 비취석입니다. 부족 초능력자는 명상 중 이 돌에 집중하여 자연의 성소보다 초집중을 더 많이 얻을 수 있습니다.\n\n문화가 다른 부족들은 이 돌들에 대해 서로 다른 이야기를 하지만, 대부분 강력한 힘을 가진 시대의 고대 정신세계에서 만들어졌다고 말합니다. 외부인들에게는 일반적인 자연 물체처럼 보이기 때문에 습격자들은 무시할 수도 있습니다.</AnimusStone.description>
   
-  <BurnoutMechlinkBooster.label>mechband antenna</BurnoutMechlinkBooster.label>
-  <BurnoutMechlinkBooster.description>A mech-band signaling device. When activated, it puts out a powerful mech signal pulse, which will attract an ultra-heavy feral mechanoid to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the transmitter, so this building can only be used once.</BurnoutMechlinkBooster.description>
-  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>Summon warqueen threat</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  <MeditationSpot.label>명상 지점</MeditationSpot.label>
+  <MeditationSpot.description>초능력자는 초집중을 얻기 위해 여기에서 명상할 수 있도록 자리를 지정합니다. 조각품같은 집중물체가 근처에 있으면, 초능력자는 초집중을 얻기 위해 집중을 할 수 있지만, 다른 사람들은 다른 집중물체를 사용할 수 있습니다.</MeditationSpot.description>
   
-  <GeneAssembler.label>gene assembler</GeneAssembler.label>
-  <GeneAssembler.description>A workbench for creating implantable xenogerms from genepacks stored in nearby gene banks. Genepacks are not consumed in this process and can be reused.</GeneAssembler.description>
+  <NatureShrine_Large.label>대형 자연의 성소</NatureShrine_Large.label>
+  <NatureShrine_Large.description>영적 존재를 기리는 큰 성소입니다. 부족 초능력자는 초집중을 더 많이 얻기 위해 성소에서 명상할 수 있습니다. 자연의 성소는 인공 구조물 근처에 있으면 약해지므로, 항상 자연속에 지어져있습니다. 외부인들에게는 일반적인 자연 물체처럼 보이기 때문에 습격자들은 무시할 수도 있습니다.</NatureShrine_Large.description>
   
-  <GeneBank.label>gene bank</GeneBank.label>
-  <GeneBank.description>This building can store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration.</GeneBank.description>
+  <NatureShrine_Small.label>소형 자연의 성소</NatureShrine_Small.label>
+  <NatureShrine_Small.description>영적 존재를 기리는 작은 성소입니다. 부족 초능력자는 초집중을 더 많이 얻기 위해 성소에서 명상할 수 있습니다. 자연의 성소는 인공 구조물 근처에 있으면 약해지므로, 항상 자연속에 지어져있습니다. 외부인들에게는 일반적인 자연 물체처럼 보이기 때문에 습격자들은 무시할 수도 있습니다.</NatureShrine_Small.description>
   
-  <GeneExtractor.label>gene extractor</GeneExtractor.label>
-  <GeneExtractor.description>An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted.</GeneExtractor.description>
-  
-  <GeneProcessor.label>gene processor</GeneProcessor.label>
-  <GeneProcessor.description>A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further.</GeneProcessor.description>
-  
-  <GrowthVat.label>growth vat</GrowthVat.label>
-  <GrowthVat.description>A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors.</GrowthVat.description>
-  
-  <MechBooster.label>mech booster</MechBooster.label>
-  <MechBooster.description>A remote energy and computation enhancement device. Any friendly mechanoids in its effect radius will move and work faster.</MechBooster.description>
-  
-  <MechbandDish.label>mechband dish</MechbandDish.label>
-  <MechbandDish.description>A mech-band signaling device more powerful than the normal mechlink antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once.</MechbandDish.description>
-  <MechbandDish.comps.CompUsable.useLabel>Summon apocriton threat</MechbandDish.comps.CompUsable.useLabel>
-  
-  <PollutionPump.label>pollution pump</PollutionPump.label>
-  <PollutionPump.description>A groundwater-filtering pump which slowly cleans polluted terrain. The extracted pollution is formed into toxic wastepacks which must be hauled away.</PollutionPump.description>
-  
-  <SanguphageMeetingTorch.label>blood torch</SanguphageMeetingTorch.label>
-  <SanguphageMeetingTorch.description>A specially-treated wooden torch that produces a red light over a large area. Sanguophages gather around torches like these during their ceremonial meetings. The sanguine glow is particularly pleasing to individuals with the bloodfeeder gene. It can be automatically refueled with wood, and produces a small amount of heat.</SanguphageMeetingTorch.description>
-  
-  <ShuttleCrashed_Exitable.label>추락한 왕복선</ShuttleCrashed_Exitable.label>
-  <ShuttleCrashed_Exitable.description>지상과 우주 궤도 사이 혹은 행성계의 위성 사이를 운용하도록 설계된 범우주급 왕복선입니다.</ShuttleCrashed_Exitable.description>
-  
-  <ShuttleCrashed_Exitable_Mechanitor.label>crashed mechanitor ship</ShuttleCrashed_Exitable_Mechanitor.label>
-  <ShuttleCrashed_Exitable_Mechanitor.description>A short-range ship used by a mechanitor to transport mechs for low-orbit or planetary travel.</ShuttleCrashed_Exitable_Mechanitor.description>
-  
-  <ToxifierGenerator.label>toxifier generator</ToxifierGenerator.label>
-  <ToxifierGenerator.description>This electrical generator very slowly pollutes the terrain in a radius around it while producing energy. If all terrain in the radius is polluted, the generator will shut down.</ToxifierGenerator.description>
-  
-  <TrapIED_ToxGas.label>IED tox trap</TrapIED_ToxGas.label>
-  <TrapIED_ToxGas.description>A pair of tox gas shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_ToxGas.description>
-  
-  <WastepackAtomizer.label>wastepack atomizer</WastepackAtomizer.label>
-  <WastepackAtomizer.description>A glittertech device that deconstructs toxic wastepacks into inert gases using advanced molecular processes. The process requires considerable amounts of power.</WastepackAtomizer.description>
+  <ShipLandingBeacon.label>함선 신호기</ShipLandingBeacon.label>
+  <ShipLandingBeacon.description>착륙할 지점을 표시합니다. 최소 9x9 이상의 크기를 가진 사각형 모양의 각 모서리에 신호기를 설치하고, 건물이나, 사람, 동물 같은 장애물이 없어야 사용 가능합니다. 함선은 가능하다면 착륙장에 도착하려 합니다.</ShipLandingBeacon.description>
 </LanguageData>
