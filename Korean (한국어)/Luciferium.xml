@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <LuciferiumAddiction.label>루시페륨 필요</LuciferiumAddiction.label>
-  <LuciferiumAddiction.description>Luciferium mechanites in the body. Luciferium mechanites decohere over time; only regular doses of fresh luciferium can prevent this process.\n\nWithout luciferium, the mechanite decoherence will reach a critical state, causing the victim to go insane and die.</LuciferiumAddiction.description>
-  <LuciferiumAddiction.stages.unmet.label>부족</LuciferiumAddiction.stages.unmet.label>
-  
-  <LuciferiumHigh.label>루시페륨</LuciferiumHigh.label>
-  <LuciferiumHigh.description>신체를 강화시키는 기계장치(메카나이트), 루시페륨입니다. 루시페륨은 신체의 모든 기능을 강화시켜줍니다. 그러나 지속적으로 섭취하지 않는다면 응집력을 잃고 사용자에게 한계에 가까운 고통을 선사할 것입니다.</LuciferiumHigh.description>
+  <Chemical_Luciferium.label>루시페륨</Chemical_Luciferium.label>
+  <Chemical_Luciferium.description>루시페륨으로 향상된 신체입니다.\n\n주기적인 루시페륨 보충이 없으면 메카나이트 결합이 손상되어 사용자의 광란 및 사망에 이를 수 있습니다.\n\n이 효과는 사라지지 않습니다.</Chemical_Luciferium.description>
 </LanguageData>
