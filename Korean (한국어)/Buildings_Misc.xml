@@ -1,70 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AncientCryptosleepCasket.label>고대 동면관</AncientCryptosleepCasket.label>
-  <AncientCryptosleepCasket.description>이 동면관은 오랜 시간 이곳에 있던 것 같습니다. 뭐가 들어 있을까요?</AncientCryptosleepCasket.description>
+  <Autobong.label>autobong</Autobong.label>
+  <Autobong.description>An automatic smokeleaf-burning device which generates a smoke cloud around itself. Anyone in the cloud will become high on smokeleaf over time.</Autobong.description>
   
-  <CaravanPackingSpot.label>caravan hitching spot</CaravanPackingSpot.label>
-  <CaravanPackingSpot.description>Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering.</CaravanPackingSpot.description>
+  <Drum.label>drum</Drum.label>
+  <Drum.description>A large wooden drum used as a music source for tribal rituals and parties.</Drum.description>
   
-  <CommsConsole.label>통신기</CommsConsole.label>
-  <CommsConsole.description>멀리 떨어진 상인들과 거래를 하거나, 다른 세력들과의 외교에 필요한 라디오 송출기입니다.</CommsConsole.description>
-  <CommsConsole.comps.CompUsable.useLabel>Summon diabolus threat</CommsConsole.comps.CompUsable.useLabel>
+  <DryadCocoon.label>dryad cocoon</DryadCocoon.label>
+  <DryadCocoon.description>A sphere of fibrous plant matter. A dryad inside is slowly morphing into a new form. Gauranlen trees grow these spheres to help protect the dryads as they morph.</DryadCocoon.description>
   
-  <CryptosleepCasket.label>동면관</CryptosleepCasket.label>
-  <CryptosleepCasket.description>수 년간 내부의 사람을 그대로 보존하기 위한 자가발전형 동면관입니다.</CryptosleepCasket.description>
+  <DryadHealingPod.label>dryad healing pod</DryadHealingPod.label>
+  <DryadHealingPod.description>A sphere of fibrous plant matter. A dryad inside is slowly healing its wounds.</DryadHealingPod.description>
   
-  <EggBox.label>알 박스</EggBox.label>
-  <EggBox.description>달걀을 담기 위한 부드러운 재질의 상자입니다. 알을 낳는 동물들은 가능하면 달걀 상자에 알을 낳습니다. 운반임무를 담당한 자들은 시간절약을 위해 되도록 상자가 가득 찰 때만 달걀을 꺼낼 것입니다. 상자는 온도에서 오는 손상을 보호할 수는 없지만, 야외에서 달걀이 악화되는 것을 방지합니다.</EggBox.description>
+  <GaumakerCocoon.label>gaumaker pod</GaumakerCocoon.label>
+  <GaumakerCocoon.description>The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree.</GaumakerCocoon.description>
   
-  <FirefoamPopper.label>소방거품 분사기</FirefoamPopper.label>
-  <FirefoamPopper.description>수동으로, 또는 불이 닿으면 터져 주위에 원형으로 불연성 거품을 뿌립니다.</FirefoamPopper.description>
-  <FirefoamPopper.comps.CompUsable.useLabel>Trigger {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
+  <GibbetCage.label>gibbet cage</GibbetCage.label>
+  <GibbetCage.description>A steel cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves.</GibbetCage.description>
   
-  <Grave.label>무덤</Grave.label>
-  <Grave.description>죽은 사람을 무덤 속에 넣어 최후의 안식처를 선사하세요.</Grave.description>
+  <KneelPillow.label>kneel pillow</KneelPillow.label>
+  <KneelPillow.description>A pillow on which believers kneel while observing rituals, praying, or discussing.</KneelPillow.description>
   
-  <GroundPenetratingScanner.label>지면 투과 스캐너</GroundPenetratingScanner.label>
-  <GroundPenetratingScanner.description>지하 자원 탐색에 사용되는 장치입니다. 탐색 속도는 담당자의 연구 능력에 달려 있으며, 많은 전기를 소비합니다. 찾아낸 지하 자원은 심층 굴착기를 사용하여 추출할 수 있습니다. 지붕 아래에서는 작동하지 않습니다.</GroundPenetratingScanner.description>
+  <KneelSheet.label>kneel sheet</KneelSheet.label>
+  <KneelSheet.description>A sheet on which believers kneel while observing rituals, praying, or discussing.</KneelSheet.description>
   
-  <LongRangeMineralScanner.label>원거리 광물 스캐너</LongRangeMineralScanner.label>
-  <LongRangeMineralScanner.description>행성의 귀중한 자원을 탐지하는 데 사용되는 장비입니다. 특정 광물만을 찾도록 조정할 수 있습니다. 탐색 속도는 담당자의 연구 능력에 달려 있으며, 찾아낸 자원을 수집하기 위해서는 여행을 떠나야 합니다.</LongRangeMineralScanner.description>
+  <Lectern.label>lectern</Lectern.label>
+  <Lectern.description>A slanted platform that holds a text in front of a speaker. Place it near the focus of rituals and speeches to extend the duration of their positive effects.</Lectern.description>
   
-  <MarriageSpot.label>결혼식 장소</MarriageSpot.label>
-  <MarriageSpot.description>결혼식이 열릴 자리를 지정합니다. 하객들은 양쪽 모두에 있을 수 있습니다.</MarriageSpot.description>
+  <LightBall.label>lightball</LightBall.label>
+  <LightBall.description>A decorative light that rotates and changes colors. Used as a focus for dance parties.</LightBall.description>
   
-  <MoisturePump.label>흡습 펌프</MoisturePump.label>
-  <MoisturePump.description>주변 땅의 물을 빨아들여 습지나 얕은 물을 건조하게 바꿉니다. 깊은 물에는 영향을 주지 않습니다.</MoisturePump.description>
+  <Loudspeaker.label>loudspeaker</Loudspeaker.label>
+  <Loudspeaker.description>A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect.</Loudspeaker.description>
   
-  <MultiAnalyzer.label>복합 분석기</MultiAnalyzer.label>
-  <MultiAnalyzer.description>연구 속도를 올려줍니다. 고급 연구대 근처에 배치되어야 합니다. 하나의 작업대에 하나의 분석기만 연결될 수 있습니다.</MultiAnalyzer.description>
+  <Pew.label>pew</Pew.label>
+  <Pew.description>A long bench where ritual participants can sit while listening to a speaker. Place it facing rituals and speeches to extend the duration of their positive effects.</Pew.description>
   
-  <OrbitalTradeBeacon.label>무역 송신기</OrbitalTradeBeacon.label>
-  <OrbitalTradeBeacon.description>궤도의 상선과 거래를 할 때 사용됩니다. 해당 범위 안에 아이템이 존재할 때 판매 가능하며, 상선에서 아이템을 보낼 때도 송신기 주위로 보냅니다.</OrbitalTradeBeacon.description>
+  <PlantPot_Bonsai.label>분재 화분</PlantPot_Bonsai.label>
+  <PlantPot_Bonsai.description>This special pot is suitable for planting bonsai trees, which can improve the mood of people nearby and satisfy ideoligious requirements.</PlantPot_Bonsai.description>
   
-  <PartySpot.label>파티 장소</PartySpot.label>
-  <PartySpot.description>파티가 열릴 자리를 지정합니다. 주위 구역을 사용합니다.</PartySpot.description>
+  <Reliquary.label>reliquary</Reliquary.label>
+  <Reliquary.description>A ceremonial building that protects and displays a relic. Relics are ancient objects venerated by some cultures, belief systems, or religions.</Reliquary.description>
   
-  <PenMarker.label>우리 표시</PenMarker.label>
-  <PenMarker.description>동물들을 표시한 간판이 붙은 기둥입니다. 이것은 울타리, 바리게이트, 벽, 그리고 문 등으로 둘러쌓인 구역에 배치되어야 합니다. 각 우리 표시에 승인할 동물들을 할당할 수 있으며, 각 구역에 동물들을 가져올 것입니다.</PenMarker.description>
+  <Skullspike.label>skullspike</Skullspike.label>
+  <Skullspike.description>A spike mounted upright for the purpose of piercing and displaying a human skull. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves.</Skullspike.description>
+  <Skullspike.comps.CompHasSources.inspectStringLabel>skull of</Skullspike.comps.CompHasSources.inspectStringLabel>
   
-  <PodLauncher.label>발사대</PodLauncher.label>
-  <PodLauncher.description>한 개의 수송 포드를 발사할 수 있는 연료 주입장치입니다. 수송 포드 여러 대를 한 번에 발사할 수 있지만, 각 발사대가 서로의 옆에 근접해야 합니다.</PodLauncher.description>
+  <SlabBed.label>돌 침대</SlabBed.label>
+  <SlabBed.description>A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good.</SlabBed.description>
   
-  <Sarcophagus.label>석관</Sarcophagus.label>
-  <Sarcophagus.description>명예로운 죽음을 맞이한 사람을 위해 만들어진, 장식된 관입니다.</Sarcophagus.description>
+  <SlabDoubleBed.label>slab double bed</SlabDoubleBed.label>
+  <SlabDoubleBed.description>A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people.</SlabDoubleBed.description>
   
-  <SteleGrand.label>장엄한 비석</SteleGrand.label>
-  <SteleGrand.description>측면에 대규모의 조각이 우뚝 솟은 비석입니다. 비석은 고대부터 인물이나, 전투, 중요한 사건들을 기념하기 위해 사용되었습니다.</SteleGrand.description>
-  
-  <SteleLarge.label>커다란 비석</SteleLarge.label>
-  <SteleLarge.description>측면에 조각이 있는 두껍고 큰 비석입니다. 비석은 고대부터 인물이나, 전투, 중요한 사건들을 기념하기 위해 사용되었습니다.</SteleLarge.description>
-  
-  <ToolCabinet.label>도구 수납장</ToolCabinet.label>
-  <ToolCabinet.description>작업 속도에 도움을 줍니다. 작업대 근처에 배치되어야 합니다. 한 작업대는 수납장 최대 두 개의 영향만 받습니다.</ToolCabinet.description>
-  
-  <TransportPod.label>준궤도 수송</TransportPod.label>
-  <TransportPod.description>사람, 물건, 동물을 탑재할 수 있는 준궤도 수송 포드입니다. 수송, 기습, 전투 증원에 사용할 수 있습니다.</TransportPod.description>
-  
-  <VitalsMonitor.label>생체신호 모니터</VitalsMonitor.label>
-  <VitalsMonitor.description>회복 침대 바로 옆에 배치하면 치료 품질, 수술 성공률, 항체 생성 속도가 증가합니다. 의료용으로 지정된 일반 침대에는 영향을 주지 않습니다. 한 침대에 한 모니터의 영향만 받습니다.</VitalsMonitor.description>
+  <StylingStation.label>styling station</StylingStation.label>
+  <StylingStation.description>A table with a mirror and styling tools. People can use this to change their look.</StylingStation.description>
 </LanguageData>
