@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Fox_Arctic.label>북극 여우</Fox_Arctic.label>
-  <Fox_Arctic.description>추운 기후에 적응한 작은 포식자. 보통 쥐나 들쥐 같은 작은 사냥감을 사냥하고, 때로는 눈 속을 파고 먹이를 찾습니다.</Fox_Arctic.description>
-  <Fox_Arctic.tools.left_claw.label>왼쪽 발톱</Fox_Arctic.tools.left_claw.label>
-  <Fox_Arctic.tools.right_claw.label>오른쪽 발톱</Fox_Arctic.tools.right_claw.label>
-  <Fox_Arctic.tools.head.label>머리</Fox_Arctic.tools.head.label>
+  <Fox_Arctic.labelPlural>북극 여우</Fox_Arctic.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>새끼 북극 여우</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>새끼 북극 여우</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
   
   <Fox_Fennec.label>사막 여우</Fox_Fennec.label>
-  <Fox_Fennec.description>지구 아프리카 대륙의 북쪽 지역에서 온 작은 여우. 작은 생물들을 사냥하고 신체의 열기를 식히기 위해 매우 큰 귀를 가지고 있습니다.</Fox_Fennec.description>
-  <Fox_Fennec.race.meatLabel>여우고기</Fox_Fennec.race.meatLabel>
-  <Fox_Fennec.tools.left_claw.label>왼쪽 발톱</Fox_Fennec.tools.left_claw.label>
-  <Fox_Fennec.tools.right_claw.label>오른쪽 발톱</Fox_Fennec.tools.right_claw.label>
-  <Fox_Fennec.tools.head.label>머리</Fox_Fennec.tools.head.label>
+  <Fox_Fennec.labelPlural>사막 여우</Fox_Fennec.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>새끼 사막 여우</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>새끼 사막 여우</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   
   <Fox_Red.label>붉은 여우</Fox_Red.label>
-  <Fox_Red.description>온화한 기후에서 작은 먹이를 사냥하는 작은 포식자. 닭 농장주들은 여우를 싫어합니다. 왜냐하면 여우가 닭장을 몇 분 만에 초토화 시킬 수 있기 때문입니다.</Fox_Red.description>
-  <Fox_Red.tools.left_claw.label>왼쪽 발톱</Fox_Red.tools.left_claw.label>
-  <Fox_Red.tools.right_claw.label>오른쪽 발톱</Fox_Red.tools.right_claw.label>
-  <Fox_Red.tools.head.label>머리</Fox_Red.tools.head.label>
+  <Fox_Red.labelPlural>붉은 여우</Fox_Red.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.label>새끼 붉은 여우</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>새끼 붉은 여우</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
   <Wolf_Arctic.label>북극 늑대</Wolf_Arctic.label>
-  <Wolf_Arctic.description>북극에 적응한 지구의 늑대 변종으로, 무리 사냥꾼으로써 늑대들은 복잡한 사회 생활을 하고 있어 매우 영리합니다.</Wolf_Arctic.description>
-  <Wolf_Arctic.tools.left_claw.label>왼쪽 발톱</Wolf_Arctic.tools.left_claw.label>
-  <Wolf_Arctic.tools.right_claw.label>오른쪽 발톱</Wolf_Arctic.tools.right_claw.label>
-  <Wolf_Arctic.tools.head.label>머리</Wolf_Arctic.tools.head.label>
+  <Wolf_Arctic.labelPlural>북극 늑대</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>새끼 북극 늑대</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>새끼 북극 늑대</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <Wolf_Timber.label>회색 늑대</Wolf_Timber.label>
-  <Wolf_Timber.description>강인한 포식자로 많은 고대 지구 문화에서 오랫동안 두려움으로 여겼습니다. 무리 사냥꾼으로 늑대들은 복잡한 사회 생활을 하고 있어 매우 영리합니다.</Wolf_Timber.description>
-  <Wolf_Timber.race.meatLabel>늑대고기</Wolf_Timber.race.meatLabel>
-  <Wolf_Timber.tools.left_claw.label>왼쪽 발톱</Wolf_Timber.tools.left_claw.label>
-  <Wolf_Timber.tools.right_claw.label>오른쪽 발톱</Wolf_Timber.tools.right_claw.label>
-  <Wolf_Timber.tools.head.label>머리</Wolf_Timber.tools.head.label>
+  <Wolf_Timber.labelPlural>회색 늑대</Wolf_Timber.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>새끼 회색 늑대</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>새끼 회색 늑대</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
 </LanguageData>
