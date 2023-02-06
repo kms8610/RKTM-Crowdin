@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Yayo.label>야요</Yayo.label>
-  <Yayo.description>광이풀에서 정제된 고운 흰색 가루입니다. 냄새를 맡으면 사용자의 휴식 필요성을 줄이고 진통 효과가 있습니다. 조잡하게 만든 플레이크보다는 덜하지만 모든 형태의 사이카이트와 마찬가지로 중독성이 있습니다.\n\n가치가 높고 세련된 외관으로 인해 많은 공동체에서 야요와 함께 퇴폐적이라 연상 시킵니다. 왕좌든 이사회든, 야요 파티를 즐기던 중 말도 안되는 정책 계획으로 인해 개발되었습니다.</Yayo.description>
-  <Yayo.ingestible.ingestCommandString>{0} 흡입</Yayo.ingestible.ingestCommandString>
-  <Yayo.ingestible.ingestReportString>{0} 흡입하는 중.</Yayo.ingestible.ingestReportString>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>야요 금단 현상</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>너무 피곤해. 모든게 불편해.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  
+  <YayoHigh.stages.high_on_yayo.label>야요에 취함</YayoHigh.stages.high_on_yayo.label>
+  <YayoHigh.stages.high_on_yayo.description>느낌 오는데! 가즈아!</YayoHigh.stages.high_on_yayo.description>
 </LanguageData>
