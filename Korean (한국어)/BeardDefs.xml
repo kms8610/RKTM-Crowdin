@@ -1,64 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Anchor.label>앵커</Anchor.label>
+  <BeardFurskinKnots.label>knots</BeardFurskinKnots.label>
   
-  <BeardCurly.label>곱슬머리</BeardCurly.label>
+  <BeardFurskinMegabraid.label>megabraid</BeardFurskinMegabraid.label>
   
-  <Boxed.label>사각 수염</Boxed.label>
+  <BeardFurskinMonkey.label>원숭이</BeardFurskinMonkey.label>
   
-  <Braided.label>braided</Braided.label>
+  <BeardFurskinMoustache.label>long stache</BeardFurskinMoustache.label>
   
-  <Bushy.label>수북</Bushy.label>
+  <BeardFurskinScruffy.label>scruffy</BeardFurskinScruffy.label>
   
-  <BushyStyled.label>덥수룩</BushyStyled.label>
+  <BeardFurskinSenile.label>senile</BeardFurskinSenile.label>
   
-  <Circle.label>원형(테두리)</Circle.label>
+  <BeardFurskinSideChops.label>thick chops</BeardFurskinSideChops.label>
   
-  <Classy.label>품격</Classy.label>
+  <BeardFurskinSideTufts.label>tufts</BeardFurskinSideTufts.label>
   
-  <Curtain.label>커튼 수염</Curtain.label>
+  <BeardFurskinStrongChops.label>strong chops</BeardFurskinStrongChops.label>
   
-  <Ducktail.label>덕테일</Ducktail.label>
-  
-  <Fork.label>양 갈래 수염</Fork.label>
-  
-  <French.label>프렌치</French.label>
-  
-  <Full.label>넓은 수염</Full.label>
-  
-  <Goatee.label>염소 수염</Goatee.label>
-  
-  <Lincoln.label>링컨 수염</Lincoln.label>
-  
-  <LongDutch.label>롱 더치</LongDutch.label>
-  
-  <Machete.label>마체테</Machete.label>
-  
-  <Moustache.label>콧수염</Moustache.label>
-  
-  <MuttonChops.label>구렛나루</MuttonChops.label>
-  
-  <NoBeard.label>수염 없음</NoBeard.label>
-  
-  <Norse.label>노르드</Norse.label>
-  
-  <OldDutch.label>올드 더치</OldDutch.label>
-  
-  <Seer.label>예언자</Seer.label>
-  
-  <SideWhiskers.label>측면 수염</SideWhiskers.label>
-  
-  <SoulPatch.label>소울 패치</SoulPatch.label>
-  
-  <StacheAndChops.label>스태시 앤 찹스</StacheAndChops.label>
-  
-  <Stubble.label>산적 수염</Stubble.label>
-  
-  <TriBraid.label>삼국지</TriBraid.label>
-  
-  <Urist.label>유리 수염</Urist.label>
-  
-  <VanDyke.label>반다이크</VanDyke.label>
-  
-  <Wizard.label>마법사</Wizard.label>
+  <FurskinCurlyMoustache.label>curly moustache</FurskinCurlyMoustache.label>
 </LanguageData>
