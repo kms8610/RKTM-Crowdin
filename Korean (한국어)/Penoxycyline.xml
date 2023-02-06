@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PenoxycylineHigh.label>페노자이실린</PenoxycylineHigh.label>
-  <PenoxycylineHigh.description>특정 질병에 대한 병을 사전에 방지할 수 있게 면역 체계를 강화시켜 주는 약입니다. 새로운 감염만 차단 가능합니다. 이미 감염된 사람들에게는 아무런 영향을 미치지 않습니다.</PenoxycylineHigh.description>
+  <Penoxycyline.label>페노자이실린</Penoxycyline.label>
+  <Penoxycyline.description>다양한 질병을 예방할 수 있는 약품입니다. 말라리아, 수면병, 전염병을 방지합니다. 5일에 1회 섭취합니다.\n\n새로운 질병만을 예방하며, 이미 진행된 질병의 치료에는 도움이 되지 않습니다.</Penoxycyline.description>
+  <Penoxycyline.ingestible.ingestCommandString>{0} 복용</Penoxycyline.ingestible.ingestCommandString>
+  <Penoxycyline.ingestible.ingestReportString>{0} 복용 중.</Penoxycyline.ingestible.ingestReportString>
 </LanguageData>
