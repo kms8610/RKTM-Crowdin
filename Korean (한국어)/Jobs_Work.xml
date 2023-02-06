@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChangeTreeMode.reportString>TargetA가 보유한 나무지기 계급 변경 중</ChangeTreeMode.reportString>
+  <EmptyWasteContainer.reportString>TargetA에서 TargetB(을)를 꺼내는 중</EmptyWasteContainer.reportString>
   
-  <CreateAndEnterCocoon.reportString>고치 생성 중</CreateAndEnterCocoon.reportString>
+  <HaulToAtomizer.reportString>TargetA 운반 중.</HaulToAtomizer.reportString>
   
-  <CreateAndEnterHealingPod.reportString>creating healing pod.</CreateAndEnterHealingPod.reportString>
-  
-  <ExtractSkull.reportString>TargetA의 두개골을 뽑는 중</ExtractSkull.reportString>
-  
-  <Hack.reportString>TargetA 해킹 중.</Hack.reportString>
-  
-  <MergeIntoGaumakerPod.reportString>{TargetB}(으)로 융합 중</MergeIntoGaumakerPod.reportString>
-  
-  <PrisonerConvert.reportString>{TargetA} 교화 중</PrisonerConvert.reportString>
-  
-  <PrisonerEnslave.reportString>TargetA(을)를 노예로 삼는 중</PrisonerEnslave.reportString>
-  
-  <PruneGauranlenTree.reportString>{TargetA} 다듬는 중</PruneGauranlenTree.reportString>
-  
-  <ReturnToGauranlenTree.reportString>{TargetA}(으)로 돌아가는 중</ReturnToGauranlenTree.reportString>
-  
-  <SlaveEmancipation.reportString>{TargetA} 해방 중</SlaveEmancipation.reportString>
-  
-  <SlaveExecution.reportString>TargetA 처형 준비 중.</SlaveExecution.reportString>
-  
-  <SlaveSuppress.reportString>{TargetA} 억압 중</SlaveSuppress.reportString>
+  <StudyItem.reportString>TargetA 학습 중</StudyItem.reportString>
 </LanguageData>
