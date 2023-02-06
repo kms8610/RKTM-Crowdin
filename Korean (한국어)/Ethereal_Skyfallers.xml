@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CrashedShipPartIncoming.label>추락한 선박 부분 (들어오는 중)</CrashedShipPartIncoming.label>
+  <SkyLantern.label>skylantern</SkyLantern.label>
   
-  <DropPodIncoming.label>드랍 포트 (들어오는 중)</DropPodIncoming.label>
-  
-  <DropPodIncomingMechanoid.label>드랍 포트 (들어오는 중)</DropPodIncomingMechanoid.label>
-  
-  <DropPodLeaving.label>드랍 포트 (퇴출)</DropPodLeaving.label>
-  
-  <MeteoriteIncoming.label>운석 (들어오는 중)</MeteoriteIncoming.label>
-  
-  <ShipChunkIncoming.label>선박의 정크 (들어오는 중)</ShipChunkIncoming.label>
-  
-  <ShuttleCrashing.label>왕복선 (추락 중)</ShuttleCrashing.label>
+  <SpacedroneIncoming.label>spacedrone (incoming)</SpacedroneIncoming.label>
 </LanguageData>
