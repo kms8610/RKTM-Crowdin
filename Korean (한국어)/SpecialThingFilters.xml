@@ -1,56 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AllowBiocodedApparel.label>생체인증 의류 허용</AllowBiocodedApparel.label>
+  <AllowCannibal.label>allow food with human meat</AllowCannibal.label>
+  <AllowCannibal.description>Allow food that is acceptable to cannibals (i.e. it contains human meat). This accounts for meals whose classification depends on their ingredients.</AllowCannibal.description>
   
-  <AllowBiocodedWeapons.label>생체인증 무기 허용</AllowBiocodedWeapons.label>
+  <AllowCarnivore.label>allow food with appetizing meat</AllowCarnivore.label>
+  <AllowCarnivore.description>Allow food that is generally acceptable to meat eaters but unacceptable to vegetarians. This accounts for meals whose classification depends on their ingredients. This does not control human and insect meat.</AllowCarnivore.description>
   
-  <AllowBurnableApparel.label>소각 가능</AllowBurnableApparel.label>
+  <AllowCorpsesSlave.label>노예 시체 허용</AllowCorpsesSlave.label>
+  <AllowCorpsesSlave.description>노예의 시체를 허용합니다.</AllowCorpsesSlave.description>
   
-  <AllowBurnableWeapons.label>소각 가능</AllowBurnableWeapons.label>
+  <AllowInsectMeat.label>allow food with insect meat</AllowInsectMeat.label>
+  <AllowInsectMeat.description>Allow food that contains insect meat. This accounts for meals whose classification depends on their ingredients.</AllowInsectMeat.description>
   
-  <AllowCorpsesColonist.label>정착민 시체 허용</AllowCorpsesColonist.label>
-  <AllowCorpsesColonist.description>이전에 정착민이었던 사람의 시체를 허용합니다.</AllowCorpsesColonist.description>
-  
-  <AllowCorpsesStranger.label>외지인 시체 허용</AllowCorpsesStranger.label>
-  <AllowCorpsesStranger.description>이전에 적이었거나 외지인이었던 사람의 시체를 허용합니다.</AllowCorpsesStranger.description>
-  
-  <AllowDeadmansApparel.label>유품 옷 허용</AllowDeadmansApparel.label>
-  <AllowDeadmansApparel.description>유품을 허용합니다.</AllowDeadmansApparel.description>
-  
-  <AllowFemaleGender.label>여성 허용</AllowFemaleGender.label>
-  <AllowFemaleGender.description>여성이 사용 할 수 있습니다.</AllowFemaleGender.description>
-  
-  <AllowFresh.label>신선한 유기물 허용</AllowFresh.label>
-  <AllowFresh.description>신선한 고기나 시체 등 유기물질을 허용합니다.</AllowFresh.description>
-  
-  <AllowLargeCorpses.label>allow large corpses</AllowLargeCorpses.label>
-  <AllowLargeCorpses.description>Allow large, dead bodies.</AllowLargeCorpses.description>
-  
-  <AllowMaleGender.label>남성 허용</AllowMaleGender.label>
-  <AllowMaleGender.description>남성이 사용 할 수 있습니다.</AllowMaleGender.description>
-  
-  <AllowNonBiocodedApparel.label>비생체인증 의류 허용</AllowNonBiocodedApparel.label>
-  
-  <AllowNonBiocodedWeapons.label>비생체인증 무기 허용</AllowNonBiocodedWeapons.label>
-  
-  <AllowNonBurnableApparel.label>소각 불가능</AllowNonBurnableApparel.label>
-  
-  <AllowNonBurnableWeapons.label>소각 불가능</AllowNonBurnableWeapons.label>
-  
-  <AllowNonDeadmansApparel.label>유품이 아닌 옷 허용</AllowNonDeadmansApparel.label>
-  <AllowNonDeadmansApparel.description>유품이 아닌 옷을 허용합니다.</AllowNonDeadmansApparel.description>
-  
-  <AllowNonSmeltableApparel.label>제련 불가능</AllowNonSmeltableApparel.label>
-  
-  <AllowNonSmeltableWeapons.label>제련 불가능</AllowNonSmeltableWeapons.label>
-  
-  <AllowPlantFood.label>식물성 음식 허용</AllowPlantFood.label>
-  <AllowPlantFood.description>건초와 같이, 수확하지 않은 식물과 같은 품질을 지닌 음식을 허용합니다.</AllowPlantFood.description>
-  
-  <AllowRotten.label>부패된 유기물 허용</AllowRotten.label>
-  <AllowRotten.description>부패하고 있는 유기물질을 허용합니다.</AllowRotten.description>
-  
-  <AllowSmeltable.label>제련 가능</AllowSmeltable.label>
-  
-  <AllowSmeltableApparel.label>제련 가능</AllowSmeltableApparel.label>
+  <AllowVegetarian.label>allow vegetarian food</AllowVegetarian.label>
+  <AllowVegetarian.description>Allow food that is acceptable to vegetarians but unacceptable to those that only eat meat. This accounts for meals whose classification depends on their ingredients.</AllowVegetarian.description>
 </LanguageData>
