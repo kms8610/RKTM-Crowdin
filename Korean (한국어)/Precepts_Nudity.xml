@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>하반신만</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>여자는 하반신만 가려야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_Mandatory.label>벌거벗음</Nudity_Female_Mandatory.label>
-  <Nudity_Female_Mandatory.description>여자는 항상 벌거벗어야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Female_Mandatory.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_NoRules.label>자유로움</Nudity_Female_NoRules.label>
-  <Nudity_Female_NoRules.description>여자는 어떤 신체 부위건 노출하거나 가릴 수 있다.</Nudity_Female_NoRules.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>wore clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>To conceal the skin is wrong, but I did it anyway. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
   
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>전부</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>여자는 머리카락과 얼굴을 포함한 전신을 가려야 한다.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>상반신과 하반신, 머리카락</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>여자는 머리카락과 전신을 가려야 한다. 얼굴은 상관 없다.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinDisapproved.label>바지</Nudity_Female_UncoveredGroinDisapproved.label>
-  <Nudity_Female_UncoveredGroinDisapproved.description>여자는 하반신 만큼은 가려야 한다. 다른 부위는 상관 없다.</Nudity_Female_UncoveredGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
   
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>상반신과 하반신</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>여자는 상반신과 하반신을 가려야 한다. 다른 부위는 상관 없다.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
   
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>하반신만</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>남자는 하반신만 가려야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>wore clothes</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>I concealed my flesh. It was wrong.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
   
-  <Nudity_Male_Mandatory.label>벌거벗음</Nudity_Male_Mandatory.label>
-  <Nudity_Male_Mandatory.description>남자는 항상 벌거벗어야 한다. 보호막 벨트나 점프 팩 같은 다용도구는 허용한다.</Nudity_Male_Mandatory.description>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
   
-  <Nudity_Male_NoRules.label>자유로움</Nudity_Male_NoRules.label>
-  <Nudity_Male_NoRules.description>남자는 어떤 신체 부위건 노출하거나 가릴 수 있다.</Nudity_Male_NoRules.description>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
   
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>전부</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>남자는 머리카락과 얼굴을 포함한 전신을 가려야 한다.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>상반신과 하반신, 머리카락</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>남자는 머리카락과 전신을 가려야 한다. 얼굴은 상관 없다.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinDisapproved.label>바지</Nudity_Male_UncoveredGroinDisapproved.label>
-  <Nudity_Male_UncoveredGroinDisapproved.description>남자는 하반신 만큼은 가려야 한다. 다른 부위는 상관 없다.</Nudity_Male_UncoveredGroinDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
   
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>상반신과 하반신</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>남자는 상반신과 하반신을 가려야 한다. 다른 부위는 상관 없다.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>
+  
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>
+  
+  <GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>
 </LanguageData>
