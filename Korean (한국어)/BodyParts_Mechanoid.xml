@@ -1,54 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArtificialBrain.label>인공 두뇌</ArtificialBrain.label>
+  <BulbTurret.label>bulb turret</BulbTurret.label>
   
-  <Blade.label>날</Blade.label>
+  <DiabolusCapacitor.label>hypercapacitor</DiabolusCapacitor.label>
   
-  <FluidReprocessor.label>유체 재처리기</FluidReprocessor.label>
+  <MechanicalDiabolusBodyFifthRing.label>다섯 번째 몸체 고리</MechanicalDiabolusBodyFifthRing.label>
+  <MechanicalDiabolusBodyFifthRing.labelShort>몸체 고리</MechanicalDiabolusBodyFifthRing.labelShort>
   
-  <HearingSensor.label>청각 센서</HearingSensor.label>
+  <MechanicalDiabolusBodyFirstRing.label>첫 번째 몸체 고리</MechanicalDiabolusBodyFirstRing.label>
+  <MechanicalDiabolusBodyFirstRing.labelShort>몸체 고리</MechanicalDiabolusBodyFirstRing.labelShort>
   
-  <MechanicalArm.label>팔</MechanicalArm.label>
+  <MechanicalDiabolusBodyFourthRing.label>네 번째 몸체 고리</MechanicalDiabolusBodyFourthRing.label>
+  <MechanicalDiabolusBodyFourthRing.labelShort>몸체 고리</MechanicalDiabolusBodyFourthRing.labelShort>
   
-  <MechanicalCentipedeBodyFifthRing.label>다섯 번째 몸체 고리</MechanicalCentipedeBodyFifthRing.label>
-  <MechanicalCentipedeBodyFifthRing.labelShort>몸체 고리</MechanicalCentipedeBodyFifthRing.labelShort>
+  <MechanicalDiabolusBodySecondRing.label>두 번째 몸체 고리</MechanicalDiabolusBodySecondRing.label>
+  <MechanicalDiabolusBodySecondRing.labelShort>몸체 고리</MechanicalDiabolusBodySecondRing.labelShort>
   
-  <MechanicalCentipedeBodyFirstRing.label>첫 번째 몸체 고리</MechanicalCentipedeBodyFirstRing.label>
-  <MechanicalCentipedeBodyFirstRing.labelShort>몸체 고리</MechanicalCentipedeBodyFirstRing.labelShort>
+  <MechanicalDiabolusBodySixthRing.label>여섯 번째 몸체 고리</MechanicalDiabolusBodySixthRing.label>
+  <MechanicalDiabolusBodySixthRing.labelShort>몸체 고리</MechanicalDiabolusBodySixthRing.labelShort>
   
-  <MechanicalCentipedeBodyFourthRing.label>네 번째 몸체 고리</MechanicalCentipedeBodyFourthRing.label>
-  <MechanicalCentipedeBodyFourthRing.labelShort>몸체 고리</MechanicalCentipedeBodyFourthRing.labelShort>
+  <MechanicalDiabolusBodyThirdRing.label>세 번째 몸체 고리</MechanicalDiabolusBodyThirdRing.label>
+  <MechanicalDiabolusBodyThirdRing.labelShort>몸체 고리</MechanicalDiabolusBodyThirdRing.labelShort>
   
-  <MechanicalCentipedeBodySecondRing.label>두 번째 몸체 고리</MechanicalCentipedeBodySecondRing.label>
-  <MechanicalCentipedeBodySecondRing.labelShort>몸체 고리</MechanicalCentipedeBodySecondRing.labelShort>
+  <MechanicalWarqueenBodyFifthRing.label>다섯 번째 몸체 고리</MechanicalWarqueenBodyFifthRing.label>
+  <MechanicalWarqueenBodyFifthRing.labelShort>몸체 고리</MechanicalWarqueenBodyFifthRing.labelShort>
   
-  <MechanicalCentipedeBodySixthRing.label>여섯 번째 몸체 고리</MechanicalCentipedeBodySixthRing.label>
-  <MechanicalCentipedeBodySixthRing.labelShort>몸체 고리</MechanicalCentipedeBodySixthRing.labelShort>
+  <MechanicalWarqueenBodyFirstRing.label>첫 번째 몸체 고리</MechanicalWarqueenBodyFirstRing.label>
+  <MechanicalWarqueenBodyFirstRing.labelShort>몸체 고리</MechanicalWarqueenBodyFirstRing.labelShort>
   
-  <MechanicalCentipedeBodyThirdRing.label>세 번째 몸체 고리</MechanicalCentipedeBodyThirdRing.label>
-  <MechanicalCentipedeBodyThirdRing.labelShort>몸체 고리</MechanicalCentipedeBodyThirdRing.labelShort>
+  <MechanicalWarqueenBodyFourthRing.label>네 번째 몸체 고리</MechanicalWarqueenBodyFourthRing.label>
+  <MechanicalWarqueenBodyFourthRing.labelShort>몸체 고리</MechanicalWarqueenBodyFourthRing.labelShort>
   
-  <MechanicalFinger.label>손가락</MechanicalFinger.label>
+  <MechanicalWarqueenBodySecondRing.label>두 번째 몸체 고리</MechanicalWarqueenBodySecondRing.label>
+  <MechanicalWarqueenBodySecondRing.labelShort>몸체 고리</MechanicalWarqueenBodySecondRing.labelShort>
   
-  <MechanicalFoot.label>발</MechanicalFoot.label>
+  <MechanicalWarqueenBodyThirdRing.label>세 번째 몸체 고리</MechanicalWarqueenBodyThirdRing.label>
+  <MechanicalWarqueenBodyThirdRing.labelShort>몸체 고리</MechanicalWarqueenBodyThirdRing.labelShort>
   
-  <MechanicalHand.label>손</MechanicalHand.label>
+  <MechanicalWarqueenFormingPod.label>forming sack</MechanicalWarqueenFormingPod.label>
   
-  <MechanicalHead.label>머리</MechanicalHead.label>
+  <PowerClaw.label>강화 발톱</PowerClaw.label>
   
-  <MechanicalLeg.label>다리</MechanicalLeg.label>
+  <SmallMechanicalFoot.label>small foot</SmallMechanicalFoot.label>
   
-  <MechanicalNeck.label>목</MechanicalNeck.label>
-  
-  <MechanicalShoulder.label>어깨</MechanicalShoulder.label>
-  
-  <MechanicalThorax.label>흉부</MechanicalThorax.label>
-  
-  <MechanicalThoraxCanManipulate.label>흉부</MechanicalThoraxCanManipulate.label>
-  
-  <Reactor.label>원자로</Reactor.label>
-  
-  <SightSensor.label>시각 센서</SightSensor.label>
-  
-  <SmellSensor.label>후각 센서</SmellSensor.label>
+  <SmallMechanicalLeg.label>작은 다리</SmallMechanicalLeg.label>
 </LanguageData>
