@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicHarmonization.stages.psychic_harmony.label>{HARMONIZER_labelShort}(와)과 공조된 감정</PsychicHarmonization.stages.psychic_harmony.label>
-  <PsychicHarmonization.stages.psychic_harmony.description>감정 송출기를 사용하는 사람의 감정이 생생히 느껴져.</PsychicHarmonization.stages.psychic_harmony.description>
+  <PsychicHarmonizer.label>초능력 조화기</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>초능력 조화기가 설치되었습니다.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.labelNoun>초능력 조화기</PsychicHarmonizer.labelNoun>
+  
+  <PsychicReader.label>초능력 판독기</PsychicReader.label>
+  <PsychicReader.description>초능력 판독기가 설치되었습니다.</PsychicReader.description>
+  <PsychicReader.labelNoun>초능력 판독기</PsychicReader.labelNoun>
+  
+  <PsychicSensitizer.label>초능력 증진기</PsychicSensitizer.label>
+  <PsychicSensitizer.description>초능력 증진기가 설치되었습니다.</PsychicSensitizer.description>
+  <PsychicSensitizer.labelNoun>초능력 증진기</PsychicSensitizer.labelNoun>
 </LanguageData>
