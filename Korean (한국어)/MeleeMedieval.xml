@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeleeWeapon_Gladius.label>검</MeleeWeapon_Gladius.label>
-  <MeleeWeapon_Gladius.description>고대로부터 내려온 짧은 검입니다. 찌르거나 베는 데 좋습니다.</MeleeWeapon_Gladius.description>
-  <MeleeWeapon_Gladius.tools.handle.label>손잡이</MeleeWeapon_Gladius.tools.handle.label>
-  <MeleeWeapon_Gladius.tools.point.label>끝</MeleeWeapon_Gladius.tools.point.label>
-  <MeleeWeapon_Gladius.tools.edge.label>날</MeleeWeapon_Gladius.tools.edge.label>
+  <MeleeWeapon_Axe.label>도끼</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.description>인류의 가장 오래된 무기 중 하나인 전투도끼는 손자루에 부착된 짧은 날붙이 입니다. 단순하고 고대적인 이 디자인은 강력한 오버 핸드 스윙에서 발생하는 팔의 힘에 절삭력이 집중됩니다.</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.tools.handle.label>손잡이</MeleeWeapon_Axe.tools.handle.label>
+  <MeleeWeapon_Axe.tools.edge.label>날</MeleeWeapon_Axe.tools.edge.label>
   
-  <MeleeWeapon_LongSword.label>장검</MeleeWeapon_LongSword.label>
-  <MeleeWeapon_LongSword.description>왕들의 고대 무기인 이 장검은 날카롭게 베거나 찌르는데 사용됩니다</MeleeWeapon_LongSword.description>
-  <MeleeWeapon_LongSword.tools.handle.label>손잡이</MeleeWeapon_LongSword.tools.handle.label>
-  <MeleeWeapon_LongSword.tools.point.label>끝</MeleeWeapon_LongSword.tools.point.label>
-  <MeleeWeapon_LongSword.tools.edge.label>날</MeleeWeapon_LongSword.tools.edge.label>
-  
-  <MeleeWeapon_Mace.label>철퇴</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Mace.description>단순한 곤봉을 보다 치명적이고 효율적으로 개선한 형태입니다.</MeleeWeapon_Mace.description>
-  <MeleeWeapon_Mace.tools.handle.label>손잡이</MeleeWeapon_Mace.tools.handle.label>
-  <MeleeWeapon_Mace.tools.head.label>머리</MeleeWeapon_Mace.tools.head.label>
+  <MeleeWeapon_Warhammer.label>전투망치</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.description>잔악무도한 망치가 달린 긴 막대깁니다. 강력한 충격은 갑옷을 통해 적의 내부를 파괴할 것입니다.</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.tools.handle.label>손잡이</MeleeWeapon_Warhammer.tools.handle.label>
+  <MeleeWeapon_Warhammer.tools.head.label>머리</MeleeWeapon_Warhammer.tools.head.label>
 </LanguageData>
