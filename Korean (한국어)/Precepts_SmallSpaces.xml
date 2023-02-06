@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmallSpaces_Acceptable.label>상관 없음</SmallSpaces_Acceptable.label>
-  <SmallSpaces_Acceptable.description>공간이 좁은 것은 불평거리가 되지 못한다.</SmallSpaces_Acceptable.description>
+  <SmallSpaces.label>좁은 공간</SmallSpaces.label>
 </LanguageData>
