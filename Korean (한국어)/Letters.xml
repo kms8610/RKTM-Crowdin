@@ -1,124 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Mechanitor -->
-  <LetterLabelMechsFeral>Mech(s) gone feral</LetterLabelMechsFeral>
-  <LetterMechsFeral>Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1}</LetterMechsFeral>
-  <LetterLabelMechlinkInstalled>Mechlink installed</LetterLabelMechlinkInstalled>
-  <LetterMechlinkInstalled>{PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger.</LetterMechlinkInstalled>
+  <!-- Royal titles -->
+  <LetterLabelLostRoyalTitle>{TITLE} 작위 잃음: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>{TITLE} 작위 획득: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
 
-  <MentalStateReason_Gene>This happened because of</MentalStateReason_Gene>
+  <PermitPointsAwarded>{0}개의 지원 요청 권한을 획득했습니다.</PermitPointsAwarded>
 
-  <LetterLabelBossgroupSummoned>{0} summoned</LetterLabelBossgroupSummoned>
-  <LetterBossgroupSummoned>Attracted by your mech-band signals, an ultra-heavy mech from {0} will arrive soon. Be prepared.</LetterBossgroupSummoned>
-
-  <LetterLabelBossgroupArrived>{0} arrived</LetterLabelBossgroupArrived>
-  <LetterBossgroupArrived>An ultra-heavy mech from {0} has come to eradicate you, along with escorts.\n\n{1}\n\nThe assault group is composed of the following {3}:\n\n{4}\n\nThey will prepare for a while before attacking.</LetterBossgroupArrived>
-
-  <LetterLabelCommsConsoleSpawned>Summon {LEADER_label} available</LetterLabelCommsConsoleSpawned>
-  <LetterCommsConsoleSpawned>A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
-
-  <LetterLabelBossgroupCallerUnlocked>Summon {LEADER_label} possible</LetterLabelBossgroupCallerUnlocked>
-  <LetterBossgroupCallerUnlocked>You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
-
-  <LetterLabelMechanitorCasketOpened>{0_nameDef}'s mechlink available</LetterLabelMechanitorCasketOpened>
-  <LetterMechanitorCasketOpened>You have found the corpse of an ancient mechanitor!\n\nExtract {0_possessive} mechlink by selecting a colonist and right-clicking the corpse.</LetterMechanitorCasketOpened>
-  <LetterLabelMechanitorCasketFound>Mechanitor casket found</LetterLabelMechanitorCasketFound>
-  <LetterMechanitorCasketFound>You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside.</LetterMechanitorCasketFound>
+  <LetterRoyalTitleApparelQualityRequirement>이 작위에는 {1} 품질 이상의 의복이 필요합니다.</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>이 작위에는 {PAWN_possessive} 품위에 어울리는 훌륭한 의복을 원합니다.</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>{1}보다 높은 수준의 의복만이 {PAWN_possessive}(을)를 만족시킬 수 있습니다.</LetterRoyalTitleExpectation>
   
-  <!-- Pawns lost because map closed (including mechs) -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Your caravan has been lost. The following people, animals and mechanoids have been lost with it</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>The following people, animals and mechanoids have been abandoned</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  <LetterRoyalTitleConceitedTrait>{PAWN_labelShort}(은)는 {1}이므로 이 작위에 대한 특권이 완전히 존중되도록 요구합니다. {PAWN_pronoun}는 특정한 작업 유형을 거부하며, 하급 계층의 음식을 먹고, 법령을 선포할 수 있습니다.</LetterRoyalTitleConceitedTrait>
+
+  <LetterGainedRoyalTitle>{PAWN_labelShort}(이)가 {FACTION_name}의 {TITLE} 작위를 획득했습니다!</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort}(은)는 더 이상 {FACTION_name}의 {TITLE}이 아닙니다.</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>작위 보상</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>{TITLE} 작위를 획득한 {PAWN_labelShort}에게 {FACTION_name}의 보상이 지급됩니다.</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>보상이 수송 포드를 통해 정착지에 도착했습니다.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>보상은 {PAWN_labelShort}의 가방으로 직접 전달 되었습니다.</LetterRewardsForNewTitleDeliveryDirect>
+
+  <LetterRoyalTitlePermits>{PAWN_pronoun}(은)는 이제부터 다음 권한을 얻습니다:</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun}(은)는 이제부터 다음 권한을 잃습니다:</LetterRoyalTitleLostPermits>
+
+  <LetterRoyalTitleDisabledWorkTag>이제부터 {PAWN_pronoun}(은)는 다음 유형의 작업을 하지 않습니다:\n{1}</LetterRoyalTitleDisabledWorkTag>
+
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun}가 다음 오락거리를 요구합니다:</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>{PAWN_pronoun}가 다음 오락거리를 거부합니다:</LetterRoyalTitleDisabledJoyKind>
+
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun}(은)는 이제 다음 뇌 부착물을 사용할 수 있습니다: {1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun}(은)는 이제 뇌 부착물을 사용할 수 없습니다: {1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>분쟁을 피하려면 5일의 유예 기간 내에 뇌부착울을 제거하십시오.</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}는 이제 왕좌에서 연설할 수 있습니다. 결과가 좋다면 청취하는 사람들이 영감을 받을 수 있고, 반대로 연설이 결과가 좋지 않다면 청취자들의 기분을 떨어뜨릴 것입니다. 연설에 관한 결과는 {PAWN_labelShort}의 사교 기술에 따라 달라집니다.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>{PAWN_pronoun}는 다음 요구 사항을 충족하는 알현실을 요구합니다: {1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>{PAWN_pronoun}는 다음 요구 사항을 충족하는 침실을 요구합니다: {1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>{PAWN_pronoun}는 오직 다음 요구 사항을 충족하는 음식만을 섭취합니다:{1}</LetterRoyalTitleFoodRequirements>
+
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun}는 운송포드로 다음 항목을 받음:{1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{FACTION_name}(이)가 {PAWN_labelShort}에게 {FACTION_royalFavorLabel} {1}장을 하사합니다.</PeaceTalksRoyalFavorGain>
+
+  <!-- Royal heritage-->
+  <LetterRoyalTitleHeir>{PAWN_pronoun}가 사망하게 되면, 작위는 {HEIR_nameFull}에게 계승됩니다.</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>{PAWN_pronoun}(이)가 사망할 경우 작위를 계승할 인물이 없습니다.</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull}(은)는 {FACTION_name}의 일원입니다.</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>통신콘솔을 통해 {FACTION_name} 세력에게 연락하여 새로운 계승자를 선택할 수 있습니다.</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>후계자 사망</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull}(이)가 죽어 {HOLDER_labelShort}의 후계자 자리가 공석이 되었습니다. 통신 콘솔을 통해 {FACTION_name}에 연락하여 새 후계자를 지정할 수 있습니다.</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>{TITLE} 작위는 계승할 수 없습니다.</LetterRoyalTitleCantBeInherited>
+
+
+  <LetterTitleInheritance>작위 계승</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>{PAWN_nameFull}(이)가 사망하여, 적법한 절차에 따라 사망자의 작위가 후계자에게 계승되었습니다.</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>{FACTION_name}의 계승법에 의거하여 {TITLE} 작위가 {HEIR_nameFull}에게 계승되었습니다. 수여식을 마치면 {REPLACEDTITLE} 작위는 대체되어 소멸합니다.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>{FACTION_name}의 계승법에 의거하여 {TITLE} 작위가 {HEIR_nameFull}에게 계승되어야 하지만, {HEIR_nameFull}의 작위가 이미 {HIGHERTITLE} 보다 높기 때문에 승계 절차는 무효가 되었습니다.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>{FACTION_name}의 계승법에 의거하여 {TITLE} 작위는 수여식을 마치면 {HEIR_nameFull}에게 계승됩니다.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>후계자의 자리가 공석이었기 때문에 {TITLE} 작위는 누구에게도 계승되지 않았습니다.</LetterTitleInheritance_NoHeirFound>
+
+  <!-- Royal implant violations -->
+  <LetterLawViolationDetectedLabel>{PAWN_labelShort} 적발</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}(이)가 {PAWN_labelShort}의 {CULPRIT} 불법 사용을 감지했습니다. (탐지될 확률 {CHANCE})\n\n{FACTION_name}의 정책에 따르면 {TITLE} 작위를 지닌 인물에게만 {CULPRIT} 사용을 허용합니다.\n\n그 때문에 진영 간 관계도가 {GOODWILL}만큼 하락합니다.</LetterLawViolationDetectedForbiddenThingUse>
+
+  <!-- Wild decree mental break -->
+  <WildDecree>무모한 법령</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef}의 법령</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>{0_possessive} 스트레스를 해소하려는 방안으로 {0_nameIndef}(이)가 무모한 왕실 법령을 선포하며 이행할 것을 요구하고 있습니다.\n    \n적시에 수행하지 않으면, {0_nameIndef}(은)는 매우 불행해집니다.</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_bestRoyalTitleIndef} 작위의 힘을 시험해보고 싶은 {0_nameIndef}(이)가 법령을 선포하며 이행할 것을 요구하고 있습니다.\n    \n적시에 수행하지 않으면, {0_nameIndef}(은)는 매우 불행해집니다.</LetterRandomDecree>
+  <LetterDecree_Quest>"{0}" 법령입니다.</LetterDecree_Quest>
   
+  <!-- Lent colonist died -->
+  <LentColonistDied>{PAWN_nameDef}(은)는 {FACTION}에 파견되어 있었습니다. {PAWN_nameDef}의 시체는 신속히 반환될 예정입니다.</LentColonistDied>  
 
-  <!-- Children -->
-  <LetterLabelBecameChild>{0_nameDef} became a child</LetterLabelBecameChild>
-  <LetterLabelBecameAdult>{0_nameDef} became an adult</LetterLabelBecameAdult>
-  <LetterBecameChild>Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work:</LetterBecameChild>
-  <LetterBecameChildChanges>Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel.</LetterBecameChildChanges>
-  <LetterChildLegalStatus>By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}?</LetterChildLegalStatus>
-  <LetterChildFollowIdeo>{0_labelShort} has decided to become a follower of the ideoligion {1_name}.</LetterChildFollowIdeo>
-  <CannotChangeChildStatusReason>{0_nameDef}'s slave status has already changed since {0_possessive} birthday.</CannotChangeChildStatusReason>
-  <Enslave>enslave</Enslave>
-  <Emancipate>emancipate</Emancipate>
-  <RemainX>remain {0}</RemainX>
-  <LetterLabelAdopted>{BABY_nameDef} adopted</LetterLabelAdopted>
-  <LetterTextAdopted>{BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}.</LetterTextAdopted>
-
-  <LetterLabelThirdTrimester>{0_nameDef}'s baby prep</LetterLabelThirdTrimester>
-  <LetterTextThirdTrimester>{0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire.</LetterTextThirdTrimester>
-
-  <LetterVatBirth>{0} vat birth</LetterVatBirth>
-  <LetterVatHealthyBaby>The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby!</LetterVatHealthyBaby>
-  <LetterVatHealthyBabyNoParents>An embryo has finished gestating in a growth vat and become a healthy baby!</LetterVatHealthyBabyNoParents>
-  <LetterVatInfantIllness>The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick.</LetterVatInfantIllness>
-  <LetterVatInfantIllnessNoParents>An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick.</LetterVatInfantIllnessNoParents>
-  <LetterVatStillborn>The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn.</LetterVatStillborn>
-  <LetterVatSillbornNoParents>The baby formed in a growth vat was stillborn.</LetterVatSillbornNoParents>
-  <LetterColonistPregnancyLaborLabel>{0_labelShort} in labor!</LetterColonistPregnancyLaborLabel>
-  <LetterColonistPregnancyLabor>{0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure.</LetterColonistPregnancyLabor>
-  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} has died due to complications after giving birth.</LetterPartColonistDiedAfterChildbirth>
-  <LetterPartSurrogacy>The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}.</LetterPartSurrogacy>
-  <InbredBabyBorn>The baby shows signs of genetic abnormalities due to inbreeding.</InbredBabyBorn>
-
-  <BabyAlreadyNamed>{0_nameDef} has already been named.</BabyAlreadyNamed>
-  <NameBaby>name baby</NameBaby>
-  <Immediately>immediately</Immediately>
-  <Within>within</Within>
-  <LetterPartTempBabyName>The baby has been given the temporary name {0_nameFull}.</LetterPartTempBabyName>
-  <LetterPartLiveBirthNameDeadline>You can change it until {0} after birth.</LetterPartLiveBirthNameDeadline>
-  <LetterPartStillbirthNameDeadline>Would you like to give the baby another name?</LetterPartStillbirthNameDeadline>
-  <LetterPartNameBabyAdopt>The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old.</LetterPartNameBabyAdopt>
-
-  <BirthdayGrowthMoment>Growth moment for {PAWNNAME}</BirthdayGrowthMoment>
-  <BirthdayBiologicalGrowthMoment>{0_nameFull} has reached the biological age of {1} and has experienced a growth moment!</BirthdayBiologicalGrowthMoment>
-  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} is now old enough to do the following work</BirthdayBiologicalAgeWorkTypes>
-  <BirthdayPickPassion>Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for</BirthdayPickPassion>
-  <BirthdayPickPassions>Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for</BirthdayPickPassions>
-  <BirthdayPickTrait>Choose a trait for {0_nameDef} to gain</BirthdayPickTrait>
-  <BirthdayGrowthTier>When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment.</BirthdayGrowthTier>
-  <BirthdayChooseHowPawnWillGrow>Open this letter to choose how {0_nameDef} will grow.</BirthdayChooseHowPawnWillGrow>
-
-  <BirthdayPassionArchive>Passion was increased for {0}.</BirthdayPassionArchive>
-  <BirthdayTraitArchive>The trait {0} was gained.</BirthdayTraitArchive>
-  <BirthdayNoTraitChoice>특징 없음</BirthdayNoTraitChoice>
-  <BirthdayNoTraitChoiceTooltip>{0} does not gain a trait.</BirthdayNoTraitChoiceTooltip>
-
-  <BirthdayMakeChoices>Make choices to close</BirthdayMakeChoices>
-  <BirthdayNickname>{0} has gained the nickname {1}.</BirthdayNickname>
-  <SelectATrait>Select a trait.</SelectATrait>
-  <SelectPassionSingular>Select a passion.</SelectPassionSingular>
-  <SelectPassionsPlural>Select {0} passions.</SelectPassionsPlural>
-  <Later>나중에</Later>
+  <!-- Psylink -->
+  <LetterLabelPsylinkLevelGained>정신력 증폭 획득</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort}(은)는 정신력 증폭기를 이식받아 초집중 능력자가 되었습니다.\n\n기술을 시전하려면 우선 명상을 통해 초집중을 축적해야 합니다. 특정한 매개채를 활용하면 더 쉽게 명상에 들 수 있습니다.\n\n매개채는 개인의 배경, 특성, 작위에 따라 달라집니다. 예를 들어:\n\n- 귀족 능력자는 자신의 왕좌에서 명상합니다.\n- 부족민 능력자는 영혼나무나 자연의 성지에서 명상합니다.\n- 검소한 능력자는 빈 벽만 보면서도 명상할 수 있습니다.\n- 사이코패스 능력자는 무덤에서 명상하는 것을 좋아합니다.\n\n정보 창을 통해 정착민의 집중 유형을 확인할 수 있습니다.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}(은)는 더 높은 정신력 증폭 단계를 획득했습니다! 이제 {USER_pronoun}(은)는 더 높은 단계의 초집중 기술을 배우고 사용할 수 있습니다.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>{USER_labelShort}(은)는 새로운 정신력 증폭 단계에 도달하여 {2} 기술을 자동으로 습득했습니다.</LetterPsylinkLevelGained_PsycastLearned>
   
-  <LetterLabelMechlinkAvailable>Mechlink available</LetterLabelMechlinkAvailable>
-  <LetterMechlinkAvailable>An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat.</LetterMechlinkAvailable>
+  <!-- Abilities -->
+  <LetterPsychicInspiration>{CASTER_nameIndef}의 초능력 암시는 {PAWN_nameIndef}의 영감을 자극했습니다!</LetterPsychicInspiration>
 
-  <!-- Genes -->
-  <LetterLabelXenogermOrderedImplanted>Xenogerm implantation ordered</LetterLabelXenogermOrderedImplanted>
-  <LetterXenogermOrderedImplanted>You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab.</LetterXenogermOrderedImplanted>
-  <XenogermOrderedImplantedBedNeeded>\n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical.</XenogermOrderedImplantedBedNeeded>
-  <XenogermOrderedImplantedMedicineNeeded>\n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine.</XenogermOrderedImplantedMedicineNeeded>
-  <LetterLabelInvoluntaryDeathrest>Involuntary deathrest</LetterLabelInvoluntaryDeathrest>
-  <LetterLabelRegenerationComa>Regeneration coma</LetterLabelRegenerationComa>
-  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
-  <LetterTextDeathrest>Instead, {PAWN_pronoun} has fallen into a deathrest.</LetterTextDeathrest>
-  <LetterTextRegenerationComa>Instead, {PAWN_pronoun} has fallen into a regeneration coma.</LetterTextRegenerationComa>
-  <DeathrestLostSkill>Due to the neural shock of traumatic deathrest, {PAWN_nameDef} has lost {XPLOSS} XP in {PAWN_possessive} {SKILL} skill.</DeathrestLostSkill>
-  <DeathrestLethalDamage>Lethal damage taken.</DeathrestLethalDamage>
+  <LetterLabelBestowingCeremonyExpired>수여식 만료됨</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite}(이)가 수여식에 나타나지 않았습니다. 수여식이 취소되었습니다.</LetterTextBestowingCeremonyExpired>
 
-  <LetterLabelSanguophageWaitingToReimplant>Xenogerm implantation</LetterLabelSanguophageWaitingToReimplant>
-  <LetterTextSanguophageWaitingToReimplant>As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave.</LetterTextSanguophageWaitingToReimplant>
-
-  <LetterLabelGenesImplanted>Genes reimplanted</LetterLabelGenesImplanted>
-  <LetterTextGenesImplanted>{CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die.</LetterTextGenesImplanted>
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}의 작위 변경됨</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}(은)는 예정되어 있던 수여식이 진행되기 전에 더 높은 작위를 얻었습니다. 이에 따라 새로운 작위를 위한 수여식이 다시 준비됩니다.\n\n받게 될 예정이었던 정신력 증폭기 또한 새로운 수여식에서 함께 지급됩니다.</LetterTextBestowingCeremonyTitleUpdated>
   
-  <RefugeePodCrashBaby>A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}.</RefugeePodCrashBaby>
-  <RefugeePodCrashBabyHasParent>The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well.</RefugeePodCrashBabyHasParent>
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort}(은)는 {3}명의 관전자를 모은 것에 대한 존경의 의미로 {FACTION_name}에서 {1}의 신임장을 추가로 받았습니다.</LetterPartBestowingExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort}(은)는 관전자가 많지 않아서 신임장을 추가로 받지 못했습니다.</LetterPartNoExtraHonor>
+  <LetterPartMoodBonus>수여식을 구경한 모든 이들이 기분 보너스를 받았습니다.</LetterPartMoodBonus>
 
-  <LetterPsychicBondCreated>Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness.</LetterPsychicBondCreated>
+  <LetterTextHonorAward_BanditCamp>도적 캠프를 물리친 {0} 공로를 누구에게 수여하겠습니까?</LetterTextHonorAward_BanditCamp>
 
-  <LetterPsychicBondCreatedLovinLabel>Psychic bond</LetterPsychicBondCreatedLovinLabel>
-  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness.</LetterPsychicBondCreatedLovinText>
+  <!-- Shuttle crash -->
+  <LetterLabelShuttleCrashed>왕복선 추락함</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>왕복선이 근처에 추락했습니다.</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <LetterLabelWandererJoinsAbasia>{0_nameDef}의 수송 포드 추락</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>{0_nameDef}(이)라는 {0_title}의 수송 포드가 근처에 추락했습니다.\n\n{0_nameDef}(은)는 {1_label}(을)를 앓고 있으며 걸을 수 없습니다.\n\n{0_pronoun}는 많은 시간이 흐르면 자연적으로 치유될 것입니다. 운이 좋으면 빠르게 회복할 수도 있습니다. 또한 많은 양의 번화계 약품을 사용해서 {1_label}(을)를 치료하는 방법도 있습니다.\n\n{0_pronoun}는 정착지에 이바지하고자 하지만, 자발적으로 떠나지는 않을 것입니다. 만약 {0_nameDef}(을)를 원하지 않는다면 {0_objective} 추방하거나, 노예로 팔거나, 방치해서 죽일 수도 있지만 정착민들이 불편해할 것입니다.</LetterTextWandererJoinsAbasia>
 
 </LanguageData>
