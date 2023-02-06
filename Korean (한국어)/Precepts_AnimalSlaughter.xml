@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalSlaughter_Disapproved.label>약간 혐오함</AnimalSlaughter_Disapproved.label>
-  <AnimalSlaughter_Disapproved.description>동물을 도축하는 건 역겨운 일이다.</AnimalSlaughter_Disapproved.description>
-  <AnimalSlaughter_Disapproved.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Disapproved.comps.1.description>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>slaughtered animal</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>I had to slaughter and animal. It was an ugly thing to do.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Horrible.label>강력하게 혐오함</AnimalSlaughter_Horrible.label>
-  <AnimalSlaughter_Horrible.description>동물을 도축하는 건 끔찍한 일이다.</AnimalSlaughter_Horrible.description>
-  <AnimalSlaughter_Horrible.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Horrible.comps.1.description>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>slaughtered animal</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>I had to slaughter an animal! It was horrible to snuff out a mind like that.</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Prohibited.label>금지된 것</AnimalSlaughter_Prohibited.label>
-  <AnimalSlaughter_Prohibited.description>동물을 도축하는 건 금지된 일이다.</AnimalSlaughter_Prohibited.description>
-  <AnimalSlaughter_Prohibited.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Prohibited.comps.1.description>
-  <AnimalSlaughter_Prohibited.comps.2.description>동물 도축</AnimalSlaughter_Prohibited.comps.2.description>
+  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>slaughtered animal</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>animal slaughtered</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>Someone slaughtered an animal. It's a sad thing.</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>slaughtered animal</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>animal slaughtered</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>Someone slaughtered an animal! What a horrible thing, to snuff out a mind like that.</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>slaughtered animal</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>animal slaughtered</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>Someone slaughtered an animal! A tragic loss of a unique life.</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
 </LanguageData>
