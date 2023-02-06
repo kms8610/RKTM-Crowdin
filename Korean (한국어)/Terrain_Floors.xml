@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Carpet.label>carpet ({0})</Carpet.label>
-  <Carpet.description>Soft carpet made from fibers dyed a single color. It's welcoming, cozy, and boosts the beauty of the room it's in. It's also quite flammable, and cleaning it is a laborious process.</Carpet.description>
+  <Floor_MindbendCarpet.label>마인드벤드 카펫</Floor_MindbendCarpet.label>
+  
+  <Floor_Morbid_Carpet.label>섬뜩한 카펫</Floor_Morbid_Carpet.label>
+  
+  <Floor_Morbid_Stone.label>섬뜩한 타일</Floor_Morbid_Stone.label>
+  
+  <Floor_Spikecore_Tile.label>스파이크 코어 타일</Floor_Spikecore_Tile.label>
+  
+  <Floor_Totemic_Tile.label>토템 타일</Floor_Totemic_Tile.label>
+  
+  <Floor_Transhumanist_Carpet.label>육각 카펫</Floor_Transhumanist_Carpet.label>
 </LanguageData>
