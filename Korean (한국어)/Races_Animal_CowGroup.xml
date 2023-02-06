@@ -1,82 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Bison.label>들소</Bison.label>
-  <Bison.description>주로 사바나 황무지에서 큰 식물들을 먹고 사는 포유류입니다. 들소는 길들여지면 꽤 유순하지만, 화났을 때는 매우 빠르고 위험합니다.</Bison.description>
-  <Bison.tools.head.label>머리</Bison.tools.head.label>
-  <Bison.tools.left_hoof.label>왼쪽 발굽</Bison.tools.left_hoof.label>
-  <Bison.tools.right_hoof.label>오른쪽 발굽</Bison.tools.right_hoof.label>
+  <Bison.lifeStages.bison_calf.label>들송아지</Bison.lifeStages.bison_calf.label>
+  <Bison.lifeStages.bison_calf.labelPlural>들송아지들</Bison.lifeStages.bison_calf.labelPlural>
   
   <Boomalope.label>폭탄사슴</Boomalope.label>
-  <Boomalope.description>화학물질 생산을 위해 유전적으로 조작 된 이 폭탄사슴은 등에 휘발성 화학 물질 덩어리를 키우고 있습니다. 크기에 비해 연약하지만, 죽을 때 발생하는 거대한 폭발 때문에 다른 동물들의 공격을 받지 않습니다. 길들여지면 화학 연료를 생산합니다. - 매우 주의해야 함.</Boomalope.description>
-  <Boomalope.tools.head.label>머리</Boomalope.tools.head.label>
-  <Boomalope.tools.left_hoof.label>왼쪽 발굽</Boomalope.tools.left_hoof.label>
-  <Boomalope.tools.right_hoof.label>오른쪽 발굽</Boomalope.tools.right_hoof.label>
+  <Boomalope.lifeStages.boomalope_calf.label>새끼 폭탄사슴</Boomalope.lifeStages.boomalope_calf.label>
+  <Boomalope.lifeStages.boomalope_calf.labelPlural>새끼 폭탄사슴</Boomalope.lifeStages.boomalope_calf.labelPlural>
   
   <Caribou.label>순록</Caribou.label>
-  <Caribou.description>사슴과의 큰 일원인 이 동물은 추운 기후에 잘 적응했습니다. 길들여진 순록은 우유를 생산하지만, 짐을 나르는 것은 할 수 없습니다.</Caribou.description>
-  <Caribou.tools.left_hoof.label>왼쪽 발굽</Caribou.tools.left_hoof.label>
-  <Caribou.tools.right_hoof.label>오른쪽 발굽</Caribou.tools.right_hoof.label>
-  <Caribou.tools.head.label>머리</Caribou.tools.head.label>
+  <Caribou.labelPlural>순록</Caribou.labelPlural>
+  <Caribou.lifeStages.caribou_calf.label>새끼 순록</Caribou.lifeStages.caribou_calf.label>
+  <Caribou.lifeStages.caribou_calf.labelPlural>새끼 순록</Caribou.lifeStages.caribou_calf.labelPlural>
   
   <Cow.label>암소</Cow.label>
-  <Cow.description>많은 농가에서 기르는 발굽 동물인, 소들은 수천 년간 사육되어 많은 양의 우유, 고기, 가죽을 생산해 왔습니다. 매우 온순한 동물이라 아무리 해를 입혀도 복수하지 않습니다. 그들 대부분은 농장 생활에 너무 적응해 야생에서 살아남을 수 없습니다.</Cow.description>
-  <Cow.race.meatLabel>쇠고기</Cow.race.meatLabel>
-  <Cow.tools.head.label>머리</Cow.tools.head.label>
-  <Cow.tools.left_hoof.label>왼쪽 발굽</Cow.tools.left_hoof.label>
-  <Cow.tools.right_hoof.label>오른쪽 발굽</Cow.tools.right_hoof.label>
+  <Cow.labelMale>수소</Cow.labelMale>
+  <Cow.lifeStages.calf.label>송아지</Cow.lifeStages.calf.label>
+  <Cow.lifeStages.calf.labelPlural>송아지</Cow.lifeStages.calf.labelPlural>
   
   <Donkey.label>당나귀</Donkey.label>
-  <Donkey.description>고대로부터 길들여진 작은 발굽 동물인 당나귀는 사막을 가로지르는 긴 여행에서 훌륭한 동반자입니다.</Donkey.description>
-  <Donkey.tools.head.label>머리</Donkey.tools.head.label>
-  <Donkey.tools.left_hoof.label>왼쪽 발굽</Donkey.tools.left_hoof.label>
-  <Donkey.tools.right_hoof.label>오른쪽 발굽</Donkey.tools.right_hoof.label>
+  <Donkey.lifeStages.donkey_foal.label>새끼 당나귀</Donkey.lifeStages.donkey_foal.label>
   
   <Dromedary.label>낙타</Dromedary.label>
-  <Dromedary.description>A large land mammal adapted to arid environments. Domesticated since ancient times, its leather is exceptionally good at insulating against the desert heat, and its milk is quite nourishing. It can be used as a pack animal and mount, but its bouncing gait makes it slower to ride than a horse.\n\nBy storing water in its large humps and reclaiming moisture from its breath as it exhales, it can go weeks without drinking.\n\nWhen in a caravan, people can ride dromedaries to increase the caravan's speed.</Dromedary.description>
-  <Dromedary.tools.left_hoof.label>왼쪽 발굽</Dromedary.tools.left_hoof.label>
-  <Dromedary.tools.right_hoof.label>오른쪽 발굽</Dromedary.tools.right_hoof.label>
-  <Dromedary.tools.head.label>머리</Dromedary.tools.head.label>
+  <Dromedary.labelPlural>낙타</Dromedary.labelPlural>
+  <Dromedary.lifeStages.dromedary_calf.label>낙타 새끼</Dromedary.lifeStages.dromedary_calf.label>
+  <Dromedary.lifeStages.dromedary_calf.labelPlural>낙타 새끼 때</Dromedary.lifeStages.dromedary_calf.labelPlural>
   
   <Elephant.label>코끼리</Elephant.label>
-  <Elephant.description>가장 큰 육지 동물. 코끼리는 물체를 다루는 데 사용하는 긴 코를 가지고 있고, 공격자를 방어하는 데 사용하는 날카로운 어금니를 가지고 있습니다. 귀중한 상아는 코끼리를 도축해서 얻을 수 있습니다.\n\n복잡한 사회적 관계를 가진 지능적인 생물체, 코끼리는 가축으로써 복잡한 작업을 수행하도록 훈련될 수 있습니다. 그들은 오래 살며, 수십 년 전의 사건과 관계를 기억하는 것으로 알려져 있습니다.</Elephant.description>
-  <Elephant.tools.tusk.label>엄니</Elephant.tools.tusk.label>
-  <Elephant.tools.left_foot.label>왼발</Elephant.tools.left_foot.label>
-  <Elephant.tools.right_foot.label>오른발</Elephant.tools.right_foot.label>
-  <Elephant.tools.head.label>머리</Elephant.tools.head.label>
+  <Elephant.lifeStages.elephant_calf.label>새끼 코끼리</Elephant.lifeStages.elephant_calf.label>
   
   <Elk.label>엘크</Elk.label>
-  <Elk.description>사슴과의 큰 일원인 이 동물은 추운 기후에 잘 적응했습니다. 길들여진 말코손바닥사슴은 우유를 생산하지만, 짐을 나르는 것은 할 수 없습니다.</Elk.description>
-  <Elk.tools.left_hoof.label>왼쪽 발굽</Elk.tools.left_hoof.label>
-  <Elk.tools.right_hoof.label>오른쪽 발굽</Elk.tools.right_hoof.label>
-  <Elk.tools.head.label>머리</Elk.tools.head.label>
+  <Elk.labelPlural>엘크</Elk.labelPlural>
+  <Elk.lifeStages.elk_calf.label>새끼 엘크</Elk.lifeStages.elk_calf.label>
+  <Elk.lifeStages.elk_calf.labelPlural>새끼 엘크</Elk.lifeStages.elk_calf.labelPlural>
   
   <Goat.label>goat</Goat.label>
-  <Goat.description>태생적으로 세상에 대해 호기심이 많은 염소들은 인간에게 가장 친근하게 길들여진 동물들 중 하나입니다.</Goat.description>
-  <Goat.tools.head.label>머리</Goat.tools.head.label>
+  <Goat.labelFemale>염소</Goat.labelFemale>
+  <Goat.lifeStages.baby_goat.label>새끼 염소</Goat.lifeStages.baby_goat.label>
   
   <Horse.label>말</Horse.label>
-  <Horse.description>짧은 외투, 긴 갈기, 긴 꼬리를 가진 큰 발굽형 포유류이며, 옛날부터 길들여져 왔습니다.</Horse.description>
-  <Horse.race.meatLabel>말고기</Horse.race.meatLabel>
-  <Horse.tools.head.label>머리</Horse.tools.head.label>
-  <Horse.tools.left_hoof.label>왼쪽 발굽</Horse.tools.left_hoof.label>
-  <Horse.tools.right_hoof.label>오른쪽 발굽</Horse.tools.right_hoof.label>
+  <Horse.labelFemale>말</Horse.labelFemale>
+  <Horse.labelMale>stallion</Horse.labelMale>
+  <Horse.lifeStages.foal.label>새끼</Horse.lifeStages.foal.label>
   
   <Muffalo.label>머팔로</Muffalo.label>
-  <Muffalo.description>무리 생활을 하는 거대한 초식 동물로, 버팔로의 후손이 특이한 환경에 잘 적응한 결과입니다. 버팔로는 사납지만 길들인 머팔로는 꽤 유순하여 짐꾼으로 사용되곤 했습니다.\n\n아무도 머팔로가 왜 파란색인지는 아는 사람이 없습니다. 초기에 유전자 조작의 시험으로 인해 변경됐을지도 모릅니다.</Muffalo.description>
-  <Muffalo.tools.head.label>머리</Muffalo.tools.head.label>
-  <Muffalo.tools.left_hoof.label>왼쪽 발굽</Muffalo.tools.left_hoof.label>
-  <Muffalo.tools.right_hoof.label>오른쪽 발굽</Muffalo.tools.right_hoof.label>
+  <Muffalo.lifeStages.muffalo_calf.label>새끼 머팔로</Muffalo.lifeStages.muffalo_calf.label>
+  <Muffalo.lifeStages.muffalo_calf.labelPlural>새끼 머팔로들</Muffalo.lifeStages.muffalo_calf.labelPlural>
   
   <Rhinoceros.label>코뿔소</Rhinoceros.label>
-  <Rhinoceros.description>초식동물임에도 불구하고, 이 큰 포유류는 화를 내기가 매우 쉽습니다. 일단 화가 나면, 거대한 힘과 날카로운 뿔로 적을 분쇄해 버립니다. 한쪽 다리의 근육이 사람 전체의 근육량보다 많을 정도입니다.</Rhinoceros.description>
-  <Rhinoceros.tools.horn-0.label>뿔</Rhinoceros.tools.horn-0.label>
-  <Rhinoceros.tools.horn-1.label>뿔</Rhinoceros.tools.horn-1.label>
-  <Rhinoceros.tools.head.label>머리</Rhinoceros.tools.head.label>
+  <Rhinoceros.labelPlural>코뿔소</Rhinoceros.labelPlural>
   
   <Yak.label>야크</Yak.label>
-  <Yak.description>야크는 큰 체격, 짧지만 두꺼운 다리, 그리고 눈 속에서 수월하게 걸을 수 있도록 동그란 굽을 가지고 있는 튼튼한 소입니다.</Yak.description>
-  <Yak.race.meatLabel>야크고기</Yak.race.meatLabel>
-  <Yak.tools.head.label>머리</Yak.tools.head.label>
-  <Yak.tools.left_hoof.label>왼쪽 발굽</Yak.tools.left_hoof.label>
-  <Yak.tools.right_hoof.label>오른쪽 발굽</Yak.tools.right_hoof.label>
+  <Yak.labelMale>야크</Yak.labelMale>
+  <Yak.lifeStages.yak_calf.label>새끼 야크</Yak.lifeStages.yak_calf.label>
+  <Yak.lifeStages.yak_calf.labelPlural>새끼 야크들</Yak.lifeStages.yak_calf.labelPlural>
 </LanguageData>
