@@ -1,93 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MessageMustChooseIdeo>crwdns444080:0crwdne444080:0</MessageMustChooseIdeo>
-  <MessageIdeoNameCantBeEmpty>crwdns444082:0crwdne444082:0</MessageIdeoNameCantBeEmpty>
-  <MessageIdeoIncompatiblePrecepts>crwdns444084:0{PRECEPT1}crwdnd444084:0{PRECEPT2}crwdne444084:0</MessageIdeoIncompatiblePrecepts>
-  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>crwdns444086:0{DESIREDAPPAREL}crwdnd444086:0{ROLE}crwdne444086:0</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
-  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>crwdns444088:0{DESIREDAPPAREL}crwdnd444088:0{ROLE}crwdnd444088:0{ROLEAPPAREL}crwdnd444088:0{ROLE}crwdne444088:0</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
-  <MessageRitualMissingTarget>crwdns444090:0{PRECEPT}crwdne444090:0</MessageRitualMissingTarget>
-  <MessageBuildingMissingRitual>crwdns444092:0{PRECEPT}crwdne444092:0</MessageBuildingMissingRitual>
-  <MessagePawnUnwillingToDoDueToIdeo>crwdns444094:0{0_labelShort}crwdnd444094:0{0_possessive}crwdne444094:0</MessagePawnUnwillingToDoDueToIdeo>
-  <MessageFailedConvertIdeoAttempt>crwdns444096:0{INITIATOR_nameDef}crwdnd444096:0{RECIPIENT_nameDef}crwdnd444096:0{INITIATOR_possessive}crwdnd444096:0{RECIPIENT_nameDef}crwdnd444096:0{CERTAINTYBEFORE}crwdnd444096:0{CERTAINTYAFTER}crwdnd444096:0{RECIPIENT_pronoun}crwdne444096:0</MessageFailedConvertIdeoAttempt>
-  <MessageFailedConvertIdeoAttemptSocialFight>crwdns444098:0{PAWN1_nameDef}crwdnd444098:0{PAWN2_nameDef}crwdnd444098:0{PAWN1_possessive}crwdne444098:0</MessageFailedConvertIdeoAttemptSocialFight>
-  <MessageNotEnoughMemes>crwdns444100:0{0}crwdne444100:0</MessageNotEnoughMemes>
-  <MessageTooManyMemes>crwdns444102:0{0}crwdne444102:0</MessageTooManyMemes>
-  <MessageNotEnoughStructureMemes>crwdns444104:0crwdne444104:0</MessageNotEnoughStructureMemes>
-  <MessageIncompatibleMemes>crwdns444106:0{0_label}crwdnd444106:0{1_label}crwdne444106:0</MessageIncompatibleMemes>
-  <MessageNoRequiredRolePawnToBeginRitual>crwdns444108:0{0}crwdnd444108:0{1}crwdne444108:0</MessageNoRequiredRolePawnToBeginRitual>
-  <MessageNotEnoughSpectators>crwdns444110:0{0}crwdnd444110:0{1}crwdne444110:0</MessageNotEnoughSpectators>
-  <MessageRoleChangeChooseDifferentRole>crwdns444112:0crwdne444112:0</MessageRoleChangeChooseDifferentRole>
-  <MessageNeedAssignedRoleToBeginRitual>crwdns444114:0{1}crwdnd444114:0{0}crwdne444114:0</MessageNeedAssignedRoleToBeginRitual>
-  <MessageNeedAtLeastOneParticipantOfIdeo>crwdns444116:0{0}crwdne444116:0</MessageNeedAtLeastOneParticipantOfIdeo>
-  
-  <MessageRoleAssigned>crwdns444118:0{0_labelShort}crwdnd444118:0{1}crwdne444118:0</MessageRoleAssigned>
-  <MessageRoleUnassignedPrisoner>crwdns444120:0{0_labelShort}crwdnd444120:0{0_pronoun}crwdnd444120:0{1}crwdne444120:0</MessageRoleUnassignedPrisoner>
-  <MessageWarningPlayerDesignatedTreeChopped>crwdns444122:0{0}crwdne444122:0</MessageWarningPlayerDesignatedTreeChopped>
-  <MessageWarningPlayerDesignatedMining>crwdns444124:0{0}crwdne444124:0</MessageWarningPlayerDesignatedMining>
-  <MessageConnectedPawnDied>crwdns444126:0{TREE_label}crwdnd444126:0{PAWN_nameDef}crwdnd444126:0{DURATION}crwdne444126:0</MessageConnectedPawnDied>
+  <!-- Shuttle landing zones -->
+  <ShuttleBlocked>crwdns450074:0{0}crwdne450074:0</ShuttleBlocked>
+  <MessageShuttleArrived>crwdns450076:0crwdne450076:0</MessageShuttleArrived>
+  <MessageShuttleArrivedContentsLost>crwdns450078:0crwdne450078:0</MessageShuttleArrivedContentsLost>
+  <CannotCallShuttle>crwdns450080:0crwdne450080:0</CannotCallShuttle>
 
-  <!-- Slave interactions -->
-  <MessageSlaveEmancipated>crwdns444128:0{0_nameDef}crwdnd444128:0{1_nameDef}crwdne444128:0</MessageSlaveEmancipated>
-  <MessagePrisonerEnslaved>crwdns444130:0{0_nameDef}crwdnd444130:0{1_nameDef}crwdne444130:0</MessagePrisonerEnslaved>
-  <MessagePrisonerWillBroken>crwdns444132:0{1_nameDef}crwdnd444132:0{0_nameDef}crwdne444132:0</MessagePrisonerWillBroken>
-  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>crwdns444134:0crwdne444134:0</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <ShuttleCannotLand_Fogged>crwdns450082:0crwdne450082:0</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Unwalkable>crwdns450084:0crwdne450084:0</ShuttleCannotLand_Unwalkable>
 
-  <!-- Prisoner interactions -->
-  <MessageNoWardenCapableOfEnslavement>crwdns444136:0crwdne444136:0</MessageNoWardenCapableOfEnslavement>
-  <MessageNoWardenOfIdeo>crwdns444138:0{MEMBERNAME}crwdnd444138:0{PRISONER_nameDef}crwdnd444138:0{PRISONER_possessive}crwdne444138:0</MessageNoWardenOfIdeo>
+  <MessageBestowerWaiting>crwdns450086:0{BESTOWER_definite}crwdne450086:0</MessageBestowerWaiting>
+  <MessageBestowerUnreachable>crwdns450088:0crwdne450088:0</MessageBestowerUnreachable>
+  <MessageBestowingTargetIsBusy>crwdns450090:0{0}crwdne450090:0</MessageBestowingTargetIsBusy>
+  <MessageBestowingSpotUnreachable>crwdns450092:0crwdne450092:0</MessageBestowingSpotUnreachable>
+  <MessageBestowingDanger>crwdns450094:0crwdne450094:0</MessageBestowingDanger>
+  <MessageBestowingDangerTemperature>crwdns450096:0crwdne450096:0</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerGas>crwdns450098:0crwdne450098:0</MessageBestowingDangerGas><!-- text_todo -->
+  <MessageBestowingInterrupted>crwdns450100:0crwdne450100:0</MessageBestowingInterrupted>
 
-  <!-- Camps -->
-  <MessageCampDetected>crwdns444140:0{CAMP_label}crwdnd444140:0{FACTION_name}crwdne444140:0</MessageCampDetected>
+  <MessageBestowingCeremonyStarted>crwdns450102:0{PAWN_definite}crwdne450102:0</MessageBestowingCeremonyStarted>
+  <MessageMissionGetBackToShuttle>crwdns450104:0{FACTION_pawnsPlural}crwdne450104:0</MessageMissionGetBackToShuttle>
 
-  <!-- Charity -->
-  <MessageCharityEventRefused>crwdns444142:0crwdne444142:0</MessageCharityEventRefused>
-  <MessageCharityEventFulfilled>crwdns444144:0crwdne444144:0</MessageCharityEventFulfilled>
-  <MessageBeggarsLeavingWithNoItems>crwdns444146:0{0}crwdne444146:0</MessageBeggarsLeavingWithNoItems>
-  <MessageBeggarsLeavingWithItems>crwdns444148:0{0}crwdne444148:0</MessageBeggarsLeavingWithItems>
-  <MessageWandererLeftToDie>crwdns444150:0{0_nameDef}crwdne444150:0</MessageWandererLeftToDie>
-  <MessageWandererRecruited>crwdns444152:0{0_nameDef}crwdne444152:0</MessageWandererRecruited>
-  <MessageWandererLeftHealthy>crwdns444154:0{0_nameDef}crwdne444154:0</MessageWandererLeftHealthy>
-  <MessageCharityQuestEndedFailed>crwdns444156:0{0}crwdne444156:0</MessageCharityQuestEndedFailed>
-  <MessageCharityQuestEndedSuccess>crwdns444158:0{0}crwdne444158:0</MessageCharityQuestEndedSuccess>
+  <MessagePermitTransportDrop>crwdns450106:0{FACTION_name}crwdne450106:0</MessagePermitTransportDrop>
+  <MessagePermitTransportDropCaravan>crwdns450108:0{FACTION_name}crwdnd450108:0{PAWN_nameDef}crwdne450108:0</MessagePermitTransportDropCaravan>
 
-  <!-- Ideo UI -->
-  <CannotRemove>crwdns444160:0crwdne444160:0</CannotRemove>
-  <CannotRemoveMemeRequired>crwdns444162:0{MEME}crwdne444162:0</CannotRemoveMemeRequired>
-  <CannotRemoveMemeRequiredPlayer>crwdns444164:0{MEME}crwdne444164:0</CannotRemoveMemeRequiredPlayer>
-  <RequiredByFaction>crwdns444166:0{FACTION_name}crwdne444166:0</RequiredByFaction>
-  <OverlappingRoleApparel>crwdns444168:0crwdne444168:0</OverlappingRoleApparel>
-  
-  <SelfDestructCountdown>crwdns444170:0{0}crwdnd444170:0{1}crwdne444170:0</SelfDestructCountdown>
-  <PreceptNameTooLong>crwdns444172:0{0}crwdne444172:0</PreceptNameTooLong>
-
-  <!-- Ancient complex -->
-  <MessageAncientTerminalDiscovered>crwdns444174:0{0}crwdne444174:0</MessageAncientTerminalDiscovered>
-  <MessageAncientComplexBackToShuttle>crwdns444176:0{0}crwdne444176:0</MessageAncientComplexBackToShuttle>
-  <MessageAncientSignalActivated>crwdns444178:0crwdne444178:0</MessageAncientSignalActivated>
-  <MessageAncientSignalHostileDetected>crwdns444180:0{0}crwdnd444180:0{1}crwdne444180:0</MessageAncientSignalHostileDetected>
-
-  <!-- Ancient altar -->
-  <MessageAncientAltarThreatsWokenUp>crwdns444182:0crwdne444182:0</MessageAncientAltarThreatsWokenUp>
-  <MessageAncientAltarThreatsAlerted>crwdns444184:0crwdne444184:0</MessageAncientAltarThreatsAlerted>
-
-  <!-- Animals -->
-  <MessageAnimalIsVeneratedForAllColonists>crwdns444186:0{PAWNKINDLABELPLURAL}crwdnd444186:0{PAWNS}crwdne444186:0</MessageAnimalIsVeneratedForAllColonists>
-
-  <!-- Archonexus -->
-  <MessageNewColonyMax>crwdns444188:0{0}crwdnd444188:0{1}crwdne444188:0</MessageNewColonyMax>
-  <MessageNewColoyRequiresOneColonist>crwdns444190:0crwdne444190:0</MessageNewColoyRequiresOneColonist>
-
-  <!-- Fuel node -->
-  <MessageFuelNodeTriggered>crwdns444192:0{0}crwdne444192:0</MessageFuelNodeTriggered>
-
-  <!-- Ancient complex -->
-  <MessageSleepingThreatDelayActivated>crwdns444194:0{0_pawnsPlural}crwdnd444194:0{1}crwdne444194:0</MessageSleepingThreatDelayActivated>
-  <MessageInfestationDelayActivated>crwdns444196:0crwdne444196:0</MessageInfestationDelayActivated>
-  <MessageFuelNodeDelayActivated>crwdns444198:0{0}crwdne444198:0</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
-
-  <!-- Fluid ideo messages -->
-  <MessageDevelopmentPointsEarned>crwdns444200:0{0}crwdnd444200:0{1}crwdnd444200:0{2}crwdne444200:0</MessageDevelopmentPointsEarned>
-  <MessageFluidIdeoOneChangeAllowed>crwdns444202:0crwdne444202:0</MessageFluidIdeoOneChangeAllowed>
+  <MessageNoFactionForVerbMechCluster>crwdns450110:0crwdne450110:0</MessageNoFactionForVerbMechCluster>
 
 </LanguageData>
