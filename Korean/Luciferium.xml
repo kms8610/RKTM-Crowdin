@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Luciferium.label>루시페륨</Luciferium.label>
-  <Luciferium.description>모든 신체 기능을 극적으로 향상하는 번화계 기계입자 혼합물입니다. 복용 후 오래된 흉터나 뇌 손상조차 복구할 수 있지만 잘린 사지까지는 회복할 수 없습니다. 불행하게도 5~6일마다 적정량을 투여하지 않으면 기계입자가 불안정해지므로 복용자는 지속적인 광증을 겪고, 마지막엔 사망합니다.\n\n첫 섭취 이후 기계입자를 제거할 방법은 없습니다.\n\n도심계 행성에서는 루시페륨을 '악마의 거래'라고 부릅니다. 많은 사람들은 이 유혹적인 빨간 약을 더 얻기 위해서라면 친구들도 죽여야 했습니다.</Luciferium.description>
-  <Luciferium.ingestible.ingestCommandString>{0} 복용</Luciferium.ingestible.ingestCommandString>
-  <Luciferium.ingestible.ingestReportString>{0} 복용 중</Luciferium.ingestible.ingestReportString>
 </LanguageData>
