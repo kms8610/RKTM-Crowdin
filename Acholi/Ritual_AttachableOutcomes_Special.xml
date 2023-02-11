@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DiscoverAncientComplex.label>crwdns437724:0crwdne437724:0</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.effectDesc>crwdns437726:0crwdne437726:0</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.letterInfoText>crwdns437728:0crwdne437728:0</DiscoverAncientComplex.letterInfoText>
+  
+  <FarmAnimalsWanderIn.label>crwdns437730:0crwdne437730:0</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.effectDesc>crwdns437732:0crwdne437732:0</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.letterInfoText>crwdns437734:0crwdne437734:0</FarmAnimalsWanderIn.letterInfoText>
+  
+  <GauranlenTreePod.label>crwdns437736:0crwdne437736:0</GauranlenTreePod.label>
+  <GauranlenTreePod.effectDesc>crwdns437738:0crwdne437738:0</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.letterInfoText>crwdns437740:0crwdne437740:0</GauranlenTreePod.letterInfoText>
+  
+  <InsectJellyTunnels.label>crwdns437742:0crwdne437742:0</InsectJellyTunnels.label>
+  <InsectJellyTunnels.effectDesc>crwdns437744:0crwdne437744:0</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.letterInfoText>crwdns437746:0crwdne437746:0</InsectJellyTunnels.letterInfoText>
+  
+  <NearbyFactionGoodwill.label>crwdns437748:0crwdne437748:0</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.effectDesc>crwdns437750:0crwdne437750:0</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.letterInfoText>crwdns437752:0{AMOUNT}crwdnd437752:0{FACTION_name}crwdne437752:0</NearbyFactionGoodwill.letterInfoText>
+  
+  <RandomRecruit.label>crwdns437754:0crwdne437754:0</RandomRecruit.label>
+  <RandomRecruit.effectDesc>crwdns437756:0crwdne437756:0</RandomRecruit.effectDesc>
+  <RandomRecruit.letterInfoText>crwdns437758:0crwdne437758:0</RandomRecruit.letterInfoText>
+</LanguageData>
