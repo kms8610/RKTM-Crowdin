@@ -1,77 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NeedSlaveBeds>노예 침대 부족</NeedSlaveBeds>
-  <NeedSlaveBedsDesc>침대 수보다 더 많은 노예가 존재합니다.\n\n침대를 더 만들거나, 기존의 침대를 노예 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요.</NeedSlaveBedsDesc>
+  <!-- Room requirements -->
+  <NeedThroneAssigned>알현실 필요</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>정착민 중 한 명이 자신의 작위에 어울리는 알현실을 요구합니다.\n\n만족시키려면 작위에 걸맞는 적절한 넓이와 장식물, 옥좌가 제공되어야 합니다.</NeedThroneAssignedDesc>
 
-  <SlavesUnsuppressedLabel>복종하지 않는 노예</SlavesUnsuppressedLabel>
-  <SlavesUnsuppressedDesc>{0_nameDef}의 복종심이 너무 낮아 반란을 일으키기 직전입니다.\n\n간수 작업에 할당된 정착민이 있는지 확인하세요. 간수는 주기적으로 노예를 억압해서 반란을 방지합니다.</SlavesUnsuppressedDesc>
-  <SlaveUnattendedLabel>Slave unattended</SlaveUnattendedLabel>
-  <SlaveUnattendedMultipleLabel>Slaves unattended</SlaveUnattendedMultipleLabel>
-  <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
+  <UndignifiedBedroom>초라한 침실</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>정착민 중 한 명이 자신의 작위에 어울리는 침실을 요구합니다.</UndignifiedBedroomDesc>
 
-  <RitualOpportunity>{0} 시기</RitualOpportunity>
-  <RitualOpportunityFor>{1}(을)를 위한 {0} 기회</RitualOpportunityFor>
-  <RitualExpiresIn>{0} 후 {1}에 만료됩니다.</RitualExpiresIn>
-  <RitualSingleTargetDesc>의식을 시작하려면 {FOCUS}(을)를 선택하고 '{RITUAL_label} 시작' 명령을 클릭하세요.</RitualSingleTargetDesc>
-  <RitualMultiTargetDesc>의식을 시작하려면 다음 중 하나를 선택하고 '{RITUAL_label} 시작' 명령을 클릭하세요</RitualMultiTargetDesc>
-  <RitualTargetsExplanation>To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1}</RitualTargetsExplanation>
-  <RitualJumpToTargets>Click to jump to targets</RitualJumpToTargets>
-  <RitualUnfilledRoles>{0}(을)를 진행하려면 다음 지위가 필요함</RitualUnfilledRoles>
+  <NeedBedroomAssigned>격에 맞는 침실 필요</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>정착민 중 한 명이 자신의 작위에 어울리는 침실을 요구합니다.\n\n만족시키려면 작위에 걸맞는 적절한 넓이와 장식물, 침대가 제공되어야 합니다.</NeedBedroomAssignedDesc>
 
-  <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
-  <IdeoBuildingMissingDesc>{IDEO_name}(을)를 사용하려면 {2} 이상 동안 정착지에 {0}(이)가 있어야 합니다.\n\n{0}(은)는 {BASEBUILDING_label}의 변형입니다.{BUILDINGINFO}\n\n이 요구 사항은 다음과 같은 경우에만 활성화됩니다. {IDEO_name}(은)는 당신 세력의 주요 이념이거나 세력에 {MINBELIEVERS}명의 믿는 사람이 있는 경우에만 활성화됩니다.{4}\n\n요건이 충족되지 않으면 해당 인원은 불행해질 것입니다.\n{3}</IdeoBuildingMissingDesc>
-  <IdeoBuildingArchitectTabDesc>건설 메뉴의 '{TABNAME}' 항목을 열어 찾을 수 있습니다.</IdeoBuildingArchitectTabDesc>
-  <IdeoBuildingCanBeCraftedAt> 다음 위치에 생성할 수 있습니다.\n{0}.</IdeoBuildingCanBeCraftedAt>
-  <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
-  <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
-
-  <IdeoBuildingDisrespected>{0} disrespected</IdeoBuildingDisrespected>
-  <IdeoBuildingDisrespectedDesc>{0}(은)는 {1}(이)가 존중받는 공간이 되기를 바랍니다. 다음 요구사항을 만족시켜야 합니다.\n{2}\n\n{1}의 요구사항을 만족시키지 못하면 {0}(을)를 믿는 다음 정착민들의 기분이 나빠집니다.\n{3}</IdeoBuildingDisrespectedDesc>
+  <UndignifiedThroneroom>초라한 알현실</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>정착민 중 한 명이 자신의 작위에 어울리는 알현실을 요구합니다.</UndignifiedThroneroomDesc>
   
-  <QuestPartRaidsDelay>습격 도착까지 {0}</QuestPartRaidsDelay>
-  <QuestPartRaidsDelayDesc>{0} 후 적이 습격합니다.\n\n습격자들은 무인 우주선을 파괴하려 할 것입니다. 해킹으로 자료를 회수하는 동안 무인 우주선을 보호하세요.</QuestPartRaidsDelayDesc>
+  <RoyalNoAcceptableFood>격에 맞는 음식 없음</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>정착민 중 한 명이 자신의 작위에 어울리는 음식을 요구합니다.</RoyalNoAcceptableFoodDesc>
 
-  <IdeoRoleEmpty>{0} 지위가 비어있음</IdeoRoleEmpty>
-  <IdeoRolesEmpty>{0} 지위가 비어있음</IdeoRolesEmpty>
-  <IdeoRolesEmptyDesc>다음 지위가 공석입니다.\n{0}\n\n관계 탭에서 정착민에게 지위를 할당하거나 제단이나 행사 장소를 우클릭하여 취임식을 시작하세요.\n\n해당 지위가 계속 공석으로 남아있을 경우 다음 정착민이 실망합니다.</IdeoRolesEmptyDesc>
+  <RoomRequirementGracePeriodDesc>요구사항이 시작되기까지 {0}일 남음</RoomRequirementGracePeriodDesc>
 
-  <AncientAltarThreatsWaking>{0} 후 보안 시스템 활성화</AncientAltarThreatsWaking>
-  <AncientAltarThreatsWakingDesc>보안 시스템이 {0} 후 발동합니다. 유물을 위협하는 자가 누구든 공격할 것입니다.</AncientAltarThreatsWakingDesc>
+  <ThroneroomInvalidConfiguration>옥좌 사용 불가</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>다음 이유로 인해 옥좌를 사용할 수 없음:</ThroneroomInvalidConfigurationDesc>
+  
+  <MonumentMarkerMissingBlueprints>기념비 청사진 누락</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>기념비의 청사진을 온전히 배치할 수 없습니다.\n\n기념비 표지를 선택하고 '청사진 배치' 버튼를 클릭하거나 수동으로 청사진을 배치하십시오.</MonumentMarkerMissingBlueprintsDesc>
 
-  <AlertRitualComing>행사 시기가 다가옴</AlertRitualComing>
-  <AlertRitualComingDesc>아래 행사를 진행할 시기가 다가옴</AlertRitualComingDesc>
-  <AlertRitualComingExtra>이 기회는 {0}일 후 만료되며, 매년 같은 시기에 다시 발생합니다.</AlertRitualComingExtra>
-  <AlertRitualComingEntry>{1} ({2} 후)에 {0} 기회</AlertRitualComingEntry>
+  <ShipLandingBeaconUnusable>신호기 사용불가</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>착륙 신호기에 전력은 들어오지만 사용할 수 없습니다. 사용하기 위해서는 9x9 이상의 크기를 가진 사각형 모양의 각 모서리에 신호기를 설치해야 하며, 건물이나, 사람, 동물 같은 장애물이 없어야 합니다.</ShipLandingBeaconUnusableDesc>
 
-  <AlertAgeReversalDemandNear>노화 역전 요구</AlertAgeReversalDemandNear>
-  <AlertAgeReversalDemandDesc>노화 역전 시술을 원하는 정착민들이 있습니다. 들어주지 않으면 불만이 생길 것입니다.\n\n시술을 원하는 정착민의 목록은 다음과 같습니다.</AlertAgeReversalDemandDesc>
-  <AlertAgeReversalDemandDesc_Recruit>최근 {FACTION}에 합류한 {PAWN}(이)가 {DURATION} 내로 노화 역전 시술을 받고 싶어합니다.</AlertAgeReversalDemandDesc_Recruit>
-  <AlertAgeReversalDemandDesc_Next>{PAWN}(이)가 다음 시술을 {DURATION} 후 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Next>
-  <AlertAgeReversalDemandDesc_Initial>{PAWN}(이)가 첫 시술을 {DURATION} 후 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Initial>
-  <AlertAgeReversalDemandDesc_Overdue>{PAWN}의 노화 역전 시술이 {DURATION} 지연되고 있습니다.</AlertAgeReversalDemandDesc_Overdue>
+  <NeedMeditationSpotAlert>명상 장소 필요</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>다음 정착민은 초집중이 필요하거나 일정 중에 명상이 있지만 명상할 곳이 없습니다.\n\n{0}\n\n명상 장소를 배치하고 도달과 사용이 가능한지 확인하세요. 정착민들은 사용할 수 있는 최고의 집중물체 근처에서 명상하는 것을 선호합니다.</NeedMeditationSpotAlertDesc>
 
-  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <UnusableMeditationFocusAlert>부적절한 명상 장소</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>정착민이 자신의 집중 유형과 어울리지 않는 장소에서 명상하고 있습니다.\n\n{0}\n\n개인의 집중유형은 배경, 특성, 작위에 따라 다릅니다. 개인의 집중명상 유형을 보려면 해당 항목을 선택하고 'i' 단추를 클릭하여 세부사항을 확인하세요.</UnusableMeditationFocusAlertDesc>
 
-  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad caste not set</AlertGauranlenTreeWithoutDryadTypeLabel>
-  <AlertGauranlenTreeWithoutDryadTypeDesc>One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste.</AlertGauranlenTreeWithoutDryadTypeDesc>
-  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>교감자가 제초 작업에 할당되지 않음</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
-  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>다듬어야 할 요정나무가 존재하지만 그 나무의 교감자를 제초 작업에 할당하지 않았습니다.\n\n아래의 사람에게 제초 작업을 할당해야 합니다</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
-
-  <AlertFuelNodeIgniting>Fuel node explodes in {0}</AlertFuelNodeIgniting>
-  <AlertFuelNodeIgnitingDesc>A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires.</AlertFuelNodeIgnitingDesc>
-
-  <AlertInfestationArriving>Insects arriving in {0}</AlertInfestationArriving>
-  <AlertInfestationArrivingDesc>거대 곤충 무리가 당신의 활동을 감지하고 지하로부터 접근하고 있습니다. 곧 곤충군락 감염이 시작됩니다.</AlertInfestationArrivingDesc>
-
-  <AlertHostilesWakingUp>{0_pawnsPlural} waking in {1}</AlertHostilesWakingUp>
-  <AlertHostilesWakingUpDesc>One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you.</AlertHostilesWakingUpDesc>
-
-  <AlertCasketOpening>Cryptosleep caskets opening in {0}</AlertCasketOpening>
-  <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
-
-  <AlertSlaveRebellionLikely>Slave rebellion likely</AlertSlaveRebellionLikely>
-  <AlertSlaveRebellionLikelyRebelliousCount>There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion.</AlertSlaveRebellionLikelyRebelliousCount>
-  <AlertSlaveRebellionLikelyMostRebellious>약 {COMBINEDTIME}마다 노예 반란이 일어날 가능성이 있습니다. 노예 각각의 반란 확률은 독립적이지만 한 명이 반란을 일으키면 주변 노예가 주모자에게 합류할 수 있음을 주의하세요.\n\n가장 반항적인 노예는 {REBEL_labelShort}(으)로, 약 {INDIVIDUALTIME}마다 반란을 도모할 것으로 예상됩니다. 다음은 {REBEL_labelShort}의 반란 주기에 영향을 주는 요소입니다:</AlertSlaveRebellionLikelyMostRebellious>
+  <PermitChoiceReadyAlert>지원 요청 선택 가능</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}(은)는 새로운 지원 요청 권한을 선택할 수 있습니다.</PermitChoiceReadyAlertDesc>
+  
+  <BestowerWaitingAlert>수여자 대기 중</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>수여자가 수여식을 기다리고 있습니다.</BestowerWaitingAlertDesc>
+  
+  <AnimaLinkingReadyLabel>영혼 연결 의식 준비</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyDesc>영혼나무가 정착민의 정신력 증폭 단계를 올리기에 충분한 만큼의 영혼잔디를 가지고 있습니다.</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDescExtra>의식을 시작하려면, 정착민을 선택하고, '영혼 나무 연결 시작' 단추를 클릭한 후 사용할 영혼 나무를 선택합니다.</AnimaLinkingReadyDescExtra>
   
 </LanguageData>
