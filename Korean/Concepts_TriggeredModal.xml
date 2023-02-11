@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArrestingCreatesEnemies.label>체포와 세력 우호도</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>경고: 체포하려는 대상이 반항할 수 있습니다.\n\n다른 세력의 구성원을 체포하면, 그 세력은 당신을 적대하게 됩니다.\n\n이 체포 시도는 체포자의 사교 기술에 따라 {0} 확률로 성공합니다.</ArrestingCreatesEnemies.helpText>
+  
+  <MaxNumberOfPlayerSettlements.label>플레이어 정착지 수의 한도</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>경고: 림월드는 한 번에 하나의 정착지만 사용한 플레이를 기준으로 디자인됐습니다. 다수의 플레이어 정착지는 실험적 기능으로서 제공됩니다.\n\n여러 정착지로 플레이하면 게임플레이 밸런스 붕괴와 집중력 분산, 게임 성능 저하가 발생할 수 있습니다.\n\n적어도 처음 몇 번의 플레이에서는 디자인 의도대로 정착지를 하나만 두고 플레이하시는 걸 추천합니다.</MaxNumberOfPlayerSettlements.helpText>
+  
+  <SteamDeckControlsGame.label>Steam Deck 컨트롤</SteamDeckControlsGame.label>
+  <SteamDeckControlsGame.helpText>X 키로 구상 메뉴를 열고, {Key:TogglePause} 키로 게임을 일시정지하세요. 양쪽 트리거로 주/보조 클릭을 할 수 있습니다. {Key:MapZoom_In}(와)과 {Key:MapZoom_Out}(으)로 화면을 확대/축소하고 목록을 스크롤하세요. 후면의 L5 버튼을 누른 채로 터치 스크린을 사용해서 화면을 이동하거나 보조 클릭을 할 수 있습니다.</SteamDeckControlsGame.helpText>
+  
+  <SteamDeckControlsMainMenu.label>Steam Deck 컨트롤</SteamDeckControlsMainMenu.label>
+  <SteamDeckControlsMainMenu.helpText>십자키로 커서를 움직이고 오른쪽 트리거로 클릭할 수 있습니다. {Key:Accept}(으)로 수락, {Key:Cancel}(으)로 돌아가세요.</SteamDeckControlsMainMenu.helpText>
+  
+  <SwitchFlickingDesignation.label>전원 설정 예약</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>전원 설정 예약 버튼을 눌러도 정착민이 실제로 와서 꺼야 합니다.\n\n전원 작업이 할당된 정착민이 직접 조작하기 전까진 아무 일도 일어나지 않습니다.</SwitchFlickingDesignation.helpText>
+  
+  <TradeGoodsMustBeNearBeacon.label>물품 거래와 무역 송신기</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>은 광석이나 물품을 궤도 무역상에게 보내려면 우선 무역 송신기를 지어야 합니다. 그 뒤에, 송신기 주변에 저장구역을 설정하고 보낼 물품을 놓으세요.</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <TradingRequiresPermit.label>거래 허가 조건</TradingRequiresPermit.label>
+  <TradingRequiresPermit.helpText>이곳에서 거래하기 위해서는 {0}(이)가 필요합니다.\n\n 보내는 모든 캐러밴에 {0}(이)가 있는지 확인하십시오.</TradingRequiresPermit.helpText>
+</LanguageData>
