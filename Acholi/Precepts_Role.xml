@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoRole.label>crwdns432328:0crwdne432328:0</IdeoRole.label>
+  <IdeoRole_AnimalsSpecialist.label>crwdns436872:0crwdne436872:0</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_AnimalsSpecialist.description>crwdns436874:0crwdne436874:0</IdeoRole_AnimalsSpecialist.description>
+  
+  <IdeoRole_Leader.label>crwdns436876:0crwdne436876:0</IdeoRole_Leader.label>
+  <IdeoRole_Leader.description>crwdns436878:0crwdne436878:0</IdeoRole_Leader.description>
+  
+  <IdeoRole_MedicalSpecialist.label>crwdns436880:0crwdne436880:0</IdeoRole_MedicalSpecialist.label>
+  <IdeoRole_MedicalSpecialist.description>crwdns436882:0crwdne436882:0</IdeoRole_MedicalSpecialist.description>
+  
+  <IdeoRole_MeleeSpecialist.label>crwdns436884:0crwdne436884:0</IdeoRole_MeleeSpecialist.label>
+  <IdeoRole_MeleeSpecialist.description>crwdns436886:0crwdne436886:0</IdeoRole_MeleeSpecialist.description>
+  
+  <IdeoRole_MiningSpecialist.label>crwdns436888:0crwdne436888:0</IdeoRole_MiningSpecialist.label>
+  <IdeoRole_MiningSpecialist.description>crwdns436890:0crwdne436890:0</IdeoRole_MiningSpecialist.description>
+  
+  <IdeoRole_Moralist.label>crwdns436892:0crwdne436892:0</IdeoRole_Moralist.label>
+  <IdeoRole_Moralist.description>crwdns436894:0crwdne436894:0</IdeoRole_Moralist.description>
+  
+  <IdeoRole_PlantSpecialist.label>crwdns436896:0crwdne436896:0</IdeoRole_PlantSpecialist.label>
+  <IdeoRole_PlantSpecialist.description>crwdns436898:0crwdne436898:0</IdeoRole_PlantSpecialist.description>
+  
+  <IdeoRole_ProductionSpecialist.label>crwdns436900:0crwdne436900:0</IdeoRole_ProductionSpecialist.label>
+  <IdeoRole_ProductionSpecialist.description>crwdns436902:0crwdne436902:0</IdeoRole_ProductionSpecialist.description>
+  
+  <IdeoRole_ResearchSpecialist.label>crwdns436904:0crwdne436904:0</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ResearchSpecialist.description>crwdns436906:0crwdne436906:0</IdeoRole_ResearchSpecialist.description>
+  
+  <IdeoRole_ShootingSpecialist.label>crwdns436908:0crwdne436908:0</IdeoRole_ShootingSpecialist.label>
+  <IdeoRole_ShootingSpecialist.description>crwdns436910:0crwdne436910:0</IdeoRole_ShootingSpecialist.description>
 </LanguageData>
