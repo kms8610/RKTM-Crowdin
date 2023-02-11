@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DarkVision.label>dark vision</DarkVision.label>
-  <DarkVision.description>Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark.</DarkVision.description>
-  <DarkVision.symbolPack.prefixSymbols.0.symbol>dark</DarkVision.symbolPack.prefixSymbols.0.symbol>
-  <DarkVision.symbolPack.prefixSymbols.1.symbol>night</DarkVision.symbolPack.prefixSymbols.1.symbol>
-  <DarkVision.symbolPack.prefixSymbols.2.symbol>dim</DarkVision.symbolPack.prefixSymbols.2.symbol>
-  <DarkVision.symbolPack.prefixSymbols.3.symbol>gloom</DarkVision.symbolPack.prefixSymbols.3.symbol>
-  <DarkVision.symbolPack.prefixSymbols.4.symbol>murk</DarkVision.symbolPack.prefixSymbols.4.symbol>
-  <DarkVision.symbolPack.prefixSymbols.5.symbol>deep</DarkVision.symbolPack.prefixSymbols.5.symbol>
-  <DarkVision.symbolPack.prefixSymbols.6.symbol>umbra</DarkVision.symbolPack.prefixSymbols.6.symbol>
-  <DarkVision.symbolPack.suffixSymbols.0.symbol>shadow</DarkVision.symbolPack.suffixSymbols.0.symbol>
+  <DarkVision.label>어둠 투시</DarkVision.label>
+  <DarkVision.description>이 유전자는 적은 빛에서도 잘 보게 해주며 어둠과 관련된 기분 불이익을 받지 않게 합니다. 망막 뒤에 반사 층이 생겨 어둠 속에서도 잘 볼 수 있게 해줍니다.</DarkVision.description>
+  <DarkVision.symbolPack.prefixSymbols.0.symbol>어둠</DarkVision.symbolPack.prefixSymbols.0.symbol>
+  <DarkVision.symbolPack.prefixSymbols.1.symbol>밤</DarkVision.symbolPack.prefixSymbols.1.symbol>
+  <DarkVision.symbolPack.prefixSymbols.2.symbol>어둑</DarkVision.symbolPack.prefixSymbols.2.symbol>
+  <DarkVision.symbolPack.prefixSymbols.3.symbol>어둠</DarkVision.symbolPack.prefixSymbols.3.symbol>
+  <DarkVision.symbolPack.prefixSymbols.4.symbol>암흑</DarkVision.symbolPack.prefixSymbols.4.symbol>
+  <DarkVision.symbolPack.prefixSymbols.5.symbol>깊은</DarkVision.symbolPack.prefixSymbols.5.symbol>
+  <DarkVision.symbolPack.prefixSymbols.6.symbol>그림자</DarkVision.symbolPack.prefixSymbols.6.symbol>
+  <DarkVision.symbolPack.suffixSymbols.0.symbol>그림자</DarkVision.symbolPack.suffixSymbols.0.symbol>
   
-  <FireResistant.label>fire resistant</FireResistant.label>
-  <FireResistant.description>Carriers of this gene have special fast-acting sweat glands and heat-resistant skin. They only take 25% of the normal damage from fire. The chance of them catching on fire is also drastically reduced.</FireResistant.description>
-  <FireResistant.labelShortAdj>fireproof</FireResistant.labelShortAdj>
-  <FireResistant.symbolPack.prefixSymbols.0.symbol>foam</FireResistant.symbolPack.prefixSymbols.0.symbol>
-  <FireResistant.symbolPack.prefixSymbols.1.symbol>wet</FireResistant.symbolPack.prefixSymbols.1.symbol>
-  <FireResistant.symbolPack.suffixSymbols.0.symbol>foam</FireResistant.symbolPack.suffixSymbols.0.symbol>
+  <FireResistant.label>화염 저항</FireResistant.label>
+  <FireResistant.description>이 유전자의 보유자는 빠르게 반응하는 땀샘과 내열성 피부를 갖게 됩니다. 이 유전자의 보유자는 화재로 인한 피해의 25%만 받습니다. 불이 붙을 확률도 크게 줄어듭니다.</FireResistant.description>
+  <FireResistant.labelShortAdj>불면역</FireResistant.labelShortAdj>
+  <FireResistant.symbolPack.prefixSymbols.0.symbol>거품</FireResistant.symbolPack.prefixSymbols.0.symbol>
+  <FireResistant.symbolPack.prefixSymbols.1.symbol>축축</FireResistant.symbolPack.prefixSymbols.1.symbol>
+  <FireResistant.symbolPack.suffixSymbols.0.symbol>거품</FireResistant.symbolPack.suffixSymbols.0.symbol>
   
-  <Inbred.label>inbred</Inbred.label>
-  <Inbred.description>This genetic condition affects a person's fertility, immunity, and mental capacity.</Inbred.description>
+  <Inbred.label>근친생</Inbred.label>
+  <Inbred.description>이 유전자의 보유자는 사람의 생식력, 면역 및 정신 능력에 영향을 미칩니다.</Inbred.description>
   
-  <Instability_Major.label>major cell instability</Instability_Major.label>
-  <Instability_Major.description>Carriers of this gene need much less metabolic energy to stay alive, at the cost of greatly-reduced stability in their cell-replication machinery.</Instability_Major.description>
+  <Instability_Major.label>심각한 세포 불안정성</Instability_Major.label>
+  <Instability_Major.description>이 유전자의 보유자는 세포 복제 시스템의 안정성이 크게 감소하는 대신, 생존하기 위해 훨씬 적은 대사 에너지를 필요로 합니다.</Instability_Major.description>
   
-  <Instability_Mild.label>mild cell instability</Instability_Mild.label>
-  <Instability_Mild.description>Carriers of this gene need less metabolic energy to stay alive, at the cost of reduced stability in their cell-replication machinery.</Instability_Mild.description>
+  <Instability_Mild.label>경미한 세포 불안정성</Instability_Mild.label>
+  <Instability_Mild.description>이 유전자의 보유자는 세포 복제 시스템의 안정성이 크게 감소하는 대신, 생존하기 위해 훨씬 적은 대사 에너지를 필요로 합니다.</Instability_Mild.description>
   
-  <KillThirst.label>kill thirst</KillThirst.label>
-  <KillThirst.description>Carriers of this gene lust for the feeling of ending another's life. They will become irritated if they go for too long without killing someone in close combat.</KillThirst.description>
-  <KillThirst.labelShortAdj>kill-thirsty</KillThirst.labelShortAdj>
-  <KillThirst.symbolPack.prefixSymbols.0.symbol>murder</KillThirst.symbolPack.prefixSymbols.0.symbol>
-  <KillThirst.symbolPack.prefixSymbols.1.symbol>death</KillThirst.symbolPack.prefixSymbols.1.symbol>
-  <KillThirst.symbolPack.prefixSymbols.2.symbol>kill</KillThirst.symbolPack.prefixSymbols.2.symbol>
-  <KillThirst.symbolPack.prefixSymbols.3.symbol>slay</KillThirst.symbolPack.prefixSymbols.3.symbol>
-  <KillThirst.symbolPack.prefixSymbols.4.symbol>rage</KillThirst.symbolPack.prefixSymbols.4.symbol>
-  <KillThirst.symbolPack.prefixSymbols.5.symbol>hate</KillThirst.symbolPack.prefixSymbols.5.symbol>
-  <KillThirst.symbolPack.prefixSymbols.6.symbol>snuff</KillThirst.symbolPack.prefixSymbols.6.symbol>
-  <KillThirst.symbolPack.suffixSymbols.0.symbol>vore</KillThirst.symbolPack.suffixSymbols.0.symbol>
-  <KillThirst.symbolPack.suffixSymbols.1.symbol>killer</KillThirst.symbolPack.suffixSymbols.1.symbol>
-  <KillThirst.symbolPack.suffixSymbols.2.symbol>slayer</KillThirst.symbolPack.suffixSymbols.2.symbol>
+  <KillThirst.label>피의 갈망</KillThirst.label>
+  <KillThirst.description>이 유전자의 보유자는 다른 사람의 생명을 끝내는 느낌을 갈망합니다. 근접전에서 사람을 빠르게 죽이지 못한다면 스트레스를 받을 것입니다.</KillThirst.description>
+  <KillThirst.labelShortAdj>피의 갈망</KillThirst.labelShortAdj>
+  <KillThirst.symbolPack.prefixSymbols.0.symbol>살인</KillThirst.symbolPack.prefixSymbols.0.symbol>
+  <KillThirst.symbolPack.prefixSymbols.1.symbol>죽음</KillThirst.symbolPack.prefixSymbols.1.symbol>
+  <KillThirst.symbolPack.prefixSymbols.2.symbol>살해</KillThirst.symbolPack.prefixSymbols.2.symbol>
+  <KillThirst.symbolPack.prefixSymbols.3.symbol>도살</KillThirst.symbolPack.prefixSymbols.3.symbol>
+  <KillThirst.symbolPack.prefixSymbols.4.symbol>분노</KillThirst.symbolPack.prefixSymbols.4.symbol>
+  <KillThirst.symbolPack.prefixSymbols.5.symbol>혐오</KillThirst.symbolPack.prefixSymbols.5.symbol>
+  <KillThirst.symbolPack.prefixSymbols.6.symbol>잔혹</KillThirst.symbolPack.prefixSymbols.6.symbol>
+  <KillThirst.symbolPack.suffixSymbols.0.symbol>도살자</KillThirst.symbolPack.suffixSymbols.0.symbol>
+  <KillThirst.symbolPack.suffixSymbols.1.symbol>살인자</KillThirst.symbolPack.suffixSymbols.1.symbol>
+  <KillThirst.symbolPack.suffixSymbols.2.symbol>학살자</KillThirst.symbolPack.suffixSymbols.2.symbol>
   
-  <KindInstinct.label>kind instinct</KindInstinct.label>
-  <KindInstinct.description>Carriers of this gene are high in trait agreeableness and are very conscientious. They rarely insult others and will sometimes offer kind words to brighten the moods of those around them. They also never judge people by their appearance.</KindInstinct.description>
-  <KindInstinct.labelShortAdj>kind</KindInstinct.labelShortAdj>
-  <KindInstinct.symbolPack.prefixSymbols.0.symbol>kind</KindInstinct.symbolPack.prefixSymbols.0.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.1.symbol>nice</KindInstinct.symbolPack.prefixSymbols.1.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.2.symbol>gentle</KindInstinct.symbolPack.prefixSymbols.2.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.3.symbol>ami</KindInstinct.symbolPack.prefixSymbols.3.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.4.symbol>cool</KindInstinct.symbolPack.prefixSymbols.4.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.5.symbol>mellow</KindInstinct.symbolPack.prefixSymbols.5.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.6.symbol>soft</KindInstinct.symbolPack.prefixSymbols.6.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.7.symbol>tame</KindInstinct.symbolPack.prefixSymbols.7.symbol>
-  <KindInstinct.symbolPack.prefixSymbols.8.symbol>pleas</KindInstinct.symbolPack.prefixSymbols.8.symbol>
+  <KindInstinct.label>친절한 본성</KindInstinct.label>
+  <KindInstinct.description>이 유전자의 보유자는 붙임성이 좋고 매우 성실합니다. 남을 모욕하는 일이 거의 없으며, 가끔은 주위 사람들의 기분을 좋게 하기 위해 친절한 말을 하기도 합니다. 그들은 또한 외모로 사람을 판단하지 않습니다.</KindInstinct.description>
+  <KindInstinct.labelShortAdj>착함</KindInstinct.labelShortAdj>
+  <KindInstinct.symbolPack.prefixSymbols.0.symbol>친절</KindInstinct.symbolPack.prefixSymbols.0.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.1.symbol>멋진</KindInstinct.symbolPack.prefixSymbols.1.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.2.symbol>신사</KindInstinct.symbolPack.prefixSymbols.2.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.3.symbol>애정</KindInstinct.symbolPack.prefixSymbols.3.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.4.symbol>시원</KindInstinct.symbolPack.prefixSymbols.4.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.5.symbol>말랑</KindInstinct.symbolPack.prefixSymbols.5.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.6.symbol>부드러움</KindInstinct.symbolPack.prefixSymbols.6.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.7.symbol>길들이기</KindInstinct.symbolPack.prefixSymbols.7.symbol>
+  <KindInstinct.symbolPack.prefixSymbols.8.symbol>기쁜</KindInstinct.symbolPack.prefixSymbols.8.symbol>
   
-  <NakedSpeed.label>naked speed</NakedSpeed.label>
-  <NakedSpeed.description>Carriers of this gene move slower while clothed, and faster while naked.</NakedSpeed.description>
+  <NakedSpeed.label>나체 속도</NakedSpeed.label>
+  <NakedSpeed.description>이 유전자의 보유자는 옷을 입은 상태에서는 느리게 움직이고 벗은 상태에서는 더 빠르게 움직입니다.</NakedSpeed.description>
   
-  <Nearsighted.label>nearsighted</Nearsighted.label>
-  <Nearsighted.description>Carriers of this gene have difficulty seeing at a distance. Their shooting accuracy at long ranges is reduced.</Nearsighted.description>
-  <Nearsighted.symbolPack.prefixSymbols.0.symbol>blind</Nearsighted.symbolPack.prefixSymbols.0.symbol>
-  <Nearsighted.symbolPack.prefixSymbols.1.symbol>blur</Nearsighted.symbolPack.prefixSymbols.1.symbol>
-  <Nearsighted.symbolPack.prefixSymbols.2.symbol>squint</Nearsighted.symbolPack.prefixSymbols.2.symbol>
-  <Nearsighted.symbolPack.prefixSymbols.3.symbol>peek</Nearsighted.symbolPack.prefixSymbols.3.symbol>
-  <Nearsighted.symbolPack.prefixSymbols.4.symbol>cross</Nearsighted.symbolPack.prefixSymbols.4.symbol>
-  <Nearsighted.symbolPack.suffixSymbols.0.symbol>sighter</Nearsighted.symbolPack.suffixSymbols.0.symbol>
-  <Nearsighted.symbolPack.suffixSymbols.1.symbol>peeker</Nearsighted.symbolPack.suffixSymbols.1.symbol>
+  <Nearsighted.label>근시</Nearsighted.label>
+  <Nearsighted.description>이 유전자의 보유자는 멀리 있는 물체를 보는 것이 어렵습니다. 장거리에서의 사격 정확도가 감소합니다.</Nearsighted.description>
+  <Nearsighted.symbolPack.prefixSymbols.0.symbol>실명</Nearsighted.symbolPack.prefixSymbols.0.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.1.symbol>흐릿</Nearsighted.symbolPack.prefixSymbols.1.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.2.symbol>가는눈</Nearsighted.symbolPack.prefixSymbols.2.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.3.symbol>구멍눈알</Nearsighted.symbolPack.prefixSymbols.3.symbol>
+  <Nearsighted.symbolPack.prefixSymbols.4.symbol>사시</Nearsighted.symbolPack.prefixSymbols.4.symbol>
+  <Nearsighted.symbolPack.suffixSymbols.0.symbol>망꾼</Nearsighted.symbolPack.suffixSymbols.0.symbol>
+  <Nearsighted.symbolPack.suffixSymbols.1.symbol>근시</Nearsighted.symbolPack.suffixSymbols.1.symbol>
   
-  <PollutionRush.label>pollution stimulus</PollutionRush.label>
-  <PollutionRush.description>Carriers of this gene get a chemical rush from being exposed to pollution. This makes them move faster and helps them think clearer. A similar gene is found in combat-engineered mega-insects.</PollutionRush.description>
-  <PollutionRush.customEffectDescriptions.0>Gain stat bonuses when exposed to pollution.</PollutionRush.customEffectDescriptions.0>
+  <PollutionRush.label>오염 자극</PollutionRush.label>
+  <PollutionRush.description>이 유전자의 보유자는 오염에 노출되어 화학적 자극을 얻습니다. 자극은 그들이 더 빨리 움직이고 더 명확하게 생각하는 데 도움이 됩니다. 유사한 유전자가 전투적으로 조작된 거대 곤충에서 발견됩니다.</PollutionRush.description>
+  <PollutionRush.customEffectDescriptions.0>오염에 노출되면 능력치가 증가합니다.</PollutionRush.customEffectDescriptions.0>
   
-  <PsychicBonding.label>psychic bonding</PsychicBonding.label>
-  <PsychicBonding.description>Carriers of this gene have a special neural organ that makes them psychically bond with a lover for life. As long as the lovers are together, they will be happy. If they are physically separated, they will be disturbed by the distance. If one dies, the other's mind will be badly disrupted.</PsychicBonding.description>
-  <PsychicBonding.customEffectDescriptions.0>Romance attempts always succeed.</PsychicBonding.customEffectDescriptions.0>
-  <PsychicBonding.customEffectDescriptions.1>Gains psychic bond with first romantic partner.</PsychicBonding.customEffectDescriptions.1>
+  <PsychicBonding.label>정신결속</PsychicBonding.label>
+  <PsychicBonding.description>이 유전자의 보유자는 평생 애인과 정신적으로 유대감을 형성하는 특별한 신경 기관을 가지고 있습니다. 연인이 함께하는 한 그들은 행복할 것입니다. 물리적으로 떨어져 있으면 거리로 인해 방해를 받습니다. 한 사람이 죽으면 다른 사람의 마음은 크게 혼란스러워집니다.</PsychicBonding.description>
+  <PsychicBonding.customEffectDescriptions.0>연애 시도는 항상 성공합니다.</PsychicBonding.customEffectDescriptions.0>
+  <PsychicBonding.customEffectDescriptions.1>첫 연인과 정신적 유대를 얻습니다.</PsychicBonding.customEffectDescriptions.1>
   
-  <RobustDigestion.label>robust digestion</RobustDigestion.label>
-  <RobustDigestion.description>Carriers of this gene grow a multi-fold stomach, allowing them to digest raw foods more efficiently than baseline humans. In general, they get the same nutrition from raw food as from if it is cooked. They also don't mind the taste of raw food at all.</RobustDigestion.description>
-  <RobustDigestion.symbolPack.prefixSymbols.0.symbol>eat</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.1.symbol>raw</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.2.symbol>quad</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.3.symbol>moo</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.4.symbol>raw</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.5.symbol>munch</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
-  <RobustDigestion.symbolPack.prefixSymbols.6.symbol>cow</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
-  <RobustDigestion.symbolPack.suffixSymbols.0.symbol>eater</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
-  <RobustDigestion.symbolPack.suffixSymbols.1.symbol>mouth</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
-  <RobustDigestion.symbolPack.suffixSymbols.2.symbol>vore</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
-  <RobustDigestion.symbolPack.suffixSymbols.3.symbol>munch</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
-  <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>hardeater</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
-  <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>muncher</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
-  <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>grubber</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
+  <RobustDigestion.label>왕성한 위장</RobustDigestion.label>
+  <RobustDigestion.description>이 유전자의 보유자는 위를 여러 겹으로 성장시켜 기본 인간보다 날 음식을 더 효율적으로 소화할 수 있습니다. 일반적으로 익히지 않은 음식에서과 다르지 않는 영양을 섭취합니다. 또한 날 음식의 맛을 전혀 신경 쓰지 않습니다.</RobustDigestion.description>
+  <RobustDigestion.symbolPack.prefixSymbols.0.symbol>식사</RobustDigestion.symbolPack.prefixSymbols.0.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.1.symbol>로우</RobustDigestion.symbolPack.prefixSymbols.1.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.2.symbol>폭식</RobustDigestion.symbolPack.prefixSymbols.2.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.3.symbol>대식</RobustDigestion.symbolPack.prefixSymbols.3.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.4.symbol>로우</RobustDigestion.symbolPack.prefixSymbols.4.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.5.symbol>먹보</RobustDigestion.symbolPack.prefixSymbols.5.symbol>
+  <RobustDigestion.symbolPack.prefixSymbols.6.symbol>소</RobustDigestion.symbolPack.prefixSymbols.6.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.0.symbol>포식자</RobustDigestion.symbolPack.suffixSymbols.0.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.1.symbol>입</RobustDigestion.symbolPack.suffixSymbols.1.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.2.symbol>식성</RobustDigestion.symbolPack.suffixSymbols.2.symbol>
+  <RobustDigestion.symbolPack.suffixSymbols.3.symbol>먹보</RobustDigestion.symbolPack.suffixSymbols.3.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>대식가</RobustDigestion.symbolPack.wholeNameSymbols.0.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>다식가</RobustDigestion.symbolPack.wholeNameSymbols.1.symbol>
+  <RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>미식가</RobustDigestion.symbolPack.wholeNameSymbols.2.symbol>
   
-  <StrongStomach.label>strong stomach</StrongStomach.label>
-  <StrongStomach.description>Carriers of this gene have an extra toxin-filtering organ in their stomach and will never suffer from food poisoning even after eating rotten food.</StrongStomach.description>
-  <StrongStomach.symbolPack.prefixSymbols.0.symbol>dura</StrongStomach.symbolPack.prefixSymbols.0.symbol>
-  <StrongStomach.symbolPack.prefixSymbols.1.symbol>eat</StrongStomach.symbolPack.prefixSymbols.1.symbol>
-  <StrongStomach.symbolPack.prefixSymbols.2.symbol>feed</StrongStomach.symbolPack.prefixSymbols.2.symbol>
-  <StrongStomach.symbolPack.prefixSymbols.3.symbol>cram</StrongStomach.symbolPack.prefixSymbols.3.symbol>
-  <StrongStomach.symbolPack.suffixSymbols.0.symbol>vore</StrongStomach.symbolPack.suffixSymbols.0.symbol>
+  <StrongStomach.label>강한 위장</StrongStomach.label>
+  <StrongStomach.description>이 유전자의 보유자는 위장에 독소를 걸러내는 추가 기관이 있어 썩은 음식을 먹은 후에도 식중독에 걸리지 않습니다.</StrongStomach.description>
+  <StrongStomach.symbolPack.prefixSymbols.0.symbol>강철위장</StrongStomach.symbolPack.prefixSymbols.0.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.1.symbol>식사</StrongStomach.symbolPack.prefixSymbols.1.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.2.symbol>먹이 먹여주기</StrongStomach.symbolPack.prefixSymbols.2.symbol>
+  <StrongStomach.symbolPack.prefixSymbols.3.symbol>폭식</StrongStomach.symbolPack.prefixSymbols.3.symbol>
+  <StrongStomach.symbolPack.suffixSymbols.0.symbol>식성</StrongStomach.symbolPack.suffixSymbols.0.symbol>
   
-  <Unstoppable.label>unstoppable</Unstoppable.label>
-  <Unstoppable.description>Carriers of this gene are not slowed down when taking damage.</Unstoppable.description>
+  <Unstoppable.label>저지 불가</Unstoppable.label>
+  <Unstoppable.description>이 유전자의 보유자는 피해를 입을 때 느려지지 않습니다.</Unstoppable.description>
   
-  <ViolenceDisabled.label>violence disabled</ViolenceDisabled.label>
-  <ViolenceDisabled.description>Carriers of this gene are emotionally and mentally incapable of engaging in violence. They are overwhelmingly resistant to and horrified by the idea of hurting another.</ViolenceDisabled.description>
-  <ViolenceDisabled.labelShortAdj>nonviolent</ViolenceDisabled.labelShortAdj>
-  <ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>paci</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
-  <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>calm</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
-  <ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>peace</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
-  <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>dove</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
-  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>dove</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
+  <ViolenceDisabled.label>폭력불가</ViolenceDisabled.label>
+  <ViolenceDisabled.description>이 유전자의 보유자는 정서적으로나 정신적으로나 폭력을 행사할 수 없습니다. 그들은 다른 사람을 해치려는 생각에 압도적인 압박감을 받으며 두려워합니다.</ViolenceDisabled.description>
+  <ViolenceDisabled.labelShortAdj>평화주의</ViolenceDisabled.labelShortAdj>
+  <ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>비폭력</ViolenceDisabled.symbolPack.prefixSymbols.0.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>침착</ViolenceDisabled.symbolPack.prefixSymbols.1.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>평화</ViolenceDisabled.symbolPack.prefixSymbols.2.symbol>
+  <ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>온건파</ViolenceDisabled.symbolPack.prefixSymbols.3.symbol>
+  <ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>온건파</ViolenceDisabled.symbolPack.suffixSymbols.0.symbol>
 </LanguageData>
