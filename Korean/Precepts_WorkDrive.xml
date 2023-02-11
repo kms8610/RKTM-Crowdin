@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WorkDrive_Tripled.label>tripled</WorkDrive_Tripled.label>
-  <WorkDrive_Tripled.description>The duration of the leader's work drive ability is tripled.</WorkDrive_Tripled.description>
+  <WorkDrive.label>작업 격려</WorkDrive.label>
 </LanguageData>
