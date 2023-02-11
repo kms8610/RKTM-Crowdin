@@ -1,8 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Childcare.description>정착지의 아기와 어린이를 돌봅니다.</Childcare.description>
-  <Childcare.gerundLabel>치료</Childcare.gerundLabel>
-  <Childcare.labelShort>육아</Childcare.labelShort>
-  <Childcare.pawnLabel>보육사</Childcare.pawnLabel>
-  <Childcare.verb>육아</Childcare.verb>
+  <Art.description>원자재로 아름다운 예술 작품을 만듭니다.</Art.description>
+  <Art.gerundLabel>아트</Art.gerundLabel>
+  <Art.labelShort>아트</Art.labelShort>
+  <Art.pawnLabel>예술</Art.pawnLabel>
+  <Art.verb>예술</Art.verb>
+  
+  <BasicWorker.description>숙련이 필요 없는 쉬운 작업입니다. 수감자를 해방하거나 기계의 스위치를 켜고 끕니다.</BasicWorker.description>
+  <BasicWorker.gerundLabel>심부름</BasicWorker.gerundLabel>
+  <BasicWorker.labelShort>기본</BasicWorker.labelShort>
+  <BasicWorker.pawnLabel>심부름</BasicWorker.pawnLabel>
+  <BasicWorker.verb>심부름</BasicWorker.verb>
+  
+  <Cleaning.description>주거구역에서 눈과 오염을 제거하고 바닥을 청소합니다.</Cleaning.description>
+  <Cleaning.gerundLabel> 청소</Cleaning.gerundLabel>
+  <Cleaning.labelShort>부드러운</Cleaning.labelShort>
+  <Cleaning.pawnLabel>청소</Cleaning.pawnLabel>
+  <Cleaning.verb>청소</Cleaning.verb>
+  
+  <Construction.description>지정한 것을 건설하고, 손상됐거나 피해를 입은 건물을 수리합니다.</Construction.description>
+  <Construction.gerundLabel> 건설</Construction.gerundLabel>
+  <Construction.labelShort>건설</Construction.labelShort>
+  <Construction.pawnLabel>건설</Construction.pawnLabel>
+  <Construction.verb>건설</Construction.verb>
+  
+  <Cooking.description>음식을 준비하고 도체를 정형해 고기를 얻습니다.</Cooking.description>
+  <Cooking.gerundLabel>조리</Cooking.gerundLabel>
+  <Cooking.labelShort>조리</Cooking.labelShort>
+  <Cooking.pawnLabel>조리</Cooking.pawnLabel>
+  <Cooking.verb>조리</Cooking.verb>
+  
+  <Crafting.description>석재 가공이나 금속 용해와 같이 기술을 필요로 하지 않는 작업대에서 일을 합니다.</Crafting.description>
+  <Crafting.gerundLabel>제작</Crafting.gerundLabel>
+  <Crafting.labelShort>제작</Crafting.labelShort>
+  <Crafting.pawnLabel>제작</Crafting.pawnLabel>
+  <Crafting.verb>제작</Crafting.verb>
+  
+  <Doctor.description>환자를 간호하고, 음식을 먹여주고, 기운을 북돋아주기도 하며 수술을 집도합니다. 정착민과 수감자 모두 보살핍니다.</Doctor.description>
+  <Doctor.gerundLabel>치료</Doctor.gerundLabel>
+  <Doctor.labelShort>의사</Doctor.labelShort>
+  <Doctor.pawnLabel>치료</Doctor.pawnLabel>
+  <Doctor.verb>치료</Doctor.verb>
+  
+  <Firefighter.description>정착지 내의 화재를 진압합니다.</Firefighter.description>
+  <Firefighter.gerundLabel>소방</Firefighter.gerundLabel>
+  <Firefighter.labelShort>소방</Firefighter.labelShort>
+  <Firefighter.pawnLabel>소방</Firefighter.pawnLabel>
+  <Firefighter.verb>소방</Firefighter.verb>
+  
+  <Growing.description>씨를 뿌리고 다 자란 작물을 수확합니다. 야생 식물을 채집합니다.</Growing.description>
+  <Growing.gerundLabel>재배</Growing.gerundLabel>
+  <Growing.labelShort>성장 배양기로 이송</Growing.labelShort>
+  <Growing.pawnLabel>재배</Growing.pawnLabel>
+  <Growing.verb>재배</Growing.verb>
+  
+  <Handling.description>동물을 길들이고, 돌보고, 젖과 털 등을 채집하고, 도축합니다.</Handling.description>
+  <Handling.gerundLabel>조련</Handling.gerundLabel>
+  <Handling.labelShort>손잡이</Handling.labelShort>
+  <Handling.pawnLabel>조련</Handling.pawnLabel>
+  <Handling.verb>관리</Handling.verb>
+  
+  <Hauling.description>물품들이 있어야 하는 곳으로 옮깁니다.</Hauling.description>
+  <Hauling.gerundLabel> 운반</Hauling.gerundLabel>
+  <Hauling.labelShort>운반</Hauling.labelShort>
+  <Hauling.pawnLabel>운반</Hauling.pawnLabel>
+  <Hauling.verb>운반</Hauling.verb>
+  
+  <Hunting.description>지정된 동물을 사냥합니다.</Hunting.description>
+  <Hunting.gerundLabel> 사냥</Hunting.gerundLabel>
+  <Hunting.labelShort>사냥</Hunting.labelShort>
+  <Hunting.pawnLabel>사냥</Hunting.pawnLabel>
+  <Hunting.verb>사냥</Hunting.verb>
+  
+  <Mining.description>땅을 직접 파거나 기계로 굴착합니다.</Mining.description>
+  <Mining.gerundLabel> 채굴</Mining.gerundLabel>
+  <Mining.labelShort>채굴</Mining.labelShort>
+  <Mining.pawnLabel>채굴</Mining.pawnLabel>
+  <Mining.verb>채굴</Mining.verb>
+  
+  <Patient.description>심각한 부상을 입었을 때 병원으로 이동해 치료를 기다립니다.</Patient.description>
+  <Patient.gerundLabel>요양</Patient.gerundLabel>
+  <Patient.labelShort>환자</Patient.labelShort>
+  <Patient.pawnLabel>요양</Patient.pawnLabel>
+  <Patient.verb>요양</Patient.verb>
+  
+  <PatientBedRest.description>심각하지 않은 부상을 입었을 때 침대에서 쉽니다.</PatientBedRest.description>
+  <PatientBedRest.gerundLabel>휴식</PatientBedRest.gerundLabel>
+  <PatientBedRest.labelShort>휴식</PatientBedRest.labelShort>
+  <PatientBedRest.pawnLabel>휴식</PatientBedRest.pawnLabel>
+  <PatientBedRest.verb>요양</PatientBedRest.verb>
+  
+  <PlantCutting.description>지정한 식물을 제거하거나 수확합니다.</PlantCutting.description>
+  <PlantCutting.gerundLabel>제초/벌목</PlantCutting.gerundLabel>
+  <PlantCutting.labelShort>제초/벌목</PlantCutting.labelShort>
+  <PlantCutting.pawnLabel>제초/벌목</PlantCutting.pawnLabel>
+  <PlantCutting.verb>절제</PlantCutting.verb>
+  
+  <Research.description>연구과제를 진행합니다.</Research.description>
+  <Research.gerundLabel>연구</Research.gerundLabel>
+  <Research.labelShort>연구</Research.labelShort>
+  <Research.pawnLabel>연구</Research.pawnLabel>
+  <Research.verb>연구</Research.verb>
+  
+  <Smithing.description>단조와 가공으로 무기와 도구를 제작합니다. 메카나이터라면 메카노이드를 수리합니다.</Smithing.description>
+  <Smithing.gerundLabel>제련</Smithing.gerundLabel>
+  <Smithing.labelShort>대장장이</Smithing.labelShort>
+  <Smithing.pawnLabel>제련</Smithing.pawnLabel>
+  <Smithing.verb>제련</Smithing.verb>
+  
+  <Tailoring.description>원자재를 옷으로 가공합니다.</Tailoring.description>
+  <Tailoring.gerundLabel>재봉</Tailoring.gerundLabel>
+  <Tailoring.labelShort>재단사</Tailoring.labelShort>
+  <Tailoring.pawnLabel>재봉</Tailoring.pawnLabel>
+  <Tailoring.verb>재단</Tailoring.verb>
+  
+  <Warden.description>수감자들을 관리하고 먹이며, 대화를 나누고 포섭합니다.</Warden.description>
+  <Warden.gerundLabel>간수</Warden.gerundLabel>
+  <Warden.labelShort>관리인</Warden.labelShort>
+  <Warden.pawnLabel>간수</Warden.pawnLabel>
+  <Warden.verb>관리</Warden.verb>
 </LanguageData>
