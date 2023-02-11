@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>crwdns467400:0{PATIENT_labelShort}crwdne467400:0</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <SurgeryOutcomeBase.outcomes.1.letterText>crwdns467402:0{SURGEON_labelShort}crwdnd467402:0{PATIENT_labelShort}crwdnd467402:0{RECIPE_label}crwdne467402:0</SurgeryOutcomeBase.outcomes.1.letterText>
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>crwdns467404:0{PATIENT_labelShort}crwdne467404:0</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <SurgeryOutcomeBase.outcomes.2.letterText>crwdns467406:0{SURGEON_labelShort}crwdnd467406:0{PATIENT_labelShort}crwdnd467406:0{RECIPE_label}crwdne467406:0</SurgeryOutcomeBase.outcomes.2.letterText>
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>crwdns467408:0{PATIENT_labelShort}crwdne467408:0</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <SurgeryOutcomeBase.outcomes.3.letterText>crwdns467410:0{SURGEON_labelShort}crwdnd467410:0{PATIENT_labelShort}crwdnd467410:0{RECIPE_label}crwdne467410:0</SurgeryOutcomeBase.outcomes.3.letterText>
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>crwdns467412:0{PATIENT_labelShort}crwdne467412:0</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <SurgeryOutcomeBase.outcomes.4.letterText>crwdns467414:0{SURGEON_labelShort}crwdnd467414:0{PATIENT_labelShort}crwdnd467414:0{RECIPE_label}crwdnd467414:0{PATIENT_objective}crwdne467414:0</SurgeryOutcomeBase.outcomes.4.letterText>
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>crwdns467416:0{PATIENT_labelShort}crwdne467416:0</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <SurgeryOutcomeBase.outcomes.5.letterText>crwdns467418:0{SURGEON_labelShort}crwdnd467418:0{PATIENT_labelShort}crwdnd467418:0{RECIPE_label}crwdnd467418:0{PATIENT_objective}crwdne467418:0</SurgeryOutcomeBase.outcomes.5.letterText>
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>crwdns467420:0{PATIENT_labelShort}crwdne467420:0</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <SurgeryOutcomeBase.outcomes.6.letterText>crwdns467422:0{SURGEON_labelShort}crwdnd467422:0{PATIENT_labelShort}crwdnd467422:0{RECIPE_label}crwdne467422:0</SurgeryOutcomeBase.outcomes.6.letterText>
+</LanguageData>
