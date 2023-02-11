@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MiningYield_High.label>높음</MiningYield_High.label>
-  <MiningYield_High.description>Mining is so important that we do it with great focus and respect, and we get more resources because of that.</MiningYield_High.description>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>파괴된 자연벽</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>나는 자연의 벽을 파괴했어. 이런 식으로 자연에 상처를 주는 것은 잘못된 일이야.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
   
-  <Mining_Disapproved.label>못마땅함</Mining_Disapproved.label>
-  <Mining_Disapproved.description>Mining into the natural earth is an ugly act.</Mining_Disapproved.description>
-  <Mining_Disapproved.comps.0.description>누군가가 채굴함</Mining_Disapproved.comps.0.description>
-  <Mining_Disapproved.comps.3.description>누군가가 채굴함</Mining_Disapproved.comps.3.description>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>파괴된 자연벽</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>나는 자연의 벽을 파괴했어. 분명 자연에 대한 끔찍한 도전일거야.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
   
-  <Mining_Horrible.label>끔찍함</Mining_Horrible.label>
-  <Mining_Horrible.description>Violating the natural earth with mining tools is a horrible act.</Mining_Horrible.description>
-  <Mining_Horrible.comps.0.description>누군가가 채굴함</Mining_Horrible.comps.0.description>
-  <Mining_Horrible.comps.3.description>누군가가 채굴함</Mining_Horrible.comps.3.description>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>파괴된 자연벽</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>나는 자연의 벽을 파괴했어. 자연에 대해 얼마나 큰 죄를 범한걸까.</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
   
-  <Mining_Prohibited.label>금기</Mining_Prohibited.label>
-  <Mining_Prohibited.description>Raping the natural earth with mining tools is a horrifically evil act.</Mining_Prohibited.description>
-  <Mining_Prohibited.comps.0.description>채굴</Mining_Prohibited.comps.0.description>
-  <Mining_Prohibited.comps.3.description>누군가가 채굴함</Mining_Prohibited.comps.3.description>
+  <Mined_Disapproved.stages.mined.label>채굴 현장 목격</Mined_Disapproved.stages.mined.label>
+  <Mined_Disapproved.stages.mined.description>나는 땅을 파야만 했어. 이렇게 대지에 해를 끼치는 것은 용납할 수 없어.</Mined_Disapproved.stages.mined.description>
+  
+  <Mined_Horrible.stages.mined.label>채굴 현장 목격</Mined_Horrible.stages.mined.label>
+  <Mined_Horrible.stages.mined.description>지면에 구멍을 냈어. 이건 지구에 대한 폭행이야.</Mined_Horrible.stages.mined.description>
+  
+  <Mined_Know_Disapproved.stages.mined.label>채굴 현장 목격</Mined_Know_Disapproved.stages.mined.label>
+  
+  <Mined_Know_Disapproved_Mood.stages.mined.label>채굴 현장 목격</Mined_Know_Disapproved_Mood.stages.mined.label>
+  <Mined_Know_Disapproved_Mood.stages.mined.description>누군가 순수한 대지에 구멍을 파놨어. 이런 식으로 세상에 상처를 입히는 건 잘못된 일이야.</Mined_Know_Disapproved_Mood.stages.mined.description>
+  
+  <Mined_Know_Horrible.stages.mined.label>채굴 현장 목격</Mined_Know_Horrible.stages.mined.label>
+  
+  <Mined_Know_Horrible_Mood.stages.mined.label>채굴 현장 목격</Mined_Know_Horrible_Mood.stages.mined.label>
+  <Mined_Know_Horrible_Mood.stages.mined.description>누군가 순수한 대지에 구멍을 파놨어. 이건 끔찍한 자연 모독이야.</Mined_Know_Horrible_Mood.stages.mined.description>
+  
+  <Mined_Know_Prohibited.stages.mined.label>채굴 현장 목격</Mined_Know_Prohibited.stages.mined.label>
+  
+  <Mined_Know_Prohibited_Mood.stages.mined.label>채굴 현장 목격</Mined_Know_Prohibited_Mood.stages.mined.label>
+  <Mined_Know_Prohibited_Mood.stages.mined.description>우리는 순수한 지구에 구멍을 냈어. 자연에 대한 끔찍한 폭행이야.</Mined_Know_Prohibited_Mood.stages.mined.description>
 </LanguageData>
