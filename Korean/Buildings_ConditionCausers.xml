@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <ClimateAdjuster.label>기후 조정기</ClimateAdjuster.label>
-  <ClimateAdjuster.description>기후 조정기입니다.</ClimateAdjuster.description>
+  <ClimateAdjuster.description>기후를 조절하는 최첨단 장치입니다. 화학물질과 물리적 역장을 이용하여 지역의 대기를 조작하고 온도를 변화시킵니다.</ClimateAdjuster.description>
   
   <EMIDynamo.label>전자 교란기</EMIDynamo.label>
-  <EMIDynamo.description>전자 교란기입니다.</EMIDynamo.description>
+  <EMIDynamo.description>대규모의 전자기기 교란 발생장치입니다. 주변 지역의 전자기기 장치들을 방해하거나 차단합니다.</EMIDynamo.description>
   
   <PsychicDroner.label>정신 조작기</PsychicDroner.label>
-  <PsychicDroner.description>정신 조작기가 위치한 곳입니다.</PsychicDroner.description>
+  <PsychicDroner.description>초인공지능의 정신나간 생각을 전송하는 초월공학 장치입니다. 특정한 성별에 영향을 주는 괴로운 정신파동을 생성합니다. 해당 성별의 사람들은 불시에 기분이 나빠지거나 광기에 휩싸일 수 있습니다. 효과의 강도는 개인의 정신 감응력에 따라 달라집니다.</PsychicDroner.description>
   
   <PsychicSuppressor.label>초능력 신호 차단기</PsychicSuppressor.label>
-  <PsychicSuppressor.description>초능력 신호를 차단하는 장치입니다.</PsychicSuppressor.description>
+  <PsychicSuppressor.description>특정 성별에 맞춰진 대규모 정신 억제장을 생성하는 초월공학 장치입니다. 해당 성별의 사람들은 정신력이 억제되어 의식이 감소하게 되며, 효과는 개인의 정신 감응력에 따라 달라집니다.</PsychicSuppressor.description>
   
   <SmokeSpewer.label>연막 살포기</SmokeSpewer.label>
-  <SmokeSpewer.description>연막 살포기입니다.</SmokeSpewer.description>
+  <SmokeSpewer.description>지역 고립용으로 설계된 최첨단 대량 살상 기계입니다. 불투명한 입자를 뿜어내어 행성 전 지역의 태양을 가릴 수 있는 연막을 생성합니다.</SmokeSpewer.description>
   
   <SunBlocker.label>태양 차단기</SunBlocker.label>
-  <SunBlocker.description>태양 차단기입니다.</SunBlocker.description>
+  <SunBlocker.description>높은 고도에 불투명 역장을 생성해 태양을 가리는 최첨단 기계입니다.</SunBlocker.description>
   
   <ToxicSpewer.label>독성 분출기</ToxicSpewer.label>
-  <ToxicSpewer.description>독성 살포기입니다.</ToxicSpewer.description>
+  <ToxicSpewer.description>지역 고립용으로 설계된 최첨단 대량 살상 기계입니다. 독성 입자를 뿜어내어 행성 전 지역의 식생을 망가뜨립니다.</ToxicSpewer.description>
   
   <WeatherController.label>날씨 조절기</WeatherController.label>
-  <WeatherController.description>날씨 조절기입니다.</WeatherController.description>
+  <WeatherController.description>날씨를 조절하는 최첨단 장치입니다. 화학물질과 물리적 역장을 이용하여 지역의 날씨를 특정 상태로 고정합니다.</WeatherController.description>
 </LanguageData>
