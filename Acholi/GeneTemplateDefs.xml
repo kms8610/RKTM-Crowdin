@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AddictionImmune.label>crwdns423282:0{0}crwdne423282:0</AddictionImmune.label>
+  <AddictionImmune.description>crwdns423284:0{0}crwdne423284:0</AddictionImmune.description>
+  <AddictionImmune.labelShortAdj>crwdns423286:0{0}crwdne423286:0</AddictionImmune.labelShortAdj>
+  
+  <AddictionResistant.label>crwdns423288:0{0}crwdne423288:0</AddictionResistant.label>
+  <AddictionResistant.description>crwdns423290:0{0}crwdne423290:0</AddictionResistant.description>
+  <AddictionResistant.labelShortAdj>crwdns423292:0{0}crwdne423292:0</AddictionResistant.labelShortAdj>
+  
+  <AptitudePoor.label>crwdns423294:0{0}crwdne423294:0</AptitudePoor.label>
+  <AptitudePoor.description>crwdns423296:0{0}crwdne423296:0</AptitudePoor.description>
+  
+  <AptitudeRemarkable.label>crwdns423298:0{0}crwdne423298:0</AptitudeRemarkable.label>
+  <AptitudeRemarkable.description>crwdns423300:0{0}crwdnd423300:0{0}crwdne423300:0</AptitudeRemarkable.description>
+  
+  <AptitudeStrong.label>crwdns423302:0{0}crwdne423302:0</AptitudeStrong.label>
+  <AptitudeStrong.description>crwdns423304:0{0}crwdne423304:0</AptitudeStrong.description>
+  
+  <AptitudeTerrible.label>crwdns423306:0{0}crwdne423306:0</AptitudeTerrible.label>
+  <AptitudeTerrible.description>crwdns423308:0{0}crwdnd423308:0{0}crwdne423308:0</AptitudeTerrible.description>
+  
+  <ChemicalDependency.label>crwdns423310:0{0}crwdne423310:0</ChemicalDependency.label>
+  <ChemicalDependency.description>crwdns423312:0{0}crwdnd423312:0{DEFICIENCYDURATION}crwdnd423312:0{0}crwdnd423312:0{0}crwdnd423312:0{COMADURATION}crwdnd423312:0{DEATHDURATION}crwdne423312:0</ChemicalDependency.description>
+  <ChemicalDependency.labelShortAdj>crwdns423314:0{0}crwdne423314:0</ChemicalDependency.labelShortAdj>
+</LanguageData>
