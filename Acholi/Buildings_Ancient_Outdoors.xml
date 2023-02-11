@@ -1,19 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AncientExostriderCannon.label>crwdns427176:0crwdne427176:0</AncientExostriderCannon.label>
-  <AncientExostriderCannon.description>crwdns427178:0crwdne427178:0</AncientExostriderCannon.description>
+  <AncientAPC.label>crwdns440236:0crwdne440236:0</AncientAPC.label>
+  <AncientAPC.description>crwdns440238:0crwdne440238:0</AncientAPC.description>
   
-  <AncientExostriderHead.label>crwdns427180:0crwdne427180:0</AncientExostriderHead.label>
-  <AncientExostriderHead.description>crwdns427182:0crwdne427182:0</AncientExostriderHead.description>
+  <AncientATM.label>crwdns440240:0crwdne440240:0</AncientATM.label>
+  <AncientATM.description>crwdns440242:0crwdne440242:0</AncientATM.description>
   
-  <AncientExostriderLeg.label>crwdns427184:0crwdne427184:0</AncientExostriderLeg.label>
-  <AncientExostriderLeg.description>crwdns427186:0crwdne427186:0</AncientExostriderLeg.description>
+  <AncientAirConditioner.label>crwdns440244:0crwdne440244:0</AncientAirConditioner.label>
+  <AncientAirConditioner.description>crwdns440246:0crwdne440246:0</AncientAirConditioner.description>
   
-  <AncientExostriderRemains.label>crwdns427188:0crwdne427188:0</AncientExostriderRemains.label>
-  <AncientExostriderRemains.description>crwdns427190:0crwdne427190:0</AncientExostriderRemains.description>
-  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>crwdns427192:0crwdne427192:0</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
-  <AncientExostriderRemains.comps.CompProximityLetter.letterText>crwdns427194:0{PAWN_nameDef}crwdne427194:0</AncientExostriderRemains.comps.CompProximityLetter.letterText>
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>crwdns427196:0{LEAVINGS1_label}crwdne427196:0</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>crwdns427198:0{LEAVINGS1_label}crwdne427198:0</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
-  <AncientExostriderRemains.comps.CompInspectString.inspectString>crwdns427200:0crwdne427200:0</AncientExostriderRemains.comps.CompInspectString.inspectString>
+  <AncientContainer.label>crwdns440248:0crwdne440248:0</AncientContainer.label>
+  <AncientContainer.description>crwdns440250:0crwdne440250:0</AncientContainer.description>
+  
+  <AncientDropshipEngine.label>crwdns440252:0crwdne440252:0</AncientDropshipEngine.label>
+  <AncientDropshipEngine.description>crwdns440254:0crwdne440254:0</AncientDropshipEngine.description>
+  
+  <AncientFence.label>crwdns440256:0crwdne440256:0</AncientFence.label>
+  <AncientFence.description>crwdns440258:0crwdne440258:0</AncientFence.description>
+  
+  <AncientGiantWheel.label>crwdns440260:0crwdne440260:0</AncientGiantWheel.label>
+  <AncientGiantWheel.description>crwdns440262:0crwdne440262:0</AncientGiantWheel.description>
+  
+  <AncientHydrant.label>crwdns440264:0crwdne440264:0</AncientHydrant.label>
+  <AncientHydrant.description>crwdns440266:0crwdne440266:0</AncientHydrant.description>
+  
+  <AncientJetEngine.label>crwdns440268:0crwdne440268:0</AncientJetEngine.label>
+  <AncientJetEngine.description>crwdns440270:0crwdne440270:0</AncientJetEngine.description>
+  
+  <AncientKitchenSink.label>crwdns440272:0crwdne440272:0</AncientKitchenSink.label>
+  <AncientKitchenSink.description>crwdns440274:0crwdne440274:0</AncientKitchenSink.description>
+  
+  <AncientLargeCrate.label>crwdns440276:0crwdne440276:0</AncientLargeCrate.label>
+  <AncientLargeCrate.description>crwdns440278:0crwdne440278:0</AncientLargeCrate.description>
+  
+  <AncientLargeRustedEngineBlock.label>crwdns440280:0crwdne440280:0</AncientLargeRustedEngineBlock.label>
+  <AncientLargeRustedEngineBlock.description>crwdns440282:0crwdne440282:0</AncientLargeRustedEngineBlock.description>
+  
+  <AncientLongCrate.label>crwdns440284:0crwdne440284:0</AncientLongCrate.label>
+  <AncientLongCrate.description>crwdns440286:0crwdne440286:0</AncientLongCrate.description>
+  
+  <AncientMechDetritus.label>crwdns440288:0crwdne440288:0</AncientMechDetritus.label>
+  <AncientMechDetritus.description>crwdns440290:0crwdne440290:0</AncientMechDetritus.description>
+  
+  <AncientMechDropBeacon.label>crwdns440292:0crwdne440292:0</AncientMechDropBeacon.label>
+  <AncientMechDropBeacon.description>crwdns440294:0crwdne440294:0</AncientMechDropBeacon.description>
+  
+  <AncientMegaCannonBarrel.label>crwdns440296:0crwdne440296:0</AncientMegaCannonBarrel.label>
+  <AncientMegaCannonBarrel.description>crwdns440298:0crwdne440298:0</AncientMegaCannonBarrel.description>
+  
+  <AncientMegaCannonTripod.label>crwdns440300:0crwdne440300:0</AncientMegaCannonTripod.label>
+  <AncientMegaCannonTripod.description>crwdns440302:0crwdne440302:0</AncientMegaCannonTripod.description>
+  
+  <AncientMicrowave.label>crwdns440304:0crwdne440304:0</AncientMicrowave.label>
+  <AncientMicrowave.description>crwdns440306:0crwdne440306:0</AncientMicrowave.description>
+  
+  <AncientMiniWarwalkerRemains.label>crwdns440308:0crwdne440308:0</AncientMiniWarwalkerRemains.label>
+  <AncientMiniWarwalkerRemains.description>crwdns440310:0crwdne440310:0</AncientMiniWarwalkerRemains.description>
+  
+  <AncientOven.label>crwdns440312:0crwdne440312:0</AncientOven.label>
+  <AncientOven.description>crwdns440314:0crwdne440314:0</AncientOven.description>
+  
+  <AncientPipelineSection.label>crwdns440316:0crwdne440316:0</AncientPipelineSection.label>
+  <AncientPipelineSection.description>crwdns440318:0crwdne440318:0</AncientPipelineSection.description>
+  
+  <AncientPipes.label>crwdns440320:0crwdne440320:0</AncientPipes.label>
+  <AncientPipes.description>crwdns440322:0crwdne440322:0</AncientPipes.description>
+  
+  <AncientPodCar.label>crwdns440324:0crwdne440324:0</AncientPodCar.label>
+  <AncientPodCar.description>crwdns440326:0crwdne440326:0</AncientPodCar.description>
+  
+  <AncientPostbox.label>crwdns440328:0crwdne440328:0</AncientPostbox.label>
+  <AncientPostbox.description>crwdns440330:0crwdne440330:0</AncientPostbox.description>
+  
+  <AncientRazorWire.label>crwdns440332:0crwdne440332:0</AncientRazorWire.label>
+  <AncientRazorWire.description>crwdns440334:0crwdne440334:0</AncientRazorWire.description>
+  
+  <AncientRefrigerator.label>crwdns440336:0crwdne440336:0</AncientRefrigerator.label>
+  <AncientRefrigerator.description>crwdns440338:0crwdne440338:0</AncientRefrigerator.description>
+  
+  <AncientRustedCar.label>crwdns440340:0crwdne440340:0</AncientRustedCar.label>
+  <AncientRustedCar.description>crwdns440342:0crwdne440342:0</AncientRustedCar.description>
+  
+  <AncientRustedCarFrame.label>crwdns440344:0crwdne440344:0</AncientRustedCarFrame.label>
+  <AncientRustedCarFrame.description>crwdns440346:0crwdne440346:0</AncientRustedCarFrame.description>
+  
+  <AncientRustedDropship.label>crwdns440348:0crwdne440348:0</AncientRustedDropship.label>
+  <AncientRustedDropship.description>crwdns440350:0crwdne440350:0</AncientRustedDropship.description>
+  
+  <AncientRustedEngineBlock.label>crwdns440352:0crwdne440352:0</AncientRustedEngineBlock.label>
+  <AncientRustedEngineBlock.description>crwdns440354:0crwdne440354:0</AncientRustedEngineBlock.description>
+  
+  <AncientRustedJeep.label>crwdns440356:0crwdne440356:0</AncientRustedJeep.label>
+  <AncientRustedJeep.description>crwdns440358:0crwdne440358:0</AncientRustedJeep.description>
+  
+  <AncientRustedTruck.label>crwdns440360:0crwdne440360:0</AncientRustedTruck.label>
+  <AncientRustedTruck.description>crwdns440362:0crwdne440362:0</AncientRustedTruck.description>
+  
+  <AncientSecurityTurret.label>crwdns440364:0crwdne440364:0</AncientSecurityTurret.label>
+  <AncientSecurityTurret.description>crwdns440366:0crwdne440366:0</AncientSecurityTurret.description>
+  
+  <AncientShipBeacon.label>crwdns440368:0crwdne440368:0</AncientShipBeacon.label>
+  <AncientShipBeacon.description>crwdns440370:0crwdne440370:0</AncientShipBeacon.description>
+  
+  <AncientShoppingCart.label>crwdns440372:0crwdne440372:0</AncientShoppingCart.label>
+  <AncientShoppingCart.description>crwdns440374:0crwdne440374:0</AncientShoppingCart.description>
+  
+  <AncientSmallCrate.label>crwdns440376:0crwdne440376:0</AncientSmallCrate.label>
+  <AncientSmallCrate.description>crwdns440378:0crwdne440378:0</AncientSmallCrate.description>
+  
+  <AncientStove.label>crwdns440380:0crwdne440380:0</AncientStove.label>
+  <AncientStove.description>crwdns440382:0crwdne440382:0</AncientStove.description>
+  
+  <AncientTank.label>crwdns440384:0crwdne440384:0</AncientTank.label>
+  <AncientTank.description>crwdns440386:0crwdne440386:0</AncientTank.description>
+  
+  <AncientTankTrap.label>crwdns440388:0crwdne440388:0</AncientTankTrap.label>
+  <AncientTankTrap.description>crwdns440390:0crwdne440390:0</AncientTankTrap.description>
+  
+  <AncientToilet.label>crwdns440392:0crwdne440392:0</AncientToilet.label>
+  <AncientToilet.description>crwdns440394:0crwdne440394:0</AncientToilet.description>
+  
+  <AncientVendingMachine.label>crwdns440396:0crwdne440396:0</AncientVendingMachine.label>
+  <AncientVendingMachine.description>crwdns440398:0crwdne440398:0</AncientVendingMachine.description>
+  
+  <AncientWarspiderRemains.label>crwdns440400:0crwdne440400:0</AncientWarspiderRemains.label>
+  <AncientWarspiderRemains.description>crwdns440402:0crwdne440402:0</AncientWarspiderRemains.description>
+  
+  <AncientWarwalkerClaw.label>crwdns440404:0crwdne440404:0</AncientWarwalkerClaw.label>
+  <AncientWarwalkerClaw.description>crwdns440406:0crwdne440406:0</AncientWarwalkerClaw.description>
+  
+  <AncientWarwalkerFoot.label>crwdns440408:0crwdne440408:0</AncientWarwalkerFoot.label>
+  <AncientWarwalkerFoot.description>crwdns440410:0crwdne440410:0</AncientWarwalkerFoot.description>
+  
+  <AncientWarwalkerLeg.label>crwdns440412:0crwdne440412:0</AncientWarwalkerLeg.label>
+  <AncientWarwalkerLeg.description>crwdns440414:0crwdne440414:0</AncientWarwalkerLeg.description>
+  
+  <AncientWarwalkerShell.label>crwdns440416:0crwdne440416:0</AncientWarwalkerShell.label>
+  <AncientWarwalkerShell.description>crwdns440418:0crwdne440418:0</AncientWarwalkerShell.description>
+  
+  <AncientWarwalkerTorso.label>crwdns440420:0crwdne440420:0</AncientWarwalkerTorso.label>
+  <AncientWarwalkerTorso.description>crwdns440422:0crwdne440422:0</AncientWarwalkerTorso.description>
+  
+  <AncientWashingMachine.label>crwdns440424:0crwdne440424:0</AncientWashingMachine.label>
+  <AncientWashingMachine.description>crwdns440426:0crwdne440426:0</AncientWashingMachine.description>
+  
+  <AncientWheel.label>crwdns440428:0crwdne440428:0</AncientWheel.label>
+  <AncientWheel.description>crwdns440430:0crwdne440430:0</AncientWheel.description>
 </LanguageData>
