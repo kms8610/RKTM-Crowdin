@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NeedLearning.stages.learningstarved.label>crwdns428192:0crwdne428192:0</NeedLearning.stages.learningstarved.label>
+  <NeedLearning.stages.learningstarved.description>crwdns428194:0crwdne428194:0</NeedLearning.stages.learningstarved.description>
+  <NeedLearning.stages.learningdeprived.label>crwdns428196:0crwdne428196:0</NeedLearning.stages.learningdeprived.label>
+  <NeedLearning.stages.learningdeprived.description>crwdns428198:0crwdne428198:0</NeedLearning.stages.learningdeprived.description>
+  <NeedLearning.stages.learning_unfulfilled.label>crwdns428200:0crwdne428200:0</NeedLearning.stages.learning_unfulfilled.label>
+  <NeedLearning.stages.learning_unfulfilled.description>crwdns428202:0crwdne428202:0</NeedLearning.stages.learning_unfulfilled.description>
+  <NeedLearning.stages.learning_satisfied.label>crwdns428204:0crwdne428204:0</NeedLearning.stages.learning_satisfied.label>
+  <NeedLearning.stages.learning_satisfied.description>crwdns428206:0crwdne428206:0</NeedLearning.stages.learning_satisfied.description>
+  <NeedLearning.stages.learning_fully_satisfied.label>crwdns428208:0crwdne428208:0</NeedLearning.stages.learning_fully_satisfied.label>
+  <NeedLearning.stages.learning_fully_satisfied.description>crwdns428210:0crwdne428210:0</NeedLearning.stages.learning_fully_satisfied.description>
+  
+  <NeedPlay.stages.desperately_wants_to_play.label>crwdns428212:0crwdne428212:0</NeedPlay.stages.desperately_wants_to_play.label>
+  <NeedPlay.stages.desperately_wants_to_play.description>crwdns428214:0crwdne428214:0</NeedPlay.stages.desperately_wants_to_play.description>
+  <NeedPlay.stages.really_wants_to_play.label>crwdns428216:0crwdne428216:0</NeedPlay.stages.really_wants_to_play.label>
+  <NeedPlay.stages.really_wants_to_play.description>crwdns428218:0crwdne428218:0</NeedPlay.stages.really_wants_to_play.description>
+  <NeedPlay.stages.wants_to_play.label>crwdns428220:0crwdne428220:0</NeedPlay.stages.wants_to_play.label>
+  <NeedPlay.stages.wants_to_play.description>crwdns428222:0crwdne428222:0</NeedPlay.stages.wants_to_play.description>
+  <NeedPlay.stages.entertained.label>crwdns428224:0crwdne428224:0</NeedPlay.stages.entertained.label>
+  <NeedPlay.stages.entertained.description>crwdns428226:0crwdne428226:0</NeedPlay.stages.entertained.description>
+  <NeedPlay.stages.very_entertained.label>crwdns428228:0crwdne428228:0</NeedPlay.stages.very_entertained.label>
+  <NeedPlay.stages.very_entertained.description>crwdns428230:0crwdne428230:0</NeedPlay.stages.very_entertained.description>
+</LanguageData>
