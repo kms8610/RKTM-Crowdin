@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ResurrectHeavyMech.label>resurrect heavy mechanoid</ResurrectHeavyMech.label>
-  <ResurrectHeavyMech.description>Resurrect a friendly mechanoid of the heavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected.</ResurrectHeavyMech.description>
-  <ResurrectHeavyMech.jobString>Resurrecting mech.</ResurrectHeavyMech.jobString>
+  <ResurrectHeavyMech.label>대형 메카노이드 소생</ResurrectHeavyMech.label>
+  <ResurrectHeavyMech.description>아군 대형 메카노이드를 재활성화하여 부활시킵니다. 메카노이드의 시체가 완전히 파괴되지 않는 이상 다시 되살릴 수 있습니다.</ResurrectHeavyMech.description>
+  <ResurrectHeavyMech.jobString>메카노이드 재활성화 중</ResurrectHeavyMech.jobString>
   
-  <ResurrectLightMech.label>resurrect light mechanoid</ResurrectLightMech.label>
-  <ResurrectLightMech.description>Resurrect a friendly mechanoid of the light weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected.</ResurrectLightMech.description>
-  <ResurrectLightMech.jobString>Resurrecting mech.</ResurrectLightMech.jobString>
+  <ResurrectLightMech.label>소형 메카노이드 소생</ResurrectLightMech.label>
+  <ResurrectLightMech.description>아군 소형 메카노이드를 재활성화하여 부활시킵니다. 메카노이드의 시체가 완전히 파괴되지 않는 이상 다시 되살릴 수 있습니다.</ResurrectLightMech.description>
+  <ResurrectLightMech.jobString>메카노이드 재활성화 중</ResurrectLightMech.jobString>
   
-  <ResurrectMediumMech.label>resurrect medium mechanoid</ResurrectMediumMech.label>
-  <ResurrectMediumMech.description>Resurrect a friendly mechanoid of the medium weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected.</ResurrectMediumMech.description>
-  <ResurrectMediumMech.jobString>Resurrecting mech.</ResurrectMediumMech.jobString>
+  <ResurrectMediumMech.label>중형 메카노이드 소생</ResurrectMediumMech.label>
+  <ResurrectMediumMech.description>아군 중형 메카노이드를 재활성화하여 부활시킵니다. 메카노이드의 시체가 완전히 파괴되지 않는 이상 다시 되살릴 수 있습니다.</ResurrectMediumMech.description>
+  <ResurrectMediumMech.jobString>메카노이드 재활성화 중</ResurrectMediumMech.jobString>
   
-  <ResurrectUltraheavyMech.label>resurrect ultraheavy mechanoid</ResurrectUltraheavyMech.label>
-  <ResurrectUltraheavyMech.description>Resurrect a friendly mechanoid of the ultraheavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected.</ResurrectUltraheavyMech.description>
-  <ResurrectUltraheavyMech.jobString>Resurrecting mech.</ResurrectUltraheavyMech.jobString>
+  <ResurrectUltraheavyMech.label>초대형 메카노이드 소생</ResurrectUltraheavyMech.label>
+  <ResurrectUltraheavyMech.description>아군 초대형 메카노이드를 재활성화하여 부활시킵니다. 메카노이드의 시체가 완전히 파괴되지 않는 이상 다시 되살릴 수 있습니다.</ResurrectUltraheavyMech.description>
+  <ResurrectUltraheavyMech.jobString>메카노이드 재활성화 중</ResurrectUltraheavyMech.jobString>
 </LanguageData>
