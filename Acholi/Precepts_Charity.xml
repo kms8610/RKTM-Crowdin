@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Charity.label>crwdns432284:0crwdne432284:0</Charity.label>
+  <Charity_Essential.label>crwdns436286:0crwdne436286:0</Charity_Essential.label>
+  <Charity_Essential.description>crwdns436288:0crwdne436288:0</Charity_Essential.description>
+  
+  <Charity_Important.label>crwdns436290:0crwdne436290:0</Charity_Important.label>
+  <Charity_Important.description>crwdns436292:0crwdne436292:0</Charity_Important.description>
+  
+  <Charity_Worthwhile.label>crwdns436294:0crwdne436294:0</Charity_Worthwhile.label>
+  <Charity_Worthwhile.description>crwdns436296:0crwdne436296:0</Charity_Worthwhile.description>
 </LanguageData>
