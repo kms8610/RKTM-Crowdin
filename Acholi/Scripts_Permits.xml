@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+    <li>crwdns447460:0crwdne447460:0</li>
+    <li>crwdns447462:0crwdne447462:0</li>
+  </Permit_CallLaborers.questDescriptionAndNameRules.rulesStrings>
+  <Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>crwdns447464:0crwdne447464:0</Permit_CallLaborers.LetterLabelLaborersArrived.slateRef>
+  <Permit_CallLaborers.LetterTextLaborersArrived.slateRef>crwdns447466:0[permitFaction_name]crwdnd447466:0[laborersDurationDays]crwdne447466:0</Permit_CallLaborers.LetterTextLaborersArrived.slateRef>
+  <Permit_CallLaborers.InspectStringDepartShuttle.slateRef>crwdns447468:0crwdne447468:0</Permit_CallLaborers.InspectStringDepartShuttle.slateRef>
+  <Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>crwdns447470:0crwdne447470:0</Permit_CallLaborers.LetterLabelShuttleArrived.slateRef>
+  <Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>crwdns447472:0[permitFaction_name]crwdne447472:0</Permit_CallLaborers.LetterTextShuttleArrivedForLaborers.slateRef>
+  <Permit_CallLaborers.LetterLabelLaborerDied.slateRef>crwdns447474:0{SUBJECT_definite}crwdne447474:0</Permit_CallLaborers.LetterLabelLaborerDied.slateRef>
+  <Permit_CallLaborers.LetterTextLaborerDied.slateRef>crwdns447476:0[permitFaction_name]crwdnd447476:0[permitFaction_name]crwdnd447476:0[goodwillPenaltyPawn]crwdne447476:0</Permit_CallLaborers.LetterTextLaborerDied.slateRef>
+</LanguageData>
