@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>crwdns461392:0[siteFaction_name]crwdnd461392:0[prisoner_nameDef]crwdnd461392:0[map_definite]crwdnd461392:0[underArmedGuard]crwdnd461392:0[prisoner_objective]crwdnd461392:0[prisoner_pronoun]crwdnd461392:0[prisoner_pronoun]crwdnd461392:0[prisoner_age]crwdnd461392:0[prisoner_title]crwdnd461392:0[prisoner_pronoun]crwdnd461392:0[allSitePartsDescriptionsExceptFirst]crwdnd461392:0[formerColonistInfo]crwdnd461392:0[prisonerFullRelationInfo]crwdnd461392:0[prisoner_nameDef]crwdne461392:0</li>
+    <li>crwdns461394:0[prisoner_formerlyColonistInfo]crwdne461394:0</li>
+    <li>crwdns461396:0crwdne461396:0</li>
+    <li>crwdns461398:0crwdne461398:0</li>
+    <li>crwdns461400:0crwdne461400:0</li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>crwdns461402:0[prisoner_nameDef]crwdne461402:0</li>
+    <li>crwdns461404:0[prisoner_nameDef]crwdne461404:0</li>
+    <li>crwdns461406:0[prisoner_nameDef]crwdne461406:0</li>
+    <li>crwdns461408:0[prisoner_nameDef]crwdne461408:0</li>
+    <li>crwdns461410:0[prisoner_nameDef]crwdne461410:0</li>
+    <li>crwdns461412:0[prisoner_nameDef]crwdne461412:0</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+</LanguageData>
