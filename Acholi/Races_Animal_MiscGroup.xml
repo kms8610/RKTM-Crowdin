@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Alphabeaver.label>crwdns460900:0crwdne460900:0</Alphabeaver.label>
+  <Alphabeaver.label>crwdns473470:0crwdne473470:0</Alphabeaver.label>
+  <Alphabeaver.description>crwdns473472:0crwdne473472:0</Alphabeaver.description>
+  <Alphabeaver.tools.left_claw.label>crwdns473474:0crwdne473474:0</Alphabeaver.tools.left_claw.label>
+  <Alphabeaver.tools.right_claw.label>crwdns473476:0crwdne473476:0</Alphabeaver.tools.right_claw.label>
+  <Alphabeaver.tools.head.label>crwdns473478:0crwdne473478:0</Alphabeaver.tools.head.label>
   
-  <Cobra.label>crwdns460902:0crwdne460902:0</Cobra.label>
+  <Cobra.label>crwdns473480:0crwdne473480:0</Cobra.label>
+  <Cobra.description>crwdns473482:0crwdne473482:0</Cobra.description>
+  <Cobra.race.meatLabel>crwdns473484:0crwdne473484:0</Cobra.race.meatLabel>
+  <Cobra.tools.venomfangs.label>crwdns473486:0crwdne473486:0</Cobra.tools.venomfangs.label>
+  <Cobra.tools.head.label>crwdns473488:0crwdne473488:0</Cobra.tools.head.label>
   
-  <Thrumbo.label>crwdns460904:0crwdne460904:0</Thrumbo.label>
-  <Thrumbo.lifeStages.thrumbo_calf.label>crwdns460906:0crwdne460906:0</Thrumbo.lifeStages.thrumbo_calf.label>
-  <Thrumbo.lifeStages.thrumbo_calf.labelPlural>crwdns460908:0crwdne460908:0</Thrumbo.lifeStages.thrumbo_calf.labelPlural>
+  <Thrumbo.label>crwdns473490:0crwdne473490:0</Thrumbo.label>
+  <Thrumbo.description>crwdns473492:0crwdne473492:0</Thrumbo.description>
+  <Thrumbo.tools.horn.label>crwdns473494:0crwdne473494:0</Thrumbo.tools.horn.label>
+  <Thrumbo.tools.left_foot.label>crwdns473496:0crwdne473496:0</Thrumbo.tools.left_foot.label>
+  <Thrumbo.tools.right_foot.label>crwdns473498:0crwdne473498:0</Thrumbo.tools.right_foot.label>
+  <Thrumbo.tools.head.label>crwdns473500:0crwdne473500:0</Thrumbo.tools.head.label>
   
-  <Tortoise.label>crwdns460910:0crwdne460910:0</Tortoise.label>
+  <Tortoise.label>crwdns473502:0crwdne473502:0</Tortoise.label>
+  <Tortoise.description>crwdns473504:0crwdne473504:0</Tortoise.description>
+  <Tortoise.tools.beak.label>crwdns473506:0crwdne473506:0</Tortoise.tools.beak.label>
+  <Tortoise.tools.head.label>crwdns473508:0crwdne473508:0</Tortoise.tools.head.label>
 </LanguageData>
