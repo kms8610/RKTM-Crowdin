@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_Psychite.label>crwdns460526:0crwdne460526:0</Chemical_Psychite.label>
-  <Chemical_Psychite.description>crwdns460528:0crwdne460528:0</Chemical_Psychite.description>
+  <Yayo.label>crwdns473104:0crwdne473104:0</Yayo.label>
+  <Yayo.description>crwdns473106:0crwdne473106:0</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>crwdns473108:0{0}crwdne473108:0</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>crwdns473110:0{0}crwdne473110:0</Yayo.ingestible.ingestReportString>
 </LanguageData>
