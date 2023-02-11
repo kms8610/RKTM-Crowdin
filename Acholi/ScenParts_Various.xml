@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ConfigurePawnsKindDefs.label>crwdns426844:0crwdne426844:0</ConfigurePawnsKindDefs.label>
+  <CreateIncident.label>crwdns466304:0crwdne466304:0</CreateIncident.label>
   
-  <ConfigurePawnsXenotypes.label>crwdns426846:0crwdne426846:0</ConfigurePawnsXenotypes.label>
+  <DisableIncident.label>crwdns466306:0crwdne466306:0</DisableIncident.label>
   
-  <DisableExostriderRemains.label>crwdns426848:0crwdne426848:0</DisableExostriderRemains.label>
+  <ForcedHediff.label>crwdns466308:0crwdne466308:0</ForcedHediff.label>
   
-  <StartingMech.label>crwdns426850:0crwdne426850:0</StartingMech.label>
+  <ForcedTrait.label>crwdns466310:0crwdne466310:0</ForcedTrait.label>
+  
+  <GameCondition_Planetkiller.label>crwdns466312:0crwdne466312:0</GameCondition_Planetkiller.label>
+  
+  <GameStartDialog.label>crwdns466314:0crwdne466314:0</GameStartDialog.label>
+  
+  <Naked.label>crwdns466316:0crwdne466316:0</Naked.label>
+  
+  <NoPossessions.label>crwdns466318:0crwdne466318:0</NoPossessions.label>
+  
+  <OnPawnDeathExplode.label>crwdns466320:0crwdne466320:0</OnPawnDeathExplode.label>
+  
+  <PawnFilter_Age.label>crwdns466322:0crwdne466322:0</PawnFilter_Age.label>
+  
+  <PermanentGameCondition.label>crwdns466324:0crwdne466324:0</PermanentGameCondition.label>
+  
+  <Rule_DisallowBuilding.label>crwdns466326:0crwdne466326:0</Rule_DisallowBuilding.label>
+  
+  <Rule_DisallowDesignator_Hunt.label>crwdns466328:0crwdne466328:0</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Hunt.description>crwdns466330:0crwdne466330:0</Rule_DisallowDesignator_Hunt.description>
+  
+  <Rule_DisallowDesignator_Mine.label>crwdns466332:0crwdne466332:0</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Mine.description>crwdns466334:0crwdne466334:0</Rule_DisallowDesignator_Mine.description>
+  
+  <Rule_DisallowDesignator_Tame.label>crwdns466336:0crwdne466336:0</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_Tame.description>crwdns466338:0crwdne466338:0</Rule_DisallowDesignator_Tame.description>
+  
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>crwdns466340:0crwdne466340:0</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>crwdns466342:0crwdne466342:0</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  
+  <ScatterThingsAnywhere.label>crwdns466344:0crwdne466344:0</ScatterThingsAnywhere.label>
+  
+  <ScatterThingsNearPlayerStart.label>crwdns466346:0crwdne466346:0</ScatterThingsNearPlayerStart.label>
+  
+  <SetNeedLevel.label>crwdns466348:0crwdne466348:0</SetNeedLevel.label>
+  
+  <StartingAnimal.label>crwdns466350:0crwdne466350:0</StartingAnimal.label>
+  
+  <StartingResearch.label>crwdns466352:0crwdne466352:0</StartingResearch.label>
+  
+  <StartingThing_Defined.label>crwdns466354:0crwdne466354:0</StartingThing_Defined.label>
+  
+  <StatFactor.label>crwdns466356:0crwdne466356:0</StatFactor.label>
 </LanguageData>
