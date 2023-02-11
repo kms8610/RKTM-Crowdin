@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DrillArm.label>crwdns445570:0crwdne445570:0</DrillArm.label>
+  <DrillArm.description>crwdns445572:0crwdne445572:0</DrillArm.description>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>crwdns445574:0crwdne445574:0</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.labelNoun>crwdns445576:0crwdne445576:0</DrillArm.labelNoun>
+  
+  <ElbowBlade.label>crwdns445578:0crwdne445578:0</ElbowBlade.label>
+  <ElbowBlade.description>crwdns445580:0crwdne445580:0</ElbowBlade.description>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>crwdns445582:0crwdne445582:0</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.labelNoun>crwdns445584:0crwdne445584:0</ElbowBlade.labelNoun>
+  
+  <FieldHand.label>crwdns445586:0crwdne445586:0</FieldHand.label>
+  <FieldHand.description>crwdns445588:0crwdne445588:0</FieldHand.description>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>crwdns445590:0crwdne445590:0</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.labelNoun>crwdns445592:0crwdne445592:0</FieldHand.labelNoun>
+  
+  <HandTalon.label>crwdns445594:0crwdne445594:0</HandTalon.label>
+  <HandTalon.description>crwdns445596:0crwdne445596:0</HandTalon.description>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>crwdns445598:0crwdne445598:0</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.labelNoun>crwdns445600:0crwdne445600:0</HandTalon.labelNoun>
+  
+  <KneeSpike.label>crwdns445602:0crwdne445602:0</KneeSpike.label>
+  <KneeSpike.description>crwdns445604:0crwdne445604:0</KneeSpike.description>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>crwdns445606:0crwdne445606:0</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.labelNoun>crwdns445608:0crwdne445608:0</KneeSpike.labelNoun>
+  
+  <Mindscrew.label>crwdns445610:0crwdne445610:0</Mindscrew.label>
+  <Mindscrew.description>crwdns445612:0crwdne445612:0</Mindscrew.description>
+  <Mindscrew.labelNoun>crwdns445614:0crwdne445614:0</Mindscrew.labelNoun>
+  
+  <VenomFangs.label>crwdns445616:0crwdne445616:0</VenomFangs.label>
+  <VenomFangs.description>crwdns445618:0crwdne445618:0</VenomFangs.description>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>crwdns445620:0crwdne445620:0</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.labelNoun>crwdns445622:0crwdne445622:0</VenomFangs.labelNoun>
+  
+  <VenomTalon.label>crwdns445624:0crwdne445624:0</VenomTalon.label>
+  <VenomTalon.description>crwdns445626:0crwdne445626:0</VenomTalon.description>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>crwdns445628:0crwdne445628:0</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.labelNoun>crwdns445630:0crwdne445630:0</VenomTalon.labelNoun>
+</LanguageData>
