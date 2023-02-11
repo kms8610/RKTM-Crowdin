@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteVeneratedAnimalMeat.label>crwdns431042:0crwdne431042:0</AteVeneratedAnimalMeat.label>
-  
-  <HuntedVeneratedAnimal.label>crwdns431044:0crwdne431044:0</HuntedVeneratedAnimal.label>
-  
-  <SlaughteredVeneratedAnimal.label>crwdns431046:0crwdne431046:0</SlaughteredVeneratedAnimal.label>
-  
-  <TameVeneratedAnimalDied.label>crwdns431048:0crwdne431048:0</TameVeneratedAnimalDied.label>
+  <AnimalsVenerated.label>crwdns432262:0crwdne432262:0</AnimalsVenerated.label>
 </LanguageData>
