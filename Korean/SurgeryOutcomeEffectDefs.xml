@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>{PATIENT_labelShort}의 수술 실패</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <SurgeryOutcomeBase.outcomes.1.letterText>{SURGEON_labelShort}(이)가 {RECIPE_label}(을)를 하던 도중 수술의 난이도로 인해 {PATIENT_labelShort}에게 치명적인 실수를 저질렀습니다.</SurgeryOutcomeBase.outcomes.1.letterText>
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>{PATIENT_labelShort}의 수술 실패</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <SurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}(을)를 처참하게 실패했습니다.</SurgeryOutcomeBase.outcomes.2.letterText>
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>{PATIENT_labelShort}의 수술 실패</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <SurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}(을)를 어처구니가 없을 정도로 실패했습니다.</SurgeryOutcomeBase.outcomes.3.letterText>
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>{PATIENT_labelShort}의 수술 실패: 중성화됨</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}(을)를 실패했습니다. {PATIENT_labelShort}(이)가 성기능을 상실했습니다.</SurgeryOutcomeBase.outcomes.4.letterText>
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>{PATIENT_labelShort}의 수술 실패: 중성화됨</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}(을)를 실패했습니다. {PATIENT_labelShort}(이)가 성기능을 상실했습니다.</SurgeryOutcomeBase.outcomes.5.letterText>
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>{PATIENT_labelShort}의 수술 실패</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort}(이)가 {PATIENT_labelShort}의 {RECIPE_label}에 실패했습니다.</SurgeryOutcomeBase.outcomes.6.letterText>
+</LanguageData>
