@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+    <li>crwdns437286:0crwdne437286:0</li>
+  </EndGame_ArchonexusVictory.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+    <li>crwdns437288:0crwdne437288:0</li>
+  </EndGame_ArchonexusVictory.questNameRules.rulesStrings>
+  
+  <EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+    <li>crwdns437290:0[descriptionIntro]crwdnd437290:0[playerSettlements]crwdnd437290:0[itsTheir]crwdnd437290:0[requiredWealth_money]crwdnd437290:0[settlementsSingularOrPlural]crwdnd437290:0[onlyHaveHas]crwdnd437290:0[factionPawnsPlural]crwdnd437290:0[playerSettlements]crwdnd437290:0[colonistsAllowed]crwdnd437290:0[animalsAllowed]crwdne437290:0</li>
+    <li>crwdns437292:0crwdne437292:0</li>
+    <li>crwdns437294:0crwdne437294:0</li>
+    <li>crwdns437296:0crwdne437296:0</li>
+    <li>crwdns437298:0crwdne437298:0</li>
+    <li>crwdns437300:0[civilOutlander_name]crwdne437300:0</li>
+    <li>crwdns437302:0crwdne437302:0</li>
+    <li>crwdns437304:0[civilOutlander_pawnsPlural]crwdne437304:0</li>
+    <li>crwdns437306:0crwdne437306:0</li>
+    <li>crwdns437308:0[civilOutlander_name]crwdne437308:0</li>
+    <li>crwdns437310:0crwdne437310:0</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+    <li>crwdns437312:0crwdne437312:0</li>
+  </EndGame_ArchonexusVictory_FirstCycle.questNameRules.rulesStrings>
+  
+  <EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+    <li>crwdns437314:0[cycle1Faction]crwdnd437314:0[otherMapPartHolders]crwdnd437314:0[descriptionStudyRequirement]crwdne437314:0</li>
+    <li>crwdns437316:0[civilOutlander_leader_nameDef]crwdne437316:0</li>
+    <li>crwdns437318:0[wildPeople]crwdne437318:0</li>
+    <li>crwdns437320:0[roughOutlander_name]crwdnd437320:0[roughTribe_name]crwdne437320:0</li>
+    <li>crwdns437322:0[wildPeople]crwdne437322:0</li>
+    <li>crwdns437324:0[roughOutlander_pawnsPlural]crwdne437324:0</li>
+    <li>crwdns437326:0[wildPeople]crwdne437326:0</li>
+    <li>crwdns437328:0crwdne437328:0</li>
+    <li>crwdns437330:0crwdne437330:0</li>
+    <li>crwdns437332:0crwdne437332:0</li>
+  </EndGame_ArchonexusVictory_SecondCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+    <li>crwdns437334:0crwdne437334:0</li>
+  </EndGame_ArchonexusVictory_SecondCycle.questNameRules.rulesStrings>
+  
+  <EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+    <li>crwdns437336:0crwdne437336:0</li>
+    <li>crwdns437338:0[questDescriptionBeforeAccepted]crwdne437338:0</li>
+    <li>crwdns437340:0[factionName]crwdnd437340:0[descriptionStudyRequirement]crwdne437340:0</li>
+    <li>crwdns437342:0[descriptionIntro]crwdnd437342:0[playerSettlements]crwdnd437342:0[descriptionThreats]crwdne437342:0</li>
+    <li>crwdns437344:0[roughTribe_name]crwdne437344:0</li>
+    <li>crwdns437346:0crwdne437346:0</li>
+    <li>crwdns437348:0[roughTribe_name]crwdnd437348:0[roughTribe_leader_nameDef]crwdne437348:0</li>
+    <li>crwdns437350:0crwdne437350:0</li>
+    <li>crwdns437352:0crwdne437352:0</li>
+    <li>crwdns437354:0crwdne437354:0</li>
+    <li>crwdns437356:0crwdne437356:0</li>
+    <li>crwdns437358:0crwdne437358:0</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questContentRules.rulesStrings>
+  <EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+    <li>crwdns437360:0crwdne437360:0</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questDescriptionRules.rulesStrings>
+  <EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+    <li>crwdns437362:0crwdne437362:0</li>
+  </EndGame_ArchonexusVictory_ThirdCycle.questNameRules.rulesStrings>
+</LanguageData>
