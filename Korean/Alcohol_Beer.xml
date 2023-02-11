@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_Wort.label>맥아즙 만들기</Make_Wort.label>
-  <Make_Wort.description>술보리로 맥아즙을 만듭니다.</Make_Wort.description>
-  <Make_Wort.jobString>맥아즙 만드는 중</Make_Wort.jobString>
+  <Beer.label>맥주</Beer.label>
+  <Beer.description>물을 제외한다면 인류가 마신 최초의 음료수입니다. 맛있지만 사람을 취하게 만듭니다. 과다 섭취는 의식 상실과 알코올 중독으로 이어질 수 있습니다.</Beer.description>
+  <Beer.ingestible.ingestCommandString>{0} 마시기</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>{0} 마시는 중</Beer.ingestible.ingestReportString>
+  <Beer.tools.bottle.label>병</Beer.tools.bottle.label>
+  <Beer.tools.neck.label>병목</Beer.tools.neck.label>
+  
+  <Wort.label>맥아즙</Wort.label>
+  <Wort.description>발효되지 않은 맥주입니다. 마실 수 있는 맥주가 되려면 통에서 발효해야 합니다.</Wort.description>
 </LanguageData>
