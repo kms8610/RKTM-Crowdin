@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Artillery_AutoMortar.label>crwdns449004:0crwdne449004:0</Artillery_AutoMortar.label>
+  <Artillery_AutoMortar.verbs.Verb_Shoot.label>crwdns449006:0crwdne449006:0</Artillery_AutoMortar.verbs.Verb_Shoot.label>
+  
+  <Bullet_MiniSlug.label>crwdns449008:0crwdne449008:0</Bullet_MiniSlug.label>
+  
+  <Gun_ChargeBlasterHeavyTurret.label>crwdns449010:0crwdne449010:0</Gun_ChargeBlasterHeavyTurret.label>
+  <Gun_ChargeBlasterHeavyTurret.description>crwdns449012:0crwdne449012:0</Gun_ChargeBlasterHeavyTurret.description>
+  <Gun_ChargeBlasterHeavyTurret.tools.barrel.label>crwdns449014:0crwdne449014:0</Gun_ChargeBlasterHeavyTurret.tools.barrel.label>
+  <Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>crwdns449016:0crwdne449016:0</Gun_ChargeBlasterHeavyTurret.verbs.Verb_Shoot.label>
+  
+  <Gun_InfernoCannonTurret.label>crwdns449018:0crwdne449018:0</Gun_InfernoCannonTurret.label>
+  <Gun_InfernoCannonTurret.description>crwdns449020:0crwdne449020:0</Gun_InfernoCannonTurret.description>
+  <Gun_InfernoCannonTurret.tools.barrel.label>crwdns449022:0crwdne449022:0</Gun_InfernoCannonTurret.tools.barrel.label>
+  <Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>crwdns449024:0crwdne449024:0</Gun_InfernoCannonTurret.verbs.Verb_Shoot.label>
+  
+  <Gun_MiniTurretMech.label>crwdns449026:0crwdne449026:0</Gun_MiniTurretMech.label>
+  <Gun_MiniTurretMech.description>crwdns449028:0crwdne449028:0</Gun_MiniTurretMech.description>
+  <Gun_MiniTurretMech.verbs.Verb_Shoot.label>crwdns449030:0crwdne449030:0</Gun_MiniTurretMech.verbs.Verb_Shoot.label>
+  
+  <Turret_AutoChargeBlaster.label>crwdns449032:0crwdne449032:0</Turret_AutoChargeBlaster.label>
+  <Turret_AutoChargeBlaster.description>crwdns449034:0crwdne449034:0</Turret_AutoChargeBlaster.description>
+  
+  <Turret_AutoInferno.label>crwdns449036:0crwdne449036:0</Turret_AutoInferno.label>
+  <Turret_AutoInferno.description>crwdns449038:0crwdne449038:0</Turret_AutoInferno.description>
+  
+  <Turret_AutoMiniTurret.label>crwdns449040:0crwdne449040:0</Turret_AutoMiniTurret.label>
+  <Turret_AutoMiniTurret.description>crwdns449042:0crwdne449042:0</Turret_AutoMiniTurret.description>
+  
+  <Turret_AutoMortar.label>crwdns449044:0crwdne449044:0</Turret_AutoMortar.label>
+  <Turret_AutoMortar.description>crwdns449046:0crwdne449046:0</Turret_AutoMortar.description>
+</LanguageData>
