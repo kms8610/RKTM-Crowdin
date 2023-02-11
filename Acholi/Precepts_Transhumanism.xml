@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AgeReversal.label>crwdns432342:0crwdne432342:0</AgeReversal.label>
+  <AgeReversal_Demanded.label>crwdns437042:0crwdne437042:0</AgeReversal_Demanded.label>
+  <AgeReversal_Demanded.description>crwdns437044:0crwdne437044:0</AgeReversal_Demanded.description>
   
-  <Biosculpting.label>crwdns432344:0crwdne432344:0</Biosculpting.label>
+  <BioSculpter_Despised.label>crwdns437046:0crwdne437046:0</BioSculpter_Despised.label>
+  <BioSculpter_Despised.description>crwdns437048:0crwdne437048:0</BioSculpter_Despised.description>
   
-  <NeuralSupercharge.label>crwdns432346:0crwdne432346:0</NeuralSupercharge.label>
+  <Biosculpting_Accelerated.label>crwdns437050:0crwdne437050:0</Biosculpting_Accelerated.label>
+  <Biosculpting_Accelerated.description>crwdns437052:0crwdne437052:0</Biosculpting_Accelerated.description>
   
-  <SleepAccelerator.label>crwdns432348:0crwdne432348:0</SleepAccelerator.label>
+  <NeuralSupercharge_Preferred.label>crwdns437054:0crwdne437054:0</NeuralSupercharge_Preferred.label>
+  <NeuralSupercharge_Preferred.description>crwdns437056:0crwdne437056:0</NeuralSupercharge_Preferred.description>
+  
+  <SleepAccelerator_Preferred.label>crwdns437058:0crwdne437058:0</SleepAccelerator_Preferred.label>
+  <SleepAccelerator_Preferred.description>crwdns437060:0crwdne437060:0</SleepAccelerator_Preferred.description>
 </LanguageData>
