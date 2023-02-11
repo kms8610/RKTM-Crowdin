@@ -1,81 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalBed.label>동물 침대</AnimalBed.label>
-  <AnimalBed.description>동물이 잘 수 있는 부드러운 침대입니다. 모든 크기의 동물에게 적합합니다.</AnimalBed.description>
+  <BabyDecoration.label>아기 장식</BabyDecoration.label>
+  <BabyDecoration.description>유아를 위한 장식입니다. 성인이 아기와 놀아줄 때 놀이 욕구가 차는 속도를 향상합니다. 아이들의 놀이 구역에 배치하세요.</BabyDecoration.description>
   
-  <AnimalSleepingBox.label>동물 상자</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>작은 동물이 잘 수 있는 상자입니다. 닭, 고양이, 작은 개까지 들어갈 수 있습니다.</AnimalSleepingBox.description>
+  <BabySleepingSpot.label>아기 잠자리</BabySleepingSpot.label>
+  <BabySleepingSpot.description>바닥에 아기를 둬야 하는 위치를 정합니다. 불편합니다.</BabySleepingSpot.description>
   
-  <AnimalSleepingSpot.label>동물 잠자리</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>동물이 잠을 청할 위치를 지정합니다.</AnimalSleepingSpot.description>
+  <Blackboard.label>칠판</Blackboard.label>
+  <Blackboard.description>돌같은 질감의, 분필로 글을 쓰기 위한 평평한 표면입니다. 교실 책상 근처에 배치하면 수업 중 아이들의 학습 속도를 향상합니다. 한 번에 세 개의 칠판 효과를 받을 수 있습니다.</Blackboard.description>
+  <Blackboard.comps.CompStatEntry.reportText>수업이 진행되는 책상 근처에 배치되면 학생의 학습률을 증가시킵니다. 최대 3개의 칠판이 중첩됩니다.</Blackboard.comps.CompStatEntry.reportText>
+  <Blackboard.comps.CompStatEntry.statLabel>학습 속도 보너스</Blackboard.comps.CompStatEntry.statLabel>
   
-  <Armchair.label>팔걸이 의자</Armchair.label>
-  <Armchair.description>커다랗고 부드럽고 편안한 의자입니다. 휴식하기에 좋습니다.</Armchair.description>
+  <Crib.label>아기 침대</Crib.label>
+  <Crib.description>안전 칸막이로 양옆을 막은 편안한 침대입니다. 졸린 아기에게 안성맞춤입니다. 높은 품질의 침대는 아기를 행복하게 해줍니다. 아기 침대는 한 방에 여러 개를 배치해도 방이 막사로 취급되지 않습니다.</Crib.description>
   
-  <Bed.label>베드</Bed.label>
-  <Bed.description>아늑한 매트리스와 천으로 덮여있는 침대입니다.</Bed.description>
+  <SchoolDesk.label>교실 책상</SchoolDesk.label>
+  <SchoolDesk.description>어른이 아이를 가르칠 수 있는 책상입니다.</SchoolDesk.description>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>이것에 영향을 받는 아이들이 얼마나 더 빠르게 학습을 배우는지에 대한 값</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>학습 속도 보너스</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>학습 속도 보너스</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
   
-  <Bedroll.label>침낭</Bedroll.label>
-  <Bedroll.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대입니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</Bedroll.description>
-  
-  <BedrollDouble.label>큰 침낭</BedrollDouble.label>
-  <BedrollDouble.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대로, 두 명까지 사용할 수 있습니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</BedrollDouble.description>
-  
-  <DiningChair.label>식탁 의자</DiningChair.label>
-  <DiningChair.description>사람들이 앉을 수 있는 편안하고 매력적인 의자입니다.</DiningChair.description>
-  
-  <DoubleBed.label>큰 침대</DoubleBed.label>
-  <DoubleBed.description>간단한 2인용 침대입니다.</DoubleBed.description>
-  
-  <DoubleSleepingSpot.label>큰 잠자리</DoubleSleepingSpot.label>
-  <DoubleSleepingSpot.description>바닥에 두명이 함께 잠을 청할 위치를 정합니다. 불편합니다.</DoubleSleepingSpot.description>
-  
-  <Dresser.label>옷장</Dresser.label>
-  <Dresser.description>주위 모든 침대의 편안함을 개선합니다. 한 침대는 옷장 하나의 영향만 받습니다.</Dresser.description>
-  
-  <EndTable.label>협탁</EndTable.label>
-  <EndTable.description>다른 가구 옆에 배치하는 작은 탁자입니다. 근처 침대의 머리맡에 붙여서 배치하면 편안함을 개선합니다. 한 침대는 협탁 하나의 영향만 받습니다.</EndTable.description>
-  
-  <HospitalBed.label>회복 침대</HospitalBed.label>
-  <HospitalBed.description>부상자들을 위한 특별한 침대입니다. 치료와 수술의 질을 높입니다.</HospitalBed.description>
-  
-  <PlantPot.label>화분</PlantPot.label>
-  <PlantPot.description>꽃으로 주변 사람들의 기분을 좋게 만듭니다.</PlantPot.description>
-  
-  <RoyalBed.label>고급 침대</RoyalBed.label>
-  <RoyalBed.description>금으로 장식까지 한, 높으신 분들을 위한 호화로운 침대입니다. 매우 편하고 두 명까지 누울 수 있습니다.</RoyalBed.description>
-  
-  <Shelf.label>선반</Shelf.label>
-  <Shelf.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</Shelf.description>
-  
-  <ShelfSmall.label>소형 선반</ShelfSmall.label>
-  <ShelfSmall.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 소형 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</ShelfSmall.description>
-  
-  <SleepingSpot.label>잠자리</SleepingSpot.label>
-  <SleepingSpot.description>바닥에 정착민들이 잠을 청할 위치를 정합니다. 불편합니다.</SleepingSpot.description>
-  
-  <StandingLamp.label>스탠드 조명</StandingLamp.label>
-  <StandingLamp.description>주변을 밝게 비추는 일반적인 전등입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다.</StandingLamp.description>
-  
-  <Stool.label>의자</Stool.label>
-  <Stool.description>앉을 수 있는 간단한 받침대입니다.</Stool.description>
-  
-  <SunLamp.label>태양등</SunLamp.label>
-  <SunLamp.description>작물이 충분히 자랄 수 있도록 주변을 밝게 비춰줍니다. 밤에는 자동으로 꺼집니다.</SunLamp.description>
-  <SunLamp.comps.CompSchedule.offMessage>작물 휴식기에 꺼짐</SunLamp.comps.CompSchedule.offMessage>
-  
-  <Table1x2c.label>식탁 (1x2)</Table1x2c.label>
-  <Table1x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table1x2c.description>
-  
-  <Table2x2c.label>식탁 (2x2)</Table2x2c.label>
-  <Table2x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x2c.description>
-  
-  <Table2x4c.label>식탁 (2x4)</Table2x4c.label>
-  <Table2x4c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x4c.description>
-  
-  <Table3x3c.label>식탁 (3x3)</Table3x3c.label>
-  <Table3x3c.description>의자가 있으면 여기서 밥을 먹습니다.</Table3x3c.description>
-  
-  <TorchLamp.label>횃불</TorchLamp.label>
-  <TorchLamp.description>주변을 밝게 비추는 나무 횃불입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다. 나무를 자동으로 다시 넣을 수 있습니다. 약한 열을 발산합니다.</TorchLamp.description>
+  <ToyBox.label>장난감 상자</ToyBox.label>
+  <ToyBox.description>다양하고 조그마한 장난감을 담은 상자입니다. 아기들과 놀아줄 때 사용할 수 있습니다.</ToyBox.description>
 </LanguageData>
