@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildLabor.label>아동 노동</ChildLabor.label>
+  <ChildLabor_Disapproved.label>못마땅함</ChildLabor_Disapproved.label>
+  <ChildLabor_Disapproved.description>어린 시절은 신성하다. 우리는 아이들을 아이들답게 놔둬야 한다.</ChildLabor_Disapproved.description>
+  <ChildLabor_Disapproved.comps.0.description>아이에게 할당된 작업</ChildLabor_Disapproved.comps.0.description>
+  
+  <ChildLabor_Encouraged.label>권장</ChildLabor_Encouraged.label>
+  <ChildLabor_Encouraged.description>아이들은 일을 통해 인격을 형성한다. 모두가 기여한다는 것이 중요하다.</ChildLabor_Encouraged.description>
+  <ChildLabor_Encouraged.comps.0.description>아이에게 할당된 오락</ChildLabor_Encouraged.comps.0.description>
 </LanguageData>
