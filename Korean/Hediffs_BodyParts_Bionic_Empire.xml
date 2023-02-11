@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AestheticNose.label>인상 교정기</AestheticNose.label>
+  <AestheticNose.description>인상 교정기를 이식했습니다.</AestheticNose.description>
+  <AestheticNose.labelNoun>인상 교정기</AestheticNose.labelNoun>
+  
+  <AestheticShaper.label>외형 교정기</AestheticShaper.label>
+  <AestheticShaper.description>외형 교정기를 이식했습니다.</AestheticShaper.description>
+  <AestheticShaper.labelNoun>외형 교정기</AestheticShaper.labelNoun>
+  
+  <ArmorskinGland.label>갑옷 피부</ArmorskinGland.label>
+  <ArmorskinGland.description>갑옷 피부를 이식했습니다.</ArmorskinGland.description>
+  <ArmorskinGland.labelNoun>갑옷 피부</ArmorskinGland.labelNoun>
+  
+  <CircadianAssistant.label>생체리듬 보조기</CircadianAssistant.label>
+  <CircadianAssistant.description>생체리듬 보조기를 설치했습니다.</CircadianAssistant.description>
+  <CircadianAssistant.labelNoun>생체리듬 보조기</CircadianAssistant.labelNoun>
+  
+  <CircadianHalfCycler.label>생체리듬 반감기</CircadianHalfCycler.label>
+  <CircadianHalfCycler.description>생체리듬 반감기를 이식했습니다.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.labelNoun>생체리듬 반감기</CircadianHalfCycler.labelNoun>
+  
+  <Coagulator.label>항출혈기</Coagulator.label>
+  <Coagulator.description>항출혈기를 이식했습니다.</Coagulator.description>
+  <Coagulator.labelNoun>항출혈기</Coagulator.labelNoun>
+  
+  <DetoxifierStomach.label>해독강화 위</DetoxifierStomach.label>
+  <DetoxifierStomach.description>해독강화 위를 이식했습니다.</DetoxifierStomach.description>
+  <DetoxifierStomach.labelNoun>해독강화 위</DetoxifierStomach.labelNoun>
+  
+  <GastroAnalyzer.label>후각 증폭기</GastroAnalyzer.label>
+  <GastroAnalyzer.description>후각 증폭기를 이식했습니다.</GastroAnalyzer.description>
+  <GastroAnalyzer.labelNoun>후각 증폭기</GastroAnalyzer.labelNoun>
+  
+  <HealingEnhancer.label>재생력 증진기</HealingEnhancer.label>
+  <HealingEnhancer.description>재생력 증진기를 설치했습니다.</HealingEnhancer.description>
+  <HealingEnhancer.labelNoun>재생력 증진기</HealingEnhancer.labelNoun>
+  
+  <Immunoenhancer.label>면역 증진기</Immunoenhancer.label>
+  <Immunoenhancer.description>면역 증진기를 이식했습니다.</Immunoenhancer.description>
+  <Immunoenhancer.labelNoun>면역 증진기</Immunoenhancer.labelNoun>
+  
+  <LearningAssistant.label>학습 보조기</LearningAssistant.label>
+  <LearningAssistant.description>학습 보조기를 이식했습니다.</LearningAssistant.description>
+  <LearningAssistant.labelNoun>학습 보조기</LearningAssistant.labelNoun>
+  
+  <LoveEnhancer.label>애정 증진기</LoveEnhancer.label>
+  <LoveEnhancer.description>애정 증진기를 설치했습니다.</LoveEnhancer.description>
+  <LoveEnhancer.labelNoun>애정 증진기</LoveEnhancer.labelNoun>
+  
+  <Neurocalculator.label>연산 보조기</Neurocalculator.label>
+  <Neurocalculator.description>연산 보조기를 이식했습니다.</Neurocalculator.description>
+  <Neurocalculator.labelNoun>연산 보조기</Neurocalculator.labelNoun>
+  
+  <NuclearStomach.label>핵분열 위</NuclearStomach.label>
+  <NuclearStomach.description>핵분열 위를 이식했습니다.</NuclearStomach.description>
+  <NuclearStomach.labelNoun>핵분열 위</NuclearStomach.labelNoun>
+  
+  <ReprocessorStomach.label>소화강화 위</ReprocessorStomach.label>
+  <ReprocessorStomach.description>소화강화 위를 이식했습니다.</ReprocessorStomach.description>
+  <ReprocessorStomach.labelNoun>소화강화 위</ReprocessorStomach.labelNoun>
+  
+  <StoneskinGland.label>바위 피부</StoneskinGland.label>
+  <StoneskinGland.description>바위 피부를 이식했습니다.</StoneskinGland.description>
+  <StoneskinGland.labelNoun>바위 피부</StoneskinGland.labelNoun>
+  
+  <ToughskinGland.label>튼튼한 피부</ToughskinGland.label>
+  <ToughskinGland.description>튼튼한 피부를 이식했습니다.</ToughskinGland.description>
+  <ToughskinGland.labelNoun>튼튼한 피부</ToughskinGland.labelNoun>
+</LanguageData>
