@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BecameLover.label>crwdns468080:0crwdne468080:0</BecameLover.label>
+  <BecameLover.rulePack.rulesStrings>
+    <li>crwdns468082:0[PURSUER_nameDef]crwdnd468082:0[ACCEPTER_nameDef]crwdne468082:0</li>
+    <li>crwdns468084:0[PURSUER_nameFull]crwdnd468084:0[ACCEPTER_nameFull]crwdnd468084:0[circumstance_group]crwdne468084:0</li>
+    <li>crwdns468086:0[PURSUER_nameFull]crwdnd468086:0[ACCEPTER_nameFull]crwdnd468086:0[circumstance_group]crwdne468086:0</li>
+    <li>crwdns468088:0[PURSUER_nameFull]crwdnd468088:0[ACCEPTER_nameFull]crwdnd468088:0[circumstance_group]crwdne468088:0</li>
+    <li>crwdns468090:0[PURSUER_nameFull]crwdnd468090:0[ACCEPTER_nameFull]crwdnd468090:0[circumstance_group]crwdne468090:0</li>
+    <li>crwdns468092:0crwdne468092:0</li>
+    <li>crwdns468094:0crwdne468094:0</li>
+    <li>crwdns468096:0crwdne468096:0</li>
+    <li>crwdns468098:0crwdne468098:0</li>
+    <li>crwdns468100:0[PURSUER_nameDef]crwdnd468100:0[ACCEPTER_nameDef]crwdne468100:0</li>
+    <li>crwdns468102:0[PURSUER_nameDef]crwdnd468102:0[ACCEPTER_nameDef]crwdne468102:0</li>
+    <li>crwdns468104:0[PURSUER_nameDef]crwdnd468104:0[ACCEPTER_nameDef]crwdne468104:0</li>
+    <li>crwdns468106:0[PURSUER_nameDef]crwdnd468106:0[ACCEPTER_nameDef]crwdne468106:0</li>
+    <li>crwdns468108:0[PURSUER_nameDef]crwdnd468108:0[ACCEPTER_nameDef]crwdne468108:0</li>
+    <li>crwdns468110:0[PURSUER_nameDef]crwdnd468110:0[ACCEPTER_nameDef]crwdne468110:0</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <BondedWithAnimal.label>crwdns468112:0crwdne468112:0</BondedWithAnimal.label>
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>crwdns468114:0[HUMAN_nameDef]crwdnd468114:0[ANIMAL_nameDef]crwdne468114:0</li>
+    <li>crwdns468116:0[HUMAN_nameFull]crwdnd468116:0[ANIMAL_nameFull]crwdnd468116:0[circumstance_group]crwdne468116:0</li>
+    <li>crwdns468118:0[HUMAN_nameFull]crwdnd468118:0[ANIMAL_nameFull]crwdnd468118:0[circumstance_group]crwdne468118:0</li>
+    <li>crwdns468120:0[HUMAN_nameFull]crwdnd468120:0[HUMAN_possessive]crwdnd468120:0[ANIMAL_nameFull]crwdnd468120:0[circumstance_group]crwdne468120:0</li>
+    <li>crwdns468122:0crwdne468122:0</li>
+    <li>crwdns468124:0[ANIMAL_nameDef]crwdne468124:0</li>
+    <li>crwdns468126:0crwdne468126:0</li>
+    <li>crwdns468128:0[ANIMAL_nameDef]crwdnd468128:0[HUMAN_nameDef]crwdne468128:0</li>
+    <li>crwdns468130:0[ANIMAL_nameDef]crwdne468130:0</li>
+    <li>crwdns468132:0[ANIMAL_nameDef]crwdne468132:0</li>
+    <li>crwdns468134:0[ANIMAL_nameDef]crwdne468134:0</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <Breakup.label>crwdns468136:0crwdne468136:0</Breakup.label>
+  <Breakup.rulePack.rulesStrings>
+    <li>crwdns468138:0[DUMPER_nameDef]crwdnd468138:0[REJECTED_nameDef]crwdne468138:0</li>
+    <li>crwdns468140:0[DUMPER_nameFull]crwdnd468140:0[REJECTED_nameFull]crwdnd468140:0[circumstance_group]crwdne468140:0</li>
+    <li>crwdns468142:0[DUMPER_nameFull]crwdnd468142:0[REJECTED_nameFull]crwdnd468142:0[circumstance_group]crwdne468142:0</li>
+    <li>crwdns468144:0[DUMPER_nameFull]crwdnd468144:0[REJECTED_nameFull]crwdnd468144:0[circumstance_group]crwdne468144:0</li>
+    <li>crwdns468146:0[DUMPER_nameFull]crwdnd468146:0[REJECTED_nameFull]crwdnd468146:0[circumstance_group]crwdne468146:0</li>
+    <li>crwdns468148:0crwdne468148:0</li>
+    <li>crwdns468150:0crwdne468150:0</li>
+    <li>crwdns468152:0crwdne468152:0</li>
+    <li>crwdns468154:0[REJECTED_nameDef]crwdne468154:0</li>
+    <li>crwdns468156:0[REJECTED_nameDef]crwdne468156:0</li>
+    <li>crwdns468158:0[REJECTED_nameDef]crwdne468158:0</li>
+    <li>crwdns468160:0[DUMPER_nameDef]crwdnd468160:0[REJECTED_nameDef]crwdne468160:0</li>
+    <li>crwdns468162:0[REJECTED_nameDef]crwdne468162:0</li>
+    <li>crwdns468164:0[REJECTED_nameDef]crwdnd468164:0[DUMPER_nameDef]crwdne468164:0</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <Marriage.label>crwdns468166:0crwdne468166:0</Marriage.label>
+  <Marriage.rulePack.rulesStrings>
+    <li>crwdns468168:0[SPOUSE1_nameDef]crwdnd468168:0[SPOUSE2_nameDef]crwdne468168:0</li>
+    <li>crwdns468170:0[SPOUSE1_nameFull]crwdnd468170:0[SPOUSE2_nameFull]crwdnd468170:0[circumstance_group]crwdne468170:0</li>
+    <li>crwdns468172:0[SPOUSE1_nameFull]crwdnd468172:0[SPOUSE1_possessive]crwdnd468172:0[SPOUSE2_nameFull]crwdnd468172:0[circumstance_group]crwdne468172:0</li>
+    <li>crwdns468174:0[SPOUSE1_nameFull]crwdnd468174:0[SPOUSE2_nameFull]crwdnd468174:0[circumstance_group]crwdne468174:0</li>
+    <li>crwdns468176:0[SPOUSE1_nameFull]crwdnd468176:0[SPOUSE2_nameFull]crwdnd468176:0[circumstance_group]crwdne468176:0</li>
+    <li>crwdns468178:0crwdne468178:0</li>
+    <li>crwdns468180:0crwdne468180:0</li>
+    <li>crwdns468182:0crwdne468182:0</li>
+    <li>crwdns468184:0[SPOUSE1_nameDef]crwdnd468184:0[SPOUSE2_nameDef]crwdne468184:0</li>
+    <li>crwdns468186:0[SPOUSE1_nameDef]crwdnd468186:0[SPOUSE2_nameDef]crwdne468186:0</li>
+    <li>crwdns468188:0[SPOUSE1_nameDef]crwdnd468188:0[SPOUSE2_nameDef]crwdne468188:0</li>
+    <li>crwdns468190:0[SPOUSE1_nameDef]crwdnd468190:0[SPOUSE2_nameDef]crwdne468190:0</li>
+    <li>crwdns468192:0[SPOUSE1_nameDef]crwdnd468192:0[SPOUSE2_nameDef]crwdne468192:0</li>
+    <li>crwdns468194:0[SPOUSE1_nameDef]crwdnd468194:0[SPOUSE2_nameDef]crwdne468194:0</li>
+  </Marriage.rulePack.rulesStrings>
+</LanguageData>
