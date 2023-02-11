@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>crwdns445900:0crwdne445900:0</BuildMonumentWorker.LetterLabelMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>crwdns445902:0[keepMonumentTicks_duration]crwdnd445902:0[asker_factionName]crwdnd445902:0[goodwillChangeIfMonumentDestroyed]crwdne445902:0</BuildMonumentWorker.LetterTextMonumentConstructed.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>crwdns445904:0crwdne445904:0</BuildMonumentWorker.LetterLabelMonumentRuined.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentRuined.slateRef>crwdns445906:0[asker_nameDef]crwdnd445906:0[asker_faction_name]crwdnd445906:0[goodwillChangeIfMonumentDestroyed]crwdne445906:0</BuildMonumentWorker.LetterTextMonumentRuined.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>crwdns445908:0{0}crwdne445908:0</BuildMonumentWorker.DontDestroyMonumentForDays.slateRef>
+  <BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>crwdns445910:0{0}crwdne445910:0</BuildMonumentWorker.DontDestroyMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.KeepMonument.slateRef>crwdns445912:0{0}crwdne445912:0</BuildMonumentWorker.KeepMonument.slateRef>
+  <BuildMonumentWorker.MessageMonumentViolated.slateRef>crwdns445914:0[resolvedQuestName]crwdne445914:0</BuildMonumentWorker.MessageMonumentViolated.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDays.slateRef>crwdns445916:0{0}crwdne445916:0</BuildMonumentWorker.ProtectMonumentForDays.slateRef>
+  <BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>crwdns445918:0{0}crwdne445918:0</BuildMonumentWorker.ProtectMonumentForDaysTip.slateRef>
+  <BuildMonumentWorker.ProtectMonument.slateRef>crwdns445920:0{0}crwdne445920:0</BuildMonumentWorker.ProtectMonument.slateRef>
+  <BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>crwdns445922:0crwdne445922:0</BuildMonumentWorker.LetterLabelMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>crwdns445924:0crwdne445924:0</BuildMonumentWorker.LetterTextMonumentMarkerArrived.slateRef>
+  <BuildMonumentWorker.LetterLabelTimeExpired.slateRef>crwdns445926:0crwdne445926:0</BuildMonumentWorker.LetterLabelTimeExpired.slateRef>
+  <BuildMonumentWorker.LetterTextTimeExpired.slateRef>crwdns445928:0[failLetterEndingCommon]crwdne445928:0</BuildMonumentWorker.LetterTextTimeExpired.slateRef>
+</LanguageData>
