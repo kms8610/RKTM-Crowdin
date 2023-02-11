@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BondedThoughtCalm.stages.s_calm_thoughts.label>crwdns449494:0{WEAPON}crwdne449494:0</BondedThoughtCalm.stages.s_calm_thoughts.label>
-  <BondedThoughtCalm.stages.s_calm_thoughts.description>crwdns449496:0{WEAPON}crwdne449496:0</BondedThoughtCalm.stages.s_calm_thoughts.description>
+  <HungerMaker.label>crwdns449572:0crwdne449572:0</HungerMaker.label>
+  <HungerMaker.description>crwdns449574:0crwdne449574:0</HungerMaker.description>
   
-  <BondedThoughtKind.stages.s_kind_thoughts.label>crwdns449498:0{WEAPON}crwdne449498:0</BondedThoughtKind.stages.s_kind_thoughts.label>
-  <BondedThoughtKind.stages.s_kind_thoughts.description>crwdns449500:0{WEAPON}crwdne449500:0</BondedThoughtKind.stages.s_kind_thoughts.description>
+  <Jealous.label>crwdns449576:0crwdne449576:0</Jealous.label>
+  <Jealous.description>crwdns449578:0crwdne449578:0</Jealous.description>
   
-  <BondedThoughtMuttering.stages.s_muttering.label>crwdns449502:0{WEAPON}crwdne449502:0</BondedThoughtMuttering.stages.s_muttering.label>
-  <BondedThoughtMuttering.stages.s_muttering.description>crwdns449504:0{WEAPON}crwdne449504:0</BondedThoughtMuttering.stages.s_muttering.description>
+  <NeedKill.label>crwdns449580:0crwdne449580:0</NeedKill.label>
+  <NeedKill.description>crwdns449582:0crwdne449582:0</NeedKill.description>
   
-  <BondedThoughtWailing.stages.s_wailing.label>crwdns449506:0{WEAPON}crwdne449506:0</BondedThoughtWailing.stages.s_wailing.label>
-  <BondedThoughtWailing.stages.s_wailing.description>crwdns449508:0{WEAPON}crwdne449508:0</BondedThoughtWailing.stages.s_wailing.description>
+  <NeuralHeatRecoveryGain.label>crwdns449584:0crwdne449584:0</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>crwdns449586:0crwdne449586:0</NeuralHeatRecoveryGain.description>
   
-  <JealousRage.stages.s_jealousy.label>crwdns449510:0{WEAPON}crwdne449510:0</JealousRage.stages.s_jealousy.label>
-  <JealousRage.stages.s_jealousy.description>crwdns449512:0{WEAPON}crwdne449512:0</JealousRage.stages.s_jealousy.description>
+  <NeverBond.label>crwdns449588:0crwdne449588:0</NeverBond.label>
+  <NeverBond.description>crwdns449590:0crwdne449590:0</NeverBond.description>
   
-  <OnKill_BadThought.stages.s_kill_sorrow.label>crwdns449514:0{WEAPON}crwdne449514:0</OnKill_BadThought.stages.s_kill_sorrow.label>
-  <OnKill_BadThought.stages.s_kill_sorrow.description>crwdns449516:0{WEAPON}crwdne449516:0</OnKill_BadThought.stages.s_kill_sorrow.description>
+  <NoPain.label>crwdns449592:0crwdne449592:0</NoPain.label>
+  <NoPain.description>crwdns449594:0crwdne449594:0</NoPain.description>
   
-  <OnKill_GoodThought.stages.s_kill_happiness.label>crwdns449518:0{WEAPON}crwdne449518:0</OnKill_GoodThought.stages.s_kill_happiness.label>
-  <OnKill_GoodThought.stages.s_kill_happiness.description>crwdns449520:0{WEAPON}crwdne449520:0</OnKill_GoodThought.stages.s_kill_happiness.description>
+  <OnKill_PsyfocusGain.label>crwdns449596:0crwdne449596:0</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.description>crwdns449598:0crwdne449598:0</OnKill_PsyfocusGain.description>
+  
+  <OnKill_ThoughtBad.label>crwdns449600:0crwdne449600:0</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.description>crwdns449602:0crwdne449602:0</OnKill_ThoughtBad.description>
+  
+  <OnKill_ThoughtGood.label>crwdns449604:0crwdne449604:0</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.description>crwdns449606:0crwdne449606:0</OnKill_ThoughtGood.description>
+  
+  <PsychicSensitivityDownMajor.label>crwdns449608:0crwdne449608:0</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>crwdns449610:0crwdne449610:0</PsychicSensitivityDownMajor.description>
+  
+  <PsychicSensitivityDownMinor.label>crwdns449612:0crwdne449612:0</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>crwdns449614:0crwdne449614:0</PsychicSensitivityDownMinor.description>
+  
+  <PsychicSensitivityUpMajor.label>crwdns449616:0crwdne449616:0</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>crwdns449618:0crwdne449618:0</PsychicSensitivityUpMajor.description>
+  
+  <PsychicSensitivityUpMinor.label>crwdns449620:0crwdne449620:0</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>crwdns449622:0crwdne449622:0</PsychicSensitivityUpMinor.description>
+  
+  <PsyfocusMeditationBonus.label>crwdns449624:0crwdne449624:0</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>crwdns449626:0crwdne449626:0</PsyfocusMeditationBonus.description>
+  
+  <SpeedBoost.label>crwdns449628:0crwdne449628:0</SpeedBoost.label>
+  <SpeedBoost.description>crwdns449630:0crwdne449630:0</SpeedBoost.description>
+  
+  <ThoughtCalm.label>crwdns449632:0crwdne449632:0</ThoughtCalm.label>
+  <ThoughtCalm.description>crwdns449634:0crwdne449634:0</ThoughtCalm.description>
+  
+  <ThoughtKind.label>crwdns449636:0crwdne449636:0</ThoughtKind.label>
+  <ThoughtKind.description>crwdns449638:0crwdne449638:0</ThoughtKind.description>
+  
+  <ThoughtMuttering.label>crwdns449640:0crwdne449640:0</ThoughtMuttering.label>
+  <ThoughtMuttering.description>crwdns449642:0crwdne449642:0</ThoughtMuttering.description>
+  
+  <ThoughtWailing.label>crwdns449644:0crwdne449644:0</ThoughtWailing.label>
+  <ThoughtWailing.description>crwdns449646:0crwdne449646:0</ThoughtWailing.description>
 </LanguageData>
