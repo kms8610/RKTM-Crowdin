@@ -1,61 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NamerWeaponBladelink.rulePack.rulesStrings>
-    <li>r_weapon_name(p=3)->[noun][verber]</li>
-    <li>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</li>
-    <li>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</li>
-    <li>r_weapon_name(p=1)->[beginSyl][endSyl]</li>
-    <li>r_weapon_name(p=1)->[NamePerson]</li>
-    <li>r_weapon_name(p=1)->[nameAnimal]</li>
-    <li>nameAnimal->[NameAnimalUnisex]</li>
-    <li>nameAnimal->[NameAnimalMale]</li>
-    <li>nameAnimal->[NameAnimalFemale]</li>
-    <li>noun->서약</li>
-    <li>noun->약속</li>
-    <li>noun->죽음</li>
-    <li>noun->고통</li>
-    <li>noun->혈흔</li>
-    <li>noun->파멸</li>
-    <li>noun->살해</li>
-    <li>noun->정의</li>
-    <li>noun->공포</li>
-    <li>noun->공포</li>
-    <li>noun->혼돈</li>
-    <li>noun->명령</li>
-    <li>noun->전쟁</li>
-    <li>noun->고요</li>
-    <li>noun->은혜</li>
-    <li>verber->파수꾼</li>
-    <li>verber->인도자</li>
-    <li>verber->발송자</li>
-    <li>verber->기부자</li>
-    <li>verber->조물주</li>
-    <li>verber->파쇄자</li>
-    <li>verber->파괴자</li>
-    <li>verber->강타자</li>
-    <li>verber->대주가</li>
-    <li>verber->인식체</li>
-    <li>verber->실천가</li>
-    <li>beginSyl->비</li>
-    <li>beginSyl->나</li>
-    <li>beginSyl->로</li>
-    <li>beginSyl->라</li>
-    <li>beginSyl->토</li>
-    <li>beginSyl->게르</li>
-    <li>beginSyl->잔</li>
-    <li>beginSyl->켈</li>
-    <li>middleSyl->세르</li>
-    <li>middleSyl->가르</li>
-    <li>middleSyl->로르</li>
-    <li>middleSyl->벤</li>
-    <li>middleSyl->잔</li>
-    <li>middleSyl->살</li>
-    <li>endSyl->이스</li>
-    <li>endSyl->오르</li>
-    <li>endSyl->아르</li>
-    <li>endSyl->섬</li>
-    <li>endSyl->도르</li>
-    <li>endSyl->마르</li>
-    <li>endSyl->구르</li>
-  </NamerWeaponBladelink.rulePack.rulesStrings>
+  <MeleeWeapon_MonoSwordBladelink.label>결속 단분자검</MeleeWeapon_MonoSwordBladelink.label>
+  <MeleeWeapon_MonoSwordBladelink.description>항상 압도적인 날카로움을 유지하는 나노 기술이 적용된 결정질 장검입니다. 가볍지만 두꺼운 갑옷까지도 쉽게 뚫어냅니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_MonoSwordBladelink.description>
+  <MeleeWeapon_MonoSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_MonoSwordBladelink.tools.handle.label>
+  <MeleeWeapon_MonoSwordBladelink.tools.point.label>칼끝</MeleeWeapon_MonoSwordBladelink.tools.point.label>
+  <MeleeWeapon_MonoSwordBladelink.tools.edge.label>도끼날</MeleeWeapon_MonoSwordBladelink.tools.edge.label>
+  
+  <MeleeWeapon_PlasmaSwordBladelink.label>결속 플라즈마검</MeleeWeapon_PlasmaSwordBladelink.label>
+  <MeleeWeapon_PlasmaSwordBladelink.description>최첨단 금속 검입니다. 작동시키면 뜨거운 플라즈마가 검신을 감싼 채로 고정됩니다. 공격 대상은 베이는 동시에 타들어갈 것입니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_PlasmaSwordBladelink.description>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.point.label>칼끝</MeleeWeapon_PlasmaSwordBladelink.tools.point.label>
+  <MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>도끼날</MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>
+  
+  <MeleeWeapon_ZeusHammerBladelink.label>결속 제우스망치</MeleeWeapon_ZeusHammerBladelink.label>
+  <MeleeWeapon_ZeusHammerBladelink.description>EMP 발생장치가 내장된 전투망치입니다. 피해를 가할 때마다 EMP 폭발이 동반되어 전자기기를 마비시킵니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_ZeusHammerBladelink.description>
+  <MeleeWeapon_ZeusHammerBladelink.tools.handle.label>손잡이</MeleeWeapon_ZeusHammerBladelink.tools.handle.label>
+  <MeleeWeapon_ZeusHammerBladelink.tools.head.label>둔기</MeleeWeapon_ZeusHammerBladelink.tools.head.label>
 </LanguageData>
