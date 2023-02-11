@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Carpet_Morbid.label>섬뜩한 양탄자 ({0})</Carpet_Morbid.label>
-  <Carpet_Morbid.description>섬뜩한 형식의 고급 양탄자입니다.</Carpet_Morbid.description>
+  <Concrete.label>콘크리트</Concrete.label>
+  <Concrete.description>콘크리트를 부어 만든 간단한 바닥입니다. 저렴하고 만들기 쉽지만 꽤 흉합니다.</Concrete.description>
   
-  <Carpet_Transhumanist.label>육각 양탄자 ({0})</Carpet_Transhumanist.label>
-  <Carpet_Transhumanist.description>극도로 기술적인 외형을 위해 육각형 무늬를 새긴 고급 카펫입니다.</Carpet_Transhumanist.description>
+  <GoldTile.label>금제 타일</GoldTile.label>
+  <GoldTile.description>거만한 사치를 위해선 금제 타일만한 게 없습니다. 인상적일 정도로 비싸지만 인상적으로 아름다우며, 이런 곳에 산다면 사람들이 속물로 생각할 것입니다.</GoldTile.description>
+  
+  <MetalTile.label>철제 타일</MetalTile.label>
+  <MetalTile.description>우주선 느낌의 금속 타일입니다. 청소하기 쉬운데다 청결도가 추가됩니다.</MetalTile.description>
+  
+  <PavedTile.label>포장 타일</PavedTile.label>
+  <PavedTile.description>콘크리트 타일입니다. 저렴하고 그럭저럭 봐줄 만 하지만 빠르게 만들 수 없습니다.</PavedTile.description>
+  
+  <SilverTile.label>은제 타일</SilverTile.label>
+  <SilverTile.description>미래지향적인 귀족스러운 은제 타일로 사치스러운 방에도 잘 어울립니다. 청소하기 쉽고 청결도가 추가됩니다.</SilverTile.description>
+  
+  <SterileTile.label>항균 타일</SterileTile.label>
+  <SterileTile.description>방을 청결하게 유지해야 할 때 도움이 됩니다. 매우 청결한 방에서는 의료 작업과 연구의 결과가 향상됩니다. 건설이 매우 느리지만 청소는 쉽습니다.</SterileTile.description>
+  
+  <StrawMatting.label>멍석</StrawMatting.label>
+  <StrawMatting.description>동물 헛간에서 사용하는 거친 멍석입니다. 값이 싸고 오물이 묻어도 상관 없습니다.</StrawMatting.description>
+  
+  <WoodPlankFloor.label>나무 바닥</WoodPlankFloor.label>
+  <WoodPlankFloor.description>나무판자로 만든 바닥입니다. 집에 온 듯 따듯한 느낌입니다. 쉽게 설치할 수 있지만 불에도 잘 탑니다.</WoodPlankFloor.description>
 </LanguageData>
