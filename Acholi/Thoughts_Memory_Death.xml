@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KilledChild.stages.killed_a_child.label>crwdns428104:0crwdne428104:0</KilledChild.stages.killed_a_child.label>
-  <KilledChild.stages.killed_a_child.description>crwdns428106:0crwdne428106:0</KilledChild.stages.killed_a_child.description>
-  
-  <KilledMyBirthMother.stages.killed_my_birth_mother.label>crwdns428108:0crwdne428108:0</KilledMyBirthMother.stages.killed_my_birth_mother.label>
-  
-  <MyBirthMotherDied.stages.my_birth_mother_died.label>crwdns428110:0{0}crwdne428110:0</MyBirthMotherDied.stages.my_birth_mother_died.label>
-  <MyBirthMotherDied.stages.my_birth_mother_died.description>crwdns428112:0crwdne428112:0</MyBirthMotherDied.stages.my_birth_mother_died.description>
-  
-  <MyBirthMotherLost.stages.my_birth_mother_lost.label>crwdns428114:0{0}crwdne428114:0</MyBirthMotherLost.stages.my_birth_mother_lost.label>
-  <MyBirthMotherLost.stages.my_birth_mother_lost.description>crwdns428116:0crwdne428116:0</MyBirthMotherLost.stages.my_birth_mother_lost.description>
+  <OtherTravelerDied.stages.traveler_died.label>crwdns449348:0crwdne449348:0</OtherTravelerDied.stages.traveler_died.label>
+  <OtherTravelerDied.stages.traveler_died.description>crwdns449350:0crwdne449350:0</OtherTravelerDied.stages.traveler_died.description>
 </LanguageData>
