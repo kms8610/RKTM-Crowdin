@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InsectMeatEating_Loved.label>crwdns436408:0crwdne436408:0</InsectMeatEating_Loved.label>
-  <InsectMeatEating_Loved.description>crwdns436410:0crwdne436410:0</InsectMeatEating_Loved.description>
+  <AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.label>crwdns441742:0crwdne441742:0</AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.label>
+  <AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.description>crwdns441744:0crwdne441744:0</AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.description>
+  
+  <AteInsectMeat_Loved.stages.ate_insect_meat.label>crwdns441746:0crwdne441746:0</AteInsectMeat_Loved.stages.ate_insect_meat.label>
+  <AteInsectMeat_Loved.stages.ate_insect_meat.description>crwdns441748:0crwdne441748:0</AteInsectMeat_Loved.stages.ate_insect_meat.description>
 </LanguageData>
