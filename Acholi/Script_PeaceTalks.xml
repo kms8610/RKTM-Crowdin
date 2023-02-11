@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+    <li>crwdns461358:0[faction_leader_nameFull]crwdnd461358:0[faction_leaderTitle]crwdnd461358:0[faction_name]crwdnd461358:0[faction_leader_pronoun]crwdnd461358:0[extraLeaderPart]crwdnd461358:0[favorRewardDetails]crwdne461358:0</li>
+    <li>crwdns461360:0[faction_royalFavorLabel]crwdnd461360:0[faction_name]crwdne461360:0</li>
+    <li>crwdns461362:0crwdne461362:0</li>
+    <li>crwdns461364:0[leaderRoleEffect]crwdnd461364:0[leaderPawnInfo]crwdne461364:0</li>
+    <li>crwdns461366:0crwdne461366:0</li>
+    <li>crwdns461368:0crwdne461368:0</li>
+    <li>crwdns461370:0[playerFaction_leaderTitle]crwdnd461370:0[playerFaction_leader_nameFull]crwdne461370:0</li>
+    <li>crwdns461372:0crwdne461372:0</li>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+    <li>crwdns461374:0[faction_leader_nameDef]crwdnd461374:0[peaceTalks]crwdne461374:0</li>
+    <li>crwdns461376:0[peaceTalks]crwdnd461376:0[faction_leader_nameDef]crwdne461376:0</li>
+    <li>crwdns461378:0[peaceTalks]crwdne461378:0</li>
+    <li>crwdns461380:0[peaceTalks]crwdne461380:0</li>
+    <li>crwdns461382:0crwdne461382:0</li>
+    <li>crwdns461384:0crwdne461384:0</li>
+    <li>crwdns461386:0crwdne461386:0</li>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>crwdns461388:0[resolvedQuestName]crwdne461388:0</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>crwdns461390:0[faction_name]crwdnd461390:0[resolvedQuestName]crwdne461390:0</OpportunitySite_PeaceTalks.LetterTextQuestExpired.slateRef>
+</LanguageData>
