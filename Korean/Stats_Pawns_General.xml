@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicEntropyGain.label>신경열 누적</PsychicEntropyGain.label>
-  <PsychicEntropyGain.description>모든 상황에서 누적되는 신경열의 계수입니다.</PsychicEntropyGain.description>
+  <AnimalsLearningFactor.label>동물 학습 속도</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.description>동물이 학습할 때에 속도에 곱해지는 계수입니다.</AnimalsLearningFactor.description>
+  
+  <BedHungerRateFactor.label>침대 굶주림 속도 계수</BedHungerRateFactor.label>
+  
+  <CaravanRidingSpeedFactor.label>상단 승마 속도</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.description>동물이 상단 이동속도에 주는 영향입니다. 동물은 상단에서만 탈 수 있습니다.</CaravanRidingSpeedFactor.description>
+  
+  <CarryingCapacity.label>운반 수량</CarryingCapacity.label>
+  <CarryingCapacity.description>손, 입이나 기타 수단으로 옮길 수 있는 물건의 양입니다.\n\n세계화면에서 운반하는 능력과는 관계가 없습니다.</CarryingCapacity.description>
+  
+  <ComfyTemperatureMax.label>최대 적응 온도</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>이 온도보다 덥다면 불쾌해집니다. 더 뜨거워지면 열사병으로 죽을 수 있습니다.</ComfyTemperatureMax.description>
+  
+  <ComfyTemperatureMin.label>최소 적응 온도</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>이 온도보다 춥다면 불쾌해집니다. 더 차가워지면 저체온증으로 죽을 수 있습니다.</ComfyTemperatureMin.description>
+  
+  <EatingSpeed.label>섭취 속도</EatingSpeed.label>
+  <EatingSpeed.description>음식을 섭취하는 속도에 곱해지는 계수입니다.</EatingSpeed.description>
+  
+  <FilthRate.label>오물 생산량</FilthRate.label>
+  <FilthRate.description>이 생물이 얼마나 많은 오물을 생성하는지 표시합니다.\n\n오물이 문제가 되지 않는 야외 또는 멍석에 두는 것이 좋습니다.</FilthRate.description>
+  
+  <ForagedNutritionPerDay.label>식량 채집량</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>상단에 포함되었을 때 이동하는 동안 하루에 자동적으로 채집하는 양입니다.</ForagedNutritionPerDay.description>
+  
+  <GlobalLearningFactor.label>전역 학습 속도</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>모든 기술을 학습할 때의 속도에 곱해지는 계수입니다.</GlobalLearningFactor.description>
+  
+  <ImmunityGainSpeed.label>항체 생성 속도</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>질병이 발생했을 때 항체가 생성되는 속도를 나타냅니다.\n\n만약 이 값이 너무 낮다면 항체가 생성되기 전에 죽을 수 있습니다.</ImmunityGainSpeed.description>
+  
+  <InjuryHealingFactor.label>부상 회복 속도</InjuryHealingFactor.label>
+  <InjuryHealingFactor.description>부상 회복 속도를 나타냅니다.</InjuryHealingFactor.description>
+  
+  <LeatherAmount.label>가죽량</LeatherAmount.label>
+  <LeatherAmount.description>도축해서 얻을 수 있는 가죽의 양입니다.</LeatherAmount.description>
+  
+  <LifespanFactor.label>수명 계수</LifespanFactor.label>
+  <LifespanFactor.description>이 생물이 노화 관련 질병을 얻기까지 걸리는 시간에 곱해지는 값입니다. 따라서 간접적으로 생물의 기대 수명을 결정합니다. 100%를 초과하는 수명 계수는 노화 질환을 늦춰 기대 수명을 높이고, 100% 미만의 수명 계수는 노화 질환을 앞당겨서 기대 수명을 낮춥니다.</LifespanFactor.description>
+  
+  <MaxNutrition.label>최대 열량</MaxNutrition.label>
+  <MaxNutrition.description>배를 가득 채우는 데 필요한 총 열량입니다.</MaxNutrition.description>
+  
+  <MeatAmount.label>고기량</MeatAmount.label>
+  <MeatAmount.description>도축해서 얻을 수 있는 고기의 양입니다.</MeatAmount.description>
+  
+  <MeditationFocusGain.label>집중명상 획득</MeditationFocusGain.label>
+  <MeditationFocusGain.description>매일 명상할 때 얻는 초집중 양으로, 집중물체의 이점은 무시됩니다.</MeditationFocusGain.description>
+  <MeditationFocusGain.formatString>{0} / 일</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatStringUnfinalized>{0} / 일</MeditationFocusGain.formatStringUnfinalized>
+  
+  <MentalBreakThreshold.label>정신이상 임계치</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>기분이 임계치 아래로 떨어진다면 정신이상을 겪을 위험이 있습니다.\n\n정신이상의 심각성은 한계치 아래로 얼마나 떨어져 있냐에 따라 좌우됩니다.</MentalBreakThreshold.description>
+  
+  <MinimumHandlingSkill.label>최소 조련기술 요구량</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>조련기술이 이 수치보다 낮다면 조련, 훈련, 명령할 수 없습니다.</MinimumHandlingSkill.description>
+  
+  <MoveSpeed.label>이동속도</MoveSpeed.label>
+  <MoveSpeed.description>1초에 몇 칸을 움직일 수 있는지에 대한 값입니다.</MoveSpeed.description>
+  <MoveSpeed.formatString>{0}칸 / 초</MoveSpeed.formatString>
+  
+  <PainShockThreshold.label>고통 한계</PainShockThreshold.label>
+  <PainShockThreshold.description>심한 고통으로 인해 정신을 잃는 한계입니다.</PainShockThreshold.description>
+  
+  <PsychicEntropyMax.label>신경열 한계</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>안전하게 견딜 수 있는 신경열의 최대량입니다.</PsychicEntropyMax.description>
+  
+  <PsychicEntropyRecoveryRate.label>신경열 회복속도</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>이 사람의 신경열을 낮추는 속도입니다.</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.formatString>{0} / 초</PsychicEntropyRecoveryRate.formatString>
+  
+  <PsychicSensitivity.label>정신 감응력</PsychicSensitivity.label>
+  <PsychicSensitivity.description>정신적 현상이 대상에게 얼마나 많은 영향을 끼치는지 나타냅니다. 민감할수록 부정적, 긍정적 요인을 모두 크게 받습니다.</PsychicSensitivity.description>
+  
+  <RestFallRateFactor.label>피로 누적 속도</RestFallRateFactor.label>
+  <RestFallRateFactor.description>사람의 수면 욕구 충족도가 떨어지는 속도에 대한 계수입니다.</RestFallRateFactor.description>
+  
+  <RestRateMultiplier.label>수면 효율</RestRateMultiplier.label>
+  <RestRateMultiplier.description>자고 있는 생물이 얼마나 빠르게 깨어나는지를 나타냅니다.</RestRateMultiplier.description>
+  
+  <ToxicEnvironmentResistance.label>독성 환경 저항</ToxicEnvironmentResistance.label>
+  <ToxicEnvironmentResistance.description>생물이 주위의 환경 독성에 얼마나 저항할 수 있는지 나타냅니다. 독소 가스, 부패 가스, 낙진, 오염된 지형에 대한 저항력을 제공하지만 직접적인 공격에 대해서는 영향을 주지 않습니다. 이 수치가 높을수록 환경 요소로 인한 중독 수치 증가는 느려집니다.</ToxicEnvironmentResistance.description>
+  
+  <ToxicResistance.label>독성 저항</ToxicResistance.label>
+  <ToxicResistance.description>중독에 저항하는 정도입니다.</ToxicResistance.description>
 </LanguageData>
