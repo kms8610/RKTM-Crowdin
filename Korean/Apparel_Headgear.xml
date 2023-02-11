@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_AdvancedHelmet.label>강화 방탄모</Apparel_AdvancedHelmet.label>
-  <Apparel_AdvancedHelmet.description>플라스틸로 보강된 가볍고 복잡한 방탄모입니다. 둔기 방어용으로는 효과적이지 않습니다.</Apparel_AdvancedHelmet.description>
+  <Apparel_AirwireHeadset.label>무선통신 헤드셋</Apparel_AirwireHeadset.label>
+  <Apparel_AirwireHeadset.description>메카나이터가 머리에 착용하면 제어 대역폭을 약간 확장할 수 있는 간단한 통신 컴퓨터입니다. 이를 통해 더 많은 메카노이드를 제어할 수 있습니다.</Apparel_AirwireHeadset.description>
   
-  <Apparel_ArmorHelmetRecon.label>정찰대 헬멧</Apparel_ArmorHelmetRecon.label>
-  <Apparel_ArmorHelmetRecon.description>플라스틸 복합 장갑 및 보조 컴퓨터로 구성된 정찰용 헬멧입니다.\n\n제국 정찰대와 번화계 경찰이 주로 사용하는 장비입니다.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetMechCommander.label>기계사령관 헬멧</Apparel_ArmorHelmetMechCommander.label>
+  <Apparel_ArmorHelmetMechCommander.description>전투 메카나이터들을 위해 설계된 플라스틸 방탄모입니다. 내장된 컴퓨터와 신호 향상기로 착용자의 제어 대역폭을 확장합니다. 이를 통해 더 많은 메카노이드를 제어할 수 있습니다.</Apparel_ArmorHelmetMechCommander.description>
   
-  <Apparel_BowlerHat.label>중산모</Apparel_BowlerHat.label>
-  <Apparel_BowlerHat.description>자본가의 인상을 주는 세련된 모자입니다. 사교 영향력을 높여 줍니다.</Apparel_BowlerHat.description>
+  <Apparel_ArmorHelmetMechlordHelmet.label>기계군주 헬멧</Apparel_ArmorHelmetMechlordHelmet.label>
+  <Apparel_ArmorHelmetMechlordHelmet.description>메카나이터 지원 장비를 내장한 플라스틸 중갑 방탄모입니다. 기계군주 헬멧은 메카나이터의 대역폭을 크게 확장하지만 일반 중갑보다는 방어력이 다소 떨어집니다.</Apparel_ArmorHelmetMechlordHelmet.description>
   
-  <Apparel_CowboyHat.label>카우보이 모자</Apparel_CowboyHat.label>
-  <Apparel_CowboyHat.description>세련되고 우아하며, 햇빛과 비를 막아줄 뿐만 아니라 착용자에게 약간의 특별한 매력을 부여합니다. 전통적인 서부 복장의 가장 중요한 부분으로 알려져 있습니다.</Apparel_CowboyHat.description>
+  <Apparel_ArrayHeadset.label>통신 배열 헤드셋</Apparel_ArrayHeadset.label>
+  <Apparel_ArrayHeadset.description>메카나이터가 머리에 착용하면 제어 대역폭을 확장할 수 있는 통신 컴퓨터와 신호 배열입니다. 이를 통해 더 많은 메카노이드를 제어할 수 있습니다.</Apparel_ArrayHeadset.description>
   
-  <Apparel_HatHood.label>두건</Apparel_HatHood.label>
-  <Apparel_HatHood.description>머리와 귀를 덮을 수 있게 걸칠 수 있는 두건입니다.</Apparel_HatHood.description>
+  <Apparel_ClothMask.label>마스크</Apparel_ClothMask.label>
+  <Apparel_ClothMask.description>여러 겹의 직물로 착용자의 입과 코를 덮는 천 조각입니다. 환경 독소의 영향을 놀랍도록 효과적으로 줄입니다.</Apparel_ClothMask.description>
   
-  <Apparel_PowerArmorHelmet.label>해병대 헬멧</Apparel_PowerArmorHelmet.label>
-  <Apparel_PowerArmorHelmet.description>플라스틸 복합 장갑 및 보조 컴퓨터로 구성된 해병용 헬멧입니다.\n\n우주 해병대에서 주로 사용하는 장비입니다.</Apparel_PowerArmorHelmet.description>
+  <Apparel_GasMask.label>방독면</Apparel_GasMask.label>
+  <Apparel_GasMask.description>얼굴을 덮는 유연한 마스크입니다. 정화통이 포함돼있습니다. 호흡을 통한 오염물질 노출은 크게 억제하지만 피부를 통한 유입에서는 보호할 수 없습니다.\n\n독소 가스가 눈과 입을 자극하지 못하도록 방어합니다.</Apparel_GasMask.description>
   
-  <Apparel_PsychicFoilHelmet.label>정신 보호모</Apparel_PsychicFoilHelmet.label>
-  <Apparel_PsychicFoilHelmet.description>정신파동을 흡수하는 여러 장의 얇은 박판으로 이루어진 보호모입니다. 정신 현상의 영향을 줄여줍니다.</Apparel_PsychicFoilHelmet.description>
-  
-  <Apparel_SimpleHelmet.label>방탄모</Apparel_SimpleHelmet.label>
-  <Apparel_SimpleHelmet.description>날카로운 물체에 대한 적당한 보호를 제공하는 방탄모입니다. 둔기 방어용으로는 효과적이지 않습니다.</Apparel_SimpleHelmet.description>
-  
-  <Apparel_TribalHeaddress.label>부족 쓰개</Apparel_TribalHeaddress.label>
-  <Apparel_TribalHeaddress.description>종교적으로 중요하게 여겨지는 전통 머리 장식입니다. 사교 영향력을 향상시킵니다.</Apparel_TribalHeaddress.description>
-  
-  <Apparel_Tuque.label>털모자</Apparel_Tuque.label>
-  <Apparel_Tuque.description>부드럽고 두꺼운 모자입니다. 겨울에 몸을 따듯하게 유지하는 데 좋습니다.</Apparel_Tuque.description>
-  
-  <Apparel_WarMask.label>전쟁가면</Apparel_WarMask.label>
-  <Apparel_WarMask.description>무서운 문양이 그려진 가면입니다. 착용자의 얼굴을 가리고, 더욱 용감하게 만듭니다.</Apparel_WarMask.description>
-  
-  <Apparel_WarVeil.label>전쟁베일</Apparel_WarVeil.label>
-  <Apparel_WarVeil.description>착용자의 얼굴을 덮는 천 조각입니다. 놀라울 정도로 오염을 방어할 수 있습니다.</Apparel_WarVeil.description>
+  <Apparel_IntegratorHeadset.label>통합자 헤드셋</Apparel_IntegratorHeadset.label>
+  <Apparel_IntegratorHeadset.description>메카나이터가 머리에 착용하면 제어 대역폭을 크게 확장할 수 있는 통신 컴퓨터와 신호 배열입니다. 이를 통해 더 많은 메카노이드를 제어할 수 있습니다.</Apparel_IntegratorHeadset.description>
 </LanguageData>
