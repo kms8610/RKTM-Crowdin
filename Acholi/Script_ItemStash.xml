@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>crwdns461284:0[itemStashContentsValue]crwdnd461284:0[map_definite]crwdnd461284:0[itemStashContents]crwdnd461284:0[allSitePartsDescriptionsExceptFirst]crwdne461284:0</li>
+    <li>crwdns461286:0[asker_nameDef]crwdnd461286:0[asker_faction_leaderTitle]crwdnd461286:0[asker_faction_name]crwdnd461286:0[itemStashContentsValue]crwdnd461286:0[itemStashContents]crwdnd461286:0[asker_label]crwdnd461286:0[allSitePartsDescriptionsExceptFirst]crwdne461286:0</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>crwdns461288:0[asker_nameDef]crwdnd461288:0[stash]crwdnd461288:0[treasure]crwdne461288:0</li>
+    <li>crwdns461290:0[stash]crwdnd461290:0[treasure]crwdne461290:0</li>
+    <li>crwdns461292:0crwdne461292:0</li>
+    <li>crwdns461294:0crwdne461294:0</li>
+    <li>crwdns461296:0crwdne461296:0</li>
+    <li>crwdns461298:0crwdne461298:0</li>
+    <li>crwdns461300:0crwdne461300:0</li>
+    <li>crwdns461302:0crwdne461302:0</li>
+    <li>crwdns461304:0crwdne461304:0</li>
+    <li>crwdns461306:0crwdne461306:0</li>
+    <li>crwdns461308:0crwdne461308:0</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>crwdns461310:0[resolvedQuestName]crwdne461310:0</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>crwdns461312:0[resolvedQuestName]crwdne461312:0</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+</LanguageData>
