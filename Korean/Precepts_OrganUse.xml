@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OrganUse_Abhorrent.label>totally abhorrent</OrganUse_Abhorrent.label>
-  <OrganUse_Abhorrent.description>생체 장기를 수확하고, 거래하고, 이식하는 것은 혐오스러운 죄악이다.</OrganUse_Abhorrent.description>
-  <OrganUse_Abhorrent.comps.2.description>누군가 장기를 적출함</OrganUse_Abhorrent.comps.2.description>
-  <OrganUse_Abhorrent.comps.5.description>Someone traded an organ</OrganUse_Abhorrent.comps.5.description>
-  <OrganUse_Abhorrent.comps.8.description>Someone installed an organ</OrganUse_Abhorrent.comps.8.description>
+  <HarvestedOrgan_Abhorrent.stages.harvested_organ.label>장기 적출</HarvestedOrgan_Abhorrent.stages.harvested_organ.label>
+  <HarvestedOrgan_Abhorrent.stages.harvested_organ.description>누군가의 장기를 떼어내야만 했어. 내 믿음에 대한 모독이야.</HarvestedOrgan_Abhorrent.stages.harvested_organ.description>
   
-  <OrganUse_Acceptable.label>수용함</OrganUse_Acceptable.label>
-  <OrganUse_Acceptable.description>장기를 적출, 거래, 이식해도 괜찮다.</OrganUse_Acceptable.description>
+  <HarvestedOrgan_Horrible.stages.harvested_organ.label>장기 적출</HarvestedOrgan_Horrible.stages.harvested_organ.label>
+  <HarvestedOrgan_Horrible.stages.harvested_organ.description>누군가의 장기를 떼어내야만 했어. 내 믿음에 대한 끔찍한 모독이야.</HarvestedOrgan_Horrible.stages.harvested_organ.description>
   
-  <OrganUse_HorribleNoSell.label>no harvest or sell</OrganUse_HorribleNoSell.label>
-  <OrganUse_HorribleNoSell.description>Harvesting organs is a horrible thing. Selling any natural organ is pretty bad too. However, it's okay to buy and install them.</OrganUse_HorribleNoSell.description>
-  <OrganUse_HorribleNoSell.comps.2.description>누군가 장기를 적출함</OrganUse_HorribleNoSell.comps.2.description>
-  <OrganUse_HorribleNoSell.comps.4.description>Someone sold an organ</OrganUse_HorribleNoSell.comps.4.description>
+  <HarvestedOrgan_Know_Abhorrent.stages.harvested_organ.label>장기 적출</HarvestedOrgan_Know_Abhorrent.stages.harvested_organ.label>
   
-  <OrganUse_HorribleSellOK.label>no harvest</OrganUse_HorribleSellOK.label>
-  <OrganUse_HorribleSellOK.description>Harvesting organs is a horrible thing. However, it's okay to buy, install, or sell them.</OrganUse_HorribleSellOK.description>
-  <OrganUse_HorribleSellOK.comps.2.description>누군가 장기를 적출함</OrganUse_HorribleSellOK.comps.2.description>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>장기 적출 목격</HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>누군가가 동료의 신체를 떼어냈어. 끔찍한 일이야.</HarvestedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
+  
+  <HarvestedOrgan_Know_Horrible.stages.harvested_organ.label>장기 적출</HarvestedOrgan_Know_Horrible.stages.harvested_organ.label>
+  
+  <HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.label>장기 적출 목격</HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>누군가가 동료의 신체를 떼어냈어. 끔찍한 일이야.</HarvestedOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
+  
+  <InstalledOrgan_Abhorrent.stages.installed_organ.label>장기 이식</InstalledOrgan_Abhorrent.stages.installed_organ.label>
+  <InstalledOrgan_Abhorrent.stages.installed_organ.description>누군가에게 장기를 이식해야만 했어. 내 믿음에 대한 모독이야.</InstalledOrgan_Abhorrent.stages.installed_organ.description>
+  
+  <InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>장기 이식</InstalledOrgan_Know_Abhorrent.stages.installed_organ.label>
+  
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>장기 적출 목격</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>누군가가 장기를 이식 받았어. 육체는 신성불가침이라 했는데!</InstalledOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
+  
+  <SoldOrgan_Disapproved.stages.sold_organ.label>장기 판매</SoldOrgan_Disapproved.stages.sold_organ.label>
+  <SoldOrgan_Disapproved.stages.sold_organ.description>누군가의 장기를 팔아야만 했어. 나는 찬성하지 않았어.</SoldOrgan_Disapproved.stages.sold_organ.description>
+  
+  <SoldOrgan_Know_Disapproved.stages.sold_organ.label>장기 판매</SoldOrgan_Know_Disapproved.stages.sold_organ.label>
+  
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>장기 적출 목격</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>누군가가 장기를 팔았어. 인간의 신체 부위가 기계 부품처럼 거래되다니 끔찍해.</SoldOrgan_Know_Horrible_Mood.stages.organ_harvested.description>
+  
+  <TradedOrgan_Abhorrent.stages.traded_organ.label>장기 거래</TradedOrgan_Abhorrent.stages.traded_organ.label>
+  <TradedOrgan_Abhorrent.stages.traded_organ.description>누군가의 장기를 사고 팔았어. 내 믿음에 대한 모독이야.</TradedOrgan_Abhorrent.stages.traded_organ.description>
+  
+  <TradedOrgan_Know_Abhorrent.stages.traded_organ.label>장기 거래</TradedOrgan_Know_Abhorrent.stages.traded_organ.label>
+  
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>장기 적출 목격</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>멀쩡한 사람의 장기를 꺼내다니! 혐오스럽고 역겨워.</TradedOrgan_Know_Abhorrent_Mood.stages.organ_harvested.description>
 </LanguageData>
