@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BiosculpterOccupantSpeed.label>crwdns439830:0crwdne439830:0</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>crwdns439832:0crwdne439832:0</BiosculpterOccupantSpeed.description>
+  
+  <CertaintyLossFactor.label>crwdns439834:0crwdne439834:0</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>crwdns439836:0crwdne439836:0</CertaintyLossFactor.description>
+  
+  <ConversionPower.label>crwdns439838:0crwdne439838:0</ConversionPower.label>
+  <ConversionPower.description>crwdns439840:0crwdne439840:0</ConversionPower.description>
+  
+  <MeleeDodgeChanceIndoorsDarkOffset.label>crwdns439842:0crwdne439842:0</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>crwdns439844:0crwdne439844:0</MeleeDodgeChanceIndoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceIndoorsLitOffset.label>crwdns439846:0crwdne439846:0</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>crwdns439848:0crwdne439848:0</MeleeDodgeChanceIndoorsLitOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>crwdns439850:0crwdne439850:0</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>crwdns439852:0crwdne439852:0</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  
+  <MeleeDodgeChanceOutdoorsLitOffset.label>crwdns439854:0crwdne439854:0</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>crwdns439856:0crwdne439856:0</MeleeDodgeChanceOutdoorsLitOffset.description>
+  
+  <MeleeHitChanceIndoorsDarkOffset.label>crwdns439858:0crwdne439858:0</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>crwdns439860:0crwdne439860:0</MeleeHitChanceIndoorsDarkOffset.description>
+  
+  <MeleeHitChanceIndoorsLitOffset.label>crwdns439862:0crwdne439862:0</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>crwdns439864:0crwdne439864:0</MeleeHitChanceIndoorsLitOffset.description>
+  
+  <MeleeHitChanceOutdoorsDarkOffset.label>crwdns439866:0crwdne439866:0</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>crwdns439868:0crwdne439868:0</MeleeHitChanceOutdoorsDarkOffset.description>
+  
+  <MeleeHitChanceOutdoorsLitOffset.label>crwdns439870:0crwdne439870:0</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>crwdns439872:0crwdne439872:0</MeleeHitChanceOutdoorsLitOffset.description>
+  
+  <ShootingAccuracyIndoorsDarkOffset.label>crwdns439874:0crwdne439874:0</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>crwdns439876:0crwdne439876:0</ShootingAccuracyIndoorsDarkOffset.description>
+  
+  <ShootingAccuracyIndoorsLitOffset.label>crwdns439878:0crwdne439878:0</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>crwdns439880:0crwdne439880:0</ShootingAccuracyIndoorsLitOffset.description>
+  
+  <ShootingAccuracyOutdoorsDarkOffset.label>crwdns439882:0crwdne439882:0</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>crwdns439884:0crwdne439884:0</ShootingAccuracyOutdoorsDarkOffset.description>
+  
+  <ShootingAccuracyOutdoorsLitOffset.label>crwdns439886:0crwdne439886:0</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>crwdns439888:0crwdne439888:0</ShootingAccuracyOutdoorsLitOffset.description>
+  
+  <SocialIdeoSpreadFrequencyFactor.label>crwdns439890:0crwdne439890:0</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>crwdns439892:0crwdne439892:0</SocialIdeoSpreadFrequencyFactor.description>
+</LanguageData>
