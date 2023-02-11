@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteMeat.label>고기 섭취</AteMeat.label>
-  
-  <AteNonMeat.label>채식주의자</AteNonMeat.label>
+  <MeatEating.label>meat eating</MeatEating.label>
 </LanguageData>
