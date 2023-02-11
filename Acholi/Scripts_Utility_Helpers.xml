@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+    <li>crwdns447578:0crwdne447578:0</li>
+    <li>crwdns447580:0[helperKind_label]crwdnd447580:0[helpers0_objective]crwdnd447580:0[helpers0_pronoun]crwdne447580:0</li>
+    <li>crwdns447582:0[helpersCount]crwdnd447582:0[helperKind_labelPlural]crwdne447582:0</li>
+    <li>crwdns447584:0crwdne447584:0</li>
+    <li>crwdns447586:0[helpersCount]crwdnd447586:0[helpersLabelSingOrPlural]crwdnd447586:0[helpersHasHave]crwdne447586:0</li>
+    <li>crwdns447588:0[helperKind_label]crwdne447588:0</li>
+    <li>crwdns447590:0[helperKind_labelPlural]crwdne447590:0</li>
+    <li>crwdns447592:0crwdne447592:0</li>
+    <li>crwdns447594:0crwdne447594:0</li>
+    <li>crwdns447596:0crwdne447596:0</li>
+    <li>crwdns447598:0crwdne447598:0</li>
+  </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>crwdns447600:0[helpersLabelSingOrPlural]crwdne447600:0</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
+  <Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>crwdns447602:0[helpersLabelSingOrPlural]crwdnd447602:0[asker_nameDef]crwdnd447602:0[helpersHasHave]crwdnd447602:0[resolvedQuestName]crwdne447602:0</Util_MaybeGenerateHelpers.LetterTextHelpersArrived.value.slateRef>
+  <Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>crwdns447604:0[helpersLabelSingOrPlural]crwdne447604:0</Util_MaybeGenerateHelpers.ArrivingPawnsLabelDefinite.value.slateRef>
+  <Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>crwdns447606:0[helpersLabelSingOrPlural]crwdne447606:0</Util_MaybeGenerateHelpers.LetterLabelHelpersLeaving.slateRef>
+  <Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>crwdns447608:0[helpersLabelSingOrPlural]crwdnd447608:0[asker_nameDef]crwdnd447608:0[helpersHasHave]crwdnd447608:0[helpersIsAre]crwdne447608:0</Util_MaybeGenerateHelpers.LetterTextHelpersLeaving.slateRef>
+</LanguageData>
