@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GrowthVat_Essential.label>필수</GrowthVat_Essential.label>
-  <GrowthVat_Essential.description>우리에게는 안전한 출산과 더 빠른 유년기를 위한 기술이 있다. 신자는 성장 배양기에서 더 빨리 성장하며, 자녀가 배양기에 없으면 불행해 한다.</GrowthVat_Essential.description>
-  <GrowthVat_Essential.comps.0.description>자연스러운 임신</GrowthVat_Essential.comps.0.description>
-  <GrowthVat_Essential.comps.1.description>아이가 배양기 안에 없음</GrowthVat_Essential.comps.1.description>
+  <GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>아이가 배양기 안에 없음</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
+  <GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>난 내 아이가 뛰어다니는 것이 안전하지 않다고 생각해. 그들은 배양기에서 안전하게 자라야 한다고.</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
   
-  <GrowthVat_Prohibited.label>금기</GrowthVat_Prohibited.label>
-  <GrowthVat_Prohibited.description>성장 배양기는 아이들의 어린 시절을 빼앗는다.</GrowthVat_Prohibited.description>
-  <GrowthVat_Prohibited.comps.0.description>성장 배양기 건설</GrowthVat_Prohibited.comps.0.description>
-  <GrowthVat_Prohibited.comps.1.description>정착지의 성장 배양기</GrowthVat_Prohibited.comps.1.description>
-  <GrowthVat_Prohibited.comps.2.description>배양기 안의 내 아이</GrowthVat_Prohibited.comps.2.description>
-  <GrowthVat_Prohibited.comps.3.description>아이가 배양기 안에 없음</GrowthVat_Prohibited.comps.3.description>
+  <GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>자연 임신</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>
+  <GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>출산은 무서운 생각이야. 우리 아이들을 안전하게 키울 수 있는 배양기가 있어야 해.</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>
+  
+  <GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>배양기에 있는 내 아이</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+  <GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>난 그 끔찍한 기계 안에 내 아이가 떠 있다고 생각하면 참을 수 없어.</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+  
+  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>아이가 배양기 안에 없음</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
+  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>아이들이 아이들답게 있는 걸 보니 기뻐. 어린 시절은 여기에서 소중하다구.</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
+  
+  <GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>성장 배양기</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>
+  <GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>나는 그 끔찍한 배양기가 우리 정착지에 있다는 게 싫어.</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>
 </LanguageData>
