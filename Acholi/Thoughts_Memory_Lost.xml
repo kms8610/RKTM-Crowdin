@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BondedAnimalLost.stages.bonded_animal_lost.label>crwdns474608:0{0}crwdne474608:0</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <BondedAnimalLost.stages.bonded_animal_lost.description>crwdns474610:0crwdne474610:0</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <BondedAnimalReleased.stages.bonded_animal_released.label>crwdns474612:0{0}crwdne474612:0</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <BondedAnimalReleased.stages.bonded_animal_released.description>crwdns474614:0crwdne474614:0</BondedAnimalReleased.stages.bonded_animal_released.description>
+  
+  <ColonistLost.stages.colonist_lost.label>crwdns474616:0crwdne474616:0</ColonistLost.stages.colonist_lost.label>
+  <ColonistLost.stages.colonist_lost.description>crwdns474618:0crwdne474618:0</ColonistLost.stages.colonist_lost.description>
+  
+  <MyAuntLost.stages.my_aunt_lost.label>crwdns474620:0{0}crwdne474620:0</MyAuntLost.stages.my_aunt_lost.label>
+  <MyAuntLost.stages.my_aunt_lost.description>crwdns474622:0crwdne474622:0</MyAuntLost.stages.my_aunt_lost.description>
+  
+  <MyBrotherLost.stages.my_brother_lost.label>crwdns474624:0{0}crwdne474624:0</MyBrotherLost.stages.my_brother_lost.label>
+  <MyBrotherLost.stages.my_brother_lost.description>crwdns474626:0crwdne474626:0</MyBrotherLost.stages.my_brother_lost.description>
+  
+  <MyCousinLost.stages.my_cousin_lost.label>crwdns474628:0{0}crwdne474628:0</MyCousinLost.stages.my_cousin_lost.label>
+  <MyCousinLost.stages.my_cousin_lost.description>crwdns474630:0crwdne474630:0</MyCousinLost.stages.my_cousin_lost.description>
+  
+  <MyDaughterLost.stages.my_daughter_lost.label>crwdns474632:0{0}crwdne474632:0</MyDaughterLost.stages.my_daughter_lost.label>
+  <MyDaughterLost.stages.my_daughter_lost.description>crwdns474634:0crwdne474634:0</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  <MyFatherLost.stages.my_father_lost.label>crwdns474636:0{0}crwdne474636:0</MyFatherLost.stages.my_father_lost.label>
+  <MyFatherLost.stages.my_father_lost.description>crwdns474638:0crwdne474638:0</MyFatherLost.stages.my_father_lost.description>
+  
+  <MyFianceLost.stages.my_fiance_lost.label>crwdns474640:0{0}crwdne474640:0</MyFianceLost.stages.my_fiance_lost.label>
+  <MyFianceLost.stages.my_fiance_lost.description>crwdns474642:0crwdne474642:0</MyFianceLost.stages.my_fiance_lost.description>
+  
+  <MyFianceeLost.stages.my_fiance_lost.label>crwdns474644:0{0}crwdne474644:0</MyFianceeLost.stages.my_fiance_lost.label>
+  <MyFianceeLost.stages.my_fiance_lost.description>crwdns474646:0crwdne474646:0</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  <MyGrandchildLost.stages.my_grandchild_lost.label>crwdns474648:0{0}crwdne474648:0</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <MyGrandchildLost.stages.my_grandchild_lost.description>crwdns474650:0crwdne474650:0</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  <MyGrandparentLost.stages.my_grandparent_lost.label>crwdns474652:0{0}crwdne474652:0</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <MyGrandparentLost.stages.my_grandparent_lost.description>crwdns474654:0crwdne474654:0</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>crwdns474656:0{0}crwdne474656:0</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>crwdns474658:0crwdne474658:0</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  <MyHusbandLost.stages.my_husband_lost.label>crwdns474660:0{0}crwdne474660:0</MyHusbandLost.stages.my_husband_lost.label>
+  <MyHusbandLost.stages.my_husband_lost.description>crwdns474662:0crwdne474662:0</MyHusbandLost.stages.my_husband_lost.description>
+  
+  <MyKinLost.stages.my_kin_lost.label>crwdns474664:0{0}crwdne474664:0</MyKinLost.stages.my_kin_lost.label>
+  <MyKinLost.stages.my_kin_lost.description>crwdns474666:0crwdne474666:0</MyKinLost.stages.my_kin_lost.description>
+  
+  <MyLoverLost.stages.my_lover_lost.label>crwdns474668:0{0}crwdne474668:0</MyLoverLost.stages.my_lover_lost.label>
+  <MyLoverLost.stages.my_lover_lost.description>crwdns474670:0crwdne474670:0</MyLoverLost.stages.my_lover_lost.description>
+  
+  <MyMotherLost.stages.my_mother_lost.label>crwdns474672:0{0}crwdne474672:0</MyMotherLost.stages.my_mother_lost.label>
+  <MyMotherLost.stages.my_mother_lost.description>crwdns474674:0crwdne474674:0</MyMotherLost.stages.my_mother_lost.description>
+  
+  <MyNephewLost.stages.my_nephew_lost.label>crwdns474676:0{0}crwdne474676:0</MyNephewLost.stages.my_nephew_lost.label>
+  <MyNephewLost.stages.my_nephew_lost.description>crwdns474678:0crwdne474678:0</MyNephewLost.stages.my_nephew_lost.description>
+  
+  <MyNieceLost.stages.my_niece_lost.label>crwdns474680:0{0}crwdne474680:0</MyNieceLost.stages.my_niece_lost.label>
+  <MyNieceLost.stages.my_niece_lost.description>crwdns474682:0crwdne474682:0</MyNieceLost.stages.my_niece_lost.description>
+  
+  <MySisterLost.stages.my_sister_lost.label>crwdns474684:0{0}crwdne474684:0</MySisterLost.stages.my_sister_lost.label>
+  <MySisterLost.stages.my_sister_lost.description>crwdns474686:0crwdne474686:0</MySisterLost.stages.my_sister_lost.description>
+  
+  <MySonLost.stages.my_son_lost.label>crwdns474688:0{0}crwdne474688:0</MySonLost.stages.my_son_lost.label>
+  <MySonLost.stages.my_son_lost.description>crwdns474690:0crwdne474690:0</MySonLost.stages.my_son_lost.description>
+  
+  <MyUncleLost.stages.my_uncle_lost.label>crwdns474692:0{0}crwdne474692:0</MyUncleLost.stages.my_uncle_lost.label>
+  <MyUncleLost.stages.my_uncle_lost.description>crwdns474694:0crwdne474694:0</MyUncleLost.stages.my_uncle_lost.description>
+  
+  <MyWifeLost.stages.my_wife_lost.label>crwdns474696:0{0}crwdne474696:0</MyWifeLost.stages.my_wife_lost.label>
+  <MyWifeLost.stages.my_wife_lost.description>crwdns474698:0crwdne474698:0</MyWifeLost.stages.my_wife_lost.description>
+  
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>crwdns474700:0{0}crwdne474700:0</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>crwdns474702:0crwdne474702:0</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>crwdns474704:0{0}crwdne474704:0</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>crwdns474706:0crwdne474706:0</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+</LanguageData>
