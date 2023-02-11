@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ButcheryFleshEfficiency.label>crwdns467224:0crwdne467224:0</ButcheryFleshEfficiency.label>
+  <ButcheryFleshEfficiency.description>crwdns467226:0crwdne467226:0</ButcheryFleshEfficiency.description>
+  
+  <ButcheryFleshSpeed.label>crwdns467228:0crwdne467228:0</ButcheryFleshSpeed.label>
+  <ButcheryFleshSpeed.description>crwdns467230:0crwdne467230:0</ButcheryFleshSpeed.description>
+  
+  <ButcheryMechanoidEfficiency.label>crwdns467232:0crwdne467232:0</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidEfficiency.description>crwdns467234:0crwdne467234:0</ButcheryMechanoidEfficiency.description>
+  
+  <ButcheryMechanoidSpeed.label>crwdns467236:0crwdne467236:0</ButcheryMechanoidSpeed.label>
+  <ButcheryMechanoidSpeed.description>crwdns467238:0crwdne467238:0</ButcheryMechanoidSpeed.description>
+  
+  <CookSpeed.label>crwdns467240:0crwdne467240:0</CookSpeed.label>
+  <CookSpeed.description>crwdns467242:0crwdne467242:0</CookSpeed.description>
+  
+  <DrugCookingSpeed.label>crwdns467244:0crwdne467244:0</DrugCookingSpeed.label>
+  <DrugCookingSpeed.description>crwdns467246:0crwdne467246:0</DrugCookingSpeed.description>
+  
+  <DrugSynthesisSpeed.label>crwdns467248:0crwdne467248:0</DrugSynthesisSpeed.label>
+  <DrugSynthesisSpeed.description>crwdns467250:0crwdne467250:0</DrugSynthesisSpeed.description>
+  
+  <FoodPoisonChance.label>crwdns467252:0crwdne467252:0</FoodPoisonChance.label>
+  <FoodPoisonChance.description>crwdns467254:0crwdne467254:0</FoodPoisonChance.description>
+  <FoodPoisonChance.labelForFullStatList>crwdns467256:0crwdne467256:0</FoodPoisonChance.labelForFullStatList>
+  
+  <GeneralLaborSpeed.label>crwdns467258:0crwdne467258:0</GeneralLaborSpeed.label>
+  <GeneralLaborSpeed.description>crwdns467260:0crwdne467260:0</GeneralLaborSpeed.description>
+  
+  <SmeltingSpeed.label>crwdns467262:0crwdne467262:0</SmeltingSpeed.label>
+  <SmeltingSpeed.description>crwdns467264:0crwdne467264:0</SmeltingSpeed.description>
+</LanguageData>
