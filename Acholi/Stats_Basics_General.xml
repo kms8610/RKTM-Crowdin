@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beauty.label>crwdns466776:0crwdne466776:0</Beauty.label>
+  <Beauty.description>crwdns466778:0crwdne466778:0</Beauty.description>
+  
+  <BeautyOutdoors.label>crwdns466780:0crwdne466780:0</BeautyOutdoors.label>
+  <BeautyOutdoors.description>crwdns466782:0crwdne466782:0</BeautyOutdoors.description>
+  
+  <Cleanliness.label>crwdns466784:0crwdne466784:0</Cleanliness.label>
+  <Cleanliness.description>crwdns466786:0crwdne466786:0</Cleanliness.description>
+  
+  <Comfort.label>crwdns466788:0crwdne466788:0</Comfort.label>
+  <Comfort.description>crwdns466790:0crwdne466790:0</Comfort.description>
+  
+  <DeteriorationRate.label>crwdns466792:0crwdne466792:0</DeteriorationRate.label>
+  <DeteriorationRate.description>crwdns466794:0crwdne466794:0</DeteriorationRate.description>
+  <DeteriorationRate.formatString>crwdns466796:0{0}crwdne466796:0</DeteriorationRate.formatString>
+  
+  <Flammability.label>crwdns466798:0crwdne466798:0</Flammability.label>
+  <Flammability.description>crwdns466800:0crwdne466800:0</Flammability.description>
+  
+  <FoodPoisonChanceFixedHuman.label>crwdns466802:0crwdne466802:0</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.description>crwdns466804:0crwdne466804:0</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.labelForFullStatList>crwdns466806:0crwdne466806:0</FoodPoisonChanceFixedHuman.labelForFullStatList>
+  
+  <MarketValue.label>crwdns466808:0crwdne466808:0</MarketValue.label>
+  <MarketValue.description>crwdns466810:0crwdne466810:0</MarketValue.description>
+  
+  <MarketValueIgnoreHp.label>crwdns466812:0crwdne466812:0</MarketValueIgnoreHp.label>
+  
+  <Mass.label>crwdns466814:0crwdne466814:0</Mass.label>
+  <Mass.description>crwdns466816:0crwdne466816:0</Mass.description>
+  <Mass.formatString>crwdns466818:0{0}crwdne466818:0</Mass.formatString>
+  
+  <MaxHitPoints.label>crwdns466820:0crwdne466820:0</MaxHitPoints.label>
+  <MaxHitPoints.description>crwdns466822:0crwdne466822:0</MaxHitPoints.description>
+  
+  <Nutrition.label>crwdns466824:0crwdne466824:0</Nutrition.label>
+  <Nutrition.description>crwdns466826:0crwdne466826:0</Nutrition.description>
+  
+  <RoyalFavorValue.label>crwdns466828:0crwdne466828:0</RoyalFavorValue.label>
+  <RoyalFavorValue.description>crwdns466830:0crwdne466830:0</RoyalFavorValue.description>
+  
+  <SellPriceFactor.label>crwdns466832:0crwdne466832:0</SellPriceFactor.label>
+  <SellPriceFactor.description>crwdns466834:0crwdne466834:0</SellPriceFactor.description>
+  
+  <ShootingAccuracyTurret.label>crwdns466836:0crwdne466836:0</ShootingAccuracyTurret.label>
+  <ShootingAccuracyTurret.description>crwdns466838:0crwdne466838:0</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.labelForFullStatList>crwdns466840:0crwdne466840:0</ShootingAccuracyTurret.labelForFullStatList>
+  
+  <WorkToMake.label>crwdns466842:0crwdne466842:0</WorkToMake.label>
+  <WorkToMake.description>crwdns466844:0crwdne466844:0</WorkToMake.description>
+</LanguageData>
