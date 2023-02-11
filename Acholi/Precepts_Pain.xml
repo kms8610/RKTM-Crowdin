@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Pain_Idealized.label>crwdns436638:0crwdne436638:0</Pain_Idealized.label>
-  <Pain_Idealized.description>crwdns436640:0crwdne436640:0</Pain_Idealized.description>
-  <Pain_Idealized.comps.0.description>crwdns436642:0crwdne436642:0</Pain_Idealized.comps.0.description>
+  <Pain_Idealized.stages.minor_pain.label>crwdns442016:0crwdne442016:0</Pain_Idealized.stages.minor_pain.label>
+  <Pain_Idealized.stages.minor_pain.description>crwdns442018:0crwdne442018:0</Pain_Idealized.stages.minor_pain.description>
+  <Pain_Idealized.stages.serious_pain.label>crwdns442020:0crwdne442020:0</Pain_Idealized.stages.serious_pain.label>
+  <Pain_Idealized.stages.serious_pain.description>crwdns442022:0crwdne442022:0</Pain_Idealized.stages.serious_pain.description>
+  <Pain_Idealized.stages.intense_pain.label>crwdns442024:0crwdne442024:0</Pain_Idealized.stages.intense_pain.label>
+  <Pain_Idealized.stages.intense_pain.description>crwdns442026:0crwdne442026:0</Pain_Idealized.stages.intense_pain.description>
+  <Pain_Idealized.stages.mindshattering_pain.label>crwdns442028:0crwdne442028:0</Pain_Idealized.stages.mindshattering_pain.label>
+  <Pain_Idealized.stages.mindshattering_pain.description>crwdns442030:0crwdne442030:0</Pain_Idealized.stages.mindshattering_pain.description>
 </LanguageData>
