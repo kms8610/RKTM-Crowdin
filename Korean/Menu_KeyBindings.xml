@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaveButton>저장</SaveButton>
+  <ClearBinding>제거</ClearBinding>
+  <ResetBinding>기본값으로 재설정</ResetBinding>
+  <BindingButtonToolTip>왼쪽 클릭으로 키 설정, 오른쪽 클릭으로 옵션</BindingButtonToolTip>
+  <BindingButtonToolTipController>클릭해서 키 설정, 왼쪽 트리거로 옵션</BindingButtonToolTipController>
+  <PressAnyKeyOrEsc>지정할 키를 누르세요. 취소하려면 Esc키를 누르세요.</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEscController>취소하려면 아무 버튼이나 {Key:Cancel} 키를 누르세요...</PressAnyKeyOrEscController>
+  <KeyBindingOverwritten>키 지정값 덮어씌움: {0}</KeyBindingOverwritten>
+  
+</LanguageData>
