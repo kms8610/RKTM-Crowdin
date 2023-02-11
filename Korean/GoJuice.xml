@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GoJuice.label>고주스</GoJuice.label>
+  <GoJuiceAddiction.label>고주스 중독</GoJuiceAddiction.label>
+  <GoJuiceAddiction.description>고주스에 중독됐습니다. 고주스를 장기간 투여하면 신경세포 단위의 적응 현상이 발생하여 고주스 없이는 뇌가 제대로 기능할 수 없습니다.\n\n정기적인 고주스 투여를 하지 않으면 금단 현상이 나타납니다. 하지만 계속 투여하지 않으면 뇌가 정상적인 상태로 회복하므로 중독에서 벗어날 수 있습니다.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.stages.withdrawal.label>금단 현상</GoJuiceAddiction.stages.withdrawal.label>
+  
+  <GoJuiceHigh.label>고주스에 취함</GoJuiceHigh.label>
+  <GoJuiceHigh.description>혈액에 고주스가 존재합니다. 전투 관련 능력을 강화하며 주입 순간 초집중을 제공합니다.</GoJuiceHigh.description>
+  <GoJuiceHigh.labelNoun>고주스에 취함</GoJuiceHigh.labelNoun>
+  
+  <GoJuiceTolerance.label>고주스 내성</GoJuiceTolerance.label>
+  <GoJuiceTolerance.description>고주스에 대한 내성입니다. 이 수치가 심할수록 동일한 효과를 얻는데 더 많은 고주스가 필요합니다.</GoJuiceTolerance.description>
+  <GoJuiceTolerance.stages.small.label>약함</GoJuiceTolerance.stages.small.label>
+  <GoJuiceTolerance.stages.large.label>강함</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.massive.label>대량의</GoJuiceTolerance.stages.massive.label>
 </LanguageData>
