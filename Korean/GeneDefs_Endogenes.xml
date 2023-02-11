@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cosmetic.label>외형</Cosmetic.label>
+  <Hair_Blonde.label>금발</Hair_Blonde.label>
+  <Hair_Blonde.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_Blonde.description>
   
-  <Cosmetic_Hair.label>외형 - 머리카락</Cosmetic_Hair.label>
+  <Hair_BrightRed.label>적발</Hair_BrightRed.label>
+  <Hair_BrightRed.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_BrightRed.description>
   
-  <Cosmetic_Skin.label>외형 - 피부</Cosmetic_Skin.label>
+  <Hair_DarkBlack.label>진한 흑발</Hair_DarkBlack.label>
+  <Hair_DarkBlack.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_DarkBlack.description>
   
-  <Miscellaneous.label>기타</Miscellaneous.label>
+  <Hair_DarkBrown.label>갈색머리</Hair_DarkBrown.label>
+  <Hair_DarkBrown.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_DarkBrown.description>
+  
+  <Hair_DarkReddish.label>어두운 적발</Hair_DarkReddish.label>
+  <Hair_DarkReddish.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_DarkReddish.description>
+  
+  <Hair_DarkSaturatedReddish.label>어두운 갈색머리</Hair_DarkSaturatedReddish.label>
+  <Hair_DarkSaturatedReddish.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_DarkSaturatedReddish.description>
+  
+  <Hair_Gray.label>회색머리</Hair_Gray.label>
+  <Hair_Gray.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_Gray.description>
+  
+  <Hair_InkBlack.label>잉크빛 흑발</Hair_InkBlack.label>
+  <Hair_InkBlack.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_InkBlack.description>
+  
+  <Hair_LightBlue.label>청발</Hair_LightBlue.label>
+  <Hair_LightBlue.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_LightBlue.description>
+  
+  <Hair_LightGreen.label>녹발</Hair_LightGreen.label>
+  <Hair_LightGreen.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_LightGreen.description>
+  
+  <Hair_LightOrange.label>주황머리</Hair_LightOrange.label>
+  <Hair_LightOrange.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_LightOrange.description>
+  
+  <Hair_LightPurple.label>보라머리</Hair_LightPurple.label>
+  <Hair_LightPurple.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_LightPurple.description>
+  
+  <Hair_LightTeal.label>청록머리</Hair_LightTeal.label>
+  <Hair_LightTeal.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_LightTeal.description>
+  
+  <Hair_MidBlack.label>어두운 회색머리</Hair_MidBlack.label>
+  <Hair_MidBlack.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_MidBlack.description>
+  
+  <Hair_Pink.label>분홍머리</Hair_Pink.label>
+  <Hair_Pink.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_Pink.description>
+  
+  <Hair_ReddishBrown.label>붉은 갈색머리</Hair_ReddishBrown.label>
+  <Hair_ReddishBrown.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_ReddishBrown.description>
+  
+  <Hair_SandyBlonde.label>창백한 금발</Hair_SandyBlonde.label>
+  <Hair_SandyBlonde.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_SandyBlonde.description>
+  
+  <Hair_SnowWhite.label>백발</Hair_SnowWhite.label>
+  <Hair_SnowWhite.description>이 유전자를 보유하면 특정 머리카락 색을 갖습니다. 다수의 머리카락 색 유전자를 보유하면 하나를 무작위로 선택합니다.</Hair_SnowWhite.description>
+  
+  <Skin_Melanin1.label>피부색</Skin_Melanin1.label>
+  <Skin_Melanin1.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin1.description>
+  
+  <Skin_Melanin2.label>피부색</Skin_Melanin2.label>
+  <Skin_Melanin2.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin2.description>
+  
+  <Skin_Melanin3.label>피부색</Skin_Melanin3.label>
+  <Skin_Melanin3.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin3.description>
+  
+  <Skin_Melanin4.label>피부색</Skin_Melanin4.label>
+  <Skin_Melanin4.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin4.description>
+  
+  <Skin_Melanin5.label>피부색</Skin_Melanin5.label>
+  <Skin_Melanin5.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin5.description>
+  
+  <Skin_Melanin6.label>피부색</Skin_Melanin6.label>
+  <Skin_Melanin6.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin6.description>
+  
+  <Skin_Melanin7.label>피부색</Skin_Melanin7.label>
+  <Skin_Melanin7.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin7.description>
+  
+  <Skin_Melanin8.label>피부색</Skin_Melanin8.label>
+  <Skin_Melanin8.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin8.description>
+  
+  <Skin_Melanin9.label>피부색</Skin_Melanin9.label>
+  <Skin_Melanin9.description>이 유전자를 보유하면 특정 피부색을 갖습니다. 다수의 피부색 유전자를 보유하면 하나를 무작위로 선택합니다.</Skin_Melanin9.description>
 </LanguageData>
