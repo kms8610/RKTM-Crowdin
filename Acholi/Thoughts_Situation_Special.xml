@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BloodTorch.stages.blood_torch.label>crwdns428250:0crwdne428250:0</BloodTorch.stages.blood_torch.label>
+  <BloodTorch.stages.blood_torch.description>crwdns428252:0crwdne428252:0</BloodTorch.stages.blood_torch.description>
+  
+  <ChildlikePositivity.stages.childlike_joy.label>crwdns428254:0crwdne428254:0</ChildlikePositivity.stages.childlike_joy.label>
+  <ChildlikePositivity.stages.childlike_joy.description>crwdns428256:0crwdne428256:0</ChildlikePositivity.stages.childlike_joy.description>
+  <ChildlikePositivity.stages.childlike_wonder.label>crwdns428258:0crwdne428258:0</ChildlikePositivity.stages.childlike_wonder.label>
+  <ChildlikePositivity.stages.childlike_wonder.description>crwdns428260:0crwdne428260:0</ChildlikePositivity.stages.childlike_wonder.description>
+  <ChildlikePositivity.stages.childlike_enthusiasm.label>crwdns428262:0crwdne428262:0</ChildlikePositivity.stages.childlike_enthusiasm.label>
+  <ChildlikePositivity.stages.childlike_enthusiasm.description>crwdns428264:0crwdne428264:0</ChildlikePositivity.stages.childlike_enthusiasm.description>
+  <ChildlikePositivity.stages.childlike_confidence.label>crwdns428266:0crwdne428266:0</ChildlikePositivity.stages.childlike_confidence.label>
+  <ChildlikePositivity.stages.childlike_confidence.description>crwdns428268:0crwdne428268:0</ChildlikePositivity.stages.childlike_confidence.description>
+  
+  <DeathrestChamber.stages.deathrested_outside.label>crwdns428270:0crwdne428270:0</DeathrestChamber.stages.deathrested_outside.label>
+  <DeathrestChamber.stages.deathrested_outside.description>crwdns428272:0crwdne428272:0</DeathrestChamber.stages.deathrested_outside.description>
+  <DeathrestChamber.stages.awful_deathrest_chamber.label>crwdns428274:0crwdne428274:0</DeathrestChamber.stages.awful_deathrest_chamber.label>
+  <DeathrestChamber.stages.awful_deathrest_chamber.description>crwdns428276:0crwdne428276:0</DeathrestChamber.stages.awful_deathrest_chamber.description>
+  <DeathrestChamber.stages.decent_deathrest_chamber.label>crwdns428278:0crwdne428278:0</DeathrestChamber.stages.decent_deathrest_chamber.label>
+  <DeathrestChamber.stages.decent_deathrest_chamber.description>crwdns428280:0crwdne428280:0</DeathrestChamber.stages.decent_deathrest_chamber.description>
+  <DeathrestChamber.stages.good_deathrest_chamber.label>crwdns428282:0crwdne428282:0</DeathrestChamber.stages.good_deathrest_chamber.label>
+  <DeathrestChamber.stages.good_deathrest_chamber.description>crwdns428284:0crwdne428284:0</DeathrestChamber.stages.good_deathrest_chamber.description>
+  <DeathrestChamber.stages.great_deathrest_chamber.label>crwdns428286:0crwdne428286:0</DeathrestChamber.stages.great_deathrest_chamber.label>
+  <DeathrestChamber.stages.great_deathrest_chamber.description>crwdns428288:0crwdne428288:0</DeathrestChamber.stages.great_deathrest_chamber.description>
+  <DeathrestChamber.stages.excellent_deathrest_chamber.label>crwdns428290:0crwdne428290:0</DeathrestChamber.stages.excellent_deathrest_chamber.label>
+  <DeathrestChamber.stages.excellent_deathrest_chamber.description>crwdns428292:0crwdne428292:0</DeathrestChamber.stages.excellent_deathrest_chamber.description>
+  <DeathrestChamber.stages.exceptional_deathrest_chamber.label>crwdns428294:0crwdne428294:0</DeathrestChamber.stages.exceptional_deathrest_chamber.label>
+  <DeathrestChamber.stages.exceptional_deathrest_chamber.description>crwdns428296:0crwdne428296:0</DeathrestChamber.stages.exceptional_deathrest_chamber.description>
+  <DeathrestChamber.stages.unbelievable_deathrest_chamber.label>crwdns428298:0crwdne428298:0</DeathrestChamber.stages.unbelievable_deathrest_chamber.label>
+  <DeathrestChamber.stages.unbelievable_deathrest_chamber.description>crwdns428300:0crwdne428300:0</DeathrestChamber.stages.unbelievable_deathrest_chamber.description>
+  <DeathrestChamber.stages.wondrous_deathrest_chamber.label>crwdns428302:0crwdne428302:0</DeathrestChamber.stages.wondrous_deathrest_chamber.label>
+  <DeathrestChamber.stages.wondrous_deathrest_chamber.description>crwdns428304:0crwdne428304:0</DeathrestChamber.stages.wondrous_deathrest_chamber.description>
+  
+  <DeathrestExhaustion.stages.deathrest_exhaustion.label>crwdns428306:0crwdne428306:0</DeathrestExhaustion.stages.deathrest_exhaustion.label>
+  <DeathrestExhaustion.stages.deathrest_exhaustion.description>crwdns428308:0crwdne428308:0</DeathrestExhaustion.stages.deathrest_exhaustion.description>
+  
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.label>crwdns428310:0crwdne428310:0</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.description>crwdns428312:0{CHEMICAL_label}crwdne428312:0</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
+  
+  <HateAura.stages.apocriton_hatred_intense.label>crwdns428314:0crwdne428314:0</HateAura.stages.apocriton_hatred_intense.label>
+  <HateAura.stages.apocriton_hatred_intense.description>crwdns428316:0crwdne428316:0</HateAura.stages.apocriton_hatred_intense.description>
+  <HateAura.stages.apocriton_hatred_strong.label>crwdns428318:0crwdne428318:0</HateAura.stages.apocriton_hatred_strong.label>
+  <HateAura.stages.apocriton_hatred_strong.description>crwdns428320:0crwdne428320:0</HateAura.stages.apocriton_hatred_strong.description>
+  <HateAura.stages.apocriton_hatred_distant.label>crwdns428322:0crwdne428322:0</HateAura.stages.apocriton_hatred_distant.label>
+  <HateAura.stages.apocriton_hatred_distant.description>crwdns428324:0crwdne428324:0</HateAura.stages.apocriton_hatred_distant.description>
+  
+  <HemogenCraving.stages.hemogen_craving-0.label>crwdns428326:0crwdne428326:0</HemogenCraving.stages.hemogen_craving-0.label>
+  <HemogenCraving.stages.hemogen_craving-0.description>crwdns428328:0crwdne428328:0</HemogenCraving.stages.hemogen_craving-0.description>
+  <HemogenCraving.stages.hemogen_craving-1.label>crwdns428330:0crwdne428330:0</HemogenCraving.stages.hemogen_craving-1.label>
+  <HemogenCraving.stages.hemogen_craving-1.description>crwdns428332:0crwdne428332:0</HemogenCraving.stages.hemogen_craving-1.description>
+  <HemogenCraving.stages.hemogen_craving-2.label>crwdns428334:0crwdne428334:0</HemogenCraving.stages.hemogen_craving-2.label>
+  <HemogenCraving.stages.hemogen_craving-2.description>crwdns428336:0crwdne428336:0</HemogenCraving.stages.hemogen_craving-2.description>
+  
+  <KillThirst.stages.kill_thirst.label>crwdns428338:0crwdne428338:0</KillThirst.stages.kill_thirst.label>
+  <KillThirst.stages.kill_thirst.description>crwdns428340:0crwdne428340:0</KillThirst.stages.kill_thirst.description>
+  
+  <NoxiousHaze.stages.acidic_smog.label>crwdns428342:0crwdne428342:0</NoxiousHaze.stages.acidic_smog.label>
+  <NoxiousHaze.stages.acidic_smog.description>crwdns428344:0crwdne428344:0</NoxiousHaze.stages.acidic_smog.description>
+  
+  <PregnancyAttitude.stages.new_pregnancy-0.label>crwdns428346:0crwdne428346:0</PregnancyAttitude.stages.new_pregnancy-0.label>
+  <PregnancyAttitude.stages.new_pregnancy-0.description>crwdns428348:0crwdne428348:0</PregnancyAttitude.stages.new_pregnancy-0.description>
+  <PregnancyAttitude.stages.new_pregnancy-1.label>crwdns428350:0crwdne428350:0</PregnancyAttitude.stages.new_pregnancy-1.label>
+  <PregnancyAttitude.stages.new_pregnancy-1.description>crwdns428352:0crwdne428352:0</PregnancyAttitude.stages.new_pregnancy-1.description>
+  
+  <PregnancyMood_Collapse.labelInBracketsExtraForHediff>crwdns428354:0crwdne428354:0</PregnancyMood_Collapse.labelInBracketsExtraForHediff>
+  <PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>crwdns428356:0crwdne428356:0</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.label>
+  <PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>crwdns428358:0crwdne428358:0</PregnancyMood_Collapse.stages.pregnancy_mood_collapse.description>
+  
+  <PregnancyMood_Down.labelInBracketsExtraForHediff>crwdns428360:0crwdne428360:0</PregnancyMood_Down.labelInBracketsExtraForHediff>
+  <PregnancyMood_Down.stages.pregnancy_mood_down.label>crwdns428362:0crwdne428362:0</PregnancyMood_Down.stages.pregnancy_mood_down.label>
+  <PregnancyMood_Down.stages.pregnancy_mood_down.description>crwdns428364:0crwdne428364:0</PregnancyMood_Down.stages.pregnancy_mood_down.description>
+  
+  <PregnancyMood_High.labelInBracketsExtraForHediff>crwdns428366:0crwdne428366:0</PregnancyMood_High.labelInBracketsExtraForHediff>
+  <PregnancyMood_High.stages.pregnancy_mood_high.label>crwdns428368:0crwdne428368:0</PregnancyMood_High.stages.pregnancy_mood_high.label>
+  <PregnancyMood_High.stages.pregnancy_mood_high.description>crwdns428370:0crwdne428370:0</PregnancyMood_High.stages.pregnancy_mood_high.description>
+  
+  <PregnancyMood_Up.labelInBracketsExtraForHediff>crwdns428372:0crwdne428372:0</PregnancyMood_Up.labelInBracketsExtraForHediff>
+  <PregnancyMood_Up.stages.pregnancy_mood_up.label>crwdns428374:0crwdne428374:0</PregnancyMood_Up.stages.pregnancy_mood_up.label>
+  <PregnancyMood_Up.stages.pregnancy_mood_up.description>crwdns428376:0crwdne428376:0</PregnancyMood_Up.stages.pregnancy_mood_up.description>
+  
+  <PsychicBondProximity.stages.psychic_bond.label>crwdns428378:0crwdne428378:0</PsychicBondProximity.stages.psychic_bond.label>
+  <PsychicBondProximity.stages.psychic_bond.description>crwdns428380:0crwdne428380:0</PsychicBondProximity.stages.psychic_bond.description>
+  <PsychicBondProximity.stages.psychic_bond_distance.label>crwdns428382:0crwdne428382:0</PsychicBondProximity.stages.psychic_bond_distance.label>
+  <PsychicBondProximity.stages.psychic_bond_distance.description>crwdns428384:0crwdne428384:0</PsychicBondProximity.stages.psychic_bond_distance.description>
+  
+  <Recluse.stages.recluse_alone.label>crwdns428386:0crwdne428386:0</Recluse.stages.recluse_alone.label>
+  <Recluse.stages.recluse_alone.description>crwdns428388:0crwdne428388:0</Recluse.stages.recluse_alone.description>
+  <Recluse.stages.recluse_in_small_group.label>crwdns428390:0crwdne428390:0</Recluse.stages.recluse_in_small_group.label>
+  <Recluse.stages.recluse_in_small_group.description>crwdns428392:0crwdne428392:0</Recluse.stages.recluse_in_small_group.description>
+  <Recluse.stages.recluse_crowded.label>crwdns428394:0crwdne428394:0</Recluse.stages.recluse_crowded.label>
+  <Recluse.stages.recluse_crowded.description>crwdns428396:0crwdne428396:0</Recluse.stages.recluse_crowded.description>
+  <Recluse.stages.recluse_very_crowded.label>crwdns428398:0crwdne428398:0</Recluse.stages.recluse_very_crowded.label>
+  <Recluse.stages.recluse_very_crowded.description>crwdns428400:0crwdne428400:0</Recluse.stages.recluse_very_crowded.description>
+  
+  <ScanningSickness.stages.scanning_sickness.label>crwdns428402:0crwdne428402:0</ScanningSickness.stages.scanning_sickness.label>
+  <ScanningSickness.stages.scanning_sickness.description>crwdns428404:0crwdne428404:0</ScanningSickness.stages.scanning_sickness.description>
+  
+  <SunlightSensitivity_Major.stages.sunlight_sensitivity.label>crwdns428406:0crwdne428406:0</SunlightSensitivity_Major.stages.sunlight_sensitivity.label>
+  <SunlightSensitivity_Major.stages.sunlight_sensitivity.description>crwdns428408:0crwdne428408:0</SunlightSensitivity_Major.stages.sunlight_sensitivity.description>
+  
+  <SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>crwdns428410:0crwdne428410:0</SunlightSensitivity_Mild.stages.sunlight_sensitivity.label>
+  <SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>crwdns428412:0crwdne428412:0</SunlightSensitivity_Mild.stages.sunlight_sensitivity.description>
+</LanguageData>
