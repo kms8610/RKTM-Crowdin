@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BabyDecoration.label>아기 장식</BabyDecoration.label>
-  <BabyDecoration.description>유아를 위한 장식입니다. 성인이 아기와 놀아줄 때 놀이 욕구가 차는 속도를 향상합니다. 아이들의 놀이 구역에 배치하세요.</BabyDecoration.description>
+  <Brazier.label>화로</Brazier.label>
+  <Brazier.description>불을 붙일 때 사용하는 그릇 모양의 가구입니다. 주위를 밝혀주고 열을 발생시킵니다.</Brazier.description>
   
-  <BabySleepingSpot.label>아기 잠자리</BabySleepingSpot.label>
-  <BabySleepingSpot.description>바닥에 아기를 둬야 하는 위치를 정합니다. 불편합니다.</BabySleepingSpot.description>
+  <DarklightBrazier.label>희미한 화로</DarklightBrazier.label>
+  <DarklightBrazier.description>주변에 희미한 빛을 발산하고 열을 발생시키는 특수처리된 화로입니다. 왕실 화로 요구사항을 충족시킵니다.</DarklightBrazier.description>
   
-  <Blackboard.label>칠판</Blackboard.label>
-  <Blackboard.description>돌같은 질감의, 분필로 글을 쓰기 위한 평평한 표면입니다. 교실 책상 근처에 배치하면 수업 중 아이들의 학습 속도를 향상합니다. 한 번에 세 개의 칠판 효과를 받을 수 있습니다.</Blackboard.description>
-  <Blackboard.comps.CompStatEntry.reportText>수업이 진행되는 책상 근처에 배치되면 학생의 학습률을 증가시킵니다. 최대 3개의 칠판이 중첩됩니다.</Blackboard.comps.CompStatEntry.reportText>
-  <Blackboard.comps.CompStatEntry.statLabel>학습 속도 보너스</Blackboard.comps.CompStatEntry.statLabel>
+  <Drape.label>휘장</Drape.label>
+  <Drape.description>수직의 나무에 천을 달아놓은 장식으로 왕실을 꾸미는 데에 적합합니다.</Drape.description>
   
-  <Crib.label>아기 침대</Crib.label>
-  <Crib.description>안전 칸막이로 양옆을 막은 편안한 침대입니다. 졸린 아기에게 안성맞춤입니다. 높은 품질의 침대는 아기를 행복하게 해줍니다. 아기 침대는 한 방에 여러 개를 배치해도 방이 막사로 취급되지 않습니다.</Crib.description>
+  <GrandThrone.label>대왕좌</GrandThrone.label>
+  <GrandThrone.description>귀족만이 앉을 수 있는 거대하고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</GrandThrone.description>
+  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>작위를 가진 사람만 왕좌를 소유할 수 있습니다.</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
   
-  <SchoolDesk.label>교실 책상</SchoolDesk.label>
-  <SchoolDesk.description>어른이 아이를 가르칠 수 있는 책상입니다.</SchoolDesk.description>
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>이것에 영향을 받는 아이들이 얼마나 더 빠르게 학습을 배우는지에 대한 값</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>학습 속도 보너스</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
-  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>학습 속도 보너스</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
-  
-  <ToyBox.label>장난감 상자</ToyBox.label>
-  <ToyBox.description>다양하고 조그마한 장난감을 담은 상자입니다. 아기들과 놀아줄 때 사용할 수 있습니다.</ToyBox.description>
+  <Throne.label>왕좌</Throne.label>
+  <Throne.description>귀족만이 앉을 수 있는 크고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</Throne.description>
+  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>작위를 가진 사람만 왕좌를 소유할 수 있습니다.</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
 </LanguageData>
