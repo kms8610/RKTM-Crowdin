@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PiercingSpine.label>케라틴 척추</PiercingSpine.label>
+  <AnimalCalm.label>동물 진정</AnimalCalm.label>
+  <AnimalCalm.description>특수한 동물 교감 기술을 통해 화난 야수를 진정시킵니다.</AnimalCalm.description>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(을)를 성공적으로 진정시켰습니다.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
-  <Proj_Acid.label>산</Proj_Acid.label>
+  <BerserkTrance.label>피의 무아지경</BerserkTrance.label>
+  <BerserkTrance.description>사용자의 내면이 분노로 가득찹니다. 멈추지 않는 분노 속에서 신체가 한계를 뛰어넘게 되지만, 자제력을 잃고 모든 적들을 닥치는 대로 공격하려 들 것입니다. 이 상태는 3시간 동안 지속됩니다.</BerserkTrance.description>
   
-  <Proj_Foam_Ability.label>거품</Proj_Foam_Ability.label>
+  <CombatCommand.label>전투 지휘</CombatCommand.label>
+  <CombatCommand.description>지도력을 발휘하여 주변 모든 아군의 격투 기술을 향상시킵니다.</CombatCommand.description>
+  
+  <ConversionRitual.label>교화 의식</ConversionRitual.label>
+  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n의식을 시작하려면 행사 장소 또는 제단, 상징문양을 선택하세요.</ConversionRitual.description>
+  
+  <Convert.label>교화</Convert.label>
+  <Convert.description>대상을 전도사의 사상으로 교화하도록 시도합니다. 대상의 사상에 대한 믿음을 감소시킵니다. 믿음의 감소는 전도사의 협상 능력에 따릅니다.</Convert.description>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort} 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 감소했습니다. ({CERTAINTYBEFORE} ▶ {CERTAINTYAFTER})</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}(으)로 교화시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <Counsel.label>심리 상담</Counsel.label>
+  <Counsel.description>대상자와 상담을 통해 나쁜 기억을 제거합니다. 성공 확률은 상담사의 사교 기술과 상담자와의 사회적 관계에 영향을 받습니다.</Counsel.description>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 그르쳤습니다. {RECIPIENT_labelShort}의 기분이 상했습니다.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}(이)가 상담을 성공적으로 마쳐 {RECIPIENT_labelShort}의 {2} 무드 효과를 제거했습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 성공적으로 마쳐 {RECIPIENT_possessive} 기분을 {MOODBONUS}만큼 증가시켰습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  
+  <FarmingCommand.label>농업 감독</FarmingCommand.label>
+  <FarmingCommand.description>지도력을 발휘하여 주변 모든 정착민의 재배 기술을 향상시킵니다.</FarmingCommand.description>
+  
+  <ImmunityDrive.label>면역 증진</ImmunityDrive.label>
+  <ImmunityDrive.description>정신적인 지원을 통해 대상의 신체의 활력을 불어넣어 면역력을 하룻동안 증가시킵니다.</ImmunityDrive.description>
+  
+  <LeaderSpeech.label>지도 연설</LeaderSpeech.label>
+  <LeaderSpeech.description>지도 연설을 시작합니다. 매끄럽게 진행된다면 청취자들은 영감을 얻거나 지도자에 대한 존경심을 느낄 것입니다. 반대로 결과가 좋지 않으면 사교적 불이익을 받습니다.</LeaderSpeech.description>
+  
+  <MarksmanCommand.label>사수 지휘</MarksmanCommand.label>
+  <MarksmanCommand.description>지도력을 발휘하여 주변 모든 아군의 사격 기술을 향상시킵니다.</MarksmanCommand.description>
+  
+  <MiningCommand.label>채굴 감독</MiningCommand.label>
+  <MiningCommand.description>지도력을 발휘하여 주변 모든 정착민의 채굴 능력을 향상시킵니다.</MiningCommand.description>
+  
+  <PreachHealth.label>건강 상담</PreachHealth.label>
+  <PreachHealth.description>대상의 생존 의지를 자극하여 상처 재생 능력과 면역 획득 속도를 증가시킵니다.</PreachHealth.description>
+  
+  <ProductionCommand.label>생산 감독</ProductionCommand.label>
+  <ProductionCommand.description>지도력을 발휘하여 주변 모든 정착민의 건설 및 제작 능력을 향상시킵니다.</ProductionCommand.description>
+  
+  <Reassure.label>사상 교육</Reassure.label>
+  <Reassure.description>대상자의 사상에 대한 믿음을 강화합니다. 회복되는 믿음의 수치는 전도사의 협상 능력에 따릅니다.</Reassure.description>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}에게 다시 확신을 심어주었습니다. {RECIPIENT_labelShort}의 {IDEO}에 대한 믿음이 {BEFORECERTAINTY}에서 {AFTERCERTAINTY}(으)로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  
+  <ResearchCommand.label>연구 지휘</ResearchCommand.label>
+  <ResearchCommand.description>지도력을 발휘하여 주변 모든 정착민의 연구 속도를 향상시킵니다.</ResearchCommand.description>
+  
+  <Trial.label>재판</Trial.label>
+  <Trial.description>용의자를 기소하여 죄의 유무를 판단할 재판을 진행합니다. 유죄가 선고된다면, 피의자를 수감 및 추방, 처형을 통한 불이익이 발생하지 않습니다. 판결의 결과는 피고와 원고의 사교적 능력치에 영향을 받습니다.</Trial.description>
+  
+  <WorkDrive.label>작업 격려</WorkDrive.label>
+  <WorkDrive.description>정착민 하나를 지정해 잠깐 더 열심히 작업하도록 합니다.</WorkDrive.description>
 </LanguageData>
