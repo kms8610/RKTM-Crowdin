@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Corpses_DontCare.label>don't care</Corpses_DontCare.label>
-  <Corpses_DontCare.description>The sight of a dead person is nothing to be concerned about.</Corpses_DontCare.description>
+  <ObservedLayingCorpse.label>시신 목격</ObservedLayingCorpse.label>
+  
+  <ObservedLayingRottingCorpse.label>썩은 시체 목격</ObservedLayingRottingCorpse.label>
 </LanguageData>
