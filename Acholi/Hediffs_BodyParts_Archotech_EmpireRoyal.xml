@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicHarmonizer.label>crwdns449098:0crwdne449098:0</PsychicHarmonizer.label>
-  <PsychicHarmonizer.description>crwdns449100:0crwdne449100:0</PsychicHarmonizer.description>
-  
-  <PsychicReader.label>crwdns449102:0crwdne449102:0</PsychicReader.label>
-  <PsychicReader.description>crwdns449104:0crwdne449104:0</PsychicReader.description>
-  
-  <PsychicSensitizer.label>crwdns449106:0crwdne449106:0</PsychicSensitizer.label>
-  <PsychicSensitizer.description>crwdns449108:0crwdne449108:0</PsychicSensitizer.description>
+  <PsychicHarmonization.stages.psychic_harmony.label>crwdns449344:0{HARMONIZER_labelShort}crwdne449344:0</PsychicHarmonization.stages.psychic_harmony.label>
+  <PsychicHarmonization.stages.psychic_harmony.description>crwdns449346:0crwdne449346:0</PsychicHarmonization.stages.psychic_harmony.description>
 </LanguageData>
