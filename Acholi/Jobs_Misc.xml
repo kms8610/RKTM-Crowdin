@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActivateArchonexusCore.reportString>crwdns432370:0crwdne432370:0</ActivateArchonexusCore.reportString>
+  <BestowingCeremony.reportString>crwdns445780:0crwdne445780:0</BestowingCeremony.reportString>
   
-  <Blind.reportString>crwdns432372:0crwdne432372:0</Blind.reportString>
+  <LinkPsylinkable.reportString>crwdns445782:0crwdne445782:0</LinkPsylinkable.reportString>
   
-  <CarryToBiosculpterPod.reportString>crwdns432374:0crwdne432374:0</CarryToBiosculpterPod.reportString>
-  
-  <DeliverToAltar.reportString>crwdns432376:0crwdne432376:0</DeliverToAltar.reportString>
-  
-  <DyeHair.reportString>crwdns432378:0crwdne432378:0</DyeHair.reportString>
-  
-  <EnterBiosculpterPod.reportString>crwdns432380:0crwdne432380:0</EnterBiosculpterPod.reportString>
-  
-  <ExtractRelic.reportString>crwdns432382:0crwdne432382:0</ExtractRelic.reportString>
-  
-  <ExtractToInventory.reportString>crwdns432384:0crwdne432384:0</ExtractToInventory.reportString>
-  
-  <GetNeuralSupercharge.reportString>crwdns432386:0crwdne432386:0</GetNeuralSupercharge.reportString>
-  
-  <GiveToPawn.reportString>crwdns432388:0crwdne432388:0</GiveToPawn.reportString>
-  
-  <InduceSlaveToRebel.reportString>crwdns432390:0crwdne432390:0</InduceSlaveToRebel.reportString>
-  
-  <InstallRelic.reportString>crwdns432392:0crwdne432392:0</InstallRelic.reportString>
-  
-  <MeditatePray.reportString>crwdns432394:0crwdne432394:0</MeditatePray.reportString>
-  
-  <OpenStylingStationDialog.reportString>crwdns432396:0crwdne432396:0</OpenStylingStationDialog.reportString>
-  
-  <RecolorApparel.reportString>crwdns432398:0crwdne432398:0</RecolorApparel.reportString>
-  
-  <Sacrifice.reportString>crwdns432400:0crwdne432400:0</Sacrifice.reportString>
-  
-  <Scarify.reportString>crwdns432402:0crwdne432402:0</Scarify.reportString>
-  
-  <UseStylingStation.reportString>crwdns432404:0crwdne432404:0</UseStylingStation.reportString>
-  
-  <UseStylingStationAutomatic.reportString>crwdns432406:0crwdne432406:0</UseStylingStationAutomatic.reportString>
+  <Reign.reportString>crwdns445784:0crwdne445784:0</Reign.reportString>
 </LanguageData>
