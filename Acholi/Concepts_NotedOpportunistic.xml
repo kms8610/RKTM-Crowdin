@@ -1,8 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeditationDesiredPsyfocus.label>crwdns445324:0crwdne445324:0</MeditationDesiredPsyfocus.label>
-  <MeditationDesiredPsyfocus.helpText>crwdns445326:0crwdne445326:0</MeditationDesiredPsyfocus.helpText>
+  <AnimalsDontAttackDoors.label>crwdns456246:0crwdne456246:0</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.helpText>crwdns456248:0crwdne456248:0</AnimalsDontAttackDoors.helpText>
   
-  <MeditationSchedule.label>crwdns445328:0crwdne445328:0</MeditationSchedule.label>
-  <MeditationSchedule.helpText>crwdns445330:0crwdne445330:0</MeditationSchedule.helpText>
+  <BillsTab.label>crwdns456250:0crwdne456250:0</BillsTab.label>
+  <BillsTab.helpText>crwdns456252:0crwdne456252:0</BillsTab.helpText>
+  
+  <BuildOrbitalTradeBeacon.label>crwdns456254:0crwdne456254:0</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.helpText>crwdns456256:0crwdne456256:0</BuildOrbitalTradeBeacon.helpText>
+  
+  <Capturing.label>crwdns456258:0crwdne456258:0</Capturing.label>
+  <Capturing.helpText>crwdns456260:0crwdne456260:0</Capturing.helpText>
+  <Capturing.helpTextController>crwdns456262:0crwdne456262:0</Capturing.helpTextController>
+  
+  <DoorOpenSpeed.label>crwdns456264:0crwdne456264:0</DoorOpenSpeed.label>
+  <DoorOpenSpeed.helpText>crwdns456266:0crwdne456266:0</DoorOpenSpeed.helpText>
+  
+  <Drafting.label>crwdns456268:0crwdne456268:0</Drafting.label>
+  <Drafting.helpText>crwdns456270:0crwdne456270:0</Drafting.helpText>
+  
+  <DrugAddiction.label>crwdns456272:0crwdne456272:0</DrugAddiction.label>
+  <DrugAddiction.helpText>crwdns456274:0crwdne456274:0</DrugAddiction.helpText>
+  
+  <DrugBurning.label>crwdns456276:0crwdne456276:0</DrugBurning.label>
+  <DrugBurning.helpText>crwdns456278:0crwdne456278:0</DrugBurning.helpText>
+  
+  <DrugPolicies.label>crwdns456280:0crwdne456280:0</DrugPolicies.label>
+  <DrugPolicies.helpText>crwdns456282:0crwdne456282:0</DrugPolicies.helpText>
+  
+  <GroupGotoHereDragging.label>crwdns456284:0crwdne456284:0</GroupGotoHereDragging.label>
+  <GroupGotoHereDragging.helpText>crwdns456286:0crwdne456286:0</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpTextController>crwdns456288:0crwdne456288:0</GroupGotoHereDragging.helpTextController>
+  
+  <InteractingWithTraders.label>crwdns456290:0crwdne456290:0</InteractingWithTraders.label>
+  <InteractingWithTraders.helpText>crwdns456292:0crwdne456292:0</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpTextController>crwdns456294:0crwdne456294:0</InteractingWithTraders.helpTextController>
+  
+  <OpeningComms.label>crwdns456296:0crwdne456296:0</OpeningComms.label>
+  <OpeningComms.helpText>crwdns456298:0crwdne456298:0</OpeningComms.helpText>
+  <OpeningComms.helpTextController>crwdns456300:0crwdne456300:0</OpeningComms.helpTextController>
+  
+  <PrisonerTab.label>crwdns456302:0crwdne456302:0</PrisonerTab.label>
+  <PrisonerTab.helpText>crwdns456304:0crwdne456304:0</PrisonerTab.helpText>
+  
+  <QueueOrders.label>crwdns456306:0crwdne456306:0</QueueOrders.label>
+  <QueueOrders.helpText>crwdns456308:0crwdne456308:0</QueueOrders.helpText>
+  <QueueOrders.helpTextController>crwdns456310:0{Key:QueueOrder}crwdne456310:0</QueueOrders.helpTextController>
+  
+  <ReformCaravan.label>crwdns456312:0crwdne456312:0</ReformCaravan.label>
+  <ReformCaravan.helpText>crwdns456314:0crwdne456314:0</ReformCaravan.helpText>
+  
+  <Rescuing.label>crwdns456316:0crwdne456316:0</Rescuing.label>
+  <Rescuing.helpText>crwdns456318:0crwdne456318:0</Rescuing.helpText>
+  <Rescuing.helpTextController>crwdns456320:0crwdne456320:0</Rescuing.helpTextController>
+  
+  <SetGrowingZonePlant.label>crwdns456322:0crwdne456322:0</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.helpText>crwdns456324:0crwdne456324:0</SetGrowingZonePlant.helpText>
+  
+  <Shelves.label>crwdns456326:0crwdne456326:0</Shelves.label>
+  <Shelves.helpText>crwdns456328:0crwdne456328:0</Shelves.helpText>
+  
+  <ShieldBelts.label>crwdns456330:0crwdne456330:0</ShieldBelts.label>
+  <ShieldBelts.helpText>crwdns456332:0crwdne456332:0</ShieldBelts.helpText>
+  
+  <TVForSickPeople.label>crwdns456334:0crwdne456334:0</TVForSickPeople.label>
+  <TVForSickPeople.helpText>crwdns456336:0crwdne456336:0</TVForSickPeople.helpText>
 </LanguageData>
