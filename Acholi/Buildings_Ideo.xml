@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Altar_Grand.label>crwdns440440:0crwdne440440:0</Altar_Grand.label>
+  <Altar_Grand.description>crwdns440442:0crwdne440442:0</Altar_Grand.description>
+  
+  <Altar_Large.label>crwdns440444:0crwdne440444:0</Altar_Large.label>
+  <Altar_Large.description>crwdns440446:0crwdne440446:0</Altar_Large.description>
+  
+  <Altar_Medium.label>crwdns440448:0crwdne440448:0</Altar_Medium.label>
+  <Altar_Medium.description>crwdns440450:0crwdne440450:0</Altar_Medium.description>
+  
+  <Altar_Small.label>crwdns440452:0crwdne440452:0</Altar_Small.label>
+  <Altar_Small.description>crwdns440454:0crwdne440454:0</Altar_Small.description>
+  
+  <BiosculpterPod.label>crwdns440456:0crwdne440456:0</BiosculpterPod.label>
+  <BiosculpterPod.description>crwdns440458:0crwdne440458:0</BiosculpterPod.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>crwdns440460:0crwdne440460:0</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>crwdns440462:0crwdne440462:0</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>crwdns440464:0crwdne440464:0</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>crwdns440466:0crwdne440466:0</BiosculpterPod.comps.CompBiosculpterPod_RegenerationCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>crwdns440468:0crwdne440468:0</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>crwdns440470:0{DURATION}crwdne440470:0</BiosculpterPod.comps.CompBiosculpterPod_AgeReversalCycle.description>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>crwdns440472:0crwdne440472:0</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.label>
+  <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>crwdns440474:0crwdne440474:0</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
+  
+  <Burnbong.label>crwdns440476:0crwdne440476:0</Burnbong.label>
+  <Burnbong.description>crwdns440478:0crwdne440478:0</Burnbong.description>
+  
+  <CannibalPlatter.label>crwdns440480:0crwdne440480:0</CannibalPlatter.label>
+  <CannibalPlatter.description>crwdns440482:0crwdne440482:0</CannibalPlatter.description>
+  
+  <ChristmasTree.label>crwdns440484:0crwdne440484:0</ChristmasTree.label>
+  <ChristmasTree.description>crwdns440486:0crwdne440486:0</ChristmasTree.description>
+  
+  <Darktorch.label>crwdns440488:0crwdne440488:0</Darktorch.label>
+  <Darktorch.description>crwdns440490:0crwdne440490:0</Darktorch.description>
+  
+  <DarktorchFungus.label>crwdns440492:0crwdne440492:0</DarktorchFungus.label>
+  <DarktorchFungus.description>crwdns440494:0crwdne440494:0</DarktorchFungus.description>
+  
+  <Effigy.label>crwdns440496:0crwdne440496:0</Effigy.label>
+  <Effigy.description>crwdns440498:0crwdne440498:0</Effigy.description>
+  
+  <Ideogram.label>crwdns440500:0crwdne440500:0</Ideogram.label>
+  <Ideogram.description>crwdns440502:0crwdne440502:0</Ideogram.description>
+  
+  <IncenseShrine.label>crwdns440504:0crwdne440504:0</IncenseShrine.label>
+  <IncenseShrine.description>crwdns440506:0crwdne440506:0</IncenseShrine.description>
+  
+  <NeuralSupercharger.label>crwdns440508:0crwdne440508:0</NeuralSupercharger.label>
+  <NeuralSupercharger.description>crwdns440510:0crwdne440510:0</NeuralSupercharger.description>
+  <NeuralSupercharger.comps.CompNeuralSupercharger.jobString>crwdns440512:0crwdne440512:0</NeuralSupercharger.comps.CompNeuralSupercharger.jobString>
+  
+  <Pyre.label>crwdns440514:0crwdne440514:0</Pyre.label>
+  <Pyre.description>crwdns440516:0crwdne440516:0</Pyre.description>
+  
+  <RitualSpot.label>crwdns440518:0crwdne440518:0</RitualSpot.label>
+  <RitualSpot.description>crwdns440520:0crwdne440520:0</RitualSpot.description>
+  
+  <SacrificialFlag.label>crwdns440522:0crwdne440522:0</SacrificialFlag.label>
+  <SacrificialFlag.description>crwdns440524:0crwdne440524:0</SacrificialFlag.description>
+  
+  <SleepAccelerator.label>crwdns440526:0crwdne440526:0</SleepAccelerator.label>
+  <SleepAccelerator.description>crwdns440528:0crwdne440528:0</SleepAccelerator.description>
+</LanguageData>
