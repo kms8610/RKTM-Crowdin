@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <EmptyWasteContainer.reportString>crwdns424494:0crwdne424494:0</EmptyWasteContainer.reportString>
+  <ChangeTreeMode.reportString>crwdns432408:0crwdne432408:0</ChangeTreeMode.reportString>
   
-  <HaulToAtomizer.reportString>crwdns424496:0crwdne424496:0</HaulToAtomizer.reportString>
+  <CreateAndEnterCocoon.reportString>crwdns432410:0crwdne432410:0</CreateAndEnterCocoon.reportString>
   
-  <StudyItem.reportString>crwdns424498:0crwdne424498:0</StudyItem.reportString>
+  <CreateAndEnterHealingPod.reportString>crwdns432412:0crwdne432412:0</CreateAndEnterHealingPod.reportString>
+  
+  <ExtractSkull.reportString>crwdns432414:0crwdne432414:0</ExtractSkull.reportString>
+  
+  <Hack.reportString>crwdns432416:0crwdne432416:0</Hack.reportString>
+  
+  <MergeIntoGaumakerPod.reportString>crwdns432418:0crwdne432418:0</MergeIntoGaumakerPod.reportString>
+  
+  <PrisonerConvert.reportString>crwdns432420:0crwdne432420:0</PrisonerConvert.reportString>
+  
+  <PrisonerEnslave.reportString>crwdns432422:0crwdne432422:0</PrisonerEnslave.reportString>
+  
+  <PruneGauranlenTree.reportString>crwdns432424:0crwdne432424:0</PruneGauranlenTree.reportString>
+  
+  <ReturnToGauranlenTree.reportString>crwdns432426:0crwdne432426:0</ReturnToGauranlenTree.reportString>
+  
+  <SlaveEmancipation.reportString>crwdns432428:0crwdne432428:0</SlaveEmancipation.reportString>
+  
+  <SlaveExecution.reportString>crwdns432430:0crwdne432430:0</SlaveExecution.reportString>
+  
+  <SlaveSuppress.reportString>crwdns432432:0crwdne432432:0</SlaveSuppress.reportString>
 </LanguageData>
