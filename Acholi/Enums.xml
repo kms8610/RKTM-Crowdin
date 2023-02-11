@@ -1,9 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MechWeightClass_Light>crwdns429290:0crwdne429290:0</MechWeightClass_Light>
-  <MechWeightClass_Medium>crwdns429292:0crwdne429292:0</MechWeightClass_Medium>
-  <MechWeightClass_Heavy>crwdns429294:0crwdne429294:0</MechWeightClass_Heavy>
-  <MechWeightClass_Ultraheavy>crwdns429296:0crwdne429296:0</MechWeightClass_Ultraheavy>
+  <!-- Glow -->
+  <Dark>crwdns479682:0crwdne479682:0</Dark>
+  <Lit>crwdns479684:0crwdne479684:0</Lit>
+  <LitBrightly>crwdns479686:0crwdne479686:0</LitBrightly>
 
+  <!-- Price types -->
+  <PriceTypeVeryCheap>crwdns479688:0crwdne479688:0</PriceTypeVeryCheap>
+  <PriceTypeCheap>crwdns479690:0crwdne479690:0</PriceTypeCheap>
+  <PriceTypeNormal>crwdns479692:0crwdne479692:0</PriceTypeNormal>
+  <PriceTypeExpensive>crwdns479694:0crwdne479694:0</PriceTypeExpensive>
+  <PriceTypeExorbitant>crwdns479696:0crwdne479696:0</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>crwdns479698:0crwdne479698:0</StoragePriorityUnstored>
+  <StoragePriorityLow>crwdns479700:0crwdne479700:0</StoragePriorityLow>
+  <StoragePriorityNormal>crwdns479702:0crwdne479702:0</StoragePriorityNormal>
+  <StoragePriorityPreferred>crwdns479704:0crwdne479704:0</StoragePriorityPreferred>
+  <StoragePriorityImportant>crwdns479706:0crwdne479706:0</StoragePriorityImportant>
+  <StoragePriorityCritical>crwdns479708:0crwdne479708:0</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>crwdns479710:0crwdne479710:0</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>crwdns479712:0crwdne479712:0</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>crwdns479714:0crwdne479714:0</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>crwdns479716:0crwdne479716:0</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>crwdns479718:0crwdne479718:0</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>crwdns479720:0crwdne479720:0</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>crwdns479722:0crwdne479722:0</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>crwdns479724:0crwdne479724:0</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>crwdns479726:0crwdne479726:0</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>crwdns479728:0crwdne479728:0</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>crwdns479730:0crwdne479730:0</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>crwdns479732:0crwdne479732:0</QualityCategory_Awful>
+  <QualityCategory_Poor>crwdns479734:0crwdne479734:0</QualityCategory_Poor>
+  <QualityCategory_Normal>crwdns479736:0crwdne479736:0</QualityCategory_Normal>
+  <QualityCategory_Good>crwdns479738:0crwdne479738:0</QualityCategory_Good>
+  <QualityCategory_Excellent>crwdns479740:0crwdne479740:0</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>crwdns479742:0crwdne479742:0</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>crwdns479744:0crwdne479744:0</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>crwdns479746:0crwdne479746:0</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Poor>crwdns479748:0crwdne479748:0</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>crwdns479750:0crwdne479750:0</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>crwdns479752:0crwdne479752:0</QualityCategoryShort_Good>
+  <QualityCategoryShort_Excellent>crwdns479754:0crwdne479754:0</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>crwdns479756:0crwdne479756:0</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>crwdns479758:0crwdne479758:0</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>crwdns479760:0crwdne479760:0</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>crwdns479762:0crwdne479762:0</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>crwdns479764:0crwdne479764:0</HungerLevel_Hungry>
+  <HungerLevel_Fed>crwdns479766:0crwdne479766:0</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>crwdns479768:0crwdne479768:0</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>crwdns479770:0crwdne479770:0</HungerLevel_VeryTired>
+  <HungerLevel_Tired>crwdns479772:0crwdne479772:0</HungerLevel_Tired>
+  <HungerLevel_Rested>crwdns479774:0crwdne479774:0</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>crwdns479776:0crwdne479776:0</Hilliness_Flat>
+  <Hilliness_SmallHills>crwdns479778:0crwdne479778:0</Hilliness_SmallHills>
+  <Hilliness_LargeHills>crwdns479780:0crwdne479780:0</Hilliness_LargeHills>
+  <Hilliness_Mountainous>crwdns479782:0crwdne479782:0</Hilliness_Mountainous>
+  <Hilliness_Impassable>crwdns479784:0crwdne479784:0</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>crwdns479786:0crwdne479786:0</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>crwdns479788:0crwdne479788:0</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>crwdns479790:0crwdne479790:0</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>crwdns479792:0crwdne479792:0</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>crwdns479794:0crwdne479794:0</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>crwdns479796:0crwdne479796:0</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>crwdns479798:0crwdne479798:0</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>crwdns479800:0crwdne479800:0</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <ContentSource_OfficialModsFolder>crwdns479802:0crwdne479802:0</ContentSource_OfficialModsFolder>
+  <ContentSource_ModsFolder>crwdns479804:0crwdne479804:0</ContentSource_ModsFolder>
+  <ContentSource_SteamWorkshop>crwdns479806:0crwdne479806:0</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>crwdns479808:0crwdne479808:0</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>crwdns479810:0crwdne479810:0</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>crwdns479812:0crwdne479812:0</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>crwdns479814:0crwdne479814:0</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>crwdns479816:0crwdne479816:0</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>crwdns479818:0crwdne479818:0</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>crwdns479820:0crwdne479820:0</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>crwdns479822:0crwdne479822:0</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>crwdns479824:0crwdne479824:0</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>crwdns479826:0crwdne479826:0</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>crwdns479828:0crwdne479828:0</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>crwdns479830:0crwdne479830:0</TechLevel_Animal>
+  <TechLevel_Neolithic>crwdns479832:0crwdne479832:0</TechLevel_Neolithic>
+  <TechLevel_Medieval>crwdns479834:0crwdne479834:0</TechLevel_Medieval>
+  <TechLevel_Industrial>crwdns479836:0crwdne479836:0</TechLevel_Industrial>
+  <TechLevel_Spacer>crwdns479838:0crwdne479838:0</TechLevel_Spacer>
+  <TechLevel_Ultra>crwdns479840:0crwdne479840:0</TechLevel_Ultra>
+  <TechLevel_Archotech>crwdns479842:0crwdne479842:0</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>crwdns479844:0crwdne479844:0</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>crwdns479846:0crwdne479846:0</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>crwdns479848:0crwdne479848:0</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>crwdns479850:0crwdne479850:0</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>crwdns479852:0crwdne479852:0</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <ScreenShakeIntensity>crwdns479854:0crwdne479854:0</ScreenShakeIntensity>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>crwdns479856:0crwdne479856:0</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>crwdns479858:0crwdne479858:0</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>crwdns479860:0crwdne479860:0</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Mech name display mode -->
+  <ShowMechNames>crwdns479862:0crwdne479862:0</ShowMechNames>
+  <MechNameDisplayMode_WhileDrafted>crwdns479864:0crwdne479864:0</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_Always>crwdns479866:0crwdne479866:0</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <ShowWeaponsUnderPortrait>crwdns479868:0crwdne479868:0</ShowWeaponsUnderPortrait>
+  <ShowWeaponsUnderPortraitTooltip>crwdns479870:0crwdne479870:0</ShowWeaponsUnderPortraitTooltip>
+  <ShowWeapons_Always>crwdns479872:0crwdne479872:0</ShowWeapons_Always>
+  <ShowWeapons_WhileDrafted>crwdns479874:0crwdne479874:0</ShowWeapons_WhileDrafted>
+
+  <!-- Temperature -->
+  <Celsius>crwdns479876:0crwdne479876:0</Celsius>
+  <Fahrenheit>crwdns479878:0crwdne479878:0</Fahrenheit>
+  <Kelvin>crwdns479880:0crwdne479880:0</Kelvin>
+  
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>crwdns479882:0crwdne479882:0</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>crwdns479884:0crwdne479884:0</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>crwdns479886:0crwdne479886:0</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>crwdns479888:0crwdne479888:0</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>crwdns479890:0crwdne479890:0</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>crwdns479892:0crwdne479892:0</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>crwdns479894:0crwdne479894:0</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>crwdns479896:0crwdne479896:0</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <DietCategory_NeverEats>crwdns479898:0crwdne479898:0</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>crwdns479900:0crwdne479900:0</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>crwdns479902:0crwdne479902:0</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>crwdns479904:0crwdne479904:0</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>crwdns479906:0crwdne479906:0</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>crwdns479908:0crwdne479908:0</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>crwdns479910:0crwdne479910:0</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>crwdns479912:0crwdne479912:0</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>crwdns479914:0crwdne479914:0</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>crwdns479916:0crwdne479916:0</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>crwdns479918:0crwdne479918:0</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>crwdns479920:0crwdne479920:0</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <FoodPoisonCause_IncompetentCook>crwdns479922:0crwdne479922:0</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>crwdns479924:0crwdne479924:0</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>crwdns479926:0crwdne479926:0</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>crwdns479928:0crwdne479928:0</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <PsychicDroneLevel_None>crwdns479930:0crwdne479930:0</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>crwdns479932:0crwdne479932:0</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>crwdns479934:0crwdne479934:0</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>crwdns479936:0crwdne479936:0</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>crwdns479938:0crwdne479938:0</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>crwdns479940:0crwdne479940:0</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <AutomaticPauseMode_Never>crwdns479942:0crwdne479942:0</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_MajorThreat>crwdns479944:0crwdne479944:0</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_AnyThreat>crwdns479946:0crwdne479946:0</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyLetter>crwdns479948:0crwdne479948:0</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <PainCategory_LowPain>crwdns479950:0crwdne479950:0</PainCategory_LowPain>
+  <PainCategory_MediumPain>crwdns479952:0crwdne479952:0</PainCategory_MediumPain>
+  <PainCategory_HighPain>crwdns479954:0crwdne479954:0</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <ExtraFactionType_HomeFaction>crwdns479956:0crwdne479956:0</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HostFaction>crwdns479958:0crwdne479958:0</ExtraFactionType_HostFaction>
+  <ExtraFactionType_MiniFaction>crwdns479960:0crwdne479960:0</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <DrugCategory>crwdns479962:0crwdne479962:0</DrugCategory>
+  <DrugCategory_None>crwdns479964:0crwdne479964:0</DrugCategory_None>
+  <DrugCategory_Medical>crwdns479966:0crwdne479966:0</DrugCategory_Medical>
+  <DrugCategory_Social>crwdns479968:0crwdne479968:0</DrugCategory_Social>
+  <DrugCategory_Hard>crwdns479970:0crwdne479970:0</DrugCategory_Hard>
+  <DrugCategory_Any>crwdns479972:0crwdne479972:0</DrugCategory_Any>
+  
 </LanguageData>
