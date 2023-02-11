@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mechanitor.label>메카나이터</Mechanitor.label>
+  <Beggar.label>거지</Beggar.label>
   
-  <Mechanitor_Basic.label>메카나이터</Mechanitor_Basic.label>
+  <PovertyPilgrim.label>순례자</PovertyPilgrim.label>
   
-  <Sanguophage.label>생귀오파지</Sanguophage.label>
-  
-  <SanguophageThrall.label>흡혈종복</SanguophageThrall.label>
-  
-  <Sanguophage_Player.label>생귀오파지</Sanguophage_Player.label>
-  
-  <Tribal_Child.label>마을 사람</Tribal_Child.label>
-  
-  <Villager_Child.label>마을 사람</Villager_Child.label>
+  <WellEquippedTraveler.label>well-equipped traveler</WellEquippedTraveler.label>
 </LanguageData>
