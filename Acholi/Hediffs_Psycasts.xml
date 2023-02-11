@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EntropyLink.label>crwdns445650:0crwdne445650:0</EntropyLink.label>
+  <EntropyLink.description>crwdns445652:0crwdne445652:0</EntropyLink.description>
+  
+  <Joyfuzz.label>crwdns445654:0crwdne445654:0</Joyfuzz.label>
+  <Joyfuzz.description>crwdns445656:0crwdne445656:0</Joyfuzz.description>
+  
+  <PsychicAnesthesia.label>crwdns445658:0crwdne445658:0</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>crwdns445660:0crwdne445660:0</PsychicAnesthesia.description>
+  
+  <PsychicBlindness.label>crwdns445662:0crwdne445662:0</PsychicBlindness.label>
+  <PsychicBlindness.description>crwdns445664:0crwdne445664:0</PsychicBlindness.description>
+  
+  <PsychicBreakdown.label>crwdns445666:0crwdne445666:0</PsychicBreakdown.label>
+  <PsychicBreakdown.description>crwdns445668:0crwdne445668:0</PsychicBreakdown.description>
+  <PsychicBreakdown.stages.minor.label>crwdns445670:0crwdne445670:0</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.major.label>crwdns445672:0crwdne445672:0</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.total.label>crwdns445674:0crwdne445674:0</PsychicBreakdown.stages.total.label>
+  
+  <PsychicBurden.label>crwdns445676:0crwdne445676:0</PsychicBurden.label>
+  <PsychicBurden.description>crwdns445678:0crwdne445678:0</PsychicBurden.description>
+  
+  <PsychicEntropy.label>crwdns445680:0crwdne445680:0</PsychicEntropy.label>
+  <PsychicEntropy.description>crwdns445682:0crwdne445682:0</PsychicEntropy.description>
+  <PsychicEntropy.descriptionShort>crwdns445684:0crwdne445684:0</PsychicEntropy.descriptionShort>
+  <PsychicEntropy.stages.safe.label>crwdns445686:0crwdne445686:0</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.overloaded.label>crwdns445688:0crwdne445688:0</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>crwdns445690:0crwdne445690:0</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.extreme.label>crwdns445692:0crwdne445692:0</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.overwhelming.label>crwdns445694:0crwdne445694:0</PsychicEntropy.stages.overwhelming.label>
+  
+  <PsychicFocus.label>crwdns445696:0crwdne445696:0</PsychicFocus.label>
+  <PsychicFocus.description>crwdns445698:0crwdne445698:0</PsychicFocus.description>
+  
+  <PsychicInvisibility.label>crwdns445700:0crwdne445700:0</PsychicInvisibility.label>
+  <PsychicInvisibility.description>crwdns445702:0crwdne445702:0</PsychicInvisibility.description>
+  
+  <PsychicLove.label>crwdns445704:0crwdne445704:0</PsychicLove.label>
+  <PsychicLove.description>crwdns445706:0crwdne445706:0</PsychicLove.description>
+  <PsychicLove.targetPrefix>crwdns445708:0crwdne445708:0</PsychicLove.targetPrefix>
+  
+  <PsychicVertigo.label>crwdns445710:0crwdne445710:0</PsychicVertigo.label>
+  <PsychicVertigo.description>crwdns445712:0crwdne445712:0</PsychicVertigo.description>
+</LanguageData>
