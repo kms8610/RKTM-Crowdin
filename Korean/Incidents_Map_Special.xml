@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GauranlenPodSpawn.label>요정열매 새싹</GauranlenPodSpawn.label>
-  <GauranlenPodSpawn.letterLabel>요정열매 새싹</GauranlenPodSpawn.letterLabel>
-  <GauranlenPodSpawn.letterText>요정열매가 주변에 자라났습니다!\n\n수확하여 요정씨앗을 획득하세요. 이 씨앗을 심은 자리에는 신비한 요정나무가 솟아오릅니다.\n\n정착민이 요정나무와 교감하면 일손을 돕거나 자원을 생성하는 나무지기를 키워낼 수 있습니다.</GauranlenPodSpawn.letterText>
+  <AnimaTreeSpawn.label>영혼나무</AnimaTreeSpawn.label>
+  <AnimaTreeSpawn.letterLabel>영혼나무</AnimaTreeSpawn.letterLabel>
+  <AnimaTreeSpawn.letterText>영혼나무가 근처에 돋아났습니다.\n\n부족민들은 이 곳을 강력한 명상 지점으로 사용할 수 있지만 근처에 인공 구조물이 배치되지 않도록 해야 합니다.</AnimaTreeSpawn.letterText>
   
-  <GiveQuest_Beggars.label>거지떼 도착</GiveQuest_Beggars.label>
-  <GiveQuest_Beggars.letterLabel>거지떼 도착</GiveQuest_Beggars.letterLabel>
-  
-  <GiveQuest_ReliquaryPilgrims.label>순례자 도착</GiveQuest_ReliquaryPilgrims.label>
-  <GiveQuest_ReliquaryPilgrims.letterLabel>순례자 도착</GiveQuest_ReliquaryPilgrims.letterLabel>
-  
-  <Infestation_Jelly.label>곤충 젤리</Infestation_Jelly.label>
-  <Infestation_Jelly.letterLabel>곤충 젤리</Infestation_Jelly.letterLabel>
-  <Infestation_Jelly.letterText>땅을 파고 올라온 거대한 곤충들이 지상에 약간의 젤리를 남기고 갔습니다.</Infestation_Jelly.letterText>
-  
-  <WanderersSkylantern.label>방랑자</WanderersSkylantern.label>
-  <WanderersSkylantern.letterLabel>우호적인 방문객</WanderersSkylantern.letterLabel>
-  <WanderersSkylantern.letterText>날아간 풍등을 보고 우호적인 여행자들이 찾아왔습니다. 여행자들은 아름다운 풍등 축제에 놀랐고, 다음에는 자신들도 참가할 수 있기를 기대합니다.\n\n그들은 정착지에 방문하여 선물을 남길 것입니다.</WanderersSkylantern.letterText>
+  <CaravanArrivalTributeCollector.label>공물 징수인</CaravanArrivalTributeCollector.label>
 </LanguageData>
