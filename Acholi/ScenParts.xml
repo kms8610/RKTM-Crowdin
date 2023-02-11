@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ScenarioTitle>crwdns430668:0crwdne430668:0</ScenarioTitle>
+  <ScenPart_StartingMech>crwdns430670:0crwdne430670:0</ScenPart_StartingMech>
+  <Mechanoid>crwdns430672:0crwdne430672:0</Mechanoid>
+  <RandomMech>crwdns430674:0crwdne430674:0</RandomMech>
+  <StartOverseenChance>crwdns430676:0crwdne430676:0</StartOverseenChance>
+
+  <ScenPart_StartWithSpecificColonists>crwdns430678:0{0}crwdne430678:0</ScenPart_StartWithSpecificColonists>
+  <PawnCount>crwdns430680:0{COUNT}crwdnd430680:0{KINDLABEL}crwdne430680:0</PawnCount>
+  
+</LanguageData>
