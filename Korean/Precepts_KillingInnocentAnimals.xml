@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KillingInnocentAnimals_Abhorrent.label>혐오함</KillingInnocentAnimals_Abhorrent.label>
-  <KillingInnocentAnimals_Abhorrent.description>To kill an innocent animal is a horrifically inhuman act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Abhorrent.description>
-  <KillingInnocentAnimals_Abhorrent.comps.2.description>Kill innocent animal</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>무고한 동물 {0} 죽임</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>죄없는 동물을 죽여야만 했어. 이건 내가 찬성한 것이 아니야.</KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>
   
-  <KillingInnocentAnimals_Disapproved.label>못마땅함</KillingInnocentAnimals_Disapproved.label>
-  <KillingInnocentAnimals_Disapproved.description>To kill an innocent animal is an ugly act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Disapproved.description>
-  <KillingInnocentAnimals_Disapproved.comps.0.description>무고한 동물 살해</KillingInnocentAnimals_Disapproved.comps.0.description>
-  <KillingInnocentAnimals_Disapproved.comps.2.description>누군가가 무고한 동물을 살해</KillingInnocentAnimals_Disapproved.comps.2.description>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>무고한 동물 {0} 죽임</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>죄없는 동물을 죽여야만 했어. 살인을 강요받는 기분이었어.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
   
-  <KillingInnocentAnimals_Horrible.label>끔찍함</KillingInnocentAnimals_Horrible.label>
-  <KillingInnocentAnimals_Horrible.description>To kill an innocent animal is a horrible act. Innocent animals are those who are not attacking, or who were only driven to attack by human provocation.</KillingInnocentAnimals_Horrible.description>
-  <KillingInnocentAnimals_Horrible.comps.0.description>무고한 동물 살해</KillingInnocentAnimals_Horrible.comps.0.description>
-  <KillingInnocentAnimals_Horrible.comps.2.description>누군가가 무고한 동물을 살해</KillingInnocentAnimals_Horrible.comps.2.description>
+  <KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>
+  
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>죄없고 사랑스러운 동물이 살해당했어!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.innocent_animal_killed.description>
+  
+  <KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Disapproved.stages.killed_innocent_animal.label>
+  
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>무고한 동물이 죽었어. 난 동의한 적 없어.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.innocent_animal_killed.description>
+  
+  <KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Horrible.stages.killed_innocent_animal.label>
+  
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>무고한 동물 살해 목격</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>죄없는 동물이 죽었어. 어떻게 다른 존재에게 그런 끔찍하고 비정한 행위를 할 수 있는지.</KilledInnocentAnimal_Know_Horrible_Mood.stages.innocent_animal_killed.description>
 </LanguageData>
