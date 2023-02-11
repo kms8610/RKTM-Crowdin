@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <UsedBiosculpterPod.label>생체 재구축기 사용</UsedBiosculpterPod.label>
+  <AgeReversal.label>노화 역전</AgeReversal.label>
+  
+  <Biosculpting.label>생체 재구축</Biosculpting.label>
+  
+  <NeuralSupercharge.label>신경 과충전</NeuralSupercharge.label>
+  
+  <SleepAccelerator.label>수면 가속기</SleepAccelerator.label>
 </LanguageData>
