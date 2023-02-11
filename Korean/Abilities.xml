@@ -1,60 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalCalm.label>동물 진정</AnimalCalm.label>
-  <AnimalCalm.description>특수한 동물 교감 기술을 통해 화난 야수를 진정시킵니다.</AnimalCalm.description>
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(을)를 성공적으로 진정시켰습니다.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimaTreeLinking.label>영혼나무 연결</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>영혼나무 연결 의식을 시작합니다. 연결 후에는 정신력 증폭이 한 단계 향상됩니다. 다른 정신 감응력이 높은 정착민으로 연결 의식을 도울 수 있습니다. 참여자가 많아지면 의식에 필요한 시간이 짧아지며, 의식이 끝날 때 추가적인 영혼잔디가 자라납니다.</AnimaTreeLinking.description>
   
-  <BerserkTrance.label>피의 무아지경</BerserkTrance.label>
-  <BerserkTrance.description>사용자의 내면이 분노로 가득찹니다. 멈추지 않는 분노 속에서 신체가 한계를 뛰어넘게 되지만, 자제력을 잃고 모든 적들을 닥치는 대로 공격하려 들 것입니다. 이 상태는 3시간 동안 지속됩니다.</BerserkTrance.description>
+  <Beckon.label>현혹</Beckon.label>
+  <Beckon.description>대상의 정신을 조종하여 시전자에게 다가오도록 합니다.</Beckon.description>
   
-  <CombatCommand.label>전투 지휘</CombatCommand.label>
-  <CombatCommand.description>지도력을 발휘하여 주변 모든 아군의 격투 기술을 향상시킵니다.</CombatCommand.description>
+  <Berserk.label>광란</Berserk.label>
+  <Berserk.description>대상에게 참을 수 없는 분노를 유발하여, 근처의 아무나 공격하게 합니다.</Berserk.description>
   
-  <ConversionRitual.label>교화 의식</ConversionRitual.label>
-  <ConversionRitual.description>다른 이에게 당신의 사상을 받아들이도록 설득해 보세요. 잘 진행된다면, 그들은 자신들의 사상에 대한 믿음을 잃게 될 것이고, 전향할지도 모릅니다. 만약 역효과를 낸다면, 그들은 그들의 오래된 믿음에 확신을 얻게 될 것입니다.\n\n의식을 시작하려면 행사 장소 또는 제단, 상징문양을 선택하세요.</ConversionRitual.description>
+  <BerserkPulse.label>광란의 파동</BerserkPulse.label>
+  <BerserkPulse.description>대상 지점 근처의 모든 사람들에게 무차별적인 분노를 유발합니다.</BerserkPulse.description>
   
-  <Convert.label>교화</Convert.label>
-  <Convert.description>대상을 전도사의 사상으로 교화하도록 시도합니다. 대상의 사상에 대한 믿음을 감소시킵니다. 믿음의 감소는 전도사의 협상 능력에 따릅니다.</Convert.description>
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort} 교화에 실패했습니다. {RECIPIENT_labelShort}(은)는 분노했지만, {RECIPIENT_possessive} 믿음은 감소했습니다. ({CERTAINTYBEFORE} ▶ {CERTAINTYAFTER})</Convert.comps.CompAbilityEffect_Convert.failMessage>
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort}(은)는 {RECIPIENT_labelShort}(을)를 {IDEO}(으)로 교화시켰습니다.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <BlindingPulse.label>실명의 파동</BlindingPulse.label>
+  <BlindingPulse.description>대상 범위 내 모든 사람들의 시각 중추에 간섭하여 시야를 방해합니다.</BlindingPulse.description>
   
-  <Counsel.label>심리 상담</Counsel.label>
-  <Counsel.description>대상자와 상담을 통해 나쁜 기억을 제거합니다. 성공 확률은 상담사의 사교 기술과 상담자와의 사회적 관계에 영향을 받습니다.</Counsel.description>
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 그르쳤습니다. {RECIPIENT_labelShort}의 기분이 상했습니다.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort}(이)가 상담을 성공적으로 마쳐 {RECIPIENT_labelShort}의 {2} 무드 효과를 제거했습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}(와)과의 상담을 성공적으로 마쳐 {RECIPIENT_possessive} 기분을 {MOODBONUS}만큼 증가시켰습니다.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <BulletShield.label>완전차폐 보호막</BulletShield.label>
+  <BulletShield.description>구형 관문을 생성해서 드나드는 모든 투사체를 멀리 떨어진 곳으로 보냅니다. 관문의 투사체 도약 과정은 폭발성 투사체가 폭발하기 충분한 위력을 가지고 있습니다. 사람과 물품은 영향을 받지 않습니다.</BulletShield.description>
   
-  <FarmingCommand.label>농업 감독</FarmingCommand.label>
-  <FarmingCommand.description>지도력을 발휘하여 주변 모든 정착민의 재배 기술을 향상시킵니다.</FarmingCommand.description>
+  <Burden.label>과부하</Burden.label>
+  <Burden.description>대상의 뇌 기능을 잠시 억제하여 느려지게 합니다.</Burden.description>
   
-  <ImmunityDrive.label>면역 증진</ImmunityDrive.label>
-  <ImmunityDrive.description>정신적인 지원을 통해 대상의 신체의 활력을 불어넣어 면역력을 하룻동안 증가시킵니다.</ImmunityDrive.description>
+  <ChaosSkip.label>혼돈의 도약</ChaosSkip.label>
+  <ChaosSkip.description>대상을 근처의 무작위 위치로 순간이동시킵니다. 일정 크기 이상의 물체는 지정할 수 없습니다.</ChaosSkip.description>
   
-  <LeaderSpeech.label>지도 연설</LeaderSpeech.label>
-  <LeaderSpeech.description>지도 연설을 시작합니다. 매끄럽게 진행된다면 청취자들은 영감을 얻거나 지도자에 대한 존경심을 느낄 것입니다. 반대로 결과가 좋지 않으면 사교적 불이익을 받습니다.</LeaderSpeech.description>
+  <Chunkskip.label>장애물 생성</Chunkskip.label>
+  <Chunkskip.description>돌덩어리나 고철덩어리 5개를 목표지점 근처에 흩뿌립니다. 전투 중 엄폐물을 만들 때 유용합니다.</Chunkskip.description>
   
-  <MarksmanCommand.label>사수 지휘</MarksmanCommand.label>
-  <MarksmanCommand.description>지도력을 발휘하여 주변 모든 아군의 사격 기술을 향상시킵니다.</MarksmanCommand.description>
+  <EntropyDump.label>신경열 떠넘기기</EntropyDump.label>
+  <EntropyDump.description>쌓인 신경열을 다른 사람에게 떠넘겨 해소합니다. 부작용으로 대상은 약 하루 동안 부작용 없는 혼수 상태에 빠질 것입니다. 이 작업은 정신적 공명이 필요하기 때문에 의식이 있는 아군만을 대상으로 할 수 있습니다.</EntropyDump.description>
   
-  <MiningCommand.label>채굴 감독</MiningCommand.label>
-  <MiningCommand.description>지도력을 발휘하여 주변 모든 정착민의 채굴 능력을 향상시킵니다.</MiningCommand.description>
+  <Farskip.label>장거리 도약</Farskip.label>
+  <Farskip.description>시전자 본인과 근처의 동료들을 먼 지역의 아군 근처로 도약시킵니다. 행성 전체를 가로지를 수 있지만 아군이 있는 곳으로만 갈 수 있습니다. 동료들은 항상 시전자 근처 무작위 위치에 나타납니다.</Farskip.description>
   
-  <PreachHealth.label>건강 상담</PreachHealth.label>
-  <PreachHealth.description>대상의 생존 의지를 자극하여 상처 재생 능력과 면역 획득 속도를 증가시킵니다.</PreachHealth.description>
+  <Flashstorm.label>섬광폭풍</Flashstorm.label>
+  <Flashstorm.description>대상 지점의 대기압을 조정하여 국소 지역을 강타하는 섬광폭풍을 생성합니다. 폭풍은 소멸하기 전까지 번개로 지상을 강타합니다.</Flashstorm.description>
   
-  <ProductionCommand.label>생산 감독</ProductionCommand.label>
-  <ProductionCommand.description>지도력을 발휘하여 주변 모든 정착민의 건설 및 제작 능력을 향상시킵니다.</ProductionCommand.description>
+  <Focus.label>집중</Focus.label>
+  <Focus.description>대상의 정신을 집중시켜 시력, 청각, 이동 능력을 향상시킵니다.</Focus.description>
   
-  <Reassure.label>사상 교육</Reassure.label>
-  <Reassure.description>대상자의 사상에 대한 믿음을 강화합니다. 회복되는 믿음의 수치는 전도사의 협상 능력에 따릅니다.</Reassure.description>
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort}(이)가 {RECIPIENT_labelShort}에게 다시 확신을 심어주었습니다. {RECIPIENT_labelShort}의 {IDEO}에 대한 믿음이 {BEFORECERTAINTY}에서 {AFTERCERTAINTY}(으)로 회복되었습니다.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Invisibility.label>투명화</Invisibility.label>
+  <Invisibility.description>대상 주변 모든 이들의 시각 중추를 혼란시켜 짧은 시간 동안 대상을 인식할 수 없게 합니다.</Invisibility.description>
   
-  <ResearchCommand.label>연구 지휘</ResearchCommand.label>
-  <ResearchCommand.description>지도력을 발휘하여 주변 모든 정착민의 연구 속도를 향상시킵니다.</ResearchCommand.description>
+  <ManhunterPulse.label>동물 광란의 파동</ManhunterPulse.label>
+  <ManhunterPulse.description>근처 동물들에게 분노를 유발하여 인간을 사냥하게끔 합니다.</ManhunterPulse.description>
   
-  <Trial.label>재판</Trial.label>
-  <Trial.description>용의자를 기소하여 죄의 유무를 판단할 재판을 진행합니다. 유죄가 선고된다면, 피의자를 수감 및 추방, 처형을 통한 불이익이 발생하지 않습니다. 판결의 결과는 피고와 원고의 사교적 능력치에 영향을 받습니다.</Trial.description>
+  <MassChaosSkip.label>집단 혼돈의 도약</MassChaosSkip.label>
+  <MassChaosSkip.description>범위 내의 모두를 근처 무작위 위치로 순간이동시킵니다. 일정 크기 이상의 물체는 이동하지 않습니다.</MassChaosSkip.description>
   
-  <WorkDrive.label>작업 격려</WorkDrive.label>
-  <WorkDrive.description>정착민 하나를 지정해 잠깐 더 열심히 작업하도록 합니다.</WorkDrive.description>
+  <Neuroquake.label>신경 지진</Neuroquake.label>
+  <Neuroquake.description>정신장의 불연속면을 통해 엄청난 양의 정신 에너지를 방출합니다. 시전자 주변에는 작은 안전범위가 생성되며, 바깥에 있는 생명체는 모두 미쳐 날뛰게 됩니다. 시전자는 12초 동안의 명상 후 정신 에너지를 방출하며, 이후 5일간 혼수상태에 빠집니다. 신경 지진은 광범위한 정신적 여파를 남기기 때문에 모든 세력의 우호도를 감소시킬 것입니다.</Neuroquake.description>
+  <Neuroquake.confirmationDialogText>신경 지진을 사용하면 주변 지역의 모든 사람들이 신경지진 여파에 노출되어, 적대적이지 않은 모든 세력의 우호도를 잃게 됩니다.\n\n신경지진 시전에는 12초가 걸리며, 중단할 수 없습니다. 시전자는 5일 동안 혼수상태에 빠지게 됩니다.\n\n시전자 주변에 생기는 안전범위 바깥의 모든 생명체가 영향을 받습니다.\n\n정말 신경 지진을 시전할까요?</Neuroquake.confirmationDialogText>
+  
+  <Painblock.label>통각 차단</Painblock.label>
+  <Painblock.description>대상의 뇌의 통증 전달 기능을 잠시 차단합니다. 이를 통해 대상은 일반적으로 무력화될 정도로 심하게 다친 상태에서도 행동할 수 있게 됩니다.</Painblock.description>
+  
+  <Skip.label>도약</Skip.label>
+  <Skip.description>대상을 너무 멀지 않은 곳으로 순간이동시킵니다. 일정 크기 이상의 물체는 지정할 수 없습니다.</Skip.description>
+  
+  <Smokepop.label>연막</Smokepop.label>
+  <Smokepop.description>지표면에서 먼지 입자를 끌어올려 두꺼운 구름을 형성합니다. 구름 사이를 통과하는 모든 사격의 정확성을 감소시키고, 포탑 조준을 방지합니다.</Smokepop.description>
+  
+  <SolarPinhole.label>빛의 구멍</SolarPinhole.label>
+  <SolarPinhole.description>근처 항성의 중심부와 연결된 미세 관문을 생성합니다. 이 작은 관문을 통해 새어나온 태양광이 주변 지역을 밝히고 따뜻하게 합니다. 작업하기에는 충분한 빛이지만, 작물을 기르기엔 부족합니다.</SolarPinhole.description>
+  
+  <Speech.label>권위의 연설</Speech.label>
+  <Speech.description>왕좌 앞에 모든 정착민들을 불러들여 연설을 시작합니다. 결과가 좋다면 참석자들은 영감을 얻고 연설자에게 존경심을 느낄 것입니다. 결과가 좋지 않으면 사교적 불이익을 얻습니다. 결과는 연설자의 사교 기술의 영향을 받습니다.</Speech.description>
+  
+  <Stun.label>기절</Stun.label>
+  <Stun.description>대상의 뇌 기능을 잠시 차단하여 기절시킵니다.</Stun.description>
+  
+  <VertigoPulse.label>현기증의 파동</VertigoPulse.label>
+  <VertigoPulse.description>대상 범위 내 모든 사람들의 공간지각에 간섭하여 균형을 잃게 하고 극심한 멀미를 유발합니다.</VertigoPulse.description>
+  
+  <Wallraise.label>벽 일으키기</Wallraise.label>
+  <Wallraise.description>지하 깊은 곳에서 돌무더기와 흙을 끌어올려 일시적으로 벽을 만듭니다.</Wallraise.description>
+  
+  <Waterskip.label>물폭탄</Waterskip.label>
+  <Waterskip.description>대상 지점에 물을 쏟아부어 불을 끕니다. 이 물은 멀리 떨어진 수원이나 지하수에서 순간이동으로 옮겨온 것입니다.</Waterskip.description>
+  
+  <WordOfInspiration.label>영감의 단어</WordOfInspiration.label>
+  <WordOfInspiration.description>초자연적 영향력을 발휘하여 대상의 창의력을 고무시킵니다. 대상은 자신에게 적절한 형태의 무작위 영감을 얻습니다.</WordOfInspiration.description>
+  
+  <WordOfJoy.label>오락의 단어</WordOfJoy.label>
+  <WordOfJoy.description>초자연적 영향력을 발휘하여 대상에게 쾌락잔향을 심습니다. 대상에게 차분함과 행복함을 선사하지만 의식이 흐려지는 부작용이 있습니다.</WordOfJoy.description>
+  
+  <WordOfLove.label>사랑의 단어</WordOfLove.label>
+  <WordOfLove.description>초자연적 영향력을 발휘하여 대상에게 낭만적 이끌림을 유발합니다. 연인에 대한 의견을 크게 증가시키고, 고백이나 청혼을 시도할 확률을 높입니다. 이 능력으로 두 사람을 짝지어주거나, 시전자에 대한 사랑을 유도하거나, 다른 사람을 사랑하도록 강요할 수 있습니다.</WordOfLove.description>
+  
+  <WordOfSerenity.label>평온의 단어</WordOfSerenity.label>
+  <WordOfSerenity.description>초자연적 영향력을 발휘하여 정신이상에 빠진 사람이나 동물을 진정시킵니다. 대상은 짧은 수면에 빠지게 됩니다. 대상의 정신이상 강도에 따라 초집중 소모가 달라집니다.</WordOfSerenity.description>
+  
+  <WordOfTrust.label>신뢰의 단어</WordOfTrust.label>
+  <WordOfTrust.description>초자연적 영향력을 발휘하여 수감자의 저항심을 감소시킵니다. 그러나 자동으로 포섭되지는 않습니다.</WordOfTrust.description>
 </LanguageData>
