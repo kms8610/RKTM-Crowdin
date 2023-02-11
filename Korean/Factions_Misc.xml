@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OutlanderRoughPig.label>거친 돼지 조합</OutlanderRoughPig.label>
-  <OutlanderRoughPig.description>강인한 돼지 인간의 연합입니다. 이들은 뾰족코들과도 친구를 맺을 의향이 있지만, 반대로 필요하다면 폭탄을 던지고 인간의 연골을 씹어먹을 준비도 되어있습니다. 이들을 정중히 대한다면 그들은 동료를 위해 주저없이 그들의 족발을 내밀어주는 동료가 될 것입니다. 만약 적으로 돌리게 될 경우 최후의 상황에 당신이 듣는 소리는 승리에 찬 돼지의 꾸이익거리는 괴성일 것입니다.</OutlanderRoughPig.description>
-  <OutlanderRoughPig.leaderTitle>연합장</OutlanderRoughPig.leaderTitle>
-  <OutlanderRoughPig.pawnSingular>피그</OutlanderRoughPig.pawnSingular>
-  <OutlanderRoughPig.pawnsPlural>돼지들</OutlanderRoughPig.pawnsPlural>
+  <Beggars.label>거지 떼</Beggars.label>
+  <Beggars.description>도움을 구걸하는 거지들입니다.</Beggars.description>
+  <Beggars.leaderTitle>왕초</Beggars.leaderTitle>
+  <Beggars.pawnSingular>거지</Beggars.pawnSingular>
+  <Beggars.pawnsPlural>거지 떼</Beggars.pawnsPlural>
   
-  <PirateWaster.label>황무지 우주 해적</PirateWaster.label>
-  <PirateWaster.description>주로 독소와 오염에서 적응하도록 설계된 아인들로 구성된 소규모 해적 조합입니다. 그들은 폭력을 사용하여 약탈을 통해 살아가는 것을 선호하기  때문에, 건축이나 농사에 관심이 없습니다.\n\n 그들의 기술 수준은 최근에 습격한 상대에 따라 달려있습니다. 대부분은 화약 무기를 가지고 다니지만, 일부는 근거리에서 찌르는 것을 선호합니다.</PirateWaster.description>
-  <PirateWaster.leaderTitle>두목</PirateWaster.leaderTitle>
-  <PirateWaster.pawnSingular>황폐자</PirateWaster.pawnSingular>
-  <PirateWaster.pawnsPlural>황폐자들</PirateWaster.pawnsPlural>
+  <CannibalPirate.label>식인 해적</CannibalPirate.label>
+  <CannibalPirate.description>서로 싸우는 대신 외부인과 싸우기로 동의한 느슨한 해적 집단 연합입니다.\n\n해적들은 씨를 뿌리지도 않고, 짓지도 않으며, 거래도 거의 하지 않습니다. 이들은 개인의 힘과 무자비함을 중시하는 피와 명예의 문화에 따라, 더 생산적인 이웃을 습격하고 약탈함으로써 자신들을 풍요롭게 합니다.\n\n그들의 기술 수준은 최근에 누굴 약탈했느냐에 달려 있습니다. 대부분 화약 무기를 가지고 다니지만, 일부는 가까운 거리에서 희생자를 찌르는 것을 선호합니다.\n\n이 해적 패거리는 식인을 즐긴다는 소문이 있습니다.</CannibalPirate.description>
+  <CannibalPirate.leaderTitle>두목</CannibalPirate.leaderTitle>
+  <CannibalPirate.pawnSingular>해적</CannibalPirate.pawnSingular>
+  <CannibalPirate.pawnsPlural>우주 해적들</CannibalPirate.pawnsPlural>
   
-  <PirateYttakin.label>이타킨 우주 해적</PirateYttakin.label>
-  <PirateYttakin.description>몸집이 크고 털이 많은 이타킨 인종의 우주해적 집단입니다. 그들은 외부인을 상대하는 것을 거부하고, 자신들을 무시하거나 공격하려는 자들에게 맞서 전사들을 소집합니다.\n\n 원래 얼음 행성 야타크에 거주하도록 설계된 그들은 현재 많은 세계에서 자신들만의 생활 방식을 추구합니다.</PirateYttakin.description>
-  <PirateYttakin.leaderTitle>두목</PirateYttakin.leaderTitle>
-  <PirateYttakin.pawnSingular>이타킨</PirateYttakin.pawnSingular>
-  <PirateYttakin.pawnsPlural>이타킨</PirateYttakin.pawnsPlural>
+  <NudistTribe.label>나체 부족</NudistTribe.label>
+  <NudistTribe.description>이 행성에서 아주 오랜 시간 살아온 사람들입니다. 이들의 조상은 수천 년 전 불시착했을지도 모릅니다. 또는 이전에 존재하던 문명 사회를 파괴한 재앙에서 살아남은 것일 수도 있습니다. 어떤 경우든, 부족들은 대부분 유목민으로 이루어졌으며 오직 원시적인 도구와 무기만을 사용합니다.\n\n이들의 기술적인 약점에도 불구하고 많은 머릿수와 무모한 용기는 이들을 위험한 적으로 만들 수도 있습니다.\n\n이 부족은 몸을 무언가로 감싸는 것을 금기시합니다.</NudistTribe.description>
+  <NudistTribe.leaderTitle>대장</NudistTribe.leaderTitle>
+  <NudistTribe.pawnSingular>부족민</NudistTribe.pawnSingular>
+  <NudistTribe.pawnsPlural>부족민들</NudistTribe.pawnsPlural>
   
-  <Sanguophages.label>생귀오파지 무리</Sanguophages.label>
-  <Sanguophages.description>고대 생귀오파지 무리입니다.</Sanguophages.description>
-  <Sanguophages.leaderTitle>지도자</Sanguophages.leaderTitle>
-  <Sanguophages.pawnSingular>생귀오파지</Sanguophages.pawnSingular>
-  <Sanguophages.pawnsPlural>생귀오파지</Sanguophages.pawnsPlural>
+  <Pilgrims.label>순례자</Pilgrims.label>
+  <Pilgrims.description>고대 유물을 보러 온 순례자 무리입니다.</Pilgrims.description>
+  <Pilgrims.leaderTitle>지도자</Pilgrims.leaderTitle>
+  <Pilgrims.pawnSingular>순례자</Pilgrims.pawnSingular>
+  <Pilgrims.pawnsPlural>순례자</Pilgrims.pawnsPlural>
   
-  <TribeRoughNeanderthal.label>사나운 네안데르탈인 부족</TribeRoughNeanderthal.label>
-  <TribeRoughNeanderthal.description>정복적인 네안데르탈인의 부족. 그들은 평화로운 무역에 개방되어 있지만, 그렇지 않다면 적대적이며 정복적입니다. 부족의 전사들은 주저하지 않고 위험하다 여겨지는 사람의 두개골을 내려칩니다. 기술과 분석 능력이 부족함에도 불구하고, 엄청난 물량과 파괴력은 재난과도 같습니다.\n\n 수 없이 많은 세대를 이 행성에서 살아왔기 때문에, 그들은 자신들이 어떻게 여기에 왔는지에 대한 기록이 없습니다. 그들은 죽은 문명의 네안데르탈인의 후손일 수도 있고, 혹은 고대 과학실험의 잔재일 수 있습니다.</TribeRoughNeanderthal.description>
-  <TribeRoughNeanderthal.leaderTitle>대장</TribeRoughNeanderthal.leaderTitle>
-  <TribeRoughNeanderthal.pawnSingular>네안데르탈인</TribeRoughNeanderthal.pawnSingular>
-  <TribeRoughNeanderthal.pawnsPlural>네안데르탈인들</TribeRoughNeanderthal.pawnsPlural>
-  
-  <TribeSavageImpid.label>야만 임프 부족</TribeSavageImpid.label>
-  <TribeSavageImpid.description>노란색 피부를 가지고 불을 뿜어내는 불도깨비의 포악한 부족입니다. 이 부족민들은 다른 누구와도 평화롭게 지내고자 하지 않습니다. 이 부족의 전사들은 그들의 속도와 화염공격을 이용해 적들의 마을과 아이들을 태우는데 도가 텄습니다.\n\n수천년동안이나 이 행성에서 살아가며 이 부족의 기원은 잊혀졌습니다. 오래전에 잃어버린 기술을 가진 여행자였을수도, 혹은 멸망한 문명의 불도깨비 공동체의 생존자들일 수 도 있습니다.</TribeSavageImpid.description>
-  <TribeSavageImpid.leaderTitle>대장</TribeSavageImpid.leaderTitle>
-  <TribeSavageImpid.pawnSingular>임프</TribeSavageImpid.pawnSingular>
-  <TribeSavageImpid.pawnsPlural>임프들</TribeSavageImpid.pawnsPlural>
+  <TribeCannibal.label>식인 부족</TribeCannibal.label>
+  <TribeCannibal.description>이 행성에서 아주 오랜 시간 살아온 사람들입니다. 이들의 조상은 수천 년 전 불시착했을지도 모릅니다. 또는 이전에 존재하던 문명 사회를 파괴한 재앙에서 살아남은 것일 수도 있습니다. 어떤 경우든, 부족들은 대부분 유목민으로 이루어졌으며 오직 원시적인 도구와 무기만을 사용합니다.\n\n이들의 기술적인 약점에도 불구하고 많은 머릿수와 무모한 용기는 이들을 위험한 적으로 만들 수도 있습니다.\n\n이 잔혹한 부족은 적의 고기를 먹는 행위에서 큰 영광을 얻습니다.</TribeCannibal.description>
+  <TribeCannibal.leaderTitle>대장</TribeCannibal.leaderTitle>
+  <TribeCannibal.pawnSingular>부족민</TribeCannibal.pawnSingular>
+  <TribeCannibal.pawnsPlural>부족민들</TribeCannibal.pawnsPlural>
 </LanguageData>
