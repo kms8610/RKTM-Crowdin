@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_Apocriton.label>crwdns424796:0crwdne424796:0</Mech_Apocriton.label>
+  <Mech_Apocriton.label>crwdns427830:0crwdne427830:0</Mech_Apocriton.label>
+  <Mech_Apocriton.description>crwdns427832:0crwdne427832:0</Mech_Apocriton.description>
+  <Mech_Apocriton.tools.head.label>crwdns427834:0crwdne427834:0</Mech_Apocriton.tools.head.label>
   
-  <Mech_Legionary.label>crwdns424798:0crwdne424798:0</Mech_Legionary.label>
+  <Mech_Legionary.label>crwdns427836:0crwdne427836:0</Mech_Legionary.label>
+  <Mech_Legionary.description>crwdns427838:0crwdne427838:0</Mech_Legionary.description>
+  <Mech_Legionary.tools.left_fist.label>crwdns427840:0crwdne427840:0</Mech_Legionary.tools.left_fist.label>
+  <Mech_Legionary.tools.right_fist.label>crwdns427842:0crwdne427842:0</Mech_Legionary.tools.right_fist.label>
+  <Mech_Legionary.tools.head.label>crwdns427844:0crwdne427844:0</Mech_Legionary.tools.head.label>
   
-  <Mech_Scorcher.label>crwdns424800:0crwdne424800:0</Mech_Scorcher.label>
-  <Mech_Scorcher.labelPlural>crwdns424802:0crwdne424802:0</Mech_Scorcher.labelPlural>
+  <Mech_Scorcher.label>crwdns427846:0crwdne427846:0</Mech_Scorcher.label>
+  <Mech_Scorcher.description>crwdns427848:0crwdne427848:0</Mech_Scorcher.description>
+  <Mech_Scorcher.tools.front_left_leg.label>crwdns427850:0crwdne427850:0</Mech_Scorcher.tools.front_left_leg.label>
+  <Mech_Scorcher.tools.front_right_leg.label>crwdns427852:0crwdne427852:0</Mech_Scorcher.tools.front_right_leg.label>
+  <Mech_Scorcher.tools.head.label>crwdns427854:0crwdne427854:0</Mech_Scorcher.tools.head.label>
   
-  <Mech_Tesseron.label>crwdns424804:0crwdne424804:0</Mech_Tesseron.label>
+  <Mech_Tesseron.label>crwdns427856:0crwdne427856:0</Mech_Tesseron.label>
+  <Mech_Tesseron.description>crwdns427858:0crwdne427858:0</Mech_Tesseron.description>
+  <Mech_Tesseron.tools.left_fist.label>crwdns427860:0crwdne427860:0</Mech_Tesseron.tools.left_fist.label>
+  <Mech_Tesseron.tools.right_fist.label>crwdns427862:0crwdne427862:0</Mech_Tesseron.tools.right_fist.label>
+  <Mech_Tesseron.tools.head.label>crwdns427864:0crwdne427864:0</Mech_Tesseron.tools.head.label>
 </LanguageData>
