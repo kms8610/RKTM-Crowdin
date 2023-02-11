@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Raiding.label>crwdns432318:0crwdne432318:0</Raiding.label>
+  <Raiding_Required.label>crwdns436730:0crwdne436730:0</Raiding_Required.label>
+  <Raiding_Required.description>crwdns436732:0crwdne436732:0</Raiding_Required.description>
+  <Raiding_Required.comps.3.thoughtStageDescriptions.0>crwdns436734:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436734:0</Raiding_Required.comps.3.thoughtStageDescriptions.0>
+  <Raiding_Required.comps.3.thoughtStageDescriptions.1>crwdns436736:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436736:0</Raiding_Required.comps.3.thoughtStageDescriptions.1>
+  
+  <Raiding_Respected.label>crwdns436738:0crwdne436738:0</Raiding_Respected.label>
+  <Raiding_Respected.description>crwdns436740:0crwdne436740:0</Raiding_Respected.description>
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.0>crwdns436742:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436742:0</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.1>crwdns436744:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436744:0</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
 </LanguageData>
