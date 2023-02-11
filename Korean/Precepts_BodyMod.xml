@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BodyMod_Abhorrent.label>혐오함</BodyMod_Abhorrent.label>
-  <BodyMod_Abhorrent.description>인간의 자연스러운 신체를 개조하는 것은 극악무도한 행위다.</BodyMod_Abhorrent.description>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>인공 강화물 없음</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>난 인공 신체 강화가 없어. 이렇게 강화되지 않은 것은 내 믿음에 위배돼.</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
   
-  <BodyMod_Approved.label>approved</BodyMod_Approved.label>
-  <BodyMod_Approved.description>인간은 결점 투성이인 자연적 신체를 개선하여 스스로의 잠재력을 최대로 이끌어내야 한다.</BodyMod_Approved.description>
+  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>인공 강화물 없음</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
   
-  <BodyMod_Disapproved.label>못마땅함</BodyMod_Disapproved.label>
-  <BodyMod_Disapproved.description>인간의 자연스러운 신체를 개조하는 것은 역겹고 더러운 행위다.</BodyMod_Disapproved.description>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.label>인공 강화물</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.description>난 인공 신체 강화가 있어. 내가 믿는 모든 것에 대한 혐오스러운 범죄야!</HasProsthetic_Abhorrent.stages.artificial_enhancement.description>
+  
+  <HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>인공 강화물</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
+  
+  <HasProsthetic_Approved.stages.transhumanist_modded.label>개조된 초월주의자</HasProsthetic_Approved.stages.transhumanist_modded.label>
+  <HasProsthetic_Approved.stages.transhumanist_modded.description>이 인공 강화물은 내 신념과 일치해.</HasProsthetic_Approved.stages.transhumanist_modded.description>
+  <HasProsthetic_Approved.stages.transhumanist_connected.label>연결된 초월주의자</HasProsthetic_Approved.stages.transhumanist_connected.label>
+  <HasProsthetic_Approved.stages.transhumanist_connected.description>인공 강화물이 많을수록 내 신념의 발현이 더욱 강해지지.</HasProsthetic_Approved.stages.transhumanist_connected.description>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.label>증강된 초월주의자</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>세 번째 인공 강화물로 내 신념과의 연결 고리가 늘어났어. 하지만 더 필요할 수도 있겠어.</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.label>합일된 초월주의자</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>내 신념과 완벽히 일치하기까지 인공 강화물이 두 개만 더 있으면 돼.</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.label>통합된 초월주의자</HasProsthetic_Approved.stages.transhumanist_integrated.label>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.description>다섯 개의 인공 강화물이야! 난 내 믿음과 완벽하게 통합된 것을 느꼈어.</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.label>초월자</HasProsthetic_Approved.stages.transhumanist_transformed.label>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.description>나약한 육체는 버렸다.</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+  
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.label>인공 강화물</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.description>난 인공 신체 강화가 있어. 이런 것들이 받아들여질 수 있다고 믿지 않아.</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+  
+  <HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>인공 강화물</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+  
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>강화품 설치됨</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>난 인공 신체 강화를 설치해야만 했어. 이것은 내 신념에 매우 모욕적이었지.</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+  
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.label>강화품 설치됨</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.description>난 인공 신체 강화를 설치해야 했어. 이것은 분명히 내 믿음에 반하는 것이야.</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+  
+  <InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>강화품 설치됨</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+  
+  <InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>강화품 설치됨</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
 </LanguageData>
