@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArtDescription_Furniture.rulePack.rulesStrings>
+    <li>crwdns463278:0[depiction]crwdnd463278:0[image]crwdnd463278:0[desc_sentence_group]crwdne463278:0</li>
+    <li>crwdns463280:0[depiction]crwdnd463280:0[image]crwdnd463280:0[desc_sentence_group]crwdne463280:0</li>
+    <li>crwdns463282:0[depicts]crwdnd463282:0[image]crwdnd463282:0[desc_sentence_group]crwdne463282:0</li>
+  </ArtDescription_Furniture.rulePack.rulesStrings>
+  
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+    <li>crwdns463284:0[depiction]crwdnd463284:0[image]crwdnd463284:0[desc_sentence_group]crwdne463284:0</li>
+    <li>crwdns463286:0[depiction]crwdnd463286:0[image]crwdnd463286:0[desc_sentence_group]crwdne463286:0</li>
+    <li>crwdns463288:0[depiction]crwdnd463288:0[image]crwdnd463288:0[desc_sentence_group]crwdne463288:0</li>
+    <li>crwdns463290:0[depicts]crwdnd463290:0[image]crwdnd463290:0[desc_sentence_group]crwdne463290:0</li>
+  </ArtDescription_SarcophagusPlate.rulePack.rulesStrings>
+  
+  <ArtDescription_Sculpture.rulePack.rulesStrings>
+    <li>crwdns463292:0[sculpture]crwdnd463292:0[depicts]crwdnd463292:0[image]crwdnd463292:0[desc_sentence_group]crwdne463292:0</li>
+    <li>crwdns463294:0[sculpture]crwdnd463294:0[depiction]crwdnd463294:0[image]crwdnd463294:0[desc_sentence_group]crwdne463294:0</li>
+    <li>crwdns463296:0[sculpture]crwdnd463296:0[depiction]crwdnd463296:0[image]crwdnd463296:0[desc_sentence_group]crwdne463296:0</li>
+    <li>crwdns463298:0crwdne463298:0</li>
+    <li>crwdns463300:0crwdne463300:0</li>
+    <li>crwdns463302:0crwdne463302:0</li>
+    <li>crwdns463304:0crwdne463304:0</li>
+  </ArtDescription_Sculpture.rulePack.rulesStrings>
+  
+  <ArtDescription_WeaponGun.rulePack.rulesStrings>
+    <li>crwdns463306:0[depiction]crwdnd463306:0[image]crwdnd463306:0[desc_sentence_group]crwdne463306:0</li>
+    <li>crwdns463308:0[depiction]crwdnd463308:0[image]crwdnd463308:0[desc_sentence_group]crwdne463308:0</li>
+    <li>crwdns463310:0[depicts]crwdnd463310:0[image]crwdnd463310:0[desc_sentence_group]crwdne463310:0</li>
+  </ArtDescription_WeaponGun.rulePack.rulesStrings>
+  
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings>
+    <li>crwdns463312:0[depiction]crwdnd463312:0[image]crwdnd463312:0[desc_sentence_group]crwdne463312:0</li>
+    <li>crwdns463314:0[depiction]crwdnd463314:0[image]crwdnd463314:0[desc_sentence_group]crwdne463314:0</li>
+    <li>crwdns463316:0[depicts]crwdnd463316:0[image]crwdnd463316:0[desc_sentence_group]crwdne463316:0</li>
+  </ArtDescription_WeaponMelee.rulePack.rulesStrings>
+</LanguageData>
