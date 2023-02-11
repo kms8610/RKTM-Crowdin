@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ability_CastingTime.label>crwdns466678:0crwdne466678:0</Ability_CastingTime.label>
+  <Ability_CastingTime.description>crwdns466680:0crwdne466680:0</Ability_CastingTime.description>
+  <Ability_CastingTime.formatString>crwdns466682:0{0}crwdne466682:0</Ability_CastingTime.formatString>
+  
+  <Ability_DetectChancePerEntropy.label>crwdns466684:0crwdne466684:0</Ability_DetectChancePerEntropy.label>
+  <Ability_DetectChancePerEntropy.description>crwdns466686:0crwdne466686:0</Ability_DetectChancePerEntropy.description>
+  
+  <Ability_Duration.label>crwdns466688:0crwdne466688:0</Ability_Duration.label>
+  <Ability_Duration.description>crwdns466690:0crwdne466690:0</Ability_Duration.description>
+  <Ability_Duration.formatString>crwdns466692:0{0}crwdne466692:0</Ability_Duration.formatString>
+  
+  <Ability_EffectRadius.label>crwdns466694:0crwdne466694:0</Ability_EffectRadius.label>
+  <Ability_EffectRadius.description>crwdns466696:0crwdne466696:0</Ability_EffectRadius.description>
+  
+  <Ability_EntropyGain.label>crwdns466698:0crwdne466698:0</Ability_EntropyGain.label>
+  <Ability_EntropyGain.description>crwdns466700:0crwdne466700:0</Ability_EntropyGain.description>
+  
+  <Ability_GoodwillImpact.label>crwdns466702:0crwdne466702:0</Ability_GoodwillImpact.label>
+  <Ability_GoodwillImpact.description>crwdns466704:0crwdne466704:0</Ability_GoodwillImpact.description>
+  
+  <Ability_PsyfocusCost.label>crwdns466706:0crwdne466706:0</Ability_PsyfocusCost.label>
+  <Ability_PsyfocusCost.description>crwdns466708:0crwdne466708:0</Ability_PsyfocusCost.description>
+  
+  <Ability_Range.label>crwdns466710:0crwdne466710:0</Ability_Range.label>
+  <Ability_Range.description>crwdns466712:0crwdne466712:0</Ability_Range.description>
+  
+  <Ability_RequiredPsylink.label>crwdns466714:0crwdne466714:0</Ability_RequiredPsylink.label>
+  <Ability_RequiredPsylink.description>crwdns466716:0crwdne466716:0</Ability_RequiredPsylink.description>
+</LanguageData>
