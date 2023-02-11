@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NotAMechanitor>crwdns429298:0crwdne429298:0</NotAMechanitor>
+  <NotEnoughBandwidth>crwdns429300:0crwdne429300:0</NotEnoughBandwidth>
+  <ControlMech>crwdns429302:0{0}crwdne429302:0</ControlMech>
+  <CannotControlMech>crwdns429304:0{0}crwdne429304:0</CannotControlMech>
+  <CannotControlMechAlreadyControlled>crwdns429306:0{0}crwdne429306:0</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>crwdns429308:0crwdne429308:0</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>crwdns429310:0crwdne429310:0</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>crwdns429312:0{0}crwdne429312:0</CannotDisconnectMech>
+  <DisconnectMech>crwdns429314:0{0}crwdne429314:0</DisconnectMech>
+  <DisassembleMech>crwdns429316:0{0}crwdne429316:0</DisassembleMech>
+  <CannotDisassembleMech>crwdns429318:0{0}crwdne429318:0</CannotDisassembleMech>
+  <MustBeOverseer>crwdns429320:0crwdne429320:0</MustBeOverseer>
+  <Extract>crwdns429322:0crwdne429322:0</Extract>
+  <OutOfCommandRange>crwdns429324:0crwdne429324:0</OutOfCommandRange>
+  <CannotGoOutOfRange>crwdns429326:0crwdne429326:0</CannotGoOutOfRange>
+  <WasteContainerFull>crwdns429328:0crwdne429328:0</WasteContainerFull>
+  <CannotRepairMech>crwdns429330:0{0}crwdne429330:0</CannotRepairMech>
+
+  <ExtractXenogermFrom>crwdns429332:0{PAWN_nameDef}crwdne429332:0</ExtractXenogermFrom>
+  <EnterBuilding>crwdns429334:0{0_labelShort}crwdne429334:0</EnterBuilding>
+  <PawnHasNoGenes>crwdns429336:0{PAWN_nameDef}crwdne429336:0</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>crwdns429338:0{PAWN_nameDef}crwdne429338:0</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>crwdns429340:0crwdne429340:0</InXenogerminationComa>
+  <Occupied>crwdns429342:0crwdne429342:0</Occupied>
+  <OccupantEjectedFromGrowthVat>crwdns429344:0{PAWN_nameDef}crwdne429344:0</OccupantEjectedFromGrowthVat>
+  <TooOld>crwdns429346:0{PAWN_nameDef}crwdnd429346:0{AGEYEARS}crwdne429346:0</TooOld>
+  <PawnIsTooOld>crwdns429348:0{PAWN_nameDef}crwdne429348:0</PawnIsTooOld>
+  <PawnBiostarving>crwdns429350:0{PAWN_nameDef}crwdne429350:0</PawnBiostarving>
+  <NoViablePawns>crwdns429352:0crwdne429352:0</NoViablePawns>
+  <NoExtractablePawns>crwdns429354:0crwdne429354:0</NoExtractablePawns>
+  <NoImplantablePawns>crwdns429356:0crwdne429356:0</NoImplantablePawns>
+  <CannotEnterBuilding>crwdns429358:0{0_labelShort}crwdne429358:0</CannotEnterBuilding>
+  <AssignedToOtherPawn>crwdns429360:0{0_labelShort}crwdne429360:0</AssignedToOtherPawn>
+
+  <AbsorbXenogerm>crwdns429362:0{PAWN_nameDef}crwdne429362:0</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>crwdns429364:0{PAWN_nameDef}crwdne429364:0</CannotAbsorbXenogerm>
+  <SameXenotype>crwdns429366:0{PAWN_nameDef}crwdnd429366:0{PAWN_xenotype}crwdne429366:0</SameXenotype>
+  <XenogermLossShockPresent>crwdns429368:0{PAWN_nameDef}crwdne429368:0</XenogermLossShockPresent>
+  <CarryToSpecificThing>crwdns429370:0{0_labelShort}crwdne429370:0</CarryToSpecificThing>
+  <NoCasketOrBed>crwdns429372:0crwdne429372:0</NoCasketOrBed>
+  <TemporaryFactionMember>crwdns429374:0{PAWN_nameDef}crwdne429374:0</TemporaryFactionMember>
+
+  <SubcoreScannerNotInit>crwdns429376:0crwdne429376:0</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>crwdns429378:0crwdne429378:0</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>crwdns429380:0crwdne429380:0</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>crwdns429382:0{0}crwdne429382:0</EnterSubcoreScanner>
+
+  <BabyCareBreastfeed>crwdns429384:0{BABY_labelShort}crwdne429384:0</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>crwdns429386:0{BABY_labelShort}crwdne429386:0</BabyCareBreastfeedUnable>
+  <NoBabyFood>crwdns429388:0crwdne429388:0</NoBabyFood>
+
+  <CannotInteractBabyPlayFull>crwdns429390:0crwdne429390:0</CannotInteractBabyPlayFull>
+
+  <BloodfeedOn>crwdns429392:0{PAWN_nameDef}crwdne429392:0</BloodfeedOn>
+  <CannotBloodfeedOn>crwdns429394:0{PAWN_nameDef}crwdne429394:0</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>crwdns429396:0crwdne429396:0</CannotFeedOnWouldKill>
+
+  <!-- BreastfeedFailReason strings-->
+  <BreastfeedFailReason_MomNotEnoughMilk>crwdns429398:0{MOM_labelShort}crwdne429398:0</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>crwdns429400:0{MOM_labelShort}crwdne429400:0</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>crwdns429402:0{BABY_labelShort}crwdne429402:0</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>crwdns429404:0{BABY_labelShort}crwdnd429404:0{MOM_labelShort}crwdne429404:0</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>crwdns429406:0{BABY_labelShort}crwdnd429406:0{HAULER_labelShort}crwdne429406:0</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>crwdns429408:0{MOM_labelShort}crwdnd429408:0{HAULER_labelShort}crwdne429408:0</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>crwdns429410:0{MOM_labelShort}crwdnd429410:0{BABY_labelShort}crwdne429410:0</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>crwdns429412:0{HAULER_labelShort}crwdnd429412:0{BABY_labelShort}crwdnd429412:0{MOM_labelShort}crwdne429412:0</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>crwdns429414:0{HAULER_labelShort}crwdnd429414:0{BABY_labelShort}crwdne429414:0</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>crwdns429416:0{BABY_factionPawnsPlural}crwdnd429416:0{BABY_labelShort}crwdne429416:0</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>crwdns429418:0{MOM_labelShort}crwdne429418:0</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>crwdns429420:0{MOM_labelShort}crwdne429420:0</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>crwdns429422:0{MOM_labelShort}crwdne429422:0</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
+
+  <OrderImplantationIntoPawn>crwdns429424:0{PAWN_nameDef}crwdne429424:0</OrderImplantationIntoPawn>
+  <AcceptXenogerm>crwdns429426:0{0_xenotype}crwdne429426:0</AcceptXenogerm>
+
+  <CarryToRechargerOrdered>crwdns429428:0{PAWN_labelShort}crwdne429428:0</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>crwdns429430:0{PAWN_labelShort}crwdne429430:0</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>crwdns429432:0crwdne429432:0</CannotCarryToRechargerNoneAvailable>
+
+  <CannotStudy>crwdns429434:0crwdne429434:0</CannotStudy>
+  <AlreadyStudied>crwdns429436:0crwdne429436:0</AlreadyStudied>
+  <NoResearchBench>crwdns429438:0crwdne429438:0</NoResearchBench>
+
+  <NotAllowedHemogen>crwdns429440:0crwdne429440:0</NotAllowedHemogen>
+
+  <EjectGenepackFromGeneBank>crwdns429442:0crwdne429442:0</EjectGenepackFromGeneBank>
+
+  <ResultingMetTooLow>crwdns429444:0crwdne429444:0</ResultingMetTooLow>
+
+  <RomanceOnCooldown>crwdns429446:0crwdne429446:0</RomanceOnCooldown><!-- text_todo -->
+
+</LanguageData>
