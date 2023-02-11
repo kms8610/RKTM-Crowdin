@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BloodTransfusion.label>crwdns425352:0crwdne425352:0</BloodTransfusion.label>
+  <BloodTransfusion.description>crwdns425354:0crwdne425354:0</BloodTransfusion.description>
+  <BloodTransfusion.jobString>crwdns425356:0crwdne425356:0</BloodTransfusion.jobString>
+  
+  <ExtractHemogenPack.label>crwdns425358:0crwdne425358:0</ExtractHemogenPack.label>
+  <ExtractHemogenPack.description>crwdns425360:0crwdne425360:0</ExtractHemogenPack.description>
+  <ExtractHemogenPack.jobString>crwdns425362:0crwdne425362:0</ExtractHemogenPack.jobString>
+  
+  <ExtractOvum.label>crwdns425364:0crwdne425364:0</ExtractOvum.label>
+  <ExtractOvum.description>crwdns425366:0crwdne425366:0</ExtractOvum.description>
+  <ExtractOvum.jobString>crwdns425368:0crwdne425368:0</ExtractOvum.jobString>
+  
+  <ImplantEmbryo.label>crwdns425370:0crwdne425370:0</ImplantEmbryo.label>
+  <ImplantEmbryo.description>crwdns425372:0crwdne425372:0</ImplantEmbryo.description>
+  <ImplantEmbryo.jobString>crwdns425374:0crwdne425374:0</ImplantEmbryo.jobString>
+  
+  <ImplantIUD.label>crwdns425376:0crwdne425376:0</ImplantIUD.label>
+  <ImplantIUD.description>crwdns425378:0crwdne425378:0</ImplantIUD.description>
+  <ImplantIUD.jobString>crwdns425380:0crwdne425380:0</ImplantIUD.jobString>
+  <ImplantIUD.successfullyRemovedHediffMessage>crwdns425382:0{0}crwdnd425382:0{1}crwdne425382:0</ImplantIUD.successfullyRemovedHediffMessage>
+  
+  <ImplantXenogerm.label>crwdns425384:0crwdne425384:0</ImplantXenogerm.label>
+  <ImplantXenogerm.description>crwdns425386:0crwdne425386:0</ImplantXenogerm.description>
+  <ImplantXenogerm.jobString>crwdns425388:0crwdne425388:0</ImplantXenogerm.jobString>
+  
+  <RemoveIUD.label>crwdns425390:0crwdne425390:0</RemoveIUD.label>
+  <RemoveIUD.description>crwdns425392:0crwdne425392:0</RemoveIUD.description>
+  <RemoveIUD.jobString>crwdns425394:0crwdne425394:0</RemoveIUD.jobString>
+  <RemoveIUD.successfullyRemovedHediffMessage>crwdns425396:0{0}crwdnd425396:0{1}crwdne425396:0</RemoveIUD.successfullyRemovedHediffMessage>
+  
+  <ReverseVasectomy.label>crwdns425398:0crwdne425398:0</ReverseVasectomy.label>
+  <ReverseVasectomy.description>crwdns425400:0crwdne425400:0</ReverseVasectomy.description>
+  <ReverseVasectomy.jobString>crwdns425402:0crwdne425402:0</ReverseVasectomy.jobString>
+  <ReverseVasectomy.successfullyRemovedHediffMessage>crwdns425404:0{0}crwdnd425404:0{1}crwdne425404:0</ReverseVasectomy.successfullyRemovedHediffMessage>
+  
+  <TerminatePregnancy.label>crwdns425406:0crwdne425406:0</TerminatePregnancy.label>
+  <TerminatePregnancy.description>crwdns425408:0crwdne425408:0</TerminatePregnancy.description>
+  <TerminatePregnancy.jobString>crwdns425410:0crwdne425410:0</TerminatePregnancy.jobString>
+  
+  <TubalLigation.label>crwdns425412:0crwdne425412:0</TubalLigation.label>
+  <TubalLigation.description>crwdns425414:0crwdne425414:0</TubalLigation.description>
+  <TubalLigation.jobString>crwdns425416:0crwdne425416:0</TubalLigation.jobString>
+  <TubalLigation.successfullyRemovedHediffMessage>crwdns425418:0{0}crwdnd425418:0{1}crwdne425418:0</TubalLigation.successfullyRemovedHediffMessage>
+  
+  <Vasectomy.label>crwdns425420:0crwdne425420:0</Vasectomy.label>
+  <Vasectomy.description>crwdns425422:0crwdne425422:0</Vasectomy.description>
+  <Vasectomy.jobString>crwdns425424:0crwdne425424:0</Vasectomy.jobString>
+  <Vasectomy.successfullyRemovedHediffMessage>crwdns425426:0{0}crwdnd425426:0{1}crwdne425426:0</Vasectomy.successfullyRemovedHediffMessage>
+</LanguageData>
