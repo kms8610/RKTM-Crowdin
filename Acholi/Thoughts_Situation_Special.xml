@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaScream.stages.anima_scream.label>crwdns449468:0crwdne449468:0</AnimaScream.stages.anima_scream.label>
-  <AnimaScream.stages.anima_scream.description>crwdns449470:0crwdne449470:0</AnimaScream.stages.anima_scream.description>
+  <Aurora.stages.beautiful_aurora.label>crwdns475638:0crwdne475638:0</Aurora.stages.beautiful_aurora.label>
+  <Aurora.stages.beautiful_aurora.description>crwdns475640:0crwdne475640:0</Aurora.stages.beautiful_aurora.description>
   
-  <DecreeUnmet.stages.decree_ignored.label>crwdns449472:0crwdne449472:0</DecreeUnmet.stages.decree_ignored.label>
-  <DecreeUnmet.stages.decree_ignored.description>crwdns449474:0{0}crwdne449474:0</DecreeUnmet.stages.decree_ignored.description>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>crwdns475642:0crwdne475642:0</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>crwdns475644:0crwdne475644:0</ColonistLeftUnburied.stages.colonist_left_unburied.description>
   
-  <Joyfuzz.stages.joyfuzz.label>crwdns449476:0crwdne449476:0</Joyfuzz.stages.joyfuzz.label>
-  <Joyfuzz.stages.joyfuzz.description>crwdns449478:0crwdne449478:0</Joyfuzz.stages.joyfuzz.description>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>crwdns475646:0crwdne475646:0</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>crwdns475648:0crwdne475648:0</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>crwdns475650:0crwdne475650:0</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>crwdns475652:0crwdne475652:0</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>crwdns449480:0crwdne449480:0</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
-  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>crwdns449482:0crwdne449482:0</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>crwdns449484:0crwdne449484:0</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
-  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>crwdns449486:0crwdne449486:0</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>crwdns449488:0crwdne449488:0</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
-  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>crwdns449490:0crwdne449490:0</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  <Joywire.stages.joywire.label>crwdns475654:0crwdne475654:0</Joywire.stages.joywire.label>
+  <Joywire.stages.joywire.description>crwdns475656:0crwdne475656:0</Joywire.stages.joywire.description>
   
-  <PsychicLove.stages.psychic_love.label>crwdns449492:0crwdne449492:0</PsychicLove.stages.psychic_love.label>
+  <MissingTongue.stages.missing_tongue.label>crwdns475658:0crwdne475658:0</MissingTongue.stages.missing_tongue.label>
+  <MissingTongue.stages.missing_tongue.description>crwdns475660:0crwdne475660:0</MissingTongue.stages.missing_tongue.description>
+  
+  <Naked.stages.naked.label>crwdns475662:0crwdne475662:0</Naked.stages.naked.label>
+  <Naked.stages.naked.description>crwdns475664:0crwdne475664:0</Naked.stages.naked.description>
+  
+  <Pain.stages.minor_pain.label>crwdns475666:0crwdne475666:0</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.description>crwdns475668:0crwdne475668:0</Pain.stages.minor_pain.description>
+  <Pain.stages.serious_pain.label>crwdns475670:0crwdne475670:0</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.description>crwdns475672:0crwdne475672:0</Pain.stages.serious_pain.description>
+  <Pain.stages.intense_pain.label>crwdns475674:0crwdne475674:0</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.description>crwdns475676:0crwdne475676:0</Pain.stages.intense_pain.description>
+  <Pain.stages.mindshattering_pain.label>crwdns475678:0crwdne475678:0</Pain.stages.mindshattering_pain.label>
+  <Pain.stages.mindshattering_pain.description>crwdns475680:0crwdne475680:0</Pain.stages.mindshattering_pain.description>
+  
+  <PsychicDrone.stages.psychic_soothe.label>crwdns475682:0crwdne475682:0</PsychicDrone.stages.psychic_soothe.label>
+  <PsychicDrone.stages.psychic_soothe.description>crwdns475684:0crwdne475684:0</PsychicDrone.stages.psychic_soothe.description>
+  <PsychicDrone.stages.low_psychic_drone.label>crwdns475686:0crwdne475686:0</PsychicDrone.stages.low_psychic_drone.label>
+  <PsychicDrone.stages.low_psychic_drone.description>crwdns475688:0crwdne475688:0</PsychicDrone.stages.low_psychic_drone.description>
+  <PsychicDrone.stages.moderate_psychic_drone.label>crwdns475690:0crwdne475690:0</PsychicDrone.stages.moderate_psychic_drone.label>
+  <PsychicDrone.stages.moderate_psychic_drone.description>crwdns475692:0crwdne475692:0</PsychicDrone.stages.moderate_psychic_drone.description>
+  <PsychicDrone.stages.high_psychic_drone.label>crwdns475694:0crwdne475694:0</PsychicDrone.stages.high_psychic_drone.label>
+  <PsychicDrone.stages.high_psychic_drone.description>crwdns475696:0crwdne475696:0</PsychicDrone.stages.high_psychic_drone.description>
+  <PsychicDrone.stages.extreme_psychic_drone.label>crwdns475698:0crwdne475698:0</PsychicDrone.stages.extreme_psychic_drone.label>
+  <PsychicDrone.stages.extreme_psychic_drone.description>crwdns475700:0crwdne475700:0</PsychicDrone.stages.extreme_psychic_drone.description>
+  
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>crwdns475702:0crwdne475702:0</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.label>
+  <PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>crwdns475704:0crwdne475704:0</PsychicEmanatorSoothe.stages.psychic_emanator_soothe.description>
+  
+  <RotStink.stages.rot_stink.label>crwdns475706:0crwdne475706:0</RotStink.stages.rot_stink.label>
+  <RotStink.stages.rot_stink.description>crwdns475708:0crwdne475708:0</RotStink.stages.rot_stink.description>
+  <RotStink.stages.awful_rot_stink.label>crwdns475710:0crwdne475710:0</RotStink.stages.awful_rot_stink.label>
+  <RotStink.stages.awful_rot_stink.description>crwdns475712:0crwdne475712:0</RotStink.stages.awful_rot_stink.description>
+  
+  <RotStinkLingering.stages.rot_stink_lingering.label>crwdns475714:0crwdne475714:0</RotStinkLingering.stages.rot_stink_lingering.label>
+  <RotStinkLingering.stages.rot_stink_lingering.description>crwdns475716:0crwdne475716:0</RotStinkLingering.stages.rot_stink_lingering.description>
+  
+  <SharedBed.stages.sharing_bed.label>crwdns475718:0crwdne475718:0</SharedBed.stages.sharing_bed.label>
+  <SharedBed.stages.sharing_bed.description>crwdns475720:0crwdne475720:0</SharedBed.stages.sharing_bed.description>
+  
+  <ToxicFallout.stages.toxic_fallout.label>crwdns475722:0crwdne475722:0</ToxicFallout.stages.toxic_fallout.label>
+  <ToxicFallout.stages.toxic_fallout.description>crwdns475724:0crwdne475724:0</ToxicFallout.stages.toxic_fallout.description>
 </LanguageData>
