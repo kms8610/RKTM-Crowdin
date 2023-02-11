@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Research.label>연구</Research.label>
+  <Research_ExtremelySlow.label>extremely slow</Research_ExtremelySlow.label>
+  <Research_ExtremelySlow.description>연구는 아무런 가치가 없다. 왜 연구 따위에 노력을 하는가?</Research_ExtremelySlow.description>
+  
+  <Research_Fast.label>빠른</Research_Fast.label>
+  <Research_Fast.description>Research is an especially virtuous activity.</Research_Fast.description>
+  
+  <Research_None.label>허용되지 않음</Research_None.label>
+  <Research_None.description>기술을 연구하는 것은 부도덕한 행위니 시도조차 하지 말지어다.</Research_None.description>
+  
+  <Research_Normal.label>평균</Research_Normal.label>
+  <Research_Normal.description>Research is a worthwhile form of work that the community needs.</Research_Normal.description>
+  
+  <Research_Slow.label>느림</Research_Slow.label>
+  <Research_Slow.description>Research work just isn't particularly meaningful. Why try hard at it?</Research_Slow.description>
+  
+  <Research_VeryFast.label>매우 빠름</Research_VeryFast.label>
+  <Research_VeryFast.description>Research is among the most meaningful acts a person can perform.</Research_VeryFast.description>
+  
+  <Research_VerySlow.label>매우 느림</Research_VerySlow.label>
+  <Research_VerySlow.description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</Research_VerySlow.description>
 </LanguageData>
