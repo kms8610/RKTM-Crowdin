@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Abrasive.degreeDatas.abrasive.label>crwdns476156:0crwdne476156:0</Abrasive.degreeDatas.abrasive.label>
+  <Abrasive.degreeDatas.abrasive.description>crwdns476158:0{PAWN_nameDef}crwdnd476158:0{PAWN_possessive}crwdnd476158:0{PAWN_objective}crwdne476158:0</Abrasive.degreeDatas.abrasive.description>
+  
+  <AnnoyingVoice.degreeDatas.annoying_voice.label>crwdns476160:0crwdne476160:0</AnnoyingVoice.degreeDatas.annoying_voice.label>
+  <AnnoyingVoice.degreeDatas.annoying_voice.description>crwdns476162:0{PAWN_nameDef}crwdnd476162:0{PAWN_pronoun}crwdnd476162:0{PAWN_objective}crwdne476162:0</AnnoyingVoice.degreeDatas.annoying_voice.description>
+  
+  <Ascetic.degreeDatas.ascetic.label>crwdns476164:0crwdne476164:0</Ascetic.degreeDatas.ascetic.label>
+  <Ascetic.degreeDatas.ascetic.description>crwdns476166:0{PAWN_nameDef}crwdnd476166:0{PAWN_pronoun}crwdnd476166:0{PAWN_pronoun}crwdnd476166:0{PAWN_pronoun}crwdnd476166:0{PAWN_pronoun}crwdne476166:0</Ascetic.degreeDatas.ascetic.description>
+  
+  <Asexual.degreeDatas.asexual.label>crwdns476168:0crwdne476168:0</Asexual.degreeDatas.asexual.label>
+  <Asexual.degreeDatas.asexual.description>crwdns476170:0{PAWN_nameDef}crwdne476170:0</Asexual.degreeDatas.asexual.description>
+  
+  <Bisexual.degreeDatas.bisexual.label>crwdns476172:0crwdne476172:0</Bisexual.degreeDatas.bisexual.label>
+  <Bisexual.degreeDatas.bisexual.description>crwdns476174:0{PAWN_nameDef}crwdne476174:0</Bisexual.degreeDatas.bisexual.description>
+  
+  <Bloodlust.degreeDatas.bloodlust.label>crwdns476176:0crwdne476176:0</Bloodlust.degreeDatas.bloodlust.label>
+  <Bloodlust.degreeDatas.bloodlust.description>crwdns476178:0{PAWN_nameDef}crwdnd476178:0{PAWN_pronoun}crwdne476178:0</Bloodlust.degreeDatas.bloodlust.description>
+  
+  <BodyPurist.degreeDatas.body_purist.label>crwdns476180:0crwdne476180:0</BodyPurist.degreeDatas.body_purist.label>
+  <BodyPurist.degreeDatas.body_purist.description>crwdns476182:0{PAWN_nameDef}crwdnd476182:0{PAWN_objective}crwdne476182:0</BodyPurist.degreeDatas.body_purist.description>
+  
+  <Brawler.degreeDatas.brawler.label>crwdns476184:0crwdne476184:0</Brawler.degreeDatas.brawler.label>
+  <Brawler.degreeDatas.brawler.description>crwdns476186:0{PAWN_nameDef}crwdnd476186:0{PAWN_possessive}crwdnd476186:0{PAWN_pronoun}crwdne476186:0</Brawler.degreeDatas.brawler.description>
+  
+  <Cannibal.degreeDatas.cannibal.label>crwdns476188:0crwdne476188:0</Cannibal.degreeDatas.cannibal.label>
+  <Cannibal.degreeDatas.cannibal.description>crwdns476190:0{PAWN_nameDef}crwdnd476190:0{PAWN_pronoun}crwdnd476190:0{PAWN_pronoun}crwdne476190:0</Cannibal.degreeDatas.cannibal.description>
+  
+  <CreepyBreathing.degreeDatas.creepy_breathing.label>crwdns476192:0crwdne476192:0</CreepyBreathing.degreeDatas.creepy_breathing.label>
+  <CreepyBreathing.degreeDatas.creepy_breathing.description>crwdns476194:0{PAWN_nameDef}crwdne476194:0</CreepyBreathing.degreeDatas.creepy_breathing.description>
+  
+  <DislikesMen.degreeDatas.misandrist.label>crwdns476196:0crwdne476196:0</DislikesMen.degreeDatas.misandrist.label>
+  <DislikesMen.degreeDatas.misandrist.description>crwdns476198:0{PAWN_nameDef}crwdne476198:0</DislikesMen.degreeDatas.misandrist.description>
+  
+  <DislikesWomen.degreeDatas.misogynist.label>crwdns476200:0crwdne476200:0</DislikesWomen.degreeDatas.misogynist.label>
+  <DislikesWomen.degreeDatas.misogynist.description>crwdns476202:0{PAWN_nameDef}crwdne476202:0</DislikesWomen.degreeDatas.misogynist.description>
+  
+  <FastLearner.degreeDatas.fast_learner.label>crwdns476204:0crwdne476204:0</FastLearner.degreeDatas.fast_learner.label>
+  <FastLearner.degreeDatas.fast_learner.description>crwdns476206:0{PAWN_nameDef}crwdnd476206:0{PAWN_pronoun}crwdne476206:0</FastLearner.degreeDatas.fast_learner.description>
+  
+  <Gay.degreeDatas.gay.label>crwdns476208:0crwdne476208:0</Gay.degreeDatas.gay.label>
+  <Gay.degreeDatas.gay.description>crwdns476210:0{PAWN_nameDef}crwdnd476210:0{PAWN_possessive}crwdne476210:0</Gay.degreeDatas.gay.description>
+  
+  <Gourmand.degreeDatas.gourmand.label>crwdns476212:0crwdne476212:0</Gourmand.degreeDatas.gourmand.label>
+  <Gourmand.degreeDatas.gourmand.description>crwdns476214:0{PAWN_nameDef}crwdnd476214:0{PAWN_pronoun}crwdne476214:0</Gourmand.degreeDatas.gourmand.description>
+  
+  <GreatMemory.degreeDatas.great_memory.label>crwdns476216:0crwdne476216:0</GreatMemory.degreeDatas.great_memory.label>
+  <GreatMemory.degreeDatas.great_memory.description>crwdns476218:0{PAWN_nameDef}crwdnd476218:0{PAWN_pronoun}crwdne476218:0</GreatMemory.degreeDatas.great_memory.description>
+  
+  <Greedy.degreeDatas.greedy.label>crwdns476220:0crwdne476220:0</Greedy.degreeDatas.greedy.label>
+  <Greedy.degreeDatas.greedy.description>crwdns476222:0{PAWN_nameDef}crwdnd476222:0{PAWN_pronoun}crwdnd476222:0{PAWN_pronoun}crwdnd476222:0{PAWN_pronoun}crwdne476222:0</Greedy.degreeDatas.greedy.description>
+  
+  <Jealous.degreeDatas.jealous.label>crwdns476224:0crwdne476224:0</Jealous.degreeDatas.jealous.label>
+  <Jealous.degreeDatas.jealous.description>crwdns476226:0{PAWN_nameDef}crwdnd476226:0{PAWN_pronoun}crwdne476226:0</Jealous.degreeDatas.jealous.description>
+  
+  <Kind.degreeDatas.kind.label>crwdns476228:0crwdne476228:0</Kind.degreeDatas.kind.label>
+  <Kind.degreeDatas.kind.description>crwdns476230:0{PAWN_nameDef}crwdnd476230:0{PAWN_pronoun}crwdnd476230:0{PAWN_objective}crwdnd476230:0{PAWN_pronoun}crwdnd476230:0{PAWN_possessive}crwdnd476230:0{PAWN_objective}crwdne476230:0</Kind.degreeDatas.kind.description>
+  
+  <Masochist.degreeDatas.masochist.label>crwdns476232:0crwdne476232:0</Masochist.degreeDatas.masochist.label>
+  <Masochist.degreeDatas.masochist.description>crwdns476234:0{PAWN_nameDef}crwdnd476234:0{PAWN_pronoun}crwdnd476234:0{PAWN_pronoun}crwdne476234:0</Masochist.degreeDatas.masochist.description>
+  
+  <NightOwl.degreeDatas.night_owl.label>crwdns476236:0crwdne476236:0</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.description>crwdns476238:0{PAWN_nameDef}crwdnd476238:0{PAWN_pronoun}crwdnd476238:0{PAWN_pronoun}crwdne476238:0</NightOwl.degreeDatas.night_owl.description>
+  
+  <Nimble.degreeDatas.nimble.label>crwdns476240:0crwdne476240:0</Nimble.degreeDatas.nimble.label>
+  <Nimble.degreeDatas.nimble.description>crwdns476242:0{PAWN_nameDef}crwdnd476242:0{PAWN_pronoun}crwdne476242:0</Nimble.degreeDatas.nimble.description>
+  
+  <Nudist.degreeDatas.nudist.label>crwdns476244:0crwdne476244:0</Nudist.degreeDatas.nudist.label>
+  <Nudist.degreeDatas.nudist.description>crwdns476246:0{PAWN_nameDef}crwdnd476246:0{PAWN_pronoun}crwdne476246:0</Nudist.degreeDatas.nudist.description>
+  
+  <Psychopath.degreeDatas.psychopath.label>crwdns476248:0crwdne476248:0</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.description>crwdns476250:0{PAWN_nameDef}crwdnd476250:0{PAWN_objective}crwdnd476250:0{PAWN_pronoun}crwdnd476250:0{PAWN_objective}crwdnd476250:0{PAWN_pronoun}crwdne476250:0</Psychopath.degreeDatas.psychopath.description>
+  
+  <Pyromaniac.degreeDatas.pyromaniac.label>crwdns476252:0crwdne476252:0</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.description>crwdns476254:0{PAWN_nameDef}crwdnd476254:0{PAWN_pronoun}crwdnd476254:0{PAWN_pronoun}crwdne476254:0</Pyromaniac.degreeDatas.pyromaniac.description>
+  
+  <QuickSleeper.degreeDatas.quick_sleeper.label>crwdns476256:0crwdne476256:0</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>crwdns476258:0{PAWN_nameDef}crwdnd476258:0{PAWN_pronoun}crwdnd476258:0{PAWN_pronoun}crwdne476258:0</QuickSleeper.degreeDatas.quick_sleeper.description>
+  
+  <SlowLearner.degreeDatas.slow_learner.label>crwdns476260:0crwdne476260:0</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.description>crwdns476262:0{PAWN_nameDef}crwdnd476262:0{PAWN_pronoun}crwdne476262:0</SlowLearner.degreeDatas.slow_learner.description>
+  
+  <TooSmart.degreeDatas.too_smart.label>crwdns476264:0crwdne476264:0</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.description>crwdns476266:0{PAWN_nameDef}crwdnd476266:0{PAWN_possessive}crwdnd476266:0{PAWN_pronoun}crwdne476266:0</TooSmart.degreeDatas.too_smart.description>
+  
+  <TorturedArtist.degreeDatas.tortured_artist.label>crwdns476268:0crwdne476268:0</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.description>crwdns476270:0{PAWN_nameDef}crwdnd476270:0{PAWN_pronoun}crwdne476270:0</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>crwdns476272:0[PAWN_nameIndef]crwdne476272:0</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  
+  <Tough.degreeDatas.tough.label>crwdns476274:0crwdne476274:0</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.description>crwdns476276:0{PAWN_nameDef}crwdnd476276:0{PAWN_pronoun}crwdnd476276:0{PAWN_pronoun}crwdne476276:0</Tough.degreeDatas.tough.description>
+  
+  <Transhumanist.degreeDatas.body_modder.label>crwdns476278:0crwdne476278:0</Transhumanist.degreeDatas.body_modder.label>
+  <Transhumanist.degreeDatas.body_modder.description>crwdns476280:0{PAWN_nameDef}crwdnd476280:0{PAWN_possessive}crwdnd476280:0{PAWN_pronoun}crwdne476280:0</Transhumanist.degreeDatas.body_modder.description>
+  
+  <Undergrounder.degreeDatas.undergrounder.label>crwdns476282:0crwdne476282:0</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.description>crwdns476284:0{PAWN_nameDef}crwdnd476284:0{PAWN_pronoun}crwdnd476284:0{PAWN_pronoun}crwdne476284:0</Undergrounder.degreeDatas.undergrounder.description>
+  
+  <Wimp.degreeDatas.wimp.label>crwdns476286:0crwdne476286:0</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.description>crwdns476288:0{PAWN_nameDef}crwdnd476288:0{PAWN_objective}crwdne476288:0</Wimp.degreeDatas.wimp.description>
+</LanguageData>
