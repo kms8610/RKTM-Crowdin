@@ -1,359 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CustomizeIdeoligion>crwdns444204:0crwdne444204:0</CustomizeIdeoligion>
-  <ChooseYourIdeoligion>crwdns444206:0crwdne444206:0</ChooseYourIdeoligion>
-  <RandomStructureTip>crwdns444208:0crwdne444208:0</RandomStructureTip>
-  <RandomStyleTip>crwdns444210:0crwdne444210:0</RandomStyleTip>
-  <PlayClassic>crwdns444212:0crwdne444212:0</PlayClassic>
-  <CreateCustomFluid>crwdns444214:0crwdne444214:0</CreateCustomFluid>
-  <CreateCustomFixed>crwdns444216:0crwdne444216:0</CreateCustomFixed>
-  <CustomIdeoligions>crwdns444218:0crwdne444218:0</CustomIdeoligions>
-  <LoadSaved>crwdns444220:0crwdne444220:0</LoadSaved>
-  <Structure>crwdns444222:0crwdne444222:0</Structure>
-  <ChooseYourIdeoligionDesc>crwdns444224:0crwdne444224:0</ChooseYourIdeoligionDesc>
-  <CreateCustom>crwdns444226:0crwdne444226:0</CreateCustom>
-  <DeleteCustom>crwdns444228:0crwdne444228:0</DeleteCustom>
-  <CreateNew>crwdns444230:0crwdne444230:0</CreateNew>
-  <LoadExisting>crwdns444232:0crwdne444232:0</LoadExisting>
-  <CreateCustomIdeoligion>crwdns444234:0crwdne444234:0</CreateCustomIdeoligion>
-  <CustomIdeoligionSectionHeader>crwdns444236:0crwdne444236:0</CustomIdeoligionSectionHeader>
-  <FactionIdeoligionSectionHeader>crwdns444238:0crwdne444238:0</FactionIdeoligionSectionHeader>
-  <LoadExistingIdeoligion>crwdns444240:0crwdne444240:0</LoadExistingIdeoligion>
-  <SelectAnIdeo>crwdns444242:0crwdne444242:0</SelectAnIdeo>
-  <Ideo>crwdns444244:0crwdne444244:0</Ideo> 
-  <RandomizeAll>crwdns444246:0crwdne444246:0</RandomizeAll>
-  <Appearance>crwdns444248:0crwdne444248:0</Appearance>
-  <DoneButton>crwdns444250:0crwdne444250:0</DoneButton>
-  <CausedBy>crwdns444252:0crwdne444252:0</CausedBy>
-  <BeliefInIdeo>crwdns444254:0crwdne444254:0</BeliefInIdeo>
-  <Reward_RelicInfo>crwdns444256:0{0}crwdne444256:0</Reward_RelicInfo>
-  <Reward_RelicInfoLabel>crwdns444258:0{0}crwdne444258:0</Reward_RelicInfoLabel>
-  <RelicOf>crwdns444260:0{IDEO_name}crwdne444260:0</RelicOf>
-  <Altar>crwdns444262:0crwdne444262:0</Altar>
-  <Base>crwdns444264:0crwdne444264:0</Base>
-  <MinExpectation>crwdns444266:0crwdne444266:0</MinExpectation>
-  <PreceptThoughtMoodRange>crwdns444268:0{0}crwdnd444268:0{1}crwdne444268:0</PreceptThoughtMoodRange>
-  <ComesFromIdeo>crwdns444270:0crwdne444270:0</ComesFromIdeo>
-  <CurrentTotalAnimalBodySizePerColonist>crwdns444272:0crwdne444272:0</CurrentTotalAnimalBodySizePerColonist>
-  <AnimalsBodySizePerColonist>crwdns444274:0crwdne444274:0</AnimalsBodySizePerColonist>
-  <VeneratedAnimalsBodySizePerColonist>crwdns444276:0crwdne444276:0</VeneratedAnimalsBodySizePerColonist>
-  <MinAnimalBodySizePerColonist>crwdns444278:0{0}crwdne444278:0</MinAnimalBodySizePerColonist>
-  <Disables>crwdns444280:0crwdne444280:0</Disables>
-  <RequiresOnePrecept>crwdns444282:0crwdne444282:0</RequiresOnePrecept>
-  <RequiredPrecepts>crwdns444284:0crwdne444284:0</RequiredPrecepts>
-  <RequiredRituals>crwdns444286:0crwdne444286:0</RequiredRituals>
-  <PreventsPrecepts>crwdns444288:0crwdne444288:0</PreventsPrecepts>
-  <Styles>crwdns444290:0crwdne444290:0</Styles>
-  <ChanceToHavePrecept>crwdns444292:0crwdne444292:0</ChanceToHavePrecept>
-  <FavoriteColorTooltip>crwdns444294:0{PAWN_labelShort}crwdnd444294:0{PERCENTAGE}crwdnd444294:0{PAWN_possessive}crwdnd444294:0{ORIDEO}crwdnd444294:0{PAWN_objective}crwdne444294:0</FavoriteColorTooltip>
-  <OrIdeoColor>crwdns444296:0{PAWN_possessive}crwdne444296:0</OrIdeoColor>
-  <SetIdeoColor>crwdns444298:0crwdne444298:0</SetIdeoColor>
-  <SetFavoriteColor>crwdns444300:0crwdne444300:0</SetFavoriteColor>
-  <ConfigureIdeoligion>crwdns444302:0crwdne444302:0</ConfigureIdeoligion>
-  <NotEnoughDye>crwdns444304:0crwdne444304:0</NotEnoughDye>
-  <ApparelLockedCannotRecolor>crwdns444306:0{PAWN_nameDef}crwdnd444306:0{PAWN_possessive}crwdnd444306:0{APPAREL_labelShort}crwdne444306:0</ApparelLockedCannotRecolor>
-  <NotEnoughDyeWillRecolorApparel>crwdns444308:0crwdne444308:0</NotEnoughDyeWillRecolorApparel>
-  <NotEnoughDyeWillRecolorHair>crwdns444310:0crwdne444310:0</NotEnoughDyeWillRecolorHair>
-  <IdeoCertaintyTooltip>crwdns444312:0{PAWN_labelShort}crwdnd444312:0{IDEO}crwdnd444312:0{PERCENTAGE}crwdne444312:0</IdeoCertaintyTooltip>
-  <DisabledByPrecept>crwdns444314:0{0}crwdne444314:0</DisabledByPrecept>
-  <Everyone>crwdns444316:0crwdne444316:0</Everyone>
-  <Narrative>crwdns444318:0crwdne444318:0</Narrative>
-  <NarrativeLower>crwdns444320:0crwdne444320:0</NarrativeLower>
-  <PreceptName>crwdns444322:0crwdne444322:0</PreceptName>
-  <PreceptNameLower>crwdns444324:0crwdne444324:0</PreceptNameLower>
-  <Changing>crwdns444326:0{0}crwdne444326:0</Changing>
-  <StructuresLower>crwdns444328:0crwdne444328:0</StructuresLower>
-  <MemesLower>crwdns444330:0crwdne444330:0</MemesLower>
-  <Reward_DevelopmentPointsLabel>crwdns444332:0crwdne444332:0</Reward_DevelopmentPointsLabel>
-  <Reward_DevelopmentPoints>crwdns444334:0{0}crwdnd444334:0{1}crwdnd444334:0{2}crwdnd444334:0{3}crwdne444334:0</Reward_DevelopmentPoints>
-  <CurrentDevelopmentPoints>crwdns444336:0crwdne444336:0</CurrentDevelopmentPoints>
-  <ReformDevelopmentPoints>crwdns444338:0crwdne444338:0</ReformDevelopmentPoints>
-  <QuestLower>crwdns444340:0crwdne444340:0</QuestLower>
-  <MealKindVegetarian>crwdns444342:0crwdne444342:0</MealKindVegetarian>
-  <MealKindMeat>crwdns444344:0crwdne444344:0</MealKindMeat>
-  <MealKindAny>crwdns444346:0crwdne444346:0</MealKindAny>
-  <WearingDesiredApparelMulti>crwdns444348:0crwdne444348:0</WearingDesiredApparelMulti>
-
-  <UnableToLoadIdeoTitle>crwdns444350:0crwdne444350:0</UnableToLoadIdeoTitle>
-  <UnableToLoadIdeoDescription>crwdns444352:0crwdne444352:0</UnableToLoadIdeoDescription>
-  <UnableToLoadIdeoMemeNotAllowed>crwdns444354:0{MEME}crwdnd444354:0{FACTIONTYPE}crwdne444354:0</UnableToLoadIdeoMemeNotAllowed>
-  <UnableToLoadIdeoMemeRequired>crwdns444356:0{MEME}crwdnd444356:0{FACTIONTYPE}crwdne444356:0</UnableToLoadIdeoMemeRequired>
-  <UnableToLoadIdeoPreceptNotAllowed>crwdns444358:0{PRECEPT}crwdne444358:0</UnableToLoadIdeoPreceptNotAllowed>
-
-  <RitualTargetGraveInfo>crwdns444360:0{PAWN_labelShort}crwdne444360:0</RitualTargetGraveInfo>
-  <RitualTargetEmptyGraveInfo>crwdns444362:0{PAWN_labelShort}crwdne444362:0</RitualTargetEmptyGraveInfo>
-  <RitualTargetGraveInfoAbstract>crwdns444364:0{IDEO_memberNameIndef}crwdne444364:0</RitualTargetGraveInfoAbstract>
-  <RitualTargetGraveInfoAbstractNoIdeo>crwdns444366:0crwdne444366:0</RitualTargetGraveInfoAbstractNoIdeo>
-  <RitualTargetEmptyGraveInfoAbstract>crwdns444368:0{IDEO_memberNameIndef}crwdne444368:0</RitualTargetEmptyGraveInfoAbstract>
-  <RitualTargetGraveInfoMustBeBuried>crwdns444370:0{PAWN_labelShort}crwdne444370:0</RitualTargetGraveInfoMustBeBuried>
-  <RitualTargetGatherSpotInfo>crwdns444372:0crwdne444372:0</RitualTargetGatherSpotInfo>
-  <RitualTargetGatherAltarOrRitualSpotInfo>crwdns444374:0crwdne444374:0</RitualTargetGatherAltarOrRitualSpotInfo>
-  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>crwdns444376:0crwdne444376:0</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <RitualTargetLightBallIsNotPowered>crwdns444378:0crwdne444378:0</RitualTargetLightBallIsNotPowered>
-  <RitualTargetNoPoweredSpeakers>crwdns444380:0crwdne444380:0</RitualTargetNoPoweredSpeakers>
-  <RitualTargetCampfireNoFuel>crwdns444382:0crwdne444382:0</RitualTargetCampfireNoFuel>
-  <RitualTargetCampfireMustBeUnroofed>crwdns444384:0crwdne444384:0</RitualTargetCampfireMustBeUnroofed>
-  <RitualTargetNoDrum>crwdns444386:0crwdne444386:0</RitualTargetNoDrum>
-  <RitualTargetNeedUnroofedCells>crwdns444388:0{0}crwdne444388:0</RitualTargetNeedUnroofedCells>
-  <RitualTargetCampfirePartyInfo>crwdns444390:0crwdne444390:0</RitualTargetCampfirePartyInfo>
-  <RitualTargetUnconnectedGaruanlenTreeInfo>crwdns444392:0crwdne444392:0</RitualTargetUnconnectedGaruanlenTreeInfo>
-  <RitualTargetConnectedGauranlenTree>crwdns444394:0{PAWN_nameDef}crwdne444394:0</RitualTargetConnectedGauranlenTree>
-  <RitualTargetConnectionTornGauranlenTree>crwdns444396:0{TREE_definite}crwdnd444396:0{1}crwdne444396:0</RitualTargetConnectionTornGauranlenTree>
-  <RitualTargeWoodInfo>crwdns444398:0{0}crwdnd444398:0{2}crwdnd444398:0{1}crwdne444398:0</RitualTargeWoodInfo>
-  <RitualTargetUnreachable>crwdns444400:0{0}crwdne444400:0</RitualTargetUnreachable>
-  <Accuse>crwdns444402:0crwdne444402:0</Accuse>
-  <RitualScarificationWarnNonScarificationIdeo>crwdns444404:0{PAWN_labelShort}crwdne444404:0</RitualScarificationWarnNonScarificationIdeo>
-  <RitualScarificationWarnWimp>crwdns444406:0{PAWN_labelShort}crwdne444406:0</RitualScarificationWarnWimp>
-  <RitualBlindingWarnWimp>crwdns444408:0{PAWN_labelShort}crwdne444408:0</RitualBlindingWarnWimp>
-  <RitualScarificationTriggerExtraDesc>crwdns444410:0{IDEOMEMBERPLURAL}crwdnd444410:0{0}crwdnd444410:0{IDEOMEMBERPLURAL}crwdne444410:0</RitualScarificationTriggerExtraDesc>
-  <RitualBlindingTriggerExtraDesc>crwdns444412:0{IDEOMEMBER}crwdne444412:0</RitualBlindingTriggerExtraDesc>
+  <!-- Royalty and throne -->
+  <ThroneMaxSatisfiedTitle>crwdns450112:0crwdne450112:0</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>crwdns450114:0{0}crwdne450114:0</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>crwdns450116:0crwdne450116:0</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>crwdns450118:0{FACTION_name}crwdnd450118:0{TITLE}crwdne450118:0</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>crwdns450120:0{0}crwdne450120:0</RequiresTradePermission>
+  <RequirementPersonalBedroom>crwdns450122:0crwdne450122:0</RequirementPersonalBedroom>
   
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>crwdns444414:0{PERCENTAGE}crwdne444414:0</RitualOutcomeExtraDesc_DancePartyWorkFocus>
-  <RitualOutcomeExtraDesc_BlindingPsylink>crwdns444416:0{PAWN_labelShort}crwdne444416:0</RitualOutcomeExtraDesc_BlindingPsylink>
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>crwdns444418:0{PAWN_pronoun}crwdnd444418:0{0}crwdne444418:0</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
-  <RitualOutcomeExtraDesc_ConsumableInspiration>crwdns444420:0{RITUAL}crwdnd444420:0{PAWN_labelShort}crwdnd444420:0{INSPIRATION}crwdne444420:0</RitualOutcomeExtraDesc_ConsumableInspiration>
-  <RitualOutcomeExtraDesc_SkylanternWanderers>crwdns444422:0crwdne444422:0</RitualOutcomeExtraDesc_SkylanternWanderers>
-  <RitualOutcomeExtraDesc_Execution>crwdns444424:0crwdne444424:0</RitualOutcomeExtraDesc_Execution>
+  <!-- Generated neurotrainers -->
+  <PsycastNeurotrainerLabel>crwdns450124:0{0}crwdne450124:0</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>crwdns450126:0{0}crwdne450126:0</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>crwdns450128:0{PSYCAST_label}crwdnd450128:0{PSYCASTDESCRIPTION}crwdne450128:0</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>crwdns450130:0{USER_labelShort}crwdnd450130:0{1}crwdne450130:0</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>crwdns450132:0crwdne450132:0</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>crwdns450134:0{USER_labelShort}crwdnd450134:0{1}crwdne450134:0</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>crwdns450136:0{1}crwdnd450136:0{0_royalFavorLabel}crwdnd450136:0{0_name}crwdne450136:0</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>crwdns450138:0{2}crwdnd450138:0{1}crwdnd450138:0{0_royalFavorLabel}crwdnd450138:0{0_name}crwdne450138:0</Reward_RoyalFavor_ChoosePawn>
   
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>crwdns444426:0{2}crwdnd444426:0{0}crwdnd444426:0{1}crwdne444426:0</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>crwdns444428:0{0}crwdne444428:0</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
-  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>crwdns444430:0crwdne444430:0</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
-
-  <RitualAttachedReward>crwdns444432:0crwdne444432:0</RitualAttachedReward>
-  <RitualAttachedRewardChoose>crwdns444434:0crwdne444434:0</RitualAttachedRewardChoose>
-  <RitualAttachedRewardCantUseWithRitual>crwdns444436:0{0}crwdnd444436:0{1}crwdne444436:0</RitualAttachedRewardCantUseWithRitual>
-  <RitualAttachedRewardRequiredMemeAny>crwdns444438:0crwdne444438:0</RitualAttachedRewardRequiredMemeAny>
-  <RitualAttachedRewardRequiredFaction>crwdns444440:0{0}crwdne444440:0</RitualAttachedRewardRequiredFaction>
-  <RitualAttachedOutcomes_Positive>crwdns444442:0crwdne444442:0</RitualAttachedOutcomes_Positive>
-  <RitualAttachedOutcomes_Negative>crwdns444444:0crwdne444444:0</RitualAttachedOutcomes_Negative>
-  <RitualAttachedOutcomesInfo>crwdns444446:0{0}crwdnd444446:0{1}crwdne444446:0</RitualAttachedOutcomesInfo>
-  <RitualAttachedApplliesForOutcome>crwdns444448:0{0}crwdne444448:0</RitualAttachedApplliesForOutcome>
-  <RitualAttachedApplliesForOutcomes>crwdns444450:0{0}crwdne444450:0</RitualAttachedApplliesForOutcomes>
-  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>crwdns444452:0{0}crwdne444452:0</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>crwdns444454:0{0}crwdne444454:0</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
-  <RitualAttachedOutcomeCantApply>crwdns444456:0crwdne444456:0</RitualAttachedOutcomeCantApply>
-  <RitualAttachedOutcomeCantApply_NoValidSpot>crwdns444458:0crwdne444458:0</RitualAttachedOutcomeCantApply_NoValidSpot>
-  <RitualAttachedOutcomeCantApply_ExtremeBiome>crwdns444460:0crwdne444460:0</RitualAttachedOutcomeCantApply_ExtremeBiome>
-  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>crwdns444462:0crwdne444462:0</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
-  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>crwdns444464:0crwdne444464:0</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <!-- Ship landing beacons -->
+  <NotUsable>crwdns450140:0crwdne450140:0</NotUsable>
+  <Unpowered>crwdns450142:0crwdne450142:0</Unpowered>
+  <BlockedByRoof>crwdns450144:0crwdne450144:0</BlockedByRoof>
+  <TooCloseToOtherBeacon>crwdns450146:0crwdne450146:0</TooCloseToOtherBeacon>
   
-  <IdeoBuildingVariationOf>crwdns444466:0crwdne444466:0</IdeoBuildingVariationOf>
-  <IdeoBuildingMinimumExpectations>crwdns444468:0crwdne444468:0</IdeoBuildingMinimumExpectations>
-  <Optional>crwdns444470:0crwdne444470:0</Optional>
-  <Expectations>crwdns444472:0crwdne444472:0</Expectations>
-  <RitualRepeatPenaltyTip>crwdns444474:0{0}crwdnd444474:0{1}crwdnd444474:0{2}crwdnd444474:0{3}crwdne444474:0</RitualRepeatPenaltyTip>
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>crwdns444476:0{0}crwdnd444476:0{1}crwdne444476:0</RitualOutcomeCompTip_RitualTargetDefsPart1>
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>crwdns444478:0{0}crwdnd444478:0{1_labelShortIndef}crwdne444478:0</RitualOutcomeCompTip_RitualTargetDefsPart2>
-  <RitualDevelopmentPoints>crwdns444480:0crwdne444480:0</RitualDevelopmentPoints>
-  <RitualDevelopmentPointsTip>crwdns444482:0{0}crwdnd444482:0{1}crwdne444482:0</RitualDevelopmentPointsTip>
-  <RitualOutcomeBlockedNoPower>crwdns444484:0{0}crwdne444484:0</RitualOutcomeBlockedNoPower>
+  <!-- Meditation -->
+  <Psyfocus>crwdns450148:0crwdne450148:0</Psyfocus>
+  <PsyfocusLabelGizmo>crwdns450150:0crwdne450150:0</PsyfocusLabelGizmo>
+  <PsyfocusDesc>crwdns450152:0crwdne450152:0</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>crwdns450154:0{0}crwdnd450154:0{1}crwdne450154:0</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>crwdns450156:0{0}crwdne450156:0</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>crwdns450158:0{0}crwdne450158:0</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>crwdns450160:0{LASTUSER_labelShort}crwdne450160:0</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>crwdns450162:0crwdne450162:0</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>crwdns450164:0{1}crwdnd450164:0{0}crwdne450164:0</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>crwdns450166:0{2}crwdnd450166:0{0}crwdnd450166:0{1}crwdne450166:0</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>crwdns450168:0{2}crwdnd450168:0{1}crwdnd450168:0{0}crwdne450168:0</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>crwdns450170:0{3}crwdnd450170:0{2}crwdnd450170:0{0}crwdnd450170:0{1}crwdne450170:0</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>crwdns450172:0{1}crwdnd450172:0{0}crwdne450172:0</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>crwdns450174:0{2}crwdnd450174:0{0}crwdnd450174:0{1}crwdne450174:0</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>crwdns450176:0{1}crwdnd450176:0{2}crwdnd450176:0{0}crwdne450176:0</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>crwdns450178:0{2}crwdnd450178:0{3}crwdnd450178:0{0}crwdnd450178:0{1}crwdne450178:0</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>crwdns450180:0{1}crwdnd450180:0{0}crwdne450180:0</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>crwdns450182:0{2}crwdnd450182:0{0}crwdnd450182:0{1}crwdne450182:0</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>crwdns450184:0{0}crwdne450184:0</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>crwdns450186:0crwdne450186:0</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>crwdns450188:0crwdne450188:0</DesiredPsyfocusDesc>
 
-  <ForSlaveUse>crwdns444486:0crwdne444486:0</ForSlaveUse>
-  <Slave>crwdns444488:0crwdne444488:0</Slave>
-  <SellingAsSlave>crwdns444490:0crwdne444490:0</SellingAsSlave>
-  <SellingAsRansom>crwdns444492:0crwdne444492:0</SellingAsRansom>
-
-  <MemeGoodwillImpact_Player>crwdns444494:0{0}crwdne444494:0</MemeGoodwillImpact_Player>
-  <MemeGoodwillImpact_Other>crwdns444496:0{0}crwdne444496:0</MemeGoodwillImpact_Other>
-
-  <!-- TextMotes -->
-  <TextMote_SuppressionIncreased>crwdns444498:0{0}crwdne444498:0</TextMote_SuppressionIncreased>
-
-  <!-- Role requirements -->
-  <RoleRequirementsLabel>crwdns444500:0crwdne444500:0</RoleRequirementsLabel>
-  <RoleEffectsLabel>crwdns444502:0crwdne444502:0</RoleEffectsLabel>
-  <RoleRequirementLabelSameIdeo>crwdns444504:0{0}crwdne444504:0</RoleRequirementLabelSameIdeo>
-  <RoleRequirementLabelSupremeGender>crwdns444506:0{0}crwdne444506:0</RoleRequirementLabelSupremeGender>
-  <RoleRequirementCannotBe>crwdns444508:0crwdne444508:0</RoleRequirementCannotBe>
-
-  <RoleGrantedAbilitiesLabel>crwdns444510:0crwdne444510:0</RoleGrantedAbilitiesLabel>
-  <RoleRequiredApparelLabel>crwdns444512:0crwdne444512:0</RoleRequiredApparelLabel>
-  <RoleRitualsLabel>crwdns444514:0crwdne444514:0</RoleRitualsLabel>
-  <RoleBelieverCountDesc>crwdns444516:0{1}crwdnd444516:0{0}crwdnd444516:0{3}crwdnd444516:0{2}crwdne444516:0</RoleBelieverCountDesc>
-  <RoleExpectationOffset>crwdns444518:0{0}crwdne444518:0</RoleExpectationOffset>
-  <RoleRaisedExpectation>crwdns444520:0{0}crwdne444520:0</RoleRaisedExpectation>
-  <RoleRaisedExpectationGracePeriod>crwdns444522:0{0}crwdnd444522:0{1}crwdne444522:0</RoleRaisedExpectationGracePeriod>
-  <IdeoLeaderDifferentIdeoThoughtLabel>crwdns444524:0{0}crwdne444524:0</IdeoLeaderDifferentIdeoThoughtLabel>
-  <AbilityDisabled_IncapableOfWorkTag>crwdns444526:0{PAWN_nameDef}crwdnd444526:0{1}crwdne444526:0</AbilityDisabled_IncapableOfWorkTag>
-  <AbilityDisabledNoAltarOrRitualsSpot>crwdns444528:0crwdne444528:0</AbilityDisabledNoAltarOrRitualsSpot>
-  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>crwdns444530:0crwdne444530:0</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
-  <AbilityDisabledNoRitualSpot>crwdns444532:0crwdne444532:0</AbilityDisabledNoRitualSpot>
-
-  <TextMote_WillReduced>crwdns444534:0{0}crwdnd444534:0{1}crwdne444534:0</TextMote_WillReduced>
-
-  <ConfirmationCharityJoiner>crwdns444536:0{0}crwdne444536:0</ConfirmationCharityJoiner>
-
-  <BelieversIn>crwdns444538:0{0}crwdnd444538:0{1}crwdne444538:0</BelieversIn>
-  <AddPrecept>crwdns444540:0{0}crwdne444540:0</AddPrecept>
-  <Precept>crwdns444542:0crwdne444542:0</Precept>
-  <IdeoBuilding>crwdns444544:0crwdne444544:0</IdeoBuilding>
-  <IdeoRelic>crwdns444546:0crwdne444546:0</IdeoRelic>
+  <AbilitySpeechDisabledNoThroneAssigned>crwdns450190:0crwdne450190:0</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>crwdns450192:0crwdne450192:0</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>crwdns450194:0crwdne450194:0</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>crwdns450196:0crwdne450196:0</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechPossibleOutcomes>crwdns450198:0crwdne450198:0</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>crwdns450200:0{ORGANIZER_labelShort}crwdnd450200:0{1}crwdne450200:0</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetDescThrone>crwdns450202:0crwdne450202:0</AbilitySpeechTargetDescThrone>
   
-  <!-- Beggars -->
-  <GiveItemsTo>crwdns444548:0{0}crwdnd444548:0{1_nameDef}crwdne444548:0</GiveItemsTo>
-  <CannotGiveItemsTo>crwdns444550:0{0}crwdnd444550:0{1_nameDef}crwdne444550:0</CannotGiveItemsTo>
-  <NoItemFound>crwdns444552:0crwdne444552:0</NoItemFound>
+  <RitualDisabledNoAltar>crwdns450204:0crwdne450204:0</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>crwdns450206:0crwdne450206:0</RitualBestowingCeremony>
 
-  <!-- Outfits -->
-  <OutfitSlave>crwdns444554:0crwdne444554:0</OutfitSlave>
+  <TotalMeditationToday>crwdns450208:0{0}crwdnd450208:0{1}crwdne450208:0</TotalMeditationToday>
+  <ProgressToNextSubplant>crwdns450210:0{0}crwdne450210:0</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>crwdns450212:0crwdne450212:0</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>crwdns450214:0{0}crwdnd450214:0{1}crwdnd450214:0{2}crwdne450214:0</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>crwdns450216:0{0}crwdne450216:0</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>crwdns450218:0crwdne450218:0</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>crwdns450220:0crwdne450220:0</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>crwdns450222:0crwdne450222:0</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>crwdns450224:0{PAWN_labelShort}crwdnd450224:0{LINKABLE_labelShort}crwdnd450224:0{PAWN_pronoun}crwdne450224:0</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>crwdns450226:0{0}crwdne450226:0</LetterTextLinkingRitualCompletedAnimaGrass>
 
-  <!-- Hacking -->
-  <HackProgress>crwdns444556:0crwdne444556:0</HackProgress>
-  <HackingSpeed>crwdns444558:0crwdne444558:0</HackingSpeed>
-  <HackingLastUser>crwdns444560:0{0}crwdne444560:0</HackingLastUser>
-  <Hacked>crwdns444562:0crwdne444562:0</Hacked>
-  <TerminalsHacked>crwdns444564:0crwdne444564:0</TerminalsHacked>
+  <LandHere>crwdns450228:0crwdne450228:0</LandHere>
+  <MessageShuttleDestinationIsTooFar>crwdns450230:0crwdne450230:0</MessageShuttleDestinationIsTooFar>
 
-  <RelicInfoFound>crwdns444566:0crwdne444566:0</RelicInfoFound>
-  <InactiveRoleRequiresMoreBelievers>crwdns444568:0{0}crwdnd444568:0{1}crwdnd444568:0{2}crwdne444568:0</InactiveRoleRequiresMoreBelievers>
+  <BeginCeremony>crwdns450232:0{0_labelShort}crwdne450232:0</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>crwdns450234:0{PAWN_definite}crwdnd450234:0{TITLE}crwdne450234:0</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>crwdns450236:0{PAWN_definite}crwdnd450236:0{TITLE}crwdne450236:0</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>crwdns450238:0crwdne450238:0</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>crwdns450240:0{0}crwdne450240:0</BestowingOutcomeQualitySpecific>
   
-  <Certainty>crwdns444570:0crwdne444570:0</Certainty>
+  <RitualTargetAnimaTreeNoPawnsToLink>crwdns450242:0crwdne450242:0</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>crwdns450244:0crwdne450244:0</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>crwdns450246:0{0}crwdne450246:0</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>crwdns450248:0crwdne450248:0</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>crwdns450250:0crwdne450250:0</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>crwdns450252:0crwdne450252:0</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
-  <!-- Slave interaction -->
-  <EmancipateNonCololonistWithFactionTooltip>crwdns444572:0{0}crwdne444572:0</EmancipateNonCololonistWithFactionTooltip>
-  <EmancipateNonCololonistWithoutFactionTooltip>crwdns444574:0crwdne444574:0</EmancipateNonCololonistWithoutFactionTooltip>
-  <EmancipateCololonistTooltip>crwdns444576:0crwdne444576:0</EmancipateCololonistTooltip>
+  <AnimaLinkingExplanationBase>crwdns450254:0{0}crwdnd450254:0{1}crwdne450254:0</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>crwdns450256:0crwdne450256:0</ShuttleRequiredItemsNotSatisfied>
 
-  <WorshippedTerminalFactionBecameHostileTimed>crwdns444578:0{FACTION_name}crwdne444578:0</WorshippedTerminalFactionBecameHostileTimed>
-  <WorshippedTerminalRaidIncoming>crwdns444580:0crwdne444580:0</WorshippedTerminalRaidIncoming>
+  <AbilityNoEntropyToDump>crwdns450258:0crwdne450258:0</AbilityNoEntropyToDump>
 
-  <!-- Relic hunt -->
-  <RelicHuntFoundRelicSite>crwdns444582:0crwdne444582:0</RelicHuntFoundRelicSite>
-  <RelicHuntFoundRelicSitePeaceful>crwdns444584:0crwdne444584:0</RelicHuntFoundRelicSitePeaceful>
-
-  <Relic>crwdns444586:0crwdne444586:0</Relic>
-  <RitualSeat>crwdns444588:0crwdne444588:0</RitualSeat>
-
-  <!-- Ritual requirements -->
-  <RitualPredictedOutcomeDescNumActiveLoudspeakers>crwdns444590:0crwdne444590:0</RitualPredictedOutcomeDescNumActiveLoudspeakers>
-  <RitualPredictedOutcomeDescNumDrums>crwdns444592:0crwdne444592:0</RitualPredictedOutcomeDescNumDrums>
-
-  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>crwdns444594:0{0}crwdne444594:0</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
-
-  <RitualOutcomeLabelAnyOfThese>crwdns444596:0crwdne444596:0</RitualOutcomeLabelAnyOfThese>
-
-  <PreceptReplaceWith>crwdns444598:0crwdne444598:0</PreceptReplaceWith>
-  <RitualSeatOf>crwdns444600:0{IDEOS}crwdne444600:0</RitualSeatOf>
-  <StartingQuality>crwdns444602:0crwdne444602:0</StartingQuality>
-  <ExpectedConvictionChance>crwdns444604:0crwdne444604:0</ExpectedConvictionChance>
- 
-  <MustBePlacedIndoors>crwdns444606:0crwdne444606:0</MustBePlacedIndoors>
-
-  <!-- Gauranlen trees/Dryads -->
-  <ConnectedPawn>crwdns444608:0crwdne444608:0</ConnectedPawn>
-  <Nobody>crwdns444610:0crwdne444610:0</Nobody>
-  <ConnectedPawnDesc>crwdns444612:0{TREE_label}crwdnd444612:0{TREE_label}crwdnd444612:0{DURATION}crwdne444612:0</ConnectedPawnDesc>
-  <ConnectionTorn>crwdns444614:0{0}crwdne444614:0</ConnectionTorn>
-  <ConnectedPawnAway>crwdns444616:0{PAWN_nameDef}crwdne444616:0</ConnectedPawnAway>
-  <TreeBlockedByNearbyBuildingsDesc>crwdns444618:0{PLANT_definite}crwdnd444618:0{PLANT_definite}crwdne444618:0</TreeBlockedByNearbyBuildingsDesc>
-  <GauranlenModeChangeDescFull>crwdns444620:0{TREE_definite}crwdnd444620:0{DURATION}crwdne444620:0</GauranlenModeChangeDescFull>
-  <ChangeModeDesc>crwdns444622:0{TREE_definite}crwdne444622:0</ChangeModeDesc>
-  <ConnectionStrengthFall>crwdns444624:0crwdne444624:0</ConnectionStrengthFall>
-  <ConnectionStrength>crwdns444626:0crwdne444626:0</ConnectionStrength>
-  <ConnectionStrengthDisplay>crwdns444628:0{0}crwdne444628:0</ConnectionStrengthDisplay>
-  <ConnectionStrengthDesc>crwdns444630:0crwdne444630:0</ConnectionStrengthDesc>
-  <MaximumDryads>crwdns444632:0crwdne444632:0</MaximumDryads>
-  <MaximumDryadsDesc>crwdns444634:0crwdne444634:0</MaximumDryadsDesc>
-  <MaxDryadsBasedOnConnectionStrength>crwdns444636:0crwdne444636:0</MaxDryadsBasedOnConnectionStrength>
-  <PruningConnectionStrength>crwdns444638:0crwdne444638:0</PruningConnectionStrength>
-  <PruningHoursToMaintain>crwdns444640:0crwdne444640:0</PruningHoursToMaintain>
-  <DesiredConnectionStrength>crwdns444642:0crwdne444642:0</DesiredConnectionStrength>
-  <DesiredConnectionStrengthDesc>crwdns444644:0{CONNECTEDPAWN_nameDef}crwdnd444644:0{TREE_definite}crwdnd444644:0{FALL}crwdne444644:0</DesiredConnectionStrengthDesc>
-  <WaitingForConnectorToChangeCaste>crwdns444646:0{CONNECTEDPAWN_nameDef}crwdne444646:0</WaitingForConnectorToChangeCaste>
-  <GauranlenTreeMode>crwdns444648:0crwdne444648:0</GauranlenTreeMode>
-  <NoCaste>crwdns444650:0crwdne444650:0</NoCaste>
-  <GauranlenTreeModeDesc>crwdns444652:0crwdne444652:0</GauranlenTreeModeDesc>
-  <SpawningDryadIn>crwdns444654:0{DRYAD_label}crwdnd444654:0{TIME}crwdne444654:0</SpawningDryadIn>
-  <ChangingDryadIntoType>crwdns444656:0{DRYAD_labelShort}crwdnd444656:0{TYPE_label}crwdne444656:0</ChangingDryadIntoType>
-  <HoursEveryDay>crwdns444658:0{0}crwdne444658:0</HoursEveryDay>
-  <HoursEveryOtherDay>crwdns444660:0{0}crwdne444660:0</HoursEveryOtherDay>
-  <DryadProducesResourcesDesc>crwdns444662:0{DRYAD_labelPlural}crwdnd444662:0{RESOURCES}crwdnd444662:0{DURATION}crwdne444662:0</DryadProducesResourcesDesc>
-  <DryadCannotChangeMaster>crwdns444664:0{ANIMAL_nameDef}crwdnd444664:0{MASTER_nameDef}crwdnd444664:0{ANIMAL_possessive}crwdnd444664:0{ANIMAL_possessive}crwdne444664:0</DryadCannotChangeMaster>
-  <ConnectionStrengthTooWeakForGaumakerPod>crwdns444666:0crwdne444666:0</ConnectionStrengthTooWeakForGaumakerPod>
-  <Unconnected>crwdns444668:0crwdne444668:0</Unconnected>
-  <DryadPlural>crwdns444670:0crwdne444670:0</DryadPlural>
-  <ConnectionStrengthAffectedBy>crwdns444672:0crwdne444672:0</ConnectionStrengthAffectedBy>
-  <CurrentlyAffectedBy>crwdns444674:0crwdne444674:0</CurrentlyAffectedBy>
-  <NotEnoughConnectionStrengthForSingleDryad>crwdns444676:0{0}crwdne444676:0</NotEnoughConnectionStrengthForSingleDryad>
-  <CannotAssignAllowedAreaToDryad>crwdns444678:0crwdne444678:0</CannotAssignAllowedAreaToDryad>
-
-  <!-- Shooting report -->
-  <TargetNightOutdoors>crwdns444680:0crwdne444680:0</TargetNightOutdoors>
-  <TargetDarkIndoors>crwdns444682:0crwdne444682:0</TargetDarkIndoors>
-  <TargetDayOutdoors>crwdns444684:0crwdne444684:0</TargetDayOutdoors>
-  <TargetLitIndoors>crwdns444686:0crwdne444686:0</TargetLitIndoors>  
-  <RechargeableCharging>crwdns444688:0crwdne444688:0</RechargeableCharging>
-  <RechargeableReady>crwdns444690:0crwdne444690:0</RechargeableReady>
-  
-  <RoleRequirementSkill>crwdns444692:0crwdne444692:0</RoleRequirementSkill>
-  <RoleRequirementSkillAny>crwdns444694:0crwdne444694:0</RoleRequirementSkillAny>
-  <RoleEffectWontUseRangedWeapons>crwdns444696:0crwdne444696:0</RoleEffectWontUseRangedWeapons>
-  <RoleEffectWontUseMeleeWeapons>crwdns444698:0crwdne444698:0</RoleEffectWontUseMeleeWeapons>
-  <RoleEffectProductionQualityOffset>crwdns444700:0{0}crwdne444700:0</RoleEffectProductionQualityOffset>
-  <RoleEffectHuntingRevengeChance>crwdns444702:0{0}crwdne444702:0</RoleEffectHuntingRevengeChance>
-  <RoleEffectGiveThoughtOnTended>crwdns444704:0crwdne444704:0</RoleEffectGiveThoughtOnTended>
-
-  <AssignColonists>crwdns444706:0crwdne444706:0</AssignColonists>
-  <RemoveNewIdeoligion>crwdns444708:0crwdne444708:0</RemoveNewIdeoligion>
-  <MakeIdeoligionPrimary>crwdns444710:0crwdne444710:0</MakeIdeoligionPrimary>
-
-  <!-- Archonexus -->
-  <GameOverArchotechInvokedIntro>crwdns444712:0crwdne444712:0</GameOverArchotechInvokedIntro>
-  <GameOverArchotechInvokedEnding>crwdns444714:0crwdne444714:0</GameOverArchotechInvokedEnding>
-  <GameOverColonistsTranscended>crwdns444716:0{0}crwdne444716:0</GameOverColonistsTranscended>
-  <Reward_ArchonexusMapPart>crwdns444718:0crwdne444718:0</Reward_ArchonexusMapPart>
-  <Reward_ArchonexusMapPartLabel>crwdns444720:0{0}crwdnd444720:0{1}crwdne444720:0</Reward_ArchonexusMapPartLabel>
-
-  <RelicsLower>crwdns444722:0crwdne444722:0</RelicsLower>
-  <RelicLower>crwdns444724:0crwdne444724:0</RelicLower>
-
-  <LinkedTo>crwdns444726:0crwdne444726:0</LinkedTo>
-  <SupplySatellite>crwdns444728:0crwdne444728:0</SupplySatellite>
-
-  <CannotExtractSkull>crwdns444730:0crwdne444730:0</CannotExtractSkull>
-  <TipPreviewRitualAmbienceSound>crwdns444732:0crwdne444732:0</TipPreviewRitualAmbienceSound>
-
-  <ChooseStuffForRelic>crwdns444734:0crwdne444734:0</ChooseStuffForRelic>
-  <RelicStuff>crwdns444736:0crwdne444736:0</RelicStuff>
-
-  <!-- Bioscuplter pod -->
-  <BiosculpterPodCycleLabel>crwdns444738:0crwdne444738:0</BiosculpterPodCycleLabel>
-  <BiosculpterPodCycleLabelLoading>crwdns444740:0crwdne444740:0</BiosculpterPodCycleLabelLoading>
-  <BiosculpterPodCycleWillBiotune>crwdns444742:0crwdne444742:0</BiosculpterPodCycleWillBiotune>
-  <BiosculpterPodCycleCommand>crwdns444744:0{0}crwdne444744:0</BiosculpterPodCycleCommand>
-  <BiosculpterPodCycleDuration>crwdns444746:0crwdne444746:0</BiosculpterPodCycleDuration>
-  <BiosculpterPodCycleDurationTranshumanists>crwdns444748:0crwdne444748:0</BiosculpterPodCycleDurationTranshumanists>
-  <BiosculpterPodCycleSelection>crwdns444750:0crwdne444750:0</BiosculpterPodCycleSelection>
-  <BiosculpterPodCycleStandby>crwdns444752:0{CYCLE}crwdnd444752:0{PAWN_labelShort}crwdne444752:0</BiosculpterPodCycleStandby>
-  <BiosculpterPodCycleSelectionNoPower>crwdns444754:0crwdne444754:0</BiosculpterPodCycleSelectionNoPower>
-  <BiosculpterCycleTimeRemaining>crwdns444756:0crwdne444756:0</BiosculpterCycleTimeRemaining>
-  <BiosculpterCycleAccelerated>crwdns444758:0crwdne444758:0</BiosculpterCycleAccelerated>
-  <BiosculpterCycleNoPowerInterrupt>crwdns444760:0{TIME}crwdne444760:0</BiosculpterCycleNoPowerInterrupt>
-  <BiosculpterBiotunedTo>crwdns444762:0crwdne444762:0</BiosculpterBiotunedTo>
-  <BiosculpterInteruptCycle>crwdns444764:0crwdne444764:0</BiosculpterInteruptCycle>
-  <BiosculpterInteruptCycleDesc>crwdns444766:0crwdne444766:0</BiosculpterInteruptCycleDesc>
-  <BiosculpterEnteringMessage>crwdns444768:0{PAWN_labelShort}crwdnd444768:0{CYCLE}crwdne444768:0</BiosculpterEnteringMessage>
-  <BiosculpterLoadingStartedMessage>crwdns444770:0{PAWN_labelShort}crwdnd444770:0{INGREDIENTS}crwdnd444770:0{CYCLE}crwdne444770:0</BiosculpterLoadingStartedMessage>
-  <BiosculpterCarryStartedMessage>crwdns444772:0{PAWN_labelShort}crwdnd444772:0{INGREDIENTS}crwdnd444772:0{DOWNED_labelShort}crwdnd444772:0{CYCLE}crwdne444772:0</BiosculpterCarryStartedMessage>
-  <NumNutrition>crwdns444774:0{0}crwdne444774:0</NumNutrition>
-  <BiosculpterNoPowerEjectedMessage>crwdns444776:0{PAWN_labelShort}crwdne444776:0</BiosculpterNoPowerEjectedMessage>
-  <BiosculpterHealCompletedMessage>crwdns444778:0{PAWN_labelShort}crwdne444778:0</BiosculpterHealCompletedMessage>
-  <BiosculpterHealCompletedWithCureMessage>crwdns444780:0{PAWN_labelShort}crwdnd444780:0{PAWN_possessive}crwdnd444780:0{HEDIFF_label}crwdne444780:0</BiosculpterHealCompletedWithCureMessage>
-  <BiosculpterAgeReversalCompletedMessage>crwdns444782:0{PAWN_labelShort}crwdnd444782:0{PAWN_possessive}crwdne444782:0</BiosculpterAgeReversalCompletedMessage>
-  <AgeReversalExpectationDeadline>crwdns444784:0{PAWN_pronoun}crwdnd444784:0{DEADLINE}crwdne444784:0</AgeReversalExpectationDeadline>
-  <BiosculpterPleasureCompletedMessage>crwdns444786:0{PAWN_labelShort}crwdne444786:0</BiosculpterPleasureCompletedMessage>
-  <BiosculpterCleanlinessSpeedFactor>crwdns444788:0crwdne444788:0</BiosculpterCleanlinessSpeedFactor>
-  <BiosculpterBiotunedSpeedFactor>crwdns444790:0crwdne444790:0</BiosculpterBiotunedSpeedFactor>
-  <HealingCycleWillHeal>crwdns444792:0crwdne444792:0</HealingCycleWillHeal>
-  <HealingCycleOneWillHeal>crwdns444794:0crwdne444794:0</HealingCycleOneWillHeal>
-  <MissingRequiredResearch>crwdns444796:0crwdne444796:0</MissingRequiredResearch>
-  <BiosculpterRequiresIngredients>crwdns444798:0crwdne444798:0</BiosculpterRequiresIngredients>
-  <OnCompletionOfCycle>crwdns444800:0{CYCLE}crwdne444800:0</OnCompletionOfCycle>
-  <BiosculpterNoCoditionsToHeal>crwdns444802:0{PAWN_nameDef}crwdnd444802:0{CYCLE}crwdne444802:0</BiosculpterNoCoditionsToHeal>
-
-  <Basic>crwdns444804:0crwdne444804:0</Basic>
-  <ChangeStyleDesc>crwdns444806:0crwdne444806:0</ChangeStyleDesc>
-  <ChangeStyleDisabledNoCategories>crwdns444808:0crwdne444808:0</ChangeStyleDisabledNoCategories>
+  <LevelNum>crwdns450260:0{0}crwdne450260:0</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>
