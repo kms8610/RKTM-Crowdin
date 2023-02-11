@@ -1,56 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BlindingCeremony.label>실명 의식</BlindingCeremony.label>
-  <BlindingCeremony.description>의식을 통해 대상의 눈을 적출하여 실명시킵니다. 관중들은 절단자가 연설하고, 대상의 눈을 모두 적출한 뒤 의식을 마칠 때까지 지켜볼 것입니다. 대상은 의식 직후에 출혈 상태가 되므로 즉시 치료해야 합니다.</BlindingCeremony.description>
+  <AnimaTreeLinking.label>영혼나무 연결</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>영혼나무와 정신적으로 연결되는 의식입니다. 연결자는 영혼나무 앞에서 명상을 시작하고, 다른 이들은 동그랗게 모여 의식을 지켜보며 정신력을 보탤 것입니다.</AnimaTreeLinking.description>
   
-  <Classic_DanceParty.label>무도회</Classic_DanceParty.label>
-  <Classic_DanceParty.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Classic_DanceParty.description>
-  
-  <Classic_DrumParty.label>북 파티</Classic_DrumParty.label>
-  <Classic_DrumParty.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Classic_DrumParty.description>
-  
-  <Conversion.label>교화 의식</Conversion.label>
-  <Conversion.description>Try to persuade someone into joining your ideoligion.</Conversion.description>
-  
-  <DateRitualConsumable.label>성탄절 파티</DateRitualConsumable.label>
-  <DateRitualConsumable.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</DateRitualConsumable.description>
-  
-  <Execution.label>공개 처형</Execution.label>
-  <Execution.description>처형자가 공개적으로 수감자를 처형합니다. 처형자는 간단한 연설 후 수감자를 처형하고 추도문을 읽을 것입니다. 의식을 목격한 노예들은 두려워할 것이고, 정착민들은 그들의 사상에 따라 들뜨거나 역겨워할 것입니다.</Execution.description>
-  <Execution.tipLabelOverride>공개 처형</Execution.tipLabelOverride>
-  
-  <Festival.label>social festival</Festival.label>
-  <Festival.description>즐기기 위한 축하 모임입니다. 지도자의 격려가 끝나면 모두가 한 데 어울려 즐거운 시간을 보냅니다.</Festival.description>
-  
-  <Funeral.label>funeral</Funeral.label>
-  <Funeral.description>이 사상을 믿는 사람이 죽어 묻힐 때 치러지는 행사입니다. 육체가 파괴됐다면 빈 무덤도 사용될 수 있습니다. 노예는 장례식을 치러주지 않습니다.</Funeral.description>
-  <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef}(을)를 매장한 뒤 장례식을 치러주면 {PAWN_possessive} 가족과 친구들을 다소 위로할 수 있습니다.</Funeral.extraTextPawnDeathLetter>
-  
-  <FuneralNoCorpse.label>funeral (no corpse)</FuneralNoCorpse.label>
-  <FuneralNoCorpse.description>이 사상을 믿는 사람이 죽어 묻힐 때 치러지는 행사입니다. 육체가 파괴됐다면 빈 무덤도 사용될 수 있습니다. 노예는 장례식을 치러주지 않습니다.</FuneralNoCorpse.description>
-  
-  <GladiatorDuel.label>gladiator duel</GladiatorDuel.label>
-  <GladiatorDuel.description>수감자나 죄수들 간의 공개 결투입니다. 주최자의 소개가 끝나고 나면 결투자들은 둘 중 하나가 죽던가, 시간이 끝날 때 까지 싸울 것입니다. 만약 투기장 안에 무기가 있다면 결투자들은 기꺼이 무기를 주워 사용할 것입니다.</GladiatorDuel.description>
-  <GladiatorDuel.tipLabelOverride>Prisoner/slave gladiator duel</GladiatorDuel.tipLabelOverride>
-  
-  <LeaderSpeech.label>지도 연설</LeaderSpeech.label>
-  <LeaderSpeech.description>정착민들의 사기를 고양하기 위한 연설입니다. 매끄럽게 진행된다면 청취자들은 영감을 얻거나 지도자에 대한 존경심을 느낄 것입니다. 반대로 결과가 좋지 않으면 사교적 불이익을 받습니다.</LeaderSpeech.description>
-  
-  <RoleChange.label>취임식</RoleChange.label>
-  <RoleChange.description>정착민의 지위 변경을 인정받기 위한 행사입니다. 새로운 지위를 인정받기 위해서는 최소한의 인원이 행사에 참석해야 합니다.</RoleChange.description>
-  
-  <ScarificationCeremony.label>상흔 문신</ScarificationCeremony.label>
-  <ScarificationCeremony.description>의식을 통해 대상의 피부에 사상이 담긴 상흔 문신을 새깁니다. 관중들은 절단자가 연설하고, 살을 베고, 의식을 마칠 때까지 지켜볼 것입니다.</ScarificationCeremony.description>
-  
-  <TreeConnection.label>나무 교감 의식</TreeConnection.label>
-  <TreeConnection.description>정착민이 요정나무와 교감합니다. 교감자가 요정나무에 손을 대고 대화하여 영구적인 결속을 형성합니다. 다른 이들도 모여 의식을 구경하고 힘을 더할 수 있습니다.</TreeConnection.description>
-  
-  <Trial.label>재판</Trial.label>
-  <Trial.description>끔찍한 범죄를 고발하기 위한 재판입니다. 배심원들은 원고와 피고의 논쟁을 듣고 고발이 사실인지 판단할 것입니다. 유죄가 선고될 경우 대상을 감금, 추방, 처형하더라도 불이익이 발생하지 않습니다. 판결의 결과는 재판 당사자들의 사교적 능력치 뿐 아니라 배심원의 수에도 영향을 받습니다.</Trial.description>
-  
-  <TrialMentalState.label>재판</TrialMentalState.label>
-  <TrialMentalState.description>끔찍한 범죄를 고발하기 위한 재판입니다. 배심원들은 원고와 피고의 논쟁을 듣고 고발이 사실인지 판단할 것입니다. 유죄가 선고될 경우 대상을 감금, 추방, 처형하더라도 불이익이 발생하지 않습니다. 판결의 결과는 재판 당사자들의 사교적 능력치 뿐 아니라 배심원의 수에도 영향을 받습니다.</TrialMentalState.description>
-  
-  <TrialPrisoner.label>재판</TrialPrisoner.label>
-  <TrialPrisoner.description>끔찍한 범죄를 고발하기 위한 재판입니다. 배심원들은 원고와 피고의 논쟁을 듣고 고발이 사실인지 판단할 것입니다. 유죄가 선고될 경우 대상을 감금, 추방, 처형하더라도 불이익이 발생하지 않습니다. 판결의 결과는 재판 당사자들의 사교적 능력치 뿐 아니라 배심원의 수에도 영향을 받습니다.</TrialPrisoner.description>
+  <ThroneSpeech.label>권위의 연설</ThroneSpeech.label>
+  <ThroneSpeech.description>왕좌에서 연설을 시작합니다. {ORGANIZER_labelShort}(이)가 자신의 왕좌로 모든 정착민을 불러 연설을 청취하도록 만듭니다. 결과가 좋다면 청취자들은 영감을 받을 수 있고 {ORGANIZER_labelShort}에 대한 존경심이 높아집니다. 반대로 결과가 좋지 않으면 사교적 불이익이 생깁니다. 결과는 {ORGANIZER_labelShort}의 사교 기술에 따라 달라집니다.</ThroneSpeech.description>
 </LanguageData>
