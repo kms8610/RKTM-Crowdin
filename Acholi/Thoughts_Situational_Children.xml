@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BabySick.stages.my_baby_is_sick.label>crwdns428414:0{BABY_nameDef}crwdne428414:0</BabySick.stages.my_baby_is_sick.label>
+  <BabySick.stages.my_baby_is_sick.description>crwdns428416:0crwdne428416:0</BabySick.stages.my_baby_is_sick.description>
+  <BabySick.stages.my_babies_are_sick.label>crwdns428418:0crwdne428418:0</BabySick.stages.my_babies_are_sick.label>
+  <BabySick.stages.my_babies_are_sick.description>crwdns428420:0crwdne428420:0</BabySick.stages.my_babies_are_sick.description>
+  
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>crwdns428422:0crwdne428422:0</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
+  <ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>crwdns428424:0crwdne428424:0</ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
+  
+  <CribQuality.stages.good_crib.label>crwdns428426:0crwdne428426:0</CribQuality.stages.good_crib.label>
+  <CribQuality.stages.good_crib.description>crwdns428428:0crwdne428428:0</CribQuality.stages.good_crib.description>
+  <CribQuality.stages.excellent_crib.label>crwdns428430:0crwdne428430:0</CribQuality.stages.excellent_crib.label>
+  <CribQuality.stages.excellent_crib.description>crwdns428432:0crwdne428432:0</CribQuality.stages.excellent_crib.description>
+  <CribQuality.stages.masterwork_crib.label>crwdns428434:0crwdne428434:0</CribQuality.stages.masterwork_crib.label>
+  <CribQuality.stages.masterwork_crib.description>crwdns428436:0crwdne428436:0</CribQuality.stages.masterwork_crib.description>
+  <CribQuality.stages.legendary_crib.label>crwdns428438:0crwdne428438:0</CribQuality.stages.legendary_crib.label>
+  <CribQuality.stages.legendary_crib.description>crwdns428440:0crwdne428440:0</CribQuality.stages.legendary_crib.description>
+  
+  <EnslavedChild.stages.enslaved_child.label>crwdns428442:0crwdne428442:0</EnslavedChild.stages.enslaved_child.label>
+  <EnslavedChild.stages.enslaved_child.description>crwdns428444:0crwdne428444:0</EnslavedChild.stages.enslaved_child.description>
+  
+  <MyChildHappy.stages.my_child_is_happy.label>crwdns428446:0{CHILD_nameDef}crwdne428446:0</MyChildHappy.stages.my_child_is_happy.label>
+  <MyChildHappy.stages.my_child_is_happy.description>crwdns428448:0crwdne428448:0</MyChildHappy.stages.my_child_is_happy.description>
+  
+  <MyChildSad.stages.my_child_is_unhappy.label>crwdns428450:0{CHILD_nameDef}crwdne428450:0</MyChildSad.stages.my_child_is_unhappy.label>
+  <MyChildSad.stages.my_child_is_unhappy.description>crwdns428452:0crwdne428452:0</MyChildSad.stages.my_child_is_unhappy.description>
+  
+  <MyChildrenHappy.stages.my_children_are_happy.label>crwdns428454:0crwdne428454:0</MyChildrenHappy.stages.my_children_are_happy.label>
+  <MyChildrenHappy.stages.my_children_are_happy.description>crwdns428456:0crwdne428456:0</MyChildrenHappy.stages.my_children_are_happy.description>
+  
+  <MyChildrenSad.stages.my_children_are_unhappy.label>crwdns428458:0crwdne428458:0</MyChildrenSad.stages.my_children_are_unhappy.label>
+  <MyChildrenSad.stages.my_children_are_unhappy.description>crwdns428460:0crwdne428460:0</MyChildrenSad.stages.my_children_are_unhappy.description>
+  
+  <MyParentHappy.stages.parent_is_happy.label>crwdns428462:0crwdne428462:0</MyParentHappy.stages.parent_is_happy.label>
+  <MyParentHappy.stages.parent_is_happy.description>crwdns428464:0crwdne428464:0</MyParentHappy.stages.parent_is_happy.description>
+  
+  <MyParentsHappy.stages.parents_are_happy.label>crwdns428466:0crwdne428466:0</MyParentsHappy.stages.parents_are_happy.label>
+  <MyParentsHappy.stages.parents_are_happy.description>crwdns428468:0crwdne428468:0</MyParentsHappy.stages.parents_are_happy.description>
+  
+  <YoungstersHappy.stages.happy_youngsters.label>crwdns428470:0crwdne428470:0</YoungstersHappy.stages.happy_youngsters.label>
+  <YoungstersHappy.stages.happy_youngsters.description>crwdns428472:0crwdne428472:0</YoungstersHappy.stages.happy_youngsters.description>
+  
+  <YoungstersSad.stages.sad_youngsters.label>crwdns428474:0crwdne428474:0</YoungstersSad.stages.sad_youngsters.label>
+  <YoungstersSad.stages.sad_youngsters.description>crwdns428476:0crwdne428476:0</YoungstersSad.stages.sad_youngsters.description>
+</LanguageData>
