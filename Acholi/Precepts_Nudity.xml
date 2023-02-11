@@ -1,6 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Nudity_Female.label>crwdns432310:0crwdne432310:0</Nudity_Female.label>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>crwdns436554:0crwdne436554:0</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>crwdns436556:0crwdne436556:0</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
   
-  <Nudity_Male.label>crwdns432312:0crwdne432312:0</Nudity_Male.label>
+  <Nudity_Female_Mandatory.label>crwdns436558:0crwdne436558:0</Nudity_Female_Mandatory.label>
+  <Nudity_Female_Mandatory.description>crwdns436560:0crwdne436560:0</Nudity_Female_Mandatory.description>
+  
+  <Nudity_Female_NoRules.label>crwdns436562:0crwdne436562:0</Nudity_Female_NoRules.label>
+  <Nudity_Female_NoRules.description>crwdns436564:0crwdne436564:0</Nudity_Female_NoRules.description>
+  
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>crwdns436566:0crwdne436566:0</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>crwdns436568:0crwdne436568:0</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>crwdns436570:0crwdne436570:0</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>crwdns436572:0crwdne436572:0</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  
+  <Nudity_Female_UncoveredGroinDisapproved.label>crwdns436574:0crwdne436574:0</Nudity_Female_UncoveredGroinDisapproved.label>
+  <Nudity_Female_UncoveredGroinDisapproved.description>crwdns436576:0crwdne436576:0</Nudity_Female_UncoveredGroinDisapproved.description>
+  
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>crwdns436578:0crwdne436578:0</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>crwdns436580:0crwdne436580:0</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>crwdns436582:0crwdne436582:0</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>crwdns436584:0crwdne436584:0</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  
+  <Nudity_Male_Mandatory.label>crwdns436586:0crwdne436586:0</Nudity_Male_Mandatory.label>
+  <Nudity_Male_Mandatory.description>crwdns436588:0crwdne436588:0</Nudity_Male_Mandatory.description>
+  
+  <Nudity_Male_NoRules.label>crwdns436590:0crwdne436590:0</Nudity_Male_NoRules.label>
+  <Nudity_Male_NoRules.description>crwdns436592:0crwdne436592:0</Nudity_Male_NoRules.description>
+  
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>crwdns436594:0crwdne436594:0</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>crwdns436596:0crwdne436596:0</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>crwdns436598:0crwdne436598:0</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>crwdns436600:0crwdne436600:0</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  
+  <Nudity_Male_UncoveredGroinDisapproved.label>crwdns436602:0crwdne436602:0</Nudity_Male_UncoveredGroinDisapproved.label>
+  <Nudity_Male_UncoveredGroinDisapproved.description>crwdns436604:0crwdne436604:0</Nudity_Male_UncoveredGroinDisapproved.description>
+  
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>crwdns436606:0crwdne436606:0</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>crwdns436608:0crwdne436608:0</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
 </LanguageData>
