@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Decree_BuildMonument.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\n기념비를 건설해야 합니다. 기념비의 크기는 [monumentSize]이며, 다음의 자원이 필요합니다. ([monumentRequiredResourcesMarketValue_money])\n\n[monumentRequiredResources]\n\n[decreeThreatInfo]\n\n건설 완료 후 [keepMonumentTicks_duration] 동안 기념비를 안전하게 유지하지 않는다면, [asker_nameDef](은)는 좋아하지 않을 것입니다.</li>
+  </Decree_BuildMonument.questDescriptionRules.rulesStrings>
+  <Decree_BuildMonument.questNameRules.rulesStrings>
+    <li>questName->monument decree</li>
+  </Decree_BuildMonument.questNameRules.rulesStrings>
+  <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>New monument marker arrived</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>Since the monument marker has been destroyed, a new one has been sent.</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>Monument completed</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>You have completed construction of the monument.\n\nYou must keep it safe for [keepMonumentTicks_duration], otherwise [asker_nameDef] will be displeased.</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>기념비 파괴됨</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>[asker_nameDef] is offended that you allowed the monument to be ruined so soon after completion.\n\n[asker_pronoun] will be unhappy about this.</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>{0} 동안 기념비를 파괴하지 마십시오.</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+  <Decree_BuildMonument.KeepMonument.slateRef>{0} 기념비 유지</Decree_BuildMonument.KeepMonument.slateRef>
+  
+  <Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\n[plantToHarvest_label] x[harvestItemCount]개를 수확해야 합니다.\n\n[plantToHarvest_label](을)를 먼저 심고 길러야 할 수도 있습니다.\n\n[decreeThreatInfo]</li>
+  </Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+  <Decree_HarvestCrop.questNameRules.rulesStrings>
+    <li>questName->[plantToHarvest_label] harvest decree</li>
+  </Decree_HarvestCrop.questNameRules.rulesStrings>
+  
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\n[animalToHuntWithCount](을)를 사냥하거나 도축해야 합니다.\n\n[decreeThreatInfo]</li>
+    <li>animalToHuntWithCount(countToHunt==1)->[animalToHunt_indefinite]</li>
+    <li>animalToHuntWithCount(countToHunt!=1)->[countToHunt] [animalToHunt_labelPlural]</li>
+  </Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+  <Decree_HuntAnimal.questNameRules.rulesStrings>
+    <li>questName->[animalToHunt_label] hunting decree</li>
+  </Decree_HuntAnimal.questNameRules.rulesStrings>
+  
+  <Decree_ProduceItem.questDescriptionRules.rulesStrings>
+    <li>questDescription->[decreeIntro]\n\n생산해야 될 물품:\n\n - [thingToProduceLabel]\n\n[decreeThreatInfo]</li>
+  </Decree_ProduceItem.questDescriptionRules.rulesStrings>
+  <Decree_ProduceItem.questNameRules.rulesStrings>
+    <li>questName->[defToProduce_label] production decree</li>
+  </Decree_ProduceItem.questNameRules.rulesStrings>
+</LanguageData>
