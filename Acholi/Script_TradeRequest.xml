@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>crwdns461414:0[settlement_label]crwdnd461414:0[requestedThingCount]crwdnd461414:0[requestedThing_label]crwdnd461414:0[qualityInfo]crwdnd461414:0[requestedThingMarketValue_money]crwdnd461414:0[estimatedTravelTime_duration]crwdne461414:0</li>
+    <li>crwdns461416:0crwdne461416:0</li>
+    <li>crwdns461418:0crwdne461418:0</li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>crwdns461420:0[settlement_label]crwdne461420:0</li>
+    <li>crwdns461422:0[settlement_label]crwdne461422:0</li>
+    <li>crwdns461424:0[settlement_label]crwdne461424:0</li>
+    <li>crwdns461426:0[settlement_label]crwdne461426:0</li>
+    <li>crwdns461428:0[special]crwdnd461428:0[trade]crwdne461428:0</li>
+    <li>crwdns461430:0crwdne461430:0</li>
+    <li>crwdns461432:0crwdne461432:0</li>
+    <li>crwdns461434:0crwdne461434:0</li>
+    <li>crwdns461436:0crwdne461436:0</li>
+    <li>crwdns461438:0crwdne461438:0</li>
+    <li>crwdns461440:0crwdne461440:0</li>
+    <li>crwdns461442:0crwdne461442:0</li>
+  </TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>crwdns461444:0[resolvedQuestName]crwdne461444:0</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>crwdns461446:0[faction_name]crwdne461446:0</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>crwdns461448:0[asker_faction_royalFavorLabel]crwdne461448:0</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>crwdns461450:0[asker_faction_royalFavorLabel]crwdne461450:0</TradeRequest.LetterTextFavorReceiver.slateRef>
+</LanguageData>
