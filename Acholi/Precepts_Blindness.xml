@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blinding_Horrible.label>crwdns436196:0crwdne436196:0</Blinding_Horrible.label>
-  <Blinding_Horrible.description>crwdns436198:0crwdne436198:0</Blinding_Horrible.description>
-  <Blinding_Horrible.comps.0.description>crwdns436200:0crwdne436200:0</Blinding_Horrible.comps.0.description>
+  <BlindingCeremony_Know_Horrible.stages.blinding_ceremony.label>crwdns440992:0crwdne440992:0</BlindingCeremony_Know_Horrible.stages.blinding_ceremony.label>
+  <BlindingCeremony_Know_Horrible.stages.blinding_ceremony.description>crwdns440994:0crwdne440994:0</BlindingCeremony_Know_Horrible.stages.blinding_ceremony.description>
   
-  <Blindness_Elevated.label>crwdns436202:0crwdne436202:0</Blindness_Elevated.label>
-  <Blindness_Elevated.description>crwdns436204:0crwdne436204:0</Blindness_Elevated.description>
-  <Blindness_Elevated.comps.8.eventLabel>crwdns436206:0crwdne436206:0</Blindness_Elevated.comps.8.eventLabel>
+  <BlindingCeremony_Self_Elevated.stages.was_blinded.label>crwdns440996:0crwdne440996:0</BlindingCeremony_Self_Elevated.stages.was_blinded.label>
+  <BlindingCeremony_Self_Elevated.stages.was_blinded.description>crwdns440998:0crwdne440998:0</BlindingCeremony_Self_Elevated.stages.was_blinded.description>
   
-  <Blindness_Respected.label>crwdns436208:0crwdne436208:0</Blindness_Respected.label>
-  <Blindness_Respected.description>crwdns436210:0crwdne436210:0</Blindness_Respected.description>
-  <Blindness_Respected.comps.5.eventLabel>crwdns436212:0crwdne436212:0</Blindness_Respected.comps.5.eventLabel>
+  <BlindingCeremony_Self_Respected.stages.was_blinded.label>crwdns441000:0crwdne441000:0</BlindingCeremony_Self_Respected.stages.was_blinded.label>
+  <BlindingCeremony_Self_Respected.stages.was_blinded.description>crwdns441002:0crwdne441002:0</BlindingCeremony_Self_Respected.stages.was_blinded.description>
   
-  <Blindness_Sublime.label>crwdns436214:0crwdne436214:0</Blindness_Sublime.label>
-  <Blindness_Sublime.description>crwdns436216:0crwdne436216:0</Blindness_Sublime.description>
-  <Blindness_Sublime.comps.8.eventLabel>crwdns436218:0crwdne436218:0</Blindness_Sublime.comps.8.eventLabel>
+  <BlindingCeremony_Self_Sublime.stages.was_blinded.label>crwdns441004:0crwdne441004:0</BlindingCeremony_Self_Sublime.stages.was_blinded.label>
+  <BlindingCeremony_Self_Sublime.stages.was_blinded.description>crwdns441006:0crwdne441006:0</BlindingCeremony_Self_Sublime.stages.was_blinded.description>
+  
+  <Blindness_ArtificialBlind.stages.vision_blocked.label>crwdns441008:0crwdne441008:0</Blindness_ArtificialBlind.stages.vision_blocked.label>
+  <Blindness_ArtificialBlind.stages.vision_blocked.description>crwdns441010:0crwdne441010:0</Blindness_ArtificialBlind.stages.vision_blocked.description>
+  
+  <Blindness_Elevated_Blind.stages.blind.label>crwdns441012:0crwdne441012:0</Blindness_Elevated_Blind.stages.blind.label>
+  <Blindness_Elevated_Blind.stages.blind.description>crwdns441014:0crwdne441014:0</Blindness_Elevated_Blind.stages.blind.description>
+  
+  <Blindness_Elevated_Blind_Social.stages.blind.label>crwdns441016:0crwdne441016:0</Blindness_Elevated_Blind_Social.stages.blind.label>
+  
+  <Blindness_Elevated_HalfBlind.stages.halfblind.label>crwdns441018:0crwdne441018:0</Blindness_Elevated_HalfBlind.stages.halfblind.label>
+  <Blindness_Elevated_HalfBlind.stages.halfblind.description>crwdns441020:0crwdne441020:0</Blindness_Elevated_HalfBlind.stages.halfblind.description>
+  
+  <Blindness_Elevated_HalfBlind_Social.stages.halfblind.label>crwdns441022:0crwdne441022:0</Blindness_Elevated_HalfBlind_Social.stages.halfblind.label>
+  
+  <Blindness_Elevated_NonBlind.stages.not_blind.label>crwdns441024:0crwdne441024:0</Blindness_Elevated_NonBlind.stages.not_blind.label>
+  <Blindness_Elevated_NonBlind.stages.not_blind.description>crwdns441026:0crwdne441026:0</Blindness_Elevated_NonBlind.stages.not_blind.description>
+  
+  <Blindness_Elevated_NonBlind_Social.stages.sighted.label>crwdns441028:0crwdne441028:0</Blindness_Elevated_NonBlind_Social.stages.sighted.label>
+  
+  <Blindness_Respected_Blind.stages.blind.label>crwdns441030:0crwdne441030:0</Blindness_Respected_Blind.stages.blind.label>
+  <Blindness_Respected_Blind.stages.blind.description>crwdns441032:0crwdne441032:0</Blindness_Respected_Blind.stages.blind.description>
+  
+  <Blindness_Respected_Blind_Social.stages.blind.label>crwdns441034:0crwdne441034:0</Blindness_Respected_Blind_Social.stages.blind.label>
+  
+  <Blindness_Respected_NonBlind_Social.stages.sighted.label>crwdns441036:0crwdne441036:0</Blindness_Respected_NonBlind_Social.stages.sighted.label>
+  
+  <Blindness_Sublime_Blind.stages.blind.label>crwdns441038:0crwdne441038:0</Blindness_Sublime_Blind.stages.blind.label>
+  <Blindness_Sublime_Blind.stages.blind.description>crwdns441040:0crwdne441040:0</Blindness_Sublime_Blind.stages.blind.description>
+  
+  <Blindness_Sublime_Blind_Social.stages.blind.label>crwdns441042:0crwdne441042:0</Blindness_Sublime_Blind_Social.stages.blind.label>
+  
+  <Blindness_Sublime_HalfBlind.stages.halfblind.label>crwdns441044:0crwdne441044:0</Blindness_Sublime_HalfBlind.stages.halfblind.label>
+  <Blindness_Sublime_HalfBlind.stages.halfblind.description>crwdns441046:0crwdne441046:0</Blindness_Sublime_HalfBlind.stages.halfblind.description>
+  
+  <Blindness_Sublime_HalfBlind_Social.stages.halfblind.label>crwdns441048:0crwdne441048:0</Blindness_Sublime_HalfBlind_Social.stages.halfblind.label>
+  
+  <Blindness_Sublime_NonBlind.stages.not_blind.label>crwdns441050:0crwdne441050:0</Blindness_Sublime_NonBlind.stages.not_blind.label>
+  <Blindness_Sublime_NonBlind.stages.not_blind.description>crwdns441052:0crwdne441052:0</Blindness_Sublime_NonBlind.stages.not_blind.description>
+  
+  <Blindness_Sublime_NonBlind_Social.stages.sighted.label>crwdns441054:0crwdne441054:0</Blindness_Sublime_NonBlind_Social.stages.sighted.label>
 </LanguageData>
