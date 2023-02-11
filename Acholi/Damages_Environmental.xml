@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Burn.label>crwdns456526:0crwdne456526:0</Burn.label>
+  <Burn.deathMessage>crwdns456528:0{0}crwdne456528:0</Burn.deathMessage>
+  
+  <Flame.label>crwdns456530:0crwdne456530:0</Flame.label>
+  <Flame.deathMessage>crwdns456532:0{0}crwdne456532:0</Flame.deathMessage>
+  
+  <Frostbite.label>crwdns456534:0crwdne456534:0</Frostbite.label>
+  <Frostbite.deathMessage>crwdns456536:0{0}crwdne456536:0</Frostbite.deathMessage>
+  
+  <TornadoScratch.label>crwdns456538:0crwdne456538:0</TornadoScratch.label>
+  <TornadoScratch.deathMessage>crwdns456540:0{0}crwdne456540:0</TornadoScratch.deathMessage>
+</LanguageData>
