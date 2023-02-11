@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cosmetic.label>crwdns456998:0crwdne456998:0</Cosmetic.label>
+  <Hair_Blonde.label>crwdns457006:0crwdne457006:0</Hair_Blonde.label>
+  <Hair_Blonde.description>crwdns457008:0crwdne457008:0</Hair_Blonde.description>
   
-  <Cosmetic_Hair.label>crwdns457000:0crwdne457000:0</Cosmetic_Hair.label>
+  <Hair_BrightRed.label>crwdns457010:0crwdne457010:0</Hair_BrightRed.label>
+  <Hair_BrightRed.description>crwdns457012:0crwdne457012:0</Hair_BrightRed.description>
   
-  <Cosmetic_Skin.label>crwdns457002:0crwdne457002:0</Cosmetic_Skin.label>
+  <Hair_DarkBlack.label>crwdns457014:0crwdne457014:0</Hair_DarkBlack.label>
+  <Hair_DarkBlack.description>crwdns457016:0crwdne457016:0</Hair_DarkBlack.description>
   
-  <Miscellaneous.label>crwdns457004:0crwdne457004:0</Miscellaneous.label>
+  <Hair_DarkBrown.label>crwdns457018:0crwdne457018:0</Hair_DarkBrown.label>
+  <Hair_DarkBrown.description>crwdns457020:0crwdne457020:0</Hair_DarkBrown.description>
+  
+  <Hair_DarkReddish.label>crwdns457022:0crwdne457022:0</Hair_DarkReddish.label>
+  <Hair_DarkReddish.description>crwdns457024:0crwdne457024:0</Hair_DarkReddish.description>
+  
+  <Hair_DarkSaturatedReddish.label>crwdns457026:0crwdne457026:0</Hair_DarkSaturatedReddish.label>
+  <Hair_DarkSaturatedReddish.description>crwdns457028:0crwdne457028:0</Hair_DarkSaturatedReddish.description>
+  
+  <Hair_Gray.label>crwdns457030:0crwdne457030:0</Hair_Gray.label>
+  <Hair_Gray.description>crwdns457032:0crwdne457032:0</Hair_Gray.description>
+  
+  <Hair_InkBlack.label>crwdns457034:0crwdne457034:0</Hair_InkBlack.label>
+  <Hair_InkBlack.description>crwdns457036:0crwdne457036:0</Hair_InkBlack.description>
+  
+  <Hair_LightBlue.label>crwdns457038:0crwdne457038:0</Hair_LightBlue.label>
+  <Hair_LightBlue.description>crwdns457040:0crwdne457040:0</Hair_LightBlue.description>
+  
+  <Hair_LightGreen.label>crwdns457042:0crwdne457042:0</Hair_LightGreen.label>
+  <Hair_LightGreen.description>crwdns457044:0crwdne457044:0</Hair_LightGreen.description>
+  
+  <Hair_LightOrange.label>crwdns457046:0crwdne457046:0</Hair_LightOrange.label>
+  <Hair_LightOrange.description>crwdns457048:0crwdne457048:0</Hair_LightOrange.description>
+  
+  <Hair_LightPurple.label>crwdns457050:0crwdne457050:0</Hair_LightPurple.label>
+  <Hair_LightPurple.description>crwdns457052:0crwdne457052:0</Hair_LightPurple.description>
+  
+  <Hair_LightTeal.label>crwdns457054:0crwdne457054:0</Hair_LightTeal.label>
+  <Hair_LightTeal.description>crwdns457056:0crwdne457056:0</Hair_LightTeal.description>
+  
+  <Hair_MidBlack.label>crwdns457058:0crwdne457058:0</Hair_MidBlack.label>
+  <Hair_MidBlack.description>crwdns457060:0crwdne457060:0</Hair_MidBlack.description>
+  
+  <Hair_Pink.label>crwdns457062:0crwdne457062:0</Hair_Pink.label>
+  <Hair_Pink.description>crwdns457064:0crwdne457064:0</Hair_Pink.description>
+  
+  <Hair_ReddishBrown.label>crwdns457066:0crwdne457066:0</Hair_ReddishBrown.label>
+  <Hair_ReddishBrown.description>crwdns457068:0crwdne457068:0</Hair_ReddishBrown.description>
+  
+  <Hair_SandyBlonde.label>crwdns457070:0crwdne457070:0</Hair_SandyBlonde.label>
+  <Hair_SandyBlonde.description>crwdns457072:0crwdne457072:0</Hair_SandyBlonde.description>
+  
+  <Hair_SnowWhite.label>crwdns457074:0crwdne457074:0</Hair_SnowWhite.label>
+  <Hair_SnowWhite.description>crwdns457076:0crwdne457076:0</Hair_SnowWhite.description>
+  
+  <Skin_Melanin1.label>crwdns457078:0crwdne457078:0</Skin_Melanin1.label>
+  <Skin_Melanin1.description>crwdns457080:0crwdne457080:0</Skin_Melanin1.description>
+  
+  <Skin_Melanin2.label>crwdns457082:0crwdne457082:0</Skin_Melanin2.label>
+  <Skin_Melanin2.description>crwdns457084:0crwdne457084:0</Skin_Melanin2.description>
+  
+  <Skin_Melanin3.label>crwdns457086:0crwdne457086:0</Skin_Melanin3.label>
+  <Skin_Melanin3.description>crwdns457088:0crwdne457088:0</Skin_Melanin3.description>
+  
+  <Skin_Melanin4.label>crwdns457090:0crwdne457090:0</Skin_Melanin4.label>
+  <Skin_Melanin4.description>crwdns457092:0crwdne457092:0</Skin_Melanin4.description>
+  
+  <Skin_Melanin5.label>crwdns457094:0crwdne457094:0</Skin_Melanin5.label>
+  <Skin_Melanin5.description>crwdns457096:0crwdne457096:0</Skin_Melanin5.description>
+  
+  <Skin_Melanin6.label>crwdns457098:0crwdne457098:0</Skin_Melanin6.label>
+  <Skin_Melanin6.description>crwdns457100:0crwdne457100:0</Skin_Melanin6.description>
+  
+  <Skin_Melanin7.label>crwdns457102:0crwdne457102:0</Skin_Melanin7.label>
+  <Skin_Melanin7.description>crwdns457104:0crwdne457104:0</Skin_Melanin7.description>
+  
+  <Skin_Melanin8.label>crwdns457106:0crwdne457106:0</Skin_Melanin8.label>
+  <Skin_Melanin8.description>crwdns457108:0crwdne457108:0</Skin_Melanin8.description>
+  
+  <Skin_Melanin9.label>crwdns457110:0crwdne457110:0</Skin_Melanin9.label>
+  <Skin_Melanin9.description>crwdns457112:0crwdne457112:0</Skin_Melanin9.description>
 </LanguageData>
