@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CultureSpacer.rulePack.rulesStrings>
+    <li>crwdns439042:0crwdne439042:0</li>
+    <li>crwdns439044:0crwdne439044:0</li>
+    <li>crwdns439046:0crwdne439046:0</li>
+    <li>crwdns439048:0crwdne439048:0</li>
+    <li>crwdns439050:0crwdne439050:0</li>
+    <li>crwdns439052:0crwdne439052:0</li>
+  </CultureSpacer.rulePack.rulesStrings>
+  
+  <NamerIdeoCorunan.rulePack.rulesStrings>
+    <li>crwdns439054:0crwdne439054:0</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
+  
+  <NamerIdeoGlobal.rulePack.rulesStrings>
+    <li>crwdns439056:0[keyDeity]crwdne439056:0</li>
+    <li>crwdns439058:0[hyphenPrefix]crwdnd439058:0[keyDeity]crwdne439058:0</li>
+    <li>crwdns439060:0[keyDeity]crwdnd439060:0[creed]crwdne439060:0</li>
+    <li>crwdns439062:0[creed]crwdnd439062:0[keyDeity]crwdne439062:0</li>
+    <li>crwdns439064:0[keyDeity]crwdne439064:0</li>
+    <li>crwdns439066:0[keyDeity]crwdne439066:0</li>
+    <li>crwdns439068:0[keyDeity]crwdne439068:0</li>
+    <li>crwdns439070:0[packIdeoName]crwdne439070:0</li>
+    <li>crwdns439072:0[hyphenPrefix]crwdnd439072:0[packIdeoName]crwdne439072:0</li>
+    <li>crwdns439074:0[hyphenPrefix]crwdnd439074:0[packIdeoNameStructure]crwdne439074:0</li>
+    <li>crwdns439076:0[memeAdjective]crwdnd439076:0[creed]crwdne439076:0</li>
+    <li>crwdns439078:0[creed]crwdnd439078:0[packTheme]crwdne439078:0</li>
+    <li>crwdns439080:0[place_adjective]crwdnd439080:0[creed]crwdne439080:0</li>
+    <li>crwdns439082:0[memeCreed]crwdne439082:0</li>
+    <li>crwdns439084:0[packAdjective]crwdne439084:0</li>
+    <li>crwdns439086:0[packMember]crwdne439086:0</li>
+    <li>crwdns439088:0[memeCreed]crwdne439088:0</li>
+    <li>crwdns439090:0[genericCreed]crwdne439090:0</li>
+    <li>crwdns439092:0crwdne439092:0</li>
+    <li>crwdns439094:0crwdne439094:0</li>
+    <li>crwdns439096:0crwdne439096:0</li>
+    <li>crwdns439098:0crwdne439098:0</li>
+    <li>crwdns439100:0[globalHyphenPrefix]crwdne439100:0</li>
+    <li>crwdns439102:0[memeHyphenPrefix]crwdne439102:0</li>
+    <li>crwdns439104:0crwdne439104:0</li>
+    <li>crwdns439106:0crwdne439106:0</li>
+    <li>crwdns439108:0crwdne439108:0</li>
+    <li>crwdns439110:0crwdne439110:0</li>
+    <li>crwdns439112:0crwdne439112:0</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
+</LanguageData>
