@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NutrientPasteEating_DontMind.label>신경 쓰지 않음</NutrientPasteEating_DontMind.label>
-  <NutrientPasteEating_DontMind.description>There's nothing wrong with a meal of efficient, healthy nutrient paste.</NutrientPasteEating_DontMind.description>
+  <AteNutrientPaste.label>영양 죽 먹음</AteNutrientPaste.label>
 </LanguageData>
