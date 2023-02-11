@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Alpaca.label>crwdns460940:0crwdne460940:0</Alpaca.label>
+  <Alpaca.label>crwdns473570:0crwdne473570:0</Alpaca.label>
+  <Alpaca.description>crwdns473572:0crwdne473572:0</Alpaca.description>
+  <Alpaca.tools.left_hoof.label>crwdns473574:0crwdne473574:0</Alpaca.tools.left_hoof.label>
+  <Alpaca.tools.right_hoof.label>crwdns473576:0crwdne473576:0</Alpaca.tools.right_hoof.label>
+  <Alpaca.tools.head.label>crwdns473578:0crwdne473578:0</Alpaca.tools.head.label>
   
-  <Capybara.label>crwdns460942:0crwdne460942:0</Capybara.label>
+  <Capybara.label>crwdns473580:0crwdne473580:0</Capybara.label>
+  <Capybara.description>crwdns473582:0crwdne473582:0</Capybara.description>
+  <Capybara.tools.left_claw.label>crwdns473584:0crwdne473584:0</Capybara.tools.left_claw.label>
+  <Capybara.tools.right_claw.label>crwdns473586:0crwdne473586:0</Capybara.tools.right_claw.label>
+  <Capybara.tools.head.label>crwdns473588:0crwdne473588:0</Capybara.tools.head.label>
   
-  <Megasloth.label>crwdns460944:0crwdne460944:0</Megasloth.label>
+  <Megasloth.label>crwdns473590:0crwdne473590:0</Megasloth.label>
+  <Megasloth.description>crwdns473592:0crwdne473592:0</Megasloth.description>
+  <Megasloth.tools.left_claw.label>crwdns473594:0crwdne473594:0</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.right_claw.label>crwdns473596:0crwdne473596:0</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.head.label>crwdns473598:0crwdne473598:0</Megasloth.tools.head.label>
   
-  <Sheep.label>crwdns460946:0crwdne460946:0</Sheep.label>
-  <Sheep.labelFemale>crwdns460948:0crwdne460948:0</Sheep.labelFemale>
-  <Sheep.labelMale>crwdns460950:0crwdne460950:0</Sheep.labelMale>
-  <Sheep.labelPlural>crwdns460952:0crwdne460952:0</Sheep.labelPlural>
-  <Sheep.lifeStages.lamb.label>crwdns460954:0crwdne460954:0</Sheep.lifeStages.lamb.label>
-  <Sheep.lifeStages.lamb.labelPlural>crwdns460956:0crwdne460956:0</Sheep.lifeStages.lamb.labelPlural>
+  <Sheep.label>crwdns473600:0crwdne473600:0</Sheep.label>
+  <Sheep.description>crwdns473602:0crwdne473602:0</Sheep.description>
+  <Sheep.tools.head.label>crwdns473604:0crwdne473604:0</Sheep.tools.head.label>
+  <Sheep.tools.left_hoof.label>crwdns473606:0crwdne473606:0</Sheep.tools.left_hoof.label>
+  <Sheep.tools.right_hoof.label>crwdns473608:0crwdne473608:0</Sheep.tools.right_hoof.label>
 </LanguageData>
