@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SanguophageMeetingHost.questContentRules.rulesStrings>
+    <li>crwdns425058:0crwdne425058:0</li>
+    <li>crwdns425060:0[sanguophageCount]crwdnd425060:0[map_definite]crwdne425060:0</li>
+    <li>crwdns425062:0crwdne425062:0</li>
+    <li>crwdns425064:0crwdne425064:0</li>
+    <li>crwdns425066:0crwdne425066:0</li>
+    <li>crwdns425068:0crwdne425068:0</li>
+    <li>crwdns425070:0crwdne425070:0</li>
+    <li>crwdns425072:0[enemyFaction_name]crwdne425072:0</li>
+  </SanguophageMeetingHost.questContentRules.rulesStrings>
+  <SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+    <li>crwdns425074:0[asker_nameDef]crwdnd425074:0[sanguophageCountMinusOne]crwdnd425074:0[sanguophageSingOrPlural]crwdnd425074:0[asker_nameDef]crwdnd425074:0[map_definite]crwdnd425074:0[sanguophageCount]crwdnd425074:0[map_definite]crwdnd425074:0[sanguophageInfo]crwdne425074:0</li>
+    <li>crwdns425076:0crwdne425076:0</li>
+    <li>crwdns425078:0crwdne425078:0</li>
+    <li>crwdns425080:0crwdne425080:0</li>
+  </SanguophageMeetingHost.questDescriptionRules.rulesStrings>
+  <SanguophageMeetingHost.questNameRules.rulesStrings>
+    <li>crwdns425082:0[meetAdjective]crwdnd425082:0[meetNoun]crwdne425082:0</li>
+    <li>crwdns425084:0crwdne425084:0</li>
+    <li>crwdns425086:0crwdne425086:0</li>
+    <li>crwdns425088:0crwdne425088:0</li>
+    <li>crwdns425090:0crwdne425090:0</li>
+    <li>crwdns425092:0crwdne425092:0</li>
+    <li>crwdns425094:0crwdne425094:0</li>
+    <li>crwdns425096:0crwdne425096:0</li>
+    <li>crwdns425098:0crwdne425098:0</li>
+    <li>crwdns425100:0crwdne425100:0</li>
+    <li>crwdns425102:0crwdne425102:0</li>
+    <li>crwdns425104:0crwdne425104:0</li>
+    <li>crwdns425106:0crwdne425106:0</li>
+    <li>crwdns425108:0crwdne425108:0</li>
+    <li>crwdns425110:0crwdne425110:0</li>
+    <li>crwdns425112:0crwdne425112:0</li>
+    <li>crwdns425114:0crwdne425114:0</li>
+    <li>crwdns425116:0crwdne425116:0</li>
+    <li>crwdns425118:0crwdne425118:0</li>
+  </SanguophageMeetingHost.questNameRules.rulesStrings>
+</LanguageData>
