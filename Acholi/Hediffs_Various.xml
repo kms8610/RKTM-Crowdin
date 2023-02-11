@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BioStarvation.label>crwdns423570:0crwdne423570:0</BioStarvation.label>
+  <BioStarvation.description>crwdns423572:0crwdne423572:0</BioStarvation.description>
+  
+  <Deathrest.label>crwdns423574:0crwdne423574:0</Deathrest.label>
+  <Deathrest.description>crwdns423576:0crwdne423576:0</Deathrest.description>
+  
+  <DeathrestExhaustion.label>crwdns423578:0crwdne423578:0</DeathrestExhaustion.label>
+  <DeathrestExhaustion.description>crwdns423580:0crwdne423580:0</DeathrestExhaustion.description>
+  
+  <GeneticDrugNeed.label>crwdns423582:0crwdne423582:0</GeneticDrugNeed.label>
+  <GeneticDrugNeed.description>crwdns423584:0crwdne423584:0</GeneticDrugNeed.description>
+  <GeneticDrugNeed.stages.deficiency.label>crwdns423586:0crwdne423586:0</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.2.overrideLabel>crwdns423588:0crwdne423588:0</GeneticDrugNeed.stages.2.overrideLabel>
+  
+  <HemogenCraving.label>crwdns423590:0crwdne423590:0</HemogenCraving.label>
+  <HemogenCraving.description>crwdns423592:0crwdne423592:0</HemogenCraving.description>
+  <HemogenCraving.stages.minor.label>crwdns423594:0crwdne423594:0</HemogenCraving.stages.minor.label>
+  <HemogenCraving.stages.moderate.label>crwdns423596:0crwdne423596:0</HemogenCraving.stages.moderate.label>
+  <HemogenCraving.stages.major.label>crwdns423598:0crwdne423598:0</HemogenCraving.stages.major.label>
+  
+  <InterruptedDeathrest.label>crwdns423600:0crwdne423600:0</InterruptedDeathrest.label>
+  <InterruptedDeathrest.description>crwdns423602:0crwdne423602:0</InterruptedDeathrest.description>
+  
+  <PsychicBond.label>crwdns423604:0crwdne423604:0</PsychicBond.label>
+  <PsychicBond.description>crwdns423606:0crwdne423606:0</PsychicBond.description>
+  <PsychicBond.stages.0.extraTooltip>crwdns423608:0crwdne423608:0</PsychicBond.stages.0.extraTooltip>
+  <PsychicBond.stages.0.overrideLabel>crwdns423610:0crwdne423610:0</PsychicBond.stages.0.overrideLabel>
+  <PsychicBond.stages.1.extraTooltip>crwdns423612:0crwdne423612:0</PsychicBond.stages.1.extraTooltip>
+  <PsychicBond.stages.1.overrideLabel>crwdns423614:0crwdne423614:0</PsychicBond.stages.1.overrideLabel>
+  
+  <PsychicBondTorn.label>crwdns423616:0crwdne423616:0</PsychicBondTorn.label>
+  <PsychicBondTorn.description>crwdns423618:0crwdne423618:0</PsychicBondTorn.description>
+  
+  <RegenerationComa.label>crwdns423620:0crwdne423620:0</RegenerationComa.label>
+  <RegenerationComa.description>crwdns423622:0crwdne423622:0</RegenerationComa.description>
+  
+  <ScanningSickness.label>crwdns423624:0crwdne423624:0</ScanningSickness.label>
+  <ScanningSickness.description>crwdns423626:0crwdne423626:0</ScanningSickness.description>
+  
+  <VatGrowing.label>crwdns423628:0crwdne423628:0</VatGrowing.label>
+  <VatGrowing.description>crwdns423630:0crwdne423630:0</VatGrowing.description>
+  
+  <VatLearning.label>crwdns423632:0crwdne423632:0</VatLearning.label>
+  <VatLearning.description>crwdns423634:0crwdne423634:0</VatLearning.description>
+  
+  <XenogermLossShock.label>crwdns423636:0crwdne423636:0</XenogermLossShock.label>
+  <XenogermLossShock.description>crwdns423638:0crwdne423638:0</XenogermLossShock.description>
+  
+  <XenogermReplicating.label>crwdns423640:0crwdne423640:0</XenogermReplicating.label>
+  <XenogermReplicating.description>crwdns423642:0crwdne423642:0</XenogermReplicating.description>
+  <XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>crwdns423644:0{PAWN_nameDef}crwdne423644:0</XenogermReplicating.comps.HediffComp_Disappears.messageOnDisappear>
+  
+  <XenogerminationComa.label>crwdns423646:0crwdne423646:0</XenogerminationComa.label>
+  <XenogerminationComa.description>crwdns423648:0crwdne423648:0</XenogerminationComa.description>
+</LanguageData>
