@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ability.label>special abilities</Ability.label>
+  <Ability.label>특수능력</Ability.label>
   
-  <Aptitudes.label>aptitudes</Aptitudes.label>
+  <Aptitudes.label>적성</Aptitudes.label>
   
-  <Archite.label>archite</Archite.label>
+  <Archite.label>초월입자</Archite.label>
   
-  <Beauty.label>beauty</Beauty.label>
+  <Beauty.label>미관</Beauty.label>
   
-  <Cosmetic_Body.label>cosmetic - body type</Cosmetic_Body.label>
+  <Cosmetic_Body.label>외형 - 신체</Cosmetic_Body.label>
   
-  <Drugs.label>drugs</Drugs.label>
+  <Drugs.label>약물</Drugs.label>
   
-  <Healing.label>health</Healing.label>
+  <Healing.label>건강</Healing.label>
   
-  <Hemogen.label>hemogen</Hemogen.label>
+  <Hemogen.label>혈액정수</Hemogen.label>
   
-  <Mood.label>mood</Mood.label>
+  <Mood.label>기분</Mood.label>
   
-  <Movement.label>movement</Movement.label>
+  <Movement.label>이동</Movement.label>
   
-  <Pain.label>pain</Pain.label>
+  <Pain.label>고통</Pain.label>
   
-  <Psychic.label>psychics</Psychic.label>
+  <Psychic.label>초능력</Psychic.label>
   
-  <Reproduction.label>reproduction</Reproduction.label>
+  <Reproduction.label>생식</Reproduction.label>
   
-  <ResistanceAndWeakness.label>resistance and sensitivity</ResistanceAndWeakness.label>
+  <ResistanceAndWeakness.label>저항과 민감성</ResistanceAndWeakness.label>
   
-  <Sleep.label>sleep</Sleep.label>
+  <Sleep.label>수면</Sleep.label>
   
-  <Temperature.label>temperature</Temperature.label>
+  <Temperature.label>온도</Temperature.label>
   
-  <Violence.label>violence</Violence.label>
+  <Violence.label>폭력</Violence.label>
 </LanguageData>
