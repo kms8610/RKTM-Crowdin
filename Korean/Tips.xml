@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoligionTips.SlaveWorkEfficiency>노예는 동기가 약하기 때문에 일반 정착민보다 더 느리게 일합니다.</IdeoligionTips.SlaveWorkEfficiency>
-  <IdeoligionTips.TerrorRadius>공포를 유발하는 건물은 5칸 안에 있는 모두에게 영향을 끼칩니다.</IdeoligionTips.TerrorRadius>
-  <IdeoligionTips.SleepAcceleratorNaps>수면 가속기는 수면의 질을 향상하지만 배고픔 또한 증가시킵니다. 수면 중의 굶주림을 예방하기 위해 짧은 낮잠 시간을 할당하는 걸 고려하세요.</IdeoligionTips.SleepAcceleratorNaps>
+  <RoyaltyTips.TitleMilitaryAid>어떤 작위의 소유자는 군사 지원을 요청할 수 있습니다. 위험한 순간에 구원의 길이 될지도 모릅니다.</RoyaltyTips.TitleMilitaryAid>
+  <RoyaltyTips.NoblesDemandPrivileges>제국의 귀족들은 작위에 걸맞은 특권을 요구합니다. 탐욕이나 질투 특성이 없는 한, 정착민 출신 귀족은 조금 더 유연하게 행동합니다.</RoyaltyTips.NoblesDemandPrivileges>
+  <RoyaltyTips.RoyalArmor>장교 갑옷과 엘텍스 의복은 왕실 의복 조건을 충족합니다.</RoyaltyTips.RoyalArmor>
+  <RoyaltyTips.TitleInheritance>작위 보유자가 사망하면 작위는 선택된 상속자에게 넘어갑니다.</RoyaltyTips.TitleInheritance>
+  <RoyaltyTips.ChangeHeir>통신기를 통해 왕실 작위의 상속자를 변경할 수 있으나, 상속 의식을 치뤄야 합니다.</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.FreePsychicAmplifier>제국은 작위 보유자에게 작위에 걸맞은 수준의 정신력 증폭기를 수여합니다.</RoyaltyTips.FreePsychicAmplifier>
+  <RoyaltyTips.IllegalImplantUse>정신력 증폭기는 임무를 통해 얻을 수 있습니다. 증폭기를 사용한 사람은 초능력을 얻게 됩니다.</RoyaltyTips.IllegalImplantUse>
+  <RoyaltyTips.InstallingPsychicAmplifier>정신력 증폭 단계가 높아질 때마다 하나의 무작위 초집중 능력을 얻게 됩니다.</RoyaltyTips.InstallingPsychicAmplifier>
+  <RoyaltyTips.PsycastAdvantage>초능력을 활용하면 전투에서 상당한 이점을 얻을 수 있습니다.</RoyaltyTips.PsycastAdvantage>
+  <RoyaltyTips.PsycastFactionRelations>동맹에게 부정적인 초능력을 시전할 때만 관계에 영향을 미칩니다.</RoyaltyTips.PsycastFactionRelations>
+  <RoyaltyTips.PsycastInvisibility>공격해도 투명화 초능력의 효과는 사라지지 않습니다.</RoyaltyTips.PsycastInvisibility>
+  <RoyaltyTips.PsychicEntropyLimit>신경열 한계를 초과하면 위급한 순간을 해소할 수 있지만 잠시 지속되는 정신 혼란 상태에 빠집니다.</RoyaltyTips.PsychicEntropyLimit>
+  <RoyaltyTips.PsycastSensitivity>정신 감응력이 높은 생물은 초능력에 더 많은 영향을 받습니다.</RoyaltyTips.PsycastSensitivity>
+  <RoyaltyTips.EltexGear>초능력자가 초집중 장비를 장착하면 신경열 한계와 감소 속도가 증가합니다.</RoyaltyTips.EltexGear>
+  <RoyaltyTips.MechClusterPowercell>메카노이드 전초기지를 공격할 때는 불안정한 발전기를 노려보세요. 폭발하면서 주변에 큰 피해를 줍니다.</RoyaltyTips.MechClusterPowercell>
+  <RoyaltyTips.MechClusterDormant>몇몇 메카노이드 전초기지는 방해를 받기 전까지 휴면합니다. 그 시간을 이용해 공격 준비를 하세요.</RoyaltyTips.MechClusterDormant>
+  <RoyaltyTips.RoyalTributeCollector>공물 징수인은 1년에 두 번 도착하며, 신임장을 발행하는 대가로 포로와 금을 받습니다.</RoyaltyTips.RoyalTributeCollector>
+  <RoyaltyTips.MechClusterDormantTrigger>휴면 중인 메카노이드 전초기지는 공격하거나 경보 장치를 자극하지 않는 한 안전합니다.</RoyaltyTips.MechClusterDormantTrigger>
+  <RoyaltyTips.SkipPsycastsMultiuse>도약 초능력은 자신, 아군, 적, 심지어 물품에도 사용할 수 있습니다. 전술적 가능성은 무궁무진합니다.</RoyaltyTips.SkipPsycastsMultiuse>
+  <RoyaltyTips.JumpPackRescue>점프팩을 사용 중일 때도 쓰러진 아군을 들쳐 멜 수 있습니다. 공중 구조로 목숨을 살리세요.</RoyaltyTips.JumpPackRescue>
 </LanguageData>
