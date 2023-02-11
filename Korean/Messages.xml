@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
-  <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort}'s pregnancy progressed from 1st to 2nd trimester.</MessageColonistReaching2ndTrimesterPregnancy>
-  <MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort}'s pregnancy progressed from 2nd to 3rd trimester.</MessageColonistReaching3rdTrimesterPregnancy>
-  <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort}'s labor has begun the final stages.</MessageColonistInFinalStagesOfLabor>
+  <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort}의 임신이 제1삼분기에서 제2삼분기로 진행했습니다.</MessageColonistReaching2ndTrimesterPregnancy>
+  <MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort}의 임신이 제2삼분기에서 제3삼분기로 진행했습니다.</MessageColonistReaching3rdTrimesterPregnancy>
+  <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort}의 산통이 마지막 단계에 접어들었습니다.</MessageColonistInFinalStagesOfLabor>
 
-  <MessageMechChargerDestroyedMechGoesBerserk>A mech charger was destroyed while {PAWN_nameDef} was charging! The power disruption has scrambled its brain, and it is going berserk.</MessageMechChargerDestroyedMechGoesBerserk>
+  <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef}(이)가 충전하는동안 충전기가 파괴되었습니다! 비정상적인 전력의 흐름이 뇌를 헤집어 광란상태에 빠졌습니다.</MessageMechChargerDestroyedMechGoesBerserk>
 
-  <MessageCantUseOnResistingPerson>Cannot use {ABILITY_label} on anyone who would actively resist.</MessageCantUseOnResistingPerson>
-  <MessageCannotUseOnSameXenotype>{0_labelShort} already has the {0_xenotype} xenotype.</MessageCannotUseOnSameXenotype>
-  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>Xenogerms can only be implanted into colonists, prisoners, and slaves.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
-  <MessageCannotImplantInTempFactionMembers>Cannot implant in temporary faction members.</MessageCannotImplantInTempFactionMembers>
-  <MessageXenogermCompleted>A xenogerm has been completed.</MessageXenogermCompleted>
-  <MessageXenogermCancelledMissingPack>Work on the xenogerm at {0_labelShort} was cancelled: Missing required genepack.</MessageXenogermCancelledMissingPack>
-  <MessageAbsorbingXenogermWillAngerFaction>Absorbing {PAWN_nameDef}'s xenogerm will anger {0}.</MessageAbsorbingXenogermWillAngerFaction>
-  <MessageCannotUseOnOtherFactions>{ABILITY_label} can only be used on colonists, prisoners, and slaves.</MessageCannotUseOnOtherFactions>
-  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} refuses to become a disliked xenotype.</MessageCannotBecomeNonPreferredXenotype>
+  <MessageCantUseOnResistingPerson>저항하는 사람에게는 {ABILITY_label}(을)를 사용할 수 없습니다.</MessageCantUseOnResistingPerson>
+  <MessageCannotUseOnSameXenotype>{0_labelShort}(은)는 이미 {0_xenotype} 인종형을 가지고 있습니다.</MessageCannotUseOnSameXenotype>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>변형이식체는 정착민, 수감자, 혹은 노예에게만 삽입할 수 있습니다.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCannotImplantInTempFactionMembers>임시 구성원에게 이식할 수 없습니다.</MessageCannotImplantInTempFactionMembers>
+  <MessageXenogermCompleted>변형이식체가 완성됐습니다.</MessageXenogermCompleted>
+  <MessageXenogermCancelledMissingPack>{0_labelShort}에서 변형이식체 작업이 취소됨: 필요한 유전자묶음이 없습니다.</MessageXenogermCancelledMissingPack>
+  <MessageAbsorbingXenogermWillAngerFaction>{PAWN_nameDef}의 변형이식체를 흡수하면 {0} 세력이 분노하게 됩니다.</MessageAbsorbingXenogermWillAngerFaction>
+  <MessageCannotUseOnOtherFactions>{ABILITY_label}(은)는 정착민, 수감자, 혹은 노예에게만 사용할 수 있습니다.</MessageCannotUseOnOtherFactions>
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort}(은)는 싫어하는 인종형이 되는 것을 거부했습니다.</MessageCannotBecomeNonPreferredXenotype>
 
-  <MessageCaravanAddingEscortingMech>Auto-adding {MECH_nameDef} to the caravan, since it is escorting {OVERSEER_nameDef}</MessageCaravanAddingEscortingMech> 
-  <MessageCaravanRemovingEscortingMech>Auto-removing {MECH_nameDef} from the caravan, since it is escorting {OVERSEER_nameDef}</MessageCaravanRemovingEscortingMech>
+  <MessageCaravanAddingEscortingMech>{OVERSEER_nameDef}(을)를 호위하기 위해 상단에 {MECH_nameDef}(을)를 자동으로 추가</MessageCaravanAddingEscortingMech> 
+  <MessageCaravanRemovingEscortingMech>{OVERSEER_nameDef}(을)를 호위하기 위해 상단에서 {MECH_nameDef}(을)를 자동으로 제거함</MessageCaravanRemovingEscortingMech>
 
-  <MessageMechanitorCasketOpened>{0} was a mechanitor. You can remove {0_possessive} {1_label} and use it on a colonist.</MessageMechanitorCasketOpened>
+  <MessageMechanitorCasketOpened>{0}(은)는 메카나이터였습니다. {0_possessive} {1_label}(을)를 제거하여 정착민에게 사용할 수 있습니다.</MessageMechanitorCasketOpened>
   
-  <MessageNoBloodfeedersPrisonerInteractionReset>Some prisoners' interaction mode required a bloodfeeder. Since the last bloodfeeder is gone, their interaction modes have reset to "No interaction".</MessageNoBloodfeedersPrisonerInteractionReset>
+  <MessageNoBloodfeedersPrisonerInteractionReset>일부 수감자의 처우에 흡혈인자가 필요했습니다. 마지막 흡혈인자 보유자가 사라졌으므로 처우를 "상호작용 없음"으로 변경했습니다.</MessageNoBloodfeedersPrisonerInteractionReset>
 
-  <MessagePregnancyTerminated>{PAWN_nameDef}'s pregnancy was successfully terminated.</MessagePregnancyTerminated>
+  <MessagePregnancyTerminated>{PAWN_nameDef}(이)가 출산하였습니다.</MessagePregnancyTerminated>
   
   <!-- Pollution -->
-  <MessageAngeredPollutedCell>{0} has been angered ({1})</MessageAngeredPollutedCell>
-  <MessageWarningPollutedCell>Need unpolluted terrain.</MessageWarningPollutedCell>
-  <MessageWarningNotPollutedCell>Need polluted terrain.</MessageWarningNotPollutedCell>
-  <MessagePlantDiedOfPollution>{0} has died because of pollution.</MessagePlantDiedOfPollution>
-  <MessagePlantDiedOfNoPollution>{0} has died because of a lack of pollution.</MessagePlantDiedOfNoPollution>
-  <MessageWorldTilePollutionChanged>Pollution has increased by {0} at {1}.</MessageWorldTilePollutionChanged>
-  <MessageCocoonDisturbed>A cocoon has been disturbed and is opening!</MessageCocoonDisturbed>
-  <MessageCocoonDisturbedPlural>Cocoons have been disturbed and are opening!</MessageCocoonDisturbedPlural>
+  <MessageAngeredPollutedCell>{0}(이)가 화를 냈습니다 ({1})</MessageAngeredPollutedCell>
+  <MessageWarningPollutedCell>오염되지 않은 지형이 필요합니다.</MessageWarningPollutedCell>
+  <MessageWarningNotPollutedCell>오염된 지형이 필요합니다.</MessageWarningNotPollutedCell>
+  <MessagePlantDiedOfPollution>{0}(이)가 오염되어 죽었습니다.</MessagePlantDiedOfPollution>
+  <MessagePlantDiedOfNoPollution>{0}(이)가 오염 부족으로 죽었습니다.</MessagePlantDiedOfNoPollution>
+  <MessageWorldTilePollutionChanged>{1}의 오염이 {0} 증가했습니다.</MessageWorldTilePollutionChanged>
+  <MessageCocoonDisturbed>고치가 방해를 받아 깨어났습니다!</MessageCocoonDisturbed>
+  <MessageCocoonDisturbedPlural>고치가 방해를 받아 깨어났습니다!</MessageCocoonDisturbedPlural>
 
-  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} must be downed before you can force {PAWN_objective} to reimplant {PAWN_possessive} xenogerm.</MessageTargetMustBeDownedToForceReimplant>
+  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}(은)는 {PAWN_possessive} 변형이식체를 다시 이식받기 전에 {PAWN_objective} 눕혀야 합니다.</MessageTargetMustBeDownedToForceReimplant>
 
-  <MessageWorkTypeDisabledAge>{0_nameDef} is only {1} years old. {2} work can only be done from age {3}.</MessageWorkTypeDisabledAge>
+  <MessageWorkTypeDisabledAge>{0_nameDef}(은)는 아직 {1}살 입니다. {2} 작업은 {3}살부터 가능합니다.</MessageWorkTypeDisabledAge>
 
-  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef} can now wake from deathrest safely.</MessageDeathrestingPawnCanWakeSafely>
+  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef}(은)는 이제 안전하게 죽음안식에서 깨어날 수 있습니다.</MessageDeathrestingPawnCanWakeSafely>
 
-  <MessageMechanitorLostControlOfMech>{0_nameDef} has lost control of a {1_kindBase} mech</MessageMechanitorLostControlOfMech>
-  <MessageMechanitorDisconnectedFromMech>{0_nameDef} has disconnected from {1_nameDef} mech.</MessageMechanitorDisconnectedFromMech>
+  <MessageMechanitorLostControlOfMech>{0_nameDef}(이)가 {1_kindBase} 메카의 통제권을 상실했습니다</MessageMechanitorLostControlOfMech>
+  <MessageMechanitorDisconnectedFromMech>{0_nameDef}(이)가 {1_nameDef} 기계에서 연결 해제되었습니다.</MessageMechanitorDisconnectedFromMech>
 
   <!-- Xenogerm -->
-  <MetabolismTooLowToCreateXenogerm>The total metabolism of the selected genes must be {MIN} or higher to continue, but currently it is only {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
-  <ComplexityTooHighToCreateXenogerm>The total complexity of the selected genes must be {MAX} or less to create a xenogerm, but currently it is {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
-  <MessageNoSelectedGenepacks>Cannot create a xenogerm with no genes.</MessageNoSelectedGenepacks>
-  <MessageNoSelectedGenes>Cannot create a xenotype with no genes.</MessageNoSelectedGenes>
-  <CanOnlyStoreNumGenepacks>{0_label} can only store {1} genepacks.</CanOnlyStoreNumGenepacks>
-  <XenotypeNameCannotBeEmpty>Xenotype name cannot be empty.</XenotypeNameCannotBeEmpty>
-  <MessageGeneMissingPrerequisite>{0} lacks a prerequisite gene</MessageGeneMissingPrerequisite>
+  <MetabolismTooLowToCreateXenogerm>계속하려면 선택된 유전자들의 총 대사량이 최소 {MIN}(이)가 되야 합니다. 현재 대사량: {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
+  <ComplexityTooHighToCreateXenogerm>변형이식체를 생성하려면 전체 복잡도가 {MAX} 이하여야만 합니다. 현재 복잡도: {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
+  <MessageNoSelectedGenepacks>유전자 없는 변형이식체를 만들 수 없습니다.</MessageNoSelectedGenepacks>
+  <MessageNoSelectedGenes>유전자 없는 인종형을 만들 수 없습니다.</MessageNoSelectedGenes>
+  <CanOnlyStoreNumGenepacks>{0_label}(은)는 {1}개의 유전자 팩만 보관할 수 있습니다.</CanOnlyStoreNumGenepacks>
+  <XenotypeNameCannotBeEmpty>인종형의 이름을 입력해야 합니다.</XenotypeNameCannotBeEmpty>
+  <MessageGeneMissingPrerequisite>{0}의 요구 유전자 없음</MessageGeneMissingPrerequisite>
 
-  <MessageDeathrestCapacityChanged>{PAWN_nameDef}'s deathrest capacity has increased from {OLD} to {NEW}.</MessageDeathrestCapacityChanged>
+  <MessageDeathrestCapacityChanged>{PAWN_nameDef}의 죽음안식 수용량이 {OLD}에서 {NEW}로 증가했습니다.</MessageDeathrestCapacityChanged>
 
-  <SanguophagesArrivingSoon>The sanguophages will arrive in a few hours for their meeting.</SanguophagesArrivingSoon>
-  <SanguophagesBegunMeeting>The sanguophages have begun their meeting.</SanguophagesBegunMeeting>
-  <SanguophagesLeavingTemperature>The sanguophages are leaving due to life-threatening temperature.</SanguophagesLeavingTemperature>
+  <SanguophagesArrivingSoon>생귀오파지는 회담을 위해 몇 시간 안에 도착할 것입니다.</SanguophagesArrivingSoon>
+  <SanguophagesBegunMeeting>생귀오파지의 회담이 시작되었습니다.</SanguophagesBegunMeeting>
+  <SanguophagesLeavingTemperature>생귀오파지들이 위험한 온도를 피해 돌아갑니다.</SanguophagesLeavingTemperature>
 
-  <MessagePawnWokenFromSunlight>{PAWN_nameDef} was woken from {PAWN_possessive} deathrest due to sunlight exposure.</MessagePawnWokenFromSunlight>
-  <MessageBedExposedToSunlight>The {BED_labelShort} {PAWN_nameDef} is assigned to use for deathrest has been exposed to sunlight. {PAWN_nameDef} cannot deathrest there.</MessageBedExposedToSunlight>
+  <MessagePawnWokenFromSunlight>{PAWN_nameDef}(은)는 햇빛 노출로 인해 {PAWN_possessive} 죽음안식에서 깨어났습니다.</MessagePawnWokenFromSunlight>
+  <MessageBedExposedToSunlight>{PAWN_nameDef}의 죽음안식을 위해 지정된 {BED_labelShort}(이)가 햇빛에 노출되어있습니다. {PAWN_nameDef}(은)는 여기서 죽음안식을 취할 수 없습니다.</MessageBedExposedToSunlight>
 
-  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} was ejected from a gene extractor due to lack of power.</GeneExtractorNoPowerEjectedMessage>
+  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 인해 유전자 추출기에서 배출되었습니다.</GeneExtractorNoPowerEjectedMessage>
 
   <!-- Mechanitor -->
-  <MessagePawnKilledRipscanner>{PAWN_nameDef}'s brain has been destroyed by the subcore ripscanner.</MessagePawnKilledRipscanner>
-  <MessageSubcoreSoftscannerCompleted>Subcore softscanner completed for {PAWN_nameDef}.</MessageSubcoreSoftscannerCompleted>
+  <MessagePawnKilledRipscanner>{PAWN_nameDef}의 뇌가 서브코어 립스캐너에 의해 파괴됐습니다.</MessagePawnKilledRipscanner>
+  <MessageSubcoreSoftscannerCompleted>{PAWN_nameDef}의 서브코어 소프트스캐너가 완료되었습니다.</MessageSubcoreSoftscannerCompleted>
 
-  <MessageCannotResurrectDessicatedCorpse>Cannot resurrect dessicated corpses.</MessageCannotResurrectDessicatedCorpse>
+  <MessageCannotResurrectDessicatedCorpse>백골화된 시체는 부활할 수 없습니다.</MessageCannotResurrectDessicatedCorpse>
 
-  <MessageAboutToExplode>{0} is about to explode!</MessageAboutToExplode>
+  <MessageAboutToExplode>{0}(이)가 폭발하려고 합니다!</MessageAboutToExplode>
 
   <!-- Childcare -->
-  <MessageChildcareDisabled>{FEEDER_labelShort} cannot perform childcare tasks.</MessageChildcareDisabled>
-  <MessageChildcareNotAssigned>{FEEDER_labelShort} is not assigned to do childcare tasks.</MessageChildcareNotAssigned>
+  <MessageChildcareDisabled>{FEEDER_labelShort}(은)는 보육 작업을 수행할 수 없습니다.</MessageChildcareDisabled>
+  <MessageChildcareNotAssigned>{FEEDER_labelShort}(은)는 보육 작업에 할당되지 않았습니다.</MessageChildcareNotAssigned>
 
-  <MessageTooManyCustomXenotypes>You already have the maximum number of custom xenotypes. You must delete some if you wish to create more.</MessageTooManyCustomXenotypes>
-  <MessageConflictingGenesPresent>Cannot save xenotype with multiple conflicting genes.</MessageConflictingGenesPresent>
+  <MessageTooManyCustomXenotypes>이미 최대 숫자의 인종형을 생성했습니다. 더 생성하려면 이미 존재하는 인종형을 삭제해야 합니다.</MessageTooManyCustomXenotypes>
+  <MessageConflictingGenesPresent>다수의 상충되는 유전자를 포함한 채로는 이종형을 저장할 수 없습니다.</MessageConflictingGenesPresent>
 
-  <MessageDeathrestBuildingBound>{BUILDING_labelShort} has been bound to {PAWN_nameDef} ({CUR}/{MAX} deathrest capacity).</MessageDeathrestBuildingBound>
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort}(이)가 {PAWN_nameDef} (죽음안식 수용량 {CUR} / {MAX})에게 할당되었습니다.</MessageDeathrestBuildingBound>
 
-  <MessageDevelopmentalStageSelectionDisabledByScenario>Developmental stage selection disabled by scenario.</MessageDevelopmentalStageSelectionDisabledByScenario>
+  <MessageDevelopmentalStageSelectionDisabledByScenario>시나리오에 의해 성장단계 선택이 비활성화되었습니다.</MessageDevelopmentalStageSelectionDisabledByScenario>
 
-  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef} did not have enough blood to produce a hemogen pack. </MessagePawnHadNotEnoughBloodToProduceHemogenPack>
-  <MessageCannotStartHemogenExtraction>{PAWN_nameDef} doesn't have enough blood to produce a hemogen pack.</MessageCannotStartHemogenExtraction>
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef}(은)는 혈액팩을 생성하기에 충분한 혈액이 없습니다.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <MessageCannotStartHemogenExtraction>{PAWN_nameDef}은 헤모겐 팩을 생성하기에 충분한 혈액이 없습니다.</MessageCannotStartHemogenExtraction>
 
-  <MessageCannotPostponeGrowthMoment>You must choose how {PAWN_nameDef} will grow now.</MessageCannotPostponeGrowthMoment>
+  <MessageCannotPostponeGrowthMoment>이제 {PAWN_nameDef}(이)가 어떻게 성장할지 선택해야 합니다.</MessageCannotPostponeGrowthMoment>
 
-  <MessageDraftedPawnCarryingBaby>Warning: {0_labelShort} is carrying a baby while drafted.</MessageDraftedPawnCarryingBaby>
-  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} is moving {BABY_nameDef} somewhere with a safer temperature.</MessageTakingBabyToSafeTemperature>
+  <MessageDraftedPawnCarryingBaby>경고: {0_labelShort}(이)가 징집 중 아기를 안고 있습니다.</MessageDraftedPawnCarryingBaby>
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef}(이)가 {BABY_nameDef}(을)를 안전한 온도로 데려가고 있습니다.</MessageTakingBabyToSafeTemperature>
 
-  <MessagePregnancyFailed>Pregnancy failed between {MOTHER_nameDef} and {FATHER_nameDef}</MessagePregnancyFailed>
-  <MessageFerilizeFailed>{PAWN_nameDef} failed to fertilize ovum</MessageFerilizeFailed>
-  <CombinedGenesExceedMetabolismLimits>Combined genes exceeded metabolism limits.</CombinedGenesExceedMetabolismLimits>
+  <MessagePregnancyFailed>{MOTHER_nameDef}와 {FATHER_nameDef} 사이에 임신 실패</MessagePregnancyFailed>
+  <MessageFerilizeFailed>{PAWN_nameDef}(이)가 난자를 수정하지 못했습니다.</MessageFerilizeFailed>
+  <CombinedGenesExceedMetabolismLimits>결합된 유전자가 대사 한계를 초과했습니다.</CombinedGenesExceedMetabolismLimits>
 
 </LanguageData>
