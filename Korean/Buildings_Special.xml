@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InfiniteChemreactor.label>무한 화학연료 생성기</InfiniteChemreactor.label>
-  <InfiniteChemreactor.description>공기 중의 원소를 포집하여 천천히 화학연료를 생산하는 고대 장치입니다.</InfiniteChemreactor.description>
+  <ArchonexusCore.label>초월 연결체 코어</ArchonexusCore.label>
+  <ArchonexusCore.description>초월 연결체의 중핵입니다. 이 핵의 넓은 표면은 흠잡을 곳 없이 깨끗하며, 평평하면서도 그와 동시에 곡선처럼 보입니다.\n\n대부분의 사람들은 이 핵의 용도를 이해할 수 없는 것 같습니다. 하지만 어떤 사람들은 이것이 초월공학 그 자체의 일부이며, 이를 발견한 사람은 기계 신의 힘을 불러낼 수 있다고 말합니다.\n\n이 핵이 발산하는 초자연적인 힘은 끔찍할 정도로 시끄럽고 뒤얽혀있지만 쥐 죽은 듯 조용하기도 합니다. 이는 귀가 없어도 들리고, 피부가 없어도 느껴지며, 눈이 없어도 보이고, 기억에 없어도 어느새 뇌리에 박혀있습니다. 이는 다른 차원에서 온 존재의 관념입니다. 이는 가까이 다가오는 인간의 마음에 직접적으로 반영되며, 그러한 정신적 압박 아래 본래의 인간성을 유지할 수 있는 사람은 극히 드뭅니다. 정신적으로 무감각한 사람만이 이에 면역입니다.</ArchonexusCore.description>
   
-  <PsychicEmanator.label>정신파동 발생장치</PsychicEmanator.label>
-  <PsychicEmanator.description>주변 모든 이들의 기분을 좋게 만들어주는 고대 장치입니다.</PsychicEmanator.description>
+  <ArchotechTower.label>초월공학 탑</ArchotechTower.label>
+  <ArchotechTower.description>적당한 크기로 솟아 있는 고대 초월공학 탑입니다. 수상한 빛이 표면을 따라 계속해서 발광합니다. 이 탑의 목적이 무엇인지는 단지 추측할 수 있을 뿐입니다.</ArchotechTower.description>
   
-  <VanometricPowerCell.label>배노메트릭 발전기</VanometricPowerCell.label>
-  <VanometricPowerCell.description>어떠한 연료 없이도 영구히 소량의 전력을 생산하는 고대 장치입니다. 아무도 그것이 어떤 방식으로 작동하는지 알지 못하지만 일부 학자들은 장치 내부의 양자 거품으로부터 에너지가 추출되는 것이라고 생각합니다.</VanometricPowerCell.description>
+  <GrandArchotechStructure.label>초대형 초월공학 시설</GrandArchotechStructure.label>
+  <GrandArchotechStructure.description>웅장하게 우뚝 솟은 초월공학 시설입니다. 초대형 초월공학 시설입니다. 단조로운 녹색 표면은 흠잡을 곳 없이 깨끗하며, 너무나도 부드럽습니다. 이것이 여기에 얼마나 오래 있었는지는 짐작할 수 없고, 세워진 목적도 알 수 없습니다.\n\n시설은 강렬한 정신 파동을 내뿜습니다. 이것에 가까이 다가가면 직접적인 정신 파동을 받게 됩니다. 시설에서 발산하는 신비로운 힘은 공격적이지는 않지만 압도적이며 비인간적입니다. 시공을 초월하는 감각, 끝없이 기록되는 비인간적 지성의 향연... 정신적으로 나약한 사람은 순식간에 스스로를 잃어버립니다. 오로지 정신적으로 무감각한 사람만이 무사할 수 있습니다.</GrandArchotechStructure.description>
+  
+  <MajorArchotechStructure.label>대형 초월공학 시설</MajorArchotechStructure.label>
+  <MajorArchotechStructure.description>초대형 초월공학 시설입니다. 단조로운 녹색 표면은 흠잡을 곳 없이 깨끗하며, 너무나도 부드럽습니다. 이것이 여기에 얼마나 오래 있었는지는 짐작할 수 없고, 세워진 목적도 알 수 없습니다.\n\n시설에서 발산하는 신비로운 힘은 공격적이지는 않지만 압도적이며 비인간적입니다. 마치 회전하는 탈곡기 안에 들어간 것처럼, 잠자는 거인의 심장 박동처럼, 움직일 수도, 말할 수도, 숨 쉴 수도 없는 비좁은 터널 안처럼... 정신적으로 무감각한 사람을 제외하고는 누구나 시설 근처에서 압도될 것입니다.</MajorArchotechStructure.description>
+  
+  <MajorArchotechStructureStudiable.label>대형 초월공학 시설</MajorArchotechStructureStudiable.label>
+  <MajorArchotechStructureStudiable.description>초대형 초월공학 시설입니다. 단조로운 녹색 표면은 흠잡을 곳 없이 깨끗하며, 너무나도 부드럽습니다. 이것이 여기에 얼마나 오래 있었는지는 짐작할 수 없고, 세워진 목적도 알 수 없습니다.\n\n시설에서 발산하는 신비로운 힘은 공격적이지는 않지만 압도적이며 비인간적입니다. 마치 회전하는 탈곡기 안에 들어간 것처럼, 잠자는 거인의 심장 박동처럼, 움직일 수도, 말할 수도, 숨 쉴 수도 없는 비좁은 터널 안처럼... 정신적으로 무감각한 사람을 제외하고는 누구나 시설 근처에서 압도될 것입니다.</MajorArchotechStructureStudiable.description>
 </LanguageData>
