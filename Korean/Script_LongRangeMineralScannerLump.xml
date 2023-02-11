@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>questDescription->[worker_definite](은)는 장거리 광물 스캐너를 사용하여 근처에 [targetMineable_label] 덩어리가 있음을 발견했습니다.\n\n[timeoutTicks_duration] 동안 가지 않으면, 다른 세력이 먼저 채굴할 것입니다.\n\n[lumpThreatDescription]</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[targetMineableThing_label] [lump]</li>
+    <li>questName->[targetMineableThing_label] [lump]</li>
+    <li>questName->[targetMineableThing_label] [lump]</li>
+    <li>questName->[adj] [targetMineableThing_label]</li>
+    <li>questName->[targetMineableThing_label] [discovered]</li>
+    <li>lump->덩이</li>
+    <li>lump->더미</li>
+    <li>lump->퇴적물</li>
+    <li>lump->층</li>
+    <li>lump->덩어리</li>
+    <li>lump->더미</li>
+    <li>adj->멀리 떨어져 있는</li>
+    <li>adj->저 끝의</li>
+    <li>adj->미지의</li>
+    <li>adj->탐색된</li>
+    <li>discovered->발견</li>
+    <li>discovered->감지</li>
+    <li>discovered->지대</li>
+    <li>discovered->탐색</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>임무 만료: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>다른 세력에서 [targetMineable_label] 덩어리를 먼저 채굴했습니다. [resolvedQuestName] 임무가 만료되었습니다.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+</LanguageData>
