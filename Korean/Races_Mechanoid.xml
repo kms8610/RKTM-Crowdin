@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <Mech_CentipedeBlaster.label>센티피드 블래스터</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.description>수십 개의 작은 다리로 미끄러지듯 움직이는 중무장 전투 메카노이드입니다. 두꺼운 외피와 강력한 화력은 밀집된 정적 방어선에 매우 효과적이지만 치고 빠지는 기동성 전략에는 다소 취약합니다.</Mech_CentipedeBlaster.description>
+  <Mech_CentipedeBlaster.tools.head.label>머리</Mech_CentipedeBlaster.tools.head.label>
   
   <Mech_CentipedeBurner.label>센티피드 버너</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.description>수십 개의 작은 다리로 미끄러지듯 움직이는 중무장 전투 메카노이드입니다. 두꺼운 외피와 강력한 화력은 밀집된 정적 방어선에 매우 효과적이지만 치고 빠지는 기동성 전략에는 다소 취약합니다.</Mech_CentipedeBurner.description>
+  <Mech_CentipedeBurner.tools.head.label>머리</Mech_CentipedeBurner.tools.head.label>
   
   <Mech_CentipedeGunner.label>센티피드 거너</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.description>수십 개의 작은 다리로 미끄러지듯 움직이는 중무장 전투 메카노이드입니다. 두꺼운 외피와 강력한 화력은 밀집된 정적 방어선에 매우 효과적이지만 치고 빠지는 기동성 전략에는 다소 취약합니다.</Mech_CentipedeGunner.description>
+  <Mech_CentipedeGunner.tools.head.label>머리</Mech_CentipedeGunner.tools.head.label>
   
   <Mech_Lancer.label>랜서</Mech_Lancer.label>
+  <Mech_Lancer.description>중장거리 교전을 위해 설계된 인간 크기의 빠른 메카노이드입니다. 가벼운 몸체로 인해 근거리, 특히 근접전에서는 취약합니다.</Mech_Lancer.description>
+  <Mech_Lancer.tools.left_fist.label>왼쪽 주먹</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.right_fist.label>오른쪽 주먹</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.head.label>머리</Mech_Lancer.tools.head.label>
   
   <Mech_Pikeman.label>파이크맨</Mech_Pikeman.label>
-  <Mech_Pikeman.labelPlural>파이크맨</Mech_Pikeman.labelPlural>
+  <Mech_Pikeman.description>투박한 다족 전투 메카노이드로 장거리 무기 플랫폼에 특화되어있습니다. 먼 거리 떨어진 대상에게는 효과적이지만 근거리와 근접전에서는 약합니다.\n\n메카노이드 전쟁 베테랑들은 파이크맨 주위에서 제일 안전한 곳이란 곧 가장 가까운 곳임을 알고 있습니다.</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.front_left_leg.label>왼쪽 앞다리</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.label>오른쪽 앞다리</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.head.label>머리</Mech_Pikeman.tools.head.label>
   
   <Mech_Scyther.label>사이더</Mech_Scyther.label>
+  <Mech_Scyther.description>빠른 접근을 통한 근접전에 특화된 민첩한 인간 크기 전투 메카노이드입니다. 온몸이 가시와 칼날에 덮여있지만 주로 양 팔의 칼날을 사용해 희생자들의 사지를 자르고 배를 가릅니다.</Mech_Scyther.description>
+  <Mech_Scyther.tools.left_blade.label>왼쪽 칼날</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.right_blade.label>오른쪽 칼날</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.head.label>머리</Mech_Scyther.tools.head.label>
+  
+  <Mech_Termite.label>터마이트</Mech_Termite.label>
+  <Mech_Termite.description>땅을 파거나 방어 구조물을 뚫는 일에 특화된 중형 메카노이드입니다. 방어자들은 방어선이 뚫리기 전에 선제공격을 할지, 뚫고 나오는 순간 대응할지 결정해야 할 것입니다.</Mech_Termite.description>
+  <Mech_Termite.tools.head.label>머리</Mech_Termite.tools.head.label>
 </LanguageData>
