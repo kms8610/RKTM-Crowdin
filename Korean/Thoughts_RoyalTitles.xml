@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GainedTitle.stages.Received_title.label>{TITLE} 작위 받음</GainedTitle.stages.Received_title.label>
+  <GainedTitle.stages.Received_title.description>내가 {TITLE} 작위를 받았어. 가치를 인정받으니 좋네.</GainedTitle.stages.Received_title.description>
+  
+  <LostTitle.stages.Lost_title.label>{TITLE} 작위 잃음</LostTitle.stages.Lost_title.label>
+  <LostTitle.stages.Lost_title.description>{TITLE} 작위를 잃어버렸어.</LostTitle.stages.Lost_title.description>
+  
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>{TITLE_label}에 어울리는 수준의 의복 원함</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>{TITLE_indefinite}에 어울리는 {QUALITY} 품질 이상의 의복을 원해.</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
+  
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>{TITLE_label}에 어울리는 의복 원함</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>{TITLE_indefinite}에 어울리는 의복을 원해.\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+  
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>초라한 침실</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>{TITLE_indefinite} 수준에 맞는 침실과 가구가 필요해.\n\n{0}</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
+  
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>개인 침실 없음</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE_indefinite}(은)는 개인 침실이 필요해.</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+  
+  <TitleNoThroneRoom.stages.no_throne_room.label>알현실 없음</TitleNoThroneRoom.stages.no_throne_room.label>
+  <TitleNoThroneRoom.stages.no_throne_room.description>알현실이 없는 귀족이 있다고?</TitleNoThroneRoom.stages.no_throne_room.description>
+  
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>초라한 알현실</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>나는 {TITLE_indefinite}(이)야! 격에 맞는 알현실과 가구가 필요해.\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+</LanguageData>
