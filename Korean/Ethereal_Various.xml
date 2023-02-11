@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blight.label>마름병</Blight.label>
+  <CocoonSpawner.label>곤충 고치</CocoonSpawner.label>
   
-  <Explosion.label>폭발</Explosion.label>
-  
-  <PawnJumper.label>비행</PawnJumper.label>
-  
-  <RadialTrigger.label>근접 트리거</RadialTrigger.label>
-  
-  <RectTrigger.label>직사각 트리거</RectTrigger.label>
-  
-  <Tornado.label>토네이도</Tornado.label>
-  
-  <TriggerContainerEmptied.label>용기 비움 트리거</TriggerContainerEmptied.label>
-  
-  <TriggerUnfogged.label>안개비 제거기</TriggerUnfogged.label>
-  
-  <TunnelHiveSpawner.label>땅굴</TunnelHiveSpawner.label>
+  <MechShield.label>메카노이드 보호막</MechShield.label>
 </LanguageData>
