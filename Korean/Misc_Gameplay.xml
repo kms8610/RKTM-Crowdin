@@ -1,359 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CustomizeIdeoligion>사상 생성</CustomizeIdeoligion>
-  <ChooseYourIdeoligion>Choose your ideoligion</ChooseYourIdeoligion>
-  <RandomStructureTip>A random structure will be used for your ideoligion.</RandomStructureTip>
-  <RandomStyleTip>A random style will be used for your ideoligion.</RandomStyleTip>
-  <PlayClassic>사상 시스템 비활성화</PlayClassic>
-  <CreateCustomFluid>맞춤 생성\n(유동적)</CreateCustomFluid>
-  <CreateCustomFixed>맞춤 생성\n(고정)</CreateCustomFixed>
-  <CustomIdeoligions>맞춤 사상</CustomIdeoligions>
-  <LoadSaved>Load saved</LoadSaved>
-  <Structure>구조</Structure>
-  <ChooseYourIdeoligionDesc>What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs.</ChooseYourIdeoligionDesc>
-  <CreateCustom>Create custom</CreateCustom>
-  <DeleteCustom>맞춤 사상 삭제</DeleteCustom>
-  <CreateNew>Create new</CreateNew>
-  <LoadExisting>Load existing</LoadExisting>
-  <CreateCustomIdeoligion>Create custom ideoligion</CreateCustomIdeoligion>
-  <CustomIdeoligionSectionHeader>맞춤 사상</CustomIdeoligionSectionHeader>
-  <FactionIdeoligionSectionHeader>세력 사상</FactionIdeoligionSectionHeader>
-  <LoadExistingIdeoligion>Load saved ideoligion</LoadExistingIdeoligion>
-  <SelectAnIdeo>Select an ideoligion for your faction on the left, or</SelectAnIdeo>
-  <Ideo>믿음관</Ideo> 
-  <RandomizeAll>무작위 사상</RandomizeAll>
-  <Appearance>Appearance</Appearance>
-  <DoneButton>Done</DoneButton>
-  <CausedBy>원인</CausedBy>
-  <BeliefInIdeo>Belief in</BeliefInIdeo>
-  <Reward_RelicInfo>{0}에 관한 정보</Reward_RelicInfo>
-  <Reward_RelicInfoLabel>{0}에 관한 정보</Reward_RelicInfoLabel>
-  <RelicOf>Relic of {IDEO_name}</RelicOf>
-  <Altar>altar</Altar>
-  <Base>기본값</Base>
-  <MinExpectation>min expectation</MinExpectation>
-  <PreceptThoughtMoodRange>{0} to {1}</PreceptThoughtMoodRange>
-  <ComesFromIdeo>Comes from ideo</ComesFromIdeo>
-  <CurrentTotalAnimalBodySizePerColonist>Current total animal bodysize per colonist</CurrentTotalAnimalBodySizePerColonist>
-  <AnimalsBodySizePerColonist>total bodysize per colonist</AnimalsBodySizePerColonist>
-  <VeneratedAnimalsBodySizePerColonist>total nearby bodysize per colonist</VeneratedAnimalsBodySizePerColonist>
-  <MinAnimalBodySizePerColonist>Expecting at least {0} body size per colonist.</MinAnimalBodySizePerColonist>
-  <Disables>Disables</Disables>
-  <RequiresOnePrecept>Requires one of precepts</RequiresOnePrecept>
-  <RequiredPrecepts>Required precepts</RequiredPrecepts>
-  <RequiredRituals>Required rituals</RequiredRituals>
-  <PreventsPrecepts>규율 제외</PreventsPrecepts>
-  <Styles>Styles</Styles>
-  <ChanceToHavePrecept>Chance to have precept</ChanceToHavePrecept>
-  <FavoriteColorTooltip>{PAWN_labelShort}(이)가 좋아하는 색입니다. 입은 옷의 {PERCENTAGE} 이상을 이 색{ORIDEO}으로 맞추면 기분이 약간 좋아질 것입니다.\n\n화장대에서 염료를 사용해 옷의 색을 바꿀 수 있습니다.</FavoriteColorTooltip>
-  <OrIdeoColor>이나 {PAWN_possessive} 사상 상징색</OrIdeoColor>
-  <SetIdeoColor>Set ideo color</SetIdeoColor>
-  <SetFavoriteColor>Set to favorite color</SetFavoriteColor>
-  <ConfigureIdeoligion>Configure your faction's ideoligion</ConfigureIdeoligion>
-  <NotEnoughDye>염료가 부족합니다.</NotEnoughDye>
-  <ApparelLockedCannotRecolor>{PAWN_nameDef}(은)는 {APPAREL_labelShort}(을)를 염색하기 싫어합니다.</ApparelLockedCannotRecolor>
-  <NotEnoughDyeWillRecolorApparel>염료를 쓸 수 있는 경우 의복을 염색할 것입니다.</NotEnoughDyeWillRecolorApparel>
-  <NotEnoughDyeWillRecolorHair>염료를 쓸 수 있는 경우 머리카락을 염색할 것입니다.</NotEnoughDyeWillRecolorHair>
-  <IdeoCertaintyTooltip>{PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE}</IdeoCertaintyTooltip>
-  <DisabledByPrecept>Disabled by precept {0}</DisabledByPrecept>
-  <Everyone>모두</Everyone>
-  <Narrative>구절</Narrative>
-  <NarrativeLower>묘사</NarrativeLower>
-  <PreceptName>Precept name</PreceptName>
-  <PreceptNameLower>precept name</PreceptNameLower>
-  <Changing>{0} 변경 중</Changing>
-  <StructuresLower>structures</StructuresLower>
-  <MemesLower>memes</MemesLower>
-  <Reward_DevelopmentPointsLabel>개혁 점수</Reward_DevelopmentPointsLabel>
-  <Reward_DevelopmentPoints>{0}의 개혁 점수가 {1}만큼 증가할 것입니다.\n\n현재 개혁 점수는 {2}입니다. {3}의 개혁 점수를 모으면 사상을 개혁할 수 있습니다.\n\n다른 임무를 완수하거나 의식을 완료해서 개혁 점수를 더 모을 수 있습니다.</Reward_DevelopmentPoints>
-  <CurrentDevelopmentPoints>현재 점수</CurrentDevelopmentPoints>
-  <ReformDevelopmentPoints>개혁에 필요한 점수</ReformDevelopmentPoints>
-  <QuestLower>기회</QuestLower>
-  <MealKindVegetarian>채식주의자</MealKindVegetarian>
-  <MealKindMeat>육류 함유</MealKindMeat>
-  <MealKindAny>모두에게 적합</MealKindAny>
-  <WearingDesiredApparelMulti>격식 있는 복장</WearingDesiredApparelMulti>
-
-  <UnableToLoadIdeoTitle>사상을 불러올 수 없음</UnableToLoadIdeoTitle>
-  <UnableToLoadIdeoDescription>세력 요구 사항을 충족시킬 수 없기  때문에 선택한 사상을 불러올 수 없습니다. 문제가 되는 부분은 다음과 같습니다.</UnableToLoadIdeoDescription>
-  <UnableToLoadIdeoMemeNotAllowed>{FACTIONTYPE} 세력에는 {MEME} 가르침이 허용되지 않습니다.</UnableToLoadIdeoMemeNotAllowed>
-  <UnableToLoadIdeoMemeRequired>{FACTIONTYPE} 세력에는 {MEME} 가르침이 필요합니다</UnableToLoadIdeoMemeRequired>
-  <UnableToLoadIdeoPreceptNotAllowed>플레이 불가 세력에는 {PRECEPT} 규율이 허용되지 않습니다.</UnableToLoadIdeoPreceptNotAllowed>
-
-  <RitualTargetGraveInfo>{PAWN_labelShort}의 시체가 묻힌 무덤</RitualTargetGraveInfo>
-  <RitualTargetEmptyGraveInfo>{PAWN_labelShort}의 사망을 애도할 빈 무덤</RitualTargetEmptyGraveInfo>
-  <RitualTargetGraveInfoAbstract>{IDEO_memberNameIndef}의 시체가 묻힌 무덤</RitualTargetGraveInfoAbstract>
-  <RitualTargetGraveInfoAbstractNoIdeo>시체가 묻힌 무덤</RitualTargetGraveInfoAbstractNoIdeo>
-  <RitualTargetEmptyGraveInfoAbstract>{IDEO_memberNameIndef}의 사망을 애도할 빈 무덤</RitualTargetEmptyGraveInfoAbstract>
-  <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort}'s body must be buried first</RitualTargetGraveInfoMustBeBuried>
-  <RitualTargetGatherSpotInfo>Any gathering spot, like a table</RitualTargetGatherSpotInfo>
-  <RitualTargetGatherAltarOrRitualSpotInfo>제단 또는 행사 장소.</RitualTargetGatherAltarOrRitualSpotInfo>
-  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>제단, 상징문양 또는 임의의 의식 장소.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
-  <RitualTargetLightBallIsNotPowered>미러볼에 전력이 공급되지 않습니다.</RitualTargetLightBallIsNotPowered>
-  <RitualTargetNoPoweredSpeakers>No powered speakers.</RitualTargetNoPoweredSpeakers>
-  <RitualTargetCampfireNoFuel>Campfire is not fueled.</RitualTargetCampfireNoFuel>
-  <RitualTargetCampfireMustBeUnroofed>Campfire must be unroofed.</RitualTargetCampfireMustBeUnroofed>
-  <RitualTargetNoDrum>No nearby drum.</RitualTargetNoDrum>
-  <RitualTargetNeedUnroofedCells>Need at least {0} unroofed cells nearby.</RitualTargetNeedUnroofedCells>
-  <RitualTargetCampfirePartyInfo>모닥불</RitualTargetCampfirePartyInfo>
-  <RitualTargetUnconnectedGaruanlenTreeInfo>교감되지 않은 요정나무</RitualTargetUnconnectedGaruanlenTreeInfo>
-  <RitualTargetConnectedGauranlenTree>이미 {PAWN_nameDef}(와)과 교감함</RitualTargetConnectedGauranlenTree>
-  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}의 교감이 최근 끊어졌습니다. {1} 후 다시 교감할 수 있습니다.</RitualTargetConnectionTornGauranlenTree>
-  <RitualTargeWoodInfo>참여자마다 {0} 목재, 총 {2} 목재가 필요합니다. 보유한 목재는 {1}개입니다.</RitualTargeWoodInfo>
-  <RitualTargetUnreachable>{0}(이)가 의식 대상에 접근할 수 있어야 합니다.</RitualTargetUnreachable>
-  <Accuse>Accuse</Accuse>
-  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}은 자신의 사상에 위배되는 상흔 의식을 좋아하지 않을 것입니다.</RitualScarificationWarnNonScarificationIdeo>
-  <RitualScarificationWarnWimp>{PAWN_labelShort}(은)는 약골이기에 상흔 의식을 좋아하지 않을 것입니다.</RitualScarificationWarnWimp>
-  <RitualBlindingWarnWimp>{PAWN_labelShort}(은)는 약골이기에 실명 의식을 좋아하지 않을 것입니다.</RitualBlindingWarnWimp>
-  <RitualScarificationTriggerExtraDesc>상흔 문신을 받은 {IDEOMEMBERPLURAL}(이)가 {0}명보다 적으면 상흔 문신을 기대합니다.</RitualScarificationTriggerExtraDesc>
-  <RitualBlindingTriggerExtraDesc>모든 {IDEOMEMBER} 정착민은 실명 의식을 바랍니다.</RitualBlindingTriggerExtraDesc>
+  <!-- Royalty and throne -->
+  <ThroneMaxSatisfiedTitle>작위 충족</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>({0} 인상)</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>왕좌는 실내에 위치해야 합니다.</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>최소 작위 ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>거래에 필요한 작위: {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>개인 침실 (배우자는 허용됨)</RequirementPersonalBedroom>
   
-  <RitualOutcomeExtraDesc_DancePartyWorkFocus>행사에 참여한 모든 사람의 작업 속도가 하루 동안 증가합니다! (전역 작업 속도 {PERCENTAGE})</RitualOutcomeExtraDesc_DancePartyWorkFocus>
-  <RitualOutcomeExtraDesc_BlindingPsylink>만족스러운 실명 의식 덕분에 {PAWN_labelShort}의 정신 증폭 단계가 상승했습니다!</RitualOutcomeExtraDesc_BlindingPsylink>
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>{0} 초능력과 새로운 정신력 증폭 등급을 획득했습니다.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
-  <RitualOutcomeExtraDesc_ConsumableInspiration>Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
-  <RitualOutcomeExtraDesc_SkylanternWanderers>날아간 풍등을 보고 우호적인 여행자들이 찾아왔습니다. 정착지를 방문한 후 선물을 남길 것입니다.</RitualOutcomeExtraDesc_SkylanternWanderers>
-  <RitualOutcomeExtraDesc_Execution>처형식에 참여한 모든 노예의 마음이 꺾였습니다. 복종심이 최대치까지 올라갑니다.</RitualOutcomeExtraDesc_Execution>
+  <!-- Generated neurotrainers -->
+  <PsycastNeurotrainerLabel>초월교육혈청 ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>초월교육혈청을 사용해 {0} 초능력 습득</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>특정한 초능력을 훈련시키는 고농도의 일회용 기계입자 혈청입니다.\n\n안와를 통해 뇌에 투여하면 기계입자가 스스로 신경 조직을 구성해 대상자에게 초능력 사용법을 주입합니다.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort}(이)가 초월교육혈청을 사용해 {1} 초능력을 습득했습니다.</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>정신력 증폭 필요</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}(은)는 이미 {1}(을)를 알고 있습니다.</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>임무를 수락한 정착민은 {0_name}에게 {0_royalFavorLabel} {1}장을 수여받습니다</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>{2} 참여자 중 한 명을 선택하여 {0_name}에게 {0_royalFavorLabel} {1}장을 수여받습니다</Reward_RoyalFavor_ChoosePawn>
   
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>의식 품질로 인해 개혁 점수가 {2} 증가했습니다. ({0}에서 {1})</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
-  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>개혁 점수는 {0}점을 초과할 수 없습니다.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
-  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>의식 품질이 낮아 개혁 점수를 얻지 못했습니다.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
-
-  <RitualAttachedReward>Additional reward</RitualAttachedReward>
-  <RitualAttachedRewardChoose>선택</RitualAttachedRewardChoose>
-  <RitualAttachedRewardCantUseWithRitual>Can't use {0} with {1}.</RitualAttachedRewardCantUseWithRitual>
-  <RitualAttachedRewardRequiredMemeAny>Requires any of memes</RitualAttachedRewardRequiredMemeAny>
-  <RitualAttachedRewardRequiredFaction>Requires {0} faction</RitualAttachedRewardRequiredFaction>
-  <RitualAttachedOutcomes_Positive>positive</RitualAttachedOutcomes_Positive>
-  <RitualAttachedOutcomes_Negative>negative</RitualAttachedOutcomes_Negative>
-  <RitualAttachedOutcomesInfo>만약 {0}에서 {1} 결과를 얻는다면</RitualAttachedOutcomesInfo>
-  <RitualAttachedApplliesForOutcome>모든 {0} 결과에</RitualAttachedApplliesForOutcome>
-  <RitualAttachedApplliesForOutcomes>모든 {0} 결과에</RitualAttachedApplliesForOutcomes>
-  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>The commotion from the {0} has attracted some curious animals!\n\nThey seem accustomed to human contact and are joining the colony.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
-  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0}(이)가 근처에 요정열매가 자라나도록 유도했습니다.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
-  <RitualAttachedOutcomeCantApply>Can't apply reward</RitualAttachedOutcomeCantApply>
-  <RitualAttachedOutcomeCantApply_NoValidSpot>No valid spot</RitualAttachedOutcomeCantApply_NoValidSpot>
-  <RitualAttachedOutcomeCantApply_ExtremeBiome>Extreme biome</RitualAttachedOutcomeCantApply_ExtremeBiome>
-  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>이미 탐험할 고대 구역을 알고 있습니다.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
-  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>Not available right now.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  <!-- Ship landing beacons -->
+  <NotUsable>사용 불가</NotUsable>
+  <Unpowered>전력 없음</Unpowered>
+  <BlockedByRoof>지붕에 의해 막힘</BlockedByRoof>
+  <TooCloseToOtherBeacon>다른 신호기와 너무 가까움</TooCloseToOtherBeacon>
   
-  <IdeoBuildingVariationOf>This building is a variation of</IdeoBuildingVariationOf>
-  <IdeoBuildingMinimumExpectations>Minimum expectations</IdeoBuildingMinimumExpectations>
-  <Optional>optional</Optional>
-  <Expectations>expectations</Expectations>
-  <RitualRepeatPenaltyTip>의식을 {0}일 내에 반복하면 품질이 감소합니다. 마지막 의식으로부터 {1}일이 지난 지금은 품질이 {2} 감소할 것입니다. {3}일 후부터는 감소하지 않습니다.</RitualRepeatPenaltyTip>
-  <RitualOutcomeCompTip_RitualTargetDefsPart1>의식의 질을 높이려면 {0}(을)를 {1}에서 시작하세요.</RitualOutcomeCompTip_RitualTargetDefsPart1>
-  <RitualOutcomeCompTip_RitualTargetDefsPart2>현재 {0}(을)를 {1_labelShortIndef}에서 진행하고 있습니다.</RitualOutcomeCompTip_RitualTargetDefsPart2>
-  <RitualDevelopmentPoints>개혁 점수</RitualDevelopmentPoints>
-  <RitualDevelopmentPointsTip>이 의식을 마치면 품질에 따라 {0}-{1}의 개혁 점수를 얻습니다.</RitualDevelopmentPointsTip>
-  <RitualOutcomeBlockedNoPower>{0}에 전력 공급이 필요합니다.</RitualOutcomeBlockedNoPower>
+  <!-- Meditation -->
+  <Psyfocus>초집중</Psyfocus>
+  <PsyfocusLabelGizmo>초집중</PsyfocusLabelGizmo>
+  <PsyfocusDesc>초집중은 초능력을 사용하기 위해 필요한 특수한 유형의 정신적 구조입니다. 초집중은 시간이 지남에 따라 사라지고, 명상을 통해 축적할 수 있습니다. 모든 초집중을 잃게 된다면 초능력을 사용할 수 없으며 별다른 불이익은 없습니다.\n\n더높은 단계의 초집중은 더높은 단계의 초능력을 사용할 수 있지만, 초집중 소멸 비율도 증가합니다.</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>초능력 {0} 수준까지</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>초집중은 매일 {0}만큼 소멸됩니다.</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>{LASTUSER_labelShort}의 집중명상</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>집중효과 영향</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>근처의 영혼석 당 {1} (최대 {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>근처의 영혼석 당 {2} ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>근처의 영혼석 {2}, 자연사당 {1} (최대 {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>근처의 영혼석 {3}, 자연사당 {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>근처 조각상의 품질에 따라 최대 {1} (최대 {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>근처 조각상의 품질에 따라 최대 {2} ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>근처 무덤당 비어있는 경우 {1}, 인간 시체의 경우 {2} (최대 {0})</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>근처 무덤당 비어있는 경우 {2}, 인간 시체의 경우 {3} ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>근처에 있는 불꽃당 {1} (최대 {0})</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>근처에 있는 불꽃당 {2} ({0} / {1})</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>초집중 획득률: {0} / 일</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>초집중 목표치</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>클릭하여 초집중 목표치를 설정하세요.</DesiredPsyfocusDesc>
 
-  <ForSlaveUse>For slave use</ForSlaveUse>
-  <Slave>노예</Slave>
-  <SellingAsSlave>If you sell someone to any faction besides their own, they become slaves.</SellingAsSlave>
-  <SellingAsRansom>If you sell someone to their own faction, they are ransomed and not enslaved.</SellingAsRansom>
-
-  <MemeGoodwillImpact_Player>We are {0}</MemeGoodwillImpact_Player>
-  <MemeGoodwillImpact_Other>They are {0}</MemeGoodwillImpact_Other>
-
-  <!-- TextMotes -->
-  <TextMote_SuppressionIncreased>복종심: {0}</TextMote_SuppressionIncreased>
-
-  <!-- Role requirements -->
-  <RoleRequirementsLabel>Requirements</RoleRequirementsLabel>
-  <RoleEffectsLabel>상시 발동 효과</RoleEffectsLabel>
-  <RoleRequirementLabelSameIdeo>{0}(이)어야 함</RoleRequirementLabelSameIdeo>
-  <RoleRequirementLabelSupremeGender>{0}(이)어야 함</RoleRequirementLabelSupremeGender>
-  <RoleRequirementCannotBe>어린이일 수 없음</RoleRequirementCannotBe>
-
-  <RoleGrantedAbilitiesLabel>능력</RoleGrantedAbilitiesLabel>
-  <RoleRequiredApparelLabel>필요 의복</RoleRequiredApparelLabel>
-  <RoleRitualsLabel>의식에서 맡는 역할</RoleRitualsLabel>
-  <RoleBelieverCountDesc>This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}.</RoleBelieverCountDesc>
-  <RoleExpectationOffset>{0}등급 상승</RoleExpectationOffset>
-  <RoleRaisedExpectation>{0} 지위에 의해 높아진 기대치</RoleRaisedExpectation>
-  <RoleRaisedExpectationGracePeriod>{0}(은)는 {1}에서 더 높은 기대를 가집니다.</RoleRaisedExpectationGracePeriod>
-  <IdeoLeaderDifferentIdeoThoughtLabel>Led by {0}</IdeoLeaderDifferentIdeoThoughtLabel>
-  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} will not do {1} work.</AbilityDisabled_IncapableOfWorkTag>
-  <AbilityDisabledNoAltarOrRitualsSpot>도달 가능한 제단이나 행사 장소가 없습니다.</AbilityDisabledNoAltarOrRitualsSpot>
-  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>접근 가능한 제단이나 장식 문양, 행사 장소가 없습니다.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
-  <AbilityDisabledNoRitualSpot>도달 가능한 행사 장소가 없습니다.</AbilityDisabledNoRitualSpot>
-
-  <TextMote_WillReduced>Will\n{0} to {1}</TextMote_WillReduced>
-
-  <ConfirmationCharityJoiner>이 합류 요청을 거절하면 이타적 사상을 가진 다음 정착민의 기분이 나빠질 것입니다.\n{0}\n\n정말 합류 요청을 거절하시겠습니까?</ConfirmationCharityJoiner>
-
-  <BelieversIn>Believers in {0} ({1})</BelieversIn>
-  <AddPrecept>add {0}</AddPrecept>
-  <Precept>precept</Precept>
-  <IdeoBuilding>건물</IdeoBuilding>
-  <IdeoRelic>유물</IdeoRelic>
+  <AbilitySpeechDisabledNoThroneAssigned>지정된 왕좌가 없습니다.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>왕좌에 접근할 수 없습니다.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>왕좌의 수준이 낮아서 사용할 수 없습니다.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>이미 연설이 진행 중입니다.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechPossibleOutcomes>결과</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}의 {1} 통계</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetDescThrone>위엄있는 왕좌</AbilitySpeechTargetDescThrone>
   
-  <!-- Beggars -->
-  <GiveItemsTo>{1_nameDef}에게 {0} 주기</GiveItemsTo>
-  <CannotGiveItemsTo>{1_nameDef}에게 {0}(을)를 줄 수 없음</CannotGiveItemsTo>
-  <NoItemFound>No item found</NoItemFound>
+  <RitualDisabledNoAltar>접근 가능한 제단이 없습니다.</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>수여식</RitualBestowingCeremony>
 
-  <!-- Outfits -->
-  <OutfitSlave>노예</OutfitSlave>
+  <TotalMeditationToday>오늘 전체 명상: {0} (진행계수 {1})</TotalMeditationToday>
+  <ProgressToNextSubplant>진행률 {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>연결 의식 시작</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>{0} {1} 필요 (보유 {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>{0} 집중 유형 필요</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>정신력 증폭 최대 단계</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>연결을 위해 3칸 이내에 도달할 수 있는 빈 지점 필요</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>연결 의식 완료</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort}(이)가 {LINKABLE_labelShort}(와)과의 연결 의식을 완료했습니다.\n\n{PAWN_pronoun}의 정신력 증폭 단계가 올라 새로운 초집중 능력을 사용할 수 있습니다.</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>게다가, {0} 영혼잔디가 회복되었습니다.</LetterTextLinkingRitualCompletedAnimaGrass>
 
-  <!-- Hacking -->
-  <HackProgress>해킹 진행률</HackProgress>
-  <HackingSpeed>해킹 속도</HackingSpeed>
-  <HackingLastUser>{0}'s</HackingLastUser>
-  <Hacked>해킹함</Hacked>
-  <TerminalsHacked>해킹한 단말기</TerminalsHacked>
+  <LandHere>여기에 왕복선 착륙</LandHere>
+  <MessageShuttleDestinationIsTooFar>목적지가 범위를 벗어났습니다.</MessageShuttleDestinationIsTooFar>
 
-  <RelicInfoFound>Relic info found</RelicInfoFound>
-  <InactiveRoleRequiresMoreBelievers>inactive, requires atleast {0} {1}s (have {2})</InactiveRoleRequiresMoreBelievers>
+  <BeginCeremony>{0_labelShort}의 수여식 시작</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite}의 알현실이 {TITLE} 작위의 요구사항에 미치지 못합니다.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>수여자는 {TITLE} 작위의 요구사항에 충족하지 못한 {PAWN_definite}의 알현실에 대해 불만을 느낍니다. 수여식이 취소되었습니다.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>수여식</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>수여식의 총 품질 {0}, 품질에 영향을 준 요소</BestowingOutcomeQualitySpecific>
   
-  <Certainty>믿음</Certainty>
+  <RitualTargetAnimaTreeNoPawnsToLink>지금 영혼나무와 연결할 수 있는 정착민이 없습니다.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>자연 유형의 명상이 가능한 정착민이 없습니다.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>적어도 {0}포기의 영혼잔디가 필요합니다.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>영혼나무입니다</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>자연 집중 유형을 통한 명상이 가능하고 정신력 증폭 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>정신적 무감각하지 않아야 합니다.</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
-  <!-- Slave interaction -->
-  <EmancipateNonCololonistWithFactionTooltip>The slave will leave the map on foot and return to their home faction, {0}.</EmancipateNonCololonistWithFactionTooltip>
-  <EmancipateNonCololonistWithoutFactionTooltip>The slave will leave on foot and exit the map.</EmancipateNonCololonistWithoutFactionTooltip>
-  <EmancipateCololonistTooltip>The slave will return to being a colonist.</EmancipateCololonistTooltip>
+  <AnimaLinkingExplanationBase>영혼 연결 의식은 참여자가 많으면 강력해집니다. 더 많은 사람이 참여할수록 의식에 필요한 시간이 짧아지며 더 많은 영혼잔디가 자라납니다.\n\n{0}명의 참여자를 추가하면 의식의 끝에 {1} 영혼잔디가 회복됩니다.</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>필요한 화물이 모두 적재되지 않았습니다!</ShuttleRequiredItemsNotSatisfied>
 
-  <WorshippedTerminalFactionBecameHostileTimed>이 마을에 너무 오래 머물렀습니다. {FACTION_name} 사람들이 공격을 시작합니다!</WorshippedTerminalFactionBecameHostileTimed>
-  <WorshippedTerminalRaidIncoming>주민들이 성스러운 단말기를 지키기 위해 모여들고 있습니다!</WorshippedTerminalRaidIncoming>
+  <AbilityNoEntropyToDump>버릴 신경열이 없습니다.</AbilityNoEntropyToDump>
 
-  <!-- Relic hunt -->
-  <RelicHuntFoundRelicSite>다수의 독립 부대로 구성된 보안 시스템이 유물이 보관된 고대 시설을 둘러싸고 있습니다.\n\n보안 부대를 하나씩 상대하거나, 유물을 훔쳐 도망치세요.</RelicHuntFoundRelicSite>
-  <RelicHuntFoundRelicSitePeaceful>유물이 인근의 고대 시설에 잠들어 있습니다.</RelicHuntFoundRelicSitePeaceful>
-
-  <Relic>유물</Relic>
-  <RitualSeat>Ritual seat</RitualSeat>
-
-  <!-- Ritual requirements -->
-  <RitualPredictedOutcomeDescNumActiveLoudspeakers>Active loudspeakers</RitualPredictedOutcomeDescNumActiveLoudspeakers>
-  <RitualPredictedOutcomeDescNumDrums>Drums</RitualPredictedOutcomeDescNumDrums>
-
-  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>행사 장소를 사용하면 모든 참여자의 기분 보너스가 {0} 감소합니다.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
-
-  <RitualOutcomeLabelAnyOfThese>다음 중 아무거나</RitualOutcomeLabelAnyOfThese>
-
-  <PreceptReplaceWith>대체</PreceptReplaceWith>
-  <RitualSeatOf>{IDEOS} 의식 좌석</RitualSeatOf>
-  <StartingQuality>시작 품질</StartingQuality>
-  <ExpectedConvictionChance>유죄 판결을 받을 확률</ExpectedConvictionChance>
- 
-  <MustBePlacedIndoors>Must be placed indoors.</MustBePlacedIndoors>
-
-  <!-- Gauranlen trees/Dryads -->
-  <ConnectedPawn>교감</ConnectedPawn>
-  <Nobody>아무도 없음</Nobody>
-  <ConnectedPawnDesc>{TREE_label}(와)과 교감한 사람입니다. 교감자가 사망할 경우 {DURATION}동안 {TREE_label}(와)과 다시 교감할 수 없습니다.</ConnectedPawnDesc>
-  <ConnectionTorn>교감 끊어짐. {0} 후 다시 교감할 수 있습니다.</ConnectionTorn>
-  <ConnectedPawnAway>{PAWN_nameDef}(이)가 너무 멂</ConnectedPawnAway>
-  <TreeBlockedByNearbyBuildingsDesc>Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here?</TreeBlockedByNearbyBuildingsDesc>
-  <GauranlenModeChangeDescFull>{TREE_definite}의 계급을 바꾸는 데에는 시간과 에너지가 필요합니다.\n\n상호작용이 끝나면, 모든 나무지기는 {DURATION}일간 고치 속에 들어가 선택된 계급으로 변이합니다.\n\n이미 변이 중인 고치 또한 선택된 계급으로 변이하기 위해 과정을 처음부터 다시 시작합니다.</GauranlenModeChangeDescFull>
-  <ChangeModeDesc>Change the type of dryads created by {TREE_definite}.</ChangeModeDesc>
-  <ConnectionStrengthFall>교감 수준 감소율</ConnectionStrengthFall>
-  <ConnectionStrength>교감 수준</ConnectionStrength>
-  <ConnectionStrengthDisplay>{0} strength</ConnectionStrengthDisplay>
-  <ConnectionStrengthDesc>이 나무가 수용할 수 있는 나무지기의 수를 결정합니다.</ConnectionStrengthDesc>
-  <MaximumDryads>Max dryads</MaximumDryads>
-  <MaximumDryadsDesc>이 나무가 수용할 수 있는 나무지기의 최대 수입니다.</MaximumDryadsDesc>
-  <MaxDryadsBasedOnConnectionStrength>교감 수준에 따른 최대 나무지기 수</MaxDryadsBasedOnConnectionStrength>
-  <PruningConnectionStrength>관리를 통한 교감 수준 상승률</PruningConnectionStrength>
-  <PruningHoursToMaintain>Hours per day to maintain</PruningHoursToMaintain>
-  <DesiredConnectionStrength>Desired</DesiredConnectionStrength>
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef}(이)가 이 교감 수준 유지에 충분할 때까지 {TREE_definite}(을)를 다듬을 것입니다.\n\n높은 교감 수준에서는 더 많은 나무지기를 수용할 수 있지만 그만큼 더 자주 다듬어줘야 합니다.\n\n교감 수준 게이지를 클릭해서 희망 강도를 설정할 수 있습니다.\n\n일간 교감 수준 감소량: {FALL}\n\n교감 수준은 주변 건물의 영향을 받습니다.</DesiredConnectionStrengthDesc>
-  <WaitingForConnectorToChangeCaste>{CONNECTEDPAWN_nameDef}(이)가 나무지기 계급을 바꾸길 기다리는 중</WaitingForConnectorToChangeCaste>
-  <GauranlenTreeMode>나무지기 계급</GauranlenTreeMode>
-  <NoCaste>계급 없음</NoCaste>
-  <GauranlenTreeModeDesc>생성될 나무지기 계급을 결정합니다.</GauranlenTreeModeDesc>
-  <SpawningDryadIn>{TIME} 후 {DRYAD_label} 탄생</SpawningDryadIn>
-  <ChangingDryadIntoType>{DRYAD_labelShort}(이)가 {TYPE_label}(으)로 변이 중</ChangingDryadIntoType>
-  <HoursEveryDay>매일 {0}시간</HoursEveryDay>
-  <HoursEveryOtherDay>이틀마다 {0}시간</HoursEveryOtherDay>
-  <DryadProducesResourcesDesc>{DRYAD_labelPlural}(은)는 {RESOURCES}(을)를 매 {DURATION}마다 생산합니다.</DryadProducesResourcesDesc>
-  <DryadCannotChangeMaster>{ANIMAL_nameDef}(은)는 요정나무를 통해 {MASTER_nameDef}(와)과 정신적으로 연결되어 있습니다. {ANIMAL_nameDef}의 주인을 바꿀 수 없습니다.</DryadCannotChangeMaster>
-  <ConnectionStrengthTooWeakForGaumakerPod>요정열매를 생성하기에는 교감 수준이 너무 낮습니다.</ConnectionStrengthTooWeakForGaumakerPod>
-  <Unconnected>교감하지 않음</Unconnected>
-  <DryadPlural>나무지기</DryadPlural>
-  <ConnectionStrengthAffectedBy>교감에 영향을 줌:</ConnectionStrengthAffectedBy>
-  <CurrentlyAffectedBy>Currently affected by</CurrentlyAffectedBy>
-  <NotEnoughConnectionStrengthForSingleDryad>나무지기를 수용하려면 {0}의 교감 수준이 필요합니다.</NotEnoughConnectionStrengthForSingleDryad>
-  <CannotAssignAllowedAreaToDryad>허가구역 할당불가</CannotAssignAllowedAreaToDryad>
-
-  <!-- Shooting report -->
-  <TargetNightOutdoors>Target outdoors and night-time</TargetNightOutdoors>
-  <TargetDarkIndoors>Target indoors and dark</TargetDarkIndoors>
-  <TargetDayOutdoors>Target outdoors and daytime</TargetDayOutdoors>
-  <TargetLitIndoors>Target indoors and lit</TargetLitIndoors>  
-  <RechargeableCharging>충전 중</RechargeableCharging>
-  <RechargeableReady>Ready</RechargeableReady>
-  
-  <RoleRequirementSkill>기술</RoleRequirementSkill>
-  <RoleRequirementSkillAny>Any of skills</RoleRequirementSkillAny>
-  <RoleEffectWontUseRangedWeapons>Won't use ranged weapons</RoleEffectWontUseRangedWeapons>
-  <RoleEffectWontUseMeleeWeapons>Won't use melee weapons</RoleEffectWontUseMeleeWeapons>
-  <RoleEffectProductionQualityOffset>{0} quality to crafting or construction</RoleEffectProductionQualityOffset>
-  <RoleEffectHuntingRevengeChance>Hunting revenge chance {0}</RoleEffectHuntingRevengeChance>
-  <RoleEffectGiveThoughtOnTended>Give thought</RoleEffectGiveThoughtOnTended>
-
-  <AssignColonists>Assign colonists to your ideoligion</AssignColonists>
-  <RemoveNewIdeoligion>Remove new ideoligion</RemoveNewIdeoligion>
-  <MakeIdeoligionPrimary>Make this your primary ideoligion</MakeIdeoligionPrimary>
-
-  <!-- Archonexus -->
-  <GameOverArchotechInvokedIntro>초월 연결체가 움직이기 시작합니다. 온 세상이 밝은 빛으로 가득 차고, 시간이 느려지는 듯 합니다...\n\n</GameOverArchotechInvokedIntro>
-  <GameOverArchotechInvokedEnding>기계 신이 당신의 존재를 알아차렸습니다. 이제 아무도 무슨 일이 일어날지 예상할 수 없습니다. 기계 신은 당신을 파괴할 수도, 당신과 직접 소통할 수도, 당신의 의식을 현실의 다른 차원으로 옮길 수도 있습니다.\n\n당신의 머릿속에 무한한 기하학적 인공 구조가 흘러 들어오는 것이 느껴집니다. 시간과 공간의 개념이 점차 사라집니다. 두렵지만, 아름답습니다...</GameOverArchotechInvokedEnding>
-  <GameOverColonistsTranscended>초월한 정착민\n\n{0}</GameOverColonistsTranscended>
-  <Reward_ArchonexusMapPart>초월 연결체 지도 조각</Reward_ArchonexusMapPart>
-  <Reward_ArchonexusMapPartLabel>초월 연결체 지도 조각 {0} / {1}</Reward_ArchonexusMapPartLabel>
-
-  <RelicsLower>유물</RelicsLower>
-  <RelicLower>유물</RelicLower>
-
-  <LinkedTo>연결됨:</LinkedTo>
-  <SupplySatellite>보급 위성</SupplySatellite>
-
-  <CannotExtractSkull>두개골 꺼내기를 꺼려함 (효수대 규율 없음)</CannotExtractSkull>
-  <TipPreviewRitualAmbienceSound>Preview the ritual ambience sound</TipPreviewRitualAmbienceSound>
-
-  <ChooseStuffForRelic>선택</ChooseStuffForRelic>
-  <RelicStuff>Made from stuff</RelicStuff>
-
-  <!-- Bioscuplter pod -->
-  <BiosculpterPodCycleLabel>절차</BiosculpterPodCycleLabel>
-  <BiosculpterPodCycleLabelLoading>열량 적재 중</BiosculpterPodCycleLabelLoading>
-  <BiosculpterPodCycleWillBiotune>(맞춤 조정 포함)</BiosculpterPodCycleWillBiotune>
-  <BiosculpterPodCycleCommand>{0} 절차 시작</BiosculpterPodCycleCommand>
-  <BiosculpterPodCycleDuration>기간</BiosculpterPodCycleDuration>
-  <BiosculpterPodCycleDurationTranshumanists>기간 (신체 증강)</BiosculpterPodCycleDurationTranshumanists>
-  <BiosculpterPodCycleSelection>절차 선택 준비됨</BiosculpterPodCycleSelection>
-  <BiosculpterPodCycleStandby>{PAWN_labelShort}의 {CYCLE} 절차 대기 중</BiosculpterPodCycleStandby>
-  <BiosculpterPodCycleSelectionNoPower>열량 적재됨, 전력 없음</BiosculpterPodCycleSelectionNoPower>
-  <BiosculpterCycleTimeRemaining>Ends in</BiosculpterCycleTimeRemaining>
-  <BiosculpterCycleAccelerated>신체 증강 사상으로 가속됨</BiosculpterCycleAccelerated>
-  <BiosculpterCycleNoPowerInterrupt>일시중지: 전력 없음 ({TIME} 후 중단)</BiosculpterCycleNoPowerInterrupt>
-  <BiosculpterBiotunedTo>맞춤 조정됨</BiosculpterBiotunedTo>
-  <BiosculpterInteruptCycle>Interrupt cycle</BiosculpterInteruptCycle>
-  <BiosculpterInteruptCycleDesc>절차를 중단합니다. 탑승자는 현재 절차의 효과를 받지 못하고 바깥으로 나오며 짧은 시간 후유증을 겪습니다.</BiosculpterInteruptCycleDesc>
-  <BiosculpterEnteringMessage>{PAWN_labelShort}(이)가 생체 재구축기에 들어가 {CYCLE} 절차를 시작할 것입니다.</BiosculpterEnteringMessage>
-  <BiosculpterLoadingStartedMessage>{PAWN_labelShort}(이)가 {INGREDIENTS}(을)를 모은 후 {CYCLE} 절차를 시작할 것입니다.</BiosculpterLoadingStartedMessage>
-  <BiosculpterCarryStartedMessage>{PAWN_labelShort}(이)가 {INGREDIENTS}(을)를 모은 후, {DOWNED_labelShort}(을)를 생체 재구축기로 이송해서 {CYCLE} 절차를 시작할 것입니다.</BiosculpterCarryStartedMessage>
-  <NumNutrition>{0} 열량</NumNutrition>
-  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 인해 생체 조율을 완전히 마치지 못하고 나왔습니다.</BiosculpterNoPowerEjectedMessage>
-  <BiosculpterHealCompletedMessage>{PAWN_labelShort}(이)가 신체 치유 절차를 마쳤습니다.</BiosculpterHealCompletedMessage>
-  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}의 신체 치유 절차를 완료하여, {HEDIFF_label}(이)가 회복되었습니다.</BiosculpterHealCompletedWithCureMessage>
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}의 노화 역전 절차가 완료됐습니다.</BiosculpterAgeReversalCompletedMessage>
-  <AgeReversalExpectationDeadline>{PAWN_pronoun}는 {DEADLINE}일 내로 다음 노화 역전을 받길 바랍니다.</AgeReversalExpectationDeadline>
-  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}의 욕구 충족 절차가 완료됐습니다.</BiosculpterPleasureCompletedMessage>
-  <BiosculpterCleanlinessSpeedFactor>청결함 속도 계수</BiosculpterCleanlinessSpeedFactor>
-  <BiosculpterBiotunedSpeedFactor>맞춤 조정 속도 계수</BiosculpterBiotunedSpeedFactor>
-  <HealingCycleWillHeal>다음 상태가 회복됩니다</HealingCycleWillHeal>
-  <HealingCycleOneWillHeal>다음 상태 중 하나가 회복됩니다</HealingCycleOneWillHeal>
-  <MissingRequiredResearch>필수 연구 누락</MissingRequiredResearch>
-  <BiosculpterRequiresIngredients>필요</BiosculpterRequiresIngredients>
-  <OnCompletionOfCycle>{CYCLE} 절차가 완료되면 다음이 발생합니다</OnCompletionOfCycle>
-  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}(은)는 {CYCLE} 절차로 치료할 수 있는 상태가 없습니다.\n\n계속하시겠습니까?</BiosculpterNoCoditionsToHeal>
-
-  <Basic>기본</Basic>
-  <ChangeStyleDesc>만들 때 사용할 양식을 바꿉니다. 외관에만 영향을 주며 게임플레이의 차이는 없습니다.</ChangeStyleDesc>
-  <ChangeStyleDisabledNoCategories>사용 가능한 양식이 없습니다.</ChangeStyleDisabledNoCategories>
+  <LevelNum>{0}등급</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>
