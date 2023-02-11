@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AncientCommsConsole.label>ancient comms console</AncientCommsConsole.label>
-  <AncientCommsConsole.description>An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness.</AncientCommsConsole.description>
+  <AncientCommsConsole.label>고대 통신기</AncientCommsConsole.label>
+  <AncientCommsConsole.description>통신 안테나가 부착되어있는 고대의 기계장치입니다. 귀중한 부품들은 없어졌으며, 그 외의 것들도 모두 삭아 쓸모없어졌습니다.</AncientCommsConsole.description>
   
-  <AncientEnemyTerminal.label>ancient enemy terminal</AncientEnemyTerminal.label>
-  <AncientEnemyTerminal.description>An ancient computer terminal. It can be hacked to call nearby enemies.</AncientEnemyTerminal.description>
+  <AncientEnemyTerminal.label>고대 경비 호출기</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.description>고대의 단말기입니다. 해킹이 완료되면 근처의 적들이 깨어날 것입니다.</AncientEnemyTerminal.description>
   
-  <AncientFuelNode.label>ancient unstable fuel node</AncientFuelNode.label>
-  <AncientFuelNode.description>An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance.</AncientFuelNode.description>
+  <AncientFuelNode.label>고대 불안정한 연료 주입구</AncientFuelNode.label>
+  <AncientFuelNode.description>기계에 연료를 충전할 때 사용하던 불안정한 고대의 연료 주입구입니다. 오랫동안 방치되어 불안정해졌습니다.</AncientFuelNode.description>
   
-  <AncientHermeticCrate.label>hermetic crate</AncientHermeticCrate.label>
-  <AncientHermeticCrate.description>A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time.</AncientHermeticCrate.description>
+  <AncientHermeticCrate.label>밀폐 보관기</AncientHermeticCrate.label>
+  <AncientHermeticCrate.description>자체 동력으로 귀중품을 밀폐 보관하는 장치입니다. 내용물은 오랜 시간 동안 상태를 유지합니다.</AncientHermeticCrate.description>
   
-  <AncientSecurityCrate.label>security crate</AncientSecurityCrate.label>
-  <AncientSecurityCrate.description>A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system.</AncientSecurityCrate.description>
+  <AncientSecurityCrate.label>보안 밀폐 보관기</AncientSecurityCrate.label>
+  <AncientSecurityCrate.description>보안 경보 기능이 있는, 자체 동력으로 귀중품을 밀폐 보관하는 장치입니다. 내용물은 오랜 시간 동안 상태를 유지합니다. 적절한 코드를 입력하지 않고 강제로 열 경우 근처의 보안 시스템을 작동시킬 수 있습니다.</AncientSecurityCrate.description>
   
-  <AncientTerminal.label>ancient terminal</AncientTerminal.label>
-  <AncientTerminal.description>An ancient computer terminal. It can be hacked to reveal long-forgotten information.</AncientTerminal.description>
+  <AncientTerminal.label>고대 단말기</AncientTerminal.label>
+  <AncientTerminal.description>고대의 컴퓨터 단말기입니다. 해킹하여 잊혀진 정보를 밝혀낼 수 있습니다.</AncientTerminal.description>
   
-  <AncientTerminal_Worshipful.label>ancient terminal</AncientTerminal_Worshipful.label>
-  <AncientTerminal_Worshipful.description>An ancient computer terminal. It can be hacked to reveal long-forgotten information.</AncientTerminal_Worshipful.description>
+  <AncientTerminal_Worshipful.label>고대 단말기</AncientTerminal_Worshipful.label>
+  <AncientTerminal_Worshipful.description>고대의 컴퓨터 단말기입니다. 해킹하여 잊혀진 정보를 밝혀낼 수 있습니다.</AncientTerminal_Worshipful.description>
 </LanguageData>
