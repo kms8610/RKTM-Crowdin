@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NobleDespisedWeapons.label>crwdns437118:0crwdne437118:0</NobleDespisedWeapons.label>
-  <NobleDespisedWeapons.description>crwdns437120:0crwdne437120:0</NobleDespisedWeapons.description>
-  <NobleDespisedWeapons.comps.0.description>crwdns437122:0crwdne437122:0</NobleDespisedWeapons.comps.0.description>
-  <NobleDespisedWeapons.comps.1.description>crwdns437124:0crwdne437124:0</NobleDespisedWeapons.comps.1.description>
-  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>crwdns437126:0crwdne437126:0</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
-  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>crwdns437128:0crwdne437128:0</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>crwdns442538:0crwdne442538:0</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
+  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>crwdns442540:0crwdne442540:0</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+  
+  <UsedDespisedWeapon.stages.used_despised_weapon.label>crwdns442542:0crwdne442542:0</UsedDespisedWeapon.stages.used_despised_weapon.label>
+  <UsedDespisedWeapon.stages.used_despised_weapon.description>crwdns442544:0crwdne442544:0</UsedDespisedWeapon.stages.used_despised_weapon.description>
+  
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>crwdns442546:0{WEAPON_label}crwdne442546:0</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>crwdns442548:0{WEAPON_label}crwdne442548:0</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>crwdns442550:0{WEAPON_label}crwdne442550:0</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
+  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>crwdns442552:0{WEAPON_label}crwdne442552:0</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
 </LanguageData>
