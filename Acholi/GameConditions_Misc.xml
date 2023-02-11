@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NoxiousHaze.label>crwdns421364:0crwdne421364:0</NoxiousHaze.label>
-  <NoxiousHaze.description>crwdns421366:0{NEARBYPOLLUTION}crwdnd421366:0{MTB}crwdne421366:0</NoxiousHaze.description>
-  <NoxiousHaze.endMessage>crwdns421368:0crwdne421368:0</NoxiousHaze.endMessage>
-  <NoxiousHaze.startMessage>crwdns421370:0crwdne421370:0</NoxiousHaze.startMessage>
+  <Aurora.label>crwdns456888:0crwdne456888:0</Aurora.label>
+  <Aurora.description>crwdns456890:0crwdne456890:0</Aurora.description>
+  <Aurora.endMessage>crwdns456892:0crwdne456892:0</Aurora.endMessage>
+  <Aurora.letterText>crwdns456894:0crwdne456894:0</Aurora.letterText>
+  
+  <ClimateCycle.label>crwdns456896:0crwdne456896:0</ClimateCycle.label>
+  <ClimateCycle.description>crwdns456898:0crwdne456898:0</ClimateCycle.description>
+  
+  <ColdSnap.label>crwdns456900:0crwdne456900:0</ColdSnap.label>
+  <ColdSnap.description>crwdns456902:0crwdne456902:0</ColdSnap.description>
+  <ColdSnap.descriptionFuture>crwdns456904:0[map_definite]crwdnd456904:0[gameConditionDuration_duration]crwdne456904:0</ColdSnap.descriptionFuture>
+  <ColdSnap.endMessage>crwdns456906:0crwdne456906:0</ColdSnap.endMessage>
+  <ColdSnap.letterText>crwdns456908:0crwdne456908:0</ColdSnap.letterText>
+  
+  <Eclipse.label>crwdns456910:0crwdne456910:0</Eclipse.label>
+  <Eclipse.description>crwdns456912:0crwdne456912:0</Eclipse.description>
+  <Eclipse.endMessage>crwdns456914:0crwdne456914:0</Eclipse.endMessage>
+  <Eclipse.letterText>crwdns456916:0crwdne456916:0</Eclipse.letterText>
+  
+  <Flashstorm.label>crwdns456918:0crwdne456918:0</Flashstorm.label>
+  <Flashstorm.description>crwdns456920:0crwdne456920:0</Flashstorm.description>
+  <Flashstorm.endMessage>crwdns456922:0crwdne456922:0</Flashstorm.endMessage>
+  <Flashstorm.letterText>crwdns456924:0crwdne456924:0</Flashstorm.letterText>
+  
+  <HeatWave.label>crwdns456926:0crwdne456926:0</HeatWave.label>
+  <HeatWave.description>crwdns456928:0crwdne456928:0</HeatWave.description>
+  <HeatWave.descriptionFuture>crwdns456930:0[map_definite]crwdnd456930:0[gameConditionDuration_duration]crwdne456930:0</HeatWave.descriptionFuture>
+  <HeatWave.endMessage>crwdns456932:0crwdne456932:0</HeatWave.endMessage>
+  <HeatWave.letterText>crwdns456934:0crwdne456934:0</HeatWave.letterText>
+  
+  <Planetkiller.label>crwdns456936:0crwdne456936:0</Planetkiller.label>
+  <Planetkiller.description>crwdns456938:0crwdne456938:0</Planetkiller.description>
+  
+  <PsychicDrone.label>crwdns456940:0crwdne456940:0</PsychicDrone.label>
+  <PsychicDrone.description>crwdns456942:0crwdne456942:0</PsychicDrone.description>
+  <PsychicDrone.descriptionFuture>crwdns456944:0[psychicDroneLevel]crwdnd456944:0[map_definite]crwdnd456944:0[gameConditionDuration_duration]crwdnd456944:0[psychicDroneGender]crwdne456944:0</PsychicDrone.descriptionFuture>
+  <PsychicDrone.endMessage>crwdns456946:0crwdne456946:0</PsychicDrone.endMessage>
+  <PsychicDrone.letterText>crwdns456948:0{0}crwdnd456948:0{0}crwdnd456948:0{1}crwdne456948:0</PsychicDrone.letterText>
+  
+  <PsychicSoothe.label>crwdns456950:0crwdne456950:0</PsychicSoothe.label>
+  <PsychicSoothe.description>crwdns456952:0crwdne456952:0</PsychicSoothe.description>
+  <PsychicSoothe.endMessage>crwdns456954:0crwdne456954:0</PsychicSoothe.endMessage>
+  <PsychicSoothe.letterText>crwdns456956:0{0}crwdnd456956:0{0}crwdne456956:0</PsychicSoothe.letterText>
+  
+  <SolarFlare.label>crwdns456958:0crwdne456958:0</SolarFlare.label>
+  <SolarFlare.description>crwdns456960:0crwdne456960:0</SolarFlare.description>
+  <SolarFlare.endMessage>crwdns456962:0crwdne456962:0</SolarFlare.endMessage>
+  <SolarFlare.letterText>crwdns456964:0crwdne456964:0</SolarFlare.letterText>
+  
+  <ToxicFallout.label>crwdns456966:0crwdne456966:0</ToxicFallout.label>
+  <ToxicFallout.description>crwdns456968:0crwdne456968:0</ToxicFallout.description>
+  <ToxicFallout.descriptionFuture>crwdns456970:0[map_definite]crwdnd456970:0[gameConditionDuration_duration]crwdne456970:0</ToxicFallout.descriptionFuture>
+  <ToxicFallout.endMessage>crwdns456972:0crwdne456972:0</ToxicFallout.endMessage>
+  <ToxicFallout.letterText>crwdns456974:0crwdne456974:0</ToxicFallout.letterText>
+  
+  <VolcanicWinter.label>crwdns456976:0crwdne456976:0</VolcanicWinter.label>
+  <VolcanicWinter.description>crwdns456978:0crwdne456978:0</VolcanicWinter.description>
+  <VolcanicWinter.descriptionFuture>crwdns456980:0[map_definite]crwdnd456980:0[gameConditionDuration_duration]crwdne456980:0</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.endMessage>crwdns456982:0crwdne456982:0</VolcanicWinter.endMessage>
+  <VolcanicWinter.letterText>crwdns456984:0crwdne456984:0</VolcanicWinter.letterText>
 </LanguageData>
