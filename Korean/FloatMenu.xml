@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NotAMechanitor>Not a mechanitor</NotAMechanitor>
-  <NotEnoughBandwidth>Not enough bandwidth</NotEnoughBandwidth>
-  <ControlMech>Take control of {0}</ControlMech>
-  <CannotControlMech>Cannot control {0}</CannotControlMech>
-  <CannotControlMechAlreadyControlled>Already controlled by {0}</CannotControlMechAlreadyControlled>
-  <CannotControlMechNotEnoughBandwidth>Not enough bandwidth</CannotControlMechNotEnoughBandwidth>
-  <CannotControlMechNeverControllable>Never controllable</CannotControlMechNeverControllable>
-  <CannotDisconnectMech>Cannot disconnect from {0}</CannotDisconnectMech>
-  <DisconnectMech>Disconnect from {0}</DisconnectMech>
-  <DisassembleMech>Permanently disassemble {0}</DisassembleMech>
-  <CannotDisassembleMech>Cannot permanently disassemble {0}</CannotDisassembleMech>
-  <MustBeOverseer>Must be overseer</MustBeOverseer>
-  <Extract>Extract</Extract>
-  <OutOfCommandRange>Out of command range</OutOfCommandRange>
-  <CannotGoOutOfRange>Cannot go here</CannotGoOutOfRange>
-  <WasteContainerFull>Must be emptied</WasteContainerFull>
-  <CannotRepairMech>Cannot repair mech {0}</CannotRepairMech>
+  <NotAMechanitor>메카나이터 아님</NotAMechanitor>
+  <NotEnoughBandwidth>대역폭 부족</NotEnoughBandwidth>
+  <ControlMech>{0} 제어</ControlMech>
+  <CannotControlMech>{0} 제어 불가</CannotControlMech>
+  <CannotControlMechAlreadyControlled>이미 {0}(이)가 제어 중</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>대역폭 부족</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>절대 통제 불가능</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>{0} 연결 해제 불가능</CannotDisconnectMech>
+  <DisconnectMech>{0}(와)과 연결 끊기</DisconnectMech>
+  <DisassembleMech>{0} 분해</DisassembleMech>
+  <CannotDisassembleMech>{0} 분해 불가</CannotDisassembleMech>
+  <MustBeOverseer>통제자여아 함</MustBeOverseer>
+  <Extract>추출</Extract>
+  <OutOfCommandRange>명령 범위 벗어남</OutOfCommandRange>
+  <CannotGoOutOfRange>여기 갈 수 없음</CannotGoOutOfRange>
+  <WasteContainerFull>비워야 함</WasteContainerFull>
+  <CannotRepairMech>{0} 수리 불가</CannotRepairMech>
 
-  <ExtractXenogermFrom>Extract xenogerm from {PAWN_nameDef}</ExtractXenogermFrom>
-  <EnterBuilding>Enter {0_labelShort}</EnterBuilding>
-  <PawnHasNoGenes>{PAWN_nameDef} has no genes</PawnHasNoGenes>
-  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} has no extractable genes.</PawnHasNoNonArchiteGenes>
-  <InXenogerminationComa>In xenogermination coma</InXenogerminationComa>
-  <Occupied>Occupied</Occupied>
-  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} was ejected from a growth vat</OccupantEjectedFromGrowthVat>
-  <TooOld>{PAWN_nameDef} must be younger than {AGEYEARS} years old.</TooOld>
-  <PawnIsTooOld>{PAWN_nameDef} is too old.</PawnIsTooOld>
-  <PawnBiostarving>{PAWN_nameDef} is suffering from biostarvation.</PawnBiostarving>
-  <NoViablePawns>No available people</NoViablePawns>
-  <NoExtractablePawns>No extractable people</NoExtractablePawns>
-  <NoImplantablePawns>No implantable people</NoImplantablePawns>
-  <CannotEnterBuilding>Cannot enter {0_labelShort}</CannotEnterBuilding>
-  <AssignedToOtherPawn>{0_labelShort} is assigned to another person.</AssignedToOtherPawn>
+  <ExtractXenogermFrom>{PAWN_nameDef}의 변형이식체 추출</ExtractXenogermFrom>
+  <EnterBuilding>{0_labelShort} 탑승</EnterBuilding>
+  <PawnHasNoGenes>{PAWN_nameDef}(이)가 가진 유전자 없음</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>{PAWN_nameDef}(은)는 추출 가능한 유전자를 보유하지 않습니다.</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>변형이식 혼수상태</InXenogerminationComa>
+  <Occupied>가득 참</Occupied>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef}(이)가 성장수조에서 배출됨</OccupantEjectedFromGrowthVat>
+  <TooOld>{PAWN_nameDef}(이)가 {AGEYEARS}살 미만이어야 합니다.</TooOld>
+  <PawnIsTooOld>{PAWN_nameDef}의 나이가 너무 많습니다.</PawnIsTooOld>
+  <PawnBiostarving>{PAWN_nameDef}(은)는 생물 기아에 시달리고 있습니다.</PawnBiostarving>
+  <NoViablePawns>가능한 사람 없음</NoViablePawns>
+  <NoExtractablePawns>추출 가능한 사람 없음</NoExtractablePawns>
+  <NoImplantablePawns>이식 가능한 사람 없음</NoImplantablePawns>
+  <CannotEnterBuilding>{0_labelShort}에 들어갈 수 없습니다</CannotEnterBuilding>
+  <AssignedToOtherPawn>{0_labelShort}(은)는 다른사람에게 할당되어있습니다</AssignedToOtherPawn>
 
-  <AbsorbXenogerm>Absorb xenogerm of {PAWN_nameDef}</AbsorbXenogerm>
-  <CannotAbsorbXenogerm>Cannot absorb {PAWN_nameDef}'s xenogerm</CannotAbsorbXenogerm>
-  <SameXenotype>{PAWN_nameDef} is already {PAWN_xenotype}</SameXenotype>
-  <XenogermLossShockPresent>{PAWN_nameDef} suffering from xenogerm loss shock</XenogermLossShockPresent>
-  <CarryToSpecificThing>Carry to {0_labelShort}</CarryToSpecificThing>
-  <NoCasketOrBed>No reachable, un-reserved bed or deathrest casket in safe temperature.</NoCasketOrBed>
-  <TemporaryFactionMember>{PAWN_nameDef} is a temporary faction member.</TemporaryFactionMember>
+  <AbsorbXenogerm>{PAWN_nameDef}의 변형이식체 흡수</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>{PAWN_nameDef}의 변형이식체를 흡수할 수 없음</CannotAbsorbXenogerm>
+  <SameXenotype>{PAWN_nameDef}(은)는 이미 {PAWN_xenotype}입니다.</SameXenotype>
+  <XenogermLossShockPresent>{PAWN_nameDef}(은)는 변형이식체 손실 충격으로 고통받음</XenogermLossShockPresent>
+  <CarryToSpecificThing>{0_labelShort}로 이동</CarryToSpecificThing>
+  <NoCasketOrBed>안전한 온도에서 사용할 수 있는 할당되지 않은 침대 또는 죽음안식 관이 없습니다.</NoCasketOrBed>
+  <TemporaryFactionMember>{PAWN_nameDef}(은)는 임시 구성원입니다.</TemporaryFactionMember>
 
-  <SubcoreScannerNotInit>Scanner not initiated</SubcoreScannerNotInit>
-  <SubcoreScannerRequiresIngredients>Waiting for ingredients</SubcoreScannerRequiresIngredients>
-  <SubcoreScannerOccupied>Occupied</SubcoreScannerOccupied>
-  <EnterSubcoreScanner>Enter {0}</EnterSubcoreScanner>
+  <SubcoreScannerNotInit>스캐너가 초기화되지 않음</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>재료 대기 중</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>가득 참</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>{0} 탑승</EnterSubcoreScanner>
 
-  <BabyCareBreastfeed>Breastfeed {BABY_labelShort}</BabyCareBreastfeed>
-  <BabyCareBreastfeedUnable>Cannot breastfeed {BABY_labelShort}</BabyCareBreastfeedUnable>
-  <NoBabyFood>No baby-edible food</NoBabyFood>
+  <BabyCareBreastfeed>{BABY_labelShort}에게 모유 수유</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>{BABY_labelShort}에게 모유 수유 불가</BabyCareBreastfeedUnable>
+  <NoBabyFood>아기에게 적합한 식량 없음</NoBabyFood>
 
-  <CannotInteractBabyPlayFull>play need full</CannotInteractBabyPlayFull>
+  <CannotInteractBabyPlayFull>놀이 욕구 가득 참</CannotInteractBabyPlayFull>
 
-  <BloodfeedOn>Feed on {PAWN_nameDef}</BloodfeedOn>
-  <CannotBloodfeedOn>Cannot feed on {PAWN_nameDef}</CannotBloodfeedOn>
-  <CannotFeedOnWouldKill>Not enough blood.</CannotFeedOnWouldKill>
+  <BloodfeedOn>{PAWN_nameDef} 포식</BloodfeedOn>
+  <CannotBloodfeedOn>{PAWN_nameDef} 포식 불가</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>혈액이 충분하지 않습니다.</CannotFeedOnWouldKill>
 
   <!-- BreastfeedFailReason strings-->
-  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} does not have enough milk</BreastfeedFailReason_MomNotEnoughMilk>
-  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} cannot breastfeed right now</BreastfeedFailReason_MomInMentalState>
-  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} is too full to suckle</BreastfeedFailReason_BabyTooFull>
-  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} is forbidden to {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
-  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
-  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} can breastfeed {BABY_labelShort} without help</BreastfeedFailReason_MomIsMobile>
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
-  <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
-  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} is inside a container</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
-  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} is being carried</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
+  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort}의 모유 부족</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort}(이)가 현재 수유 불가</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort}(이)가 너무 배부름</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>{MOM_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>{HAULER_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort}(와)과 {HAULER_labelShort}의 상호작용 금지됨</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}(은)는 도움 없이 {BABY_labelShort}에게 모유 수유를 할 수 있습니다.</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}(은)는 {BABY_labelShort}에서 {MOM_labelShort}(으)로 이동할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}(은)는 {BABY_labelShort}에게 도달할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>수유 중인 {BABY_factionPawnsPlural}(이)가 {BABY_labelShort}에 할당되지 않았습니다.</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}(은)는 보육에 할당되지 않았습니다.</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort}(은)는 수용되어 있음</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort}(은)는 이송되고 있음</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
 
-  <OrderImplantationIntoPawn>Order implantation into {PAWN_nameDef}</OrderImplantationIntoPawn>
-  <AcceptXenogerm>Accept {0_xenotype} xenogerm</AcceptXenogerm>
+  <OrderImplantationIntoPawn>{PAWN_nameDef}에 이식 명령</OrderImplantationIntoPawn>
+  <AcceptXenogerm>{0_xenotype} 변형이식체 수용</AcceptXenogerm>
 
-  <CarryToRechargerOrdered>Carry {PAWN_labelShort} to recharger</CarryToRechargerOrdered>
-  <CannotCarryToRecharger>Cannot carry {PAWN_labelShort} to recharger</CannotCarryToRecharger>
-  <CannotCarryToRechargerNoneAvailable>No available recharger</CannotCarryToRechargerNoneAvailable>
+  <CarryToRechargerOrdered>{PAWN_labelShort}(을)를 충전기로 이송</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>{PAWN_labelShort}(을)를 충전기로 이송할 수 없음</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>사용 가능한 충전기 없음</CannotCarryToRechargerNoneAvailable>
 
-  <CannotStudy>Cannot study</CannotStudy>
-  <AlreadyStudied>already studied</AlreadyStudied>
-  <NoResearchBench>no reachable, un-reserved research bench available</NoResearchBench>
+  <CannotStudy>연구 불가</CannotStudy>
+  <AlreadyStudied>이미 연구함</AlreadyStudied>
+  <NoResearchBench>도달 가능하고 사용 중이지 않은 연구 작업대 없음</NoResearchBench>
 
-  <NotAllowedHemogen>Hemogen packs disabled by food restriction.</NotAllowedHemogen>
+  <NotAllowedHemogen>식량 정책으로 인해 혈액팩이 금지되었습니다.</NotAllowedHemogen>
 
-  <EjectGenepackFromGeneBank>Eject genepack from gene bank</EjectGenepackFromGeneBank>
+  <EjectGenepackFromGeneBank>유전자 저장고에서 유전자묶음 꺼내기</EjectGenepackFromGeneBank>
 
-  <ResultingMetTooLow>Resulting metabolism would be too low</ResultingMetTooLow>
+  <ResultingMetTooLow>결과의 대사 효율이 너무 낮음</ResultingMetTooLow>
 
-  <RomanceOnCooldown>attempted romance too recently</RomanceOnCooldown><!-- text_todo -->
+  <RomanceOnCooldown>너무 최근에 로맨스를 시도함</RomanceOnCooldown><!-- text_todo -->
 
 </LanguageData>
