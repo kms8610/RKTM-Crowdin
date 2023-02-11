@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Archer25.baseDesc>{PAWN_nameDef}(은)는 자신의 부족을 위해 싸웠습니다. {PAWN_pronoun}는 활과 투창을 포함해 원거리 무기 사용에 뛰어났습니다.</Archer25.baseDesc>
+  <Archer25.title>궁수</Archer25.title>
+  <Archer25.titleShort>궁수</Archer25.titleShort>
+  
+  <Banished68.baseDesc>{PAWN_nameDef}의 부족은 피 튀기는 논쟁 끝에 {PAWN_pronoun}를 추방했습니다. {PAWN_pronoun}는 오랫동안 야생에서 홀로 살아남아야 했습니다.</Banished68.baseDesc>
+  <Banished68.title>추방자</Banished68.title>
+  <Banished68.titleShort>추방자</Banished68.titleShort>
+  
+  <Brave88.baseDesc>{PAWN_nameDef}(은)는 단창, 도끼, 몽둥이 따위의 근접 무기를 활용해서 부족의 전투에 참여했습니다.</Brave88.baseDesc>
+  <Brave88.title>용사</Brave88.title>
+  <Brave88.titleShort>용사</Brave88.titleShort>
+  
+  <Butcher40.baseDesc>{PAWN_nameDef}(은)는 사냥감의 도축을 주로 맡았습니다. {PAWN_pronoun}는 칼을 쓰는데 놀라울 만큼 능숙해져, 아주 짧은 시간 안에 시체에서 모든 뼈와 살을 분리해 낼 수 있게 되었습니다.</Butcher40.baseDesc>
+  <Butcher40.title>도살자</Butcher40.title>
+  <Butcher40.titleShort>도살자</Butcher40.titleShort>
+  
+  <Carver1.baseDesc>{PAWN_nameDef}(은)는 자신의 부족을 위해 나무나 돌, 가끔은 이국적인 원자재를 사용해 예술품을 조각했습니다. {PAWN_pronoun}의 작품들은 팔리기도 했고, 부족 정착지에 둬서 의례의 중심으로 쓰이기도 했습니다.</Carver1.baseDesc>
+  <Carver1.title>조각가</Carver1.title>
+  <Carver1.titleShort>조각가</Carver1.titleShort>
+  
+  <CaveBuilder81.baseDesc>{PAWN_nameDef}(은)는 복잡한 동굴망의 굴착과 건설을 전문적으로 다뤘습니다.</CaveBuilder81.baseDesc>
+  <CaveBuilder81.title>동굴 건설자</CaveBuilder81.title>
+  <CaveBuilder81.titleShort>동굴 건설자</CaveBuilder81.titleShort>
+  
+  <Digger31.baseDesc>{PAWN_nameDef}(은)는 광산과 동굴에서 일하면서 물품을 보관하거나 위협에서 대피할 곳을 파내는 일을 했습니다. {PAWN_pronoun}가 파낸 공간은 동료들에게 여러 차례 큰 도움이 됐습니다.</Digger31.baseDesc>
+  <Digger31.title>땅굴꾼</Digger31.title>
+  <Digger31.titleShort>땅굴꾼</Digger31.titleShort>
+  
+  <Digger66.baseDesc>{PAWN_nameDef}(은)는 산과 언덕의 허리에서 살 공간을 파내는 일을 했습니다. {PAWN_pronoun}(은)는 바위를 파고 동굴 벽을 강화하는 일을 하며 마치 집처럼 편안함을 느낍니다.</Digger66.baseDesc>
+  <Digger66.title>땅굴꾼</Digger66.title>
+  <Digger66.titleShort>땅굴꾼</Digger66.titleShort>
+  
+  <Excavator55.baseDesc>{PAWN_nameDef}(은)는 여러 굴착지에서 일하면서, 지층이 되어버린 고대 폐허에서 귀중한 물품과 재료를 캐냈습니다. {PAWN_pronoun}는 땅에서 귀중한 물품을 찾는 방법을 배웠고, 여러 굴착 도구의 사용법을 익혔습니다.</Excavator55.baseDesc>
+  <Excavator55.title>굴착꾼</Excavator55.title>
+  <Excavator55.titleShort>굴착꾼</Excavator55.titleShort>
+  
+  <Framer37.baseDesc>{PAWN_nameDef}(은)는 {PAWN_possessive} 부족민들이 살 집을 건설했습니다. 유목 생활을 할 때의 임시 구조물과, 영구 정착지에서의 집 모두 지었습니다. 지역 식생에서 건축 자재를 모으는 것도 {PAWN_pronoun}의 일 중 하나였습니다.</Framer37.baseDesc>
+  <Framer37.title>골조 건축가</Framer37.title>
+  <Framer37.titleShort>골조 건축가</Framer37.titleShort>
+  
+  <Gatherer70.baseDesc>{PAWN_nameDef}(은)는 풀과 뿌리와 열매에 통달했고, 가장 척박한 땅에서도 먹을 걸 찾을 수 있었습니다. {PAWN_pronoun}는 동물들에게는 거리를 뒀습니다.</Gatherer70.baseDesc>
+  <Gatherer70.title>채집가</Gatherer70.title>
+  <Gatherer70.titleShort>채집가</Gatherer70.titleShort>
+  
+  <Healer46.baseDesc>부족의 치유사 장로가 습격에서 사망한 후, 그 역할은 {PAWN_nameDef}(이)가 이어받았습니다. {PAWN_pronoun}(은)는 주변 지역에서 약초와 광물을 수집하느라 며칠씩을 보냈고, 이 재료들만으로 놀랍도록 효과적인 치료제를 만들 수 있었습니다.</Healer46.baseDesc>
+  <Healer46.title>치유사</Healer46.title>
+  <Healer46.titleShort>치유사</Healer46.titleShort>
+  
+  <HearthTender66.baseDesc>다른 사람들이 채집하며 사냥을 하러 나가 있는 동안, {PAWN_nameDef}(은)는 집에서 요리하며 아픈 사람들을 돌봤습니다.</HearthTender66.baseDesc>
+  <HearthTender66.title>가정 지킴이</HearthTender66.title>
+  <HearthTender66.titleShort>부드러운</HearthTender66.titleShort>
+  
+  <Herder33.baseDesc>{PAWN_nameDef}(은)는 유목 생활에서 다양한 종류의 동물 떼를 길러 부족민들의 의와 식을 해결했습니다. {PAWN_nameDef}(은)는 짐승들을 진정시키고 명령을 내리는 방법을 터득했고, 이동 중 자신이 먹을 고기를 사냥하는 방법도 배웠습니다.</Herder33.baseDesc>
+  <Herder33.title>목동</Herder33.title>
+  <Herder33.titleShort>목동</Herder33.titleShort>
+  
+  <Hunter74.baseDesc>{PAWN_nameDef}(은)는 고기와 가죽을 위해 동물을 추적하고, 덫을 놓고, 죽였습니다.\n\n{PAWN_nameDef}(은)는 원거리와 근접 무기 모두 사용했고, 때로는 훈련된 동물들과 함께 사냥에 나섰습니다.</Hunter74.baseDesc>
+  <Hunter74.title>사냥꾼</Hunter74.title>
+  <Hunter74.titleShort>사냥꾼</Hunter74.titleShort>
+  
+  <Logger16.baseDesc>{PAWN_nameDef}(은)는 나무를 베고 목재를 부족에게 가져갔습니다. {PAWN_pronoun}는 예술가와 맞먹는 기교, 머팔로와 맞먹는 힘으로 도끼를 휘둘렀습니다.</Logger16.baseDesc>
+  <Logger16.title>벌목꾼</Logger16.title>
+  <Logger16.titleShort>벌목꾼</Logger16.titleShort>
+  
+  <Loner61.baseDesc>{PAWN_nameDef}(은)는 부족회의나 매년 열리는 축제를 전혀 좋아하지 않았습니다. {PAWN_pronoun}는 넓은 평원과, 바위 사이로 부는 바람이 만드는 소리를 선호했습니다.\n\n{PAWN_pronoun}는 자신이 속한 부족을 가끔 방문하긴 했지만, 스스로 생존 기술을 사용해 시간 대부분을 혼자 지냈습니다.</Loner61.baseDesc>
+  <Loner61.title>방황자</Loner61.title>
+  <Loner61.titleShort>방황자</Loner61.titleShort>
+  
+  <LoreKeeper51.baseDesc>{PAWN_nameDef}(은)는 부족의 대대로 이어진 전승자 중 한 명이었습니다. 매일 밤, 불 주위에서, {PAWN_pronoun}는 이야기를 통해 고대 지식과 유용한 지혜를 전했습니다.</LoreKeeper51.baseDesc>
+  <LoreKeeper51.title>전승자</LoreKeeper51.title>
+  <LoreKeeper51.titleShort>전승자</LoreKeeper51.titleShort>
+  
+  <Malingerer28.baseDesc>{PAWN_nameDef}(은)는 종종 자신의 책임을 피하기 위해 아픈 척을 했습니다. 병실에 있는 동안, {PAWN_pronoun}는 아이들에게 이야기들을 들려줬습니다.</Malingerer28.baseDesc>
+  <Malingerer28.title>꾀병쟁이</Malingerer28.title>
+  <Malingerer28.titleShort>꾀병쟁이</Malingerer28.titleShort>
+  
+  <MuffaloShaman95.baseDesc>침착한 지혜와 위대한 힘 덕분에, {PAWN_nameDef}(은)는 부족의 영적 지도자가 될 수 있었습니다. {PAWN_pronoun}는 머팔로의 위대한 영혼과 특별한 교감을 할 수 있었습니다.</MuffaloShaman95.baseDesc>
+  <MuffaloShaman95.title>머팔로 주술사</MuffaloShaman95.title>
+  <MuffaloShaman95.titleShort>주술사</MuffaloShaman95.titleShort>
+  
+  <PlankCutter72.baseDesc>{PAWN_nameDef}(은)는 원목을 튼튼한 판자로 가공하여 부족이 큰 건물을 짓는데 이바지했습니다. {PAWN_nameDef}(은)는 나무가 어떻게 자라고 갈라지는지에 대해 아주 정확히 알게 되었습니다.</PlankCutter72.baseDesc>
+  <PlankCutter72.title>판자꾼</PlankCutter72.title>
+  <PlankCutter72.titleShort>판자꾼</PlankCutter72.titleShort>
+  
+  <Scout59.baseDesc>{PAWN_nameDef}의 부족이 외지인들과 접촉한 순간, {PAWN_pronoun}는 외지인들의 안내인으로 자원했습니다. 고대 기술과의 빈번한 접촉 덕에 {PAWN_pronoun}는 사라진 문명의 기계들을 봐도 불편을 느끼지 않게 됐습니다.</Scout59.baseDesc>
+  <Scout59.title>정찰병</Scout59.title>
+  <Scout59.titleShort>정찰병</Scout59.titleShort>
+  
+  <StewKeeper95.baseDesc>{PAWN_nameDef}(은)는 부족의 농부들, 사냥꾼들, 채집꾼들이 가져온 다양한 재료들로 식사를 준비했습니다. {PAWN_pronoun}는 효율적이고, 오래 배부르고, 건강한 식단을 만들기 위해 항상 노력했고, 때로는 직접 식물을 채집하여 손질했습니다.</StewKeeper95.baseDesc>
+  <StewKeeper95.title>스튜 지킴이</StewKeeper95.title>
+  <StewKeeper95.titleShort>스튜 지킴이</StewKeeper95.titleShort>
+  
+  <Tamer79.baseDesc>{PAWN_nameDef}(이)가 부족에서 맡은 역할은 주변의 자연과 교감하는 것이었고, 특히 동물 세계와의 교감이 중요했습니다. 영적인 일 외에도, [PAWN_pronoun]는 야생 짐승들을 길들이고 보살펴 부족을 위해 일하도록 했습니다.</Tamer79.baseDesc>
+  <Tamer79.title>조련사</Tamer79.title>
+  <Tamer79.titleShort>조련사</Tamer79.titleShort>
+  
+  <TreehouseBuilder86.baseDesc>{PAWN_nameDef}(은)는 {PAWN_pronoun}의 부족 사람들이 여행 중에, 혹은 채집을 하러 나가서 쓸 수 있는 작은 집들을 나무 위에 지었습니다. {PAWN_nameDef}(은)는 광야의 식물들을 찾고 활용하는 법을 익혔고, 위험한 야생동물들을 쫓는 법도 배웠습니다.</TreehouseBuilder86.baseDesc>
+  <TreehouseBuilder86.title>나무집 건축가</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleShort>나무집 건축가</TreehouseBuilder86.titleShort>
+  
+  <VengefulHunter32.baseDesc>동물의 공격으로 친한 친구가 사망하자 {PAWN_nameDef}(은)는 그 짐승을 쫓았습니다. {PAWN_pronoun}는 흔적을 인근 마을까지 추적했는데, {PAWN_pronoun}가 본 모습은 마을 사람들 중 한 명이 이미 그 짐승의 가죽을 입고 있던 것이었습니다.</VengefulHunter32.baseDesc>
+  <VengefulHunter32.title>복수의 사냥꾼</VengefulHunter32.title>
+  <VengefulHunter32.titleShort>복수자</VengefulHunter32.titleShort>
+  
+  <Warrior94.baseDesc>{PAWN_nameDef}(은)는 수많은 무기를 능수능란하게 다루는 무시무시한 전사였습니다. {PAWN_pronoun}는 많은 전투에 참가했습니다.</Warrior94.baseDesc>
+  <Warrior94.title>전사</Warrior94.title>
+  <Warrior94.titleShort>전사</Warrior94.titleShort>
+  
+  <Weaver63.baseDesc>{PAWN_nameDef}(은)는 털실, 식물 섬유, 천연염료로 아름다운 옷을 만드는 전문가였습니다. {PAWN_possessive} 수공예품은 다른 곳에도 잘 팔렸습니다.</Weaver63.baseDesc>
+  <Weaver63.title>방직공</Weaver63.title>
+  <Weaver63.titleShort>방직공</Weaver63.titleShort>
+</LanguageData>
