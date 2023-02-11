@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AllowCorpsesMechEnemy.label>crwdns426888:0crwdne426888:0</AllowCorpsesMechEnemy.label>
-  <AllowCorpsesMechEnemy.description>crwdns426890:0crwdne426890:0</AllowCorpsesMechEnemy.description>
+  <AllowCannibal.label>crwdns439786:0crwdne439786:0</AllowCannibal.label>
+  <AllowCannibal.description>crwdns439788:0crwdne439788:0</AllowCannibal.description>
   
-  <AllowCorpsesMechFriendly.label>crwdns426892:0crwdne426892:0</AllowCorpsesMechFriendly.label>
-  <AllowCorpsesMechFriendly.description>crwdns426894:0crwdne426894:0</AllowCorpsesMechFriendly.description>
+  <AllowCarnivore.label>crwdns439790:0crwdne439790:0</AllowCarnivore.label>
+  <AllowCarnivore.description>crwdns439792:0crwdne439792:0</AllowCarnivore.description>
+  
+  <AllowCorpsesSlave.label>crwdns439794:0crwdne439794:0</AllowCorpsesSlave.label>
+  <AllowCorpsesSlave.description>crwdns439796:0crwdne439796:0</AllowCorpsesSlave.description>
+  
+  <AllowInsectMeat.label>crwdns439798:0crwdne439798:0</AllowInsectMeat.label>
+  <AllowInsectMeat.description>crwdns439800:0crwdne439800:0</AllowInsectMeat.description>
+  
+  <AllowVegetarian.label>crwdns439802:0crwdne439802:0</AllowVegetarian.label>
+  <AllowVegetarian.description>crwdns439804:0crwdne439804:0</AllowVegetarian.description>
 </LanguageData>
