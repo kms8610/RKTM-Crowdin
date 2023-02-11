@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Heatstroke.label>crwdns457612:0crwdne457612:0</Heatstroke.label>
+  <Heatstroke.description>crwdns457614:0crwdne457614:0</Heatstroke.description>
+  <Heatstroke.stages.initial-0.label>crwdns457616:0crwdne457616:0</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-1.label>crwdns457618:0crwdne457618:0</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.minor.label>crwdns457620:0crwdne457620:0</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.serious.label>crwdns457622:0crwdne457622:0</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.extreme.label>crwdns457624:0crwdne457624:0</Heatstroke.stages.extreme.label>
+  
+  <Hypothermia.label>crwdns457626:0crwdne457626:0</Hypothermia.label>
+  <Hypothermia.description>crwdns457628:0crwdne457628:0</Hypothermia.description>
+  <Hypothermia.stages.shivering-0.label>crwdns457630:0crwdne457630:0</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-1.label>crwdns457632:0crwdne457632:0</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.minor.label>crwdns457634:0crwdne457634:0</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.serious.label>crwdns457636:0crwdne457636:0</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.extreme.label>crwdns457638:0crwdne457638:0</Hypothermia.stages.extreme.label>
+  
+  <HypothermicSlowdown.label>crwdns457640:0crwdne457640:0</HypothermicSlowdown.label>
+  <HypothermicSlowdown.description>crwdns457642:0crwdne457642:0</HypothermicSlowdown.description>
+  <HypothermicSlowdown.stages.minor-0.label>crwdns457644:0crwdne457644:0</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-1.label>crwdns457646:0crwdne457646:0</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.moderate.label>crwdns457648:0crwdne457648:0</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.serious.label>crwdns457650:0crwdne457650:0</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.extreme.label>crwdns457652:0crwdne457652:0</HypothermicSlowdown.stages.extreme.label>
+</LanguageData>
