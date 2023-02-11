@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BeamWound.label>beam burn</BeamWound.label>
-  <BeamWound.description>A beam burn.</BeamWound.description>
-  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>set</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>bandaged</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
-  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>sutured</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
-  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent beam injury</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
-  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>old beam wound</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
-  <BeamWound.injuryProps.destroyedLabel>Burned off</BeamWound.injuryProps.destroyedLabel>
-  <BeamWound.injuryProps.destroyedOutLabel>Burned out</BeamWound.injuryProps.destroyedOutLabel>
-  <BeamWound.labelNoun>a beam burn</BeamWound.labelNoun>
-  <BeamWound.labelNounPretty>{0} in the {1}</BeamWound.labelNounPretty>
+  <BeamWound.label>광선 화상</BeamWound.label>
+  <BeamWound.description>광선에 입은 화상입니다.</BeamWound.description>
+  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>치유됨</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>영구적 광선 화상</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>오래된 광선 상처</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <BeamWound.injuryProps.destroyedLabel>불에 타버림</BeamWound.injuryProps.destroyedLabel>
+  <BeamWound.injuryProps.destroyedOutLabel>불에 타버림</BeamWound.injuryProps.destroyedOutLabel>
+  <BeamWound.labelNoun>광선 화상</BeamWound.labelNoun>
+  <BeamWound.labelNounPretty>{1}의 {0}</BeamWound.labelNounPretty>
 </LanguageData>
