@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbsorbedXenogerm.label>absorbed xenogerm</AbsorbedXenogerm.label>
+  <AbsorbedXenogerm.label>변형이식체 흡수</AbsorbedXenogerm.label>
   
-  <ExtractedHemogenPack.label>extracted hemogen from member</ExtractedHemogenPack.label>
+  <ExtractedHemogenPack.label>구성원에게서 혈액정수 추출</ExtractedHemogenPack.label>
   
-  <PollutedBase.label>polluted base</PollutedBase.label>
+  <PollutedBase.label>기지 오염</PollutedBase.label>
   
-  <PollutedNearbySite.label>polluted nearby site</PollutedNearbySite.label>
+  <PollutedNearbySite.label>인근 지역 오염</PollutedNearbySite.label>
   
-  <ToxicWasteDumping.label>toxic waste dumping</ToxicWasteDumping.label>
+  <ToxicWasteDumping.label>유독성 폐기물 투기</ToxicWasteDumping.label>
 </LanguageData>
