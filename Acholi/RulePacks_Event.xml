@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Event_AbilityUsed.rulePack.rulesStrings>
+    <li>crwdns464494:0[INITIATOR_definite]crwdnd464494:0[ABILITY_label]crwdnd464494:0[SUBJECT_definite]crwdne464494:0</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
+  
+  <Event_ItemUsed.rulePack.rulesStrings>
+    <li>crwdns464496:0[INITIATOR_definite]crwdnd464496:0[ITEM_indefinite]crwdnd464496:0[SUBJECT_definite]crwdne464496:0</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
+  
+  <Event_Stun.rulePack.rulesStrings>
+    <li>crwdns464498:0[SUBJECT_definite]crwdnd464498:0[stunned]crwdne464498:0</li>
+    <li>crwdns464500:0[SUBJECT_definite]crwdnd464500:0[stunned]crwdnd464500:0[INITIATOR_definite]crwdne464500:0</li>
+    <li>crwdns464502:0crwdne464502:0</li>
+    <li>crwdns464504:0crwdne464504:0</li>
+    <li>crwdns464506:0crwdne464506:0</li>
+    <li>crwdns464508:0crwdne464508:0</li>
+    <li>crwdns464510:0[SUBJECT_definite]crwdnd464510:0[staggered]crwdne464510:0</li>
+    <li>crwdns464512:0[SUBJECT_definite]crwdnd464512:0[staggered]crwdne464512:0</li>
+    <li>crwdns464514:0[SUBJECT_definite]crwdnd464514:0[staggered]crwdnd464514:0[INITIATOR_definite]crwdne464514:0</li>
+    <li>crwdns464516:0crwdne464516:0</li>
+    <li>crwdns464518:0crwdne464518:0</li>
+    <li>crwdns464520:0crwdne464520:0</li>
+    <li>crwdns464522:0crwdne464522:0</li>
+    <li>crwdns464524:0[SUBJECT_definite]crwdnd464524:0[stumbled]crwdne464524:0</li>
+    <li>crwdns464526:0[SUBJECT_definite]crwdnd464526:0[stumbled]crwdne464526:0</li>
+    <li>crwdns464528:0crwdne464528:0</li>
+    <li>crwdns464530:0crwdne464530:0</li>
+    <li>crwdns464532:0crwdne464532:0</li>
+    <li>crwdns464534:0crwdne464534:0</li>
+  </Event_Stun.rulePack.rulesStrings>
+</LanguageData>
