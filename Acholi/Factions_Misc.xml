@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OutlanderRefugee.label>crwdns445350:0crwdne445350:0</OutlanderRefugee.label>
-  <OutlanderRefugee.description>crwdns445352:0crwdne445352:0</OutlanderRefugee.description>
-  <OutlanderRefugee.leaderTitle>crwdns445354:0crwdne445354:0</OutlanderRefugee.leaderTitle>
-  <OutlanderRefugee.pawnSingular>crwdns445356:0crwdne445356:0</OutlanderRefugee.pawnSingular>
-  <OutlanderRefugee.pawnsPlural>crwdns445358:0crwdne445358:0</OutlanderRefugee.pawnsPlural>
+  <OutlanderCivil.label>crwdns456802:0crwdne456802:0</OutlanderCivil.label>
+  <OutlanderCivil.description>crwdns456804:0crwdne456804:0</OutlanderCivil.description>
+  <OutlanderCivil.leaderTitle>crwdns456806:0crwdne456806:0</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.pawnSingular>crwdns456808:0crwdne456808:0</OutlanderCivil.pawnSingular>
+  <OutlanderCivil.pawnsPlural>crwdns456810:0crwdne456810:0</OutlanderCivil.pawnsPlural>
+  
+  <OutlanderRough.label>crwdns456812:0crwdne456812:0</OutlanderRough.label>
+  <OutlanderRough.description>crwdns456814:0crwdne456814:0</OutlanderRough.description>
+  <OutlanderRough.leaderTitle>crwdns456816:0crwdne456816:0</OutlanderRough.leaderTitle>
+  <OutlanderRough.pawnSingular>crwdns456818:0crwdne456818:0</OutlanderRough.pawnSingular>
+  <OutlanderRough.pawnsPlural>crwdns456820:0crwdne456820:0</OutlanderRough.pawnsPlural>
+  
+  <Pirate.label>crwdns456822:0crwdne456822:0</Pirate.label>
+  <Pirate.description>crwdns456824:0crwdne456824:0</Pirate.description>
+  <Pirate.leaderTitle>crwdns456826:0crwdne456826:0</Pirate.leaderTitle>
+  <Pirate.pawnSingular>crwdns456828:0crwdne456828:0</Pirate.pawnSingular>
+  <Pirate.pawnsPlural>crwdns456830:0crwdne456830:0</Pirate.pawnsPlural>
+  
+  <TribeCivil.label>crwdns456832:0crwdne456832:0</TribeCivil.label>
+  <TribeCivil.description>crwdns456834:0crwdne456834:0</TribeCivil.description>
+  <TribeCivil.leaderTitle>crwdns456836:0crwdne456836:0</TribeCivil.leaderTitle>
+  <TribeCivil.pawnSingular>crwdns456838:0crwdne456838:0</TribeCivil.pawnSingular>
+  <TribeCivil.pawnsPlural>crwdns456840:0crwdne456840:0</TribeCivil.pawnsPlural>
+  
+  <TribeRough.label>crwdns456842:0crwdne456842:0</TribeRough.label>
+  <TribeRough.description>crwdns456844:0crwdne456844:0</TribeRough.description>
+  <TribeRough.leaderTitle>crwdns456846:0crwdne456846:0</TribeRough.leaderTitle>
+  <TribeRough.pawnSingular>crwdns456848:0crwdne456848:0</TribeRough.pawnSingular>
+  <TribeRough.pawnsPlural>crwdns456850:0crwdne456850:0</TribeRough.pawnsPlural>
+  
+  <TribeSavage.label>crwdns456852:0crwdne456852:0</TribeSavage.label>
+  <TribeSavage.description>crwdns456854:0crwdne456854:0</TribeSavage.description>
+  <TribeSavage.leaderTitle>crwdns456856:0crwdne456856:0</TribeSavage.leaderTitle>
+  <TribeSavage.pawnSingular>crwdns456858:0crwdne456858:0</TribeSavage.pawnSingular>
+  <TribeSavage.pawnsPlural>crwdns456860:0crwdne456860:0</TribeSavage.pawnsPlural>
 </LanguageData>
