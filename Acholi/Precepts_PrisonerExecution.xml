@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ExecutedColonist.label>crwdns458564:0crwdne458564:0</ExecutedColonist.label>
-  
-  <ExecutedGuest.label>crwdns458566:0crwdne458566:0</ExecutedGuest.label>
-  
-  <ExecutedPrisoner.label>crwdns458568:0crwdne458568:0</ExecutedPrisoner.label>
-  
-  <ExecutedPrisonerGuilty.label>crwdns458570:0crwdne458570:0</ExecutedPrisonerGuilty.label>
-  
-  <ExecutedPrisonerInnocent.label>crwdns458572:0crwdne458572:0</ExecutedPrisonerInnocent.label>
+  <Execution.label>crwdns459640:0crwdne459640:0</Execution.label>
 </LanguageData>
