@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Blacksmith72.baseDesc>{PAWN_nameDef}(은)는 중세계 대장장이로서 고품질의 결과물로 명성을 쌓았습니다. {PAWN_pronoun}는 자신이 만든 검을 다루는데도 능했습니다.</Blacksmith72.baseDesc>
+  <Blacksmith72.title>대장장이</Blacksmith72.title>
+  <Blacksmith72.titleShort>대장장이</Blacksmith72.titleShort>
+  
+  <Herbalist54.baseDesc>{PAWN_nameDef}(은)는 마을 근처의 숲에 살았습니다. 많은 마을 사람들은 {PAWN_pronoun}를 무서워했지만, 병에 걸리면 제일 먼저 {PAWN_pronoun}의 집을 찾아와서 정원의 약초로 만든 연고와 습포제를 사갔습니다. {PAWN_nameDef}(은)는 사람들을 도와줄 수 있어 행복했습니다. 가격을 꽤 부르긴 했지만요.</Herbalist54.baseDesc>
+  <Herbalist54.title>약초꾼</Herbalist54.title>
+  <Herbalist54.titleShort>약초꾼</Herbalist54.titleShort>
+  
+  <MedievalDoctor40.baseDesc>{PAWN_nameDef}(은)는 중세계에서 의사로 활동했습니다. {PAWN_pronoun}는 약간의 방혈로 대부분의 질병을 치료할 수 있다고 굳게 믿었습니다.\n\n{PAWN_pronoun}는 또한 마취의 장인이었는데, 환자의 머리를 강하게 내려치기만 하면 됐습니다.</MedievalDoctor40.baseDesc>
+  <MedievalDoctor40.title>중세 의사</MedievalDoctor40.title>
+  <MedievalDoctor40.titleShort>돌팔이</MedievalDoctor40.titleShort>
+  
+  <MedievalFarmOaf58.baseDesc>개간, 괭이질, 소 끌기, 손수레 밀기. 도랑 파기, 씨앗 심기, 수확 예측.\n\n중세계 농부들은 일반적인 교육은 하나도 받지 못하지만 고전적인 밭일에 대해서는 상당한 전문가입니다. 반대로 말하면 지적인 기술 주도적 활동은 전혀 할 수 없는 삶이라는 뜻입니다.</MedievalFarmOaf58.baseDesc>
+  <MedievalFarmOaf58.title>중세 농부</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleShort>농부</MedievalFarmOaf58.titleShort>
+  
+  <MedievalLord57.baseDesc>{PAWN_nameDef}(은)는 산업화 이전 행성의 영주였습니다. [PAWN_pronoun]는 연회에 참석하고, 부하를 관리하고, 약간의 무예도 익혔습니다.\n\n{PAWN_nameDef}의 여린 손은 평생 작업 도구를 쥐어본 적이 없습니다. [PAWN_pronoun]는 육체노동을 격 떨어지는 일로 여깁니다.</MedievalLord57.baseDesc>
+  <MedievalLord57.title>중세 영주</MedievalLord57.title>
+  <MedievalLord57.titleShort>귀족</MedievalLord57.titleShort>
+  
+  <MedievalMinstrel95.baseDesc>{PAWN_nameDef}(은)는 중세계의 방랑 시인이었습니다.\n\n{PAWN_pronoun}는 항상 이야기를 하거나 노래를 부르는 모습이었고, 여행길에서 마주칠 수 있는 위협에서 스스로 보호할 능력이 있었습니다. 하지만 힘든 육체노동을 해야 할 때는 수상하게도 항상 찾기 힘들었습니다.</MedievalMinstrel95.baseDesc>
+  <MedievalMinstrel95.title>중세 음유시인</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleShort>음유시인</MedievalMinstrel95.titleShort>
+  
+  <MedievalSailor97.baseDesc>{PAWN_nameDef}(은)는 나무로 된 배 위에서 대양을 탐험하면서 이국적인 장소에서 동식물을 찾고, 때로는 해적을 물리쳤습니다. {PAWN_pronoun}는 바다를 너무 사랑했으므로, 수집한 보물들을 판매할 때만 제외하면 육지에서는 어떤 일도 하길 거부했습니다.</MedievalSailor97.baseDesc>
+  <MedievalSailor97.title>중세 선원</MedievalSailor97.title>
+  <MedievalSailor97.titleShort>선원</MedievalSailor97.titleShort>
+  
+  <MessageCarrier77.baseDesc>중세계에서, 먼 곳에 전갈을 보내는 가장 빠른 방법은 말을 탄 누군가에게 맡기고 그가 여정에서 살아남기를 바라는 것입니다. {PAWN_nameDef}(이)가 바로 그 말에 탄 사람이었습니다.</MessageCarrier77.baseDesc>
+  <MessageCarrier77.title>전령</MessageCarrier77.title>
+  <MessageCarrier77.titleShort>전령</MessageCarrier77.titleShort>
+  
+  <Taster16.baseDesc>중세계 왕의 기미장으로서, 왕실의 식탁에 올라가는 모든 요리는 {PAWN_nameDef}의 입을 먼저 거쳐야 했습니다. {PAWN_pronoun}는 궁정에서 방탕한 삶을 누렸기에 뚱뚱해졌고 일은 거의 안했습니다.</Taster16.baseDesc>
+  <Taster16.title>기미장</Taster16.title>
+  <Taster16.titleShort>기미장</Taster16.titleShort>
+</LanguageData>
