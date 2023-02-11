@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>crwdns461460:0[introduction]crwdnd461460:0[joiner_nameDef]crwdnd461460:0[joiner_pronoun]crwdnd461460:0[enemyFaction_pawnsPlural]crwdnd461460:0[enemyFaction_name]crwdnd461460:0[joiner_pronoun]crwdnd461460:0[map_definite]crwdnd461460:0[joiner_relationInfo]crwdnd461460:0[enemyFaction_pawnsPluralDef]crwdnd461460:0[joiner_possessive]crwdnd461460:0[enemyFaction_pawnsPlural]crwdnd461460:0[joiner_nameDef]crwdne461460:0</li>
+    <li>crwdns461462:0[joiner_age]crwdne461462:0</li>
+    <li>crwdns461464:0[joiner_age]crwdnd461464:0[joiner_title]crwdne461464:0</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>crwdns461466:0[runnerIndef]crwdne461466:0</li>
+    <li>crwdns461468:0[runnerIndef]crwdne461468:0</li>
+    <li>crwdns461470:0[runnerIndef]crwdne461470:0</li>
+    <li>crwdns461472:0[runnerIndef]crwdne461472:0</li>
+    <li>crwdns461474:0[enemyFaction_pawnsPlural]crwdnd461474:0[runnerIndef]crwdne461474:0</li>
+    <li>crwdns461476:0[runnerIndef]crwdne461476:0</li>
+    <li>crwdns461478:0[runnerIndef]crwdne461478:0</li>
+    <li>crwdns461480:0[runnerIndef]crwdnd461480:0[enemyFaction_pawnsPlural]crwdne461480:0</li>
+    <li>crwdns461482:0[runnerIndef]crwdnd461482:0[enemyFaction_pawnsPlural]crwdne461482:0</li>
+    <li>crwdns461484:0[joiner_titleIndef]crwdne461484:0</li>
+    <li>crwdns461486:0[joiner_nameIndef]crwdne461486:0</li>
+    <li>crwdns461488:0crwdne461488:0</li>
+    <li>crwdns461490:0crwdne461490:0</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>crwdns461492:0{BASELABEL}crwdne461492:0</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>crwdns461494:0{BASETEXT}crwdnd461494:0[enemyFaction_pawnsPlural]crwdne461494:0</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+</LanguageData>
