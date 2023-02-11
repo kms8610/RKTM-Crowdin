@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BedRestEffectiveness.label>crwdns466880:0crwdne466880:0</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>crwdns466882:0crwdne466882:0</BedRestEffectiveness.description>
+  
+  <DoorOpenSpeed.label>crwdns466884:0crwdne466884:0</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>crwdns466886:0crwdne466886:0</DoorOpenSpeed.description>
+  
+  <ImmunityGainSpeedFactor.label>crwdns466888:0crwdne466888:0</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>crwdns466890:0crwdne466890:0</ImmunityGainSpeedFactor.description>
+  
+  <JoyGainFactor.label>crwdns466892:0crwdne466892:0</JoyGainFactor.label>
+  <JoyGainFactor.description>crwdns466894:0crwdne466894:0</JoyGainFactor.description>
+  
+  <MedicalTendQualityOffset.label>crwdns466896:0crwdne466896:0</MedicalTendQualityOffset.label>
+  <MedicalTendQualityOffset.description>crwdns466898:0crwdne466898:0</MedicalTendQualityOffset.description>
+  
+  <ResearchSpeedFactor.label>crwdns466900:0crwdne466900:0</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>crwdns466902:0crwdne466902:0</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>crwdns466904:0crwdne466904:0</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+  <SurgerySuccessChanceFactor.label>crwdns466906:0crwdne466906:0</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.description>crwdns466908:0crwdne466908:0</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>crwdns466910:0crwdne466910:0</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  <TrapMeleeDamage.label>crwdns466912:0crwdne466912:0</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>crwdns466914:0crwdne466914:0</TrapMeleeDamage.description>
+  
+  <TrapSpringChance.label>crwdns466916:0crwdne466916:0</TrapSpringChance.label>
+  <TrapSpringChance.description>crwdns466918:0crwdne466918:0</TrapSpringChance.description>
+  
+  <WorkTableEfficiencyFactor.label>crwdns466920:0crwdne466920:0</WorkTableEfficiencyFactor.label>
+  <WorkTableEfficiencyFactor.description>crwdns466922:0crwdne466922:0</WorkTableEfficiencyFactor.description>
+  
+  <WorkTableWorkSpeedFactor.label>crwdns466924:0crwdne466924:0</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>crwdns466926:0crwdne466926:0</WorkTableWorkSpeedFactor.description>
+  
+  <WorkToBuild.label>crwdns466928:0crwdne466928:0</WorkToBuild.label>
+  <WorkToBuild.description>crwdns466930:0crwdne466930:0</WorkToBuild.description>
+</LanguageData>
