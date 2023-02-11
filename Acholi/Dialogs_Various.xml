@@ -1,206 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Mechanitors -->
-  <AnyMechanitor>crwdns428976:0crwdne428976:0</AnyMechanitor>
-  <BossgroupWarningDialog>crwdns428978:0{LEADERKIND_label}crwdnd428978:0{PAWNS}crwdne428978:0</BossgroupWarningDialog>
-  <MechControllerDowned>crwdns428980:0{PAWN_labelShort}crwdne428980:0</MechControllerDowned>
-  <MechControllerImprisoned>crwdns428982:0{PAWN_labelShort}crwdne428982:0</MechControllerImprisoned>
-  <MechControllerInsideContainer>crwdns428984:0{PAWN_labelShort}crwdnd428984:0{CONTAINER}crwdne428984:0</MechControllerInsideContainer>
-  <MechControllerInsufficientBandwidth>crwdns428986:0{PAWN_labelShort}crwdne428986:0</MechControllerInsufficientBandwidth>
-  <MechControllerMentalState>crwdns428988:0{PAWN_labelShort}crwdnd428988:0{MENTALSTATE_label}crwdne428988:0</MechControllerMentalState>
-  <ConfirmDisassemblingMech>crwdns428990:0{0}crwdnd428990:0{0}crwdne428990:0</ConfirmDisassemblingMech>
-  <ConfirmInstallMechlink>crwdns428992:0crwdne428992:0</ConfirmInstallMechlink>
-  <InsufficientBandwidth>crwdns428994:0crwdne428994:0</InsufficientBandwidth>
-  <MechanitorLeftMapWithoutMechs>crwdns428996:0{PAWN_labelShort}crwdnd428996:0{MECHS}crwdnd428996:0{PAWN_labelShort}crwdne428996:0</MechanitorLeftMapWithoutMechs>
+  <!-- Misc -->
+  <TradingAnimalProduceBonus>crwdns443144:0crwdne443144:0</TradingAnimalProduceBonus>
+  <SlavesSection>crwdns443146:0crwdne443146:0</SlavesSection>
+  <DominantStyle>crwdns443148:0crwdne443148:0</DominantStyle>
+  <Date>crwdns443150:0crwdne443150:0</Date>
+  <RitualDevelopmentPointRewards>crwdns443152:0crwdne443152:0</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>crwdns443154:0crwdne443154:0</UseGlobalStyle>
+  <NoStylesAvailable>crwdns443156:0crwdne443156:0</NoStylesAvailable>
 
-  <!-- Apparel -->
-  <ApparelRequirementAnyMechlordApparel>crwdns428998:0crwdne428998:0</ApparelRequirementAnyMechlordApparel>
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>crwdns429000:0crwdne429000:0</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+  <ChooseStructureMemesInfo>crwdns443158:0crwdne443158:0</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>crwdns443160:0{0}crwdnd443160:0{1}crwdne443160:0</ChooseNormalMemesInfo>
+  <NotEnoughMemes>crwdns443162:0{0}crwdne443162:0</NotEnoughMemes>
+  <TooManyMemes>crwdns443164:0{0}crwdne443164:0</TooManyMemes>
+  <ChooseStructureMeme>crwdns443166:0crwdne443166:0</ChooseStructureMeme>
+  <IncompatibleMemes>crwdns443168:0{0_label}crwdnd443168:0{1_label}crwdne443168:0</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>crwdns443170:0crwdne443170:0</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>crwdns443172:0crwdne443172:0</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>crwdns443174:0crwdne443174:0</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>crwdns443176:0crwdne443176:0</ReformIdeoResetChanges>
+  <NotEnoughMemesFluidIdeo>crwdns443178:0{0}crwdne443178:0</NotEnoughMemesFluidIdeo>
 
-  <!-- Mech gestator -->
-  <GestationCyclesCompleted>crwdns429002:0crwdne429002:0</GestationCyclesCompleted>
-  <FormerIngredients>crwdns429004:0crwdne429004:0</FormerIngredients>
+  <ChangesRandomizePrecepts>crwdns443180:0{0}crwdne443180:0</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>crwdns443182:0{0}crwdne443182:0</ChangesRemovePrecepts>
+  
+  <RoomRequirements>crwdns443184:0crwdne443184:0</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>crwdns443186:0crwdne443186:0</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>crwdns443188:0crwdne443188:0</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>crwdns443190:0crwdne443190:0</ConfirmChangeMemesForFluidIdeoContinue>
 
-  <!-- Subcore scanner -->
-  <ConfirmRipscanPawn>crwdns429006:0{PAWN_nameDef}crwdnd429006:0{PAWN_objective}crwdne429006:0</ConfirmRipscanPawn>
-  <ConfirmCancelRipscan>crwdns429008:0{PAWN_nameDef}crwdne429008:0</ConfirmCancelRipscan>
+  <Role>crwdns443192:0crwdne443192:0</Role>
+  <ChooseRole>crwdns443194:0crwdne443194:0</ChooseRole>
+  <ChooseNewRole>crwdns443196:0crwdne443196:0</ChooseNewRole>
+  <NoRoleAssigned>crwdns443198:0crwdne443198:0</NoRoleAssigned>
+  <ChildNoRoleAssigned>crwdns443200:0crwdne443200:0</ChildNoRoleAssigned>
+  <RemoveRole>crwdns443202:0{0}crwdne443202:0</RemoveRole>
+  <ChooseRoleConfirmAssign>crwdns443204:0{ROLE_labelDef}crwdnd443204:0{PAWN_labelShort}crwdne443204:0</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>crwdns443206:0crwdne443206:0</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>crwdns443208:0{PAWN_labelShort}crwdne443208:0</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>crwdns443210:0{PAWN_labelShort}crwdnd443210:0{ROLE_label}crwdne443210:0</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>crwdns443212:0{PAWN_labelShort}crwdnd443212:0{OTHERROLE_labelDef}crwdnd443212:0{PAWN_objective}crwdne443212:0</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>crwdns443214:0{PAWN_labelShort}crwdnd443214:0{ROLE_labelIndef}crwdnd443214:0{PAWN_objective}crwdne443214:0</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>crwdns443216:0{PAWN_labelShort}crwdne443216:0</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>crwdns443218:0{ROLE_label}crwdne443218:0</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>crwdns443220:0{PAWN_labelShort}crwdne443220:0</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>crwdns443222:0crwdne443222:0</ChooseRoleHint>
+  <UnlockedByMeme>crwdns443224:0crwdne443224:0</UnlockedByMeme>
+  <MemeUnlocksRoles>crwdns443226:0crwdne443226:0</MemeUnlocksRoles>
+  <MemeUnlocksRituals>crwdns443228:0crwdne443228:0</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>crwdns443230:0{PAWN_nameDef}crwdnd443230:0{ROLE_label}crwdnd443230:0{PAWN_objective}crwdnd443230:0{PAWN_pronoun}crwdnd443230:0{ROLE_label}crwdne443230:0</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>crwdns443232:0crwdne443232:0</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>crwdns443234:0{MEME}crwdne443234:0</CannotNotAddRoleApparelDueToMeme>
+  <CannotBeWornWith>crwdns443236:0{0_label}crwdne443236:0</CannotBeWornWith>
 
-  <!-- Xenogerm -->
-  <AssembleGenes>crwdns429010:0crwdne429010:0</AssembleGenes>
-  <CreateXenotype>crwdns429012:0crwdne429012:0</CreateXenotype>
-  <SelectIcon>crwdns429014:0crwdne429014:0</SelectIcon>
-  <SelectIconDesc>crwdns429016:0crwdne429016:0</SelectIconDesc>
-  <InspectGenesDesc>crwdns429018:0{0_labelShort}crwdne429018:0</InspectGenesDesc>
-  <InspectGenesHediffDesc>crwdns429020:0crwdne429020:0</InspectGenesHediffDesc>
-  <InspectGenesEmbryoDesc>crwdns429022:0crwdne429022:0</InspectGenesEmbryoDesc>
-  <NoGenePacks>crwdns429024:0crwdne429024:0</NoGenePacks>
-  <StartCombining>crwdns429026:0crwdne429026:0</StartCombining>
-  <SelectedGenepacks>crwdns429028:0crwdne429028:0</SelectedGenepacks>
-  <GenepackLibrary>crwdns429030:0crwdne429030:0</GenepackLibrary>
-  <ClickToAddOrRemove>crwdns429032:0crwdne429032:0</ClickToAddOrRemove>
-  <ClickToAdd>crwdns429034:0crwdne429034:0</ClickToAdd>
-  <ClickToRemove>crwdns429036:0crwdne429036:0</ClickToRemove>
-  <SelectXenogerm>crwdns429038:0crwdne429038:0</SelectXenogerm>
-  <WarningPawnWillDieFromReimplanting>crwdns429040:0{PAWN_nameDef}crwdnd429040:0{PAWN_pronoun}crwdnd429040:0{PAWN_possessive}crwdnd429040:0{PAWN_possessive}crwdnd429040:0{PAWN_objective}crwdne429040:0</WarningPawnWillDieFromReimplanting>
-  <NotEnoughArchites>crwdns429042:0crwdne429042:0</NotEnoughArchites>
-  <XenogenesDesc>crwdns429044:0crwdne429044:0</XenogenesDesc>
-  <EndogenesDesc>crwdns429046:0crwdne429046:0</EndogenesDesc>
-  <MemberXenotypeChances>crwdns429048:0crwdne429048:0</MemberXenotypeChances>
-  <XenotypeName>crwdns429050:0crwdne429050:0</XenotypeName>
-  <LockNameButtonDesc>crwdns429052:0crwdne429052:0</LockNameButtonDesc>
-  <LockNameOn>crwdns429054:0crwdne429054:0</LockNameOn>
-  <LockNameOff>crwdns429056:0crwdne429056:0</LockNameOff>
-  <CreatingXenogerm>crwdns429058:0crwdne429058:0</CreatingXenogerm>
-  <GenepackUnusableGenebankUnpowered>crwdns429060:0crwdne429060:0</GenepackUnusableGenebankUnpowered>
-  <GeneProcessorUnpowered>crwdns429062:0crwdne429062:0</GeneProcessorUnpowered>
-  <RecombineDuration>crwdns429064:0crwdne429064:0</RecombineDuration>
-  <RecombineDurationDesc>crwdns429066:0crwdne429066:0</RecombineDurationDesc>
-  <MustResearchProject>crwdns429068:0{0_label}crwdne429068:0</MustResearchProject>
-  <AssemblingRequiresResearch>crwdns429070:0{0_label}crwdne429070:0</AssemblingRequiresResearch>
-  <ConfirmStartNewXenogerm>crwdns429072:0{XENOGERMNAME}crwdne429072:0</ConfirmStartNewXenogerm>
-  <SelectAGeneToRandomizeName>crwdns429074:0crwdne429074:0</SelectAGeneToRandomizeName>
-  <SelectAGeneToChooseAName>crwdns429076:0crwdne429076:0</SelectAGeneToChooseAName>
+  <AbilityIdeoConvertBreakdownLabel>crwdns443238:0crwdne443238:0</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>crwdns443240:0{ABILITY}crwdne443240:0</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>crwdns443242:0{PAWN_labelShort}crwdne443242:0</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>crwdns443244:0{PAWN_labelShort}crwdnd443244:0{IDEO_name}crwdne443244:0</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>crwdns443246:0{PAWN_labelShort}crwdnd443246:0{ROLE_labelDef}crwdne443246:0</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>crwdns443248:0{TRAIT}crwdne443248:0</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownRelic>crwdns443250:0{RELICCOUNT}crwdne443250:0</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>crwdns443252:0{PAWN_labelShort}crwdne443252:0</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>crwdns443254:0{RECIPIENT_labelShort}crwdnd443254:0{INITIATOR_labelShort}crwdne443254:0</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>crwdns443256:0{PAWN_nameDef}crwdne443256:0</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>crwdns443258:0{MEME}crwdnd443258:0{TRAIT}crwdne443258:0</AbilityIdeoConvertBreakdownMemeVsTrait>
 
-  <!-- View genes -->
-  <InspectGenes>crwdns429078:0crwdne429078:0</InspectGenes>
-  <InspectBabyGenes>crwdns429080:0crwdne429080:0</InspectBabyGenes>
-  <NoXenogermImplanted>crwdns429082:0crwdne429082:0</NoXenogermImplanted>
-  <Endogenes>crwdns429084:0crwdne429084:0</Endogenes>
-  <Xenogenes>crwdns429086:0crwdne429086:0</Xenogenes>
-  <Overridden>crwdns429088:0crwdne429088:0</Overridden>
-  <OverriddenByGene>crwdns429090:0crwdne429090:0</OverriddenByGene>
-  <OverriddenByIdenticalGene>crwdns429092:0crwdne429092:0</OverriddenByIdenticalGene>
-  <MoreInfoInInfoScreen>crwdns429094:0crwdne429094:0</MoreInfoInInfoScreen>
-  <TakesEffectAfterAge>crwdns429096:0crwdne429096:0</TakesEffectAfterAge>
+  <AbilityCantApplyAlreadyCounselled>crwdns443260:0{PAWN_labelShort}crwdne443260:0</AbilityCantApplyAlreadyCounselled>
 
-  <!-- Xenotype editor -->
-  <XenotypeEditor>crwdns429098:0crwdne429098:0</XenotypeEditor>
-  <AnyNonArchite>crwdns429100:0crwdne429100:0</AnyNonArchite>
-  <SelectedGenes>crwdns429102:0crwdne429102:0</SelectedGenes>
-  <Custom>crwdns429104:0crwdne429104:0</Custom>
-  <Hybrid>crwdns429106:0crwdne429106:0</Hybrid>
-  <GenesAreInheritable>crwdns429108:0crwdne429108:0</GenesAreInheritable>
-  <GenesAreInheritableXenotypeDef>crwdns429110:0crwdne429110:0</GenesAreInheritableXenotypeDef>
-  <GenesAreInheritableDesc>crwdns429112:0crwdne429112:0</GenesAreInheritableDesc>
-  <GeneWillBeRandomChosen>crwdns429114:0crwdne429114:0</GeneWillBeRandomChosen>
-  <GeneIncompatibleDesc>crwdns429116:0crwdne429116:0</GeneIncompatibleDesc>
-  <GeneLeftmostActive>crwdns429118:0crwdne429118:0</GeneLeftmostActive>
-  <GeneOneActive>crwdns429120:0crwdne429120:0</GeneOneActive>
-  <WarnChangingXenotypeWillRandomizePawn>crwdns429122:0crwdne429122:0</WarnChangingXenotypeWillRandomizePawn>
-  <DeleteThisXenotype>crwdns429124:0crwdne429124:0</DeleteThisXenotype>
-  <IgnoreRestrictions>crwdns429126:0crwdne429126:0</IgnoreRestrictions>
-  <IgnoreRestrictionsDesc>crwdns429128:0crwdne429128:0</IgnoreRestrictionsDesc>
-  <XenotypeBreaksLimits>crwdns429130:0crwdne429130:0</XenotypeBreaksLimits>
-  <XenotypeBreaksLimits_Archites>crwdns429132:0crwdne429132:0</XenotypeBreaksLimits_Archites>
-  <XenotypeBreaksLimits_Exceeds>crwdns429134:0{STAT}crwdnd429134:0{VALUE}crwdnd429134:0{MAX}crwdne429134:0</XenotypeBreaksLimits_Exceeds>
-  <XenotypeBreaksLimits_Below>crwdns429136:0{STAT}crwdnd429136:0{VALUE}crwdnd429136:0{MIN}crwdne429136:0</XenotypeBreaksLimits_Below>
-  <SaveAnyway>crwdns429138:0crwdne429138:0</SaveAnyway>
-  <IgnoreRestrictionsConfirmation>crwdns429140:0crwdne429140:0</IgnoreRestrictionsConfirmation>
-  <DevelopmentalAgeSelectionDesc>crwdns429142:0crwdne429142:0</DevelopmentalAgeSelectionDesc>
-  <XenotypeSelectionDesc>crwdns429144:0crwdne429144:0</XenotypeSelectionDesc>
-  <SaveAndApply>crwdns429146:0crwdne429146:0</SaveAndApply>
-  <LoadCustom>crwdns429148:0crwdne429148:0</LoadCustom>
-  <LoadPremade>crwdns429150:0crwdne429150:0</LoadPremade>
-  <GenesConflict>crwdns429152:0crwdne429152:0</GenesConflict>
-  <GenesConflictDesc>crwdns429154:0{FIRST_label}crwdnd429154:0{SECOND_label}crwdne429154:0</GenesConflictDesc>
+  <ReformIdeo>crwdns443262:0crwdne443262:0</ReformIdeo>
+  <ReformIdeoligion>crwdns443264:0crwdne443264:0</ReformIdeoligion>
+  <ReformIdeoligionDesc>crwdns443266:0crwdne443266:0</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>crwdns443268:0crwdne443268:0</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>crwdns443270:0crwdne443270:0</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>crwdns443272:0crwdne443272:0</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>crwdns443274:0crwdne443274:0</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>crwdns443276:0crwdne443276:0</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>crwdns443278:0crwdne443278:0</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>crwdns443280:0{0}crwdnd443280:0{0}crwdne443280:0</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>crwdns443282:0{0}crwdne443282:0</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>crwdns443284:0crwdne443284:0</ReformIdeoContinue>
 
-  <!-- Xenogerm editor -->
-  <LoadXenogermTemplate>crwdns429156:0crwdne429156:0</LoadXenogermTemplate>
-  <SaveXenogermTemplate>crwdns429158:0crwdne429158:0</SaveXenogermTemplate>
-  <CannotSaveXenogermTemplate>crwdns429160:0{0}crwdne429160:0</CannotSaveXenogermTemplate>
-  <XenogermTemplateSaved>crwdns429162:0{NAME}crwdne429162:0</XenogermTemplateSaved>
-  <MissingGenepacksForXenogerm>crwdns429164:0{COUNT}crwdnd429164:0{NAME}crwdne429164:0</MissingGenepacksForXenogerm>
-  <MissingGenepackForXenogerm>crwdns429166:0{NAME}crwdne429166:0</MissingGenepackForXenogerm>
-  <DeleteThisXenogerm>crwdns429168:0crwdne429168:0</DeleteThisXenogerm>
+  <!-- Slavery -->
+  <CannotAssignBedToSlave>crwdns443286:0crwdne443286:0</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>crwdns443288:0crwdne443288:0</CannotAssignBedToColonist>
+  <AnySlave>crwdns443290:0crwdne443290:0</AnySlave>
+  <NegotiatorWillNotTradeSlaves>crwdns443292:0{0_nameDef}crwdnd443292:0{0_possessive}crwdne443292:0</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>crwdns443294:0{0_nameDef}crwdnd443294:0{0_possessive}crwdnd443294:0{1}crwdnd443294:0{0_nameDef}crwdnd443294:0{0_possessive}crwdne443294:0</NegotiatorWillNotTradeSlavesTip>
 
-  <!-- Babies -->
-  <ChooseChildOrAdult>crwdns429170:0crwdne429170:0</ChooseChildOrAdult>
+  <LastHumanMeat>crwdns443296:0crwdne443296:0</LastHumanMeat>
+  <LastHumanMeatDesc>crwdns443298:0{PAWN_possessive}crwdnd443298:0{IDEO_name}crwdnd443298:0{PAWN_nameDef}crwdnd443298:0{PAWN_pronoun}crwdnd443298:0{DURATION}crwdne443298:0</LastHumanMeatDesc>
 
-  <!-- Deathrest -->
-  <WarningWakingInterruptsDeathrest>crwdns429172:0{PAWN_nameDef}crwdnd429172:0{MINDURATION}crwdnd429172:0{PAWN_possessive}crwdnd429172:0{PAWN_objective}crwdnd429172:0{PAWN_pronoun}crwdnd429172:0{PAWN_nameDef}crwdnd429172:0{PAWN_pronoun}crwdnd429172:0{CURDURATION}crwdnd429172:0{PAWN_nameDef}crwdne429172:0</WarningWakingInterruptsDeathrest>
+  <ExectueNeutralFactionSlave>crwdns443300:0{PAWN_labelShort}crwdnd443300:0{FACTION_name}crwdne443300:0</ExectueNeutralFactionSlave>
 
-  <!-- Text motes -->
-  <NumWoundsTended>crwdns429174:0{0}crwdne429174:0</NumWoundsTended>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>crwdns443302:0crwdne443302:0</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>crwdns443304:0crwdne443304:0</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
-  <!-- Mechs -->
-  <MechWeightClass>crwdns429176:0crwdne429176:0</MechWeightClass>
-  <MechWeightClassExplanation>crwdns429178:0crwdne429178:0</MechWeightClassExplanation>
-  <MechOverseer>crwdns429180:0{0}crwdne429180:0</MechOverseer>
-  <MechWorkActivities>crwdns429182:0crwdne429182:0</MechWorkActivities>
-  <MechWorkActivitiesExplanation>crwdns429184:0crwdne429184:0</MechWorkActivitiesExplanation>
-  <MechRechargeSettingsTitle>crwdns429186:0crwdne429186:0</MechRechargeSettingsTitle>
-  <MechRechargeSettingsExplanation>crwdns429188:0crwdne429188:0</MechRechargeSettingsExplanation>
-  <MechWorkSkill>crwdns429190:0crwdne429190:0</MechWorkSkill>
-  <MechWorkSkillDesc>crwdns429192:0crwdne429192:0</MechWorkSkillDesc>
-  <AnyMech>crwdns429194:0crwdne429194:0</AnyMech>
-  <AnyNonMech>crwdns429196:0crwdne429196:0</AnyNonMech>
-  <CaravanLacksMechMechanitorWarning>crwdns429198:0crwdne429198:0</CaravanLacksMechMechanitorWarning>
-  <MechsSection>crwdns429200:0crwdne429200:0</MechsSection>
+  <!-- Style -->
+  <StylePawn>crwdns443306:0crwdne443306:0</StylePawn>
+  <Hair>crwdns443308:0crwdne443308:0</Hair>
+  <Beard>crwdns443310:0crwdne443310:0</Beard>
+  <TattooFace>crwdns443312:0crwdne443312:0</TattooFace>
+  <TattooBody>crwdns443314:0crwdne443314:0</TattooBody>
+  <ApparelColor>crwdns443316:0crwdne443316:0</ApparelColor>
+  <HairColor>crwdns443318:0crwdne443318:0</HairColor>
+  <ShowHeadgear>crwdns443320:0crwdne443320:0</ShowHeadgear>
+  <ShowApparel>crwdns443322:0crwdne443322:0</ShowApparel>
+  <PawnUnhappyWithStyleItems>crwdns443324:0{PAWN_nameDef}crwdne443324:0</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>crwdns443326:0{IDEO_memberNamePlural}crwdne443326:0</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>crwdns443328:0crwdne443328:0</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescStyleDominance>crwdns443330:0{IDEO_memberNamePlural}crwdne443330:0</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>crwdns443332:0crwdne443332:0</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDetails>crwdns443334:0{0}crwdne443334:0</StyleCategoryDetails>
+  <OverriddenByStyle>crwdns443336:0{0}crwdne443336:0</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>crwdns443338:0crwdne443338:0</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>crwdns443340:0{PAWN_nameDef}crwdne443340:0</NoneUsableForPawn> 
+  <HairAndBeards>crwdns443342:0crwdne443342:0</HairAndBeards>
+  <HairAndBeardsDesc>crwdns443344:0crwdne443344:0</HairAndBeardsDesc>
+  <Tattoos>crwdns443346:0crwdne443346:0</Tattoos>
+  <TattoosDesc>crwdns443348:0crwdne443348:0</TattoosDesc>
+  <StyleItemFrequencyNever>crwdns443350:0crwdne443350:0</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>crwdns443352:0crwdne443352:0</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>crwdns443354:0crwdne443354:0</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>crwdns443356:0crwdne443356:0</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>crwdns443358:0crwdne443358:0</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>crwdns443360:0crwdne443360:0</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>crwdns443362:0crwdne443362:0</EditAppearanceItems>
+  <NumAvailable>crwdns443364:0{0}crwdne443364:0</NumAvailable>
+  <ResetButtonDesc>crwdns443366:0crwdne443366:0</ResetButtonDesc>
 
-  <!-- Pawn naming -->
-  <RenameMech>crwdns429202:0crwdne429202:0</RenameMech>
-  <MechGainsName>crwdns429204:0{0}crwdne429204:0</MechGainsName>
+  <!-- Ancient complex mission -->
+  <SendShuttleAnyway>crwdns443368:0crwdne443368:0</SendShuttleAnyway>
+  <ReLoadShuttle>crwdns443370:0crwdne443370:0</ReLoadShuttle>
 
-  <FertilizeOvumInbredChance>crwdns429206:0{FATHER_nameDef}crwdnd429206:0{MOTHER_nameDef}crwdnd429206:0{RELATION}crwdnd429206:0{CHANCE}crwdne429206:0</FertilizeOvumInbredChance>
+  <!-- Medical settings -->
+  <MedGroupEnslavedColonist>crwdns443372:0crwdne443372:0</MedGroupEnslavedColonist>
 
-  <ConfirmationPawnPregnancyTerminated>crwdns429208:0{PAWN_nameDef}crwdnd429208:0{PAWN_pronoun}crwdnd429208:0{PAWN_possessive}crwdne429208:0</ConfirmationPawnPregnancyTerminated>
+  <!-- Dryad upgrades -->
+  <ChangeMode>crwdns443374:0crwdne443374:0</ChangeMode>
+  <RequiredMemes>crwdns443376:0crwdne443376:0</RequiredMemes>
+  <RequiredStage>crwdns443378:0crwdne443378:0</RequiredStage>
+  <MissingRequiredMemes>crwdns443380:0crwdne443380:0</MissingRequiredMemes>
+  <MissingRequiredCaste>crwdns443382:0crwdne443382:0</MissingRequiredCaste>
+  <AlreadySelected>crwdns443384:0crwdne443384:0</AlreadySelected>
+  <ChooseProductionModeInitialDesc>crwdns443386:0{TREE_label}crwdnd443386:0{TREE_definite}crwdne443386:0</ChooseProductionModeInitialDesc>
 
-  <!-- Pollution -->
-  <ConfirmSettleNearPollution>crwdns429210:0{0}crwdne429210:0</ConfirmSettleNearPollution>
+  <!-- Archonexus -->
+  <ChooseColonistsForIdeoTitle>crwdns443388:0crwdne443388:0</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>crwdns443390:0crwdne443390:0</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>crwdns443392:0crwdne443392:0</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>crwdns443394:0crwdne443394:0</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>crwdns443396:0{0}crwdnd443396:0{1}crwdne443396:0</ChooseThingsDesc>
+  <ChoosePeopleDesc>crwdns443398:0{0}crwdne443398:0</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>crwdns443400:0crwdne443400:0</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>crwdns443402:0crwdne443402:0</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>crwdns443404:0crwdne443404:0</ShipEscapeWillEndDescription>
+  <ArchonexusRelicNotChosen>crwdns443406:0crwdne443406:0</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>crwdns443408:0{0}crwdnd443408:0{1}crwdne443408:0</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>crwdns443410:0crwdne443410:0</RemoveEquippedRelicsDescription>
+  <WantToProceed>crwdns443412:0crwdne443412:0</WantToProceed>
+  <ConvertToPlayerIdeoligion>crwdns443414:0crwdne443414:0</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>crwdns443416:0crwdne443416:0</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>crwdns443418:0crwdne443418:0</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>crwdns443420:0crwdne443420:0</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>crwdns443422:0{0}crwdnd443422:0{1}crwdne443422:0</ItemQuantityTooltip>
+  <SoldColonyDescription>crwdns443424:0crwdne443424:0</SoldColonyDescription>
 
-  <!-- Pregnancy -->
-  <PawnIsAway>crwdns429212:0{PAWN_nameDef}crwdne429212:0</PawnIsAway>
-  <PawnsHaveSameGender>crwdns429214:0{PAWN1_nameDef}crwdnd429214:0{PAWN2_nameDef}crwdne429214:0</PawnsHaveSameGender>
-  <PawnsAreSterile>crwdns429216:0{PAWN1_nameDef}crwdnd429216:0{PAWN2_nameDef}crwdne429216:0</PawnsAreSterile>
-  <PawnIsSterile>crwdns429218:0{PAWN_nameDef}crwdne429218:0</PawnIsSterile>
-  <PawnsAreInfertile>crwdns429220:0{PAWN1_nameDef}crwdnd429220:0{PAWN2_nameDef}crwdne429220:0</PawnsAreInfertile>
-  <PawnIsInfertile>crwdns429222:0{PAWN_nameDef}crwdne429222:0</PawnIsInfertile>
-  <PawnsAreTooYoung>crwdns429224:0{PAWN1_nameDef}crwdnd429224:0{PAWN2_nameDef}crwdne429224:0</PawnsAreTooYoung>
-  <PawnIsTooYoung>crwdns429226:0{PAWN_nameDef}crwdne429226:0</PawnIsTooYoung>
-  <PawnIsDead>crwdns429228:0{PAWN_nameDef}crwdne429228:0</PawnIsDead>
+  <ConfirmHackEnenyTerminal>crwdns443426:0{0}crwdnd443426:0{0}crwdne443426:0</ConfirmHackEnenyTerminal>
 
-  <PsychicBondDistanceWillBeActive_Cryptosleep>crwdns429230:0{PAWN_nameDef}crwdnd429230:0{PAWN_possessive}crwdnd429230:0{BOND_nameDef}crwdne429230:0</PsychicBondDistanceWillBeActive_Cryptosleep>
-  <PsychicBondDistanceWillBeActive_Caravan>crwdns429232:0crwdne429232:0</PsychicBondDistanceWillBeActive_Caravan>
-  <Partner>crwdns429234:0{0_nameFull}crwdne429234:0</Partner>
+  <RelicsSection>crwdns443428:0crwdne443428:0</RelicsSection>
 
+  <!-- Food restrictions -->
+  <FoodRestrictionVegetarian>crwdns443430:0crwdne443430:0</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>crwdns443432:0crwdne443432:0</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>crwdns443434:0crwdne443434:0</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>crwdns443436:0crwdne443436:0</FoodRestrictionInsectMeat>
 
-  <ChooseMechAccentColor>crwdns429236:0crwdne429236:0</ChooseMechAccentColor>
-
-  <!-- Faction specific comms overrides -->
-  <PigFactionGreetingHostile>crwdns429238:0{0}crwdne429238:0</PigFactionGreetingHostile>
-  <PigFactionGreetingHostileAppreciative>crwdns429240:0{0}crwdnd429240:0{0_possessive}crwdnd429240:0{0_possessive}crwdnd429240:0{0_pronoun}crwdnd429240:0{0_pronoun}crwdne429240:0</PigFactionGreetingHostileAppreciative>
-  <PigFactionGreetingWary>crwdns429242:0{0}crwdne429242:0</PigFactionGreetingWary>
-  <PigFactionGreetingWarm>crwdns429244:0{0}crwdnd429244:0{NEGOTIATOR_labelShort}crwdnd429244:0{LEADER_pronoun}crwdne429244:0</PigFactionGreetingWarm>
-  <PigMilitaryAidSent>crwdns429246:0{0}crwdne429246:0</PigMilitaryAidSent>
-
-  <YttakinFactionGreetingHostile>crwdns429248:0{0}crwdne429248:0</YttakinFactionGreetingHostile>
-  <YttakinFactionGreetingHostileAppreciative>crwdns429250:0{0_possessive}crwdnd429250:0{0}crwdnd429250:0{0_possessive}crwdnd429250:0{0_possessive}crwdnd429250:0{0_pronoun}crwdnd429250:0{0_pronoun}crwdne429250:0</YttakinFactionGreetingHostileAppreciative>
-  <YttakinFactionGreetingWary>crwdns429252:0{0}crwdnd429252:0{NEGOTIATOR_labelShort}crwdne429252:0</YttakinFactionGreetingWary>
-  <YttakinFactionGreetingWarm>crwdns429254:0{0}crwdnd429254:0{LEADER_pronoun}crwdne429254:0</YttakinFactionGreetingWarm>
-
-  <NeanderthalFactionGreetingHostile>crwdns429256:0{0}crwdne429256:0</NeanderthalFactionGreetingHostile>
-  <NeanderthalFactionGreetingHostileAppreciative>crwdns429258:0{0}crwdnd429258:0{0_pronoun}crwdnd429258:0{0_possessive}crwdnd429258:0{0_possessive}crwdnd429258:0{0_pronoun}crwdne429258:0</NeanderthalFactionGreetingHostileAppreciative>
-  <NeanderthalFactionGreetingWary>crwdns429260:0{0}crwdne429260:0</NeanderthalFactionGreetingWary>
-  <NeanderthalFactionGreetingWarm>crwdns429262:0{0}crwdnd429262:0{NEGOTIATOR_labelShort}crwdne429262:0</NeanderthalFactionGreetingWarm>
-
-  <MaxTier>crwdns429264:0crwdne429264:0</MaxTier>
-  <MaxTierDesc>crwdns429266:0{PAWN_nameDef}crwdne429266:0</MaxTierDesc>
-  <ProgressToNextGrowthTier>crwdns429268:0crwdne429268:0</ProgressToNextGrowthTier>
-  <ThisGrowthTier>crwdns429270:0crwdne429270:0</ThisGrowthTier>
-  <NextGrowthTier>crwdns429272:0crwdne429272:0</NextGrowthTier>
-  <NumPassionsFromOptions>crwdns429274:0{0}crwdnd429274:0{1}crwdne429274:0</NumPassionsFromOptions>
-  <NumTraitsFromOptions>crwdns429276:0{0}crwdnd429276:0{1}crwdne429276:0</NumTraitsFromOptions>
-  <NextGrowthMomentAt>crwdns429278:0crwdne429278:0</NextGrowthMomentAt>
-
-  <RoomRequirementNoBiotechBuildings>crwdns429280:0crwdne429280:0</RoomRequirementNoBiotechBuildings>
-
-  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>crwdns429282:0{PAWN_nameDef}crwdnd429282:0{PAWN_objective}crwdne429282:0</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
-  <WarningPawnWillDieFromBloodfeeding>crwdns429284:0{PAWN_nameDef}crwdnd429284:0{PAWN_objective}crwdne429284:0</WarningPawnWillDieFromBloodfeeding>
-
-  <AbilityMustHaveTendableWound>crwdns429286:0{0_labelShort}crwdne429286:0</AbilityMustHaveTendableWound>
-
-  <!-- Abandon home (including mechs) -->
-  <ConfirmAbandonHomeWithColonyPawnsIncMechs>crwdns429288:0{0}crwdne429288:0</ConfirmAbandonHomeWithColonyPawnsIncMechs>
-
+  <StylesInUse>crwdns443438:0crwdne443438:0</StylesInUse>
+  <StyleCategoryAddDesc>crwdns443440:0crwdne443440:0</StyleCategoryAddDesc>
 </LanguageData>
