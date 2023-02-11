@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bear_Grizzly.label>crwdns460734:0crwdne460734:0</Bear_Grizzly.label>
+  <Bear_Grizzly.label>crwdns473112:0crwdne473112:0</Bear_Grizzly.label>
+  <Bear_Grizzly.description>crwdns473114:0crwdne473114:0</Bear_Grizzly.description>
+  <Bear_Grizzly.race.meatLabel>crwdns473116:0crwdne473116:0</Bear_Grizzly.race.meatLabel>
+  <Bear_Grizzly.tools.left_claw.label>crwdns473118:0crwdne473118:0</Bear_Grizzly.tools.left_claw.label>
+  <Bear_Grizzly.tools.right_claw.label>crwdns473120:0crwdne473120:0</Bear_Grizzly.tools.right_claw.label>
+  <Bear_Grizzly.tools.head.label>crwdns473122:0crwdne473122:0</Bear_Grizzly.tools.head.label>
   
-  <Bear_Polar.label>crwdns460736:0crwdne460736:0</Bear_Polar.label>
+  <Bear_Polar.label>crwdns473124:0crwdne473124:0</Bear_Polar.label>
+  <Bear_Polar.description>crwdns473126:0crwdne473126:0</Bear_Polar.description>
+  <Bear_Polar.tools.left_claw.label>crwdns473128:0crwdne473128:0</Bear_Polar.tools.left_claw.label>
+  <Bear_Polar.tools.right_claw.label>crwdns473130:0crwdne473130:0</Bear_Polar.tools.right_claw.label>
+  <Bear_Polar.tools.head.label>crwdns473132:0crwdne473132:0</Bear_Polar.tools.head.label>
 </LanguageData>
