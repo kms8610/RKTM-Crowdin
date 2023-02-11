@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_MiniShotgun.label>crwdns427930:0crwdne427930:0</Bullet_MiniShotgun.label>
+  
+  <Bullet_Slugthrower.label>crwdns427932:0crwdne427932:0</Bullet_Slugthrower.label>
+  
+  <Bullet_Spiner.label>crwdns427934:0crwdne427934:0</Bullet_Spiner.label>
+  
+  <Gun_MiniFlameblaster.label>crwdns427936:0crwdne427936:0</Gun_MiniFlameblaster.label>
+  <Gun_MiniFlameblaster.description>crwdns427938:0crwdne427938:0</Gun_MiniFlameblaster.description>
+  <Gun_MiniFlameblaster.tools.barrel.label>crwdns427940:0crwdne427940:0</Gun_MiniFlameblaster.tools.barrel.label>
+  <Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>crwdns427942:0crwdne427942:0</Gun_MiniFlameblaster.verbs.Verb_SpewFire.label>
+  
+  <Gun_MiniShotgun.label>crwdns427944:0crwdne427944:0</Gun_MiniShotgun.label>
+  <Gun_MiniShotgun.description>crwdns427946:0crwdne427946:0</Gun_MiniShotgun.description>
+  <Gun_MiniShotgun.tools.barrel.label>crwdns427948:0crwdne427948:0</Gun_MiniShotgun.tools.barrel.label>
+  <Gun_MiniShotgun.verbs.Verb_Shoot.label>crwdns427950:0crwdne427950:0</Gun_MiniShotgun.verbs.Verb_Shoot.label>
+  
+  <Gun_Slugthrower.label>crwdns427952:0crwdne427952:0</Gun_Slugthrower.label>
+  <Gun_Slugthrower.description>crwdns427954:0crwdne427954:0</Gun_Slugthrower.description>
+  <Gun_Slugthrower.tools.barrel-0.label>crwdns427956:0crwdne427956:0</Gun_Slugthrower.tools.barrel-0.label>
+  <Gun_Slugthrower.tools.barrel-1.label>crwdns427958:0crwdne427958:0</Gun_Slugthrower.tools.barrel-1.label>
+  <Gun_Slugthrower.verbs.Verb_Shoot.label>crwdns427960:0crwdne427960:0</Gun_Slugthrower.verbs.Verb_Shoot.label>
+  
+  <Gun_Spiner.label>crwdns427962:0crwdne427962:0</Gun_Spiner.label>
+  <Gun_Spiner.description>crwdns427964:0crwdne427964:0</Gun_Spiner.description>
+  <Gun_Spiner.tools.barrel.label>crwdns427966:0crwdne427966:0</Gun_Spiner.tools.barrel.label>
+  <Gun_Spiner.verbs.Verb_Shoot.label>crwdns427968:0crwdne427968:0</Gun_Spiner.verbs.Verb_Shoot.label>
+</LanguageData>
