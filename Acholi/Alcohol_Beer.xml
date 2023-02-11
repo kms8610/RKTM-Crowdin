@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_Wort.label>crwdns461628:0crwdne461628:0</Make_Wort.label>
-  <Make_Wort.description>crwdns461630:0crwdne461630:0</Make_Wort.description>
-  <Make_Wort.jobString>crwdns461632:0crwdne461632:0</Make_Wort.jobString>
+  <Beer.label>crwdns471136:0crwdne471136:0</Beer.label>
+  <Beer.description>crwdns471138:0crwdne471138:0</Beer.description>
+  <Beer.ingestible.ingestCommandString>crwdns471140:0{0}crwdne471140:0</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestReportString>crwdns471142:0{0}crwdne471142:0</Beer.ingestible.ingestReportString>
+  <Beer.tools.bottle.label>crwdns471144:0crwdne471144:0</Beer.tools.bottle.label>
+  <Beer.tools.neck.label>crwdns471146:0crwdne471146:0</Beer.tools.neck.label>
+  
+  <Wort.label>crwdns471148:0crwdne471148:0</Wort.label>
+  <Wort.description>crwdns471150:0crwdne471150:0</Wort.description>
 </LanguageData>
