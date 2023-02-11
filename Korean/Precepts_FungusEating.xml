@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FungusEating_Despised.label>천박함</FungusEating_Despised.label>
-  <FungusEating_Despised.description>어둠 속에서 자란 버섯은 역겨운 것이다.</FungusEating_Despised.description>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>버섯 요리 섭취</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>고인 웅덩이에 떠오른 쥐새끼 냄새가 난다고.</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>
   
-  <FungusEating_Preferred.label>선호</FungusEating_Preferred.label>
-  <FungusEating_Preferred.description>버섯이야말로 길러야 하는 작물이다. 빛의 작물들은 공기와 태양에 오염됐다.</FungusEating_Preferred.description>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>버섯 요리 섭취</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>버섯으로 만든 요리를 먹었어. 버섯이 보완하지 못하는 요리가 있을까?</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>
+  
+  <AteFungus_Despised.stages.ate_fungus_raw.label>버섯 섭취</AteFungus_Despised.stages.ate_fungus_raw.label>
+  <AteFungus_Despised.stages.ate_fungus_raw.description>이 버섯은 젖은 누더기 냄새가 나고 맛은 더 안 좋았어.</AteFungus_Despised.stages.ate_fungus_raw.description>
+  
+  <AteFungus_Preferred.stages.ate_fungus.label>버섯 섭취</AteFungus_Preferred.stages.ate_fungus.label>
+  <AteFungus_Preferred.stages.ate_fungus.description>내가 좋아하는 버섯을 먹었어!</AteFungus_Preferred.stages.ate_fungus.description>
+  
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>버섯 외의 식물 요리 섭취</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>빛을 받고 자란 재료로 만든 요리를 먹었어. 버섯이었더라면 좋았을텐데.</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>
+  
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>버섯 외의 식물 섭취</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>버섯이 아닌 경멸스런 요리를 먹어야만 했어. 나는 버섯을 원해.</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>
 </LanguageData>
