@@ -1,82 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ConvertIdeoAttempt.label>crwdns431722:0crwdne431722:0</ConvertIdeoAttempt.label>
-  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
-    <li>crwdns431724:0[INITIATOR_nameDef]crwdnd431724:0[RECIPIENT_nameDef]crwdnd431724:0[INITIATOR_possessive]crwdne431724:0</li>
-  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+    <li>crwdns438580:0[RECIPIENT_nameDef]crwdne438580:0</li>
+  </Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
   
-  <Convert_Failure.label>crwdns431726:0crwdne431726:0</Convert_Failure.label>
-  <Convert_Failure.logRulesInitiator.rulesStrings>
-    <li>crwdns431728:0[INITIATOR_nameDef]crwdnd431728:0[RECIPIENT_nameDef]crwdne431728:0</li>
-  </Convert_Failure.logRulesInitiator.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+    <li>crwdns438582:0[RECIPIENT_nameDef]crwdne438582:0</li>
+  </Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
   
-  <Convert_Success.label>crwdns431730:0crwdne431730:0</Convert_Success.label>
-  <Convert_Success.logRulesInitiator.rulesStrings>
-    <li>crwdns431732:0[INITIATOR_nameDef]crwdnd431732:0[RECIPIENT_nameDef]crwdne431732:0</li>
-  </Convert_Success.logRulesInitiator.rulesStrings>
+  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+    <li>crwdns438584:0[RECIPIENT_nameDef]crwdne438584:0</li>
+  </Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
   
-  <Counsel_Failure.label>crwdns431734:0crwdne431734:0</Counsel_Failure.label>
-  <Counsel_Failure.logRulesInitiator.rulesStrings>
-    <li>crwdns431736:0[INITIATOR_nameDef]crwdnd431736:0[RECIPIENT_nameDef]crwdne431736:0</li>
-  </Counsel_Failure.logRulesInitiator.rulesStrings>
-  
-  <Counsel_Success.label>crwdns431738:0crwdne431738:0</Counsel_Success.label>
-  <Counsel_Success.logRulesInitiator.rulesStrings>
-    <li>crwdns431740:0[INITIATOR_nameDef]crwdnd431740:0[RECIPIENT_nameDef]crwdnd431740:0[problems]crwdne431740:0</li>
-    <li>crwdns431742:0[INITIATOR_nameDef]crwdnd431742:0[RECIPIENT_nameDef]crwdnd431742:0[problems]crwdne431742:0</li>
-    <li>crwdns431744:0[INITIATOR_nameDef]crwdnd431744:0[RECIPIENT_nameDef]crwdne431744:0</li>
-    <li>crwdns431746:0[RECIPIENT_possessive]crwdne431746:0</li>
-    <li>crwdns431748:0[RECIPIENT_possessive]crwdne431748:0</li>
-    <li>crwdns431750:0[RECIPIENT_possessive]crwdne431750:0</li>
-    <li>crwdns431752:0crwdne431752:0</li>
-  </Counsel_Success.logRulesInitiator.rulesStrings>
-  
-  <PreachHealth.label>crwdns431754:0crwdne431754:0</PreachHealth.label>
-  <PreachHealth.logRulesInitiator.rulesStrings>
-    <li>crwdns431756:0[INITIATOR_nameDef]crwdnd431756:0[RECIPIENT_nameDef]crwdnd431756:0[preaching_topic]crwdne431756:0</li>
-    <li>crwdns431758:0crwdne431758:0</li>
-    <li>crwdns431760:0crwdne431760:0</li>
-    <li>crwdns431762:0[RECIPIENT_possessive]crwdne431762:0</li>
-  </PreachHealth.logRulesInitiator.rulesStrings>
-  
-  <Reassure.label>crwdns431764:0crwdne431764:0</Reassure.label>
-  <Reassure.logRulesInitiator.rulesStrings>
-    <li>crwdns431766:0[INITIATOR_nameDef]crwdnd431766:0[RECIPIENT_nameDef]crwdne431766:0</li>
-  </Reassure.logRulesInitiator.rulesStrings>
-  
-  <Trial_Accuse.label>crwdns431768:0crwdne431768:0</Trial_Accuse.label>
-  <Trial_Accuse.logRulesInitiator.rulesStrings>
-    <li>crwdns431770:0[INITIATOR_nameDef]crwdne431770:0</li>
-    <li>crwdns431772:0[INITIATOR_nameDef]crwdne431772:0</li>
-    <li>crwdns431774:0[INITIATOR_nameDef]crwdnd431774:0[RECIPIENT_nameDef]crwdnd431774:0[wrongdoing]crwdne431774:0</li>
-    <li>crwdns431776:0crwdne431776:0</li>
-    <li>crwdns431778:0crwdne431778:0</li>
-    <li>crwdns431780:0crwdne431780:0</li>
-    <li>crwdns431782:0crwdne431782:0</li>
-    <li>crwdns431784:0crwdne431784:0</li>
-    <li>crwdns431786:0crwdne431786:0</li>
-    <li>crwdns431788:0crwdne431788:0</li>
-    <li>crwdns431790:0crwdne431790:0</li>
-    <li>crwdns431792:0crwdne431792:0</li>
-    <li>crwdns431794:0crwdne431794:0</li>
-    <li>crwdns431796:0crwdne431796:0</li>
-    <li>crwdns431798:0crwdne431798:0</li>
-    <li>crwdns431800:0crwdne431800:0</li>
-  </Trial_Accuse.logRulesInitiator.rulesStrings>
-  
-  <Trial_Defend.label>crwdns431802:0crwdne431802:0</Trial_Defend.label>
-  <Trial_Defend.logRulesInitiator.rulesStrings>
-    <li>crwdns431804:0[INITIATOR_nameDef]crwdne431804:0</li>
-    <li>crwdns431806:0[INITIATOR_nameDef]crwdne431806:0</li>
-    <li>crwdns431808:0[INITIATOR_nameDef]crwdne431808:0</li>
-    <li>crwdns431810:0[INITIATOR_nameDef]crwdne431810:0</li>
-    <li>crwdns431812:0[INITIATOR_nameDef]crwdne431812:0</li>
-    <li>crwdns431814:0[INITIATOR_nameDef]crwdne431814:0</li>
-    <li>crwdns431816:0[INITIATOR_nameDef]crwdne431816:0</li>
-  </Trial_Defend.logRulesInitiator.rulesStrings>
-  
-  <WorkDrive.label>crwdns431818:0crwdne431818:0</WorkDrive.label>
-  <WorkDrive.logRulesInitiator.rulesStrings>
-    <li>crwdns431820:0[INITIATOR_nameDef]crwdnd431820:0[RECIPIENT_nameDef]crwdne431820:0</li>
-  </WorkDrive.logRulesInitiator.rulesStrings>
+  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+    <li>crwdns438586:0[RECIPIENT_nameDef]crwdnd438586:0[RECIPIENT_possessive]crwdne438586:0</li>
+  </Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
 </LanguageData>
