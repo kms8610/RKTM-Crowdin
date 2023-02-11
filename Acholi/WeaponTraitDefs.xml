@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HungerMaker.label>crwdns445714:0crwdne445714:0</HungerMaker.label>
-  <HungerMaker.description>crwdns445716:0crwdne445716:0</HungerMaker.description>
+  <BondedThoughtCalm.stages.s_calm_thoughts.label>crwdns449494:0{WEAPON}crwdne449494:0</BondedThoughtCalm.stages.s_calm_thoughts.label>
+  <BondedThoughtCalm.stages.s_calm_thoughts.description>crwdns449496:0{WEAPON}crwdne449496:0</BondedThoughtCalm.stages.s_calm_thoughts.description>
   
-  <NeuralHeatRecoveryGain.label>crwdns445718:0crwdne445718:0</NeuralHeatRecoveryGain.label>
-  <NeuralHeatRecoveryGain.description>crwdns445720:0crwdne445720:0</NeuralHeatRecoveryGain.description>
+  <BondedThoughtKind.stages.s_kind_thoughts.label>crwdns449498:0{WEAPON}crwdne449498:0</BondedThoughtKind.stages.s_kind_thoughts.label>
+  <BondedThoughtKind.stages.s_kind_thoughts.description>crwdns449500:0{WEAPON}crwdne449500:0</BondedThoughtKind.stages.s_kind_thoughts.description>
   
-  <NoPain.label>crwdns445722:0crwdne445722:0</NoPain.label>
-  <NoPain.description>crwdns445724:0crwdne445724:0</NoPain.description>
+  <BondedThoughtMuttering.stages.s_muttering.label>crwdns449502:0{WEAPON}crwdne449502:0</BondedThoughtMuttering.stages.s_muttering.label>
+  <BondedThoughtMuttering.stages.s_muttering.description>crwdns449504:0{WEAPON}crwdne449504:0</BondedThoughtMuttering.stages.s_muttering.description>
   
-  <SpeedBoost.label>crwdns445726:0crwdne445726:0</SpeedBoost.label>
-  <SpeedBoost.description>crwdns445728:0crwdne445728:0</SpeedBoost.description>
+  <BondedThoughtWailing.stages.s_wailing.label>crwdns449506:0{WEAPON}crwdne449506:0</BondedThoughtWailing.stages.s_wailing.label>
+  <BondedThoughtWailing.stages.s_wailing.description>crwdns449508:0{WEAPON}crwdne449508:0</BondedThoughtWailing.stages.s_wailing.description>
+  
+  <JealousRage.stages.s_jealousy.label>crwdns449510:0{WEAPON}crwdne449510:0</JealousRage.stages.s_jealousy.label>
+  <JealousRage.stages.s_jealousy.description>crwdns449512:0{WEAPON}crwdne449512:0</JealousRage.stages.s_jealousy.description>
+  
+  <OnKill_BadThought.stages.s_kill_sorrow.label>crwdns449514:0{WEAPON}crwdne449514:0</OnKill_BadThought.stages.s_kill_sorrow.label>
+  <OnKill_BadThought.stages.s_kill_sorrow.description>crwdns449516:0{WEAPON}crwdne449516:0</OnKill_BadThought.stages.s_kill_sorrow.description>
+  
+  <OnKill_GoodThought.stages.s_kill_happiness.label>crwdns449518:0{WEAPON}crwdne449518:0</OnKill_GoodThought.stages.s_kill_happiness.label>
+  <OnKill_GoodThought.stages.s_kill_happiness.description>crwdns449520:0{WEAPON}crwdne449520:0</OnKill_GoodThought.stages.s_kill_happiness.description>
 </LanguageData>
