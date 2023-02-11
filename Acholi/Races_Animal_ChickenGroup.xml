@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Chicken.label>crwdns460786:0crwdne460786:0</Chicken.label>
+  <Chicken.labelFemale>crwdns460788:0crwdne460788:0</Chicken.labelFemale>
+  <Chicken.labelMale>crwdns460790:0crwdne460790:0</Chicken.labelMale>
+  <Chicken.lifeStages.chick.label>crwdns460792:0crwdne460792:0</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>crwdns460794:0crwdne460794:0</Chicken.lifeStages.cockerel.labelMale>
+  
+  <Duck.label>crwdns460796:0crwdne460796:0</Duck.label>
+  <Duck.lifeStages.duckling.label>crwdns460798:0crwdne460798:0</Duck.lifeStages.duckling.label>
+  
+  <Goose.label>crwdns460800:0crwdne460800:0</Goose.label>
+  <Goose.labelPlural>crwdns460802:0crwdne460802:0</Goose.labelPlural>
+  
+  <Turkey.label>crwdns460804:0crwdne460804:0</Turkey.label>
+</LanguageData>
