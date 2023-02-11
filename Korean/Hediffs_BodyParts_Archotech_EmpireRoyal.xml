@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PsychicHarmonizer.label>감정 송출기</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>감정 송출기를 이식했습니다.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.labelNoun>감정 송출기</PsychicHarmonizer.labelNoun>
+  
+  <PsychicReader.label>감정 판독기</PsychicReader.label>
+  <PsychicReader.description>감정 판독기를 이식했습니다.</PsychicReader.description>
+  <PsychicReader.labelNoun>감정 판독기</PsychicReader.labelNoun>
+  
+  <PsychicSensitizer.label>민감한 정신</PsychicSensitizer.label>
+  <PsychicSensitizer.description>초능력 증진기를 이식했습니다.</PsychicSensitizer.description>
+  <PsychicSensitizer.labelNoun>초능력 증진기</PsychicSensitizer.labelNoun>
+</LanguageData>
