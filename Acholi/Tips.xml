@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoligionTips.SlaveWorkEfficiency>crwdns442894:0crwdne442894:0</IdeoligionTips.SlaveWorkEfficiency>
-  <IdeoligionTips.TerrorRadius>crwdns442896:0crwdne442896:0</IdeoligionTips.TerrorRadius>
-  <IdeoligionTips.SleepAcceleratorNaps>crwdns442898:0crwdne442898:0</IdeoligionTips.SleepAcceleratorNaps>
+  <RoyaltyTips.TitleMilitaryAid>crwdns449524:0crwdne449524:0</RoyaltyTips.TitleMilitaryAid>
+  <RoyaltyTips.NoblesDemandPrivileges>crwdns449526:0crwdne449526:0</RoyaltyTips.NoblesDemandPrivileges>
+  <RoyaltyTips.RoyalArmor>crwdns449528:0crwdne449528:0</RoyaltyTips.RoyalArmor>
+  <RoyaltyTips.TitleInheritance>crwdns449530:0crwdne449530:0</RoyaltyTips.TitleInheritance>
+  <RoyaltyTips.ChangeHeir>crwdns449532:0crwdne449532:0</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.FreePsychicAmplifier>crwdns449534:0crwdne449534:0</RoyaltyTips.FreePsychicAmplifier>
+  <RoyaltyTips.IllegalImplantUse>crwdns449536:0crwdne449536:0</RoyaltyTips.IllegalImplantUse>
+  <RoyaltyTips.InstallingPsychicAmplifier>crwdns449538:0crwdne449538:0</RoyaltyTips.InstallingPsychicAmplifier>
+  <RoyaltyTips.PsycastAdvantage>crwdns449540:0crwdne449540:0</RoyaltyTips.PsycastAdvantage>
+  <RoyaltyTips.PsycastFactionRelations>crwdns449542:0crwdne449542:0</RoyaltyTips.PsycastFactionRelations>
+  <RoyaltyTips.PsycastInvisibility>crwdns449544:0crwdne449544:0</RoyaltyTips.PsycastInvisibility>
+  <RoyaltyTips.PsychicEntropyLimit>crwdns449546:0crwdne449546:0</RoyaltyTips.PsychicEntropyLimit>
+  <RoyaltyTips.PsycastSensitivity>crwdns449548:0crwdne449548:0</RoyaltyTips.PsycastSensitivity>
+  <RoyaltyTips.EltexGear>crwdns449550:0crwdne449550:0</RoyaltyTips.EltexGear>
+  <RoyaltyTips.MechClusterPowercell>crwdns449552:0crwdne449552:0</RoyaltyTips.MechClusterPowercell>
+  <RoyaltyTips.MechClusterDormant>crwdns449554:0crwdne449554:0</RoyaltyTips.MechClusterDormant>
+  <RoyaltyTips.RoyalTributeCollector>crwdns449556:0crwdne449556:0</RoyaltyTips.RoyalTributeCollector>
+  <RoyaltyTips.MechClusterDormantTrigger>crwdns449558:0crwdne449558:0</RoyaltyTips.MechClusterDormantTrigger>
+  <RoyaltyTips.SkipPsycastsMultiuse>crwdns449560:0crwdne449560:0</RoyaltyTips.SkipPsycastsMultiuse>
+  <RoyaltyTips.JumpPackRescue>crwdns449562:0crwdne449562:0</RoyaltyTips.JumpPackRescue>
 </LanguageData>
