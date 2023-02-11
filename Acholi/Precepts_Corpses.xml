@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Corpses_DontCare.label>crwdns436308:0crwdne436308:0</Corpses_DontCare.label>
-  <Corpses_DontCare.description>crwdns436310:0crwdne436310:0</Corpses_DontCare.description>
+  <ObservedLayingCorpse.label>crwdns458532:0crwdne458532:0</ObservedLayingCorpse.label>
+  
+  <ObservedLayingRottingCorpse.label>crwdns458534:0crwdne458534:0</ObservedLayingRottingCorpse.label>
 </LanguageData>
