@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bloodfeeding.label>crwdns424546:0crwdne424546:0</Bloodfeeding.label>
+  <Bloodfeeding.description>crwdns424548:0crwdne424548:0</Bloodfeeding.description>
+  <Bloodfeeding.descriptionMaker.rules.rulesStrings>
+    <li>crwdns424550:0[deity0_name]crwdne424550:0</li>
+    <li>crwdns424552:0[deity0_type]crwdnd424552:0[deity0_name]crwdnd424552:0[deity0_possessive]crwdne424552:0</li>
+    <li>crwdns424554:0[place_summary]crwdnd424554:0[place_name]crwdnd424554:0[deity0_name]crwdnd424554:0[deity0_possessive]crwdnd424554:0[deity0_possessive]crwdnd424554:0[deity0_name]crwdnd424554:0[deity0_possessive]crwdnd424554:0[bloodDrinkingAnimal]crwdne424554:0</li>
+    <li>crwdns424556:0[place_summary]crwdnd424556:0[place_name]crwdnd424556:0[ritualName]crwdnd424556:0[deity0_name]crwdnd424556:0[altarRoomLabel]crwdnd424556:0[bloodDrinkingAnimal]crwdnd424556:0[deity0_name]crwdnd424556:0[deity0_possessive]crwdnd424556:0[memberNamePlural]crwdne424556:0</li>
+    <li>crwdns424558:0[foeLeader]crwdnd424558:0[foeSoldiers]crwdnd424558:0[memberNamePlural]crwdne424558:0</li>
+    <li>crwdns424560:0[place_job]crwdnd424560:0[founderName]crwdnd424560:0[foeLeader]crwdnd424560:0[foeSoldiers]crwdnd424560:0[founderName]crwdnd424560:0[foeLeader_objective]crwdnd424560:0[place_personalWeapon]crwdnd424560:0[foeLeader_possessive]crwdnd424560:0[deity0_name]crwdne424560:0</li>
+    <li>crwdns424562:0[founderName]crwdnd424562:0[memberNamePlural]crwdnd424562:0[place_powerCenter]crwdnd424562:0[foeLeader]crwdnd424562:0[foeLeader_possessive]crwdnd424562:0[deity0_name]crwdnd424562:0[founderName]crwdnd424562:0[foeLeader]crwdnd424562:0[founderName]crwdne424562:0</li>
+    <li>crwdns424564:0[founderName]crwdnd424564:0[founder_pronoun]crwdne424564:0</li>
+    <li>crwdns424566:0[founderName]crwdnd424566:0[founder_possessive]crwdne424566:0</li>
+    <li>crwdns424568:0crwdne424568:0</li>
+    <li>crwdns424570:0crwdne424570:0</li>
+    <li>crwdns424572:0crwdne424572:0</li>
+    <li>crwdns424574:0crwdne424574:0</li>
+    <li>crwdns424576:0crwdne424576:0</li>
+    <li>crwdns424578:0[inTheEnd]crwdne424578:0</li>
+    <li>crwdns424580:0[bloodDrinkingAnimal]crwdne424580:0</li>
+    <li>crwdns424582:0crwdne424582:0</li>
+    <li>crwdns424584:0crwdne424584:0</li>
+    <li>crwdns424586:0crwdne424586:0</li>
+    <li>crwdns424588:0crwdne424588:0</li>
+    <li>crwdns424590:0crwdne424590:0</li>
+  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
+  <Bloodfeeding.generalRules.rulesStrings>
+    <li>crwdns424592:0crwdne424592:0</li>
+    <li>crwdns424594:0crwdne424594:0</li>
+    <li>crwdns424596:0crwdne424596:0</li>
+    <li>crwdns424598:0crwdne424598:0</li>
+    <li>crwdns424600:0crwdne424600:0</li>
+    <li>crwdns424602:0crwdne424602:0</li>
+    <li>crwdns424604:0crwdne424604:0</li>
+    <li>crwdns424606:0crwdne424606:0</li>
+    <li>crwdns424608:0crwdne424608:0</li>
+    <li>crwdns424610:0crwdne424610:0</li>
+    <li>crwdns424612:0crwdne424612:0</li>
+    <li>crwdns424614:0crwdne424614:0</li>
+    <li>crwdns424616:0crwdne424616:0</li>
+    <li>crwdns424618:0crwdne424618:0</li>
+  </Bloodfeeding.generalRules.rulesStrings>
+</LanguageData>
