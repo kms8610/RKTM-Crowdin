@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apostasy_Abhorrent.label>crwdns436138:0crwdne436138:0</Apostasy_Abhorrent.label>
-  <Apostasy_Abhorrent.description>crwdns436140:0crwdne436140:0</Apostasy_Abhorrent.description>
-  <Apostasy_Abhorrent.comps.0.description>crwdns436142:0crwdne436142:0</Apostasy_Abhorrent.comps.0.description>
+  <ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>crwdns440960:0crwdne440960:0</ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>
   
-  <Apostasy_Disapproved.label>crwdns436144:0crwdne436144:0</Apostasy_Disapproved.label>
-  <Apostasy_Disapproved.description>crwdns436146:0crwdne436146:0</Apostasy_Disapproved.description>
-  <Apostasy_Disapproved.comps.0.description>crwdns436148:0crwdne436148:0</Apostasy_Disapproved.comps.0.description>
+  <ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>crwdns440962:0crwdne440962:0</ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>
   
-  <Apostasy_Horrible.label>crwdns436150:0crwdne436150:0</Apostasy_Horrible.label>
-  <Apostasy_Horrible.description>crwdns436152:0crwdne436152:0</Apostasy_Horrible.description>
-  <Apostasy_Horrible.comps.0.description>crwdns436154:0crwdne436154:0</Apostasy_Horrible.comps.0.description>
+  <ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>crwdns440964:0crwdne440964:0</ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>
+  
+  <IsApostate_Abhorrent_Social.stages.apostate.label>crwdns440966:0crwdne440966:0</IsApostate_Abhorrent_Social.stages.apostate.label>
+  
+  <IsApostate_Disapproved_Social.stages.apostate.label>crwdns440968:0crwdne440968:0</IsApostate_Disapproved_Social.stages.apostate.label>
+  
+  <IsApostate_Horrible_Social.stages.apostate.label>crwdns440970:0crwdne440970:0</IsApostate_Horrible_Social.stages.apostate.label>
 </LanguageData>
