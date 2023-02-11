@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ChargeBlasterHeavy.label>crwdns474000:0crwdne474000:0</Bullet_ChargeBlasterHeavy.label>
+  
+  <Bullet_InfernoCannon.label>crwdns474002:0crwdne474002:0</Bullet_InfernoCannon.label>
+  
+  <Bullet_NeedleGun.label>crwdns474004:0crwdne474004:0</Bullet_NeedleGun.label>
+  
+  <Gun_ChargeBlasterHeavy.label>crwdns474006:0crwdne474006:0</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>crwdns474008:0crwdne474008:0</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>crwdns474010:0crwdne474010:0</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>crwdns474012:0crwdne474012:0</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  
+  <Gun_InfernoCannon.label>crwdns474014:0crwdne474014:0</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>crwdns474016:0crwdne474016:0</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.barrel.label>crwdns474018:0crwdne474018:0</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>crwdns474020:0crwdne474020:0</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  
+  <Gun_Needle.label>crwdns474022:0crwdne474022:0</Gun_Needle.label>
+  <Gun_Needle.description>crwdns474024:0crwdne474024:0</Gun_Needle.description>
+  <Gun_Needle.tools.barrel.label>crwdns474026:0crwdne474026:0</Gun_Needle.tools.barrel.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>crwdns474028:0crwdne474028:0</Gun_Needle.verbs.Verb_Shoot.label>
+</LanguageData>
