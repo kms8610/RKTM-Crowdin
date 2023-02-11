@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Skullspike_Desired.label>crwdns436946:0crwdne436946:0</Skullspike_Desired.label>
-  <Skullspike_Desired.description>crwdns436948:0crwdne436948:0</Skullspike_Desired.description>
-  <Skullspike_Desired.comps.0.description>crwdns436950:0crwdne436950:0</Skullspike_Desired.comps.0.description>
+  <Skullspike_Desired.stages.skullspikes-0.label>crwdns442244:0crwdne442244:0</Skullspike_Desired.stages.skullspikes-0.label>
+  <Skullspike_Desired.stages.skullspikes-0.description>crwdns442246:0crwdne442246:0</Skullspike_Desired.stages.skullspikes-0.description>
+  <Skullspike_Desired.stages.skullspikes-1.label>crwdns442248:0crwdne442248:0</Skullspike_Desired.stages.skullspikes-1.label>
+  <Skullspike_Desired.stages.skullspikes-1.description>crwdns442250:0crwdne442250:0</Skullspike_Desired.stages.skullspikes-1.description>
+  <Skullspike_Desired.stages.skullspikes-2.label>crwdns442252:0crwdne442252:0</Skullspike_Desired.stages.skullspikes-2.label>
+  <Skullspike_Desired.stages.skullspikes-2.description>crwdns442254:0crwdne442254:0</Skullspike_Desired.stages.skullspikes-2.description>
   
-  <Skullspike_Disapproved.label>crwdns436952:0crwdne436952:0</Skullspike_Disapproved.label>
-  <Skullspike_Disapproved.description>crwdns436954:0crwdne436954:0</Skullspike_Disapproved.description>
-  <Skullspike_Disapproved.comps.0.description>crwdns436956:0crwdne436956:0</Skullspike_Disapproved.comps.0.description>
+  <Skullspike_Disapproved.stages.skullspikes-0.label>crwdns442256:0crwdne442256:0</Skullspike_Disapproved.stages.skullspikes-0.label>
+  <Skullspike_Disapproved.stages.skullspikes-0.description>crwdns442258:0crwdne442258:0</Skullspike_Disapproved.stages.skullspikes-0.description>
+  <Skullspike_Disapproved.stages.skullspikes-1.label>crwdns442260:0crwdne442260:0</Skullspike_Disapproved.stages.skullspikes-1.label>
+  <Skullspike_Disapproved.stages.skullspikes-1.description>crwdns442262:0crwdne442262:0</Skullspike_Disapproved.stages.skullspikes-1.description>
+  <Skullspike_Disapproved.stages.skullspikes-2.label>crwdns442264:0crwdne442264:0</Skullspike_Disapproved.stages.skullspikes-2.label>
+  <Skullspike_Disapproved.stages.skullspikes-2.description>crwdns442266:0crwdne442266:0</Skullspike_Disapproved.stages.skullspikes-2.description>
 </LanguageData>
