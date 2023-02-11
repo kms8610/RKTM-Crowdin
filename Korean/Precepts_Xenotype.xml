@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PreferredXenotype.label>선호</PreferredXenotype.label>
-  <PreferredXenotype.description>신자들은 이 인종형이 다른 것보다 더 높은 도덕적 또는 영적 지위를 가지고 있다고 생각합니다. 그들의 정착지에 선호하는 인종형만 있다면 그들은 행복할 것입니다. 그러나 선호하는 인종형이 있다는 것은 그 외 다른 모든 인종형을 싫어하는 것으로 간주하고, 신자들은 그들과 함께 사는 것을 불행해하리라는 것을 의미합니다.</PreferredXenotype.description>
-  <PreferredXenotype.comps.0.description>선호하지 않는 인종형이 됨</PreferredXenotype.comps.0.description>
-  <PreferredXenotype.comps.1.thoughtStageDescriptions.0>선호하는 인종형</PreferredXenotype.comps.1.thoughtStageDescriptions.0>
-  <PreferredXenotype.comps.1.thoughtStageDescriptions.1>싫어하는 인종형</PreferredXenotype.comps.1.thoughtStageDescriptions.1>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.0>모두가 선호하는 인종형</PreferredXenotype.comps.2.thoughtStageDescriptions.0>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.1>일부의 싫어하는 인종형</PreferredXenotype.comps.2.thoughtStageDescriptions.1>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.2>대다수의 싫어하는 인종형</PreferredXenotype.comps.2.thoughtStageDescriptions.2>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.3>매우 많은 싫어하는 인종형</PreferredXenotype.comps.2.thoughtStageDescriptions.3>
+  <PreferredXenotype.stages.preferred_xenotype.label>선호하는 인종형</PreferredXenotype.stages.preferred_xenotype.label>
+  <PreferredXenotype.stages.disliked_xenotype.label>싫어하는 인종형</PreferredXenotype.stages.disliked_xenotype.label>
+  
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>모두가 선호하는 인종형</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>We've built a community of the good and strong xenotypes only.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>일부의 싫어하는 인종형</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>그 인종형이 우리 공동체 안에 있어. 나는 그들이 여기에 있는 걸 원하지 않아.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>대다수의 싫어하는 인종형</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>우리 공동체에 그러한 인종형이 많이 있어. 그들은 여기에 있어서는 안 돼.</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>매우 많은 싫어하는 인종형</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>나는 그 인종형에 둘러싸여 있어. 그들은 여기에 어울리지 않아.</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+  
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>나는 내 인종형이 싫어</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>I'm a {XENOTYPENAME}. I'm not one of the good types.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
 </LanguageData>
