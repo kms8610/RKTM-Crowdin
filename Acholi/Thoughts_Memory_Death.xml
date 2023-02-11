@@ -1,5 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OtherTravelerDied.stages.traveler_died.label>crwdns449348:0crwdne449348:0</OtherTravelerDied.stages.traveler_died.label>
-  <OtherTravelerDied.stages.traveler_died.description>crwdns449350:0crwdne449350:0</OtherTravelerDied.stages.traveler_died.description>
+  <BondedAnimalDied.stages.bonded_animal_died.label>crwdns474376:0{0}crwdne474376:0</BondedAnimalDied.stages.bonded_animal_died.label>
+  <BondedAnimalDied.stages.bonded_animal_died.description>crwdns474378:0crwdne474378:0</BondedAnimalDied.stages.bonded_animal_died.description>
+  
+  <KnowColonistDied.stages.colonist_died.label>crwdns474380:0crwdne474380:0</KnowColonistDied.stages.colonist_died.label>
+  <KnowColonistDied.stages.colonist_died.description>crwdns474382:0crwdne474382:0</KnowColonistDied.stages.colonist_died.description>
+  
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.label>crwdns474384:0crwdne474384:0</KnowColonistExecuted.stages.justified_execution_of_colonist.label>
+  <KnowColonistExecuted.stages.justified_execution_of_colonist.description>crwdns474386:0crwdne474386:0</KnowColonistExecuted.stages.justified_execution_of_colonist.description>
+  <KnowColonistExecuted.stages.colonist_euthanized.label>crwdns474388:0crwdne474388:0</KnowColonistExecuted.stages.colonist_euthanized.label>
+  <KnowColonistExecuted.stages.colonist_euthanized.description>crwdns474390:0crwdne474390:0</KnowColonistExecuted.stages.colonist_euthanized.description>
+  <KnowColonistExecuted.stages.colonist_executed.label>crwdns474392:0crwdne474392:0</KnowColonistExecuted.stages.colonist_executed.label>
+  <KnowColonistExecuted.stages.colonist_executed.description>crwdns474394:0crwdne474394:0</KnowColonistExecuted.stages.colonist_executed.description>
+  <KnowColonistExecuted.stages.colonist_organharvested.label>crwdns474396:0crwdne474396:0</KnowColonistExecuted.stages.colonist_organharvested.label>
+  <KnowColonistExecuted.stages.colonist_organharvested.description>crwdns474398:0crwdne474398:0</KnowColonistExecuted.stages.colonist_organharvested.description>
+  <KnowColonistExecuted.stages.colonist_ripscanned.label>crwdns474400:0crwdne474400:0</KnowColonistExecuted.stages.colonist_ripscanned.label>
+  <KnowColonistExecuted.stages.colonist_ripscanned.description>crwdns474402:0crwdne474402:0</KnowColonistExecuted.stages.colonist_ripscanned.description>
+  
+  <KnowGuestExecuted.stages.justified_execution.label>crwdns474404:0crwdne474404:0</KnowGuestExecuted.stages.justified_execution.label>
+  <KnowGuestExecuted.stages.justified_execution.description>crwdns474406:0crwdne474406:0</KnowGuestExecuted.stages.justified_execution.description>
+  <KnowGuestExecuted.stages.someone_was_euthanized.label>crwdns474408:0crwdne474408:0</KnowGuestExecuted.stages.someone_was_euthanized.label>
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>crwdns474410:0crwdne474410:0</KnowGuestExecuted.stages.someone_was_euthanized.description>
+  <KnowGuestExecuted.stages.someone_was_executed.label>crwdns474412:0crwdne474412:0</KnowGuestExecuted.stages.someone_was_executed.label>
+  <KnowGuestExecuted.stages.someone_was_executed.description>crwdns474414:0crwdne474414:0</KnowGuestExecuted.stages.someone_was_executed.description>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.label>crwdns474416:0crwdne474416:0</KnowGuestExecuted.stages.someone_was_organmurdered.label>
+  <KnowGuestExecuted.stages.someone_was_organmurdered.description>crwdns474418:0crwdne474418:0</KnowGuestExecuted.stages.someone_was_organmurdered.description>
+  <KnowGuestExecuted.stages.someone_was_ripscanned.label>crwdns474420:0crwdne474420:0</KnowGuestExecuted.stages.someone_was_ripscanned.label>
+  <KnowGuestExecuted.stages.someone_was_ripscanned.description>crwdns474422:0crwdne474422:0</KnowGuestExecuted.stages.someone_was_ripscanned.description>
+  
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>crwdns474424:0crwdne474424:0</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.label>
+  <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>crwdns474426:0crwdne474426:0</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
+  
+  <MyAuntDied.stages.my_aunt_died.label>crwdns474428:0{0}crwdne474428:0</MyAuntDied.stages.my_aunt_died.label>
+  <MyAuntDied.stages.my_aunt_died.description>crwdns474430:0crwdne474430:0</MyAuntDied.stages.my_aunt_died.description>
+  
+  <MyBrotherDied.stages.my_brother_died.label>crwdns474432:0{0}crwdne474432:0</MyBrotherDied.stages.my_brother_died.label>
+  <MyBrotherDied.stages.my_brother_died.description>crwdns474434:0crwdne474434:0</MyBrotherDied.stages.my_brother_died.description>
+  
+  <MyCousinDied.stages.my_cousin_died.label>crwdns474436:0{0}crwdne474436:0</MyCousinDied.stages.my_cousin_died.label>
+  <MyCousinDied.stages.my_cousin_died.description>crwdns474438:0crwdne474438:0</MyCousinDied.stages.my_cousin_died.description>
+  
+  <MyDaughterDied.stages.my_daughter_died.label>crwdns474440:0{0}crwdne474440:0</MyDaughterDied.stages.my_daughter_died.label>
+  <MyDaughterDied.stages.my_daughter_died.description>crwdns474442:0crwdne474442:0</MyDaughterDied.stages.my_daughter_died.description>
+  
+  <MyFatherDied.stages.my_father_died.label>crwdns474444:0{0}crwdne474444:0</MyFatherDied.stages.my_father_died.label>
+  <MyFatherDied.stages.my_father_died.description>crwdns474446:0crwdne474446:0</MyFatherDied.stages.my_father_died.description>
+  
+  <MyFianceDied.stages.my_fiance_died.label>crwdns474448:0{0}crwdne474448:0</MyFianceDied.stages.my_fiance_died.label>
+  <MyFianceDied.stages.my_fiance_died.description>crwdns474450:0crwdne474450:0</MyFianceDied.stages.my_fiance_died.description>
+  
+  <MyFianceeDied.stages.my_fiance_died.label>crwdns474452:0{0}crwdne474452:0</MyFianceeDied.stages.my_fiance_died.label>
+  <MyFianceeDied.stages.my_fiance_died.description>crwdns474454:0crwdne474454:0</MyFianceeDied.stages.my_fiance_died.description>
+  
+  <MyGrandchildDied.stages.my_grandchild_died.label>crwdns474456:0{0}crwdne474456:0</MyGrandchildDied.stages.my_grandchild_died.label>
+  <MyGrandchildDied.stages.my_grandchild_died.description>crwdns474458:0crwdne474458:0</MyGrandchildDied.stages.my_grandchild_died.description>
+  
+  <MyGrandparentDied.stages.my_grandparent_died.label>crwdns474460:0{0}crwdne474460:0</MyGrandparentDied.stages.my_grandparent_died.label>
+  <MyGrandparentDied.stages.my_grandparent_died.description>crwdns474462:0crwdne474462:0</MyGrandparentDied.stages.my_grandparent_died.description>
+  
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>crwdns474464:0{0}crwdne474464:0</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.description>crwdns474466:0crwdne474466:0</MyHalfSiblingDied.stages.my_halfsibling_died.description>
+  
+  <MyHusbandDied.stages.my_husband_died.label>crwdns474468:0{0}crwdne474468:0</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.description>crwdns474470:0crwdne474470:0</MyHusbandDied.stages.my_husband_died.description>
+  
+  <MyKinDied.stages.my_kin_died.label>crwdns474472:0{0}crwdne474472:0</MyKinDied.stages.my_kin_died.label>
+  <MyKinDied.stages.my_kin_died.description>crwdns474474:0crwdne474474:0</MyKinDied.stages.my_kin_died.description>
+  
+  <MyLoverDied.stages.my_lover_died.label>crwdns474476:0{0}crwdne474476:0</MyLoverDied.stages.my_lover_died.label>
+  <MyLoverDied.stages.my_lover_died.description>crwdns474478:0crwdne474478:0</MyLoverDied.stages.my_lover_died.description>
+  
+  <MyMotherDied.stages.my_mother_died.label>crwdns474480:0{0}crwdne474480:0</MyMotherDied.stages.my_mother_died.label>
+  <MyMotherDied.stages.my_mother_died.description>crwdns474482:0crwdne474482:0</MyMotherDied.stages.my_mother_died.description>
+  
+  <MyNephewDied.stages.my_nephew_died.label>crwdns474484:0{0}crwdne474484:0</MyNephewDied.stages.my_nephew_died.label>
+  <MyNephewDied.stages.my_nephew_died.description>crwdns474486:0crwdne474486:0</MyNephewDied.stages.my_nephew_died.description>
+  
+  <MyNieceDied.stages.my_niece_died.label>crwdns474488:0{0}crwdne474488:0</MyNieceDied.stages.my_niece_died.label>
+  <MyNieceDied.stages.my_niece_died.description>crwdns474490:0crwdne474490:0</MyNieceDied.stages.my_niece_died.description>
+  
+  <MySisterDied.stages.my_sister_died.label>crwdns474492:0{0}crwdne474492:0</MySisterDied.stages.my_sister_died.label>
+  <MySisterDied.stages.my_sister_died.description>crwdns474494:0crwdne474494:0</MySisterDied.stages.my_sister_died.description>
+  
+  <MySonDied.stages.my_son_died.label>crwdns474496:0{0}crwdne474496:0</MySonDied.stages.my_son_died.label>
+  <MySonDied.stages.my_son_died.description>crwdns474498:0crwdne474498:0</MySonDied.stages.my_son_died.description>
+  
+  <MyUncleDied.stages.my_uncle_died.label>crwdns474500:0{0}crwdne474500:0</MyUncleDied.stages.my_uncle_died.label>
+  <MyUncleDied.stages.my_uncle_died.description>crwdns474502:0crwdne474502:0</MyUncleDied.stages.my_uncle_died.description>
+  
+  <MyWifeDied.stages.my_wife_died.label>crwdns474504:0{0}crwdne474504:0</MyWifeDied.stages.my_wife_died.label>
+  <MyWifeDied.stages.my_wife_died.description>crwdns474506:0crwdne474506:0</MyWifeDied.stages.my_wife_died.description>
+  
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>crwdns474508:0{0}crwdne474508:0</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <PawnWithBadOpinionDied.stages.my_rival_died.description>crwdns474510:0crwdne474510:0</PawnWithBadOpinionDied.stages.my_rival_died.description>
+  
+  <PawnWithGoodOpinionDied.stages.my_friend_died.label>crwdns474512:0{0}crwdne474512:0</PawnWithGoodOpinionDied.stages.my_friend_died.label>
+  <PawnWithGoodOpinionDied.stages.my_friend_died.description>crwdns474514:0crwdne474514:0</PawnWithGoodOpinionDied.stages.my_friend_died.description>
 </LanguageData>
