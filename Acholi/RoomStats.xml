@@ -1,4 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BiosculpterPodSpeedFactor.label>crwdns438578:0crwdne438578:0</BiosculpterPodSpeedFactor.label>
+  <Beauty.label>crwdns462790:0crwdne462790:0</Beauty.label>
+  <Beauty.scoreStages.hideous.label>crwdns462792:0crwdne462792:0</Beauty.scoreStages.hideous.label>
+  <Beauty.scoreStages.ugly.label>crwdns462794:0crwdne462794:0</Beauty.scoreStages.ugly.label>
+  <Beauty.scoreStages.neutral.label>crwdns462796:0crwdne462796:0</Beauty.scoreStages.neutral.label>
+  <Beauty.scoreStages.pretty.label>crwdns462798:0crwdne462798:0</Beauty.scoreStages.pretty.label>
+  <Beauty.scoreStages.beautiful.label>crwdns462800:0crwdne462800:0</Beauty.scoreStages.beautiful.label>
+  <Beauty.scoreStages.very_beautiful.label>crwdns462802:0crwdne462802:0</Beauty.scoreStages.very_beautiful.label>
+  <Beauty.scoreStages.extremely_beautiful.label>crwdns462804:0crwdne462804:0</Beauty.scoreStages.extremely_beautiful.label>
+  <Beauty.scoreStages.unbelievably_beautiful.label>crwdns462806:0crwdne462806:0</Beauty.scoreStages.unbelievably_beautiful.label>
+  
+  <Cleanliness.label>crwdns462808:0crwdne462808:0</Cleanliness.label>
+  <Cleanliness.scoreStages.very_dirty.label>crwdns462810:0crwdne462810:0</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.dirty.label>crwdns462812:0crwdne462812:0</Cleanliness.scoreStages.dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>crwdns462814:0crwdne462814:0</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.clean.label>crwdns462816:0crwdne462816:0</Cleanliness.scoreStages.clean.label>
+  <Cleanliness.scoreStages.sterile.label>crwdns462818:0crwdne462818:0</Cleanliness.scoreStages.sterile.label>
+  
+  <FoodPoisonChance.label>crwdns462820:0crwdne462820:0</FoodPoisonChance.label>
+  
+  <GraveVisitingJoyGainFactor.label>crwdns462822:0crwdne462822:0</GraveVisitingJoyGainFactor.label>
+  
+  <Impressiveness.label>crwdns462824:0crwdne462824:0</Impressiveness.label>
+  <Impressiveness.scoreStages.awful.label>crwdns462826:0crwdne462826:0</Impressiveness.scoreStages.awful.label>
+  <Impressiveness.scoreStages.dull.label>crwdns462828:0crwdne462828:0</Impressiveness.scoreStages.dull.label>
+  <Impressiveness.scoreStages.mediocre.label>crwdns462830:0crwdne462830:0</Impressiveness.scoreStages.mediocre.label>
+  <Impressiveness.scoreStages.decent.label>crwdns462832:0crwdne462832:0</Impressiveness.scoreStages.decent.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>crwdns462834:0crwdne462834:0</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>crwdns462836:0crwdne462836:0</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.very_impressive.label>crwdns462838:0crwdne462838:0</Impressiveness.scoreStages.very_impressive.label>
+  <Impressiveness.scoreStages.extremely_impressive.label>crwdns462840:0crwdne462840:0</Impressiveness.scoreStages.extremely_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>crwdns462842:0crwdne462842:0</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>crwdns462844:0crwdne462844:0</Impressiveness.scoreStages.wondrously_impressive.label>
+  
+  <InfectionChanceFactor.label>crwdns462846:0crwdne462846:0</InfectionChanceFactor.label>
+  
+  <ResearchSpeedFactor.label>crwdns462848:0crwdne462848:0</ResearchSpeedFactor.label>
+  
+  <Space.label>crwdns462850:0crwdne462850:0</Space.label>
+  <Space.scoreStages.cramped.label>crwdns462852:0crwdne462852:0</Space.scoreStages.cramped.label>
+  <Space.scoreStages.rather_tight.label>crwdns462854:0crwdne462854:0</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.averagesized.label>crwdns462856:0crwdne462856:0</Space.scoreStages.averagesized.label>
+  <Space.scoreStages.somewhat_spacious.label>crwdns462858:0crwdne462858:0</Space.scoreStages.somewhat_spacious.label>
+  <Space.scoreStages.quite_spacious.label>crwdns462860:0crwdne462860:0</Space.scoreStages.quite_spacious.label>
+  <Space.scoreStages.very_spacious.label>crwdns462862:0crwdne462862:0</Space.scoreStages.very_spacious.label>
+  <Space.scoreStages.extremely_spacious.label>crwdns462864:0crwdne462864:0</Space.scoreStages.extremely_spacious.label>
+  
+  <SurgerySuccessChanceCleanlinessFactor.label>crwdns462866:0crwdne462866:0</SurgerySuccessChanceCleanlinessFactor.label>
+  
+  <Wealth.label>crwdns462868:0crwdne462868:0</Wealth.label>
+  <Wealth.scoreStages.impoverished.label>crwdns462870:0crwdne462870:0</Wealth.scoreStages.impoverished.label>
+  <Wealth.scoreStages.somewhat_poor.label>crwdns462872:0crwdne462872:0</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.mediocre.label>crwdns462874:0crwdne462874:0</Wealth.scoreStages.mediocre.label>
+  <Wealth.scoreStages.somewhat_rich.label>crwdns462876:0crwdne462876:0</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.rich.label>crwdns462878:0crwdne462878:0</Wealth.scoreStages.rich.label>
+  <Wealth.scoreStages.luxurious.label>crwdns462880:0crwdne462880:0</Wealth.scoreStages.luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>crwdns462882:0crwdne462882:0</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>crwdns462884:0crwdne462884:0</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>crwdns462886:0crwdne462886:0</Wealth.scoreStages.unbelievably_luxurious.label>
 </LanguageData>
