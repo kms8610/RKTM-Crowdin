@@ -1,124 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Mechanitor -->
-  <LetterLabelMechsFeral>crwdns429616:0crwdne429616:0</LetterLabelMechsFeral>
-  <LetterMechsFeral>crwdns429618:0{0}crwdnd429618:0{1}crwdne429618:0</LetterMechsFeral>
-  <LetterLabelMechlinkInstalled>crwdns429620:0crwdne429620:0</LetterLabelMechlinkInstalled>
-  <LetterMechlinkInstalled>crwdns429622:0{PAWN_labelShort}crwdnd429622:0{PAWN_pronoun}crwdnd429622:0{PAWN_labelShort}crwdnd429622:0{PAWN_possessive}crwdnd429622:0{PAWN_pronoun}crwdnd429622:0{PAWN_pronoun}crwdnd429622:0{PAWN_labelShort}crwdne429622:0</LetterMechlinkInstalled>
+  <!-- Convert ideo attempt -->
+  <LetterLabelConvertIdeoAttempt_Success>crwdns443718:0crwdne443718:0</LetterLabelConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>crwdns443720:0{INITIATOR_nameDef}crwdnd443720:0{RECIPIENT_nameDef}crwdnd443720:0{OLDIDEO_name}crwdnd443720:0{IDEO_name}crwdne443720:0</LetterConvertIdeoAttempt_Success>
 
-  <MentalStateReason_Gene>crwdns429624:0crwdne429624:0</MentalStateReason_Gene>
+  <!-- Slave rebellion -->
+  <LetterLabelGrandSlaveRebellion>crwdns443722:0crwdne443722:0</LetterLabelGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>crwdns443724:0{0}crwdne443724:0</LetterGrandSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>crwdns443726:0crwdne443726:0</LetterLabelLocalSlaveRebellion>
+  <LetterLocalSlaveRebellion>crwdns443728:0{0_nameDef}crwdnd443728:0{1}crwdne443728:0</LetterLocalSlaveRebellion> 
+  <LetterLabelSingleSlaveRebellion>crwdns443730:0crwdne443730:0</LetterLabelSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>crwdns443732:0{0_nameDef}crwdnd443732:0{0_pronoun}crwdne443732:0</LetterSingleSlaveRebellion>
 
-  <LetterLabelBossgroupSummoned>crwdns429626:0{0}crwdne429626:0</LetterLabelBossgroupSummoned>
-  <LetterBossgroupSummoned>crwdns429628:0{0}crwdne429628:0</LetterBossgroupSummoned>
+  <!-- Slave escape -->
+  <LetterLabelGrandSlaveEscape>crwdns443734:0crwdne443734:0</LetterLabelGrandSlaveEscape>
+  <LetterGrandSlaveEscape>crwdns443736:0{0}crwdne443736:0</LetterGrandSlaveEscape>
+  <LetterLabelLocalSlaveEscape>crwdns443738:0crwdne443738:0</LetterLabelLocalSlaveEscape>
+  <LetterLocalSlaveEscape>crwdns443740:0{0_nameDef}crwdnd443740:0{1}crwdne443740:0</LetterLocalSlaveEscape>
+  <LetterLabelSingleSlaveEscape>crwdns443742:0crwdne443742:0</LetterLabelSingleSlaveEscape>
+  <LetterSingleSlaveEscape>crwdns443744:0{0_nameDef}crwdne443744:0</LetterSingleSlaveEscape>
 
-  <LetterLabelBossgroupArrived>crwdns429630:0{0}crwdne429630:0</LetterLabelBossgroupArrived>
-  <LetterBossgroupArrived>crwdns429632:0{0}crwdnd429632:0{1}crwdnd429632:0{3}crwdnd429632:0{4}crwdne429632:0</LetterBossgroupArrived>
-
-  <LetterLabelCommsConsoleSpawned>crwdns429634:0{LEADER_label}crwdne429634:0</LetterLabelCommsConsoleSpawned>
-  <LetterCommsConsoleSpawned>crwdns429636:0{PARENT_label}crwdnd429636:0{LEADER_label}crwdnd429636:0{LEADER_label}crwdnd429636:0{LEADER_label}crwdnd429636:0{REWARDSLIST}crwdne429636:0</LetterCommsConsoleSpawned>
-
-  <LetterLabelBossgroupCallerUnlocked>crwdns429638:0{LEADER_label}crwdne429638:0</LetterLabelBossgroupCallerUnlocked>
-  <LetterBossgroupCallerUnlocked>crwdns429640:0{PARENT_label}crwdnd429640:0{LEADER_label}crwdnd429640:0{LEADER_label}crwdnd429640:0{REWARDSLIST}crwdne429640:0</LetterBossgroupCallerUnlocked>
-
-  <LetterLabelMechanitorCasketOpened>crwdns429642:0{0_nameDef}crwdne429642:0</LetterLabelMechanitorCasketOpened>
-  <LetterMechanitorCasketOpened>crwdns429644:0{0_possessive}crwdne429644:0</LetterMechanitorCasketOpened>
-  <LetterLabelMechanitorCasketFound>crwdns429646:0crwdne429646:0</LetterLabelMechanitorCasketFound>
-  <LetterMechanitorCasketFound>crwdns429648:0crwdne429648:0</LetterMechanitorCasketFound>
+  <SlaveRebellionSuppressionExplanation>crwdns443746:0crwdne443746:0</SlaveRebellionSuppressionExplanation>
   
-  <!-- Pawns lost because map closed (including mechs) -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>crwdns429650:0crwdne429650:0</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>crwdns429652:0crwdne429652:0</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  <!-- Ideo role -->
+  <LetterLabelRoleActive>crwdns443748:0{0}crwdne443748:0</LetterLabelRoleActive>
+  <LetterLabelRoleActiveDesc>crwdns443750:0{0}crwdnd443750:0{1}crwdnd443750:0{ROLE_labelDef}crwdne443750:0</LetterLabelRoleActiveDesc>
+
+  <LetterLabelRoleInactive>crwdns443752:0{0}crwdne443752:0</LetterLabelRoleInactive>
+  <LetterLabelRoleInactiveDesc>crwdns443754:0{0}crwdnd443754:0{1}crwdnd443754:0{ROLE_labelDef}crwdnd443754:0{0}crwdnd443754:0{2}crwdne443754:0</LetterLabelRoleInactiveDesc>
+
+  <LetterLabelRoleLost>crwdns443756:0{PAWN_labelShort}crwdnd443756:0{ROLE_labelIndef}crwdne443756:0</LetterLabelRoleLost>
+  <LetterRoleLostDesc>crwdns443758:0{PAWN_labelShort}crwdnd443758:0{ROLE_labelIndef}crwdne443758:0</LetterRoleLostDesc>
+  <LetterRoleLostReasonUnassignedDesc>crwdns443760:0{PAWN_pronoun}crwdne443760:0</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonLowBelieversDesc>crwdns443762:0{0}crwdne443762:0</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostLetterIdeoChangedPostfix>crwdns443764:0{PAWN_labelShort}crwdnd443764:0{PAWN_possessive}crwdnd443764:0{ROLE_labelDef}crwdnd443764:0{PAWN_pronoun}crwdnd443764:0{OLDIDEO_name}crwdne443764:0</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterObligationRoleInactive>crwdns443766:0{0}crwdne443766:0</LetterObligationRoleInactive>
+  <LetterObligationRoleInactiveDateDesc>crwdns443768:0{0}crwdnd443768:0{1}crwdnd443768:0{ROLE_labelDef}crwdnd443768:0{2}crwdnd443768:0{1}crwdne443768:0</LetterObligationRoleInactiveDateDesc>
   
+  <!-- Ideo misc -->
+  <LetterSpeechConvertedListeners>crwdns443770:0{PAWN_pronoun}crwdnd443770:0{IDEO}crwdne443770:0</LetterSpeechConvertedListeners>
 
-  <!-- Children -->
-  <LetterLabelBecameChild>crwdns429654:0{0_nameDef}crwdne429654:0</LetterLabelBecameChild>
-  <LetterLabelBecameAdult>crwdns429656:0{0_nameDef}crwdne429656:0</LetterLabelBecameAdult>
-  <LetterBecameChild>crwdns429658:0{0_nameDef}crwdnd429658:0{0_pronoun}crwdne429658:0</LetterBecameChild>
-  <LetterBecameChildChanges>crwdns429660:0crwdne429660:0</LetterBecameChildChanges>
-  <LetterChildLegalStatus>crwdns429662:0{0_nameDef}crwdnd429662:0{0_parentage}crwdnd429662:0{0_legalStatus}crwdnd429662:0{0_nameDef}crwdnd429662:0{0_legalStatus}crwdne429662:0</LetterChildLegalStatus>
-  <LetterChildFollowIdeo>crwdns429664:0{0_labelShort}crwdnd429664:0{1_name}crwdne429664:0</LetterChildFollowIdeo>
-  <CannotChangeChildStatusReason>crwdns429666:0{0_nameDef}crwdnd429666:0{0_possessive}crwdne429666:0</CannotChangeChildStatusReason>
-  <Enslave>crwdns429668:0crwdne429668:0</Enslave>
-  <Emancipate>crwdns429670:0crwdne429670:0</Emancipate>
-  <RemainX>crwdns429672:0{0}crwdne429672:0</RemainX>
-  <LetterLabelAdopted>crwdns429674:0{BABY_nameDef}crwdne429674:0</LetterLabelAdopted>
-  <LetterTextAdopted>crwdns429676:0{BABY_nameDef}crwdnd429676:0{BABY_objective}crwdne429676:0</LetterTextAdopted>
+  <LetterTitleObligationsActivated>crwdns443772:0{0}crwdne443772:0</LetterTitleObligationsActivated>
+  <LetterTitleObligationsDeactivated>crwdns443774:0{0}crwdne443774:0</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>crwdns443776:0{1}crwdnd443776:0{IDEO_memberNamePlural}crwdnd443776:0{IDEO_memberNamePlural}crwdnd443776:0{IDEO}crwdnd443776:0{1}crwdne443776:0</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>crwdns443778:0{1}crwdnd443778:0{IDEO_memberNamePlural}crwdnd443778:0{IDEO}crwdne443778:0</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>crwdns443780:0{IDEO}crwdnd443780:0{IDEO_memberNamePlural}crwdnd443780:0{IDEO}crwdne443780:0</LetterTitleObligationsActivatedIdeoBecameMajor>
 
-  <LetterLabelThirdTrimester>crwdns429678:0{0_nameDef}crwdne429678:0</LetterLabelThirdTrimester>
-  <LetterTextThirdTrimester>crwdns429680:0{0_nameDef}crwdnd429680:0{0_nameDef}crwdne429680:0</LetterTextThirdTrimester>
+  <LetterBondRemoved>crwdns443782:0crwdne443782:0</LetterBondRemoved>
+  <LetterBondRemovedDesc>crwdns443784:0{PAWN_nameDef}crwdnd443784:0{IDEO}crwdnd443784:0{IDEO}crwdnd443784:0{PAWN_pronoun}crwdnd443784:0{PAWN_possessive}crwdnd443784:0{BONDS}crwdne443784:0</LetterBondRemovedDesc>
 
-  <LetterVatBirth>crwdns429682:0{0}crwdne429682:0</LetterVatBirth>
-  <LetterVatHealthyBaby>crwdns429684:0{0_nameDef}crwdnd429684:0{1_nameDef}crwdne429684:0</LetterVatHealthyBaby>
-  <LetterVatHealthyBabyNoParents>crwdns429686:0crwdne429686:0</LetterVatHealthyBabyNoParents>
-  <LetterVatInfantIllness>crwdns429688:0{0_nameDef}crwdnd429688:0{1_nameDef}crwdne429688:0</LetterVatInfantIllness>
-  <LetterVatInfantIllnessNoParents>crwdns429690:0crwdne429690:0</LetterVatInfantIllnessNoParents>
-  <LetterVatStillborn>crwdns429692:0{0_nameDef}crwdnd429692:0{1_nameDef}crwdne429692:0</LetterVatStillborn>
-  <LetterVatSillbornNoParents>crwdns429694:0crwdne429694:0</LetterVatSillbornNoParents>
-  <LetterColonistPregnancyLaborLabel>crwdns429696:0{0_labelShort}crwdne429696:0</LetterColonistPregnancyLaborLabel>
-  <LetterColonistPregnancyLabor>crwdns429698:0{0_labelShort}crwdnd429698:0{0_labelShort}crwdne429698:0</LetterColonistPregnancyLabor>
-  <LetterPartColonistDiedAfterChildbirth>crwdns429700:0{0_labelShort}crwdne429700:0</LetterPartColonistDiedAfterChildbirth>
-  <LetterPartSurrogacy>crwdns429702:0{0_labelShort}crwdnd429702:0{1_labelShort}crwdne429702:0</LetterPartSurrogacy>
-  <InbredBabyBorn>crwdns429704:0crwdne429704:0</InbredBabyBorn>
+  <!-- Slave will -->
+  <LetterLabelEnslavementSuccess>crwdns443786:0crwdne443786:0</LetterLabelEnslavementSuccess>
+  <LetterEnslavementSuccess>crwdns443788:0{0_nameDef}crwdnd443788:0{1_nameDef}crwdne443788:0</LetterEnslavementSuccess>
 
-  <BabyAlreadyNamed>crwdns429706:0{0_nameDef}crwdne429706:0</BabyAlreadyNamed>
-  <NameBaby>crwdns429708:0crwdne429708:0</NameBaby>
-  <Immediately>crwdns429710:0crwdne429710:0</Immediately>
-  <Within>crwdns429712:0crwdne429712:0</Within>
-  <LetterPartTempBabyName>crwdns429714:0{0_nameFull}crwdne429714:0</LetterPartTempBabyName>
-  <LetterPartLiveBirthNameDeadline>crwdns429716:0{0}crwdne429716:0</LetterPartLiveBirthNameDeadline>
-  <LetterPartStillbirthNameDeadline>crwdns429718:0crwdne429718:0</LetterPartStillbirthNameDeadline>
-  <LetterPartNameBabyAdopt>crwdns429720:0{0_nameFull}crwdnd429720:0{1}crwdne429720:0</LetterPartNameBabyAdopt>
+  <!-- Primary ideo changed -->
+  <LetterLabelNewPrimaryIdeo>crwdns443790:0crwdne443790:0</LetterLabelNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>crwdns443792:0{OLDIDEO_name}crwdnd443792:0{NEWIDEO_name}crwdnd443792:0{NEWIDEO_name}crwdnd443792:0{FACTION_pawnsPlural}crwdne443792:0</LetterNewPrimaryIdeo>
 
-  <BirthdayGrowthMoment>crwdns429722:0{PAWNNAME}crwdne429722:0</BirthdayGrowthMoment>
-  <BirthdayBiologicalGrowthMoment>crwdns429724:0{0_nameFull}crwdnd429724:0{1}crwdne429724:0</BirthdayBiologicalGrowthMoment>
-  <BirthdayBiologicalAgeWorkTypes>crwdns429726:0{0_nameDef}crwdne429726:0</BirthdayBiologicalAgeWorkTypes>
-  <BirthdayPickPassion>crwdns429728:0{0_nameDef}crwdnd429728:0{0_possessive}crwdne429728:0</BirthdayPickPassion>
-  <BirthdayPickPassions>crwdns429730:0{1}crwdnd429730:0{0_nameDef}crwdnd429730:0{0_possessive}crwdne429730:0</BirthdayPickPassions>
-  <BirthdayPickTrait>crwdns429732:0{0_nameDef}crwdne429732:0</BirthdayPickTrait>
-  <BirthdayGrowthTier>crwdns429734:0{0_nameDef}crwdnd429734:0{1}crwdne429734:0</BirthdayGrowthTier>
-  <BirthdayChooseHowPawnWillGrow>crwdns429736:0{0_nameDef}crwdne429736:0</BirthdayChooseHowPawnWillGrow>
+  <!-- Charity incidents -->
+  <JoinerCharityInfo>crwdns443794:0{0}crwdne443794:0</JoinerCharityInfo>
+  <AfflictedJoinerChartityInfo>crwdns443796:0{0}crwdnd443796:0{1}crwdnd443796:0{0}crwdne443796:0</AfflictedJoinerChartityInfo>
+  <PawnsHaveCharitableBeliefs>crwdns443798:0crwdne443798:0</PawnsHaveCharitableBeliefs>
 
-  <BirthdayPassionArchive>crwdns429738:0{0}crwdne429738:0</BirthdayPassionArchive>
-  <BirthdayTraitArchive>crwdns429740:0{0}crwdne429740:0</BirthdayTraitArchive>
-  <BirthdayNoTraitChoice>crwdns429742:0crwdne429742:0</BirthdayNoTraitChoice>
-  <BirthdayNoTraitChoiceTooltip>crwdns429744:0{0}crwdne429744:0</BirthdayNoTraitChoiceTooltip>
+  <!-- Change ideo mental state -->
+  <LetterIdeoChangeConverted>crwdns443800:0{PAWN_pronoun}crwdnd443800:0{PAWN_possessive}crwdnd443800:0{OLDIDEO_name}crwdnd443800:0{PAWN_pronoun}crwdnd443800:0{NEWIDEO_name}crwdne443800:0</LetterIdeoChangeConverted>
+  <LetterIdeoChangeNotConverted>crwdns443802:0{PAWN_nameDef}crwdnd443802:0{PAWN_possessive}crwdnd443802:0{OLDIDEO_name}crwdnd443802:0{NEWCERTAINTY}crwdne443802:0</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangedWanderOwnRoom>crwdns443804:0{PAWN_possessive}crwdnd443804:0{PAWN_nameDef}crwdnd443804:0{PAWN_possessive}crwdne443804:0</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedSadWander>crwdns443806:0{PAWN_nameDef}crwdnd443806:0{PAWN_possessive}crwdne443806:0</LetterIdeoChangedSadWander>
 
-  <BirthdayMakeChoices>crwdns429746:0crwdne429746:0</BirthdayMakeChoices>
-  <BirthdayNickname>crwdns429748:0{0}crwdnd429748:0{1}crwdne429748:0</BirthdayNickname>
-  <SelectATrait>crwdns429750:0crwdne429750:0</SelectATrait>
-  <SelectPassionSingular>crwdns429752:0crwdne429752:0</SelectPassionSingular>
-  <SelectPassionsPlural>crwdns429754:0{0}crwdne429754:0</SelectPassionsPlural>
-  <Later>crwdns429756:0crwdne429756:0</Later>
+  <!-- Change ideo divorces -->
+  <LetterIdeoChangedDivorce>crwdns443808:0crwdne443808:0</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorcedPawns>crwdns443810:0{PAWN_nameDef}crwdnd443810:0{PAWN_possessive}crwdnd443810:0{PAWN_nameDef}crwdnd443810:0{1}crwdne443810:0</LetterIdeoChangedDivorcedPawns>
+
+  <!-- Surprise reinforcement -->
+  <LetterLabelSurpriseReinforcements>crwdns443812:0crwdne443812:0</LetterLabelSurpriseReinforcements>
+  <LetterSurpriseReinforcements>crwdns443814:0{1}crwdnd443814:0{0}crwdnd443814:0{1}crwdne443814:0</LetterSurpriseReinforcements>
+
+  <!-- Style change -->
+  <LetterWantLookChange>crwdns443816:0crwdne443816:0</LetterWantLookChange>
+  <LetterWantLookChangeDesc>crwdns443818:0{PAWN_nameDef}crwdnd443818:0{PAWN_possessive}crwdnd443818:0{PAWN_pronoun}crwdnd443818:0{PAWN_pronoun}crwdnd443818:0{PAWN_possessive}crwdnd443818:0{PAWN_objective}crwdne443818:0</LetterWantLookChangeDesc>
+
+  <!-- Spacedrone incoming -->
+  <LetterLabelSpacedroneIncoming>crwdns443820:0crwdne443820:0</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>crwdns443822:0crwdne443822:0</LetterTextSpacedroneIncoming>
+  <LetterTextRaidSpacedrone>crwdns443824:0{0}crwdnd443824:0{1}crwdne443824:0</LetterTextRaidSpacedrone>
+
+  <!-- Hacked -->
+  <LetterTextSpacedroneHacked>crwdns443826:0{0}crwdnd443826:0{1}crwdne443826:0</LetterTextSpacedroneHacked>
+
+  <!-- Relic destroyed -->
+  <LetterLabelRelicDestroyed>crwdns443828:0crwdne443828:0</LetterLabelRelicDestroyed>
+  <LetterTextRelicDestroyed>crwdns443830:0{0}crwdnd443830:0{1}crwdne443830:0</LetterTextRelicDestroyed>
   
-  <LetterLabelMechlinkAvailable>crwdns429758:0crwdne429758:0</LetterLabelMechlinkAvailable>
-  <LetterMechlinkAvailable>crwdns429760:0{0}crwdne429760:0</LetterMechlinkAvailable>
+  <!-- Relic lost -->
+  <LetterLabelRelicLost>crwdns443832:0crwdne443832:0</LetterLabelRelicLost>
+  <LetterTextRelicLost>crwdns443834:0{0}crwdnd443834:0{1}crwdne443834:0</LetterTextRelicLost>
 
-  <!-- Genes -->
-  <LetterLabelXenogermOrderedImplanted>crwdns429762:0crwdne429762:0</LetterLabelXenogermOrderedImplanted>
-  <LetterXenogermOrderedImplanted>crwdns429764:0{PAWN_nameDef}crwdnd429764:0{MEDICINENEEDED}crwdnd429764:0{BEDINFO}crwdnd429764:0{MEDICINEINFO}crwdnd429764:0{PAWN_nameDef}crwdne429764:0</LetterXenogermOrderedImplanted>
-  <XenogermOrderedImplantedBedNeeded>crwdns429766:0{PAWN_nameDef}crwdne429766:0</XenogermOrderedImplantedBedNeeded>
-  <XenogermOrderedImplantedMedicineNeeded>crwdns429768:0{MEDICINENEEDED}crwdne429768:0</XenogermOrderedImplantedMedicineNeeded>
-  <LetterLabelInvoluntaryDeathrest>crwdns429770:0crwdne429770:0</LetterLabelInvoluntaryDeathrest>
-  <LetterLabelRegenerationComa>crwdns429772:0crwdne429772:0</LetterLabelRegenerationComa>
-  <LetterTextInvoluntaryDeathrestOrComa>crwdns429774:0{PAWN_nameDef}crwdnd429774:0{PAWN_objective}crwdnd429774:0{HEDIFFINFO}crwdne429774:0</LetterTextInvoluntaryDeathrestOrComa>
-  <LetterTextDeathrest>crwdns429776:0{PAWN_pronoun}crwdne429776:0</LetterTextDeathrest>
-  <LetterTextRegenerationComa>crwdns429778:0{PAWN_pronoun}crwdne429778:0</LetterTextRegenerationComa>
-  <DeathrestLostSkill>crwdns429780:0{PAWN_nameDef}crwdnd429780:0{XPLOSS}crwdnd429780:0{PAWN_possessive}crwdnd429780:0{SKILL}crwdne429780:0</DeathrestLostSkill>
-  <DeathrestLethalDamage>crwdns429782:0crwdne429782:0</DeathrestLethalDamage>
+  <!-- Caravan destroyed -->
+  <LetterOnlySlaveCaravanColonistsLeft>crwdns443836:0{0}crwdne443836:0</LetterOnlySlaveCaravanColonistsLeft>
 
-  <LetterLabelSanguophageWaitingToReimplant>crwdns429784:0crwdne429784:0</LetterLabelSanguophageWaitingToReimplant>
-  <LetterTextSanguophageWaitingToReimplant>crwdns429786:0{PAWN_objective}crwdnd429786:0{PAWN_possessive}crwdnd429786:0{PAWN_nameDef}crwdnd429786:0{PAWN_possessive}crwdnd429786:0{PAWN_nameDef}crwdnd429786:0{DURATION}crwdne429786:0</LetterTextSanguophageWaitingToReimplant>
+  <!-- Hacker lost -->
+  <LetterLabelLastHackerLost>crwdns443838:0crwdne443838:0</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>crwdns443840:0crwdne443840:0</LetterTextLastHackerLost>
 
-  <LetterLabelGenesImplanted>crwdns429788:0crwdne429788:0</LetterLabelGenesImplanted>
-  <LetterTextGenesImplanted>crwdns429790:0{CASTER_nameDef}crwdnd429790:0{CASTER_possessive}crwdnd429790:0{TARGET_nameDef}crwdnd429790:0{TARGET_objective}crwdnd429790:0{TARGET_nameDef}crwdnd429790:0{COMADURATION}crwdnd429790:0{TARGET_possessive}crwdnd429790:0{CASTER_nameDef}crwdnd429790:0{SHOCKDURATION}crwdnd429790:0{CASTER_possessive}crwdnd429790:0{CASTER_nameDef}crwdnd429790:0{CASTER_possessive}crwdnd429790:0{CASTER_possessive}crwdnd429790:0{CASTER_pronoun}crwdne429790:0</LetterTextGenesImplanted>
-  
-  <RefugeePodCrashBaby>crwdns429792:0{PAWN_nameDef}crwdnd429792:0{PAWN_factionName}crwdnd429792:0{PAWN_objective}crwdnd429792:0{PAWN_objective}crwdne429792:0</RefugeePodCrashBaby>
-  <RefugeePodCrashBabyHasParent>crwdns429794:0{PAWN_nameDef}crwdne429794:0</RefugeePodCrashBabyHasParent>
+  <!-- Relic hunt -->
+  <LetterLabelRelicFound>crwdns443842:0crwdne443842:0</LetterLabelRelicFound>
+  <LetterTextRelicFoundLocation>crwdns443844:0{0}crwdne443844:0</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>crwdns443846:0{0}crwdne443846:0</LetterTextRelicFoundSecurityThreats>
 
-  <LetterPsychicBondCreated>crwdns429796:0{BONDPAWN_nameDef}crwdnd429796:0{OTHERPAWN_nameDef}crwdnd429796:0{OTHERPAWN_nameDef}crwdnd429796:0{BONDPAWN_nameDef}crwdne429796:0</LetterPsychicBondCreated>
+  <!-- Relics collection -->
+  <LetterLabelRelicsCollected>crwdns443848:0crwdne443848:0</LetterLabelRelicsCollected>
+  <LetterTextRelicsCollected>crwdns443850:0{0}crwdne443850:0</LetterTextRelicsCollected>
+  <LetterTextRelicsCollectedClassic>crwdns443852:0crwdne443852:0</LetterTextRelicsCollectedClassic>
 
-  <LetterPsychicBondCreatedLovinLabel>crwdns429798:0crwdne429798:0</LetterPsychicBondCreatedLovinLabel>
-  <LetterPsychicBondCreatedLovinText>crwdns429800:0{BONDPAWN_nameDef}crwdnd429800:0{OTHERPAWN_nameDef}crwdnd429800:0{OTHERPAWN_nameDef}crwdnd429800:0{BONDPAWN_nameDef}crwdne429800:0</LetterPsychicBondCreatedLovinText>
+  <!-- Gauranlen tree connection -->
+  <LetterLabelPawnConnected>crwdns443854:0{TREE_label}crwdne443854:0</LetterLabelPawnConnected>
+  <LetterTextPawnConnected>crwdns443856:0{CONNECTOR_nameDef}crwdnd443856:0{TREE_definite}crwdnd443856:0{TREE_definite}crwdnd443856:0{TREE_definite}crwdnd443856:0{CONNECTOR_nameDef}crwdnd443856:0{TREE_definite}crwdne443856:0</LetterTextPawnConnected>
+  <LetterLabelConnectedTreeDestroyed>crwdns443858:0{TREE_label}crwdne443858:0</LetterLabelConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>crwdns443860:0{TREE_label}crwdnd443860:0{CONNECTEDPAWN_nameDef}crwdne443860:0</LetterTextConnectedTreeDestroyed>
+
+  <!-- Archonexus victory -->
+  <LetterLabelArchonexusWealthReached>crwdns443862:0{0}crwdne443862:0</LetterLabelArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>crwdns443864:0{0}crwdne443864:0</LetterTextArchonexusWealthReached>
+  <LetterLabelArchonexusStructureResearched>crwdns443866:0{0_labelShort}crwdne443866:0</LetterLabelArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>crwdns443868:0{0_labelShort}crwdne443868:0</LetterTextArchonexusStructureResearched>
+  <LetterLabelArchotechStructuresAbandoned>crwdns443870:0crwdne443870:0</LetterLabelArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>crwdns443872:0{0_definite}crwdne443872:0</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <LetterLabelReformIdeo>crwdns443874:0crwdne443874:0</LetterLabelReformIdeo>
+  <LetterTextReformIdeo>crwdns443876:0{0}crwdne443876:0</LetterTextReformIdeo>
 
 </LanguageData>
