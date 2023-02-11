@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FungusEating.label>버섯 섭취</FungusEating.label>
+  <FungusEating_Despised.label>천박함</FungusEating_Despised.label>
+  <FungusEating_Despised.description>어둠 속에서 자란 버섯은 역겨운 것이다.</FungusEating_Despised.description>
+  
+  <FungusEating_Preferred.label>선호</FungusEating_Preferred.label>
+  <FungusEating_Preferred.description>버섯이야말로 길러야 하는 작물이다. 빛의 작물들은 공기와 태양에 오염됐다.</FungusEating_Preferred.description>
 </LanguageData>
