@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GoJuice.label>고주스</GoJuice.label>
-  <GoJuice.description>행성 간 전쟁 시대 초기에 우주 해군이 발명한 합성 전투약물입니다. 고통을 막고, 이동 속도와 근접 및 사격 능력을 향상합니다. 초능력자의 경우 섭취 즉시 명상이 필요 없는 초집중 또한 획득합니다.\n\n발명한 군 화학자들도 고주스의 중독성은 제거할 수 없었습니다. 어떤 사람들은 이를 단점으로 봤지만, 어떤 사람들은 장점이라고 여겼습니다.</GoJuice.description>
-  <GoJuice.ingestible.ingestCommandString>{0} 투여</GoJuice.ingestible.ingestCommandString>
-  <GoJuice.ingestible.ingestReportString>{0} 투여 중</GoJuice.ingestible.ingestReportString>
+  <GoJuiceHigh.stages.high_on_gojuice.label>고주스에 취함</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.description>침착한 머리와 힘찬 몸이라. 난 전장의 총알이지. 너를 죽여줄게.</GoJuiceHigh.stages.high_on_gojuice.description>
+  
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>고주스 금단 현상</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>집중도 안되고 흐릿해. 왜 팔은 이렇게 무겁고 눈은 초점도 안맞지?</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
 </LanguageData>
