@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KillingInnocentAnimals.label>crwdns432296:0crwdne432296:0</KillingInnocentAnimals.label>
+  <KillingInnocentAnimals_Abhorrent.label>crwdns436412:0crwdne436412:0</KillingInnocentAnimals_Abhorrent.label>
+  <KillingInnocentAnimals_Abhorrent.description>crwdns436414:0crwdne436414:0</KillingInnocentAnimals_Abhorrent.description>
+  <KillingInnocentAnimals_Abhorrent.comps.2.description>crwdns436416:0crwdne436416:0</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  
+  <KillingInnocentAnimals_Disapproved.label>crwdns436418:0crwdne436418:0</KillingInnocentAnimals_Disapproved.label>
+  <KillingInnocentAnimals_Disapproved.description>crwdns436420:0crwdne436420:0</KillingInnocentAnimals_Disapproved.description>
+  <KillingInnocentAnimals_Disapproved.comps.0.description>crwdns436422:0crwdne436422:0</KillingInnocentAnimals_Disapproved.comps.0.description>
+  <KillingInnocentAnimals_Disapproved.comps.2.description>crwdns436424:0crwdne436424:0</KillingInnocentAnimals_Disapproved.comps.2.description>
+  
+  <KillingInnocentAnimals_Horrible.label>crwdns436426:0crwdne436426:0</KillingInnocentAnimals_Horrible.label>
+  <KillingInnocentAnimals_Horrible.description>crwdns436428:0crwdne436428:0</KillingInnocentAnimals_Horrible.description>
+  <KillingInnocentAnimals_Horrible.comps.0.description>crwdns436430:0crwdne436430:0</KillingInnocentAnimals_Horrible.comps.0.description>
+  <KillingInnocentAnimals_Horrible.comps.2.description>crwdns436432:0crwdne436432:0</KillingInnocentAnimals_Horrible.comps.2.description>
 </LanguageData>
