@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <DesignatorExtractSkull>Extract skull</DesignatorExtractSkull>
-  <DesignatorExtractSkullDesc>시체로부터 두개골을 적출합니다.</DesignatorExtractSkullDesc>
   
+  <BlueprintWouldCollideWithMonument>이 청사진은 기념비 표지와 일치하지 않습니다.</BlueprintWouldCollideWithMonument>
+
 </LanguageData>
