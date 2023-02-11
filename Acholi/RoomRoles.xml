@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ThroneRoom.label>crwdns448054:0crwdne448054:0</ThroneRoom.label>
+  <Barn.label>crwdns462760:0crwdne462760:0</Barn.label>
+  
+  <Barracks.label>crwdns462762:0crwdne462762:0</Barracks.label>
+  
+  <Bedroom.label>crwdns462764:0crwdne462764:0</Bedroom.label>
+  
+  <DiningRoom.label>crwdns462766:0crwdne462766:0</DiningRoom.label>
+  
+  <Hospital.label>crwdns462768:0crwdne462768:0</Hospital.label>
+  
+  <Kitchen.label>crwdns462770:0crwdne462770:0</Kitchen.label>
+  
+  <Laboratory.label>crwdns462772:0crwdne462772:0</Laboratory.label>
+  
+  <None.label>crwdns462774:0crwdne462774:0</None.label>
+  
+  <PrisonBarracks.label>crwdns462776:0crwdne462776:0</PrisonBarracks.label>
+  
+  <PrisonCell.label>crwdns462778:0crwdne462778:0</PrisonCell.label>
+  
+  <RecRoom.label>crwdns462780:0crwdne462780:0</RecRoom.label>
+  
+  <Room.label>crwdns462782:0crwdne462782:0</Room.label>
+  
+  <Storeroom.label>crwdns462784:0crwdne462784:0</Storeroom.label>
+  
+  <Tomb.label>crwdns462786:0crwdne462786:0</Tomb.label>
+  
+  <Workshop.label>crwdns462788:0crwdne462788:0</Workshop.label>
 </LanguageData>
