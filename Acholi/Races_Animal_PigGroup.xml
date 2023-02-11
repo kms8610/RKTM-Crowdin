@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chinchilla.label>crwdns460912:0crwdne460912:0</Chinchilla.label>
+  <Chinchilla.label>crwdns473510:0crwdne473510:0</Chinchilla.label>
+  <Chinchilla.description>crwdns473512:0crwdne473512:0</Chinchilla.description>
+  <Chinchilla.tools.left_claw.label>crwdns473514:0crwdne473514:0</Chinchilla.tools.left_claw.label>
+  <Chinchilla.tools.right_claw.label>crwdns473516:0crwdne473516:0</Chinchilla.tools.right_claw.label>
+  <Chinchilla.tools.head.label>crwdns473518:0crwdne473518:0</Chinchilla.tools.head.label>
   
-  <Deer.label>crwdns460914:0crwdne460914:0</Deer.label>
-  <Deer.labelFemale>crwdns460916:0crwdne460916:0</Deer.labelFemale>
-  <Deer.labelMale>crwdns460918:0crwdne460918:0</Deer.labelMale>
-  <Deer.labelPlural>crwdns460920:0crwdne460920:0</Deer.labelPlural>
+  <Deer.label>crwdns473520:0crwdne473520:0</Deer.label>
+  <Deer.description>crwdns473522:0crwdne473522:0</Deer.description>
+  <Deer.race.meatLabel>crwdns473524:0crwdne473524:0</Deer.race.meatLabel>
+  <Deer.tools.left_hoof.label>crwdns473526:0crwdne473526:0</Deer.tools.left_hoof.label>
+  <Deer.tools.right_hoof.label>crwdns473528:0crwdne473528:0</Deer.tools.right_hoof.label>
+  <Deer.tools.teeth.label>crwdns473530:0crwdne473530:0</Deer.tools.teeth.label>
+  <Deer.tools.head.label>crwdns473532:0crwdne473532:0</Deer.tools.head.label>
   
-  <Gazelle.label>crwdns460922:0crwdne460922:0</Gazelle.label>
+  <Gazelle.label>crwdns473534:0crwdne473534:0</Gazelle.label>
+  <Gazelle.description>crwdns473536:0crwdne473536:0</Gazelle.description>
+  <Gazelle.tools.left_hoof.label>crwdns473538:0crwdne473538:0</Gazelle.tools.left_hoof.label>
+  <Gazelle.tools.right_hoof.label>crwdns473540:0crwdne473540:0</Gazelle.tools.right_hoof.label>
+  <Gazelle.tools.head.label>crwdns473542:0crwdne473542:0</Gazelle.tools.head.label>
   
-  <Ibex.label>crwdns460924:0crwdne460924:0</Ibex.label>
-  <Ibex.labelFemale>crwdns460926:0crwdne460926:0</Ibex.labelFemale>
-  <Ibex.labelMale>crwdns460928:0crwdne460928:0</Ibex.labelMale>
-  <Ibex.labelPlural>crwdns460930:0crwdne460930:0</Ibex.labelPlural>
+  <Ibex.label>crwdns473544:0crwdne473544:0</Ibex.label>
+  <Ibex.description>crwdns473546:0crwdne473546:0</Ibex.description>
+  <Ibex.tools.left_hoof.label>crwdns473548:0crwdne473548:0</Ibex.tools.left_hoof.label>
+  <Ibex.tools.right_hoof.label>crwdns473550:0crwdne473550:0</Ibex.tools.right_hoof.label>
+  <Ibex.tools.head.label>crwdns473552:0crwdne473552:0</Ibex.tools.head.label>
   
-  <Pig.label>crwdns460932:0crwdne460932:0</Pig.label>
-  <Pig.labelFemale>crwdns460934:0crwdne460934:0</Pig.labelFemale>
-  <Pig.lifeStages.piglet.label>crwdns460936:0crwdne460936:0</Pig.lifeStages.piglet.label>
+  <Pig.label>crwdns473554:0crwdne473554:0</Pig.label>
+  <Pig.description>crwdns473556:0crwdne473556:0</Pig.description>
+  <Pig.race.meatLabel>crwdns473558:0crwdne473558:0</Pig.race.meatLabel>
+  <Pig.tools.head.label>crwdns473560:0crwdne473560:0</Pig.tools.head.label>
   
-  <WildBoar.label>crwdns460938:0crwdne460938:0</WildBoar.label>
+  <WildBoar.label>crwdns473562:0crwdne473562:0</WildBoar.label>
+  <WildBoar.description>crwdns473564:0crwdne473564:0</WildBoar.description>
+  <WildBoar.tools.tusk.label>crwdns473566:0crwdne473566:0</WildBoar.tools.tusk.label>
+  <WildBoar.tools.head.label>crwdns473568:0crwdne473568:0</WildBoar.tools.head.label>
 </LanguageData>
