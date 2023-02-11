@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TynanCustomAdulthood.baseDesc>{PAWN_nameDef}(은)는 인디게임 개발자였습니다.\n\n이른 성공 후, {PAWN_possessive} 경력은 잘못된 아이디어, 지켜지지 않은 약속, 절박했지만 실패한 광고로 인해 완전히 추락했습니다.</TynanCustomAdulthood.baseDesc>
+  <TynanCustomAdulthood.title>게임 개발자</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleShort>게임 개발자</TynanCustomAdulthood.titleShort>
+  
+  <TynanCustomChildhood.baseDesc>{PAWN_nameDef}(은)는 동급생들에게 싸구려 사제담배를 팔며 유년기를 보냈습니다. 담배에는 보통 잡초가 많이 섞여있었습니다.</TynanCustomChildhood.baseDesc>
+  <TynanCustomChildhood.title>불량 청소년</TynanCustomChildhood.title>
+  <TynanCustomChildhood.titleShort>불량 청소년</TynanCustomChildhood.titleShort>
+</LanguageData>
