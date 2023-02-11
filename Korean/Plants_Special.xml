@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChoppedStump_Polux.label>정화나무 그루터기</ChoppedStump_Polux.label>
-  <ChoppedStump_Polux.description>정화나무가 베어진 후 남겨진 그루터기입니다. 그루터기는 뽑아낼 수 있지만 매우 적은 양의 목재만을 제공합니다. 오랫동안 야외에 방치되면 풍화됩니다.</ChoppedStump_Polux.description>
+  <ChoppedStump_Gauranlen.label>요정나무 그루터기</ChoppedStump_Gauranlen.label>
+  <ChoppedStump_Gauranlen.description>요정나무가 베어진 후 남겨진 그루터기입니다. 그루터기는 뽑아낼 수 있지만 매우 적은 양의 목재만을 제공합니다. 오랫동안 야외에 방치되면 풍화됩니다.</ChoppedStump_Gauranlen.description>
   
-  <Plant_TreePolux.label>정화나무</Plant_TreePolux.label>
-  <Plant_TreePolux.description>여러 세대에 걸쳐 이 나무는 오염 물질을 대사하도록 진화했습니다. 넓은 뿌리망을 통해 땅에서 오염 물질을 흡수함으로써 주변의 오염 된 지형을 천천히 청소합니다. 건물이 뿌리 위에 건설된 경우에는 이를 수행할 수 없습니다.\n\n오염된 지형을 청소하는 대부분의 방법과 달리 정화나무는 독성 폐기물을 생성하지 않습니다.</Plant_TreePolux.description>
+  <GauranlenSeed.label>요정씨앗</GauranlenSeed.label>
+  <GauranlenSeed.description>요정나무의 씨앗입니다. 땅에 심어 새로운 요정나무를 키울 수 있습니다.</GauranlenSeed.description>
   
-  <PoluxSeed.label>정화나무 씨앗</PoluxSeed.label>
-  <PoluxSeed.description>정화나무의 씨앗입니다. 주변 지형의 오염을 흡수하는 새로운 정화나무를 만들기 위해 심을 수 있습니다.</PoluxSeed.description>
+  <Plant_Fibercorn.label>섬유수수</Plant_Fibercorn.label>
+  <Plant_Fibercorn.description>진짜 목재와 거의 유사한 물질을 생성하는 식물입니다. 식용으로는 사용할 수 없습니다.</Plant_Fibercorn.description>
   
-  <SmashedStump_Polux.label>박살난 정화나무 그루터기</SmashedStump_Polux.label>
-  <SmashedStump_Polux.description>파괴된 정화나무의 흉물스러운 잔해입니다. 그루터기는 뽑아낼 수 있지만 매우 적은 양의 목재만을 제공합니다. 오랫동안 야외에 방치되면 풍화됩니다.</SmashedStump_Polux.description>
+  <Plant_MossGauranlen.label>요정이끼</Plant_MossGauranlen.label>
+  <Plant_MossGauranlen.description>요정나무 근처에서 공생하는 이끼입니다.</Plant_MossGauranlen.description>
+  
+  <Plant_Nutrifungus.label>영양버섯</Plant_Nutrifungus.label>
+  <Plant_Nutrifungus.description>생체공학에 의해 육류의 맛을 내도록 변형된 영양가 있는 버섯. 균사 자갈 위에서 자랄 수 있지만, 빛을 멀리 해야 합니다. 희미한 빛을 포함하여 어떤 종류의 빛에 노출되어도 죽습니다.</Plant_Nutrifungus.description>
+  
+  <Plant_PodGauranlen.label>요정열매</Plant_PodGauranlen.label>
+  <Plant_PodGauranlen.description>안에 들어있는 요정씨앗을 보호하는 작은 꼬투리입니다. 안에 씨앗을 채집해 새로운 요정나무를 심을 수 있습니다.</Plant_PodGauranlen.description>
+  
+  <Plant_Timbershroom.label>갈색버섯</Plant_Timbershroom.label>
+  <Plant_Timbershroom.description>긴 줄기를 가진 갈색 버섯입니다. 목재와 유사한 물질을 수확할 수 있습니다.</Plant_Timbershroom.description>
+  
+  <Plant_TreeBonsai.label>관상 나무</Plant_TreeBonsai.label>
+  <Plant_TreeBonsai.description>보기 좋게 가지를 치고 모양을 낸 작은 나무입니다.</Plant_TreeBonsai.description>
+  
+  <Plant_TreeGauranlen.label>요정나무</Plant_TreeGauranlen.label>
+  <Plant_TreeGauranlen.description>커다랗고 독특한 외관을 지닌 이 나무는 아주 특별한 생태를 가지고 있습니다. 각 각의 요정나무는 작은 여왕 나무지기를 품고 있습니다. 이 여왕은 나무를 지키고 돌보는 나무지기라는 생명체를 출산하고, 요정나무는 보답으로 나무지기들에게 양분을 공급해줍니다. 밀접한 공생관계 때문에 나무지기들은 마치 요정나무의 일부처럼 보입니다.\n\n사람들은 요정나무와 특별한 관계를 맺어 거기에서 나오는 나무지기들을 일부 조종할 수 있습니다.\n\n몇몇 사람들은 요정나무가 인간들을 따라 세상을 여행하는 정령들의 집이라고 믿습니다.</Plant_TreeGauranlen.description>
+  
+  <SmashedStump_Gauranlen.label>박살난 요정나무 그루터기</SmashedStump_Gauranlen.label>
+  <SmashedStump_Gauranlen.description>파괴된 요정나무의 흉물스러운 잔해입니다. 그루터기는 뽑아낼 수 있지만 매우 적은 양의 목재만을 제공합니다. 오랫동안 야외에 방치되면 풍화됩니다.</SmashedStump_Gauranlen.description>
 </LanguageData>
