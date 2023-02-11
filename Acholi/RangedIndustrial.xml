@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ToxbombLauncher.label>crwdns427890:0crwdne427890:0</Bullet_ToxbombLauncher.label>
+  
+  <Flamebow.label>crwdns427892:0crwdne427892:0</Flamebow.label>
+  <Flamebow.description>crwdns427894:0crwdne427894:0</Flamebow.description>
+  <Flamebow.tools.limb.label>crwdns427896:0crwdne427896:0</Flamebow.tools.limb.label>
+  <Flamebow.verbs.Verb_Shoot.label>crwdns427898:0crwdne427898:0</Flamebow.verbs.Verb_Shoot.label>
+  
+  <Gun_ToxbombLauncher.label>crwdns427900:0crwdne427900:0</Gun_ToxbombLauncher.label>
+  <Gun_ToxbombLauncher.description>crwdns427902:0crwdne427902:0</Gun_ToxbombLauncher.description>
+  <Gun_ToxbombLauncher.tools.stock.label>crwdns427904:0crwdne427904:0</Gun_ToxbombLauncher.tools.stock.label>
+  <Gun_ToxbombLauncher.tools.barrel.label>crwdns427906:0crwdne427906:0</Gun_ToxbombLauncher.tools.barrel.label>
+  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>crwdns427908:0crwdne427908:0</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
+  
+  <Proj_FireArrow.label>crwdns427910:0crwdne427910:0</Proj_FireArrow.label>
+  
+  <Proj_GrenadeTox.label>crwdns427912:0crwdne427912:0</Proj_GrenadeTox.label>
+  
+  <Weapon_GrenadeTox.label>crwdns427914:0crwdne427914:0</Weapon_GrenadeTox.label>
+  <Weapon_GrenadeTox.description>crwdns427916:0crwdne427916:0</Weapon_GrenadeTox.description>
+  <Weapon_GrenadeTox.verbs.throw_tox_grenade.label>crwdns427918:0crwdne427918:0</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
+</LanguageData>
