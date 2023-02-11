@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlantedGauranlenTree.label>요정나무를 심음</PlantedGauranlenTree.label>
+  <GauranlenConnection.label>요정 교감</GauranlenConnection.label>
+  
+  <Trees.label>trees</Trees.label>
 </LanguageData>
