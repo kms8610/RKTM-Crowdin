@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_Luciferium.label>crwdns460484:0crwdne460484:0</Chemical_Luciferium.label>
-  <Chemical_Luciferium.description>crwdns460486:0crwdne460486:0</Chemical_Luciferium.description>
+  <Luciferium.label>crwdns472716:0crwdne472716:0</Luciferium.label>
+  <Luciferium.description>crwdns472718:0crwdne472718:0</Luciferium.description>
+  <Luciferium.ingestible.ingestCommandString>crwdns472720:0{0}crwdne472720:0</Luciferium.ingestible.ingestCommandString>
+  <Luciferium.ingestible.ingestReportString>crwdns472722:0{0}crwdne472722:0</Luciferium.ingestible.ingestReportString>
 </LanguageData>
