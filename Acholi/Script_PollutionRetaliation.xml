@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PollutionRetaliation.questContentRules.rulesStrings>
+    <li>crwdns425042:0crwdne425042:0</li>
+    <li>crwdns425044:0[sender_faction_pawnSingular]crwdne425044:0</li>
+    <li>crwdns425046:0[sender_nameDef]crwdne425046:0</li>
+    <li>crwdns425048:0crwdne425048:0</li>
+    <li>crwdns425050:0[sender_faction_leaderTitle]crwdnd425050:0[sender_nameFull]crwdnd425050:0[sender_faction_name]crwdnd425050:0[sender_possessive]crwdnd425050:0[sender_pronoun]crwdne425050:0</li>
+    <li>crwdns425052:0[sender_faction_leaderTitle]crwdnd425052:0[sender_nameFull]crwdnd425052:0[sender_faction_name]crwdnd425052:0[sender_possessive]crwdnd425052:0[sender_pronoun]crwdnd425052:0[sender_pronoun]crwdnd425052:0[sender_pronoun]crwdne425052:0</li>
+  </PollutionRetaliation.questContentRules.rulesStrings>
+  <PollutionRetaliation.questDescriptionRules.rulesStrings>
+    <li>crwdns425054:0crwdne425054:0</li>
+  </PollutionRetaliation.questDescriptionRules.rulesStrings>
+  <PollutionRetaliation.questNameRules.rulesStrings>
+    <li>crwdns425056:0crwdne425056:0</li>
+  </PollutionRetaliation.questNameRules.rulesStrings>
+</LanguageData>
