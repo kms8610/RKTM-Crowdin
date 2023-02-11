@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CentipedeBlaster.label>gestate centipede blaster</CentipedeBlaster.label>
-  <CentipedeBlaster.description>Gestate a centipede mechanoid armed with a heavy charge blaster.</CentipedeBlaster.description>
-  <CentipedeBlaster.jobString>Gestating mech.</CentipedeBlaster.jobString>
+  <CentipedeBlaster.label>센티피드 블래스터 배양</CentipedeBlaster.label>
+  <CentipedeBlaster.description>헤비 차지 블래스터로 무장한 센티피드 메카노이드를 배양합니다.</CentipedeBlaster.description>
+  <CentipedeBlaster.jobString>메카노이드 배양 중</CentipedeBlaster.jobString>
   
-  <Lancer.label>gestate lancer</Lancer.label>
-  <Lancer.description>Gestate a lancer mechanoid.</Lancer.description>
-  <Lancer.jobString>Gestating mech.</Lancer.jobString>
+  <Lancer.label>랜서 배양</Lancer.label>
+  <Lancer.description>랜서 메카노이드를 배양합니다.</Lancer.description>
+  <Lancer.jobString>메카노이드 배양 중</Lancer.jobString>
   
-  <Legionary.label>gestate legionary</Legionary.label>
-  <Legionary.description>Gestate a legionary mechanoid.</Legionary.description>
-  <Legionary.jobString>Gestating mech.</Legionary.jobString>
+  <Legionary.label>리저너리 배양</Legionary.label>
+  <Legionary.description>리저너리 메카노이드를 배양합니다.</Legionary.description>
+  <Legionary.jobString>메카노이드 배양 중</Legionary.jobString>
   
-  <Pikeman.label>gestate pikeman</Pikeman.label>
-  <Pikeman.description>Gestate a pikeman mechanoid.</Pikeman.description>
-  <Pikeman.jobString>Gestating mech.</Pikeman.jobString>
+  <Pikeman.label>파이크맨 배양</Pikeman.label>
+  <Pikeman.description>파이크맨 메카노이드를 배양합니다.</Pikeman.description>
+  <Pikeman.jobString>메카노이드 배양 중</Pikeman.jobString>
   
-  <Scorcher.label>gestate scorcher</Scorcher.label>
-  <Scorcher.description>Gestate a scorcher mechanoid.</Scorcher.description>
-  <Scorcher.jobString>Gestating mech.</Scorcher.jobString>
+  <Scorcher.label>스코처 배양</Scorcher.label>
+  <Scorcher.description>스코처 메카노이드를 배양합니다.</Scorcher.description>
+  <Scorcher.jobString>메카노이드 배양 중</Scorcher.jobString>
   
-  <Scyther.label>gestate scyther</Scyther.label>
-  <Scyther.description>Gestate a scyther mechanoid.</Scyther.description>
-  <Scyther.jobString>Gestating mech.</Scyther.jobString>
+  <Scyther.label>사이더 배양</Scyther.label>
+  <Scyther.description>사이더 메카노이드를 배양합니다.</Scyther.description>
+  <Scyther.jobString>메카노이드 배양 중</Scyther.jobString>
   
-  <Tesseron.label>gestate tesseron</Tesseron.label>
-  <Tesseron.description>Gestate a tesseron mechanoid.</Tesseron.description>
-  <Tesseron.jobString>Gestating mech.</Tesseron.jobString>
+  <Tesseron.label>테서론 배양</Tesseron.label>
+  <Tesseron.description>테서론 메카노이드를 배양합니다.</Tesseron.description>
+  <Tesseron.jobString>메카노이드 배양 중</Tesseron.jobString>
 </LanguageData>
