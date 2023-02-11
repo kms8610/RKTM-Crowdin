@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <InstallNaturalHeart.label>심장 이식</InstallNaturalHeart.label>
+  <InstallNaturalHeart.description>심장을 이식합니다.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>심장 이식 중</InstallNaturalHeart.jobString>
+  
+  <InstallNaturalKidney.label>신장 이식</InstallNaturalKidney.label>
+  <InstallNaturalKidney.description>신장을 이식합니다.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>신장 이식 중</InstallNaturalKidney.jobString>
+  
+  <InstallNaturalLiver.label>간 이식</InstallNaturalLiver.label>
+  <InstallNaturalLiver.description>간을 이식합니다.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>간 이식 중</InstallNaturalLiver.jobString>
+  
+  <InstallNaturalLung.label>폐 이식</InstallNaturalLung.label>
+  <InstallNaturalLung.description>폐를 이식합니다.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>폐 이식 중</InstallNaturalLung.jobString>
+</LanguageData>
