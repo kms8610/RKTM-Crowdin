@@ -1,199 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClickToJumpToProblem>클릭해서 사건 발생 장소로 이동</ClickToJumpToProblem>
+  <AlertMechLacksOverseer>통제를 벗어난 메카노이드</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>하나 이상의 메카노이드가 통제되고있지 않습니다. 메카노이드를 충분한 대역폭을 가진 기계공학자와 연결하십시오.\n\n하루 이상 제어되지 않으면 메카노이드가 고대 통제신호와 연결될 수 있습니다. 고대 통제신호와 연결된 메카노이드는 {0}에 합류하여 당신에게 적대적이 될 것입니다. 메카노이드가 적대적이 되면 주변 메카노이드들에게도 영향을 미칩니다.\n\n적대적 메카노이드는 파괴 시 배양기에서 부활할 수 없습니다.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>다음 메카노이드가 통제되고 있지 않습니다</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>다음 메카노이드가 통제되고 있지 않으며 언제든지 폭주할 수 있습니다</AlertMechLacksOverseerMayGoFeral>
 
-  <BreakRiskMinor>가벼운 정신불안</BreakRiskMinor>
-  <BreakRiskMajor>심각한 정신불안</BreakRiskMajor>
-  <BreakRiskExtreme>극심한 정신불안</BreakRiskExtreme>
-  <BreakRiskMinorDesc>다음 정착민은 가벼운 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>다음 정착민은 심각한 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>다음 정착민은 극심하고 폭력적인 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>정착민의 기분에 영향을 미치는 요소들을 확인하여 문제를 해결하세요.\n\n멋진 식사, 쉬는 시간, 오락 시설, 아름다운 장식물, 술, 담배, 마약 등을 제공하여 정착민의 기분을 달래줄 수 있습니다.</BreakRiskDescEnding>
+  <AlertWarqueenHasLowResources>{0} 자원 부족</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>하나 이상의 {0}의 자원이 부족합니다. 자원이 바닥나면 메카노이드 생성 명령을 실행 할 수 없습니다.</AlertWarqueenHasLowResourcesDesc>
 
-  <ColonistNeedsRescue>구조가 필요한 정착민</ColonistNeedsRescue>
-  <ColonistsNeedRescue>구조가 필요한 정착민들</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>다음 정착민들이 행동 불능 상태가 되었습니다.\n\n{0}\n다른 정착민을 보내 침대로 이송하세요.\n\n(다른 정착민을 선택하고 행동 불능 상태가 된 정착민을 우클릭하여 구조 명령을 내릴 수 있습니다.)</ColonistsNeedRescueDesc>
-  <ColonistsNeedRescueDescController>다음 정착민들이 행동 불능 상태가 되었습니다.\n\n{0}\n다른 정착민을 보내 침대로 이송하세요.\n\n(다른 정착민을 선택하고 행동 불능 상태가 된 정착민 위에서 왼쪽 트리거를 사용해 구조 명령을 내릴 수 있습니다.)</ColonistsNeedRescueDescController>
+  <AlertLowDeathrestPawn>{PAWN}(이)가 죽음안식 필요</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>정착민 {NUMCULPRITS}명이 죽음안식 필요</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>정착민이 오랜 시간 죽음안식을 취하지 않았습니다. 너무 오래 죽음안식을 취하지 않으면 죽음안식 탈진을 겪습니다.\n\n죽음안식을 취하려면 정착민을 선택한 후 할당된 침대나 죽음안식 관을 오른쪽 클릭하세요.\n\n죽음안식이 필요한 사람은 다음과 같습니다:\n{CULPRITS}</AlertLowDeathrestDesc>
 
-  <NeedDefenses>방어시설 필요</NeedDefenses>
-  <NeedDefensesDesc>이곳에 정착한 뒤로 시간이 꽤 흘렀으니 누군가에게 위치가 알려졌을 가능성이 높습니다. 얘기치 않은 침략에 대비하여 방어를 준비해야 합니다.\n\n엄폐물이나 함정은 많은 도움이 됩니다.</NeedDefensesDesc>
+  <AlertLowHemogen>혈액정수 낮음</AlertLowHemogen>
+  <AlertLowHemogenDesc>정착민의 혈액정수 수치가 낮습니다. 혈액정수가 바닥나면 혈액정수 갈망으로 인해 고통스러워합니다.\n\n혈액팩을 먹여 혈액정수 갈망을 예방할 수 있습니다. 혈액팩은 혈액정수를 소비하지 않는 인간에게 '혈액팩 추출' 수술을 해서 얻을 수 있습니다.\n\n혈액정수 수치가 낮은 정착민은 다음과 같습니다</AlertLowHemogenDesc>
 
-  <NeedDoctor>의사 필요</NeedDoctor>
-  <NeedDoctorDesc>다음 정착민이 치료를 원하지만 정착지에 의사가 없습니다.\n\n{0}\n건강한 정착민을 의사로 지정하세요. 방치된 상처는 제대로 아물지 않고 영원히 남을 수 있습니다.</NeedDoctorDesc>
+  <AlertRechargerFull>충전기 가득 참</AlertRechargerFull>
+  <AlertRechargerFullDesc>일부 메카노이드 충전기의 독성 폐기물이 가득 찼습니다. 독성 폐기물을 비우기 전엔 메카노이드가 충전기를 사용할 수 없습니다.\n\n정착민을 선택하고 충전기를 오른쪽 클릭해서 폐기물을 비우세요.</AlertRechargerFullDesc>
 
-  <NeedMiner>광부 필요</NeedMiner>
-  <NeedMinerDesc>바위를 채굴하도록 지시했지만 정착민 중 광부가 없습니다.\n\n정착민을 채굴 역할에 배치하세요.</NeedMinerDesc>
+  <AlertNeedMechChargers>메카노이드 충전기 필요</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>메카노이드에 비해 충전기가 부족합니다. 메카노이드의 전력이 바닥나면 자가 충전 휴면상태에 들어가 매우 느린 속도로 충전할 것입니다.\n\n다음의 충전기가 추가로 필요합니다:\n\n{0}\n\n참고: 일반 충전기는 소형 메카노이드만 사용할 수 있습니다. 중형 이상의 메카노이드는 대형 충전기가 필요합니다.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>충전기를 건설하려면 기본 기계공학 이상의 기술을 연구해야 합니다.</AlertNeedMechChargerBasicMechtech>
 
-  <NeedWarden>간수 필요</NeedWarden>
-  <NeedWardenDesc>수감자가 있지만 간수가 없습니다.\n\n정착민을 간수 역할에 배치하세요.</NeedWardenDesc>
+  <AlertReimplantationAvailable>재이식 가능</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>{0_nameDef}(은)는 정착민 중 하나에게 {0_possessive} 변형이식체를 삽입하기 위해 기다리는 중입니다.</AlertReimplantationAvailableDesc>
 
-  <LowFood>식량 부족</LowFood>
-  <LowFoodDesc>보유 식량이 매우 적습니다.\n\n    한 끼 식사 가능 횟수: {0}\n    음식이 필요한 정착민 및 수감자의 수: {1}\n    비축식량: {2}일\n\n재배, 구매, 탐색하거나 죽여서 식재료나 식량을 얻으세요.</LowFoodDesc>
+  <AlertLowBabyFood>이유식 부족</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>이유식이 위험할 정도로 부족합니다.\n\n    음식이 필요한 아기들: {0}\n    비축한 이유식: {1}일치\n\n{2}(을)를 포함한 이유식을 찾거나 사거나 만드세요.</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>유아 급식기 없음</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>이 아기들에게 음식을 줄 {FACTION_pawnsPlural}(이)가 할당되지 않았거나 모두 쓰러졌습니다.\n\n{FACTION_pawnsPlural} 중 하나를 보육 시설에 할당하거나 수유 중인 {FACTION_pawnSingular}(을)를 할당하여 아기의 수유 탭에서 긴급 우선순위로 이 아기에게 먹을 것을 주세요. 그리고 그들 중 적어도 하나가 쓰러지지 않았는지 확인하십시오.</AlertNoBabyFeederDesc>
+  <AlertAbandonedBaby>버려진 아기</AlertAbandonedBaby> <!-- text_todo -->
+  <AlertAbandonedBabyDesc>근처에 돌봐줄 사람아 없는 버려진 아기들이 있습니다. 아기를 입양하지 않으면 굶어 죽을 가능성이 높습니다.\n\n아기를 입양하려면 아기를 선택한 다음 "{0}"을(를) 선택하세요.</AlertAbandonedBabyDesc> <!-- text_todo -->
 
-  <LowMedicine>약품 부족</LowMedicine>
-  <LowMedicineDesc>보유한 약품이 {0}개밖에 남지 않았습니다.\n\n상인에게서 약품을 구입하세요.</LowMedicineDesc>
-  <NoMedicineDesc>보유한 약품이 없습니다.\n\n상인에게서 약품을 구입하세요.</NoMedicineDesc>
+  <AlertNoBabyFoodCaravan>상단 내 이유식 없음</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>이 상단의 아이에게 먹일 이유식이 없으며, 수유할 수 있는 {FACTION_pawnsPlural}(이)가 지정되지 않았습니다.</AlertNoBabyFoodCaravanDesc>
+
+  <AlertToxicBuildup>중독</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>다음 정착민들의 독성 축적이 심각한 수준에 이르렀습니다:\n\n{0}\n\n이들을 독성을 축적시키는 물건에서 떨어트리십시오. 독성 축적은 유독성 낙진, 독가스, 그리고 오염된 지형 등 으로부터 생기게 됩니다.</AlertToxicBuildupDesc>
+
+  <AlertNeedBabyCribs>아기 침대 필요</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>현재 아이의 숫자가 정착지의 아기 침대 숫자보다 많습니다.\n\n아기 침대를 만들거나, 아기 잠자리를 지정하세요.</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>노예 요람 필요</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribsDesc>요람 수보다 더 많은 노예 아기가 존재합니다. \n\n 요람을 더 만들거나, 기존 요람을 노예 전용 요람으로 전환하세요. \n\n침대를 만들 재료나 시간이 없다면, 잠자리를 지정하세요.</AlertNeedSlaveCribsDesc>
+
+  <AlertPollutedTerrain>오염된 지형</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>독성이 축적된 정착민이나 동물이 오염된 지형 위에 있습니다. 오염된 지형 위에 있는 모든 이는 독성축적을 겪으며 결국 사망에 이릅니다.\n\n영향을 받고있는 가축 및 사람들:\n\n{0}\n\n이들을 오염된 지형에서 떨어트려 놓거나 영향을 방어 할 방법을 찾으십시오. 특정 장비나 삽입물, 혹은 유전자 변형이 독성 축적으로부터 보호를 제공합니다. 오염된 지형은 바닥으로 덮을 수 없지만, 직접 치우는 등의 여러 방법으로 정화 할 수 있습니다.</AlertPollutedTerrainDesc>
+
+  <AlertMechMissingBodyPart>메카노이드 부품 부족</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>메카노이드 다수 부품 부족</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>신체 부속품이 누락된 메카노이드가 있습니다. 메카나이터가 수리할 수 있습니다.\n\n부속품이 누락된 메카노이드</AlertMechMissingBodyPartDesc>
+
+  <AlertMechNeedsRepair>수리가 필요한 메카노이드</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>이 메카노이드들은 손상되었고, 수리가 필요합니다</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>메카나이터에게 수리를 명령하거나, 메카노이드를 선택하고 자동 수리를 활성화하세요. 수리 시 메카노이드의 전력이 소모됩니다. 메카노이드의 전력량이 너무 낮아 움직일 수 없다면 누군가 충전기로 옮겨줘야 합니다.</AlertMechNeedsRepairDesc>
   
-  <NeedColonistBeds>정착민 침대 부족</NeedColonistBeds>
-  <NeedColonistBedsDesc>침대 수보다 더 많은 정착민이 머물고 있습니다.\n\n침대를 더 만들거나 수감자 전용 침대를 정착민 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요. 추가적인 비용이 들지 않으며 즉시 배치됩니다.</NeedColonistBedsDesc>
-  
-  <AlertColonistLeftUnburied>방치된 정착민 시체</AlertColonistLeftUnburied>
-  <AlertColonistLeftUnburiedDesc>사망한 정착민이 매장되지 않은 채 방치되어 있습니다.\n\n방치된 시신은 다른 정착민들의 기분을 망칠 것입니다.</AlertColonistLeftUnburiedDesc>
+  <AlertToxifierGeneratorStopped>{0} 중지됨</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>주변 모든 지형이 오염돼 {0}의 전력 생산이 중단됐습니다.\n\n오염물질 펌프로 주변을 정화하거나, 오염 제거 구역을 설정하세요.</AlertToxifierGeneratorStoppedDesc>
 
-  <HunterLacksWeapon>사냥용 원거리 무기 필요</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>사냥꾼으로 지정된 정착민이 원거리 무기를 가지고 있지 않습니다.\n\n사냥꾼에게 원거리 무기를 주기 전까지는 사냥을 하지 않습니다.\n\n원거리 무기가 필요한 사냥꾼은 다음과 같습니다</HunterLacksWeaponDesc>
+  <AlertPsychicBondedPawnsSeparated>정신결속 (멂)</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>초정신적 결속을 가진 일부 정착민들이 분리되어 멀리서 부정적인 영향을 느끼고 있습니다. 이것을 피하려면 초정신적 결속을 가진 정착민들이 같은 세계 타일, 상단 또는 탈 것에 있어야 합니다. 또한 동면 또는 이와 유사한 코마 상태가 아니어야 합니다.\n\n영향을 받는 사람은 다음과 같습니다.</AlertPsychicBondedPawnsSeparatedDesc>
 
-  <AlertTatteredApparel>낡은 옷</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>다음 정착민들이 낡은 옷 때문에 스트레스를 받고 있습니다.\n\n{0}\n더 좋은 옷이 필요합니다.\n\n옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</AlertTatteredApparelDesc>
+  <AlertGenebankUnpowered>유전자 저장고 전력 필요</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>유전자 저장고에 전력이 공급되지 않아 저장된 유전자묶음들이 서서히 손상되고 있습니다. 전력을 복구하여 유전자묶음의 손상을 방지하세요.\n\n유전자 저장고에 전력이 공급되면 진행된 손상을 천천히 복구합니다.</AlertGenebankUnpoweredDesc>
 
-  <AlertUnhappyNudity>벌거벗음</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>다음 정착민들이 옷을 입지 못해 스트레스를 받고 있습니다.\n\n{0}\n옷가지를 가져다주세요.\n\n옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</AlertUnhappyNudityDesc>
+  <AlertBossgroupIncoming>{0} 접근 중</AlertBossgroupIncoming>
+  <AlertBossgroupIncomingDesc>기계 장치의 신호를 받아 적대적인 {0}(이)가 호위 전투 병력과 함께 접근하고 있습니다. 준비하세요. 이것은 쉬운 싸움이 아닙니다. 적대적인 메카노이드는 몇 시간 또는 며칠 안에 도착할 것입니다.</AlertBossgroupIncomingDesc>
 
-  <Starvation>굶주림</Starvation>
-  <StarvationDesc>다음 정착민들이 굶주리고 있습니다.\n\n{0}\n식량을 구해주세요.</StarvationDesc>
+  <AlertDeathrestComplete>죽음안식 완료</AlertDeathrestComplete><!-- text_todo -->
+  <AlertDeathrestCompleteDesc>다음의 사람들은 죽음안식을 마치고 무사히 깨어날 수 있습니다.</AlertDeathrestCompleteDesc><!-- text_todo -->
 
-  <StarvationAnimals>동물 굶주림</StarvationAnimals>
-  <StarvationAnimalsDesc>다음 동물들이 굶주리고 있습니다.\n\n{0}\n식량을 구해주세요.</StarvationAnimalsDesc>
-
-  <Exhaustion>탈진</Exhaustion>
-  <ExhaustionDesc>다음 정착민들이 탈진하여 휴식이 필요합니다.\n\n{0}\n휴식을 위해서 정착민들이 사용할 수 있는 침대가 필요합니다. 또한 소집상태를 해제했는지 확인해주세요.</ExhaustionDesc>
-
-  <NeedFoodHopper>투입구 필요</NeedFoodHopper>
-  <NeedFoodHopperDesc>영양죽 배급기 옆에 투입구가 없습니다.\n\n영양죽 배급기는 투입구를 통해 조리되지 않은 식품을 받아야 작동이 가능합니다.\n\n투입구를 배급기 옆에 건설하세요.</NeedFoodHopperDesc>
-
-  <NeedMealSource>조리기구 필요</NeedMealSource>
-  <NeedMealSourceDesc>음식을 만들 수 있는 방법이 없습니다.\n\n스토브, 모닥불, 또는 영양죽 배급기를 건설하세요.\n\n(감옥에 건설할 경우 정착민들이 사용할 수 없습니다.)</NeedMealSourceDesc>
-
-  <NeedJoySource>오락시설 필요</NeedJoySource>
-  <NeedJoySourceDesc>{1}에서 즐길 수 있는 오락 유형은 {0}가지 뿐이지만, 현재 기대 수준({2})에서 정착민들이 만족하려면 {3}가지 오락시설이 필요합니다. 새롭고 다양한 오락 유형을 제공해 주세요.\n\n{4}\n\n{5}\n\n물품 선택 후 'i' 버튼으로 볼 수 있는 정보 화면에서 해당 물품의 오락 유형을 확인할 수 있습니다.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>가능한 오락 유형</AvailableRecreationTypes>
-  <MissingRecreationTypes>없는 오락 유형</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>현재의 기대감({0})에 의해, 매일 {1}만큼 감소합니다. {2}가지 유형의 오락시설을 보유하기를 권장합니다.</CurrentExpectationsAndRecreation>
-  <bored>질림</bored>
-
-  <Boredom>지루함</Boredom>
-  <BoredomDesc>오락 시설이 필요하거나 사용 가능한 모든 오락 시설에 싫증을 느끼는 사람들:\n\n{0}\n\n좀 더 다양하게 오락 시설을 설치하세요.\n\n{PAWN_labelShort}(이)가 현재 사용 가능한 오락 시설:\n\n{2}</BoredomDesc>
-
-  <NeedBatteries>축전지 필요</NeedBatteries>
-  <NeedBatteriesDesc>태양광이나 풍력 발전기는 있지만 축전지가 없습니다. 태양이 지거나 바람이 멈추면 전기가 끊길 것입니다.</NeedBatteriesDesc>
-  <NeedBatteriesResearchedDesc>축전지를 한두 개 건설해서 예비 전력을 확보하세요.</NeedBatteriesResearchedDesc>
-  <NeedBatteriesNotResearchedDesc>축전지를 연구하고 한두 개 건설해서 예비 전력을 확보하세요.</NeedBatteriesNotResearchedDesc>
-
-  <BrawlerHasRangedWeapon>싸움꾼이 원거리 무기 사용</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>싸움꾼 특성을 가진 정착민에게 원거리 무기를 지급한 상태입니다. 이로 인해 싸움꾼의 기분이 매우 악화됩니다.</BrawlerHasRangedWeaponDesc>
-
-  <ShieldUserHasRangedWeapon>보호막 사용자가 원거리 무기 사용</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>정착민 중 한 명이 방어 벨트와 원거리 무기를 같이 사용하고 있습니다. 방어 벨트의 보호막은 원거리 무기 사용을 막습니다.</ShieldUserHasRangedWeaponDesc>
-
-  <NeedResearchProject>다음 연구 진행 가능</NeedResearchProject>
-  <NeedResearchProjectDesc>설치된 연구대가 있지만 현재 진행중인 연구가 없습니다.\n\n연구 메뉴에서 연구할 항목을 지정해 주세요.</NeedResearchProjectDesc>
-
-  <ColonistsIdle>{0}명의 정착민 대기 중</ColonistsIdle>
-  <ColonistsIdleDesc>다음 정착민들이 할 일이 없어 주변을 방황하고 있습니다.\n\n{0}\n무언가 생산적인 일을 찾아주어야 할 것입니다.</ColonistsIdleDesc>
-  
-  <CaravanIdle>상단 대기 중</CaravanIdle>
-  <CaravanIdleDesc>이 상단은 다음 목적지 설정을 기다리고 있습니다:\n\n{0}</CaravanIdleDesc>
-
-  <ColonistNeedsTreatment>치료 필요</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>다음 정착민들이 치료를 받아야 합니다. 치료를 받지 못하면 상처 때문에 사망하거나 영구적인 장애가 발생할 수 있습니다.\n\n{0}\n의료용 침대로 보내 치료하세요.\n\n(먼저 침대를 선택해서 의료용 침대로 전환하고, 상처 입은 정착민을 선택한 후 병원 침대를 마우스 오른쪽 버튼으로 클릭하세요.)</ColonistNeedsTreatmentDesc>
-  <ColonistNeedsTreatmentDescController>다음 정착민들이 치료를 받아야 합니다. 치료를 받지 못하면 상처 때문에 사망하거나 영구적인 장애가 발생할 수 있습니다.\n\n{0}\n의료용 침대로 보내 치료하세요.\n\n(먼저 침대를 선택해서 의료용 침대로 전환하고, 상처 입은 정착민을 선택한 후 병원 침대 위에서 왼쪽 버튼을 사용하세요.)</ColonistNeedsTreatmentDescController>
-
-  <AlertHypothermia>저체온증</AlertHypothermia>
-  <AlertHypothermiaDesc>다음 정착민이 저체온증으로 인해 고통받고 있습니다.\n\n{0}\n계절에 맞는 옷을 만들어 입히거나 따듯한 곳으로 이동해야합니다.</AlertHypothermiaDesc>
-  
-  <PatientsAwaitingMedicalOperation>{0}명 수술 대기중</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>다음 환자들이 수술을 기다리고 있습니다.\n\n{0}\n필요한 의료기구를 가지고 있는지 확인하고, 활동 가능한 의사를 준비하세요.</PatientsAwaitingMedicalOperationDesc>
-
-  <FireInHomeArea>화재!</FireInHomeArea>
-  <FireInHomeAreaDesc>주거구역 내에 화재가 발생했습니다.</FireInHomeAreaDesc>
-
-  <PawnsWithLifeThreateningDisease>심각한 질병</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>다음 사람들은 심각한 질병으로 인해 사망의 위험이 있습니다.\n\n{0}\n최대한 많은 의사들이 관심을 가지고 보살필 수 있도록 하세요.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>다음 사람들은 심각한 질병으로 인해 사망의 위험이 있습니다.\n\n{0}\n가능하다면 생명을 유지하기 위해 절단을 하거나 감염된 부위를 교체하는 것이 좋습니다.</PawnsWithLifeThreateningDiseaseAmputationDesc>
-
-  <BilliardsNeedsSpace>당구대에 여유 공간 필요</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>당구대 중 하나가 장애물 바로 옆에 놓여있어 정착민들이 사용할 수 없습니다.\n\n당구대는 주변 모든 방향으로 열린 공간이 필요합니다.</BilliardsNeedsSpaceDesc>
-
-  <ChessTablesNeedChairs>체스 탁자에 의자 필요</ChessTablesNeedChairs>
-  <ChessTablesNeedChairsDesc>인접한 의자가 없는 체스 탁자가 있습니다.\n\n체스 탁자는 인접한 의자가 있어야 사용할 수 있습니다. 체스는 한 번에 두 명까지 할 수 있습니다.</ChessTablesNeedChairsDesc>
-
-  <PokerTablesNeedChairs>포커 탁자에 의자 필요</PokerTablesNeedChairs>
-  <PokerTablesNeedChairsDesc>인접한 의자가 없는 포커 탁자가 있습니다.\n\n포커 탁자는 인접한 의자가 있어야 사용할 수 있습니다. 포커는 한 번에 여덟 명까지 할 수 있습니다.</PokerTablesNeedChairsDesc>
-
-  <HunterHasShieldAndRangedWeapon>사냥꾼이 보호막 생성기와 원거리 무기 사용</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>사냥꾼 중 한 명이 보호막 벨트와 원거리 무기를 같이 사용하고 있습니다. 보호막 벨트는 원거리에서의 발사를 막습니다.\n\n벨트를 벗기 전까지는 사냥할 수 없습니다.</HunterHasShieldAndRangedWeaponDesc>
-
-  <NeedWarmClothes>따뜻한 옷 필요</NeedWarmClothes>
-  <NeedWarmClothesDesc1>{0}명의 정착민이 이번 겨울에 입을 옷이 없습니다.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>모든 정착민이 이번 겨울에 입을 옷이 없습니다.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>외부 온도가 곧 {0}도로 떨어집니다.\n\n따뜻한 옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</NeedWarmClothesDesc2>
-
-  <ImmobileCaravan>상단이 움직일 수 없음</ImmobileCaravan>
-  <ImmobileCaravanDesc>상단 중 하나가 무게 초과로 인해 움직일 수 없습니다.\n\n소지품 탭에서 일부 물건을 선택하고 버릴 수 있습니다.</ImmobileCaravanDesc>
-
-  <BuildingCantBeUsedRoofed>지붕으로 인한 건물 사용 불가</BuildingCantBeUsedRoofed>
-  <BuildingCantBeUsedRoofedDesc>이 시설은 지붕 아래에서는 사용할 수 없습니다. 지붕을 제거하세요.</BuildingCantBeUsedRoofedDesc>
-
-  <AlertHeatstroke>열사병</AlertHeatstroke>
-  <AlertHeatstrokeDesc>다음 정착민이 열사병으로 고통 받고 있습니다.\n\n{0}\n서늘한 곳으로 데려가십시오. 냉각기를 통해 방을 식히거나, 밀폐된 지하 공간을 활용하십시오.</AlertHeatstrokeDesc>
-
-  <QuestPartMoodBelowThreshold>불쾌한 방문객</QuestPartMoodBelowThreshold>
-  <QuestPartMoodBelowThresholdDesc>{0} 임무를 완수하려면 방문객의 기분이 좋아야 합니다. 다음 방문객의 기분을 개선하기 위한 적당한 조치를 취하세요.\n\n{1}</QuestPartMoodBelowThresholdDesc>
-  
-  <QuestPartShuttleLeaveDelay>{0} 후 왕복선 출발</QuestPartShuttleLeaveDelay>
-  <QuestPartShuttleLeaveDelayDesc>왕복선이 {1} 후 출발합니다. {0} 임무를 수행하려면 출발하기 전에 다음 인물이나 물품을 왕복선으로 옮겨야 합니다.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
-  <QuestPartShuttleLeaveDelayDescHidden>왕복선이 {0} 후 출발합니다.</QuestPartShuttleLeaveDelayDescHidden>
-
-  <QuestPartShuttleArriveDelay>{0} 후 왕복선 도착</QuestPartShuttleArriveDelay>
-  <QuestPartShuttleArriveDelayDesc>왕복선이 {1} 후 도착합니다. {0} 임무를 수행하려면 출발하기 전에 다음 인물이나 물품을 왕복선으로 옮겨야 합니다.\n\n{2}</QuestPartShuttleArriveDelayDesc>
-  <QuestPartShuttleArriveDelayDescHidden>왕복선이 {0} 후 도착합니다.</QuestPartShuttleArriveDelayDescHidden>
-
-  <DisallowedBuildingInsideMonument>기념비 훼손됨</DisallowedBuildingInsideMonument>
-  <DisallowedBuildingInsideMonumentDesc>기념비에 허용하지 않는 시설을 지었습니다. 해당 기념비는 {0} 후에 훼손된 것으로 간주됩니다.</DisallowedBuildingInsideMonumentDesc>
-
-  <ActivatorCountdown>메카노이드 활성장치 {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>예정된 시간에 도달하면 장치 근처에 있는 모든 메카노이드가 깨어날 것입니다.</ActivatorCountdownDesc>
-  <ActivatorCountdownMultiple>{0}개의 메카노이드 활성장치</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>예정된 시간에 도달하면 {0} 장치 근처에 있는 모든 메카노이드가 깨어날 것입니다.</ActivatorCountdownDescMultiple>
-
-  <QuestExpiresSoon>임무 만료까지 {0}</QuestExpiresSoon>
-  <QuestExpiresSoonDesc>'{0}' 임무는 {1} 뒤 만료됩니다.</QuestExpiresSoonDesc>
-
-  <AlertAnimalFilth>동물 오물</AlertAnimalFilth>
-  <AlertAnimalFilthDesc>오물을 생성하는 동물이 실내의 깨끗한 바닥 위를 돌아다니고 있습니다.\n\n동물이 일반 바닥 위를 돌아다니면 많은 양의 오물이 생깁니다. 오물을 생성하는 동물이 실내로 들어오지 못하도록 제한하세요. 바닥에 멍석을 깔아서 생성되는 오물의 양을 크게 줄일 수도 있습니다.\n\n동물의 오물 생성량은 'i' 버튼을 누르면 나타나는 통계 화면에서 확인할 수 있습니다.\n\n다음의 동물이 문제입니다:\n{0}</AlertAnimalFilthDesc>
-
-  <AlertAnimalPenNeeded>동물 우리 필요</AlertAnimalPenNeeded>
-  <AlertAnimalPenNeededDesc>가축들이 떠돌고 있습니다. 우리에 가두거나 상단 구성 장소에 묶어두지 않으면 도망칠 것입니다.</AlertAnimalPenNeededDesc>
-  <AlertAnimalPenNeededNoHandlers>동물을 우리로 끌고 갈 조련사가 없습니다.\n\n정착민을 조련 작업에 할당하세요.</AlertAnimalPenNeededNoHandlers>
-  <AlertAnimalPenNeededDescExplanation>울타리, 방어벽, 벽으로 둘러싸인 곳 안에 우리 표시를 설치해 동물 우리를 만드세요. 우리 표시를 선택하면 어떤 동물을 받을 수 있는지, 얼마나 많이 수용할 수 있는지 볼 수 있습니다.\n\n조련사가 동물을 할당한 우리로 끌고 갈 것입니다.\n\n우리 안에 동물을 넣으려면 문이나 울타리 문이 필요합니다.</AlertAnimalPenNeededDescExplanation>
-  
-  <AlertAnimalPenNotEnclosed>개방된 동물 우리</AlertAnimalPenNotEnclosed>
-  <AlertAnimalPenNotEnclosedDesc>밀폐되지 않은 동물 우리가 있습니다.\n\n우리 표시는 동물이 밖으로 나가지 못하도록 울타리, 울타리 문, 방어벽, 벽, 문으로 둘러싼 영역 안에 위치해야 합니다.\n\n미완성 우리만 있더라도 조련사가 배회하는 동물을 집으로 데려오기는 하지만 동물이 밖으로 나갈 때마다 반복해서 끌고 와야 합니다.</AlertAnimalPenNotEnclosedDesc>
-
-  <AlertPredatorInAnimalPen>동물 우리 안의 {ANIMAL_labelShort}</AlertPredatorInAnimalPen>
-  <AlertPredatorInAnimalPenDesc>배회하던 {ANIMAL_labelShort}(이)가 동물 우리 안으로 들어왔습니다.\n\n배가 고파지면 우리 안의 동물을 사냥할 수 있습니다.\n\n포식자를 죽이거나 떠나기를 기다리세요.</AlertPredatorInAnimalPenDesc>
-
-  <AlertAnimalIsRoaming>배회 중인 동물</AlertAnimalIsRoaming>
-  <AlertAnimalIsRoamingDesc>길들인 동물 일부가 떠돌이 동물로서 지금 배회 중입니다. 배회 중에 지역 경계에 도달하면 지역 밖으로 나갈 것입니다.\n\n완성한 우리가 있으면 조련사가 데려올 것입니다. 우리 안에 가둬놓은 동물은 배회하지 않습니다.\n\n다음 동물이 배회 중입니다.\n\n{0}</AlertAnimalIsRoamingDesc>
-
-  <AlertPennedAnimalHungry>우리 안의 동물이 굶주림</AlertPennedAnimalHungry>
-  <AlertPennedAnimalHungryDesc>우리 안의 동물이 배고픔을 느끼고 있습니다.\n\n우리 표시를 선택하고 먹이 탭을 열어 자세한 정보를 확인하세요.\n\n초식 동물이라면 더 많은 풀을 먹일 수 있는, 더 큰 우리가 필요할 수 있습니다. 다른 동물의 경우 우리 안에 저장 구역을 지정한 후, 건초 등 동물 먹이를 운반해야 할 수도 있습니다.\n\n배고픈 동물:\n\n{0}</AlertPennedAnimalHungryDesc>
-
-  <AlertHitchedAnimalHungryNoFood>굶주린 동물</AlertHitchedAnimalHungryNoFood>
-  <AlertHitchedAnimalHungryNoFoodDesc>묶여있는 일부 가축들이 굶주렸습니다. 근처에 적절한 먹이가 없을 수 있습니다.\n\n먹이를 가져다 주거나, 풀어주어 스스로 먹이를 찾을 수 있도록 하세요.\n\n굶주린 가축은 다음과 같습니다.\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
-
-  <AlertTimedRaidsArrivingIn>습격 도착까지 {0}</AlertTimedRaidsArrivingIn>
-  <AlertTimedRaidsArrivingInDesc>다음의 지역으로 적이 접근하고 있습니다. 곧 적 병력이 도착할 것입니다.\n\n{0}</AlertTimedRaidsArrivingInDesc>
-  <AlertTimedRaidsArrivingAt>{0}에 {1} 후 도착</AlertTimedRaidsArrivingAt>
-
-  <FactionWillBecomeHostileIfNotLeavingWithin>계속 머무르면 세력이 적대함</FactionWillBecomeHostileIfNotLeavingWithin>
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>다음 세력의 정착지나 전초기지에 계속 머무르면 적대하게 됩니다:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
-
-  <AlertMinifiedTreeAboutToDie>나무 {0}그루가 죽어감</AlertMinifiedTreeAboutToDie>
-  <AlertMinifiedTreeAboutToDieDesc>뽑아둔 나무 {0}그루가 하루 안에 죽을 예정입니다. 방치하면 특정 사상을 지닌 정착민이 실망할 것입니다.\n\n나무를 다시 심으면 기분 하락을 방지할 수 있습니다.</AlertMinifiedTreeAboutToDieDesc>
-
-  <NeedResearchBench>연구 작업대 필요</NeedResearchBench>
-  <NeedResearchBenchDesc>{0}(을)를 연구 프로젝트로 지정했습니다. 진행하려면 {1}(을)를 건설해야 합니다.</NeedResearchBenchDesc>
-  
 </LanguageData>
