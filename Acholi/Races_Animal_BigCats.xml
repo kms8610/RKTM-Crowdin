@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cougar.label>crwdns460748:0crwdne460748:0</Cougar.label>
+  <Cougar.label>crwdns473166:0crwdne473166:0</Cougar.label>
+  <Cougar.description>crwdns473168:0crwdne473168:0</Cougar.description>
+  <Cougar.tools.left_claw.label>crwdns473170:0crwdne473170:0</Cougar.tools.left_claw.label>
+  <Cougar.tools.right_claw.label>crwdns473172:0crwdne473172:0</Cougar.tools.right_claw.label>
+  <Cougar.tools.head.label>crwdns473174:0crwdne473174:0</Cougar.tools.head.label>
   
-  <Lynx.label>crwdns460750:0crwdne460750:0</Lynx.label>
-  <Lynx.labelPlural>crwdns460752:0crwdne460752:0</Lynx.labelPlural>
-  <Lynx.lifeStages.lynx_kitten.label>crwdns460754:0crwdne460754:0</Lynx.lifeStages.lynx_kitten.label>
+  <Lynx.label>crwdns473176:0crwdne473176:0</Lynx.label>
+  <Lynx.description>crwdns473178:0crwdne473178:0</Lynx.description>
+  <Lynx.tools.left_claw.label>crwdns473180:0crwdne473180:0</Lynx.tools.left_claw.label>
+  <Lynx.tools.right_claw.label>crwdns473182:0crwdne473182:0</Lynx.tools.right_claw.label>
+  <Lynx.tools.head.label>crwdns473184:0crwdne473184:0</Lynx.tools.head.label>
   
-  <Panther.label>crwdns460756:0crwdne460756:0</Panther.label>
+  <Panther.label>crwdns473186:0crwdne473186:0</Panther.label>
+  <Panther.description>crwdns473188:0crwdne473188:0</Panther.description>
+  <Panther.tools.left_claw.label>crwdns473190:0crwdne473190:0</Panther.tools.left_claw.label>
+  <Panther.tools.right_claw.label>crwdns473192:0crwdne473192:0</Panther.tools.right_claw.label>
+  <Panther.tools.head.label>crwdns473194:0crwdne473194:0</Panther.tools.head.label>
 </LanguageData>
