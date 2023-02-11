@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Frenzy_Go.label>질주 열망</Frenzy_Go.label>
+  <Frenzy_Go.baseInspectLine>질주 열망</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>[PAWN_pronoun]는 다음 8일 동안 더 빠르게 이동합니다.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.endMessage>{0}(이)가 더는 질주 열망을 느끼지 않습니다.</Frenzy_Go.endMessage>
+  
+  <Frenzy_Shoot.label>사격 열망</Frenzy_Shoot.label>
+  <Frenzy_Shoot.baseInspectLine>사격 열망</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>[PAWN_pronoun]는 다음 8일 동안 사격 명중률이 상승합니다.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.endMessage>{0}(이)가 더는 사격 영감을 느끼지 않습니다.</Frenzy_Shoot.endMessage>
+  
+  <Frenzy_Work.label>작업 열망</Frenzy_Work.label>
+  <Frenzy_Work.baseInspectLine>작업 열망</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>[PAWN_pronoun]는 다음 8일 동안 작업속도가 빨라집니다.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.endMessage>{0}(이)가 더는 작업 열망을 느끼지 않습니다.</Frenzy_Work.endMessage>
+  
+  <Inspired_Creativity.label>예술 영감</Inspired_Creativity.label>
+  <Inspired_Creativity.baseInspectLine>예술 영감</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>[PAWN_pronoun]는 다음번 물품이나 예술 또는 가구를 2단계 높은 수준으로 만듭니다. 심지어 전설적인 물품도 만들 수 있습니다.\n\n영감은 8일 후 또는 창작활동을 마치면 만료됩니다.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.endMessage>{0}(이)가 더는 예술 영감을 느끼지 않습니다.</Inspired_Creativity.endMessage>
+  
+  <Inspired_Recruitment.label>포섭 영감</Inspired_Recruitment.label>
+  <Inspired_Recruitment.baseInspectLine>포섭 영감</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun]는 수감자의 의지력이나 저항심에 관계없이 포섭할 수 있습니다.\n\n영감은 8일 후 또는 포섭을 마치면 만료됩니다.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.endMessage>{0}(이)가 더는 포섭 영감을 느끼지 않습니다.</Inspired_Recruitment.endMessage>
+  
+  <Inspired_Surgery.label>수술 영감</Inspired_Surgery.label>
+  <Inspired_Surgery.baseInspectLine>수술 영감</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>[PAWN_pronoun]의 다음 번 수술의 성공 확률이 두 배가 되지만 여전히 최소한의 실패 가능성은 존재합니다.\n\n영감은 8일 후 또는 수술을 마치면 만료됩니다.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.endMessage>{0}(이)가 더는 수술 영감을 느끼지 않습니다.</Inspired_Surgery.endMessage>
+  
+  <Inspired_Taming.label>조련 영감</Inspired_Taming.label>
+  <Inspired_Taming.baseInspectLine>조련 영감</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.beginLetter>[PAWN_pronoun]의 다음 동물 조련 시도는 반드시 성공합니다.\n\n영감은 8일 후 또는 조련에 성공하면 만료됩니다.</Inspired_Taming.beginLetter>
+  <Inspired_Taming.endMessage>{0}(이)가 더는 조련 영감을 느끼지 않습니다.</Inspired_Taming.endMessage>
+  
+  <Inspired_Trade.label>거래 영감</Inspired_Trade.label>
+  <Inspired_Trade.baseInspectLine>거래 영감</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>[PAWN_pronoun]는 다음 거래를 체결할 때 상당한 이윤을 취할 수 있습니다.\n\n영감은 8일 후 또는 거래를 마치면 만료됩니다.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.endMessage>{0}(이)가 더는 거래 영감을 느끼지 않습니다.</Inspired_Trade.endMessage>
+</LanguageData>
