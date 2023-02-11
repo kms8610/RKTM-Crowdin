@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Filth_FlammableBile.label>가연성 소화액</Filth_FlammableBile.label>
+  <Filth_DriedBlood.label>말라붙은 피</Filth_DriedBlood.label>
   
-  <Filth_Floordrawing.label>바닥 낙서</Filth_Floordrawing.label>
+  <Filth_MoldyUniform.label>헤진 복장</Filth_MoldyUniform.label>
   
-  <Filth_SpentAcid.label>중화된 산</Filth_SpentAcid.label>
+  <Filth_OilSmear.label>기름 자국</Filth_OilSmear.label>
+  
+  <Filth_PodSlime.label>동면장치 점액</Filth_PodSlime.label>
+  
+  <Filth_ScatteredDocuments.label>흐트러진 서류</Filth_ScatteredDocuments.label>
 </LanguageData>
