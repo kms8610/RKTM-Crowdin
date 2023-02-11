@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BlindingCeremony.label>crwdns436794:0crwdne436794:0</BlindingCeremony.label>
+  <BlindingCeremony.description>crwdns436796:0crwdne436796:0</BlindingCeremony.description>
+  
+  <Classic_DanceParty.label>crwdns436798:0crwdne436798:0</Classic_DanceParty.label>
+  <Classic_DanceParty.description>crwdns436800:0crwdne436800:0</Classic_DanceParty.description>
+  
+  <Classic_DrumParty.label>crwdns436802:0crwdne436802:0</Classic_DrumParty.label>
+  <Classic_DrumParty.description>crwdns436804:0crwdne436804:0</Classic_DrumParty.description>
+  
+  <Conversion.label>crwdns436806:0crwdne436806:0</Conversion.label>
+  <Conversion.description>crwdns436808:0crwdne436808:0</Conversion.description>
+  
+  <DateRitualConsumable.label>crwdns436810:0crwdne436810:0</DateRitualConsumable.label>
+  <DateRitualConsumable.description>crwdns436812:0crwdne436812:0</DateRitualConsumable.description>
+  
+  <Execution.label>crwdns436814:0crwdne436814:0</Execution.label>
+  <Execution.description>crwdns436816:0crwdne436816:0</Execution.description>
+  <Execution.tipLabelOverride>crwdns436818:0crwdne436818:0</Execution.tipLabelOverride>
+  
+  <Festival.label>crwdns436820:0crwdne436820:0</Festival.label>
+  <Festival.description>crwdns436822:0crwdne436822:0</Festival.description>
+  
+  <Funeral.label>crwdns436824:0crwdne436824:0</Funeral.label>
+  <Funeral.description>crwdns436826:0crwdne436826:0</Funeral.description>
+  <Funeral.extraTextPawnDeathLetter>crwdns436828:0{PAWN_nameDef}crwdnd436828:0{PAWN_possessive}crwdne436828:0</Funeral.extraTextPawnDeathLetter>
+  
+  <FuneralNoCorpse.label>crwdns436830:0crwdne436830:0</FuneralNoCorpse.label>
+  <FuneralNoCorpse.description>crwdns436832:0crwdne436832:0</FuneralNoCorpse.description>
+  
+  <GladiatorDuel.label>crwdns436834:0crwdne436834:0</GladiatorDuel.label>
+  <GladiatorDuel.description>crwdns436836:0crwdne436836:0</GladiatorDuel.description>
+  <GladiatorDuel.tipLabelOverride>crwdns436838:0crwdne436838:0</GladiatorDuel.tipLabelOverride>
+  
+  <LeaderSpeech.label>crwdns436840:0crwdne436840:0</LeaderSpeech.label>
+  <LeaderSpeech.description>crwdns436842:0crwdne436842:0</LeaderSpeech.description>
+  
+  <RoleChange.label>crwdns436844:0crwdne436844:0</RoleChange.label>
+  <RoleChange.description>crwdns436846:0crwdne436846:0</RoleChange.description>
+  
+  <ScarificationCeremony.label>crwdns436848:0crwdne436848:0</ScarificationCeremony.label>
+  <ScarificationCeremony.description>crwdns436850:0crwdne436850:0</ScarificationCeremony.description>
+  
+  <TreeConnection.label>crwdns436852:0crwdne436852:0</TreeConnection.label>
+  <TreeConnection.description>crwdns436854:0crwdne436854:0</TreeConnection.description>
+  
+  <Trial.label>crwdns436856:0crwdne436856:0</Trial.label>
+  <Trial.description>crwdns436858:0crwdne436858:0</Trial.description>
+  
+  <TrialMentalState.label>crwdns436860:0crwdne436860:0</TrialMentalState.label>
+  <TrialMentalState.description>crwdns436862:0crwdne436862:0</TrialMentalState.description>
+  
+  <TrialPrisoner.label>crwdns436864:0crwdne436864:0</TrialPrisoner.label>
+  <TrialPrisoner.description>crwdns436866:0crwdne436866:0</TrialPrisoner.description>
+</LanguageData>
