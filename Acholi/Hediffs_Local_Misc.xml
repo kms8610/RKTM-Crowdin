@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AcidBurn.label>crwdns423478:0crwdne423478:0</AcidBurn.label>
-  <AcidBurn.description>crwdns423480:0crwdne423480:0</AcidBurn.description>
-  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>crwdns423482:0crwdne423482:0</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>crwdns423484:0crwdne423484:0</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
-  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>crwdns423486:0crwdne423486:0</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
-  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>crwdns423488:0crwdne423488:0</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
-  <AcidBurn.injuryProps.destroyedLabel>crwdns423490:0crwdne423490:0</AcidBurn.injuryProps.destroyedLabel>
-  <AcidBurn.injuryProps.destroyedOutLabel>crwdns423492:0crwdne423492:0</AcidBurn.injuryProps.destroyedOutLabel>
-  <AcidBurn.labelNoun>crwdns423494:0crwdne423494:0</AcidBurn.labelNoun>
-  <AcidBurn.labelNounPretty>crwdns423496:0{0}crwdnd423496:0{1}crwdne423496:0</AcidBurn.labelNounPretty>
+  <Abasia.label>crwdns445632:0crwdne445632:0</Abasia.label>
+  <Abasia.description>crwdns445634:0crwdne445634:0</Abasia.description>
+  <Abasia.descriptionShort>crwdns445636:0crwdne445636:0</Abasia.descriptionShort>
   
-  <BloodfeederMark.label>crwdns423498:0crwdne423498:0</BloodfeederMark.label>
-  <BloodfeederMark.description>crwdns423500:0crwdne423500:0</BloodfeederMark.description>
-  <BloodfeederMark.labelNoun>crwdns423502:0crwdne423502:0</BloodfeederMark.labelNoun>
-  
-  <ImplantedIUD.label>crwdns423504:0crwdne423504:0</ImplantedIUD.label>
-  <ImplantedIUD.description>crwdns423506:0crwdne423506:0</ImplantedIUD.description>
-  
-  <ToxGasExposure.label>crwdns423508:0crwdne423508:0</ToxGasExposure.label>
-  <ToxGasExposure.description>crwdns423510:0crwdne423510:0</ToxGasExposure.description>
-  <ToxGasExposure.stages.mild.label>crwdns423512:0crwdne423512:0</ToxGasExposure.stages.mild.label>
-  <ToxGasExposure.stages.moderate.label>crwdns423514:0crwdne423514:0</ToxGasExposure.stages.moderate.label>
-  <ToxGasExposure.stages.severe.label>crwdns423516:0crwdne423516:0</ToxGasExposure.stages.severe.label>
-  
-  <TubalLigation.label>crwdns423518:0crwdne423518:0</TubalLigation.label>
-  <TubalLigation.description>crwdns423520:0crwdne423520:0</TubalLigation.description>
-  
-  <Vasectomy.label>crwdns423522:0crwdne423522:0</Vasectomy.label>
-  <Vasectomy.description>crwdns423524:0crwdne423524:0</Vasectomy.description>
+  <BloodRot.label>crwdns445638:0crwdne445638:0</BloodRot.label>
+  <BloodRot.description>crwdns445640:0crwdne445640:0</BloodRot.description>
+  <BloodRot.descriptionShort>crwdns445642:0crwdne445642:0</BloodRot.descriptionShort>
+  <BloodRot.stages.minor.label>crwdns445644:0crwdne445644:0</BloodRot.stages.minor.label>
+  <BloodRot.stages.major.label>crwdns445646:0crwdne445646:0</BloodRot.stages.major.label>
+  <BloodRot.stages.extreme.label>crwdns445648:0crwdne445648:0</BloodRot.stages.extreme.label>
 </LanguageData>
