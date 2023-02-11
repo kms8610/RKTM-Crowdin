@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Autosaving>crwdns483908:0crwdne483908:0</Autosaving>
+  <GameStartDialog>crwdns483910:0crwdne483910:0</GameStartDialog>
+  <Colony>crwdns483912:0crwdne483912:0</Colony>
+  <ChangeLanguageFromMainMenu>crwdns483914:0crwdne483914:0</ChangeLanguageFromMainMenu>
+  <AndLower>crwdns483916:0crwdne483916:0</AndLower>
+  <DisabledLower>crwdns483918:0crwdne483918:0</DisabledLower>
+
+  <VersionIndicator>crwdns483920:0{0}crwdne483920:0</VersionIndicator>
+  <GameVersionIndicator>crwdns483922:0crwdne483922:0</GameVersionIndicator>
+  <DevelopmentBuildLower>crwdns483924:0crwdne483924:0</DevelopmentBuildLower>
+  <CompiledOn>crwdns483926:0{0}crwdne483926:0</CompiledOn>
+  <LoggedIntoSteamAs>crwdns483928:0{0}crwdne483928:0</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <ToCommaListAnd>crwdns483930:0{0}crwdnd483930:0{1}crwdne483930:0</ToCommaListAnd>
+  <ToCommaListOr>crwdns483932:0{0}crwdnd483932:0{1}crwdne483932:0</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <Yes>crwdns483934:0crwdne483934:0</Yes>
+  <No>crwdns483936:0crwdne483936:0</No>
+  <NoSubject>crwdns483938:0{0}crwdne483938:0</NoSubject>
+  <New>crwdns483940:0crwdne483940:0</New>
+  <Gender>crwdns483942:0crwdne483942:0</Gender>
+  <Sex>crwdns483944:0crwdne483944:0</Sex>
+  <min>crwdns483946:0crwdne483946:0</min>
+  <max>crwdns483948:0crwdne483948:0</max>
+  <chance>crwdns483950:0crwdne483950:0</chance>
+  <context>crwdns483952:0crwdne483952:0</context>
+  <multiplier>crwdns483954:0crwdne483954:0</multiplier>
+  <damage>crwdns483956:0crwdne483956:0</damage>
+  <radius>crwdns483958:0crwdne483958:0</radius>
+  <expired>crwdns483960:0crwdne483960:0</expired>
+  <durationDays>crwdns483962:0crwdne483962:0</durationDays>
+  <intervalDays>crwdns483964:0crwdne483964:0</intervalDays>
+  <repeat>crwdns483966:0crwdne483966:0</repeat>
+  <default>crwdns483968:0crwdne483968:0</default>
+  <distance>crwdns483970:0crwdne483970:0</distance>
+  <YesUppercase>crwdns483972:0crwdne483972:0</YesUppercase>
+  <NoUppercase>crwdns483974:0crwdne483974:0</NoUppercase>
+  <kg>crwdns483976:0crwdne483976:0</kg>
+  <Day>crwdns483978:0crwdne483978:0</Day>
+  <day>crwdns483980:0crwdne483980:0</day>
+  <Default>crwdns483982:0crwdne483982:0</Default>
+  <Average>crwdns483984:0crwdne483984:0</Average>
+  <Cause>crwdns483986:0crwdne483986:0</Cause>
+  <Etc>crwdns483988:0crwdne483988:0</Etc>
+  <MoneyFormat>crwdns483990:0${0}crwdne483990:0</MoneyFormat>
+  <Factors>crwdns483992:0crwdne483992:0</Factors>
+  <Uses>crwdns483994:0crwdne483994:0</Uses>
+  <Translation>crwdns483996:0crwdne483996:0</Translation>
+
+  <!-- Content generation-->
+  
+  <MeatLabel>crwdns483998:0{0}crwdne483998:0</MeatLabel>
+  <MeatDesc>crwdns484000:0crwdne484000:0</MeatDesc>
+  <MeatInsectDesc>crwdns484002:0crwdne484002:0</MeatInsectDesc>
+  <MeatHumanDesc>crwdns484004:0crwdne484004:0</MeatHumanDesc>
+
+  <TechprintLabel>crwdns484006:0{PROJECT_label}crwdne484006:0</TechprintLabel>
+  <TechprintDesc>crwdns484008:0{PROJECT_label}crwdne484008:0</TechprintDesc>
+  <Unlocks>crwdns484010:0crwdne484010:0</Unlocks>
+
+  <CorpseLabel>crwdns484012:0{0}crwdne484012:0</CorpseLabel>
+  <CorpseDesc>crwdns484014:0{0}crwdne484014:0</CorpseDesc>
+  <DeadLabel>crwdns484016:0{1_label}crwdne484016:0</DeadLabel>
+
+  <RoughStoneTerrainLabel>crwdns484018:0{0}crwdne484018:0</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>crwdns484020:0{0}crwdne484020:0</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>crwdns484022:0{0}crwdne484022:0</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>crwdns484024:0{0}crwdne484024:0</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>crwdns484026:0{0}crwdne484026:0</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>crwdns484028:0{0}crwdne484028:0</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra>crwdns484030:0crwdne484030:0</BlueprintLabelExtra>
+  <FrameLabelExtra>crwdns484032:0crwdne484032:0</FrameLabelExtra>
+
+  <FactionUnaffiliated>crwdns484034:0crwdne484034:0</FactionUnaffiliated>
+
+  <StillWishContinue>crwdns484036:0crwdne484036:0</StillWishContinue>
+  
+  <BabyTalk>crwdns484038:0crwdne484038:0</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>crwdns484040:0{0}crwdnd484040:0{1}crwdne484040:0</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>crwdns484042:0{PAWN_labelShort}crwdnd484042:0{1}crwdne484042:0</SomeonesRoom>
+  <CouplesRoom>crwdns484044:0{PAWN1_labelShort}crwdnd484044:0{PAWN2_labelShort}crwdnd484044:0{2}crwdne484044:0</CouplesRoom>
+  
+  <StatRelatesToCurrentRoom>crwdns484046:0crwdne484046:0</StatRelatesToCurrentRoom>
+  
+  <DeepResourceRemaining>crwdns484048:0{COUNT}crwdnd484048:0{RESOURCE_label}crwdne484048:0</DeepResourceRemaining>
+  
+  <VariousLabel>crwdns484050:0crwdne484050:0</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>crwdns484052:0crwdne484052:0</ColonistDied>
+  
+  <!-- Rotation -->
+  <North>crwdns484054:0crwdne484054:0</North>
+  <South>crwdns484056:0crwdne484056:0</South>
+  <West>crwdns484058:0crwdne484058:0</West>
+  <East>crwdns484060:0crwdne484060:0</East>
+
+  <ApplyingTechprint>crwdns484062:0{0}crwdne484062:0</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <VariantOf>crwdns484064:0crwdne484064:0</VariantOf>
+  
+  <!-- Familial relationships -->
+  <BornOfParents>crwdns484066:0{0}crwdne484066:0</BornOfParents>
+  <ParentsUnknown>crwdns484068:0crwdne484068:0</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <Colonist>crwdns484070:0crwdne484070:0</Colonist>
+  
+  
+</LanguageData>
