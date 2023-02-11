@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Authority.description>crwdns445786:0crwdne445786:0</Authority.description>
+  <Beauty.label>crwdns460488:0crwdne460488:0</Beauty.label>
+  <Beauty.description>crwdns460490:0crwdne460490:0</Beauty.description>
+  
+  <Comfort.label>crwdns460492:0crwdne460492:0</Comfort.label>
+  <Comfort.description>crwdns460494:0crwdne460494:0</Comfort.description>
+  
+  <DrugDesire.label>crwdns460496:0crwdne460496:0</DrugDesire.label>
+  <DrugDesire.description>crwdns460498:0crwdne460498:0</DrugDesire.description>
+  
+  <Food.label>crwdns460500:0crwdne460500:0</Food.label>
+  <Food.description>crwdns460502:0crwdne460502:0</Food.description>
+  
+  <Indoors.label>crwdns460504:0crwdne460504:0</Indoors.label>
+  <Indoors.description>crwdns460506:0crwdne460506:0</Indoors.description>
+  
+  <Joy.label>crwdns460508:0crwdne460508:0</Joy.label>
+  <Joy.description>crwdns460510:0crwdne460510:0</Joy.description>
+  
+  <Mood.label>crwdns460512:0crwdne460512:0</Mood.label>
+  <Mood.description>crwdns460514:0crwdne460514:0</Mood.description>
+  
+  <Outdoors.label>crwdns460516:0crwdne460516:0</Outdoors.label>
+  <Outdoors.description>crwdns460518:0crwdne460518:0</Outdoors.description>
+  
+  <Rest.label>crwdns460520:0crwdne460520:0</Rest.label>
+  <Rest.description>crwdns460522:0crwdne460522:0</Rest.description>
+  
+  <RoomSize.label>crwdns460524:0crwdne460524:0</RoomSize.label>
 </LanguageData>
