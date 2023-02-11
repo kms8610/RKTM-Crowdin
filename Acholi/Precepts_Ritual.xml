@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.label>crwdns445876:0crwdne445876:0</AnimaTreeLinking.label>
-  <AnimaTreeLinking.description>crwdns445878:0crwdne445878:0</AnimaTreeLinking.description>
-  
-  <ThroneSpeech.label>crwdns445880:0crwdne445880:0</ThroneSpeech.label>
-  <ThroneSpeech.description>crwdns445882:0{ORGANIZER_labelShort}crwdnd445882:0{ORGANIZER_possessive}crwdnd445882:0{ORGANIZER_labelShort}crwdnd445882:0{ORGANIZER_labelShort}crwdne445882:0</ThroneSpeech.description>
+  <Ritual.label>crwdns459642:0crwdne459642:0</Ritual.label>
 </LanguageData>
