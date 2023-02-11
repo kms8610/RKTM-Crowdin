@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_WakeUp.label>crwdns460534:0crwdne460534:0</Chemical_WakeUp.label>
-  <Chemical_WakeUp.description>crwdns460536:0crwdne460536:0</Chemical_WakeUp.description>
+  <WakeUp.label>crwdns474236:0crwdne474236:0</WakeUp.label>
+  <WakeUp.description>crwdns474238:0crwdne474238:0</WakeUp.description>
+  <WakeUp.ingestible.ingestCommandString>crwdns474240:0{0}crwdne474240:0</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestReportString>crwdns474242:0{0}crwdne474242:0</WakeUp.ingestible.ingestReportString>
 </LanguageData>
