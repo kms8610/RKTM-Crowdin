@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Proj_GrenadeEMP.label>crwdns473976:0crwdne473976:0</Proj_GrenadeEMP.label>
+  
+  <Proj_GrenadeFrag.label>crwdns473978:0crwdne473978:0</Proj_GrenadeFrag.label>
+  
+  <Proj_GrenadeMolotov.label>crwdns473980:0crwdne473980:0</Proj_GrenadeMolotov.label>
+  
+  <Weapon_GrenadeEMP.label>crwdns473982:0crwdne473982:0</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.description>crwdns473984:0crwdne473984:0</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>crwdns473986:0crwdne473986:0</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  
+  <Weapon_GrenadeFrag.label>crwdns473988:0crwdne473988:0</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.description>crwdns473990:0crwdne473990:0</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>crwdns473992:0crwdne473992:0</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  
+  <Weapon_GrenadeMolotov.label>crwdns473994:0crwdne473994:0</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.description>crwdns473996:0crwdne473996:0</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>crwdns473998:0crwdne473998:0</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+</LanguageData>
