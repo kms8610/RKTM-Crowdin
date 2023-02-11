@@ -1,11 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Charity_Essential.label>crwdns436286:0crwdne436286:0</Charity_Essential.label>
-  <Charity_Essential.description>crwdns436288:0crwdne436288:0</Charity_Essential.description>
+  <CharityFulfilled_Essential_Beggars.stages.beggars_helped.label>crwdns441290:0crwdne441290:0</CharityFulfilled_Essential_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Essential_Beggars.stages.beggars_helped.description>crwdns441292:0crwdne441292:0</CharityFulfilled_Essential_Beggars.stages.beggars_helped.description>
   
-  <Charity_Important.label>crwdns436290:0crwdne436290:0</Charity_Important.label>
-  <Charity_Important.description>crwdns436292:0crwdne436292:0</Charity_Important.description>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.label>crwdns441294:0crwdne441294:0</CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>crwdns441296:0crwdne441296:0</CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>
   
-  <Charity_Worthwhile.label>crwdns436294:0crwdne436294:0</Charity_Worthwhile.label>
-  <Charity_Worthwhile.description>crwdns436296:0crwdne436296:0</Charity_Worthwhile.description>
+  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>crwdns441298:0crwdne441298:0</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>crwdns441300:0crwdne441300:0</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.label>crwdns441302:0crwdne441302:0</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>crwdns441304:0crwdne441304:0</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>crwdns441306:0crwdne441306:0</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>crwdns441308:0crwdne441308:0</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>crwdns441310:0crwdne441310:0</CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>crwdns441312:0crwdne441312:0</CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.label>crwdns441314:0crwdne441314:0</CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.description>crwdns441316:0crwdne441316:0</CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityFulfilled_Important_Beggars.stages.beggars_helped.label>crwdns441318:0crwdne441318:0</CharityFulfilled_Important_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Important_Beggars.stages.beggars_helped.description>crwdns441320:0crwdne441320:0</CharityFulfilled_Important_Beggars.stages.beggars_helped.description>
+  
+  <CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.label>crwdns441322:0crwdne441322:0</CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>crwdns441324:0crwdne441324:0</CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>
+  
+  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>crwdns441326:0crwdne441326:0</CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>crwdns441328:0crwdne441328:0</CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>crwdns441330:0crwdne441330:0</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>crwdns441332:0crwdne441332:0</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>crwdns441334:0crwdne441334:0</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>crwdns441336:0crwdne441336:0</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>crwdns441338:0crwdne441338:0</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>crwdns441340:0crwdne441340:0</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>crwdns441342:0crwdne441342:0</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>crwdns441344:0crwdne441344:0</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>crwdns441346:0crwdne441346:0</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>crwdns441348:0crwdne441348:0</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>
+  
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>crwdns441350:0crwdne441350:0</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>crwdns441352:0crwdne441352:0</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>
+  
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>crwdns441354:0crwdne441354:0</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>crwdns441356:0crwdne441356:0</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>crwdns441358:0crwdne441358:0</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>crwdns441360:0crwdne441360:0</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>crwdns441362:0crwdne441362:0</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>crwdns441364:0crwdne441364:0</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>crwdns441366:0crwdne441366:0</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>crwdns441368:0crwdne441368:0</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>crwdns441370:0crwdne441370:0</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>crwdns441372:0crwdne441372:0</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>crwdns441374:0crwdne441374:0</CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Essential_Beggars.stages.beggars_not_helped.description>crwdns441376:0crwdne441376:0</CharityRefused_Essential_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.label>crwdns441378:0crwdne441378:0</CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>crwdns441380:0crwdne441380:0</CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>crwdns441382:0crwdne441382:0</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>crwdns441384:0crwdne441384:0</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>crwdns441386:0crwdne441386:0</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>crwdns441388:0crwdne441388:0</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>crwdns441390:0crwdne441390:0</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>crwdns441392:0crwdne441392:0</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>crwdns441394:0crwdne441394:0</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>crwdns441396:0crwdne441396:0</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crwdns441398:0crwdne441398:0</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>crwdns441400:0crwdne441400:0</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>crwdns441402:0crwdne441402:0</CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>crwdns441404:0crwdne441404:0</CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>crwdns441406:0crwdne441406:0</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>crwdns441408:0crwdne441408:0</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>crwdns441410:0crwdne441410:0</CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.description>crwdns441412:0crwdne441412:0</CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.description>
+  
+  <CharityRefused_Important_Beggars.stages.beggars_not_helped.label>crwdns441414:0crwdne441414:0</CharityRefused_Important_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Important_Beggars.stages.beggars_not_helped.description>crwdns441416:0crwdne441416:0</CharityRefused_Important_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.label>crwdns441418:0crwdne441418:0</CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>crwdns441420:0crwdne441420:0</CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>crwdns441422:0crwdne441422:0</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>crwdns441424:0crwdne441424:0</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>crwdns441426:0crwdne441426:0</CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>crwdns441428:0crwdne441428:0</CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>crwdns441430:0crwdne441430:0</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>crwdns441432:0crwdne441432:0</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>crwdns441434:0crwdne441434:0</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>crwdns441436:0crwdne441436:0</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crwdns441438:0crwdne441438:0</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>crwdns441440:0crwdne441440:0</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>crwdns441442:0crwdne441442:0</CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>crwdns441444:0crwdne441444:0</CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>crwdns441446:0crwdne441446:0</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>crwdns441448:0crwdne441448:0</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>crwdns441450:0crwdne441450:0</CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Important_WandererJoins.stages.wanderer_rejected.description>crwdns441452:0crwdne441452:0</CharityRefused_Important_WandererJoins.stages.wanderer_rejected.description>
+  
+  <CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.label>crwdns441454:0crwdne441454:0</CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.description>crwdns441456:0crwdne441456:0</CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.label>crwdns441458:0crwdne441458:0</CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>crwdns441460:0crwdne441460:0</CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>crwdns441462:0crwdne441462:0</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>crwdns441464:0crwdne441464:0</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>crwdns441466:0crwdne441466:0</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>crwdns441468:0crwdne441468:0</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>crwdns441470:0crwdne441470:0</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>crwdns441472:0crwdne441472:0</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>crwdns441474:0crwdne441474:0</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>crwdns441476:0crwdne441476:0</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>crwdns441478:0crwdne441478:0</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>crwdns441480:0crwdne441480:0</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>crwdns441482:0crwdne441482:0</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>crwdns441484:0crwdne441484:0</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>crwdns441486:0crwdne441486:0</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>crwdns441488:0crwdne441488:0</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>crwdns441490:0crwdne441490:0</CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.description>crwdns441492:0crwdne441492:0</CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.description>
 </LanguageData>
