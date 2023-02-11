@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Sophian.label>소피안</Sophian.label>
-  <Sophian.description>소피아문다 행성을 중심으로 하는 기술주의 봉건제 문화입니다.</Sophian.description>
+  <Astropolitan.label>아스트로폴리탄</Astropolitan.label>
+  <Astropolitan.description>우주 여행자들 사이에 흔한 문화 모음입니다.</Astropolitan.description>
+  
+  <Corunan.label>코루난</Corunan.label>
+  <Corunan.description>변경계 부족민들 사이에 흔한 고대 문화입니다.</Corunan.description>
+  
+  <Kriminul.label>크리미눌</Kriminul.label>
+  <Kriminul.description>다양한 해적 집단들의 모습과 관행을 모은 문화입니다.</Kriminul.description>
+  
+  <Rustican.label>루스티칸</Rustican.label>
+  <Rustican.description>변경계 이방인들 사이에 흔한 공업적 문화입니다.</Rustican.description>
 </LanguageData>
