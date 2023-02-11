@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Actor72.baseDesc>crwdns450420:0[PAWN_nameDef]crwdnd450420:0[PAWN_pronoun]crwdnd450420:0[PAWN_possessive]crwdnd450420:0[PAWN_pronoun]crwdne450420:0</Actor72.baseDesc>
+  <Actor72.title>crwdns450422:0crwdne450422:0</Actor72.title>
+  <Actor72.titleShort>crwdns450424:0crwdne450424:0</Actor72.titleShort>
+  
+  <AnimalFarmer21.baseDesc>crwdns450426:0[PAWN_nameDef]crwdne450426:0</AnimalFarmer21.baseDesc>
+  <AnimalFarmer21.title>crwdns450428:0crwdne450428:0</AnimalFarmer21.title>
+  <AnimalFarmer21.titleShort>crwdns450430:0crwdne450430:0</AnimalFarmer21.titleShort>
+  
+  <AsceticPriest84.baseDesc>crwdns450432:0[PAWN_nameDef]crwdnd450432:0[PAWN_possessive]crwdnd450432:0[PAWN_pronoun]crwdne450432:0</AsceticPriest84.baseDesc>
+  <AsceticPriest84.title>crwdns450434:0crwdne450434:0</AsceticPriest84.title>
+  <AsceticPriest84.titleShort>crwdns450436:0crwdne450436:0</AsceticPriest84.titleShort>
+  
+  <Bartender62.baseDesc>crwdns450438:0[PAWN_nameDef]crwdne450438:0</Bartender62.baseDesc>
+  <Bartender62.title>crwdns450440:0crwdne450440:0</Bartender62.title>
+  <Bartender62.titleShort>crwdns450442:0crwdne450442:0</Bartender62.titleShort>
+  
+  <Bodyguard58.baseDesc>crwdns450444:0[PAWN_nameDef]crwdnd450444:0[PAWN_objective]crwdnd450444:0[PAWN_pronoun]crwdnd450444:0[PAWN_possessive]crwdnd450444:0[PAWN_objective]crwdne450444:0</Bodyguard58.baseDesc>
+  <Bodyguard58.title>crwdns450446:0crwdne450446:0</Bodyguard58.title>
+  <Bodyguard58.titleShort>crwdns450448:0crwdne450448:0</Bodyguard58.titleShort>
+  
+  <CaveExplorer45.baseDesc>crwdns450450:0[PAWN_nameDef]crwdnd450450:0[PAWN_possessive]crwdne450450:0</CaveExplorer45.baseDesc>
+  <CaveExplorer45.title>crwdns450452:0crwdne450452:0</CaveExplorer45.title>
+  <CaveExplorer45.titleShort>crwdns450454:0crwdne450454:0</CaveExplorer45.titleShort>
+  
+  <Chef52.baseDesc>crwdns450456:0[PAWN_nameDef]crwdnd450456:0[PAWN_pronoun]crwdnd450456:0[PAWN_possessive]crwdnd450456:0[PAWN_possessive]crwdne450456:0</Chef52.baseDesc>
+  <Chef52.title>crwdns450458:0crwdne450458:0</Chef52.title>
+  <Chef52.titleShort>crwdns450460:0crwdne450460:0</Chef52.titleShort>
+  
+  <CivilServant2.baseDesc>crwdns450462:0[PAWN_nameDef]crwdnd450462:0[PAWN_pronoun]crwdne450462:0</CivilServant2.baseDesc>
+  <CivilServant2.title>crwdns450464:0crwdne450464:0</CivilServant2.title>
+  <CivilServant2.titleShort>crwdns450466:0crwdne450466:0</CivilServant2.titleShort>
+  
+  <ConArtist80.baseDesc>crwdns450468:0[PAWN_nameDef]crwdnd450468:0[PAWN_possessive]crwdnd450468:0[PAWN_pronoun]crwdnd450468:0[PAWN_objective]crwdne450468:0</ConArtist80.baseDesc>
+  <ConArtist80.title>crwdns450470:0crwdne450470:0</ConArtist80.title>
+  <ConArtist80.titleShort>crwdns450472:0crwdne450472:0</ConArtist80.titleShort>
+  
+  <ConceptualArtist39.baseDesc>crwdns450474:0[PAWN_nameDef]crwdnd450474:0[PAWN_possessive]crwdnd450474:0[PAWN_possessive]crwdnd450474:0[PAWN_pronoun]crwdnd450474:0[PAWN_possessive]crwdne450474:0</ConceptualArtist39.baseDesc>
+  <ConceptualArtist39.title>crwdns450476:0crwdne450476:0</ConceptualArtist39.title>
+  <ConceptualArtist39.titleShort>crwdns450478:0crwdne450478:0</ConceptualArtist39.titleShort>
+  
+  <ConstructionEngineer32.baseDesc>crwdns450480:0[PAWN_nameDef]crwdnd450480:0[PAWN_pronoun]crwdnd450480:0[PAWN_possessive]crwdnd450480:0[PAWN_pronoun]crwdnd450480:0[PAWN_objective]crwdne450480:0</ConstructionEngineer32.baseDesc>
+  <ConstructionEngineer32.title>crwdns450482:0crwdne450482:0</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleShort>crwdns450484:0crwdne450484:0</ConstructionEngineer32.titleShort>
+  
+  <ContractMiner86.baseDesc>crwdns450486:0[PAWN_nameDef]crwdnd450486:0[PAWN_pronoun]crwdne450486:0</ContractMiner86.baseDesc>
+  <ContractMiner86.title>crwdns450488:0crwdne450488:0</ContractMiner86.title>
+  <ContractMiner86.titleShort>crwdns450490:0crwdne450490:0</ContractMiner86.titleShort>
+  
+  <CorporateManager76.baseDesc>crwdns450492:0[PAWN_nameDef]crwdnd450492:0[PAWN_possessive]crwdnd450492:0[PAWN_nameDef]crwdnd450492:0[PAWN_pronoun]crwdne450492:0</CorporateManager76.baseDesc>
+  <CorporateManager76.title>crwdns450494:0crwdne450494:0</CorporateManager76.title>
+  <CorporateManager76.titleShort>crwdns450496:0crwdne450496:0</CorporateManager76.titleShort>
+  
+  <Counselor26.baseDesc>crwdns450498:0[PAWN_nameDef]crwdnd450498:0[PAWN_objective]crwdnd450498:0[PAWN_pronoun]crwdnd450498:0[PAWN_possessive]crwdne450498:0</Counselor26.baseDesc>
+  <Counselor26.title>crwdns450500:0crwdne450500:0</Counselor26.title>
+  <Counselor26.titleShort>crwdns450502:0crwdne450502:0</Counselor26.titleShort>
+  
+  <CropFarmer17.baseDesc>crwdns450504:0[PAWN_nameDef]crwdnd450504:0[PAWN_pronoun]crwdne450504:0</CropFarmer17.baseDesc>
+  <CropFarmer17.title>crwdns450506:0crwdne450506:0</CropFarmer17.title>
+  <CropFarmer17.titleShort>crwdns450508:0crwdne450508:0</CropFarmer17.titleShort>
+  
+  <Defector78.baseDesc>crwdns450510:0[PAWN_possessive]crwdnd450510:0[PAWN_nameDef]crwdnd450510:0[PAWN_pronoun]crwdnd450510:0[PAWN_possessive]crwdnd450510:0[PAWN_objective]crwdnd450510:0[PAWN_pronoun]crwdnd450510:0[PAWN_possessive]crwdnd450510:0[PAWN_objective]crwdnd450510:0[PAWN_objective]crwdne450510:0</Defector78.baseDesc>
+  <Defector78.title>crwdns450512:0crwdne450512:0</Defector78.title>
+  <Defector78.titleShort>crwdns450514:0crwdne450514:0</Defector78.titleShort>
+  
+  <Drifter67.baseDesc>crwdns450516:0[PAWN_nameDef]crwdnd450516:0[PAWN_possessive]crwdnd450516:0[PAWN_pronoun]crwdnd450516:0[PAWN_pronoun]crwdnd450516:0[PAWN_pronoun]crwdnd450516:0[PAWN_pronoun]crwdnd450516:0[PAWN_pronoun]crwdne450516:0</Drifter67.baseDesc>
+  <Drifter67.title>crwdns450518:0crwdne450518:0</Drifter67.title>
+  <Drifter67.titleShort>crwdns450520:0crwdne450520:0</Drifter67.titleShort>
+  
+  <EscapedConvict90.baseDesc>crwdns450522:0[PAWN_nameDef]crwdnd450522:0[PAWN_possessive]crwdnd450522:0[PAWN_pronoun]crwdne450522:0</EscapedConvict90.baseDesc>
+  <EscapedConvict90.title>crwdns450524:0crwdne450524:0</EscapedConvict90.title>
+  <EscapedConvict90.titleShort>crwdns450526:0crwdne450526:0</EscapedConvict90.titleShort>
+  
+  <Evangelist39.baseDesc>crwdns450528:0[PAWN_nameDef]crwdnd450528:0[PAWN_pronoun]crwdnd450528:0[PAWN_possessive]crwdnd450528:0[PAWN_possessive]crwdne450528:0</Evangelist39.baseDesc>
+  <Evangelist39.title>crwdns450530:0crwdne450530:0</Evangelist39.title>
+  <Evangelist39.titleShort>crwdns450532:0crwdne450532:0</Evangelist39.titleShort>
+  
+  <ExplosivesExpert26.baseDesc>crwdns450534:0[PAWN_nameDef]crwdnd450534:0[PAWN_pronoun]crwdnd450534:0[PAWN_possessive]crwdnd450534:0[PAWN_pronoun]crwdnd450534:0[PAWN_objective]crwdnd450534:0[PAWN_possessive]crwdne450534:0</ExplosivesExpert26.baseDesc>
+  <ExplosivesExpert26.title>crwdns450536:0crwdne450536:0</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleShort>crwdns450538:0crwdne450538:0</ExplosivesExpert26.titleShort>
+  
+  <Forester96.baseDesc>crwdns450540:0[PAWN_nameDef]crwdnd450540:0[PAWN_pronoun]crwdne450540:0</Forester96.baseDesc>
+  <Forester96.title>crwdns450542:0crwdne450542:0</Forester96.title>
+  <Forester96.titleShort>crwdns450544:0crwdne450544:0</Forester96.titleShort>
+  
+  <FurnitureBuilder83.baseDesc>crwdns450546:0[PAWN_nameDef]crwdnd450546:0[PAWN_pronoun]crwdnd450546:0[PAWN_possessive]crwdne450546:0</FurnitureBuilder83.baseDesc>
+  <FurnitureBuilder83.title>crwdns450548:0crwdne450548:0</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleShort>crwdns450550:0crwdne450550:0</FurnitureBuilder83.titleShort>
+  
+  <Gardener99.baseDesc>crwdns450552:0[PAWN_nameDef]crwdne450552:0</Gardener99.baseDesc>
+  <Gardener99.title>crwdns450554:0crwdne450554:0</Gardener99.title>
+  <Gardener99.titleShort>crwdns450556:0crwdne450556:0</Gardener99.titleShort>
+  
+  <Geologist66.baseDesc>crwdns450558:0[PAWN_nameDef]crwdnd450558:0[PAWN_possessive]crwdnd450558:0[PAWN_pronoun]crwdne450558:0</Geologist66.baseDesc>
+  <Geologist66.title>crwdns450560:0crwdne450560:0</Geologist66.title>
+  <Geologist66.titleShort>crwdns450562:0crwdne450562:0</Geologist66.titleShort>
+  
+  <HouseServant63.baseDesc>crwdns450564:0[PAWN_nameDef]crwdnd450564:0[PAWN_pronoun]crwdnd450564:0[PAWN_possessive]crwdne450564:0</HouseServant63.baseDesc>
+  <HouseServant63.title>crwdns450566:0crwdne450566:0</HouseServant63.title>
+  <HouseServant63.titleShort>crwdns450568:0crwdne450568:0</HouseServant63.titleShort>
+  
+  <Housemate8.baseDesc>crwdns450570:0[PAWN_nameDef]crwdnd450570:0[PAWN_possessive]crwdne450570:0</Housemate8.baseDesc>
+  <Housemate8.title>crwdns450572:0crwdne450572:0</Housemate8.title>
+  <Housemate8.titleFemale>crwdns450574:0crwdne450574:0</Housemate8.titleFemale>
+  <Housemate8.titleShort>crwdns450576:0crwdne450576:0</Housemate8.titleShort>
+  <Housemate8.titleShortFemale>crwdns450578:0crwdne450578:0</Housemate8.titleShortFemale>
+  
+  <Hunter89.baseDesc>crwdns450580:0[PAWN_nameDef]crwdnd450580:0[PAWN_possessive]crwdnd450580:0[PAWN_objective]crwdne450580:0</Hunter89.baseDesc>
+  <Hunter89.title>crwdns450582:0crwdne450582:0</Hunter89.title>
+  <Hunter89.titleShort>crwdns450584:0crwdne450584:0</Hunter89.titleShort>
+  
+  <Inventor6.baseDesc>crwdns450586:0[PAWN_possessive]crwdnd450586:0[PAWN_nameDef]crwdnd450586:0[PAWN_pronoun]crwdne450586:0</Inventor6.baseDesc>
+  <Inventor6.title>crwdns450588:0crwdne450588:0</Inventor6.title>
+  <Inventor6.titleShort>crwdns450590:0crwdne450590:0</Inventor6.titleShort>
+  
+  <Jailbird40.baseDesc>crwdns450592:0[PAWN_nameDef]crwdnd450592:0[PAWN_possessive]crwdnd450592:0[PAWN_pronoun]crwdnd450592:0[PAWN_pronoun]crwdne450592:0</Jailbird40.baseDesc>
+  <Jailbird40.title>crwdns450594:0crwdne450594:0</Jailbird40.title>
+  <Jailbird40.titleShort>crwdns450596:0crwdne450596:0</Jailbird40.titleShort>
+  
+  <LivestockFarmer8.baseDesc>crwdns450598:0[PAWN_nameDef]crwdnd450598:0[PAWN_pronoun]crwdne450598:0</LivestockFarmer8.baseDesc>
+  <LivestockFarmer8.title>crwdns450600:0crwdne450600:0</LivestockFarmer8.title>
+  <LivestockFarmer8.titleShort>crwdns450602:0crwdne450602:0</LivestockFarmer8.titleShort>
+  
+  <Logger95.baseDesc>crwdns450604:0[PAWN_nameDef]crwdnd450604:0[PAWN_pronoun]crwdne450604:0</Logger95.baseDesc>
+  <Logger95.title>crwdns450606:0crwdne450606:0</Logger95.title>
+  <Logger95.titleShort>crwdns450608:0crwdne450608:0</Logger95.titleShort>
+  
+  <LowWageWorker7.baseDesc>crwdns450610:0[PAWN_nameDef]crwdnd450610:0[PAWN_possessive]crwdne450610:0</LowWageWorker7.baseDesc>
+  <LowWageWorker7.title>crwdns450612:0crwdne450612:0</LowWageWorker7.title>
+  <LowWageWorker7.titleShort>crwdns450614:0crwdne450614:0</LowWageWorker7.titleShort>
+  
+  <MachineCollector55.baseDesc>crwdns450616:0[PAWN_nameDef]crwdnd450616:0[PAWN_pronoun]crwdnd450616:0[PAWN_pronoun]crwdnd450616:0[PAWN_pronoun]crwdnd450616:0[PAWN_possessive]crwdnd450616:0[PAWN_objective]crwdne450616:0</MachineCollector55.baseDesc>
+  <MachineCollector55.title>crwdns450618:0crwdne450618:0</MachineCollector55.title>
+  <MachineCollector55.titleShort>crwdns450620:0crwdne450620:0</MachineCollector55.titleShort>
+  
+  <Mathematician6.baseDesc>crwdns450622:0[PAWN_nameDef]crwdnd450622:0[PAWN_pronoun]crwdnd450622:0[PAWN_possessive]crwdnd450622:0[PAWN_pronoun]crwdnd450622:0[PAWN_possessive]crwdne450622:0</Mathematician6.baseDesc>
+  <Mathematician6.title>crwdns450624:0crwdne450624:0</Mathematician6.title>
+  <Mathematician6.titleShort>crwdns450626:0crwdne450626:0</Mathematician6.titleShort>
+  
+  <Model99.baseDesc>crwdns450628:0[PAWN_nameDef]crwdne450628:0</Model99.baseDesc>
+  <Model99.title>crwdns450630:0crwdne450630:0</Model99.title>
+  <Model99.titleShort>crwdns450632:0crwdne450632:0</Model99.titleShort>
+  
+  <Nurse61.baseDesc>crwdns450634:0[PAWN_nameDef]crwdnd450634:0[PAWN_pronoun]crwdne450634:0</Nurse61.baseDesc>
+  <Nurse61.title>crwdns450636:0crwdne450636:0</Nurse61.title>
+  <Nurse61.titleShort>crwdns450638:0crwdne450638:0</Nurse61.titleShort>
+  
+  <Paramedic45.baseDesc>crwdns450640:0[PAWN_nameDef]crwdnd450640:0[PAWN_pronoun]crwdnd450640:0[PAWN_pronoun]crwdnd450640:0[PAWN_objective]crwdne450640:0</Paramedic45.baseDesc>
+  <Paramedic45.title>crwdns450642:0crwdne450642:0</Paramedic45.title>
+  <Paramedic45.titleShort>crwdns450644:0crwdne450644:0</Paramedic45.titleShort>
+  
+  <Policeman45.baseDesc>crwdns450646:0[PAWN_nameDef]crwdnd450646:0[PAWN_pronoun]crwdne450646:0</Policeman45.baseDesc>
+  <Policeman45.title>crwdns450648:0crwdne450648:0</Policeman45.title>
+  <Policeman45.titleFemale>crwdns450650:0crwdne450650:0</Policeman45.titleFemale>
+  <Policeman45.titleShort>crwdns450652:0crwdne450652:0</Policeman45.titleShort>
+  <Policeman45.titleShortFemale>crwdns450654:0crwdne450654:0</Policeman45.titleShortFemale>
+  
+  <QuarryWorker29.baseDesc>crwdns450656:0[PAWN_nameDef]crwdnd450656:0[PAWN_pronoun]crwdne450656:0</QuarryWorker29.baseDesc>
+  <QuarryWorker29.title>crwdns450658:0crwdne450658:0</QuarryWorker29.title>
+  <QuarryWorker29.titleShort>crwdns450660:0crwdne450660:0</QuarryWorker29.titleShort>
+  
+  <Rancher43.baseDesc>crwdns450662:0[PAWN_nameDef]crwdnd450662:0[PAWN_pronoun]crwdnd450662:0[PAWN_pronoun]crwdnd450662:0[PAWN_pronoun]crwdnd450662:0[PAWN_objective]crwdne450662:0</Rancher43.baseDesc>
+  <Rancher43.title>crwdns450664:0crwdne450664:0</Rancher43.title>
+  <Rancher43.titleShort>crwdns450666:0crwdne450666:0</Rancher43.titleShort>
+  
+  <Ranger96.baseDesc>crwdns450668:0[PAWN_nameDef]crwdnd450668:0[PAWN_pronoun]crwdne450668:0</Ranger96.baseDesc>
+  <Ranger96.title>crwdns450670:0crwdne450670:0</Ranger96.title>
+  <Ranger96.titleShort>crwdns450672:0crwdne450672:0</Ranger96.titleShort>
+  
+  <Recruiter14.baseDesc>crwdns450674:0[PAWN_nameDef]crwdnd450674:0[PAWN_pronoun]crwdnd450674:0[PAWN_possessive]crwdnd450674:0[PAWN_pronoun]crwdne450674:0</Recruiter14.baseDesc>
+  <Recruiter14.title>crwdns450676:0crwdne450676:0</Recruiter14.title>
+  <Recruiter14.titleShort>crwdns450678:0crwdne450678:0</Recruiter14.titleShort>
+  
+  <Slaughterer58.baseDesc>crwdns450680:0[PAWN_nameDef]crwdne450680:0</Slaughterer58.baseDesc>
+  <Slaughterer58.title>crwdns450682:0crwdne450682:0</Slaughterer58.title>
+  <Slaughterer58.titleShort>crwdns450684:0crwdne450684:0</Slaughterer58.titleShort>
+  
+  <Teacher20.baseDesc>crwdns450686:0[PAWN_nameDef]crwdnd450686:0[PAWN_pronoun]crwdnd450686:0[PAWN_possessive]crwdne450686:0</Teacher20.baseDesc>
+  <Teacher20.title>crwdns450688:0crwdne450688:0</Teacher20.title>
+  <Teacher20.titleShort>crwdns450690:0crwdne450690:0</Teacher20.titleShort>
+  
+  <Torturer37.baseDesc>crwdns450692:0[PAWN_nameDef]crwdnd450692:0[PAWN_nameDef]crwdne450692:0</Torturer37.baseDesc>
+  <Torturer37.title>crwdns450694:0crwdne450694:0</Torturer37.title>
+  <Torturer37.titleShort>crwdns450696:0crwdne450696:0</Torturer37.titleShort>
+  
+  <Veterinarian99.baseDesc>crwdns450698:0[PAWN_nameDef]crwdnd450698:0[PAWN_possessive]crwdnd450698:0[PAWN_pronoun]crwdne450698:0</Veterinarian99.baseDesc>
+  <Veterinarian99.title>crwdns450700:0crwdne450700:0</Veterinarian99.title>
+  <Veterinarian99.titleShort>crwdns450702:0crwdne450702:0</Veterinarian99.titleShort>
+</LanguageData>
