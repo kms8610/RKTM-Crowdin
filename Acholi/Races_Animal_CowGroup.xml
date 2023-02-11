@@ -1,57 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bison.label>crwdns460806:0crwdne460806:0</Bison.label>
-  <Bison.lifeStages.bison_calf.label>crwdns460808:0crwdne460808:0</Bison.lifeStages.bison_calf.label>
-  <Bison.lifeStages.bison_calf.labelPlural>crwdns460810:0crwdne460810:0</Bison.lifeStages.bison_calf.labelPlural>
+  <Bison.label>crwdns473298:0crwdne473298:0</Bison.label>
+  <Bison.description>crwdns473300:0crwdne473300:0</Bison.description>
+  <Bison.tools.head.label>crwdns473302:0crwdne473302:0</Bison.tools.head.label>
+  <Bison.tools.left_hoof.label>crwdns473304:0crwdne473304:0</Bison.tools.left_hoof.label>
+  <Bison.tools.right_hoof.label>crwdns473306:0crwdne473306:0</Bison.tools.right_hoof.label>
   
-  <Boomalope.label>crwdns460812:0crwdne460812:0</Boomalope.label>
-  <Boomalope.lifeStages.boomalope_calf.label>crwdns460814:0crwdne460814:0</Boomalope.lifeStages.boomalope_calf.label>
-  <Boomalope.lifeStages.boomalope_calf.labelPlural>crwdns460816:0crwdne460816:0</Boomalope.lifeStages.boomalope_calf.labelPlural>
+  <Boomalope.label>crwdns473308:0crwdne473308:0</Boomalope.label>
+  <Boomalope.description>crwdns473310:0crwdne473310:0</Boomalope.description>
+  <Boomalope.tools.head.label>crwdns473312:0crwdne473312:0</Boomalope.tools.head.label>
+  <Boomalope.tools.left_hoof.label>crwdns473314:0crwdne473314:0</Boomalope.tools.left_hoof.label>
+  <Boomalope.tools.right_hoof.label>crwdns473316:0crwdne473316:0</Boomalope.tools.right_hoof.label>
   
-  <Caribou.label>crwdns460818:0crwdne460818:0</Caribou.label>
-  <Caribou.labelPlural>crwdns460820:0crwdne460820:0</Caribou.labelPlural>
-  <Caribou.lifeStages.caribou_calf.label>crwdns460822:0crwdne460822:0</Caribou.lifeStages.caribou_calf.label>
-  <Caribou.lifeStages.caribou_calf.labelPlural>crwdns460824:0crwdne460824:0</Caribou.lifeStages.caribou_calf.labelPlural>
+  <Caribou.label>crwdns473318:0crwdne473318:0</Caribou.label>
+  <Caribou.description>crwdns473320:0crwdne473320:0</Caribou.description>
+  <Caribou.tools.left_hoof.label>crwdns473322:0crwdne473322:0</Caribou.tools.left_hoof.label>
+  <Caribou.tools.right_hoof.label>crwdns473324:0crwdne473324:0</Caribou.tools.right_hoof.label>
+  <Caribou.tools.head.label>crwdns473326:0crwdne473326:0</Caribou.tools.head.label>
   
-  <Cow.label>crwdns460826:0crwdne460826:0</Cow.label>
-  <Cow.labelMale>crwdns460828:0crwdne460828:0</Cow.labelMale>
-  <Cow.lifeStages.calf.label>crwdns460830:0crwdne460830:0</Cow.lifeStages.calf.label>
-  <Cow.lifeStages.calf.labelPlural>crwdns460832:0crwdne460832:0</Cow.lifeStages.calf.labelPlural>
+  <Cow.label>crwdns473328:0crwdne473328:0</Cow.label>
+  <Cow.description>crwdns473330:0crwdne473330:0</Cow.description>
+  <Cow.race.meatLabel>crwdns473332:0crwdne473332:0</Cow.race.meatLabel>
+  <Cow.tools.head.label>crwdns473334:0crwdne473334:0</Cow.tools.head.label>
+  <Cow.tools.left_hoof.label>crwdns473336:0crwdne473336:0</Cow.tools.left_hoof.label>
+  <Cow.tools.right_hoof.label>crwdns473338:0crwdne473338:0</Cow.tools.right_hoof.label>
   
-  <Donkey.label>crwdns460834:0crwdne460834:0</Donkey.label>
-  <Donkey.lifeStages.donkey_foal.label>crwdns460836:0crwdne460836:0</Donkey.lifeStages.donkey_foal.label>
+  <Donkey.label>crwdns473340:0crwdne473340:0</Donkey.label>
+  <Donkey.description>crwdns473342:0crwdne473342:0</Donkey.description>
+  <Donkey.tools.head.label>crwdns473344:0crwdne473344:0</Donkey.tools.head.label>
+  <Donkey.tools.left_hoof.label>crwdns473346:0crwdne473346:0</Donkey.tools.left_hoof.label>
+  <Donkey.tools.right_hoof.label>crwdns473348:0crwdne473348:0</Donkey.tools.right_hoof.label>
   
-  <Dromedary.label>crwdns460838:0crwdne460838:0</Dromedary.label>
-  <Dromedary.labelPlural>crwdns460840:0crwdne460840:0</Dromedary.labelPlural>
-  <Dromedary.lifeStages.dromedary_calf.label>crwdns460842:0crwdne460842:0</Dromedary.lifeStages.dromedary_calf.label>
-  <Dromedary.lifeStages.dromedary_calf.labelPlural>crwdns460844:0crwdne460844:0</Dromedary.lifeStages.dromedary_calf.labelPlural>
+  <Dromedary.label>crwdns473350:0crwdne473350:0</Dromedary.label>
+  <Dromedary.description>crwdns473352:0crwdne473352:0</Dromedary.description>
+  <Dromedary.tools.left_hoof.label>crwdns473354:0crwdne473354:0</Dromedary.tools.left_hoof.label>
+  <Dromedary.tools.right_hoof.label>crwdns473356:0crwdne473356:0</Dromedary.tools.right_hoof.label>
+  <Dromedary.tools.head.label>crwdns473358:0crwdne473358:0</Dromedary.tools.head.label>
   
-  <Elephant.label>crwdns460846:0crwdne460846:0</Elephant.label>
-  <Elephant.lifeStages.elephant_calf.label>crwdns460848:0crwdne460848:0</Elephant.lifeStages.elephant_calf.label>
+  <Elephant.label>crwdns473360:0crwdne473360:0</Elephant.label>
+  <Elephant.description>crwdns473362:0crwdne473362:0</Elephant.description>
+  <Elephant.tools.tusk.label>crwdns473364:0crwdne473364:0</Elephant.tools.tusk.label>
+  <Elephant.tools.left_foot.label>crwdns473366:0crwdne473366:0</Elephant.tools.left_foot.label>
+  <Elephant.tools.right_foot.label>crwdns473368:0crwdne473368:0</Elephant.tools.right_foot.label>
+  <Elephant.tools.head.label>crwdns473370:0crwdne473370:0</Elephant.tools.head.label>
   
-  <Elk.label>crwdns460850:0crwdne460850:0</Elk.label>
-  <Elk.labelPlural>crwdns460852:0crwdne460852:0</Elk.labelPlural>
-  <Elk.lifeStages.elk_calf.label>crwdns460854:0crwdne460854:0</Elk.lifeStages.elk_calf.label>
-  <Elk.lifeStages.elk_calf.labelPlural>crwdns460856:0crwdne460856:0</Elk.lifeStages.elk_calf.labelPlural>
+  <Elk.label>crwdns473372:0crwdne473372:0</Elk.label>
+  <Elk.description>crwdns473374:0crwdne473374:0</Elk.description>
+  <Elk.tools.left_hoof.label>crwdns473376:0crwdne473376:0</Elk.tools.left_hoof.label>
+  <Elk.tools.right_hoof.label>crwdns473378:0crwdne473378:0</Elk.tools.right_hoof.label>
+  <Elk.tools.head.label>crwdns473380:0crwdne473380:0</Elk.tools.head.label>
   
-  <Goat.label>crwdns460858:0crwdne460858:0</Goat.label>
-  <Goat.labelFemale>crwdns460860:0crwdne460860:0</Goat.labelFemale>
-  <Goat.lifeStages.baby_goat.label>crwdns460862:0crwdne460862:0</Goat.lifeStages.baby_goat.label>
+  <Goat.label>crwdns473382:0crwdne473382:0</Goat.label>
+  <Goat.description>crwdns473384:0crwdne473384:0</Goat.description>
+  <Goat.tools.head.label>crwdns473386:0crwdne473386:0</Goat.tools.head.label>
   
-  <Horse.label>crwdns460864:0crwdne460864:0</Horse.label>
-  <Horse.labelFemale>crwdns460866:0crwdne460866:0</Horse.labelFemale>
-  <Horse.labelMale>crwdns460868:0crwdne460868:0</Horse.labelMale>
-  <Horse.lifeStages.foal.label>crwdns460870:0crwdne460870:0</Horse.lifeStages.foal.label>
+  <Horse.label>crwdns473388:0crwdne473388:0</Horse.label>
+  <Horse.description>crwdns473390:0crwdne473390:0</Horse.description>
+  <Horse.race.meatLabel>crwdns473392:0crwdne473392:0</Horse.race.meatLabel>
+  <Horse.tools.head.label>crwdns473394:0crwdne473394:0</Horse.tools.head.label>
+  <Horse.tools.left_hoof.label>crwdns473396:0crwdne473396:0</Horse.tools.left_hoof.label>
+  <Horse.tools.right_hoof.label>crwdns473398:0crwdne473398:0</Horse.tools.right_hoof.label>
   
-  <Muffalo.label>crwdns460872:0crwdne460872:0</Muffalo.label>
-  <Muffalo.lifeStages.muffalo_calf.label>crwdns460874:0crwdne460874:0</Muffalo.lifeStages.muffalo_calf.label>
-  <Muffalo.lifeStages.muffalo_calf.labelPlural>crwdns460876:0crwdne460876:0</Muffalo.lifeStages.muffalo_calf.labelPlural>
+  <Muffalo.label>crwdns473400:0crwdne473400:0</Muffalo.label>
+  <Muffalo.description>crwdns473402:0crwdne473402:0</Muffalo.description>
+  <Muffalo.tools.head.label>crwdns473404:0crwdne473404:0</Muffalo.tools.head.label>
+  <Muffalo.tools.left_hoof.label>crwdns473406:0crwdne473406:0</Muffalo.tools.left_hoof.label>
+  <Muffalo.tools.right_hoof.label>crwdns473408:0crwdne473408:0</Muffalo.tools.right_hoof.label>
   
-  <Rhinoceros.label>crwdns460878:0crwdne460878:0</Rhinoceros.label>
-  <Rhinoceros.labelPlural>crwdns460880:0crwdne460880:0</Rhinoceros.labelPlural>
+  <Rhinoceros.label>crwdns473410:0crwdne473410:0</Rhinoceros.label>
+  <Rhinoceros.description>crwdns473412:0crwdne473412:0</Rhinoceros.description>
+  <Rhinoceros.tools.horn-0.label>crwdns473414:0crwdne473414:0</Rhinoceros.tools.horn-0.label>
+  <Rhinoceros.tools.horn-1.label>crwdns473416:0crwdne473416:0</Rhinoceros.tools.horn-1.label>
+  <Rhinoceros.tools.head.label>crwdns473418:0crwdne473418:0</Rhinoceros.tools.head.label>
   
-  <Yak.label>crwdns460882:0crwdne460882:0</Yak.label>
-  <Yak.labelMale>crwdns460884:0crwdne460884:0</Yak.labelMale>
-  <Yak.lifeStages.yak_calf.label>crwdns460886:0crwdne460886:0</Yak.lifeStages.yak_calf.label>
-  <Yak.lifeStages.yak_calf.labelPlural>crwdns460888:0crwdne460888:0</Yak.lifeStages.yak_calf.labelPlural>
+  <Yak.label>crwdns473420:0crwdne473420:0</Yak.label>
+  <Yak.description>crwdns473422:0crwdne473422:0</Yak.description>
+  <Yak.race.meatLabel>crwdns473424:0crwdne473424:0</Yak.race.meatLabel>
+  <Yak.tools.head.label>crwdns473426:0crwdne473426:0</Yak.tools.head.label>
+  <Yak.tools.left_hoof.label>crwdns473428:0crwdne473428:0</Yak.tools.left_hoof.label>
+  <Yak.tools.right_hoof.label>crwdns473430:0crwdne473430:0</Yak.tools.right_hoof.label>
 </LanguageData>
