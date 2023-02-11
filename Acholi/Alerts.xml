@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AlertMechLacksOverseer>crwdns428732:0crwdne428732:0</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>crwdns428734:0{0}crwdne428734:0</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>crwdns428736:0crwdne428736:0</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>crwdns428738:0crwdne428738:0</AlertMechLacksOverseerMayGoFeral>
+
+  <AlertWarqueenHasLowResources>crwdns428740:0{0}crwdne428740:0</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>crwdns428742:0{0}crwdne428742:0</AlertWarqueenHasLowResourcesDesc>
+
+  <AlertLowDeathrestPawn>crwdns428744:0{PAWN}crwdne428744:0</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>crwdns428746:0{NUMCULPRITS}crwdne428746:0</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>crwdns428748:0{CULPRITS}crwdne428748:0</AlertLowDeathrestDesc>
+
+  <AlertLowHemogen>crwdns428750:0crwdne428750:0</AlertLowHemogen>
+  <AlertLowHemogenDesc>crwdns428752:0crwdne428752:0</AlertLowHemogenDesc>
+
+  <AlertRechargerFull>crwdns428754:0crwdne428754:0</AlertRechargerFull>
+  <AlertRechargerFullDesc>crwdns428756:0crwdne428756:0</AlertRechargerFullDesc>
+
+  <AlertNeedMechChargers>crwdns428758:0crwdne428758:0</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>crwdns428760:0{0}crwdne428760:0</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>crwdns428762:0crwdne428762:0</AlertNeedMechChargerBasicMechtech>
+
+  <AlertReimplantationAvailable>crwdns428764:0crwdne428764:0</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>crwdns428766:0{0_nameDef}crwdnd428766:0{0_possessive}crwdne428766:0</AlertReimplantationAvailableDesc>
+
+  <AlertLowBabyFood>crwdns428768:0crwdne428768:0</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>crwdns428770:0{0}crwdnd428770:0{1}crwdnd428770:0{2}crwdne428770:0</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>crwdns428772:0crwdne428772:0</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>crwdns428774:0{FACTION_pawnsPlural}crwdnd428774:0{FACTION_pawnsPlural}crwdnd428774:0{FACTION_pawnSingular}crwdne428774:0</AlertNoBabyFeederDesc>
+  <AlertAbandonedBaby>crwdns428776:0crwdne428776:0</AlertAbandonedBaby> <!-- text_todo -->
+  <AlertAbandonedBabyDesc>crwdns428778:0{0}crwdne428778:0</AlertAbandonedBabyDesc> <!-- text_todo -->
+
+  <AlertNoBabyFoodCaravan>crwdns428780:0crwdne428780:0</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>crwdns428782:0{FACTION_pawnsPlural}crwdne428782:0</AlertNoBabyFoodCaravanDesc>
+
+  <AlertToxicBuildup>crwdns428784:0crwdne428784:0</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>crwdns428786:0{0}crwdne428786:0</AlertToxicBuildupDesc>
+
+  <AlertNeedBabyCribs>crwdns428788:0crwdne428788:0</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>crwdns428790:0crwdne428790:0</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>crwdns428792:0crwdne428792:0</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribsDesc>crwdns428794:0crwdne428794:0</AlertNeedSlaveCribsDesc>
+
+  <AlertPollutedTerrain>crwdns428796:0crwdne428796:0</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>crwdns428798:0{0}crwdne428798:0</AlertPollutedTerrainDesc>
+
+  <AlertMechMissingBodyPart>crwdns428800:0crwdne428800:0</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>crwdns428802:0crwdne428802:0</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>crwdns428804:0crwdne428804:0</AlertMechMissingBodyPartDesc>
+
+  <AlertMechNeedsRepair>crwdns428806:0crwdne428806:0</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>crwdns428808:0crwdne428808:0</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>crwdns428810:0crwdne428810:0</AlertMechNeedsRepairDesc>
+  
+  <AlertToxifierGeneratorStopped>crwdns428812:0{0}crwdne428812:0</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>crwdns428814:0{0}crwdne428814:0</AlertToxifierGeneratorStoppedDesc>
+
+  <AlertPsychicBondedPawnsSeparated>crwdns428816:0crwdne428816:0</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>crwdns428818:0crwdne428818:0</AlertPsychicBondedPawnsSeparatedDesc>
+
+  <AlertGenebankUnpowered>crwdns428820:0crwdne428820:0</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>crwdns428822:0crwdne428822:0</AlertGenebankUnpoweredDesc>
+
+  <AlertBossgroupIncoming>crwdns428824:0{0}crwdne428824:0</AlertBossgroupIncoming>
+  <AlertBossgroupIncomingDesc>crwdns428826:0{0}crwdne428826:0</AlertBossgroupIncomingDesc>
+
+  <AlertDeathrestComplete>crwdns428828:0crwdne428828:0</AlertDeathrestComplete><!-- text_todo -->
+  <AlertDeathrestCompleteDesc>crwdns428830:0crwdne428830:0</AlertDeathrestCompleteDesc><!-- text_todo -->
+
+</LanguageData>
