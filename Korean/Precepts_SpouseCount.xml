@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SpouseCount_Female.label>여성의 배우자</SpouseCount_Female.label>
+  <SpouseCount_Female_MaxOne.label>한 명</SpouseCount_Female_MaxOne.label>
+  <SpouseCount_Female_MaxOne.description>여성은 한 명의 배우자만 가질 수 있다.</SpouseCount_Female_MaxOne.description>
   
-  <SpouseCount_Male.label>남성의 배우자</SpouseCount_Male.label>
+  <SpouseCount_Male_MaxOne.label>한 명</SpouseCount_Male_MaxOne.label>
+  <SpouseCount_Male_MaxOne.description>남성은 한 명의 배우자만 가질 수 있다.</SpouseCount_Male_MaxOne.description>
 </LanguageData>
