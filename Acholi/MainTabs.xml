@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- Misc -->
+  <MissingRequiredMechanitor>crwdns429802:0crwdne429802:0</MissingRequiredMechanitor>
+  <NotStudied>crwdns429804:0{0}crwdne429804:0</NotStudied>
+  <StudyRequirements>crwdns429806:0crwdne429806:0</StudyRequirements>
+  <PreferredXenotypes>crwdns429808:0crwdne429808:0</PreferredXenotypes>
+
+  <!-- Work tab -->
+  <WorkDisabledAge>crwdns429810:0{0_nameDef}crwdnd429810:0{1}crwdnd429810:0{2}crwdnd429810:0{3}crwdne429810:0</WorkDisabledAge>
+  <ClickToChangeWorkMode>crwdns429812:0crwdne429812:0</ClickToChangeWorkMode>
+
+
+</LanguageData>
