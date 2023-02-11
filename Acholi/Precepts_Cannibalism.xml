@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteNonCannibalFood.label>crwdns431058:0crwdne431058:0</AteNonCannibalFood.label>
+  <Cannibalism_Abhorrent.label>crwdns436240:0crwdne436240:0</Cannibalism_Abhorrent.label>
+  <Cannibalism_Abhorrent.description>crwdns436242:0crwdne436242:0</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.comps.5.description>crwdns436244:0crwdne436244:0</Cannibalism_Abhorrent.comps.5.description>
+  
+  <Cannibalism_Acceptable.label>crwdns436246:0crwdne436246:0</Cannibalism_Acceptable.label>
+  <Cannibalism_Acceptable.description>crwdns436248:0crwdne436248:0</Cannibalism_Acceptable.description>
+  
+  <Cannibalism_Disapproved.label>crwdns436250:0crwdne436250:0</Cannibalism_Disapproved.label>
+  <Cannibalism_Disapproved.description>crwdns436252:0crwdne436252:0</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.comps.5.description>crwdns436254:0crwdne436254:0</Cannibalism_Disapproved.comps.5.description>
+  
+  <Cannibalism_Horrible.label>crwdns436256:0crwdne436256:0</Cannibalism_Horrible.label>
+  <Cannibalism_Horrible.description>crwdns436258:0crwdne436258:0</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.comps.5.description>crwdns436260:0crwdne436260:0</Cannibalism_Horrible.comps.5.description>
+  
+  <Cannibalism_Preferred.label>crwdns436262:0crwdne436262:0</Cannibalism_Preferred.label>
+  <Cannibalism_Preferred.description>crwdns436264:0crwdne436264:0</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.comps.1.description>crwdns436266:0{HUMANMEATREQUIREDINTERVAL}crwdne436266:0</Cannibalism_Preferred.comps.1.description>
+  <Cannibalism_Preferred.comps.2.description>crwdns436268:0crwdne436268:0</Cannibalism_Preferred.comps.2.description>
+  
+  <Cannibalism_RequiredRavenous.label>crwdns436270:0crwdne436270:0</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.description>crwdns436272:0crwdne436272:0</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.comps.3.description>crwdns436274:0{HUMANMEATREQUIREDINTERVAL}crwdne436274:0</Cannibalism_RequiredRavenous.comps.3.description>
+  <Cannibalism_RequiredRavenous.comps.4.description>crwdns436276:0crwdne436276:0</Cannibalism_RequiredRavenous.comps.4.description>
+  
+  <Cannibalism_RequiredStrong.label>crwdns436278:0crwdne436278:0</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.description>crwdns436280:0crwdne436280:0</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.comps.3.description>crwdns436282:0{HUMANMEATREQUIREDINTERVAL}crwdne436282:0</Cannibalism_RequiredStrong.comps.3.description>
+  <Cannibalism_RequiredStrong.comps.4.description>crwdns436284:0crwdne436284:0</Cannibalism_RequiredStrong.comps.4.description>
 </LanguageData>
