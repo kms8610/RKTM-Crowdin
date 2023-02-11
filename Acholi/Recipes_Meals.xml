@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CookMealFine.label>crwdns461896:0crwdne461896:0</CookMealFine.label>
+  <CookMealFine.description>crwdns461898:0crwdne461898:0</CookMealFine.description>
+  <CookMealFine.ingredients.0.filter.customSummary>crwdns461900:0crwdne461900:0</CookMealFine.ingredients.0.filter.customSummary>
+  <CookMealFine.jobString>crwdns461902:0crwdne461902:0</CookMealFine.jobString>
+  
+  <CookMealFineBulk.label>crwdns461904:0crwdne461904:0</CookMealFineBulk.label>
+  <CookMealFineBulk.description>crwdns461906:0crwdne461906:0</CookMealFineBulk.description>
+  <CookMealFineBulk.ingredients.0.filter.customSummary>crwdns461908:0crwdne461908:0</CookMealFineBulk.ingredients.0.filter.customSummary>
+  <CookMealFineBulk.jobString>crwdns461910:0crwdne461910:0</CookMealFineBulk.jobString>
+  
+  <CookMealFineBulk_Meat.label>crwdns461912:0crwdne461912:0</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.description>crwdns461914:0crwdne461914:0</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.jobString>crwdns461916:0crwdne461916:0</CookMealFineBulk_Meat.jobString>
+  
+  <CookMealFineBulk_Veg.label>crwdns461918:0crwdne461918:0</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.description>crwdns461920:0crwdne461920:0</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>crwdns461922:0crwdne461922:0</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealFineBulk_Veg.jobString>crwdns461924:0crwdne461924:0</CookMealFineBulk_Veg.jobString>
+  
+  <CookMealFine_Meat.label>crwdns461926:0crwdne461926:0</CookMealFine_Meat.label>
+  <CookMealFine_Meat.description>crwdns461928:0crwdne461928:0</CookMealFine_Meat.description>
+  <CookMealFine_Meat.jobString>crwdns461930:0crwdne461930:0</CookMealFine_Meat.jobString>
+  
+  <CookMealFine_Veg.label>crwdns461932:0crwdne461932:0</CookMealFine_Veg.label>
+  <CookMealFine_Veg.description>crwdns461934:0crwdne461934:0</CookMealFine_Veg.description>
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>crwdns461936:0crwdne461936:0</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <CookMealFine_Veg.jobString>crwdns461938:0crwdne461938:0</CookMealFine_Veg.jobString>
+  
+  <CookMealLavish.label>crwdns461940:0crwdne461940:0</CookMealLavish.label>
+  <CookMealLavish.description>crwdns461942:0crwdne461942:0</CookMealLavish.description>
+  <CookMealLavish.ingredients.0.filter.customSummary>crwdns461944:0crwdne461944:0</CookMealLavish.ingredients.0.filter.customSummary>
+  <CookMealLavish.jobString>crwdns461946:0crwdne461946:0</CookMealLavish.jobString>
+  
+  <CookMealLavishBulk.label>crwdns461948:0crwdne461948:0</CookMealLavishBulk.label>
+  <CookMealLavishBulk.description>crwdns461950:0crwdne461950:0</CookMealLavishBulk.description>
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>crwdns461952:0crwdne461952:0</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk.jobString>crwdns461954:0crwdne461954:0</CookMealLavishBulk.jobString>
+  
+  <CookMealLavishBulk_Meat.label>crwdns461956:0crwdne461956:0</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.description>crwdns461958:0crwdne461958:0</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.jobString>crwdns461960:0crwdne461960:0</CookMealLavishBulk_Meat.jobString>
+  
+  <CookMealLavishBulk_Veg.label>crwdns461962:0crwdne461962:0</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.description>crwdns461964:0crwdne461964:0</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>crwdns461966:0crwdne461966:0</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk_Veg.jobString>crwdns461968:0crwdne461968:0</CookMealLavishBulk_Veg.jobString>
+  
+  <CookMealLavish_Meat.label>crwdns461970:0crwdne461970:0</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.description>crwdns461972:0crwdne461972:0</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.jobString>crwdns461974:0crwdne461974:0</CookMealLavish_Meat.jobString>
+  
+  <CookMealLavish_Veg.label>crwdns461976:0crwdne461976:0</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.description>crwdns461978:0crwdne461978:0</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>crwdns461980:0crwdne461980:0</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavish_Veg.jobString>crwdns461982:0crwdne461982:0</CookMealLavish_Veg.jobString>
+  
+  <CookMealSimple.label>crwdns461984:0crwdne461984:0</CookMealSimple.label>
+  <CookMealSimple.description>crwdns461986:0crwdne461986:0</CookMealSimple.description>
+  <CookMealSimple.jobString>crwdns461988:0crwdne461988:0</CookMealSimple.jobString>
+  
+  <CookMealSimpleBulk.label>crwdns461990:0crwdne461990:0</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.description>crwdns461992:0crwdne461992:0</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.jobString>crwdns461994:0crwdne461994:0</CookMealSimpleBulk.jobString>
+  
+  <CookMealSurvival.label>crwdns461996:0crwdne461996:0</CookMealSurvival.label>
+  <CookMealSurvival.description>crwdns461998:0crwdne461998:0</CookMealSurvival.description>
+  <CookMealSurvival.ingredients.0.filter.customSummary>crwdns462000:0crwdne462000:0</CookMealSurvival.ingredients.0.filter.customSummary>
+  <CookMealSurvival.jobString>crwdns462002:0crwdne462002:0</CookMealSurvival.jobString>
+  
+  <CookMealSurvivalBulk.label>crwdns462004:0crwdne462004:0</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.description>crwdns462006:0crwdne462006:0</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>crwdns462008:0crwdne462008:0</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <CookMealSurvivalBulk.jobString>crwdns462010:0crwdne462010:0</CookMealSurvivalBulk.jobString>
+</LanguageData>
