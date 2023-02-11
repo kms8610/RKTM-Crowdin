@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MarriageName.label>결혼 이름</MarriageName.label>
+  <MarriageName_UsuallyMans.label>대체로 남편</MarriageName_UsuallyMans.label>
+  <MarriageName_UsuallyMans.description>대부분의 부부는 남편의 성을 공유한다.</MarriageName_UsuallyMans.description>
 </LanguageData>
