@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PollutionDump.questContentRules.rulesStrings>
+    <li>crwdns425002:0crwdne425002:0</li>
+    <li>crwdns425004:0crwdne425004:0</li>
+  </PollutionDump.questContentRules.rulesStrings>
+  <PollutionDump.questDescriptionRules.rulesStrings>
+    <li>crwdns425006:0[wastepackCount]crwdne425006:0</li>
+    <li>crwdns425008:0[asker_nameFull]crwdnd425008:0[asker_royalTitleInCurrentFaction]crwdnd425008:0[asker_faction_name]crwdnd425008:0[asker_pronoun]crwdnd425008:0[asker_pronoun]crwdnd425008:0[asker_nameDef]crwdnd425008:0[wastepackCount]crwdne425008:0</li>
+    <li>crwdns425010:0[asker_faction_leaderTitle]crwdnd425010:0[asker_nameFull]crwdnd425010:0[asker_faction_name]crwdnd425010:0[asker_possessive]crwdnd425010:0[asker_pronoun]crwdnd425010:0[asker_nameDef]crwdnd425010:0[wastepackCount]crwdne425010:0</li>
+  </PollutionDump.questDescriptionRules.rulesStrings>
+  <PollutionDump.questNameRules.rulesStrings>
+    <li>crwdns425012:0[waste]crwdnd425012:0[dump]crwdne425012:0</li>
+    <li>crwdns425014:0[asker_faction_pawnSingular]crwdnd425014:0[waste]crwdnd425014:0[dump]crwdne425014:0</li>
+    <li>crwdns425016:0[asker_nameDef]crwdnd425016:0[waste]crwdnd425016:0[dump]crwdne425016:0</li>
+    <li>crwdns425018:0crwdne425018:0</li>
+    <li>crwdns425020:0crwdne425020:0</li>
+    <li>crwdns425022:0crwdne425022:0</li>
+    <li>crwdns425024:0crwdne425024:0</li>
+    <li>crwdns425026:0crwdne425026:0</li>
+    <li>crwdns425028:0crwdne425028:0</li>
+    <li>crwdns425030:0crwdne425030:0</li>
+    <li>crwdns425032:0crwdne425032:0</li>
+  </PollutionDump.questNameRules.rulesStrings>
+</LanguageData>
