@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientExostriderCannon.label>crwdns427176:0crwdne427176:0</AncientExostriderCannon.label>
+  <AncientExostriderCannon.description>crwdns427178:0crwdne427178:0</AncientExostriderCannon.description>
+  
+  <AncientExostriderHead.label>crwdns427180:0crwdne427180:0</AncientExostriderHead.label>
+  <AncientExostriderHead.description>crwdns427182:0crwdne427182:0</AncientExostriderHead.description>
+  
+  <AncientExostriderLeg.label>crwdns427184:0crwdne427184:0</AncientExostriderLeg.label>
+  <AncientExostriderLeg.description>crwdns427186:0crwdne427186:0</AncientExostriderLeg.description>
+  
+  <AncientExostriderRemains.label>crwdns427188:0crwdne427188:0</AncientExostriderRemains.label>
+  <AncientExostriderRemains.description>crwdns427190:0crwdne427190:0</AncientExostriderRemains.description>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>crwdns427192:0crwdne427192:0</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompProximityLetter.letterText>crwdns427194:0{PAWN_nameDef}crwdne427194:0</AncientExostriderRemains.comps.CompProximityLetter.letterText>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>crwdns427196:0{LEAVINGS1_label}crwdne427196:0</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
+  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>crwdns427198:0{LEAVINGS1_label}crwdne427198:0</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
+  <AncientExostriderRemains.comps.CompInspectString.inspectString>crwdns427200:0crwdne427200:0</AncientExostriderRemains.comps.CompInspectString.inspectString>
+</LanguageData>
