@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AcceptRole.reportString>crwdns432360:0crwdne432360:0</AcceptRole.reportString>
+  <GiveSpeech.reportString>crwdns459670:0crwdne459670:0</GiveSpeech.reportString>
   
-  <Dance.reportString>crwdns432362:0crwdne432362:0</Dance.reportString>
+  <MarryAdjacentPawn.reportString>crwdns459672:0crwdne459672:0</MarryAdjacentPawn.reportString>
   
-  <EatAtCannibalPlatter.reportString>crwdns432364:0crwdne432364:0</EatAtCannibalPlatter.reportString>
+  <SpectateCeremony.reportString>crwdns459674:0crwdne459674:0</SpectateCeremony.reportString>
   
-  <GotoAndBeSociallyActive.reportString>crwdns432366:0crwdne432366:0</GotoAndBeSociallyActive.reportString>
-  
-  <PrepareSkylantern.reportString>crwdns432368:0crwdne432368:0</PrepareSkylantern.reportString>
+  <StandAndBeSociallyActive.reportString>crwdns459676:0crwdne459676:0</StandAndBeSociallyActive.reportString>
 </LanguageData>
