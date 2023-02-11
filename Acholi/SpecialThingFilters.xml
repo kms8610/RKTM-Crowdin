@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AllowCannibal.label>crwdns439786:0crwdne439786:0</AllowCannibal.label>
-  <AllowCannibal.description>crwdns439788:0crwdne439788:0</AllowCannibal.description>
+  <AllowBiocodedApparel.label>crwdns466554:0crwdne466554:0</AllowBiocodedApparel.label>
   
-  <AllowCarnivore.label>crwdns439790:0crwdne439790:0</AllowCarnivore.label>
-  <AllowCarnivore.description>crwdns439792:0crwdne439792:0</AllowCarnivore.description>
+  <AllowBiocodedWeapons.label>crwdns466556:0crwdne466556:0</AllowBiocodedWeapons.label>
   
-  <AllowCorpsesSlave.label>crwdns439794:0crwdne439794:0</AllowCorpsesSlave.label>
-  <AllowCorpsesSlave.description>crwdns439796:0crwdne439796:0</AllowCorpsesSlave.description>
+  <AllowBurnableApparel.label>crwdns466558:0crwdne466558:0</AllowBurnableApparel.label>
   
-  <AllowInsectMeat.label>crwdns439798:0crwdne439798:0</AllowInsectMeat.label>
-  <AllowInsectMeat.description>crwdns439800:0crwdne439800:0</AllowInsectMeat.description>
+  <AllowBurnableWeapons.label>crwdns466560:0crwdne466560:0</AllowBurnableWeapons.label>
   
-  <AllowVegetarian.label>crwdns439802:0crwdne439802:0</AllowVegetarian.label>
-  <AllowVegetarian.description>crwdns439804:0crwdne439804:0</AllowVegetarian.description>
+  <AllowCorpsesColonist.label>crwdns466562:0crwdne466562:0</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>crwdns466564:0crwdne466564:0</AllowCorpsesColonist.description>
+  
+  <AllowCorpsesStranger.label>crwdns466566:0crwdne466566:0</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>crwdns466568:0crwdne466568:0</AllowCorpsesStranger.description>
+  
+  <AllowDeadmansApparel.label>crwdns466570:0crwdne466570:0</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.description>crwdns466572:0crwdne466572:0</AllowDeadmansApparel.description>
+  
+  <AllowFemaleGender.label>crwdns466574:0crwdne466574:0</AllowFemaleGender.label>
+  <AllowFemaleGender.description>crwdns466576:0crwdne466576:0</AllowFemaleGender.description>
+  
+  <AllowFresh.label>crwdns466578:0crwdne466578:0</AllowFresh.label>
+  <AllowFresh.description>crwdns466580:0crwdne466580:0</AllowFresh.description>
+  
+  <AllowLargeCorpses.label>crwdns466582:0crwdne466582:0</AllowLargeCorpses.label>
+  <AllowLargeCorpses.description>crwdns466584:0crwdne466584:0</AllowLargeCorpses.description>
+  
+  <AllowMaleGender.label>crwdns466586:0crwdne466586:0</AllowMaleGender.label>
+  <AllowMaleGender.description>crwdns466588:0crwdne466588:0</AllowMaleGender.description>
+  
+  <AllowNonBiocodedApparel.label>crwdns466590:0crwdne466590:0</AllowNonBiocodedApparel.label>
+  
+  <AllowNonBiocodedWeapons.label>crwdns466592:0crwdne466592:0</AllowNonBiocodedWeapons.label>
+  
+  <AllowNonBurnableApparel.label>crwdns466594:0crwdne466594:0</AllowNonBurnableApparel.label>
+  
+  <AllowNonBurnableWeapons.label>crwdns466596:0crwdne466596:0</AllowNonBurnableWeapons.label>
+  
+  <AllowNonDeadmansApparel.label>crwdns466598:0crwdne466598:0</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.description>crwdns466600:0crwdne466600:0</AllowNonDeadmansApparel.description>
+  
+  <AllowNonSmeltableApparel.label>crwdns466602:0crwdne466602:0</AllowNonSmeltableApparel.label>
+  
+  <AllowNonSmeltableWeapons.label>crwdns466604:0crwdne466604:0</AllowNonSmeltableWeapons.label>
+  
+  <AllowPlantFood.label>crwdns466606:0crwdne466606:0</AllowPlantFood.label>
+  <AllowPlantFood.description>crwdns466608:0crwdne466608:0</AllowPlantFood.description>
+  
+  <AllowRotten.label>crwdns466610:0crwdne466610:0</AllowRotten.label>
+  <AllowRotten.description>crwdns466612:0crwdne466612:0</AllowRotten.description>
+  
+  <AllowSmeltable.label>crwdns466614:0crwdne466614:0</AllowSmeltable.label>
+  
+  <AllowSmeltableApparel.label>crwdns466616:0crwdne466616:0</AllowSmeltableApparel.label>
 </LanguageData>
