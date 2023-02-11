@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Denture.label>틀니</Denture.label>
+  <Denture.description>틀니가 설치되어 있습니다.</Denture.description>
+  <Denture.labelNoun>틀니</Denture.labelNoun>
+  
+  <PegLeg.label>나무 의족</PegLeg.label>
+  <PegLeg.description>나무 의족이 설치되어 있습니다.</PegLeg.description>
+  <PegLeg.labelNoun>나무 의족</PegLeg.labelNoun>
+  
+  <WoodenFoot.label>목재 발</WoodenFoot.label>
+  <WoodenFoot.description>목재 발이 설치되어 있습니다.</WoodenFoot.description>
+  <WoodenFoot.labelNoun>목재 발</WoodenFoot.labelNoun>
+  
+  <WoodenHand.label>목재 손</WoodenHand.label>
+  <WoodenHand.description>목재 손이 설치되어 있습니다.</WoodenHand.description>
+  <WoodenHand.labelNoun>목재 손</WoodenHand.labelNoun>
+</LanguageData>
