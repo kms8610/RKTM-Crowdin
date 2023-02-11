@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_EndGame_RoyalAscent.label>crwdns445752:0crwdne445752:0</GiveQuest_EndGame_RoyalAscent.label>
+  <GiveQuest_EndGame_ShipEscape.label>crwdns458794:0crwdne458794:0</GiveQuest_EndGame_ShipEscape.label>
+  <GiveQuest_EndGame_ShipEscape.letterLabel>crwdns458796:0crwdne458796:0</GiveQuest_EndGame_ShipEscape.letterLabel>
   
-  <GiveQuest_Intro_Deserter.label>crwdns445754:0crwdne445754:0</GiveQuest_Intro_Deserter.label>
-  
-  <GiveQuest_Intro_Wimp.label>crwdns445756:0crwdne445756:0</GiveQuest_Intro_Wimp.label>
-  
-  <ProblemCauser.label>crwdns445758:0crwdne445758:0</ProblemCauser.label>
+  <GiveQuest_Random.label>crwdns458798:0crwdne458798:0</GiveQuest_Random.label>
+  <GiveQuest_Random.letterLabel>crwdns458800:0crwdne458800:0</GiveQuest_Random.letterLabel>
 </LanguageData>
