@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CureAbasia.label>crwdns447922:0crwdne447922:0</CureAbasia.label>
-  <CureAbasia.description>crwdns447924:0crwdne447924:0</CureAbasia.description>
-  <CureAbasia.jobString>crwdns447926:0crwdne447926:0</CureAbasia.jobString>
-  <CureAbasia.successfullyRemovedHediffMessage>crwdns447928:0{0}crwdnd447928:0{1}crwdne447928:0</CureAbasia.successfullyRemovedHediffMessage>
+  <ChemicalDamageModerate.label>crwdns458152:0crwdne458152:0</ChemicalDamageModerate.label>
+  <ChemicalDamageModerate.description>crwdns458154:0crwdne458154:0</ChemicalDamageModerate.description>
   
-  <CureBloodRot.label>crwdns447930:0crwdne447930:0</CureBloodRot.label>
-  <CureBloodRot.description>crwdns447932:0crwdne447932:0</CureBloodRot.description>
-  <CureBloodRot.jobString>crwdns447934:0crwdne447934:0</CureBloodRot.jobString>
-  <CureBloodRot.successfullyRemovedHediffMessage>crwdns447936:0{0}crwdnd447936:0{1}crwdne447936:0</CureBloodRot.successfullyRemovedHediffMessage>
+  <ChemicalDamageSevere.label>crwdns458156:0crwdne458156:0</ChemicalDamageSevere.label>
+  <ChemicalDamageSevere.description>crwdns458158:0crwdne458158:0</ChemicalDamageSevere.description>
+  
+  <Cirrhosis.label>crwdns458160:0crwdne458160:0</Cirrhosis.label>
+  <Cirrhosis.description>crwdns458162:0crwdne458162:0</Cirrhosis.description>
+  
+  <ResurrectionPsychosis.label>crwdns458164:0crwdne458164:0</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.description>crwdns458166:0crwdne458166:0</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.descriptionShort>crwdns458168:0crwdne458168:0</ResurrectionPsychosis.descriptionShort>
+  <ResurrectionPsychosis.stages.early-0.label>crwdns458170:0crwdne458170:0</ResurrectionPsychosis.stages.early-0.label>
+  <ResurrectionPsychosis.stages.early-1.label>crwdns458172:0crwdne458172:0</ResurrectionPsychosis.stages.early-1.label>
+  <ResurrectionPsychosis.stages.moderate.label>crwdns458174:0crwdne458174:0</ResurrectionPsychosis.stages.moderate.label>
+  <ResurrectionPsychosis.stages.advanced.label>crwdns458176:0crwdne458176:0</ResurrectionPsychosis.stages.advanced.label>
+  <ResurrectionPsychosis.stages.severe.label>crwdns458178:0crwdne458178:0</ResurrectionPsychosis.stages.severe.label>
+  <ResurrectionPsychosis.stages.total.label>crwdns458180:0crwdne458180:0</ResurrectionPsychosis.stages.total.label>
+  <ResurrectionPsychosis.stages.catatonic.label>crwdns458182:0crwdne458182:0</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <Scaria.label>crwdns458184:0crwdne458184:0</Scaria.label>
+  <Scaria.description>crwdns458186:0crwdne458186:0</Scaria.description>
+  <Scaria.descriptionShort>crwdns458188:0crwdne458188:0</Scaria.descriptionShort>
+  
+  <Sterilized.label>crwdns458190:0crwdne458190:0</Sterilized.label>
+  <Sterilized.description>crwdns458192:0crwdne458192:0</Sterilized.description>
+  
+  <TraumaSavant.label>crwdns458194:0crwdne458194:0</TraumaSavant.label>
+  <TraumaSavant.description>crwdns458196:0crwdne458196:0</TraumaSavant.description>
+  <TraumaSavant.labelNoun>crwdns458198:0crwdne458198:0</TraumaSavant.labelNoun>
 </LanguageData>
