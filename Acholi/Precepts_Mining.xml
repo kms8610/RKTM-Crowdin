@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mining.label>crwdns432306:0crwdne432306:0</Mining.label>
+  <MiningYield_High.label>crwdns436526:0crwdne436526:0</MiningYield_High.label>
+  <MiningYield_High.description>crwdns436528:0crwdne436528:0</MiningYield_High.description>
   
-  <MiningYield.label>crwdns432308:0crwdne432308:0</MiningYield.label>
+  <Mining_Disapproved.label>crwdns436530:0crwdne436530:0</Mining_Disapproved.label>
+  <Mining_Disapproved.description>crwdns436532:0crwdne436532:0</Mining_Disapproved.description>
+  <Mining_Disapproved.comps.0.description>crwdns436534:0crwdne436534:0</Mining_Disapproved.comps.0.description>
+  <Mining_Disapproved.comps.3.description>crwdns436536:0crwdne436536:0</Mining_Disapproved.comps.3.description>
+  
+  <Mining_Horrible.label>crwdns436538:0crwdne436538:0</Mining_Horrible.label>
+  <Mining_Horrible.description>crwdns436540:0crwdne436540:0</Mining_Horrible.description>
+  <Mining_Horrible.comps.0.description>crwdns436542:0crwdne436542:0</Mining_Horrible.comps.0.description>
+  <Mining_Horrible.comps.3.description>crwdns436544:0crwdne436544:0</Mining_Horrible.comps.3.description>
+  
+  <Mining_Prohibited.label>crwdns436546:0crwdne436546:0</Mining_Prohibited.label>
+  <Mining_Prohibited.description>crwdns436548:0crwdne436548:0</Mining_Prohibited.description>
+  <Mining_Prohibited.comps.0.description>crwdns436550:0crwdne436550:0</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.3.description>crwdns436552:0crwdne436552:0</Mining_Prohibited.comps.3.description>
 </LanguageData>
