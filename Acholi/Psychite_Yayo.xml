@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Yayo.label>crwdns473104:0crwdne473104:0</Yayo.label>
-  <Yayo.description>crwdns473106:0crwdne473106:0</Yayo.description>
-  <Yayo.ingestible.ingestCommandString>crwdns473108:0{0}crwdne473108:0</Yayo.ingestible.ingestCommandString>
-  <Yayo.ingestible.ingestReportString>crwdns473110:0{0}crwdne473110:0</Yayo.ingestible.ingestReportString>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>crwdns474356:0crwdne474356:0</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>crwdns474358:0crwdne474358:0</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  
+  <YayoHigh.stages.high_on_yayo.label>crwdns474360:0crwdne474360:0</YayoHigh.stages.high_on_yayo.label>
+  <YayoHigh.stages.high_on_yayo.description>crwdns474362:0crwdne474362:0</YayoHigh.stages.high_on_yayo.description>
 </LanguageData>
