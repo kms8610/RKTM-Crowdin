@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychiteTeaHigh.label>광이차에 취함</PsychiteTeaHigh.label>
-  <PsychiteTeaHigh.description>혈액에 광이차의 활성성분이 존재합니다. 약한 쾌감을 제공합니다.</PsychiteTeaHigh.description>
-  <PsychiteTeaHigh.labelNoun>광이차에 취함</PsychiteTeaHigh.labelNoun>
+  <PsychiteTea.label>광이차</PsychiteTea.label>
+  <PsychiteTea.description>말린 광이풀잎을 끓인 향긋한 차로, 마시면 사이카이트로 인한 약한 쾌감을 느낄 수 있습니다. 만들기 매우 쉽지만 너무 자주 마시면 사이카이트에 중독될 수 있습니다.\n\n많은 부족 문화에서는 광이차를 일상 음료와 종교 의식의 일부로 활용합니다.</PsychiteTea.description>
+  <PsychiteTea.ingestible.ingestCommandString>{0} 마시기</PsychiteTea.ingestible.ingestCommandString>
+  <PsychiteTea.ingestible.ingestReportString>{0} 마시는 중</PsychiteTea.ingestible.ingestReportString>
 </LanguageData>
