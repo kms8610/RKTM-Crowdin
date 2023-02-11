@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Royalty -->
+  <RequestChangeRoyalHeir>crwdns449732:0{HOLDER_labelShort}crwdnd449732:0{TITLE}crwdnd449732:0{HEIR_labelShort}crwdne449732:0</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>crwdns449734:0{HOLDER_labelShort}crwdnd449734:0{TITLE}crwdne449734:0</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>crwdns449736:0{PAWN_labelShort}crwdne449736:0</RequestChangeRoyalHeirAlreadyInProgress>
+  
+</LanguageData>
