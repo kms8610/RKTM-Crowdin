@@ -1,4 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoDiversity.label>crwdns432294:0crwdne432294:0</IdeoDiversity.label>
+  <IdeoDiversity_Abhorrent.label>crwdns436350:0crwdne436350:0</IdeoDiversity_Abhorrent.label>
+  <IdeoDiversity_Abhorrent.description>crwdns436352:0crwdne436352:0</IdeoDiversity_Abhorrent.description>
+  <IdeoDiversity_Abhorrent.comps.2.description>crwdns436354:0crwdne436354:0</IdeoDiversity_Abhorrent.comps.2.description>
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>crwdns436356:0crwdne436356:0</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>crwdns436358:0crwdne436358:0</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Approved.label>crwdns436360:0crwdne436360:0</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Approved.description>crwdns436362:0crwdne436362:0</IdeoDiversity_Approved.description>
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>crwdns436364:0crwdne436364:0</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>crwdns436366:0crwdne436366:0</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Disapproved.label>crwdns436368:0crwdne436368:0</IdeoDiversity_Disapproved.label>
+  <IdeoDiversity_Disapproved.description>crwdns436370:0crwdne436370:0</IdeoDiversity_Disapproved.description>
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>crwdns436372:0crwdne436372:0</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>crwdns436374:0crwdne436374:0</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Exalted.label>crwdns436376:0crwdne436376:0</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Exalted.description>crwdns436378:0crwdne436378:0</IdeoDiversity_Exalted.description>
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>crwdns436380:0crwdne436380:0</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>crwdns436382:0crwdne436382:0</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Horrible.label>crwdns436384:0crwdne436384:0</IdeoDiversity_Horrible.label>
+  <IdeoDiversity_Horrible.description>crwdns436386:0crwdne436386:0</IdeoDiversity_Horrible.description>
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>crwdns436388:0crwdne436388:0</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
+  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>crwdns436390:0crwdne436390:0</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Respected.label>crwdns436392:0crwdne436392:0</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Respected.description>crwdns436394:0crwdne436394:0</IdeoDiversity_Respected.description>
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>crwdns436396:0crwdne436396:0</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>crwdns436398:0crwdne436398:0</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
+  
+  <IdeoDiversity_Standard.label>crwdns436400:0crwdne436400:0</IdeoDiversity_Standard.label>
+  <IdeoDiversity_Standard.description>crwdns436402:0crwdne436402:0</IdeoDiversity_Standard.description>
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>crwdns436404:0crwdne436404:0</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
+  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>crwdns436406:0crwdne436406:0</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
 </LanguageData>
