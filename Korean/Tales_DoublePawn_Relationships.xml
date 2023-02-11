@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BecameLover.label>연인</BecameLover.label>
+  <BecameLover.rulePack.rulesStrings>
+    <li>tale_noun->[PURSUER_nameDef](와)과 [ACCEPTER_nameDef]의 사랑</li>
+    <li>image->[circumstance_group] [ACCEPTER_nameFull]의 귀에 달콤한 말을 속삭이는 [PURSUER_nameFull]</li>
+    <li>image->[circumstance_group] [ACCEPTER_nameFull](을)를 안아 침대 위에 눕히는 [PURSUER_nameFull]</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull](와)과 [ACCEPTER_nameFull](이)가 장난치는 모습</li>
+    <li>image->[circumstance_group] [PURSUER_nameFull](와)과 [ACCEPTER_nameFull](이)가 깊게 키스하는 장면</li>
+    <li>circumstance_phrase->엄청나게 커다란 침대 위에서</li>
+    <li>circumstance_phrase->이불 사이에서</li>
+    <li>circumstance_phrase->옷도 거의 걸치지 않고</li>
+    <li>circumstance_phrase->둘 다 땀에 젖은 채</li>
+    <li>desc_sentence->[PURSUER_nameDef]의 품 속에 파고드는 [ACCEPTER_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef](와)과 눈을 맞추는 [ACCEPTER_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef]에게 가쁜 숨을 내뱉는 [ACCEPTER_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef](와)과 예술적으로 결합된 [ACCEPTER_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PURSUER_nameDef](와)과 대칭적인 모습을 한 [ACCEPTER_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[ACCEPTER_nameDef]의 몸을 격하게 만지는 [PURSUER_nameDef]의 모습이 보입니다.</li>
+  </BecameLover.rulePack.rulesStrings>
+  
+  <BondedWithAnimal.label>동물과의 유대</BondedWithAnimal.label>
+  <BondedWithAnimal.rulePack.rulesStrings>
+    <li>tale_noun->[HUMAN_nameDef](와)과 [ANIMAL_nameDef] 사이의 유대감 생성</li>
+    <li>image->[circumstance_group] [ANIMAL_nameFull]의 머리를 쓰다듬는 [HUMAN_nameFull]</li>
+    <li>image->[circumstance_group] [ANIMAL_nameFull](와)과 깊은 유대감을 형성한 [HUMAN_nameFull]</li>
+    <li>image->[circumstance_group] [HUMAN_nameFull](이)가 [ANIMAL_nameFull]에 대한 진정한 사랑을 깨달은 모습</li>
+    <li>circumstance_phrase->환한 표정으로</li>
+    <li>circumstance_phrase->[ANIMAL_nameDef]의 눈을 쳐다보며</li>
+    <li>circumstance_phrase->만족감과 함께</li>
+    <li>desc_sentence->[HUMAN_nameDef]의 몸에 파고드는 [ANIMAL_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[ANIMAL_nameDef](은)는 매혹당한 듯 보입니다.</li>
+    <li>desc_sentence->우뚝 선 채 고귀한 자태를 보이는 [ANIMAL_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->긍정적으로 반응하는 [ANIMAL_nameDef]의 모습이 보입니다.</li>
+  </BondedWithAnimal.rulePack.rulesStrings>
+  
+  <Breakup.label>이별</Breakup.label>
+  <Breakup.rulePack.rulesStrings>
+    <li>tale_noun->[DUMPER_nameDef](와)과 [REJECTED_nameDef]의 이별</li>
+    <li>image->[circumstance_group] [REJECTED_nameFull](을)를 앉힌 뒤 불편한 말을 꺼내는 [DUMPER_nameFull]</li>
+    <li>image->[circumstance_group] [REJECTED_nameFull](와)과 거리를 벌린 채 서있는 [DUMPER_nameFull]</li>
+    <li>image->[circumstance_group] [REJECTED_nameFull](을)를 침대에서 밀어내는 [DUMPER_nameFull]</li>
+    <li>image->[circumstance_group] [REJECTED_nameFull]의 포옹을 거부하는 [DUMPER_nameFull]</li>
+    <li>circumstance_phrase->깊이 슬퍼하는 표정으로</li>
+    <li>circumstance_phrase->주변 사람들이 어색하게 다른 곳을 쳐다보는 와중에</li>
+    <li>circumstance_phrase->사람들 앞에서</li>
+    <li>desc_sentence->흐느끼고 있는 [REJECTED_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->비웃으며 울고 있는 [REJECTED_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->충격으로 얼굴이 굳은 [REJECTED_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->문자 그대로 [DUMPER_nameDef]에게서 단절된 [REJECTED_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->바닥에 엉덩이를 깔고 주저앉은 [REJECTED_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[DUMPER_nameDef](을)를 향해 화를 내는 [REJECTED_nameDef]의 모습이 보입니다.</li>
+  </Breakup.rulePack.rulesStrings>
+  
+  <Marriage.label>결혼</Marriage.label>
+  <Marriage.rulePack.rulesStrings>
+    <li>tale_noun->[SPOUSE1_nameDef](와)과 [SPOUSE2_nameDef]의 결혼</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull](와)과 [SPOUSE2_nameFull](이)가 결혼하는 장면</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull](이)가 [SPOUSE2_nameFull]에게 결혼 맹세를 말하는 장면</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull](이)가 [SPOUSE2_nameFull](와)과 나란히 걷는 모습</li>
+    <li>image->[circumstance_group] [SPOUSE1_nameFull](이)가 [SPOUSE2_nameFull](와)과 손을 맞잡고 있는 광경</li>
+    <li>circumstance_phrase->위엄 있는 결혼식에서</li>
+    <li>circumstance_phrase->함께 환하게 웃으며</li>
+    <li>circumstance_phrase->다른 이들의 축복 속에서</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]의 품 속에 파고드는 [SPOUSE2_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef](와)과 눈을 맞추는 [SPOUSE2_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef]에게 가쁜 숨을 내뱉는 [SPOUSE2_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef](와)과 예술적으로 결합된 [SPOUSE2_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[SPOUSE1_nameDef](와)과 대칭적인 모습을 한 [SPOUSE2_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->격렬히 [SPOUSE2_nameDef]의 몸을 만지고 있는 [SPOUSE1_nameDef]의 모습이 보입니다.</li>
+  </Marriage.rulePack.rulesStrings>
+</LanguageData>
