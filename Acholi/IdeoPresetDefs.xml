@@ -1,26 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Classic.label>crwdns431160:0crwdne431160:0</Classic.label>
-  <Classic.description>crwdns431162:0crwdne431162:0</Classic.description>
-  <Classic.groupLabel>crwdns431164:0crwdne431164:0</Classic.groupLabel>
+  <Blindness_Cult.label>crwdns431196:0crwdne431196:0</Blindness_Cult.label>
+  <Blindness_Cult.description>crwdns431198:0crwdne431198:0</Blindness_Cult.description>
   
-  <Custom.label>crwdns431166:0crwdne431166:0</Custom.label>
-  <Custom.description>crwdns431168:0crwdne431168:0</Custom.description>
-  <Custom.groupLabel>crwdns431170:0crwdne431170:0</Custom.groupLabel>
+  <Cannibals.label>crwdns431200:0crwdne431200:0</Cannibals.label>
+  <Cannibals.description>crwdns431202:0crwdne431202:0</Cannibals.description>
   
-  <Fluid.label>crwdns431172:0crwdne431172:0</Fluid.label>
-  <Fluid.description>crwdns431174:0crwdne431174:0</Fluid.description>
-  <Fluid.groupLabel>crwdns431176:0crwdne431176:0</Fluid.groupLabel>
+  <ClassicLike.label>crwdns431204:0crwdne431204:0</ClassicLike.label>
+  <ClassicLike.description>crwdns431206:0crwdne431206:0</ClassicLike.description>
   
-  <Intense.label>crwdns431178:0crwdne431178:0</Intense.label>
-  <Intense.description>crwdns431180:0crwdne431180:0</Intense.description>
-  <Intense.groupLabel>crwdns431182:0crwdne431182:0</Intense.groupLabel>
+  <Cowboys.label>crwdns431208:0crwdne431208:0</Cowboys.label>
+  <Cowboys.description>crwdns431210:0crwdne431210:0</Cowboys.description>
   
-  <Mild.label>crwdns431184:0crwdne431184:0</Mild.label>
-  <Mild.description>crwdns431186:0crwdne431186:0</Mild.description>
-  <Mild.groupLabel>crwdns431188:0crwdne431188:0</Mild.groupLabel>
+  <Criminal_Gang.label>crwdns431212:0crwdne431212:0</Criminal_Gang.label>
+  <Criminal_Gang.description>crwdns431214:0crwdne431214:0</Criminal_Gang.description>
   
-  <Strong.label>crwdns431190:0crwdne431190:0</Strong.label>
-  <Strong.description>crwdns431192:0crwdne431192:0</Strong.description>
-  <Strong.groupLabel>crwdns431194:0crwdne431194:0</Strong.groupLabel>
+  <Domination_Gang.label>crwdns431216:0crwdne431216:0</Domination_Gang.label>
+  <Domination_Gang.description>crwdns431218:0crwdne431218:0</Domination_Gang.description>
+  
+  <Feminine_Ravagers.label>crwdns431220:0crwdne431220:0</Feminine_Ravagers.label>
+  <Feminine_Ravagers.description>crwdns431222:0crwdne431222:0</Feminine_Ravagers.description>
+  
+  <Feral_People.label>crwdns431224:0crwdne431224:0</Feral_People.label>
+  <Feral_People.description>crwdns431226:0crwdne431226:0</Feral_People.description>
+  
+  <Free_Ranchers.label>crwdns431228:0crwdne431228:0</Free_Ranchers.label>
+  <Free_Ranchers.description>crwdns431230:0crwdne431230:0</Free_Ranchers.description>
+  
+  <High_Collectivists.label>crwdns431232:0crwdne431232:0</High_Collectivists.label>
+  <High_Collectivists.description>crwdns431234:0crwdne431234:0</High_Collectivists.description>
+  
+  <Human_Purists.label>crwdns431236:0crwdne431236:0</Human_Purists.label>
+  <Human_Purists.description>crwdns431238:0crwdne431238:0</Human_Purists.description>
+  
+  <Martyrs.label>crwdns431240:0crwdne431240:0</Martyrs.label>
+  <Martyrs.description>crwdns431242:0crwdne431242:0</Martyrs.description>
+  
+  <Mole_People.label>crwdns431244:0crwdne431244:0</Mole_People.label>
+  <Mole_People.description>crwdns431246:0crwdne431246:0</Mole_People.description>
+  
+  <Naked_Maneaters.label>crwdns431248:0crwdne431248:0</Naked_Maneaters.label>
+  <Naked_Maneaters.description>crwdns431250:0crwdne431250:0</Naked_Maneaters.description>
+  
+  <NatureOverMan.label>crwdns431252:0crwdne431252:0</NatureOverMan.label>
+  <NatureOverMan.description>crwdns431254:0crwdne431254:0</NatureOverMan.description>
+  
+  <Nudist_Recruiters.label>crwdns431256:0crwdne431256:0</Nudist_Recruiters.label>
+  <Nudist_Recruiters.description>crwdns431258:0crwdne431258:0</Nudist_Recruiters.description>
+  
+  <Painful_Purists.label>crwdns431260:0crwdne431260:0</Painful_Purists.label>
+  <Painful_Purists.description>crwdns431262:0crwdne431262:0</Painful_Purists.description>
+  
+  <ProHuman_Darklovers.label>crwdns431264:0crwdne431264:0</ProHuman_Darklovers.label>
+  <ProHuman_Darklovers.description>crwdns431266:0crwdne431266:0</ProHuman_Darklovers.description>
+  
+  <Progressive_Humanism.label>crwdns431268:0crwdne431268:0</Progressive_Humanism.label>
+  <Progressive_Humanism.description>crwdns431270:0crwdne431270:0</Progressive_Humanism.description>
+  
+  <Techno_Utopians.label>crwdns431272:0crwdne431272:0</Techno_Utopians.label>
+  <Techno_Utopians.description>crwdns431274:0crwdne431274:0</Techno_Utopians.description>
+  
+  <Tree_Worshippers.label>crwdns431276:0crwdne431276:0</Tree_Worshippers.label>
+  <Tree_Worshippers.description>crwdns431278:0crwdne431278:0</Tree_Worshippers.description>
+  
+  <Unity_Family.label>crwdns431280:0crwdne431280:0</Unity_Family.label>
+  <Unity_Family.description>crwdns431282:0crwdne431282:0</Unity_Family.description>
+  
+  <Violent_Dominators.label>crwdns431284:0crwdne431284:0</Violent_Dominators.label>
+  <Violent_Dominators.description>crwdns431286:0crwdne431286:0</Violent_Dominators.description>
 </LanguageData>
