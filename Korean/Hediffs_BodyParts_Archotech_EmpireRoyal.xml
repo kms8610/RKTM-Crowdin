@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallPsychicHarmonizer.label>감정 송출기 이식</InstallPsychicHarmonizer.label>
-  <InstallPsychicHarmonizer.description>감정 송출기를 이식합니다.</InstallPsychicHarmonizer.description>
-  <InstallPsychicHarmonizer.jobString>감정 송출기 이식 중</InstallPsychicHarmonizer.jobString>
+  <PsychicHarmonizer.label>감정 송출기</PsychicHarmonizer.label>
+  <PsychicHarmonizer.description>이 뇌 이식물은 착용자의 기분을 투영하여 주변의 다른 사람들이 사용자의 감정을 함께 느낄 수 있도록 합니다. 사기를 높이는 강력한 도구가 될 수 있지만, 사용자가 불행하다면 역효과가 발생하게 됩니다.</PsychicHarmonizer.description>
   
-  <InstallPsychicReader.label>감정 판독기 이식</InstallPsychicReader.label>
-  <InstallPsychicReader.description>감정 판독기를 이식합니다.</InstallPsychicReader.description>
-  <InstallPsychicReader.jobString>감정 판독기 이식 중</InstallPsychicReader.jobString>
+  <PsychicReader.label>감정 판독기</PsychicReader.label>
+  <PsychicReader.description>이 뇌 이식물은 상대방의 미묘한 감정변화를 읽어 협상 및 사교적 상황에서 우위를 점할 수 있게 만들어 줍니다. 효과는 사용자의 정신 감응력에 비례합니다.</PsychicReader.description>
   
-  <InstallPsychicSensitizer.label>초능력 증진기 이식</InstallPsychicSensitizer.label>
-  <InstallPsychicSensitizer.description>초능력 증진기를 이식합니다.</InstallPsychicSensitizer.description>
-  <InstallPsychicSensitizer.jobString>초능력 증진기 이식 중</InstallPsychicSensitizer.jobString>
-  
-  <RemovePsychicHarmonizer.label>감정 송출기 제거</RemovePsychicHarmonizer.label>
-  <RemovePsychicHarmonizer.description>감정 송출기를 제거합니다.</RemovePsychicHarmonizer.description>
-  <RemovePsychicHarmonizer.jobString>감정 송출기 제거 중</RemovePsychicHarmonizer.jobString>
-  
-  <RemovePsychicReader.label>감정 판독기 제거</RemovePsychicReader.label>
-  <RemovePsychicReader.description>감정 판독기를 제거합니다.</RemovePsychicReader.description>
-  <RemovePsychicReader.jobString>감정 판독기 제거 중</RemovePsychicReader.jobString>
-  
-  <RemovePsychicSensitizer.label>초능력 증진기 제거</RemovePsychicSensitizer.label>
-  <RemovePsychicSensitizer.description>초능력 증진기를 제거합니다.</RemovePsychicSensitizer.description>
-  <RemovePsychicSensitizer.jobString>초능력 증진기 제거 중</RemovePsychicSensitizer.jobString>
+  <PsychicSensitizer.label>민감한 정신</PsychicSensitizer.label>
+  <PsychicSensitizer.description>이 뇌 이식물은 초집중 능력에 관련된 뇌 영역을 자극하여 착용자의 정신 감응력을 증가시킵니다.</PsychicSensitizer.description>
 </LanguageData>
