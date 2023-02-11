@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeWeapon_Club.label>crwdns472752:0crwdne472752:0</MeleeWeapon_Club.label>
+  <MeleeWeapon_Club.description>crwdns472754:0crwdne472754:0</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.tools.handle.label>crwdns472756:0crwdne472756:0</MeleeWeapon_Club.tools.handle.label>
+  <MeleeWeapon_Club.tools.head.label>crwdns472758:0crwdne472758:0</MeleeWeapon_Club.tools.head.label>
+  
+  <MeleeWeapon_Ikwa.label>crwdns472760:0crwdne472760:0</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Ikwa.description>crwdns472762:0crwdne472762:0</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.tools.handle.label>crwdns472764:0crwdne472764:0</MeleeWeapon_Ikwa.tools.handle.label>
+  <MeleeWeapon_Ikwa.tools.head.label>crwdns472766:0crwdne472766:0</MeleeWeapon_Ikwa.tools.head.label>
+  <MeleeWeapon_Ikwa.tools.edge.label>crwdns472768:0crwdne472768:0</MeleeWeapon_Ikwa.tools.edge.label>
+  
+  <MeleeWeapon_Knife.label>crwdns472770:0crwdne472770:0</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Knife.description>crwdns472772:0crwdne472772:0</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.tools.handle.label>crwdns472774:0crwdne472774:0</MeleeWeapon_Knife.tools.handle.label>
+  <MeleeWeapon_Knife.tools.blade.label>crwdns472776:0crwdne472776:0</MeleeWeapon_Knife.tools.blade.label>
+  <MeleeWeapon_Knife.tools.point.label>crwdns472778:0crwdne472778:0</MeleeWeapon_Knife.tools.point.label>
+  
+  <MeleeWeapon_Spear.label>crwdns472780:0crwdne472780:0</MeleeWeapon_Spear.label>
+  <MeleeWeapon_Spear.description>crwdns472782:0crwdne472782:0</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.tools.shaft.label>crwdns472784:0crwdne472784:0</MeleeWeapon_Spear.tools.shaft.label>
+  <MeleeWeapon_Spear.tools.point.label>crwdns472786:0crwdne472786:0</MeleeWeapon_Spear.tools.point.label>
+</LanguageData>
