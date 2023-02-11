@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WorkSpeedGlobalOffsetMech.label>메카노이드 작업 속도 영향</WorkSpeedGlobalOffsetMech.label>
-  <WorkSpeedGlobalOffsetMech.description>메카나이터가 통제하는 메카노이드들에게 적용되는 작업 속도 영향입니다.</WorkSpeedGlobalOffsetMech.description>
+  <HackingSpeed.label>해킹 속도</HackingSpeed.label>
+  <HackingSpeed.description>정착민이 단말기를 얼마나 빠르게 해킹할 수 있는지 나타냅니다.</HackingSpeed.description>
+  
+  <PruningSpeed.label>pruning speed</PruningSpeed.label>
+  <PruningSpeed.description>A multiplier on how fast this person can prune a Gauranlen tree to maintain their connection with it.\n\nPruning is more of a contemplative psychic task than a physical one, so health factors like vision are unimportant here.</PruningSpeed.description>
+  
+  <SuppressionPower.label>억압 능력</SuppressionPower.label>
+  <SuppressionPower.description>간수의 노예 복종 기술에 대한 계수입니다.</SuppressionPower.description>
 </LanguageData>
