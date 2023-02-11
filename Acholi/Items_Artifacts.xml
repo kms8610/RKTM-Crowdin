@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PsychicAnimalPulser.label>crwdns472244:0crwdne472244:0</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>crwdns472246:0crwdne472246:0</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>crwdns472248:0{0_label}crwdne472248:0</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  <PsychicSoothePulser.label>crwdns472250:0crwdne472250:0</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>crwdns472252:0crwdne472252:0</PsychicSoothePulser.description>
+  <PsychicSoothePulser.comps.CompUsable.useLabel>crwdns472254:0{0_label}crwdne472254:0</PsychicSoothePulser.comps.CompUsable.useLabel>
+</LanguageData>
