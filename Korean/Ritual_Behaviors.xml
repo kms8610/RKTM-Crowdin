@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.roles.0.label>주최자</AnimaTreeLinking.roles.0.label>
-  <AnimaTreeLinking.roles.0.customChildDisallowMessage>성인만 영혼나무와 연결할 수 있습니다.</AnimaTreeLinking.roles.0.customChildDisallowMessage>
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>자연 집중 유형을 통한 명상이 가능하고 정신력 증폭 단계가 최대치에 도달하지 않은 정착민이어야 합니다.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
-  <AnimaTreeLinking.spectatorFilter.description>자연 집중명상이 가능해야 합니다.</AnimaTreeLinking.spectatorFilter.description>
-  <AnimaTreeLinking.spectatorGerund>참여</AnimaTreeLinking.spectatorGerund>
-  <AnimaTreeLinking.spectatorsLabel>참여자</AnimaTreeLinking.spectatorsLabel>
-  
-  <ThroneSpeech.letterText>{ORGANIZER_labelShort}(이)가 왕좌에서 연설을 시작했습니다. 결과가 좋다면 청취자들은 영감을 받을 수 있고 {ORGANIZER_labelShort}에 대한 존경심이 높아집니다. 반대로 결과가 좋지 않으면 사교적 불이익이 생깁니다. 결과는 {ORGANIZER_labelShort}의 사교 기술에 따라 달라집니다.</ThroneSpeech.letterText>
-  <ThroneSpeech.letterTitle>왕좌에서의 연설</ThroneSpeech.letterTitle>
-  <ThroneSpeech.roles.0.label>주최자</ThroneSpeech.roles.0.label>
+  <ChildBirth.roles.0.label>산모</ChildBirth.roles.0.label>
+  <ChildBirth.roles.1.label>의사</ChildBirth.roles.1.label>
+  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>출산 중</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>출산 중</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>출산을 돕는 중</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
 </LanguageData>
