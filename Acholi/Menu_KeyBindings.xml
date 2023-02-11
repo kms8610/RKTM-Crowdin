@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SaveButton>crwdns482394:0crwdne482394:0</SaveButton>
+  <ClearBinding>crwdns482396:0crwdne482396:0</ClearBinding>
+  <ResetBinding>crwdns482398:0crwdne482398:0</ResetBinding>
+  <BindingButtonToolTip>crwdns482400:0crwdne482400:0</BindingButtonToolTip>
+  <BindingButtonToolTipController>crwdns482402:0crwdne482402:0</BindingButtonToolTipController>
+  <PressAnyKeyOrEsc>crwdns482404:0crwdne482404:0</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEscController>crwdns482406:0{Key:Cancel}crwdne482406:0</PressAnyKeyOrEscController>
+  <KeyBindingOverwritten>crwdns482408:0{0}crwdne482408:0</KeyBindingOverwritten>
+  
+</LanguageData>
