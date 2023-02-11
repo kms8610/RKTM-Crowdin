@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+    <li>crwdns447526:0[asker_nameFull]crwdnd447526:0[asker_faction_leaderTitle]crwdnd447526:0[asker_faction_name]crwdnd447526:0[asker_possessive]crwdnd447526:0[map_definite]crwdnd447526:0[numGroupsOf]crwdnd447526:0[enemyFaction_pawnsPlural]crwdnd447526:0[enemyFaction_name]crwdnd447526:0[asker_nameDef]crwdnd447526:0[enemyFaction_pawnsPlural]crwdnd447526:0[endingCommon]crwdne447526:0</li>
+    <li>crwdns447528:0[asker_nameFull]crwdnd447528:0[asker_royalTitleInCurrentFaction]crwdnd447528:0[asker_faction_name]crwdnd447528:0[groupsOf]crwdnd447528:0[enemyFaction_name]crwdnd447528:0[asker_possessive]crwdnd447528:0[asker_nameDef]crwdnd447528:0[endingCommon]crwdne447528:0</li>
+    <li>crwdns447530:0[enemyFaction_pawnsPlural]crwdne447530:0</li>
+    <li>crwdns447532:0[numGroupsOf]crwdnd447532:0[enemyFaction_pawnsPlural]crwdne447532:0</li>
+    <li>crwdns447534:0[pawnKindsParagraph]crwdnd447534:0[enemyFaction_pawnsPlural]crwdnd447534:0[firstRaidDelayTicks_duration]crwdne447534:0</li>
+    <li>crwdns447536:0[pawnKindsParagraph]crwdnd447536:0[helpersParagraph]crwdnd447536:0[enemyFaction_pawnsPlural]crwdnd447536:0[firstRaidDelayTicks_duration]crwdne447536:0</li>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+    <li>crwdns447538:0[enemyFaction_pawnsPlural]crwdne447538:0</li>
+    <li>crwdns447540:0[violence]crwdne447540:0</li>
+    <li>crwdns447542:0[violence]crwdne447542:0</li>
+    <li>crwdns447544:0[violence]crwdne447544:0</li>
+    <li>crwdns447546:0[violence]crwdne447546:0</li>
+    <li>crwdns447548:0[violence]crwdne447548:0</li>
+    <li>crwdns447550:0[violence]crwdne447550:0</li>
+    <li>crwdns447552:0[enemyFaction_pawnsPlural]crwdne447552:0</li>
+    <li>crwdns447554:0[violence]crwdne447554:0</li>
+    <li>crwdns447556:0crwdne447556:0</li>
+    <li>crwdns447558:0crwdne447558:0</li>
+    <li>crwdns447560:0crwdne447560:0</li>
+    <li>crwdns447562:0crwdne447562:0</li>
+    <li>crwdns447564:0crwdne447564:0</li>
+    <li>crwdns447566:0crwdne447566:0</li>
+    <li>crwdns447568:0crwdne447568:0</li>
+    <li>crwdns447570:0crwdne447570:0</li>
+    <li>crwdns447572:0crwdne447572:0</li>
+    <li>crwdns447574:0crwdne447574:0</li>
+    <li>crwdns447576:0crwdne447576:0</li>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+</LanguageData>
