@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_PackBandwidth.label>crwdns427122:0crwdne427122:0</Apparel_PackBandwidth.label>
+  <Apparel_PackBandwidth.description>crwdns427124:0crwdne427124:0</Apparel_PackBandwidth.description>
+  
+  <Apparel_PackControl.label>crwdns427126:0crwdne427126:0</Apparel_PackControl.label>
+  <Apparel_PackControl.description>crwdns427128:0crwdne427128:0</Apparel_PackControl.description>
+  
+  <Apparel_PackTox.label>crwdns427130:0crwdne427130:0</Apparel_PackTox.label>
+  <Apparel_PackTox.description>crwdns427132:0crwdne427132:0</Apparel_PackTox.description>
+  <Apparel_PackTox.comps.CompReloadable.chargeNoun>crwdns427134:0crwdne427134:0</Apparel_PackTox.comps.CompReloadable.chargeNoun>
+  <Apparel_PackTox.comps.CompReloadable.cooldownGerund>crwdns427136:0crwdne427136:0</Apparel_PackTox.comps.CompReloadable.cooldownGerund>
+  <Apparel_PackTox.verbs.deploy_tox_pack.label>crwdns427138:0crwdne427138:0</Apparel_PackTox.verbs.deploy_tox_pack.label>
+</LanguageData>
