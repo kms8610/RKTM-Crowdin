@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BabyBorn.stages.was_born_healthy.label>crwdns428128:0{0}crwdne428128:0</BabyBorn.stages.was_born_healthy.label>
+  <BabyBorn.stages.was_born_healthy.description>crwdns428130:0crwdne428130:0</BabyBorn.stages.was_born_healthy.description>
+  
+  <FedOn.stages.fed_on_by.label>crwdns428132:0{0}crwdne428132:0</FedOn.stages.fed_on_by.label>
+  <FedOn.stages.fed_on_by.description>crwdns428134:0crwdne428134:0</FedOn.stages.fed_on_by.description>
+  
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.label>crwdns428136:0crwdne428136:0</IngestedHemogenPack.stages.ingested_hemogen_pack.label>
+  <IngestedHemogenPack.stages.ingested_hemogen_pack.description>crwdns428138:0crwdne428138:0</IngestedHemogenPack.stages.ingested_hemogen_pack.description>
+  
+  <Miscarried.stages.miscarried.label>crwdns428140:0crwdne428140:0</Miscarried.stages.miscarried.label>
+  <Miscarried.stages.miscarried.description>crwdns428142:0crwdne428142:0</Miscarried.stages.miscarried.description>
+  
+  <PartnerMiscarried.stages.miscarried.label>crwdns428144:0{0}crwdne428144:0</PartnerMiscarried.stages.miscarried.label>
+  <PartnerMiscarried.stages.miscarried.description>crwdns428146:0crwdne428146:0</PartnerMiscarried.stages.miscarried.description>
+  
+  <PregnancyEnded.stages.pregnancy_ended.label>crwdns428148:0crwdne428148:0</PregnancyEnded.stages.pregnancy_ended.label>
+  <PregnancyEnded.stages.pregnancy_ended.description>crwdns428150:0crwdne428150:0</PregnancyEnded.stages.pregnancy_ended.description>
+  
+  <PregnancyTerminated.stages.pregnancy_terminated-0.label>crwdns428152:0crwdne428152:0</PregnancyTerminated.stages.pregnancy_terminated-0.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-0.description>crwdns428154:0crwdne428154:0</PregnancyTerminated.stages.pregnancy_terminated-0.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.label>crwdns428156:0crwdne428156:0</PregnancyTerminated.stages.pregnancy_terminated-1.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-1.description>crwdns428158:0crwdne428158:0</PregnancyTerminated.stages.pregnancy_terminated-1.description>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.label>crwdns428160:0crwdne428160:0</PregnancyTerminated.stages.pregnancy_terminated-2.label>
+  <PregnancyTerminated.stages.pregnancy_terminated-2.description>crwdns428162:0crwdne428162:0</PregnancyTerminated.stages.pregnancy_terminated-2.description>
+  
+  <PsychicBondTorn.stages.psychic_bond_torn.label>crwdns428164:0{0}crwdne428164:0</PsychicBondTorn.stages.psychic_bond_torn.label>
+  <PsychicBondTorn.stages.psychic_bond_torn.description>crwdns428166:0{OTHERPAWN}crwdne428166:0</PsychicBondTorn.stages.psychic_bond_torn.description>
+  
+  <Stillbirth.stages.stillbirth.label>crwdns428168:0crwdne428168:0</Stillbirth.stages.stillbirth.label>
+  <Stillbirth.stages.stillbirth.description>crwdns428170:0crwdne428170:0</Stillbirth.stages.stillbirth.description>
+  
+  <XenogermHarvested_Prisoner.stages.genes_harvested.label>crwdns428172:0crwdne428172:0</XenogermHarvested_Prisoner.stages.genes_harvested.label>
+  <XenogermHarvested_Prisoner.stages.genes_harvested.description>crwdns428174:0crwdne428174:0</XenogermHarvested_Prisoner.stages.genes_harvested.description>
+</LanguageData>
