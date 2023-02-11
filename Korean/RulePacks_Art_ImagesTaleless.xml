@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->[desc_pawn] 고독한 [Character]</li>
+    <li>image->[TerrainFeature] 근처의, [desc_pawn] 고독한 [Character]</li>
+    <li>image->[Community] 근처의, [desc_pawn] 고독한 [Character]</li>
+    <li>image->[desc_pawn] [Character](이)가 [Character]들에 둘러싸인 모습</li>
+    <li>image->[Game](을)를 즐기는 [Character]</li>
+    <li>image->[desc_pawn] [Character](이)가 [Quantity_adjphrase] 명의 [Character]들과 함께 [Game](을)를 즐기는 모습</li>
+    <li>image->[desc_pawn] [Character](이)가 [Weapon](을)를 들고 있는 모습</li>
+    <li>image->[desc_pawn] [Character](이)가 [Vegetable](을)를 먹는 모습</li>
+    <li>image->[Quantity_adjphrase] 명의 [PersonJob]들과 [PersonJob]들이 함께 [Vegetable](을)를 먹는 장면</li>
+    <li>image->[desc_pawn] 삼류 연예인 [NamePerson]</li>
+    <li>image->[desc_pawn] [Character](이)가 [Apparel](을)를 입은 모습</li>
+    <li>image->[Community]</li>
+    <li>image->[TerrainFeature]</li>
+    <li>image->[Weapon]</li>
+    <li>image->[TreeType]</li>
+    <li>image->[NaturalObject]</li>
+    <li>image->[Quantity_adjphrase] 개의 [Weapon]</li>
+    <li>image->[Quantity_adjphrase] 개의 [Vegetable]</li>
+    <li>image->헐렁한 [Apparel]</li>
+    <li>image->[Shape]</li>
+    <li>image->[Shape]들에 둘러싸인 [Shape]</li>
+    <li>image->추상적이지만 [ConceptAny] 모습</li>
+    <li>image->추상적이지만 [AdjectiveAny] 형태</li>
+    <li>desc_pawn(p=12)->있는</li>
+    <li>desc_pawn->하늘을 날고 있는</li>
+    <li>desc_pawn->공중에 떠있는</li>
+    <li>desc_pawn->왼쪽으로 움직이고 있는</li>
+    <li>desc_pawn->오른쪽으로 움직이고 있는</li>
+    <li>desc_pawn->식탁에 앉아있는</li>
+    <li>desc_pawn->망원경을 통해 바라본</li>
+    <li>desc_pawn->실루엣으로 표현된</li>
+    <li>desc_pawn->[Apparel](을)를 입고 [Animal] 위에 탄</li>
+    <li>desc_pawn->[AdjectiveAny] 느낌의</li>
+    <li>desc_pawn->[Gore](을)를 뒤집어쓴</li>
+  </TalelessImages.rulePack.rulesStrings>
+</LanguageData>
