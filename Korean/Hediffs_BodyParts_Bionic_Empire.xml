@@ -1,70 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AestheticNose.label>인상 교정기</AestheticNose.label>
-  <AestheticNose.description>인상 교정기를 이식했습니다.</AestheticNose.description>
-  <AestheticNose.labelNoun>인상 교정기</AestheticNose.labelNoun>
+  <InstallAestheticNose.label>인상 교정기 이식</InstallAestheticNose.label>
+  <InstallAestheticNose.description>인상 교정기를 이식합니다.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>인상 교정기 이식 중</InstallAestheticNose.jobString>
   
-  <AestheticShaper.label>외형 교정기</AestheticShaper.label>
-  <AestheticShaper.description>외형 교정기를 이식했습니다.</AestheticShaper.description>
-  <AestheticShaper.labelNoun>외형 교정기</AestheticShaper.labelNoun>
+  <InstallAestheticShaper.label>외형 교정기 이식</InstallAestheticShaper.label>
+  <InstallAestheticShaper.description>외형 교정기를 이식합니다.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>외형 교정기 이식 중</InstallAestheticShaper.jobString>
   
-  <ArmorskinGland.label>갑옷 피부</ArmorskinGland.label>
-  <ArmorskinGland.description>갑옷 피부를 이식했습니다.</ArmorskinGland.description>
-  <ArmorskinGland.labelNoun>갑옷 피부</ArmorskinGland.labelNoun>
+  <InstallArmorskinGland.label>갑옷 피부 이식</InstallArmorskinGland.label>
+  <InstallArmorskinGland.description>갑옷 피부를 이식합니다.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.jobString>갑옷 피부 이식 중</InstallArmorskinGland.jobString>
   
-  <CircadianAssistant.label>생체리듬 보조기</CircadianAssistant.label>
-  <CircadianAssistant.description>생체리듬 보조기를 설치했습니다.</CircadianAssistant.description>
-  <CircadianAssistant.labelNoun>생체리듬 보조기</CircadianAssistant.labelNoun>
+  <InstallCircadianAssistant.label>생체리듬 보조기 이식</InstallCircadianAssistant.label>
+  <InstallCircadianAssistant.description>생체리듬 보조기를 이식합니다.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>생체리듬 보조기 이식 중</InstallCircadianAssistant.jobString>
   
-  <CircadianHalfCycler.label>생체리듬 반감기</CircadianHalfCycler.label>
-  <CircadianHalfCycler.description>생체리듬 반감기를 이식했습니다.</CircadianHalfCycler.description>
-  <CircadianHalfCycler.labelNoun>생체리듬 반감기</CircadianHalfCycler.labelNoun>
+  <InstallCircadianHalfCycler.label>생체리듬 반감기 이식</InstallCircadianHalfCycler.label>
+  <InstallCircadianHalfCycler.description>생체리듬 반감기를 이식합니다.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>생체리듬 반감기 이식 중</InstallCircadianHalfCycler.jobString>
   
-  <Coagulator.label>항출혈기</Coagulator.label>
-  <Coagulator.description>항출혈기를 이식했습니다.</Coagulator.description>
-  <Coagulator.labelNoun>항출혈기</Coagulator.labelNoun>
+  <InstallCoagulator.label>항출혈기 이식</InstallCoagulator.label>
+  <InstallCoagulator.description>항출혈기를 이식합니다.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>항출혈기 이식 중</InstallCoagulator.jobString>
   
-  <DetoxifierStomach.label>해독강화 위</DetoxifierStomach.label>
-  <DetoxifierStomach.description>해독강화 위를 이식했습니다.</DetoxifierStomach.description>
-  <DetoxifierStomach.labelNoun>해독강화 위</DetoxifierStomach.labelNoun>
+  <InstallDetoxifierStomach.label>해독강화 위 이식</InstallDetoxifierStomach.label>
+  <InstallDetoxifierStomach.description>해독강화 위를 이식합니다.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.jobString>해독강화 위 이식 중</InstallDetoxifierStomach.jobString>
   
-  <GastroAnalyzer.label>후각 증폭기</GastroAnalyzer.label>
-  <GastroAnalyzer.description>후각 증폭기를 이식했습니다.</GastroAnalyzer.description>
-  <GastroAnalyzer.labelNoun>후각 증폭기</GastroAnalyzer.labelNoun>
+  <InstallGastroAnalyzer.label>후각 증폭기 이식</InstallGastroAnalyzer.label>
+  <InstallGastroAnalyzer.description>후각 증폭기를 이식합니다.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>후각 증폭기 이식 중</InstallGastroAnalyzer.jobString>
   
-  <HealingEnhancer.label>재생력 증진기</HealingEnhancer.label>
-  <HealingEnhancer.description>재생력 증진기를 설치했습니다.</HealingEnhancer.description>
-  <HealingEnhancer.labelNoun>재생력 증진기</HealingEnhancer.labelNoun>
+  <InstallHealingEnhancer.label>재생력 증진기 이식</InstallHealingEnhancer.label>
+  <InstallHealingEnhancer.description>재생력 증진기를 이식합니다.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>재생력 증진기 이식 중</InstallHealingEnhancer.jobString>
   
-  <Immunoenhancer.label>면역 증진기</Immunoenhancer.label>
-  <Immunoenhancer.description>면역 증진기를 이식했습니다.</Immunoenhancer.description>
-  <Immunoenhancer.labelNoun>면역 증진기</Immunoenhancer.labelNoun>
+  <InstallImmunoenhancer.label>면역 증진기 이식</InstallImmunoenhancer.label>
+  <InstallImmunoenhancer.description>면역 증진기를 이식합니다.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>면역 증진기 이식 중</InstallImmunoenhancer.jobString>
   
-  <LearningAssistant.label>학습 보조기</LearningAssistant.label>
-  <LearningAssistant.description>학습 보조기를 이식했습니다.</LearningAssistant.description>
-  <LearningAssistant.labelNoun>학습 보조기</LearningAssistant.labelNoun>
+  <InstallLearningAssistant.label>학습 보조기 이식</InstallLearningAssistant.label>
+  <InstallLearningAssistant.description>학습 보조기를 이식합니다.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>학습 보조기 이식 중</InstallLearningAssistant.jobString>
   
-  <LoveEnhancer.label>애정 증진기</LoveEnhancer.label>
-  <LoveEnhancer.description>애정 증진기를 설치했습니다.</LoveEnhancer.description>
-  <LoveEnhancer.labelNoun>애정 증진기</LoveEnhancer.labelNoun>
+  <InstallLoveEnhancer.label>애정 증진기 이식</InstallLoveEnhancer.label>
+  <InstallLoveEnhancer.description>애정 증진기를 이식합니다.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>애정 증진기 이식 중</InstallLoveEnhancer.jobString>
   
-  <Neurocalculator.label>연산 보조기</Neurocalculator.label>
-  <Neurocalculator.description>연산 보조기를 이식했습니다.</Neurocalculator.description>
-  <Neurocalculator.labelNoun>연산 보조기</Neurocalculator.labelNoun>
+  <InstallNeurocalculator.label>연산 보조기 이식</InstallNeurocalculator.label>
+  <InstallNeurocalculator.description>연산 보조기를 이식합니다.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>연산 보조기 이식 중</InstallNeurocalculator.jobString>
   
-  <NuclearStomach.label>핵분열 위</NuclearStomach.label>
-  <NuclearStomach.description>핵분열 위를 이식했습니다.</NuclearStomach.description>
-  <NuclearStomach.labelNoun>핵분열 위</NuclearStomach.labelNoun>
+  <InstallNuclearStomach.label>핵분열 위 이식</InstallNuclearStomach.label>
+  <InstallNuclearStomach.description>핵분열 위를 이식합니다.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.jobString>핵분열 위 이식 중</InstallNuclearStomach.jobString>
   
-  <ReprocessorStomach.label>소화강화 위</ReprocessorStomach.label>
-  <ReprocessorStomach.description>소화강화 위를 이식했습니다.</ReprocessorStomach.description>
-  <ReprocessorStomach.labelNoun>소화강화 위</ReprocessorStomach.labelNoun>
+  <InstallReprocessorStomach.label>소화강화 위 이식</InstallReprocessorStomach.label>
+  <InstallReprocessorStomach.description>소화강화 위를 이식합니다.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.jobString>소화강화 위 이식 중</InstallReprocessorStomach.jobString>
   
-  <StoneskinGland.label>바위 피부</StoneskinGland.label>
-  <StoneskinGland.description>바위 피부를 이식했습니다.</StoneskinGland.description>
-  <StoneskinGland.labelNoun>바위 피부</StoneskinGland.labelNoun>
+  <InstallStoneskinGland.label>바위 피부 이식</InstallStoneskinGland.label>
+  <InstallStoneskinGland.description>바위 피부를 이식합니다.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.jobString>바위 피부 이식 중</InstallStoneskinGland.jobString>
   
-  <ToughskinGland.label>튼튼한 피부</ToughskinGland.label>
-  <ToughskinGland.description>튼튼한 피부를 이식했습니다.</ToughskinGland.description>
-  <ToughskinGland.labelNoun>튼튼한 피부</ToughskinGland.labelNoun>
+  <InstallToughskinGland.label>튼튼한 피부 이식</InstallToughskinGland.label>
+  <InstallToughskinGland.description>튼튼한 피부를 이식합니다.</InstallToughskinGland.description>
+  <InstallToughskinGland.jobString>튼튼한 피부 이식 중</InstallToughskinGland.jobString>
+  
+  <RemoveAestheticNose.label>인상 교정기 제거</RemoveAestheticNose.label>
+  <RemoveAestheticNose.description>인상 교정기를 제거합니다.</RemoveAestheticNose.description>
+  <RemoveAestheticNose.jobString>인상 교정기</RemoveAestheticNose.jobString>
+  
+  <RemoveAestheticShaper.label>외형 교정기를 제거</RemoveAestheticShaper.label>
+  <RemoveAestheticShaper.description>외형 교정기를 제거합니다.</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.jobString>외형 교정기 제거 중</RemoveAestheticShaper.jobString>
+  
+  <RemoveArmorskinGland.label>갑옷 피부 제거</RemoveArmorskinGland.label>
+  <RemoveArmorskinGland.description>갑옷 피부를 제거합니다.</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.jobString>갑옷 피부 제거 중</RemoveArmorskinGland.jobString>
+  
+  <RemoveCircadianAssistant.label>생체리듬 보조기 제거</RemoveCircadianAssistant.label>
+  <RemoveCircadianAssistant.description>생체리듬 보조기를 제거합니다.</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.jobString>생체리듬 보조기 제거 중</RemoveCircadianAssistant.jobString>
+  
+  <RemoveCircadianHalfCycler.label>생체리듬 반감기 제거</RemoveCircadianHalfCycler.label>
+  <RemoveCircadianHalfCycler.description>생체리듬 반감기를 제거합니다.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.jobString>생체리듬 반감기 제거 중</RemoveCircadianHalfCycler.jobString>
+  
+  <RemoveCoagulator.label>항출혈기 제거</RemoveCoagulator.label>
+  <RemoveCoagulator.description>항출혈기를 제거합니다.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>항출혈기 제거 중</RemoveCoagulator.jobString>
+  
+  <RemoveGastroAnalyzer.label>후각 증폭기 제거</RemoveGastroAnalyzer.label>
+  <RemoveGastroAnalyzer.description>후각 증폭기를 제거합니다.</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.jobString>후각 증폭기 제거 중</RemoveGastroAnalyzer.jobString>
+  
+  <RemoveHealingEnhancer.label>재생력 증진기 제거</RemoveHealingEnhancer.label>
+  <RemoveHealingEnhancer.description>재생력 증진기를 제거합니다.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.jobString>재생력 증진기 제거 중</RemoveHealingEnhancer.jobString>
+  
+  <RemoveImmunoenhancer.label>면역 증진기 제거</RemoveImmunoenhancer.label>
+  <RemoveImmunoenhancer.description>면역 증진기를 제거합니다.</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.jobString>면역 증진기 제거 중</RemoveImmunoenhancer.jobString>
+  
+  <RemoveLearningAssistant.label>학습 보조기 제거</RemoveLearningAssistant.label>
+  <RemoveLearningAssistant.description>학습 보조기를 제거합니다.</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.jobString>학습 보조기 제거 중</RemoveLearningAssistant.jobString>
+  
+  <RemoveLoveEnhancer.label>애정 증진기 제거</RemoveLoveEnhancer.label>
+  <RemoveLoveEnhancer.description>애정 증진기를 제거합니다.</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.jobString>애정 증진기 제거 중</RemoveLoveEnhancer.jobString>
+  
+  <RemoveNeurocalculator.label>연산 보조기 제거</RemoveNeurocalculator.label>
+  <RemoveNeurocalculator.description>연산 보조기를 제거합니다.</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.jobString>연산 보조기 제거 중</RemoveNeurocalculator.jobString>
+  
+  <RemoveStoneskinGland.label>바위피부 제거</RemoveStoneskinGland.label>
+  <RemoveStoneskinGland.description>바위피부를 제거합니다.</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.jobString>바위피부 제거 중</RemoveStoneskinGland.jobString>
+  
+  <RemoveToughskinGland.label>튼튼한 피부 제거</RemoveToughskinGland.label>
+  <RemoveToughskinGland.description>튼튼한 피부를 제거합니다.</RemoveToughskinGland.description>
+  <RemoveToughskinGland.jobString>튼튼한 피부 제거 중</RemoveToughskinGland.jobString>
 </LanguageData>
