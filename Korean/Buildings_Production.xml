@@ -1,77 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BiofuelRefinery.label>연료 정제기</BiofuelRefinery.label>
-  <BiofuelRefinery.description>목재나 유기물을 정제하여 연료를 생산합니다.</BiofuelRefinery.description>
+  <LargeMechGestator.label>대형 메카노이드 배양기</LargeMechGestator.label>
+  <LargeMechGestator.description>기계입자가 풍부한 액체를 담은 수조와, 수조에 재료와 영양분을 공급할 배관이 달려있는 장치입니다. 메카나이터는 배양기를 사용해서 새로운 메카노이드를 생성하거나 파괴된 메카노이드를 소생할 수 있습니다. 이 배양기는 중형, 대형, 초대형 메카노이드를 배양할 수 있습니다.\n\n메카노이드 배양에는 독한 화학물질이 필요하며 부산물은 독성 폐기물로 내부에 보관됩니다. 보관량에는 한계가 있으므로 폐기물은 계속 비워줘야 합니다.</LargeMechGestator.description>
   
-  <Brewery.label>양조대</Brewery.label>
-  <Brewery.description>술보리로 맥아즙을 만드는 작업대입니다.</Brewery.description>
+  <MechGestator.label>메카노이드 배양기</MechGestator.label>
+  <MechGestator.description>기계입자가 풍부한 액체를 담은 수조와, 수조에 재료와 영양분을 공급할 배관이 달려있는 장치입니다. 메카나이터는 배양기를 사용해서 새로운 메카노이드를 생성하거나 파괴된 메카노이드를 소생할 수 있습니다. 이 배양기는 기본 형태며 소형 메카노이드만 배양할 수 있습니다.\n\n메카노이드 배양에는 독한 화학물질이 필요하며 부산물은 독성 폐기물로 내부에 보관됩니다. 보관량에는 한계가 있으므로 폐기물은 계속 비워줘야 합니다.</MechGestator.description>
   
-  <ButcherSpot.label>간이 도축 장소</ButcherSpot.label>
-  <ButcherSpot.description>동물 시체를 해체하는 장소입니다. 적당한 장비가 없기 때문에 생물의 고기와 가죽의 70%만이 생산됩니다.</ButcherSpot.description>
+  <SubcoreEncoder.label>서브코어 부호기</SubcoreEncoder.label>
+  <SubcoreEncoder.description>메카나이터가 기초 등급 서브코어를 제작할 수 있는 제작대입니다. 서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 기초 서브코어는 단순한 기초 등급 메카노이드와만 호환됩니다.\n\n고등급 서브코어는 서브코어 소프트스캐너와 서브코어 립스캐너에서 생산할 수 있습니다.</SubcoreEncoder.description>
   
-  <CraftingSpot.label>간이 제작 장소</CraftingSpot.label>
-  <CraftingSpot.description>날붙이나 활처럼 간단한 물건을 만들 수 있는 장소를 지정합니다.</CraftingSpot.description>
+  <SubcoreRipscanner.label>서브코어 립스캐너</SubcoreRipscanner.label>
+  <SubcoreRipscanner.description>수천 개의 탐침 주사기와, 뇌를 통째로 증발시킬 수 있을 정도의 초고출력 스캐너로 구성된 장치입니다. 사람이 탑승하면 전신에 걸쳐 탐침을 피부 아래로 찌르고, 스캐너가 고출력 에너지를 조사하여 모든 반응을 기록합니다. 이 과정에서 탑승자의 뇌는 파괴됩니다. 의식의 립스캐닝을 통해 고등급 메카노이드 서브코어로 아날로그 전송 가능한 신경-정신 패턴을 얻을 수 있습니다.\n\n서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 립스캐닝으로 제작한 고등급 서브코어는 고등급 메카노이드와만 호환됩니다.</SubcoreRipscanner.description>
   
-  <DeepDrill.label>심층 굴착기</DeepDrill.label>
-  <DeepDrill.description>이동 가능한 굴착 장비입니다. 지면 투과 탐색기를 이용해 찾아낸 지하 자원을 추출하기 위해 사용됩니다. 자원이 없는 곳에서는 암석 덩어리를 생산합니다.</DeepDrill.description>
-  
-  <DrugLab.label>약물 연구대</DrugLab.label>
-  <DrugLab.description>다양한 약물 제조에 필요한 용기, 가열장치, 측정 도구로 이루어진 작업대입니다.</DrugLab.description>
-  
-  <ElectricCrematorium.label>전기 화장터</ElectricCrematorium.label>
-  <ElectricCrematorium.description>전기로 시체를 소각하는 곳입니다.</ElectricCrematorium.description>
-  
-  <ElectricSmelter.label>전기로</ElectricSmelter.label>
-  <ElectricSmelter.description>고철 덩어리나 금속이 혼합된 물품에서 금속을 추출합니다. 전기가 많이 소비됩니다.</ElectricSmelter.description>
-  
-  <ElectricSmithy.label>전기 단조 작업대</ElectricSmithy.label>
-  <ElectricSmithy.description>기계가 사용되지 않는 금속 무기와 도구를 생산하기 위한 작업대입니다. 전기로 작동합니다.</ElectricSmithy.description>
-  
-  <ElectricStove.label>전기 스토브</ElectricStove.label>
-  <ElectricStove.description>식재료로 식사를 준비하기 위한 전기 스토브입니다.</ElectricStove.description>
-  
-  <ElectricTailoringBench.label>전기 재봉 작업대</ElectricTailoringBench.label>
-  <ElectricTailoringBench.description>빠른 의류 생산을 위한 작업대입니다. 전기 없이도 50% 속도로 작동합니다.</ElectricTailoringBench.description>
-  
-  <FabricationBench.label>조립 작업대</FabricationBench.label>
-  <FabricationBench.description>더 적은 재료로 발달된 장비를 만들 수 있는 작업대입니다.</FabricationBench.description>
-  
-  <FermentingBarrel.label>발효통</FermentingBarrel.label>
-  <FermentingBarrel.description>맥아즙을 맥주로 발효하는데 필요한 통입니다.</FermentingBarrel.description>
-  
-  <FueledSmithy.label>단조 작업대</FueledSmithy.label>
-  <FueledSmithy.description>무기와 도구를 생산하기 위한 작업대입니다. 나무를 태워 작동합니다.</FueledSmithy.description>
-  
-  <FueledStove.label>스토브</FueledStove.label>
-  <FueledStove.description>식재료로 식사를 준비하기 위한 간단한 스토브입니다. 나무를 태워 작동합니다.</FueledStove.description>
-  
-  <HandTailoringBench.label>재봉 작업대</HandTailoringBench.label>
-  <HandTailoringBench.description>의류 생산을 위한 작업대입니다. 전기 작업대의 50% 속도로 작동합니다.</HandTailoringBench.description>
-  
-  <HiTechResearchBench.label>첨단 연구 작업대</HiTechResearchBench.label>
-  <HiTechResearchBench.description>컴퓨터와 계측장치를 갖춘 고급 연구 작업대입니다. 연구 속도가 빠르며 고급 연구를 가능하게 합니다.</HiTechResearchBench.description>
-  
-  <Hopper.label>영양죽 투입구</Hopper.label>
-  <Hopper.description>영양죽 배급기가 사용할 자원을 담아두는 곳입니다.</Hopper.description>
-  
-  <HydroponicsBasin.label>수경재배기</HydroponicsBasin.label>
-  <HydroponicsBasin.description>실내에서 작물을 빠르게 길러냅니다. 전기가 끊기면 심어놓은 식물들도 죽습니다.</HydroponicsBasin.description>
-  
-  <NutrientPasteDispenser.label>영양죽 배급기</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>식재료로 영양분 반죽을 합성합니다. 진짜 요리보다 더 적은 재료와 시간을 필요로 하지만 아무도 이걸 먹고 싶어하진 않습니다. 건초같은 거친 식물성 재료는 받아들이지 않습니다.</NutrientPasteDispenser.description>
-  
-  <SimpleResearchBench.label>연구 작업대</SimpleResearchBench.label>
-  <SimpleResearchBench.description>간단한 문서 도구와 기초적인 실험도구를 갖춘 작업대입니다. 과학자들이 새로운 기술을 발견하는데 사용됩니다.</SimpleResearchBench.description>
-  
-  <TableButcher.label>도축 작업대</TableButcher.label>
-  <TableButcher.description>죽은 동물을 생고기 조각으로 가공할 때 사용하는 무거운 탁자입니다. 부패했거나 백골화된 시체는 도축할 수 없습니다.</TableButcher.description>
-  
-  <TableMachining.label>기계 작업대</TableMachining.label>
-  <TableMachining.description>총을 조립하거나 메카노이드를 분해할 수 있는 작업대입니다.</TableMachining.description>
-  
-  <TableSculpting.label>조소 작업대</TableSculpting.label>
-  <TableSculpting.description>조각용 도구가 배치된 작업대입니다.</TableSculpting.description>
-  
-  <TableStonecutter.label>석재 절삭대</TableStonecutter.label>
-  <TableStonecutter.description>거친 돌을 잘라 사용하기 좋은 석재로 만드는 작업대입니다.</TableStonecutter.description>
+  <SubcoreSoftscanner.label>서브코어 소프트스캐너</SubcoreSoftscanner.label>
+  <SubcoreSoftscanner.description>수천 개의 미세한 탐침 주사기와 고출력 스캐너로 구성된 장치입니다. 사람이 탑승하면 탐침과 스캐너를 사용해 탑승자의 신경-정신 패턴을 기록하여 표준 메카노이드 서브코어에 아날로그로 전송합니다. 스캔 대상은 절차 완료 후 잠시 부작용을 겪지만 건강에는 문제가 없습니다.\n\n서브코어는 메카노이드의 뇌와 같고, 모든 메카노이드 생산에는 서브코어 하나가 필요합니다. 소프트스캐닝으로 제작한 표준 서브코어는 표준 등급 메카노이드와만 호환됩니다.\n\n고등급 서브코어는 립스캐너를 건설해 제작할 수 있습니다.</SubcoreSoftscanner.description>
 </LanguageData>
