@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicSuppression.label>crwdns445446:0crwdne445446:0</PsychicSuppression.label>
-  <PsychicSuppression.description>crwdns445448:0crwdne445448:0</PsychicSuppression.description>
+  <ClimateAdjuster.label>crwdns448622:0crwdne448622:0</ClimateAdjuster.label>
+  <ClimateAdjuster.description>crwdns448624:0crwdne448624:0</ClimateAdjuster.description>
+  
+  <EMIDynamo.label>crwdns448626:0crwdne448626:0</EMIDynamo.label>
+  <EMIDynamo.description>crwdns448628:0crwdne448628:0</EMIDynamo.description>
+  
+  <PsychicDroner.label>crwdns448630:0crwdne448630:0</PsychicDroner.label>
+  <PsychicDroner.description>crwdns448632:0crwdne448632:0</PsychicDroner.description>
+  
+  <PsychicSuppressor.label>crwdns448634:0crwdne448634:0</PsychicSuppressor.label>
+  <PsychicSuppressor.description>crwdns448636:0crwdne448636:0</PsychicSuppressor.description>
+  
+  <SmokeSpewer.label>crwdns448638:0crwdne448638:0</SmokeSpewer.label>
+  <SmokeSpewer.description>crwdns448640:0crwdne448640:0</SmokeSpewer.description>
+  
+  <SunBlocker.label>crwdns448642:0crwdne448642:0</SunBlocker.label>
+  <SunBlocker.description>crwdns448644:0crwdne448644:0</SunBlocker.description>
+  
+  <ToxicSpewer.label>crwdns448646:0crwdne448646:0</ToxicSpewer.label>
+  <ToxicSpewer.description>crwdns448648:0crwdne448648:0</ToxicSpewer.description>
+  
+  <WeatherController.label>crwdns448650:0crwdne448650:0</WeatherController.label>
+  <WeatherController.description>crwdns448652:0crwdne448652:0</WeatherController.description>
 </LanguageData>
