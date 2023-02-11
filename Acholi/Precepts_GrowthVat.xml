@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GrowthVat.label>crwdns424398:0crwdne424398:0</GrowthVat.label>
+  <GrowthVat_Essential.label>crwdns424858:0crwdne424858:0</GrowthVat_Essential.label>
+  <GrowthVat_Essential.description>crwdns424860:0crwdne424860:0</GrowthVat_Essential.description>
+  <GrowthVat_Essential.comps.0.description>crwdns424862:0crwdne424862:0</GrowthVat_Essential.comps.0.description>
+  <GrowthVat_Essential.comps.1.description>crwdns424864:0crwdne424864:0</GrowthVat_Essential.comps.1.description>
+  
+  <GrowthVat_Prohibited.label>crwdns424866:0crwdne424866:0</GrowthVat_Prohibited.label>
+  <GrowthVat_Prohibited.description>crwdns424868:0crwdne424868:0</GrowthVat_Prohibited.description>
+  <GrowthVat_Prohibited.comps.0.description>crwdns424870:0crwdne424870:0</GrowthVat_Prohibited.comps.0.description>
+  <GrowthVat_Prohibited.comps.1.description>crwdns424872:0crwdne424872:0</GrowthVat_Prohibited.comps.1.description>
+  <GrowthVat_Prohibited.comps.2.description>crwdns424874:0crwdne424874:0</GrowthVat_Prohibited.comps.2.description>
+  <GrowthVat_Prohibited.comps.3.description>crwdns424876:0crwdne424876:0</GrowthVat_Prohibited.comps.3.description>
 </LanguageData>
