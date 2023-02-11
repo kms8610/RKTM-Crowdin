@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeDamageFactor.label>crwdns426922:0crwdne426922:0</MeleeDamageFactor.label>
+  <MeleeDamageFactor.description>crwdns426924:0crwdne426924:0</MeleeDamageFactor.description>
+  
+  <MeleeDoorDamageFactor.label>crwdns426926:0crwdne426926:0</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.description>crwdns426928:0crwdne426928:0</MeleeDoorDamageFactor.description>
+  
+  <RangedCooldownFactor.label>crwdns426930:0crwdne426930:0</RangedCooldownFactor.label>
+  <RangedCooldownFactor.description>crwdns426932:0crwdne426932:0</RangedCooldownFactor.description>
+  
+  <ShootingAccuracyChildFactor.label>crwdns426934:0crwdne426934:0</ShootingAccuracyChildFactor.label>
+  
+  <StaggerDurationFactor.label>crwdns426936:0crwdne426936:0</StaggerDurationFactor.label>
+  <StaggerDurationFactor.description>crwdns426938:0crwdne426938:0</StaggerDurationFactor.description>
+</LanguageData>
