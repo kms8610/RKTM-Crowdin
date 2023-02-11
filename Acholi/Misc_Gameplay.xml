@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SelfShutdown>crwdns429970:0crwdne429970:0</SelfShutdown>
+  <CarryToRecharger>crwdns429972:0crwdne429972:0</CarryToRecharger>
+  <MustBeCarriedToRecharger>crwdns429974:0crwdne429974:0</MustBeCarriedToRecharger>
+  <Danger>crwdns429976:0crwdne429976:0</Danger>
+  <DamageType>crwdns429978:0{0}crwdne429978:0</DamageType>
+  <ContainedThings>crwdns429980:0{0_labelPlural}crwdne429980:0</ContainedThings>
+  <DurationUntilNextAtomization>crwdns429982:0crwdne429982:0</DurationUntilNextAtomization>
+  <FinishesIn>crwdns429984:0crwdne429984:0</FinishesIn>
+  <WithLower>crwdns429986:0crwdne429986:0</WithLower>
+  <TilesLower>crwdns429988:0crwdne429988:0</TilesLower>
+  <CaravanMech>crwdns429990:0crwdne429990:0</CaravanMech>
+  <CaravanMechsCount>crwdns429992:0{0}crwdne429992:0</CaravanMechsCount>
+  <BossWithApparel>crwdns429994:0{BOSS}crwdnd429994:0{APPAREL}crwdne429994:0</BossWithApparel>
+
+  <!-- Job reports -->
+  <ReportRemovingMechlink>crwdns429996:0{0}crwdne429996:0</ReportRemovingMechlink>
+
+  <!-- Areas -->
+  <PollutionClear>crwdns429998:0crwdne429998:0</PollutionClear>
+
+  <!-- Mechanitor -->
+  <Overseer>crwdns430000:0crwdne430000:0</Overseer>
+  <OverseerNone>crwdns430002:0crwdne430002:0</OverseerNone>
+  <MayGoFeral>crwdns430004:0crwdne430004:0</MayGoFeral>
+  <Bandwidth>crwdns430006:0crwdne430006:0</Bandwidth>
+  <BandwidthLower>crwdns430008:0crwdne430008:0</BandwidthLower>
+  <BandwidthGizmoTip>crwdns430010:0crwdne430010:0</BandwidthGizmoTip>
+  <ControlGroup>crwdns430012:0crwdne430012:0</ControlGroup>
+  <CurrentMechWorkMode>crwdns430014:0crwdne430014:0</CurrentMechWorkMode>
+  <AssignedMechs>crwdns430016:0crwdne430016:0</AssignedMechs>
+  <BandNodeTunedTo>crwdns430018:0crwdne430018:0</BandNodeTunedTo>
+  <BandNodeTuneTo>crwdns430020:0crwdne430020:0</BandNodeTuneTo>
+  <BandNodeTuningTo>crwdns430022:0crwdne430022:0</BandNodeTuningTo>
+  <BandNodeRetuneTo>crwdns430024:0crwdne430024:0</BandNodeRetuneTo>
+  <BandNodeTuningDesc>crwdns430026:0{0}crwdne430026:0</BandNodeTuningDesc>
+  <BandNodeRetuningDesc>crwdns430028:0{0}crwdne430028:0</BandNodeRetuningDesc>
+  <DropThingBandwidthApparel>crwdns430030:0{0}crwdnd430030:0{1_labelShort}crwdnd430030:0{2}crwdnd430030:0{3}crwdne430030:0</DropThingBandwidthApparel>
+  <NoMechs>crwdns430032:0crwdne430032:0</NoMechs>
+  <Group>crwdns430034:0crwdne430034:0</Group>
+  <Groups>crwdns430036:0crwdne430036:0</Groups>
+  <LoadingMechGestator>crwdns430038:0crwdne430038:0</LoadingMechGestator>
+  <InitMechGestationCycle>crwdns430040:0crwdne430040:0</InitMechGestationCycle>
+  <InitMechBirth>crwdns430042:0crwdne430042:0</InitMechBirth>
+  <MechEnergy>crwdns430044:0crwdne430044:0</MechEnergy>
+  <Energy>crwdns430046:0crwdne430046:0</Energy>
+  <EnergyLower>crwdns430048:0crwdne430048:0</EnergyLower>
+  <BandwidthUsage>crwdns430050:0crwdne430050:0</BandwidthUsage>
+  <MechGestationBandwidthUsed>crwdns430052:0crwdne430052:0</MechGestationBandwidthUsed>
+  <CannotSummon>crwdns430054:0{0}crwdne430054:0</CannotSummon>
+  <ReadyToSummonThreat>crwdns430056:0{0}crwdne430056:0</ReadyToSummonThreat>
+  <Summon>crwdns430058:0{0}crwdne430058:0</Summon>
+  <NoReachableBossgroupCaller>crwdns430060:0{0}crwdne430060:0</NoReachableBossgroupCaller>
+  <NoReservableBossgroupCaller>crwdns430062:0{0}crwdne430062:0</NoReservableBossgroupCaller>
+  <NoPoweredBossgroupCaller>crwdns430064:0{0}crwdne430064:0</NoPoweredBossgroupCaller>
+  <AlreadyUsed>crwdns430066:0crwdne430066:0</AlreadyUsed>
+  <Gestating>crwdns430068:0crwdne430068:0</Gestating>
+  <Escorting>crwdns430070:0{TARGET_labelShort}crwdne430070:0</Escorting>
+  <Worker>crwdns430072:0crwdne430072:0</Worker>
+  <WaitingFor>crwdns430074:0crwdne430074:0</WaitingFor>
+  <Uncontrolled>crwdns430076:0crwdne430076:0</Uncontrolled>
+  <BossgroupIncoming>crwdns430078:0{0}crwdne430078:0</BossgroupIncoming>
+
+  <!-- Sanguophage -->
+  <Hemogen>crwdns430080:0crwdne430080:0</Hemogen>
+  <HemogenDesc>crwdns430082:0crwdne430082:0</HemogenDesc>
+  <DeathrestCapacity>crwdns430084:0crwdne430084:0</DeathrestCapacity>
+  <DeathrestCapacityDesc>crwdns430086:0crwdne430086:0</DeathrestCapacityDesc>
+  <PawnIsConnectedToBuildings>crwdns430088:0{PAWN_nameDef}crwdnd430088:0{CURRENT}crwdnd430088:0{MAX}crwdne430088:0</PawnIsConnectedToBuildings>
+  <Wake>crwdns430090:0crwdne430090:0</Wake>
+  <WakeDesc>crwdns430092:0{PAWN_nameDef}crwdnd430092:0{DURATION}crwdne430092:0</WakeDesc>
+  <WakeExtraDesc_Exhaustion>crwdns430094:0{PAWN_nameDef}crwdnd430094:0{TOTAL}crwdnd430094:0{PAWN_objective}crwdnd430094:0{PAWN_objective}crwdnd430094:0{PAWN_pronoun}crwdne430094:0</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Safe>crwdns430096:0{PAWN_nameDef}crwdne430096:0</WakeExtraDesc_Safe>
+  <CannotWakeNotEnoughHemogen>crwdns430098:0{0}crwdne430098:0</CannotWakeNotEnoughHemogen>
+  <AutoWake>crwdns430100:0crwdne430100:0</AutoWake>
+  <AutoWakeDesc>crwdns430102:0{PAWN_nameDef}crwdnd430102:0{PAWN_possessive}crwdnd430102:0{PAWN_pronoun}crwdnd430102:0{PAWN_objective}crwdne430102:0</AutoWakeDesc>
+  <IsDeathresting>crwdns430104:0{PAWN_nameDef}crwdne430104:0</IsDeathresting>
+  <CannotDeathrest>crwdns430106:0crwdne430106:0</CannotDeathrest>
+  <StartDeathrest>crwdns430108:0crwdne430108:0</StartDeathrest>
+  <ConfirmExitDeathrestUnderMinDays>crwdns430110:0{MINDURATION}crwdnd430110:0{PAWN_nameDef}crwdnd430110:0{CURDURATION}crwdnd430110:0{PAWN_nameDef}crwdnd430110:0{PAWN_possessive}crwdnd430110:0{PAWN_possessive}crwdnd430110:0{PAWN_objective}crwdnd430110:0{PAWN_objective}crwdne430110:0</ConfirmExitDeathrestUnderMinDays>
+  <Deathresting>crwdns430112:0crwdne430112:0</Deathresting>
+  <Complete>crwdns430114:0crwdne430114:0</Complete>
+  <CanWakeSafely>crwdns430116:0crwdne430116:0</CanWakeSafely>
+  <DisabledByGene>crwdns430118:0crwdne430118:0</DisabledByGene>
+  <WakeDisabledCriticalCondition>crwdns430120:0{PAWN_nameDef}crwdne430120:0</WakeDisabledCriticalCondition>
+  <DrainRate>crwdns430122:0crwdne430122:0</DrainRate>
+  <RegenerationRate>crwdns430124:0crwdne430124:0</RegenerationRate>
+  <NextDeathrestNeed>crwdns430126:0{PAWN_nameDef}crwdnd430126:0{DURATION}crwdne430126:0</NextDeathrestNeed>
+  <PawnShouldDeathrestNow>crwdns430128:0{PAWN_nameDef}crwdne430128:0</PawnShouldDeathrestNow>
+  <AutoTakeHemogenDesc>crwdns430130:0{PAWN_nameDef}crwdnd430130:0{PAWN_possessive}crwdnd430130:0{MIN}crwdnd430130:0{ONOFF}crwdne430130:0</AutoTakeHemogenDesc>
+  <ConsumeHemogenBelow>crwdns430132:0crwdne430132:0</ConsumeHemogenBelow>
+  <NeverConsumeHemogen>crwdns430134:0crwdne430134:0</NeverConsumeHemogen>
+  <WillKill>crwdns430136:0crwdne430136:0</WillKill>
+  <WillCauseSeriousBloodloss>crwdns430138:0crwdne430138:0</WillCauseSeriousBloodloss>
+  <TooSmall>crwdns430140:0crwdne430140:0</TooSmall>
+
+  <!-- Deathrest buildings -->
+  <BoundTo>crwdns430142:0crwdne430142:0</BoundTo>
+  <WillBindOnFirstUse>crwdns430144:0crwdne430144:0</WillBindOnFirstUse>
+  <TimeActiveThisDeathrest>crwdns430146:0crwdne430146:0</TimeActiveThisDeathrest>
+  <MinimumNeededToApply>crwdns430148:0{0}crwdne430148:0</MinimumNeededToApply>
+  <CannotAssignBedCannotDeathrest>crwdns430150:0crwdne430150:0</CannotAssignBedCannotDeathrest>
+  <CannotAssignAlreadyBound>crwdns430152:0{0_nameDef}crwdne430152:0</CannotAssignAlreadyBound>
+  <CannotAssignBedCannotBindToMoreBuildings>crwdns430154:0{BUILDING_labelPlural}crwdne430154:0</CannotAssignBedCannotBindToMoreBuildings>
+
+  <!-- Aptitudes -->
+  <Aptitude>crwdns430156:0crwdne430156:0</Aptitude>
+  <Aptitudes>crwdns430158:0crwdne430158:0</Aptitudes>
+  <AptitudePlural>crwdns430160:0crwdne430160:0</AptitudePlural>
+  <AptitudesDesc>crwdns430162:0crwdne430162:0</AptitudesDesc>
+  <Total>crwdns430164:0crwdne430164:0</Total>
+  
+  <!-- Human pregnancy -->
+  <FatherTip>crwdns430166:0crwdne430166:0</FatherTip>
+  <MotherTip>crwdns430168:0crwdne430168:0</MotherTip>
+  <RitualTargetChildBirth>crwdns430170:0crwdne430170:0</RitualTargetChildBirth>
+  <NoAppropriateBedChildBirth>crwdns430172:0crwdne430172:0</NoAppropriateBedChildBirth>
+  <NoDoctorChildBirth>crwdns430174:0crwdne430174:0</NoDoctorChildBirth>
+  <CantUseThisBed>crwdns430176:0crwdne430176:0</CantUseThisBed>
+  <NotInLabor>crwdns430178:0crwdne430178:0</NotInLabor>
+  <Labor>crwdns430180:0crwdne430180:0</Labor>
+  <LaborDilation>crwdns430182:0crwdne430182:0</LaborDilation>
+  <PregnancyApproach_Normal>crwdns430184:0crwdne430184:0</PregnancyApproach_Normal>
+  <PregnancyApproach_AvoidPregnancy>crwdns430186:0crwdne430186:0</PregnancyApproach_AvoidPregnancy>
+  <PregnancyApproach_TryForBaby>crwdns430188:0crwdne430188:0</PregnancyApproach_TryForBaby>
+  <PregnancyChance>crwdns430190:0crwdne430190:0</PregnancyChance>
+  <PregnancyApproach>crwdns430192:0crwdne430192:0</PregnancyApproach>
+  <ClickToChangePregnancyApproach>crwdns430194:0crwdne430194:0</ClickToChangePregnancyApproach>
+  <PregnancyNotPossible>crwdns430196:0crwdne430196:0</PregnancyNotPossible>
+  <BirthRitualHealthyBabyChance>crwdns430198:0{0_percentage}crwdne430198:0</BirthRitualHealthyBabyChance>
+  <GivingBirth>crwdns430200:0crwdne430200:0</GivingBirth>
+
+  <!-- Shield comp -->
+  <ShieldEnergy>crwdns430202:0crwdne430202:0</ShieldEnergy>
+  <ShieldTimeToRecovery>crwdns430204:0crwdne430204:0</ShieldTimeToRecovery>
+
+  <!-- Genes -->
+  <Genes>crwdns430206:0crwdne430206:0</Genes>
+  <GenesDesc>crwdns430208:0crwdne430208:0</GenesDesc>
+  <Suppressed>crwdns430210:0crwdne430210:0</Suppressed>
+  <Active>crwdns430212:0crwdne430212:0</Active>
+  <SuppressedDesc>crwdns430214:0crwdne430214:0</SuppressedDesc>
+  <Trait>crwdns430216:0crwdne430216:0</Trait>
+  <Gene>crwdns430218:0crwdne430218:0</Gene>
+  <AddedByGene>crwdns430220:0crwdne430220:0</AddedByGene>
+  <EjectAll>crwdns430222:0crwdne430222:0</EjectAll>
+  <EjectAllDesc>crwdns430224:0crwdne430224:0</EjectAllDesc>
+  <GenepacksStored>crwdns430226:0crwdne430226:0</GenepacksStored>
+  <GenepackAutoLoad>crwdns430228:0crwdne430228:0</GenepackAutoLoad>
+  <GenepackAutoLoadDesc>crwdns430230:0crwdne430230:0</GenepackAutoLoadDesc>
+  <ForcedTraits>crwdns430232:0crwdne430232:0</ForcedTraits>
+  <SuppressedTraits>crwdns430234:0crwdne430234:0</SuppressedTraits>
+  <ForcedTraitsDesc>crwdns430236:0crwdne430236:0</ForcedTraitsDesc>
+  <Complexity>crwdns430238:0crwdne430238:0</Complexity>
+  <ComplexityDesc>crwdns430240:0crwdne430240:0</ComplexityDesc>
+  <MaxComplexityDesc>crwdns430242:0crwdne430242:0</MaxComplexityDesc>
+  <ComplexityTotal>crwdns430244:0crwdne430244:0</ComplexityTotal>
+  <ComplexityTotalDesc>crwdns430246:0crwdne430246:0</ComplexityTotalDesc>
+  <Metabolism>crwdns430248:0crwdne430248:0</Metabolism>
+  <MetabolismDesc>crwdns430250:0crwdne430250:0</MetabolismDesc>
+  <MetabolismTotal>crwdns430252:0crwdne430252:0</MetabolismTotal>
+  <MetabolismTotalDesc>crwdns430254:0crwdne430254:0</MetabolismTotalDesc>
+  <NumberOfGenes>crwdns430256:0crwdne430256:0</NumberOfGenes>
+  <GenePriceFactors>crwdns430258:0crwdne430258:0</GenePriceFactors>
+  <AnyLower>crwdns430260:0crwdne430260:0</AnyLower>
+  <ArchitesTotal>crwdns430262:0crwdne430262:0</ArchitesTotal>
+  <ArchitesRequired>crwdns430264:0crwdne430264:0</ArchitesRequired>
+  <ArchitesRequiredDesc>crwdns430266:0crwdne430266:0</ArchitesRequiredDesc>
+  <CancelXenogerm>crwdns430268:0crwdne430268:0</CancelXenogerm>
+  <CancelXenogermDesc>crwdns430270:0crwdne430270:0</CancelXenogermDesc>
+  <AllowAllGenepacks>crwdns430272:0crwdne430272:0</AllowAllGenepacks> 
+  <AllowAllGenepacksDesc>crwdns430274:0crwdne430274:0</AllowAllGenepacksDesc> 
+  <ContainedGenepacksDesc>crwdns430276:0crwdne430276:0</ContainedGenepacksDesc> 
+  <GenepacksToLoadDesc>crwdns430278:0crwdne430278:0</GenepacksToLoadDesc> 
+  <GenepacksIgnoredDesc>crwdns430280:0crwdne430280:0</GenepacksIgnoredDesc> 
+  <GenepacksToLoad>crwdns430282:0crwdne430282:0</GenepacksToLoad> 
+  <GenepacksToIgnore>crwdns430284:0crwdne430284:0</GenepacksToIgnore> 
+  <EjectGenepackDesc>crwdns430286:0crwdne430286:0</EjectGenepackDesc> 
+  <ConfirmRemoveGenepack>crwdns430288:0{0}crwdne430288:0</ConfirmRemoveGenepack> 
+  <MissingRequiredResearch>crwdns430290:0crwdne430290:0</MissingRequiredResearch>
+  <NoGenepacksAvailable>crwdns430292:0crwdne430292:0</NoGenepacksAvailable> 
+  <AddToLoadingListDesc>crwdns430294:0crwdne430294:0</AddToLoadingListDesc> 
+  <RemoveFromLoadingListDesc>crwdns430296:0crwdne430296:0</RemoveFromLoadingListDesc> 
+  <Recombine>crwdns430298:0crwdne430298:0</Recombine>
+  <RecombineDesc>crwdns430300:0crwdne430300:0</RecombineDesc>
+  <ContainedGenesDesc>crwdns430302:0crwdne430302:0</ContainedGenesDesc>
+  <ImplantXenogerm>crwdns430304:0crwdne430304:0</ImplantXenogerm>
+  <ImplantXenogermDesc>crwdns430306:0{MEDICINEAMOUNT}crwdne430306:0</ImplantXenogermDesc>
+  <ImplantXenogermWarningDesc>crwdns430308:0{PAWN_nameDef}crwdnd430308:0{COMADURATION}crwdne430308:0</ImplantXenogermWarningDesc>
+  <ImplantXenogermWarningOverwriteXenogenes>crwdns430310:0{PAWN_nameDef}crwdnd430310:0{XENOTYPE}crwdnd430310:0{PAWN_pronoun}crwdnd430310:0{XENOGENES}crwdne430310:0</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningNewMetabolism>crwdns430312:0{PAWN_nameDef}crwdnd430312:0{MET}crwdnd430312:0{CONSUMPTION}crwdne430312:0</ImplantXenogermWarningNewMetabolism>
+  <WouldYouLikeToContinue>crwdns430314:0crwdne430314:0</WouldYouLikeToContinue>
+  <CancelImplanting>crwdns430316:0crwdne430316:0</CancelImplanting>
+  <CancelImplantingDesc>crwdns430318:0{PAWN_nameDef}crwdne430318:0</CancelImplantingDesc>
+  <Xenotype>crwdns430320:0crwdne430320:0</Xenotype>
+  <Unique>crwdns430322:0crwdne430322:0</Unique>
+  <UniqueXenotypeDesc>crwdns430324:0crwdne430324:0</UniqueXenotypeDesc>
+  <FactorForMetabolism>crwdns430326:0crwdne430326:0</FactorForMetabolism>
+  <Progress>crwdns430328:0crwdne430328:0</Progress>
+  <InSunlight>crwdns430330:0crwdne430330:0</InSunlight>
+  <ThingIsSkyExposed>crwdns430332:0{0_labelShort}crwdne430332:0</ThingIsSkyExposed>
+  <InsertPerson>crwdns430334:0crwdne430334:0</InsertPerson>
+  <InsertPersonGeneExtractorDesc>crwdns430336:0crwdne430336:0</InsertPersonGeneExtractorDesc>
+  <ConfirmExtractXenogermWillKill>crwdns430338:0{PAWN_nameDef}crwdnd430338:0{PAWN_possessive}crwdnd430338:0{PAWN_objective}crwdne430338:0</ConfirmExtractXenogermWillKill>
+  <GeneExtractionComplete>crwdns430340:0{PAWN_nameDef}crwdne430340:0</GeneExtractionComplete>
+  <InsertXenogerm>crwdns430342:0crwdne430342:0</InsertXenogerm>
+  <InsertXenogermDesc>crwdns430344:0crwdne430344:0</InsertXenogermDesc>
+  <WaitingForPawn>crwdns430346:0{PAWN_nameDef}crwdne430346:0</WaitingForPawn>
+  <ExtractingXenogermFrom>crwdns430348:0{PAWN_nameDef}crwdne430348:0</ExtractingXenogermFrom>
+  <ExtractionPausedNoPower>crwdns430350:0{TIME}crwdne430350:0</ExtractionPausedNoPower>
+  <LastIngestedDurationAgo>crwdns430352:0{CHEMICAL_label}crwdnd430352:0{DURATION}crwdne430352:0</LastIngestedDurationAgo>
+  <NamedXenogerm>crwdns430354:0{NAME}crwdne430354:0</NamedXenogerm>
+  <InsertedThing>crwdns430356:0{0}crwdne430356:0</InsertedThing>
+  <AssemblyPaused>crwdns430358:0crwdne430358:0</AssemblyPaused>
+  <GenebankUnpowered>crwdns430360:0crwdne430360:0</GenebankUnpowered>
+  <Deathless>crwdns430362:0crwdne430362:0</Deathless>
+  <GeneDefChemicalNeedDurationDesc>crwdns430364:0{PAWN_nameDef}crwdnd430364:0{0}crwdnd430364:0{DEFICIENCYDURATION}crwdnd430364:0{0}crwdnd430364:0{PAWN_pronoun}crwdnd430364:0{0}crwdnd430364:0{COMADURATION}crwdnd430364:0{PAWN_pronoun}crwdnd430364:0{DEATHDURATION}crwdnd430364:0{PAWN_pronoun}crwdne430364:0</GeneDefChemicalNeedDurationDesc>
+  <ChemicalDependency>crwdns430366:0{CHEMICAL_label}crwdne430366:0</ChemicalDependency>
+  <Xenogerm>crwdns430368:0crwdne430368:0</Xenogerm>
+  <PawnWillKeepDeathrestingLethalInjuries>crwdns430370:0{PAWN_nameDef}crwdnd430370:0{PAWN_pronoun}crwdne430370:0</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepRegeneratingLethalInjuries>crwdns430372:0{PAWN_nameDef}crwdnd430372:0{PAWN_pronoun}crwdne430372:0</PawnWillKeepRegeneratingLethalInjuries>
+  <DeathrestPaused>crwdns430374:0crwdne430374:0</DeathrestPaused>
+  <LethalInjuries>crwdns430376:0crwdne430376:0</LethalInjuries>
+  <Deathrest>crwdns430378:0crwdne430378:0</Deathrest>
+  <Buildings>crwdns430380:0crwdne430380:0</Buildings>
+  <Capacity>crwdns430382:0crwdne430382:0</Capacity>
+  <MissingGeneRomanceChance>crwdns430384:0{GENE}crwdne430384:0</MissingGeneRomanceChance>
+  <NotInGeneBank>crwdns430386:0crwdne430386:0</NotInGeneBank>
+
+  <!-- Child birth -->
+  <ChildBirthAlwaysHealthy_Desc>crwdns430388:0crwdne430388:0</ChildBirthAlwaysHealthy_Desc>
+  <UntilBabyIsBorn>crwdns430390:0crwdne430390:0</UntilBabyIsBorn>
+
+  <LearningDesireTooltip>crwdns430392:0crwdne430392:0</LearningDesireTooltip>
+  <LearningDesireTooltip_CurrentDesire>crwdns430394:0{0_nameDef}crwdne430394:0</LearningDesireTooltip_CurrentDesire>
+  <DevelopmentHealthGizmoTooltip>crwdns430396:0crwdne430396:0</DevelopmentHealthGizmoTooltip>
+
+  <MustNotBePlacedCloseToAnother>crwdns430398:0{0_label}crwdne430398:0</MustNotBePlacedCloseToAnother>
+  <PollutingTerrainProgress>crwdns430400:0crwdne430400:0</PollutingTerrainProgress>
+  <PoisonedTerrain>crwdns430402:0{0}crwdne430402:0</PoisonedTerrain>
+  <AssignMechToControlGroup>crwdns430404:0{0}crwdne430404:0</AssignMechToControlGroup>
+  <CurrentMechEnergyFallPerDay>crwdns430406:0crwdne430406:0</CurrentMechEnergyFallPerDay>
+  <CannotAssignMechToControlGroup>crwdns430408:0{0}crwdne430408:0</CannotAssignMechToControlGroup>
+  <AssignMechAlreadyAssigned>crwdns430410:0crwdne430410:0</AssignMechAlreadyAssigned>
+
+  <!-- Lactation -->
+  <LactatingAddedNutritionPerDay>crwdns430412:0{0}crwdnd430412:0{1_percentage}crwdne430412:0</LactatingAddedNutritionPerDay>
+  <LactatingStoppedBecauseFull>crwdns430414:0crwdne430414:0</LactatingStoppedBecauseFull>
+  <LactatingStoppedBecauseHungry>crwdns430416:0crwdne430416:0</LactatingStoppedBecauseHungry>
+
+  <!-- Mech gestating -->
+  <CurrentGestationCycle>crwdns430418:0crwdne430418:0</CurrentGestationCycle>
+  <RemainingGestationCycles>crwdns430420:0crwdne430420:0</RemainingGestationCycles>
+  <GestationCycles>crwdns430422:0crwdne430422:0</GestationCycles>
+  <GestatingMech>crwdns430424:0{0}crwdne430424:0</GestatingMech>
+  <GestatedMech>crwdns430426:0{0}crwdne430426:0</GestatedMech>
+  <GestatedMechRequiresMechanitor>crwdns430428:0{PAWN_nameDef}crwdne430428:0</GestatedMechRequiresMechanitor>
+  <GestationComplete>crwdns430430:0crwdne430430:0</GestationComplete>
+  <ResurrectingMech>crwdns430432:0{0}crwdne430432:0</ResurrectingMech>
+  <ResurrectedMech>crwdns430434:0{0}crwdne430434:0</ResurrectedMech>
+
+  <!-- Carrier -->
+  <MechCarrierRelease>crwdns430436:0{0}crwdne430436:0</MechCarrierRelease>
+  <MechCarrierDesc>crwdns430438:0{0}crwdnd430438:0{1}crwdnd430438:0{2}crwdnd430438:0{3}crwdnd430438:0{4}crwdnd430438:0{1}crwdnd430438:0{1}crwdne430438:0</MechCarrierDesc>
+  <MechCarrierNotEnoughResources>crwdns430440:0crwdne430440:0</MechCarrierNotEnoughResources>
+  <MechCarrierAutofillResources>crwdns430442:0crwdne430442:0</MechCarrierAutofillResources>
+  <MechCarrierClickToSetAutofillAmount>crwdns430444:0crwdne430444:0</MechCarrierClickToSetAutofillAmount>
+  <MechCarrierAutofillDesc>crwdns430446:0{0}crwdnd430446:0{1}crwdne430446:0</MechCarrierAutofillDesc>
+
+  <!-- Mech power cell -->
+  <MechPowerCell>crwdns430448:0crwdne430448:0</MechPowerCell>
+  <MechPowerCellTip>crwdns430450:0crwdne430450:0</MechPowerCellTip>
+  
+
+  <!-- Bossgroup -->
+  <BossgroupAvailableIn>crwdns430452:0{0}crwdne430452:0</BossgroupAvailableIn>
+  <RequiresMechanitor>crwdns430454:0crwdne430454:0</RequiresMechanitor>
+
+  <!-- Abilities -->
+  <AbilityDisabledNoHemogenGene>crwdns430456:0{0_labelShort}crwdne430456:0</AbilityDisabledNoHemogenGene>
+  <AbilityDisabledNoHemogen>crwdns430458:0{0_labelShort}crwdne430458:0</AbilityDisabledNoHemogen>
+  <AbilityStartRitualDisabledChild>crwdns430460:0crwdne430460:0</AbilityStartRitualDisabledChild>
+  <AbilityStartRitualNoMembersOfIdeo>crwdns430462:0{0}crwdne430462:0</AbilityStartRitualNoMembersOfIdeo>
+  <AbilityHemogenCost>crwdns430464:0crwdne430464:0</AbilityHemogenCost>
+  <AbilityHemogenGain>crwdns430466:0crwdne430466:0</AbilityHemogenGain>
+  <AbilityMechSmokepopCharged>crwdns430468:0crwdne430468:0</AbilityMechSmokepopCharged>
+  <AbilityMechSmokepopRecharging>crwdns430470:0{0}crwdne430470:0</AbilityMechSmokepopRecharging>
+  <AbilityMechFirefoampopCharged>crwdns430472:0crwdne430472:0</AbilityMechFirefoampopCharged>
+  <AbilityMechFirefoampopRecharging>crwdns430474:0{0}crwdne430474:0</AbilityMechFirefoampopRecharging>
+
+  <PollutedTerrain>crwdns430476:0{0}crwdne430476:0</PollutedTerrain>
+
+  <!-- Growth vat -->
+  <Biostarvation>crwdns430478:0crwdne430478:0</Biostarvation>
+  <BiostarvationExplanation>crwdns430480:0crwdne430480:0</BiostarvationExplanation>
+  <InsertPersonGrowthVatDesc>crwdns430482:0crwdne430482:0</InsertPersonGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>crwdns430484:0{0}crwdne430484:0</InsertEmbryoGrowthVatDesc>
+  <ImplantEmbryo>crwdns430486:0crwdne430486:0</ImplantEmbryo>
+  <CannotInsertEmbryo>crwdns430488:0crwdne430488:0</CannotInsertEmbryo>
+  <EmbryoAlreadyInside>crwdns430490:0crwdne430490:0</EmbryoAlreadyInside>
+  <ImplantNoEmbryos>crwdns430492:0crwdne430492:0</ImplantNoEmbryos>
+  <EmbryoTimeUntilBirth>crwdns430494:0crwdne430494:0</EmbryoTimeUntilBirth>
+  <EmbryoBirthQuality>crwdns430496:0crwdne430496:0</EmbryoBirthQuality>
+  <EmbryoSelected>crwdns430498:0crwdne430498:0</EmbryoSelected>
+  <PersonSelected>crwdns430500:0crwdne430500:0</PersonSelected>
+  <NoPawnsCanEnterGrowthVat>crwdns430502:0{0}crwdne430502:0</NoPawnsCanEnterGrowthVat>
+  <AgingSpeed>crwdns430504:0crwdne430504:0</AgingSpeed>
+
+  <!-- Mech charger -->
+  <WasteLevel>crwdns430506:0crwdne430506:0</WasteLevel>
+
+  <!-- Dissolution -->
+  <DissolutionRateIndoors>crwdns430508:0crwdne430508:0</DissolutionRateIndoors>
+  <DissolutionRain>crwdns430510:0crwdne430510:0</DissolutionRain>
+  <DissolvesEvery>crwdns430512:0{0}crwdne430512:0</DissolvesEvery>
+  <DissolutionFrozen>crwdns430514:0crwdne430514:0</DissolutionFrozen>
+
+  <CellsPerDay>crwdns430516:0{0}crwdne430516:0</CellsPerDay>
+
+  <WrongDevelopmentalStageForClothing>crwdns430518:0{0}crwdnd430518:0{1}crwdne430518:0</WrongDevelopmentalStageForClothing> 
+
+  <!-- Subcore scanner -->
+  <SubcoreScannerStart>crwdns430520:0crwdne430520:0</SubcoreScannerStart>
+  <SubcoreScannerProduces>crwdns430522:0crwdne430522:0</SubcoreScannerProduces>
+  <SubcoreScannerStartDesc>crwdns430524:0{0}crwdnd430524:0{1}crwdnd430524:0{0}crwdne430524:0</SubcoreScannerStartDesc>
+  <SubcoreScannerCompletesIn>crwdns430526:0crwdne430526:0</SubcoreScannerCompletesIn>
+  <SubcoreScannerWaitingForOccupant>crwdns430528:0crwdne430528:0</SubcoreScannerWaitingForOccupant>
+  <SubcoreScannerWaitingForIngredients>crwdns430530:0crwdne430530:0</SubcoreScannerWaitingForIngredients>
+  <SubcoreScannerWaitingForIngredientsDesc>crwdns430532:0crwdne430532:0</SubcoreScannerWaitingForIngredientsDesc>
+  <SubcoreScannerPawnHasSickness>crwdns430534:0{0}crwdne430534:0</SubcoreScannerPawnHasSickness>
+  <SubcoreScannerBabyNotAllowed>crwdns430536:0crwdne430536:0</SubcoreScannerBabyNotAllowed>
+  <InsertPersonSubcoreScannerDesc>crwdns430538:0{0}crwdne430538:0</InsertPersonSubcoreScannerDesc>
+
+  <DurationHours>crwdns430540:0crwdne430540:0</DurationHours>
+
+  <!-- Age -->
+  <Adult>crwdns430542:0crwdne430542:0</Adult>
+  <Adults>crwdns430544:0crwdne430544:0</Adults>
+  <Child>crwdns430546:0crwdne430546:0</Child>
+  <Children>crwdns430548:0crwdne430548:0</Children>
+  <Baby>crwdns430550:0crwdne430550:0</Baby>
+  <Babies>crwdns430552:0crwdne430552:0</Babies>
+  <FeralChild>crwdns430554:0crwdne430554:0</FeralChild>
+  <WearableBy>crwdns430556:0crwdne430556:0</WearableBy>
+
+  <Reward_ReimplantXenogerm_Label>crwdns430558:0crwdne430558:0</Reward_ReimplantXenogerm_Label>
+  <Reward_ReimplantXenogerm_Desc>crwdns430560:0crwdne430560:0</Reward_ReimplantXenogerm_Desc>
+
+  <!-- Mech resurrection -->
+  <MechResurrectionCharges>crwdns430562:0crwdne430562:0</MechResurrectionCharges>
+
+  <!-- Mechs -->
+  <MechStunPulseWarning>crwdns430564:0crwdne430564:0</MechStunPulseWarning>
+  <IsLowEnergySelfShutdown>crwdns430566:0{PAWN_nameDef}crwdne430566:0</IsLowEnergySelfShutdown>
+  
+  <!-- Pollution -->
+  <ShowPollutionOverlayToggleButton>crwdns430568:0crwdne430568:0</ShowPollutionOverlayToggleButton>
+  <TilePollutionNone>crwdns430570:0crwdne430570:0</TilePollutionNone>
+  <TilePollutionLight>crwdns430572:0crwdne430572:0</TilePollutionLight>
+  <TilePollutionModerate>crwdns430574:0crwdne430574:0</TilePollutionModerate>
+  <TilePollutionExtreme>crwdns430576:0crwdne430576:0</TilePollutionExtreme>
+  <TilePollution>crwdns430578:0crwdne430578:0</TilePollution>
+  <TilePollutionNearby>crwdns430580:0crwdne430580:0</TilePollutionNearby>
+  <NearbyPollutionTip>crwdns430582:0{0}crwdnd430582:0{1}crwdne430582:0</NearbyPollutionTip>
+  <NoxiousHazeInterval>crwdns430584:0{0}crwdne430584:0</NoxiousHazeInterval>
+  <NoxiousHazeNeverOccurring>crwdns430586:0crwdne430586:0</NoxiousHazeNeverOccurring>
+  <NearbyPollutionTilesAway>crwdns430588:0crwdne430588:0</NearbyPollutionTilesAway>
+  <PollutionLower>crwdns430590:0crwdne430590:0</PollutionLower>
+  <CannotAbsorbPollution>crwdns430592:0crwdne430592:0</CannotAbsorbPollution>
+  <CanAbsorbPollution>crwdns430594:0crwdne430594:0</CanAbsorbPollution>
+  <AbsorbingPollutionNext>crwdns430596:0{0}crwdne430596:0</AbsorbingPollutionNext>
+  <TerrainPollutionTip>crwdns430598:0crwdne430598:0</TerrainPollutionTip>
+
+  <!-- Research -->
+  <StudyRequirementTip>crwdns430600:0crwdne430600:0</StudyRequirementTip>
+
+  <!-- Insect -->
+  <TriggerRadius>crwdns430602:0crwdne430602:0</TriggerRadius>
+  <DormantCompOpening>crwdns430604:0crwdne430604:0</DormantCompOpening>
+  
+  <!-- Fertility -->
+  <SurgeryDisableReasonOvumExtracted>crwdns430606:0crwdne430606:0</SurgeryDisableReasonOvumExtracted>
+  <Fertilize>crwdns430608:0crwdne430608:0</Fertilize>
+  <FertilizeThing>crwdns430610:0{0_label}crwdne430610:0</FertilizeThing>
+  <FertilizeCannotFloatOption>crwdns430612:0crwdne430612:0</FertilizeCannotFloatOption>
+  <FertilizeGizmoDescription>crwdns430614:0crwdne430614:0</FertilizeGizmoDescription>
+  <FertilizeCancel>crwdns430616:0{0}crwdne430616:0</FertilizeCancel>
+  <CannotSterile>crwdns430618:0crwdne430618:0</CannotSterile>
+  <CannotPregnant>crwdns430620:0crwdne430620:0</CannotPregnant>
+  <CannotMustBeAge>crwdns430622:0{0}crwdne430622:0</CannotMustBeAge>
+  <CannotImplantingOtherEmbryo>crwdns430624:0crwdne430624:0</CannotImplantingOtherEmbryo>
+  <DisabledOption>crwdns430626:0{0}crwdnd430626:0{1}crwdne430626:0</DisabledOption>
+  <FertilizeDisabledNoMales>crwdns430628:0crwdne430628:0</FertilizeDisabledNoMales>
+  
+  <ImplantLabel>crwdns430630:0crwdne430630:0</ImplantLabel>
+  <ImplantDescription>crwdns430632:0crwdne430632:0</ImplantDescription>
+  <InsertGrowthVatLabel>crwdns430634:0crwdne430634:0</InsertGrowthVatLabel>
+
+  <ImplantCannotFloatOption>crwdns430636:0crwdne430636:0</ImplantCannotFloatOption>
+  <ImplantDisabledNoWomen>crwdns430638:0crwdne430638:0</ImplantDisabledNoWomen>
+  <ImplantDisabledNoVats>crwdns430640:0crwdne430640:0</ImplantDisabledNoVats>
+  <ImplantSurgeryLabel>crwdns430642:0{0}crwdne430642:0</ImplantSurgeryLabel>
+  <ImplantSurgeryConfirm>crwdns430644:0{0}crwdnd430644:0{1}crwdnd430644:0{2}crwdne430644:0</ImplantSurgeryConfirm>
+  <ImplantEmbryoCancelVat>crwdns430646:0{0}crwdne430646:0</ImplantEmbryoCancelVat>
+  <ImplantFailedMessage>crwdns430648:0{0}crwdnd430648:0{1}crwdne430648:0</ImplantFailedMessage>
+  <ImplantEmbryoCancel>crwdns430650:0crwdne430650:0</ImplantEmbryoCancel>
+  <EmbryoEjectedFromGrowthVat>crwdns430652:0{0}crwdne430652:0</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVatBiostarvation>crwdns430654:0{0}crwdne430654:0</EmbryoEjectedFromGrowthVatBiostarvation>
+
+  <IvfPregnancyLetterText>crwdns430656:0{0}crwdne430656:0</IvfPregnancyLetterText>
+  <IvfPregnancyLetterParents>crwdns430658:0{0}crwdnd430658:0{1}crwdne430658:0</IvfPregnancyLetterParents>
+
+  <!-- Projectile interceptor -->
+  <ProjectileInterceptorTip>crwdns430660:0crwdne430660:0</ProjectileInterceptorTip>
+
+  <!-- Remote mech shield -->
+  <RemoteMechShieldTip>crwdns430662:0crwdne430662:0</RemoteMechShieldTip>
+
+  <!-- Thoughtdef fallbacks -->
+  <MyChildIsHappy>crwdns430664:0crwdne430664:0</MyChildIsHappy>
+  <MyChildIsSad>crwdns430666:0crwdne430666:0</MyChildIsSad> 
+
+</LanguageData>
