@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EntropyLink.label>정신 연결</EntropyLink.label>
+  <EntropyLink.description>타인의 신경열을 전달받은 여파로 정신적 충격을 받은 상태입니다.</EntropyLink.description>
+  
+  <Joyfuzz.label>쾌락잔향</Joyfuzz.label>
+  <Joyfuzz.description>정신 간섭에 의해 수용감, 편안함, 따뜻함을 느낍니다. 기분이 좋아지지만, 가벼운 마비를 유발하고 의식이 저하됩니다.</Joyfuzz.description>
+  
+  <PsychicAnesthesia.label>정신 간섭: 마취</PsychicAnesthesia.label>
+  <PsychicAnesthesia.description>정신 간섭에 의해 통증에 둔감해졌습니다.</PsychicAnesthesia.description>
+  
+  <PsychicBlindness.label>정신 간섭: 실명</PsychicBlindness.label>
+  <PsychicBlindness.description>정신 간섭에 의해 눈이 멀었습니다.</PsychicBlindness.description>
+  
+  <PsychicBreakdown.label>정신 간섭: 혼란</PsychicBreakdown.label>
+  <PsychicBreakdown.description>과도한 정신력 사용으로 인한 정신적 불안증세입니다. 정신 혼란은 며칠 동안 지속되며 다양한 종류의 정신 장애를 유발하나, 시간이 지나면 자연스레 해결됩니다.</PsychicBreakdown.description>
+  <PsychicBreakdown.stages.minor.label>약간</PsychicBreakdown.stages.minor.label>
+  <PsychicBreakdown.stages.major.label>심각함</PsychicBreakdown.stages.major.label>
+  <PsychicBreakdown.stages.total.label>총</PsychicBreakdown.stages.total.label>
+  
+  <PsychicBurden.label>정신 간섭: 부하</PsychicBurden.label>
+  <PsychicBurden.description>정신 간섭에 의해 움직임이 둔해졌습니다.</PsychicBurden.description>
+  
+  <PsychicEntropy.label>신경열</PsychicEntropy.label>
+  <PsychicEntropy.description>그 이름과 달리, 신경열은 온도의 척도가 아니며 초능력을 사용할 때마다 쌓였다가 수 분 이내로 사라지는 혼돈 에너지를 의미합니다.\n\n신경열이 한계치를 넘어가면 일시적인 정신이상이나, 정신충격에 의해 의식을 잃을 수 있습니다. 하지만 영구적인 장애를 초래하지는 않습니다.</PsychicEntropy.description>
+  <PsychicEntropy.descriptionShort>초능력을 사용할 때마다 쌓이는 혼돈 에너지입니다. 한계치를 넘어가면 정신이상이나 의식 상실을 겪을 수 있습니다.</PsychicEntropy.descriptionShort>
+  <PsychicEntropy.stages.safe.label>안전</PsychicEntropy.stages.safe.label>
+  <PsychicEntropy.stages.overloaded.label>부하</PsychicEntropy.stages.overloaded.label>
+  <PsychicEntropy.stages.very_overloaded.label>과부하</PsychicEntropy.stages.very_overloaded.label>
+  <PsychicEntropy.stages.extreme.label>위험</PsychicEntropy.stages.extreme.label>
+  <PsychicEntropy.stages.overwhelming.label>매우 위험</PsychicEntropy.stages.overwhelming.label>
+  
+  <PsychicFocus.label>정신 간섭: 집중</PsychicFocus.label>
+  <PsychicFocus.description>정신 간섭에 의해 시력, 청각, 운동능력이 향상되었습니다.</PsychicFocus.description>
+  
+  <PsychicInvisibility.label>정신 간섭: 투명화</PsychicInvisibility.label>
+  <PsychicInvisibility.description>정신 간섭에 의해 투명화되었습니다. 이것은 가까이 있는 다른 사람들한테도 영향을 미쳐, 그들의 뇌가 대상을 인식하지 못하게 합니다.</PsychicInvisibility.description>
+  
+  <PsychicLove.label>초능력 애정</PsychicLove.label>
+  <PsychicLove.description>정신 간섭에 의해 유도된 열애입니다. 다른 사람에 대한 의견을 높이며, 이별 확률을 낮추고, 연애 및 결혼 가능성을 높여줍니다.</PsychicLove.description>
+  <PsychicLove.targetPrefix>대상:</PsychicLove.targetPrefix>
+  
+  <PsychicVertigo.label>정신 간섭: 현기증</PsychicVertigo.label>
+  <PsychicVertigo.description>정신 간섭에 의해 방향감각이 상실되고 구토감이 유발됩니다.</PsychicVertigo.description>
+</LanguageData>
