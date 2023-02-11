@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LongShots.label>장거리</LongShots.label>
+  
+  <Melee.label>근접</Melee.label>
+  
+  <MeleeBlunt.label>근접 둔기</MeleeBlunt.label>
+  
+  <MeleePiercer.label>근접 관통</MeleePiercer.label>
+  
+  <Neolithic.label>원시</Neolithic.label>
+  
+  <Ranged.label>원거리</Ranged.label>
+  
+  <RangedHeavy.label>중화기</RangedHeavy.label>
+  
+  <RangedLight.label>경화기</RangedLight.label>
+  
+  <ShortShots.label>단거리</ShortShots.label>
+  
+  <Ultratech.label>첨단 기술</Ultratech.label>
+</LanguageData>
