@@ -1,66 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InfantIllness.label>crwdns423350:0crwdne423350:0</InfantIllness.label>
-  <InfantIllness.description>crwdns423352:0crwdne423352:0</InfantIllness.description>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>crwdns423354:0{PAWN_labelShort}crwdnd423354:0{1}crwdnd423354:0{2}crwdne423354:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>crwdns423356:0crwdne423356:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>crwdns423358:0crwdne423358:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>crwdns423360:0crwdne423360:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>crwdns423362:0crwdne423362:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>crwdns423364:0crwdne423364:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>crwdns423366:0crwdne423366:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>crwdns423368:0crwdne423368:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
-  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>crwdns423370:0crwdne423370:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
-  <InfantIllness.descriptionShort>crwdns423372:0crwdne423372:0</InfantIllness.descriptionShort>
-  <InfantIllness.stages.minor.label>crwdns423374:0crwdne423374:0</InfantIllness.stages.minor.label>
-  <InfantIllness.stages.major.label>crwdns423376:0crwdne423376:0</InfantIllness.stages.major.label>
-  <InfantIllness.stages.extreme-0.label>crwdns423378:0crwdne423378:0</InfantIllness.stages.extreme-0.label>
-  <InfantIllness.stages.extreme-1.label>crwdns423380:0crwdne423380:0</InfantIllness.stages.extreme-1.label>
+  <Anesthetic.label>crwdns457458:0crwdne457458:0</Anesthetic.label>
+  <Anesthetic.description>crwdns457460:0crwdne457460:0</Anesthetic.description>
+  <Anesthetic.stages.wearing_off.label>crwdns457462:0crwdne457462:0</Anesthetic.stages.wearing_off.label>
+  <Anesthetic.stages.woozy.label>crwdns457464:0crwdne457464:0</Anesthetic.stages.woozy.label>
+  <Anesthetic.stages.sedated.label>crwdns457466:0crwdne457466:0</Anesthetic.stages.sedated.label>
   
-  <Lactating.label>crwdns423382:0crwdne423382:0</Lactating.label>
-  <Lactating.description>crwdns423384:0crwdne423384:0</Lactating.description>
-  <Lactating.comps.HediffComp_MessageOnRemoval.message>crwdns423386:0{0}crwdne423386:0</Lactating.comps.HediffComp_MessageOnRemoval.message>
-  <Lactating.comps.HediffComp_Lactating.labelInBrackets>crwdns423388:0{CHARGEFACTOR_percentage}crwdne423388:0</Lactating.comps.HediffComp_Lactating.labelInBrackets>
-  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>crwdns423390:0{0}crwdne423390:0</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  <BloodLoss.label>crwdns457468:0crwdne457468:0</BloodLoss.label>
+  <BloodLoss.description>crwdns457470:0crwdne457470:0</BloodLoss.description>
+  <BloodLoss.stages.minor-0.label>crwdns457472:0crwdne457472:0</BloodLoss.stages.minor-0.label>
+  <BloodLoss.stages.minor-1.label>crwdns457474:0crwdne457474:0</BloodLoss.stages.minor-1.label>
+  <BloodLoss.stages.moderate.label>crwdns457476:0crwdne457476:0</BloodLoss.stages.moderate.label>
+  <BloodLoss.stages.severe.label>crwdns457478:0crwdne457478:0</BloodLoss.stages.severe.label>
+  <BloodLoss.stages.extreme.label>crwdns457480:0crwdne457480:0</BloodLoss.stages.extreme.label>
   
-  <MorningSickness.label>crwdns423392:0crwdne423392:0</MorningSickness.label>
-  <MorningSickness.description>crwdns423394:0crwdne423394:0</MorningSickness.description>
+  <BrainShock.label>crwdns457482:0crwdne457482:0</BrainShock.label>
+  <BrainShock.description>crwdns457484:0crwdne457484:0</BrainShock.description>
+  <BrainShock.labelNoun>crwdns457486:0crwdne457486:0</BrainShock.labelNoun>
   
-  <OvumExtracted.label>crwdns423396:0crwdne423396:0</OvumExtracted.label>
-  <OvumExtracted.description>crwdns423398:0crwdne423398:0</OvumExtracted.description>
+  <CatatonicBreakdown.label>crwdns457488:0crwdne457488:0</CatatonicBreakdown.label>
+  <CatatonicBreakdown.description>crwdns457490:0crwdne457490:0</CatatonicBreakdown.description>
+  <CatatonicBreakdown.labelNoun>crwdns457492:0crwdne457492:0</CatatonicBreakdown.labelNoun>
   
-  <PollutionStimulus.label>crwdns423400:0crwdne423400:0</PollutionStimulus.label>
-  <PollutionStimulus.description>crwdns423402:0crwdne423402:0</PollutionStimulus.description>
-  <PollutionStimulus.descriptionShort>crwdns423404:0crwdne423404:0</PollutionStimulus.descriptionShort>
-  <PollutionStimulus.stages.minor.label>crwdns423406:0crwdne423406:0</PollutionStimulus.stages.minor.label>
-  <PollutionStimulus.stages.moderate.label>crwdns423408:0crwdne423408:0</PollutionStimulus.stages.moderate.label>
-  <PollutionStimulus.stages.maximum.label>crwdns423410:0crwdne423410:0</PollutionStimulus.stages.maximum.label>
+  <CoveredInFirefoam.label>crwdns457494:0crwdne457494:0</CoveredInFirefoam.label>
+  <CoveredInFirefoam.description>crwdns457496:0crwdne457496:0</CoveredInFirefoam.description>
   
-  <PostpartumExhaustion.label>crwdns423412:0crwdne423412:0</PostpartumExhaustion.label>
-  <PostpartumExhaustion.description>crwdns423414:0crwdne423414:0</PostpartumExhaustion.description>
+  <CryptosleepSickness.label>crwdns457498:0crwdne457498:0</CryptosleepSickness.label>
+  <CryptosleepSickness.description>crwdns457500:0crwdne457500:0</CryptosleepSickness.description>
+  <CryptosleepSickness.descriptionShort>crwdns457502:0crwdne457502:0</CryptosleepSickness.descriptionShort>
   
-  <PregnancyLabor.label>crwdns423416:0crwdne423416:0</PregnancyLabor.label>
-  <PregnancyLabor.description>crwdns423418:0crwdne423418:0</PregnancyLabor.description>
-  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>crwdns423420:0{PAWN_labelShort}crwdnd423420:0{1}crwdnd423420:0{2}crwdne423420:0</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
-  <PregnancyLabor.stages.mild.label>crwdns423422:0crwdne423422:0</PregnancyLabor.stages.mild.label>
-  <PregnancyLabor.stages.intense.label>crwdns423424:0crwdne423424:0</PregnancyLabor.stages.intense.label>
-  <PregnancyLabor.stages.debilitating.label>crwdns423426:0crwdne423426:0</PregnancyLabor.stages.debilitating.label>
+  <DrugOverdose.label>crwdns457504:0crwdne457504:0</DrugOverdose.label>
+  <DrugOverdose.description>crwdns457506:0crwdne457506:0</DrugOverdose.description>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>crwdns457508:0{0}crwdne457508:0</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterLabel>
+  <DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>crwdns457510:0{0}crwdne457510:0</DrugOverdose.comps.HediffComp_Discoverable.discoverLetterText>
+  <DrugOverdose.labelNoun>crwdns457512:0crwdne457512:0</DrugOverdose.labelNoun>
+  <DrugOverdose.stages.minor-0.label>crwdns457514:0crwdne457514:0</DrugOverdose.stages.minor-0.label>
+  <DrugOverdose.stages.minor-1.label>crwdns457516:0crwdne457516:0</DrugOverdose.stages.minor-1.label>
+  <DrugOverdose.stages.major.label>crwdns457518:0crwdne457518:0</DrugOverdose.stages.major.label>
   
-  <PregnancyLaborPushing.label>crwdns423428:0crwdne423428:0</PregnancyLaborPushing.label>
-  <PregnancyLaborPushing.description>crwdns423430:0crwdne423430:0</PregnancyLaborPushing.description>
+  <FoodPoisoning.label>crwdns457520:0crwdne457520:0</FoodPoisoning.label>
+  <FoodPoisoning.description>crwdns457522:0crwdne457522:0</FoodPoisoning.description>
+  <FoodPoisoning.stages.recovering.label>crwdns457524:0crwdne457524:0</FoodPoisoning.stages.recovering.label>
+  <FoodPoisoning.stages.major.label>crwdns457526:0crwdne457526:0</FoodPoisoning.stages.major.label>
+  <FoodPoisoning.stages.initial.label>crwdns457528:0crwdne457528:0</FoodPoisoning.stages.initial.label>
   
-  <PregnancyMood.label>crwdns423432:0crwdne423432:0</PregnancyMood.label>
-  <PregnancyMood.description>crwdns423434:0crwdne423434:0</PregnancyMood.description>
+  <HeartAttack.label>crwdns457530:0crwdne457530:0</HeartAttack.label>
+  <HeartAttack.description>crwdns457532:0crwdne457532:0</HeartAttack.description>
+  <HeartAttack.labelNoun>crwdns457534:0crwdne457534:0</HeartAttack.labelNoun>
+  <HeartAttack.stages.painful.label>crwdns457536:0crwdne457536:0</HeartAttack.stages.painful.label>
+  <HeartAttack.stages.debilitating.label>crwdns457538:0crwdne457538:0</HeartAttack.stages.debilitating.label>
+  <HeartAttack.stages.fatal.label>crwdns457540:0crwdne457540:0</HeartAttack.stages.fatal.label>
   
-  <PregnantHuman.label>crwdns423436:0crwdne423436:0</PregnantHuman.label>
-  <PregnantHuman.description>crwdns423438:0crwdne423438:0</PregnantHuman.description>
-  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>crwdns423440:0{0_labelShort}crwdne423440:0</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
-  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>crwdns423442:0{0_labelShort}crwdne423442:0</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
-  <PregnantHuman.labelNoun>crwdns423444:0crwdne423444:0</PregnantHuman.labelNoun>
-  <PregnantHuman.stages.first_trimester.label>crwdns423446:0crwdne423446:0</PregnantHuman.stages.first_trimester.label>
-  <PregnantHuman.stages.second_trimester.label>crwdns423448:0crwdne423448:0</PregnantHuman.stages.second_trimester.label>
-  <PregnantHuman.stages.third_trimester.label>crwdns423450:0crwdne423450:0</PregnantHuman.stages.third_trimester.label>
+  <Pregnant.label>crwdns457542:0crwdne457542:0</Pregnant.label>
+  <Pregnant.description>crwdns457544:0crwdne457544:0</Pregnant.description>
+  <Pregnant.comps.HediffComp_MessageAfterTicks.message>crwdns457546:0{0}crwdne457546:0</Pregnant.comps.HediffComp_MessageAfterTicks.message>
+  <Pregnant.labelNoun>crwdns457548:0crwdne457548:0</Pregnant.labelNoun>
+  <Pregnant.stages.earlystage.label>crwdns457550:0crwdne457550:0</Pregnant.stages.earlystage.label>
+  <Pregnant.stages.middlestage.label>crwdns457552:0crwdne457552:0</Pregnant.stages.middlestage.label>
+  <Pregnant.stages.latestage.label>crwdns457554:0crwdne457554:0</Pregnant.stages.latestage.label>
   
-  <Stillborn.label>crwdns423452:0crwdne423452:0</Stillborn.label>
-  <Stillborn.description>crwdns423454:0crwdne423454:0</Stillborn.description>
+  <PsychicComa.label>crwdns457556:0crwdne457556:0</PsychicComa.label>
+  <PsychicComa.description>crwdns457558:0crwdne457558:0</PsychicComa.description>
+  <PsychicComa.labelNoun>crwdns457560:0crwdne457560:0</PsychicComa.labelNoun>
+  
+  <PsychicHangover.label>crwdns457562:0crwdne457562:0</PsychicHangover.label>
+  <PsychicHangover.description>crwdns457564:0crwdne457564:0</PsychicHangover.description>
+  <PsychicHangover.labelNoun>crwdns457566:0crwdne457566:0</PsychicHangover.labelNoun>
+  <PsychicHangover.stages.forming.label>crwdns457568:0crwdne457568:0</PsychicHangover.stages.forming.label>
+  <PsychicHangover.stages.buzzing.label>crwdns457570:0crwdne457570:0</PsychicHangover.stages.buzzing.label>
+  
+  <PsychicShock.label>crwdns457572:0crwdne457572:0</PsychicShock.label>
+  <PsychicShock.description>crwdns457574:0crwdne457574:0</PsychicShock.description>
+  <PsychicShock.labelNoun>crwdns457576:0crwdne457576:0</PsychicShock.labelNoun>
+  
+  <ResurrectionSickness.label>crwdns457578:0crwdne457578:0</ResurrectionSickness.label>
+  <ResurrectionSickness.description>crwdns457580:0crwdne457580:0</ResurrectionSickness.description>
+  
+  <ToxicBuildup.label>crwdns457582:0crwdne457582:0</ToxicBuildup.label>
+  <ToxicBuildup.description>crwdns457584:0crwdne457584:0</ToxicBuildup.description>
+  <ToxicBuildup.stages.initial-0.label>crwdns457586:0crwdne457586:0</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-1.label>crwdns457588:0crwdne457588:0</ToxicBuildup.stages.initial-1.label>
+  <ToxicBuildup.stages.minor.label>crwdns457590:0crwdne457590:0</ToxicBuildup.stages.minor.label>
+  <ToxicBuildup.stages.moderate.label>crwdns457592:0crwdne457592:0</ToxicBuildup.stages.moderate.label>
+  <ToxicBuildup.stages.serious.label>crwdns457594:0crwdne457594:0</ToxicBuildup.stages.serious.label>
+  <ToxicBuildup.stages.extreme.label>crwdns457596:0crwdne457596:0</ToxicBuildup.stages.extreme.label>
 </LanguageData>
