@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <InfantIllness.label>crwdns423350:0crwdne423350:0</InfantIllness.label>
+  <InfantIllness.description>crwdns423352:0crwdne423352:0</InfantIllness.description>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>crwdns423354:0{PAWN_labelShort}crwdnd423354:0{1}crwdnd423354:0{2}crwdne423354:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.notifyMessage>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>crwdns423356:0crwdne423356:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>crwdns423358:0crwdne423358:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.0.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>crwdns423360:0crwdne423360:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>crwdns423362:0crwdne423362:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.1.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>crwdns423364:0crwdne423364:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>crwdns423366:0crwdne423366:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.2.labelPrefix>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>crwdns423368:0crwdne423368:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.descriptionExtra>
+  <InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>crwdns423370:0crwdne423370:0</InfantIllness.comps.HediffComp_RandomizeSeverityPhases.phases.3.labelPrefix>
+  <InfantIllness.descriptionShort>crwdns423372:0crwdne423372:0</InfantIllness.descriptionShort>
+  <InfantIllness.stages.minor.label>crwdns423374:0crwdne423374:0</InfantIllness.stages.minor.label>
+  <InfantIllness.stages.major.label>crwdns423376:0crwdne423376:0</InfantIllness.stages.major.label>
+  <InfantIllness.stages.extreme-0.label>crwdns423378:0crwdne423378:0</InfantIllness.stages.extreme-0.label>
+  <InfantIllness.stages.extreme-1.label>crwdns423380:0crwdne423380:0</InfantIllness.stages.extreme-1.label>
+  
+  <Lactating.label>crwdns423382:0crwdne423382:0</Lactating.label>
+  <Lactating.description>crwdns423384:0crwdne423384:0</Lactating.description>
+  <Lactating.comps.HediffComp_MessageOnRemoval.message>crwdns423386:0{0}crwdne423386:0</Lactating.comps.HediffComp_MessageOnRemoval.message>
+  <Lactating.comps.HediffComp_Lactating.labelInBrackets>crwdns423388:0{CHARGEFACTOR_percentage}crwdne423388:0</Lactating.comps.HediffComp_Lactating.labelInBrackets>
+  <Lactating.comps.HediffComp_RemoveIfOtherHediff.message>crwdns423390:0{0}crwdne423390:0</Lactating.comps.HediffComp_RemoveIfOtherHediff.message>
+  
+  <MorningSickness.label>crwdns423392:0crwdne423392:0</MorningSickness.label>
+  <MorningSickness.description>crwdns423394:0crwdne423394:0</MorningSickness.description>
+  
+  <OvumExtracted.label>crwdns423396:0crwdne423396:0</OvumExtracted.label>
+  <OvumExtracted.description>crwdns423398:0crwdne423398:0</OvumExtracted.description>
+  
+  <PollutionStimulus.label>crwdns423400:0crwdne423400:0</PollutionStimulus.label>
+  <PollutionStimulus.description>crwdns423402:0crwdne423402:0</PollutionStimulus.description>
+  <PollutionStimulus.descriptionShort>crwdns423404:0crwdne423404:0</PollutionStimulus.descriptionShort>
+  <PollutionStimulus.stages.minor.label>crwdns423406:0crwdne423406:0</PollutionStimulus.stages.minor.label>
+  <PollutionStimulus.stages.moderate.label>crwdns423408:0crwdne423408:0</PollutionStimulus.stages.moderate.label>
+  <PollutionStimulus.stages.maximum.label>crwdns423410:0crwdne423410:0</PollutionStimulus.stages.maximum.label>
+  
+  <PostpartumExhaustion.label>crwdns423412:0crwdne423412:0</PostpartumExhaustion.label>
+  <PostpartumExhaustion.description>crwdns423414:0crwdne423414:0</PostpartumExhaustion.description>
+  
+  <PregnancyLabor.label>crwdns423416:0crwdne423416:0</PregnancyLabor.label>
+  <PregnancyLabor.description>crwdns423418:0crwdne423418:0</PregnancyLabor.description>
+  <PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>crwdns423420:0{PAWN_labelShort}crwdnd423420:0{1}crwdnd423420:0{2}crwdne423420:0</PregnancyLabor.comps.HediffComp_RandomizeStageWithInterval.notifyMessage>
+  <PregnancyLabor.stages.mild.label>crwdns423422:0crwdne423422:0</PregnancyLabor.stages.mild.label>
+  <PregnancyLabor.stages.intense.label>crwdns423424:0crwdne423424:0</PregnancyLabor.stages.intense.label>
+  <PregnancyLabor.stages.debilitating.label>crwdns423426:0crwdne423426:0</PregnancyLabor.stages.debilitating.label>
+  
+  <PregnancyLaborPushing.label>crwdns423428:0crwdne423428:0</PregnancyLaborPushing.label>
+  <PregnancyLaborPushing.description>crwdns423430:0crwdne423430:0</PregnancyLaborPushing.description>
+  
+  <PregnancyMood.label>crwdns423432:0crwdne423432:0</PregnancyMood.label>
+  <PregnancyMood.description>crwdns423434:0crwdne423434:0</PregnancyMood.description>
+  
+  <PregnantHuman.label>crwdns423436:0crwdne423436:0</PregnantHuman.label>
+  <PregnantHuman.description>crwdns423438:0crwdne423438:0</PregnantHuman.description>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>crwdns423440:0{0_labelShort}crwdne423440:0</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterLabel>
+  <PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>crwdns423442:0{0_labelShort}crwdne423442:0</PregnantHuman.comps.HediffComp_MessageAfterTicks.letterText>
+  <PregnantHuman.labelNoun>crwdns423444:0crwdne423444:0</PregnantHuman.labelNoun>
+  <PregnantHuman.stages.first_trimester.label>crwdns423446:0crwdne423446:0</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>crwdns423448:0crwdne423448:0</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>crwdns423450:0crwdne423450:0</PregnantHuman.stages.third_trimester.label>
+  
+  <Stillborn.label>crwdns423452:0crwdne423452:0</Stillborn.label>
+  <Stillborn.description>crwdns423454:0crwdne423454:0</Stillborn.description>
+</LanguageData>
