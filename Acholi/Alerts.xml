@@ -1,47 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Room requirements -->
-  <NeedThroneAssigned>crwdns449652:0crwdne449652:0</NeedThroneAssigned>
-  <NeedThroneAssignedDesc>crwdns449654:0crwdne449654:0</NeedThroneAssignedDesc>
+  <ClickToJumpToProblem>crwdns477312:0crwdne477312:0</ClickToJumpToProblem>
 
-  <UndignifiedBedroom>crwdns449656:0crwdne449656:0</UndignifiedBedroom>
-  <UndignifiedBedroomDesc>crwdns449658:0crwdne449658:0</UndignifiedBedroomDesc>
+  <BreakRiskMinor>crwdns477314:0crwdne477314:0</BreakRiskMinor>
+  <BreakRiskMajor>crwdns477316:0crwdne477316:0</BreakRiskMajor>
+  <BreakRiskExtreme>crwdns477318:0crwdne477318:0</BreakRiskExtreme>
+  <BreakRiskMinorDesc>crwdns477320:0{0}crwdne477320:0</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>crwdns477322:0{0}crwdne477322:0</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>crwdns477324:0{0}crwdne477324:0</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>crwdns477326:0crwdne477326:0</BreakRiskDescEnding>
 
-  <NeedBedroomAssigned>crwdns449660:0crwdne449660:0</NeedBedroomAssigned>
-  <NeedBedroomAssignedDesc>crwdns449662:0crwdne449662:0</NeedBedroomAssignedDesc>
+  <ColonistNeedsRescue>crwdns477328:0crwdne477328:0</ColonistNeedsRescue>
+  <ColonistsNeedRescue>crwdns477330:0crwdne477330:0</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>crwdns477332:0{0}crwdne477332:0</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>crwdns477334:0{0}crwdne477334:0</ColonistsNeedRescueDescController>
 
-  <UndignifiedThroneroom>crwdns449664:0crwdne449664:0</UndignifiedThroneroom>
-  <UndignifiedThroneroomDesc>crwdns449666:0crwdne449666:0</UndignifiedThroneroomDesc>
+  <NeedDefenses>crwdns477336:0crwdne477336:0</NeedDefenses>
+  <NeedDefensesDesc>crwdns477338:0crwdne477338:0</NeedDefensesDesc>
+
+  <NeedDoctor>crwdns477340:0crwdne477340:0</NeedDoctor>
+  <NeedDoctorDesc>crwdns477342:0{0}crwdne477342:0</NeedDoctorDesc>
+
+  <NeedMiner>crwdns477344:0crwdne477344:0</NeedMiner>
+  <NeedMinerDesc>crwdns477346:0crwdne477346:0</NeedMinerDesc>
+
+  <NeedWarden>crwdns477348:0crwdne477348:0</NeedWarden>
+  <NeedWardenDesc>crwdns477350:0crwdne477350:0</NeedWardenDesc>
+
+  <LowFood>crwdns477352:0crwdne477352:0</LowFood>
+  <LowFoodDesc>crwdns477354:0{0}crwdnd477354:0{1}crwdnd477354:0{2}crwdne477354:0</LowFoodDesc>
+
+  <LowMedicine>crwdns477356:0crwdne477356:0</LowMedicine>
+  <LowMedicineDesc>crwdns477358:0{0}crwdne477358:0</LowMedicineDesc>
+  <NoMedicineDesc>crwdns477360:0crwdne477360:0</NoMedicineDesc>
   
-  <RoyalNoAcceptableFood>crwdns449668:0crwdne449668:0</RoyalNoAcceptableFood>
-  <RoyalNoAcceptableFoodDesc>crwdns449670:0crwdne449670:0</RoyalNoAcceptableFoodDesc>
-
-  <RoomRequirementGracePeriodDesc>crwdns449672:0{0}crwdne449672:0</RoomRequirementGracePeriodDesc>
-
-  <ThroneroomInvalidConfiguration>crwdns449674:0crwdne449674:0</ThroneroomInvalidConfiguration>
-  <ThroneroomInvalidConfigurationDesc>crwdns449676:0crwdne449676:0</ThroneroomInvalidConfigurationDesc>
+  <NeedColonistBeds>crwdns477362:0crwdne477362:0</NeedColonistBeds>
+  <NeedColonistBedsDesc>crwdns477364:0crwdne477364:0</NeedColonistBedsDesc>
   
-  <MonumentMarkerMissingBlueprints>crwdns449678:0crwdne449678:0</MonumentMarkerMissingBlueprints>
-  <MonumentMarkerMissingBlueprintsDesc>crwdns449680:0crwdne449680:0</MonumentMarkerMissingBlueprintsDesc>
+  <AlertColonistLeftUnburied>crwdns477366:0crwdne477366:0</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>crwdns477368:0crwdne477368:0</AlertColonistLeftUnburiedDesc>
 
-  <ShipLandingBeaconUnusable>crwdns449682:0crwdne449682:0</ShipLandingBeaconUnusable>
-  <ShipLandingBeaconUnusableDesc>crwdns449684:0crwdne449684:0</ShipLandingBeaconUnusableDesc>
+  <HunterLacksWeapon>crwdns477370:0crwdne477370:0</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>crwdns477372:0crwdne477372:0</HunterLacksWeaponDesc>
 
-  <NeedMeditationSpotAlert>crwdns449686:0crwdne449686:0</NeedMeditationSpotAlert>
-  <NeedMeditationSpotAlertDesc>crwdns449688:0{0}crwdne449688:0</NeedMeditationSpotAlertDesc>
+  <AlertTatteredApparel>crwdns477374:0crwdne477374:0</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>crwdns477376:0{0}crwdne477376:0</AlertTatteredApparelDesc>
 
-  <UnusableMeditationFocusAlert>crwdns449690:0crwdne449690:0</UnusableMeditationFocusAlert>
-  <UnusableMeditationFocusAlertDesc>crwdns449692:0{0}crwdne449692:0</UnusableMeditationFocusAlertDesc>
+  <AlertUnhappyNudity>crwdns477378:0crwdne477378:0</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>crwdns477380:0{0}crwdne477380:0</AlertUnhappyNudityDesc>
 
-  <PermitChoiceReadyAlert>crwdns449694:0crwdne449694:0</PermitChoiceReadyAlert>
-  <PermitChoiceReadyAlertDesc>crwdns449696:0{PAWN_nameDef}crwdne449696:0</PermitChoiceReadyAlertDesc>
+  <Starvation>crwdns477382:0crwdne477382:0</Starvation>
+  <StarvationDesc>crwdns477384:0{0}crwdne477384:0</StarvationDesc>
+
+  <StarvationAnimals>crwdns477386:0crwdne477386:0</StarvationAnimals>
+  <StarvationAnimalsDesc>crwdns477388:0{0}crwdne477388:0</StarvationAnimalsDesc>
+
+  <Exhaustion>crwdns477390:0crwdne477390:0</Exhaustion>
+  <ExhaustionDesc>crwdns477392:0{0}crwdne477392:0</ExhaustionDesc>
+
+  <NeedFoodHopper>crwdns477394:0crwdne477394:0</NeedFoodHopper>
+  <NeedFoodHopperDesc>crwdns477396:0crwdne477396:0</NeedFoodHopperDesc>
+
+  <NeedMealSource>crwdns477398:0crwdne477398:0</NeedMealSource>
+  <NeedMealSourceDesc>crwdns477400:0crwdne477400:0</NeedMealSourceDesc>
+
+  <NeedJoySource>crwdns477402:0crwdne477402:0</NeedJoySource>
+  <NeedJoySourceDesc>crwdns477404:0{0}crwdnd477404:0{1}crwdnd477404:0{2}crwdnd477404:0{3}crwdnd477404:0{4}crwdnd477404:0{5}crwdne477404:0</NeedJoySourceDesc>
+  <AvailableRecreationTypes>crwdns477406:0crwdne477406:0</AvailableRecreationTypes>
+  <MissingRecreationTypes>crwdns477408:0crwdne477408:0</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>crwdns477410:0{0}crwdnd477410:0{1}crwdnd477410:0{2}crwdne477410:0</CurrentExpectationsAndRecreation>
+  <bored>crwdns477412:0crwdne477412:0</bored>
+
+  <Boredom>crwdns477414:0crwdne477414:0</Boredom>
+  <BoredomDesc>crwdns477416:0{0}crwdnd477416:0{PAWN_labelShort}crwdnd477416:0{2}crwdne477416:0</BoredomDesc>
+
+  <NeedBatteries>crwdns477418:0crwdne477418:0</NeedBatteries>
+  <NeedBatteriesDesc>crwdns477420:0crwdne477420:0</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>crwdns477422:0crwdne477422:0</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>crwdns477424:0crwdne477424:0</NeedBatteriesNotResearchedDesc>
+
+  <BrawlerHasRangedWeapon>crwdns477426:0crwdne477426:0</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>crwdns477428:0crwdne477428:0</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>crwdns477430:0crwdne477430:0</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>crwdns477432:0crwdne477432:0</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>crwdns477434:0crwdne477434:0</NeedResearchProject>
+  <NeedResearchProjectDesc>crwdns477436:0crwdne477436:0</NeedResearchProjectDesc>
+
+  <ColonistsIdle>crwdns477438:0{0}crwdne477438:0</ColonistsIdle>
+  <ColonistsIdleDesc>crwdns477440:0{0}crwdne477440:0</ColonistsIdleDesc>
   
-  <BestowerWaitingAlert>crwdns449698:0crwdne449698:0</BestowerWaitingAlert>
-  <BestowerWaitingAlertDesc>crwdns449700:0crwdne449700:0</BestowerWaitingAlertDesc>
+  <CaravanIdle>crwdns477442:0crwdne477442:0</CaravanIdle>
+  <CaravanIdleDesc>crwdns477444:0{0}crwdne477444:0</CaravanIdleDesc>
+
+  <ColonistNeedsTreatment>crwdns477446:0crwdne477446:0</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>crwdns477448:0{0}crwdne477448:0</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>crwdns477450:0{0}crwdne477450:0</ColonistNeedsTreatmentDescController>
+
+  <AlertHypothermia>crwdns477452:0crwdne477452:0</AlertHypothermia>
+  <AlertHypothermiaDesc>crwdns477454:0{0}crwdne477454:0</AlertHypothermiaDesc>
   
-  <AnimaLinkingReadyLabel>crwdns449702:0crwdne449702:0</AnimaLinkingReadyLabel>
-  <AnimaLinkingReadyDesc>crwdns449704:0crwdne449704:0</AnimaLinkingReadyDesc>
-  <AnimaLinkingReadyDescExtra>crwdns449706:0crwdne449706:0</AnimaLinkingReadyDescExtra>
+  <PatientsAwaitingMedicalOperation>crwdns477456:0{0}crwdne477456:0</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>crwdns477458:0{0}crwdne477458:0</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>crwdns477460:0crwdne477460:0</FireInHomeArea>
+  <FireInHomeAreaDesc>crwdns477462:0crwdne477462:0</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>crwdns477464:0crwdne477464:0</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>crwdns477466:0{0}crwdne477466:0</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>crwdns477468:0{0}crwdne477468:0</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>crwdns477470:0crwdne477470:0</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>crwdns477472:0crwdne477472:0</BilliardsNeedsSpaceDesc>
+
+  <ChessTablesNeedChairs>crwdns477474:0crwdne477474:0</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>crwdns477476:0crwdne477476:0</ChessTablesNeedChairsDesc>
+
+  <PokerTablesNeedChairs>crwdns477478:0crwdne477478:0</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>crwdns477480:0crwdne477480:0</PokerTablesNeedChairsDesc>
+
+  <HunterHasShieldAndRangedWeapon>crwdns477482:0crwdne477482:0</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>crwdns477484:0crwdne477484:0</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>crwdns477486:0crwdne477486:0</NeedWarmClothes>
+  <NeedWarmClothesDesc1>crwdns477488:0{0}crwdne477488:0</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>crwdns477490:0crwdne477490:0</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>crwdns477492:0{0}crwdne477492:0</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>crwdns477494:0crwdne477494:0</ImmobileCaravan>
+  <ImmobileCaravanDesc>crwdns477496:0crwdne477496:0</ImmobileCaravanDesc>
+
+  <BuildingCantBeUsedRoofed>crwdns477498:0crwdne477498:0</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>crwdns477500:0crwdne477500:0</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>crwdns477502:0crwdne477502:0</AlertHeatstroke>
+  <AlertHeatstrokeDesc>crwdns477504:0{0}crwdne477504:0</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>crwdns477506:0crwdne477506:0</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>crwdns477508:0{0}crwdnd477508:0{1}crwdne477508:0</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>crwdns477510:0{0}crwdne477510:0</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>crwdns477512:0{1}crwdnd477512:0{0}crwdnd477512:0{2}crwdne477512:0</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>crwdns477514:0{0}crwdne477514:0</QuestPartShuttleLeaveDelayDescHidden>
+
+  <QuestPartShuttleArriveDelay>crwdns477516:0{0}crwdne477516:0</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>crwdns477518:0{1}crwdnd477518:0{0}crwdnd477518:0{2}crwdne477518:0</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>crwdns477520:0{0}crwdne477520:0</QuestPartShuttleArriveDelayDescHidden>
+
+  <DisallowedBuildingInsideMonument>crwdns477522:0crwdne477522:0</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>crwdns477524:0{0}crwdne477524:0</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>crwdns477526:0{0}crwdne477526:0</ActivatorCountdown>
+  <ActivatorCountdownDesc>crwdns477528:0crwdne477528:0</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>crwdns477530:0{0}crwdne477530:0</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>crwdns477532:0{0}crwdne477532:0</ActivatorCountdownDescMultiple>
+
+  <QuestExpiresSoon>crwdns477534:0{0}crwdne477534:0</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>crwdns477536:0{0}crwdnd477536:0{1}crwdne477536:0</QuestExpiresSoonDesc>
+
+  <AlertAnimalFilth>crwdns477538:0crwdne477538:0</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>crwdns477540:0{0}crwdne477540:0</AlertAnimalFilthDesc>
+
+  <AlertAnimalPenNeeded>crwdns477542:0crwdne477542:0</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>crwdns477544:0crwdne477544:0</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>crwdns477546:0crwdne477546:0</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>crwdns477548:0crwdne477548:0</AlertAnimalPenNeededDescExplanation>
+  
+  <AlertAnimalPenNotEnclosed>crwdns477550:0crwdne477550:0</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>crwdns477552:0crwdne477552:0</AlertAnimalPenNotEnclosedDesc>
+
+  <AlertPredatorInAnimalPen>crwdns477554:0{ANIMAL_labelShort}crwdne477554:0</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>crwdns477556:0{ANIMAL_labelShort}crwdne477556:0</AlertPredatorInAnimalPenDesc>
+
+  <AlertAnimalIsRoaming>crwdns477558:0crwdne477558:0</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>crwdns477560:0{0}crwdne477560:0</AlertAnimalIsRoamingDesc>
+
+  <AlertPennedAnimalHungry>crwdns477562:0crwdne477562:0</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>crwdns477564:0{0}crwdne477564:0</AlertPennedAnimalHungryDesc>
+
+  <AlertHitchedAnimalHungryNoFood>crwdns477566:0crwdne477566:0</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>crwdns477568:0{0}crwdne477568:0</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <AlertTimedRaidsArrivingIn>crwdns477570:0{0}crwdne477570:0</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>crwdns477572:0{0}crwdne477572:0</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>crwdns477574:0{0}crwdnd477574:0{1}crwdne477574:0</AlertTimedRaidsArrivingAt>
+
+  <FactionWillBecomeHostileIfNotLeavingWithin>crwdns477576:0crwdne477576:0</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>crwdns477578:0{0}crwdne477578:0</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <AlertMinifiedTreeAboutToDie>crwdns477580:0{0}crwdne477580:0</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>crwdns477582:0{0}crwdne477582:0</AlertMinifiedTreeAboutToDieDesc>
+
+  <NeedResearchBench>crwdns477584:0crwdne477584:0</NeedResearchBench>
+  <NeedResearchBenchDesc>crwdns477586:0{0}crwdnd477586:0{1}crwdne477586:0</NeedResearchBenchDesc>
   
 </LanguageData>
