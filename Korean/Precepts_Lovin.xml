@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GotLovin_Abhorrent.stages.lustful_act.label>음탕한 행위</GotLovin_Abhorrent.stages.lustful_act.label>
-  <GotLovin_Abhorrent.stages.lustful_act.description>난 욕정을 이기지 못하고 끔찍하고 추악한 짓을 해버렸어.</GotLovin_Abhorrent.stages.lustful_act.description>
+  <GotLovin.label>사랑을 나눔</GotLovin.label>
   
-  <GotLovin_Disapproved.stages.act_of_desire.label>욕망의 행위</GotLovin_Disapproved.stages.act_of_desire.label>
-  <GotLovin_Disapproved.stages.act_of_desire.description>나는 욕정하고 말았지만, 그것은 잘못된 행동이었어.</GotLovin_Disapproved.stages.act_of_desire.description>
+  <GotLovin_NonSpouse.label>혼외자와 사랑을 나눔</GotLovin_NonSpouse.label>
   
-  <GotLovin_Horrible.stages.lustful_act.label>음탕한 행위</GotLovin_Horrible.stages.lustful_act.label>
-  <GotLovin_Horrible.stages.lustful_act.description>난 욕정에 굴복해 정말로 하면 안될 짓을 했어.</GotLovin_Horrible.stages.lustful_act.description>
+  <GotLovin_Spouse.label>배우자와 사랑을 나눔</GotLovin_Spouse.label>
   
-  <Lovin_Know_Abhorrent.stages.lustful_act.label>음탕한 행위</Lovin_Know_Abhorrent.stages.lustful_act.label>
+  <InitiatedLovin.label>사랑의 시작 목격</InitiatedLovin.label>
   
-  <Lovin_Know_Approved.stages.lovin_afterglow.label>사랑의 쾌감 목격</Lovin_Know_Approved.stages.lovin_afterglow.label>
+  <SharedBed.label>침대 공유</SharedBed.label>
   
-  <Lovin_Know_Disapproved.stages.act_of_desire.label>욕망의 행위</Lovin_Know_Disapproved.stages.act_of_desire.label>
+  <SharedBed_NonSpouse.label>혼외자와 침대 공유</SharedBed_NonSpouse.label>
   
-  <Lovin_Know_Horrible.stages.lustful_act.label>음탕한 행위</Lovin_Know_Horrible.stages.lustful_act.label>
+  <SharedBed_Spouse.label>배우자와 동침</SharedBed_Spouse.label>
 </LanguageData>
