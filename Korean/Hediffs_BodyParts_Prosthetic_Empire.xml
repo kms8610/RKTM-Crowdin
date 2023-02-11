@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DrillArm.label>드릴 팔</DrillArm.label>
+  <DrillArm.description>드릴 팔을 설치했습니다.</DrillArm.description>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>드릴</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.labelNoun>드릴 팔</DrillArm.labelNoun>
+  
+  <ElbowBlade.label>팔꿈치 칼날</ElbowBlade.label>
+  <ElbowBlade.description>팔꿈치 칼날을 설치했습니다.</ElbowBlade.description>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>장검</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.labelNoun>팔꿈치 칼날</ElbowBlade.labelNoun>
+  
+  <FieldHand.label>농업용 기계손</FieldHand.label>
+  <FieldHand.description>농업용 기계손을 설치했습니다.</FieldHand.description>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>주먹</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.labelNoun>농업용 기계손</FieldHand.labelNoun>
+  
+  <HandTalon.label>칼날 손톱</HandTalon.label>
+  <HandTalon.description>칼날 손톱을 설치했습니다.</HandTalon.description>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>발톱</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.labelNoun>칼날 손톱</HandTalon.labelNoun>
+  
+  <KneeSpike.label>무릎 송곳</KneeSpike.label>
+  <KneeSpike.description>무릎 송곳을 설치했습니다.</KneeSpike.description>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>가시</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.labelNoun>무릎 송곳</KneeSpike.labelNoun>
+  
+  <Mindscrew.label>정신 압박기</Mindscrew.label>
+  <Mindscrew.description>정신 압박기를 이식했습니다.</Mindscrew.description>
+  <Mindscrew.labelNoun>정신 압박기</Mindscrew.labelNoun>
+  
+  <VenomFangs.label>독니</VenomFangs.label>
+  <VenomFangs.description>독니를 설치했습니다.</VenomFangs.description>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>독니</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.labelNoun>독니</VenomFangs.labelNoun>
+  
+  <VenomTalon.label>맹독 손톱</VenomTalon.label>
+  <VenomTalon.description>맹독 손톱을 설치했습니다.</VenomTalon.description>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>맹독 손톱</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.labelNoun>맹독 손톱</VenomTalon.labelNoun>
+</LanguageData>
