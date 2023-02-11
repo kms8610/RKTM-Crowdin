@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BabyPlay.reportString>playing with TargetA.</BabyPlay.reportString>
+  <BabyPlay.reportString>{TargetA}(와)과 놀아주는 중</BabyPlay.reportString>
   
-  <BabySuckle.reportString>feeding from TargetA.</BabySuckle.reportString>
+  <BabySuckle.reportString>{TargetA}(이)가 수유 중</BabySuckle.reportString>
   
-  <BottleFeedBaby.reportString>feeding TargetB to TargetA.</BottleFeedBaby.reportString>
+  <BottleFeedBaby.reportString>{TargetA}에게 {TargetB} 먹이는 중</BottleFeedBaby.reportString>
   
-  <Breastfeed.reportString>breastfeeding TargetA.</Breastfeed.reportString>
+  <Breastfeed.reportString>{TargetA}에게 모유 수유 중</Breastfeed.reportString>
   
-  <BreastfeedCarryToMom.reportString>carrying TargetA to TargetB.</BreastfeedCarryToMom.reportString>
+  <BreastfeedCarryToMom.reportString>{TargetA}(을)를 {TargetB}에게 운반 중</BreastfeedCarryToMom.reportString>
   
-  <BringBabyToSafety.reportString>putting TargetA somewhere safe.</BringBabyToSafety.reportString>
+  <BringBabyToSafety.reportString>{TargetA}(을)를 안전한 곳으로 옮기는 중</BringBabyToSafety.reportString>
   
-  <BringBabyToSafetyUnforced.reportString>putting TargetA somewhere safe.</BringBabyToSafetyUnforced.reportString>
+  <BringBabyToSafetyUnforced.reportString>{TargetA}(을)를 안전한 곳으로 옮기는 중</BringBabyToSafetyUnforced.reportString>
   
-  <CarryToMomAfterBirth.reportString>carrying TargetA to TargetB.</CarryToMomAfterBirth.reportString>
+  <CarryToMomAfterBirth.reportString>{TargetA}(을)를 {TargetB}(으)로 옮기는 중</CarryToMomAfterBirth.reportString>
   
-  <FertilizeOvum.reportString>fertilizing TargetA.</FertilizeOvum.reportString>
+  <FertilizeOvum.reportString>{TargetA} 수정 중</FertilizeOvum.reportString>
 </LanguageData>
