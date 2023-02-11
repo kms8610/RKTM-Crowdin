@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Comfort.label>편안</Comfort.label>
+  <Comfort_Ignored.label>ignored</Comfort_Ignored.label>
+  <Comfort_Ignored.description>우리는 편안함에 얽매여선 안 된다.</Comfort_Ignored.description>
   
-  <SlabBed.label>딱딱한 침대</SlabBed.label>
+  <SlabBed_Preferred.label>선호</SlabBed_Preferred.label>
+  <SlabBed_Preferred.description>딱딱한 침대에서 잠을 청하는 것이 옳은 방식이다.</SlabBed_Preferred.description>
+  <SlabBed_Preferred.comps.0.description>Slept in slab bed</SlabBed_Preferred.comps.0.description>
 </LanguageData>
