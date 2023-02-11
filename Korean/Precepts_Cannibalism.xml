@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteNonCannibalFood.label>인육이 아닌 음식 섭취</AteNonCannibalFood.label>
+  <Cannibalism_Abhorrent.label>혐오함</Cannibalism_Abhorrent.label>
+  <Cannibalism_Abhorrent.description>식인은 매우 혐오스럽고 구역질 나는 행위다.</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.comps.5.description>인피로 된 옷</Cannibalism_Abhorrent.comps.5.description>
+  
+  <Cannibalism_Acceptable.label>수용함</Cannibalism_Acceptable.label>
+  <Cannibalism_Acceptable.description>인육도 결국 고기일 뿐이다.</Cannibalism_Acceptable.description>
+  
+  <Cannibalism_Disapproved.label>못마땅함</Cannibalism_Disapproved.label>
+  <Cannibalism_Disapproved.description>식인은 역겨운 행위다.</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.comps.5.description>인피로 된 옷</Cannibalism_Disapproved.comps.5.description>
+  
+  <Cannibalism_Horrible.label>끔찍함</Cannibalism_Horrible.label>
+  <Cannibalism_Horrible.description>식인은 끔찍한 행위다.</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.comps.5.description>인피로 된 옷</Cannibalism_Horrible.comps.5.description>
+  
+  <Cannibalism_Preferred.label>선호</Cannibalism_Preferred.label>
+  <Cannibalism_Preferred.description>인육 섭취는 고결한 행위이며, 살아가는 데에 필수적이다.</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.comps.1.description>{HUMANMEATREQUIREDINTERVAL}일 동안 인육 섭취 못함</Cannibalism_Preferred.comps.1.description>
+  <Cannibalism_Preferred.comps.2.description>인피로 된 옷</Cannibalism_Preferred.comps.2.description>
+  
+  <Cannibalism_RequiredRavenous.label>required (ravenous)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.description>Man-flesh is morality. To eat a meal without it is unthinkable.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.comps.3.description>{HUMANMEATREQUIREDINTERVAL}일 동안 인육 섭취 못함</Cannibalism_RequiredRavenous.comps.3.description>
+  <Cannibalism_RequiredRavenous.comps.4.description>인피로 된 옷</Cannibalism_RequiredRavenous.comps.4.description>
+  
+  <Cannibalism_RequiredStrong.label>required (strong)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.description>Consuming human flesh is important. It should be in every meal.</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.comps.3.description>{HUMANMEATREQUIREDINTERVAL}일 동안 인육 섭취 못함</Cannibalism_RequiredStrong.comps.3.description>
+  <Cannibalism_RequiredStrong.comps.4.description>인피로 된 옷</Cannibalism_RequiredStrong.comps.4.description>
 </LanguageData>
