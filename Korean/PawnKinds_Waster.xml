@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Grenadier_Tox.label>waster grenadier</Grenadier_Tox.label>
+  <Grenadier_Tox.label>척탄 황폐자</Grenadier_Tox.label>
   
-  <Mercenary_EliteTox.label>elite waster</Mercenary_EliteTox.label>
-  <Mercenary_EliteTox.labelPlural>elite mercenaries</Mercenary_EliteTox.labelPlural>
+  <Mercenary_EliteTox.label>정예 황폐자</Mercenary_EliteTox.label>
+  <Mercenary_EliteTox.labelPlural>정예 용병</Mercenary_EliteTox.labelPlural>
   
-  <Mercenary_GunnerTox.label>waster gunner</Mercenary_GunnerTox.label>
+  <Mercenary_GunnerTox.label>사수 황폐자</Mercenary_GunnerTox.label>
   
-  <Mercenary_HeavyTox.label>heavy waster</Mercenary_HeavyTox.label>
+  <Mercenary_HeavyTox.label>중장보병 황폐자</Mercenary_HeavyTox.label>
   
-  <Mercenary_SlasherTox.label>waster slasher</Mercenary_SlasherTox.label>
+  <Mercenary_SlasherTox.label>황폐 난도자</Mercenary_SlasherTox.label>
   
-  <PirateBossTox.label>waster boss</PirateBossTox.label>
-  <PirateBossTox.labelPlural>waster bosses</PirateBossTox.labelPlural>
+  <PirateBossTox.label>황폐자 두목</PirateBossTox.label>
+  <PirateBossTox.labelPlural>황폐자 두목들</PirateBossTox.labelPlural>
 </LanguageData>
