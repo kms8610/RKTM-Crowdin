@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DiscoverAncientComplex.label>discover ancient complex</DiscoverAncientComplex.label>
-  <DiscoverAncientComplex.effectDesc>you will discover the location of an ancient complex nearby.</DiscoverAncientComplex.effectDesc>
-  <DiscoverAncientComplex.letterInfoText>You've discovered the location of an ancient complex.</DiscoverAncientComplex.letterInfoText>
+  <DiscoverAncientComplex.label>고대 유적 발견</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.effectDesc>당신은 인근의 고대 유적의 위치를 발견할 것입니다.</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.letterInfoText>당신은 숨겨져 있던 고대 유적의 위치를 입수했습니다.</DiscoverAncientComplex.letterInfoText>
   
-  <FarmAnimalsWanderIn.label>farm animals wander in</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>가축의 합류</FarmAnimalsWanderIn.label>
   <FarmAnimalsWanderIn.effectDesc>a group of farm animals will be attracted and join the colony.</FarmAnimalsWanderIn.effectDesc>
   <FarmAnimalsWanderIn.letterInfoText>Curious farm animals have wandered in, attracted by the commotion.</FarmAnimalsWanderIn.letterInfoText>
   
-  <GauranlenTreePod.label>gauranlen pod sprout</GauranlenTreePod.label>
-  <GauranlenTreePod.effectDesc>a Gauranlen pod will sprout at a random location on the map, if it can.</GauranlenTreePod.effectDesc>
-  <GauranlenTreePod.letterInfoText>A Gauranlen pod sprouted nearby.</GauranlenTreePod.letterInfoText>
+  <GauranlenTreePod.label>요정열매 새싹</GauranlenTreePod.label>
+  <GauranlenTreePod.effectDesc>정착지 어딘가에서 요정열매가 자라납니다.</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.letterInfoText>요정열매 하나가 근처에서 자라났습니다.</GauranlenTreePod.letterInfoText>
   
-  <InsectJellyTunnels.label>insect jelly</InsectJellyTunnels.label>
-  <InsectJellyTunnels.effectDesc>insect jelly deposits will be deposited from underground.</InsectJellyTunnels.effectDesc>
-  <InsectJellyTunnels.letterInfoText>A giant insect colony underground has deposited some insect jelly.</InsectJellyTunnels.letterInfoText>
+  <InsectJellyTunnels.label>곤충 젤리</InsectJellyTunnels.label>
+  <InsectJellyTunnels.effectDesc>지하로부터 곤충 젤리가 스며나옵니다.</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.letterInfoText>지하의 곤충 군락이 젤리 더미를 남겼습니다.</InsectJellyTunnels.letterInfoText>
   
   <NearbyFactionGoodwill.label>nearby faction goodwill</NearbyFactionGoodwill.label>
   <NearbyFactionGoodwill.effectDesc>you will gain goodwill from the nearest faction base.</NearbyFactionGoodwill.effectDesc>
