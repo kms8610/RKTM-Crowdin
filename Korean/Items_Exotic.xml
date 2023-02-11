@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AIPersonaCore.label>인공자아 핵</AIPersonaCore.label>
-  <AIPersonaCore.description>초인간적인 인공지능을 탑재한 고도로 발달된 컴퓨터 핵입니다. 분리된 현재는 작동하고 있지 않지만, 적절한 보조 장치만 갖춰진다면 무서운 지능을 가진 두뇌가 될 것입니다.</AIPersonaCore.description>
-  
-  <ElephantTusk.label>코끼리 상아</ElephantTusk.label>
-  <ElephantTusk.description>코끼리의 엄니입니다. 매우 튼튼하고 비쌉니다. 치명적이지만 무기로 사용하기엔 약간 거추장스럽습니다.</ElephantTusk.description>
-  <ElephantTusk.tools.point.label>상아끝</ElephantTusk.tools.point.label>
-  <ElephantTusk.tools.base.label>상아날</ElephantTusk.tools.base.label>
-  
-  <MechSerumHealer.label>회복 혈청</MechSerumHealer.label>
-  <MechSerumHealer.description>건강 이상을 치료하기 위해 조정된 일회용 고농축 기계입자 혈청입니다. 기계입자 군체는 대상의 건강에 영향을 미치는 모든 요소를 재조정하며 심지어 불치병마저도 치료합니다. 또한 필요한 경우 변형하여 새로운 사지나 기관을 형성합니다.</MechSerumHealer.description>
-  <MechSerumHealer.comps.CompUsable.useLabel>{0_label} 사용</MechSerumHealer.comps.CompUsable.useLabel>
-  
-  <MechSerumResurrector.label>부활 혈청</MechSerumResurrector.label>
-  <MechSerumResurrector.description>죽은 자를 살리기 위해 조정된 일회용 고농축 기계입자 혈청입니다. 시체에 투여하면 기계입자가 손상된 조직을 수복하고 신체에 생명을 되돌립니다. 하지만 간혹 뇌손상, 실명, 진행성 정신증을 앓게 되는 경우도 있습니다. 신체가 신선할수록 결과가 좋은 편이며, 사망 후 오랜 시간이 지나도 신체가 남아있으면 부활할 수 있습니다.\n\n또한 부활한 사람은 제한적인 역행성 건망증으로 인해 최근 기억 일부를 잃게 됩니다.</MechSerumResurrector.description>
-  <MechSerumResurrector.comps.CompUsable.useLabel>{0_label} 사용</MechSerumResurrector.comps.CompUsable.useLabel>
-  
-  <TechprofSubpersonaCore.label>기술 교육용 인공자아 핵</TechprofSubpersonaCore.label>
-  <TechprofSubpersonaCore.description>교육기능을 가진 저급의 인공자아 핵입니다. 사용하면 모르는 기술을 즉시 가르쳐줍니다. 한 번만 사용할 수 있습니다.</TechprofSubpersonaCore.description>
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>{0_label} 사용</TechprofSubpersonaCore.comps.CompUsable.useLabel>
-  
-  <ThrumboHorn.label>트럼보 뿔</ThrumboHorn.label>
-  <ThrumboHorn.description>트럼보의 뿔입니다. 매우 날카롭고 단단하며 부르는게 값입니다. 진정한 의미의 전리품입니다.</ThrumboHorn.description>
-  <ThrumboHorn.tools.point.label>뾰족</ThrumboHorn.tools.point.label>
-  <ThrumboHorn.tools.base.label>기본값</ThrumboHorn.tools.base.label>
+  <BroadshieldCore.label>보호막 핵</BroadshieldCore.label>
+  <BroadshieldCore.description>리펄서 보호막을 생성할 수 있는 최첨단 장치입니다. 휴대용 보호막 생성기의 핵심 재료로 사용됩니다.\n\n메카노이드 보호막 생성기를 분해하여 얻을 수 있습니다.</BroadshieldCore.description>
 </LanguageData>
