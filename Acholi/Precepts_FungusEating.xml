@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FungusEating_Despised.label>crwdns436336:0crwdne436336:0</FungusEating_Despised.label>
-  <FungusEating_Despised.description>crwdns436338:0crwdne436338:0</FungusEating_Despised.description>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>crwdns441534:0crwdne441534:0</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.label>
+  <AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>crwdns441536:0crwdne441536:0</AteFungusAsIngredient_Despised.stages.ate_fungus_cooked.description>
   
-  <FungusEating_Preferred.label>crwdns436340:0crwdne436340:0</FungusEating_Preferred.label>
-  <FungusEating_Preferred.description>crwdns436342:0crwdne436342:0</FungusEating_Preferred.description>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>crwdns441538:0crwdne441538:0</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.label>
+  <AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>crwdns441540:0crwdne441540:0</AteFungusAsIngredient_Preferred.stages.ate_cooked_fungus.description>
+  
+  <AteFungus_Despised.stages.ate_fungus_raw.label>crwdns441542:0crwdne441542:0</AteFungus_Despised.stages.ate_fungus_raw.label>
+  <AteFungus_Despised.stages.ate_fungus_raw.description>crwdns441544:0crwdne441544:0</AteFungus_Despised.stages.ate_fungus_raw.description>
+  
+  <AteFungus_Preferred.stages.ate_fungus.label>crwdns441546:0crwdne441546:0</AteFungus_Preferred.stages.ate_fungus.label>
+  <AteFungus_Preferred.stages.ate_fungus.description>crwdns441548:0crwdne441548:0</AteFungus_Preferred.stages.ate_fungus.description>
+  
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>crwdns441550:0crwdne441550:0</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>
+  <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>crwdns441552:0crwdne441552:0</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.description>
+  
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>crwdns441554:0crwdne441554:0</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.label>
+  <AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>crwdns441556:0crwdne441556:0</AteNonFungusPlant_Despised.stages.ate_nonfungus_plant_raw.description>
 </LanguageData>
