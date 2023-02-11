@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AncientComplex.label>ancient complex</AncientComplex.label>
-  <AncientComplex.description>An ancient complex containing treasure.</AncientComplex.description>
-  <AncientComplex.approachingReportString>Investigate {0}</AncientComplex.approachingReportString>
-  <AncientComplex.approachOrderString>Investigate {0}</AncientComplex.approachOrderString>
+  <AncientComplex.label>고대 유적</AncientComplex.label>
+  <AncientComplex.description>귀중품이 숨겨진 고대 유적입니다.</AncientComplex.description>
+  <AncientComplex.approachingReportString>{0} 조사</AncientComplex.approachingReportString>
+  <AncientComplex.approachOrderString>{0} 조사</AncientComplex.approachOrderString>
 </LanguageData>
