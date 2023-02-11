@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MechanitorShip.questContentRules.rulesStrings>
+    <li>crwdns424966:0crwdne424966:0</li>
+    <li>crwdns424968:0crwdne424968:0</li>
+    <li>crwdns424970:0crwdne424970:0</li>
+    <li>crwdns424972:0crwdne424972:0</li>
+    <li>crwdns424974:0[mechanitor_nameDef]crwdne424974:0</li>
+    <li>crwdns424976:0[mechanitor_possessive]crwdne424976:0</li>
+  </MechanitorShip.questContentRules.rulesStrings>
+  <MechanitorShip.questDescriptionRules.rulesStrings>
+    <li>crwdns424978:0[mechList]crwdne424978:0</li>
+  </MechanitorShip.questDescriptionRules.rulesStrings>
+  <MechanitorShip.questNameRules.rulesStrings>
+    <li>crwdns424980:0[shipAdjective]crwdnd424980:0[shipNoun]crwdne424980:0</li>
+    <li>crwdns424982:0crwdne424982:0</li>
+    <li>crwdns424984:0crwdne424984:0</li>
+    <li>crwdns424986:0crwdne424986:0</li>
+    <li>crwdns424988:0crwdne424988:0</li>
+    <li>crwdns424990:0crwdne424990:0</li>
+    <li>crwdns424992:0crwdne424992:0</li>
+    <li>crwdns424994:0crwdne424994:0</li>
+    <li>crwdns424996:0crwdne424996:0</li>
+    <li>crwdns424998:0crwdne424998:0</li>
+    <li>crwdns425000:0crwdne425000:0</li>
+  </MechanitorShip.questNameRules.rulesStrings>
+</LanguageData>
