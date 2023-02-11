@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TunnelJellySpawner.label>땅굴</TunnelJellySpawner.label>
+  <BulletShieldPsychic.label>완전차폐 보호막</BulletShieldPsychic.label>
+  
+  <Flashstorm.label>섬광폭풍</Flashstorm.label>
+  
+  <MonumentMarker.label>기념비</MonumentMarker.label>
+  <MonumentMarker.description>기념비를 세울 장소를 표시합니다. 일단 배치되면 이동할 수 없습니다.</MonumentMarker.description>
+  
+  <SolarPinhole.label>빛의 구멍</SolarPinhole.label>
 </LanguageData>
