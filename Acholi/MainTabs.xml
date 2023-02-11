@@ -1,15 +1,109 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <!-- Ideoligions -->
+  <Deities>crwdns443878:0crwdne443878:0</Deities>
+  <ButtonShowAllIdeoligions>crwdns443880:0crwdne443880:0</ButtonShowAllIdeoligions>
+  <IdeoligionOf>crwdns443882:0crwdne443882:0</IdeoligionOf>
+  <Memes>crwdns443884:0crwdne443884:0</Memes>
+  <CoreNarrative>crwdns443886:0crwdne443886:0</CoreNarrative>
+  <CoreNarrativeDesc>crwdns443888:0crwdne443888:0</CoreNarrativeDesc>
+  <EditNarrative>crwdns443890:0crwdne443890:0</EditNarrative>
+  <LockButtonDesc>crwdns443892:0crwdne443892:0</LockButtonDesc>
+  <LockInOn>crwdns443894:0{0}crwdnd443894:0{1}crwdne443894:0</LockInOn>
+  <LockInOff>crwdns443896:0{0}crwdnd443896:0{1}crwdne443896:0</LockInOff>
+  <LockPreceptNameButtonDesc>crwdns443898:0crwdne443898:0</LockPreceptNameButtonDesc>
+  <Precepts>crwdns443900:0crwdne443900:0</Precepts>
+  <Rituals>crwdns443902:0crwdne443902:0</Rituals>
+  <IdeoRoles>crwdns443904:0crwdne443904:0</IdeoRoles>
+  <IdeoBuildings>crwdns443906:0crwdne443906:0</IdeoBuildings>
+  <IdeoRelics>crwdns443908:0crwdne443908:0</IdeoRelics>
+  <IdeoApparel>crwdns443910:0crwdne443910:0</IdeoApparel>
+  <IdeoApparelDesire>crwdns443912:0crwdne443912:0</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>crwdns443914:0crwdne443914:0</UnwillingToDoIdeoAction>
+  <PreceptStats>crwdns443916:0crwdne443916:0</PreceptStats>
+  <Prohibitions>crwdns443918:0crwdne443918:0</Prohibitions>
+  <Opinions>crwdns443920:0crwdne443920:0</Opinions>
+  <RandomizeName>crwdns443922:0crwdne443922:0</RandomizeName>
+  <RandomizePrecepts>crwdns443924:0crwdne443924:0</RandomizePrecepts>
+  <RandomizeDeities>crwdns443926:0crwdne443926:0</RandomizeDeities>
+  <AddDeity>crwdns443928:0crwdne443928:0</AddDeity>
+  <ChooseMemes>crwdns443930:0crwdne443930:0</ChooseMemes>
+  <ChooseStartingMeme>crwdns443932:0crwdne443932:0</ChooseStartingMeme>
+  <ChooseStructure>crwdns443934:0crwdne443934:0</ChooseStructure>
+  <ChooseCulture>crwdns443936:0crwdne443936:0</ChooseCulture>
+  <Culture>crwdns443938:0crwdne443938:0</Culture>
+  <CultureTip>crwdns443940:0crwdne443940:0</CultureTip>
+  <StructureMeme>crwdns443942:0crwdne443942:0</StructureMeme>
+  <StructureMemeTip>crwdns443944:0crwdne443944:0</StructureMemeTip>
+  <Adjective>crwdns443946:0crwdne443946:0</Adjective>
+  <WorshipRoom>crwdns443948:0crwdne443948:0</WorshipRoom>
+  <IdeoMembers>crwdns443950:0crwdne443950:0</IdeoMembers>
+  <IdeoMembersPlural>crwdns443952:0crwdne443952:0</IdeoMembersPlural>
+  <EditSymbols>crwdns443954:0crwdne443954:0</EditSymbols>
+  <EditDeity>crwdns443956:0crwdne443956:0</EditDeity>
+  <EditApparelRequirement>crwdns443958:0crwdne443958:0</EditApparelRequirement>
+  <EditName>crwdns443960:0crwdne443960:0</EditName>
+  <StartingCondition_Anytime>crwdns443962:0crwdne443962:0</StartingCondition_Anytime>
+  <StartingCondition_Date>crwdns443964:0crwdne443964:0</StartingCondition_Date>
+  <StartingCondition>crwdns443966:0crwdne443966:0</StartingCondition>
+  <Edit>crwdns443968:0crwdne443968:0</Edit>
+  <RandomizeSymbols>crwdns443970:0crwdne443970:0</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>crwdns443972:0crwdne443972:0</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>crwdns443974:0crwdne443974:0</ClickAnyElementToEditIt>
+  <LeaderTitle>crwdns443976:0crwdne443976:0</LeaderTitle>
+  <DeityName>crwdns443978:0crwdne443978:0</DeityName>
+  <DeityTitle>crwdns443980:0crwdne443980:0</DeityTitle>
+  <DeityGender>crwdns443982:0crwdne443982:0</DeityGender>
+  <Name>crwdns443984:0crwdne443984:0</Name>
+  <Icon>crwdns443986:0crwdne443986:0</Icon>
+  <RelatedToMeme>crwdns443988:0crwdne443988:0</RelatedToMeme>
+  <IdeoCharityQuestInfo>crwdns443990:0{0}crwdnd443990:0{0}crwdnd443990:0{1}crwdne443990:0</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>crwdns443992:0crwdne443992:0</WorkDisabledSlave>
+  <WorkDisabledRole>crwdns443994:0{0}crwdne443994:0</WorkDisabledRole>
+  <AffectedByTraits>crwdns443996:0crwdne443996:0</AffectedByTraits>
+  <CharityQuestTip>crwdns443998:0crwdne443998:0</CharityQuestTip>
+  <Formerly>crwdns444000:0crwdne444000:0</Formerly>
+  <All>crwdns444002:0crwdne444002:0</All>
+  <RelicTip>crwdns444004:0crwdne444004:0</RelicTip>
+  <RelicTipClassic>crwdns444006:0crwdne444006:0</RelicTipClassic>
+  <Animal>crwdns444008:0crwdne444008:0</Animal>
+  <VeneratedAnimals>crwdns444010:0crwdne444010:0</VeneratedAnimals>
+  <IdeoWeapon>crwdns444012:0crwdne444012:0</IdeoWeapon>
+  <IdeoWeapons>crwdns444014:0crwdne444014:0</IdeoWeapons>
+  <SwapNobleAndDespised>crwdns444016:0crwdne444016:0</SwapNobleAndDespised>
+  <Noble>crwdns444018:0crwdne444018:0</Noble>
+  <Despised>crwdns444020:0crwdne444020:0</Despised>
+  <UnlockedRecipes>crwdns444022:0crwdne444022:0</UnlockedRecipes>
+  <IdeoStartWithResearch>crwdns444024:0crwdne444024:0</IdeoStartWithResearch>
+  <AgreeableTraits>crwdns444026:0crwdne444026:0</AgreeableTraits>
+  <DisagreeableTraits>crwdns444028:0crwdne444028:0</DisagreeableTraits>
+  <Shooting>crwdns444030:0crwdne444030:0</Shooting>
+  <IdeoImpact>crwdns444032:0crwdne444032:0</IdeoImpact>
+  <IdeoImpactOverall>crwdns444034:0crwdne444034:0</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>crwdns444036:0crwdne444036:0</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>crwdns444038:0crwdne444038:0</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>crwdns444040:0crwdne444040:0</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>crwdns444042:0crwdne444042:0</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>crwdns444044:0crwdne444044:0</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>crwdns444046:0crwdne444046:0</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>crwdns444048:0crwdne444048:0</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>crwdns444050:0crwdne444050:0</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>crwdns444052:0crwdne444052:0</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>crwdns444054:0crwdne444054:0</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>crwdns444056:0crwdne444056:0</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>crwdns444058:0crwdne444058:0</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>crwdns444060:0crwdne444060:0</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>crwdns444062:0crwdne444062:0</InitialPlayerIdeo>
   
-  <!-- Misc -->
-  <MissingRequiredMechanitor>crwdns429802:0crwdne429802:0</MissingRequiredMechanitor>
-  <NotStudied>crwdns429804:0{0}crwdne429804:0</NotStudied>
-  <StudyRequirements>crwdns429806:0crwdne429806:0</StudyRequirements>
-  <PreferredXenotypes>crwdns429808:0crwdne429808:0</PreferredXenotypes>
+  
+  <FluidIdeoTip>crwdns444064:0crwdne444064:0</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>crwdns444066:0crwdne444066:0</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>crwdns444068:0crwdne444068:0</FluidIdeoTipGetPoinsByConversion>
 
-  <!-- Work tab -->
-  <WorkDisabledAge>crwdns429810:0{0_nameDef}crwdnd429810:0{1}crwdnd429810:0{2}crwdnd429810:0{3}crwdne429810:0</WorkDisabledAge>
-  <ClickToChangeWorkMode>crwdns429812:0crwdne429812:0</ClickToChangeWorkMode>
+  <ResearchProjectHasDefsWithMissingMemes>crwdns444070:0{0}crwdne444070:0</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>crwdns444072:0{0_possessive}crwdne444072:0</SelectedWorkTypeOpposedByIdeo>
 
+  <DevelopmentPoints>crwdns444074:0crwdne444074:0</DevelopmentPoints>
 
 </LanguageData>
