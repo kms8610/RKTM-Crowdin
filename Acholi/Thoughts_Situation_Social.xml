@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BabyCriedSocial.stages.cried.label>crwdns428232:0crwdne428232:0</BabyCriedSocial.stages.cried.label>
-  
-  <BabyGiggledSocial.stages.giggled.label>crwdns428234:0crwdne428234:0</BabyGiggledSocial.stages.giggled.label>
-  
-  <BreastfedBaby.stages.breastfed.label>crwdns428236:0crwdne428236:0</BreastfedBaby.stages.breastfed.label>
-  
-  <BreastfedMe.stages.breastfed_me.label>crwdns428238:0crwdne428238:0</BreastfedMe.stages.breastfed_me.label>
-  
-  <FedBaby.stages.fed.label>crwdns428240:0crwdne428240:0</FedBaby.stages.fed.label>
-  
-  <FedMe.stages.fed_me.label>crwdns428242:0crwdne428242:0</FedMe.stages.fed_me.label>
-  
-  <KilledChild_Opinion.stages.killed_a_child.label>crwdns428244:0crwdne428244:0</KilledChild_Opinion.stages.killed_a_child.label>
-  
-  <PlayedWithMe.stages.played_with_me.label>crwdns428246:0crwdne428246:0</PlayedWithMe.stages.played_with_me.label>
-  
-  <PsychicBond.stages.psychic_bond.label>crwdns428248:0crwdne428248:0</PsychicBond.stages.psychic_bond.label>
+  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>crwdns442846:0crwdne442846:0</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
+  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>crwdns442848:0crwdne442848:0</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>
 </LanguageData>
