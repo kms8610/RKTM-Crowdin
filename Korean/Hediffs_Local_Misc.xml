@@ -1,33 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChemicalDamageModerate.label>약물 피해</ChemicalDamageModerate.label>
-  <ChemicalDamageModerate.description>약물로 인해 세포수준부터 피해를 받았습니다.</ChemicalDamageModerate.description>
+  <CureScaria.label>스카리아 치료</CureScaria.label>
+  <CureScaria.description>스카리아를 치료할 특별한 수술입니다.</CureScaria.description>
+  <CureScaria.jobString>스카리아 치료 중</CureScaria.jobString>
+  <CureScaria.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 스카리아를 치료했습니다.</CureScaria.successfullyRemovedHediffMessage>
   
-  <ChemicalDamageSevere.label>약물 피해</ChemicalDamageSevere.label>
-  <ChemicalDamageSevere.description>약물로 인해 세포수준부터 피해를 받았습니다.</ChemicalDamageSevere.description>
-  
-  <Cirrhosis.label>간경변</Cirrhosis.label>
-  <Cirrhosis.description>과도한 알코올 섭취로 인해 간기능이 저하되었습니다.</Cirrhosis.description>
-  
-  <ResurrectionPsychosis.label>부활 정신장애</ResurrectionPsychosis.label>
-  <ResurrectionPsychosis.description>부활 기계입자의 불안정성으로 인해 사고 기능이 방해받고 있습니다. 부활 정신장애는 진행성 질환으로, 완전한 정신증과 사망으로 이어집니다.\n\n부활한 사람의 신체 기능을 세포 수준부터 재구축하기 위해서는 기계입자가 필요합니다. 기계입자는 불안정한 도구로, 안정 상태에서 벗어나면 중추 신경계를 치명적으로 망가뜨립니다. 오래된 시체일수록 기계입자가 재구축해야 하는 세포가 많아지고, 따라서 불안정성도 증가합니다.</ResurrectionPsychosis.description>
-  <ResurrectionPsychosis.descriptionShort>부활 후유증으로 인해 사고 기능이 방해받고 있습니다. 부활 정신장애는 진행성 질환으로, 정신증과 사망으로 이어집니다.</ResurrectionPsychosis.descriptionShort>
-  <ResurrectionPsychosis.stages.early-0.label>초기</ResurrectionPsychosis.stages.early-0.label>
-  <ResurrectionPsychosis.stages.early-1.label>초기</ResurrectionPsychosis.stages.early-1.label>
-  <ResurrectionPsychosis.stages.moderate.label>보통</ResurrectionPsychosis.stages.moderate.label>
-  <ResurrectionPsychosis.stages.advanced.label>똑똑함</ResurrectionPsychosis.stages.advanced.label>
-  <ResurrectionPsychosis.stages.severe.label>심각함</ResurrectionPsychosis.stages.severe.label>
-  <ResurrectionPsychosis.stages.total.label>완전</ResurrectionPsychosis.stages.total.label>
-  <ResurrectionPsychosis.stages.catatonic.label>말기</ResurrectionPsychosis.stages.catatonic.label>
-  
-  <Scaria.label>스카리아</Scaria.label>
-  <Scaria.description>광포한 분노를 일으키는 질병입니다. 스카리아에 걸린 생물은 특별한 의료 수술을 통해 치료할 수 있지만, 그전에 먼저 쓰러뜨려야 합니다. 치료하지 않으면 스카리아는 숙주를 감염 약 5일 후 사망에 이르게 합니다. 스카리아는 피부와 살점을 오염시키므로 치료 없이 죽으면 시체가 바로 썩어 도축할 수 없을 확률이 있습니다.</Scaria.description>
-  <Scaria.descriptionShort>광포한 분노를 일으키는 질병입니다. 치료하지 않으면 감염 약 5일 후 사망합니다.</Scaria.descriptionShort>
-  
-  <Sterilized.label>불임 시술</Sterilized.label>
-  <Sterilized.description>이 생물의 생식 활동은 영구적으로 정지되었습니다.</Sterilized.description>
-  
-  <TraumaSavant.label>서번트 증후군</TraumaSavant.label>
-  <TraumaSavant.description>뇌의 이상으로 인한 예외적인 특수 상태입니다. 부상을 당한 뇌가 일부 능력을 극대화했지만 그 과정에서 대화 능력을 잃었습니다.</TraumaSavant.description>
-  <TraumaSavant.labelNoun>서번트 증후군</TraumaSavant.labelNoun>
+  <Sterilize.label>불임 시술</Sterilize.label>
+  <Sterilize.description>더 이상 번식할 수 없도록 불임 시술을 할 수 있습니다.</Sterilize.description>
+  <Sterilize.jobString>targetA 불임 시술 중</Sterilize.jobString>
+  <Sterilize.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}(을)를 중성화했습니다.</Sterilize.successfullyRemovedHediffMessage>
 </LanguageData>
