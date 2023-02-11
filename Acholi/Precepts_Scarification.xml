@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Scarification_Extreme.label>crwdns436916:0crwdne436916:0</Scarification_Extreme.label>
-  <Scarification_Extreme.description>crwdns436918:0crwdne436918:0</Scarification_Extreme.description>
-  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>crwdns436920:0crwdne436920:0</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
-  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>crwdns436922:0crwdne436922:0</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+  <ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>crwdns442174:0crwdne442174:0</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>
+  <ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>crwdns442176:0crwdne442176:0</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>
   
-  <Scarification_Heavy.label>crwdns436924:0crwdne436924:0</Scarification_Heavy.label>
-  <Scarification_Heavy.description>crwdns436926:0crwdne436926:0</Scarification_Heavy.description>
-  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>crwdns436928:0crwdne436928:0</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
-  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>crwdns436930:0crwdne436930:0</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+  <ScarificationCeremony_Self_Extreme.stages.got_scarified.label>crwdns442178:0crwdne442178:0</ScarificationCeremony_Self_Extreme.stages.got_scarified.label>
+  <ScarificationCeremony_Self_Extreme.stages.got_scarified.description>crwdns442180:0crwdne442180:0</ScarificationCeremony_Self_Extreme.stages.got_scarified.description>
   
-  <Scarification_Horrible.label>crwdns436932:0crwdne436932:0</Scarification_Horrible.label>
-  <Scarification_Horrible.description>crwdns436934:0crwdne436934:0</Scarification_Horrible.description>
-  <Scarification_Horrible.comps.0.description>crwdns436936:0crwdne436936:0</Scarification_Horrible.comps.0.description>
+  <ScarificationCeremony_Self_Heavy.stages.got_scarified.label>crwdns442182:0crwdne442182:0</ScarificationCeremony_Self_Heavy.stages.got_scarified.label>
+  <ScarificationCeremony_Self_Heavy.stages.got_scarified.description>crwdns442184:0crwdne442184:0</ScarificationCeremony_Self_Heavy.stages.got_scarified.description>
   
-  <Scarification_Minor.label>crwdns436938:0crwdne436938:0</Scarification_Minor.label>
-  <Scarification_Minor.description>crwdns436940:0crwdne436940:0</Scarification_Minor.description>
-  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>crwdns436942:0crwdne436942:0</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
-  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>crwdns436944:0crwdne436944:0</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
+  <ScarificationCeremony_Self_Minor.stages.got_scarified.label>crwdns442186:0crwdne442186:0</ScarificationCeremony_Self_Minor.stages.got_scarified.label>
+  <ScarificationCeremony_Self_Minor.stages.got_scarified.description>crwdns442188:0crwdne442188:0</ScarificationCeremony_Self_Minor.stages.got_scarified.description>
+  
+  <Scarification_Extreme.stages.scarified.label>crwdns442190:0crwdne442190:0</Scarification_Extreme.stages.scarified.label>
+  <Scarification_Extreme.stages.scarified.description>crwdns442192:0crwdne442192:0</Scarification_Extreme.stages.scarified.description>
+  <Scarification_Extreme.stages.not_scarified.label>crwdns442194:0crwdne442194:0</Scarification_Extreme.stages.not_scarified.label>
+  <Scarification_Extreme.stages.not_scarified.description>crwdns442196:0crwdne442196:0</Scarification_Extreme.stages.not_scarified.description>
+  <Scarification_Extreme.stages.insufficiently_scarified.label>crwdns442198:0crwdne442198:0</Scarification_Extreme.stages.insufficiently_scarified.label>
+  <Scarification_Extreme.stages.insufficiently_scarified.description>crwdns442200:0crwdne442200:0</Scarification_Extreme.stages.insufficiently_scarified.description>
+  
+  <Scarification_Extreme_Opinion.stages.scarified.label>crwdns442202:0crwdne442202:0</Scarification_Extreme_Opinion.stages.scarified.label>
+  <Scarification_Extreme_Opinion.stages.not_scarified.label>crwdns442204:0crwdne442204:0</Scarification_Extreme_Opinion.stages.not_scarified.label>
+  <Scarification_Extreme_Opinion.stages.insufficiently_scarified.label>crwdns442206:0crwdne442206:0</Scarification_Extreme_Opinion.stages.insufficiently_scarified.label>
+  
+  <Scarification_Heavy.stages.scarified.label>crwdns442208:0crwdne442208:0</Scarification_Heavy.stages.scarified.label>
+  <Scarification_Heavy.stages.scarified.description>crwdns442210:0crwdne442210:0</Scarification_Heavy.stages.scarified.description>
+  <Scarification_Heavy.stages.not_scarified.label>crwdns442212:0crwdne442212:0</Scarification_Heavy.stages.not_scarified.label>
+  <Scarification_Heavy.stages.not_scarified.description>crwdns442214:0crwdne442214:0</Scarification_Heavy.stages.not_scarified.description>
+  <Scarification_Heavy.stages.insufficiently_scarified.label>crwdns442216:0crwdne442216:0</Scarification_Heavy.stages.insufficiently_scarified.label>
+  <Scarification_Heavy.stages.insufficiently_scarified.description>crwdns442218:0crwdne442218:0</Scarification_Heavy.stages.insufficiently_scarified.description>
+  
+  <Scarification_Heavy_Opinion.stages.scarified.label>crwdns442220:0crwdne442220:0</Scarification_Heavy_Opinion.stages.scarified.label>
+  <Scarification_Heavy_Opinion.stages.not_scarified.label>crwdns442222:0crwdne442222:0</Scarification_Heavy_Opinion.stages.not_scarified.label>
+  <Scarification_Heavy_Opinion.stages.insufficiently_scarified.label>crwdns442224:0crwdne442224:0</Scarification_Heavy_Opinion.stages.insufficiently_scarified.label>
+  
+  <Scarification_Minor.stages.scarified.label>crwdns442226:0crwdne442226:0</Scarification_Minor.stages.scarified.label>
+  <Scarification_Minor.stages.scarified.description>crwdns442228:0crwdne442228:0</Scarification_Minor.stages.scarified.description>
+  <Scarification_Minor.stages.not_scarified.label>crwdns442230:0crwdne442230:0</Scarification_Minor.stages.not_scarified.label>
+  <Scarification_Minor.stages.not_scarified.description>crwdns442232:0crwdne442232:0</Scarification_Minor.stages.not_scarified.description>
+  <Scarification_Minor.stages.insufficiently_scarified.label>crwdns442234:0crwdne442234:0</Scarification_Minor.stages.insufficiently_scarified.label>
+  <Scarification_Minor.stages.insufficiently_scarified.description>crwdns442236:0crwdne442236:0</Scarification_Minor.stages.insufficiently_scarified.description>
+  
+  <Scarification_Minor_Opinion.stages.scarified.label>crwdns442238:0crwdne442238:0</Scarification_Minor_Opinion.stages.scarified.label>
+  <Scarification_Minor_Opinion.stages.not_scarified.label>crwdns442240:0crwdne442240:0</Scarification_Minor_Opinion.stages.not_scarified.label>
+  <Scarification_Minor_Opinion.stages.insufficiently_scarified.label>crwdns442242:0crwdne442242:0</Scarification_Minor_Opinion.stages.insufficiently_scarified.label>
 </LanguageData>
