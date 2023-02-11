@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlayerRaidedSomeone.label>crwdns431122:0crwdne431122:0</PlayerRaidedSomeone.label>
-  
-  <Raided.label>crwdns431124:0crwdne431124:0</Raided.label>
-  
-  <Raided_BanditCamp.label>crwdns431126:0crwdne431126:0</Raided_BanditCamp.label>
-  
-  <Raided_WorkSite.label>crwdns431128:0crwdne431128:0</Raided_WorkSite.label>
+  <Raiding.label>crwdns432318:0crwdne432318:0</Raiding.label>
 </LanguageData>
