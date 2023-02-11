@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArchiteCapsule.label>crwdns427512:0crwdne427512:0</ArchiteCapsule.label>
+  <ArchiteCapsule.description>crwdns427514:0crwdne427514:0</ArchiteCapsule.description>
+  
+  <Genepack.label>crwdns427516:0crwdne427516:0</Genepack.label>
+  <Genepack.description>crwdns427518:0crwdne427518:0</Genepack.description>
+  
+  <HumanEmbryo.label>crwdns427520:0crwdne427520:0</HumanEmbryo.label>
+  <HumanEmbryo.description>crwdns427522:0crwdne427522:0</HumanEmbryo.description>
+  
+  <HumanOvum.label>crwdns427524:0crwdne427524:0</HumanOvum.label>
+  <HumanOvum.description>crwdns427526:0crwdne427526:0</HumanOvum.description>
+  
+  <MechanoidTransponder.label>crwdns427528:0crwdne427528:0</MechanoidTransponder.label>
+  <MechanoidTransponder.description>crwdns427530:0crwdne427530:0</MechanoidTransponder.description>
+  <MechanoidTransponder.comps.CompUseableDatacore.useLabel>crwdns427532:0crwdne427532:0</MechanoidTransponder.comps.CompUseableDatacore.useLabel>
+  <MechanoidTransponder.comps.CompInspectString.inspectString>crwdns427534:0crwdne427534:0</MechanoidTransponder.comps.CompInspectString.inspectString>
+  
+  <Xenogerm.label>crwdns427536:0crwdne427536:0</Xenogerm.label>
+  <Xenogerm.description>crwdns427538:0crwdne427538:0</Xenogerm.description>
+</LanguageData>
