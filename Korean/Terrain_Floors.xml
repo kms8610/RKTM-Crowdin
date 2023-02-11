@@ -1,14 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Floor_MindbendCarpet.label>mindbend carpet</Floor_MindbendCarpet.label>
+  <Boards_Totemic.label>totemic boards</Boards_Totemic.label>
+  <Boards_Totemic.description>Fine wood boards decorated in a totemic style.</Boards_Totemic.description>
   
-  <Floor_Morbid_Carpet.label>morbid carpet</Floor_Morbid_Carpet.label>
+  <Carpet_MindbendA.label>diamond mindbend carpet</Carpet_MindbendA.label>
+  <Carpet_MindbendA.description>마인드벤드 양식으로 장식한 고급 양탄자입니다.</Carpet_MindbendA.description>
   
-  <Floor_Morbid_Stone.label>morbid tile</Floor_Morbid_Stone.label>
+  <Carpet_MindbendB.label>purple mindbend carpet</Carpet_MindbendB.label>
+  <Carpet_MindbendB.description>마인드벤드 양식으로 장식한 고급 양탄자입니다.</Carpet_MindbendB.description>
   
-  <Floor_Spikecore_Tile.label>스파이크코어 타일</Floor_Spikecore_Tile.label>
+  <Carpet_MindbendC.label>green mindbend carpet</Carpet_MindbendC.label>
+  <Carpet_MindbendC.description>마인드벤드 양식으로 장식한 고급 양탄자입니다.</Carpet_MindbendC.description>
   
-  <Floor_Totemic_Tile.label>totemic tile</Floor_Totemic_Tile.label>
+  <Carpet_MindbendD.label>blue mindbend carpet</Carpet_MindbendD.label>
+  <Carpet_MindbendD.description>마인드벤드 양식으로 장식한 고급 양탄자입니다.</Carpet_MindbendD.description>
   
-  <Floor_Transhumanist_Carpet.label>hex carpet</Floor_Transhumanist_Carpet.label>
+  <Carpet_MindbendE.label>yellow mindbend carpet</Carpet_MindbendE.label>
+  <Carpet_MindbendE.description>마인드벤드 양식으로 장식한 고급 양탄자입니다.</Carpet_MindbendE.description>
+  
+  <Plates_Spikecore.label>스파이크코어 철판</Plates_Spikecore.label>
+  <Plates_Spikecore.description>공격적인 스파이크코어 양식으로 꾸며진 고급 철판입니다.</Plates_Spikecore.description>
+  
+  <Tile_MorbidGranite.label>morbid granite tile</Tile_MorbidGranite.label>
+  <Tile_MorbidGranite.description>Fine stone tiles in a morbid style.</Tile_MorbidGranite.description>
+  
+  <Tile_MorbidLimestone.label>morbid limestone tile</Tile_MorbidLimestone.label>
+  <Tile_MorbidLimestone.description>Fine stone tiles in a morbid style.</Tile_MorbidLimestone.description>
+  
+  <Tile_MorbidMarble.label>morbid marble tile</Tile_MorbidMarble.label>
+  <Tile_MorbidMarble.description>Fine stone tiles in a morbid style.</Tile_MorbidMarble.description>
+  
+  <Tile_MorbidSandstone.label>morbid sandstone tile</Tile_MorbidSandstone.label>
+  <Tile_MorbidSandstone.description>Fine stone tiles in a morbid style.</Tile_MorbidSandstone.description>
+  
+  <Tile_MorbidSlate.label>morbid slate tile</Tile_MorbidSlate.label>
+  <Tile_MorbidSlate.description>Fine stone tiles in a morbid style.</Tile_MorbidSlate.description>
+  
+  <Tile_SpikecoreGranite.label>화강암 스파이크코어 타일</Tile_SpikecoreGranite.label>
+  <Tile_SpikecoreGranite.description>스파이크코어 양식의 고급 석재 타일입니다.</Tile_SpikecoreGranite.description>
+  
+  <Tile_SpikecoreLimestone.label>석회암 스파이크코어 타일</Tile_SpikecoreLimestone.label>
+  <Tile_SpikecoreLimestone.description>스파이크코어 양식의 고급 석재 타일입니다.</Tile_SpikecoreLimestone.description>
+  
+  <Tile_SpikecoreMarble.label>대리석 스파이크코어 타일</Tile_SpikecoreMarble.label>
+  <Tile_SpikecoreMarble.description>스파이크코어 양식의 고급 석재 타일입니다.</Tile_SpikecoreMarble.description>
+  
+  <Tile_SpikecoreSandstone.label>사암 스파이크코어 타일</Tile_SpikecoreSandstone.label>
+  <Tile_SpikecoreSandstone.description>스파이크코어 양식의 고급 석재 타일입니다.</Tile_SpikecoreSandstone.description>
+  
+  <Tile_SpikecoreSlate.label>점판암 스파이크코어 타일</Tile_SpikecoreSlate.label>
+  <Tile_SpikecoreSlate.description>스파이크코어 양식의 고급 석재 타일입니다.</Tile_SpikecoreSlate.description>
+  
+  <Tile_TotemicGranite.label>totemic granite tile</Tile_TotemicGranite.label>
+  <Tile_TotemicGranite.description>토템 양식의 고급 석재 타일입니다.</Tile_TotemicGranite.description>
+  
+  <Tile_TotemicLimestone.label>totemic limestone tile</Tile_TotemicLimestone.label>
+  <Tile_TotemicLimestone.description>토템 양식의 고급 석재 타일입니다.</Tile_TotemicLimestone.description>
+  
+  <Tile_TotemicMarble.label>totemic marble tile</Tile_TotemicMarble.label>
+  <Tile_TotemicMarble.description>토템 양식의 고급 석재 타일입니다.</Tile_TotemicMarble.description>
+  
+  <Tile_TotemicSandstone.label>totemic sandstone tile</Tile_TotemicSandstone.label>
+  <Tile_TotemicSandstone.description>토템 양식의 고급 석재 타일입니다.</Tile_TotemicSandstone.description>
+  
+  <Tile_TotemicSlate.label>totemic slate tile</Tile_TotemicSlate.label>
+  <Tile_TotemicSlate.description>토템 양식의 고급 석재 타일입니다.</Tile_TotemicSlate.description>
+  
+  <Tile_Transhumanist.label>hex tile</Tile_Transhumanist.label>
+  <Tile_Transhumanist.description>극도로 기술적인 외형을 위해 육각형 무늬를 새긴 고급 철판입니다.</Tile_Transhumanist.description>
 </LanguageData>
