@@ -1,57 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Character -->
-  <OverridesSomePrecepts>Overrides some precepts related to</OverridesSomePrecepts>
-  <AgreeableMemes>Agrees with memes</AgreeableMemes>
-  <DisagreeableMemes>Conflicts with memes</DisagreeableMemes>
+  <!-- Character tab -->
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort}(은)는 {FACTION_name}의 {TITLE}입니다.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort}(은)는 온전한 귀족 특권을 요구합니다.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort}(은)는 귀족 특권을 요구하지 않습니다.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>다음 작위</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>{FACTION_royalFavorLabel} {0}개 필요</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>이 행성에서는 더 이상 작위를 올릴 수 없습니다.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>{PAWN_nameDef}(이)가 사망하면, {PAWN_possessive} 작위는 {HEIR_nameFull}에게 상속됩니다.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull}(은)는 어떤 세력에도 소속되어있지 않습니다.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull}(은)는 {FACTION_name} 구성원입니다.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>{PAWN_nameDef}의 작위를 상속받을 수 있는 인물이 없습니다. {PAWN_pronoun}가 사망하면 작위는 회수됩니다.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>{FACTION_name}의 획득 가능한 작위</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>{FACTION_name}의 다른 작위</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{1} x{0}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>총 {0}</RoyalTitleTooltipRoyalFavorTotal>
 
-  <!-- ITab titles -->
-  <TabSlave>노예</TabSlave>
-  <SlaveReleaseRelationGainsDesc>The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health.</SlaveReleaseRelationGainsDesc>
-  <SlaveReleasePotentialRelationGains>해방 시 얻는 우호도</SlaveReleasePotentialRelationGains>
-  <SlaveRebellionMTBDays>Slave rebellion interval</SlaveRebellionMTBDays>
-  <SlaveRebellionMTBDaysDescription>The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map.</SlaveRebellionMTBDaysDescription>
-
-  <!-- Slave tab -->
-  <Suppression>복종심</Suppression>
-  <SuppressionDesc>복종심은 노예가 느끼는 공포와 억압의 수준을 수치화한 것입니다. 복종심이 낮으면 노예가 반란을 일으킬 확률이 높아집니다.</SuppressionDesc>
-  <SuppressionFallRate>복종심 하락률</SuppressionFallRate>
-  <SuppressionFallRateDesc>복종심은 지속적으로 하락합니다.\n\n- {1} 이상: 매일 {0} 하락\n- {4} - {3}: 매일 {2} 하락\n- {6} 이하: 매일 {5} 하락\n\n옷과 공포심도 복종심 하락 속도에 영향을 줍니다. 이 노예의 복종심 하락 속도는 다음과 같습니다. :</SuppressionFallRateDesc>
-  <CannotEmancipate>Cannot emancipate</CannotEmancipate>
-  <CannotImprison>Cannot imprison</CannotImprison>
-  <CurrentSuppression>현재 복종심</CurrentSuppression>
-  <Terror>테러</Terror>
-  <TerrorDescription>공포는 노예를 억압하는 수단입니다. 노예가 공포 조각상처럼 끔찍한 대상의 주위에 머물면 공포 수치가 상승합니다. 한 번에 최대 세 개의 공포 요인에만 영향을 받습니다.\n\n공포가 높으면 아래 수치만큼 억압이 느리게 하락합니다</TerrorDescription>
-  <TerrorCurrentThoughts>Recent terrifying observations</TerrorCurrentThoughts>
-
-  <SuppressionBaseInterval>Base interval</SuppressionBaseInterval>
-  <SuppressionMovingCapacityFactor>Moving capacity</SuppressionMovingCapacityFactor>
-  <SuppressionFactor>복종심</SuppressionFactor>
-  <SuppressionMoodFactor>기분</SuppressionMoodFactor>
-  <SuppressionSlaveCountFactor>Slave count</SuppressionSlaveCountFactor>
-  <SuppressionEscapeFactor>빈틈 존재</SuppressionEscapeFactor>
-  <SuppressionWeaponProximityFactor>Weapon proximity</SuppressionWeaponProximityFactor>
-  <SuppressionFinalInterval>Final interval</SuppressionFinalInterval>
-  <SuppressionUnattendedByColonists>Unattended</SuppressionUnattendedByColonists>
-  <SuppressionRebellionAnySlave>At least one of the {0} slaves on this map is expected rebel on average every {1}.</SuppressionRebellionAnySlave>
-
-  <WillLevel>Will</WillLevel>
-  <WillLevelDesc>수감자가 얼마나 버틸 수 있는지를 나타냅니다. 0이 되면 노예로 삼을 수 있습니다.</WillLevelDesc>
-  <WillFromPawnKind>{0} base will</WillFromPawnKind>
-  <IdeoConversionTarget>Target ideoligion</IdeoConversionTarget>
-  <IdeoConversionTargetDesc>간수가 수감자 교화에 사용할 사상입니다.</IdeoConversionTargetDesc>
-
-  <!-- Social -->
-  <CertaintyChangePerDay>Change per day due to mood</CertaintyChangePerDay>
-  <MoodChangeRate>Change rate based on mood</MoodChangeRate>
-  <CertaintyInIdeo>{PAWN_nameDef}'s certainty in {IDEO_name}</CertaintyInIdeo>
-  <RoleDesc>이 사람이 자신의 사상에서 맡고 있는 특별한 지위입니다. 바꾸거나 박탈할 경우 기분이 나빠질 것입니다.</RoleDesc>
-  <RoleAssignmentTip>지위를 변경하기 위해서는 취임식이 필요합니다. 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</RoleAssignmentTip>
-  <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상이 잘 어울리기 때문에 개종 효율이 약해짐</ConversionWeakerDueToTraitAgreements>
-  <ConversionStrongerDueToTraitAgreements>대상의 특성과 사상이 충돌하기 때문에 개종 효율이 상승함</ConversionStrongerDueToTraitAgreements>
-
-  <Cut>절제</Cut>
-  <CutBothEyes>Cut both eyes</CutBothEyes>
-
+  <RecruitmentResistanceRoyalTitleOffset>{0} 작위</RecruitmentResistanceRoyalTitleOffset>
+  
+  <!-- Permits tab -->
+  <TabPermits>지원 요청</TabPermits>
+  <PermitsFromFaction>{FACTION_name}에 지원 요청</PermitsFromFaction>
+  <CurrentTitle>현재 작위</CurrentTitle>
+  <UnusedPermits>남은 지원 요청 권한</UnusedPermits>
+  <ReturnAllPermits>지원 요청 권한 초기화</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef}(은)는 초기화할 지원 요청 권한이 없습니다.</NoPermitsToReturn>
+  <NotEnoughFavor>{FAVOR}(이)가 부족합니다. 지원 요청 권한을 초기화하려면 {FAVOR} {FAVORCOST}개가 필요하지만 현재 보유량은 {CURFAVOR}개입니다.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>모든 지원 요청 권한을 초기화하여 다시 선택할 수 있게 합니다.\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>모든 지원 요청 권한을 초기화하고 다시 선택하시겠습니까?\n\n이 선택에는 기본적으로 {FAVOR} {BASEFAVORCOST}개가 소모되며, 현재 재사용 대기 중인 모든 지원 요청을 재설정하기 위한 비용이 더해집니다. 총 비용은 신임장 {FAVORCOST}개입니다.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>세력 전환</SwitchFaction_Desc>
+  <AcceptPermit>지원 요청 권한 획득</AcceptPermit>
+  <RequiresTitle>요구 작위: {0}</RequiresTitle>
+  <UpgradeFrom>{0}(을)를 대체함</UpgradeFrom>
+  <Cooldown>재사용 대기시간</Cooldown>
+  <CooldownUseFavorCost>재사용 대기시간 중 사용시 {HONOR} 소모</CooldownUseFavorCost>
+  
 </LanguageData>
