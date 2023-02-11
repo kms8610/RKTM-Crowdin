@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalSlaughter_Disapproved.label>crwdns436118:0crwdne436118:0</AnimalSlaughter_Disapproved.label>
-  <AnimalSlaughter_Disapproved.description>crwdns436120:0crwdne436120:0</AnimalSlaughter_Disapproved.description>
-  <AnimalSlaughter_Disapproved.comps.1.description>crwdns436122:0crwdne436122:0</AnimalSlaughter_Disapproved.comps.1.description>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>crwdns440934:0crwdne440934:0</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>crwdns440936:0crwdne440936:0</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Horrible.label>crwdns436124:0crwdne436124:0</AnimalSlaughter_Horrible.label>
-  <AnimalSlaughter_Horrible.description>crwdns436126:0crwdne436126:0</AnimalSlaughter_Horrible.description>
-  <AnimalSlaughter_Horrible.comps.1.description>crwdns436128:0crwdne436128:0</AnimalSlaughter_Horrible.comps.1.description>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>crwdns440938:0crwdne440938:0</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>crwdns440940:0crwdne440940:0</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Prohibited.label>crwdns436130:0crwdne436130:0</AnimalSlaughter_Prohibited.label>
-  <AnimalSlaughter_Prohibited.description>crwdns436132:0crwdne436132:0</AnimalSlaughter_Prohibited.description>
-  <AnimalSlaughter_Prohibited.comps.1.description>crwdns436134:0crwdne436134:0</AnimalSlaughter_Prohibited.comps.1.description>
-  <AnimalSlaughter_Prohibited.comps.2.description>crwdns436136:0crwdne436136:0</AnimalSlaughter_Prohibited.comps.2.description>
+  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>crwdns440942:0crwdne440942:0</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>crwdns440944:0crwdne440944:0</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>crwdns440946:0crwdne440946:0</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>crwdns440948:0crwdne440948:0</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>crwdns440950:0crwdne440950:0</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>crwdns440952:0crwdne440952:0</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>crwdns440954:0crwdne440954:0</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>crwdns440956:0crwdne440956:0</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>crwdns440958:0crwdne440958:0</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
 </LanguageData>
