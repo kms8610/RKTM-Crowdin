@@ -1,11 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Charity_Essential.label>필수</Charity_Essential.label>
-  <Charity_Essential.description>반드시 도움이 필요한 사람들에게 자선을 베풀어야 한다. 어떠한 상황에 처해 있더라도 도움을 청하는 자를 외면하는 것은 비인간적인 행위다.</Charity_Essential.description>
+  <CharityFulfilled_Essential_Beggars.stages.beggars_helped.label>거지들을 도움</CharityFulfilled_Essential_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Essential_Beggars.stages.beggars_helped.description>우리는 거지들이 곤란할때 도와줬어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_Beggars.stages.beggars_helped.description>
   
-  <Charity_Important.label>중요</Charity_Important.label>
-  <Charity_Important.description>도움이 필요한 사람들에게 자선을 베푸는 것은 중요하다. 도움을 청하는 자를 외면하는 것은 끔찍한 행위다.</Charity_Important.description>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.label>피난민 수용</CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>우리는 피난민을 도왔어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_HospitalityRefugees.stages.refugees_hosted.description>
   
-  <Charity_Worthwhile.label>worthwhile</Charity_Worthwhile.label>
-  <Charity_Worthwhile.description>Helping those in need is a good thing. It makes the community stronger.</Charity_Worthwhile.description>
+  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>귀족을 도움</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>우리는 귀족들이 곤란할때 도와줬어. 우린 정말 좋은 사람들이야!</CharityFulfilled_Essential_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.label>피난민 도움</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>우리는 피난민이 생존할 수 있게 도왔어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>난파자를 도움</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>우리는 난파된 생존자들을 도와줬어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>피난민 수용</CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>위협받고 있는 사람을 도왔어. 우린 정말 좋은 사람들이야!</CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.label>방랑자를 도움</CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.description>우리는 절박한 방랑자가 생존할 수 있게 도와줬어. 난 정말 좋은 사람이야!</CharityFulfilled_Essential_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityFulfilled_Important_Beggars.stages.beggars_helped.label>거지들을 도움</CharityFulfilled_Important_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Important_Beggars.stages.beggars_helped.description>도움이 필요한 거지들을 도와줬어. 이건 올바른 일이야.</CharityFulfilled_Important_Beggars.stages.beggars_helped.description>
+  
+  <CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.label>피난민 수용</CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>우리는 피난민을 수용했어. 타인을 돕는 건 중요한 일이야.</CharityFulfilled_Important_HospitalityRefugees.stages.refugees_hosted.description>
+  
+  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>귀족을 도움</CharityFulfilled_Important_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>우리는 귀족들이 곤란할때 도와줬어. 타인을 돕는다는건 중요한 일이야.</CharityFulfilled_Important_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>피난민 도움</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>우리는 피난민이 생존할 수 있게 도왔어. 타인을 돕는 건 정말 중요한 일이야.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>난파자를 도움</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>우리는 난파된 생존자들을 도와줬어. 아주 옳은 일이었어.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>피난민 수용</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>위협받고 있는 사람을 도왔어. 이건 올바른 일이야.</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>방랑자를 도움</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>우리는 절박한 방랑자가 생존할 수 있게 도와줬어. 남을 돕는 것은 옳은 일이야.</CharityFulfilled_Important_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>거지들을 도움</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.label>
+  <CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>도움이 필요한 거지들을 도와줬어. 선행은 기분이 좋아.</CharityFulfilled_Worthwhile_Beggars.stages.beggars_helped.description>
+  
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>피난민 수용</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.label>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>우리는 피난민을 도와주었어. 우리를 위한 일이었어.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.refugees_hosted.description>
+  
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>귀족을 도움</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>우리는 귀족들을 도와주었어. 우리를 위한 일이었어.</CharityFulfilled_Worthwhile_IntroWimp.stages.noble_helped.description>
+  
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>피난민 도움</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.label>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>우리는 피난민이 생존할 수 있게 도왔어. 내게도 좋은 일이었어.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
+  
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>난파자를 도움</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>우리는 난파된 생존자들을 도와줬어. 좋은 일이야.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>피난민 수용</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>위협 받고 있는 사람을 도왔어. 기분이 좋았어.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.description>
+  
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>방랑자를 도움</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.label>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>우리는 절박한 방랑자가 생존할 수 있게 도와줬어. 좋은 일이야.</CharityFulfilled_Worthwhile_WandererJoins.stages.wanderer_helped.description>
+  
+  <CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>거지들을 돕지 않음</CharityRefused_Essential_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Essential_Beggars.stages.beggars_not_helped.description>저들이 도움을 구걸했는데 거부했어. 이런 끔찍한 일이.. 내가 인간이긴 한 걸까?</CharityRefused_Essential_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.label>거지들을 배신함</CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해온 사람들을 배신해 버렸어. 내 자신을 용서할 수 없어.</CharityRefused_Essential_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>피난민을 돕지 않음</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>절박한 사람들을 돕지 않았어. 나는 비인간적인 사람이야.</CharityRefused_Essential_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>귀족을 돕지 않음</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 그건 정말로 냉혈한 짓이었어.</CharityRefused_Essential_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거절했어. 어떻게 이렇게 이기적일 수 있지?</CharityRefused_Essential_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 어쩌다 이렇게 타락한 거지?</CharityRefused_Essential_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민 거부</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 이런 상태로 얼마나 살 수 있을까?</CharityRefused_Essential_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>추락한 왕복선 외면</CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>난파를 당해서 도움이 절박했는데, 우리는 외면해 버렸어. 이런 짓을 하고 앞으로 제대로 살 수나 있을까?</CharityRefused_Essential_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>위험한 피난민 거부</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 내 신념에 크게 어긋나는 일이야.</CharityRefused_Essential_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>방랑자 거부</CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.description>도움을 구하는 사람들을 내쳤어. 우리가 한 짓은 비인간적이야.</CharityRefused_Essential_WandererJoins.stages.wanderer_rejected.description>
+  
+  <CharityRefused_Important_Beggars.stages.beggars_not_helped.label>거지들을 돕지 않음</CharityRefused_Important_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Important_Beggars.stages.beggars_not_helped.description>저들이 도움을 구걸하는데도 우린 아무것도 하지 않았어. 매우 잘못된 일이야.</CharityRefused_Important_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.label>거지들을 배신함</CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해온 사람들을 배신해 버렸어. 정말 끔찍해.</CharityRefused_Important_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>피난민을 돕지 않음</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>절박한 사람들을 돕지 않았어. 우린 도와야 할 의무가 있었어.</CharityRefused_Important_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>귀족을 돕지 않음</CharityRefused_Important_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 우리는 더 노력해야 해.</CharityRefused_Important_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거절했어. 우리는 방식을 바꿀 필요가 있어.</CharityRefused_Important_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 이 얼마나 끔찍한 행동인가.</CharityRefused_Important_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민 거부</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 내가 착한 사람이 맞긴 한가?</CharityRefused_Important_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>추락한 왕복선 외면</CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>난파를 당해서 도움이 절박했는데, 우리는 외면해 버렸어. 너무나 잘못된 일이야.</CharityRefused_Important_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>위험한 피난민 거부</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 이 생각이 날 오랫동안 괴롭힐 거야.</CharityRefused_Important_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>방랑자 거부</CharityRefused_Important_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Important_WandererJoins.stages.wanderer_rejected.description>절박한 사람이었는데 우리가 거절해 버렸어. 악랄한 짓이야.</CharityRefused_Important_WandererJoins.stages.wanderer_rejected.description>
+  
+  <CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.label>거지들을 돕지 않음</CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.label>
+  <CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.description>도움을 요청받았는데 아무것도 하지 않았어. 우린 좀 더 노력해야 해.</CharityRefused_Worthwhile_Beggars.stages.beggars_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.label>거지들을 배신함</CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.label>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>도움을 구걸해온 사람들을 배신해 버렸어. 이런 일이 다시는 일어나선 안돼.</CharityRefused_Worthwhile_Beggars_Betrayed.stages.beggars_betrayed.description>
+  
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>피난민을 돕지 않음</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>절박한 사람들을 돕지 않았어. 이건 좋지 않아.</CharityRefused_Worthwhile_HospitalityRefugees.stages.refugees_not_helped.description>
+  
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>귀족을 돕지 않음</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>우린 도움이 절실한 귀족을 도와주지 않았어. 나는 생각보다 자비롭지 않은가 봐.</CharityRefused_Worthwhile_IntroWimp.stages.noble_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>도움을 받지 못한 순례자들</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.label>
+  <CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>그들은 우리의 신성한 유물을 보여달라고 요청했지만 거부했어. 우리는 좀 더 관대해야 해.</CharityRefused_Worthwhile_Pilgrims.stages.pilgrims_not_helped.description>
+  
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>배신당한 순례자들</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.label>
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>우리의 신성한 유물을 보러 온 그들을 배신했어. 이래서는 안 돼.</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.pilgrims_betrayed.description>
+  
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>피난민 거부</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>다치고 도움이 필요한 사람들을 외면했어. 최선의 선택은 아니었지.</CharityRefused_Worthwhile_RefugeePodCrash.stages.crashed_refugee_not_helped.description>
+  
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>추락한 왕복선 외면</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.label>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>난파를 당해서 도움이 절박했는데, 우리는 외면해 버렸어. 좋은 일이 아니야.</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.crashing_shuttle_ignored.description>
+  
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>위험한 피난민 거부</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.label>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>우린 곤경에 처한 사람을 돕지 않았어. 좋지 않아.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.rejected_joiner_in_danger.description>
+  
+  <CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>방랑자 거부</CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.label>
+  <CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.description>절박한 사람이었는데 우리가 외면해 버렸어. 우리는 더 나은 행동을 했어야 해.</CharityRefused_Worthwhile_WandererJoins.stages.wanderer_rejected.description>
 </LanguageData>
