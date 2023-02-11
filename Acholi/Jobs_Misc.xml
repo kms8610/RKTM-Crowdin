@@ -1,54 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbsorbXenogerm.reportString>crwdns424436:0crwdne424436:0</AbsorbXenogerm.reportString>
+  <ActivateArchonexusCore.reportString>crwdns432370:0crwdne432370:0</ActivateArchonexusCore.reportString>
   
-  <CarryGenepackToContainer.reportString>crwdns424438:0crwdne424438:0</CarryGenepackToContainer.reportString>
+  <Blind.reportString>crwdns432372:0crwdne432372:0</Blind.reportString>
   
-  <CarryToBuilding.reportString>crwdns424440:0crwdne424440:0</CarryToBuilding.reportString>
+  <CarryToBiosculpterPod.reportString>crwdns432374:0crwdne432374:0</CarryToBiosculpterPod.reportString>
   
-  <CastAbilityGoToThing.reportString>crwdns424442:0crwdne424442:0</CastAbilityGoToThing.reportString>
+  <DeliverToAltar.reportString>crwdns432376:0crwdne432376:0</DeliverToAltar.reportString>
   
-  <CastAbilityOnThingWithoutWeapon.reportString>crwdns424444:0crwdne424444:0</CastAbilityOnThingWithoutWeapon.reportString>
+  <DyeHair.reportString>crwdns432378:0crwdne432378:0</DyeHair.reportString>
   
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>crwdns424446:0crwdne424446:0</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <EnterBiosculpterPod.reportString>crwdns432380:0crwdne432380:0</EnterBiosculpterPod.reportString>
   
-  <ClearPollution.reportString>crwdns424448:0crwdne424448:0</ClearPollution.reportString>
+  <ExtractRelic.reportString>crwdns432382:0crwdne432382:0</ExtractRelic.reportString>
   
-  <ControlMech.reportString>crwdns424450:0crwdne424450:0</ControlMech.reportString>
+  <ExtractToInventory.reportString>crwdns432384:0crwdne432384:0</ExtractToInventory.reportString>
   
-  <CreateXenogerm.reportString>crwdns424452:0crwdne424452:0</CreateXenogerm.reportString>
+  <GetNeuralSupercharge.reportString>crwdns432386:0crwdne432386:0</GetNeuralSupercharge.reportString>
   
-  <Deathrest.reportString>crwdns424454:0crwdne424454:0</Deathrest.reportString>
+  <GiveToPawn.reportString>crwdns432388:0crwdne432388:0</GiveToPawn.reportString>
   
-  <DisassembleMech.reportString>crwdns424456:0crwdne424456:0</DisassembleMech.reportString>
+  <InduceSlaveToRebel.reportString>crwdns432390:0crwdne432390:0</InduceSlaveToRebel.reportString>
   
-  <EnterBuilding.reportString>crwdns424458:0crwdne424458:0</EnterBuilding.reportString>
+  <InstallRelic.reportString>crwdns432392:0crwdne432392:0</InstallRelic.reportString>
   
-  <GetReimplanted.reportString>crwdns424460:0crwdne424460:0</GetReimplanted.reportString>
+  <MeditatePray.reportString>crwdns432394:0crwdne432394:0</MeditatePray.reportString>
   
-  <HaulMechToCharger.reportString>crwdns424462:0crwdne424462:0</HaulMechToCharger.reportString>
+  <OpenStylingStationDialog.reportString>crwdns432396:0crwdne432396:0</OpenStylingStationDialog.reportString>
   
-  <InstallMechlink.reportString>crwdns424464:0crwdne424464:0</InstallMechlink.reportString>
+  <RecolorApparel.reportString>crwdns432398:0crwdne432398:0</RecolorApparel.reportString>
   
-  <MechCharge.reportString>crwdns424466:0crwdne424466:0</MechCharge.reportString>
+  <Sacrifice.reportString>crwdns432400:0crwdne432400:0</Sacrifice.reportString>
   
-  <PrisonerBloodfeed.reportString>crwdns424468:0crwdne424468:0</PrisonerBloodfeed.reportString>
+  <Scarify.reportString>crwdns432402:0crwdne432402:0</Scarify.reportString>
   
-  <ReadDatacore.reportString>crwdns424470:0crwdne424470:0</ReadDatacore.reportString>
+  <UseStylingStation.reportString>crwdns432404:0crwdne432404:0</UseStylingStation.reportString>
   
-  <ReleaseMechs.reportString>crwdns424472:0crwdne424472:0</ReleaseMechs.reportString>
-  
-  <RemoveMechlink.reportString>crwdns424474:0crwdne424474:0</RemoveMechlink.reportString>
-  
-  <RepairMech.reportString>crwdns424476:0crwdne424476:0</RepairMech.reportString>
-  
-  <RepairMechRemote.reportString>crwdns424478:0crwdne424478:0</RepairMechRemote.reportString>
-  
-  <SelfShutdown.reportString>crwdns424480:0crwdne424480:0</SelfShutdown.reportString>
-  
-  <ShieldMech.reportString>crwdns424482:0crwdne424482:0</ShieldMech.reportString>
-  
-  <TryRomance.reportString>crwdns424484:0crwdne424484:0</TryRomance.reportString>
-  
-  <Wait_WithSleeping.reportString>crwdns424486:0crwdne424486:0</Wait_WithSleeping.reportString>
+  <UseStylingStationAutomatic.reportString>crwdns432406:0crwdne432406:0</UseStylingStationAutomatic.reportString>
 </LanguageData>
