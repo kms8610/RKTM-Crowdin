@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulbTurret.label>crwdns421234:0crwdne421234:0</BulbTurret.label>
+  <Arms.label>crwdns456018:0crwdne456018:0</Arms.label>
   
-  <LeftPowerClaw.label>crwdns421236:0crwdne421236:0</LeftPowerClaw.label>
-  <LeftPowerClaw.labelShort>crwdns421238:0crwdne421238:0</LeftPowerClaw.labelShort>
+  <Beak.label>crwdns456020:0crwdne456020:0</Beak.label>
   
-  <RightPowerClaw.label>crwdns421240:0crwdne421240:0</RightPowerClaw.label>
-  <RightPowerClaw.labelShort>crwdns421242:0crwdne421242:0</RightPowerClaw.labelShort>
+  <Eyes.label>crwdns456022:0crwdne456022:0</Eyes.label>
+  
+  <Feet.label>crwdns456024:0crwdne456024:0</Feet.label>
+  
+  <FrontLeftClaws.label>crwdns456026:0crwdne456026:0</FrontLeftClaws.label>
+  <FrontLeftClaws.labelShort>crwdns456028:0crwdne456028:0</FrontLeftClaws.labelShort>
+  
+  <FrontLeftLeg.label>crwdns456030:0crwdne456030:0</FrontLeftLeg.label>
+  <FrontLeftLeg.labelShort>crwdns456032:0crwdne456032:0</FrontLeftLeg.labelShort>
+  
+  <FrontLeftPaw.label>crwdns456034:0crwdne456034:0</FrontLeftPaw.label>
+  <FrontLeftPaw.labelShort>crwdns456036:0crwdne456036:0</FrontLeftPaw.labelShort>
+  
+  <FrontRightClaws.label>crwdns456038:0crwdne456038:0</FrontRightClaws.label>
+  <FrontRightClaws.labelShort>crwdns456040:0crwdne456040:0</FrontRightClaws.labelShort>
+  
+  <FrontRightLeg.label>crwdns456042:0crwdne456042:0</FrontRightLeg.label>
+  <FrontRightLeg.labelShort>crwdns456044:0crwdne456044:0</FrontRightLeg.labelShort>
+  
+  <FrontRightPaw.label>crwdns456046:0crwdne456046:0</FrontRightPaw.label>
+  <FrontRightPaw.labelShort>crwdns456048:0crwdne456048:0</FrontRightPaw.labelShort>
+  
+  <FullHead.label>crwdns456050:0crwdne456050:0</FullHead.label>
+  
+  <Hands.label>crwdns456052:0crwdne456052:0</Hands.label>
+  
+  <HeadAttackTool.label>crwdns456054:0crwdne456054:0</HeadAttackTool.label>
+  
+  <HeadClaw.label>crwdns456056:0crwdne456056:0</HeadClaw.label>
+  
+  <HornAttackTool.label>crwdns456058:0crwdne456058:0</HornAttackTool.label>
+  
+  <LeftBlade.label>crwdns456060:0crwdne456060:0</LeftBlade.label>
+  <LeftBlade.labelShort>crwdns456062:0crwdne456062:0</LeftBlade.labelShort>
+  
+  <LeftHand.label>crwdns456064:0crwdne456064:0</LeftHand.label>
+  <LeftHand.labelShort>crwdns456066:0crwdne456066:0</LeftHand.labelShort>
+  
+  <Legs.label>crwdns456068:0crwdne456068:0</Legs.label>
+  
+  <MiddleFingers.label>crwdns456070:0crwdne456070:0</MiddleFingers.label>
+  <MiddleFingers.labelShort>crwdns456072:0crwdne456072:0</MiddleFingers.labelShort>
+  
+  <Mouth.label>crwdns456074:0crwdne456074:0</Mouth.label>
+  
+  <Neck.label>crwdns456076:0crwdne456076:0</Neck.label>
+  
+  <RightBlade.label>crwdns456078:0crwdne456078:0</RightBlade.label>
+  <RightBlade.labelShort>crwdns456080:0crwdne456080:0</RightBlade.labelShort>
+  
+  <RightHand.label>crwdns456082:0crwdne456082:0</RightHand.label>
+  <RightHand.labelShort>crwdns456084:0crwdne456084:0</RightHand.labelShort>
+  
+  <Shoulders.label>crwdns456086:0crwdne456086:0</Shoulders.label>
+  
+  <Teeth.label>crwdns456088:0crwdne456088:0</Teeth.label>
+  
+  <Torso.label>crwdns456090:0crwdne456090:0</Torso.label>
+  
+  <TurtleBeakAttackTool.label>crwdns456092:0crwdne456092:0</TurtleBeakAttackTool.label>
+  
+  <TuskAttackTool.label>crwdns456094:0crwdne456094:0</TuskAttackTool.label>
+  
+  <UpperHead.label>crwdns456096:0crwdne456096:0</UpperHead.label>
+  
+  <Waist.label>crwdns456098:0crwdne456098:0</Waist.label>
 </LanguageData>
