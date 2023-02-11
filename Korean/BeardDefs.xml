@@ -1,64 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Anchor.label>닻</Anchor.label>
+  <BeardFurskinKnots.label>매듭</BeardFurskinKnots.label>
   
-  <BeardCurly.label>곱슬</BeardCurly.label>
+  <BeardFurskinMegabraid.label>엄청나게 꼬인 수염</BeardFurskinMegabraid.label>
   
-  <Boxed.label>박스형</Boxed.label>
+  <BeardFurskinMonkey.label>원숭이</BeardFurskinMonkey.label>
   
-  <Braided.label>땋음</Braided.label>
+  <BeardFurskinMoustache.label>아래로 긴 수염</BeardFurskinMoustache.label>
   
-  <Bushy.label>수북</Bushy.label>
+  <BeardFurskinScruffy.label>꾀죄죄한</BeardFurskinScruffy.label>
   
-  <BushyStyled.label>덥수룩</BushyStyled.label>
+  <BeardFurskinSenile.label>노망</BeardFurskinSenile.label>
   
-  <Circle.label>원</Circle.label>
+  <BeardFurskinSideChops.label>두꺼운 턱</BeardFurskinSideChops.label>
   
-  <Classy.label>품격</Classy.label>
+  <BeardFurskinSideTufts.label>터프</BeardFurskinSideTufts.label>
   
-  <Curtain.label>커튼</Curtain.label>
+  <BeardFurskinStrongChops.label>강한 턱</BeardFurskinStrongChops.label>
   
-  <Ducktail.label>덕테일</Ducktail.label>
-  
-  <Fork.label>포크</Fork.label>
-  
-  <French.label>프랑스</French.label>
-  
-  <Full.label>꽉찬</Full.label>
-  
-  <Goatee.label>염소수염</Goatee.label>
-  
-  <Lincoln.label>링컨</Lincoln.label>
-  
-  <LongDutch.label>네덜란드식</LongDutch.label>
-  
-  <Machete.label>마체테</Machete.label>
-  
-  <Moustache.label>콧수염</Moustache.label>
-  
-  <MuttonChops.label>머튼 찹스</MuttonChops.label>
-  
-  <NoBeard.label>수염 없음</NoBeard.label>
-  
-  <Norse.label>노르드</Norse.label>
-  
-  <OldDutch.label>옛 네덜란드식</OldDutch.label>
-  
-  <Seer.label>시어 스타일</Seer.label>
-  
-  <SideWhiskers.label>옆수염</SideWhiskers.label>
-  
-  <SoulPatch.label>소울 패치</SoulPatch.label>
-  
-  <StacheAndChops.label>스태시 앤 찹스</StacheAndChops.label>
-  
-  <Stubble.label>까칠</Stubble.label>
-  
-  <TriBraid.label>삼국지</TriBraid.label>
-  
-  <Urist.label>드워프</Urist.label>
-  
-  <VanDyke.label>반다이크</VanDyke.label>
-  
-  <Wizard.label>마법사</Wizard.label>
+  <FurskinCurlyMoustache.label>곱슬곱슬 아주 긴 콧수염</FurskinCurlyMoustache.label>
 </LanguageData>
