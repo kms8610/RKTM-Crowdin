@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>초월공학 파동</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>이 규모를 봐. 다중 초평면의 프랙탈 논리를. 시간도 없고 공간도 없고 나와 너라는 존재도 없어. 난 전부이자 아무것도 아니야.</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>초월공학 파동</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>이것의 생각 일부가 전해져 들어와. 눈을 감을 때마다 무한한 가능성이 보여. 내 물리적 육신에 집중하지 않으면 떠내려가 버릴 거야.</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>
+  <AnimaScream.stages.anima_scream.label>영혼비명</AnimaScream.stages.anima_scream.label>
+  <AnimaScream.stages.anima_scream.description>나무가 죽으며 느낀 고통이 계속 머릿속에서 울려퍼져...</AnimaScream.stages.anima_scream.description>
   
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>초월공학 파동</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>이건 내 인식을 엄청나게 넓혀주고 있어. 절대적인 존재의 눈 먼 지식, 모든 정신이 동시에 말하고, 죽고, 태어나. 교감을 멈출 수가 없어.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>초월공학 파동</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>이건 내게 전혀 관심이 없어. 하지만 나는 이것이 인식하는 것들을 약간이나마 느낄 수 있어. 끔찍한 섬광과 영원한 시야... 견딜 수 없어.</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>
+  <DecreeUnmet.stages.decree_ignored.label>짓밟힌 권위</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.description>내 권위가 {0} 넘게 무시되고 있어. </DecreeUnmet.stages.decree_ignored.description>
   
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>초월공학 파동</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>시설에서 흘러나오는 너무도 광대한 사념들... 나처럼 작은 존재는 휩쓸려 사라질 것만 같아.</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>초월공학 파동</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>말없는 속삭임의 끝이 느껴져... 너무 불안해.</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>
+  <Joyfuzz.stages.joyfuzz.label>쾌락잔향</Joyfuzz.stages.joyfuzz.label>
+  <Joyfuzz.stages.joyfuzz.description>무슨 일이 생기더라도 왠지 괜찮을 거라는 생각이 들어.</Joyfuzz.stages.joyfuzz.description>
+  
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>가벼운 정신 혼란</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>눈 뒤쪽에 통증이 느껴져서 집중하기 힘들어.</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>심각한 정신 혼란</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>머리 속이 타버린 것 같아. 흐릿하고 어지러워서 아무 생각을 할 수가 없어.</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>극심한 정신 혼란</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>아 돈다, 아프고 어지러워 아무 생각도 안 나, 이렇게 죽는 걸까...</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  
+  <PsychicLove.stages.psychic_love.label>초능력 애정</PsychicLove.stages.psychic_love.label>
 </LanguageData>
