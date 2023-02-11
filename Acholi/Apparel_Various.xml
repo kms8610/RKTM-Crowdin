@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_Bandolier.label>crwdns427140:0crwdne427140:0</Apparel_Bandolier.label>
-  <Apparel_Bandolier.description>crwdns427142:0crwdne427142:0</Apparel_Bandolier.description>
+  <Apparel_Blindfold.label>crwdns440136:0crwdne440136:0</Apparel_Blindfold.label>
+  <Apparel_Blindfold.description>crwdns440138:0crwdne440138:0</Apparel_Blindfold.description>
   
-  <Apparel_MechlordSuit.label>crwdns427144:0crwdne427144:0</Apparel_MechlordSuit.label>
-  <Apparel_MechlordSuit.description>crwdns427146:0crwdne427146:0</Apparel_MechlordSuit.description>
+  <Apparel_BodyStrap.label>crwdns440140:0crwdne440140:0</Apparel_BodyStrap.label>
+  <Apparel_BodyStrap.description>crwdns440142:0crwdne440142:0</Apparel_BodyStrap.description>
   
-  <Apparel_Sash.label>crwdns427148:0crwdne427148:0</Apparel_Sash.label>
-  <Apparel_Sash.description>crwdns427150:0crwdne427150:0</Apparel_Sash.description>
+  <Apparel_Burka.label>crwdns440144:0crwdne440144:0</Apparel_Burka.label>
+  <Apparel_Burka.description>crwdns440146:0crwdne440146:0</Apparel_Burka.description>
+  
+  <Apparel_Robe.label>crwdns440148:0crwdne440148:0</Apparel_Robe.label>
+  <Apparel_Robe.description>crwdns440150:0crwdne440150:0</Apparel_Robe.description>
+  
+  <Apparel_TortureCrown.label>crwdns440152:0crwdne440152:0</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.description>crwdns440154:0crwdne440154:0</Apparel_TortureCrown.description>
 </LanguageData>
