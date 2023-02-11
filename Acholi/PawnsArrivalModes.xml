@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CenterDrop.textEnemy>crwdns461118:0{0}crwdnd461118:0{1}crwdne461118:0</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>crwdns461120:0{0}crwdnd461120:0{1}crwdne461120:0</CenterDrop.textFriendly>
+  <CenterDrop.textWillArrive>crwdns461122:0{0_pawnsPluralDef}crwdne461122:0</CenterDrop.textWillArrive>
+  
+  <EdgeDrop.textEnemy>crwdns461124:0{0}crwdnd461124:0{1}crwdne461124:0</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>crwdns461126:0{0}crwdnd461126:0{1}crwdne461126:0</EdgeDrop.textFriendly>
+  <EdgeDrop.textWillArrive>crwdns461128:0{0_pawnsPluralDef}crwdne461128:0</EdgeDrop.textWillArrive>
+  
+  <EdgeDropGroups.textEnemy>crwdns461130:0{0}crwdnd461130:0{1}crwdne461130:0</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>crwdns461132:0{0}crwdnd461132:0{1}crwdne461132:0</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textWillArrive>crwdns461134:0{0_pawnsPluralDef}crwdne461134:0</EdgeDropGroups.textWillArrive>
+  
+  <EdgeWalkIn.textEnemy>crwdns461136:0{0}crwdnd461136:0{1}crwdne461136:0</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>crwdns461138:0{0}crwdnd461138:0{1}crwdne461138:0</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textWillArrive>crwdns461140:0{0_pawnsPluralDef}crwdne461140:0</EdgeWalkIn.textWillArrive>
+  
+  <EdgeWalkInGroups.textEnemy>crwdns461142:0{0}crwdnd461142:0{1}crwdne461142:0</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>crwdns461144:0{0}crwdnd461144:0{1}crwdne461144:0</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textWillArrive>crwdns461146:0{0_pawnsPluralDef}crwdne461146:0</EdgeWalkInGroups.textWillArrive>
+  
+  <MechClusterDrop.textEnemy>crwdns461148:0{0}crwdne461148:0</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textWillArrive>crwdns461150:0crwdne461150:0</MechClusterDrop.textWillArrive>
+  
+  <RandomDrop.textEnemy>crwdns461152:0{0}crwdnd461152:0{1}crwdne461152:0</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>crwdns461154:0{0}crwdnd461154:0{1}crwdne461154:0</RandomDrop.textFriendly>
+  <RandomDrop.textWillArrive>crwdns461156:0{0_pawnsPluralDef}crwdne461156:0</RandomDrop.textWillArrive>
+</LanguageData>
