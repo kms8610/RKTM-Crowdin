@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Harp.label>하프</Harp.label>
+  <Harp.description>단순한 고정식 악기입니다. 한 줄로 늘어선 현을 손으로 직접 켜서 연주합니다.\n\n간이 제작 장소나 단조 작업대에서 만들 수 있습니다.</Harp.description>
+  
+  <Harpsichord.label>하프시코드</Harpsichord.label>
+  <Harpsichord.description>단조 작업대에서 만든 복잡한 고정식 악기입니다. 악기 앞에 늘어선 건반들을 만져 연주합니다. 각 건반은 틀 위에 배치된 현들 중 하나를 튕겨 소리를 냅니다. 하프보다 더 복잡하게 구성되어 있지만, 건반 구조는 음색과 음량을 제한할 수 있습니다.</Harpsichord.description>
+  
+  <Piano.label>피아노</Piano.label>
+  <Piano.description>고급의 고정식 악기입니다. 일렬로 늘어선 건반을 누르면, 연결된 망치가 틀 위에 배치된 현을 쳐서 소리를 냅니다. 망치 구조는 높은 음을 구현할 수 있으며 음색이 뛰어나 연주자가 매우 부드러우면서도 큰 소리로 연주할 수 있게 합니다.\n\n단조 작업대에서 만들 수 있습니다.</Piano.description>
+  
+  <UnfinishedPiano.label>미완성 피아노</UnfinishedPiano.label>
+  <UnfinishedPiano.description>미완성된 피아노입니다.</UnfinishedPiano.description>
+</LanguageData>
