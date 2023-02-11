@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_Centurion.label>crwdns424806:0crwdne424806:0</Mech_Centurion.label>
+  <Gun_ChargeBlasterTurret.label>crwdns427866:0crwdne427866:0</Gun_ChargeBlasterTurret.label>
+  <Gun_ChargeBlasterTurret.description>crwdns427868:0crwdne427868:0</Gun_ChargeBlasterTurret.description>
+  <Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>crwdns427870:0crwdne427870:0</Gun_ChargeBlasterTurret.verbs.Verb_Shoot.label>
   
-  <Mech_Diabolus.label>crwdns424808:0crwdne424808:0</Mech_Diabolus.label>
+  <Mech_Centurion.label>crwdns427872:0crwdne427872:0</Mech_Centurion.label>
+  <Mech_Centurion.description>crwdns427874:0crwdne427874:0</Mech_Centurion.description>
+  <Mech_Centurion.tools.head.label>crwdns427876:0crwdne427876:0</Mech_Centurion.tools.head.label>
   
-  <Mech_Warqueen.label>crwdns424810:0crwdne424810:0</Mech_Warqueen.label>
-  <Mech_Warqueen.labelPlural>crwdns424812:0crwdne424812:0</Mech_Warqueen.labelPlural>
+  <Mech_Diabolus.label>crwdns427878:0crwdne427878:0</Mech_Diabolus.label>
+  <Mech_Diabolus.description>crwdns427880:0crwdne427880:0</Mech_Diabolus.description>
+  <Mech_Diabolus.tools.head.label>crwdns427882:0crwdne427882:0</Mech_Diabolus.tools.head.label>
+  
+  <Mech_Warqueen.label>crwdns427884:0crwdne427884:0</Mech_Warqueen.label>
+  <Mech_Warqueen.description>crwdns427886:0crwdne427886:0</Mech_Warqueen.description>
+  <Mech_Warqueen.tools.head.label>crwdns427888:0crwdne427888:0</Mech_Warqueen.tools.head.label>
 </LanguageData>
