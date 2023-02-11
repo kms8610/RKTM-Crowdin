@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OrbitalTargeterBombardment.label>crwdns474094:0crwdne474094:0</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.description>crwdns474096:0crwdne474096:0</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>crwdns474098:0crwdne474098:0</OrbitalTargeterBombardment.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>crwdns474100:0crwdne474100:0</OrbitalTargeterBombardment.comps.CompReloadable.cooldownGerund>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>crwdns474102:0crwdne474102:0</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  
+  <OrbitalTargeterPowerBeam.label>crwdns474104:0crwdne474104:0</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.description>crwdns474106:0crwdne474106:0</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>crwdns474108:0crwdne474108:0</OrbitalTargeterPowerBeam.comps.CompReloadable.chargeNoun>
+  <OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>crwdns474110:0crwdne474110:0</OrbitalTargeterPowerBeam.comps.CompReloadable.cooldownGerund>
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>crwdns474112:0crwdne474112:0</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  
+  <TornadoGenerator.label>crwdns474114:0crwdne474114:0</TornadoGenerator.label>
+  <TornadoGenerator.description>crwdns474116:0crwdne474116:0</TornadoGenerator.description>
+  <TornadoGenerator.comps.CompReloadable.chargeNoun>crwdns474118:0crwdne474118:0</TornadoGenerator.comps.CompReloadable.chargeNoun>
+  <TornadoGenerator.comps.CompReloadable.cooldownGerund>crwdns474120:0crwdne474120:0</TornadoGenerator.comps.CompReloadable.cooldownGerund>
+  <TornadoGenerator.verbs.Verb_Spawn.label>crwdns474122:0crwdne474122:0</TornadoGenerator.verbs.Verb_Spawn.label>
+</LanguageData>
