@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SkyLantern.label>풍등</SkyLantern.label>
+  <ShuttleIncoming.label>왕복선 (진입 중)</ShuttleIncoming.label>
   
-  <SpacedroneIncoming.label>무인 우주선 (접근 중)</SpacedroneIncoming.label>
+  <ShuttleLeaving.label>왕복선 (떠나는 중)</ShuttleLeaving.label>
 </LanguageData>
