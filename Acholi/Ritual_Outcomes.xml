@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.comps.0.label>crwdns448038:0crwdne448038:0</AnimaTreeLinking.comps.0.label>
-  
-  <BestowingCeremony.description>crwdns448040:0crwdne448040:0</BestowingCeremony.description>
-  <BestowingCeremony.comps.0.label>crwdns448042:0crwdne448042:0</BestowingCeremony.comps.0.label>
-  <BestowingCeremony.comps.1.label>crwdns448044:0crwdne448044:0</BestowingCeremony.comps.1.label>
-  <BestowingCeremony.outcomeChances.0.label>crwdns448046:0crwdne448046:0</BestowingCeremony.outcomeChances.0.label>
-  <BestowingCeremony.outcomeChances.1.label>crwdns448048:0crwdne448048:0</BestowingCeremony.outcomeChances.1.label>
-  <BestowingCeremony.outcomeChances.2.label>crwdns448050:0crwdne448050:0</BestowingCeremony.outcomeChances.2.label>
-  <BestowingCeremony.outcomeChances.3.label>crwdns448052:0crwdne448052:0</BestowingCeremony.outcomeChances.3.label>
+  <AttendedSpeech.description>crwdns462718:0{MINMOOD}crwdnd462718:0{MAXMOOD}crwdnd462718:0{MOODDAYS}crwdne462718:0</AttendedSpeech.description>
+  <AttendedSpeech.comps.0.label>crwdns462720:0{PAWN_labelShort}crwdne462720:0</AttendedSpeech.comps.0.label>
+  <AttendedSpeech.comps.0.labelAbstract>crwdns462722:0crwdne462722:0</AttendedSpeech.comps.0.labelAbstract>
+  <AttendedSpeech.comps.1.label>crwdns462724:0crwdne462724:0</AttendedSpeech.comps.1.label>
+  <AttendedSpeech.comps.2.label>crwdns462726:0crwdne462726:0</AttendedSpeech.comps.2.label>
+  <AttendedSpeech.outcomeChances.0.label>crwdns462728:0crwdne462728:0</AttendedSpeech.outcomeChances.0.label>
+  <AttendedSpeech.outcomeChances.1.label>crwdns462730:0crwdne462730:0</AttendedSpeech.outcomeChances.1.label>
+  <AttendedSpeech.outcomeChances.2.label>crwdns462732:0crwdne462732:0</AttendedSpeech.outcomeChances.2.label>
+  <AttendedSpeech.outcomeChances.3.label>crwdns462734:0crwdne462734:0</AttendedSpeech.outcomeChances.3.label>
 </LanguageData>
