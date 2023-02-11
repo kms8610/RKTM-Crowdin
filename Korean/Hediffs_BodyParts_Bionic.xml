@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BionicArm.label>생체공학 팔</BionicArm.label>
+  <BionicArm.description>생체공학 팔이 설치되어 있습니다.</BionicArm.description>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>주먹</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.labelNoun>생체공학 팔</BionicArm.labelNoun>
+  
+  <BionicEar.label>생체공학 귀</BionicEar.label>
+  <BionicEar.description>생체공학 귀가 설치되어 있습니다.</BionicEar.description>
+  <BionicEar.labelNoun>생체공학 귀</BionicEar.labelNoun>
+  
+  <BionicEye.label>생체공학 눈</BionicEye.label>
+  <BionicEye.description>생체공학 눈이 설치되어 있습니다.</BionicEye.description>
+  <BionicEye.labelNoun>생체공학 눈</BionicEye.labelNoun>
+  
+  <BionicHeart.label>생체공학 심장</BionicHeart.label>
+  <BionicHeart.description>생체공학 심장이 설치되어 있습니다.</BionicHeart.description>
+  <BionicHeart.labelNoun>생체공학 심장</BionicHeart.labelNoun>
+  
+  <BionicLeg.label>생체공학 다리</BionicLeg.label>
+  <BionicLeg.description>생체공학 다리가 설치되어 있습니다.</BionicLeg.description>
+  <BionicLeg.labelNoun>생체공학 다리</BionicLeg.labelNoun>
+  
+  <BionicSpine.label>생체공학 척추</BionicSpine.label>
+  <BionicSpine.description>생체공학 척추가 설치되어 있습니다.</BionicSpine.description>
+  <BionicSpine.labelNoun>생체공학 척추</BionicSpine.labelNoun>
+  
+  <BionicStomach.label>생체공학 위</BionicStomach.label>
+  <BionicStomach.description>생체공학 위가 설치되어 있습니다.</BionicStomach.description>
+  <BionicStomach.labelNoun>생체공학 위</BionicStomach.labelNoun>
+  
+  <BionicTongue.label>생체공학 혀</BionicTongue.label>
+  <BionicTongue.description>생체공학 혀가 설치되어 있습니다.</BionicTongue.description>
+  <BionicTongue.labelNoun>생체공학 혀</BionicTongue.labelNoun>
+  
+  <DeathAcidifier.label>사후 처리장치</DeathAcidifier.label>
+  <DeathAcidifier.description>사후 처리장치가 설치되어 있습니다.</DeathAcidifier.description>
+  <DeathAcidifier.labelNoun>사후 처리장치</DeathAcidifier.labelNoun>
+</LanguageData>
