@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbsorbXenogerm.reportString>absorbing xenogerm from TargetA.</AbsorbXenogerm.reportString>
+  <AbsorbXenogerm.reportString>{TargetA}에서 변형이식체 흡수 중</AbsorbXenogerm.reportString>
   
-  <CarryGenepackToContainer.reportString>hauling TargetA to TargetB.</CarryGenepackToContainer.reportString>
+  <CarryGenepackToContainer.reportString>{TargetA}(을)를 {TargetB}(으)로 운반 중</CarryGenepackToContainer.reportString>
   
-  <CarryToBuilding.reportString>carrying TargetB to TargetA.</CarryToBuilding.reportString>
+  <CarryToBuilding.reportString>{TargetB}(을)를 {TargetA}(으)로 옮기는 중</CarryToBuilding.reportString>
   
-  <CastAbilityGoToThing.reportString>Doing something.</CastAbilityGoToThing.reportString>
+  <CastAbilityGoToThing.reportString>뭔가 하는 중</CastAbilityGoToThing.reportString>
   
-  <CastAbilityOnThingWithoutWeapon.reportString>Doing something.</CastAbilityOnThingWithoutWeapon.reportString>
+  <CastAbilityOnThingWithoutWeapon.reportString>뭔가 하는 중</CastAbilityOnThingWithoutWeapon.reportString>
   
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>Doing something.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>뭔가 하는 중</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
   
-  <ClearPollution.reportString>cleaning pollution.</ClearPollution.reportString>
+  <ClearPollution.reportString>오염 청소 중</ClearPollution.reportString>
   
-  <ControlMech.reportString>taking control of TargetA.</ControlMech.reportString>
+  <ControlMech.reportString>{TargetA} 제어 획득 중</ControlMech.reportString>
   
-  <CreateXenogerm.reportString>creating xenogerm.</CreateXenogerm.reportString>
+  <CreateXenogerm.reportString>변형이식체 생성 중</CreateXenogerm.reportString>
   
-  <Deathrest.reportString>deathresting.</Deathrest.reportString>
+  <Deathrest.reportString>죽음안식 중</Deathrest.reportString>
   
-  <DisassembleMech.reportString>disassembling TargetA.</DisassembleMech.reportString>
+  <DisassembleMech.reportString>{TargetA} 분해 중</DisassembleMech.reportString>
   
-  <EnterBuilding.reportString>entering TargetA.</EnterBuilding.reportString>
+  <EnterBuilding.reportString>TargetA에 들어가는 중</EnterBuilding.reportString>
   
-  <GetReimplanted.reportString>absorbing xenogerm from TargetA.</GetReimplanted.reportString>
+  <GetReimplanted.reportString>{TargetA}에서 변형이식체 흡수 중</GetReimplanted.reportString>
   
-  <HaulMechToCharger.reportString>hauling TargetA to charger.</HaulMechToCharger.reportString>
+  <HaulMechToCharger.reportString>{TargetA}(을)를 충전소로 운반 중</HaulMechToCharger.reportString>
   
-  <InstallMechlink.reportString>installing TargetA.</InstallMechlink.reportString>
+  <InstallMechlink.reportString>{TargetA} 설치 중</InstallMechlink.reportString>
   
-  <MechCharge.reportString>charging.</MechCharge.reportString>
+  <MechCharge.reportString>충전 중</MechCharge.reportString>
   
-  <PrisonerBloodfeed.reportString>feeding on TargetA.</PrisonerBloodfeed.reportString>
+  <PrisonerBloodfeed.reportString>{TargetA} 먹이는 중</PrisonerBloodfeed.reportString>
   
-  <ReadDatacore.reportString>decrypting TargetA.</ReadDatacore.reportString>
+  <ReadDatacore.reportString>{TargetA} 해석 중</ReadDatacore.reportString>
   
-  <ReleaseMechs.reportString>releasing mechanoids.</ReleaseMechs.reportString>
+  <ReleaseMechs.reportString>메카노이드 방출 중</ReleaseMechs.reportString>
   
-  <RemoveMechlink.reportString>Doing something.</RemoveMechlink.reportString>
+  <RemoveMechlink.reportString>뭔가 하는 중</RemoveMechlink.reportString>
   
-  <RepairMech.reportString>repairing TargetA.</RepairMech.reportString>
+  <RepairMech.reportString>TargetA 수리 중</RepairMech.reportString>
   
-  <RepairMechRemote.reportString>repairing TargetA.</RepairMechRemote.reportString>
+  <RepairMechRemote.reportString>TargetA 수리 중</RepairMechRemote.reportString>
   
-  <SelfShutdown.reportString>dormant self-charging.</SelfShutdown.reportString>
+  <SelfShutdown.reportString>자가충전 휴면중</SelfShutdown.reportString>
   
-  <ShieldMech.reportString>shielding TargetA.</ShieldMech.reportString>
+  <ShieldMech.reportString>{TargetA}에게 보호막 제공 중</ShieldMech.reportString>
   
-  <TryRomance.reportString>romancing TargetA.</TryRomance.reportString>
+  <TryRomance.reportString>{TargetA}에게 작업거는 중</TryRomance.reportString>
   
-  <Wait_WithSleeping.reportString>waiting.</Wait_WithSleeping.reportString>
+  <Wait_WithSleeping.reportString>대기 중</Wait_WithSleeping.reportString>
 </LanguageData>
