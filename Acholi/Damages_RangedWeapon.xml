@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulletToxic.label>crwdns421294:0crwdne421294:0</BulletToxic.label>
-  <BulletToxic.deathMessage>crwdns421296:0{0}crwdne421296:0</BulletToxic.deathMessage>
+  <Arrow.label>crwdns456622:0crwdne456622:0</Arrow.label>
+  <Arrow.deathMessage>crwdns456624:0{0}crwdne456624:0</Arrow.deathMessage>
+  
+  <ArrowHighVelocity.label>crwdns456626:0crwdne456626:0</ArrowHighVelocity.label>
+  <ArrowHighVelocity.deathMessage>crwdns456628:0{0}crwdne456628:0</ArrowHighVelocity.deathMessage>
+  
+  <Bullet.label>crwdns456630:0crwdne456630:0</Bullet.label>
+  <Bullet.deathMessage>crwdns456632:0{0}crwdne456632:0</Bullet.deathMessage>
+  
+  <RangedStab.label>crwdns456634:0crwdne456634:0</RangedStab.label>
+  <RangedStab.deathMessage>crwdns456636:0{0}crwdne456636:0</RangedStab.deathMessage>
 </LanguageData>
