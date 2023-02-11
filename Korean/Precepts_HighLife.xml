@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_Essential.label>필수</DrugUse_Essential.label>
-  <DrugUse_Essential.description>들뜬 마음이야말로 좋은 삶의 핵심이다.</DrugUse_Essential.description>
-  <DrugUse_Essential.comps.0.description>Drugs taken every {DAYSSATISIFED} days</DrugUse_Essential.comps.0.description>
+  <HighLife.stages.high_life-0.label>약쟁이</HighLife.stages.high_life-0.label>
+  <HighLife.stages.high_life-0.description>진리는 바뀐 의식을 통해 접근할 수 있지. 진리야 내가 간다.</HighLife.stages.high_life-0.description>
+  <HighLife.stages.high_life-1.label>약쟁이</HighLife.stages.high_life-1.label>
+  <HighLife.stages.high_life_missing-0.label>약을 멀리함</HighLife.stages.high_life_missing-0.label>
+  <HighLife.stages.high_life_missing-0.description>술 없이 제정신으로 너무 오래 있었어.</HighLife.stages.high_life_missing-0.description>
+  <HighLife.stages.high_life_missing-1.label>약을 멀리함</HighLife.stages.high_life_missing-1.label>
+  <HighLife.stages.high_life_missing-1.description>술 없이 제정신으로 너무 오래 있었어.</HighLife.stages.high_life_missing-1.description>
 </LanguageData>
