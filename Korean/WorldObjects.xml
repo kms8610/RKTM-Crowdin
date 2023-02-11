@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbandonedArchotechStructures.label>초월공학 시설</AbandonedArchotechStructures.label>
-  <AbandonedArchotechStructures.description>조사 가능한 초월공학 시설입니다.</AbandonedArchotechStructures.description>
-  
-  <Settlement_SecondArchonexusCycle.label>거주지</Settlement_SecondArchonexusCycle.label>
-  <Settlement_SecondArchonexusCycle.description>세력의 기지 중 한 곳입니다.</Settlement_SecondArchonexusCycle.description>
-  
-  <Settlement_ThirdArchonexusCycle.label>거주지</Settlement_ThirdArchonexusCycle.label>
-  <Settlement_ThirdArchonexusCycle.description>세력의 기지 중 한 곳입니다.</Settlement_ThirdArchonexusCycle.description>
+  <TravelingShuttle.label>왕복선</TravelingShuttle.label>
+  <TravelingShuttle.description>비행 중인 왕복선입니다.</TravelingShuttle.description>
 </LanguageData>
