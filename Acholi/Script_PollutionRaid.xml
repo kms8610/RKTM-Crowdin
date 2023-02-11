@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PollutionRaid.questContentRules.rulesStrings>
+    <li>crwdns425034:0crwdne425034:0</li>
+    <li>crwdns425036:0[enemyFaction_pawnsPlural]crwdnd425036:0[enemyFaction_name]crwdne425036:0</li>
+  </PollutionRaid.questContentRules.rulesStrings>
+  <PollutionRaid.questDescriptionRules.rulesStrings>
+    <li>crwdns425038:0crwdne425038:0</li>
+  </PollutionRaid.questDescriptionRules.rulesStrings>
+  <PollutionRaid.questNameRules.rulesStrings>
+    <li>crwdns425040:0crwdne425040:0</li>
+  </PollutionRaid.questNameRules.rulesStrings>
+</LanguageData>
