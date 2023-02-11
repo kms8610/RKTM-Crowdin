@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalProductRaw.label>crwdns470998:0crwdne470998:0</AnimalProductRaw.label>
+  
+  <Animals.label>crwdns471000:0crwdne471000:0</Animals.label>
+  
+  <Apparel.label>crwdns471002:0crwdne471002:0</Apparel.label>
+  
+  <ApparelArmor.label>crwdns471004:0crwdne471004:0</ApparelArmor.label>
+  
+  <ApparelMisc.label>crwdns471006:0crwdne471006:0</ApparelMisc.label>
+  
+  <ApparelNoble.label>crwdns471008:0crwdne471008:0</ApparelNoble.label>
+  
+  <ApparelUtility.label>crwdns471010:0crwdne471010:0</ApparelUtility.label>
+  
+  <ArmorHeadgear.label>crwdns471012:0crwdne471012:0</ArmorHeadgear.label>
+  
+  <Artifacts.label>crwdns471014:0crwdne471014:0</Artifacts.label>
+  
+  <BodyParts.label>crwdns471016:0crwdne471016:0</BodyParts.label>
+  
+  <BodyPartsArchotech.label>crwdns471018:0crwdne471018:0</BodyPartsArchotech.label>
+  
+  <BodyPartsBionic.label>crwdns471020:0crwdne471020:0</BodyPartsBionic.label>
+  
+  <BodyPartsMechtech.label>crwdns471022:0crwdne471022:0</BodyPartsMechtech.label>
+  
+  <BodyPartsNatural.label>crwdns471024:0crwdne471024:0</BodyPartsNatural.label>
+  
+  <BodyPartsProsthetic.label>crwdns471026:0crwdne471026:0</BodyPartsProsthetic.label>
+  
+  <BodyPartsSimple.label>crwdns471028:0crwdne471028:0</BodyPartsSimple.label>
+  
+  <BodyPartsUltra.label>crwdns471030:0crwdne471030:0</BodyPartsUltra.label>
+  
+  <Buildings.label>crwdns471032:0crwdne471032:0</Buildings.label>
+  
+  <BuildingsArt.label>crwdns471034:0crwdne471034:0</BuildingsArt.label>
+  
+  <BuildingsFurniture.label>crwdns471036:0crwdne471036:0</BuildingsFurniture.label>
+  
+  <BuildingsJoy.label>crwdns471038:0crwdne471038:0</BuildingsJoy.label>
+  
+  <BuildingsMisc.label>crwdns471040:0crwdne471040:0</BuildingsMisc.label>
+  
+  <BuildingsPower.label>crwdns471042:0crwdne471042:0</BuildingsPower.label>
+  
+  <BuildingsProduction.label>crwdns471044:0crwdne471044:0</BuildingsProduction.label>
+  
+  <BuildingsSecurity.label>crwdns471046:0crwdne471046:0</BuildingsSecurity.label>
+  
+  <BuildingsSpecial.label>crwdns471048:0crwdne471048:0</BuildingsSpecial.label>
+  
+  <BuildingsTemperature.label>crwdns471050:0crwdne471050:0</BuildingsTemperature.label>
+  
+  <Chunks.label>crwdns471052:0crwdne471052:0</Chunks.label>
+  
+  <Corpses.label>crwdns471054:0crwdne471054:0</Corpses.label>
+  
+  <CorpsesAnimal.label>crwdns471056:0crwdne471056:0</CorpsesAnimal.label>
+  
+  <CorpsesHumanlike.label>crwdns471058:0crwdne471058:0</CorpsesHumanlike.label>
+  
+  <CorpsesInsect.label>crwdns471060:0crwdne471060:0</CorpsesInsect.label>
+  
+  <CorpsesMechanoid.label>crwdns471062:0crwdne471062:0</CorpsesMechanoid.label>
+  
+  <Drugs.label>crwdns471064:0crwdne471064:0</Drugs.label>
+  
+  <EggsFertilized.label>crwdns471066:0crwdne471066:0</EggsFertilized.label>
+  
+  <EggsUnfertilized.label>crwdns471068:0crwdne471068:0</EggsUnfertilized.label>
+  
+  <FoodMeals.label>crwdns471070:0crwdne471070:0</FoodMeals.label>
+  
+  <FoodRaw.label>crwdns471072:0crwdne471072:0</FoodRaw.label>
+  
+  <Foods.label>crwdns471074:0crwdne471074:0</Foods.label>
+  
+  <Grenades.label>crwdns471076:0crwdne471076:0</Grenades.label>
+  
+  <Headgear.label>crwdns471078:0crwdne471078:0</Headgear.label>
+  
+  <HeadgearNoble.label>crwdns471080:0crwdne471080:0</HeadgearNoble.label>
+  
+  <InertRelics.label>crwdns471082:0crwdne471082:0</InertRelics.label>
+  
+  <Items.label>crwdns471084:0crwdne471084:0</Items.label>
+  
+  <ItemsMisc.label>crwdns471086:0crwdne471086:0</ItemsMisc.label>
+  
+  <Leathers.label>crwdns471088:0crwdne471088:0</Leathers.label>
+  
+  <Manufactured.label>crwdns471090:0crwdne471090:0</Manufactured.label>
+  
+  <MeatRaw.label>crwdns471092:0crwdne471092:0</MeatRaw.label>
+  
+  <Medicine.label>crwdns471094:0crwdne471094:0</Medicine.label>
+  
+  <MortarShells.label>crwdns471096:0crwdne471096:0</MortarShells.label>
+  
+  <Neurotrainers.label>crwdns471098:0crwdne471098:0</Neurotrainers.label>
+  
+  <NeurotrainersPsycast.label>crwdns471100:0crwdne471100:0</NeurotrainersPsycast.label>
+  
+  <NeurotrainersSkill.label>crwdns471102:0crwdne471102:0</NeurotrainersSkill.label>
+  
+  <PlantFoodRaw.label>crwdns471104:0crwdne471104:0</PlantFoodRaw.label>
+  
+  <PlantMatter.label>crwdns471106:0crwdne471106:0</PlantMatter.label>
+  
+  <Plants.label>crwdns471108:0crwdne471108:0</Plants.label>
+  
+  <ResourcesRaw.label>crwdns471110:0crwdne471110:0</ResourcesRaw.label>
+  
+  <Root.label>crwdns471112:0crwdne471112:0</Root.label>
+  
+  <StoneBlocks.label>crwdns471114:0crwdne471114:0</StoneBlocks.label>
+  
+  <StoneChunks.label>crwdns471116:0crwdne471116:0</StoneChunks.label>
+  
+  <Stumps.label>crwdns471118:0crwdne471118:0</Stumps.label>
+  
+  <Techprints.label>crwdns471120:0crwdne471120:0</Techprints.label>
+  
+  <Textiles.label>crwdns471122:0crwdne471122:0</Textiles.label>
+  
+  <Unfinished.label>crwdns471124:0crwdne471124:0</Unfinished.label>
+  
+  <Weapons.label>crwdns471126:0crwdne471126:0</Weapons.label>
+  
+  <WeaponsMelee.label>crwdns471128:0crwdne471128:0</WeaponsMelee.label>
+  
+  <WeaponsMeleeBladelink.label>crwdns471130:0crwdne471130:0</WeaponsMeleeBladelink.label>
+  
+  <WeaponsRanged.label>crwdns471132:0crwdne471132:0</WeaponsRanged.label>
+  
+  <Wools.label>crwdns471134:0crwdne471134:0</Wools.label>
+</LanguageData>
