@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Chicken.label>닭</Chicken.label>
+  <Chicken.labelFemale>헨</Chicken.labelFemale>
+  <Chicken.labelMale>닭</Chicken.labelMale>
+  <Chicken.lifeStages.chick.label>병아리</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>병아리</Chicken.lifeStages.cockerel.labelMale>
+  
+  <Duck.label>오리</Duck.label>
+  <Duck.lifeStages.duckling.label>새끼 오리</Duck.lifeStages.duckling.label>
+  
+  <Goose.label>거위</Goose.label>
+  <Goose.labelPlural>거위</Goose.labelPlural>
+  
+  <Turkey.label>칠면조</Turkey.label>
+</LanguageData>
