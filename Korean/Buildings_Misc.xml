@@ -1,52 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BandNode.label>대역폭 확장기</BandNode.label>
-  <BandNode.description>메카노이드 대역 신호 증폭기입니다. 대역폭 확장기는 메카나이터 한 명에게 조율되어야 하며, 해당 메카나이터의 최대 대역폭을 1 확장시켜 더 많은 메카노이드를 통제할 수 있도록 합니다.\n\n대역폭 확장기를 건설한 후 첫 조율은 빠르게 가능하지만 이미 조율한 확장기를 다른 메카나이터에게 조율할 땐 훨씬 긴 시간이 필요합니다.</BandNode.description>
+  <Autobong.label>연통 기계</Autobong.label>
+  <Autobong.description>주위에 증기 구름을 생성하는 자동 연초 연소 기계입니다. 연초의 구름 속에서 사람들은 서서히 취해 갈 것입니다.</Autobong.description>
   
-  <BurnoutMechlinkBooster.label>메카노이드 통신대역 안테나</BurnoutMechlinkBooster.label>
-  <BurnoutMechlinkBooster.description>메카노이드 대역 신호장치입니다. 작동되었을 시 강력한 메카노이드 신호 파장을 내보내어 초중량 제어불가 메카노이드와 그 호위를 유인할 것입니다. 이들을 쓰러트린다면 그 잔해에서 특수한 부품을 회수할 수 있습니다. 신호 파장은 송신기를 태워버리므로 이 건물은 한 번만 사용할 수 있습니다.</BurnoutMechlinkBooster.description>
-  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>워퀸 위협 호출</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  <Drum.label>북</Drum.label>
+  <Drum.description>부족의 의식이나 파티의 음악을 담당하기 위해 사용되는 커다란 나무 북입니다.</Drum.description>
   
-  <GeneAssembler.label>유전자 조합기</GeneAssembler.label>
-  <GeneAssembler.description>근처의 유전자 저장고에 저장된 유전자묶음으로 삽입 가능한 변형이식체를 만드는데 필요한 작업대입니다. 변형이식체를 생성할 때 유전자묶음은 소비되지 않으며 재사용할 수 있습니다.</GeneAssembler.description>
+  <DryadCocoon.label>나무지기 고치</DryadCocoon.label>
+  <DryadCocoon.description>변이 중인 나무지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체. 안에서는 나무지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
   
-  <GeneBank.label>유전자 저장고</GeneBank.label>
-  <GeneBank.description>이 건물은 유전자 조합기 근처에 배치되었을 시, 변형이식체를 만드는데 필요한 유전자묶음을 저장하고 제공합니다. 유전자 저장고가 더 많이 지어질 수록 더 많은 양의 유전자묶음을 저장 할 수 있습니다.\n\n전력이 공급된동안 유전자 저장고는 유전자묶음의 부패를 방지하고 피해를 천천히 복구합니다.</GeneBank.description>
+  <DryadHealingPod.label>재생 고치</DryadHealingPod.label>
+  <DryadHealingPod.description>섬유질의 녹색 구체. 내부에서는 나무지기가 천천히 상처를 치유하고 있습니다.</DryadHealingPod.description>
   
-  <GeneExtractor.label>유전자 추출기</GeneExtractor.label>
-  <GeneExtractor.description>사람의 유전자를 추출하여 유전자묶음을 만드는 자동 수술기계입니다. 추출되는 유전자는 대상이 가지고 있는 변형인자나 생식성 유전자 중 무작위로 선택됩니다. 강제로도 이 기계를 사용하게 할 수 있지만, 대상은 좋아하지 않을겁니다.\n\n유전자 추출은 대상에게 영구적 피해를 남기지는 않지만, 재성장이 끝나지 않은 상태에서 또다시 유전자 추출을 당하면 죽게 됩니다.\n\n초월입자 캡슐이 필요한 유전자는 너무 복잡하여 추출할 수 없습니다.</GeneExtractor.description>
+  <GaumakerCocoon.label>요정단지 고치</GaumakerCocoon.label>
+  <GaumakerCocoon.description>여러 요정단지 나무지기의 융합체. 이 고치는 요정들의 생명 주기에서 가장 중요한 부분입니다. 시간이 지나면 이곳에 돋아난 요정 열매를 수확하여 새로운 요정나무를 키워낼 수 있을 겁니다.</GaumakerCocoon.description>
   
-  <GeneProcessor.label>유전자 처리기</GeneProcessor.label>
-  <GeneProcessor.description>유전자 분석 및 처리 장치입니다. 유전자 조합기 근처에 배치하여 변형이식체 생성시의 최대 복잡성을 늘릴 수 있습니다. 추가적인 유전자 처리기는 최대 복잡성을 더욱 높일 수 있습니다.</GeneProcessor.description>
+  <GibbetCage.label>시체 우리</GibbetCage.label>
+  <GibbetCage.description>시체를 넣어두거나 전시하기 위해 만든 철제 우리입니다. 이 끔찍한 물건은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
   
-  <GrowthVat.label>성장 배양기</GrowthVat.label>
-  <GrowthVat.description>태아를 배양하거나 아이의 성장을 가속할 수 있는 액체가 담긴 수조입니다.\n\n성장 혹은 배양 시 이 기계는 꾸준한 양의 영양분을 보급받아 성장에 필요한 재료를 마련해 줘야 합니다. 태아 배양에는 성장 가속보다 두 배 많은 양의 양분이 요구됩니다.\n\n배아는 태아로 성장할 때까지 9일의 시간이 걸리며, 합병증의 위험이 있습니다.\n\n아이의 성장 가속은 18살까지만 가능하며, 아이의 기술이 느린 속도로 향상됩니다. 성장 배양기에서 자란 아이들은 다른 아이들보다 낮은 기술과 적은 열정을 가지게 됩니다.\n\n이 장치는 약물 투여, 전기 자극, 그리고 간단한 기계입자 치료를 사용해 신체의 성장을 촉진합니다. 성장 배양기는 주로 유전자 조작을 거친 노동자나 군인을 빠르게 생산할 때 쓰였습니다.</GrowthVat.description>
+  <KneelPillow.label>방석</KneelPillow.label>
+  <KneelPillow.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelPillow.description>
   
-  <MechBooster.label>메카노이드 증강기</MechBooster.label>
-  <MechBooster.description>원격 출력 및 계산 향상 장치입니다. 영향 범위 내 아군 메카노이드는 더 빠르게 움직이고 작동합니다.</MechBooster.description>
+  <KneelSheet.label>무릎 방석</KneelSheet.label>
+  <KneelSheet.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelSheet.description>
   
-  <MechbandDish.label>메카노이드 통신대역 접시안테나</MechbandDish.label>
-  <MechbandDish.description>일반 메카노이드 통신대역 안테나보다 더 강력한 메카노이드 대역 신호장치입니다. 사용 시 초강력 메카노이드 신호 파장을 내뿜어 메카노이드 사령관을 호위와 함께 유인합니다. 이들을 쓰러트린다면 그 잔해에서 특수한 부품을 회수할 수 있습니다. 신호 파장은 송신기를 태워버리므로 이 건물은 한 번만 사용할 수 있습니다.</MechbandDish.description>
-  <MechbandDish.comps.CompUsable.useLabel>아포크리톤 위협 호출</MechbandDish.comps.CompUsable.useLabel>
+  <Lectern.label>단상</Lectern.label>
+  <Lectern.description>연설문을 놓을 기울어진 단상입니다. 의식이나 행사가 진행되는 곳의 중심에 배치하여 긍정적 효과의 지속시간을 늘릴 수 있습니다.</Lectern.description>
   
-  <PollutionPump.label>오염물질 펌프</PollutionPump.label>
-  <PollutionPump.description>주변 오염을 서서히 청소하는 지하수 여과기가 달린 펌프입니다. 추출된 오염물질은 운반해 치워야하는 독성 폐기물로 변환됩니다.</PollutionPump.description>
+  <LightBall.label>미러볼</LightBall.label>
+  <LightBall.description>회전하면서 색이 바뀌는 장식용 전등입니다. 댄스 파티를 달아오르게 하기 위해 사용됩니다.</LightBall.description>
   
-  <SanguphageMeetingTorch.label>피의 횃불</SanguphageMeetingTorch.label>
-  <SanguphageMeetingTorch.description>넓은 범위에 붉은 빛을 발하는 특수 처리된 나무 횃불입니다. 생귀오파지들은 이러한 횃불 근처에서 의식 모임을 합니다. 피처럼 타오르는 이 불빛은 흡혈 유전자를 가진 이들을 즐겁게 합니다. 나무를 자동으로 다시 넣을 수 있습니다. 약한 열을 발산합니다.</SanguphageMeetingTorch.description>
+  <Loudspeaker.label>대형 스피커</Loudspeaker.label>
+  <Loudspeaker.description>음악을 크게 재생하기 위한 장치입니다. 댄스 파티를 개최하기 위해서 최소 하나가 필요하며, 많을수록 효과가 커집니다.</Loudspeaker.description>
   
-  <ShuttleCrashed_Exitable.label>추락한 왕복선</ShuttleCrashed_Exitable.label>
-  <ShuttleCrashed_Exitable.description>지상과 우주 궤도 혹은 행성계의 위성 사이를 운용하도록 설계된 범우주급 왕복선입니다.</ShuttleCrashed_Exitable.description>
+  <Pew.label>벤치</Pew.label>
+  <Pew.description>의식 참여자들이 앉을 수 있는 긴 벤치입니다. 긍정적 효과를 얻기 위해서는 의식이 진행되는 곳 또는 주최자를 바라보도록 설치해야 합니다.</Pew.description>
   
-  <ShuttleCrashed_Exitable_Mechanitor.label>추락한 메카나이터 함선</ShuttleCrashed_Exitable_Mechanitor.label>
-  <ShuttleCrashed_Exitable_Mechanitor.description>메카나이터가 메카노이드를 행성 내 또는 저궤도 수송할 때 사용하는 단거리 함선입니다.</ShuttleCrashed_Exitable_Mechanitor.description>
+  <PlantPot_Bonsai.label>분재 화분</PlantPot_Bonsai.label>
+  <PlantPot_Bonsai.description>분재목을 심기에 적절한 화분입니다. 주변 사람들의 기분을 환기해주고 일부 사상의 요구 조건을 충족시킵니다.</PlantPot_Bonsai.description>
   
-  <ToxifierGenerator.label>독소 발전기</ToxifierGenerator.label>
-  <ToxifierGenerator.description>주변 범위 내 지형을 서서히 오염시켜 전력을 생산하는 발전기입니다. 범위 내 모든 지형이 오염되면 전력 생산을 멈춥니다.</ToxifierGenerator.description>
+  <Reliquary.label>성물함</Reliquary.label>
+  <Reliquary.description>성스러운 유물을 전시하고 보호하는 의식 건출물입니다. 유물은 많은 사람들과 문화, 그리고 신앙에서 숭배하는 고대의 물품입니다.</Reliquary.description>
   
-  <TrapIED_ToxGas.label>독소 지뢰</TrapIED_ToxGas.label>
-  <TrapIED_ToxGas.description>누군가 방아쇠를 건드리면 주위에 독성가스를 발포합니다. 주변 지형에 숨겨져 있으므로 다른 함정과 인접하여 배치할 수 없습니다. 동물들은 평화시 이것을 감지할 수 있습니다.</TrapIED_ToxGas.description>
+  <Skullspike.label>효수대</Skullspike.label>
+  <Skullspike.description>사람의 두개골을 꿰뚫어 높이 치켜 든 장대입니다. 어떤 이들에게는 힘의 상징이지만, 다른 이들에겐 야만적인 장식물로 보일 것입니다. 노예들에게 공포를 심어주는 대에는 탁월한 효과를 발휘합니다.</Skullspike.description>
+  <Skullspike.comps.CompHasSources.inspectStringLabel>두개골</Skullspike.comps.CompHasSources.inspectStringLabel>
   
-  <WastepackAtomizer.label>폐기물 원자분해기</WastepackAtomizer.label>
-  <WastepackAtomizer.description>고급 분자 공정을 사용하여 독성 폐기물 팩을 불활성 가스로 분해하는 번화계 기계장치입니다. 분해과정에는 상당량의 전력이 필요합니다.</WastepackAtomizer.description>
+  <SlabBed.label>딱딱한 침대</SlabBed.label>
+  <SlabBed.description>단단한 재질로 만들어진 침대입니다. 불편하지만 자신의 믿음을 증명하고 싶은 이들이 사용합니다.</SlabBed.description>
+  
+  <SlabDoubleBed.label>딱딱한 더블 침대</SlabDoubleBed.label>
+  <SlabDoubleBed.description>단단한 재질로 만들어진 침대입니다. 불편하지만 자신의 믿음을 증명하고 싶은 이들이 사용합니다. 두 명이 누울 수 있을 만큼 충분히 넓습니다.</SlabDoubleBed.description>
+  
+  <StylingStation.label>화장대</StylingStation.label>
+  <StylingStation.description>거울과 여러 치장용 도구가 있는 탁자입니다. 여기서 정착민의 외관을 변경할 수 있습니다.</StylingStation.description>
 </LanguageData>
