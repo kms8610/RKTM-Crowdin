@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Assassin20.baseDesc>crwdns450950:0[PAWN_nameDef]crwdnd450950:0[PAWN_pronoun]crwdne450950:0</Assassin20.baseDesc>
+  <Assassin20.title>crwdns450952:0crwdne450952:0</Assassin20.title>
+  <Assassin20.titleShort>crwdns450954:0crwdne450954:0</Assassin20.titleShort>
+  
+  <Gigolo30.baseDesc>crwdns450956:0[PAWN_nameDef]crwdnd450956:0[PAWN_possessive]crwdnd450956:0[PAWN_pronoun]crwdne450956:0</Gigolo30.baseDesc>
+  <Gigolo30.title>crwdns450958:0crwdne450958:0</Gigolo30.title>
+  <Gigolo30.titleFemale>crwdns450960:0crwdne450960:0</Gigolo30.titleFemale>
+  <Gigolo30.titleShort>crwdns450962:0crwdne450962:0</Gigolo30.titleShort>
+  <Gigolo30.titleShortFemale>crwdns450964:0crwdne450964:0</Gigolo30.titleShortFemale>
+  
+  <IllegalShipwright76.baseDesc>crwdns450966:0[PAWN_nameDef]crwdne450966:0</IllegalShipwright76.baseDesc>
+  <IllegalShipwright76.title>crwdns450968:0crwdne450968:0</IllegalShipwright76.title>
+  <IllegalShipwright76.titleShort>crwdns450970:0crwdne450970:0</IllegalShipwright76.titleShort>
+  
+  <PitBrawler76.baseDesc>crwdns450972:0[PAWN_nameDef]crwdnd450972:0[PAWN_pronoun]crwdnd450972:0[PAWN_possessive]crwdnd450972:0[PAWN_pronoun]crwdnd450972:0[PAWN_possessive]crwdne450972:0</PitBrawler76.baseDesc>
+  <PitBrawler76.title>crwdns450974:0crwdne450974:0</PitBrawler76.title>
+  <PitBrawler76.titleShort>crwdns450976:0crwdne450976:0</PitBrawler76.titleShort>
+  
+  <SpaceMarine16.baseDesc>crwdns450978:0[PAWN_nameDef]crwdnd450978:0[PAWN_possessive]crwdnd450978:0[PAWN_pronoun]crwdne450978:0</SpaceMarine16.baseDesc>
+  <SpaceMarine16.title>crwdns450980:0crwdne450980:0</SpaceMarine16.title>
+  <SpaceMarine16.titleShort>crwdns450982:0crwdne450982:0</SpaceMarine16.titleShort>
+  
+  <SpacePirate55.baseDesc>crwdns450984:0[PAWN_nameDef]crwdne450984:0</SpacePirate55.baseDesc>
+  <SpacePirate55.title>crwdns450986:0crwdne450986:0</SpacePirate55.title>
+  <SpacePirate55.titleShort>crwdns450988:0crwdne450988:0</SpacePirate55.titleShort>
+</LanguageData>
