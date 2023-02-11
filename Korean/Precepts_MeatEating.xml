@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeatEating.label>meat eating</MeatEating.label>
+  <MeatEating_Abhorrent.label>혐오함</MeatEating_Abhorrent.label>
+  <MeatEating_Abhorrent.description>육식은 악마들이나 하는 짓거리다.</MeatEating_Abhorrent.description>
+  
+  <MeatEating_Disapproved.label>못마땅함</MeatEating_Disapproved.label>
+  <MeatEating_Disapproved.description>육식은 가급적 자제해야 한다.</MeatEating_Disapproved.description>
+  
+  <MeatEating_Horrible.label>끔찍함</MeatEating_Horrible.label>
+  <MeatEating_Horrible.description>육식은 끔찍한 식습관이다.</MeatEating_Horrible.description>
+  
+  <MeatEating_NonMeat_Abhorrent.label>채식주의자 혐오</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Abhorrent.description>채식주의자는 누구나 도덕심이 매우 부족하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 포함되지 않은 가공식품도 좋다.</MeatEating_NonMeat_Abhorrent.description>
+  
+  <MeatEating_NonMeat_Disapproved.label>채식주의자 싫어함</MeatEating_NonMeat_Disapproved.label>
+  <MeatEating_NonMeat_Disapproved.description>채식 음식을 먹는 것은 불쾌하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 없는 가공식품도 좋다.</MeatEating_NonMeat_Disapproved.description>
+  
+  <MeatEating_NonMeat_Horrible.label>채식주의자 질색함</MeatEating_NonMeat_Horrible.label>
+  <MeatEating_NonMeat_Horrible.description>채식 음식을 먹는 것은 끔찍하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 없는 가공식품도 좋다.</MeatEating_NonMeat_Horrible.description>
 </LanguageData>
