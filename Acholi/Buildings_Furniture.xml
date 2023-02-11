@@ -1,19 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Brazier.label>crwdns448940:0crwdne448940:0</Brazier.label>
-  <Brazier.description>crwdns448942:0crwdne448942:0</Brazier.description>
+  <AnimalBed.label>crwdns471372:0crwdne471372:0</AnimalBed.label>
+  <AnimalBed.description>crwdns471374:0crwdne471374:0</AnimalBed.description>
   
-  <DarklightBrazier.label>crwdns448944:0crwdne448944:0</DarklightBrazier.label>
-  <DarklightBrazier.description>crwdns448946:0crwdne448946:0</DarklightBrazier.description>
+  <AnimalSleepingBox.label>crwdns471376:0crwdne471376:0</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>crwdns471378:0crwdne471378:0</AnimalSleepingBox.description>
   
-  <Drape.label>crwdns448948:0crwdne448948:0</Drape.label>
-  <Drape.description>crwdns448950:0crwdne448950:0</Drape.description>
+  <AnimalSleepingSpot.label>crwdns471380:0crwdne471380:0</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>crwdns471382:0crwdne471382:0</AnimalSleepingSpot.description>
   
-  <GrandThrone.label>crwdns448952:0crwdne448952:0</GrandThrone.label>
-  <GrandThrone.description>crwdns448954:0crwdne448954:0</GrandThrone.description>
-  <GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>crwdns448956:0crwdne448956:0</GrandThrone.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <Armchair.label>crwdns471384:0crwdne471384:0</Armchair.label>
+  <Armchair.description>crwdns471386:0crwdne471386:0</Armchair.description>
   
-  <Throne.label>crwdns448958:0crwdne448958:0</Throne.label>
-  <Throne.description>crwdns448960:0crwdne448960:0</Throne.description>
-  <Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>crwdns448962:0crwdne448962:0</Throne.comps.CompAssignableToPawn_Throne.noAssignablePawnsDesc>
+  <Bed.label>crwdns471388:0crwdne471388:0</Bed.label>
+  <Bed.description>crwdns471390:0crwdne471390:0</Bed.description>
+  
+  <Bedroll.label>crwdns471392:0crwdne471392:0</Bedroll.label>
+  <Bedroll.description>crwdns471394:0crwdne471394:0</Bedroll.description>
+  
+  <BedrollDouble.label>crwdns471396:0crwdne471396:0</BedrollDouble.label>
+  <BedrollDouble.description>crwdns471398:0crwdne471398:0</BedrollDouble.description>
+  
+  <DiningChair.label>crwdns471400:0crwdne471400:0</DiningChair.label>
+  <DiningChair.description>crwdns471402:0crwdne471402:0</DiningChair.description>
+  
+  <DoubleBed.label>crwdns471404:0crwdne471404:0</DoubleBed.label>
+  <DoubleBed.description>crwdns471406:0crwdne471406:0</DoubleBed.description>
+  
+  <DoubleSleepingSpot.label>crwdns471408:0crwdne471408:0</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>crwdns471410:0crwdne471410:0</DoubleSleepingSpot.description>
+  
+  <Dresser.label>crwdns471412:0crwdne471412:0</Dresser.label>
+  <Dresser.description>crwdns471414:0crwdne471414:0</Dresser.description>
+  
+  <EndTable.label>crwdns471416:0crwdne471416:0</EndTable.label>
+  <EndTable.description>crwdns471418:0crwdne471418:0</EndTable.description>
+  
+  <HospitalBed.label>crwdns471420:0crwdne471420:0</HospitalBed.label>
+  <HospitalBed.description>crwdns471422:0crwdne471422:0</HospitalBed.description>
+  
+  <PlantPot.label>crwdns471424:0crwdne471424:0</PlantPot.label>
+  <PlantPot.description>crwdns471426:0crwdne471426:0</PlantPot.description>
+  
+  <RoyalBed.label>crwdns471428:0crwdne471428:0</RoyalBed.label>
+  <RoyalBed.description>crwdns471430:0crwdne471430:0</RoyalBed.description>
+  
+  <Shelf.label>crwdns471432:0crwdne471432:0</Shelf.label>
+  <Shelf.description>crwdns471434:0crwdne471434:0</Shelf.description>
+  
+  <ShelfSmall.label>crwdns471436:0crwdne471436:0</ShelfSmall.label>
+  <ShelfSmall.description>crwdns471438:0crwdne471438:0</ShelfSmall.description>
+  
+  <SleepingSpot.label>crwdns471440:0crwdne471440:0</SleepingSpot.label>
+  <SleepingSpot.description>crwdns471442:0crwdne471442:0</SleepingSpot.description>
+  
+  <StandingLamp.label>crwdns471444:0crwdne471444:0</StandingLamp.label>
+  <StandingLamp.description>crwdns471446:0crwdne471446:0</StandingLamp.description>
+  
+  <Stool.label>crwdns471448:0crwdne471448:0</Stool.label>
+  <Stool.description>crwdns471450:0crwdne471450:0</Stool.description>
+  
+  <SunLamp.label>crwdns471452:0crwdne471452:0</SunLamp.label>
+  <SunLamp.description>crwdns471454:0crwdne471454:0</SunLamp.description>
+  <SunLamp.comps.CompSchedule.offMessage>crwdns471456:0crwdne471456:0</SunLamp.comps.CompSchedule.offMessage>
+  
+  <Table1x2c.label>crwdns471458:0crwdne471458:0</Table1x2c.label>
+  <Table1x2c.description>crwdns471460:0crwdne471460:0</Table1x2c.description>
+  
+  <Table2x2c.label>crwdns471462:0crwdne471462:0</Table2x2c.label>
+  <Table2x2c.description>crwdns471464:0crwdne471464:0</Table2x2c.description>
+  
+  <Table2x4c.label>crwdns471466:0crwdne471466:0</Table2x4c.label>
+  <Table2x4c.description>crwdns471468:0crwdne471468:0</Table2x4c.description>
+  
+  <Table3x3c.label>crwdns471470:0crwdne471470:0</Table3x3c.label>
+  <Table3x3c.description>crwdns471472:0crwdne471472:0</Table3x3c.description>
+  
+  <TorchLamp.label>crwdns471474:0crwdne471474:0</TorchLamp.label>
+  <TorchLamp.description>crwdns471476:0crwdne471476:0</TorchLamp.description>
 </LanguageData>
