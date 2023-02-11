@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Kibble.label>사료</Kibble.label>
-  <Kibble.description>동물성과 식물성 재료가 잘 섞인 동물 사료입니다. 사람도 먹을 수는 있지만 정말, 정말 싫어합니다.</Kibble.description>
+  <BabyFood.label>이유식</BabyFood.label>
+  <BabyFood.description>부드러운 채식 곤죽입니다. 유아들은 좋아하지만 어린이들과 어른들은 좋아하지 않습니다.</BabyFood.description>
   
-  <MealFine.label>좋은 식사</MealFine.label>
-  <MealFine.description>다양한 재료로 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine.description>
-  
-  <MealFine_Meat.label>좋은 육식 위주 식사</MealFine_Meat.label>
-  <MealFine_Meat.description>고기들을 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Meat.description>
-  
-  <MealFine_Veg.label>좋은 채식 위주 식사</MealFine_Veg.label>
-  <MealFine_Veg.description>채식식재를 이용해 변화를 주어 만든 다소 복잡한 요리입니다.</MealFine_Veg.description>
-  
-  <MealLavish.label>호화로운 식사</MealLavish.label>
-  <MealLavish.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish.description>
-  
-  <MealLavish_Meat.label>호화로운 육식 위주 식사</MealLavish_Meat.label>
-  <MealLavish_Meat.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish_Meat.description>
-  
-  <MealLavish_Veg.label>호화로운 채식 위주 식사</MealLavish_Veg.label>
-  <MealLavish_Veg.description>걸작 중의 걸작입니다! 몸과 마음, 영혼에까지 충분한 영양분을 공급해줄 것입니다.</MealLavish_Veg.description>
-  
-  <MealNutrientPaste.label>영양죽</MealNutrientPaste.label>
-  <MealNutrientPaste.description>단백질, 탄수화물, 비타민, 아미노산과 미네랄 등으로 이루어진 합성 물질입니다. 신체가 정확히 필요로 하는 것이지만 매우 역겹습니다.</MealNutrientPaste.description>
-  
-  <MealSimple.label>간단한 식사</MealSimple.label>
-  <MealSimple.description>단순한 재료로 빠르게 만들 수 있는 요리입니다.</MealSimple.description>
-  
-  <MealSurvivalPack.label>보존 식량</MealSurvivalPack.label>
-  <MealSurvivalPack.description>비상시 생존을 보장하기 위한 고품질의 식량입니다. 야외에 방치해도 상하지 않지만, 내구도는 닳을 수 있습니다. 여행할 때 가져가기 좋습니다.</MealSurvivalPack.description>
-  
-  <Pemmican.label>페미컨</Pemmican.label>
-  <Pemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 매우 오래 상하지 않습니다. 여행할 때 가져가기 좋습니다.</Pemmican.description>
+  <HemogenPack.label>혈액팩</HemogenPack.label>
+  <HemogenPack.description>부패를 방지하는 특수 용기에 담긴 정제된 혈액 정수입니다. 흡혈성 인간은 혈액팩을 사용하여 내부 혈액정수 저장량을 회복할 수 있으며, 수혈 수술을 통해 투여할 수 있습니다.</HemogenPack.description>
 </LanguageData>
