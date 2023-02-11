@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulletShieldPsychic.label>crwdns449088:0crwdne449088:0</BulletShieldPsychic.label>
+  <Blight.label>crwdns472078:0crwdne472078:0</Blight.label>
   
-  <Flashstorm.label>crwdns449090:0crwdne449090:0</Flashstorm.label>
+  <Explosion.label>crwdns472080:0crwdne472080:0</Explosion.label>
   
-  <MonumentMarker.label>crwdns449092:0crwdne449092:0</MonumentMarker.label>
-  <MonumentMarker.description>crwdns449094:0crwdne449094:0</MonumentMarker.description>
+  <PawnJumper.label>crwdns472082:0crwdne472082:0</PawnJumper.label>
   
-  <SolarPinhole.label>crwdns449096:0crwdne449096:0</SolarPinhole.label>
+  <RadialTrigger.label>crwdns472084:0crwdne472084:0</RadialTrigger.label>
+  
+  <RectTrigger.label>crwdns472086:0crwdne472086:0</RectTrigger.label>
+  
+  <Tornado.label>crwdns472088:0crwdne472088:0</Tornado.label>
+  
+  <TriggerContainerEmptied.label>crwdns472090:0crwdne472090:0</TriggerContainerEmptied.label>
+  
+  <TriggerUnfogged.label>crwdns472092:0crwdne472092:0</TriggerUnfogged.label>
+  
+  <TunnelHiveSpawner.label>crwdns472094:0crwdne472094:0</TunnelHiveSpawner.label>
 </LanguageData>
