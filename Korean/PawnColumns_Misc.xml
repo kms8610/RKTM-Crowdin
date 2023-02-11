@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Age.label>나이</Age.label>
+  
+  <AllowedArea.label>허가구역</AllowedArea.label>
+  
+  <AllowedAreaWide.label>허가구역</AllowedAreaWide.label>
+  
+  <Carry.label>소지</Carry.label>
+  
+  <DrugPolicy.label>약물 정책</DrugPolicy.label>
+  
+  <FoodRestriction.label>식량 정책</FoodRestriction.label>
+  
+  <HostilityResponse.headerTip>적대적 반응</HostilityResponse.headerTip>
+  
+  <Master.label>군주</Master.label>
+  
+  <MedicalCare.headerTip>의료 관리</MedicalCare.headerTip>
+  
+  <Outfit.label>현재 복장</Outfit.label>
+</LanguageData>
