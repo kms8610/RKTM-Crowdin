@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MainPageCredit>타이난 실베스터의 이야기 생성기</MainPageCredit>
+
+  <Credits_Developers>엔지니어링</Credits_Developers>
+  <Credit_MusicAndSound>음향</Credit_MusicAndSound>
+  <Credit_GameArt>아트</Credit_GameArt>
+  <Credit_MenuArt>메뉴 아트</Credit_MenuArt>
+  <Credits_AdditionalDevelopment>추가 엔지니어링</Credits_AdditionalDevelopment>
+  <Credits_TitleCommunity>커뮤니티 자원자</Credits_TitleCommunity>
+  <Credits_TitleTester>커뮤니티 테스터</Credits_TitleTester>
+  <Credits_TitleMods>모드</Credits_TitleMods>
+  <Credit_ModDonation>모드 기증</Credit_ModDonation>
+  <Credit_WritingDonation>이야기 기증</Credit_WritingDonation>
+  <Credit_Moderator>포럼 관리</Credit_Moderator>
+  <Credit_WikiMaster>위키 관리</Credit_WikiMaster>
+  <Credit_TestLead>테스트 리드</Credit_TestLead>
+  <Credits_TitleLanguage>{0} 번역</Credits_TitleLanguage>
+  <ThanksForPlaying>플레이해 주셔서 감사합니다!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <Credit_SpecialThanks>고마운 분들</Credit_SpecialThanks>
+
+</LanguageData>
