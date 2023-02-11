@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeWeapon_MonoSword.label>crwdns449258:0crwdne449258:0</MeleeWeapon_MonoSword.label>
+  <MeleeWeapon_MonoSword.description>crwdns449260:0crwdne449260:0</MeleeWeapon_MonoSword.description>
+  <MeleeWeapon_MonoSword.tools.handle.label>crwdns449262:0crwdne449262:0</MeleeWeapon_MonoSword.tools.handle.label>
+  <MeleeWeapon_MonoSword.tools.point.label>crwdns449264:0crwdne449264:0</MeleeWeapon_MonoSword.tools.point.label>
+  <MeleeWeapon_MonoSword.tools.edge.label>crwdns449266:0crwdne449266:0</MeleeWeapon_MonoSword.tools.edge.label>
+  
+  <MeleeWeapon_PlasmaSword.label>crwdns449268:0crwdne449268:0</MeleeWeapon_PlasmaSword.label>
+  <MeleeWeapon_PlasmaSword.description>crwdns449270:0crwdne449270:0</MeleeWeapon_PlasmaSword.description>
+  <MeleeWeapon_PlasmaSword.tools.handle.label>crwdns449272:0crwdne449272:0</MeleeWeapon_PlasmaSword.tools.handle.label>
+  <MeleeWeapon_PlasmaSword.tools.point.label>crwdns449274:0crwdne449274:0</MeleeWeapon_PlasmaSword.tools.point.label>
+  <MeleeWeapon_PlasmaSword.tools.edge.label>crwdns449276:0crwdne449276:0</MeleeWeapon_PlasmaSword.tools.edge.label>
+  
+  <MeleeWeapon_Zeushammer.label>crwdns449278:0crwdne449278:0</MeleeWeapon_Zeushammer.label>
+  <MeleeWeapon_Zeushammer.description>crwdns449280:0crwdne449280:0</MeleeWeapon_Zeushammer.description>
+  <MeleeWeapon_Zeushammer.tools.handle.label>crwdns449282:0crwdne449282:0</MeleeWeapon_Zeushammer.tools.handle.label>
+  <MeleeWeapon_Zeushammer.tools.head.label>crwdns449284:0crwdne449284:0</MeleeWeapon_Zeushammer.tools.head.label>
+</LanguageData>
