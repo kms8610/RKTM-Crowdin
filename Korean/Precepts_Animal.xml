@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalsVenerated.label>성스러운 동물</AnimalsVenerated.label>
+  <AnimalVenerated.label>성스러움</AnimalVenerated.label>
+  <AnimalVenerated.description>This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed.</AnimalVenerated.description>
+  <AnimalVenerated.comps.2.description>성스러운 가축이 죽음</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>부족한 동물들 {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>적은 동물들 {STAGE2}</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>Some animals {STAGE3}</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>Lots of animals {STAGE4}</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>무수한 동물</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
 </LanguageData>
