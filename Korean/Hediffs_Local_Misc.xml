@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Abasia.label>운동마비</Abasia.label>
-  <Abasia.description>운동피질에 문제가 생겨 이동이 불가능한 상태입니다. 충분한 시간이 지나면 뇌가 기능을 되찾지만, 회복 속도가 대단히 느립니다. 희박한 확률로 초기에 갑자기 완치될 수도 있습니다. 특별한 시술을 받으면 단번에 완치되지만 대량의 번화계 약품이 필요합니다.</Abasia.description>
-  <Abasia.descriptionShort>운동피질에 문제가 생겨 이동이 불가능한 상태입니다. 충분한 시간이 지나면 뇌가 기능을 되찾지만, 회복 속도가 대단히 느립니다.</Abasia.descriptionShort>
+  <CureAbasia.label>운동마비 치료</CureAbasia.label>
+  <CureAbasia.description>대량의 기계입자를 사용하여 뇌를 손상시키지 않고 신경활동을 조정합니다. 이는 운동마비를 영구적으로 치료하지만 많은 번화계 약품을 소모합니다.</CureAbasia.description>
+  <CureAbasia.jobString>운동마비 치료 중</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 운동마비를 치료했습니다.</CureAbasia.successfullyRemovedHediffMessage>
   
-  <BloodRot.label>패혈증</BloodRot.label>
-  <BloodRot.description>천천히 성장하는 세균성 질병입니다. 이 세균은 성장기에는 거의 해를 끼치지 않지만, 포화 수준에 도달하면 급성 중독증을 유발하여 환자를 즉시 사망에 이르게 합니다.\n\n오랜 시간이 지나면 인체의 면역체계가 스스로 패혈증을 제거할 수 있으므로, 표준 치료법은 일반 약품을 사용해서 증상을 억제하는 것입니다. 번화계에서는 대량의 기계입자 투여로 즉시 치료하기도 하지만 이 방법은 비용이 많이 듭니다.</BloodRot.description>
-  <BloodRot.descriptionShort>천천히 성장하는 세균성 질병입니다. 포화 수준에 도달하면 감염자는 사망합니다.</BloodRot.descriptionShort>
-  <BloodRot.stages.minor.label>약간</BloodRot.stages.minor.label>
-  <BloodRot.stages.major.label>심각함</BloodRot.stages.major.label>
-  <BloodRot.stages.extreme.label>극도의</BloodRot.stages.extreme.label>
+  <CureBloodRot.label>패혈증 치료</CureBloodRot.label>
+  <CureBloodRot.description>나노 살균제를 대량으로 주입하여 패혈증을 치료합니다.</CureBloodRot.description>
+  <CureBloodRot.jobString>패혈증 치료 중</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 패혈증을 치료했습니다.</CureBloodRot.successfullyRemovedHediffMessage>
 </LanguageData>
