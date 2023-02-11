@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AllowCorpsesMechEnemy.label>적의 메카노이드 잔해 허용</AllowCorpsesMechEnemy.label>
-  <AllowCorpsesMechEnemy.description>적 메카노이드 잔해를 허용합니다.</AllowCorpsesMechEnemy.description>
+  <AllowCannibal.label>인육이 들어간 음식 허용</AllowCannibal.label>
+  <AllowCannibal.description>식인종이 수용할 수 있는 음식(즉, 인육 포함)을 허용합니다. 이것은 재료에 따라 분류되는 식사를 설명합니다.</AllowCannibal.description>
   
-  <AllowCorpsesMechFriendly.label>아군의 메카노이드 잔해 허용</AllowCorpsesMechFriendly.label>
-  <AllowCorpsesMechFriendly.description>아군 메카노이드 잔해를 허용합니다.</AllowCorpsesMechFriendly.description>
+  <AllowCarnivore.label>식욕을 돋우는 고기가 들어간 음식을 허용</AllowCarnivore.label>
+  <AllowCarnivore.description>일반적으로 고기를 먹는 사람은 받아들일 수 있지만 채식주의자는 받아들일 수 없는 음식을 허용합니다. 이것은 재료에 따라 분류되는 식사를 설명합니다. 인간과 곤충의 고기는 통제하지 않습니다.</AllowCarnivore.description>
+  
+  <AllowCorpsesSlave.label>노예 시체 허용</AllowCorpsesSlave.label>
+  <AllowCorpsesSlave.description>노예의 시체를 허용합니다.</AllowCorpsesSlave.description>
+  
+  <AllowInsectMeat.label>곤충 고기가 포함된 음식 허용</AllowInsectMeat.label>
+  <AllowInsectMeat.description>곤충 고기가 포함된 음식을 허용합니다. 이것은 재료에 따라 분류되는 식사를 설명합니다.</AllowInsectMeat.description>
+  
+  <AllowVegetarian.label>채식 허용</AllowVegetarian.label>
+  <AllowVegetarian.description>채식주의자에게는 허용되지만, 고기만 먹는 사람들은 받아들이지 못하는 음식을 허용합니다. 이것은 재료에 따라 분류되는 식사를 설명합니다.</AllowVegetarian.description>
 </LanguageData>
