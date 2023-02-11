@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AcceptStartingPawns.text>crwdns458866:0crwdne458866:0</AcceptStartingPawns.text>
+  
+  <AddBillSimpleMeal.onMapInstruction>crwdns458868:0crwdne458868:0</AddBillSimpleMeal.onMapInstruction>
+  <AddBillSimpleMeal.rejectInputMessage>crwdns458870:0crwdne458870:0</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.text>crwdns458872:0crwdne458872:0</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.textController>crwdns458874:0crwdne458874:0</AddBillSimpleMeal.textController>
+  
+  <BuildAnimalSleepingSpot.onMapInstruction>crwdns458876:0crwdne458876:0</BuildAnimalSleepingSpot.onMapInstruction>
+  <BuildAnimalSleepingSpot.rejectInputMessage>crwdns458878:0crwdne458878:0</BuildAnimalSleepingSpot.rejectInputMessage>
+  <BuildAnimalSleepingSpot.text>crwdns458880:0crwdne458880:0</BuildAnimalSleepingSpot.text>
+  
+  <BuildBeds.onMapInstruction>crwdns458882:0crwdne458882:0</BuildBeds.onMapInstruction>
+  <BuildBeds.rejectInputMessage>crwdns458884:0crwdne458884:0</BuildBeds.rejectInputMessage>
+  <BuildBeds.text>crwdns458886:0{Key:Designator_RotateLeft}crwdnd458886:0{Key:Designator_RotateRight}crwdne458886:0</BuildBeds.text>
+  <BuildBeds.textController>crwdns458888:0crwdne458888:0</BuildBeds.textController>
+  
+  <BuildFueledStove.onMapInstruction>crwdns458890:0crwdne458890:0</BuildFueledStove.onMapInstruction>
+  <BuildFueledStove.rejectInputMessage>crwdns458892:0crwdne458892:0</BuildFueledStove.rejectInputMessage>
+  <BuildFueledStove.text>crwdns458894:0crwdne458894:0</BuildFueledStove.text>
+  
+  <BuildHorseshoesPin.onMapInstruction>crwdns458896:0crwdne458896:0</BuildHorseshoesPin.onMapInstruction>
+  <BuildHorseshoesPin.rejectInputMessage>crwdns458898:0crwdne458898:0</BuildHorseshoesPin.rejectInputMessage>
+  <BuildHorseshoesPin.text>crwdns458900:0crwdne458900:0</BuildHorseshoesPin.text>
+  
+  <BuildRoomDoor.onMapInstruction>crwdns458902:0crwdne458902:0</BuildRoomDoor.onMapInstruction>
+  <BuildRoomDoor.rejectInputMessage>crwdns458904:0crwdne458904:0</BuildRoomDoor.rejectInputMessage>
+  <BuildRoomDoor.text>crwdns458906:0crwdne458906:0</BuildRoomDoor.text>
+  
+  <BuildRoomWalls.onMapInstruction>crwdns458908:0crwdne458908:0</BuildRoomWalls.onMapInstruction>
+  <BuildRoomWalls.rejectInputMessage>crwdns458910:0crwdne458910:0</BuildRoomWalls.rejectInputMessage>
+  <BuildRoomWalls.text>crwdns458912:0crwdne458912:0</BuildRoomWalls.text>
+  
+  <BuildSandbags.onMapInstruction>crwdns458914:0crwdne458914:0</BuildSandbags.onMapInstruction>
+  <BuildSandbags.rejectInputMessage>crwdns458916:0crwdne458916:0</BuildSandbags.rejectInputMessage>
+  <BuildSandbags.text>crwdns458918:0crwdne458918:0</BuildSandbags.text>
+  
+  <BuildSimpleResearchBench.onMapInstruction>crwdns458920:0crwdne458920:0</BuildSimpleResearchBench.onMapInstruction>
+  <BuildSimpleResearchBench.rejectInputMessage>crwdns458922:0crwdne458922:0</BuildSimpleResearchBench.rejectInputMessage>
+  <BuildSimpleResearchBench.text>crwdns458924:0crwdne458924:0</BuildSimpleResearchBench.text>
+  
+  <BuildTorchLamp.onMapInstruction>crwdns458926:0crwdne458926:0</BuildTorchLamp.onMapInstruction>
+  <BuildTorchLamp.rejectInputMessage>crwdns458928:0crwdne458928:0</BuildTorchLamp.rejectInputMessage>
+  <BuildTorchLamp.text>crwdns458930:0crwdne458930:0</BuildTorchLamp.text>
+  
+  <ChangeWorkSettings.rejectInputMessage>crwdns458932:0crwdne458932:0</ChangeWorkSettings.rejectInputMessage>
+  <ChangeWorkSettings.text>crwdns458934:0crwdne458934:0</ChangeWorkSettings.text>
+  
+  <ChooseLandingSite.rejectInputMessage>crwdns458936:0crwdne458936:0</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.text>crwdns458938:0crwdne458938:0</ChooseLandingSite.text>
+  
+  <ChooseStoryteller.rejectInputMessage>crwdns458940:0crwdne458940:0</ChooseStoryteller.rejectInputMessage>
+  <ChooseStoryteller.text>crwdns458942:0crwdne458942:0</ChooseStoryteller.text>
+  
+  <ChopTrees.rejectInputMessage>crwdns458944:0crwdne458944:0</ChopTrees.rejectInputMessage>
+  <ChopTrees.text>crwdns458946:0crwdne458946:0</ChopTrees.text>
+  
+  <CreateWorldParams.rejectInputMessage>crwdns458948:0crwdne458948:0</CreateWorldParams.rejectInputMessage>
+  <CreateWorldParams.text>crwdns458950:0crwdne458950:0</CreateWorldParams.text>
+  
+  <DownRaider.onMapInstruction>crwdns458952:0crwdne458952:0</DownRaider.onMapInstruction>
+  <DownRaider.rejectInputMessage>crwdns458954:0crwdne458954:0</DownRaider.rejectInputMessage>
+  <DownRaider.text>crwdns458956:0{Key:TogglePause}crwdne458956:0</DownRaider.text>
+  <DownRaider.textController>crwdns458958:0{Key:TogglePause}crwdne458958:0</DownRaider.textController>
+  
+  <EndStockpileDesignating.text>crwdns458960:0crwdne458960:0</EndStockpileDesignating.text>
+  <EndStockpileDesignating.textController>crwdns458962:0crwdne458962:0</EndStockpileDesignating.textController>
+  
+  <EquipWeapons.onMapInstruction>crwdns458964:0crwdne458964:0</EquipWeapons.onMapInstruction>
+  <EquipWeapons.rejectInputMessage>crwdns458966:0crwdne458966:0</EquipWeapons.rejectInputMessage>
+  <EquipWeapons.text>crwdns458968:0crwdne458968:0</EquipWeapons.text>
+  <EquipWeapons.textController>crwdns458970:0crwdne458970:0</EquipWeapons.textController>
+  
+  <ExpandAreaBuildRoof.rejectInputMessage>crwdns458972:0crwdne458972:0</ExpandAreaBuildRoof.rejectInputMessage>
+  <ExpandAreaBuildRoof.text>crwdns458974:0crwdne458974:0</ExpandAreaBuildRoof.text>
+  
+  <ExpandAreaHome.rejectInputMessage>crwdns458976:0crwdne458976:0</ExpandAreaHome.rejectInputMessage>
+  <ExpandAreaHome.text>crwdns458978:0crwdne458978:0</ExpandAreaHome.text>
+  
+  <FinishSandbags.rejectInputMessage>crwdns458980:0crwdne458980:0</FinishSandbags.rejectInputMessage>
+  <FinishSandbags.text>crwdns458982:0crwdne458982:0</FinishSandbags.text>
+  
+  <MakeGrowingZone.onMapInstruction>crwdns458984:0crwdne458984:0</MakeGrowingZone.onMapInstruction>
+  <MakeGrowingZone.rejectInputMessage>crwdns458986:0crwdne458986:0</MakeGrowingZone.rejectInputMessage>
+  <MakeGrowingZone.text>crwdns458988:0crwdne458988:0</MakeGrowingZone.text>
+  
+  <MakeStockpile.onMapInstruction>crwdns458990:0crwdne458990:0</MakeStockpile.onMapInstruction>
+  <MakeStockpile.rejectInputMessage>crwdns458992:0crwdne458992:0</MakeStockpile.rejectInputMessage>
+  <MakeStockpile.text>crwdns458994:0crwdne458994:0</MakeStockpile.text>
+  
+  <MapCameraDolly.text>crwdns458996:0{Key:MapDolly_Up}crwdnd458996:0{Key:MapDolly_Left}crwdnd458996:0{Key:MapDolly_Down}crwdnd458996:0{Key:MapDolly_Right}crwdne458996:0</MapCameraDolly.text>
+  <MapCameraDolly.textController>crwdns458998:0crwdne458998:0</MapCameraDolly.textController>
+  
+  <MapCameraZoom.text>crwdns459000:0{Key:MapZoom_In}crwdnd459000:0{Key:MapZoom_Out}crwdne459000:0</MapCameraZoom.text>
+  <MapCameraZoom.textController>crwdns459002:0{Key:MapZoom_In}crwdnd459002:0{Key:MapZoom_Out}crwdne459002:0</MapCameraZoom.textController>
+  
+  <MineSteel.onMapInstruction>crwdns459004:0crwdne459004:0</MineSteel.onMapInstruction>
+  <MineSteel.rejectInputMessage>crwdns459006:0crwdne459006:0</MineSteel.rejectInputMessage>
+  <MineSteel.text>crwdns459008:0crwdne459008:0</MineSteel.text>
+  
+  <OpenMainTabResearch.rejectInputMessage>crwdns459010:0crwdne459010:0</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.text>crwdns459012:0crwdne459012:0</OpenMainTabResearch.text>
+  
+  <OpenMainTabWork.rejectInputMessage>crwdns459014:0crwdne459014:0</OpenMainTabWork.rejectInputMessage>
+  <OpenMainTabWork.text>crwdns459016:0crwdne459016:0</OpenMainTabWork.text>
+  
+  <Pause.text>crwdns459018:0{Key:TogglePause}crwdne459018:0</Pause.text>
+  <Pause.textController>crwdns459020:0{Key:TogglePause}crwdne459020:0</Pause.textController>
+  
+  <RandomizeCharacter.rejectInputMessage>crwdns459022:0crwdne459022:0</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.text>crwdns459024:0crwdne459024:0</RandomizeCharacter.text>
+  
+  <ReorderCharacters.rejectInputMessage>crwdns459026:0crwdne459026:0</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.text>crwdns459028:0crwdne459028:0</ReorderCharacters.text>
+  
+  <SelectResearchProject.rejectInputMessage>crwdns459030:0crwdne459030:0</SelectResearchProject.rejectInputMessage>
+  <SelectResearchProject.text>crwdns459032:0crwdne459032:0</SelectResearchProject.text>
+  
+  <SetToGrowRice.onMapInstruction>crwdns459034:0crwdne459034:0</SetToGrowRice.onMapInstruction>
+  <SetToGrowRice.rejectInputMessage>crwdns459036:0crwdne459036:0</SetToGrowRice.rejectInputMessage>
+  <SetToGrowRice.text>crwdns459038:0crwdne459038:0</SetToGrowRice.text>
+  <SetToGrowRice.textController>crwdns459040:0crwdne459040:0</SetToGrowRice.textController>
+  
+  <TimeControls.text>crwdns459042:0{Key:TimeSpeed_Normal}crwdnd459042:0{Key:TimeSpeed_Fast}crwdnd459042:0{Key:TimeSpeed_Superfast}crwdne459042:0</TimeControls.text>
+  <TimeControls.textController>crwdns459044:0{Key:TimeSpeed_Faster}crwdnd459044:0{Key:TimeSpeed_Slower}crwdne459044:0</TimeControls.textController>
+  
+  <UndraftAll.rejectInputMessage>crwdns459046:0crwdne459046:0</UndraftAll.rejectInputMessage>
+  <UndraftAll.text>crwdns459048:0crwdne459048:0</UndraftAll.text>
+  
+  <UnforbidStartingResources.onMapInstruction>crwdns459050:0crwdne459050:0</UnforbidStartingResources.onMapInstruction>
+  <UnforbidStartingResources.rejectInputMessage>crwdns459052:0crwdne459052:0</UnforbidStartingResources.rejectInputMessage>
+  <UnforbidStartingResources.text>crwdns459054:0crwdne459054:0</UnforbidStartingResources.text>
+</LanguageData>
