@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandAutoRepair>crwdns429448:0crwdne429448:0</CommandAutoRepair>
+  <CommandAutoRepairDesc>crwdns429450:0crwdne429450:0</CommandAutoRepairDesc>
+
+  <CommandDisabledDeathresting>crwdns429452:0{0_labelShort}crwdne429452:0</CommandDisabledDeathresting>
+
+  <CommandCancelGrowth>crwdns429454:0crwdne429454:0</CommandCancelGrowth>
+  <CommandCancelGrowthDesc>crwdns429456:0crwdne429456:0</CommandCancelGrowthDesc>
+
+  <CommandSelectOverseer>crwdns429458:0crwdne429458:0</CommandSelectOverseer>
+  <CommandSelectOverseerDesc>crwdns429460:0crwdne429460:0</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDisabledDesc>crwdns429462:0crwdne429462:0</CommandSelectOverseerDisabledDesc>
+
+  <CommandCancelExtraction>crwdns429464:0crwdne429464:0</CommandCancelExtraction>
+  <CommandCancelExtractionDesc>crwdns429466:0crwdne429466:0</CommandCancelExtractionDesc>
+
+  <CommandCallBossgroup>crwdns429468:0crwdne429468:0</CommandCallBossgroup>
+  <CommandCallBossgroupDesc>crwdns429470:0crwdne429470:0</CommandCallBossgroupDesc>
+
+  <CommandAutoLoad>crwdns429472:0{0}crwdne429472:0</CommandAutoLoad>
+  <CommandAutoLoadDesc>crwdns429474:0{0}crwdne429474:0</CommandAutoLoadDesc>
+
+  <CommandEjectContents>crwdns429476:0crwdne429476:0</CommandEjectContents>
+  <CommandEjectContentsDesc>crwdns429478:0{0}crwdne429478:0</CommandEjectContentsDesc>
+
+  <CommandSelectAllMechs>crwdns429480:0crwdne429480:0</CommandSelectAllMechs>
+  <CommandSelectAllMechsDesc>crwdns429482:0crwdne429482:0</CommandSelectAllMechsDesc>
+
+  <CommandToggleTurret>crwdns429484:0crwdne429484:0</CommandToggleTurret>
+  <CommandToggleTurretDesc>crwdns429486:0crwdne429486:0</CommandToggleTurretDesc>
+
+  <CommandCancelSubcoreScan>crwdns429488:0crwdne429488:0</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScanDesc>crwdns429490:0crwdne429490:0</CommandCancelSubcoreScanDesc>
+
+  <ForceXenogermImplantation>crwdns429492:0crwdne429492:0</ForceXenogermImplantation>
+  <ForceXenogermImplantationDesc>crwdns429494:0crwdne429494:0</ForceXenogermImplantationDesc>
+</LanguageData>
