@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Pain_Idealized.label>idealized</Pain_Idealized.label>
-  <Pain_Idealized.description>To experience nerve-singing pain is a mark of morality.</Pain_Idealized.description>
-  <Pain_Idealized.comps.0.description>고통</Pain_Idealized.comps.0.description>
+  <Pain_Idealized.stages.minor_pain.label>가벼운 고통</Pain_Idealized.stages.minor_pain.label>
+  <Pain_Idealized.stages.minor_pain.description>고통이 나를 괴롭혀. 감사한 일이야.</Pain_Idealized.stages.minor_pain.description>
+  <Pain_Idealized.stages.serious_pain.label>고통</Pain_Idealized.stages.serious_pain.label>
+  <Pain_Idealized.stages.serious_pain.description>고통이 나를 씻겨 줘. 좋아.</Pain_Idealized.stages.serious_pain.description>
+  <Pain_Idealized.stages.intense_pain.label>극심한 고통</Pain_Idealized.stages.intense_pain.label>
+  <Pain_Idealized.stages.intense_pain.description>고통이 나를 정화해. 고통이 필요해!</Pain_Idealized.stages.intense_pain.description>
+  <Pain_Idealized.stages.mindshattering_pain.label>고통으로 인한 쇼크</Pain_Idealized.stages.mindshattering_pain.label>
+  <Pain_Idealized.stages.mindshattering_pain.description>고통만이 나를 숭고하게 해! 숭고해지고 싶어!</Pain_Idealized.stages.mindshattering_pain.description>
 </LanguageData>
