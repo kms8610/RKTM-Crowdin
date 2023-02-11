@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Carpet_Morbid.label>crwdns440092:0{0}crwdne440092:0</Carpet_Morbid.label>
-  <Carpet_Morbid.description>crwdns440094:0crwdne440094:0</Carpet_Morbid.description>
+  <Concrete.label>crwdns470838:0crwdne470838:0</Concrete.label>
+  <Concrete.description>crwdns470840:0crwdne470840:0</Concrete.description>
   
-  <Carpet_Transhumanist.label>crwdns440096:0{0}crwdne440096:0</Carpet_Transhumanist.label>
-  <Carpet_Transhumanist.description>crwdns440098:0crwdne440098:0</Carpet_Transhumanist.description>
+  <GoldTile.label>crwdns470842:0crwdne470842:0</GoldTile.label>
+  <GoldTile.description>crwdns470844:0crwdne470844:0</GoldTile.description>
+  
+  <MetalTile.label>crwdns470846:0crwdne470846:0</MetalTile.label>
+  <MetalTile.description>crwdns470848:0crwdne470848:0</MetalTile.description>
+  
+  <PavedTile.label>crwdns470850:0crwdne470850:0</PavedTile.label>
+  <PavedTile.description>crwdns470852:0crwdne470852:0</PavedTile.description>
+  
+  <SilverTile.label>crwdns470854:0crwdne470854:0</SilverTile.label>
+  <SilverTile.description>crwdns470856:0crwdne470856:0</SilverTile.description>
+  
+  <SterileTile.label>crwdns470858:0crwdne470858:0</SterileTile.label>
+  <SterileTile.description>crwdns470860:0crwdne470860:0</SterileTile.description>
+  
+  <StrawMatting.label>crwdns470862:0crwdne470862:0</StrawMatting.label>
+  <StrawMatting.description>crwdns470864:0crwdne470864:0</StrawMatting.description>
+  
+  <WoodPlankFloor.label>crwdns470866:0crwdne470866:0</WoodPlankFloor.label>
+  <WoodPlankFloor.description>crwdns470868:0crwdne470868:0</WoodPlankFloor.description>
 </LanguageData>
