@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Difficulty_BabiesAreHealthy_Label>crwdns429814:0crwdne429814:0</Difficulty_BabiesAreHealthy_Label>
+  <Difficulty_BabiesAreHealthy_Info>crwdns429816:0crwdne429816:0</Difficulty_BabiesAreHealthy_Info>
+  <Difficulty_NoBabiesOrChildren_Label>crwdns429818:0crwdne429818:0</Difficulty_NoBabiesOrChildren_Label>
+  <Difficulty_NoBabiesOrChildren_Info>crwdns429820:0crwdne429820:0</Difficulty_NoBabiesOrChildren_Info>
+  <Difficulty_ChildAgingRate_Label>crwdns429822:0crwdne429822:0</Difficulty_ChildAgingRate_Label>
+  <Difficulty_ChildAgingRate_Info>crwdns429824:0crwdne429824:0</Difficulty_ChildAgingRate_Info>
+  <Difficulty_AdultAgingRate_Label>crwdns429826:0crwdne429826:0</Difficulty_AdultAgingRate_Label>
+  <Difficulty_AdultAgingRate_Info>crwdns429828:0crwdne429828:0</Difficulty_AdultAgingRate_Info>
+  <Difficulty_WastepackInfestationChanceFactor_Label>crwdns429830:0crwdne429830:0</Difficulty_WastepackInfestationChanceFactor_Label>
+  <Difficulty_WastepackInfestationChanceFactor_Info>crwdns429832:0crwdne429832:0</Difficulty_WastepackInfestationChanceFactor_Info>
+  <Difficulty_ChildRaidersAllowed_Label>crwdns429834:0crwdne429834:0</Difficulty_ChildRaidersAllowed_Label>
+  <Difficulty_ChildRaidersAllowed_Info>crwdns429836:0crwdne429836:0</Difficulty_ChildRaidersAllowed_Info>
+
+  <BabiesAreHealthyDisableReason>crwdns429838:0crwdne429838:0</BabiesAreHealthyDisableReason>
+
+  <DifficultyBiotechSection>crwdns429840:0crwdne429840:0</DifficultyBiotechSection>
+
+  <!-- Create/review world -->
+  <PlanetPollution>crwdns429842:0crwdne429842:0</PlanetPollution>
+  
+</LanguageData>
