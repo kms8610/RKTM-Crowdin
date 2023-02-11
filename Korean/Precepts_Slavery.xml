@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <EnslavedPrisoner.label>노예화된 수감자</EnslavedPrisoner.label>
-  
-  <EnslavedPrisonerNotPreviouslyEnslaved.label>노예화된 수감자</EnslavedPrisonerNotPreviouslyEnslaved.label>
+  <Slavery.label>slavery</Slavery.label>
 </LanguageData>
