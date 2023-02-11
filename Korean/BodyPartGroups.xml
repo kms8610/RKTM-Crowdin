@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulbTurret.label>bulb turret</BulbTurret.label>
+  <BulbTurret.label>전구 포탑</BulbTurret.label>
   
-  <LeftPowerClaw.label>left power claw</LeftPowerClaw.label>
-  <LeftPowerClaw.labelShort>power claw</LeftPowerClaw.labelShort>
+  <LeftPowerClaw.label>왼쪽 강화 발톱</LeftPowerClaw.label>
+  <LeftPowerClaw.labelShort>강화 발톱</LeftPowerClaw.labelShort>
   
-  <RightPowerClaw.label>right power claw</RightPowerClaw.label>
-  <RightPowerClaw.labelShort>power claw</RightPowerClaw.labelShort>
+  <RightPowerClaw.label>오른쪽 강화 발톱</RightPowerClaw.label>
+  <RightPowerClaw.labelShort>강화 발톱</RightPowerClaw.labelShort>
 </LanguageData>
