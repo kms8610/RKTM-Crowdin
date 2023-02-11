@@ -1,48 +1,717 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Royal Titles -->
-  <RoyalFavorDescription>crwdns449738:0{FACTION_royalFavorLabel}crwdne449738:0</RoyalFavorDescription>
-  <RoyalTitleTooltipRequiredApparel>crwdns449740:0crwdne449740:0</RoyalTitleTooltipRequiredApparel>
-  <RoyalTitleTooltipRequiredApparelQuality>crwdns449742:0crwdne449742:0</RoyalTitleTooltipRequiredApparelQuality>
-  <RoyalTitleTooltipBedroomRequirements>crwdns449744:0crwdne449744:0</RoyalTitleTooltipBedroomRequirements>
-  <RoyalTitleTooltipThroneroomRequirements>crwdns449746:0crwdne449746:0</RoyalTitleTooltipThroneroomRequirements>
-  <RoyalTitleTooltipPermits>crwdns449748:0crwdne449748:0</RoyalTitleTooltipPermits>
-  <RoyalTitleRequiredApparelStatDescription>crwdns449750:0crwdne449750:0</RoyalTitleRequiredApparelStatDescription>
-  <ApparelRequirementAnyPrestigeArmor>crwdns449752:0crwdne449752:0</ApparelRequirementAnyPrestigeArmor>
-  <ApparelRequirementAnyPsycasterApparel>crwdns449754:0crwdne449754:0</ApparelRequirementAnyPsycasterApparel>
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>crwdns449756:0crwdne449756:0</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
-  <DisabledWorkTypes>crwdns449758:0crwdne449758:0</DisabledWorkTypes>
-  <RoyalTitleRequiredMeals>crwdns449760:0crwdne449760:0</RoyalTitleRequiredMeals>
-  <RoyalTitleRequiredMealsDesc>crwdns449762:0crwdne449762:0</RoyalTitleRequiredMealsDesc>
-  <ChooseParticipantsBestow>crwdns449764:0crwdne449764:0</ChooseParticipantsBestow>
-
-  <!-- Royal implants -->
-  <RoyalImplantIllegalUseWarning>crwdns449766:0{FACTION_name}crwdnd449766:0{TITLE}crwdnd449766:0{IMPLANT}crwdnd449766:0{VIOLATIONTRIGGER}crwdnd449766:0{FACTION_name}crwdne449766:0</RoyalImplantIllegalUseWarning>
-  <RoyalImplantInstallConfirmation>crwdns449768:0crwdne449768:0</RoyalImplantInstallConfirmation>
-  <RoyalImplantUpgradeConfirmation>crwdns449770:0crwdne449770:0</RoyalImplantUpgradeConfirmation>
-
-  <!-- Royal weapons -->
-  <BladelinkEquipWarning>crwdns449772:0crwdne449772:0</BladelinkEquipWarning>
-  <BladelinkEquipWarningTraits>crwdns449774:0crwdne449774:0</BladelinkEquipWarningTraits>
-  <RoyalWeaponEquipConfirmation>crwdns449776:0crwdne449776:0</RoyalWeaponEquipConfirmation>
+  <Confirm>crwdns478466:0crwdne478466:0</Confirm>
+  <GoBack>crwdns478468:0crwdne478468:0</GoBack>
+  <WantToContinue>crwdns478470:0crwdne478470:0</WantToContinue>
+  <OK>crwdns478472:0crwdne478472:0</OK>
+  <Close>crwdns478474:0crwdne478474:0</Close>
+  <Accept>crwdns478476:0crwdne478476:0</Accept>
+  <Cancel>crwdns478478:0crwdne478478:0</Cancel>
+  <Reset>crwdns478480:0crwdne478480:0</Reset>
+  <ResetAll>crwdns478482:0crwdne478482:0</ResetAll>
+  <Disable>crwdns478484:0crwdne478484:0</Disable>
+  <Modify>crwdns478486:0crwdne478486:0</Modify>
+  <ConfirmSettle>crwdns478488:0crwdne478488:0</ConfirmSettle>
+  <Add>crwdns478490:0crwdne478490:0</Add>
+  <CannotShoot>crwdns478492:0crwdne478492:0</CannotShoot>
   
-  <!-- Psycasts -->
-  <AbilityTargetPsychicallyDeaf>crwdns449778:0crwdne449778:0</AbilityTargetPsychicallyDeaf>
-  <PsycastIsIllegal>crwdns449780:0{PAWN_labelShort}crwdnd449780:0{TITLE}crwdne449780:0</PsycastIsIllegal>
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>crwdns478494:0{0}crwdnd478494:0{1}crwdne478494:0</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>crwdns478496:0crwdne478496:0</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>crwdns478498:0crwdne478498:0</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>crwdns478500:0crwdne478500:0</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>crwdns478502:0crwdne478502:0</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteamController>crwdns478504:0crwdne478504:0</GameUpdatedToNewVersionSteamController>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>crwdns478506:0crwdne478506:0</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>crwdns478508:0crwdne478508:0</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>crwdns478510:0crwdne478510:0</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>crwdns478512:0crwdne478512:0</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>crwdns478514:0crwdne478514:0</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>crwdns478516:0crwdne478516:0</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>crwdns478518:0crwdne478518:0</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>crwdns478520:0crwdne478520:0</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>crwdns478522:0crwdne478522:0</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <ModsChanged>crwdns478524:0crwdne478524:0</ModsChanged>
+  <FailedToRestart>crwdns478526:0crwdne478526:0</FailedToRestart>
+  <Restarting>crwdns478528:0crwdne478528:0</Restarting>
+  
+  <!-- Missing Steam -->
+  <SteamClientMissing>crwdns478530:0crwdne478530:0</SteamClientMissing>
+  
+  <!-- Long events -->
+  <InitializingInterface>crwdns478532:0crwdne478532:0</InitializingInterface>
+  <UnloadingUnusedAssets>crwdns478534:0crwdne478534:0</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>crwdns478536:0crwdne478536:0</LoadingAllActiveMods>
+  <LoadingDefs>crwdns478538:0crwdne478538:0</LoadingDefs>
+  <LoadingAssets>crwdns478540:0crwdne478540:0</LoadingAssets>
+  <Initializing>crwdns478542:0crwdne478542:0</Initializing>
+  <LoadingWorld>crwdns478544:0crwdne478544:0</LoadingWorld>
+  <LoadingMap>crwdns478546:0crwdne478546:0</LoadingMap>
+  <InitializingGame>crwdns478548:0crwdne478548:0</InitializingGame>
+  <SpawningAllThings>crwdns478550:0crwdne478550:0</SpawningAllThings>
+  <SpawningColonists>crwdns478552:0crwdne478552:0</SpawningColonists>
+  
+  <!-- Save/load -->
+  <SaveGameButton>crwdns478554:0crwdne478554:0</SaveGameButton>
+  <LoadGameButton>crwdns478556:0crwdne478556:0</LoadGameButton>
+  <OverwriteButton>crwdns478558:0crwdne478558:0</OverwriteButton>
+  <ConfirmDelete>crwdns478560:0{0}crwdne478560:0</ConfirmDelete>
+  <DeleteThisSavegame>crwdns478562:0crwdne478562:0</DeleteThisSavegame>
+  <SavedAs>crwdns478564:0{0}crwdne478564:0</SavedAs>
+  <NeedAName>crwdns478566:0crwdne478566:0</NeedAName>
+  <LoadingLongEvent>crwdns478568:0crwdne478568:0</LoadingLongEvent>
+  <SavingLongEvent>crwdns478570:0crwdne478570:0</SavingLongEvent>
+  <PermadeathModeSaveSuffix>crwdns478572:0crwdne478572:0</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>crwdns478574:0{0}crwdnd478574:0{1}crwdne478574:0</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>crwdns478576:0{0}crwdnd478576:0{1}crwdne478576:0</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>crwdns478578:0crwdne478578:0</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>crwdns478580:0crwdne478580:0</SaveIsUnknownFormat>
+  <ProblemSavingFile>crwdns478582:0{0}crwdnd478582:0{1}crwdne478582:0</ProblemSavingFile>
+  <LoadAnyway>crwdns478584:0crwdne478584:0</LoadAnyway>
+  <ChangeLoadedMods>crwdns478586:0crwdne478586:0</ChangeLoadedMods>
+  <MissingMods>crwdns478588:0crwdne478588:0</MissingMods>
+  <OfficialContent>crwdns478590:0crwdne478590:0</OfficialContent>
+  <ContentActive>crwdns478592:0crwdne478592:0</ContentActive>
+  <ContentInstalledButNotActive>crwdns478594:0crwdne478594:0</ContentInstalledButNotActive>
+  <ContentNotInstalled>crwdns478596:0crwdne478596:0</ContentNotInstalled>
+  
+  <!-- Player faction naming -->
+  <NamePlayerFactionMessage>crwdns478598:0{0}crwdne478598:0</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>crwdns478600:0{0}crwdne478600:0</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>crwdns478602:0crwdne478602:0</PlayerFactionNameIsInvalid>
 
-  <!-- Skip -->
-  <CannotSkipTarget>crwdns449782:0{PAWN_labelShort}crwdne449782:0</CannotSkipTarget>
-  <CannotSkipTargetTooLarge>crwdns449784:0crwdne449784:0</CannotSkipTargetTooLarge>
-  <CannotSkipTargetPsychicResistant>crwdns449786:0crwdne449786:0</CannotSkipTargetPsychicResistant>
+  <!-- Player faction base naming -->
+  <NamePlayerFactionBaseMessage>crwdns478604:0{0}crwdne478604:0</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>crwdns478606:0{0}crwdne478606:0</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>crwdns478608:0crwdne478608:0</PlayerFactionBaseNameIsInvalid>
+  
+  <!-- Player faction and faction base naming -->
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>crwdns478610:0{0}crwdne478610:0</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>crwdns478612:0{0}crwdnd478612:0{1}crwdne478612:0</PlayerFactionAndBaseGainsName>
+  
+  <!-- Renaming -->
+  <NameIsInvalid>crwdns478614:0crwdne478614:0</NameIsInvalid>
+  <NameIsInUse>crwdns478616:0crwdne478616:0</NameIsInUse>
+  <ZoneGainsName>crwdns478618:0{0}crwdne478618:0</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <NameInvalid>crwdns478620:0crwdne478620:0</NameInvalid>
+  <PawnGainsName>crwdns478622:0{0}crwdnd478622:0{PAWN_possessive}crwdnd478622:0{PAWN_title}crwdne478622:0</PawnGainsName>
+  <AnimalGainsName>crwdns478624:0{0}crwdne478624:0</AnimalGainsName>
+  <RenamePerson>crwdns478626:0crwdne478626:0</RenamePerson>
+  <Mother>crwdns478628:0crwdne478628:0</Mother>
+  <Father>crwdns478630:0crwdne478630:0</Father>
+  <Unknown>crwdns478632:0crwdne478632:0</Unknown>
+  <FirstName>crwdns478634:0crwdne478634:0</FirstName>
+  <NickName>crwdns478636:0crwdne478636:0</NickName>
+  <LastName>crwdns478638:0crwdne478638:0</LastName>
+  <Suggested>crwdns478640:0crwdne478640:0</Suggested>
 
-  <!-- Warning -->
-  <QuestGivesRoyalFavor>crwdns449788:0{FACTION_royalFavorLabel}crwdnd449788:0{PAWN_labelShort}crwdne449788:0</QuestGivesRoyalFavor>
-  <RoyalIncapableOfSocial>crwdns449790:0{PAWN_labelShort}crwdnd449790:0{PAWN_labelShort}crwdnd449790:0{PAWN_pronoun}crwdne449790:0</RoyalIncapableOfSocial>
-  <RoyalWithConceitedTrait>crwdns449792:0{PAWN_labelShort}crwdnd449792:0{2}crwdnd449792:0{PAWN_pronoun}crwdnd449792:0{PAWN_labelShort}crwdne449792:0</RoyalWithConceitedTrait>
-  <RoyalWithTraitAffectingPsylinkNegatively>crwdns449794:0{PAWN_labelShort}crwdnd449794:0{2}crwdnd449794:0{PAWN_objective}crwdne449794:0</RoyalWithTraitAffectingPsylinkNegatively>
-  <PsylinkTooLowForGainAbility>crwdns449796:0{PAWN_labelShort}crwdnd449796:0{ABILITY}crwdne449796:0</PsylinkTooLowForGainAbility>
-  <SendShuttleWithNoContents>crwdns449798:0crwdne449798:0</SendShuttleWithNoContents>
-  <DropResourcesOverweightConfirm>crwdns449800:0crwdne449800:0</DropResourcesOverweightConfirm>
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>crwdns478642:0crwdne478642:0</VersionMismatch>
+  <SaveGameIncompatibleWarningText>crwdns478644:0{0}crwdnd478644:0{1}crwdne478644:0</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>crwdns478646:0{0}crwdnd478646:0{1}crwdne478646:0</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>crwdns478648:0{0}crwdnd478648:0{1}crwdne478648:0</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>crwdns478650:0crwdne478650:0</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>crwdns478652:0crwdne478652:0</ModsMismatchWarningText>
+  <ModsMismatchOrderChanged>crwdns478654:0crwdne478654:0</ModsMismatchOrderChanged>
+  <ConfirmLoadSaveList>crwdns478656:0crwdne478656:0</ConfirmLoadSaveList>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>crwdns478658:0{0}crwdne478658:0</ConfirmResolutionChange>
+  <ResolutionKeep>crwdns478660:0crwdne478660:0</ResolutionKeep>
+  <ResolutionRevert>crwdns478662:0crwdne478662:0</ResolutionRevert>
+
+  <!-- Confirm permanently disable dev mode -->
+  <ConfirmPermanentlyDisableDevMode>crwdns478664:0crwdne478664:0</ConfirmPermanentlyDisableDevMode>
+
+  <!-- Confirm reset learning helper -->
+  <ConfirmResetLearningHelper>crwdns478666:0crwdne478666:0</ConfirmResetLearningHelper>
+
+  <!-- Backstory translation restart dialog -->
+  <RestartAfterImportingLegacyBackstoryTanslations>crwdns478668:0{0}crwdnd478668:0{1}crwdne478668:0</RestartAfterImportingLegacyBackstoryTanslations>
+
+  <!-- Game start -->
+  <SelectedCharactersMustInclude>crwdns478670:0{SUMMARY}crwdne478670:0</SelectedCharactersMustInclude>
+
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>crwdns478672:0crwdne478672:0</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>crwdns478674:0crwdne478674:0</MapSizePerformanceWarning>
+  <MapSize>crwdns478676:0crwdne478676:0</MapSize>
+  <MapSizeDesc>crwdns478678:0{0}crwdnd478678:0{0}crwdnd478678:0{1}crwdne478678:0</MapSizeDesc>
+  <MapSizeSmall>crwdns478680:0crwdne478680:0</MapSizeSmall>
+  <MapSizeMedium>crwdns478682:0crwdne478682:0</MapSizeMedium>
+  <MapSizeLarge>crwdns478684:0crwdne478684:0</MapSizeLarge>
+  <MapSizeExtreme>crwdns478686:0crwdne478686:0</MapSizeExtreme>
+  <MapStartSeason>crwdns478688:0crwdne478688:0</MapStartSeason>
+  <MapStartSeasonDefault>crwdns478690:0crwdne478690:0</MapStartSeasonDefault>
+  <Notice>crwdns478692:0crwdne478692:0</Notice>
+
+  <!-- Bill config -->
+  <Suspended>crwdns478694:0crwdne478694:0</Suspended>
+  <NotSuspended>crwdns478696:0crwdne478696:0</NotSuspended>
+  <SuspendedAllCaps>crwdns478698:0crwdne478698:0</SuspendedAllCaps>
+  <RepeatCount>crwdns478700:0crwdne478700:0</RepeatCount>
+  <Forever>crwdns478702:0crwdne478702:0</Forever>
+  <Details>crwdns478704:0crwdne478704:0</Details>
+  <IngredientSearchRadius>crwdns478706:0crwdne478706:0</IngredientSearchRadius>
+  <CurrentlyHave>crwdns478708:0crwdne478708:0</CurrentlyHave>
+  <CountingProducts>crwdns478710:0crwdne478710:0</CountingProducts>
+  <Infinite>crwdns478712:0crwdne478712:0</Infinite>
+  <AllowedSkillRange>crwdns478714:0{0}crwdne478714:0</AllowedSkillRange>
+  <IncompatibleLower>crwdns478716:0crwdne478716:0</IncompatibleLower>
+  <AnyWorker>crwdns478718:0crwdne478718:0</AnyWorker>
+  <Unlimited>crwdns478720:0crwdne478720:0</Unlimited>
+  
+  <RecipeCannotHaveTargetCount>crwdns478722:0crwdne478722:0</RecipeCannotHaveTargetCount>
+  <WorkAmount>crwdns478724:0crwdne478724:0</WorkAmount>
+  <MinimumSkills>crwdns478726:0crwdne478726:0</MinimumSkills>
+  <BillRequires>crwdns478728:0crwdne478728:0</BillRequires>
+  <BillNutrition>crwdns478730:0crwdne478730:0</BillNutrition>
+  <BillRequiresMayVary>crwdns478732:0{0}crwdne478732:0</BillRequiresMayVary>
+  <ThisIsSmallVolume>crwdns478734:0{0}crwdnd478734:0{0}crwdne478734:0</ThisIsSmallVolume>
+  <UsableIngredients>crwdns478736:0crwdne478736:0</UsableIngredients>
+  <BillRepeatTargetCountShort>crwdns478738:0{0}crwdne478738:0</BillRepeatTargetCountShort>
+
+  <PauseWhenSatisfied>crwdns478740:0crwdne478740:0</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>crwdns478742:0crwdne478742:0</UnpauseWhenYouHave>
+  <Paused>crwdns478744:0crwdne478744:0</Paused>
+  <Unpause>crwdns478746:0crwdne478746:0</Unpause>
+
+  <IncludeEquipped>crwdns478748:0crwdne478748:0</IncludeEquipped>
+  <IncludeTainted>crwdns478750:0crwdne478750:0</IncludeTainted>
+  <LimitToAllowedStuff>crwdns478752:0crwdne478752:0</LimitToAllowedStuff>
+  <IncludeFromAll>crwdns478754:0crwdne478754:0</IncludeFromAll>
+  <IncludeSpecific>crwdns478756:0{0}crwdne478756:0</IncludeSpecific>
+  
+  <!-- Info card -->
+  <Damage>crwdns478758:0crwdne478758:0</Damage>
+  <ArmorPenetration>crwdns478760:0crwdne478760:0</ArmorPenetration>
+  <ArmorPenetrationExplanation>crwdns478762:0crwdne478762:0</ArmorPenetrationExplanation>
+  <BuildingDamageFactor>crwdns478764:0crwdne478764:0</BuildingDamageFactor>
+  <BuildingDamageFactorExplanation>crwdns478766:0crwdne478766:0</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorImpassable>crwdns478768:0crwdne478768:0</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassableExplanation>crwdns478770:0crwdne478770:0</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorPassable>crwdns478772:0crwdne478772:0</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassableExplanation>crwdns478774:0crwdne478774:0</BuildingDamageFactorPassableExplanation>
+  <Accuracy>crwdns478776:0crwdne478776:0</Accuracy>
+  <BurstShotCount>crwdns478778:0crwdne478778:0</BurstShotCount>
+  <WarmupTime>crwdns478780:0crwdne478780:0</WarmupTime>
+  <MeleeWarmupTime>crwdns478782:0crwdne478782:0</MeleeWarmupTime>
+  <RangedWarmupTime>crwdns478784:0crwdne478784:0</RangedWarmupTime>
+  <CooldownTime>crwdns478786:0crwdne478786:0</CooldownTime>
+  <DisarmedTime>crwdns478788:0crwdne478788:0</DisarmedTime>
+  <ChargingTime>crwdns478790:0crwdne478790:0</ChargingTime>
+  <ChargingNext>crwdns478792:0{1}crwdnd478792:0{0}crwdnd478792:0{2}crwdne478792:0</ChargingNext>
+  <ShutDown>crwdns478794:0crwdne478794:0</ShutDown>
+  <BurstShotFireRate>crwdns478796:0crwdne478796:0</BurstShotFireRate>
+  <Range>crwdns478798:0crwdne478798:0</Range>
+  <StoppingPower>crwdns478800:0crwdne478800:0</StoppingPower>
+  <StoppingPowerExplanation>crwdns478802:0crwdne478802:0</StoppingPowerExplanation>
+  <DirectHitChance>crwdns478804:0crwdne478804:0</DirectHitChance>
+  <MissRadius>crwdns478806:0crwdne478806:0</MissRadius>
+  <GrowsWild>crwdns478808:0crwdne478808:0</GrowsWild>
+  <Harvestable>crwdns478810:0crwdne478810:0</Harvestable>
+  <LimitedLifespan>crwdns478812:0crwdne478812:0</LimitedLifespan>
+  <GrowingTime>crwdns478814:0crwdne478814:0</GrowingTime>
+  <HarvestYield>crwdns478816:0crwdne478816:0</HarvestYield>
+  <MinGrowthTemperature>crwdns478818:0crwdne478818:0</MinGrowthTemperature>
+  <MaxGrowthTemperature>crwdns478820:0crwdne478820:0</MaxGrowthTemperature>
+  <GrowingTimeDesc>crwdns478822:0crwdne478822:0</GrowingTimeDesc>
+  <Days>crwdns478824:0crwdne478824:0</Days>
+  <MinGrowingSkillToSow>crwdns478826:0crwdne478826:0</MinGrowingSkillToSow>
+  <FertilityRequirement>crwdns478828:0crwdne478828:0</FertilityRequirement>
+  <FertilitySensitivity>crwdns478830:0crwdne478830:0</FertilitySensitivity>
+  <LightRequirement>crwdns478832:0crwdne478832:0</LightRequirement>
+  <Attributes>crwdns478834:0crwdne478834:0</Attributes>
+  <LifeSpan>crwdns478836:0crwdne478836:0</LifeSpan>
+  <Nutrition>crwdns478838:0crwdne478838:0</Nutrition>
+  <Joy>crwdns478840:0crwdne478840:0</Joy>
+  <FoodQuality>crwdns478842:0crwdne478842:0</FoodQuality>
+  <WalkSpeedProperty>crwdns478844:0crwdne478844:0</WalkSpeedProperty>
+  <MinFoodQuality>crwdns478846:0crwdne478846:0</MinFoodQuality>
+  <Diet>crwdns478848:0crwdne478848:0</Diet>
+  <NutritationEatenPerDay>crwdns478850:0crwdne478850:0</NutritationEatenPerDay>
+  <LeatherType>crwdns478852:0crwdne478852:0</LeatherType>
+  <BodySize>crwdns478854:0crwdne478854:0</BodySize>
+  <Growth>crwdns478856:0crwdne478856:0</Growth>
+  <RecruitDifficulty>crwdns478858:0crwdne478858:0</RecruitDifficulty>
+  <MarketValue>crwdns478860:0crwdne478860:0</MarketValue>
+  <Covers>crwdns478862:0crwdne478862:0</Covers>
+  <CreatedAt>crwdns478864:0crwdne478864:0</CreatedAt>
+  <Layer>crwdns478866:0crwdne478866:0</Layer>
+  <CoverEffectiveness>crwdns478868:0crwdne478868:0</CoverEffectiveness>
+  <CoverEffectivenessExplanation>crwdns478870:0crwdne478870:0</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>crwdns478872:0crwdne478872:0</MedicineXpGainFactor>
+  <MoodChange>crwdns478874:0crwdne478874:0</MoodChange>
+  <Wildness>crwdns478876:0crwdne478876:0</Wildness>
+  <WildnessExplanation>crwdns478878:0crwdne478878:0</WildnessExplanation>
+  <TrainingDecayInterval>crwdns478880:0crwdne478880:0</TrainingDecayInterval>
+  <TamenessWillNotDecay>crwdns478882:0crwdne478882:0</TamenessWillNotDecay>
+  <TamenessWillNotDecayFenceBlocked>crwdns478884:0crwdne478884:0</TamenessWillNotDecayFenceBlocked>
+  <TimeRecordsCategory>crwdns478886:0crwdne478886:0</TimeRecordsCategory>
+  <MiscRecordsCategory>crwdns478888:0crwdne478888:0</MiscRecordsCategory>
+  <Chemical>crwdns478890:0crwdne478890:0</Chemical>
+  <HighGain>crwdns478892:0crwdne478892:0</HighGain>
+  <HighFallRate>crwdns478894:0crwdne478894:0</HighFallRate>
+  <HighDuration>crwdns478896:0crwdne478896:0</HighDuration>
+  <ToleranceGain>crwdns478898:0crwdne478898:0</ToleranceGain>
+  <ToleranceFallRate>crwdns478900:0crwdne478900:0</ToleranceFallRate>
+  <MinimumToleranceForAddiction>crwdns478902:0crwdne478902:0</MinimumToleranceForAddiction>
+  <SafeDoseInterval>crwdns478904:0crwdne478904:0</SafeDoseInterval>
+  <AgeXToY>crwdns478906:0{0}crwdnd478906:0{1}crwdne478906:0</AgeXToY>
+  <AgePlus>crwdns478908:0{0}crwdne478908:0</AgePlus>
+  <Addictiveness>crwdns478910:0crwdne478910:0</Addictiveness>
+  <AddictionSeverityInitial>crwdns478912:0crwdne478912:0</AddictionSeverityInitial>
+  <AddictionSeverityPerDose>crwdns478914:0crwdne478914:0</AddictionSeverityPerDose>
+  <AddictionNeedOffset>crwdns478916:0crwdne478916:0</AddictionNeedOffset>
+  <AddictionNeedFallRate>crwdns478918:0crwdne478918:0</AddictionNeedFallRate>
+  <AddictionNeedDoseInterval>crwdns478920:0crwdne478920:0</AddictionNeedDoseInterval>
+  <AddictionRecoveryTime>crwdns478922:0crwdne478922:0</AddictionRecoveryTime>
+  <AddictionCost>crwdns478924:0crwdne478924:0</AddictionCost>
+  <RandomODChance>crwdns478926:0crwdne478926:0</RandomODChance>
+  <AlwaysSafe>crwdns478928:0crwdne478928:0</AlwaysSafe>
+  <NeverSafe>crwdns478930:0crwdne478930:0</NeverSafe>
+  <PerDay>crwdns478932:0{0}crwdne478932:0</PerDay>
+  <PerHour>crwdns478934:0{0}crwdne478934:0</PerHour>
+  <PackAnimal>crwdns478936:0crwdne478936:0</PackAnimal>
+  <PackAnimalExplanation>crwdns478938:0crwdne478938:0</PackAnimalExplanation>
+  <Skill>crwdns478940:0crwdne478940:0</Skill>
+  <SurgerySuccessChanceFactor>crwdns478942:0crwdne478942:0</SurgerySuccessChanceFactor>
+  <SurgeryDeathOnFailChance>crwdns478944:0crwdne478944:0</SurgeryDeathOnFailChance>
+  <WorkSpeedStat>crwdns478946:0crwdne478946:0</WorkSpeedStat>
+  <EfficiencyStat>crwdns478948:0crwdne478948:0</EfficiencyStat>
+  <SkillRequiredToBuild>crwdns478950:0{0}crwdne478950:0</SkillRequiredToBuild>
+  <SkillRequiredToBuildExplanation>crwdns478952:0{0}crwdne478952:0</SkillRequiredToBuildExplanation>
+  <NuzzleInterval>crwdns478954:0crwdne478954:0</NuzzleInterval>
+  <NuzzleIntervalExplanation>crwdns478956:0crwdne478956:0</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>crwdns478958:0crwdne478958:0</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>crwdns478960:0crwdne478960:0</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>crwdns478962:0crwdne478962:0</TameFailedRevengeChance>
+  <TerrainRequirement>crwdns478964:0crwdne478964:0</TerrainRequirement>
+  <Supports>crwdns478966:0crwdne478966:0</Supports>
+  <TrapArmorPenetration>crwdns478968:0crwdne478968:0</TrapArmorPenetration>
+  <RearmCost>crwdns478970:0crwdne478970:0</RearmCost>
+  <RearmCostExplanation>crwdns478972:0crwdne478972:0</RearmCostExplanation>
+  <RearmCostExplanationDifficulty>crwdns478974:0crwdne478974:0</RearmCostExplanationDifficulty>
+  <ShotsBeforeRearm>crwdns478976:0crwdne478976:0</ShotsBeforeRearm>
+  <ShotsBeforeRearmExplanation>crwdns478978:0crwdne478978:0</ShotsBeforeRearmExplanation>
+  <PowerConsumption>crwdns478980:0crwdne478980:0</PowerConsumption>
+  <Target>crwdns478982:0crwdne478982:0</Target>
+  <AbilityTargetDesc>crwdns478984:0crwdne478984:0</AbilityTargetDesc>
+  <TargetHuman>crwdns478986:0crwdne478986:0</TargetHuman>
+  <TargetAnimal>crwdns478988:0crwdne478988:0</TargetAnimal>
+  <TargetSelf>crwdns478990:0crwdne478990:0</TargetSelf>
+  <TargetGround>crwdns478992:0crwdne478992:0</TargetGround>
+  <ClickToLearnMore>crwdns478994:0crwdne478994:0</ClickToLearnMore>
+  <ClickToViewFactions>crwdns478996:0crwdne478996:0</ClickToViewFactions>
+  <MeditationFocuses>crwdns478998:0crwdne478998:0</MeditationFocuses>
+  <MeditationFocusesUnlocked>crwdns479000:0crwdne479000:0</MeditationFocusesUnlocked>
+  <MeditationFocusesPawnDesc>crwdns479002:0crwdne479002:0</MeditationFocusesPawnDesc>
+  <MeditationFocusesDesc>crwdns479004:0crwdne479004:0</MeditationFocusesDesc>
+  <MeditationFocusCanUse>crwdns479006:0{0}crwdne479006:0</MeditationFocusCanUse>
+  <MeditationFocusObjects>crwdns479008:0{0}crwdne479008:0</MeditationFocusObjects>
+  <MeditationFocusEnabledByTitle>crwdns479010:0{TITLE}crwdnd479010:0{FACTION_name}crwdne479010:0</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByChildhood>crwdns479012:0crwdne479012:0</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByAdulthood>crwdns479014:0crwdne479014:0</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByTrait>crwdns479016:0crwdne479016:0</MeditationFocusEnabledByTrait>
+  <MeditationFocusDisabledByTrait>crwdns479018:0crwdne479018:0</MeditationFocusDisabledByTrait>
+  <EnablesMeditationFocusType>crwdns479020:0crwdne479020:0</EnablesMeditationFocusType>
+  
+  <!-- Trade -->
+  <PositiveBuysNegativeSells>crwdns479022:0crwdne479022:0</PositiveBuysNegativeSells>
+  <BuyPriceDesc>crwdns479024:0crwdne479024:0</BuyPriceDesc>
+  <SellPriceDesc>crwdns479026:0crwdne479026:0</SellPriceDesc>
+  <PriceTypeDesc>crwdns479028:0{0}crwdne479028:0</PriceTypeDesc>
+  <ColonyCount>crwdns479030:0crwdne479030:0</ColonyCount>
+  <TraderCount>crwdns479032:0crwdne479032:0</TraderCount>
+  <AcceptButton>crwdns479034:0crwdne479034:0</AcceptButton>
+  <LoadSelected>crwdns479036:0crwdne479036:0</LoadSelected>
+  <ResetButton>crwdns479038:0crwdne479038:0</ResetButton>
+  <CancelButton>crwdns479040:0crwdne479040:0</CancelButton>
+  <CloseButton>crwdns479042:0crwdne479042:0</CloseButton>
+  <YourTradeableSilver>crwdns479044:0{0}crwdne479044:0</YourTradeableSilver>
+  <YourTradeableSilverTip>crwdns479046:0crwdne479046:0</YourTradeableSilverTip>
+  <TraderHasNoMore>crwdns479048:0crwdne479048:0</TraderHasNoMore>
+  <ColonyHasNoMore>crwdns479050:0crwdne479050:0</ColonyHasNoMore>
+  <TraderWillNotTrade>crwdns479052:0crwdne479052:0</TraderWillNotTrade>
+  <Negotiator>crwdns479054:0crwdne479054:0</Negotiator>
+  <NegotiatorTradeDialogInfo>crwdns479056:0{0}crwdnd479056:0{1}crwdne479056:0</NegotiatorTradeDialogInfo>
+  <NegotiatorTalkingImpaired>crwdns479058:0{1_labelShort}crwdne479058:0</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>crwdns479060:0{1_labelShort}crwdne479060:0</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>crwdns479062:0crwdne479062:0</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>crwdns479064:0crwdne479064:0</ConfirmTraderShortFunds>
+  <SortBy>crwdns479066:0crwdne479066:0</SortBy>
+  <TraderTypePrice>crwdns479068:0crwdne479068:0</TraderTypePrice>
+  <Selling>crwdns479070:0crwdne479070:0</Selling>
+  <Buying>crwdns479072:0crwdne479072:0</Buying>
+  <ItemSellPriceFactor>crwdns479074:0crwdne479074:0</ItemSellPriceFactor>
+  <DifficultyLevel>crwdns479076:0crwdne479076:0</DifficultyLevel>
+  <PostCurve>crwdns479078:0crwdne479078:0</PostCurve>
+  <YourNegotiatorBonus>crwdns479080:0crwdne479080:0</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>crwdns479082:0crwdne479082:0</TradeWithFactionBaseBonus>
+  <JoinsAsSlave>crwdns479084:0crwdne479084:0</JoinsAsSlave>
+  <JoinsAsColonist>crwdns479086:0crwdne479086:0</JoinsAsColonist>
+  <JoinsAsSlaveDesc>crwdns479088:0crwdne479088:0</JoinsAsSlaveDesc> <!--  -->
+  <JoinsAsColonistDesc>crwdns479090:0crwdne479090:0</JoinsAsColonistDesc>
+  <TradingDrugsBonus>crwdns479092:0crwdne479092:0</TradingDrugsBonus>
+  <minimum>crwdns479094:0crwdne479094:0</minimum>
+  <FinalPrice>crwdns479096:0crwdne479096:0</FinalPrice>
+  <GiftModeTip>crwdns479098:0{0}crwdne479098:0</GiftModeTip>
+  <TradeModeTip>crwdns479100:0crwdne479100:0</TradeModeTip>
+  <TradeCaravanRequestDeniedDueTitle>crwdns479102:0{FACTION_name}crwdnd479102:0{NEGOTIATOR_nameDef}crwdnd479102:0{TITLE}crwdne479102:0</TradeCaravanRequestDeniedDueTitle>
+
+  <!-- Sellable items -->
+  <SellableItemsTitle>crwdns479104:0crwdne479104:0</SellableItemsTitle>
+  <TraderNotVisitedYet>crwdns479106:0crwdne479106:0</TraderNotVisitedYet>
+  <TraderRestockedSinceLastVisit>crwdns479108:0crwdne479108:0</TraderRestockedSinceLastVisit>
+  <NextTraderRestock>crwdns479110:0{0}crwdne479110:0</NextTraderRestock>
+  <PawnsTabShort>crwdns479112:0crwdne479112:0</PawnsTabShort>
+  
+  <!-- Form caravan -->
+  <FormCaravan>crwdns479114:0crwdne479114:0</FormCaravan>
+  <Send>crwdns479116:0crwdne479116:0</Send>
+  <FormCaravanColonyThingCountTip>crwdns479118:0crwdne479118:0</FormCaravanColonyThingCountTip>
+  <PawnsTab>crwdns479120:0crwdne479120:0</PawnsTab>
+  <ItemsTab>crwdns479122:0crwdne479122:0</ItemsTab>
+  <TravelSupplies>crwdns479124:0crwdne479124:0</TravelSupplies>
+  <CaravanMustHaveAtLeastOneColonist>crwdns479126:0crwdne479126:0</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>crwdns479128:0{0}crwdne479128:0</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>crwdns479130:0{0}crwdne479130:0</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>crwdns479132:0{0}crwdne479132:0</CaravanCouldNotFindReachableExitSpot>
+  <CaravanRoamerCannotReachSpots>crwdns479134:0{1_labelShort}crwdne479134:0</CaravanRoamerCannotReachSpots>
+  <CaravanItemIsUnreachableSingle>crwdns479136:0{0}crwdne479136:0</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>crwdns479138:0{0}crwdnd479138:0{1}crwdne479138:0</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>crwdns479140:0crwdne479140:0</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>crwdns479142:0crwdne479142:0</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>crwdns479144:0crwdne479144:0</CaravanVisibilityTip>
+  <DaysWorthOfFood>crwdns479146:0crwdne479146:0</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>crwdns479148:0{0}crwdne479148:0</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>crwdns479150:0crwdne479150:0</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>crwdns479152:0crwdne479152:0</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>crwdns479154:0crwdne479154:0</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodWarningDialog>crwdns479156:0{0}crwdne479156:0</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>crwdns479158:0crwdne479158:0</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>crwdns479160:0crwdne479160:0</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>crwdns479162:0crwdne479162:0</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>crwdns479164:0crwdne479164:0</ForagedFoodPerDay>
+  <CaravanFoodWillRotSoonWarningDialog>crwdns479166:0crwdne479166:0</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>crwdns479168:0crwdne479168:0</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>crwdns479170:0crwdne479170:0</CaravanAreYouSure>
+  <MessageMustChooseRouteFirst>crwdns479172:0crwdne479172:0</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>crwdns479174:0crwdne479174:0</MessageNoValidExitTile>
+  <ItemWeightTip>crwdns479176:0crwdne479176:0</ItemWeightTip>
+  <MarketValueTip>crwdns479178:0crwdne479178:0</MarketValueTip>
+  <DaysUntilRotTip>crwdns479180:0crwdne479180:0</DaysUntilRotTip>
+  <ItemNutritionTip>crwdns479182:0{0}crwdne479182:0</ItemNutritionTip>
+  <AnimalCanGrazeTip>crwdns479184:0crwdne479184:0</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>crwdns479186:0{0}crwdne479186:0</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>crwdns479188:0{0}crwdne479188:0</NutritionEatenPerDayTip>
+  <CanEat>crwdns479190:0crwdne479190:0</CanEat>
+  <Legend>crwdns479192:0crwdne479192:0</Legend>
+  <MassCarriedSimple>crwdns479194:0crwdne479194:0</MassCarriedSimple>
+  <MassCapacity>crwdns479196:0crwdne479196:0</MassCapacity>
+  <Mass>crwdns479198:0crwdne479198:0</Mass>
+  <CaravanMass>crwdns479200:0crwdne479200:0</CaravanMass>
+  <EquipmentAndApparelMass>crwdns479202:0crwdne479202:0</EquipmentAndApparelMass>
+  <InventoryMass>crwdns479204:0crwdne479204:0</InventoryMass>
+  <CaravanFormationProcessStarted>crwdns479206:0crwdne479206:0</CaravanFormationProcessStarted>
+  <ReformCaravan>crwdns479208:0crwdne479208:0</ReformCaravan>
+  <ColonistsSection>crwdns479210:0crwdne479210:0</ColonistsSection>
+  <PrisonersSection>crwdns479212:0crwdne479212:0</PrisonersSection>
+  <CaptureSection>crwdns479214:0crwdne479214:0</CaptureSection>
+  <AnimalsSection>crwdns479216:0crwdne479216:0</AnimalsSection>
+  <ChooseRouteButton>crwdns479218:0crwdne479218:0</ChooseRouteButton>
+  <ChangeRouteButton>crwdns479220:0crwdne479220:0</ChangeRouteButton>
+  <AbandonButton>crwdns479222:0crwdne479222:0</AbandonButton>
+  <CaravanMovementSpeed>crwdns479224:0crwdne479224:0</CaravanMovementSpeed>
+  <TilesPerDay>crwdns479226:0crwdne479226:0</TilesPerDay>
+  <TilesPerDayImmobile>crwdns479228:0crwdne479228:0</TilesPerDayImmobile>
+  <TilesPerDayImmobileShort>crwdns479230:0crwdne479230:0</TilesPerDayImmobileShort>
+  <CaravanMovementSpeedTip>crwdns479232:0crwdne479232:0</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>crwdns479234:0crwdne479234:0</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>crwdns479236:0crwdne479236:0</AnimalsCanGraze>
+  <PossibleToGrazeFor>crwdns479238:0{0}crwdne479238:0</PossibleToGrazeFor>
+  <PossibleToGrazeForever>crwdns479240:0crwdne479240:0</PossibleToGrazeForever>
+  <CantGrazeBecauseOfBiome>crwdns479242:0{0}crwdne479242:0</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfTemp>crwdns479244:0{0}crwdne479244:0</CantGrazeBecauseOfTemp>
+  <TotalNutrition>crwdns479246:0crwdne479246:0</TotalNutrition>
+  <CaravanNotMoving>crwdns479248:0crwdne479248:0</CaravanNotMoving>
+  <ForagedNutritionPerDay>crwdns479250:0crwdne479250:0</ForagedNutritionPerDay>
+  <FactionType>crwdns479252:0crwdne479252:0</FactionType>
+  <TotalBodySize>crwdns479254:0crwdne479254:0</TotalBodySize>
+  <AutomaticallySelectTravelSupplies>crwdns479256:0crwdne479256:0</AutomaticallySelectTravelSupplies>
+  <CaravanAnimalSick>crwdns479258:0crwdne479258:0</CaravanAnimalSick>
+
+  <!-- Split caravan -->
+  <SplitCaravan>crwdns479260:0crwdne479260:0</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>crwdns479262:0crwdne479262:0</SourceCaravanMustHaveAtLeastOneColonist>
+  <SplitCaravanThingCountTip>crwdns479264:0crwdne479264:0</SplitCaravanThingCountTip>
+  
+  <!-- Caravan misc -->
+  <ConfirmAttackFriendlyFaction>crwdns479266:0{0}crwdnd479266:0{1}crwdne479266:0</ConfirmAttackFriendlyFaction>
+  
+  <!-- Load transporters -->
+  <LoadTransporters>crwdns479268:0{0}crwdne479268:0</LoadTransporters>
+  <TooBigTransportersMassUsage>crwdns479270:0crwdne479270:0</TooBigTransportersMassUsage>
+  <TooBigTransporterSingleMassUsage>crwdns479272:0crwdne479272:0</TooBigTransporterSingleMassUsage>
+  <CantSendEmptyTransportPods>crwdns479274:0crwdne479274:0</CantSendEmptyTransportPods>
+  <CantSendEmptyTransporterSingle>crwdns479276:0crwdne479276:0</CantSendEmptyTransporterSingle>
+  <PawnCantReachTransporters>crwdns479278:0{1_labelShort}crwdne479278:0</PawnCantReachTransporters>
+  <PawnCantReachTransporterSingle>crwdns479280:0{1_labelShort}crwdne479280:0</PawnCantReachTransporterSingle>
+  <TransporterItemIsUnreachableSingle>crwdns479282:0{0}crwdne479282:0</TransporterItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>crwdns479284:0{0}crwdne479284:0</TransporterSingleItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>crwdns479286:0{0}crwdnd479286:0{1}crwdne479286:0</TransporterItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>crwdns479288:0{0}crwdnd479288:0{1}crwdne479288:0</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleTooManyColonists>crwdns479290:0{0}crwdne479290:0</TransporterSingleTooManyColonists>
+  
+  <!-- Comms -->
+  <SocialSkillIs>crwdns479292:0{0}crwdne479292:0</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>crwdns479294:0{0}crwdne479294:0</ResearchFinished>
+  <ResearchScreen>crwdns479296:0crwdne479296:0</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>crwdns479298:0{0}crwdne479298:0</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>crwdns479300:0crwdne479300:0</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>crwdns479302:0crwdne479302:0</HistoryUploadYes>
+  <HistoryUploadNo>crwdns479304:0crwdne479304:0</HistoryUploadNo>
+  <HistoryUploadYesOnce>crwdns479306:0crwdne479306:0</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>crwdns479308:0crwdne479308:0</HistoryUploadNoOnce>
+  
+  <!-- Outfit management -->
+  <Outfit>crwdns479310:0crwdne479310:0</Outfit>
+  <SelectOutfit>crwdns479312:0crwdne479312:0</SelectOutfit>
+  <NewOutfit>crwdns479314:0crwdne479314:0</NewOutfit>
+  <DeleteOutfit>crwdns479316:0crwdne479316:0</DeleteOutfit>
+  <OutfitInUse>crwdns479318:0{0}crwdne479318:0</OutfitInUse>
+  <NoOutfitSelected>crwdns479320:0crwdne479320:0</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <DrugPolicy>crwdns479322:0crwdne479322:0</DrugPolicy>
+  <SelectDrugPolicy>crwdns479324:0crwdne479324:0</SelectDrugPolicy>
+  <NewDrugPolicy>crwdns479326:0crwdne479326:0</NewDrugPolicy>
+  <DeleteDrugPolicy>crwdns479328:0crwdne479328:0</DeleteDrugPolicy>
+  <DrugPolicyInUse>crwdns479330:0{0}crwdne479330:0</DrugPolicyInUse>
+  <FoodRestrictionInUse>crwdns479332:0{0}crwdne479332:0</FoodRestrictionInUse>
+  <NoDrugPolicySelected>crwdns479334:0crwdne479334:0</NoDrugPolicySelected>
+  <AddDrug>crwdns479336:0crwdne479336:0</AddDrug>
+  <DrugColumnLabel>crwdns479338:0crwdne479338:0</DrugColumnLabel>
+  <DrugUsageColumnLabel>crwdns479340:0crwdne479340:0</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>crwdns479342:0crwdne479342:0</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>crwdns479344:0crwdne479344:0</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>crwdns479346:0crwdne479346:0</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>crwdns479348:0crwdne479348:0</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>crwdns479350:0crwdne479350:0</NoDrugsBrackets>
+  <EveryDay>crwdns479352:0crwdne479352:0</EveryDay>
+  <TimesPerDay>crwdns479354:0{0}crwdne479354:0</TimesPerDay>
+  <EveryDays>crwdns479356:0{0}crwdne479356:0</EveryDays>
+  <NoDrugUseRequirement>crwdns479358:0crwdne479358:0</NoDrugUseRequirement>
+  <DeleteDrugTooltip>crwdns479360:0crwdne479360:0</DeleteDrugTooltip>
+  <DrugNameColumnDesc>crwdns479362:0crwdne479362:0</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>crwdns479364:0crwdne479364:0</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>crwdns479366:0crwdne479366:0</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>crwdns479368:0crwdne479368:0</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>crwdns479370:0crwdne479370:0</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>crwdns479372:0crwdne479372:0</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>crwdns479374:0crwdne479374:0</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>crwdns479376:0crwdne479376:0</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>crwdns479378:0crwdne479378:0</DrugUsageTipScheduled>
+
+  <!-- Food restriction management -->
+  <FoodRestriction>crwdns479380:0crwdne479380:0</FoodRestriction>
+  <FoodRestrictionShort>crwdns479382:0crwdne479382:0</FoodRestrictionShort>
+  <FoodRestrictionLavish>crwdns479384:0crwdne479384:0</FoodRestrictionLavish>
+  <FoodRestrictionFine>crwdns479386:0crwdne479386:0</FoodRestrictionFine>
+  <FoodRestrictionSimple>crwdns479388:0crwdne479388:0</FoodRestrictionSimple>
+  <FoodRestrictionPaste>crwdns479390:0crwdne479390:0</FoodRestrictionPaste>
+  <FoodRestrictionRaw>crwdns479392:0crwdne479392:0</FoodRestrictionRaw>
+  <FoodRestrictionNothing>crwdns479394:0crwdne479394:0</FoodRestrictionNothing>
+  <SelectFoodRestriction>crwdns479396:0crwdne479396:0</SelectFoodRestriction>
+  <NewFoodRestriction>crwdns479398:0crwdne479398:0</NewFoodRestriction>
+  <DeleteFoodRestriction>crwdns479400:0crwdne479400:0</DeleteFoodRestriction>
+  <NoFoodRestrictionSelected>crwdns479402:0crwdne479402:0</NoFoodRestrictionSelected>
+
+  <!-- Medical settings -->
+  <DefaultMedicineSettings>crwdns479404:0crwdne479404:0</DefaultMedicineSettings>
+  <MedGroupDefaults>crwdns479406:0crwdne479406:0</MedGroupDefaults>
+  <MedGroupColonist>crwdns479408:0crwdne479408:0</MedGroupColonist>
+  <MedGroupImprisonedColonist>crwdns479410:0crwdne479410:0</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>crwdns479412:0crwdne479412:0</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>crwdns479414:0crwdne479414:0</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>crwdns479416:0crwdne479416:0</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>crwdns479418:0crwdne479418:0</MedGroupHostileFaction>
+  
+  <!-- Growing -->
+  <NoGrowerCanPlant>crwdns479420:0{0}crwdnd479420:0{1}crwdne479420:0</NoGrowerCanPlant>
+
+  <!-- Abandon home -->
+  <ConfirmAbandonHomeWithColonyPawns>crwdns479422:0{0}crwdne479422:0</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>crwdns479424:0{0}crwdne479424:0</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>crwdns479426:0crwdne479426:0</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  <!-- Move caravan and leave prisoners and animals behind -->
+  <ConfirmMoveAutoJoinableCaravan>crwdns479428:0crwdne479428:0</ConfirmMoveAutoJoinableCaravan>
+  
+  <!-- Abandon pawn -->
+  <ConfirmBanishPawnDialog>crwdns479430:0{1_label}crwdne479430:0</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>crwdns479432:0{1_labelShort}crwdne479432:0</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>crwdns479434:0{1_labelShort}crwdnd479434:0{1_objective}crwdne479434:0</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>crwdns479436:0crwdne479436:0</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>crwdns479438:0{1_labelShort}crwdne479438:0</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  <!-- Send transport pods which are not completely loaded -->
+  <ConfirmSendNotCompletelyLoadedPods>crwdns479440:0{1_labelShort}crwdne479440:0</ConfirmSendNotCompletelyLoadedPods>
+
+  <!-- Settle near a faction base -->
+  <ConfirmSettleNearFactionBase>crwdns479442:0{0}crwdnd479442:0{1}crwdne479442:0</ConfirmSettleNearFactionBase>
+  
+  <!-- Cleanup translation files -->
+  <ConfirmCleanupTranslationFiles>crwdns479444:0{0}crwdne479444:0</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>crwdns479446:0crwdne479446:0</ConfirmCleanupTranslationFiles_Confirm>
+
+  <!-- Load transporters -->
+  <TransportersCaravanWillBeImmobile>crwdns479448:0crwdne479448:0</TransportersCaravanWillBeImmobile>
+
+  <!-- Confirm cancel monument marker -->
+  <ConfirmCancelMonumentMarker>crwdns479450:0crwdne479450:0</ConfirmCancelMonumentMarker>
+
+  <!-- Abilities -->
+  <CannotUseAbility>crwdns479452:0{0}crwdne479452:0</CannotUseAbility>
+  <AbilityRequiresLOS>crwdns479454:0crwdne479454:0</AbilityRequiresLOS>
+  <AbilityEntropyGain>crwdns479456:0crwdne479456:0</AbilityEntropyGain>
+  <AbilityPsyfocusCost>crwdns479458:0crwdne479458:0</AbilityPsyfocusCost>
+  <AbilityDuration>crwdns479460:0crwdne479460:0</AbilityDuration>
+  <AbilityEffectRadius>crwdns479462:0crwdne479462:0</AbilityEffectRadius>
+  <AbilityCastingTime>crwdns479464:0crwdne479464:0</AbilityCastingTime>
+  <AbilityCannotHitTarget>crwdns479466:0crwdne479466:0</AbilityCannotHitTarget>
+  <AbilityOutOfRange>crwdns479468:0crwdne479468:0</AbilityOutOfRange>
+  <AbilityCannotReachTarget>crwdns479470:0crwdne479470:0</AbilityCannotReachTarget>
+  <AbilityNotEnoughFreeSpace>crwdns479472:0crwdne479472:0</AbilityNotEnoughFreeSpace>
+  <AbilityOccupiedCells>crwdns479474:0crwdne479474:0</AbilityOccupiedCells>
+  <AbilityUnwalkable>crwdns479476:0crwdne479476:0</AbilityUnwalkable>
+  <AbilityRoofed>crwdns479478:0crwdne479478:0</AbilityRoofed>
+  <AbilityCantApplyToMentallyBroken>crwdns479480:0{0_labelShort}crwdne479480:0</AbilityCantApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>crwdns479482:0{0_labelShort}crwdne479482:0</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToManhunter>crwdns479484:0{0_labelShort}crwdne479484:0</AbilityCanOnlyApplyToManhunter>
+  <AbilityCantApplyToScaria>crwdns479486:0{0_labelShort}crwdne479486:0</AbilityCantApplyToScaria>
+  <AbilityDoesntWorkOnMentalState>crwdns479488:0{0}crwdnd479488:0{1}crwdne479488:0</AbilityDoesntWorkOnMentalState>
+  <AbilityCantApplyNoResistance>crwdns479490:0{0_labelShort}crwdne479490:0</AbilityCantApplyNoResistance>
+  <AbilityCantApplyDowned>crwdns479492:0{0_labelShort}crwdne479492:0</AbilityCantApplyDowned>
+  <AbilityCantApplyOnAsexual>crwdns479494:0{0}crwdne479494:0</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyWrongAttractionGender>crwdns479496:0{1_labelShort}crwdnd479496:0{0_labelShort}crwdne479496:0</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyTooYoung>crwdns479498:0{0_labelShort}crwdne479498:0</AbilityCantApplyTooYoung>
+  <AbilityCantApplyOnBaby>crwdns479500:0crwdne479500:0</AbilityCantApplyOnBaby>
+  <PsyfocusCostPerMentalBreakIntensity>crwdns479502:0crwdne479502:0</PsyfocusCostPerMentalBreakIntensity>
+  <AbilityAlreadyInspired>crwdns479504:0{0_labelShort}crwdne479504:0</AbilityAlreadyInspired>
+  <AbilityCantGetInspiredNow>crwdns479506:0{0_labelShort}crwdne479506:0</AbilityCantGetInspiredNow>
+  <AbilityMustBeNotSameIdeo>crwdns479508:0{0_labelShort}crwdnd479508:0{1_labelShort}crwdne479508:0</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeSameIdeo>crwdns479510:0{0_labelShort}crwdnd479510:0{1_labelShort}crwdne479510:0</AbilityMustBeSameIdeo>
+  <AbilityMustBeSickOrInjured>crwdns479512:0{0_labelShort}crwdne479512:0</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSameIdeoCounsel>crwdns479514:0{0}crwdnd479514:0{1}crwdne479514:0</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeNotGuilty>crwdns479516:0{0_labelShort}crwdne479516:0</AbilityMustBeNotGuilty>
+  <AbilityMustBeHuman>crwdns479518:0crwdne479518:0</AbilityMustBeHuman>
+  <AbilityMustBeHumanNonWild>crwdns479520:0crwdne479520:0</AbilityMustBeHumanNonWild>
+  <AbilityMustBeAnimal>crwdns479522:0crwdne479522:0</AbilityMustBeAnimal>
+  <AbilityCantApplyUnconscious>crwdns479524:0{0_labelShort}crwdne479524:0</AbilityCantApplyUnconscious>
+  <AbilityCantApplyAsleep>crwdns479526:0{0_labelShort}crwdne479526:0</AbilityCantApplyAsleep>
+  <AbilityWorldTileImpassable>crwdns479528:0crwdne479528:0</AbilityWorldTileImpassable>
+  <AbilitySkipToRandomAlly>crwdns479530:0crwdne479530:0</AbilitySkipToRandomAlly>
+  <AbilitySkipToJoinCaravan>crwdns479532:0crwdne479532:0</AbilitySkipToJoinCaravan>
+  <AbilityNeedAllyToSkip>crwdns479534:0crwdne479534:0</AbilityNeedAllyToSkip>
+  <AbilityNoChunkToSkip>crwdns479536:0crwdne479536:0</AbilityNoChunkToSkip>
+  <PsychicLoveInduceIn>crwdns479538:0crwdne479538:0</PsychicLoveInduceIn>
+  <PsychicLoveFor>crwdns479540:0crwdne479540:0</PsychicLoveFor>
+  <FarskipConfirmTeleportingLodger>crwdns479542:0{PAWN_labelShort}crwdnd479542:0{PAWN_pronoun}crwdnd479542:0{PAWN_labelShort}crwdne479542:0</FarskipConfirmTeleportingLodger>
+  
+  <MentalBreakIntensityMinor>crwdns479544:0crwdne479544:0</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMajor>crwdns479546:0crwdne479546:0</MentalBreakIntensityMajor>
+  <MentalBreakIntensityExtreme>crwdns479548:0crwdne479548:0</MentalBreakIntensityExtreme>
+
+  <!-- Auto slaughter -->
+  <AutoSlaugtherHeaderColLabel>crwdns479550:0crwdne479550:0</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColCurrent>crwdns479552:0crwdne479552:0</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColMax>crwdns479554:0crwdne479554:0</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColTotal>crwdns479556:0crwdne479556:0</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColOther>crwdns479558:0crwdne479558:0</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherTip>crwdns479560:0crwdne479560:0</AutoSlaugtherTip>
+  <AnimalMaleAdult>crwdns479562:0crwdne479562:0</AnimalMaleAdult>
+  <AnimalMaleYoung>crwdns479564:0crwdne479564:0</AnimalMaleYoung>
+  <AnimalFemaleAdult>crwdns479566:0crwdne479566:0</AnimalFemaleAdult>
+  <AnimalFemaleYoung>crwdns479568:0crwdne479568:0</AnimalFemaleYoung>
+  <AnimalPregnant>crwdns479570:0crwdne479570:0</AnimalPregnant>
+  <AnimalBonded>crwdns479572:0crwdne479572:0</AnimalBonded>
+  <AllowSlaughter>crwdns479574:0crwdne479574:0</AllowSlaughter>
+
+  <AutoSlaugtherHeaderTooltipLabel>crwdns479576:0crwdne479576:0</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>crwdns479578:0crwdne479578:0</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>crwdns479580:0crwdne479580:0</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipCurrentMales>crwdns479582:0crwdne479582:0</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>crwdns479584:0crwdne479584:0</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaugtherHeaderTooltipMaxMales>crwdns479586:0crwdne479586:0</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>crwdns479588:0crwdne479588:0</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>crwdns479590:0crwdne479590:0</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>crwdns479592:0crwdne479592:0</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipMaxFemales>crwdns479594:0crwdne479594:0</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>crwdns479596:0crwdne479596:0</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>crwdns479598:0crwdne479598:0</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>crwdns479600:0crwdne479600:0</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipCurrentBonded>crwdns479602:0crwdne479602:0</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>crwdns479604:0crwdne479604:0</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+  <AutoSlaughterTooltipSetLimit>crwdns479606:0crwdne479606:0</AutoSlaughterTooltipSetLimit>
+
+  <!-- Room requirements -->
+  <RoomRequirementNoBeds>crwdns479608:0crwdne479608:0</RoomRequirementNoBeds>
+  <RoomRequirementArea>crwdns479610:0{0}crwdne479610:0</RoomRequirementArea>
+  <RoomRequirementImpressiveness>crwdns479612:0crwdne479612:0</RoomRequirementImpressiveness>
+  <RoomRequirementAllFloored>crwdns479614:0crwdne479614:0</RoomRequirementAllFloored>
+  <RoomRequirementAllBraziersMustBeLit>crwdns479616:0crwdne479616:0</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllFineFloored>crwdns479618:0crwdne479618:0</RoomRequirementAllFineFloored>
+  <RoomRequirementNoProductionFacilities>crwdns479620:0crwdne479620:0</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoAltars>crwdns479622:0crwdne479622:0</RoomRequirementNoAltars>
+
+  <LifeStageMaxFood>crwdns479624:0crwdne479624:0</LifeStageMaxFood>
+
+  <ExpandAllCategories>crwdns479626:0crwdne479626:0</ExpandAllCategories>
+  <CollapseAllCategories>crwdns479628:0crwdne479628:0</CollapseAllCategories>
+
+  <TooltipDyeExplanation>crwdns479630:0crwdne479630:0</TooltipDyeExplanation>
+
+  <ZoomRange>crwdns479632:0{0}crwdne479632:0</ZoomRange>
+
+  <!-- Color picker -->
+  <ColorTemperature>crwdns479634:0crwdne479634:0</ColorTemperature>
+  <ChooseAColor>crwdns479636:0crwdne479636:0</ChooseAColor>
+  <Red>crwdns479638:0crwdne479638:0</Red>
+  <Green>crwdns479640:0crwdne479640:0</Green>
+  <Blue>crwdns479642:0crwdne479642:0</Blue>
+  <Hue>crwdns479644:0crwdne479644:0</Hue>
+  <Saturation>crwdns479646:0crwdne479646:0</Saturation>
+  <ColorValue>crwdns479648:0crwdne479648:0</ColorValue>
+  <Darklight>crwdns479650:0crwdne479650:0</Darklight>
+  <NotDarklight>crwdns479652:0crwdne479652:0</NotDarklight>
+  <CurrentColor>crwdns479654:0crwdne479654:0</CurrentColor>
+  <OldColor>crwdns479656:0crwdne479656:0</OldColor>
+  <CommandCopyColorLabel>crwdns479658:0crwdne479658:0</CommandCopyColorLabel>
+  <CommandCopyColorDesc>crwdns479660:0crwdne479660:0</CommandCopyColorDesc>
+  <CommandPasteColorLabel>crwdns479662:0crwdne479662:0</CommandPasteColorLabel>
+  <CommandPasteColorDesc>crwdns479664:0crwdne479664:0</CommandPasteColorDesc>
+  <ClipboardInvalidColor>crwdns479666:0crwdne479666:0</ClipboardInvalidColor>
+  <ColorCopiedSuccessfully>crwdns479668:0crwdne479668:0</ColorCopiedSuccessfully>
+  <ColorPastedSuccessfully>crwdns479670:0crwdne479670:0</ColorPastedSuccessfully>
+  <ToggleDarklightOff>crwdns479672:0crwdne479672:0</ToggleDarklightOff>
+  <ToggleDarklightOffDesc>crwdns479674:0crwdne479674:0</ToggleDarklightOffDesc>
+  <ToggleDarklightOn>crwdns479676:0crwdne479676:0</ToggleDarklightOn>
+  <ToggleDarklightOnDesc>crwdns479678:0crwdne479678:0</ToggleDarklightOnDesc>
+  <ColorTemperatureTooltip>crwdns479680:0crwdne479680:0</ColorTemperatureTooltip>
 
 </LanguageData>
