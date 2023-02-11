@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TreeCutting_Disapproved.label>crwdns437062:0crwdne437062:0</TreeCutting_Disapproved.label>
-  <TreeCutting_Disapproved.description>crwdns437064:0crwdne437064:0</TreeCutting_Disapproved.description>
-  <TreeCutting_Disapproved.comps.2.description>crwdns437066:0crwdne437066:0</TreeCutting_Disapproved.comps.2.description>
+  <CutTree_Disapproved.stages.cut_tree.label>crwdns442384:0crwdne442384:0</CutTree_Disapproved.stages.cut_tree.label>
+  <CutTree_Disapproved.stages.cut_tree.description>crwdns442386:0crwdne442386:0</CutTree_Disapproved.stages.cut_tree.description>
   
-  <TreeCutting_Horrible.label>crwdns437068:0crwdne437068:0</TreeCutting_Horrible.label>
-  <TreeCutting_Horrible.description>crwdns437070:0crwdne437070:0</TreeCutting_Horrible.description>
-  <TreeCutting_Horrible.comps.2.description>crwdns437072:0crwdne437072:0</TreeCutting_Horrible.comps.2.description>
+  <CutTree_Horrible.stages.cut_tree.label>crwdns442388:0crwdne442388:0</CutTree_Horrible.stages.cut_tree.label>
+  <CutTree_Horrible.stages.cut_tree.description>crwdns442390:0crwdne442390:0</CutTree_Horrible.stages.cut_tree.description>
   
-  <TreeCutting_Prohibited.label>crwdns437074:0crwdne437074:0</TreeCutting_Prohibited.label>
-  <TreeCutting_Prohibited.description>crwdns437076:0crwdne437076:0</TreeCutting_Prohibited.description>
-  <TreeCutting_Prohibited.comps.2.description>crwdns437078:0crwdne437078:0</TreeCutting_Prohibited.comps.2.description>
+  <CutTree_Know_Disapproved.stages.cut_tree.label>crwdns442392:0crwdne442392:0</CutTree_Know_Disapproved.stages.cut_tree.label>
+  
+  <CutTree_Know_Disapproved_Mood.stages.tree_felled.label>crwdns442394:0crwdne442394:0</CutTree_Know_Disapproved_Mood.stages.tree_felled.label>
+  <CutTree_Know_Disapproved_Mood.stages.tree_felled.description>crwdns442396:0crwdne442396:0</CutTree_Know_Disapproved_Mood.stages.tree_felled.description>
+  
+  <CutTree_Know_Horrible.stages.cut_tree.label>crwdns442398:0crwdne442398:0</CutTree_Know_Horrible.stages.cut_tree.label>
+  
+  <CutTree_Know_Horrible_Mood.stages.tree_felled.label>crwdns442400:0crwdne442400:0</CutTree_Know_Horrible_Mood.stages.tree_felled.label>
+  <CutTree_Know_Horrible_Mood.stages.tree_felled.description>crwdns442402:0crwdne442402:0</CutTree_Know_Horrible_Mood.stages.tree_felled.description>
+  
+  <CutTree_Know_Prohibited.stages.cut_tree.label>crwdns442404:0crwdne442404:0</CutTree_Know_Prohibited.stages.cut_tree.label>
+  
+  <CutTree_Know_Prohibited_Mood.stages.tree_felled.label>crwdns442406:0crwdne442406:0</CutTree_Know_Prohibited_Mood.stages.tree_felled.label>
+  <CutTree_Know_Prohibited_Mood.stages.tree_felled.description>crwdns442408:0crwdne442408:0</CutTree_Know_Prohibited_Mood.stages.tree_felled.description>
+  
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>crwdns442410:0crwdne442410:0</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.label>
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>crwdns442412:0crwdne442412:0</MinifiedTreeDied_Know_Disapproved_Mood.stages.extracted_tree_died.description>
+  
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>crwdns442414:0crwdne442414:0</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.label>
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>crwdns442416:0crwdne442416:0</MinifiedTreeDied_Know_Horrible_Mood.stages.extracted_tree_died.description>
+  
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>crwdns442418:0crwdne442418:0</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.label>
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>crwdns442420:0crwdne442420:0</MinifiedTreeDied_Know_Prohibited_Mood.stages.extracted_tree_died.description>
 </LanguageData>
