@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_BabyFood.label>crwdns425192:0crwdne425192:0</Make_BabyFood.label>
-  <Make_BabyFood.description>crwdns425194:0crwdne425194:0</Make_BabyFood.description>
-  <Make_BabyFood.ingredients.0.filter.customSummary>crwdns425196:0crwdne425196:0</Make_BabyFood.ingredients.0.filter.customSummary>
-  <Make_BabyFood.jobString>crwdns425198:0crwdne425198:0</Make_BabyFood.jobString>
+  <Make_Kibble.label>crwdns461874:0crwdne461874:0</Make_Kibble.label>
+  <Make_Kibble.description>crwdns461876:0crwdne461876:0</Make_Kibble.description>
+  <Make_Kibble.ingredients.0.filter.customSummary>crwdns461878:0crwdne461878:0</Make_Kibble.ingredients.0.filter.customSummary>
+  <Make_Kibble.ingredients.1.filter.customSummary>crwdns461880:0crwdne461880:0</Make_Kibble.ingredients.1.filter.customSummary>
+  <Make_Kibble.jobString>crwdns461882:0crwdne461882:0</Make_Kibble.jobString>
   
-  <Make_BabyFoodBulk.label>crwdns425200:0crwdne425200:0</Make_BabyFoodBulk.label>
-  <Make_BabyFoodBulk.description>crwdns425202:0crwdne425202:0</Make_BabyFoodBulk.description>
-  <Make_BabyFoodBulk.ingredients.0.filter.customSummary>crwdns425204:0crwdne425204:0</Make_BabyFoodBulk.ingredients.0.filter.customSummary>
-  <Make_BabyFoodBulk.jobString>crwdns425206:0crwdne425206:0</Make_BabyFoodBulk.jobString>
+  <Make_Pemmican.label>crwdns461884:0crwdne461884:0</Make_Pemmican.label>
+  <Make_Pemmican.description>crwdns461886:0crwdne461886:0</Make_Pemmican.description>
+  <Make_Pemmican.jobString>crwdns461888:0crwdne461888:0</Make_Pemmican.jobString>
+  
+  <Make_PemmicanBulk.label>crwdns461890:0crwdne461890:0</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.description>crwdns461892:0crwdne461892:0</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.jobString>crwdns461894:0crwdne461894:0</Make_PemmicanBulk.jobString>
 </LanguageData>
