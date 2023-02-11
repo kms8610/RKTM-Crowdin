@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GauranlenPodSpawn.label>crwdns431572:0crwdne431572:0</GauranlenPodSpawn.label>
-  <GauranlenPodSpawn.letterLabel>crwdns431574:0crwdne431574:0</GauranlenPodSpawn.letterLabel>
-  <GauranlenPodSpawn.letterText>crwdns431576:0crwdne431576:0</GauranlenPodSpawn.letterText>
+  <AnimaTreeSpawn.label>crwdns445744:0crwdne445744:0</AnimaTreeSpawn.label>
+  <AnimaTreeSpawn.letterLabel>crwdns445746:0crwdne445746:0</AnimaTreeSpawn.letterLabel>
+  <AnimaTreeSpawn.letterText>crwdns445748:0crwdne445748:0</AnimaTreeSpawn.letterText>
   
-  <GiveQuest_Beggars.label>crwdns431578:0crwdne431578:0</GiveQuest_Beggars.label>
-  <GiveQuest_Beggars.letterLabel>crwdns431580:0crwdne431580:0</GiveQuest_Beggars.letterLabel>
-  
-  <GiveQuest_ReliquaryPilgrims.label>crwdns431582:0crwdne431582:0</GiveQuest_ReliquaryPilgrims.label>
-  <GiveQuest_ReliquaryPilgrims.letterLabel>crwdns431584:0crwdne431584:0</GiveQuest_ReliquaryPilgrims.letterLabel>
-  
-  <Infestation_Jelly.label>crwdns431586:0crwdne431586:0</Infestation_Jelly.label>
-  <Infestation_Jelly.letterLabel>crwdns431588:0crwdne431588:0</Infestation_Jelly.letterLabel>
-  <Infestation_Jelly.letterText>crwdns431590:0crwdne431590:0</Infestation_Jelly.letterText>
-  
-  <WanderersSkylantern.label>crwdns431592:0crwdne431592:0</WanderersSkylantern.label>
-  <WanderersSkylantern.letterLabel>crwdns431594:0crwdne431594:0</WanderersSkylantern.letterLabel>
-  <WanderersSkylantern.letterText>crwdns431596:0crwdne431596:0</WanderersSkylantern.letterText>
+  <CaravanArrivalTributeCollector.label>crwdns445750:0crwdne445750:0</CaravanArrivalTributeCollector.label>
 </LanguageData>
