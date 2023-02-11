@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AnimalsSlaughtered.label>crwdns462128:0crwdne462128:0</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>crwdns462130:0crwdne462130:0</AnimalsSlaughtered.description>
+  
+  <AnimalsTamed.label>crwdns462132:0crwdne462132:0</AnimalsTamed.label>
+  <AnimalsTamed.description>crwdns462134:0crwdne462134:0</AnimalsTamed.description>
+  
+  <ArtifactsActivated.label>crwdns462136:0crwdne462136:0</ArtifactsActivated.label>
+  <ArtifactsActivated.description>crwdns462138:0crwdne462138:0</ArtifactsActivated.description>
+  
+  <BodiesStripped.label>crwdns462140:0crwdne462140:0</BodiesStripped.label>
+  <BodiesStripped.description>crwdns462142:0crwdne462142:0</BodiesStripped.description>
+  
+  <CellsMined.label>crwdns462144:0crwdne462144:0</CellsMined.label>
+  <CellsMined.description>crwdns462146:0crwdne462146:0</CellsMined.description>
+  
+  <ContainersOpened.label>crwdns462148:0crwdne462148:0</ContainersOpened.label>
+  <ContainersOpened.description>crwdns462150:0crwdne462150:0</ContainersOpened.description>
+  
+  <CorpsesBuried.label>crwdns462152:0crwdne462152:0</CorpsesBuried.label>
+  <CorpsesBuried.description>crwdns462154:0crwdne462154:0</CorpsesBuried.description>
+  
+  <DamageDealt.label>crwdns462156:0crwdne462156:0</DamageDealt.label>
+  <DamageDealt.description>crwdns462158:0crwdne462158:0</DamageDealt.description>
+  
+  <DamageTaken.label>crwdns462160:0crwdne462160:0</DamageTaken.label>
+  <DamageTaken.description>crwdns462162:0crwdne462162:0</DamageTaken.description>
+  
+  <FiresExtinguished.label>crwdns462164:0crwdne462164:0</FiresExtinguished.label>
+  <FiresExtinguished.description>crwdns462166:0crwdne462166:0</FiresExtinguished.description>
+  
+  <Headshots.label>crwdns462168:0crwdne462168:0</Headshots.label>
+  <Headshots.description>crwdns462170:0crwdne462170:0</Headshots.description>
+  
+  <Kills.label>crwdns462172:0crwdne462172:0</Kills.label>
+  <Kills.description>crwdns462174:0crwdne462174:0</Kills.description>
+  
+  <KillsAnimals.label>crwdns462176:0crwdne462176:0</KillsAnimals.label>
+  <KillsAnimals.description>crwdns462178:0crwdne462178:0</KillsAnimals.description>
+  
+  <KillsHumanlikes.label>crwdns462180:0crwdne462180:0</KillsHumanlikes.label>
+  <KillsHumanlikes.description>crwdns462182:0crwdne462182:0</KillsHumanlikes.description>
+  
+  <KillsMechanoids.label>crwdns462184:0crwdne462184:0</KillsMechanoids.label>
+  <KillsMechanoids.description>crwdns462186:0crwdne462186:0</KillsMechanoids.description>
+  
+  <MealsCooked.label>crwdns462188:0crwdne462188:0</MealsCooked.label>
+  <MealsCooked.description>crwdns462190:0crwdne462190:0</MealsCooked.description>
+  
+  <MessesCleaned.label>crwdns462192:0crwdne462192:0</MessesCleaned.label>
+  <MessesCleaned.description>crwdns462194:0crwdne462194:0</MessesCleaned.description>
+  
+  <NutritionEaten.label>crwdns462196:0crwdne462196:0</NutritionEaten.label>
+  <NutritionEaten.description>crwdns462198:0crwdne462198:0</NutritionEaten.description>
+  
+  <OperationsPerformed.label>crwdns462200:0crwdne462200:0</OperationsPerformed.label>
+  <OperationsPerformed.description>crwdns462202:0crwdne462202:0</OperationsPerformed.description>
+  
+  <OperationsReceived.label>crwdns462204:0crwdne462204:0</OperationsReceived.label>
+  <OperationsReceived.description>crwdns462206:0crwdne462206:0</OperationsReceived.description>
+  
+  <PawnsDowned.label>crwdns462208:0crwdne462208:0</PawnsDowned.label>
+  <PawnsDowned.description>crwdns462210:0crwdne462210:0</PawnsDowned.description>
+  
+  <PawnsDownedAnimals.label>crwdns462212:0crwdne462212:0</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>crwdns462214:0crwdne462214:0</PawnsDownedAnimals.description>
+  
+  <PawnsDownedHumanlikes.label>crwdns462216:0crwdne462216:0</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>crwdns462218:0crwdne462218:0</PawnsDownedHumanlikes.description>
+  
+  <PawnsDownedMechanoids.label>crwdns462220:0crwdne462220:0</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>crwdns462222:0crwdne462222:0</PawnsDownedMechanoids.description>
+  
+  <PeopleCaptured.label>crwdns462224:0crwdne462224:0</PeopleCaptured.label>
+  <PeopleCaptured.description>crwdns462226:0crwdne462226:0</PeopleCaptured.description>
+  
+  <PlantsHarvested.label>crwdns462228:0crwdne462228:0</PlantsHarvested.label>
+  <PlantsHarvested.description>crwdns462230:0crwdne462230:0</PlantsHarvested.description>
+  
+  <PlantsSown.label>crwdns462232:0crwdne462232:0</PlantsSown.label>
+  <PlantsSown.description>crwdns462234:0crwdne462234:0</PlantsSown.description>
+  
+  <PrisonersChatted.label>crwdns462236:0crwdne462236:0</PrisonersChatted.label>
+  <PrisonersChatted.description>crwdns462238:0crwdne462238:0</PrisonersChatted.description>
+  
+  <PrisonersRecruited.label>crwdns462240:0crwdne462240:0</PrisonersRecruited.label>
+  <PrisonersRecruited.description>crwdns462242:0crwdne462242:0</PrisonersRecruited.description>
+  
+  <ResearchPointsResearched.label>crwdns462244:0crwdne462244:0</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>crwdns462246:0crwdne462246:0</ResearchPointsResearched.description>
+  
+  <ShotsFired.label>crwdns462248:0crwdne462248:0</ShotsFired.label>
+  <ShotsFired.description>crwdns462250:0crwdne462250:0</ShotsFired.description>
+  
+  <SwitchesFlicked.label>crwdns462252:0crwdne462252:0</SwitchesFlicked.label>
+  <SwitchesFlicked.description>crwdns462254:0crwdne462254:0</SwitchesFlicked.description>
+  
+  <ThingsConstructed.label>crwdns462256:0crwdne462256:0</ThingsConstructed.label>
+  <ThingsConstructed.description>crwdns462258:0crwdne462258:0</ThingsConstructed.description>
+  
+  <ThingsCrafted.label>crwdns462260:0crwdne462260:0</ThingsCrafted.label>
+  <ThingsCrafted.description>crwdns462262:0crwdne462262:0</ThingsCrafted.description>
+  
+  <ThingsDeconstructed.label>crwdns462264:0crwdne462264:0</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>crwdns462266:0crwdne462266:0</ThingsDeconstructed.description>
+  
+  <ThingsHauled.label>crwdns462268:0crwdne462268:0</ThingsHauled.label>
+  <ThingsHauled.description>crwdns462270:0crwdne462270:0</ThingsHauled.description>
+  
+  <ThingsInstalled.label>crwdns462272:0crwdne462272:0</ThingsInstalled.label>
+  <ThingsInstalled.description>crwdns462274:0crwdne462274:0</ThingsInstalled.description>
+  
+  <ThingsRepaired.label>crwdns462276:0crwdne462276:0</ThingsRepaired.label>
+  <ThingsRepaired.description>crwdns462278:0crwdne462278:0</ThingsRepaired.description>
+  
+  <ThingsUninstalled.label>crwdns462280:0crwdne462280:0</ThingsUninstalled.label>
+  <ThingsUninstalled.description>crwdns462282:0crwdne462282:0</ThingsUninstalled.description>
+  
+  <TimesInMentalState.label>crwdns462284:0crwdne462284:0</TimesInMentalState.label>
+  <TimesInMentalState.description>crwdns462286:0crwdne462286:0</TimesInMentalState.description>
+  
+  <TimesOnFire.label>crwdns462288:0crwdne462288:0</TimesOnFire.label>
+  <TimesOnFire.description>crwdns462290:0crwdne462290:0</TimesOnFire.description>
+  
+  <TimesTendedOther.label>crwdns462292:0crwdne462292:0</TimesTendedOther.label>
+  <TimesTendedOther.description>crwdns462294:0crwdne462294:0</TimesTendedOther.description>
+  
+  <TimesTendedTo.label>crwdns462296:0crwdne462296:0</TimesTendedTo.label>
+  <TimesTendedTo.description>crwdns462298:0crwdne462298:0</TimesTendedTo.description>
+</LanguageData>
