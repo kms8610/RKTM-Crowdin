@@ -1,57 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Autobong.label>연통 기계</Autobong.label>
-  <Autobong.description>주위에 증기 구름을 생성하는 자동 연초 연소 기계입니다. 연초의 구름 속에서 사람들은 서서히 취해 갈 것입니다.</Autobong.description>
+  <AnimusStone.label>영혼석</AnimusStone.label>
+  <AnimusStone.description>신성한 부족 장식이 새겨진 고대 비취석입니다. 부족 초집중 능력자는 이곳에서 명상하여 일반적인 자연 성소보다 더 많은 초집중을 얻을 수 있습니다.\n\n각각의 부족들은 이 돌에 대해 조금씩 다르게 묘사하지만 강력했던 고대 시기의 세계령으로부터 기원했다는 것만큼은 대부분 동의합니다. 외부인들에게는 보통 자연물처럼 보이기 때문에 습격 목표가 되지 않습니다.</AnimusStone.description>
   
-  <Drum.label>북</Drum.label>
-  <Drum.description>부족의 의식이나 파티의 음악을 담당하기 위해 사용되는 커다란 나무 북입니다.</Drum.description>
+  <MeditationSpot.label>명상 지점</MeditationSpot.label>
+  <MeditationSpot.description>초집중 능력자가 명상을 진행할 수 있는 장소입니다. 근처에 조각품 등의 매개체를 배치하여 초집중 획득량을 늘릴 수 있습니다.</MeditationSpot.description>
   
-  <DryadCocoon.label>나무지기 고치</DryadCocoon.label>
-  <DryadCocoon.description>변이 중인 나무지기를 지키기 위하여 요정 나무가 만들어내는 섬유질의 구체. 안에서는 나무지기 한 마리가 새로운 형태로 서서히 성장하고 있습니다.</DryadCocoon.description>
+  <NatureShrine_Large.label>큰 자연 성소</NatureShrine_Large.label>
+  <NatureShrine_Large.description>영적 존재를 기리는 큰 성소입니다. 부족 초집중 능력자가 명상하기 위한 곳입니다. 자연 성소는 인공 구조물 근처에 있으면 약해지므로, 항상 자연 속에 배치해야 합니다. 외부인들에게는 자연물처럼 보이기 때문에 습격 목표가 되는 일은 드뭅니다.</NatureShrine_Large.description>
   
-  <DryadHealingPod.label>재생 고치</DryadHealingPod.label>
-  <DryadHealingPod.description>섬유질의 녹색 구체. 내부에서는 나무지기가 천천히 상처를 치유하고 있습니다.</DryadHealingPod.description>
+  <NatureShrine_Small.label>작은 자연 성소</NatureShrine_Small.label>
+  <NatureShrine_Small.description>영적 존재를 기리는 작은 성소로, 부족 초집중 능력자가 명상하기 위한 곳입니다. 자연 성소는 인공 구조물 근처에 있으면 약해지므로, 항상 자연 속에 배치해야 합니다. 외부인들에게는 자연물처럼 보이기 때문에 습격 목표가 되는 일은 드뭅니다.</NatureShrine_Small.description>
   
-  <GaumakerCocoon.label>요정단지 고치</GaumakerCocoon.label>
-  <GaumakerCocoon.description>여러 요정단지 나무지기의 융합체. 이 고치는 요정들의 생명 주기에서 가장 중요한 부분입니다. 시간이 지나면 이곳에 돋아난 요정 열매를 수확하여 새로운 요정나무를 키워낼 수 있을 겁니다.</GaumakerCocoon.description>
-  
-  <GibbetCage.label>시체 우리</GibbetCage.label>
-  <GibbetCage.description>시체를 넣어두거나 전시하기 위해 만든 철제 우리입니다. 이 끔찍한 물건은 보는 이들로 하여금 공포와 혐오감을 불러일으킵니다. 노예들에게 공포를 심어주기에 특히 강력하고 효과적입니다.</GibbetCage.description>
-  
-  <KneelPillow.label>방석</KneelPillow.label>
-  <KneelPillow.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelPillow.description>
-  
-  <KneelSheet.label>무릎 방석</KneelSheet.label>
-  <KneelSheet.description>신자들이 기도할 때나 대화할 때 무릎을 편히 받쳐줍니다.</KneelSheet.description>
-  
-  <Lectern.label>단상</Lectern.label>
-  <Lectern.description>연설문을 놓을 기울어진 단상입니다. 의식이나 행사가 진행되는 곳의 중심에 배치하여 긍정적 효과의 지속시간을 늘릴 수 있습니다.</Lectern.description>
-  
-  <LightBall.label>미러볼</LightBall.label>
-  <LightBall.description>회전하면서 색이 바뀌는 장식용 전등입니다. 댄스 파티를 달아오르게 하기 위해 사용됩니다.</LightBall.description>
-  
-  <Loudspeaker.label>대형 스피커</Loudspeaker.label>
-  <Loudspeaker.description>음악을 크게 재생하기 위한 장치입니다. 댄스 파티를 개최하기 위해서 최소 하나가 필요하며, 많을수록 효과가 커집니다.</Loudspeaker.description>
-  
-  <Pew.label>벤치</Pew.label>
-  <Pew.description>의식 참여자들이 앉을 수 있는 긴 벤치입니다. 긍정적 효과를 얻기 위해서는 의식이 진행되는 곳 또는 주최자를 바라보도록 설치해야 합니다.</Pew.description>
-  
-  <PlantPot_Bonsai.label>분재 화분</PlantPot_Bonsai.label>
-  <PlantPot_Bonsai.description>분재목을 심기에 적절한 화분입니다. 주변 사람들의 기분을 환기해주고 일부 사상의 요구 조건을 충족시킵니다.</PlantPot_Bonsai.description>
-  
-  <Reliquary.label>성물함</Reliquary.label>
-  <Reliquary.description>성스러운 유물을 전시하고 보호하는 의식 건출물입니다. 유물은 많은 사람들과 문화, 그리고 신앙에서 숭배하는 고대의 물품입니다.</Reliquary.description>
-  
-  <Skullspike.label>효수대</Skullspike.label>
-  <Skullspike.description>사람의 두개골을 꿰뚫어 높이 치켜 든 장대입니다. 어떤 이들에게는 힘의 상징이지만, 다른 이들에겐 야만적인 장식물로 보일 것입니다. 노예들에게 공포를 심어주는 대에는 탁월한 효과를 발휘합니다.</Skullspike.description>
-  <Skullspike.comps.CompHasSources.inspectStringLabel>두개골</Skullspike.comps.CompHasSources.inspectStringLabel>
-  
-  <SlabBed.label>딱딱한 침대</SlabBed.label>
-  <SlabBed.description>단단한 재질로 만들어진 침대입니다. 불편하지만 자신의 믿음을 증명하고 싶은 이들이 사용합니다.</SlabBed.description>
-  
-  <SlabDoubleBed.label>딱딱한 더블 침대</SlabDoubleBed.label>
-  <SlabDoubleBed.description>단단한 재질로 만들어진 침대입니다. 불편하지만 자신의 믿음을 증명하고 싶은 이들이 사용합니다. 두 명이 누울 수 있을 만큼 충분히 넓습니다.</SlabDoubleBed.description>
-  
-  <StylingStation.label>화장대</StylingStation.label>
-  <StylingStation.description>거울과 여러 치장용 도구가 있는 탁자입니다. 여기서 정착민의 외관을 변경할 수 있습니다.</StylingStation.description>
+  <ShipLandingBeacon.label>함선 신호기</ShipLandingBeacon.label>
+  <ShipLandingBeacon.description>왕복선이 착륙할 지점을 지정하기 위한 장치입니다. 착륙 지점을 만들기 위해서는 4개의 함선 신호기가 필요하며, 최소 9x9 이상의 크기를 가진 사각형 범위를 그리도록 설치해야 합니다. 건물, 사람, 동물 같은 장애물이 존재하지 않는 경우 왕복선은 반드시 착륙장을 이용합니다.</ShipLandingBeacon.description>
 </LanguageData>
