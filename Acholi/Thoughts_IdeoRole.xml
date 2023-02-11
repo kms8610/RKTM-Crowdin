@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <IdeoLeaderResentmentAbhorrent.label>crwdns442586:0crwdne442586:0</IdeoLeaderResentmentAbhorrent.label>
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>crwdns442588:0{0}crwdne442588:0</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  
+  <IdeoLeaderResentmentDisapproved.label>crwdns442590:0crwdne442590:0</IdeoLeaderResentmentDisapproved.label>
+  <IdeoLeaderResentmentDisapproved.stages.0.description>crwdns442592:0{0}crwdne442592:0</IdeoLeaderResentmentDisapproved.stages.0.description>
+  
+  <IdeoLeaderResentmentHorrible.label>crwdns442594:0crwdne442594:0</IdeoLeaderResentmentHorrible.label>
+  <IdeoLeaderResentmentHorrible.stages.0.description>crwdns442596:0{0}crwdne442596:0</IdeoLeaderResentmentHorrible.stages.0.description>
+  
+  <IdeoLeaderResentmentStandard.label>crwdns442598:0crwdne442598:0</IdeoLeaderResentmentStandard.label>
+  <IdeoLeaderResentmentStandard.stages.0.description>crwdns442600:0{0}crwdne442600:0</IdeoLeaderResentmentStandard.stages.0.description>
+  
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>crwdns442602:0{ROLE_label}crwdne442602:0</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
+  <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>crwdns442604:0{ROLE_labelDef}crwdne442604:0</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.description>
+  
+  <IdeoRoleEmpty.stages.No.label>crwdns442606:0{ROLE_label}crwdne442606:0</IdeoRoleEmpty.stages.No.label>
+  <IdeoRoleEmpty.stages.No.description>crwdns442608:0{0}crwdnd442608:0{ROLE_labelIndef}crwdne442608:0</IdeoRoleEmpty.stages.No.description>
+  
+  <IdeoRoleLost.stages.Lost_role.label>crwdns442610:0{ROLE_label}crwdne442610:0</IdeoRoleLost.stages.Lost_role.label>
+  <IdeoRoleLost.stages.Lost_role.description>crwdns442612:0{ROLE_labelDef}crwdne442612:0</IdeoRoleLost.stages.Lost_role.description>
+</LanguageData>
