@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AgeReversal_Demanded.label>crwdns437042:0crwdne437042:0</AgeReversal_Demanded.label>
-  <AgeReversal_Demanded.description>crwdns437044:0crwdne437044:0</AgeReversal_Demanded.description>
+  <AgeReversalDemanded.stages.harmful_aging.label>crwdns442356:0crwdne442356:0</AgeReversalDemanded.stages.harmful_aging.label>
+  <AgeReversalDemanded.stages.harmful_aging.description>crwdns442358:0crwdne442358:0</AgeReversalDemanded.stages.harmful_aging.description>
+  <AgeReversalDemanded.stages.terrible_aging.label>crwdns442360:0crwdne442360:0</AgeReversalDemanded.stages.terrible_aging.label>
+  <AgeReversalDemanded.stages.terrible_aging.description>crwdns442362:0crwdne442362:0</AgeReversalDemanded.stages.terrible_aging.description>
+  <AgeReversalDemanded.stages.horrific_aging.label>crwdns442364:0crwdne442364:0</AgeReversalDemanded.stages.horrific_aging.label>
+  <AgeReversalDemanded.stages.horrific_aging.description>crwdns442366:0crwdne442366:0</AgeReversalDemanded.stages.horrific_aging.description>
   
-  <BioSculpter_Despised.label>crwdns437046:0crwdne437046:0</BioSculpter_Despised.label>
-  <BioSculpter_Despised.description>crwdns437048:0crwdne437048:0</BioSculpter_Despised.description>
+  <AgeReversalReceived.stages.received_age_reversal.label>crwdns442368:0crwdne442368:0</AgeReversalReceived.stages.received_age_reversal.label>
+  <AgeReversalReceived.stages.received_age_reversal.description>crwdns442370:0crwdne442370:0</AgeReversalReceived.stages.received_age_reversal.description>
   
-  <Biosculpting_Accelerated.label>crwdns437050:0crwdne437050:0</Biosculpting_Accelerated.label>
-  <Biosculpting_Accelerated.description>crwdns437052:0crwdne437052:0</Biosculpting_Accelerated.description>
+  <BioSculpterDespised.stages.used_biosculpter_pod.label>crwdns442372:0crwdne442372:0</BioSculpterDespised.stages.used_biosculpter_pod.label>
+  <BioSculpterDespised.stages.used_biosculpter_pod.description>crwdns442374:0crwdne442374:0</BioSculpterDespised.stages.used_biosculpter_pod.description>
   
-  <NeuralSupercharge_Preferred.label>crwdns437054:0crwdne437054:0</NeuralSupercharge_Preferred.label>
-  <NeuralSupercharge_Preferred.description>crwdns437056:0crwdne437056:0</NeuralSupercharge_Preferred.description>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.label>crwdns442376:0crwdne442376:0</NeedNeuralSupercharge.stages.want_neural_supercharge.label>
+  <NeedNeuralSupercharge.stages.want_neural_supercharge.description>crwdns442378:0crwdne442378:0</NeedNeuralSupercharge.stages.want_neural_supercharge.description>
   
-  <SleepAccelerator_Preferred.label>crwdns437058:0crwdne437058:0</SleepAccelerator_Preferred.label>
-  <SleepAccelerator_Preferred.description>crwdns437060:0crwdne437060:0</SleepAccelerator_Preferred.description>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>crwdns442380:0crwdne442380:0</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.label>
+  <SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>crwdns442382:0crwdne442382:0</SleptUsingSleepAccelerator.stages.used_sleep_accelerator.description>
 </LanguageData>
