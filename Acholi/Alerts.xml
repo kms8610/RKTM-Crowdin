@@ -1,73 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AlertMechLacksOverseer>crwdns428732:0crwdne428732:0</AlertMechLacksOverseer>
-  <AlertMechLacksOverseerDesc>crwdns428734:0{0}crwdne428734:0</AlertMechLacksOverseerDesc>
-  <AlertMechLacksOverseerUncontrolled>crwdns428736:0crwdne428736:0</AlertMechLacksOverseerUncontrolled>
-  <AlertMechLacksOverseerMayGoFeral>crwdns428738:0crwdne428738:0</AlertMechLacksOverseerMayGoFeral>
+  <NeedSlaveBeds>crwdns442972:0crwdne442972:0</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>crwdns442974:0crwdne442974:0</NeedSlaveBedsDesc>
 
-  <AlertWarqueenHasLowResources>crwdns428740:0{0}crwdne428740:0</AlertWarqueenHasLowResources>
-  <AlertWarqueenHasLowResourcesDesc>crwdns428742:0{0}crwdne428742:0</AlertWarqueenHasLowResourcesDesc>
+  <SlavesUnsuppressedLabel>crwdns442976:0crwdne442976:0</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>crwdns442978:0{0_nameDef}crwdnd442978:0{0_pronoun}crwdne442978:0</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>crwdns442980:0crwdne442980:0</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>crwdns442982:0crwdne442982:0</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>crwdns442984:0crwdne442984:0</SlavesUnattendedDesc>
 
-  <AlertLowDeathrestPawn>crwdns428744:0{PAWN}crwdne428744:0</AlertLowDeathrestPawn>
-  <AlertLowDeathrestPawns>crwdns428746:0{NUMCULPRITS}crwdne428746:0</AlertLowDeathrestPawns>
-  <AlertLowDeathrestDesc>crwdns428748:0{CULPRITS}crwdne428748:0</AlertLowDeathrestDesc>
+  <RitualOpportunity>crwdns442986:0{0}crwdne442986:0</RitualOpportunity>
+  <RitualOpportunityFor>crwdns442988:0{0}crwdnd442988:0{1}crwdne442988:0</RitualOpportunityFor>
+  <RitualExpiresIn>crwdns442990:0{0}crwdnd442990:0{1}crwdne442990:0</RitualExpiresIn>
+  <RitualSingleTargetDesc>crwdns442992:0{FOCUS}crwdnd442992:0{RITUAL_label}crwdne442992:0</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>crwdns442994:0{RITUAL_label}crwdne442994:0</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>crwdns442996:0{RITUAL_label}crwdnd442996:0{1}crwdne442996:0</RitualTargetsExplanation>
+  <RitualJumpToTargets>crwdns442998:0crwdne442998:0</RitualJumpToTargets>
+  <RitualUnfilledRoles>crwdns443000:0{0}crwdne443000:0</RitualUnfilledRoles>
 
-  <AlertLowHemogen>crwdns428750:0crwdne428750:0</AlertLowHemogen>
-  <AlertLowHemogenDesc>crwdns428752:0crwdne428752:0</AlertLowHemogenDesc>
+  <IdeoBuildingMissing>crwdns443002:0{0}crwdne443002:0</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>crwdns443004:0{IDEO_name}crwdnd443004:0{0}crwdnd443004:0{2}crwdnd443004:0{0}crwdnd443004:0{BASEBUILDING_label}crwdnd443004:0{BUILDINGINFO}crwdnd443004:0{IDEO_name}crwdnd443004:0{MINBELIEVERS}crwdnd443004:0{4}crwdnd443004:0{3}crwdne443004:0</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc>crwdns443006:0{TABNAME}crwdne443006:0</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt>crwdns443008:0{0}crwdne443008:0</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>crwdns443010:0{0}crwdne443010:0</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>crwdns443012:0crwdne443012:0</IdeoBuildingExpectations>
 
-  <AlertRechargerFull>crwdns428754:0crwdne428754:0</AlertRechargerFull>
-  <AlertRechargerFullDesc>crwdns428756:0crwdne428756:0</AlertRechargerFullDesc>
-
-  <AlertNeedMechChargers>crwdns428758:0crwdne428758:0</AlertNeedMechChargers>
-  <AlertNeedMechChargersDesc>crwdns428760:0{0}crwdne428760:0</AlertNeedMechChargersDesc>
-  <AlertNeedMechChargerBasicMechtech>crwdns428762:0crwdne428762:0</AlertNeedMechChargerBasicMechtech>
-
-  <AlertReimplantationAvailable>crwdns428764:0crwdne428764:0</AlertReimplantationAvailable>
-  <AlertReimplantationAvailableDesc>crwdns428766:0{0_nameDef}crwdnd428766:0{0_possessive}crwdne428766:0</AlertReimplantationAvailableDesc>
-
-  <AlertLowBabyFood>crwdns428768:0crwdne428768:0</AlertLowBabyFood>
-  <AlertLowBabyFoodDesc>crwdns428770:0{0}crwdnd428770:0{1}crwdnd428770:0{2}crwdne428770:0</AlertLowBabyFoodDesc>
-  <AlertNoBabyFeeder>crwdns428772:0crwdne428772:0</AlertNoBabyFeeder>
-  <AlertNoBabyFeederDesc>crwdns428774:0{FACTION_pawnsPlural}crwdnd428774:0{FACTION_pawnsPlural}crwdnd428774:0{FACTION_pawnSingular}crwdne428774:0</AlertNoBabyFeederDesc>
-  <AlertAbandonedBaby>crwdns428776:0crwdne428776:0</AlertAbandonedBaby> <!-- text_todo -->
-  <AlertAbandonedBabyDesc>crwdns428778:0{0}crwdne428778:0</AlertAbandonedBabyDesc> <!-- text_todo -->
-
-  <AlertNoBabyFoodCaravan>crwdns428780:0crwdne428780:0</AlertNoBabyFoodCaravan>
-  <AlertNoBabyFoodCaravanDesc>crwdns428782:0{FACTION_pawnsPlural}crwdne428782:0</AlertNoBabyFoodCaravanDesc>
-
-  <AlertToxicBuildup>crwdns428784:0crwdne428784:0</AlertToxicBuildup>
-  <AlertToxicBuildupDesc>crwdns428786:0{0}crwdne428786:0</AlertToxicBuildupDesc>
-
-  <AlertNeedBabyCribs>crwdns428788:0crwdne428788:0</AlertNeedBabyCribs>
-  <AlertNeedBabyCribsDesc>crwdns428790:0crwdne428790:0</AlertNeedBabyCribsDesc>
-  <AlertNeedSlaveCribs>crwdns428792:0crwdne428792:0</AlertNeedSlaveCribs>
-  <AlertNeedSlaveCribsDesc>crwdns428794:0crwdne428794:0</AlertNeedSlaveCribsDesc>
-
-  <AlertPollutedTerrain>crwdns428796:0crwdne428796:0</AlertPollutedTerrain>
-  <AlertPollutedTerrainDesc>crwdns428798:0{0}crwdne428798:0</AlertPollutedTerrainDesc>
-
-  <AlertMechMissingBodyPart>crwdns428800:0crwdne428800:0</AlertMechMissingBodyPart>
-  <AlertMechsMissingBodyPart>crwdns428802:0crwdne428802:0</AlertMechsMissingBodyPart>
-  <AlertMechMissingBodyPartDesc>crwdns428804:0crwdne428804:0</AlertMechMissingBodyPartDesc>
-
-  <AlertMechNeedsRepair>crwdns428806:0crwdne428806:0</AlertMechNeedsRepair>
-  <AlertMechNeedsRepairDescPrefix>crwdns428808:0crwdne428808:0</AlertMechNeedsRepairDescPrefix>
-  <AlertMechNeedsRepairDesc>crwdns428810:0crwdne428810:0</AlertMechNeedsRepairDesc>
+  <IdeoBuildingDisrespected>crwdns443014:0{0}crwdne443014:0</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>crwdns443016:0{0}crwdnd443016:0{1}crwdnd443016:0{2}crwdnd443016:0{1}crwdnd443016:0{3}crwdne443016:0</IdeoBuildingDisrespectedDesc>
   
-  <AlertToxifierGeneratorStopped>crwdns428812:0{0}crwdne428812:0</AlertToxifierGeneratorStopped>
-  <AlertToxifierGeneratorStoppedDesc>crwdns428814:0{0}crwdne428814:0</AlertToxifierGeneratorStoppedDesc>
+  <QuestPartRaidsDelay>crwdns443018:0{0}crwdne443018:0</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>crwdns443020:0{0}crwdne443020:0</QuestPartRaidsDelayDesc>
 
-  <AlertPsychicBondedPawnsSeparated>crwdns428816:0crwdne428816:0</AlertPsychicBondedPawnsSeparated>
-  <AlertPsychicBondedPawnsSeparatedDesc>crwdns428818:0crwdne428818:0</AlertPsychicBondedPawnsSeparatedDesc>
+  <IdeoRoleEmpty>crwdns443022:0{0}crwdne443022:0</IdeoRoleEmpty>
+  <IdeoRolesEmpty>crwdns443024:0{0}crwdne443024:0</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>crwdns443026:0{0}crwdne443026:0</IdeoRolesEmptyDesc>
 
-  <AlertGenebankUnpowered>crwdns428820:0crwdne428820:0</AlertGenebankUnpowered>
-  <AlertGenebankUnpoweredDesc>crwdns428822:0crwdne428822:0</AlertGenebankUnpoweredDesc>
+  <AncientAltarThreatsWaking>crwdns443028:0{0}crwdne443028:0</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>crwdns443030:0{0}crwdne443030:0</AncientAltarThreatsWakingDesc>
 
-  <AlertBossgroupIncoming>crwdns428824:0{0}crwdne428824:0</AlertBossgroupIncoming>
-  <AlertBossgroupIncomingDesc>crwdns428826:0{0}crwdne428826:0</AlertBossgroupIncomingDesc>
+  <AlertRitualComing>crwdns443032:0crwdne443032:0</AlertRitualComing>
+  <AlertRitualComingDesc>crwdns443034:0crwdne443034:0</AlertRitualComingDesc>
+  <AlertRitualComingExtra>crwdns443036:0{0}crwdne443036:0</AlertRitualComingExtra>
+  <AlertRitualComingEntry>crwdns443038:0{0}crwdnd443038:0{1}crwdnd443038:0{2}crwdne443038:0</AlertRitualComingEntry>
 
-  <AlertDeathrestComplete>crwdns428828:0crwdne428828:0</AlertDeathrestComplete><!-- text_todo -->
-  <AlertDeathrestCompleteDesc>crwdns428830:0crwdne428830:0</AlertDeathrestCompleteDesc><!-- text_todo -->
+  <AlertAgeReversalDemandNear>crwdns443040:0crwdne443040:0</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>crwdns443042:0crwdne443042:0</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>crwdns443044:0{PAWN}crwdnd443044:0{FACTION}crwdnd443044:0{DURATION}crwdne443044:0</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>crwdns443046:0{PAWN}crwdnd443046:0{DURATION}crwdne443046:0</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>crwdns443048:0{PAWN}crwdnd443048:0{DURATION}crwdne443048:0</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>crwdns443050:0{PAWN}crwdnd443050:0{DURATION}crwdne443050:0</AlertAgeReversalDemandDesc_Overdue>
 
+  <AlertRoyalTitleNoVeneratedAnimalMeat>crwdns443052:0{PAWN_nameDef}crwdnd443052:0{IDEO_name}crwdnd443052:0{PAWN_objective}crwdnd443052:0{ANIMALS}crwdne443052:0</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <AlertGauranlenTreeWithoutDryadTypeLabel>crwdns443054:0crwdne443054:0</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>crwdns443056:0{0}crwdne443056:0</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>crwdns443058:0crwdne443058:0</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>crwdns443060:0crwdne443060:0</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <AlertFuelNodeIgniting>crwdns443062:0{0}crwdne443062:0</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>crwdns443064:0crwdne443064:0</AlertFuelNodeIgnitingDesc>
+
+  <AlertInfestationArriving>crwdns443066:0{0}crwdne443066:0</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>crwdns443068:0crwdne443068:0</AlertInfestationArrivingDesc>
+
+  <AlertHostilesWakingUp>crwdns443070:0{0_pawnsPlural}crwdnd443070:0{1}crwdne443070:0</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>crwdns443072:0{0_pawnsPlural}crwdne443072:0</AlertHostilesWakingUpDesc>
+
+  <AlertCasketOpening>crwdns443074:0{0}crwdne443074:0</AlertCasketOpening>
+  <AlertCasketOpeningDesc>crwdns443076:0crwdne443076:0</AlertCasketOpeningDesc>
+
+  <AlertSlaveRebellionLikely>crwdns443078:0crwdne443078:0</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>crwdns443080:0{REBELLIOUSCOUNT}crwdne443080:0</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>crwdns443082:0{COMBINEDTIME}crwdnd443082:0{REBEL_labelShort}crwdnd443082:0{INDIVIDUALTIME}crwdne443082:0</AlertSlaveRebellionLikelyMostRebellious>
+  
 </LanguageData>
