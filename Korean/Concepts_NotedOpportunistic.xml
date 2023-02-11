@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeditationDesiredPsyfocus.label>지망하는 초집중 명상</MeditationDesiredPsyfocus.label>
+  <MeditationDesiredPsyfocus.helpText>각각의 정착민마다 원하는 초집중 수치를 설정할 수 있습니다. 설정하려면 정신력 증폭을 지닌 정착민을 선택하여, 초집중 막대를 클릭하세요.\n\n정착민의 초집중이  정된 것보다 낮은 상태라면 자유행동 시간에 스스로 명상할 것입니다.</MeditationDesiredPsyfocus.helpText>
+  
+  <MeditationSchedule.label>명상 시간</MeditationSchedule.label>
+  <MeditationSchedule.helpText>정착민들에게 명상을 하도록 일정을 할당할 수 있습니다.\n\n"시간/구역" 창을 열어 '명상'을 선택한 다음 정착민에게 원하는 시간에 맞춰 드래그하여 할당하세요.</MeditationSchedule.helpText>
+</LanguageData>
