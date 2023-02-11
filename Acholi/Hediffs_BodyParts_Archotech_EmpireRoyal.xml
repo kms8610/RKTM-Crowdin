@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicHarmonizer.label>crwdns445450:0crwdne445450:0</PsychicHarmonizer.label>
-  <PsychicHarmonizer.description>crwdns445452:0crwdne445452:0</PsychicHarmonizer.description>
-  <PsychicHarmonizer.labelNoun>crwdns445454:0crwdne445454:0</PsychicHarmonizer.labelNoun>
+  <InstallPsychicHarmonizer.label>crwdns447622:0crwdne447622:0</InstallPsychicHarmonizer.label>
+  <InstallPsychicHarmonizer.description>crwdns447624:0crwdne447624:0</InstallPsychicHarmonizer.description>
+  <InstallPsychicHarmonizer.jobString>crwdns447626:0crwdne447626:0</InstallPsychicHarmonizer.jobString>
   
-  <PsychicReader.label>crwdns445456:0crwdne445456:0</PsychicReader.label>
-  <PsychicReader.description>crwdns445458:0crwdne445458:0</PsychicReader.description>
-  <PsychicReader.labelNoun>crwdns445460:0crwdne445460:0</PsychicReader.labelNoun>
+  <InstallPsychicReader.label>crwdns447628:0crwdne447628:0</InstallPsychicReader.label>
+  <InstallPsychicReader.description>crwdns447630:0crwdne447630:0</InstallPsychicReader.description>
+  <InstallPsychicReader.jobString>crwdns447632:0crwdne447632:0</InstallPsychicReader.jobString>
   
-  <PsychicSensitizer.label>crwdns445462:0crwdne445462:0</PsychicSensitizer.label>
-  <PsychicSensitizer.description>crwdns445464:0crwdne445464:0</PsychicSensitizer.description>
-  <PsychicSensitizer.labelNoun>crwdns445466:0crwdne445466:0</PsychicSensitizer.labelNoun>
+  <InstallPsychicSensitizer.label>crwdns447634:0crwdne447634:0</InstallPsychicSensitizer.label>
+  <InstallPsychicSensitizer.description>crwdns447636:0crwdne447636:0</InstallPsychicSensitizer.description>
+  <InstallPsychicSensitizer.jobString>crwdns447638:0crwdne447638:0</InstallPsychicSensitizer.jobString>
+  
+  <RemovePsychicHarmonizer.label>crwdns447640:0crwdne447640:0</RemovePsychicHarmonizer.label>
+  <RemovePsychicHarmonizer.description>crwdns447642:0crwdne447642:0</RemovePsychicHarmonizer.description>
+  <RemovePsychicHarmonizer.jobString>crwdns447644:0crwdne447644:0</RemovePsychicHarmonizer.jobString>
+  
+  <RemovePsychicReader.label>crwdns447646:0crwdne447646:0</RemovePsychicReader.label>
+  <RemovePsychicReader.description>crwdns447648:0crwdne447648:0</RemovePsychicReader.description>
+  <RemovePsychicReader.jobString>crwdns447650:0crwdne447650:0</RemovePsychicReader.jobString>
+  
+  <RemovePsychicSensitizer.label>crwdns447652:0crwdne447652:0</RemovePsychicSensitizer.label>
+  <RemovePsychicSensitizer.description>crwdns447654:0crwdne447654:0</RemovePsychicSensitizer.description>
+  <RemovePsychicSensitizer.jobString>crwdns447656:0crwdne447656:0</RemovePsychicSensitizer.jobString>
 </LanguageData>
