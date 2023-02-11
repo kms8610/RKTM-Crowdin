@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BodyMod_Abhorrent.label>crwdns436220:0crwdne436220:0</BodyMod_Abhorrent.label>
-  <BodyMod_Abhorrent.description>crwdns436222:0crwdne436222:0</BodyMod_Abhorrent.description>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>crwdns441056:0crwdne441056:0</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.label>
+  <HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>crwdns441058:0crwdne441058:0</HasNoProsthetic_Disapproved.stages.no_artificial_enhancement.description>
   
-  <BodyMod_Approved.label>crwdns436224:0crwdne436224:0</BodyMod_Approved.label>
-  <BodyMod_Approved.description>crwdns436226:0crwdne436226:0</BodyMod_Approved.description>
+  <HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>crwdns441060:0crwdne441060:0</HasNoProsthetic_Disapproved_Social.stages.no_artificial_enhancement.label>
   
-  <BodyMod_Disapproved.label>crwdns436228:0crwdne436228:0</BodyMod_Disapproved.label>
-  <BodyMod_Disapproved.description>crwdns436230:0crwdne436230:0</BodyMod_Disapproved.description>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.label>crwdns441062:0crwdne441062:0</HasProsthetic_Abhorrent.stages.artificial_enhancement.label>
+  <HasProsthetic_Abhorrent.stages.artificial_enhancement.description>crwdns441064:0crwdne441064:0</HasProsthetic_Abhorrent.stages.artificial_enhancement.description>
+  
+  <HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>crwdns441066:0crwdne441066:0</HasProsthetic_Abhorrent_Social.stages.artificial_enhancement.label>
+  
+  <HasProsthetic_Approved.stages.transhumanist_modded.label>crwdns441068:0crwdne441068:0</HasProsthetic_Approved.stages.transhumanist_modded.label>
+  <HasProsthetic_Approved.stages.transhumanist_modded.description>crwdns441070:0crwdne441070:0</HasProsthetic_Approved.stages.transhumanist_modded.description>
+  <HasProsthetic_Approved.stages.transhumanist_connected.label>crwdns441072:0crwdne441072:0</HasProsthetic_Approved.stages.transhumanist_connected.label>
+  <HasProsthetic_Approved.stages.transhumanist_connected.description>crwdns441074:0crwdne441074:0</HasProsthetic_Approved.stages.transhumanist_connected.description>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.label>crwdns441076:0crwdne441076:0</HasProsthetic_Approved.stages.transhumanist_enhanced.label>
+  <HasProsthetic_Approved.stages.transhumanist_enhanced.description>crwdns441078:0crwdne441078:0</HasProsthetic_Approved.stages.transhumanist_enhanced.description>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.label>crwdns441080:0crwdne441080:0</HasProsthetic_Approved.stages.transhumanist_synchronized.label>
+  <HasProsthetic_Approved.stages.transhumanist_synchronized.description>crwdns441082:0crwdne441082:0</HasProsthetic_Approved.stages.transhumanist_synchronized.description>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.label>crwdns441084:0crwdne441084:0</HasProsthetic_Approved.stages.transhumanist_integrated.label>
+  <HasProsthetic_Approved.stages.transhumanist_integrated.description>crwdns441086:0crwdne441086:0</HasProsthetic_Approved.stages.transhumanist_integrated.description>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.label>crwdns441088:0crwdne441088:0</HasProsthetic_Approved.stages.transhumanist_transformed.label>
+  <HasProsthetic_Approved.stages.transhumanist_transformed.description>crwdns441090:0crwdne441090:0</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+  
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.label>crwdns441092:0crwdne441092:0</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.description>crwdns441094:0crwdne441094:0</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+  
+  <HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>crwdns441096:0crwdne441096:0</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+  
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>crwdns441098:0crwdne441098:0</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>crwdns441100:0crwdne441100:0</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+  
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.label>crwdns441102:0crwdne441102:0</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.description>crwdns441104:0crwdne441104:0</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+  
+  <InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>crwdns441106:0crwdne441106:0</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+  
+  <InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>crwdns441108:0crwdne441108:0</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
 </LanguageData>
