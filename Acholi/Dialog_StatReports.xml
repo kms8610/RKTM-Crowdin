@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <Stat_Thing_MinimumRoyalTitle_Name>crwdns449710:0{FACTION_name}crwdne449710:0</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>crwdns449712:0{FACTION_name}crwdne449712:0</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>crwdns449714:0{FACTION_name}crwdne449714:0</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>crwdns449716:0{FACTION_name}crwdne449716:0</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>crwdns449718:0crwdne449718:0</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>crwdns449720:0crwdne449720:0</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>crwdns449722:0crwdne449722:0</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>crwdns449724:0crwdne449724:0</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <Stat_Thing_PersonaWeaponTrait_Label>crwdns449726:0crwdne449726:0</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>crwdns449728:0crwdne449728:0</Stat_Thing_PersonaWeaponTrait_Desc>
+
+  <StatsReport_Pain>crwdns449730:0crwdne449730:0</StatsReport_Pain>
+  
+</LanguageData>
