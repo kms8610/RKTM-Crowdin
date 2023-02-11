@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalSlaughter_Disapproved.label>못마땅함</AnimalSlaughter_Disapproved.label>
-  <AnimalSlaughter_Disapproved.description>동물을 도축하는 건 역겨운 일이다.</AnimalSlaughter_Disapproved.description>
-  <AnimalSlaughter_Disapproved.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Disapproved.comps.1.description>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>난 동물을 도축해야 했어. 매우 끔찍한 일이었어.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Horrible.label>끔찍함</AnimalSlaughter_Horrible.label>
-  <AnimalSlaughter_Horrible.description>동물을 도축하는 건 끔찍한 일이다.</AnimalSlaughter_Horrible.description>
-  <AnimalSlaughter_Horrible.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Horrible.comps.1.description>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
+  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>동물을 죽여야만 했어! 생각하는 존재를 그렇게 지워버리다니 너무 끔찍해.</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
   
-  <AnimalSlaughter_Prohibited.label>금기</AnimalSlaughter_Prohibited.label>
-  <AnimalSlaughter_Prohibited.description>Slaughtering animals is absolutely prohibited.</AnimalSlaughter_Prohibited.description>
-  <AnimalSlaughter_Prohibited.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Prohibited.comps.1.description>
-  <AnimalSlaughter_Prohibited.comps.2.description>Slaughter animal</AnimalSlaughter_Prohibited.comps.2.description>
+  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>누군가 동물을 도축했어. 슬픈 일이야.</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>누군가가 동물을 도축했어! 생각하는 존재를 그렇게 지워버리다니 너무 끔찍해.</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+  
+  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
+  
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>누군가가 동물을 도축했어! 소중한 생명을 비극적으로 잃었어.</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
 </LanguageData>
