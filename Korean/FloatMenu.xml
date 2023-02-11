@@ -1,95 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NotAMechanitor>메카나이터 아님</NotAMechanitor>
-  <NotEnoughBandwidth>대역폭 부족</NotEnoughBandwidth>
-  <ControlMech>{0} 제어</ControlMech>
-  <CannotControlMech>{0} 제어 불가</CannotControlMech>
-  <CannotControlMechAlreadyControlled>이미 {0}(이)가 제어 중</CannotControlMechAlreadyControlled>
-  <CannotControlMechNotEnoughBandwidth>대역폭 부족</CannotControlMechNotEnoughBandwidth>
-  <CannotControlMechNeverControllable>절대 통제 불가능</CannotControlMechNeverControllable>
-  <CannotDisconnectMech>{0} 연결 해제 불가능</CannotDisconnectMech>
-  <DisconnectMech>{0}(와)과 연결 끊기</DisconnectMech>
-  <DisassembleMech>{0} 분해</DisassembleMech>
-  <CannotDisassembleMech>{0} 분해 불가</CannotDisassembleMech>
-  <MustBeOverseer>통제자여아 함</MustBeOverseer>
-  <Extract>추출</Extract>
-  <OutOfCommandRange>명령 범위 벗어남</OutOfCommandRange>
-  <CannotGoOutOfRange>여기 갈 수 없음</CannotGoOutOfRange>
-  <WasteContainerFull>비워야 함</WasteContainerFull>
-  <CannotRepairMech>{0} 수리 불가</CannotRepairMech>
+  <IdeoligionForbids>Ideoligion forbids</IdeoligionForbids>
+  <OnlyMembersCanBuild>Only {0}s can build</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>이미 {0}(을)를 진행하고 있습니다.</CantStartRitualAlreadyInProgress>
+  <CantJoinRitualInExtremeWeather>극단적인 온도로 인해 한 명 이상의 참여자가 참석할 수 없습니다.</CantJoinRitualInExtremeWeather>
+  <CantStartRitualTargetIsAlreadyInRitual>{0}(은)는 이미 행사에 참여하고 있습니다.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>이 행사를 진행하려면 {0} 지위를 할당해야 합니다.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>{0}(으)로 교화할 사람이 없습니다. 다른 사상을 믿는 정착민, 수감자, 노예가 필요합니다.</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} cannot be {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} must be a {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} is psychically deaf.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartNotEnoughSpaceDuelSpectators>관전자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간과, 공간 내 최소 {1}개의 서있을 수 있는 자리가 필요합니다.</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>결투자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간과, 공간 내 최소 {1}개의 서있을 수 있는 자리가 필요합니다.</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>연설자를 위한 공간이 부족합니다. 반경 {MINRADIUS}칸의 빈 원형 공간이 필요합니다.</CantStartNotEnoughSpaceDuelSpeaker>
+  <CantStartFuneralForSlave>{0_labelShort}(은)는 노예입니다. 노예의 장례식은 진행할 수 없습니다.</CantStartFuneralForSlave>
+  <NoSlaveBed>접근 가능하고, 주인이 없으며, 안전한 온도의 노예 침대가 필요합니다.</NoSlaveBed>
+  <ReturnToSlaveBed>Return to slave bed</ReturnToSlaveBed>
+  <NotAllowedForFaction>not allowed for faction</NotAllowedForFaction>
 
-  <ExtractXenogermFrom>{PAWN_nameDef}의 변형이식체 추출</ExtractXenogermFrom>
-  <EnterBuilding>{0_labelShort} 탑승</EnterBuilding>
-  <PawnHasNoGenes>{PAWN_nameDef}(이)가 가진 유전자 없음</PawnHasNoGenes>
-  <PawnHasNoNonArchiteGenes>{PAWN_nameDef}(은)는 추출 가능한 유전자를 보유하지 않습니다.</PawnHasNoNonArchiteGenes>
-  <InXenogerminationComa>변형이식 혼수상태</InXenogerminationComa>
-  <Occupied>가득 참</Occupied>
-  <OccupantEjectedFromGrowthVat>{PAWN_nameDef}(이)가 성장수조에서 배출됨</OccupantEjectedFromGrowthVat>
-  <TooOld>{PAWN_nameDef}(이)가 {AGEYEARS}살 미만이어야 합니다.</TooOld>
-  <PawnIsTooOld>{PAWN_nameDef}의 나이가 너무 많습니다.</PawnIsTooOld>
-  <PawnBiostarving>{PAWN_nameDef}(은)는 생물 기아에 시달리고 있습니다.</PawnBiostarving>
-  <NoViablePawns>가능한 사람 없음</NoViablePawns>
-  <NoExtractablePawns>추출 가능한 사람 없음</NoExtractablePawns>
-  <NoImplantablePawns>이식 가능한 사람 없음</NoImplantablePawns>
-  <CannotEnterBuilding>{0_labelShort}에 들어갈 수 없습니다</CannotEnterBuilding>
-  <AssignedToOtherPawn>{0_labelShort}(은)는 다른사람에게 할당되어있습니다</AssignedToOtherPawn>
+  <Remove>제거</Remove>
+  <RemovePrecept>Remove precept</RemovePrecept>
+  <Regenerate>Regenerate</Regenerate>
+  <CannotEdit>Cannot edit</CannotEdit>
+  <NoChoicesAvailable>No choices available</NoChoicesAvailable>
+  <RequiredByMeme>Required by meme {0}</RequiredByMeme>
+  <Required>필요</Required>
+  <StyleCategory>Style category</StyleCategory>
+  <AddStyleCategory>Add style category</AddStyleCategory>
+  <MaxRitualCount>행사는 {0}개까지만 추가할 수 있습니다.</MaxRitualCount>
+  <MaxRelicCount>Can't add more than {0} relics.</MaxRelicCount>
+  <MaxMultiRolesCount>can't have more than {0} specialists.</MaxMultiRolesCount>
+  <MaxPreceptCount>최대 {0}개</MaxPreceptCount>
+  <SetTargetGender>Set gender</SetTargetGender>
+  <RoleApparelRequirementIncompatibleFaction>must be {0} faction</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>부족민</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>non-tribal</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>requires any of these memes</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <BodyPartAlreadyCovered>cannot be worn with assigned apparel</BodyPartAlreadyCovered>
+  <NoteRoleApparelRequirementEffects>People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated.</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>supercharge not ready</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>already getting</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>Set type</SetApparelType>
 
-  <AbsorbXenogerm>{PAWN_nameDef}의 변형이식체 흡수</AbsorbXenogerm>
-  <CannotAbsorbXenogerm>{PAWN_nameDef}의 변형이식체를 흡수할 수 없음</CannotAbsorbXenogerm>
-  <SameXenotype>{PAWN_nameDef}(은)는 이미 {PAWN_xenotype}입니다.</SameXenotype>
-  <XenogermLossShockPresent>{PAWN_nameDef}(은)는 변형이식체 손실 충격으로 고통받음</XenogermLossShockPresent>
-  <CarryToSpecificThing>{0_labelShort}로 이동</CarryToSpecificThing>
-  <NoCasketOrBed>안전한 온도에서 사용할 수 있는 할당되지 않은 침대 또는 죽음안식 관이 없습니다.</NoCasketOrBed>
-  <TemporaryFactionMember>{PAWN_nameDef}(은)는 임시 구성원입니다.</TemporaryFactionMember>
+  <ChangeStyle>change style</ChangeStyle>
+  <DeitiesRequired>{0} {DEITYNOUN} required</DeitiesRequired>
+  <Deity>deity</Deity>
+  <RequiresMeme>requires meme</RequiresMeme>
+  <RequiresOneOfMemes>requires one of</RequiresOneOfMemes>
+  <ConflictsWithMeme>conflicts with meme</ConflictsWithMeme>
+  <ConflictsWithMemes>conflicts with memes</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>오직 하나의 제단/상징문양만 보유 가능</IdeoAlreadyHasAltar>
+  <RecolorApparel>의류 염색</RecolorApparel>
 
-  <SubcoreScannerNotInit>스캐너가 초기화되지 않음</SubcoreScannerNotInit>
-  <SubcoreScannerRequiresIngredients>재료 대기 중</SubcoreScannerRequiresIngredients>
-  <SubcoreScannerOccupied>가득 참</SubcoreScannerOccupied>
-  <EnterSubcoreScanner>{0} 탑승</EnterSubcoreScanner>
+  <Hack>{0} 해킹</Hack>
+  <CannotHack>{0}(을)를 해킹할 수 없음</CannotHack>
+  <AlreadyHacked>이미 해킹함</AlreadyHacked>
+  <IncapableOfHacking>해킹 불가능</IncapableOfHacking>
+  <ToDropSupplies>to drop supplies</ToDropSupplies>
 
-  <BabyCareBreastfeed>{BABY_labelShort}에게 모유 수유</BabyCareBreastfeed>
-  <BabyCareBreastfeedUnable>{BABY_labelShort}에게 모유 수유 불가</BabyCareBreastfeedUnable>
-  <NoBabyFood>아기에게 적합한 식량 없음</NoBabyFood>
+  <InstallRelic>Install {0}</InstallRelic>
+  <ExtractRelic>Extract {0}</ExtractRelic>
+  <ExtractRelicToInventory>Extract {0} to inventory ({1})</ExtractRelicToInventory>
+  <NoRelicToInstall>No relic to install</NoRelicToInstall>
+  <InstallInReliquary>Install in reliquary</InstallInReliquary>
+  <NoEmptyReliquary>no empty accessible reliquary</NoEmptyReliquary>
 
-  <CannotInteractBabyPlayFull>놀이 욕구 가득 참</CannotInteractBabyPlayFull>
+  <NoWardenOfIdeo>No {MEMBERNAME} warden</NoWardenOfIdeo>
 
-  <BloodfeedOn>{PAWN_nameDef} 포식</BloodfeedOn>
-  <CannotBloodfeedOn>{PAWN_nameDef} 포식 불가</CannotBloodfeedOn>
-  <CannotFeedOnWouldKill>혈액이 충분하지 않습니다.</CannotFeedOnWouldKill>
+  <RemoveCurrentRole>현재 지위 해임</RemoveCurrentRole>
 
-  <!-- BreastfeedFailReason strings-->
-  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort}의 모유 부족</BreastfeedFailReason_MomNotEnoughMilk>
-  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort}(이)가 현재 수유 불가</BreastfeedFailReason_MomInMentalState>
-  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort}(이)가 너무 배부름</BreastfeedFailReason_BabyTooFull>
-  <BreastfeedFailReason_BabyForbiddenToMom>{MOM_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToMom>
-  <BreastfeedFailReason_BabyForbiddenToHauler>{HAULER_labelShort}(와)과 {BABY_labelShort}의 상호작용 금지됨</BreastfeedFailReason_BabyForbiddenToHauler>
-  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort}(와)과 {HAULER_labelShort}의 상호작용 금지됨</BreastfeedFailReason_MomForbiddenToHauler>
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}(은)는 도움 없이 {BABY_labelShort}에게 모유 수유를 할 수 있습니다.</BreastfeedFailReason_MomIsMobile>
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort}(은)는 {BABY_labelShort}에서 {MOM_labelShort}(으)로 이동할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachMom>
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort}(은)는 {BABY_labelShort}에게 도달할 수 없습니다.</BreastfeedFailReason_HaulerCannotReachBaby>
-  <BreastfeedFailReason_NoMomsAssignedToBaby>수유 중인 {BABY_factionPawnsPlural}(이)가 {BABY_labelShort}에 할당되지 않았습니다.</BreastfeedFailReason_NoMomsAssignedToBaby>
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort}(은)는 보육에 할당되지 않았습니다.</BreastfeedFailReason_MomNotAssignedToChildcare>
-  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort}(은)는 수용되어 있음</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
-  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort}(은)는 이송되고 있음</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
-
-  <OrderImplantationIntoPawn>{PAWN_nameDef}에 이식 명령</OrderImplantationIntoPawn>
-  <AcceptXenogerm>{0_xenotype} 변형이식체 수용</AcceptXenogerm>
-
-  <CarryToRechargerOrdered>{PAWN_labelShort}(을)를 충전기로 이송</CarryToRechargerOrdered>
-  <CannotCarryToRecharger>{PAWN_labelShort}(을)를 충전기로 이송할 수 없음</CannotCarryToRecharger>
-  <CannotCarryToRechargerNoneAvailable>사용 가능한 충전기 없음</CannotCarryToRechargerNoneAvailable>
-
-  <CannotStudy>연구 불가</CannotStudy>
-  <AlreadyStudied>이미 연구함</AlreadyStudied>
-  <NoResearchBench>도달 가능하고 사용 중이지 않은 연구 작업대 없음</NoResearchBench>
-
-  <NotAllowedHemogen>식량 정책으로 인해 혈액팩이 금지되었습니다.</NotAllowedHemogen>
-
-  <EjectGenepackFromGeneBank>유전자 저장고에서 유전자묶음 꺼내기</EjectGenepackFromGeneBank>
-
-  <ResultingMetTooLow>결과의 대사 효율이 너무 낮음</ResultingMetTooLow>
-
-  <RomanceOnCooldown>너무 최근에 로맨스를 시도함</RomanceOnCooldown><!-- text_todo -->
-
+  <EnterBiosculpterPod>{0} 절차 ({1})의 생체 재구축기에 입장</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>이미 다른 사람에게 맞춤 조정됨.</BiosculpterBiotunedToAnother>
+  <UnderMinBiosculpterAgeReversalAge>노화 역전을 받으려면 {0}살 이상이어야 합니다.</UnderMinBiosculpterAgeReversalAge>
+  <CarryToBiosculpterPod>{PAWN_labelShort}(을)를 생체 재구축기 ({CYCLE} 절차)로 이송</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>생체 재구축기로 이송 불가</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>사용 가능한 생체 재구축기가 없습니다.</NoBiosculpterPod>
+  <BiosculpterNutritionNotLoaded>영양분이 적재되지 않음</BiosculpterNutritionNotLoaded>
+  <BiosculpterOccupied>가득 참</BiosculpterOccupied>
+  <CannotEnter>진입 불가</CannotEnter>
+  <BiosculpterCannotStartCycle>{0} 절차를 시작할 수 없습니다.</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>절차 구성 재료 ({INGREDIENTS})(을)를 찾을 수 없습니다.</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>사용 가능한 대상 없음</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>맞춤 조정된 {PAWN_labelShort}(이)가 근방에 없음</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>열량 자동 적재</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>절차에 필요한 열량을 자동으로 적재합니다.</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>{PAWN_labelShort}의 자동 노화 역전</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>{PAWN_labelShort}의 사상에 따라, 자동으로 이 재구축기에서 매년 노화 역전을 받습니다. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>활성화할 경우, 재구축기가 준비된 상태면 {PAWN_labelShort}(은)는 {TIME} 후 스스로 다음 노화 역전을 받습니다.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort}(이)가 이미 다음 노화 역전을 원합니다. 활성화하면 스스로 절차를 시작할 것입니다.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>생체 재구축기 절차를 위한 재료 수집 중</BiosculpterJobReportCollectIngredients>
 </LanguageData>
