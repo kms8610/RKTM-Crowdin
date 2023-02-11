@@ -1,42 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Execution_Abhorrent.label>always abhorrent</Execution_Abhorrent.label>
-  <Execution_Abhorrent.description>어떤 상황이라도 수감자를 처형하는 것은 정말로 혐오스럽고 사악한 행위이다.</Execution_Abhorrent.description>
-  <Execution_Abhorrent.comps.2.description>Executed prisoner</Execution_Abhorrent.comps.2.description>
-  <Execution_Abhorrent.comps.3.description>수감자의 죽음에 책임이 있음</Execution_Abhorrent.comps.3.description>
-  <Execution_Abhorrent.comps.4.description>Someone executed a colonist</Execution_Abhorrent.comps.4.description>
-  <Execution_Abhorrent.comps.5.description>Someone executed a guest</Execution_Abhorrent.comps.5.description>
-  <Execution_Abhorrent.comps.6.description>Someone executed a prisoner</Execution_Abhorrent.comps.6.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>정당한 정착민 처형</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>죄를 지은 동료가 처형당했어. 정당했지만 슬픈 일이야.</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>정착민 안락사</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>동료가 안락사 당했어. 인도적인 목적이었지만 슬픈 일이야.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>정착민 처형</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>동료가 냉혹하게 처형당했어. 불안해지는데.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>정착민 장기 적출 살해</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>누군가가 정착민의 장기를 뽑아 죽였어. 끔찍해.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>정착민을 립스캐너 함</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>우리 립스캐너 때문에 정착민이 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해.</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>
   
-  <Execution_DontCare.label>don't care</Execution_DontCare.label>
-  <Execution_DontCare.description>죄의 유무와 상관없이 모든 수감자는 처형할 수 있다.</Execution_DontCare.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>정당한 처형</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>죄를 지은 사람이 처형당했어. 정당한 일이라고 해도 슬픈 일이야.</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>안락사</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>누군가 안락사당했어. 인도적이긴 해도 슬픈 일이야.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>처형</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>누군가 냉혹하게 처형을 당했어. 나쁜 일인걸.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>장기 적출 살해</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>수감자나 방문객이 장기를 뽑혀 죽었어. 끔찍해.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>누군가를 립스캐너 함</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>우리 립스캐너 때문에 수감자가 사망했어. 그들의 두뇌는 기계에 공급하기 위해 불타 버렸지. 끔찍해.</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
   
-  <Execution_Horrible.label>always horrible</Execution_Horrible.label>
-  <Execution_Horrible.description>Executing a prisoner is a horrible thing under any circumstances.</Execution_Horrible.description>
-  <Execution_Horrible.comps.2.description>Executed prisoner</Execution_Horrible.comps.2.description>
-  <Execution_Horrible.comps.3.description>수감자의 죽음에 책임이 있음</Execution_Horrible.comps.3.description>
-  <Execution_Horrible.comps.5.description>Someone executed a colonist</Execution_Horrible.comps.5.description>
-  <Execution_Horrible.comps.6.description>Someone executed a guest</Execution_Horrible.comps.6.description>
-  <Execution_Horrible.comps.7.description>Someone executed a prisoner</Execution_Horrible.comps.7.description>
+  <ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>죄수 처형</ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>
   
-  <Execution_HorribleIfInnocent.label>horrible if innocent</Execution_HorribleIfInnocent.label>
-  <Execution_HorribleIfInnocent.description>Executing an innocent prisoner is a horrible thing. If the prisoner is guilty, it's acceptable.</Execution_HorribleIfInnocent.description>
-  <Execution_HorribleIfInnocent.comps.2.description>Executed innocent prisoner</Execution_HorribleIfInnocent.comps.2.description>
-  <Execution_HorribleIfInnocent.comps.3.description>결백한 수감자의 죽음에 책임이 있음</Execution_HorribleIfInnocent.comps.3.description>
-  <Execution_HorribleIfInnocent.comps.5.description>Someone executed a colonist</Execution_HorribleIfInnocent.comps.5.description>
-  <Execution_HorribleIfInnocent.comps.6.description>Someone executed a guest</Execution_HorribleIfInnocent.comps.6.description>
-  <Execution_HorribleIfInnocent.comps.7.description>Someone executed a prisoner</Execution_HorribleIfInnocent.comps.7.description>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>범죄자 처형 목격</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>우리는 죄를 지은 수감자를 처형했어. 정의가 구현되었어!</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
   
-  <Execution_Required.label>필요</Execution_Required.label>
-  <Execution_Required.description>Prisoners must be executed on a regular basis. When they are, it is a happy occasion.</Execution_Required.description>
-  <Execution_Required.comps.2.description>Executed prisoner</Execution_Required.comps.2.description>
-  <Execution_Required.comps.3.description>수감자의 죽음에 책임이 있음</Execution_Required.comps.3.description>
-  <Execution_Required.comps.4.description>Someone executed a prisoner</Execution_Required.comps.4.description>
-  <Execution_Required.comps.5.description>Someone executed a guest</Execution_Required.comps.5.description>
-  <Execution_Required.comps.6.description>No execution for {MINDAYSLASTEXECUTION} days</Execution_Required.comps.6.description>
-  <Execution_Required.comps.7.eventLabel>누군가를 처형</Execution_Required.comps.7.eventLabel>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>죄수 처형</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>더러운 죄수를 처형했어. 정의가 구현되었도다!</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
   
-  <Execution_RespectedIfGuilty.label>유죄일 경우 존중받음</Execution_RespectedIfGuilty.label>
-  <Execution_RespectedIfGuilty.description>죄의 유무와 상관없이 모든 수감자는 처형할 수 있다. 범죄를 저지른 자라면 그만큼 즐거운 일도 없을 것이다.</Execution_RespectedIfGuilty.description>
-  <Execution_RespectedIfGuilty.comps.3.eventLabel>누군가를 처형</Execution_RespectedIfGuilty.comps.3.eventLabel>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>결백한 수감자 처형</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>결백한 수감자를 처형해야만 했어. 어찌 내게 이런 시련이!</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>
+  
+  <ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>결백한 수감자 처형 목격</ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>
+  
+  <ExecutedPrisoner_Horrible.stages.executed_prisoner.label>포로 처형</ExecutedPrisoner_Horrible.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Horrible.stages.executed_prisoner.description>수감자를 처형해야만 했어. 내 믿음에 대한 모독이야.</ExecutedPrisoner_Horrible.stages.executed_prisoner.description>
+  
+  <ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>수감자 처형 목격</ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>수감자 처형 목격</ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>수감자 처형 목격</ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>포로 처형</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.description>수감자를 처형했어. 승자가 있다면 패자도 있는 법이지.</ExecutedPrisoner_Respected.stages.executed_prisoner.description>
+  
+  <Execution_Know_Respected_Mood.stages.execution.label>처형</Execution_Know_Respected_Mood.stages.execution.label>
+  <Execution_Know_Respected_Mood.stages.execution.description>우리는 수감자나 방문객을 처형하고 이 땅의 지배력을 증명했어.</Execution_Know_Respected_Mood.stages.execution.description>
+  
+  <GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>수감자 죽음 애도</GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>수감자의 죽음에 책임을 느낌</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>죄인을 죽음으로 인도했어. 정의는 실현될지니.</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>결백한 수감자 사망 (책임감)</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>
+  <InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>수감자의 죽음에 책임을 느껴. 나는 악마같은 놈이야.</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>결백한 수감자 사망 (책임감)</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>
+  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>수감자의 죽음에 책임을 느껴. 나는 끔찍한 사람일까?</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>수감자 죽음 애도</InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>결백한 수감자 사망</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>수감자 한 명이 부당한 방식으로 처형당했어. 우리는 포로를 보호할 의무가 있어. 처형하더라도 최소한 이렇게 야만적인 방법이 아니라 정당한 절차를 거쳐야 한다고.</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>
+  
+  <InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>수감자 죽음 애도</InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <NoRecentExecution.stages.no_execution.label>처형 없음</NoRecentExecution.stages.no_execution.label>
+  <NoRecentExecution.stages.no_execution.description>수감자를 처형한 지 너무 오래됐어. 우리가 목숨 하나 빼앗지 못할 정도로 나약한가?</NoRecentExecution.stages.no_execution.description>
+  
+  <PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>수감자 죽음 애도</PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <PrisonerDied_Respected.stages.prisoner_died_responsible.label>수감자 사망 (책임감)</PrisonerDied_Respected.stages.prisoner_died_responsible.label>
+  <PrisonerDied_Respected.stages.prisoner_died_responsible.description>난 수감자의 죽음에 책임이 있어! 모두 나를 미워할 거야.</PrisonerDied_Respected.stages.prisoner_died_responsible.description>
 </LanguageData>
