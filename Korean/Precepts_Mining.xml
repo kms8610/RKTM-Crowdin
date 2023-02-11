@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mining.label>채굴</Mining.label>
+  <MiningYield_High.label>높음</MiningYield_High.label>
+  <MiningYield_High.description>Mining is so important that we do it with great focus and respect, and we get more resources because of that.</MiningYield_High.description>
   
-  <MiningYield.label>채굴량</MiningYield.label>
+  <Mining_Disapproved.label>못마땅함</Mining_Disapproved.label>
+  <Mining_Disapproved.description>Mining into the natural earth is an ugly act.</Mining_Disapproved.description>
+  <Mining_Disapproved.comps.0.description>누군가가 채굴함</Mining_Disapproved.comps.0.description>
+  <Mining_Disapproved.comps.3.description>누군가가 채굴함</Mining_Disapproved.comps.3.description>
+  
+  <Mining_Horrible.label>끔찍함</Mining_Horrible.label>
+  <Mining_Horrible.description>Violating the natural earth with mining tools is a horrible act.</Mining_Horrible.description>
+  <Mining_Horrible.comps.0.description>누군가가 채굴함</Mining_Horrible.comps.0.description>
+  <Mining_Horrible.comps.3.description>누군가가 채굴함</Mining_Horrible.comps.3.description>
+  
+  <Mining_Prohibited.label>금기</Mining_Prohibited.label>
+  <Mining_Prohibited.description>Raping the natural earth with mining tools is a horrifically evil act.</Mining_Prohibited.description>
+  <Mining_Prohibited.comps.0.description>채굴</Mining_Prohibited.comps.0.description>
+  <Mining_Prohibited.comps.3.description>누군가가 채굴함</Mining_Prohibited.comps.3.description>
 </LanguageData>
