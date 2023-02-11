@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_Shell_Tox.label>crwdns427448:0crwdne427448:0</Bullet_Shell_Tox.label>
+  
+  <DeathrestCapacitySerum.label>crwdns427450:0crwdne427450:0</DeathrestCapacitySerum.label>
+  <DeathrestCapacitySerum.description>crwdns427452:0crwdne427452:0</DeathrestCapacitySerum.description>
+  <DeathrestCapacitySerum.comps.CompUsable.useLabel>crwdns427454:0{0_label}crwdne427454:0</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+  
+  <NanostructuringChip.label>crwdns427456:0crwdne427456:0</NanostructuringChip.label>
+  <NanostructuringChip.description>crwdns427458:0crwdne427458:0</NanostructuringChip.description>
+  <NanostructuringChip.comps.CompStudiable.completedLetterText>crwdns427460:0{PARENT_label}crwdnd427460:0{STUDIER_labelShort}crwdnd427460:0{RESEARCH}crwdne427460:0</NanostructuringChip.comps.CompStudiable.completedLetterText>
+  <NanostructuringChip.comps.CompStudiable.completedLetterTitle>crwdns427462:0{PARENT_label}crwdnd427462:0{RESEARCH}crwdne427462:0</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
+  
+  <PowerfocusChip.label>crwdns427464:0crwdne427464:0</PowerfocusChip.label>
+  <PowerfocusChip.description>crwdns427466:0crwdne427466:0</PowerfocusChip.description>
+  <PowerfocusChip.comps.CompStudiable.completedLetterText>crwdns427468:0{PARENT_label}crwdnd427468:0{STUDIER_labelShort}crwdnd427468:0{RESEARCH}crwdne427468:0</PowerfocusChip.comps.CompStudiable.completedLetterText>
+  <PowerfocusChip.comps.CompStudiable.completedLetterTitle>crwdns427470:0{PARENT_label}crwdnd427470:0{RESEARCH}crwdne427470:0</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
+  
+  <Shell_Toxic.label>crwdns427472:0crwdne427472:0</Shell_Toxic.label>
+  <Shell_Toxic.description>crwdns427474:0crwdne427474:0</Shell_Toxic.description>
+  
+  <Shell_Toxic_Releasing.label>crwdns427476:0crwdne427476:0</Shell_Toxic_Releasing.label>
+  
+  <Shell_Toxic_Releasing_Water.label>crwdns427478:0crwdne427478:0</Shell_Toxic_Releasing_Water.label>
+  
+  <SignalChip.label>crwdns427480:0crwdne427480:0</SignalChip.label>
+  <SignalChip.description>crwdns427482:0crwdne427482:0</SignalChip.description>
+  <SignalChip.comps.CompStudiable.completedLetterText>crwdns427484:0{PARENT_label}crwdnd427484:0{STUDIER_labelShort}crwdnd427484:0{RESEARCH}crwdne427484:0</SignalChip.comps.CompStudiable.completedLetterText>
+  <SignalChip.comps.CompStudiable.completedLetterTitle>crwdns427486:0{PARENT_label}crwdnd427486:0{RESEARCH}crwdne427486:0</SignalChip.comps.CompStudiable.completedLetterTitle>
+  
+  <SubcoreBasic.label>crwdns427488:0crwdne427488:0</SubcoreBasic.label>
+  <SubcoreBasic.description>crwdns427490:0crwdne427490:0</SubcoreBasic.description>
+  
+  <SubcoreHigh.label>crwdns427492:0crwdne427492:0</SubcoreHigh.label>
+  <SubcoreHigh.description>crwdns427494:0crwdne427494:0</SubcoreHigh.description>
+  
+  <SubcoreRegular.label>crwdns427496:0crwdne427496:0</SubcoreRegular.label>
+  <SubcoreRegular.description>crwdns427498:0crwdne427498:0</SubcoreRegular.description>
+  
+  <Wastepack.label>crwdns427500:0crwdne427500:0</Wastepack.label>
+  <Wastepack.description>crwdns427502:0crwdne427502:0</Wastepack.description>
+</LanguageData>
