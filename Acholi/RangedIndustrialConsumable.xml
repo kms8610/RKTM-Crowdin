@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_DoomsdayRocket.label>crwdns473956:0crwdne473956:0</Bullet_DoomsdayRocket.label>
+  
+  <Bullet_Rocket.label>crwdns473958:0crwdne473958:0</Bullet_Rocket.label>
+  
+  <Gun_DoomsdayRocket.label>crwdns473960:0crwdne473960:0</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>crwdns473962:0crwdne473962:0</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.barrel.label>crwdns473964:0crwdne473964:0</Gun_DoomsdayRocket.tools.barrel.label>
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>crwdns473966:0crwdne473966:0</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  
+  <Gun_TripleRocket.label>crwdns473968:0crwdne473968:0</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>crwdns473970:0crwdne473970:0</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.barrel.label>crwdns473972:0crwdne473972:0</Gun_TripleRocket.tools.barrel.label>
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>crwdns473974:0crwdne473974:0</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+</LanguageData>
