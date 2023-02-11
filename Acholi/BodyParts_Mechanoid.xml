@@ -1,47 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BulbTurret.label>crwdns421178:0crwdne421178:0</BulbTurret.label>
+  <ArtificialBrain.label>crwdns455950:0crwdne455950:0</ArtificialBrain.label>
   
-  <DiabolusCapacitor.label>crwdns421180:0crwdne421180:0</DiabolusCapacitor.label>
+  <Blade.label>crwdns455952:0crwdne455952:0</Blade.label>
   
-  <MechanicalDiabolusBodyFifthRing.label>crwdns421182:0crwdne421182:0</MechanicalDiabolusBodyFifthRing.label>
-  <MechanicalDiabolusBodyFifthRing.labelShort>crwdns421184:0crwdne421184:0</MechanicalDiabolusBodyFifthRing.labelShort>
+  <FluidReprocessor.label>crwdns455954:0crwdne455954:0</FluidReprocessor.label>
   
-  <MechanicalDiabolusBodyFirstRing.label>crwdns421186:0crwdne421186:0</MechanicalDiabolusBodyFirstRing.label>
-  <MechanicalDiabolusBodyFirstRing.labelShort>crwdns421188:0crwdne421188:0</MechanicalDiabolusBodyFirstRing.labelShort>
+  <HearingSensor.label>crwdns455956:0crwdne455956:0</HearingSensor.label>
   
-  <MechanicalDiabolusBodyFourthRing.label>crwdns421190:0crwdne421190:0</MechanicalDiabolusBodyFourthRing.label>
-  <MechanicalDiabolusBodyFourthRing.labelShort>crwdns421192:0crwdne421192:0</MechanicalDiabolusBodyFourthRing.labelShort>
+  <MechanicalArm.label>crwdns455958:0crwdne455958:0</MechanicalArm.label>
   
-  <MechanicalDiabolusBodySecondRing.label>crwdns421194:0crwdne421194:0</MechanicalDiabolusBodySecondRing.label>
-  <MechanicalDiabolusBodySecondRing.labelShort>crwdns421196:0crwdne421196:0</MechanicalDiabolusBodySecondRing.labelShort>
+  <MechanicalCentipedeBodyFifthRing.label>crwdns455960:0crwdne455960:0</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFifthRing.labelShort>crwdns455962:0crwdne455962:0</MechanicalCentipedeBodyFifthRing.labelShort>
   
-  <MechanicalDiabolusBodySixthRing.label>crwdns421198:0crwdne421198:0</MechanicalDiabolusBodySixthRing.label>
-  <MechanicalDiabolusBodySixthRing.labelShort>crwdns421200:0crwdne421200:0</MechanicalDiabolusBodySixthRing.labelShort>
+  <MechanicalCentipedeBodyFirstRing.label>crwdns455964:0crwdne455964:0</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFirstRing.labelShort>crwdns455966:0crwdne455966:0</MechanicalCentipedeBodyFirstRing.labelShort>
   
-  <MechanicalDiabolusBodyThirdRing.label>crwdns421202:0crwdne421202:0</MechanicalDiabolusBodyThirdRing.label>
-  <MechanicalDiabolusBodyThirdRing.labelShort>crwdns421204:0crwdne421204:0</MechanicalDiabolusBodyThirdRing.labelShort>
+  <MechanicalCentipedeBodyFourthRing.label>crwdns455968:0crwdne455968:0</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFourthRing.labelShort>crwdns455970:0crwdne455970:0</MechanicalCentipedeBodyFourthRing.labelShort>
   
-  <MechanicalWarqueenBodyFifthRing.label>crwdns421206:0crwdne421206:0</MechanicalWarqueenBodyFifthRing.label>
-  <MechanicalWarqueenBodyFifthRing.labelShort>crwdns421208:0crwdne421208:0</MechanicalWarqueenBodyFifthRing.labelShort>
+  <MechanicalCentipedeBodySecondRing.label>crwdns455972:0crwdne455972:0</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySecondRing.labelShort>crwdns455974:0crwdne455974:0</MechanicalCentipedeBodySecondRing.labelShort>
   
-  <MechanicalWarqueenBodyFirstRing.label>crwdns421210:0crwdne421210:0</MechanicalWarqueenBodyFirstRing.label>
-  <MechanicalWarqueenBodyFirstRing.labelShort>crwdns421212:0crwdne421212:0</MechanicalWarqueenBodyFirstRing.labelShort>
+  <MechanicalCentipedeBodySixthRing.label>crwdns455976:0crwdne455976:0</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodySixthRing.labelShort>crwdns455978:0crwdne455978:0</MechanicalCentipedeBodySixthRing.labelShort>
   
-  <MechanicalWarqueenBodyFourthRing.label>crwdns421214:0crwdne421214:0</MechanicalWarqueenBodyFourthRing.label>
-  <MechanicalWarqueenBodyFourthRing.labelShort>crwdns421216:0crwdne421216:0</MechanicalWarqueenBodyFourthRing.labelShort>
+  <MechanicalCentipedeBodyThirdRing.label>crwdns455980:0crwdne455980:0</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyThirdRing.labelShort>crwdns455982:0crwdne455982:0</MechanicalCentipedeBodyThirdRing.labelShort>
   
-  <MechanicalWarqueenBodySecondRing.label>crwdns421218:0crwdne421218:0</MechanicalWarqueenBodySecondRing.label>
-  <MechanicalWarqueenBodySecondRing.labelShort>crwdns421220:0crwdne421220:0</MechanicalWarqueenBodySecondRing.labelShort>
+  <MechanicalFinger.label>crwdns455984:0crwdne455984:0</MechanicalFinger.label>
   
-  <MechanicalWarqueenBodyThirdRing.label>crwdns421222:0crwdne421222:0</MechanicalWarqueenBodyThirdRing.label>
-  <MechanicalWarqueenBodyThirdRing.labelShort>crwdns421224:0crwdne421224:0</MechanicalWarqueenBodyThirdRing.labelShort>
+  <MechanicalFoot.label>crwdns455986:0crwdne455986:0</MechanicalFoot.label>
   
-  <MechanicalWarqueenFormingPod.label>crwdns421226:0crwdne421226:0</MechanicalWarqueenFormingPod.label>
+  <MechanicalHand.label>crwdns455988:0crwdne455988:0</MechanicalHand.label>
   
-  <PowerClaw.label>crwdns421228:0crwdne421228:0</PowerClaw.label>
+  <MechanicalHead.label>crwdns455990:0crwdne455990:0</MechanicalHead.label>
   
-  <SmallMechanicalFoot.label>crwdns421230:0crwdne421230:0</SmallMechanicalFoot.label>
+  <MechanicalLeg.label>crwdns455992:0crwdne455992:0</MechanicalLeg.label>
   
-  <SmallMechanicalLeg.label>crwdns421232:0crwdne421232:0</SmallMechanicalLeg.label>
+  <MechanicalNeck.label>crwdns455994:0crwdne455994:0</MechanicalNeck.label>
+  
+  <MechanicalShoulder.label>crwdns455996:0crwdne455996:0</MechanicalShoulder.label>
+  
+  <MechanicalThorax.label>crwdns455998:0crwdne455998:0</MechanicalThorax.label>
+  
+  <MechanicalThoraxCanManipulate.label>crwdns456000:0crwdne456000:0</MechanicalThoraxCanManipulate.label>
+  
+  <Reactor.label>crwdns456002:0crwdne456002:0</Reactor.label>
+  
+  <SightSensor.label>crwdns456004:0crwdne456004:0</SightSensor.label>
+  
+  <SmellSensor.label>crwdns456006:0crwdne456006:0</SmellSensor.label>
 </LanguageData>
