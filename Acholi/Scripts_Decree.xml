@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Decree_BuildMonument.questDescriptionRules.rulesStrings>
+    <li>crwdns447068:0[decreeIntro]crwdnd447068:0[monumentSize]crwdnd447068:0[monumentRequiredResourcesMarketValue_money]crwdnd447068:0[monumentRequiredResources]crwdnd447068:0[decreeThreatInfo]crwdnd447068:0[keepMonumentTicks_duration]crwdnd447068:0[asker_nameDef]crwdne447068:0</li>
+  </Decree_BuildMonument.questDescriptionRules.rulesStrings>
+  <Decree_BuildMonument.questNameRules.rulesStrings>
+    <li>crwdns447070:0crwdne447070:0</li>
+  </Decree_BuildMonument.questNameRules.rulesStrings>
+  <Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>crwdns447072:0crwdne447072:0</Decree_BuildMonument.LetterLabelNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>crwdns447074:0crwdne447074:0</Decree_BuildMonument.LetterTextNewMonumentMarkerArrived.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>crwdns447076:0crwdne447076:0</Decree_BuildMonument.LetterLabelMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>crwdns447078:0[keepMonumentTicks_duration]crwdnd447078:0[asker_nameDef]crwdne447078:0</Decree_BuildMonument.LetterTextMonumentCompleted.slateRef>
+  <Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>crwdns447080:0crwdne447080:0</Decree_BuildMonument.LetterLabelMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>crwdns447082:0[asker_nameDef]crwdnd447082:0[asker_pronoun]crwdne447082:0</Decree_BuildMonument.LetterTextMonumentDestroyed.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>crwdns447084:0{0}crwdne447084:0</Decree_BuildMonument.DontDestroyMonumentForDays.slateRef>
+  <Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>crwdns447086:0{0}crwdne447086:0</Decree_BuildMonument.DontDestroyMonumentForDaysTip.slateRef>
+  <Decree_BuildMonument.KeepMonument.slateRef>crwdns447088:0{0}crwdne447088:0</Decree_BuildMonument.KeepMonument.slateRef>
+  
+  <Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+    <li>crwdns447090:0[decreeIntro]crwdnd447090:0[plantToHarvest_label]crwdnd447090:0[harvestItemCount]crwdnd447090:0[plantToHarvest_label]crwdnd447090:0[decreeThreatInfo]crwdne447090:0</li>
+  </Decree_HarvestCrop.questDescriptionRules.rulesStrings>
+  <Decree_HarvestCrop.questNameRules.rulesStrings>
+    <li>crwdns447092:0[plantToHarvest_label]crwdne447092:0</li>
+  </Decree_HarvestCrop.questNameRules.rulesStrings>
+  
+  <Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+    <li>crwdns447094:0[decreeIntro]crwdnd447094:0[animalToHuntWithCount]crwdnd447094:0[decreeThreatInfo]crwdne447094:0</li>
+    <li>crwdns447096:0[animalToHunt_indefinite]crwdne447096:0</li>
+    <li>crwdns447098:0[countToHunt]crwdnd447098:0[animalToHunt_labelPlural]crwdne447098:0</li>
+  </Decree_HuntAnimal.questDescriptionRules.rulesStrings>
+  <Decree_HuntAnimal.questNameRules.rulesStrings>
+    <li>crwdns447100:0[animalToHunt_label]crwdne447100:0</li>
+  </Decree_HuntAnimal.questNameRules.rulesStrings>
+  
+  <Decree_ProduceItem.questDescriptionRules.rulesStrings>
+    <li>crwdns447102:0[decreeIntro]crwdnd447102:0[thingToProduceLabel]crwdnd447102:0[decreeThreatInfo]crwdne447102:0</li>
+  </Decree_ProduceItem.questDescriptionRules.rulesStrings>
+  <Decree_ProduceItem.questNameRules.rulesStrings>
+    <li>crwdns447104:0[defToProduce_label]crwdne447104:0</li>
+  </Decree_ProduceItem.questNameRules.rulesStrings>
+</LanguageData>
