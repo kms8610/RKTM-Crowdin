@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beauty.degreeDatas.beautiful.label>crwdns476290:0crwdne476290:0</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.description>crwdns476292:0[PAWN_nameDef]crwdnd476292:0[PAWN_objective]crwdnd476292:0[PAWN_pronoun]crwdnd476292:0[PAWN_possessive]crwdne476292:0</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.pretty.label>crwdns476294:0crwdne476294:0</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.description>crwdns476296:0[PAWN_nameDef]crwdnd476296:0[PAWN_objective]crwdne476296:0</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.ugly.label>crwdns476298:0crwdne476298:0</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.description>crwdns476300:0[PAWN_nameDef]crwdne476300:0</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.label>crwdns476302:0crwdne476302:0</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.description>crwdns476304:0[PAWN_nameDef]crwdnd476304:0[PAWN_possessive]crwdnd476304:0[PAWN_objective]crwdne476304:0</Beauty.degreeDatas.staggeringly_ugly.description>
+  
+  <DrugDesire.degreeDatas.chemical_fascination.label>crwdns476306:0crwdne476306:0</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.description>crwdns476308:0[PAWN_nameDef]crwdnd476308:0[PAWN_pronoun]crwdne476308:0</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_interest.label>crwdns476310:0crwdne476310:0</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.description>crwdns476312:0[PAWN_nameDef]crwdnd476312:0[PAWN_pronoun]crwdne476312:0</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.teetotaler.label>crwdns476314:0crwdne476314:0</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.description>crwdns476316:0[PAWN_nameDef]crwdnd476316:0[PAWN_pronoun]crwdne476316:0</DrugDesire.degreeDatas.teetotaler.description>
+  
+  <Immunity.degreeDatas.superimmune.label>crwdns476318:0crwdne476318:0</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.description>crwdns476320:0[PAWN_nameDef]crwdnd476320:0[PAWN_pronoun]crwdne476320:0</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.sickly.label>crwdns476322:0crwdne476322:0</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.description>crwdns476324:0[PAWN_nameDef]crwdnd476324:0[PAWN_pronoun]crwdne476324:0</Immunity.degreeDatas.sickly.description>
+  
+  <Industriousness.degreeDatas.industrious.label>crwdns476326:0crwdne476326:0</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.description>crwdns476328:0[PAWN_nameDef]crwdne476328:0</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.hard_worker.label>crwdns476330:0crwdne476330:0</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.description>crwdns476332:0[PAWN_nameDef]crwdne476332:0</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.lazy.label>crwdns476334:0crwdne476334:0</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.description>crwdns476336:0[PAWN_nameDef]crwdne476336:0</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.slothful.label>crwdns476338:0crwdne476338:0</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.description>crwdns476340:0[PAWN_nameDef]crwdnd476340:0[PAWN_pronoun]crwdne476340:0</Industriousness.degreeDatas.slothful.description>
+  
+  <NaturalMood.degreeDatas.sanguine.label>crwdns476342:0crwdne476342:0</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.description>crwdns476344:0[PAWN_nameDef]crwdnd476344:0[PAWN_possessive]crwdne476344:0</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.optimist.label>crwdns476346:0crwdne476346:0</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.description>crwdns476348:0[PAWN_nameDef]crwdnd476348:0[PAWN_objective]crwdne476348:0</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.pessimist.label>crwdns476350:0crwdne476350:0</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.description>crwdns476352:0[PAWN_nameDef]crwdne476352:0</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.depressive.label>crwdns476354:0crwdne476354:0</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.description>crwdns476356:0[PAWN_nameDef]crwdnd476356:0[PAWN_pronoun]crwdne476356:0</NaturalMood.degreeDatas.depressive.description>
+  
+  <Nerves.degreeDatas.ironwilled.label>crwdns476358:0crwdne476358:0</Nerves.degreeDatas.ironwilled.label>
+  <Nerves.degreeDatas.ironwilled.description>crwdns476360:0[PAWN_nameDef]crwdnd476360:0[PAWN_pronoun]crwdne476360:0</Nerves.degreeDatas.ironwilled.description>
+  <Nerves.degreeDatas.steadfast.label>crwdns476362:0crwdne476362:0</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.description>crwdns476364:0[PAWN_nameDef]crwdne476364:0</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.nervous.label>crwdns476366:0crwdne476366:0</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.description>crwdns476368:0[PAWN_nameDef]crwdne476368:0</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.volatile.label>crwdns476370:0crwdne476370:0</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.description>crwdns476372:0[PAWN_nameDef]crwdnd476372:0[PAWN_pronoun]crwdne476372:0</Nerves.degreeDatas.volatile.description>
+  
+  <Neurotic.degreeDatas.neurotic.label>crwdns476374:0crwdne476374:0</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.description>crwdns476376:0[PAWN_nameDef]crwdnd476376:0[PAWN_pronoun]crwdnd476376:0[PAWN_possessive]crwdnd476376:0[PAWN_objective]crwdne476376:0</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.label>crwdns476378:0crwdne476378:0</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.description>crwdns476380:0[PAWN_nameDef]crwdnd476380:0[PAWN_pronoun]crwdnd476380:0[PAWN_possessive]crwdnd476380:0[PAWN_objective]crwdne476380:0</Neurotic.degreeDatas.very_neurotic.description>
+  
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>crwdns476382:0crwdne476382:0</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>crwdns476384:0[PAWN_nameDef]crwdnd476384:0[PAWN_pronoun]crwdne476384:0</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>crwdns476386:0crwdne476386:0</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>crwdns476388:0[PAWN_nameDef]crwdne476388:0</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>crwdns476390:0crwdne476390:0</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>crwdns476392:0[PAWN_nameDef]crwdnd476392:0[PAWN_pronoun]crwdne476392:0</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>crwdns476394:0crwdne476394:0</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>crwdns476396:0[PAWN_nameDef]crwdnd476396:0[PAWN_pronoun]crwdne476396:0</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>crwdns476398:0crwdne476398:0</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>crwdns476400:0[PAWN_nameDef]crwdnd476400:0[PAWN_pronoun]crwdne476400:0</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>crwdns476402:0crwdne476402:0</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>crwdns476404:0[PAWN_nameDef]crwdnd476404:0[PAWN_pronoun]crwdne476404:0</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  
+  <SpeedOffset.degreeDatas.slowpoke.label>crwdns476406:0crwdne476406:0</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.description>crwdns476408:0[PAWN_nameDef]crwdnd476408:0[PAWN_pronoun]crwdne476408:0</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.fast_walker.label>crwdns476410:0crwdne476410:0</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.description>crwdns476412:0[PAWN_nameDef]crwdnd476412:0[PAWN_pronoun]crwdnd476412:0[PAWN_pronoun]crwdne476412:0</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.jogger.label>crwdns476414:0crwdne476414:0</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.description>crwdns476416:0[PAWN_nameDef]crwdne476416:0</SpeedOffset.degreeDatas.jogger.description>
+</LanguageData>
