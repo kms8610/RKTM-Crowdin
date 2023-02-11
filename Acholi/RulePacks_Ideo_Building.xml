@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerAltar.rulePack.rulesStrings>
+    <li>crwdns438950:0crwdne438950:0</li>
+    <li>crwdns438952:0crwdne438952:0</li>
+    <li>crwdns438954:0crwdne438954:0</li>
+    <li>crwdns438956:0crwdne438956:0</li>
+  </NamerAltar.rulePack.rulesStrings>
+  
+  <NamerBurnTarget.rulePack.rulesStrings>
+    <li>crwdns438958:0crwdne438958:0</li>
+    <li>crwdns438960:0crwdne438960:0</li>
+    <li>crwdns438962:0crwdne438962:0</li>
+  </NamerBurnTarget.rulePack.rulesStrings>
+  
+  <NamerCannibalPlatter.rulePack.rulesStrings>
+    <li>crwdns438964:0crwdne438964:0</li>
+    <li>crwdns438966:0crwdne438966:0</li>
+    <li>crwdns438968:0crwdne438968:0</li>
+    <li>crwdns438970:0crwdne438970:0</li>
+  </NamerCannibalPlatter.rulePack.rulesStrings>
+  
+  <NamerChristmasTree.rulePack.rulesStrings>
+    <li>crwdns438972:0crwdne438972:0</li>
+    <li>crwdns438974:0crwdne438974:0</li>
+  </NamerChristmasTree.rulePack.rulesStrings>
+  
+  <NamerIdeoBuilding.rulePack.rulesStrings>
+    <li>crwdns438976:0[memeAdjective]crwdnd438976:0[buildingName]crwdne438976:0</li>
+    <li>crwdns438978:0[buildingName]crwdnd438978:0[chosenTheme]crwdne438978:0</li>
+    <li>crwdns438980:0[chosenAdjective]crwdnd438980:0[buildingName]crwdne438980:0</li>
+    <li>crwdns438982:0[keyDeity]crwdnd438982:0[buildingName]crwdne438982:0</li>
+    <li>crwdns438984:0[buildingName]crwdnd438984:0[keyDeity]crwdne438984:0</li>
+    <li>crwdns438986:0[buildingName]crwdnd438986:0[memeConcept]crwdne438986:0</li>
+    <li>crwdns438988:0[buildingName]crwdnd438988:0[chosenIdeoName]crwdne438988:0</li>
+  </NamerIdeoBuilding.rulePack.rulesStrings>
+  
+  <NamerIdeoSculpture.rulePack.rulesStrings>
+    <li>crwdns438990:0crwdne438990:0</li>
+    <li>crwdns438992:0crwdne438992:0</li>
+    <li>crwdns438994:0crwdne438994:0</li>
+    <li>crwdns438996:0crwdne438996:0</li>
+    <li>crwdns438998:0crwdne438998:0</li>
+    <li>crwdns439000:0crwdne439000:0</li>
+  </NamerIdeoSculpture.rulePack.rulesStrings>
+  
+  <NamerIdeogram.rulePack.rulesStrings>
+    <li>crwdns439002:0crwdne439002:0</li>
+    <li>crwdns439004:0crwdne439004:0</li>
+    <li>crwdns439006:0crwdne439006:0</li>
+    <li>crwdns439008:0crwdne439008:0</li>
+    <li>crwdns439010:0crwdne439010:0</li>
+    <li>crwdns439012:0crwdne439012:0</li>
+    <li>crwdns439014:0crwdne439014:0</li>
+    <li>crwdns439016:0crwdne439016:0</li>
+  </NamerIdeogram.rulePack.rulesStrings>
+  
+  <NamerSmoker.rulePack.rulesStrings>
+    <li>crwdns439018:0crwdne439018:0</li>
+    <li>crwdns439020:0crwdne439020:0</li>
+    <li>crwdns439022:0crwdne439022:0</li>
+    <li>crwdns439024:0crwdne439024:0</li>
+  </NamerSmoker.rulePack.rulesStrings>
+</LanguageData>
