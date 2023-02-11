@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Convert.label>crwdns437134:0crwdne437134:0</Convert.label>
-  <Convert.description>crwdns437136:0crwdne437136:0</Convert.description>
+  <AttemptRecruit.label>crwdns461188:0crwdne461188:0</AttemptRecruit.label>
+  <AttemptRecruit.description>crwdns461190:0crwdne461190:0</AttemptRecruit.description>
   
-  <Enslave.label>crwdns437138:0crwdne437138:0</Enslave.label>
-  <Enslave.description>crwdns437140:0crwdne437140:0</Enslave.description>
+  <Execution.label>crwdns461192:0crwdne461192:0</Execution.label>
+  <Execution.description>crwdns461194:0crwdne461194:0</Execution.description>
   
-  <ReduceWill.label>crwdns437142:0crwdne437142:0</ReduceWill.label>
-  <ReduceWill.description>crwdns437144:0crwdne437144:0</ReduceWill.description>
+  <NoInteraction.label>crwdns461196:0crwdne461196:0</NoInteraction.label>
+  <NoInteraction.description>crwdns461198:0crwdne461198:0</NoInteraction.description>
+  
+  <ReduceResistance.label>crwdns461200:0crwdne461200:0</ReduceResistance.label>
+  <ReduceResistance.description>crwdns461202:0crwdne461202:0</ReduceResistance.description>
+  
+  <Release.label>crwdns461204:0crwdne461204:0</Release.label>
+  <Release.description>crwdns461206:0crwdne461206:0</Release.description>
 </LanguageData>
