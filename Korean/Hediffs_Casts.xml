@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mote_CombatCommand.label>Mote</Mote_CombatCommand.label>
+  <BerserkTrance.label>피의 무아지경</BerserkTrance.label>
+  <BerserkTrance.description>이 정착민은 도덕적 광신과 사상적 불만을 통해 자신을 분노로 몰아넣었습니다. 전신의 모든 근육이 최상의 능력을 발휘하지만 진정하기 아주 어려워집니다.</BerserkTrance.description>
   
-  <Mote_CombatCommandLinkLine.label>Mote</Mote_CombatCommandLinkLine.label>
+  <CombatCommand.label>전투 지휘</CombatCommand.label>
+  <CombatCommand.description>이 정착민은 지휘 능력을 활용하여 주변 아군의 근접 전투력을 증가시키고 있습니다.</CombatCommand.description>
   
-  <Mote_WorkCommand.label>Mote</Mote_WorkCommand.label>
+  <CombatCommandBuff.label>전투 지휘</CombatCommandBuff.label>
+  <CombatCommandBuff.description>누군가의 지도에 의해 근접 전투 능력이 향상되었습니다.</CombatCommandBuff.description>
   
-  <Mote_WorkCommandLinkLine.label>Mote</Mote_WorkCommandLinkLine.label>
+  <FarmingCommand.label>농업 감독</FarmingCommand.label>
+  <FarmingCommand.description>이 정착민은 기술 지도 능력을 이용하여 주위 모든 이의 농업 능력을 향상시키고 있습니다.</FarmingCommand.description>
+  
+  <FarmingCommandBuff.label>농업 감독</FarmingCommandBuff.label>
+  <FarmingCommandBuff.description>누군가의 지도에 의해 농업 능력이 향상되었습니다.</FarmingCommandBuff.description>
+  
+  <ImmunityDrive.label>면역 증진</ImmunityDrive.label>
+  <ImmunityDrive.description>이 사람은 사상적 본질에 관한 지지와 격려를 받았습니다. 정신적 믿음이 신체에 활기를 불어넣어 면역 체계를 향상시켰습니다.</ImmunityDrive.description>
+  
+  <MarksmanCommand.label>사수 지휘</MarksmanCommand.label>
+  <MarksmanCommand.description>이 정착민은 우월한 전투 지휘 능력으로 효과 범위 내 모든 아군에게 사격 명중 보너스를 제공합니다.</MarksmanCommand.description>
+  
+  <MarksmanCommandBuff.label>사수 지휘</MarksmanCommandBuff.label>
+  <MarksmanCommandBuff.description>누군가의 전투 지휘에 의해 이 정착민의 사격 능력이 향상되었습니다.</MarksmanCommandBuff.description>
+  
+  <MiningCommand.label>채굴 감독</MiningCommand.label>
+  <MiningCommand.description>이 정착민은 기술 지도 능력을 이용하여 주위 모든 이의 채굴 속도를 향상시키고 있습니다.</MiningCommand.description>
+  
+  <MiningCommandBuff.label>채굴 감독</MiningCommandBuff.label>
+  <MiningCommandBuff.description>누군가의 지도에 의해 채굴 속도가 향상되었습니다.</MiningCommandBuff.description>
+  
+  <PreachHealth.label>건강 상담</PreachHealth.label>
+  <PreachHealth.description>대상의 생존 의지가 영적 지도자와의 상담에 의해 강화되었습니다. 체력과 항체 생성 속도가 향상되었습니다.</PreachHealth.description>
+  
+  <ProductionCommand.label>생산 감독</ProductionCommand.label>
+  <ProductionCommand.description>이 정착민은 기술 지도 능력을 이용하여 주위 모든 이의 건설과 제작 능력을 향상시키고 있습니다.</ProductionCommand.description>
+  
+  <ProductionCommandBuff.label>생산 감독</ProductionCommandBuff.label>
+  <ProductionCommandBuff.description>누군가의 지도에 의해 건설과 제작 능력이 향상되었습니다.</ProductionCommandBuff.description>
+  
+  <ResearchCommand.label>연구 지휘</ResearchCommand.label>
+  <ResearchCommand.description>이 정착민은 참신한 제안과 인간적 격려를 통해 주위 모든 이들의 연구 속도를 향상시키고 있습니다.</ResearchCommand.description>
+  
+  <ResearchCommandBuff.label>연구 지휘</ResearchCommandBuff.label>
+  <ResearchCommandBuff.description>누군가의 연구 지휘에 의해 이 정착민의 연구 속도가 향상되었습니다.</ResearchCommandBuff.description>
+  
+  <WorkDrive.label>작업 격려</WorkDrive.label>
+  <WorkDrive.description>지도자에게 열심히 일하도록 격려받음.</WorkDrive.description>
 </LanguageData>
