@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AutonomousWeapons_Disapproved.label>crwdns436172:0crwdne436172:0</AutonomousWeapons_Disapproved.label>
-  <AutonomousWeapons_Disapproved.description>crwdns436174:0crwdne436174:0</AutonomousWeapons_Disapproved.description>
-  <AutonomousWeapons_Disapproved.comps.0.description>crwdns436176:0crwdne436176:0</AutonomousWeapons_Disapproved.comps.0.description>
+  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>crwdns440980:0crwdne440980:0</HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>crwdns440982:0crwdne440982:0</HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>
   
-  <AutonomousWeapons_Horrible.label>crwdns436178:0crwdne436178:0</AutonomousWeapons_Horrible.label>
-  <AutonomousWeapons_Horrible.description>crwdns436180:0crwdne436180:0</AutonomousWeapons_Horrible.description>
-  <AutonomousWeapons_Horrible.comps.0.description>crwdns436182:0crwdne436182:0</AutonomousWeapons_Horrible.comps.0.description>
+  <HasAutomatedTurrets_Horrible.stages.automated_weapons.label>crwdns440984:0crwdne440984:0</HasAutomatedTurrets_Horrible.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Horrible.stages.automated_weapons.description>crwdns440986:0crwdne440986:0</HasAutomatedTurrets_Horrible.stages.automated_weapons.description>
   
-  <AutonomousWeapons_Prohibited.label>crwdns436184:0crwdne436184:0</AutonomousWeapons_Prohibited.label>
-  <AutonomousWeapons_Prohibited.description>crwdns436186:0crwdne436186:0</AutonomousWeapons_Prohibited.description>
-  <AutonomousWeapons_Prohibited.comps.0.description>crwdns436188:0crwdne436188:0</AutonomousWeapons_Prohibited.comps.0.description>
-  <AutonomousWeapons_Prohibited.comps.1.description>crwdns436190:0crwdne436190:0</AutonomousWeapons_Prohibited.comps.1.description>
+  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>crwdns440988:0crwdne440988:0</HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>crwdns440990:0crwdne440990:0</HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>
 </LanguageData>
