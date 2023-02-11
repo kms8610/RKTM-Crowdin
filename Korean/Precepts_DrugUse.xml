@@ -1,32 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AdministeredDrug_Horrible.stages.administered_drug.label>약물 투여 목격</AdministeredDrug_Horrible.stages.administered_drug.label>
-  <AdministeredDrug_Horrible.stages.administered_drug.description>약물을 투여했어. 그것은 내 믿음에 대한 끔찍한 공격이었어.</AdministeredDrug_Horrible.stages.administered_drug.description>
-  
-  <AdministeredDrug_Know_Horrible.stages.administered_drug.label>약물 투여 목격</AdministeredDrug_Know_Horrible.stages.administered_drug.label>
-  
-  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>강한 약물 투여 목격</AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>
-  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>의약용도 아니고 사교용도 아닌 강력한 약물을 투여했어. 그것은 내 믿음에 대한 끔찍한 공격이었어.</AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>
-  
-  <AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>강한 약물 투여 목격</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>
-  
-  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>사교 약물 투여</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>
-  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>약물을 투여했어. 그것은 내 믿음에 대한 끔찍한 공격이었어.</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>
-  
-  <AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>사교 약물 투여 목격</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>
-  
-  <IngestedDrug_Horrible.stages.used_drug.label>약물 사용</IngestedDrug_Horrible.stages.used_drug.label>
-  <IngestedDrug_Horrible.stages.used_drug.description>약물을 사용했어. 더러운 화학물질이 도는 몸은 내 신념과 어울리지 않아.</IngestedDrug_Horrible.stages.used_drug.description>
-  
-  <IngestedDrug_Know_Horrible.stages.used_drug.label>약물 사용</IngestedDrug_Know_Horrible.stages.used_drug.label>
-  
-  <IngestedHardDrug_Horrible.stages.used_hard_drug.label>강한 약물 사용</IngestedHardDrug_Horrible.stages.used_hard_drug.label>
-  <IngestedHardDrug_Horrible.stages.used_hard_drug.description>의약용도 아니고 사교용도 아닌 강력한 약물을 사용했어. 그것은 내 믿음에 대한 끔찍한 공격이었어.</IngestedHardDrug_Horrible.stages.used_hard_drug.description>
-  
-  <IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>강한 약물 사용</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>
-  
-  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>사교 약물 사용</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>
-  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>사교용 약물을 사용했어. 그것은 내 믿음에 대한 공격이었어.</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>
-  
-  <IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>사교 약물 사용 목격</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>
+  <DrugUse.label>약물 사용</DrugUse.label>
 </LanguageData>
