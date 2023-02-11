@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AssemblySpeedFactor.label>crwdns426900:0crwdne426900:0</AssemblySpeedFactor.label>
-  <AssemblySpeedFactor.description>crwdns426902:0crwdne426902:0</AssemblySpeedFactor.description>
-  <AssemblySpeedFactor.parts.Room_cleanliness.customLabel>crwdns426904:0crwdne426904:0</AssemblySpeedFactor.parts.Room_cleanliness.customLabel>
-  
-  <BabyPlayGainFactor.label>crwdns426906:0crwdne426906:0</BabyPlayGainFactor.label>
-  <BabyPlayGainFactor.description>crwdns426908:0crwdne426908:0</BabyPlayGainFactor.description>
-  
-  <BirthRitualQualityOffset.label>crwdns426910:0crwdne426910:0</BirthRitualQualityOffset.label>
-  <BirthRitualQualityOffset.description>crwdns426912:0crwdne426912:0</BirthRitualQualityOffset.description>
-  
-  <GeneticComplexityIncrease.label>crwdns426914:0crwdne426914:0</GeneticComplexityIncrease.label>
-  <GeneticComplexityIncrease.description>crwdns426916:0crwdne426916:0</GeneticComplexityIncrease.description>
+  <BiosculpterPodSpeedFactor.label>crwdns439816:0crwdne439816:0</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.description>crwdns439818:0crwdne439818:0</BiosculpterPodSpeedFactor.description>
+  <BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>crwdns439820:0crwdne439820:0</BiosculpterPodSpeedFactor.parts.Room_cleanliness.customLabel>
 </LanguageData>
