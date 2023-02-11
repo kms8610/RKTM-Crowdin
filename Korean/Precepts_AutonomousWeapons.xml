@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AutonomousWeapons_Disapproved.label>못마땅함</AutonomousWeapons_Disapproved.label>
-  <AutonomousWeapons_Disapproved.description>기계에게 생사여탈권을 주는 것은 우려스러운 행위이다.</AutonomousWeapons_Disapproved.description>
-  <AutonomousWeapons_Disapproved.comps.0.description>정착지의 자동화된 무기</AutonomousWeapons_Disapproved.comps.0.description>
+  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 추한 일이야.</HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>
   
-  <AutonomousWeapons_Horrible.label>끔찍함</AutonomousWeapons_Horrible.label>
-  <AutonomousWeapons_Horrible.description>기계에게 생사여탈권을 주는 것은 끔찍한 행위이다.</AutonomousWeapons_Horrible.description>
-  <AutonomousWeapons_Horrible.comps.0.description>정착지의 자동화된 무기</AutonomousWeapons_Horrible.comps.0.description>
+  <HasAutomatedTurrets_Horrible.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Horrible.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Horrible.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 끔찍한 일이야.</HasAutomatedTurrets_Horrible.stages.automated_weapons.description>
   
-  <AutonomousWeapons_Prohibited.label>금기</AutonomousWeapons_Prohibited.label>
-  <AutonomousWeapons_Prohibited.description>기계에게 생사여탈권을 주는 것은 절대적으로 비인간적인 행위이다.</AutonomousWeapons_Prohibited.description>
-  <AutonomousWeapons_Prohibited.comps.0.description>정착지의 자동화된 무기</AutonomousWeapons_Prohibited.comps.0.description>
-  <AutonomousWeapons_Prohibited.comps.1.description>Build automated turret</AutonomousWeapons_Prohibited.comps.1.description>
+  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>
+  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 혐오스러운 일이야.</HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>
 </LanguageData>
