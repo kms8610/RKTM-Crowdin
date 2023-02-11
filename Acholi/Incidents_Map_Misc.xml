@@ -1,4 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WandererJoinAbasia.label>crwdns445742:0crwdne445742:0</WandererJoinAbasia.label>
+  <Alphabeavers.label>crwdns458656:0crwdne458656:0</Alphabeavers.label>
+  
+  <AmbrosiaSprout.label>crwdns458658:0crwdne458658:0</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>crwdns458660:0crwdne458660:0</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>crwdns458662:0crwdne458662:0</AmbrosiaSprout.letterText>
+  
+  <ColdSnap.label>crwdns458664:0crwdne458664:0</ColdSnap.label>
+  <ColdSnap.letterLabel>crwdns458666:0crwdne458666:0</ColdSnap.letterLabel>
+  
+  <CropBlight.label>crwdns458668:0crwdne458668:0</CropBlight.label>
+  
+  <FarmAnimalsWanderIn.label>crwdns458670:0crwdne458670:0</FarmAnimalsWanderIn.label>
+  
+  <Flashstorm.label>crwdns458672:0crwdne458672:0</Flashstorm.label>
+  <Flashstorm.letterLabel>crwdns458674:0crwdne458674:0</Flashstorm.letterLabel>
+  
+  <HeatWave.label>crwdns458676:0crwdne458676:0</HeatWave.label>
+  <HeatWave.letterLabel>crwdns458678:0crwdne458678:0</HeatWave.letterLabel>
+  
+  <HerdMigration.label>crwdns458680:0crwdne458680:0</HerdMigration.label>
+  <HerdMigration.letterLabel>crwdns458682:0{0}crwdne458682:0</HerdMigration.letterLabel>
+  <HerdMigration.letterText>crwdns458684:0{0}crwdne458684:0</HerdMigration.letterText>
+  
+  <MeteoriteImpact.label>crwdns458686:0crwdne458686:0</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>crwdns458688:0crwdne458688:0</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>crwdns458690:0{0}crwdne458690:0</MeteoriteImpact.letterText>
+  
+  <PsychicDrone.label>crwdns458692:0crwdne458692:0</PsychicDrone.label>
+  
+  <PsychicSoothe.label>crwdns458694:0crwdne458694:0</PsychicSoothe.label>
+  
+  <RansomDemand.label>crwdns458696:0crwdne458696:0</RansomDemand.label>
+  <RansomDemand.letterLabel>crwdns458698:0crwdne458698:0</RansomDemand.letterLabel>
+  
+  <RefugeePodCrash.label>crwdns458700:0crwdne458700:0</RefugeePodCrash.label>
+  
+  <ResourcePodCrash.label>crwdns458702:0crwdne458702:0</ResourcePodCrash.label>
+  
+  <SelfTame.label>crwdns458704:0crwdne458704:0</SelfTame.label>
+  
+  <ShortCircuit.label>crwdns458706:0crwdne458706:0</ShortCircuit.label>
+  
+  <ThrumboPasses.label>crwdns458708:0crwdne458708:0</ThrumboPasses.label>
+  
+  <ToxicFallout.label>crwdns458710:0crwdne458710:0</ToxicFallout.label>
+  <ToxicFallout.letterLabel>crwdns458712:0crwdne458712:0</ToxicFallout.letterLabel>
+  
+  <VolcanicWinter.label>crwdns458714:0crwdne458714:0</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>crwdns458716:0crwdne458716:0</VolcanicWinter.letterLabel>
+  
+  <WandererJoin.label>crwdns458718:0crwdne458718:0</WandererJoin.label>
+  
+  <WildManWandersIn.label>crwdns458720:0crwdne458720:0</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>crwdns458722:0{0}crwdne458722:0</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>crwdns458724:0{1}crwdnd458724:0{PAWN_pronoun}crwdnd458724:0{0}crwdnd458724:0{PAWN_objective}crwdne458724:0</WildManWandersIn.letterText>
 </LanguageData>
