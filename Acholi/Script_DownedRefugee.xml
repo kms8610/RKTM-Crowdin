@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>crwdns461260:0[refugee_nameDef]crwdnd461260:0[refugee_pronoun]crwdnd461260:0[refugee_nameDef]crwdnd461260:0[refugee_age]crwdnd461260:0[refugee_title]crwdnd461260:0[refugee_pronoun]crwdnd461260:0[refugee_objective]crwdnd461260:0[refugee_nameDef]crwdnd461260:0[allSitePartsDescriptionsExceptFirst]crwdnd461260:0[pawnInvolvedInQuestInfo]crwdne461260:0</li>
+    <li>crwdns461262:0[asker_nameDef]crwdnd461262:0[asker_faction_leaderTitle]crwdnd461262:0[asker_faction_name]crwdnd461262:0[asker_possessive]crwdnd461262:0[refugee_nameIndef]crwdnd461262:0[refugee_age]crwdnd461262:0[refugee_title]crwdnd461262:0[asker_nameDef]crwdnd461262:0[refugee_nameDef]crwdnd461262:0[refugee_nameDef]crwdnd461262:0[refugee_objective]crwdnd461262:0[refugee_pronoun]crwdnd461262:0[asker_nameDef]crwdnd461262:0[allSitePartsDescriptionsExceptFirst]crwdnd461262:0[pawnInvolvedInQuestInfo]crwdne461262:0</li>
+    <li>crwdns461264:0[refugee_pawnInvolvedInQuestInfo]crwdne461264:0</li>
+    <li>crwdns461266:0crwdne461266:0</li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>crwdns461268:0[refugee_nameDef]crwdne461268:0</li>
+    <li>crwdns461270:0[refugee_nameDef]crwdne461270:0</li>
+    <li>crwdns461272:0[refugee_nameDef]crwdne461272:0</li>
+    <li>crwdns461274:0[refugee_nameDef]crwdne461274:0</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>crwdns461276:0[resolvedQuestName]crwdne461276:0</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>crwdns461278:0[refugee_nameDef]crwdnd461278:0[refugee_pronoun]crwdnd461278:0[resolvedQuestName]crwdne461278:0</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+</LanguageData>
