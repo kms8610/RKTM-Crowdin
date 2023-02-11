@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>crwdns436554:0crwdne436554:0</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>crwdns436556:0crwdne436556:0</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>crwdns441886:0crwdne441886:0</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>crwdns441888:0crwdne441888:0</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_Mandatory.label>crwdns436558:0crwdne436558:0</Nudity_Female_Mandatory.label>
-  <Nudity_Female_Mandatory.description>crwdns436560:0crwdne436560:0</Nudity_Female_Mandatory.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>crwdns441890:0crwdne441890:0</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>crwdns441892:0crwdne441892:0</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_NoRules.label>crwdns436562:0crwdne436562:0</Nudity_Female_NoRules.label>
-  <Nudity_Female_NoRules.description>crwdns436564:0crwdne436564:0</Nudity_Female_NoRules.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>crwdns441894:0crwdne441894:0</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>crwdns441896:0crwdne441896:0</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
   
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>crwdns436566:0crwdne436566:0</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>crwdns436568:0crwdne436568:0</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>crwdns441898:0crwdne441898:0</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>crwdns436570:0crwdne436570:0</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>crwdns436572:0crwdne436572:0</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>crwdns441900:0crwdne441900:0</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinDisapproved.label>crwdns436574:0crwdne436574:0</Nudity_Female_UncoveredGroinDisapproved.label>
-  <Nudity_Female_UncoveredGroinDisapproved.description>crwdns436576:0crwdne436576:0</Nudity_Female_UncoveredGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>crwdns441902:0crwdne441902:0</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>crwdns441904:0crwdne441904:0</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
   
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>crwdns436578:0crwdne436578:0</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>crwdns436580:0crwdne436580:0</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>crwdns441906:0crwdne441906:0</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>crwdns441908:0crwdne441908:0</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
   
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>crwdns436582:0crwdne436582:0</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>crwdns436584:0crwdne436584:0</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>crwdns441910:0crwdne441910:0</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>crwdns441912:0crwdne441912:0</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
   
-  <Nudity_Male_Mandatory.label>crwdns436586:0crwdne436586:0</Nudity_Male_Mandatory.label>
-  <Nudity_Male_Mandatory.description>crwdns436588:0crwdne436588:0</Nudity_Male_Mandatory.description>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>crwdns441914:0crwdne441914:0</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
   
-  <Nudity_Male_NoRules.label>crwdns436590:0crwdne436590:0</Nudity_Male_NoRules.label>
-  <Nudity_Male_NoRules.description>crwdns436592:0crwdne436592:0</Nudity_Male_NoRules.description>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>crwdns441916:0crwdne441916:0</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
   
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>crwdns436594:0crwdne436594:0</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>crwdns436596:0crwdne436596:0</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>crwdns441918:0crwdne441918:0</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>crwdns441920:0crwdne441920:0</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>crwdns436598:0crwdne436598:0</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>crwdns436600:0crwdne436600:0</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>crwdns441922:0crwdne441922:0</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>crwdns441924:0crwdne441924:0</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinDisapproved.label>crwdns436602:0crwdne436602:0</Nudity_Male_UncoveredGroinDisapproved.label>
-  <Nudity_Male_UncoveredGroinDisapproved.description>crwdns436604:0crwdne436604:0</Nudity_Male_UncoveredGroinDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>crwdns441926:0crwdne441926:0</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
   
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>crwdns436606:0crwdne436606:0</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>crwdns436608:0crwdne436608:0</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>crwdns441928:0crwdne441928:0</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>crwdns441930:0crwdne441930:0</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>crwdns441932:0crwdne441932:0</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>crwdns441934:0crwdne441934:0</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>crwdns441936:0crwdne441936:0</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>crwdns441938:0crwdne441938:0</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>crwdns441940:0crwdne441940:0</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>crwdns441942:0crwdne441942:0</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>crwdns441944:0crwdne441944:0</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>crwdns441946:0crwdne441946:0</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>crwdns441948:0crwdne441948:0</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>crwdns441950:0crwdne441950:0</GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>crwdns441952:0crwdne441952:0</GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>
+  
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>crwdns441954:0crwdne441954:0</GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>crwdns441956:0crwdne441956:0</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>crwdns441958:0crwdne441958:0</GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>crwdns441960:0crwdne441960:0</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>crwdns441962:0crwdne441962:0</GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>
+  
+  <GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>crwdns441964:0crwdne441964:0</GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>
 </LanguageData>
