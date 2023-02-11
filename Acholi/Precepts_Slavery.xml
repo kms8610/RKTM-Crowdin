@@ -1,29 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slavery_Abhorrent.label>crwdns436958:0crwdne436958:0</Slavery_Abhorrent.label>
-  <Slavery_Abhorrent.description>crwdns436960:0crwdne436960:0</Slavery_Abhorrent.description>
-  <Slavery_Abhorrent.comps.0.description>crwdns436962:0crwdne436962:0</Slavery_Abhorrent.comps.0.description>
-  <Slavery_Abhorrent.comps.5.description>crwdns436964:0crwdne436964:0</Slavery_Abhorrent.comps.5.description>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>crwdns442268:0crwdne442268:0</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>crwdns442270:0crwdne442270:0</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>
   
-  <Slavery_Acceptable.label>crwdns436966:0crwdne436966:0</Slavery_Acceptable.label>
-  <Slavery_Acceptable.description>crwdns436968:0crwdne436968:0</Slavery_Acceptable.description>
+  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>crwdns442272:0crwdne442272:0</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>crwdns442274:0crwdne442274:0</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>
   
-  <Slavery_Disapproved.label>crwdns436970:0crwdne436970:0</Slavery_Disapproved.label>
-  <Slavery_Disapproved.description>crwdns436972:0crwdne436972:0</Slavery_Disapproved.description>
-  <Slavery_Disapproved.comps.0.description>crwdns436974:0crwdne436974:0</Slavery_Disapproved.comps.0.description>
-  <Slavery_Disapproved.comps.5.description>crwdns436976:0crwdne436976:0</Slavery_Disapproved.comps.5.description>
-  <Slavery_Disapproved.comps.6.description>crwdns436978:0crwdne436978:0</Slavery_Disapproved.comps.6.description>
+  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>crwdns442276:0crwdne442276:0</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>crwdns442278:0crwdne442278:0</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>
   
-  <Slavery_Honorable.label>crwdns436980:0crwdne436980:0</Slavery_Honorable.label>
-  <Slavery_Honorable.description>crwdns436982:0crwdne436982:0</Slavery_Honorable.description>
-  <Slavery_Honorable.comps.0.description>crwdns436984:0crwdne436984:0</Slavery_Honorable.comps.0.description>
-  <Slavery_Honorable.comps.6.description>crwdns436986:0crwdne436986:0</Slavery_Honorable.comps.6.description>
-  <Slavery_Honorable.comps.7.description>crwdns436988:0crwdne436988:0</Slavery_Honorable.comps.7.description>
-  <Slavery_Honorable.comps.8.eventLabel>crwdns436990:0crwdne436990:0</Slavery_Honorable.comps.8.eventLabel>
+  <EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>crwdns442280:0crwdne442280:0</EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>
   
-  <Slavery_Horrible.label>crwdns436992:0crwdne436992:0</Slavery_Horrible.label>
-  <Slavery_Horrible.description>crwdns436994:0crwdne436994:0</Slavery_Horrible.description>
-  <Slavery_Horrible.comps.0.description>crwdns436996:0crwdne436996:0</Slavery_Horrible.comps.0.description>
-  <Slavery_Horrible.comps.5.description>crwdns436998:0crwdne436998:0</Slavery_Horrible.comps.5.description>
-  <Slavery_Horrible.comps.6.description>crwdns437000:0crwdne437000:0</Slavery_Horrible.comps.6.description>
+  <EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>crwdns442282:0crwdne442282:0</EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>crwdns442284:0crwdne442284:0</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>crwdns442286:0crwdne442286:0</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>
+  
+  <EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>crwdns442288:0crwdne442288:0</EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>crwdns442290:0crwdne442290:0</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>crwdns442292:0crwdne442292:0</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>
+  
+  <EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>crwdns442294:0crwdne442294:0</EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>crwdns442296:0crwdne442296:0</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>crwdns442298:0crwdne442298:0</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>
+  
+  <Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>crwdns442300:0crwdne442300:0</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>crwdns442302:0crwdne442302:0</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>crwdns442304:0crwdne442304:0</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>crwdns442306:0crwdne442306:0</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>crwdns442308:0crwdne442308:0</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>
+  <Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>crwdns442310:0crwdne442310:0</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>
+  
+  <Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>crwdns442312:0crwdne442312:0</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>crwdns442314:0crwdne442314:0</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>crwdns442316:0crwdne442316:0</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>crwdns442318:0crwdne442318:0</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <SoldSlave_Disapproved.stages.sold_slave.label>crwdns442320:0crwdne442320:0</SoldSlave_Disapproved.stages.sold_slave.label>
+  <SoldSlave_Disapproved.stages.sold_slave.description>crwdns442322:0crwdne442322:0</SoldSlave_Disapproved.stages.sold_slave.description>
+  
+  <SoldSlave_Honorable.stages.sold_slave.label>crwdns442324:0crwdne442324:0</SoldSlave_Honorable.stages.sold_slave.label>
+  <SoldSlave_Honorable.stages.sold_slave.description>crwdns442326:0crwdne442326:0</SoldSlave_Honorable.stages.sold_slave.description>
+  
+  <SoldSlave_Horrible.stages.sold_slave.label>crwdns442328:0crwdne442328:0</SoldSlave_Horrible.stages.sold_slave.label>
+  <SoldSlave_Horrible.stages.sold_slave.description>crwdns442330:0crwdne442330:0</SoldSlave_Horrible.stages.sold_slave.description>
+  
+  <SoldSlave_Know_Abhorrent.stages.sold_slave.label>crwdns442332:0crwdne442332:0</SoldSlave_Know_Abhorrent.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>crwdns442334:0crwdne442334:0</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>crwdns442336:0crwdne442336:0</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Disapproved.stages.sold_slave.label>crwdns442338:0crwdne442338:0</SoldSlave_Know_Disapproved.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>crwdns442340:0crwdne442340:0</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>crwdns442342:0crwdne442342:0</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Honorable.stages.sold_slave.label>crwdns442344:0crwdne442344:0</SoldSlave_Know_Honorable.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>crwdns442346:0crwdne442346:0</SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>crwdns442348:0crwdne442348:0</SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Horrible.stages.sold_slave.label>crwdns442350:0crwdne442350:0</SoldSlave_Know_Horrible.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>crwdns442352:0crwdne442352:0</SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>crwdns442354:0crwdne442354:0</SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>
 </LanguageData>
