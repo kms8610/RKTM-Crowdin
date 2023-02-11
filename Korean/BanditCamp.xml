@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BanditCamp.label>도적 주둔지</BanditCamp.label>
+  <BanditCamp.description>도적 주둔지입니다.</BanditCamp.description>
+  <BanditCamp.approachingReportString>{0} 공격 중</BanditCamp.approachingReportString>
+  <BanditCamp.approachOrderString>{0} 공격</BanditCamp.approachOrderString>
+  <BanditCamp.arrivedLetter>이 지역에는 적 전초기지가 있습니다.</BanditCamp.arrivedLetter>
+</LanguageData>
