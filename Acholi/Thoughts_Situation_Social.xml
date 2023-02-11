@@ -1,5 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>crwdns442846:0crwdne442846:0</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
-  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>crwdns442848:0crwdne442848:0</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>
+  <Affair.stages.affair.label>crwdns475550:0crwdne475550:0</Affair.stages.affair.label>
+  
+  <AnnoyingVoice.stages.annoying_voice.label>crwdns475552:0crwdne475552:0</AnnoyingVoice.stages.annoying_voice.label>
+  
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>crwdns475554:0crwdne475554:0</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>crwdns475556:0crwdne475556:0</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>crwdns475558:0crwdne475558:0</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>crwdns475560:0crwdne475560:0</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>crwdns475562:0crwdne475562:0</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>crwdns475564:0crwdne475564:0</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  
+  <BondedAnimalMaster.stages.s_master.label>crwdns475566:0{0}crwdne475566:0</BondedAnimalMaster.stages.s_master.label>
+  <BondedAnimalMaster.stages.s_master.description>crwdns475568:0crwdne475568:0</BondedAnimalMaster.stages.s_master.description>
+  <BondedAnimalMaster.stages.master_of.label>crwdns475570:0{0}crwdne475570:0</BondedAnimalMaster.stages.master_of.label>
+  <BondedAnimalMaster.stages.master_of.description>crwdns475572:0crwdne475572:0</BondedAnimalMaster.stages.master_of.description>
+  
+  <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>crwdns475574:0crwdne475574:0</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
+  
+  <CreepyBreathing.stages.creepy_breathing.label>crwdns475576:0crwdne475576:0</CreepyBreathing.stages.creepy_breathing.label>
+  
+  <Disfigured.stages.disfigured.label>crwdns475578:0crwdne475578:0</Disfigured.stages.disfigured.label>
+  
+  <Drunk.stages.drunk.label>crwdns475580:0crwdne475580:0</Drunk.stages.drunk.label>
+  
+  <ExecutedPrisoner.stages.executed_prisoner.label>crwdns475582:0crwdne475582:0</ExecutedPrisoner.stages.executed_prisoner.label>
+  
+  <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>crwdns475584:0crwdne475584:0</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
+  
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>crwdns475586:0crwdne475586:0</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  
+  <Incestuous.stages.incestuous.label>crwdns475588:0crwdne475588:0</Incestuous.stages.incestuous.label>
+  
+  <KilledColonist.stages.killed_colonist.label>crwdns475590:0crwdne475590:0</KilledColonist.stages.killed_colonist.label>
+  
+  <KilledColonyAnimal.stages.killed_colony_animal.label>crwdns475592:0crwdne475592:0</KilledColonyAnimal.stages.killed_colony_animal.label>
+  
+  <Man.stages.man.label>crwdns475594:0crwdne475594:0</Man.stages.man.label>
+  
+  <NotBondedAnimalMaster.stages.not_s_master.label>crwdns475596:0{0}crwdne475596:0</NotBondedAnimalMaster.stages.not_s_master.label>
+  <NotBondedAnimalMaster.stages.not_s_master.description>crwdns475598:0crwdne475598:0</NotBondedAnimalMaster.stages.not_s_master.description>
+  <NotBondedAnimalMaster.stages.not_master_of.label>crwdns475600:0{0}crwdne475600:0</NotBondedAnimalMaster.stages.not_master_of.label>
+  <NotBondedAnimalMaster.stages.not_master_of.description>crwdns475602:0crwdne475602:0</NotBondedAnimalMaster.stages.not_master_of.description>
+  
+  <OpinionOfMyLover.stages.opinion_of_my.label>crwdns475604:0{0}crwdnd475604:0{1}crwdne475604:0</OpinionOfMyLover.stages.opinion_of_my.label>
+  <OpinionOfMyLover.stages.opinion_of_my.description>crwdns475606:0crwdne475606:0</OpinionOfMyLover.stages.opinion_of_my.description>
+  
+  <Pretty.stages.physically_appealing.label>crwdns475608:0crwdne475608:0</Pretty.stages.physically_appealing.label>
+  <Pretty.stages.physically_stunning.label>crwdns475610:0crwdne475610:0</Pretty.stages.physically_stunning.label>
+  
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>crwdns475612:0crwdne475612:0</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  
+  <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>crwdns475614:0crwdne475614:0</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
+  
+  <TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>crwdns475616:0crwdne475616:0</TeetotalerVsChemicalInterest.stages.teetotaler_vs_chemical_interest.label>
+  
+  <TranshumanistAppreciation.stages.body_modder_appreciation-0.label>crwdns475618:0crwdne475618:0</TranshumanistAppreciation.stages.body_modder_appreciation-0.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-1.label>crwdns475620:0crwdne475620:0</TranshumanistAppreciation.stages.body_modder_appreciation-1.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-2.label>crwdns475622:0crwdne475622:0</TranshumanistAppreciation.stages.body_modder_appreciation-2.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-3.label>crwdns475624:0crwdne475624:0</TranshumanistAppreciation.stages.body_modder_appreciation-3.label>
+  <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>crwdns475626:0crwdne475626:0</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
+  
+  <Ugly.stages.physically_unsightly.label>crwdns475628:0crwdne475628:0</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_hideous.label>crwdns475630:0crwdne475630:0</Ugly.stages.physically_hideous.label>
+  
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>crwdns475632:0crwdne475632:0</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>crwdns475634:0crwdne475634:0</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  
+  <Woman.stages.woman.label>crwdns475636:0crwdne475636:0</Woman.stages.woman.label>
 </LanguageData>
