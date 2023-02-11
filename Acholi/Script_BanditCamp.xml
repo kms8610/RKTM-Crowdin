@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>crwdns461208:0[asker_nameFull]crwdnd461208:0[asker_faction_leaderTitle]crwdnd461208:0[asker_faction_name]crwdnd461208:0[siteFaction_pawnsPlural]crwdnd461208:0[siteFaction_name]crwdnd461208:0[asker_nameDef]crwdnd461208:0[asker_label]crwdnd461208:0[sitePart0_description]crwdne461208:0</li>
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>crwdns461210:0[bandit]crwdnd461210:0[camp]crwdne461210:0</li>
+    <li>crwdns461212:0[bandit]crwdnd461212:0[camp]crwdne461212:0</li>
+    <li>crwdns461214:0[asker_nameDef]crwdnd461214:0[camp]crwdne461214:0</li>
+    <li>crwdns461216:0crwdne461216:0</li>
+    <li>crwdns461218:0crwdne461218:0</li>
+    <li>crwdns461220:0crwdne461220:0</li>
+    <li>crwdns461222:0crwdne461222:0</li>
+    <li>crwdns461224:0crwdne461224:0</li>
+    <li>crwdns461226:0crwdne461226:0</li>
+    <li>crwdns461228:0crwdne461228:0</li>
+    <li>crwdns461230:0crwdne461230:0</li>
+    <li>crwdns461232:0crwdne461232:0</li>
+    <li>crwdns461234:0crwdne461234:0</li>
+    <li>crwdns461236:0crwdne461236:0</li>
+    <li>crwdns461238:0crwdne461238:0</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>crwdns461240:0[resolvedQuestName]crwdne461240:0</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>crwdns461242:0[resolvedQuestName]crwdne461242:0</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>crwdns461244:0[resolvedQuestName]crwdne461244:0</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>crwdns461246:0[resolvedQuestName]crwdne461246:0</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>crwdns461248:0crwdne461248:0</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>crwdns461250:0[asker_faction_name]crwdne461250:0</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>crwdns461252:0[asker_faction_royalFavorLabel]crwdne461252:0</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>crwdns461254:0[resolvedQuestName]crwdnd461254:0[asker_definite]crwdnd461254:0[royalFavorReward_amount]crwdnd461254:0[asker_faction_royalFavorLabel]crwdne461254:0</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+</LanguageData>
