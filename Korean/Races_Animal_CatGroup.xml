@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Cat.label>고양이</Cat.label>
+  <Cat.lifeStages.kitten.label>새끼 고양이</Cat.lifeStages.kitten.label>
+  
+  <GuineaPig.label>기니피그</GuineaPig.label>
+  
+  <Husky.label>허스키</Husky.label>
+  <Husky.labelPlural>허스키</Husky.labelPlural>
+  <Husky.lifeStages.husky_puppy.label>새끼 허스키</Husky.lifeStages.husky_puppy.label>
+  <Husky.lifeStages.husky_puppy.labelPlural>새끼 허스키들</Husky.lifeStages.husky_puppy.labelPlural>
+  
+  <LabradorRetriever.label>래브라도 리트리버</LabradorRetriever.label>
+  <LabradorRetriever.lifeStages.labrador_puppy.label>새끼 래브라도 리트리버</LabradorRetriever.lifeStages.labrador_puppy.label>
+  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>새끼 래브라도 리트리버들</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  
+  <Monkey.label>원숭이</Monkey.label>
+  
+  <YorkshireTerrier.label>요크셔테리어</YorkshireTerrier.label>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>새끼 요크셔테리어</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
+  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>새끼 요크셔테리어들</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+</LanguageData>
