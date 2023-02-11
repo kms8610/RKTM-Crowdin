@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blood_Worshippers.label>crwdns423666:0crwdne423666:0</Blood_Worshippers.label>
-  <Blood_Worshippers.description>crwdns423668:0crwdne423668:0</Blood_Worshippers.description>
+  <Classic.label>crwdns431160:0crwdne431160:0</Classic.label>
+  <Classic.description>crwdns431162:0crwdne431162:0</Classic.description>
+  <Classic.groupLabel>crwdns431164:0crwdne431164:0</Classic.groupLabel>
+  
+  <Custom.label>crwdns431166:0crwdne431166:0</Custom.label>
+  <Custom.description>crwdns431168:0crwdne431168:0</Custom.description>
+  <Custom.groupLabel>crwdns431170:0crwdne431170:0</Custom.groupLabel>
+  
+  <Fluid.label>crwdns431172:0crwdne431172:0</Fluid.label>
+  <Fluid.description>crwdns431174:0crwdne431174:0</Fluid.description>
+  <Fluid.groupLabel>crwdns431176:0crwdne431176:0</Fluid.groupLabel>
+  
+  <Intense.label>crwdns431178:0crwdne431178:0</Intense.label>
+  <Intense.description>crwdns431180:0crwdne431180:0</Intense.description>
+  <Intense.groupLabel>crwdns431182:0crwdne431182:0</Intense.groupLabel>
+  
+  <Mild.label>crwdns431184:0crwdne431184:0</Mild.label>
+  <Mild.description>crwdns431186:0crwdne431186:0</Mild.description>
+  <Mild.groupLabel>crwdns431188:0crwdne431188:0</Mild.groupLabel>
+  
+  <Strong.label>crwdns431190:0crwdne431190:0</Strong.label>
+  <Strong.description>crwdns431192:0crwdne431192:0</Strong.description>
+  <Strong.groupLabel>crwdns431194:0crwdne431194:0</Strong.groupLabel>
 </LanguageData>
