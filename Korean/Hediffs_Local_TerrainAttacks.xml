@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DirtInEyes.label>흙</DirtInEyes.label>
+  <DirtInEyes.description>눈에 흙먼지가 들어갔습니다. 그것은 시력을 한순간 저하시키지만, 금방 털어내어 회복할 수 있습니다.</DirtInEyes.description>
+  <DirtInEyes.battleStateLabel>실명</DirtInEyes.battleStateLabel>
+  <DirtInEyes.labelNoun>흙</DirtInEyes.labelNoun>
+  
+  <GravelInEyes.label>자갈</GravelInEyes.label>
+  <GravelInEyes.description>눈에 자갈이 들어갔습니다. 그것은 시력을 한순간 저하시키지만, 금방 털어내어 회복할 수 있습니다.</GravelInEyes.description>
+  <GravelInEyes.battleStateLabel>실명</GravelInEyes.battleStateLabel>
+  <GravelInEyes.labelNoun>자갈</GravelInEyes.labelNoun>
+  
+  <MudInEyes.label>진흙</MudInEyes.label>
+  <MudInEyes.description>눈에 진흙이 들어갔습니다. 그것은 시력을 한순간 저하시키지만, 금방 털어내어 회복할 수 있습니다.</MudInEyes.description>
+  <MudInEyes.battleStateLabel>실명</MudInEyes.battleStateLabel>
+  <MudInEyes.labelNoun>진흙</MudInEyes.labelNoun>
+  
+  <SandInEyes.label>모래</SandInEyes.label>
+  <SandInEyes.description>눈에 모래가 들어갔습니다. 그것은 시력을 한순간 저하시키지만, 금방 털어내어 회복할 수 있습니다.</SandInEyes.description>
+  <SandInEyes.battleStateLabel>실명</SandInEyes.battleStateLabel>
+  <SandInEyes.labelNoun>모래</SandInEyes.labelNoun>
+  
+  <WaterInEyes.label>물</WaterInEyes.label>
+  <WaterInEyes.description>눈에 물이 들어갔습니다. 그것은 시력을 한순간 저하시키지만, 금방 털어내어 회복할 수 있습니다.</WaterInEyes.description>
+  <WaterInEyes.battleStateLabel>실명</WaterInEyes.battleStateLabel>
+  <WaterInEyes.labelNoun>물</WaterInEyes.labelNoun>
+</LanguageData>
