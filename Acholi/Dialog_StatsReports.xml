@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StatsReport_Genes>crwdns428852:0crwdne428852:0</StatsReport_Genes>
+  <StatsReport_InSunlight>crwdns428854:0crwdne428854:0</StatsReport_InSunlight>
+  <StatsReport_Clothed>crwdns428856:0crwdne428856:0</StatsReport_Clothed>
+  <StatsReport_Unclothed>crwdns428858:0crwdne428858:0</StatsReport_Unclothed>
+
+  <StatsReport_AgeRateMultiplier>crwdns428860:0crwdne428860:0</StatsReport_AgeRateMultiplier><!-- text_todo -->
+  <StatsReport_AgeRateMultiplier_Desc>crwdns428862:0crwdne428862:0</StatsReport_AgeRateMultiplier_Desc><!-- text_todo -->
+
+  <StatsReport_RechargerWeightClass>crwdns428864:0crwdne428864:0</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass_Desc>crwdns428866:0crwdne428866:0</StatsReport_RechargerWeightClass_Desc>
+
+  <StatsReport_RechargerNeeded>crwdns428868:0crwdne428868:0</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded_Desc>crwdns428870:0crwdne428870:0</StatsReport_RechargerNeeded_Desc>
+
+  <StatsReport_DeathrestEffectiveness>crwdns428872:0crwdne428872:0</StatsReport_DeathrestEffectiveness>
+  <StatsReport_DeathrestEffectiveness_Desc>crwdns428874:0crwdne428874:0</StatsReport_DeathrestEffectiveness_Desc>
+
+  <StatsReport_DeathrestConnectionLimit>crwdns428876:0crwdne428876:0</StatsReport_DeathrestConnectionLimit>
+  <StatsReport_DeathrestConnectionLimit_Desc>crwdns428878:0crwdne428878:0</StatsReport_DeathrestConnectionLimit_Desc>
+
+  <StatsReport_GrowthTier>crwdns428880:0crwdne428880:0</StatsReport_GrowthTier>
+  <StatsReport_GrowthTierDesc>crwdns428882:0crwdne428882:0</StatsReport_GrowthTierDesc>
+
+  <StatsReport_DevelopmentStage>crwdns428884:0crwdne428884:0</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStageDesc_Baby>crwdns428886:0crwdne428886:0</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>crwdns428888:0crwdne428888:0</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>crwdns428890:0crwdne428890:0</StatsReport_DevelopmentStageDesc_ChildPart2>
+  <StatsReport_DevelopmentStageDesc_Adult>crwdns428892:0crwdne428892:0</StatsReport_DevelopmentStageDesc_Adult>
+
+  <StatsReport_Pollution>crwdns428894:0crwdne428894:0</StatsReport_Pollution>
+
+  <StatsReport_FertilityAgeFactor>crwdns428896:0crwdne428896:0</StatsReport_FertilityAgeFactor>
+  <StatsReport_HasGene>crwdns428898:0{0_label}crwdne428898:0</StatsReport_HasGene>
+  <StatsReport_NonBaselinerDescription>crwdns428900:0{0}crwdnd428900:0{0}crwdne428900:0</StatsReport_NonBaselinerDescription>
+  
+  <Stat_Thing_Apparel_ValidLifestage>crwdns428902:0crwdne428902:0</Stat_Thing_Apparel_ValidLifestage>
+  <Stat_Thing_Apparel_ValidLifestage_Desc>crwdns428904:0crwdne428904:0</Stat_Thing_Apparel_ValidLifestage_Desc>
+
+  <StatsReport_Connected>crwdns428906:0{0}crwdne428906:0</StatsReport_Connected>
+
+  <Effects>crwdns428908:0crwdne428908:0</Effects>
+  <StatsReport_MissingGeneRomanceChance>crwdns428910:0crwdne428910:0</StatsReport_MissingGeneRomanceChance>
+  <ImmuneTo>crwdns428912:0crwdne428912:0</ImmuneTo>
+  <SocialFightChanceFactor>crwdns428914:0crwdne428914:0</SocialFightChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>crwdns428916:0crwdne428916:0</AggroMentalBreakSelectionChanceFactor>
+  <PrisonBreakIntervalFactor>crwdns428918:0crwdne428918:0</PrisonBreakIntervalFactor>
+  <WillNeverPrisonBreak>crwdns428920:0crwdne428920:0</WillNeverPrisonBreak>
+  <AlwaysAggroMentalBreak>crwdns428922:0crwdne428922:0</AlwaysAggroMentalBreak>
+  <NeverAggroMentalBreak>crwdns428924:0crwdne428924:0</NeverAggroMentalBreak>
+  <AddictionChanceFactor>crwdns428926:0{0_label}crwdne428926:0</AddictionChanceFactor>
+  <OverdoseChanceFactor>crwdns428928:0{0_label}crwdne428928:0</OverdoseChanceFactor><!-- text_todo -->
+  <ToleranceBuildupFactor>crwdns428930:0{0_label}crwdne428930:0</ToleranceBuildupFactor><!-- text_todo -->
+  <AddictionImmune>crwdns428932:0{0_label}crwdne428932:0</AddictionImmune>
+  <FoodPoisoningImmune>crwdns428934:0crwdne428934:0</FoodPoisoningImmune>
+  <WillNeverSocialFight>crwdns428936:0crwdne428936:0</WillNeverSocialFight>
+  <AgeFactors>crwdns428938:0crwdne428938:0</AgeFactors>
+  <UnaffectedByDarkness>crwdns428940:0crwdne428940:0</UnaffectedByDarkness>
+  <PassionModAdd>crwdns428942:0{0_label}crwdne428942:0</PassionModAdd>
+  <PassionModDrop>crwdns428944:0{0_label}crwdne428944:0</PassionModDrop>
+  <CausesNeed>crwdns428946:0crwdne428946:0</CausesNeed>
+  <GivesAbility>crwdns428948:0crwdne428948:0</GivesAbility>
+  <GivesAbilities>crwdns428950:0crwdne428950:0</GivesAbilities>
+  <ResourceLossPerDay>crwdns428952:0{RESOURCE}crwdnd428952:0{OFFSET}crwdne428952:0</ResourceLossPerDay>
+  <Removes>crwdns428954:0crwdne428954:0</Removes>
+  <DisablesNeed>crwdns428956:0crwdne428956:0</DisablesNeed>
+  <DisablesNeeds>crwdns428958:0crwdne428958:0</DisablesNeeds>
+  <DevelopmentStage_Baby>crwdns428960:0crwdne428960:0</DevelopmentStage_Baby>
+  <DevelopmentStage_Child>crwdns428962:0crwdne428962:0</DevelopmentStage_Child>
+  <DevelopmentStage_Adult>crwdns428964:0crwdne428964:0</DevelopmentStage_Adult>
+
+  <StatsReport_GrowthVatSpeedFactor>crwdns428966:0crwdne428966:0</StatsReport_GrowthVatSpeedFactor>
+
+  <GeneToleranceBuildupImmune>crwdns428968:0{0_label}crwdne428968:0</GeneToleranceBuildupImmune><!-- text_todo -->
+  <GeneToleranceBuildupFactor>crwdns428970:0{0_label}crwdnd428970:0{1}crwdne428970:0</GeneToleranceBuildupFactor><!-- text_todo -->
+  <GeneOverdoseImmune>crwdns428972:0{0_label}crwdne428972:0</GeneOverdoseImmune><!-- text_todo -->
+  <GeneOverdoseFactor>crwdns428974:0{1}crwdnd428974:0{0_label}crwdne428974:0</GeneOverdoseFactor><!-- text_todo -->
+
+</LanguageData>
