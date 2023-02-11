@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MoodOffsetHappy.stages.genetic_optimism.label>crwdns428176:0crwdne428176:0</MoodOffsetHappy.stages.genetic_optimism.label>
+  <MoodOffsetHappy.stages.genetic_optimism.description>crwdns428178:0crwdne428178:0</MoodOffsetHappy.stages.genetic_optimism.description>
+  
+  <MoodOffsetUnhappy.stages.genetic_pessimism.label>crwdns428180:0crwdne428180:0</MoodOffsetUnhappy.stages.genetic_pessimism.label>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.description>crwdns428182:0crwdne428182:0</MoodOffsetUnhappy.stages.genetic_pessimism.description>
+  
+  <MoodOffsetVeryHappy.stages.genetic_joy.label>crwdns428184:0crwdne428184:0</MoodOffsetVeryHappy.stages.genetic_joy.label>
+  <MoodOffsetVeryHappy.stages.genetic_joy.description>crwdns428186:0crwdne428186:0</MoodOffsetVeryHappy.stages.genetic_joy.description>
+  
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.label>crwdns428188:0crwdne428188:0</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>crwdns428190:0crwdne428190:0</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
+</LanguageData>
