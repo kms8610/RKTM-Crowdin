@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DestroyApparel.label>crwdns462012:0crwdne462012:0</DestroyApparel.label>
+  <DestroyApparel.description>crwdns462014:0crwdne462014:0</DestroyApparel.description>
+  <DestroyApparel.jobString>crwdns462016:0crwdne462016:0</DestroyApparel.jobString>
+  
+  <DestroyWeapon.label>crwdns462018:0crwdne462018:0</DestroyWeapon.label>
+  <DestroyWeapon.description>crwdns462020:0crwdne462020:0</DestroyWeapon.description>
+  <DestroyWeapon.jobString>crwdns462022:0crwdne462022:0</DestroyWeapon.jobString>
+  
+  <ExtractMetalFromSlag.label>crwdns462024:0crwdne462024:0</ExtractMetalFromSlag.label>
+  <ExtractMetalFromSlag.description>crwdns462026:0crwdne462026:0</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>crwdns462028:0crwdne462028:0</ExtractMetalFromSlag.jobString>
+  
+  <Make_ChemfuelFromOrganics.label>crwdns462030:0crwdne462030:0</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromOrganics.description>crwdns462032:0crwdne462032:0</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>crwdns462034:0crwdne462034:0</Make_ChemfuelFromOrganics.ingredients.0.filter.customSummary>
+  <Make_ChemfuelFromOrganics.jobString>crwdns462036:0crwdne462036:0</Make_ChemfuelFromOrganics.jobString>
+  
+  <Make_ChemfuelFromWood.label>crwdns462038:0crwdne462038:0</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.description>crwdns462040:0crwdne462040:0</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>crwdns462042:0crwdne462042:0</Make_ChemfuelFromWood.jobString>
+  
+  <Make_ComponentIndustrial.label>crwdns462044:0crwdne462044:0</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.description>crwdns462046:0crwdne462046:0</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.jobString>crwdns462048:0crwdne462048:0</Make_ComponentIndustrial.jobString>
+  
+  <Make_ComponentSpacer.label>crwdns462050:0crwdne462050:0</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.description>crwdns462052:0crwdne462052:0</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.jobString>crwdns462054:0crwdne462054:0</Make_ComponentSpacer.jobString>
+  
+  <Make_Patchleather.label>crwdns462056:0crwdne462056:0</Make_Patchleather.label>
+  <Make_Patchleather.description>crwdns462058:0crwdne462058:0</Make_Patchleather.description>
+  <Make_Patchleather.jobString>crwdns462060:0crwdne462060:0</Make_Patchleather.jobString>
+  
+  <Make_StoneBlocksAny.label>crwdns462062:0crwdne462062:0</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.description>crwdns462064:0crwdne462064:0</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.jobString>crwdns462066:0crwdne462066:0</Make_StoneBlocksAny.jobString>
+  
+  <SmeltApparel.label>crwdns462068:0crwdne462068:0</SmeltApparel.label>
+  <SmeltApparel.description>crwdns462070:0crwdne462070:0</SmeltApparel.description>
+  <SmeltApparel.jobString>crwdns462072:0crwdne462072:0</SmeltApparel.jobString>
+  
+  <SmeltWeapon.label>crwdns462074:0crwdne462074:0</SmeltWeapon.label>
+  <SmeltWeapon.description>crwdns462076:0crwdne462076:0</SmeltWeapon.description>
+  <SmeltWeapon.jobString>crwdns462078:0crwdne462078:0</SmeltWeapon.jobString>
+</LanguageData>
