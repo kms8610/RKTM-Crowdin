@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RelicInertArk.label>ark</RelicInertArk.label>
-  <RelicInertArk.description>An object with ideoligious significance.</RelicInertArk.description>
+  <RelicInertArk.label>방주</RelicInertArk.label>
+  <RelicInertArk.description>종교적 상징물입니다.</RelicInertArk.description>
   
-  <RelicInertBox.label>box</RelicInertBox.label>
-  <RelicInertBox.description>An object with ideoligious significance.</RelicInertBox.description>
+  <RelicInertBox.label>성궤</RelicInertBox.label>
+  <RelicInertBox.description>종교적 상징물입니다.</RelicInertBox.description>
   
-  <RelicInertCube.label>cube</RelicInertCube.label>
-  <RelicInertCube.description>An object with ideoligious significance.</RelicInertCube.description>
+  <RelicInertCube.label>큐브</RelicInertCube.label>
+  <RelicInertCube.description>종교적 상징물입니다.</RelicInertCube.description>
   
-  <RelicInertCup.label>chalice</RelicInertCup.label>
-  <RelicInertCup.description>An object with ideoligious significance.</RelicInertCup.description>
+  <RelicInertCup.label>성배</RelicInertCup.label>
+  <RelicInertCup.description>종교적 상징물입니다.</RelicInertCup.description>
   
-  <RelicInertFragment.label>fragment</RelicInertFragment.label>
-  <RelicInertFragment.description>An object with ideoligious significance.</RelicInertFragment.description>
+  <RelicInertFragment.label>파편</RelicInertFragment.label>
+  <RelicInertFragment.description>종교적 상징물입니다.</RelicInertFragment.description>
   
-  <RelicInertPendant.label>pendant</RelicInertPendant.label>
-  <RelicInertPendant.description>An object with ideoligious significance.</RelicInertPendant.description>
+  <RelicInertPendant.label>펜던트</RelicInertPendant.label>
+  <RelicInertPendant.description>종교적 상징물입니다.</RelicInertPendant.description>
   
-  <RelicInertSwordHandle.label>hilt</RelicInertSwordHandle.label>
-  <RelicInertSwordHandle.description>An object with ideoligious significance.</RelicInertSwordHandle.description>
+  <RelicInertSwordHandle.label>칼자루</RelicInertSwordHandle.label>
+  <RelicInertSwordHandle.description>종교적 상징물입니다.</RelicInertSwordHandle.description>
   
-  <RelicInertTablet.label>tablet</RelicInertTablet.label>
-  <RelicInertTablet.description>An object with ideoligious significance.</RelicInertTablet.description>
+  <RelicInertTablet.label>석판</RelicInertTablet.label>
+  <RelicInertTablet.description>종교적 상징물입니다.</RelicInertTablet.description>
 </LanguageData>
