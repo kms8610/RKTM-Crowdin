@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <NamerGenepack.rulePack.rulesStrings>
-    <li>r_name->genepack ([geneWord][otherGenesInfo])</li>
+    <li>r_name->유전자팩 ([geneWord][otherGenesInfo])</li>
     <li>otherGenesInfo(geneCount==1)-></li>
     <li>otherGenesInfo(geneCount>=2)-> +[geneCountMinusOne]</li>
   </NamerGenepack.rulePack.rulesStrings>
@@ -13,61 +13,61 @@
     <li>anyPrefix->[commonPrefix]</li>
     <li>anySuffix->[geneSuffix]</li>
     <li>anySuffix(p=3)->[commonSuffix]</li>
-    <li>commonPrefix->xeno</li>
-    <li>commonPrefix->alt</li>
-    <li>commonPrefix->ab</li>
-    <li>commonPrefix->out</li>
-    <li>commonPrefix->sub</li>
-    <li>commonPrefix->exo</li>
-    <li>commonPrefix->tube</li>
-    <li>commonPrefix->lab</li>
-    <li>commonPrefix->pod</li>
-    <li>commonPrefix->an</li>
-    <li>commonPrefix->bon</li>
-    <li>commonPrefix->cel</li>
-    <li>commonPrefix->del</li>
-    <li>commonPrefix->ech</li>
-    <li>commonPrefix->fil</li>
-    <li>commonPrefix->gor</li>
-    <li>commonPrefix->hor</li>
-    <li>commonPrefix->ich</li>
-    <li>commonPrefix->jack</li>
-    <li>commonPrefix->kol</li>
-    <li>commonPrefix->lox</li>
-    <li>commonPrefix->mack</li>
-    <li>commonPrefix->nor</li>
-    <li>commonPrefix->os</li>
-    <li>commonPrefix->per</li>
-    <li>commonPrefix->quin</li>
-    <li>commonPrefix->rax</li>
-    <li>commonPrefix->sil</li>
-    <li>commonPrefix->tel</li>
-    <li>commonPrefix->ultra</li>
-    <li>commonPrefix->vox</li>
-    <li>commonPrefix->whis</li>
-    <li>commonPrefix->xen</li>
-    <li>commonPrefix->yon</li>
-    <li>commonPrefix->zel</li>
-    <li>commonSuffix->kind</li>
-    <li>commonSuffix->man</li>
-    <li>commonSuffix->an</li>
-    <li>commonSuffix->ar</li>
-    <li>commonSuffix->dol</li>
-    <li>commonSuffix->dal</li>
-    <li>commonSuffix(p=3)->er</li>
-    <li>commonSuffix(p=2)->en</li>
-    <li>commonSuffix->ex</li>
-    <li>commonSuffix->id</li>
-    <li>commonSuffix->in</li>
-    <li>commonSuffix->il</li>
-    <li>commonSuffix->ist</li>
-    <li>commonSuffix->on</li>
-    <li>commonSuffix->ol</li>
-    <li>commonSuffix->ox</li>
-    <li>commonSuffix->ox</li>
-    <li>commonSuffix->ub</li>
-    <li>commonSuffix->ul</li>
-    <li>commonSuffix->ur</li>
-    <li>commonSuffix->ux</li>
+    <li>commonPrefix->외계</li>
+    <li>commonPrefix->대체</li>
+    <li>commonPrefix->절대</li>
+    <li>commonPrefix->강력</li>
+    <li>commonPrefix->불량</li>
+    <li>commonPrefix->외</li>
+    <li>commonPrefix->내림</li>
+    <li>commonPrefix->고</li>
+    <li>commonPrefix->발</li>
+    <li>commonPrefix->안</li>
+    <li>commonPrefix->밖</li>
+    <li>commonPrefix->위</li>
+    <li>commonPrefix->아래</li>
+    <li>commonPrefix->혼합</li>
+    <li>commonPrefix->혼돈</li>
+    <li>commonPrefix->신식</li>
+    <li>commonPrefix->신형</li>
+    <li>commonPrefix->미친</li>
+    <li>commonPrefix->만능</li>
+    <li>commonPrefix->무능한</li>
+    <li>commonPrefix->뛰어난</li>
+    <li>commonPrefix->미천한</li>
+    <li>commonPrefix->빼어난</li>
+    <li>commonPrefix->갈</li>
+    <li>commonPrefix->당</li>
+    <li>commonPrefix->기</li>
+    <li>commonPrefix->공</li>
+    <li>commonPrefix->실</li>
+    <li>commonPrefix->전</li>
+    <li>commonPrefix->초</li>
+    <li>commonPrefix->우수</li>
+    <li>commonPrefix->속</li>
+    <li>commonPrefix->월</li>
+    <li>commonPrefix->연</li>
+    <li>commonPrefix(p=0)-></li>
+    <li>commonSuffix->종</li>
+    <li>commonSuffix->자</li>
+    <li>commonSuffix->인간</li>
+    <li>commonSuffix->인종</li>
+    <li>commonSuffix->놈</li>
+    <li>commonSuffix->이</li>
+    <li>commonSuffix->살이</li>
+    <li>commonSuffix->종족</li>
+    <li>commonSuffix->개</li>
+    <li>commonSuffix->이드</li>
+    <li>commonSuffix->인</li>
+    <li>commonSuffix->일</li>
+    <li>commonSuffix->민족</li>
+    <li>commonSuffix->자손</li>
+    <li>commonSuffix->올</li>
+    <li>commonSuffix->옥이</li>
+    <li>commonSuffix->보</li>
+    <li>commonSuffix->돌이</li>
+    <li>commonSuffix->우자</li>
+    <li>commonSuffix->우</li>
+    <li>commonSuffix->미</li>
   </NamerXenotype.rulePack.rulesStrings>
 </LanguageData>
