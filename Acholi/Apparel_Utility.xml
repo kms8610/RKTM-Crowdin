@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Apparel_PsychicInsanityLance.label>crwdns471228:0crwdne471228:0</Apparel_PsychicInsanityLance.label>
+  <Apparel_PsychicInsanityLance.description>crwdns471230:0crwdne471230:0</Apparel_PsychicInsanityLance.description>
+  <Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>crwdns471232:0crwdne471232:0</Apparel_PsychicInsanityLance.comps.CompReloadable.chargeNoun>
+  <Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>crwdns471234:0crwdne471234:0</Apparel_PsychicInsanityLance.comps.CompReloadable.cooldownGerund>
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>crwdns471236:0crwdne471236:0</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.label>
+  <Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>crwdns471238:0crwdne471238:0</Apparel_PsychicInsanityLance.verbs.psychic_insanity_lance.invalidTargetPawn>
+  
+  <Apparel_PsychicShockLance.label>crwdns471240:0crwdne471240:0</Apparel_PsychicShockLance.label>
+  <Apparel_PsychicShockLance.description>crwdns471242:0crwdne471242:0</Apparel_PsychicShockLance.description>
+  <Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>crwdns471244:0crwdne471244:0</Apparel_PsychicShockLance.comps.CompReloadable.chargeNoun>
+  <Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>crwdns471246:0crwdne471246:0</Apparel_PsychicShockLance.comps.CompReloadable.cooldownGerund>
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>crwdns471248:0crwdne471248:0</Apparel_PsychicShockLance.verbs.psychic_shock_lance.label>
+  <Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>crwdns471250:0crwdne471250:0</Apparel_PsychicShockLance.verbs.psychic_shock_lance.invalidTargetPawn>
+</LanguageData>
