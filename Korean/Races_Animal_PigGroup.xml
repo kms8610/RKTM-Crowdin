@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Chinchilla.label>털실쥐</Chinchilla.label>
+  
+  <Deer.label>사슴</Deer.label>
+  <Deer.labelFemale>사슴</Deer.labelFemale>
+  <Deer.labelMale>사슴</Deer.labelMale>
+  <Deer.labelPlural>사슴들</Deer.labelPlural>
+  
+  <Gazelle.label>가젤</Gazelle.label>
+  
+  <Ibex.label>산양</Ibex.label>
+  <Ibex.labelFemale>산양</Ibex.labelFemale>
+  <Ibex.labelMale>산양</Ibex.labelMale>
+  <Ibex.labelPlural>산양들</Ibex.labelPlural>
+  
+  <Pig.label>피그</Pig.label>
+  <Pig.labelFemale>심기</Pig.labelFemale>
+  <Pig.lifeStages.piglet.label>새끼 돼지</Pig.lifeStages.piglet.label>
+  
+  <WildBoar.label>멧돼지</WildBoar.label>
+</LanguageData>
