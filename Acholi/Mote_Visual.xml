@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MechGestatorCycleCompleteLarge_East.label>crwdns427542:0crwdne427542:0</MechGestatorCycleCompleteLarge_East.label>
+  
+  <MechGestatorCycleCompleteLarge_North.label>crwdns427544:0crwdne427544:0</MechGestatorCycleCompleteLarge_North.label>
+  
+  <MechGestatorCycleCompleteLarge_South.label>crwdns427546:0crwdne427546:0</MechGestatorCycleCompleteLarge_South.label>
+  
+  <MechGestatorCycleCompleteLarge_West.label>crwdns427548:0crwdne427548:0</MechGestatorCycleCompleteLarge_West.label>
+  
+  <MechGestatorCycleComplete_East.label>crwdns427550:0crwdne427550:0</MechGestatorCycleComplete_East.label>
+  
+  <MechGestatorCycleComplete_North.label>crwdns427552:0crwdne427552:0</MechGestatorCycleComplete_North.label>
+  
+  <MechGestatorCycleComplete_South.label>crwdns427554:0crwdne427554:0</MechGestatorCycleComplete_South.label>
+  
+  <MechGestatorFormedLarge_East.label>crwdns427556:0crwdne427556:0</MechGestatorFormedLarge_East.label>
+  
+  <MechGestatorFormedLarge_North.label>crwdns427558:0crwdne427558:0</MechGestatorFormedLarge_North.label>
+  
+  <MechGestatorFormedLarge_South.label>crwdns427560:0crwdne427560:0</MechGestatorFormedLarge_South.label>
+  
+  <MechGestatorFormedLarge_West.label>crwdns427562:0crwdne427562:0</MechGestatorFormedLarge_West.label>
+  
+  <MechGestatorFormed_East.label>crwdns427564:0crwdne427564:0</MechGestatorFormed_East.label>
+  
+  <MechGestatorFormed_North.label>crwdns427566:0crwdne427566:0</MechGestatorFormed_North.label>
+  
+  <MechGestatorFormed_South.label>crwdns427568:0crwdne427568:0</MechGestatorFormed_South.label>
+  
+  <MechGestatorFormingLarge_East.label>crwdns427570:0crwdne427570:0</MechGestatorFormingLarge_East.label>
+  
+  <MechGestatorFormingLarge_North.label>crwdns427572:0crwdne427572:0</MechGestatorFormingLarge_North.label>
+  
+  <MechGestatorFormingLarge_South.label>crwdns427574:0crwdne427574:0</MechGestatorFormingLarge_South.label>
+  
+  <MechGestatorFormingLarge_West.label>crwdns427576:0crwdne427576:0</MechGestatorFormingLarge_West.label>
+  
+  <MechGestatorForming_East.label>crwdns427578:0crwdne427578:0</MechGestatorForming_East.label>
+  
+  <MechGestatorForming_North.label>crwdns427580:0crwdne427580:0</MechGestatorForming_North.label>
+  
+  <MechGestatorForming_South.label>crwdns427582:0crwdne427582:0</MechGestatorForming_South.label>
+  
+  <Mote_AnimalWarcallDistortion.label>crwdns427584:0crwdne427584:0</Mote_AnimalWarcallDistortion.label>
+  
+  <Mote_AnimalWarcallFlash.label>crwdns427586:0crwdne427586:0</Mote_AnimalWarcallFlash.label>
+  
+  <Mote_AnimalWarcallMentalState.label>crwdns427588:0crwdne427588:0</Mote_AnimalWarcallMentalState.label>
+  
+  <Mote_AnimalWarcallTarget.label>crwdns427590:0crwdne427590:0</Mote_AnimalWarcallTarget.label>
+  
+  <Mote_AnimalWarcallTargetFlash.label>crwdns427592:0crwdne427592:0</Mote_AnimalWarcallTargetFlash.label>
+  
+  <Mote_AnimalWarcallWarmup.label>crwdns427594:0crwdne427594:0</Mote_AnimalWarcallWarmup.label>
+  
+  <Mote_ApocritonPulse.label>crwdns427596:0crwdne427596:0</Mote_ApocritonPulse.label>
+  
+  <Mote_ApocritonWarmupArea.label>crwdns427598:0crwdne427598:0</Mote_ApocritonWarmupArea.label>
+  
+  <Mote_BabyCryingDots.label>crwdns427600:0crwdne427600:0</Mote_BabyCryingDots.label>
+  
+  <Mote_ChargingCablesPulse.label>crwdns427602:0crwdne427602:0</Mote_ChargingCablesPulse.label>
+  
+  <Mote_CoagulateA.label>crwdns427604:0crwdne427604:0</Mote_CoagulateA.label>
+  
+  <Mote_CoagulateB.label>crwdns427606:0crwdne427606:0</Mote_CoagulateB.label>
+  
+  <Mote_CoagulateStencil.label>crwdns427608:0crwdne427608:0</Mote_CoagulateStencil.label>
+  
+  <Mote_CocoonBreaking.label>crwdns427610:0crwdne427610:0</Mote_CocoonBreaking.label>
+  
+  <Mote_CocoonDestroyedFlyingPiece.label>crwdns427612:0crwdne427612:0</Mote_CocoonDestroyedFlyingPiece.label>
+  
+  <Mote_CocoonDestroyedFlyingSlime.label>crwdns427614:0crwdne427614:0</Mote_CocoonDestroyedFlyingSlime.label>
+  
+  <Mote_CocoonDestroyedMist.label>crwdns427616:0crwdne427616:0</Mote_CocoonDestroyedMist.label>
+  
+  <Mote_Deathresting.label>crwdns427618:0crwdne427618:0</Mote_Deathresting.label>
+  
+  <Mote_GraserBeamBase.label>crwdns427620:0crwdne427620:0</Mote_GraserBeamBase.label>
+  
+  <Mote_HellsphereCannon_Aim.label>crwdns427622:0crwdne427622:0</Mote_HellsphereCannon_Aim.label>
+  
+  <Mote_HellsphereCannon_Charge.label>crwdns427624:0crwdne427624:0</Mote_HellsphereCannon_Charge.label>
+  
+  <Mote_HellsphereCannon_Target.label>crwdns427626:0crwdne427626:0</Mote_HellsphereCannon_Target.label>
+  
+  <Mote_MechCharging.label>crwdns427628:0crwdne427628:0</Mote_MechCharging.label>
+  
+  <Mote_MechControlTakingSparkArch.label>crwdns427630:0crwdne427630:0</Mote_MechControlTakingSparkArch.label>
+  
+  <Mote_MechResurrectFlash.label>crwdns427632:0crwdne427632:0</Mote_MechResurrectFlash.label>
+  
+  <Mote_MechResurrectGlow.label>crwdns427634:0crwdne427634:0</Mote_MechResurrectGlow.label>
+  
+  <Mote_MechResurrectWarmupOnTarget.label>crwdns427636:0crwdne427636:0</Mote_MechResurrectWarmupOnTarget.label>
+  
+  <Mote_MechSparkSimple.label>crwdns427638:0crwdne427638:0</Mote_MechSparkSimple.label>
+  
+  <Mote_MechTunnelerSlowedDown.label>crwdns427640:0crwdne427640:0</Mote_MechTunnelerSlowedDown.label>
+  
+  <Mote_MechUncontrolled.label>crwdns427642:0crwdne427642:0</Mote_MechUncontrolled.label>
+  
+  <Mote_MechbandAntennaWaves.label>crwdns427644:0crwdne427644:0</Mote_MechbandAntennaWaves.label>
+  
+  <Mote_MechbandDishWaves.label>crwdns427646:0crwdne427646:0</Mote_MechbandDishWaves.label>
+  
+  <Mote_MechbandElectricity.label>crwdns427648:0crwdne427648:0</Mote_MechbandElectricity.label>
+  
+  <Mote_MechbandPreparing.label>crwdns427650:0crwdne427650:0</Mote_MechbandPreparing.label>
+  
+  <Mote_NewbornBecomeChildGlow.label>crwdns427652:0crwdne427652:0</Mote_NewbornBecomeChildGlow.label>
+  
+  <Mote_PollutionPump.label>crwdns427654:0crwdne427654:0</Mote_PollutionPump.label>
+  
+  <Mote_RedFlash.label>crwdns427656:0crwdne427656:0</Mote_RedFlash.label>
+  
+  <Mote_RedFlashStrong.label>crwdns427658:0crwdne427658:0</Mote_RedFlashStrong.label>
+  
+  <Mote_RipscannerHeadGlow.label>crwdns427660:0crwdne427660:0</Mote_RipscannerHeadGlow.label>
+  
+  <Mote_SanguophageMeetingSmoke.label>crwdns427662:0crwdne427662:0</Mote_SanguophageMeetingSmoke.label>
+  
+  <Mote_SubcoreEncoderEast.label>crwdns427664:0crwdne427664:0</Mote_SubcoreEncoderEast.label>
+  
+  <Mote_SubcoreEncoderNorth.label>crwdns427666:0crwdne427666:0</Mote_SubcoreEncoderNorth.label>
+  
+  <Mote_SubcoreEncoderSouth.label>crwdns427668:0crwdne427668:0</Mote_SubcoreEncoderSouth.label>
+  
+  <Mote_VatGlowHorizontal.label>crwdns427670:0crwdne427670:0</Mote_VatGlowHorizontal.label>
+  
+  <Mote_VatGlowVertical.label>crwdns427672:0crwdne427672:0</Mote_VatGlowVertical.label>
+  
+  <Mote_WarQueenSpineGlow.label>crwdns427674:0crwdne427674:0</Mote_WarQueenSpineGlow.label>
+  
+  <Mote_WarUrchinSpawnFlash.label>crwdns427676:0crwdne427676:0</Mote_WarUrchinSpawnFlash.label>
+  
+  <Mote_WarhUrchinSpawnElectricity.label>crwdns427678:0crwdne427678:0</Mote_WarhUrchinSpawnElectricity.label>
+  
+  <Mote_XenogermImplantation.label>crwdns427680:0crwdne427680:0</Mote_XenogermImplantation.label>
+  
+  <RipScannerGlow_East.label>crwdns427682:0crwdne427682:0</RipScannerGlow_East.label>
+  
+  <RipScannerGlow_North.label>crwdns427684:0crwdne427684:0</RipScannerGlow_North.label>
+  
+  <RipScannerGlow_South.label>crwdns427686:0crwdne427686:0</RipScannerGlow_South.label>
+  
+  <RipScannerGlow_West.label>crwdns427688:0crwdne427688:0</RipScannerGlow_West.label>
+  
+  <SoftScannerGlow_East.label>crwdns427690:0crwdne427690:0</SoftScannerGlow_East.label>
+  
+  <SoftScannerGlow_North.label>crwdns427692:0crwdne427692:0</SoftScannerGlow_North.label>
+  
+  <SoftScannerGlow_South.label>crwdns427694:0crwdne427694:0</SoftScannerGlow_South.label>
+  
+  <SoftScannerGlow_West.label>crwdns427696:0crwdne427696:0</SoftScannerGlow_West.label>
+</LanguageData>
