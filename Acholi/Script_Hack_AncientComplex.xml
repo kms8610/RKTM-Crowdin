@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientComplex_Standard.questContentRules.rulesStrings>
+    <li>crwdns437364:0{COUNT}crwdnd437364:0[terminalCount]crwdne437364:0</li>
+    <li>crwdns437366:0[relic_name]crwdne437366:0</li>
+  </AncientComplex_Standard.questContentRules.rulesStrings>
+  <AncientComplex_Standard.questDescriptionRules.rulesStrings>
+    <li>crwdns437368:0[relic_name]crwdne437368:0</li>
+  </AncientComplex_Standard.questDescriptionRules.rulesStrings>
+  <AncientComplex_Standard.questNameRules.rulesStrings>
+    <li>crwdns437370:0[complexAdj]crwdnd437370:0[complex]crwdne437370:0</li>
+    <li>crwdns437372:0[dig]crwdne437372:0</li>
+    <li>crwdns437374:0crwdne437374:0</li>
+    <li>crwdns437376:0crwdne437376:0</li>
+    <li>crwdns437378:0crwdne437378:0</li>
+    <li>crwdns437380:0crwdne437380:0</li>
+    <li>crwdns437382:0crwdne437382:0</li>
+    <li>crwdns437384:0crwdne437384:0</li>
+    <li>crwdns437386:0crwdne437386:0</li>
+    <li>crwdns437388:0crwdne437388:0</li>
+    <li>crwdns437390:0crwdne437390:0</li>
+  </AncientComplex_Standard.questNameRules.rulesStrings>
+</LanguageData>
