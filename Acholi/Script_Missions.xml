@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientComplex_Mission.questContentRules.rulesStrings>
+    <li>crwdns437474:0{COUNT}crwdnd437474:0[terminalCount]crwdne437474:0</li>
+    <li>crwdns437476:0[passengersSingularOrPlural]crwdne437476:0</li>
+    <li>crwdns437478:0[resolvedQuestName]crwdne437478:0</li>
+    <li>crwdns437480:0crwdne437480:0</li>
+    <li>crwdns437482:0crwdne437482:0</li>
+  </AncientComplex_Mission.questContentRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+    <li>crwdns437484:0crwdne437484:0</li>
+    <li>crwdns437486:0crwdne437486:0</li>
+    <li>crwdns437488:0crwdne437488:0</li>
+    <li>crwdns437490:0crwdne437490:0</li>
+    <li>crwdns437492:0crwdne437492:0</li>
+    <li>crwdns437494:0crwdne437494:0</li>
+    <li>crwdns437496:0crwdne437496:0</li>
+    <li>crwdns437498:0crwdne437498:0</li>
+    <li>crwdns437500:0crwdne437500:0</li>
+    <li>crwdns437502:0crwdne437502:0</li>
+  </AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
+  <AncientComplex_Mission.questDescriptionRules.rulesStrings>
+    <li>crwdns437504:0[asker_nameDef]crwdnd437504:0[asker_faction_leaderTitle]crwdnd437504:0[asker_faction_name]crwdnd437504:0[asker_pronoun]crwdnd437504:0[relic_name]crwdnd437504:0[asker_nameDef]crwdnd437504:0[colonistCount]crwdnd437504:0[colonistsSingularOrPlural]crwdnd437504:0[asker_nameDef]crwdnd437504:0[enemyFaction_name]crwdnd437504:0[asker_pronoun]crwdnd437504:0[timeoutTicks_duration]crwdne437504:0</li>
+    <li>crwdns437506:0crwdne437506:0</li>
+    <li>crwdns437508:0crwdne437508:0</li>
+  </AncientComplex_Mission.questDescriptionRules.rulesStrings>
+  <AncientComplex_Mission.questNameRules.rulesStrings>
+    <li>crwdns437510:0[missionAdj]crwdnd437510:0[complex]crwdnd437510:0[investigation]crwdne437510:0</li>
+    <li>crwdns437512:0crwdne437512:0</li>
+    <li>crwdns437514:0crwdne437514:0</li>
+    <li>crwdns437516:0crwdne437516:0</li>
+  </AncientComplex_Mission.questNameRules.rulesStrings>
+</LanguageData>
