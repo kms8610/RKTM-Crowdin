@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GotMarried_KeptName.label>성을 유지함</GotMarried_KeptName.label>
-  
-  <GotMarried_TookMansName.label>남자의 성을 따라감</GotMarried_TookMansName.label>
-  
-  <GotMarried_TookWomansName.label>여자의 성을 따라감</GotMarried_TookWomansName.label>
+  <MarriageName.label>결혼 이름</MarriageName.label>
 </LanguageData>
