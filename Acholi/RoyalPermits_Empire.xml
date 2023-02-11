@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CallLaborerGang.label>crwdns448110:0crwdne448110:0</CallLaborerGang.label>
+  <CallLaborerGang.description>crwdns448112:0crwdne448112:0</CallLaborerGang.description>
+  
+  <CallLaborerTeam.label>crwdns448114:0crwdne448114:0</CallLaborerTeam.label>
+  <CallLaborerTeam.description>crwdns448116:0crwdne448116:0</CallLaborerTeam.description>
+  
+  <CallMilitaryAidGrand.label>crwdns448118:0crwdne448118:0</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.description>crwdns448120:0crwdne448120:0</CallMilitaryAidGrand.description>
+  
+  <CallMilitaryAidLarge.label>crwdns448122:0crwdne448122:0</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.description>crwdns448124:0crwdne448124:0</CallMilitaryAidLarge.description>
+  
+  <CallMilitaryAidSmall.label>crwdns448126:0crwdne448126:0</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.description>crwdns448128:0crwdne448128:0</CallMilitaryAidSmall.description>
+  
+  <CallOrbitalSalvo.label>crwdns448130:0crwdne448130:0</CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.description>crwdns448132:0crwdne448132:0</CallOrbitalSalvo.description>
+  
+  <CallOrbitalStrike.label>crwdns448134:0crwdne448134:0</CallOrbitalStrike.label>
+  <CallOrbitalStrike.description>crwdns448136:0crwdne448136:0</CallOrbitalStrike.description>
+  
+  <CallTransportShuttle.label>crwdns448138:0crwdne448138:0</CallTransportShuttle.label>
+  <CallTransportShuttle.description>crwdns448140:0crwdne448140:0</CallTransportShuttle.description>
+  
+  <FoodDrop.label>crwdns448142:0crwdne448142:0</FoodDrop.label>
+  <FoodDrop.description>crwdns448144:0crwdne448144:0</FoodDrop.description>
+  
+  <GlitterMedDrop.label>crwdns448146:0crwdne448146:0</GlitterMedDrop.label>
+  <GlitterMedDrop.description>crwdns448148:0crwdne448148:0</GlitterMedDrop.description>
+  
+  <SilverDrop.label>crwdns448150:0crwdne448150:0</SilverDrop.label>
+  <SilverDrop.description>crwdns448152:0crwdne448152:0</SilverDrop.description>
+  
+  <SteelDrop.label>crwdns448154:0crwdne448154:0</SteelDrop.label>
+  <SteelDrop.description>crwdns448156:0crwdne448156:0</SteelDrop.description>
+  
+  <TradeCaravan.label>crwdns448158:0crwdne448158:0</TradeCaravan.label>
+  
+  <TradeOrbital.label>crwdns448160:0crwdne448160:0</TradeOrbital.label>
+  
+  <TradeSettlement.label>crwdns448162:0crwdne448162:0</TradeSettlement.label>
+</LanguageData>
