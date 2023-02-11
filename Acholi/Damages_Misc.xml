@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AcidBurn.label>crwdns421278:0crwdne421278:0</AcidBurn.label>
+  <AcidBurn.deathMessage>crwdns421280:0{0}crwdne421280:0</AcidBurn.deathMessage>
+  
+  <Beam.label>crwdns421282:0crwdne421282:0</Beam.label>
+  <Beam.deathMessage>crwdns421284:0{0}crwdne421284:0</Beam.deathMessage>
+  
+  <ToxGas.label>crwdns421286:0crwdne421286:0</ToxGas.label>
+  <ToxGas.deathMessage>crwdns421288:0{0}crwdne421288:0</ToxGas.deathMessage>
+  
+  <Vaporize.label>crwdns421290:0crwdne421290:0</Vaporize.label>
+  <Vaporize.deathMessage>crwdns421292:0{0}crwdne421292:0</Vaporize.deathMessage>
+</LanguageData>
