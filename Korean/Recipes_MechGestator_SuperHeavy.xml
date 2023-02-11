@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Centurion.label>gestate centurion</Centurion.label>
-  <Centurion.description>Gestate a centurion mechanoid.</Centurion.description>
-  <Centurion.jobString>Gestating mech.</Centurion.jobString>
+  <Centurion.label>센추리온 배양</Centurion.label>
+  <Centurion.description>센추리온 메카노이드를 배양합니다.</Centurion.description>
+  <Centurion.jobString>메카노이드 배양 중</Centurion.jobString>
   
-  <Warqueen.label>gestate war queen</Warqueen.label>
-  <Warqueen.description>Gestate a war queen mechanoid.</Warqueen.description>
-  <Warqueen.jobString>Gestating mech.</Warqueen.jobString>
+  <Warqueen.label>워퀸 배양</Warqueen.label>
+  <Warqueen.description>워 퀸 메카노이드를 배양합니다.</Warqueen.description>
+  <Warqueen.jobString>메카노이드 배양 중</Warqueen.jobString>
 </LanguageData>
