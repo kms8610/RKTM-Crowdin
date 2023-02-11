@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slavery.label>slavery</Slavery.label>
+  <Slavery_Abhorrent.label>혐오함</Slavery_Abhorrent.label>
+  <Slavery_Abhorrent.description>Owning or trading human beings is deeply evil.</Slavery_Abhorrent.description>
+  <Slavery_Abhorrent.comps.0.description>정착지의 노예당</Slavery_Abhorrent.comps.0.description>
+  <Slavery_Abhorrent.comps.5.description>누군가가 노예를 판매함</Slavery_Abhorrent.comps.5.description>
+  
+  <Slavery_Acceptable.label>수용함</Slavery_Acceptable.label>
+  <Slavery_Acceptable.description>Slavery is a normal, unremarkable part of life.</Slavery_Acceptable.description>
+  
+  <Slavery_Disapproved.label>못마땅함</Slavery_Disapproved.label>
+  <Slavery_Disapproved.description>Slavery is part of life, though it is extremely distasteful.</Slavery_Disapproved.description>
+  <Slavery_Disapproved.comps.0.description>정착지의 노예당</Slavery_Disapproved.comps.0.description>
+  <Slavery_Disapproved.comps.5.description>누군가가 노예를 판매함</Slavery_Disapproved.comps.5.description>
+  <Slavery_Disapproved.comps.6.description>수감자를 노예로 만듦</Slavery_Disapproved.comps.6.description>
+  
+  <Slavery_Honorable.label>명예로운</Slavery_Honorable.label>
+  <Slavery_Honorable.description>One who owns and trades slaves should be honored and respected.</Slavery_Honorable.description>
+  <Slavery_Honorable.comps.0.description>정착지의 노예당</Slavery_Honorable.comps.0.description>
+  <Slavery_Honorable.comps.6.description>누군가가 노예를 판매함</Slavery_Honorable.comps.6.description>
+  <Slavery_Honorable.comps.7.description>수감자를 노예로 만듦</Slavery_Honorable.comps.7.description>
+  <Slavery_Honorable.comps.8.eventLabel>노예화된 수감자</Slavery_Honorable.comps.8.eventLabel>
+  
+  <Slavery_Horrible.label>끔찍함</Slavery_Horrible.label>
+  <Slavery_Horrible.description>Owning or trading human beings is a horrible thing.</Slavery_Horrible.description>
+  <Slavery_Horrible.comps.0.description>정착지의 노예당</Slavery_Horrible.comps.0.description>
+  <Slavery_Horrible.comps.5.description>누군가가 노예를 판매함</Slavery_Horrible.comps.5.description>
+  <Slavery_Horrible.comps.6.description>수감자를 노예로 만듦</Slavery_Horrible.comps.6.description>
 </LanguageData>
