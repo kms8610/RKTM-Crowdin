@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <!-- Audiovisuals -->
+  <Audiovisuals>crwdns482410:0crwdne482410:0</Audiovisuals>
+  <MasterVolume>crwdns482412:0crwdne482412:0</MasterVolume>
+  <GameVolume>crwdns482414:0crwdne482414:0</GameVolume>
+  <MusicVolume>crwdns482416:0crwdne482416:0</MusicVolume>
+  <AmbientVolume>crwdns482418:0crwdne482418:0</AmbientVolume>
+  <UIVolume>crwdns482420:0crwdne482420:0</UIVolume>
+  <MasterVolumeTooltip>crwdns482422:0crwdne482422:0</MasterVolumeTooltip>
+  <GameVolumeTooltip>crwdns482424:0crwdne482424:0</GameVolumeTooltip>
+  <MusicVolumeTooltip>crwdns482426:0crwdne482426:0</MusicVolumeTooltip>
+  <AmbientVolumeTooltip>crwdns482428:0crwdne482428:0</AmbientVolumeTooltip>
+  <UIVolumeTooltip>crwdns482430:0crwdne482430:0</UIVolumeTooltip>
+  <Antialiasing>crwdns482432:0crwdne482432:0</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>crwdns482434:0crwdne482434:0</EdgeScreenScroll>
+  <PauseOnLoad>crwdns482436:0crwdne482436:0</PauseOnLoad>
+  <PauseOnUrgentLetter>crwdns482438:0crwdne482438:0</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>crwdns482440:0crwdne482440:0</AutomaticPauseModeSetting>
+  <CustomCursor>crwdns482442:0crwdne482442:0</CustomCursor>
+  <HatsShownOnlyOnMap>crwdns482444:0crwdne482444:0</HatsShownOnlyOnMap>
+  <UIScale>crwdns482446:0crwdne482446:0</UIScale>
+  <KeyboardConfig>crwdns482448:0crwdne482448:0</KeyboardConfig>
+  <ControllerConfig>crwdns482450:0crwdne482450:0</ControllerConfig>
+  <ModifyConfig>crwdns482452:0crwdne482452:0</ModifyConfig>
+  <ChooseLanguage>crwdns482454:0crwdne482454:0</ChooseLanguage>
+  <ResetAdaptiveTutor>crwdns482456:0crwdne482456:0</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>crwdns482458:0crwdne482458:0</AdaptiveTutorIsReset>
+  <SteamDeckKeyboardMode>crwdns482460:0crwdne482460:0</SteamDeckKeyboardMode>
+  <RunInBackground>crwdns482462:0crwdne482462:0</RunInBackground>
+  <DevelopmentMode>crwdns482464:0crwdne482464:0</DevelopmentMode>
+  <ResetModsConfigOnCrash>crwdns482466:0crwdne482466:0</ResetModsConfigOnCrash>
+  <SimulateNotOwningRoyalty>crwdns482468:0crwdne482468:0</SimulateNotOwningRoyalty>
+  <SimulateNotOwningIdeology>crwdns482470:0crwdne482470:0</SimulateNotOwningIdeology>
+  <SimulateNotOwningBiotech>crwdns482472:0crwdne482472:0</SimulateNotOwningBiotech>
+  <LogVerbose>crwdns482474:0crwdne482474:0</LogVerbose>
+  <SaveGameDataFolder>crwdns482476:0crwdne482476:0</SaveGameDataFolder>
+  <SaveGameDataLocation>crwdns482478:0crwdne482478:0</SaveGameDataLocation>
+  <LogFileFolder>crwdns482480:0crwdne482480:0</LogFileFolder>
+  <LogFileLocation>crwdns482482:0crwdne482482:0</LogFileLocation>
+  <OpenFolder>crwdns482484:0crwdne482484:0</OpenFolder>
+  <ShowFolder>crwdns482486:0crwdne482486:0</ShowFolder>
+  <NamesYouWantToSee>crwdns482488:0crwdne482488:0</NamesYouWantToSee>
+  <NamesYouWantToSeeSubText>crwdns482490:0crwdne482490:0</NamesYouWantToSeeSubText>
+  <AddName>crwdns482492:0crwdne482492:0</AddName>
+  <TypeFirstNickOrLastName>crwdns482494:0crwdne482494:0</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>crwdns482496:0crwdne482496:0</MessageAlreadyPreferredName>
+  <ChangeStoryteller>crwdns482498:0crwdne482498:0</ChangeStoryteller>
+  <AutosaveInterval>crwdns482500:0crwdne482500:0</AutosaveInterval>
+  <AutosaveIntervalTooltip>crwdns482502:0crwdne482502:0</AutosaveIntervalTooltip>
+  <TemperatureMode>crwdns482504:0crwdne482504:0</TemperatureMode>
+  <ShowRealtimeClock>crwdns482506:0crwdne482506:0</ShowRealtimeClock>
+  <DisableTinyText>crwdns482508:0crwdne482508:0</DisableTinyText>
+  <MaxNumberOfPlayerSettlements>crwdns482510:0{0}crwdne482510:0</MaxNumberOfPlayerSettlements>
+  <MapDragSensitivity>crwdns482512:0crwdne482512:0</MapDragSensitivity>
+  <PlantWindSway>crwdns482514:0crwdne482514:0</PlantWindSway>
+  <EnableTestMapSizes>crwdns482516:0crwdne482516:0</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>crwdns482518:0{0}crwdne482518:0</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>crwdns482520:0crwdne482520:0</ModSettings>
+  <PermanentlyDisableDevMode>crwdns482522:0crwdne482522:0</PermanentlyDisableDevMode>
+  <TextureCompression>crwdns482524:0crwdne482524:0</TextureCompression>
+  <TextureCompression_Tooltip>crwdns482526:0crwdne482526:0</TextureCompression_Tooltip>
+  <SmoothCameraJumps>crwdns482528:0crwdne482528:0</SmoothCameraJumps>
+  <SmoothCameraJumpsDesc>crwdns482530:0crwdne482530:0</SmoothCameraJumpsDesc>
+
+  <!-- Resolution -->
+  <Resolution>crwdns482532:0crwdne482532:0</Resolution>
+  <Fullscreen>crwdns482534:0crwdne482534:0</Fullscreen>
+  <BorderlessFullscreen>crwdns482536:0crwdne482536:0</BorderlessFullscreen>
+  <BorderlessFullscreenInstructions>crwdns482538:0crwdne482538:0</BorderlessFullscreenInstructions>
+
+  <!-- Mods -->
+  <SelectMod>crwdns482540:0crwdne482540:0</SelectMod>
+  <NoConfigurableMods>crwdns482542:0crwdne482542:0</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <RestoreToDefaultSettingsLabel>crwdns482544:0crwdne482544:0</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettings>crwdns482546:0crwdne482546:0</RestoreToDefaultSettings>
+  <ResetAndRestart>crwdns482548:0crwdne482548:0</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>crwdns482550:0crwdne482550:0</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>crwdns482552:0crwdne482552:0</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <SetBackgroundImage>crwdns482554:0crwdne482554:0</SetBackgroundImage>
+
+</LanguageData>
