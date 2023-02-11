@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ShipBasics.label>crwdns462688:0crwdne462688:0</ShipBasics.label>
+  <ShipBasics.description>crwdns462690:0crwdne462690:0</ShipBasics.description>
+  <ShipBasics.discoveredLetterText>crwdns462692:0crwdne462692:0</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterTitle>crwdns462694:0crwdne462694:0</ShipBasics.discoveredLetterTitle>
+  
+  <ShipComputerCore.label>crwdns462696:0crwdne462696:0</ShipComputerCore.label>
+  <ShipComputerCore.description>crwdns462698:0crwdne462698:0</ShipComputerCore.description>
+  
+  <ShipCryptosleep.label>crwdns462700:0crwdne462700:0</ShipCryptosleep.label>
+  <ShipCryptosleep.description>crwdns462702:0crwdne462702:0</ShipCryptosleep.description>
+  
+  <ShipEngine.label>crwdns462704:0crwdne462704:0</ShipEngine.label>
+  <ShipEngine.description>crwdns462706:0crwdne462706:0</ShipEngine.description>
+  
+  <ShipReactor.label>crwdns462708:0crwdne462708:0</ShipReactor.label>
+  <ShipReactor.description>crwdns462710:0crwdne462710:0</ShipReactor.description>
+  
+  <ShipSensorCluster.label>crwdns462712:0crwdne462712:0</ShipSensorCluster.label>
+  <ShipSensorCluster.description>crwdns462714:0crwdne462714:0</ShipSensorCluster.description>
+</LanguageData>
