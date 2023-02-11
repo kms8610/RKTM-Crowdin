@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ConventChild16.baseDesc>crwdns450398:0[PAWN_nameDef]crwdnd450398:0[PAWN_pronoun]crwdne450398:0</ConventChild16.baseDesc>
+  <ConventChild16.title>crwdns450400:0crwdne450400:0</ConventChild16.title>
+  <ConventChild16.titleShort>crwdns450402:0crwdne450402:0</ConventChild16.titleShort>
+  
+  <MedievalLordling19.baseDesc>crwdns450404:0[PAWN_nameDef]crwdnd450404:0[PAWN_pronoun]crwdnd450404:0[PAWN_nameDef]crwdne450404:0</MedievalLordling19.baseDesc>
+  <MedievalLordling19.title>crwdns450406:0crwdne450406:0</MedievalLordling19.title>
+  <MedievalLordling19.titleFemale>crwdns450408:0crwdne450408:0</MedievalLordling19.titleFemale>
+  <MedievalLordling19.titleShort>crwdns450410:0crwdne450410:0</MedievalLordling19.titleShort>
+  <MedievalLordling19.titleShortFemale>crwdns450412:0crwdne450412:0</MedievalLordling19.titleShortFemale>
+  
+  <MedievalSlave49.baseDesc>crwdns450414:0[PAWN_nameDef]crwdnd450414:0[PAWN_possessive]crwdnd450414:0[PAWN_pronoun]crwdne450414:0</MedievalSlave49.baseDesc>
+  <MedievalSlave49.title>crwdns450416:0crwdne450416:0</MedievalSlave49.title>
+  <MedievalSlave49.titleShort>crwdns450418:0crwdne450418:0</MedievalSlave49.titleShort>
+</LanguageData>
