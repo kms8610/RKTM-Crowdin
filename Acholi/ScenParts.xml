@@ -1,13 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ScenarioTitle>crwdns430668:0crwdne430668:0</ScenarioTitle>
-  <ScenPart_StartingMech>crwdns430670:0crwdne430670:0</ScenPart_StartingMech>
-  <Mechanoid>crwdns430672:0crwdne430672:0</Mechanoid>
-  <RandomMech>crwdns430674:0crwdne430674:0</RandomMech>
-  <StartOverseenChance>crwdns430676:0crwdne430676:0</StartOverseenChance>
-
-  <ScenPart_StartWithSpecificColonists>crwdns430678:0{0}crwdne430678:0</ScenPart_StartWithSpecificColonists>
-  <PawnCount>crwdns430680:0{COUNT}crwdnd430680:0{KINDLABEL}crwdne430680:0</PawnCount>
+  <!-- ======================== Non-grouped ========================-->
   
+  <ScenPart_PlayerFaction>crwdns485728:0{0}crwdne485728:0</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawn>crwdns485730:0crwdne485730:0</ScenPart_StartWithPawn>
+  <ScenPart_StartWithPawns>crwdns485732:0{0}crwdne485732:0</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>crwdns485734:0crwdne485734:0</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>crwdns485736:0crwdne485736:0</RandomPet>
+
+  <ScenPart_StartingResearchFinished>crwdns485738:0{0}crwdne485738:0</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>crwdns485740:0crwdne485740:0</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>crwdns485742:0{0}crwdnd485742:0{1}crwdne485742:0</ScenPart_StatFactor>
+
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>crwdns485744:0{0}crwdnd485744:0{1}crwdnd485744:0{2}crwdne485744:0</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>crwdns485746:0{0}crwdne485746:0</ConfigurableSeverity>
+
+  <ScenPart_SetNeed>crwdns485748:0{0}crwdnd485748:0{1}crwdnd485748:0{2}crwdnd485748:0{3}crwdnd485748:0{4}crwdne485748:0</ScenPart_SetNeed>
+  <ConfigurableLevel>crwdns485750:0{0}crwdne485750:0</ConfigurableLevel>
+
+  <ScenPart_PawnsHaveTrait>crwdns485752:0{0}crwdnd485752:0{1}crwdnd485752:0{2}crwdne485752:0</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>crwdns485754:0{0}crwdnd485754:0{1}crwdne485754:0</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsAreNaked>crwdns485756:0{0}crwdnd485756:0{1}crwdne485756:0</ScenPart_PawnsAreNaked>
+  
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>crwdns485758:0{0}crwdne485758:0</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>crwdns485760:0{0}crwdne485760:0</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>crwdns485762:0{0}crwdnd485762:0{1}crwdne485762:0</ScenPart_StartingPawnAgeRange>
+
+  <!-- ======================== Grouped ========================-->
+
+  <ScenPart_StartWith>crwdns485764:0crwdne485764:0</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>crwdns485766:0crwdne485766:0</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>crwdns485768:0crwdne485768:0</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>crwdns485770:0crwdne485770:0</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>crwdns485772:0crwdne485772:0</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>crwdns485774:0crwdne485774:0</ScenPart_DisallowBuilding>
+
 </LanguageData>
