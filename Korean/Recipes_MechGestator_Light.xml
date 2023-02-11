@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Agrihand.label>gestate agrihand</Agrihand.label>
-  <Agrihand.description>Gestate an agrihand mechanoid.</Agrihand.description>
-  <Agrihand.jobString>Gestating mech.</Agrihand.jobString>
+  <Agrihand.label>아그리핸드 배양</Agrihand.label>
+  <Agrihand.description>아그리핸드 메카노이드를 배양합니다.</Agrihand.description>
+  <Agrihand.jobString>메카노이드 배양 중</Agrihand.jobString>
   
-  <Cleansweeper.label>gestate cleansweeper</Cleansweeper.label>
-  <Cleansweeper.description>Gestate a cleansweeper mechanoid.</Cleansweeper.description>
-  <Cleansweeper.jobString>Gestating mech.</Cleansweeper.jobString>
+  <Cleansweeper.label>클린스위퍼 배양</Cleansweeper.label>
+  <Cleansweeper.description>클린스위퍼 메카노이드를 배양합니다.</Cleansweeper.description>
+  <Cleansweeper.jobString>메카노이드 배양 중</Cleansweeper.jobString>
   
-  <Constructoid.label>gestate constructoid</Constructoid.label>
-  <Constructoid.description>Gestate a constructoid mechanoid.</Constructoid.description>
-  <Constructoid.jobString>Gestating mech.</Constructoid.jobString>
+  <Constructoid.label>컨스트럭토이드 배양</Constructoid.label>
+  <Constructoid.description>컨스트럭토이드 메카노이드를 배양합니다.</Constructoid.description>
+  <Constructoid.jobString>메카노이드 배양 중</Constructoid.jobString>
   
-  <Fabricor.label>gestate fabricor</Fabricor.label>
-  <Fabricor.description>Gestate a fabricor mechanoid.</Fabricor.description>
-  <Fabricor.jobString>Gestating mech.</Fabricor.jobString>
+  <Fabricor.label>파브리코어 배양</Fabricor.label>
+  <Fabricor.description>파브리코어 메카노이드를 배양합니다.</Fabricor.description>
+  <Fabricor.jobString>메카노이드 배양 중</Fabricor.jobString>
   
-  <Lifter.label>gestate lifter</Lifter.label>
-  <Lifter.description>Gestate a lifter mechanoid.</Lifter.description>
-  <Lifter.jobString>Gestating mech.</Lifter.jobString>
+  <Lifter.label>리프터 배양</Lifter.label>
+  <Lifter.description>리프터 메카노이드를 배양합니다.</Lifter.description>
+  <Lifter.jobString>메카노이드 배양 중</Lifter.jobString>
   
-  <Militor.label>gestate militor</Militor.label>
-  <Militor.description>Gestate a militor mechanoid.</Militor.description>
-  <Militor.jobString>Gestating mech.</Militor.jobString>
+  <Militor.label>밀리터 배양</Militor.label>
+  <Militor.description>밀리터 메카노이드를 배양합니다.</Militor.description>
+  <Militor.jobString>메카노이드 배양 중</Militor.jobString>
   
-  <Paramedic.label>gestate paramedic</Paramedic.label>
-  <Paramedic.description>Gestate a paramedic mechanoid.</Paramedic.description>
-  <Paramedic.jobString>Gestating mech.</Paramedic.jobString>
+  <Paramedic.label>파라메딕 배양</Paramedic.label>
+  <Paramedic.description>파라메딕 메카노이드를 배양합니다.</Paramedic.description>
+  <Paramedic.jobString>메카노이드 배양 중</Paramedic.jobString>
 </LanguageData>
