@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+    <li>crwdns445930:0[titleHeir_nameFull]crwdnd445930:0[titleHolder_nameFull]crwdnd445930:0[monumentSize]crwdnd445930:0[monumentRequiredResourcesMarketValue_money]crwdnd445930:0[monumentRequiredResources]crwdnd445930:0[asker_factionName]crwdnd445930:0[keepMonumentTicks_duration]crwdnd445930:0[asker_factionName]crwdnd445930:0[goodwillChangeIfMonumentDestroyed]crwdne445930:0</li>
+  </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+  <ChangeRoyalHeir.questNameRules.rulesStrings>
+    <li>crwdns445932:0[titleHeir_nameDef]crwdne445932:0</li>
+  </ChangeRoyalHeir.questNameRules.rulesStrings>
+  <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>crwdns445934:0{0}crwdne445934:0</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
+  <ChangeRoyalHeir.LetterTextAskerOffended.slateRef>crwdns445936:0[titleHolder_nameDef]crwdne445936:0</ChangeRoyalHeir.LetterTextAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>crwdns445938:0[asker_nameDef]crwdnd445938:0[asker_faction_name]crwdne445938:0</ChangeRoyalHeir.LetterLabelAskerOffended.slateRef>
+  <ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>crwdns445940:0{SUBJECT_definite}crwdne445940:0</ChangeRoyalHeir.LetterLabelTitleHolderDied.slateRef>
+  <ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>crwdns445942:0{SUBJECT_definite}crwdne445942:0</ChangeRoyalHeir.LetterTextTitleHolderDied.slateRef>
+  <ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>crwdns445944:0{SUBJECT_definite}crwdne445944:0</ChangeRoyalHeir.LetterLabelDesignatedHeirDied.slateRef>
+  <ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>crwdns445946:0{SUBJECT_definite}crwdne445946:0</ChangeRoyalHeir.LetterTextDesignatedHeirDied.slateRef>
+  <ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>crwdns445948:0crwdne445948:0</ChangeRoyalHeir.LetterLabelMonumentDestroyed.slateRef>
+  <ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>crwdns445950:0[asker_nameDef]crwdnd445950:0[asker_faction_name]crwdnd445950:0[goodwillChangeIfMonumentDestroyed]crwdne445950:0</ChangeRoyalHeir.LetterTextMonumentDestroyed.slateRef>
+  <ChangeRoyalHeir.LetterLabelNewHeir.slateRef>crwdns445952:0[titleHeir_nameDef]crwdne445952:0</ChangeRoyalHeir.LetterLabelNewHeir.slateRef>
+  <ChangeRoyalHeir.LetterTextNewHeir.slateRef>crwdns445954:0[titleHeir_nameDef]crwdnd445954:0[titleHolder_nameDef]crwdne445954:0</ChangeRoyalHeir.LetterTextNewHeir.slateRef>
+  <ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>crwdns445956:0{0}crwdne445956:0</ChangeRoyalHeir.DontDestroyMonumentForDays.slateRef>
+  <ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>crwdns445958:0{0}crwdne445958:0</ChangeRoyalHeir.DontDestroyMonumentForDaysTip.slateRef>
+  <ChangeRoyalHeir.KeepMonument.slateRef>crwdns445960:0{0}crwdne445960:0</ChangeRoyalHeir.KeepMonument.slateRef>
+</LanguageData>
