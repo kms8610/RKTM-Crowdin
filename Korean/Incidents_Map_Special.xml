@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_AncientComplex_Mechanitor.label>고대 메카나이터 유적</GiveQuest_AncientComplex_Mechanitor.label>
-  <GiveQuest_AncientComplex_Mechanitor.letterLabel>고대 메카나이터 유적</GiveQuest_AncientComplex_Mechanitor.letterLabel>
+  <GauranlenPodSpawn.label>요정열매 새싹</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.letterLabel>요정열매 새싹</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterText>요정열매가 주변에 자라났습니다!\n\n수확하여 요정씨앗을 획득하세요. 이 씨앗을 심은 자리에는 신비한 요정나무가 솟아오릅니다.\n\n정착민이 요정나무와 교감하면 일손을 돕거나 자원을 생성하는 나무지기를 키워낼 수 있습니다.</GauranlenPodSpawn.letterText>
   
-  <PoluxTreeSpawn.label>정화나무</PoluxTreeSpawn.label>
-  <PoluxTreeSpawn.letterLabel>정화나무 새싹</PoluxTreeSpawn.letterLabel>
-  <PoluxTreeSpawn.letterText>근처에 정화나무 새싹이 폈습니다!\n\n정화나무가 주변 지형으로부터 오염을 서서히 흡수합니다. 오염된 지형을 청소하는 다른 방법들과는 달리 정화나무는 유독성 쓰레기를 배출하지 않습니다.</PoluxTreeSpawn.letterText>
+  <GiveQuest_Beggars.label>거지떼 도착</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.letterLabel>거지떼 도착</GiveQuest_Beggars.letterLabel>
   
-  <RefugeePodCrash_Baby.label>수송기 추락</RefugeePodCrash_Baby.label>
+  <GiveQuest_ReliquaryPilgrims.label>순례자 도착</GiveQuest_ReliquaryPilgrims.label>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>순례자 도착</GiveQuest_ReliquaryPilgrims.letterLabel>
+  
+  <Infestation_Jelly.label>곤충 젤리</Infestation_Jelly.label>
+  <Infestation_Jelly.letterLabel>곤충 젤리</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterText>땅을 파고 올라온 거대한 곤충들이 지상에 약간의 젤리를 남기고 갔습니다.</Infestation_Jelly.letterText>
+  
+  <WanderersSkylantern.label>방랑자</WanderersSkylantern.label>
+  <WanderersSkylantern.letterLabel>우호적인 방문객</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterText>날아간 풍등을 보고 우호적인 여행자들이 찾아왔습니다. 여행자들은 아름다운 풍등 축제에 놀랐고, 다음에는 자신들도 참가할 수 있기를 기대합니다.\n\n그들은 정착지에 방문하여 선물을 남길 것입니다.</WanderersSkylantern.letterText>
 </LanguageData>
