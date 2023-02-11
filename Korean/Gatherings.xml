@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Concert.label>연주회</Concert.label>
+  <Concert.calledOffMessage>연주회가 취소되었습니다.</Concert.calledOffMessage>
+  <Concert.finishedMessage>연주회가 종료되었습니다.</Concert.finishedMessage>
+  <Concert.letterText>{ORGANIZER_labelShort}(이)가 연주회를 열었습니다! 참여자들은 음악을 감상하면서 재미와 사교적 접촉, 긍정적인 기분을 얻게 됩니다.</Concert.letterText>
+  <Concert.letterTitle>연주회</Concert.letterTitle>
+</LanguageData>
