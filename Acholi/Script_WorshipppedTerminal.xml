@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Hack_WorshippedTerminal.questContentRules.rulesStrings>
+    <li>crwdns437672:0crwdne437672:0</li>
+  </Hack_WorshippedTerminal.questContentRules.rulesStrings>
+  <Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+    <li>crwdns437674:0[relic_name]crwdnd437674:0[visitInfo]crwdne437674:0</li>
+    <li>crwdns437676:0[timer_duration]crwdne437676:0</li>
+    <li>crwdns437678:0crwdne437678:0</li>
+  </Hack_WorshippedTerminal.questDescriptionRules.rulesStrings>
+  <Hack_WorshippedTerminal.questNameRules.rulesStrings>
+    <li>crwdns437680:0[adj]crwdnd437680:0[terminalName]crwdne437680:0</li>
+    <li>crwdns437682:0crwdne437682:0</li>
+    <li>crwdns437684:0crwdne437684:0</li>
+    <li>crwdns437686:0crwdne437686:0</li>
+    <li>crwdns437688:0crwdne437688:0</li>
+    <li>crwdns437690:0crwdne437690:0</li>
+    <li>crwdns437692:0crwdne437692:0</li>
+    <li>crwdns437694:0crwdne437694:0</li>
+    <li>crwdns437696:0crwdne437696:0</li>
+    <li>crwdns437698:0crwdne437698:0</li>
+    <li>crwdns437700:0crwdne437700:0</li>
+    <li>crwdns437702:0crwdne437702:0</li>
+    <li>crwdns437704:0crwdne437704:0</li>
+    <li>crwdns437706:0crwdne437706:0</li>
+    <li>crwdns437708:0crwdne437708:0</li>
+    <li>crwdns437710:0crwdne437710:0</li>
+  </Hack_WorshippedTerminal.questNameRules.rulesStrings>
+</LanguageData>
