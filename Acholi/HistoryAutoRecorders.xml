@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Adaptation.label>crwdns458342:0crwdne458342:0</Adaptation.label>
+  <Adaptation.valueFormat>crwdns458344:0{0}crwdne458344:0</Adaptation.valueFormat>
+  
+  <ColonistMood.label>crwdns458346:0crwdne458346:0</ColonistMood.label>
+  <ColonistMood.valueFormat>crwdns458348:0{0}crwdne458348:0</ColonistMood.valueFormat>
+  
+  <FreeColonists.label>crwdns458350:0crwdne458350:0</FreeColonists.label>
+  <FreeColonists.valueFormat>crwdns458352:0{0}crwdne458352:0</FreeColonists.valueFormat>
+  
+  <PopAdaptation.label>crwdns458354:0crwdne458354:0</PopAdaptation.label>
+  <PopAdaptation.valueFormat>crwdns458356:0{0}crwdne458356:0</PopAdaptation.valueFormat>
+  
+  <PopIntent.label>crwdns458358:0crwdne458358:0</PopIntent.label>
+  <PopIntent.valueFormat>crwdns458360:0{0}crwdne458360:0</PopIntent.valueFormat>
+  
+  <Prisoners.label>crwdns458362:0crwdne458362:0</Prisoners.label>
+  <Prisoners.valueFormat>crwdns458364:0{0}crwdne458364:0</Prisoners.valueFormat>
+  
+  <ThreatPoints.label>crwdns458366:0crwdne458366:0</ThreatPoints.label>
+  <ThreatPoints.valueFormat>crwdns458368:0{0}crwdne458368:0</ThreatPoints.valueFormat>
+  
+  <Wealth_Buildings.label>crwdns458370:0crwdne458370:0</Wealth_Buildings.label>
+  <Wealth_Buildings.valueFormat>crwdns458372:0{0}crwdne458372:0</Wealth_Buildings.valueFormat>
+  
+  <Wealth_Items.label>crwdns458374:0crwdne458374:0</Wealth_Items.label>
+  <Wealth_Items.valueFormat>crwdns458376:0{0}crwdne458376:0</Wealth_Items.valueFormat>
+  
+  <Wealth_Pawns.label>crwdns458378:0crwdne458378:0</Wealth_Pawns.label>
+  <Wealth_Pawns.valueFormat>crwdns458380:0{0}crwdne458380:0</Wealth_Pawns.valueFormat>
+  
+  <Wealth_Total.label>crwdns458382:0crwdne458382:0</Wealth_Total.label>
+  <Wealth_Total.valueFormat>crwdns458384:0${0}crwdne458384:0</Wealth_Total.valueFormat>
+</LanguageData>
