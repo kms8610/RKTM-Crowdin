@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Child.label>crwdns461028:0crwdne461028:0</Child.label>
+  <Child.labelFemale>crwdns461030:0crwdne461030:0</Child.labelFemale>
+  
+  <Cousin.label>crwdns461032:0crwdne461032:0</Cousin.label>
+  
+  <CousinOnceRemoved.label>crwdns461034:0crwdne461034:0</CousinOnceRemoved.label>
+  
+  <Grandchild.label>crwdns461036:0crwdne461036:0</Grandchild.label>
+  <Grandchild.labelFemale>crwdns461038:0crwdne461038:0</Grandchild.labelFemale>
+  
+  <GrandnephewOrGrandniece.label>crwdns461040:0crwdne461040:0</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>crwdns461042:0crwdne461042:0</GrandnephewOrGrandniece.labelFemale>
+  
+  <Grandparent.label>crwdns461044:0crwdne461044:0</Grandparent.label>
+  <Grandparent.labelFemale>crwdns461046:0crwdne461046:0</Grandparent.labelFemale>
+  
+  <GranduncleOrGrandaunt.label>crwdns461048:0crwdne461048:0</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>crwdns461050:0crwdne461050:0</GranduncleOrGrandaunt.labelFemale>
+  
+  <GreatGrandchild.label>crwdns461052:0crwdne461052:0</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>crwdns461054:0crwdne461054:0</GreatGrandchild.labelFemale>
+  
+  <GreatGrandparent.label>crwdns461056:0crwdne461056:0</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>crwdns461058:0crwdne461058:0</GreatGrandparent.labelFemale>
+  
+  <HalfSibling.label>crwdns461060:0crwdne461060:0</HalfSibling.label>
+  <HalfSibling.labelFemale>crwdns461062:0crwdne461062:0</HalfSibling.labelFemale>
+  
+  <Kin.label>crwdns461064:0crwdne461064:0</Kin.label>
+  
+  <NephewOrNiece.label>crwdns461066:0crwdne461066:0</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>crwdns461068:0crwdne461068:0</NephewOrNiece.labelFemale>
+  
+  <Parent.label>crwdns461070:0crwdne461070:0</Parent.label>
+  <Parent.labelFemale>crwdns461072:0crwdne461072:0</Parent.labelFemale>
+  
+  <SecondCousin.label>crwdns461074:0crwdne461074:0</SecondCousin.label>
+  
+  <Sibling.label>crwdns461076:0crwdne461076:0</Sibling.label>
+  <Sibling.labelFemale>crwdns461078:0crwdne461078:0</Sibling.labelFemale>
+  
+  <UncleOrAunt.label>crwdns461080:0crwdne461080:0</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>crwdns461082:0crwdne461082:0</UncleOrAunt.labelFemale>
+</LanguageData>
