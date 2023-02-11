@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <RelicAtRitual.stages.at_ritual.label>crwdns442674:0{RELICNAME}crwdne442674:0</RelicAtRitual.stages.at_ritual.label>
+  <RelicAtRitual.stages.at_ritual.description>crwdns442676:0{RELICNAME}crwdne442676:0</RelicAtRitual.stages.at_ritual.description>
+  <RelicAtRitual.stages.two_relics_at_ritual.label>crwdns442678:0crwdne442678:0</RelicAtRitual.stages.two_relics_at_ritual.label>
+  <RelicAtRitual.stages.two_relics_at_ritual.description>crwdns442680:0crwdne442680:0</RelicAtRitual.stages.two_relics_at_ritual.description>
+  <RelicAtRitual.stages.three_relics_at_ritual.label>crwdns442682:0crwdne442682:0</RelicAtRitual.stages.three_relics_at_ritual.label>
+  <RelicAtRitual.stages.three_relics_at_ritual.description>crwdns442684:0crwdne442684:0</RelicAtRitual.stages.three_relics_at_ritual.description>
+  
+  <TrialConvicted.stages.convicted.label>crwdns442686:0crwdne442686:0</TrialConvicted.stages.convicted.label>
+  <TrialConvicted.stages.convicted.description>crwdns442688:0crwdne442688:0</TrialConvicted.stages.convicted.description>
+  
+  <TrialExonerated.stages.exonerated.label>crwdns442690:0crwdne442690:0</TrialExonerated.stages.exonerated.label>
+  <TrialExonerated.stages.exonerated.description>crwdns442692:0crwdne442692:0</TrialExonerated.stages.exonerated.description>
+  
+  <TrialFailed.stages.failed_trial.label>crwdns442694:0crwdne442694:0</TrialFailed.stages.failed_trial.label>
+  <TrialFailed.stages.failed_trial.description>crwdns442696:0crwdne442696:0</TrialFailed.stages.failed_trial.description>
+</LanguageData>
