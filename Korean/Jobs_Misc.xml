@@ -1,54 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbsorbXenogerm.reportString>{TargetA}에서 변형이식체 흡수 중</AbsorbXenogerm.reportString>
+  <ActivateArchonexusCore.reportString>초월 연결체와 접속하는 중</ActivateArchonexusCore.reportString>
   
-  <CarryGenepackToContainer.reportString>{TargetA}(을)를 {TargetB}(으)로 운반 중</CarryGenepackToContainer.reportString>
+  <Blind.reportString>TargetA의 눈을 뽑는 중</Blind.reportString>
   
-  <CarryToBuilding.reportString>{TargetB}(을)를 {TargetA}(으)로 옮기는 중</CarryToBuilding.reportString>
+  <CarryToBiosculpterPod.reportString>{TargetA}(을)를 생체 재구축기에 넣는 중</CarryToBiosculpterPod.reportString>
   
-  <CastAbilityGoToThing.reportString>뭔가 하는 중</CastAbilityGoToThing.reportString>
+  <DeliverToAltar.reportString>{TargetA}(을)를 제단으로 옮기는 중</DeliverToAltar.reportString>
   
-  <CastAbilityOnThingWithoutWeapon.reportString>뭔가 하는 중</CastAbilityOnThingWithoutWeapon.reportString>
+  <DyeHair.reportString>머리 염색하는 중</DyeHair.reportString>
   
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>뭔가 하는 중</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <EnterBiosculpterPod.reportString>생체 재구축기에 들어가는 중</EnterBiosculpterPod.reportString>
   
-  <ClearPollution.reportString>오염 청소 중</ClearPollution.reportString>
+  <ExtractRelic.reportString>TargetA에서 {TargetB}(을)를 꺼내는 중</ExtractRelic.reportString>
   
-  <ControlMech.reportString>{TargetA} 제어 획득 중</ControlMech.reportString>
+  <ExtractToInventory.reportString>{TargetB}(을)를 소지품에서 꺼내는 중</ExtractToInventory.reportString>
   
-  <CreateXenogerm.reportString>변형이식체 생성 중</CreateXenogerm.reportString>
+  <GetNeuralSupercharge.reportString>TargetA에서 신경 과충전 받는 중</GetNeuralSupercharge.reportString>
   
-  <Deathrest.reportString>죽음안식 중</Deathrest.reportString>
+  <GiveToPawn.reportString>TargetB에게 {TargetA}(을)를 주는 중</GiveToPawn.reportString>
   
-  <DisassembleMech.reportString>{TargetA} 분해 중</DisassembleMech.reportString>
+  <InduceSlaveToRebel.reportString>TargetA에게 반란 선동 중</InduceSlaveToRebel.reportString>
   
-  <EnterBuilding.reportString>TargetA에 들어가는 중</EnterBuilding.reportString>
+  <InstallRelic.reportString>TargetA에 {TargetB}(을)를 설치 중</InstallRelic.reportString>
   
-  <GetReimplanted.reportString>{TargetA}에서 변형이식체 흡수 중</GetReimplanted.reportString>
+  <MeditatePray.reportString>기도 중</MeditatePray.reportString>
   
-  <HaulMechToCharger.reportString>{TargetA}(을)를 충전소로 운반 중</HaulMechToCharger.reportString>
+  <OpenStylingStationDialog.reportString>TargetA에서 꾸미는 중</OpenStylingStationDialog.reportString>
   
-  <InstallMechlink.reportString>{TargetA} 설치 중</InstallMechlink.reportString>
+  <RecolorApparel.reportString>의류 염색하는 중</RecolorApparel.reportString>
   
-  <MechCharge.reportString>충전 중</MechCharge.reportString>
+  <Sacrifice.reportString>{TargetA}(을)를 희생시키는 중</Sacrifice.reportString>
   
-  <PrisonerBloodfeed.reportString>{TargetA} 먹이는 중</PrisonerBloodfeed.reportString>
+  <Scarify.reportString>TargetA에게 상흔 새기는 중</Scarify.reportString>
   
-  <ReadDatacore.reportString>{TargetA} 해석 중</ReadDatacore.reportString>
+  <UseStylingStation.reportString>TargetA에서 꾸미는 중</UseStylingStation.reportString>
   
-  <ReleaseMechs.reportString>메카노이드 방출 중</ReleaseMechs.reportString>
-  
-  <RemoveMechlink.reportString>뭔가 하는 중</RemoveMechlink.reportString>
-  
-  <RepairMech.reportString>TargetA 수리 중</RepairMech.reportString>
-  
-  <RepairMechRemote.reportString>TargetA 수리 중</RepairMechRemote.reportString>
-  
-  <SelfShutdown.reportString>자가충전 휴면중</SelfShutdown.reportString>
-  
-  <ShieldMech.reportString>{TargetA}에게 보호막 제공 중</ShieldMech.reportString>
-  
-  <TryRomance.reportString>{TargetA}에게 작업거는 중</TryRomance.reportString>
-  
-  <Wait_WithSleeping.reportString>대기 중</Wait_WithSleeping.reportString>
+  <UseStylingStationAutomatic.reportString>TargetA에서 꾸미는 중</UseStylingStationAutomatic.reportString>
 </LanguageData>
