@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Fertile.label>crwdns422272:0crwdne422272:0</Fertile.label>
+  <Fertile.description>crwdns422274:0crwdne422274:0</Fertile.description>
+  
+  <Immunity_Strong.label>crwdns422276:0crwdne422276:0</Immunity_Strong.label>
+  <Immunity_Strong.description>crwdns422278:0crwdne422278:0</Immunity_Strong.description>
+  <Immunity_Strong.labelShortAdj>crwdns422280:0crwdne422280:0</Immunity_Strong.labelShortAdj>
+  <Immunity_Strong.symbolPack.prefixSymbols.0.symbol>crwdns422282:0crwdne422282:0</Immunity_Strong.symbolPack.prefixSymbols.0.symbol>
+  
+  <Immunity_SuperStrong.label>crwdns422284:0crwdne422284:0</Immunity_SuperStrong.label>
+  <Immunity_SuperStrong.description>crwdns422286:0crwdne422286:0</Immunity_SuperStrong.description>
+  <Immunity_SuperStrong.labelShortAdj>crwdns422288:0crwdne422288:0</Immunity_SuperStrong.labelShortAdj>
+  <Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>crwdns422290:0crwdne422290:0</Immunity_SuperStrong.symbolPack.prefixSymbols.0.symbol>
+  
+  <Immunity_Weak.label>crwdns422292:0crwdne422292:0</Immunity_Weak.label>
+  <Immunity_Weak.description>crwdns422294:0crwdne422294:0</Immunity_Weak.description>
+  <Immunity_Weak.labelShortAdj>crwdns422296:0crwdne422296:0</Immunity_Weak.labelShortAdj>
+  <Immunity_Weak.symbolPack.prefixSymbols.0.symbol>crwdns422298:0crwdne422298:0</Immunity_Weak.symbolPack.prefixSymbols.0.symbol>
+  <Immunity_Weak.symbolPack.prefixSymbols.1.symbol>crwdns422300:0crwdne422300:0</Immunity_Weak.symbolPack.prefixSymbols.1.symbol>
+  
+  <Sterile.label>crwdns422302:0crwdne422302:0</Sterile.label>
+  <Sterile.description>crwdns422304:0crwdne422304:0</Sterile.description>
+  
+  <Superclotting.label>crwdns422306:0crwdne422306:0</Superclotting.label>
+  <Superclotting.description>crwdns422308:0crwdne422308:0</Superclotting.description>
+  <Superclotting.customEffectDescriptions.0>crwdns422310:0crwdne422310:0</Superclotting.customEffectDescriptions.0>
+  <Superclotting.symbolPack.prefixSymbols.0.symbol>crwdns422312:0crwdne422312:0</Superclotting.symbolPack.prefixSymbols.0.symbol>
+  <Superclotting.symbolPack.prefixSymbols.1.symbol>crwdns422314:0crwdne422314:0</Superclotting.symbolPack.prefixSymbols.1.symbol>
+  <Superclotting.symbolPack.suffixSymbols.0.symbol>crwdns422316:0crwdne422316:0</Superclotting.symbolPack.suffixSymbols.0.symbol>
+  <Superclotting.symbolPack.suffixSymbols.1.symbol>crwdns422318:0crwdne422318:0</Superclotting.symbolPack.suffixSymbols.1.symbol>
+  
+  <ToxicEnvironmentResistance_Partial.label>crwdns422320:0crwdne422320:0</ToxicEnvironmentResistance_Partial.label>
+  <ToxicEnvironmentResistance_Partial.description>crwdns422322:0crwdne422322:0</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.labelShortAdj>crwdns422324:0crwdne422324:0</ToxicEnvironmentResistance_Partial.labelShortAdj>
+  <ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>crwdns422326:0crwdne422326:0</ToxicEnvironmentResistance_Partial.symbolPack.prefixSymbols.0.symbol>
+  
+  <ToxicEnvironmentResistance_Total.label>crwdns422328:0crwdne422328:0</ToxicEnvironmentResistance_Total.label>
+  <ToxicEnvironmentResistance_Total.description>crwdns422330:0crwdne422330:0</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.customEffectDescriptions.0>crwdns422332:0crwdne422332:0</ToxicEnvironmentResistance_Total.customEffectDescriptions.0>
+  <ToxicEnvironmentResistance_Total.labelShortAdj>crwdns422334:0crwdne422334:0</ToxicEnvironmentResistance_Total.labelShortAdj>
+  <ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>crwdns422336:0crwdne422336:0</ToxicEnvironmentResistance_Total.symbolPack.prefixSymbols.0.symbol>
+  
+  <WoundHealing_Fast.label>crwdns422338:0crwdne422338:0</WoundHealing_Fast.label>
+  <WoundHealing_Fast.description>crwdns422340:0crwdne422340:0</WoundHealing_Fast.description>
+  <WoundHealing_Fast.labelShortAdj>crwdns422342:0crwdne422342:0</WoundHealing_Fast.labelShortAdj>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>crwdns422344:0crwdne422344:0</WoundHealing_Fast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>crwdns422346:0crwdne422346:0</WoundHealing_Fast.symbolPack.prefixSymbols.1.symbol>
+  
+  <WoundHealing_Slow.label>crwdns422348:0crwdne422348:0</WoundHealing_Slow.label>
+  <WoundHealing_Slow.description>crwdns422350:0crwdne422350:0</WoundHealing_Slow.description>
+  <WoundHealing_Slow.labelShortAdj>crwdns422352:0crwdne422352:0</WoundHealing_Slow.labelShortAdj>
+  <WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>crwdns422354:0crwdne422354:0</WoundHealing_Slow.symbolPack.prefixSymbols.0.symbol>
+  
+  <WoundHealing_SuperFast.label>crwdns422356:0crwdne422356:0</WoundHealing_SuperFast.label>
+  <WoundHealing_SuperFast.description>crwdns422358:0crwdne422358:0</WoundHealing_SuperFast.description>
+  <WoundHealing_SuperFast.labelShortAdj>crwdns422360:0crwdne422360:0</WoundHealing_SuperFast.labelShortAdj>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>crwdns422362:0crwdne422362:0</WoundHealing_SuperFast.symbolPack.prefixSymbols.0.symbol>
+  <WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>crwdns422364:0crwdne422364:0</WoundHealing_SuperFast.symbolPack.prefixSymbols.1.symbol>
+</LanguageData>
