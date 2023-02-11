@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallDetoxifierKidney.label>crwdns425180:0crwdne425180:0</InstallDetoxifierKidney.label>
-  <InstallDetoxifierKidney.description>crwdns425182:0crwdne425182:0</InstallDetoxifierKidney.description>
-  <InstallDetoxifierKidney.jobString>crwdns425184:0crwdne425184:0</InstallDetoxifierKidney.jobString>
+  <DetoxifierKidney.label>crwdns427390:0crwdne427390:0</DetoxifierKidney.label>
+  <DetoxifierKidney.description>crwdns427392:0crwdne427392:0</DetoxifierKidney.description>
   
-  <InstallDetoxifierLung.label>crwdns425186:0crwdne425186:0</InstallDetoxifierLung.label>
-  <InstallDetoxifierLung.description>crwdns425188:0crwdne425188:0</InstallDetoxifierLung.description>
-  <InstallDetoxifierLung.jobString>crwdns425190:0crwdne425190:0</InstallDetoxifierLung.jobString>
+  <DetoxifierLung.label>crwdns427394:0crwdne427394:0</DetoxifierLung.label>
+  <DetoxifierLung.description>crwdns427396:0crwdne427396:0</DetoxifierLung.description>
 </LanguageData>
