@@ -1,99 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+  <MessageMustChooseIdeo>Create or select an ideoligion for your faction.</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>The ideoligion name can't be empty.</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} and {PRECEPT2} are incompatible.</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} overlaps with {ROLE} apparel requirement ({ROLEAPPAREL}). This will make it impossible for {ROLE}s to wear the required and desired apparel together.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageRitualMissingTarget>{PRECEPT} needs one of these buildings</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>{PRECEPT}에는 관련된 행사가 필요합니다.</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} refuses to do this because of {0_possessive} ideoligion.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef}(이)가 {RECIPIENT_nameDef}(을)를 자신의 사상으로 물들이려 했습니다. {RECIPIENT_nameDef}(은)는 분노했지만, {CERTAINTYBEFORE}에서 {CERTAINTYAFTER}까지 믿음을 잃었습니다.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef}(이)가 {PAWN2_nameDef}(을)를 자신의 사상으로 교화하려고 시도했습니다. 이로 인해 사교적 다툼이 발생했습니다!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>You must choose at least {0} memes.</MessageNotEnoughMemes>
+  <MessageTooManyMemes>You can't choose more than {0} memes.</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>You must choose a structure meme.</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label} and {1_label} are incompatible with each other.</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>{1}(을)를 시작하려면 {0}(이)가 필요합니다.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNotEnoughSpectators>{1}(을)를 시작하려면 최소 {0}명의 참석자가 필요합니다.</MessageNotEnoughSpectators>
+  <MessageRoleChangeChooseDifferentRole>지위를 선택해야 합니다.</MessageRoleChangeChooseDifferentRole>
+  <MessageNeedAssignedRoleToBeginRitual>{1}(을)를 시작하기 전에 누군가에게 {0} 지위를 맡겨야 합니다.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>최소 한 명의 {0}(은)는 참여해야 합니다.</MessageNeedAtLeastOneParticipantOfIdeo>
   
-  <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort}의 임신이 제1삼분기에서 제2삼분기로 진행했습니다.</MessageColonistReaching2ndTrimesterPregnancy>
-  <MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort}의 임신이 제2삼분기에서 제3삼분기로 진행했습니다.</MessageColonistReaching3rdTrimesterPregnancy>
-  <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort}의 산통이 마지막 단계에 접어들었습니다.</MessageColonistInFinalStagesOfLabor>
+  <MessageRoleAssigned>{0_labelShort}(이)가 {1}의 지위에 올랐습니다.</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>Since {0_labelShort} became a prisoner, {0_pronoun} no longer can hold the role of {1}.</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>경고: 나무를 베면 {0}(이)가 분노할 것입니다.</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>경고: 채굴하면 {0}(이)가 분노할 것입니다.</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>{TREE_label}(와)과 {PAWN_nameDef}의 교감이 끊어졌습니다. {TREE_label}(와)과 다시 교감하려면 {DURATION}(을)를 기다려야 합니다.</MessageConnectedPawnDied>
 
-  <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef}(이)가 충전하는동안 충전기가 파괴되었습니다! 비정상적인 전력의 흐름이 뇌를 헤집어 광란상태에 빠졌습니다.</MessageMechChargerDestroyedMechGoesBerserk>
+  <!-- Slave interactions -->
+  <MessageSlaveEmancipated>{1_nameDef}(이)가 {0_nameDef}(을)를 해방시켰습니다.</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{0_nameDef} has been enslaved by {1_nameDef}.</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>Prisoner {1_nameDef}'s will has been broken by {0_nameDef}.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>이제 노예로 삼을 수 있습니다.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
 
-  <MessageCantUseOnResistingPerson>저항하는 사람에게는 {ABILITY_label}(을)를 사용할 수 없습니다.</MessageCantUseOnResistingPerson>
-  <MessageCannotUseOnSameXenotype>{0_labelShort}(은)는 이미 {0_xenotype} 인종형을 가지고 있습니다.</MessageCannotUseOnSameXenotype>
-  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>변형이식체는 정착민, 수감자, 혹은 노예에게만 삽입할 수 있습니다.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
-  <MessageCannotImplantInTempFactionMembers>임시 구성원에게 이식할 수 없습니다.</MessageCannotImplantInTempFactionMembers>
-  <MessageXenogermCompleted>변형이식체가 완성됐습니다.</MessageXenogermCompleted>
-  <MessageXenogermCancelledMissingPack>{0_labelShort}에서 변형이식체 작업이 취소됨: 필요한 유전자묶음이 없습니다.</MessageXenogermCancelledMissingPack>
-  <MessageAbsorbingXenogermWillAngerFaction>{PAWN_nameDef}의 변형이식체를 흡수하면 {0} 세력이 분노하게 됩니다.</MessageAbsorbingXenogermWillAngerFaction>
-  <MessageCannotUseOnOtherFactions>{ABILITY_label}(은)는 정착민, 수감자, 혹은 노예에게만 사용할 수 있습니다.</MessageCannotUseOnOtherFactions>
-  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort}(은)는 싫어하는 인종형이 되는 것을 거부했습니다.</MessageCannotBecomeNonPreferredXenotype>
+  <!-- Prisoner interactions -->
+  <MessageNoWardenCapableOfEnslavement>어떤 간수도 이 사람을 노예로 삼지 않을 것입니다.</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>{PRISONER_nameDef}(을)를 교화할 수 있는 {MEMBERNAME} 간수가 없습니다. {PRISONER_possessive} 처우를 "상호작용 없음"으로 재설정했습니다.</MessageNoWardenOfIdeo>
 
-  <MessageCaravanAddingEscortingMech>{OVERSEER_nameDef}(을)를 호위하기 위해 상단에 {MECH_nameDef}(을)를 자동으로 추가</MessageCaravanAddingEscortingMech> 
-  <MessageCaravanRemovingEscortingMech>{OVERSEER_nameDef}(을)를 호위하기 위해 상단에서 {MECH_nameDef}(을)를 자동으로 제거함</MessageCaravanRemovingEscortingMech>
+  <!-- Camps -->
+  <MessageCampDetected>근처에서 {FACTION_name}(이)가 운영하는 {CAMP_label}(을)를 발견했습니다.</MessageCampDetected>
 
-  <MessageMechanitorCasketOpened>{0}(은)는 메카나이터였습니다. {0_possessive} {1_label}(을)를 제거하여 정착민에게 사용할 수 있습니다.</MessageMechanitorCasketOpened>
+  <!-- Charity -->
+  <MessageCharityEventRefused>Charity refused</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>Charity fulfilled</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0}들이 빈손으로 떠나고 있습니다.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItems>{0}(이)가 요청한 물품을 들고 떠나고 있습니다.</MessageBeggarsLeavingWithItems>
+  <MessageWandererLeftToDie>{0_nameDef} died without any treatment.</MessageWandererLeftToDie>
+  <MessageWandererRecruited>{0_nameDef} was recruited.</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef} left healthy.</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>{0}(을)를 실패했습니다.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0}(을)를 성공적으로 마쳤습니다.</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <CannotRemove>Cannot remove</CannotRemove>
+  <CannotRemoveMemeRequired>Cannot remove {MEME}</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>Cannot remove {MEME}: Required by player faction.</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>Required by {FACTION_name}.</RequiredByFaction>
+  <OverlappingRoleApparel>각각의 지위는 서로 같은 예복을 가질 수 없습니다.</OverlappingRoleApparel>
   
-  <MessageNoBloodfeedersPrisonerInteractionReset>일부 수감자의 처우에 흡혈인자가 필요했습니다. 마지막 흡혈인자 보유자가 사라졌으므로 처우를 "상호작용 없음"으로 변경했습니다.</MessageNoBloodfeedersPrisonerInteractionReset>
+  <SelfDestructCountdown>{0}(은)는 {1} 후 자폭합니다.</SelfDestructCountdown>
+  <PreceptNameTooLong>설정된 이름이 너무 깁니다. (최대 {0}자)</PreceptNameTooLong>
 
-  <MessagePregnancyTerminated>{PAWN_nameDef}(이)가 출산하였습니다.</MessagePregnancyTerminated>
-  
-  <!-- Pollution -->
-  <MessageAngeredPollutedCell>{0}(이)가 화를 냈습니다 ({1})</MessageAngeredPollutedCell>
-  <MessageWarningPollutedCell>오염되지 않은 지형이 필요합니다.</MessageWarningPollutedCell>
-  <MessageWarningNotPollutedCell>오염된 지형이 필요합니다.</MessageWarningNotPollutedCell>
-  <MessagePlantDiedOfPollution>{0}(이)가 오염되어 죽었습니다.</MessagePlantDiedOfPollution>
-  <MessagePlantDiedOfNoPollution>{0}(이)가 오염 부족으로 죽었습니다.</MessagePlantDiedOfNoPollution>
-  <MessageWorldTilePollutionChanged>{1}의 오염이 {0} 증가했습니다.</MessageWorldTilePollutionChanged>
-  <MessageCocoonDisturbed>고치가 방해를 받아 깨어났습니다!</MessageCocoonDisturbed>
-  <MessageCocoonDisturbedPlural>고치가 방해를 받아 깨어났습니다!</MessageCocoonDisturbedPlural>
+  <!-- Ancient complex -->
+  <MessageAncientTerminalDiscovered>{0}의 정보가 담긴 고대 단말기를 발견했습니다!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>{0}에 대한 비밀 정보를 입수했습니다! 왕복선에 탑승하여 출발하세요.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>고대 보급 위성이 활성화됐습니다. 보급품이 근처로 낙하합니다.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0}의 {1}(이)가 보급 신호를 탐지한 후 공격하고 있습니다.</MessageAncientSignalHostileDetected>
 
-  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef}(은)는 {PAWN_possessive} 변형이식체를 다시 이식받기 전에 {PAWN_objective} 눕혀야 합니다.</MessageTargetMustBeDownedToForceReimplant>
+  <!-- Ancient altar -->
+  <MessageAncientAltarThreatsWokenUp>모든 보안 시스템이 활성화되고 있습니다!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>보안 시스템의 모든 구성 요소에 존재가 노출됐습니다.</MessageAncientAltarThreatsAlerted>
 
-  <MessageWorkTypeDisabledAge>{0_nameDef}(은)는 아직 {1}살 입니다. {2} 작업은 {3}살부터 가능합니다.</MessageWorkTypeDisabledAge>
+  <!-- Animals -->
+  <MessageAnimalIsVeneratedForAllColonists>경고: 모든 {PAWNS}(이)가 {PAWNKINDLABELPLURAL}(을)를 신성시합니다. 아무도 해를 끼치지 않을 것입니다.</MessageAnimalIsVeneratedForAllColonists>
 
-  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef}(은)는 이제 안전하게 죽음안식에서 깨어날 수 있습니다.</MessageDeathrestingPawnCanWakeSafely>
+  <!-- Archonexus -->
+  <MessageNewColonyMax>Select at most {0} {1} to bring to the new colony.</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>You must select at least 1 colonist.</MessageNewColoyRequiresOneColonist>
 
-  <MessageMechanitorLostControlOfMech>{0_nameDef}(이)가 {1_kindBase} 메카의 통제권을 상실했습니다</MessageMechanitorLostControlOfMech>
-  <MessageMechanitorDisconnectedFromMech>{0_nameDef}(이)가 {1_nameDef} 기계에서 연결 해제되었습니다.</MessageMechanitorDisconnectedFromMech>
+  <!-- Fuel node -->
+  <MessageFuelNodeTriggered>A {0} has been ignited and is going to explode!</MessageFuelNodeTriggered>
 
-  <!-- Xenogerm -->
-  <MetabolismTooLowToCreateXenogerm>계속하려면 선택된 유전자들의 총 대사량이 최소 {MIN}(이)가 되야 합니다. 현재 대사량: {AMOUNT}.</MetabolismTooLowToCreateXenogerm>
-  <ComplexityTooHighToCreateXenogerm>변형이식체를 생성하려면 전체 복잡도가 {MAX} 이하여야만 합니다. 현재 복잡도: {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
-  <MessageNoSelectedGenepacks>유전자 없는 변형이식체를 만들 수 없습니다.</MessageNoSelectedGenepacks>
-  <MessageNoSelectedGenes>유전자 없는 인종형을 만들 수 없습니다.</MessageNoSelectedGenes>
-  <CanOnlyStoreNumGenepacks>{0_label}(은)는 {1}개의 유전자 팩만 보관할 수 있습니다.</CanOnlyStoreNumGenepacks>
-  <XenotypeNameCannotBeEmpty>인종형의 이름을 입력해야 합니다.</XenotypeNameCannotBeEmpty>
-  <MessageGeneMissingPrerequisite>{0}의 요구 유전자 없음</MessageGeneMissingPrerequisite>
+  <!-- Ancient complex -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} will wake up in {1}.</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>Infestation arriving.</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0} was disturbed and might explode soon!</MessageFuelNodeDelayActivated><!-- this message fires when a fuel node has been disturbed and there is a random delay before it starts to explode. -->
 
-  <MessageDeathrestCapacityChanged>{PAWN_nameDef}의 죽음안식 수용량이 {OLD}에서 {NEW}로 증가했습니다.</MessageDeathrestCapacityChanged>
-
-  <SanguophagesArrivingSoon>생귀오파지는 회담을 위해 몇 시간 안에 도착할 것입니다.</SanguophagesArrivingSoon>
-  <SanguophagesBegunMeeting>생귀오파지의 회담이 시작되었습니다.</SanguophagesBegunMeeting>
-  <SanguophagesLeavingTemperature>생귀오파지들이 위험한 온도를 피해 돌아갑니다.</SanguophagesLeavingTemperature>
-
-  <MessagePawnWokenFromSunlight>{PAWN_nameDef}(은)는 햇빛 노출로 인해 {PAWN_possessive} 죽음안식에서 깨어났습니다.</MessagePawnWokenFromSunlight>
-  <MessageBedExposedToSunlight>{PAWN_nameDef}의 죽음안식을 위해 지정된 {BED_labelShort}(이)가 햇빛에 노출되어있습니다. {PAWN_nameDef}(은)는 여기서 죽음안식을 취할 수 없습니다.</MessageBedExposedToSunlight>
-
-  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort}(이)가 전력 부족으로 인해 유전자 추출기에서 배출되었습니다.</GeneExtractorNoPowerEjectedMessage>
-
-  <!-- Mechanitor -->
-  <MessagePawnKilledRipscanner>{PAWN_nameDef}의 뇌가 서브코어 립스캐너에 의해 파괴됐습니다.</MessagePawnKilledRipscanner>
-  <MessageSubcoreSoftscannerCompleted>{PAWN_nameDef}의 서브코어 소프트스캐너가 완료되었습니다.</MessageSubcoreSoftscannerCompleted>
-
-  <MessageCannotResurrectDessicatedCorpse>백골화된 시체는 부활할 수 없습니다.</MessageCannotResurrectDessicatedCorpse>
-
-  <MessageAboutToExplode>{0}(이)가 폭발하려고 합니다!</MessageAboutToExplode>
-
-  <!-- Childcare -->
-  <MessageChildcareDisabled>{FEEDER_labelShort}(은)는 보육 작업을 수행할 수 없습니다.</MessageChildcareDisabled>
-  <MessageChildcareNotAssigned>{FEEDER_labelShort}(은)는 보육 작업에 할당되지 않았습니다.</MessageChildcareNotAssigned>
-
-  <MessageTooManyCustomXenotypes>이미 최대 숫자의 인종형을 생성했습니다. 더 생성하려면 이미 존재하는 인종형을 삭제해야 합니다.</MessageTooManyCustomXenotypes>
-  <MessageConflictingGenesPresent>다수의 상충되는 유전자를 포함한 채로는 이종형을 저장할 수 없습니다.</MessageConflictingGenesPresent>
-
-  <MessageDeathrestBuildingBound>{BUILDING_labelShort}(이)가 {PAWN_nameDef} (죽음안식 수용량 {CUR} / {MAX})에게 할당되었습니다.</MessageDeathrestBuildingBound>
-
-  <MessageDevelopmentalStageSelectionDisabledByScenario>시나리오에 의해 성장단계 선택이 비활성화되었습니다.</MessageDevelopmentalStageSelectionDisabledByScenario>
-
-  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef}(은)는 혈액팩을 생성하기에 충분한 혈액이 없습니다.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
-  <MessageCannotStartHemogenExtraction>{PAWN_nameDef}은 헤모겐 팩을 생성하기에 충분한 혈액이 없습니다.</MessageCannotStartHemogenExtraction>
-
-  <MessageCannotPostponeGrowthMoment>이제 {PAWN_nameDef}(이)가 어떻게 성장할지 선택해야 합니다.</MessageCannotPostponeGrowthMoment>
-
-  <MessageDraftedPawnCarryingBaby>경고: {0_labelShort}(이)가 징집 중 아기를 안고 있습니다.</MessageDraftedPawnCarryingBaby>
-  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef}(이)가 {BABY_nameDef}(을)를 안전한 온도로 데려가고 있습니다.</MessageTakingBabyToSafeTemperature>
-
-  <MessagePregnancyFailed>{MOTHER_nameDef}와 {FATHER_nameDef} 사이에 임신 실패</MessagePregnancyFailed>
-  <MessageFerilizeFailed>{PAWN_nameDef}(이)가 난자를 수정하지 못했습니다.</MessageFerilizeFailed>
-  <CombinedGenesExceedMetabolismLimits>결합된 유전자가 대사 한계를 초과했습니다.</CombinedGenesExceedMetabolismLimits>
+  <!-- Fluid ideo messages -->
+  <MessageDevelopmentPointsEarned>개혁 점수가 {0}에서 {1}로 변화했습니다. ({2})</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>구조, 가르침및 스타일은 한 번만 변경할 수 있습니다.</MessageFluidIdeoOneChangeAllowed>
 
 </LanguageData>
