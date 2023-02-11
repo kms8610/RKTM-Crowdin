@@ -1,71 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Boards_Totemic.label>crwdns439996:0crwdne439996:0</Boards_Totemic.label>
-  <Boards_Totemic.description>crwdns439998:0crwdne439998:0</Boards_Totemic.description>
+  <Carpet_Morbid.label>crwdns440092:0{0}crwdne440092:0</Carpet_Morbid.label>
+  <Carpet_Morbid.description>crwdns440094:0crwdne440094:0</Carpet_Morbid.description>
   
-  <Carpet_MindbendA.label>crwdns440000:0crwdne440000:0</Carpet_MindbendA.label>
-  <Carpet_MindbendA.description>crwdns440002:0crwdne440002:0</Carpet_MindbendA.description>
-  
-  <Carpet_MindbendB.label>crwdns440004:0crwdne440004:0</Carpet_MindbendB.label>
-  <Carpet_MindbendB.description>crwdns440006:0crwdne440006:0</Carpet_MindbendB.description>
-  
-  <Carpet_MindbendC.label>crwdns440008:0crwdne440008:0</Carpet_MindbendC.label>
-  <Carpet_MindbendC.description>crwdns440010:0crwdne440010:0</Carpet_MindbendC.description>
-  
-  <Carpet_MindbendD.label>crwdns440012:0crwdne440012:0</Carpet_MindbendD.label>
-  <Carpet_MindbendD.description>crwdns440014:0crwdne440014:0</Carpet_MindbendD.description>
-  
-  <Carpet_MindbendE.label>crwdns440016:0crwdne440016:0</Carpet_MindbendE.label>
-  <Carpet_MindbendE.description>crwdns440018:0crwdne440018:0</Carpet_MindbendE.description>
-  
-  <Plates_Spikecore.label>crwdns440020:0crwdne440020:0</Plates_Spikecore.label>
-  <Plates_Spikecore.description>crwdns440022:0crwdne440022:0</Plates_Spikecore.description>
-  
-  <Tile_MorbidGranite.label>crwdns440024:0crwdne440024:0</Tile_MorbidGranite.label>
-  <Tile_MorbidGranite.description>crwdns440026:0crwdne440026:0</Tile_MorbidGranite.description>
-  
-  <Tile_MorbidLimestone.label>crwdns440028:0crwdne440028:0</Tile_MorbidLimestone.label>
-  <Tile_MorbidLimestone.description>crwdns440030:0crwdne440030:0</Tile_MorbidLimestone.description>
-  
-  <Tile_MorbidMarble.label>crwdns440032:0crwdne440032:0</Tile_MorbidMarble.label>
-  <Tile_MorbidMarble.description>crwdns440034:0crwdne440034:0</Tile_MorbidMarble.description>
-  
-  <Tile_MorbidSandstone.label>crwdns440036:0crwdne440036:0</Tile_MorbidSandstone.label>
-  <Tile_MorbidSandstone.description>crwdns440038:0crwdne440038:0</Tile_MorbidSandstone.description>
-  
-  <Tile_MorbidSlate.label>crwdns440040:0crwdne440040:0</Tile_MorbidSlate.label>
-  <Tile_MorbidSlate.description>crwdns440042:0crwdne440042:0</Tile_MorbidSlate.description>
-  
-  <Tile_SpikecoreGranite.label>crwdns440044:0crwdne440044:0</Tile_SpikecoreGranite.label>
-  <Tile_SpikecoreGranite.description>crwdns440046:0crwdne440046:0</Tile_SpikecoreGranite.description>
-  
-  <Tile_SpikecoreLimestone.label>crwdns440048:0crwdne440048:0</Tile_SpikecoreLimestone.label>
-  <Tile_SpikecoreLimestone.description>crwdns440050:0crwdne440050:0</Tile_SpikecoreLimestone.description>
-  
-  <Tile_SpikecoreMarble.label>crwdns440052:0crwdne440052:0</Tile_SpikecoreMarble.label>
-  <Tile_SpikecoreMarble.description>crwdns440054:0crwdne440054:0</Tile_SpikecoreMarble.description>
-  
-  <Tile_SpikecoreSandstone.label>crwdns440056:0crwdne440056:0</Tile_SpikecoreSandstone.label>
-  <Tile_SpikecoreSandstone.description>crwdns440058:0crwdne440058:0</Tile_SpikecoreSandstone.description>
-  
-  <Tile_SpikecoreSlate.label>crwdns440060:0crwdne440060:0</Tile_SpikecoreSlate.label>
-  <Tile_SpikecoreSlate.description>crwdns440062:0crwdne440062:0</Tile_SpikecoreSlate.description>
-  
-  <Tile_TotemicGranite.label>crwdns440064:0crwdne440064:0</Tile_TotemicGranite.label>
-  <Tile_TotemicGranite.description>crwdns440066:0crwdne440066:0</Tile_TotemicGranite.description>
-  
-  <Tile_TotemicLimestone.label>crwdns440068:0crwdne440068:0</Tile_TotemicLimestone.label>
-  <Tile_TotemicLimestone.description>crwdns440070:0crwdne440070:0</Tile_TotemicLimestone.description>
-  
-  <Tile_TotemicMarble.label>crwdns440072:0crwdne440072:0</Tile_TotemicMarble.label>
-  <Tile_TotemicMarble.description>crwdns440074:0crwdne440074:0</Tile_TotemicMarble.description>
-  
-  <Tile_TotemicSandstone.label>crwdns440076:0crwdne440076:0</Tile_TotemicSandstone.label>
-  <Tile_TotemicSandstone.description>crwdns440078:0crwdne440078:0</Tile_TotemicSandstone.description>
-  
-  <Tile_TotemicSlate.label>crwdns440080:0crwdne440080:0</Tile_TotemicSlate.label>
-  <Tile_TotemicSlate.description>crwdns440082:0crwdne440082:0</Tile_TotemicSlate.description>
-  
-  <Tile_Transhumanist.label>crwdns440084:0crwdne440084:0</Tile_Transhumanist.label>
-  <Tile_Transhumanist.description>crwdns440086:0crwdne440086:0</Tile_Transhumanist.description>
+  <Carpet_Transhumanist.label>crwdns440096:0{0}crwdne440096:0</Carpet_Transhumanist.label>
+  <Carpet_Transhumanist.description>crwdns440098:0crwdne440098:0</Carpet_Transhumanist.description>
 </LanguageData>
