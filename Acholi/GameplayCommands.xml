@@ -1,20 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   
-  <CommandBedSetForSlavesLabel>crwdns443606:0crwdne443606:0</CommandBedSetForSlavesLabel>
-  <CommandBedSetForColonistsLabel>crwdns443608:0crwdne443608:0</CommandBedSetForColonistsLabel>
-  <CommandBedSetForOwnerTypeDesc>crwdns443610:0crwdne443610:0</CommandBedSetForOwnerTypeDesc>
+  <!-- Heritage -->
+  <ChooseHeir>crwdns449802:0{HOLDER_nameIndef}crwdne449802:0</ChooseHeir>
+  <MakeHeirConfirm>crwdns449804:0{HOLDER_nameIndef}crwdnd449804:0{0_name}crwdne449804:0</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>crwdns449806:0{HOLDER_possessive}crwdnd449806:0{HEIR_nameFull}crwdne449806:0</MakeHeirPreviousHeirWarning>
 
-  <CommandNeuralSuperchargerNoAutoUse>crwdns443612:0crwdne443612:0</CommandNeuralSuperchargerNoAutoUse>
-  <CommandNeuralSuperchargerNoAutoUseDescription>crwdns443614:0crwdne443614:0</CommandNeuralSuperchargerNoAutoUseDescription>
-  <CommandNeuralSuperchargerAutoUseWithDesire>crwdns443616:0crwdne443616:0</CommandNeuralSuperchargerAutoUseWithDesire>
-  <CommandNeuralSuperchargerAutoUseWithDesireDescription>crwdns443618:0crwdne443618:0</CommandNeuralSuperchargerAutoUseWithDesireDescription>
-  <CommandNeuralSuperchargerAutoForEveryone>crwdns443620:0crwdne443620:0</CommandNeuralSuperchargerAutoForEveryone>
-  <CommandNeuralSuperchargerAutoForEveryoneDescription>crwdns443622:0crwdne443622:0</CommandNeuralSuperchargerAutoForEveryoneDescription>
-  <CommandNeuralSuperchargerAllowGuests>crwdns443624:0crwdne443624:0</CommandNeuralSuperchargerAllowGuests>
-  <CommandNeuralSuperchargerAllowGuestsDescription>crwdns443626:0crwdne443626:0</CommandNeuralSuperchargerAllowGuestsDescription>
+  <!-- Call aid -->
+  <CommandCallRoyalAid>crwdns449808:0crwdne449808:0</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>crwdns449810:0crwdne449810:0</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>crwdns449812:0crwdne449812:0</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>crwdns449814:0crwdne449814:0</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>crwdns449816:0{FACTION_name}crwdne449816:0</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>crwdns449818:0crwdne449818:0</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>crwdns449820:0{0}crwdnd449820:0{1}crwdnd449820:0{FACTION_royalFavorLabel}crwdne449820:0</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>crwdns449822:0{0_name}crwdnd449822:0{1}crwdne449822:0</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>crwdns449824:0crwdne449824:0</CommandCallRoyalAidNotEnoughFavor>
+  
+  <!-- Call laborers -->
+  <CommandCallLaborers>crwdns449826:0crwdne449826:0</CommandCallLaborers>
+  <CommandCallLaborersDesc>crwdns449828:0crwdne449828:0</CommandCallLaborersDesc>
+  <CommandOnCooldown>crwdns449830:0{0}crwdne449830:0</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>crwdns449832:0{0}crwdne449832:0</CommandCallLaborersNumLaborers>
 
-  <CommandSelectConnectedTree>crwdns443628:0crwdne443628:0</CommandSelectConnectedTree>
-  <CommandHealInHealingPod>crwdns443630:0crwdne443630:0</CommandHealInHealingPod>
-  <CommandHealInHealingPodDesc>crwdns443632:0{DAYS}crwdne443632:0</CommandHealInHealingPodDesc>
+  <!-- Abilities -->
+  <CommandPsycastWouldExceedEntropy>crwdns449834:0crwdne449834:0</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>crwdns449836:0{PSYCASTNAME}crwdnd449836:0{0}crwdnd449836:0{CASTERNAME}crwdnd449836:0{1}crwdne449836:0</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>crwdns449838:0{PSYCASTNAME}crwdnd449838:0{0}crwdnd449838:0{1}crwdnd449838:0{CASTERNAME}crwdnd449838:0{2}crwdne449838:0</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>crwdns449840:0{0}crwdne449840:0</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>crwdns449842:0crwdne449842:0</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>crwdns449844:0crwdne449844:0</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>crwdns449846:0{0}crwdne449846:0</CommandPsycastLowPsyfocus>
+  <NeuralHeatLetter>crwdns449848:0crwdne449848:0</NeuralHeatLetter>
+  <PsyfocusLetter>crwdns449850:0crwdne449850:0</PsyfocusLetter>
+
+  <!-- Select monument marker -->
+  <CommandSelectMonumentMarker>crwdns449852:0crwdne449852:0</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>crwdns449854:0crwdne449854:0</CommandSelectMonumentMarkerDesc>
+
+  <!-- Warn in building radius -->
+  <CommandWarnInBuildingRadius>crwdns449856:0crwdne449856:0</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>crwdns449858:0crwdne449858:0</CommandWarnInBuildingRadiusDesc>
+  
+  <!-- Permits -->
+  <ChooseRoyalPermit>crwdns449860:0crwdne449860:0</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>crwdns449862:0crwdne449862:0</ChooseRoyalPermit_Desc>
+
+  <CommandLeaveBestowingCeremony>crwdns449864:0crwdne449864:0</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>crwdns449866:0crwdne449866:0</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>crwdns449868:0crwdne449868:0</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>crwdns449870:0crwdne449870:0</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>crwdns449872:0crwdne449872:0</CommandCancelBestowingCeremonyConfirm>
 </LanguageData>
