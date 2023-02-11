@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HungerMaker.label>허기</HungerMaker.label>
+  <HungerMaker.description>결속 무기의 영향으로 허기를 더 많이 느낍니다.</HungerMaker.description>
+  
+  <NeuralHeatRecoveryGain.label>신경냉각</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>결속 무기의 영향으로 신경열이 더 빠르게 소멸합니다.</NeuralHeatRecoveryGain.description>
+  
+  <NoPain.label>통각차단</NoPain.label>
+  <NoPain.description>결속 무기의 영향으로 고통을 느끼는 능력이 마비됩니다.</NoPain.description>
+  
+  <SpeedBoost.label>질주</SpeedBoost.label>
+  <SpeedBoost.description>결속 무기의 영향으로 이동속도가 빨라집니다.</SpeedBoost.description>
+</LanguageData>
