@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RoleElite.label>crwdns430794:0crwdne430794:0</RoleElite.label>
-  
-  <RoleSupreme.label>crwdns430796:0crwdne430796:0</RoleSupreme.label>
+  <ExpectationsSlave.stages.destitute_slave_expectations.label>crwdns440890:0crwdne440890:0</ExpectationsSlave.stages.destitute_slave_expectations.label>
+  <ExpectationsSlave.stages.destitute_slave_expectations.description>crwdns440892:0crwdne440892:0</ExpectationsSlave.stages.destitute_slave_expectations.description>
+  <ExpectationsSlave.stages.poor_slave_expectations.label>crwdns440894:0crwdne440894:0</ExpectationsSlave.stages.poor_slave_expectations.label>
+  <ExpectationsSlave.stages.poor_slave_expectations.description>crwdns440896:0crwdne440896:0</ExpectationsSlave.stages.poor_slave_expectations.description>
+  <ExpectationsSlave.stages.meager_slave_expectations.label>crwdns440898:0crwdne440898:0</ExpectationsSlave.stages.meager_slave_expectations.label>
+  <ExpectationsSlave.stages.meager_slave_expectations.description>crwdns440900:0crwdne440900:0</ExpectationsSlave.stages.meager_slave_expectations.description>
+  <ExpectationsSlave.stages.slave_expectations.label>crwdns440902:0crwdne440902:0</ExpectationsSlave.stages.slave_expectations.label>
+  <ExpectationsSlave.stages.slave_expectations.description>crwdns440904:0crwdne440904:0</ExpectationsSlave.stages.slave_expectations.description>
 </LanguageData>
