@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <JumpRange.label>도약 거리</JumpRange.label>
+  <JumpRange.description>최대 도약 거리입니다.</JumpRange.description>
+  <JumpRange.formatString>{0}칸</JumpRange.formatString>
+</LanguageData>
