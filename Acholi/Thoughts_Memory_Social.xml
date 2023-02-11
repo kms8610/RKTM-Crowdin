@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FedOn_Social.stages.fed_on.label>crwdns428122:0crwdne428122:0</FedOn_Social.stages.fed_on.label>
+  <CounselFailed.stages.failed_consolation_by.label>crwdns442638:0{0}crwdne442638:0</CounselFailed.stages.failed_consolation_by.label>
+  <CounselFailed.stages.failed_consolation_by.description>crwdns442640:0crwdne442640:0</CounselFailed.stages.failed_consolation_by.description>
   
-  <GaveLesson.stages.listened_to_my_lesson.label>crwdns428124:0crwdne428124:0</GaveLesson.stages.listened_to_my_lesson.label>
+  <Counselled.stages.counselled_by.label>crwdns442642:0{0}crwdne442642:0</Counselled.stages.counselled_by.label>
+  <Counselled.stages.counselled_by.description>crwdns442644:0crwdne442644:0</Counselled.stages.counselled_by.description>
   
-  <WasTaught.stages.taught_me_a_skill.label>crwdns428126:0crwdne428126:0</WasTaught.stages.taught_me_a_skill.label>
+  <Counselled_MoodBoost.stages.counselled_by.label>crwdns442646:0{0}crwdne442646:0</Counselled_MoodBoost.stages.counselled_by.label>
+  <Counselled_MoodBoost.stages.counselled_by.description>crwdns442648:0crwdne442648:0</Counselled_MoodBoost.stages.counselled_by.description>
+  
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.label>crwdns442650:0{0}crwdne442650:0</FailedConvertAbilityInitiator.stages.failed_to_convert.label>
+  <FailedConvertAbilityInitiator.stages.failed_to_convert.description>crwdns442652:0crwdne442652:0</FailedConvertAbilityInitiator.stages.failed_to_convert.description>
+  
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>crwdns442654:0{0}crwdne442654:0</FailedConvertAbilityRecipient.stages.tried_to_convert_me.label>
+  <FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>crwdns442656:0crwdne442656:0</FailedConvertAbilityRecipient.stages.tried_to_convert_me.description>
+  
+  <TendedByMedicalSpecialist.stages.tended_by.label>crwdns442658:0{0}crwdne442658:0</TendedByMedicalSpecialist.stages.tended_by.label>
+  <TendedByMedicalSpecialist.stages.tended_by.description>crwdns442660:0crwdne442660:0</TendedByMedicalSpecialist.stages.tended_by.description>
+  
+  <WillDiminished.stages.will_diminished.label>crwdns442662:0crwdne442662:0</WillDiminished.stages.will_diminished.label>
 </LanguageData>
