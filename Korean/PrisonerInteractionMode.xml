@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttemptRecruit.label>포섭</AttemptRecruit.label>
-  <AttemptRecruit.description>대상 수감자를 포섭합니다. 아직 저항하고 있다면, 설득하기 위해 대화를 시도합니다.</AttemptRecruit.description>
+  <Bloodfeed.label>피 주머니</Bloodfeed.label>
+  <Bloodfeed.description>간수는 이 수감자를 무시합니다. 흡혈인자 보유자의 혈액정수 수치가 낮아지면 이 수감자를 흡혈합니다. 같은 방을 공유하는 흡혈인자 보유 수감자들도 이 수감자를 흡혈할 수 있습니다.</Bloodfeed.description>
   
-  <Execution.label>처형</Execution.label>
-  <Execution.description>죄수를 즉시 처형합니다. 이 행동은 다른 죄수와 정착민들의 기분에 영향을 줄 수 있습니다.</Execution.description>
-  
-  <NoInteraction.label>방치</NoInteraction.label>
-  <NoInteraction.description>수감자를 완전히 무시합니다.</NoInteraction.description>
-  
-  <ReduceResistance.label>설득</ReduceResistance.label>
-  <ReduceResistance.description>수감자와 대화를 시도하여 저항심을 낮춥니다. 포섭은 시도하지 않습니다.</ReduceResistance.description>
-  
-  <Release.label>방출</Release.label>
-  <Release.description>수감자를 석방합니다.</Release.description>
+  <HemogenFarm.label>혈액정수 농장</HemogenFarm.label>
+  <HemogenFarm.description>수감자가 죽지 않을 정도의 주기로 혈액팩을 계속 추출합니다. 집도는 의사가 합니다.</HemogenFarm.description>
 </LanguageData>
