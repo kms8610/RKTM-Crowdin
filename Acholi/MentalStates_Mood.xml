@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Catatonic.label>crwdns460256:0crwdne460256:0</Catatonic.label>
+  <BedroomTantrum.label>crwdns460260:0crwdne460260:0</BedroomTantrum.label>
+  <BedroomTantrum.baseInspectLine>crwdns460262:0crwdne460262:0</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.beginLetter>crwdns460264:0{0}crwdnd460264:0[PAWN_pronoun]crwdnd460264:0[PAWN_possessive]crwdne460264:0</BedroomTantrum.beginLetter>
+  <BedroomTantrum.recoveryMessage>crwdns460266:0{0}crwdne460266:0</BedroomTantrum.recoveryMessage>
   
-  <RunWild.label>crwdns460258:0crwdne460258:0</RunWild.label>
+  <Berserk.label>crwdns460268:0crwdne460268:0</Berserk.label>
+  <Berserk.baseInspectLine>crwdns460270:0crwdne460270:0</Berserk.baseInspectLine>
+  <Berserk.beginLetter>crwdns460272:0{0}crwdnd460272:0[PAWN_pronoun]crwdnd460272:0[PAWN_pronoun]crwdne460272:0</Berserk.beginLetter>
+  <Berserk.recoveryMessage>crwdns460274:0{0}crwdne460274:0</Berserk.recoveryMessage>
+  
+  <Binging_DrugExtreme.label>crwdns460276:0crwdne460276:0</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.baseInspectLine>crwdns460278:0{0}crwdne460278:0</Binging_DrugExtreme.baseInspectLine>
+  
+  <Binging_DrugMajor.label>crwdns460280:0crwdne460280:0</Binging_DrugMajor.label>
+  <Binging_DrugMajor.baseInspectLine>crwdns460282:0{0}crwdne460282:0</Binging_DrugMajor.baseInspectLine>
+  
+  <Binging_Food.label>crwdns460284:0crwdne460284:0</Binging_Food.label>
+  <Binging_Food.baseInspectLine>crwdns460286:0crwdne460286:0</Binging_Food.baseInspectLine>
+  <Binging_Food.beginLetter>crwdns460288:0{0}crwdne460288:0</Binging_Food.beginLetter>
+  <Binging_Food.beginLetterLabel>crwdns460290:0crwdne460290:0</Binging_Food.beginLetterLabel>
+  <Binging_Food.recoveryMessage>crwdns460292:0{0}crwdne460292:0</Binging_Food.recoveryMessage>
+  
+  <CorpseObsession.label>crwdns460294:0crwdne460294:0</CorpseObsession.label>
+  <CorpseObsession.baseInspectLine>crwdns460296:0crwdne460296:0</CorpseObsession.baseInspectLine>
+  <CorpseObsession.beginLetter>crwdns460298:0{0}crwdnd460298:0[PAWN_pronoun]crwdne460298:0</CorpseObsession.beginLetter>
+  <CorpseObsession.recoveryMessage>crwdns460300:0{0}crwdne460300:0</CorpseObsession.recoveryMessage>
+  
+  <FireStartingSpree.label>crwdns460302:0crwdne460302:0</FireStartingSpree.label>
+  <FireStartingSpree.baseInspectLine>crwdns460304:0crwdne460304:0</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.beginLetter>crwdns460306:0{0}crwdnd460306:0[PAWN_pronoun]crwdne460306:0</FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>crwdns460308:0{0}crwdne460308:0</FireStartingSpree.recoveryMessage>
+  
+  <GiveUpExit.label>crwdns460310:0crwdne460310:0</GiveUpExit.label>
+  <GiveUpExit.baseInspectLine>crwdns460312:0crwdne460312:0</GiveUpExit.baseInspectLine>
+  <GiveUpExit.beginLetter>crwdns460314:0{0}crwdnd460314:0[PAWN_pronoun]crwdnd460314:0[PAWN_objective]crwdnd460314:0[PAWN_pronoun]crwdnd460314:0[PAWN_objective]crwdne460314:0</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>crwdns460316:0crwdne460316:0</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.recoveryMessage>crwdns460318:0{0}crwdne460318:0</GiveUpExit.recoveryMessage>
+  
+  <InsultingSpree.label>crwdns460320:0crwdne460320:0</InsultingSpree.label>
+  <InsultingSpree.baseInspectLine>crwdns460322:0crwdne460322:0</InsultingSpree.baseInspectLine>
+  <InsultingSpree.beginLetter>crwdns460324:0{0}crwdnd460324:0[PAWN_pronoun]crwdne460324:0</InsultingSpree.beginLetter>
+  <InsultingSpree.recoveryMessage>crwdns460326:0{0}crwdne460326:0</InsultingSpree.recoveryMessage>
+  
+  <Jailbreaker.label>crwdns460328:0crwdne460328:0</Jailbreaker.label>
+  <Jailbreaker.baseInspectLine>crwdns460330:0crwdne460330:0</Jailbreaker.baseInspectLine>
+  <Jailbreaker.beginLetter>crwdns460332:0{0}crwdne460332:0</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>crwdns460334:0crwdne460334:0</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.recoveryMessage>crwdns460336:0{0}crwdne460336:0</Jailbreaker.recoveryMessage>
+  
+  <MurderousRage.label>crwdns460338:0crwdne460338:0</MurderousRage.label>
+  <MurderousRage.baseInspectLine>crwdns460340:0crwdne460340:0</MurderousRage.baseInspectLine>
+  <MurderousRage.beginLetter>crwdns460342:0{0}crwdnd460342:0[PAWN_pronoun]crwdnd460342:0{1}crwdne460342:0</MurderousRage.beginLetter>
+  <MurderousRage.recoveryMessage>crwdns460344:0{0}crwdne460344:0</MurderousRage.recoveryMessage>
+  
+  <SadisticRage.label>crwdns460346:0crwdne460346:0</SadisticRage.label>
+  <SadisticRage.baseInspectLine>crwdns460348:0crwdne460348:0</SadisticRage.baseInspectLine>
+  <SadisticRage.beginLetter>crwdns460350:0{0}crwdnd460350:0[PAWN_pronoun]crwdnd460350:0[PAWN_possessive]crwdne460350:0</SadisticRage.beginLetter>
+  <SadisticRage.recoveryMessage>crwdns460352:0{0}crwdne460352:0</SadisticRage.recoveryMessage>
+  
+  <Slaughterer.label>crwdns460354:0crwdne460354:0</Slaughterer.label>
+  <Slaughterer.baseInspectLine>crwdns460356:0crwdne460356:0</Slaughterer.baseInspectLine>
+  <Slaughterer.beginLetter>crwdns460358:0{0}crwdnd460358:0[PAWN_possessive]crwdne460358:0</Slaughterer.beginLetter>
+  <Slaughterer.recoveryMessage>crwdns460360:0{0}crwdne460360:0</Slaughterer.recoveryMessage>
+  
+  <Tantrum.label>crwdns460362:0crwdne460362:0</Tantrum.label>
+  <Tantrum.baseInspectLine>crwdns460364:0crwdne460364:0</Tantrum.baseInspectLine>
+  <Tantrum.beginLetter>crwdns460366:0{0}crwdnd460366:0[PAWN_pronoun]crwdne460366:0</Tantrum.beginLetter>
+  <Tantrum.recoveryMessage>crwdns460368:0{0}crwdne460368:0</Tantrum.recoveryMessage>
+  
+  <TargetedInsultingSpree.label>crwdns460370:0crwdne460370:0</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.baseInspectLine>crwdns460372:0{0}crwdne460372:0</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.beginLetter>crwdns460374:0{0}crwdnd460374:0[PAWN_possessive]crwdnd460374:0{1}crwdnd460374:0[PAWN_pronoun]crwdnd460374:0{1}crwdne460374:0</TargetedInsultingSpree.beginLetter>
+  
+  <TargetedTantrum.label>crwdns460376:0crwdne460376:0</TargetedTantrum.label>
+  <TargetedTantrum.baseInspectLine>crwdns460378:0crwdne460378:0</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.beginLetter>crwdns460380:0{0}crwdnd460380:0[PAWN_pronoun]crwdnd460380:0{1}crwdne460380:0</TargetedTantrum.beginLetter>
+  <TargetedTantrum.recoveryMessage>crwdns460382:0{0}crwdne460382:0</TargetedTantrum.recoveryMessage>
+  
+  <Wander_OwnRoom.label>crwdns460384:0crwdne460384:0</Wander_OwnRoom.label>
+  <Wander_OwnRoom.baseInspectLine>crwdns460386:0crwdne460386:0</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.beginLetter>crwdns460388:0{0}crwdnd460388:0[PAWN_possessive]crwdne460388:0</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetterLabel>crwdns460390:0crwdne460390:0</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.recoveryMessage>crwdns460392:0{0}crwdnd460392:0[PAWN_possessive]crwdne460392:0</Wander_OwnRoom.recoveryMessage>
+  
+  <Wander_Psychotic.label>crwdns460394:0crwdne460394:0</Wander_Psychotic.label>
+  <Wander_Psychotic.baseInspectLine>crwdns460396:0crwdne460396:0</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.beginLetter>crwdns460398:0{0}crwdne460398:0</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetterLabel>crwdns460400:0crwdne460400:0</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.recoveryMessage>crwdns460402:0{0}crwdne460402:0</Wander_Psychotic.recoveryMessage>
+  
+  <Wander_Psychotic_Short.label>crwdns460404:0crwdne460404:0</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.baseInspectLine>crwdns460406:0crwdne460406:0</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.beginLetter>crwdns460408:0{0}crwdne460408:0</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetterLabel>crwdns460410:0crwdne460410:0</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.recoveryMessage>crwdns460412:0{0}crwdne460412:0</Wander_Psychotic_Short.recoveryMessage>
+  
+  <Wander_Sad.label>crwdns460414:0crwdne460414:0</Wander_Sad.label>
+  <Wander_Sad.baseInspectLine>crwdns460416:0crwdne460416:0</Wander_Sad.baseInspectLine>
+  <Wander_Sad.beginLetter>crwdns460418:0{0}crwdne460418:0</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetterLabel>crwdns460420:0crwdne460420:0</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.recoveryMessage>crwdns460422:0{0}crwdne460422:0</Wander_Sad.recoveryMessage>
 </LanguageData>
