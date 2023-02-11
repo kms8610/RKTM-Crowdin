@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EnslaveAttempt.label>crwdns431606:0crwdne431606:0</EnslaveAttempt.label>
+  <EnslaveAttempt.logRulesInitiator.rulesStrings>
+    <li>crwdns431608:0[INITIATOR_nameDef]crwdnd431608:0[RECIPIENT_nameDef]crwdnd431608:0[RECIPIENT_pronoun]crwdne431608:0</li>
+    <li>crwdns431610:0[INITIATOR_nameDef]crwdnd431610:0[RECIPIENT_nameDef]crwdnd431610:0[RECIPIENT_pronoun]crwdne431610:0</li>
+    <li>crwdns431612:0[INITIATOR_nameDef]crwdnd431612:0[RECIPIENT_nameDef]crwdne431612:0</li>
+    <li>crwdns431614:0[INITIATOR_nameDef]crwdnd431614:0[RECIPIENT_nameDef]crwdnd431614:0[RECIPIENT_pronoun]crwdne431614:0</li>
+  </EnslaveAttempt.logRulesInitiator.rulesStrings>
+  
+  <ReduceWill.label>crwdns431616:0crwdne431616:0</ReduceWill.label>
+  <ReduceWill.logRulesInitiator.rulesStrings>
+    <li>crwdns431618:0[INITIATOR_nameDef]crwdnd431618:0[RECIPIENT_nameDef]crwdnd431618:0[RECIPIENT_pronoun]crwdnd431618:0[negative]crwdne431618:0</li>
+    <li>crwdns431620:0[INITIATOR_nameDef]crwdnd431620:0[RECIPIENT_nameDef]crwdnd431620:0[negative]crwdne431620:0</li>
+    <li>crwdns431622:0[INITIATOR_nameDef]crwdnd431622:0[RECIPIENT_nameDef]crwdnd431622:0[threat]crwdnd431622:0[RECIPIENT_pronoun]crwdnd431622:0[refused]crwdne431622:0</li>
+    <li>crwdns431624:0[INITIATOR_nameDef]crwdnd431624:0[RECIPIENT_nameDef]crwdnd431624:0[RECIPIENT_pronoun]crwdnd431624:0[disillusionment]crwdne431624:0</li>
+    <li>crwdns431626:0[INITIATOR_nameDef]crwdnd431626:0[RECIPIENT_nameDef]crwdnd431626:0[givein]crwdne431626:0</li>
+    <li>crwdns431628:0crwdne431628:0</li>
+    <li>crwdns431630:0crwdne431630:0</li>
+    <li>crwdns431632:0crwdne431632:0</li>
+    <li>crwdns431634:0crwdne431634:0</li>
+    <li>crwdns431636:0crwdne431636:0</li>
+    <li>crwdns431638:0[RECIPIENT_possessive]crwdne431638:0</li>
+    <li>crwdns431640:0crwdne431640:0</li>
+    <li>crwdns431642:0crwdne431642:0</li>
+    <li>crwdns431644:0crwdne431644:0</li>
+    <li>crwdns431646:0crwdne431646:0</li>
+    <li>crwdns431648:0crwdne431648:0</li>
+    <li>crwdns431650:0crwdne431650:0</li>
+    <li>crwdns431652:0crwdne431652:0</li>
+    <li>crwdns431654:0crwdne431654:0</li>
+    <li>crwdns431656:0crwdne431656:0</li>
+    <li>crwdns431658:0crwdne431658:0</li>
+    <li>crwdns431660:0crwdne431660:0</li>
+    <li>crwdns431662:0crwdne431662:0</li>
+    <li>crwdns431664:0crwdne431664:0</li>
+    <li>crwdns431666:0crwdne431666:0</li>
+    <li>crwdns431668:0crwdne431668:0</li>
+    <li>crwdns431670:0crwdne431670:0</li>
+    <li>crwdns431672:0crwdne431672:0</li>
+    <li>crwdns431674:0crwdne431674:0</li>
+    <li>crwdns431676:0crwdne431676:0</li>
+    <li>crwdns431678:0crwdne431678:0</li>
+    <li>crwdns431680:0crwdne431680:0</li>
+    <li>crwdns431682:0[RECIPIENT_possessive]crwdne431682:0</li>
+    <li>crwdns431684:0crwdne431684:0</li>
+    <li>crwdns431686:0crwdne431686:0</li>
+    <li>crwdns431688:0[RECIPIENT_possessive]crwdne431688:0</li>
+    <li>crwdns431690:0crwdne431690:0</li>
+    <li>crwdns431692:0crwdne431692:0</li>
+    <li>crwdns431694:0[RECIPIENT_objective]crwdne431694:0</li>
+    <li>crwdns431696:0[RECIPIENT_objective]crwdne431696:0</li>
+    <li>crwdns431698:0[RECIPIENT_objective]crwdne431698:0</li>
+  </ReduceWill.logRulesInitiator.rulesStrings>
+</LanguageData>
