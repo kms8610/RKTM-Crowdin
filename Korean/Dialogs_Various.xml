@@ -1,206 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Mechanitors -->
-  <AnyMechanitor>모든 메카나이터</AnyMechanitor>
-  <BossgroupWarningDialog>{LEADERKIND_label} 위협을 호출하면 다음 메카노이드를 호출합니다:\n\n{PAWNS}\n\n메카노이드들은 수 시간에서 며칠의 시간 뒤에 도착합니다. 싸울 준비가 되셨습니까?</BossgroupWarningDialog>
-  <MechControllerDowned>{PAWN_labelShort}(은)는 쓰러졌습니다.</MechControllerDowned>
-  <MechControllerImprisoned>{PAWN_labelShort}(은)는 수감자입니다.</MechControllerImprisoned>
-  <MechControllerInsideContainer>{PAWN_labelShort}(은)는 {CONTAINER}안에 있음</MechControllerInsideContainer>
-  <MechControllerInsufficientBandwidth>{PAWN_labelShort}의 대역폭이 충분하지 않습니다.</MechControllerInsufficientBandwidth>
-  <MechControllerMentalState>{PAWN_labelShort}(은)는 다음 정신 이상상태에 있습니다: {MENTALSTATE_label}</MechControllerMentalState>
-  <ConfirmDisassemblingMech>정말로 {0}(을)를 영구적으로 분해 하시겠습니까?\n\n영구적으로 분해하면 얻을 수 있는 자원: {0}</ConfirmDisassemblingMech>
-  <ConfirmInstallMechlink>메카노이드를 생산하려면 메카나이터가 제련 작업을 수행할 수 있어야합니다.\n\n정말 계속하시겠습니까?</ConfirmInstallMechlink>
-  <InsufficientBandwidth>대역폭 부족</InsufficientBandwidth>
-  <MechanitorLeftMapWithoutMechs>해당 기계는 {PAWN_labelShort}에 의해 남겨졌습니다:\n\n{MECHS}\n\n기계는 회수될 때까지 여기에 남아 있습니다.\n\n그들이 지도에서 {PAWN_labelShort}(을)를 따라갈 수 있도록 작업 모드를 호위로 설정하시겠습니까?</MechanitorLeftMapWithoutMechs>
+  <!-- Misc -->
+  <TradingAnimalProduceBonus>Trading animal products bonus</TradingAnimalProduceBonus>
+  <SlavesSection>노예</SlavesSection>
+  <DominantStyle>dominant style</DominantStyle>
+  <Date>날짜</Date>
+  <RitualDevelopmentPointRewards>의식 결과에 따라 다음과 같은 발전 점수가 지급됩니다.</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>전역 양식 사용</UseGlobalStyle>
+  <NoStylesAvailable>사용 가능한 다른 양식 없음</NoStylesAvailable>
 
-  <!-- Apparel -->
-  <ApparelRequirementAnyMechlordApparel>모든 기계군주 의류</ApparelRequirementAnyMechlordApparel>
-  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>또는 모든 초능력자 의복, 모든 장교 갑옷, 모든 기계군주 의류</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+  <ChooseStructureMemesInfo>Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay.</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>사상의 중심이 될 가르침을 {0}-{1}개 선택하세요.</ChooseNormalMemesInfo>
+  <NotEnoughMemes>Choose at least {0} meme.</NotEnoughMemes>
+  <TooManyMemes>Choose at most {0} memes.</TooManyMemes>
+  <ChooseStructureMeme>Choose structure.</ChooseStructureMeme>
+  <IncompatibleMemes>{0_label} and {1_label} are incompatible.</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>가르침마다 게임 플레이에 주는 영향이 다릅니다.</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>이 사상의 기초가 될 하나의 가르침을 선택하세요. 이후에 사상이 발달하면 더 많은 가르침을 추가할 수 있습니다.</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>가르침을 선택하거나 제거합니다.</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>재설정</ReformIdeoResetChanges>
+  <NotEnoughMemesFluidIdeo>가르침을 {0}개 선택하십시오.</NotEnoughMemesFluidIdeo>
 
-  <!-- Mech gestator -->
-  <GestationCyclesCompleted>배양 절차 완료</GestationCyclesCompleted>
-  <FormerIngredients>모은 재료</FormerIngredients>
+  <ChangesRandomizePrecepts>{0} will re-randomize any precepts you have edited.\n\nDo you wish to continue?</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>다음 규칙은 새로운 가르침과 호환되지 않으므로 제거됩니다.\n\n{0}\n\n계속하시겠습니까?</ChangesRemovePrecepts>
+  
+  <RoomRequirements>Room requirements</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>불러오려는 사상에 유동적 사상과 호환되지 않는 가르침이 존재합니다. 유동적 사상은 시작할 때 하나의 약한 영향 가르침만 선택할 수 있으므로 가르침을 모두 다시 선택해야 합니다.</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>다음의 가르침들이 상충됩니다</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>계속하시겠습니까?</ConfirmChangeMemesForFluidIdeoContinue>
 
-  <!-- Subcore scanner -->
-  <ConfirmRipscanPawn>립스캐닝은 {PAWN_nameDef}(을)를 죽입니다. 정말 계속하시겠습니까?</ConfirmRipscanPawn>
-  <ConfirmCancelRipscan>립스캔을 취소해도 {PAWN_nameDef}(은)는 죽습니다. 정말 계속하시겠습니까?</ConfirmCancelRipscan>
+  <Role>지위</Role>
+  <ChooseRole>지위 할당</ChooseRole>
+  <ChooseNewRole>새 지위 선택</ChooseNewRole>
+  <NoRoleAssigned>할당된 지위 없음</NoRoleAssigned>
+  <ChildNoRoleAssigned>어린이에게 지위 할당 불가</ChildNoRoleAssigned>
+  <RemoveRole>{0} 지위 해임</RemoveRole>
+  <ChooseRoleConfirmAssign>{PAWN_labelShort}에게 {ROLE_labelDef}의 지위를 맡기려고 합니다.</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>Are you sure?</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>이 지위는 현재 {PAWN_labelShort}(이)가 맡고 있습니다. 지위를 잃으면 기분이 나빠질 것입니다.</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} currently holds the role of {ROLE_label} and will be unhappy to lose it.</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>지도자는 한 명만 존재할 수 있습니다. 계속하면 {PAWN_labelShort}(이)가 {OTHERROLE_labelDef}에서 해임되어 실망할 것입니다.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>{PAWN_labelShort}(을)를 {ROLE_labelIndef}에서 해임합니다. {PAWN_labelShort}(은)는 분노할 것입니다.</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>{PAWN_labelShort} will gain the following abilities</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>The {ROLE_label} role requires the following apparel</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} will refuse to do these work types</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>정착지가 자리를 잡을 때까지는 지위를 할당하지 않는 것이 더 좋을 수도 있습니다.</ChooseRoleHint>
+  <UnlockedByMeme>Unlocked by</UnlockedByMeme>
+  <MemeUnlocksRoles>사용 가능한 지위</MemeUnlocksRoles>
+  <MemeUnlocksRituals>진행 가능한 행사</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>경고: {PAWN_nameDef}(은)는 {ROLE_label}에서 필요로 하는 작업을 수행하지 못합니다. 지위를 얻더라도 {ROLE_label} 능력을 사용하지 못할 것입니다. 다음 작업 유형을 확인하십시오 :</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>Leader bonus</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>{MEME} 가르침으로 인해 이 지위에 의복 요구사항을 추가할 수 없습니다.</CannotNotAddRoleApparelDueToMeme>
+  <CannotBeWornWith>cannot be worn with {0_label}</CannotBeWornWith>
 
-  <!-- Xenogerm -->
-  <AssembleGenes>유전자 조합</AssembleGenes>
-  <CreateXenotype>인종형 생성</CreateXenotype>
-  <SelectIcon>아이콘 선택</SelectIcon>
-  <SelectIconDesc>이 인종형의 아이콘입니다.</SelectIconDesc>
-  <InspectGenesDesc>{0_labelShort}의 유전자 살펴보기</InspectGenesDesc>
-  <InspectGenesHediffDesc>태아의 유전자 살펴보기</InspectGenesHediffDesc>
-  <InspectGenesEmbryoDesc>배아의 유전자 살펴보기</InspectGenesEmbryoDesc>
-  <NoGenePacks>유전자묶음 없음</NoGenePacks>
-  <StartCombining>유전자 조합 시작</StartCombining>
-  <SelectedGenepacks>선택된 유전자묶음</SelectedGenepacks>
-  <GenepackLibrary>저장된 유전자묶음</GenepackLibrary>
-  <ClickToAddOrRemove>추가 또는 제거하려면 클릭하세요.</ClickToAddOrRemove>
-  <ClickToAdd>클릭해서 추가</ClickToAdd>
-  <ClickToRemove>클릭해서 제거</ClickToRemove>
-  <SelectXenogerm>변형이식체 선택</SelectXenogerm>
-  <WarningPawnWillDieFromReimplanting>경고: {PAWN_nameDef}의 유전자가 재성장중 입니다. {PAWN_possessive} 유전자가 완전히 재성장 되기 전에 변형이식체를 심게 되면 {PAWN_pronoun}는 죽습니다.\n\n계속하시겠습니까?</WarningPawnWillDieFromReimplanting>
-  <NotEnoughArchites>초월입자 캡슐이 부족합니다.</NotEnoughArchites>
-  <XenogenesDesc>변형인자는 변형이식체에서 나오는 유전자 입니다. 변형이식체가 제거되거나 교체되면 변형인자 또한 사라집니다. 변형인자는 생식유전정보의 일부가 아니기에 그 후손에게 물려줄 수 없습니다.</XenogenesDesc>
-  <EndogenesDesc>생식성 유전자는 유기체 신체의 모든 세포에 존재하며, 외부적 요인이 필요하지 않는 자연적으로 이어지는 유전자입니다. 해당 유전자는 부모에서 자식으로 전해집니다.</EndogenesDesc>
-  <MemberXenotypeChances>구성원의 인종형</MemberXenotypeChances>
-  <XenotypeName>인종형 이름</XenotypeName>
-  <LockNameButtonDesc>인종형의 이름을 고정하거나 고정 해제합니다. 이름을 고정하면 유전자 묶음을 추가하거나 제거해도 이름이 바뀌지 않습니다.</LockNameButtonDesc>
-  <LockNameOn>인종형 이름 고정이 켜져있습니다. 유전자 묶음이 바뀌어도 이름은 재생성되지 않습니다.</LockNameOn>
-  <LockNameOff>인종형 이름 고정이 꺼져있습니다. 유전자 묶음이 바뀌면 이름을 재생성합니다.</LockNameOff>
-  <CreatingXenogerm>변형이식체 생성중</CreatingXenogerm>
-  <GenepackUnusableGenebankUnpowered>이 유전자묶음은 전원이 공급되지 않은 유전자저장고에 들어있습니다. 이 유전자묶음을 선택하면 변형이식체를 생성할때 유전자저장고에 전력이 보급될때까지 생산이 정지됩니다.</GenepackUnusableGenebankUnpowered>
-  <GeneProcessorUnpowered>이 변형이식체는 이 유전자 조합기와 여기에 연결된 유전자 처리기가 지원하는 것 보다 높은 유전적 복잡성을 필요로 합니다. </GeneProcessorUnpowered>
-  <RecombineDuration>예상 조합 시간</RecombineDuration>
-  <RecombineDurationDesc>선택된 유전자를 변형이식체로 만드는데 소요되는 평균 시간입니다. 유전자 재조합 시간은 변형이식체에 포함된 유전자의 복잡도 총 합에 따라 증가합니다.</RecombineDurationDesc>
-  <MustResearchProject>초월인자 캡슐를 사용하는 변형이식체를 조합하려면 {0_label}(을)를 먼저 연구해야 합니다.</MustResearchProject>
-  <AssemblingRequiresResearch>초월인자 유전자가 포함된 변형이식체를 조합하려면 {0_label}(을)를 연구해야 합니다.</AssemblingRequiresResearch>
-  <ConfirmStartNewXenogerm>현재 {XENOGERMNAME}(을)를 조합중입니다. 새로운 변형이식체를 조합하면 현재 진행중인 작업을 취소합니다.\n\n계속 하시겠습니까?</ConfirmStartNewXenogerm>
-  <SelectAGeneToRandomizeName>이 인종형의 이름을 무작위로 바꾸려면 선택하십시오.</SelectAGeneToRandomizeName>
-  <SelectAGeneToChooseAName>인종형의 이름을 지으려면 적어도 하나의 유전자를 선택해야 합니다.</SelectAGeneToChooseAName>
+  <AbilityIdeoConvertBreakdownLabel>Certainty reduction</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>Using {ABILITY} ability</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>{PAWN_labelShort}'s conversion power</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort}'s certainty loss factor from {IDEO_name}</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} is {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>Trait {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT} installed relics on map</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}'s social skill</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort}'s opinion of {INITIATOR_labelShort}</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}'s ideoligion</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} 특성</AbilityIdeoConvertBreakdownMemeVsTrait>
 
-  <!-- View genes -->
-  <InspectGenes>유전자 살펴보기</InspectGenes>
-  <InspectBabyGenes>아기 유전자 살펴보기</InspectBabyGenes>
-  <NoXenogermImplanted>이식된 변형이식체 없음</NoXenogermImplanted>
-  <Endogenes>생식유전자</Endogenes>
-  <Xenogenes>변형인자</Xenogenes>
-  <Overridden>덮어써짐</Overridden>
-  <OverriddenByGene>유전자 때문에 무시됨</OverriddenByGene>
-  <OverriddenByIdenticalGene>동일한 유전자가 덮어씀</OverriddenByIdenticalGene>
-  <MoreInfoInInfoScreen>이 인종형의 정보 화면에서 더 많은 정보를 볼 수 있습니다.</MoreInfoInInfoScreen>
-  <TakesEffectAfterAge>연령 도달 후 효과 발생</TakesEffectAfterAge>
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort}(은)는 최근에 이미 상담을 받았습니다.</AbilityCantApplyAlreadyCounselled>
 
-  <!-- Xenotype editor -->
-  <XenotypeEditor>인종형 편집기</XenotypeEditor>
-  <AnyNonArchite>모두 (초월입자 유전자 제외)</AnyNonArchite>
-  <SelectedGenes>선택된 유전자</SelectedGenes>
-  <Custom>사용자 지정</Custom>
-  <Hybrid>혼혈</Hybrid>
-  <GenesAreInheritable>유전 가능</GenesAreInheritable>
-  <GenesAreInheritableXenotypeDef>이 인종형이 다음 세대로 유전될 수 있는지의 여부입니다.</GenesAreInheritableXenotypeDef>
-  <GenesAreInheritableDesc>이 인종형의 모든 유전자가 다음 세대로 전달될 수 있습니다.</GenesAreInheritableDesc>
-  <GeneWillBeRandomChosen>개인마다 다음 중 하나의 유전자가 무작위로 선택되어 활성화됩니다.</GeneWillBeRandomChosen>
-  <GeneIncompatibleDesc>이 유전자는 현재 인종형의 다른 유전자와 호환되지 않습니다. 다음 중 하나의 유전자만 활성화 됩니다.</GeneIncompatibleDesc>
-  <GeneLeftmostActive>다음 유전자중, 가장 왼쪽에 있는 유전자만 적용되고 나머지는 억제됩니다.</GeneLeftmostActive>
-  <GeneOneActive>다음 유전자중, 단 하나의 유전자만 적용되고 나머지는 억제됩니다.</GeneOneActive>
-  <WarnChangingXenotypeWillRandomizePawn>인종형을 변경하면 이 정착민을 무작위로 설정합니다.\n\n계속하시겠습니까?</WarnChangingXenotypeWillRandomizePawn>
-  <DeleteThisXenotype>인종형을 삭제합니다.</DeleteThisXenotype>
-  <IgnoreRestrictions>제한 무시</IgnoreRestrictions>
-  <IgnoreRestrictionsDesc>생성하는 인종형의 생물제한을 없앱니다. 초월입자 캡슐이 필요한 유전자를 추가할 수 있습니다.</IgnoreRestrictionsDesc>
-  <XenotypeBreaksLimits>이 인종형은 기본 게임플레이의 한계를 초과합니다</XenotypeBreaksLimits>
-  <XenotypeBreaksLimits_Archites>초월입자 유전자를 포함하고 상속 가능하지만 초월입자 유전자는 일반적으로 유전되지 않습니다.</XenotypeBreaksLimits_Archites>
-  <XenotypeBreaksLimits_Exceeds>{STAT}(이)가 {VALUE}입니다. 정상 한계({MAX})를 초과합니다.</XenotypeBreaksLimits_Exceeds>
-  <XenotypeBreaksLimits_Below>{STAT}(이)가 {VALUE}입니다. 정상 한계({MIN})에 미달합니다.</XenotypeBreaksLimits_Below>
-  <SaveAnyway>그래도 저장하시겠습니까?</SaveAnyway>
-  <IgnoreRestrictionsConfirmation>제한을 무시하면 생물 한계 수치를 초과하여 불가능한 유전자 조합을 만들 수 있습니다. 또한 게임을 매우 쉽게 만들 수 있는 강력한 초월 입자 유전자를 사용할 수 있습니다.\n\n제한을 무시하시겠습니까?</IgnoreRestrictionsConfirmation>
-  <DevelopmentalAgeSelectionDesc>정착지 주민은 항상 해당 성장 단계의 나이 범위 내에서 생성됩니다.</DevelopmentalAgeSelectionDesc>
-  <XenotypeSelectionDesc>정착지 주민은 항상 해당 인종형의 유전자를 가지게 됩니다.</XenotypeSelectionDesc>
-  <SaveAndApply>저장 및 적용</SaveAndApply>
-  <LoadCustom>사전 설정 불러오기</LoadCustom>
-  <LoadPremade>기존 인종형 불러오기</LoadPremade>
-  <GenesConflict>유전자 상충</GenesConflict>
-  <GenesConflictDesc>{FIRST_label}, {SECOND_label}</GenesConflictDesc>
+  <ReformIdeo>개혁...</ReformIdeo>
+  <ReformIdeoligion>사상 개혁</ReformIdeoligion>
+  <ReformIdeoligionDesc>규율과 가르침, 스타일을 변경하여 사상을 개혁하세요.</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>스타일 바꾸기</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>가르침 추가 또는 제거</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>가르침 추가</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>하나 선택</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>구조 교체</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>다음 중 하나를 변경합니다.</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>이 사상을 개혁하게 되면 유물 {0}(을)를 정착민들이 더 이상 숭배하지 않습니다. 이 유물을 찾기 위한 임무 '{0}'이(가) 비활성됩니다.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>진행 중인 행사 {0}이(가) 취소됩니다.</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>계속하시겠습니까?</ReformIdeoContinue>
 
-  <!-- Xenogerm editor -->
-  <LoadXenogermTemplate>템플릿 불러오기</LoadXenogermTemplate>
-  <SaveXenogermTemplate>템플릿 저장</SaveXenogermTemplate>
-  <CannotSaveXenogermTemplate>{0} 없이 템플릿을 저장할 수 없습니다.</CannotSaveXenogermTemplate>
-  <XenogermTemplateSaved>{NAME} 설정 저장됨</XenogermTemplateSaved>
-  <MissingGenepacksForXenogerm>{NAME} 견본에 대한 유전자 묶음 {COUNT}개가 누락되었습니다.</MissingGenepacksForXenogerm>
-  <MissingGenepackForXenogerm>{NAME} 견본에 대한 유전자 묶음 누락</MissingGenepackForXenogerm>
-  <DeleteThisXenogerm>변형이식체 제거</DeleteThisXenogerm>
+  <!-- Slavery -->
+  <CannotAssignBedToSlave>노예</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>정착민</CannotAssignBedToColonist>
+  <AnySlave>모든 노예</AnySlave>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef}(은)는 자신의 신념 때문에 노예 매매를 거부합니다.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>협상을 맡은 {0_nameDef}(은)는 {0_possessive} 사상, {1}(으)로 인해 사람을 노예로 팔지 않을 것입니다.\n\n{0_nameDef}도 몸값을 받고 원래 세력으로 돌려보내 주는 것은 거부하지 않으며, 다른 세력에 판매하는 것만 거부합니다.</NegotiatorWillNotTradeSlavesTip>
 
-  <!-- Babies -->
-  <ChooseChildOrAdult>어린이 또는 성인을 한 명 이상 선택하십시오.</ChooseChildOrAdult>
+  <LastHumanMeat>Last human meat</LastHumanMeat>
+  <LastHumanMeatDesc>Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat.</LastHumanMeatDesc>
 
-  <!-- Deathrest -->
-  <WarningWakingInterruptsDeathrest>{MINDURATION}이 지나기 전에 {PAWN_nameDef}(을)를 깨우면 {PAWN_possessive} 죽음안식을 중단시키고 {PAWN_pronoun}가 회복되는 동안 {PAWN_pronoun}가 며칠 동안 아프게 됩니다. 일찍 깨우면 {PAWN_nameDef}(이)가 죽음안식 장치로부터 혜택을 받지 못합니다. {PAWN_pronoun}는 {CURDURATION} 동안 죽음안식을 취했습니다.\n\n{PAWN_nameDef}(을)를 깨우시겠습니까?</WarningWakingInterruptsDeathrest>
+  <ExectueNeutralFactionSlave>Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}.</ExectueNeutralFactionSlave>
 
-  <!-- Text motes -->
-  <NumWoundsTended>{0} 상처 치료됨</NumWoundsTended>
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>You must assign at least one non-slave colonist who can walk.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>You must leave at least non-slave colonist who can walk.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
 
-  <!-- Mechs -->
-  <MechWeightClass>체급</MechWeightClass>
-  <MechWeightClassExplanation>이 메카노이드의 체급입니다.</MechWeightClassExplanation>
-  <MechOverseer>이 메카노이드의 통제자는 {0}입니다.</MechOverseer>
-  <MechWorkActivities>작업 활동</MechWorkActivities>
-  <MechWorkActivitiesExplanation>이 메카노이드가 수행할 수 있는 작업 활동입니다.\n\n다음 목록은 각 작업 유형에 포함된 자세한 활동의 종류입니다.</MechWorkActivitiesExplanation>
-  <MechRechargeSettingsTitle>충전 설정</MechRechargeSettingsTitle>
-  <MechRechargeSettingsExplanation>메카노이드가 충전을 시작하고 중단하는 시점을 변경합니다.\n\n전력이 설정한 범위 아래로 떨어지면 자동으로 충전기를 찾아서, 설정한 범위의 상한까지 충전합니다. 충전 설정은 작업 모드에서만 따릅니다.</MechRechargeSettingsExplanation>
-  <MechWorkSkill>작업 기술</MechWorkSkill>
-  <MechWorkSkillDesc>이 메카노이드의 작업 기술 등급입니다.</MechWorkSkillDesc>
-  <AnyMech>모든 메카노이드</AnyMech>
-  <AnyNonMech>모든 사람</AnyNonMech>
-  <CaravanLacksMechMechanitorWarning>상단에 메카노이드들이 추가되었지만 이들의 통제관이 추가되지 않았습니다. 목적지 도달 시 메카노이드 조종에 제한을 받습니다.</CaravanLacksMechMechanitorWarning>
-  <MechsSection>메카노이드들</MechsSection>
+  <!-- Style -->
+  <StylePawn>양식</StylePawn>
+  <Hair>머리</Hair>
+  <Beard>수염</Beard>
+  <TattooFace>face tattoo</TattooFace>
+  <TattooBody>body tattoo</TattooBody>
+  <ApparelColor>apparel color</ApparelColor>
+  <HairColor>hair color</HairColor>
+  <ShowHeadgear>모자 표시</ShowHeadgear>
+  <ShowApparel>옷 표시</ShowApparel>
+  <PawnUnhappyWithStyleItems>다음 항목으로 인해 {PAWN_nameDef}의 기분이 나빠질 것입니다</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies.</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>Style categories affect the appearance of some buildings, apparel and weapons made by your colony. If more than one category affects the same thing, the left-most one applies.</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>Ideoligion members will be happy if they notice buildings, floors, and art matching this style.</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDetails>{0} style category affects</StyleCategoryDetails>
+  <OverriddenByStyle>{0}(이)가 우선함</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>New buildables</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>none usable for {PAWN_nameDef}</NoneUsableForPawn> 
+  <HairAndBeards>머리카락과 수염</HairAndBeards>
+  <HairAndBeardsDesc>These settings determine how frequently each style appears on members of this ideoligion.</HairAndBeardsDesc>
+  <Tattoos>문신</Tattoos>
+  <TattoosDesc>These settings determines how frequently each tattoo appears on members of this ideoligion.</TattoosDesc>
+  <StyleItemFrequencyNever>사용불가</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>Rare</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>Uncommon</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>중간</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>Common</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>Frequent</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>Edit appearance</EditAppearanceItems>
+  <NumAvailable>{0} in use</NumAvailable>
+  <ResetButtonDesc>Resets all style items to their default values.</ResetButtonDesc>
 
-  <!-- Pawn naming -->
-  <RenameMech>메카노이드 이름 변경</RenameMech>
-  <MechGainsName>이 메카노이드는 이제 {0}으로 불리게 됩니다.</MechGainsName>
+  <!-- Ancient complex mission -->
+  <SendShuttleAnyway>Send shuttle anyway</SendShuttleAnyway>
+  <ReLoadShuttle>Re-load shuttle</ReLoadShuttle>
 
-  <FertilizeOvumInbredChance>{FATHER_nameDef}(은)는 {MOTHER_nameDef}의 {RELATION}입니다. 근친교배로 인해 아이가 {CHANCE} 확률로 유전질환을 앓게 됩니다.\n\n정말 계속하시겠습니까?</FertilizeOvumInbredChance>
+  <!-- Medical settings -->
+  <MedGroupEnslavedColonist>Enslaved colonist</MedGroupEnslavedColonist>
 
-  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef}(은)는 임신 중입니다. 임신 제1삼분기에 피임기를 삽입하면 임신이 중절됩니다.\n\n정말 계속하시겠습니까?</ConfirmationPawnPregnancyTerminated>
+  <!-- Dryad upgrades -->
+  <ChangeMode>나무지기 선택</ChangeMode>
+  <RequiredMemes>Required memes</RequiredMemes>
+  <RequiredStage>Required caste</RequiredStage>
+  <MissingRequiredMemes>Missing required memes</MissingRequiredMemes>
+  <MissingRequiredCaste>Missing required caste</MissingRequiredCaste>
+  <AlreadySelected>Already selected</AlreadySelected>
+  <ChooseProductionModeInitialDesc>여기서 {TREE_label}(이)가 만들어낼 나무지기의 계급을 선택할 수 있습니다.\n\n나무지기는 나무 뿌리 근처에서 탄생합니다. 나무와의 교감 수준이 높을수록 만들어낼 수 있는 나무지기의 수도 증가합니다.</ChooseProductionModeInitialDesc>
 
-  <!-- Pollution -->
-  <ConfirmSettleNearPollution>이 칸에서는 주위의 오염으로 인해 약 {0}일에 한 번씩 산성 안개가 발생합니다. 산성 안개는 식물의 성장을 저해하고 노출된 물품을 손상시키며 사람들의 기분이 나빠집니다.</ConfirmSettleNearPollution>
+  <!-- Archonexus -->
+  <ChooseColonistsForIdeoTitle>Choose who to convert to your ideoligion</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>새로운 정착지를 세울 때, 원하는 사람들을 지금의 주 사상으로 교화할 수 있습니다.</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>New Colony</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>Choose which colonists, animals and relics to bring to the new colony.</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>{1}(을)를 {0}개까지 선택하세요.</ChooseThingsDesc>
+  <ChoosePeopleDesc>사람을 {0}명까지 선택하세요.</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>If you only select slaves, you will play them as colonists in the next colony.</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>확인</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>AI (*Name)샬론 화이트스톤(/Name)이 보고한 우주선은 새로운 정착지가 건설될 때 날아갈 것입니다. 더 이상 이 우주선으로 여행하여 행성을 탈출할 수 없습니다.</ShipEscapeWillEndDescription>
+  <ArchonexusRelicNotChosen>새로운 정착지로 가져갈 유물이 선택되지 않았습니다.</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>가능한 {1} 항목 중 {0}(이)가 새 정착지로 가져가기 위해 선택되었습니다.</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>정착지 구매자는 당신이 유물을 하나만 가져갈 수 있게 해줄 것입니다. 다음을 포함하여 다른 모든 유물은 남게 됩니다 (정착민이 장비한 경우에도):</RemoveEquippedRelicsDescription>
+  <WantToProceed>계속하시겠습니까? 다시 되돌아갈 수 없습니다.</WantToProceed>
+  <ConvertToPlayerIdeoligion>Convert</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>되돌리기</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>Existing follower</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>조사가 끝나지 않은 초월공학 구조물이 위치한 지역을 포기하려 하고 있습니다.\n\n나중에 이 곳에 다시 정착할 수 있지만, 지금의 정착지는 파괴됩니다.</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>새 정착지로 가져올 수 있는 수량 {0}개\n\n최대 허용 수량: {1}</ItemQuantityTooltip>
+  <SoldColonyDescription>당신의 정착지는 팔렸습니다. 구매자는 다음에 착륙할 위치를 선택할 준비가 되었습니다.</SoldColonyDescription>
 
-  <!-- Pregnancy -->
-  <PawnIsAway>{PAWN_nameDef}(은)는 떨어져 있습니다.</PawnIsAway>
-  <PawnsHaveSameGender>{PAWN1_nameDef}(와)과 {PAWN2_nameDef}(은)는 같은 성별입니다.</PawnsHaveSameGender>
-  <PawnsAreSterile>{PAWN1_nameDef}(와)과 {PAWN2_nameDef}(은)는 불임수술을 받았습니다.</PawnsAreSterile>
-  <PawnIsSterile>{PAWN_nameDef}(은)는 불임수술을 받았습니다.</PawnIsSterile>
-  <PawnsAreInfertile>{PAWN1_nameDef}(와)과 {PAWN2_nameDef}(은)는 불임입니다.</PawnsAreInfertile>
-  <PawnIsInfertile>{PAWN_nameDef}(은)는 불임입니다.</PawnIsInfertile>
-  <PawnsAreTooYoung>{PAWN1_nameDef}(와)과 {PAWN2_nameDef}(은)는 너무 어려서 아이를 가질 수 없습니다.</PawnsAreTooYoung>
-  <PawnIsTooYoung>{PAWN_nameDef}(은)는 아이를 가지기엔 너무 어립니다.</PawnIsTooYoung>
-  <PawnIsDead>{PAWN_nameDef}(은)는 죽었습니다.</PawnIsDead>
+  <ConfirmHackEnenyTerminal>{0}(을)를 해킹하면 적들이 공격해올 것입니다. 정말 {0}(을)를 해킹하시겠습니까?</ConfirmHackEnenyTerminal>
 
-  <PsychicBondDistanceWillBeActive_Cryptosleep>{PAWN_nameDef}(을)를 동면장치에 넣으면 {BOND_nameDef}(와)과 {PAWN_possessive} 정신적 유대에 지장이 생겨 두 사람 모두에게 스트레스를 줍니다.\n\n계속하시겠습니까?</PsychicBondDistanceWillBeActive_Cryptosleep>
-  <PsychicBondDistanceWillBeActive_Caravan>이 상단에 정신결속으로 이어진 사람의 대상이 포함되어있지 않습니다. 정신결속된 사람들은 거리가 멀어지게되면 스트레스를 받게됩니다.</PsychicBondDistanceWillBeActive_Caravan>
-  <Partner>대상 {0_nameFull}</Partner>
+  <RelicsSection>Relics</RelicsSection>
 
+  <!-- Food restrictions -->
+  <FoodRestrictionVegetarian>채식</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>육식</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>식인</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>곤충고기</FoodRestrictionInsectMeat>
 
-  <ChooseMechAccentColor>메카노이드 강조색 선택</ChooseMechAccentColor>
-
-  <!-- Faction specific comms overrides -->
-  <PigFactionGreetingHostile>{0}(은)는 꿰엑 거리며 욕을 퍼붙고는 통신을 종료했습니다.</PigFactionGreetingHostile>
-  <PigFactionGreetingHostileAppreciative>{0}(은)는 화난듯이 꿀꿀거리며 {0_possessive} 정착지중 하나에 선물을 가져오거나 {0_possessive} 세력의 수감자를 무사히 석방하는 등의 호의를 보이라고 합니다. 그전까진 {0_pronoun}는 대화하지 않겠다고 합니다.\n\n{0_pronoun}가 킁킁 거리며 욕을 한 뒤 통신을 종료합니다</PigFactionGreetingHostileAppreciative>
-  <PigFactionGreetingWary>{0}(은)는 꿀꿀 거리며 인사를 하고 어떻게 도울 수 있는지 묻습니다.</PigFactionGreetingWary>
-  <PigFactionGreetingWarm>{0}(은)는 열성적으로 꿀꿀거리며 {NEGOTIATOR_labelShort}에게 인사합니다. {LEADER_pronoun}(이)가 어떻게 도움이 될수 있는지 물어봅니다.</PigFactionGreetingWarm>
-  <PigMilitaryAidSent>{0}(은)는 당신에게 피그스킨 투사들을 지원하기로 했습니다.</PigMilitaryAidSent>
-
-  <YttakinFactionGreetingHostile>{0}(이)가 송신기에 대고 소리를 지르곤 통신을 종료합니다.</YttakinFactionGreetingHostile>
-  <YttakinFactionGreetingHostileAppreciative>{0}의 대표자는 으르렁거리면서 당신이 먼저 자신들의 거주지 중 한 곳에 선물을 가져오거나 수감자를 석방하여 호의를 보여줄 것을 원합니다. 그러기 전에는 대화하려 하지 않을 것입니다.\n\n{0_pronoun}는 모욕적인 말을 투덜대며 통신을 종료합니다.</YttakinFactionGreetingHostileAppreciative>
-  <YttakinFactionGreetingWary>{0}(은)는 {NEGOTIATOR_labelShort}에게 으르렁 하고 인사를 하며 통신의 목적을 묻습니다.</YttakinFactionGreetingWary>
-  <YttakinFactionGreetingWarm>{0}(은)는 친근한 인사를 포효하고 {LEADER_pronoun}(이)가 어떻게 도울 수 있는지를 묻습니다.</YttakinFactionGreetingWarm>
-
-  <NeanderthalFactionGreetingHostile>{0}(은)는 화난채로 투덜대며 통신을 종료합니다.</NeanderthalFactionGreetingHostile>
-  <NeanderthalFactionGreetingHostileAppreciative>{0}(은)는 공격적으로 투덜거립니다. 먼저 호의를 배풀기 전까지는 {0_pronoun}는 당신과 할말이 없다고 합니다. {0_possessive} 정착지중 하나에 선물을 보내거나 {0_possessive} 죄수를 무사히 석방 하는등의  행동으로 세력과의 우호도를 쌓을  수 있습니다.\n\n{0_pronoun}는 통신을 확 끊습니다.</NeanderthalFactionGreetingHostileAppreciative>
-  <NeanderthalFactionGreetingWary>{0}(은)는 인사를 투덜거립니다.</NeanderthalFactionGreetingWary>
-  <NeanderthalFactionGreetingWarm>{0}(은)는 {NEGOTIATOR_labelShort}에게 따듯한 인사를 툴툴 댑니다.</NeanderthalFactionGreetingWarm>
-
-  <MaxTier>최대 단계</MaxTier>
-  <MaxTierDesc>{PAWN_nameDef}(은)는 성장 포인트를 최대로 축적했습니다.</MaxTierDesc>
-  <ProgressToNextGrowthTier>다음 성장단계로 진행</ProgressToNextGrowthTier>
-  <ThisGrowthTier>현재 성장단계</ThisGrowthTier>
-  <NextGrowthTier>다음 성장단계</NextGrowthTier>
-  <NumPassionsFromOptions>{1} 중에서 {0} 개의 열정을 선택하세요.</NumPassionsFromOptions>
-  <NumTraitsFromOptions>{1} 중에서 {0}개의 특성을 선택하세요.</NumTraitsFromOptions>
-  <NextGrowthMomentAt>다음 성장단계 나이</NextGrowthMomentAt>
-
-  <RoomRequirementNoBiotechBuildings>생명공학 건물이 허용되지 않습니다.</RoomRequirementNoBiotechBuildings>
-
-  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>{PAWN_nameDef}에게 흡혈을 하면 심각한 수준의 출혈을 일으켜 의식을 잃게 만듭니다.\n\n계속하시겠습니까?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
-  <WarningPawnWillDieFromBloodfeeding>{PAWN_nameDef}(을)를 흡혈하면 {PAWN_objective} 죽일 수 있습니다.\n\n계속하시겠습니까?</WarningPawnWillDieFromBloodfeeding>
-
-  <AbilityMustHaveTendableWound>{0_labelShort}(은)는 치료할 수 있는 부상이 있어야합니다.</AbilityMustHaveTendableWound>
-
-  <!-- Abandon home (including mechs) -->
-  <ConfirmAbandonHomeWithColonyPawnsIncMechs>당신의 정착민, 동물 또는 메카노이드 중 일부가 이 지역에 있습니다. 정말 포기하시겠습니까?\n\n다음 사람, 동물, 메카노이드가 남게 됩니다.\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
-
+  <StylesInUse>사용 중인 양식</StylesInUse>
+  <StyleCategoryAddDesc>양식을 추가합니다.</StyleCategoryAddDesc>
 </LanguageData>
