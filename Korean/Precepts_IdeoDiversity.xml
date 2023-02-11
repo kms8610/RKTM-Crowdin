@@ -1,38 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoDiversity_Abhorrent.label>intense bigotry</IdeoDiversity_Abhorrent.label>
-  <IdeoDiversity_Abhorrent.description>Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community.</IdeoDiversity_Abhorrent.description>
-  <IdeoDiversity_Abhorrent.comps.2.description>All colonists have same ideoligion</IdeoDiversity_Abhorrent.comps.2.description>
-  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>이단의 상징</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>이단의 상징이 {ALTAR_labelShort}(와)과 같은 방에 있어! 이건 끔찍한 신성모독이야!</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Approved.label>appreciated</IdeoDiversity_Approved.label>
-  <IdeoDiversity_Approved.description>Other beliefs are worth understanding. It's good to live with others who think differently.</IdeoDiversity_Approved.description>
-  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>이단의 상징</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>이단의 상징이 {ALTAR_labelShort}(와)과 같은 방에 있어. 이건 좀 아니지.</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Disapproved.label>mild bigotry</IdeoDiversity_Disapproved.label>
-  <IdeoDiversity_Disapproved.description>Other beliefs are clearly folly. It's not good to let them exist in the community.</IdeoDiversity_Disapproved.description>
-  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>이단의 상징</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>이단의 상징이 {ALTAR_labelShort}(와)과 같은 방에 있어. 이건 성스러운 믿음을 모욕하는 거야.</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Exalted.label>exalted</IdeoDiversity_Exalted.label>
-  <IdeoDiversity_Exalted.description>Working through disagreement is the height of morality. It's very moral to live with others who think differently.</IdeoDiversity_Exalted.description>
-  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>내 믿음은 정말로 순수하고 진실하지만 주변 사람들은 악에 사로잡혀 있어. 혐오스러운 일이지.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>내 믿음은 정말로 순수하고 진실하지만 주변 사람들은 악에 사로잡혀 있어. 혐오스러운 일이지.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>내 믿음은 정말로 순수하고 진실하지만 주변 사람들은 악에 사로잡혀 있어. 혐오스러운 일이지.</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
   
-  <IdeoDiversity_Horrible.label>moderate bigotry</IdeoDiversity_Horrible.label>
-  <IdeoDiversity_Horrible.description>Other beliefs are immoral delusions which do real harm. It's bad to let them exist in the community.</IdeoDiversity_Horrible.description>
-  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>그릇된 의식</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>사악한 신념에 따른 의식에 참여했어. 좋든 싫든 하지 말았어야 했어.</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>
   
-  <IdeoDiversity_Respected.label>highly appreciated</IdeoDiversity_Respected.label>
-  <IdeoDiversity_Respected.description>Other beliefs hold unique knowledge. It's great to live with others who think differently.</IdeoDiversity_Respected.description>
-  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
   
-  <IdeoDiversity_Standard.label>평범 (3/8)</IdeoDiversity_Standard.label>
-  <IdeoDiversity_Standard.description>Other beliefs are neither approved or disapproved.</IdeoDiversity_Standard.description>
-  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>통일된 주변 환경</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>다양한 주변 환경</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>{STYLES} 양식의 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과 정말로 잘 어울려.</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>{STYLES} 양식이 아닌 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과는 어울리지 않아.</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>통일된 의견</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>우리 공동체는 사악한 생각으로부터 자유로워, 응당 그래야 하지.</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Approved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.description>몇몇 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Approved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.description>많은 사람들이 각기 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Approved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.description>대부분의 사람들이 각기 다른 믿음을 가지고 있어. 건전한 공동체의 상징이지.</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>정말 {ADJECTIVE} 환경이야. 괜찮긴 한데, 조금 더 다양한 문화가 있으면 좋겠어.</IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>전혀 {ADJECTIVE} 환경이 아니야. 난 다양성이 좋아.</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>내 믿음은 분명하지만 주변 사람들이 너무 멍청해서 알아차리질 못해. 그들의 멍청함에는 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>내 믿음은 분명하지만 주변 사람들이 너무 멍청해서 알아차리질 못해. 그들의 멍청함에는 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>내 믿음은 분명하지만 주변 사람들이 너무 멍청해서 알아차리질 못해. 그들의 멍청함에는 동조하고 싶지 않아.</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>그릇된 의식</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>다른 신념에 따른 의식에 참여했어. 좋든 싫든 최선이라 할 수 없어.</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>
+  
+  <IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
+  
+  <IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>{STYLES} 양식의 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과 정말로 잘 어울려.</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>{STYLES} 양식이 아닌 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과는 어울리지 않아.</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>통일된 의견</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>우리 공동체는 어리석음으로부터 자유로워. 응당 그래야 하지.</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>여기 몇몇은 다른 믿음을 가지고 있어. 이 사회의 일원이라는게 정말 자랑스러워.</IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>이곳의 많은 이들이 다른 믿음을 가지고 있어. 이 사회의 일원이라는게 정말 자랑스러워.</IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>거의 모든 사람들이 다른 믿음을 가지고 있어. 이 사회의 일원이라는게 정말 자랑스러워!</IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>정말 {ADJECTIVE} 환경이야. 괜찮긴 한데, 조금 더 다양한 문화가 있으면 좋겠어.</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>전혀 {ADJECTIVE} 환경이 아니야. 이렇게 다양성이 존중된 사회의 일원이라는게 행복해!</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>내 믿음은 명백하지만 주변 사람들은 여전히 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>내 믿음은 명백하지만 주변 사람들은 여전히 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>내 믿음은 명백하지만 주변 사람들은 여전히 속고 있어. 끔찍한 일이야.</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>그릇된 의식</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>그릇된 신념에 따른 의식에 참여했어. 좋든 싫든 하지 말았어야 했어.</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>
+  
+  <IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>다른 사상</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
+  
+  <IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>{STYLES} 양식의 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과 정말로 잘 어울려.</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>{STYLES} 양식이 아닌 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과는 어울리지 않아.</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>통일된 의견</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>우리 공동체는 번뇌로부터 자유로워. 응당 그래야 하지.</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.label>다양한 의견</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.description>몇몇 사람들이 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.label>다양한 의견</IdeoDiversity_Respected.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.description>많은 사람들이 각기 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.label>다양한 의견</IdeoDiversity_Respected.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.description>대부분의 사람들이 각기 다른 믿음을 가지고 있어. 건전한 공동체의 중요한 상징이지.</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>정말 {ADJECTIVE} 환경이야. 괜찮긴 한데, 조금 더 다양한 문화가 있으면 좋겠어.</IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>전혀 {ADJECTIVE} 환경이 아니야. 이렇게 다양성을 존중하는 사회의 일원이라는 게 기뻐!</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>{ADJECTIVE} 환경</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>{STYLES} 양식의 건축물에 둘러싸여 있어. 내 {ADJECTIVE} 사상과 정말로 잘 어울려.</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>{ADJECTIVE} 환경이 아님</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>{STYLES} 양식이 아닌 건축물에 둘러싸여 있어. 크게 나쁘진 않지만, 내 {ADJECTIVE} 사상과는 어울리지 않아.</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
 </LanguageData>
