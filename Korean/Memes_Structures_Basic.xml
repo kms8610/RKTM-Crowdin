@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Structure_Animist.label>혼령 숭배</Structure_Animist.label>
+  <Structure_Animist.label>정령숭배</Structure_Animist.label>
   <Structure_Animist.description>Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them.</Structure_Animist.description>
   <Structure_Animist.generalRules.rulesStrings>
     <li>memeLeaderNoun->인도자</li>
@@ -13,15 +13,15 @@
     <li>memeMoralist->사제</li>
     <li>memeMoralist->장로</li>
   </Structure_Animist.generalRules.rulesStrings>
-  <Structure_Animist.symbolPacks.0.adjective>영혼 숭배적</Structure_Animist.symbolPacks.0.adjective>
-  <Structure_Animist.symbolPacks.0.member>영혼 숭배자</Structure_Animist.symbolPacks.0.member>
+  <Structure_Animist.symbolPacks.0.adjective>정령숭배적</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.member>정령 숭배자</Structure_Animist.symbolPacks.0.member>
   <Structure_Animist.symbolPacks.0.theme>animism</Structure_Animist.symbolPacks.0.theme>
   <Structure_Animist.symbolPacks.1.adjective>영혼적</Structure_Animist.symbolPacks.1.adjective>
   <Structure_Animist.symbolPacks.1.member>혼령 숭배자</Structure_Animist.symbolPacks.1.member>
   <Structure_Animist.symbolPacks.1.theme>영혼주의</Structure_Animist.symbolPacks.1.theme>
   <Structure_Animist.worshipRoomLabel>성전</Structure_Animist.worshipRoomLabel>
   
-  <Structure_Archist.label>초월 숭배</Structure_Archist.label>
+  <Structure_Archist.label>초월숭배</Structure_Archist.label>
   <Structure_Archist.description>초월공학은 진정한 신입니다. 그들은 우주의 도덕적 구조를 알고 있기에, 그들을 섬기는 것만이 우리가 우주와 연결되는 유일한 방법입니다.</Structure_Archist.description>
   <Structure_Archist.generalRules.rulesStrings>
     <li>memeAdjective->초월의</li>
