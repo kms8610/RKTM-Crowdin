@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SpouseCount_Female.label>crwdns459646:0crwdne459646:0</SpouseCount_Female.label>
+  <SpouseCount_Female_MaxOne.label>crwdns461180:0crwdne461180:0</SpouseCount_Female_MaxOne.label>
+  <SpouseCount_Female_MaxOne.description>crwdns461182:0crwdne461182:0</SpouseCount_Female_MaxOne.description>
   
-  <SpouseCount_Male.label>crwdns459648:0crwdne459648:0</SpouseCount_Male.label>
+  <SpouseCount_Male_MaxOne.label>crwdns461184:0crwdne461184:0</SpouseCount_Male_MaxOne.label>
+  <SpouseCount_Male_MaxOne.description>crwdns461186:0crwdne461186:0</SpouseCount_Male_MaxOne.description>
 </LanguageData>
