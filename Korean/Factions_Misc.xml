@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beggars.label>거지 떼</Beggars.label>
-  <Beggars.description>도움을 구걸하는 거지들입니다.</Beggars.description>
-  <Beggars.leaderTitle>왕초</Beggars.leaderTitle>
-  <Beggars.pawnSingular>거지</Beggars.pawnSingular>
-  <Beggars.pawnsPlural>거지 떼</Beggars.pawnsPlural>
-  
-  <CannibalPirate.label>식인 해적</CannibalPirate.label>
-  <CannibalPirate.description>서로 싸우는 대신 외부인과 싸우기로 동의한 느슨한 해적 집단 연합입니다.\n\n해적들은 씨를 뿌리지도 않고, 짓지도 않으며, 거래도 거의 하지 않습니다. 이들은 개인의 힘과 무자비함을 중시하는 피와 명예의 문화에 따라, 더 생산적인 이웃을 습격하고 약탈함으로써 자신들을 풍요롭게 합니다.\n\n그들의 기술 수준은 최근에 누굴 약탈했느냐에 달려 있습니다. 대부분 화약 무기를 가지고 다니지만, 일부는 가까운 거리에서 희생자를 찌르는 것을 선호합니다.\n\n이 해적 패거리는 식인을 즐긴다는 소문이 있습니다.</CannibalPirate.description>
-  <CannibalPirate.leaderTitle>두목</CannibalPirate.leaderTitle>
-  <CannibalPirate.pawnSingular>해적</CannibalPirate.pawnSingular>
-  <CannibalPirate.pawnsPlural>우주 해적들</CannibalPirate.pawnsPlural>
-  
-  <NudistTribe.label>나체 부족</NudistTribe.label>
-  <NudistTribe.description>이 행성에서 아주 오랜 시간 살아온 사람들입니다. 이들의 조상은 수천 년 전 불시착했을지도 모릅니다. 또는 이전에 존재하던 문명 사회를 파괴한 재앙에서 살아남은 것일 수도 있습니다. 어떤 경우든, 부족들은 대부분 유목민으로 이루어졌으며 오직 원시적인 도구와 무기만을 사용합니다.\n\n이들의 기술적인 약점에도 불구하고 많은 머릿수와 무모한 용기는 이들을 위험한 적으로 만들 수도 있습니다.\n\n이 부족은 몸을 무언가로 감싸는 것을 금기시합니다.</NudistTribe.description>
-  <NudistTribe.leaderTitle>대장</NudistTribe.leaderTitle>
-  <NudistTribe.pawnSingular>부족민</NudistTribe.pawnSingular>
-  <NudistTribe.pawnsPlural>부족민들</NudistTribe.pawnsPlural>
-  
-  <Pilgrims.label>순례자</Pilgrims.label>
-  <Pilgrims.description>고대 유물을 보러 온 순례자 무리입니다.</Pilgrims.description>
-  <Pilgrims.leaderTitle>지도자</Pilgrims.leaderTitle>
-  <Pilgrims.pawnSingular>순례자</Pilgrims.pawnSingular>
-  <Pilgrims.pawnsPlural>순례자</Pilgrims.pawnsPlural>
-  
-  <TribeCannibal.label>식인 부족</TribeCannibal.label>
-  <TribeCannibal.description>이 행성에서 아주 오랜 시간 살아온 사람들입니다. 이들의 조상은 수천 년 전 불시착했을지도 모릅니다. 또는 이전에 존재하던 문명 사회를 파괴한 재앙에서 살아남은 것일 수도 있습니다. 어떤 경우든, 부족들은 대부분 유목민으로 이루어졌으며 오직 원시적인 도구와 무기만을 사용합니다.\n\n이들의 기술적인 약점에도 불구하고 많은 머릿수와 무모한 용기는 이들을 위험한 적으로 만들 수도 있습니다.\n\n이 잔혹한 부족은 적의 고기를 먹는 행위에서 큰 영광을 얻습니다.</TribeCannibal.description>
-  <TribeCannibal.leaderTitle>대장</TribeCannibal.leaderTitle>
-  <TribeCannibal.pawnSingular>부족민</TribeCannibal.pawnSingular>
-  <TribeCannibal.pawnsPlural>부족민들</TribeCannibal.pawnsPlural>
+  <OutlanderRefugee.label>외지인 난민 집단</OutlanderRefugee.label>
+  <OutlanderRefugee.description>고향을 잃었다고 주장하는 난민 집단입니다.</OutlanderRefugee.description>
+  <OutlanderRefugee.leaderTitle>지도자</OutlanderRefugee.leaderTitle>
+  <OutlanderRefugee.pawnSingular>난민</OutlanderRefugee.pawnSingular>
+  <OutlanderRefugee.pawnsPlural>난민들</OutlanderRefugee.pawnsPlural>
 </LanguageData>
