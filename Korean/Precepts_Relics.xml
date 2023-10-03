@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RelicDestroyed.stages.relic_destroyed.label>유물 파괴됨</RelicDestroyed.stages.relic_destroyed.label>
-  <RelicDestroyed.stages.relic_destroyed.description>유물이 파괴됐어! 이런 일이!</RelicDestroyed.stages.relic_destroyed.description>
+  <RelicDestroyed.label>relic destroyed</RelicDestroyed.label>
   
-  <RelicLost.stages.relic_lost.label>유물 잃음</RelicLost.stages.relic_lost.label>
-  <RelicLost.stages.relic_lost.description>유물이 감쪽같이 사라졌어! 이런 일이!</RelicLost.stages.relic_lost.description>
+  <RelicLost.label>relic lost</RelicLost.label>
 </LanguageData>
