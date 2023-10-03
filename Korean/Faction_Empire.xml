@@ -1,65 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <NamerFactionEmpire.rulePack.rulesStrings>
-    <li>r_name(p=2)->[ofThing] [empire]</li>
-    <li>r_name(p=2)->[ofThing] [empire]</li>
-    <li>r_name->붕괴된 [empire]</li>
-    <li>r_name->도망친 [empire]</li>
-    <li>r_name->무너진 [empire]</li>
-    <li>r_name->와해된 [empire]</li>
-    <li>r_name->몰락한 [empire]</li>
-    <li>r_name->[Color] [empire]</li>
-    <li>empire(p=4)->제국</li>
-    <li>empire->연방국</li>
-    <li>empire->황국</li>
-    <li>empire->지배령</li>
-    <li>empire->통치국</li>
-    <li>ofThing(p=4)->[WordImperial]</li>
-    <li>ofThing->태양의</li>
-    <li>ofThing->달의</li>
-    <li>ofThing->은하</li>
-    <li>ofThing->신성</li>
-    <li>ofThing->완전한</li>
-    <li>ofThing->영원한</li>
-    <li>ofThing->성령</li>
-  </NamerFactionEmpire.rulePack.rulesStrings>
-  
-  <NamerPersonSophian.rulePack.rulesStrings>
-    <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
-    <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
-    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
-  </NamerPersonSophian.rulePack.rulesStrings>
-  
-  <NamerPersonSophianFemale.rulePack.rulesStrings>
-    <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
-    <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
-    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
-  </NamerPersonSophianFemale.rulePack.rulesStrings>
-  
-  <NamerSettlementEmpire.rulePack.rulesStrings>
-    <li>r_name->[townname_wordgen]</li>
-    <li>r_name->[townname_fixed]</li>
-    <li>townname_wordgen->[WordImperial]</li>
-    <li>townname_wordgen->[WordImperial][townend]</li>
-    <li>townend(p=3)->아이움</li>
-    <li>townend(p=3)->아이오르</li>
-    <li>townend(p=3)->폴리스</li>
-    <li>townend->노르</li>
-    <li>townend->란</li>
-    <li>townend->락스</li>
-    <li>townend->릭스</li>
-    <li>townend->린</li>
-    <li>townend->리안</li>
-    <li>townend->프룸</li>
-    <li>townend->포르</li>
-    <li>townend->테오</li>
-    <li>townend->오플</li>
-    <li>townend->오피움</li>
-    <li>townend->오르</li>
-    <li>townend->아이토르</li>
-    <li>townend->에이움</li>
-    <li>townend->아이티움</li>
-    <li>townend->아엠</li>
-    <li>townend->에이움</li>
-  </NamerSettlementEmpire.rulePack.rulesStrings>
+  <Empire.label>shattered empire</Empire.label>
+  <Empire.description>An ultratech refugee society from the planet Sophiamunda. Their culture is based on a code of honor, a strict class system, and enforced social stasis.\n\nThese are the survivors of a great calamity that tore apart Sophian society. They fled to the rimworld using the remnants of their fleet. Despite losing so much, their ships and technology still make them powerful.\n\nThey will refuse to trade with anyone who lacks the appropriate royal title.</Empire.description>
+  <Empire.leaderTitle>high stellarch</Empire.leaderTitle>
+  <Empire.pawnSingular>imperial</Empire.pawnSingular>
+  <Empire.pawnsPlural>imperials</Empire.pawnsPlural>
+  <Empire.royalFavorLabel>honor</Empire.royalFavorLabel>
 </LanguageData>
