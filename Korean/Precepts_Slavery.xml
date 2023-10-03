@@ -1,29 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slavery_Abhorrent.label>혐오함</Slavery_Abhorrent.label>
-  <Slavery_Abhorrent.description>Owning or trading human beings is deeply evil.</Slavery_Abhorrent.description>
-  <Slavery_Abhorrent.comps.0.description>정착지의 노예당</Slavery_Abhorrent.comps.0.description>
-  <Slavery_Abhorrent.comps.5.description>누군가가 노예를 판매함</Slavery_Abhorrent.comps.5.description>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>사람을 노예로 만들었어. 납득할 자신이 없어.</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>
   
-  <Slavery_Acceptable.label>수용함</Slavery_Acceptable.label>
-  <Slavery_Acceptable.description>Slavery is a normal, unremarkable part of life.</Slavery_Acceptable.description>
+  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>누군가를 노예로 만들었어. 녀석들은 복종해야 돼.</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>
   
-  <Slavery_Disapproved.label>못마땅함</Slavery_Disapproved.label>
-  <Slavery_Disapproved.description>Slavery is part of life, though it is extremely distasteful.</Slavery_Disapproved.description>
-  <Slavery_Disapproved.comps.0.description>정착지의 노예당</Slavery_Disapproved.comps.0.description>
-  <Slavery_Disapproved.comps.5.description>누군가가 노예를 판매함</Slavery_Disapproved.comps.5.description>
-  <Slavery_Disapproved.comps.6.description>수감자를 노예로 만듦</Slavery_Disapproved.comps.6.description>
+  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>나는 누군가를 노예로 만들었어. 이런 일을 어떻게 정당화하겠어?</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>
   
-  <Slavery_Honorable.label>명예로운</Slavery_Honorable.label>
-  <Slavery_Honorable.description>One who owns and trades slaves should be honored and respected.</Slavery_Honorable.description>
-  <Slavery_Honorable.comps.0.description>정착지의 노예당</Slavery_Honorable.comps.0.description>
-  <Slavery_Honorable.comps.6.description>누군가가 노예를 판매함</Slavery_Honorable.comps.6.description>
-  <Slavery_Honorable.comps.7.description>수감자를 노예로 만듦</Slavery_Honorable.comps.7.description>
-  <Slavery_Honorable.comps.8.eventLabel>노예화된 수감자</Slavery_Honorable.comps.8.eventLabel>
+  <EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>
   
-  <Slavery_Horrible.label>끔찍함</Slavery_Horrible.label>
-  <Slavery_Horrible.description>Owning or trading human beings is a horrible thing.</Slavery_Horrible.description>
-  <Slavery_Horrible.comps.0.description>정착지의 노예당</Slavery_Horrible.comps.0.description>
-  <Slavery_Horrible.comps.5.description>누군가가 노예를 판매함</Slavery_Horrible.comps.5.description>
-  <Slavery_Horrible.comps.6.description>수감자를 노예로 만듦</Slavery_Horrible.comps.6.description>
+  <EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>노예화된 수감자 목격</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>우리는 노예를 부리고 있어. 이러면 안된다는 걸 알면서도.</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>
+  
+  <EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>노예화된 수감자 목격</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>우리는 누군가를 노예로 만들었어. 이제 모두가 우리의 영광과 힘을 우러러보겠지!</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>
+  
+  <EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>노예화된 수감자</EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>
+  
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>노예화된 수감자 목격</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>우리는 노예를 부리고 있어. 사람에게 이런 끔찍한 짓을 하다니.</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>
+  
+  <Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>정착지의 노예</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>우린 노예를 부리고 있어. 이건 야만적이야.</Slavery_Abhorrent_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>정착지의 노예</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>우리는 노예제를 유지하고 있어. 필요한 일이지만 빨리 그만뒀으면 좋겠어.</Slavery_Disapproved_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>노예 부족</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.label>
+  <Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>노예가 없으면 아무도 우릴 존중하지 않을 거야.</Slavery_Honorable_NoSlavesInColony.stages.no_slaves_in_colony.description>
+  
+  <Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>정착지의 노예</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>우린 노예를 부리고 있어. 삶의 질이 올라가겠지.</Slavery_Honorable_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>정착지의 노예</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.label>
+  <Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>우리는 노예제를 유지하고 있어. 잘못된 일이야.</Slavery_Horrible_SlavesInColony.stages.slaves_in_colony.description>
+  
+  <SoldSlave_Disapproved.stages.sold_slave.label>노예 판매 목격</SoldSlave_Disapproved.stages.sold_slave.label>
+  <SoldSlave_Disapproved.stages.sold_slave.description>사람을 노예로 팔았어. 그들에게 끔찍한 일이 일어나지 않았으면 좋겠어.</SoldSlave_Disapproved.stages.sold_slave.description>
+  
+  <SoldSlave_Honorable.stages.sold_slave.label>노예 판매 목격</SoldSlave_Honorable.stages.sold_slave.label>
+  <SoldSlave_Honorable.stages.sold_slave.description>누군가를 노예로 팔았어. 나도 이제 인정받겠지.</SoldSlave_Honorable.stages.sold_slave.description>
+  
+  <SoldSlave_Horrible.stages.sold_slave.label>노예 판매 목격</SoldSlave_Horrible.stages.sold_slave.label>
+  <SoldSlave_Horrible.stages.sold_slave.description>사람을 노예로 팔다니, 나 자신을 용서할 수가 없어.</SoldSlave_Horrible.stages.sold_slave.description>
+  
+  <SoldSlave_Know_Abhorrent.stages.sold_slave.label>노예 판매 목격</SoldSlave_Know_Abhorrent.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>노예 판매 목격</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>우린 사람을 노예로 만들었어. 정말 야만적이야...</SoldSlave_Know_Abhorrent_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Disapproved.stages.sold_slave.label>노예 판매 목격</SoldSlave_Know_Disapproved.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>노예 판매 목격</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>우리는 사람을 노예로 팔았어. 그렇게 해서는 안됐는데.</SoldSlave_Know_Disapproved_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Honorable.stages.sold_slave.label>노예 판매 목격</SoldSlave_Know_Honorable.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>노예 판매 목격</SoldSlave_Know_Honorable_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>노예를 팔았어! 우리 힘과 명예를 선전하는 좋은 방법이야.</SoldSlave_Know_Honorable_Mood.stages.slave_sold.description>
+  
+  <SoldSlave_Know_Horrible.stages.sold_slave.label>노예 판매 목격</SoldSlave_Know_Horrible.stages.sold_slave.label>
+  
+  <SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>노예 판매 목격</SoldSlave_Know_Horrible_Mood.stages.slave_sold.label>
+  <SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>우리는 노예를 팔았어. 정말 끔찍해.</SoldSlave_Know_Horrible_Mood.stages.slave_sold.description>
 </LanguageData>
