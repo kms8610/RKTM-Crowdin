@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RoyaltyTips.TitleMilitaryAid>어떤 작위의 소유자는 군사 지원을 요청할 수 있습니다. 위험한 순간에 구원의 길이 될지도 모릅니다.</RoyaltyTips.TitleMilitaryAid>
-  <RoyaltyTips.NoblesDemandPrivileges>제국의 귀족들은 작위에 걸맞은 특권을 요구합니다. 탐욕이나 질투 특성이 없는 한, 정착민 출신 귀족은 조금 더 유연하게 행동합니다.</RoyaltyTips.NoblesDemandPrivileges>
-  <RoyaltyTips.RoyalArmor>장교 갑옷과 엘텍스 의복은 왕실 의복 조건을 충족합니다.</RoyaltyTips.RoyalArmor>
-  <RoyaltyTips.TitleInheritance>작위 보유자가 사망하면 작위는 선택된 상속자에게 넘어갑니다.</RoyaltyTips.TitleInheritance>
-  <RoyaltyTips.ChangeHeir>통신기를 통해 왕실 작위의 상속자를 변경할 수 있으나, 상속 의식을 치뤄야 합니다.</RoyaltyTips.ChangeHeir>
-  <RoyaltyTips.FreePsychicAmplifier>제국은 작위 보유자에게 작위에 걸맞은 수준의 정신력 증폭기를 수여합니다.</RoyaltyTips.FreePsychicAmplifier>
-  <RoyaltyTips.IllegalImplantUse>정신력 증폭기는 임무를 통해 얻을 수 있습니다. 증폭기를 사용한 사람은 초능력을 얻게 됩니다.</RoyaltyTips.IllegalImplantUse>
-  <RoyaltyTips.InstallingPsychicAmplifier>정신력 증폭 단계가 높아질 때마다 하나의 무작위 초집중 능력을 얻게 됩니다.</RoyaltyTips.InstallingPsychicAmplifier>
-  <RoyaltyTips.PsycastAdvantage>초능력을 활용하면 전투에서 상당한 이점을 얻을 수 있습니다.</RoyaltyTips.PsycastAdvantage>
-  <RoyaltyTips.PsycastFactionRelations>동맹에게 부정적인 초능력을 시전할 때만 관계에 영향을 미칩니다.</RoyaltyTips.PsycastFactionRelations>
-  <RoyaltyTips.PsycastInvisibility>공격해도 투명화 초능력의 효과는 사라지지 않습니다.</RoyaltyTips.PsycastInvisibility>
-  <RoyaltyTips.PsychicEntropyLimit>신경열 한계를 초과하면 위급한 순간을 해소할 수 있지만 잠시 지속되는 정신 혼란 상태에 빠집니다.</RoyaltyTips.PsychicEntropyLimit>
-  <RoyaltyTips.PsycastSensitivity>정신 감응력이 높은 생물은 초능력에 더 많은 영향을 받습니다.</RoyaltyTips.PsycastSensitivity>
-  <RoyaltyTips.EltexGear>초능력자가 초집중 장비를 장착하면 신경열 한계와 감소 속도가 증가합니다.</RoyaltyTips.EltexGear>
-  <RoyaltyTips.MechClusterPowercell>메카노이드 전초기지를 공격할 때는 불안정한 발전기를 노려보세요. 폭발하면서 주변에 큰 피해를 줍니다.</RoyaltyTips.MechClusterPowercell>
-  <RoyaltyTips.MechClusterDormant>몇몇 메카노이드 전초기지는 방해를 받기 전까지 휴면합니다. 그 시간을 이용해 공격 준비를 하세요.</RoyaltyTips.MechClusterDormant>
-  <RoyaltyTips.RoyalTributeCollector>공물 징수인은 1년에 두 번 도착하며, 신임장을 발행하는 대가로 포로와 금을 받습니다.</RoyaltyTips.RoyalTributeCollector>
-  <RoyaltyTips.MechClusterDormantTrigger>휴면 중인 메카노이드 전초기지는 공격하거나 경보 장치를 자극하지 않는 한 안전합니다.</RoyaltyTips.MechClusterDormantTrigger>
-  <RoyaltyTips.SkipPsycastsMultiuse>도약 초능력은 자신, 아군, 적, 심지어 물품에도 사용할 수 있습니다. 전술적 가능성은 무궁무진합니다.</RoyaltyTips.SkipPsycastsMultiuse>
-  <RoyaltyTips.JumpPackRescue>점프팩을 사용 중일 때도 쓰러진 아군을 들쳐 멜 수 있습니다. 공중 구조로 목숨을 살리세요.</RoyaltyTips.JumpPackRescue>
+  <GameplayTips.DismissLetters>오른쪽 클릭으로 편지를 삭제할 수 있습니다.</GameplayTips.DismissLetters>
+  <GameplayTips.QueueOrders>Shift 키를 누른채 정착민에게 명령을 내리면 대기열에 추가할 수 있습니다.</GameplayTips.QueueOrders>
+  <GameplayTips.ReorderColonistbar>상단의 정착민 막대에 있는 정착민을 우클릭으로 드래그를 하면 순서를 바꿀 수 있습니다.</GameplayTips.ReorderColonistbar>
+  <GameplayTips.SelectPrevNextColonist>, 와 . 키를 이용하여 이전/다음 정착민을 선택할 수 있습니다.</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SettingPainting>여러 메뉴를 사용할 때 드래그를 이용하여 여러 항목을 설정할 수 있습니다. 식량 정책이나 복장 정책에서도 사용이 가능합니다.</GameplayTips.SettingPainting>
+  <GameplayTips.ManualPriorities>작업 창의 중요도 수동조절에서 1은 높은 우선순위이고, 4는 낮은 우선순위입니다.</GameplayTips.ManualPriorities>
+  <GameplayTips.ColonistMood>화면 상단에 있는 정착민 막대의 배경을 보면 각 정착민의 기분을 알 수 있습니다.</GameplayTips.ColonistMood>
+  <GameplayTips.WorkTabChangeAllColonists>작업 창에 있는 작업 유형의 이름을 Shift키를 이용하면 모든 정착민의 설정을 변경할 수 있습니다.</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabDecreasePriority>작업 창의 중요도 수동조절에서 우클릭을 하면 우선순위가 낮아집니다.</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.CellInspector>알트 키를 누르고 있으면 칸의 상세정보를 볼 수 있습니다.</GameplayTips.CellInspector>
+  <GameplayTips.GunfightCover>총격전에서는 항상 엄폐물을 이용하세요! 오른쪽 클릭 후 드래그를 하면 소집한 정착민을 엄폐물 뒤에 일직선으로 세울 수 있습니다.</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightSpread>오른쪽 클릭 후 드래그해서 소집한 정착민을 일직선으로 세우세요. 한 곳에 뭉쳐있으면 맞기 쉽습니다!</GameplayTips.GunfightSpread>
+  <GameplayTips.ShootingAccuracySmoke>연막은 포탑이 대상을 감지하지 못하도록 완전히 방해하지만 사람은 여전히 낮은 정확도로 사격할 수 있습니다.</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.DesignDefenses>방어선을 구축할 땐 적이 수송 포드나 땅굴을 통해 내부로 침투할 수 있을 거라고 가정해야 합니다. 내부에도 방어 지점을 확보하세요.</GameplayTips.DesignDefenses>
+  <GameplayTips.ShootingAccuracyFogRain>안개나 비가 오는 날씨는 원거리 무기의 정확도를 떨어뜨립니다.</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingTooltip>사격자를 선택 후 목표물 위에 마우스를 올려 놓으면 맞을 확률을 계산할 수 있습니다.</GameplayTips.ShootingTooltip>
+  <GameplayTips.TurretsExplode>포탑은 많은 피해를 받으면 폭발합니다. 포탑끼리 가까이 두지 말고, 사람도 너무 가까이 두지 마세요.</GameplayTips.TurretsExplode>
+  <GameplayTips.AnimalDeathExplosion>어떤 동물들은 죽을 때 폭발합니다. 수송 포드를 이용해 이런 동물을 적의 옆에 투하할 수 있습니다. 상상해 보세요.</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.CallAllies>전투 중에 도움이 필요하면 통신기를 사용해 동맹을 부를 수 있습니다.</GameplayTips.CallAllies>
+  <GameplayTips.MaddenedAnimals>동물이 분노하면 모든 인간을 가리지 않고 공격합니다. 유리하게 활용하세요.</GameplayTips.MaddenedAnimals>
+  <GameplayTips.EMPDisablesTurretsShields>EMP 폭발은 포탑과 보호막을 일시적으로 비활성화합니다.</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesPersonalShields>EMP 폭발은 개인 보호막을 즉시 파괴합니다.</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.HunterStealth>사냥꾼의 "사냥 은폐" 능력치는 동물 보복 가능성을 줄여줍니다. 사냥꾼의 조련과 사격 기술의 영향을 받습니다.</GameplayTips.HunterStealth>
+  <GameplayTips.AnimalsAttackCloseRange>동물은 근거리에서 피해를 받으면 보복할 확률이 높습니다. 장거리 저연사 무기가 안전합니다.</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsMayAttack>동물을 사냥하면 그 동물의 무리 전체가 보복할 수도 있습니다. 위험을 감수하거나, 더 약한 동물을 사냥하세요.</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalDeathExplosionRain>비가 올 때 폭탄사슴이나 폭탄쥐를 사냥하면 산불로는 번지지 않습니다.</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.GreaterSlaughterYield>잔인하게 죽인 동물보다 조심스럽게 도축한 동물에서 더 많은 고기와 가죽을 얻을 수 있습니다.</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.CaravanHitchingSpot>상단이 만들어지기 원하는 곳에 상단 구성 장소를 지정합니다. 일반적으로 보관 장소 근처에 지정하는 것이 가장 좋습니다. </GameplayTips.CaravanHitchingSpot>
+  <GameplayTips.CaravanHitchingSpotRoamers>집에서 멀리 떨어져 있는 동안, 가축들이 방황하지 않도록 상단 구성 장소를 배치할 수 있습니다.</GameplayTips.CaravanHitchingSpotRoamers>
+  <GameplayTips.CaravanRideableAnimals>말, 당나귀, 낙타와 같이 탑승 가능한 동물이 상단에 포함되면 더 빠르게 이동할 수 있습니다.</GameplayTips.CaravanRideableAnimals>
+  <GameplayTips.CaravanSmallerLessVisible>규모가 작은 상단은 눈에 잘 띄지 않기 때문에 공격도 덜 당합니다.</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanStockpileNearPackingSpot>상단을 구성하기 전에, 소집 장소 옆에 저장구역을 만들고 적재하려는 물품을 미리 모아두세요. 준비 시간이 훨씬 빨라집니다.</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanUntrainedAnimals>상단에 훈련을 받지 않은 동물이 있다면, 적을 공격하기 전에 별도의 상단으로 나눠서 전투에 참가하지 못하게 할 수 있습니다.</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanDontForgetMedicine>상단에 약품 챙기는 것을 잊지 마세요.</GameplayTips.CaravanDontForgetMedicine>
+  <GameplayTips.StoryGenerator>림월드는 기량 시험이 아닌 이야기 생성기이며, 폐허가 된 정착지는 실패가 아니라 아름다운 비극을 완성하는 요소입니다.</GameplayTips.StoryGenerator>
+  <GameplayTips.BadAllies>어떤 정착민은 쓸모없는 정착민보다 상황을 더 나쁘게 만듭니다. 도전의 일부분으로 동맹은 상황을 나쁘게 만들수도 있습니다.</GameplayTips.BadAllies>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>위협에 대항할 수 없다면, 상단을 만들어 도망치세요. 집을 잃을 수도 있지만 이야기는 계속 이어갈 수 있습니다.</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.FixedWealthMode>재산이 많을수록 더 강력한 적들이 공격합니다. 재산 대신 시간에 따라 도전을 확장하려면 이야기꾼 설정에서 '재산 독립 진행방식'을 선택하세요.</GameplayTips.FixedWealthMode>
+  <GameplayTips.StoneDoors>문을 석재로 만드는 걸 피하세요. 석재 문은 매우 느리게 열려서 정착민이 시간을 허비하게 됩니다.</GameplayTips.StoneDoors>
+  <GameplayTips.ChairsWorkbench>작업대 앞에 의자를 설치하면 작업자가 일하는 동안 편안함을 느낄 수 있습니다.</GameplayTips.ChairsWorkbench>
+  <GameplayTips.MechanicalBreakdown>기계적인 구조물이 망가지면 수리할 때 부품이 요구되니 필요 없는 것은 짓지 마세요.</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.CarefulConstructionOnBridges>다리 위에 건물을 지을 땐 조심하세요. 다리는 폭발로 쉽게 파괴되며, 그 위에 건설한 건물도 다리와 함께 가라앉습니다.</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CleanRooms>청결한 방은 연구 속도를 향상하고, 의료 결과를 개선하며, 식중독 확률을 낮춰줍니다. 항균 타일은 방을 더욱 청결하게 만듭니다.</GameplayTips.CleanRooms>
+  <GameplayTips.ColonyOneStructure>정착지 전체를 한 건물로 만들면 자원을 아낄 수 있지만, 화재 진압에는 좋지 않습니다.</GameplayTips.ColonyOneStructure>
+  <GameplayTips.TerrainMovementSpeed>이동속도는 지형에 영향을 받습니다. 정착민들이 빠르게 움직일 수 있도록 바닥을 지어주세요.</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainCleanliness>지형에 따라 청결 수준이 다릅니다. 타일은 기본적으로 깨끗하며, 흙은 기본적으로 더럽습니다.</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanSpeed>바닥의 종류에 따라 청소에 필요한 시간이 다릅니다. 강철판보다 양탄자를 치우는 데 훨씬 더 긴 시간이 듭니다.</GameplayTips.TerrainCleanSpeed>
+  <GameplayTips.PrisonersAsGifts>수감자들은 선물로 보낼 수 있습니다. 원래 세력으로 보내면 크게 고마워할 것입니다.</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.RequestTradeCaravans>통신기를 사용해서 특정 유형의 상단을 요청할 수 있습니다.</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.TransportPodsSendGift>수송 포드를 사용하여 다른 세력이나 적 세력에게도 선물을 보낼 수 있으며, 관계도 향상됩니다.</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.KeepingPrisonersTogether>수감자들을 한 곳에 가둬놓으면 공간을 절약할 수 있습니다. 하지만 탈옥 사태 발생 시 수감자들이 협력할 것입니다.</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.EnemyFactionBaseDefenses>적 세력의 정착지는 방어가 잘 되어 있습니다. 따로 공격할 필요는 없지만 시도를 한다면 준비를 잘하고 가세요.</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.AnimalNuzzle>길들인 귀여운 동물은 정착민에게 애교를 부리며, 기분을 좋게 합니다.</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalHerbivorousGrassArea>초식동물을 잔디가 많은 곳에 배정하면, 풀을 뜯어 먹기 때문에 따로 먹이가 필요하지 않습니다.</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.RemoveLimbInfection>사지의 심각한 감염으로 생명이 위험하면 절단으로 구할 수 있습니다.</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.SloshingWater>정착민들은 물을 뚫고 걸어 다녀야 하면 불만을 가집니다. 되도록 다리를 건설해 주세요.</GameplayTips.SloshingWater>
+  <GameplayTips.Luciferium>루시페륨은 눈이나 뇌에 생긴 흉터까지 치료할 수 있습니다. 하지만 한번 복용하면 평생 멈출 수 없습니다.</GameplayTips.Luciferium>
+  <GameplayTips.WorkMovementSpeedLighting>작업과 이동 속도는 빛에 영향을 받습니다. 어둠 속에서는 일도 이동도 어렵습니다.</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.DeepCavesTemperature>밖이 매우 덥거나 추워도 깊은 동굴은 안정적으로 온도를 유지합니다.</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.MountainBases>내산지는 방어하기가 쉽지만, 오랜시간 갇혀서 시간을 보내야 한다는 점이 단점입니다. 아, 곤충도 있네요.</GameplayTips.MountainBases>
+  <GameplayTips.PrisonersGoodMood>수감자들은 기분이 좋을 때 훨씬 빨리 합류할 수 있으며, 탈옥할 확률도 낮아집니다.</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.MultipleResearchers>다수의 연구 작업대를 건설하면 여러 명이 함께 연구할 수 있습니다.</GameplayTips.MultipleResearchers>
+  <GameplayTips.GeysersHeatRooms>밀폐된 공간에 간헐천이 있으면 온도가 높아지니, 유용할 수도 위험할 수도 있습니다.</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.ExtinguishFireArtillery>포탄이 폭발하게 되면 폭발반경만큼 화재를 진압할 수 있습니다. 이는 다른 선택지가 없을 때 화재를 진압하기 위해 포탄을 발사해 사용할 수 있습니다.</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.BestStoriesFromDarkestSituations>좌절한 순간에 게임이 끝난다는 것은 아닙니다. 손실이 많은 전투를 하다보면 종종 어려움 속에서도 최고의 이야기가 진행될 수 있습니다.</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>무기와 폭탄같은 물품을 감옥 근처에 두지 마세요. 탈옥이 일어나면 총과 폭탄으로 인해 훨씬 위험해 질 태니까요.</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>동물을 길들일 때, 동물들이 먹을 수 있는 올바른 종류의 음식을 충분히 가지고 있는지 확인하세요.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>출입구에 석재나 암석 덩어리를 떨어뜨리면 문이 강제로 열린 채 유지되므로 적대적인 야생 동물이나 습격자의 공격에 취약해집니다.</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <GameplayTips.CleanLabs>항균 타일이 있는 청결한 연구실에서는 연구 속도가 증가합니다.</GameplayTips.CleanLabs>
+  <GameplayTips.ChangeStoryteller>설정 메뉴에서 언제든지 이야기꾼과 난이도를 변경할 수 있습니다.</GameplayTips.ChangeStoryteller>
+  <GameplayTips.MoreAlliesMoreTraders>동맹 세력이 많으면 더 많은 상단이 찾아오고, 군사 지원도 더 많이 받을 수 있습니다.</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.CombatDrugsFromInventory>약물 정책에서 전투원들에게 고주스같은 전투 약물을 소지하도록 할 수 있습니다. 전투를 시작할 때 투약하면 승패를 가를 수 있습니다.</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.SchedulesSetLong>여행시간을 최소화하기 위해 한 번의 행동으로 긴 일정을 설정하세요.</GameplayTips.SchedulesSetLong>
+  <GameplayTips.StrawMatting>멍석에는 오물이 생기지 않습니다. 헛간 바닥으로 쓰세요.</GameplayTips.StrawMatting>
+  <GameplayTips.AnimalFilth>특정 동물들은 오물을 더 많이 생산합니다. 코끼리나 소 같은 대형 동물들은 집 밖에 두세요.</GameplayTips.AnimalFilth>
+  <GameplayTips.PredatorsAndFences>육식동물은 울타리나 방해물 건너편에 있는 동물을 사냥하지 않습니다.</GameplayTips.PredatorsAndFences>
 </LanguageData>
