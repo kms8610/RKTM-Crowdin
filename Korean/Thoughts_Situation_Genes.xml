@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MoodOffsetHappy.stages.genetic_optimism.label>유전적 낙관주의</MoodOffsetHappy.stages.genetic_optimism.label>
-  <MoodOffsetHappy.stages.genetic_optimism.description>'행복함' 유전자의 태생적 이점입니다.</MoodOffsetHappy.stages.genetic_optimism.description>
+  <MoodOffsetHappy.stages.genetic_optimism.label>genetic optimism</MoodOffsetHappy.stages.genetic_optimism.label>
+  <MoodOffsetHappy.stages.genetic_optimism.description>Natural bonus from 'happy' gene.</MoodOffsetHappy.stages.genetic_optimism.description>
   
-  <MoodOffsetUnhappy.stages.genetic_pessimism.label>유전적 비관주의</MoodOffsetUnhappy.stages.genetic_pessimism.label>
-  <MoodOffsetUnhappy.stages.genetic_pessimism.description>'불행함' 유전자의 태생적 불이익입니다.</MoodOffsetUnhappy.stages.genetic_pessimism.description>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.label>genetic pessimism</MoodOffsetUnhappy.stages.genetic_pessimism.label>
+  <MoodOffsetUnhappy.stages.genetic_pessimism.description>Natural penalty from 'unhappy' gene.</MoodOffsetUnhappy.stages.genetic_pessimism.description>
   
-  <MoodOffsetVeryHappy.stages.genetic_joy.label>유전적 즐거움</MoodOffsetVeryHappy.stages.genetic_joy.label>
-  <MoodOffsetVeryHappy.stages.genetic_joy.description>'매우 행복함' 유전자의 태생적 이점입니다.</MoodOffsetVeryHappy.stages.genetic_joy.description>
+  <MoodOffsetVeryHappy.stages.genetic_joy.label>genetic joy</MoodOffsetVeryHappy.stages.genetic_joy.label>
+  <MoodOffsetVeryHappy.stages.genetic_joy.description>Natural bonus from 'very happy' gene.</MoodOffsetVeryHappy.stages.genetic_joy.description>
   
-  <MoodOffsetVeryUnhappy.stages.genetic_depression.label>유전적 우울증</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
-  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>'매우 불행함' 유전자의 태생적 불이익입니다.</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.label>genetic depression</MoodOffsetVeryUnhappy.stages.genetic_depression.label>
+  <MoodOffsetVeryUnhappy.stages.genetic_depression.description>Natural penalty from 'very unhappy' gene.</MoodOffsetVeryUnhappy.stages.genetic_depression.description>
 </LanguageData>
