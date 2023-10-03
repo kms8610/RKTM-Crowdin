@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DefoliatorShipPart.label>crwdns471352:0crwdne471352:0</DefoliatorShipPart.label>
-  <DefoliatorShipPart.description>crwdns471354:0crwdne471354:0</DefoliatorShipPart.description>
-  
-  <PsychicDronerShipPart.label>crwdns471356:0crwdne471356:0</PsychicDronerShipPart.label>
-  <PsychicDronerShipPart.description>crwdns471358:0crwdne471358:0</PsychicDronerShipPart.description>
-  
-  <ShipChunk.label>crwdns471360:0crwdne471360:0</ShipChunk.label>
-  <ShipChunk.description>crwdns471362:0crwdne471362:0</ShipChunk.description>
-  
-  <Shuttle.label>crwdns471364:0crwdne471364:0</Shuttle.label>
-  <Shuttle.description>crwdns471366:0crwdne471366:0</Shuttle.description>
-  
-  <ShuttleCrashed.label>crwdns471368:0crwdne471368:0</ShuttleCrashed.label>
-  <ShuttleCrashed.description>crwdns471370:0crwdne471370:0</ShuttleCrashed.description>
+  <Spacedrone.label>crwdns440436:0crwdne440436:0</Spacedrone.label>
+  <Spacedrone.description>crwdns440438:0crwdne440438:0</Spacedrone.description>
 </LanguageData>
