@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DecreeFailed.stages.decree_failed.label>crwdns449408:0crwdne449408:0</DecreeFailed.stages.decree_failed.label>
-  <DecreeFailed.stages.decree_failed.description>crwdns449410:0crwdne449410:0</DecreeFailed.stages.decree_failed.description>
-  
-  <DecreeMet.stages.decree_satisfied.label>crwdns449412:0crwdne449412:0</DecreeMet.stages.decree_satisfied.label>
-  <DecreeMet.stages.decree_satisfied.description>crwdns449414:0crwdne449414:0</DecreeMet.stages.decree_satisfied.description>
-  
-  <Disinherited.stages.disinherited.label>crwdns449416:0crwdne449416:0</Disinherited.stages.disinherited.label>
-  <Disinherited.stages.disinherited.description>crwdns449418:0crwdne449418:0</Disinherited.stages.disinherited.description>
-  
-  <NeuroquakeEcho.stages.neuroquake_echo.label>crwdns449420:0crwdne449420:0</NeuroquakeEcho.stages.neuroquake_echo.label>
-  <NeuroquakeEcho.stages.neuroquake_echo.description>crwdns449422:0crwdne449422:0</NeuroquakeEcho.stages.neuroquake_echo.description>
+  <ArtifactMoodBoost.stages.strange_feeling.label>crwdns475154:0crwdne475154:0</ArtifactMoodBoost.stages.strange_feeling.label>
+  <ArtifactMoodBoost.stages.strange_feeling.description>crwdns475156:0crwdne475156:0</ArtifactMoodBoost.stages.strange_feeling.description>
 </LanguageData>
