@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slave.label>crwdns460698:0crwdne460698:0</Slave.label>
+  <Mechanitor.label>crwdns424716:0crwdne424716:0</Mechanitor.label>
   
-  <StrangerInBlack.label>crwdns460700:0crwdne460700:0</StrangerInBlack.label>
-  <StrangerInBlack.labelFemale>crwdns460702:0crwdne460702:0</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelMale>crwdns460704:0crwdne460704:0</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelPlural>crwdns460706:0crwdne460706:0</StrangerInBlack.labelPlural>
+  <Mechanitor_Basic.label>crwdns424718:0crwdne424718:0</Mechanitor_Basic.label>
   
-  <WildMan.label>crwdns460708:0crwdne460708:0</WildMan.label>
-  <WildMan.labelFemale>crwdns460710:0crwdne460710:0</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>crwdns460712:0crwdne460712:0</WildMan.labelFemalePlural>
-  <WildMan.labelPlural>crwdns460714:0crwdne460714:0</WildMan.labelPlural>
+  <Sanguophage.label>crwdns424720:0crwdne424720:0</Sanguophage.label>
+  
+  <SanguophageThrall.label>crwdns424722:0crwdne424722:0</SanguophageThrall.label>
+  
+  <Sanguophage_Player.label>crwdns424724:0crwdne424724:0</Sanguophage_Player.label>
+  
+  <Tribal_Child.label>crwdns424726:0crwdne424726:0</Tribal_Child.label>
+  
+  <Villager_Child.label>crwdns424728:0crwdne424728:0</Villager_Child.label>
 </LanguageData>
