@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalsVenerated.label>crwdns432262:0crwdne432262:0</AnimalsVenerated.label>
+  <AnimalVenerated.label>crwdns436098:0crwdne436098:0</AnimalVenerated.label>
+  <AnimalVenerated.description>crwdns436100:0crwdne436100:0</AnimalVenerated.description>
+  <AnimalVenerated.comps.2.description>crwdns436102:0crwdne436102:0</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>crwdns436104:0{STAGE1}crwdne436104:0</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>crwdns436106:0{STAGE2}crwdne436106:0</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>crwdns436108:0{STAGE3}crwdne436108:0</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>crwdns436110:0{STAGE4}crwdne436110:0</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>crwdns436112:0crwdne436112:0</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
 </LanguageData>
