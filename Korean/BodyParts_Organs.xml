@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Heart.label>심장</Heart.label>
+  <Heart.label>heart</Heart.label>
   
-  <Kidney.label>신장</Kidney.label>
+  <Kidney.label>kidney</Kidney.label>
   
-  <Liver.label>간</Liver.label>
+  <Liver.label>liver</Liver.label>
   
-  <Lung.label>폐</Lung.label>
+  <Lung.label>lung</Lung.label>
   
-  <Stomach.label>위</Stomach.label>
+  <Stomach.label>stomach</Stomach.label>
 </LanguageData>
