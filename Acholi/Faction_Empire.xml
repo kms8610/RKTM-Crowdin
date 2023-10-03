@@ -1,9 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Empire.label>crwdns445338:0crwdne445338:0</Empire.label>
-  <Empire.description>crwdns445340:0crwdne445340:0</Empire.description>
-  <Empire.leaderTitle>crwdns445342:0crwdne445342:0</Empire.leaderTitle>
-  <Empire.pawnSingular>crwdns445344:0crwdne445344:0</Empire.pawnSingular>
-  <Empire.pawnsPlural>crwdns445346:0crwdne445346:0</Empire.pawnsPlural>
-  <Empire.royalFavorLabel>crwdns445348:0crwdne445348:0</Empire.royalFavorLabel>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>crwdns448164:0[empire]crwdnd448164:0[ofThing]crwdne448164:0</li>
+    <li>crwdns448166:0[empire]crwdnd448166:0[ofThing]crwdne448166:0</li>
+    <li>crwdns448168:0[empire]crwdne448168:0</li>
+    <li>crwdns448170:0[empire]crwdne448170:0</li>
+    <li>crwdns448172:0[empire]crwdne448172:0</li>
+    <li>crwdns448174:0[empire]crwdne448174:0</li>
+    <li>crwdns448176:0[empire]crwdne448176:0</li>
+    <li>crwdns448178:0[Color]crwdnd448178:0[empire]crwdne448178:0</li>
+    <li>crwdns448180:0crwdne448180:0</li>
+    <li>crwdns448182:0crwdne448182:0</li>
+    <li>crwdns448184:0crwdne448184:0</li>
+    <li>crwdns448186:0crwdne448186:0</li>
+    <li>crwdns448188:0crwdne448188:0</li>
+    <li>crwdns448190:0[WordImperial]crwdne448190:0</li>
+    <li>crwdns448192:0crwdne448192:0</li>
+    <li>crwdns448194:0crwdne448194:0</li>
+    <li>crwdns448196:0crwdne448196:0</li>
+    <li>crwdns448198:0crwdne448198:0</li>
+    <li>crwdns448200:0crwdne448200:0</li>
+    <li>crwdns448202:0crwdne448202:0</li>
+    <li>crwdns448204:0crwdne448204:0</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  
+  <NamerPersonSophian.rulePack.rulesStrings>
+    <li>crwdns448206:0[ImperialNameFirstMale]crwdnd448206:0[ImperialNameLast]crwdne448206:0</li>
+    <li>crwdns448208:0[ImperialNameFirstMale]crwdnd448208:0[WordImperial]crwdne448208:0</li>
+    <li>crwdns448210:0[WordImperial]crwdnd448210:0[WordImperial]crwdne448210:0</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
+  
+  <NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>crwdns448212:0[ImperialNameFirstFemale]crwdnd448212:0[ImperialNameLast]crwdne448212:0</li>
+    <li>crwdns448214:0[ImperialNameFirstFemale]crwdnd448214:0[WordImperial]crwdne448214:0</li>
+    <li>crwdns448216:0[WordImperial]crwdnd448216:0[WordImperial]crwdne448216:0</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
+  
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>crwdns448218:0[townname_wordgen]crwdne448218:0</li>
+    <li>crwdns448220:0[townname_fixed]crwdne448220:0</li>
+    <li>crwdns448222:0[WordImperial]crwdne448222:0</li>
+    <li>crwdns448224:0[WordImperial]crwdnd448224:0[townend]crwdne448224:0</li>
+    <li>crwdns448226:0crwdne448226:0</li>
+    <li>crwdns448228:0crwdne448228:0</li>
+    <li>crwdns448230:0crwdne448230:0</li>
+    <li>crwdns448232:0crwdne448232:0</li>
+    <li>crwdns448234:0crwdne448234:0</li>
+    <li>crwdns448236:0crwdne448236:0</li>
+    <li>crwdns448238:0crwdne448238:0</li>
+    <li>crwdns448240:0crwdne448240:0</li>
+    <li>crwdns448242:0crwdne448242:0</li>
+    <li>crwdns448244:0crwdne448244:0</li>
+    <li>crwdns448246:0crwdne448246:0</li>
+    <li>crwdns448248:0crwdne448248:0</li>
+    <li>crwdns448250:0crwdne448250:0</li>
+    <li>crwdns448252:0crwdne448252:0</li>
+    <li>crwdns448254:0crwdne448254:0</li>
+    <li>crwdns448256:0crwdne448256:0</li>
+    <li>crwdns448258:0crwdne448258:0</li>
+    <li>crwdns448260:0crwdne448260:0</li>
+    <li>crwdns448262:0crwdne448262:0</li>
+    <li>crwdns448264:0crwdne448264:0</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
 </LanguageData>
