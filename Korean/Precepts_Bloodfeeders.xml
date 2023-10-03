@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bloodfeeders_Revered.label>숭배</Bloodfeeders_Revered.label>
-  <Bloodfeeders_Revered.description>흡혈자는 숭배되어야 한다. 신자들은 정착지에 흡혈자가 있으면 기뻐할 것이며, 피를 제공하는 것을 꺼리지 않을 것이다.</Bloodfeeders_Revered.description>
-  <Bloodfeeders_Revered.comps.0.description>흡혈자</Bloodfeeders_Revered.comps.0.description>
-  <Bloodfeeders_Revered.comps.2.description>숭배받는 흡혈자</Bloodfeeders_Revered.comps.2.description>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>흡혈자 없음</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>흡혈자 지도자 없음</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>흡혈자 지도자</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.label>흡혈자 없음</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>흡혈자 지도자가 없으면 우리 정착지는 불완전하고 무의미해. 우리는 흡혈자를 주인으로 섬겨야 한다고.</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>흡혈자 지도자 없음</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>흡혈자 지도자가 없으면 우리 정착지는 불완전하고 무의미해. 우리는 흡혈자를 주인으로 섬겨야 한다고.</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.label>흡혈자 지도자</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.description>흡혈귀의 존재는 큰 영광이야. 그들이 영원히 살기를 바래.</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
   
-  <Bloodfeeders_Reviled.label>매도</Bloodfeeders_Reviled.label>
-  <Bloodfeeders_Reviled.description>살기 위해 피를 마시는 자는 누구나 괴물이다.</Bloodfeeders_Reviled.description>
-  <Bloodfeeders_Reviled.comps.0.description>흡혈 유전자를 전파</Bloodfeeders_Reviled.comps.0.description>
-  <Bloodfeeders_Reviled.comps.1.description>흡혈자</Bloodfeeders_Reviled.comps.1.description>
-  <Bloodfeeders_Reviled.comps.3.description>흡혈자 자기 혐오</Bloodfeeders_Reviled.comps.3.description>
-  <Bloodfeeders_Reviled.comps.4.description>공동체 내의 흡혈자</Bloodfeeders_Reviled.comps.4.description>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>공동체 내의 흡혈자</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>그들 중 한 명이 우리 사이를 걸어 다니고 있어. 우리는 집에서 흡혈자를 내쫓아야 해.</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>
+  
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.label>흡혈자 사망</BloodfeederDied_Revered.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.description>흡혈자들이 우리보다 숭고하지만 여기서 한 명이 죽었어. 우리는 반드시 이에 대한 벌을 받을 거야.</BloodfeederDied_Revered.stages.bloodfeeder_died.description>
+  
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.label>흡혈자 죽음</BloodfeederDied_Reviled.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.description>좋은 흡혈자는 죽은 흡혈자 뿐이야.</BloodfeederDied_Reviled.stages.bloodfeeder_died.description>
+  
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>숭배받는 흡혈자</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>그들이 나를 숭배하게 만들자. 동물이 인간보다 낮은 것처럼, 그들을 먹으면 나보다 아래에 있게 되는 거야.</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
+  
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>흡혈자 자기 혐오</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>나는 내가 싫어. 난 반드시 이 저주를 풀어야 해.</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>
+  
+  <Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>흡혈귀</Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+  
+  <Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>흡혈귀</Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>
 </LanguageData>
