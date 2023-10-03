@@ -1,35 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Kibble.label>crwdns472294:0crwdne472294:0</Kibble.label>
-  <Kibble.description>crwdns472296:0crwdne472296:0</Kibble.description>
+  <BabyFood.label>crwdns427440:0crwdne427440:0</BabyFood.label>
+  <BabyFood.description>crwdns427442:0crwdne427442:0</BabyFood.description>
   
-  <MealFine.label>crwdns472298:0crwdne472298:0</MealFine.label>
-  <MealFine.description>crwdns472300:0crwdne472300:0</MealFine.description>
-  
-  <MealFine_Meat.label>crwdns472302:0crwdne472302:0</MealFine_Meat.label>
-  <MealFine_Meat.description>crwdns472304:0crwdne472304:0</MealFine_Meat.description>
-  
-  <MealFine_Veg.label>crwdns472306:0crwdne472306:0</MealFine_Veg.label>
-  <MealFine_Veg.description>crwdns472308:0crwdne472308:0</MealFine_Veg.description>
-  
-  <MealLavish.label>crwdns472310:0crwdne472310:0</MealLavish.label>
-  <MealLavish.description>crwdns472312:0crwdne472312:0</MealLavish.description>
-  
-  <MealLavish_Meat.label>crwdns472314:0crwdne472314:0</MealLavish_Meat.label>
-  <MealLavish_Meat.description>crwdns472316:0crwdne472316:0</MealLavish_Meat.description>
-  
-  <MealLavish_Veg.label>crwdns472318:0crwdne472318:0</MealLavish_Veg.label>
-  <MealLavish_Veg.description>crwdns472320:0crwdne472320:0</MealLavish_Veg.description>
-  
-  <MealNutrientPaste.label>crwdns472322:0crwdne472322:0</MealNutrientPaste.label>
-  <MealNutrientPaste.description>crwdns472324:0crwdne472324:0</MealNutrientPaste.description>
-  
-  <MealSimple.label>crwdns472326:0crwdne472326:0</MealSimple.label>
-  <MealSimple.description>crwdns472328:0crwdne472328:0</MealSimple.description>
-  
-  <MealSurvivalPack.label>crwdns472330:0crwdne472330:0</MealSurvivalPack.label>
-  <MealSurvivalPack.description>crwdns472332:0crwdne472332:0</MealSurvivalPack.description>
-  
-  <Pemmican.label>crwdns472334:0crwdne472334:0</Pemmican.label>
-  <Pemmican.description>crwdns472336:0crwdne472336:0</Pemmican.description>
+  <HemogenPack.label>crwdns427444:0crwdne427444:0</HemogenPack.label>
+  <HemogenPack.description>crwdns427446:0crwdne427446:0</HemogenPack.description>
 </LanguageData>
