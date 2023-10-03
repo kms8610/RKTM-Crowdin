@@ -1,28 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalAdult.label>성인</AnimalAdult.label>
-  
-  <AnimalBaby.label>아기</AnimalBaby.label>
-  
-  <AnimalBabyTiny.label>아기</AnimalBabyTiny.label>
-  
-  <AnimalJuvenile.label>성장기</AnimalJuvenile.label>
-  
-  <EusocialInsectAdult.label>성인</EusocialInsectAdult.label>
-  
-  <EusocialInsectJuvenile.label>아성체</EusocialInsectJuvenile.label>
-  
-  <EusocialInsectLarva.label>애벌레</EusocialInsectLarva.label>
-  
-  <HumanlikeAdult.label>성인</HumanlikeAdult.label>
-  
-  <HumanlikeBaby.label>아기</HumanlikeBaby.label>
-  <HumanlikeBaby.customMoodTipString>기분은 대상의 행복 수치를 나타냅니다. 아기는 기분이 낮으면 더 자주 울고, 높으면 더 자주 웃습니다.</HumanlikeBaby.customMoodTipString>
-  
-  <HumanlikeChild.label>어린이</HumanlikeChild.label>
-  
-  <HumanlikeTeenager.label>청소년</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>청소년</HumanlikeTeenager.adjective>
-  
-  <MechanoidFullyFormed.label>완전체</MechanoidFullyFormed.label>
+  <HumanlikePreTeenager.label>preteen</HumanlikePreTeenager.label>
 </LanguageData>
