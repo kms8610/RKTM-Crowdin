@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FireTerror.label>crwdns424620:0crwdne424620:0</FireTerror.label>
+  <BerserkWarcall.label>crwdns424630:0crwdne424630:0</BerserkWarcall.label>
+  <BerserkWarcall.baseInspectLine>crwdns424632:0crwdne424632:0</BerserkWarcall.baseInspectLine>
+  <BerserkWarcall.beginLetter>crwdns424634:0{0}crwdnd424634:0[PAWN_pronoun]crwdne424634:0</BerserkWarcall.beginLetter>
+  <BerserkWarcall.recoveryMessage>crwdns424636:0{0}crwdne424636:0</BerserkWarcall.recoveryMessage>
+  
+  <CocoonDisturbed.label>crwdns424638:0crwdne424638:0</CocoonDisturbed.label>
+  <CocoonDisturbed.baseInspectLine>crwdns424640:0crwdne424640:0</CocoonDisturbed.baseInspectLine>
+  
+  <PanicFleeFire.label>crwdns424642:0crwdne424642:0</PanicFleeFire.label>
+  <PanicFleeFire.baseInspectLine>crwdns424644:0crwdne424644:0</PanicFleeFire.baseInspectLine>
+  <PanicFleeFire.beginLetter>crwdns424646:0{0}crwdne424646:0</PanicFleeFire.beginLetter>
+  <PanicFleeFire.beginLetterLabel>crwdns424648:0crwdne424648:0</PanicFleeFire.beginLetterLabel>
+  <PanicFleeFire.recoveryMessage>crwdns424650:0{0}crwdne424650:0</PanicFleeFire.recoveryMessage>
 </LanguageData>
