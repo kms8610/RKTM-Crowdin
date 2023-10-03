@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WastepackInfestation.label>crwdns423684:0crwdne423684:0</WastepackInfestation.label>
-  <WastepackInfestation.letterLabel>crwdns423686:0crwdne423686:0</WastepackInfestation.letterLabel>
-  <WastepackInfestation.letterText>crwdns423688:0crwdne423688:0</WastepackInfestation.letterText>
+  <AnimalInsanityMass.label>crwdns458744:0crwdne458744:0</AnimalInsanityMass.label>
+  
+  <AnimalInsanitySingle.label>crwdns458746:0crwdne458746:0</AnimalInsanitySingle.label>
+  
+  <DeepDrillInfestation.label>crwdns458748:0crwdne458748:0</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterLabel>crwdns458750:0crwdne458750:0</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterText>crwdns458752:0crwdne458752:0</DeepDrillInfestation.letterText>
+  
+  <DefoliatorShipPartCrash.label>crwdns458754:0crwdne458754:0</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.letterLabel>crwdns458756:0crwdne458756:0</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterText>crwdns458758:0crwdne458758:0</DefoliatorShipPartCrash.letterText>
+  
+  <Infestation.label>crwdns458760:0crwdne458760:0</Infestation.label>
+  <Infestation.letterLabel>crwdns458762:0crwdne458762:0</Infestation.letterLabel>
+  <Infestation.letterText>crwdns458764:0crwdne458764:0</Infestation.letterText>
+  
+  <ManhunterPack.label>crwdns458766:0crwdne458766:0</ManhunterPack.label>
+  
+  <MechCluster.label>crwdns458768:0crwdne458768:0</MechCluster.label>
+  <MechCluster.letterLabel>crwdns458770:0crwdne458770:0</MechCluster.letterLabel>
+  <MechCluster.letterText>crwdns458772:0crwdne458772:0</MechCluster.letterText>
+  
+  <PsychicEmanatorShipPartCrash.label>crwdns458774:0crwdne458774:0</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterLabel>crwdns458776:0crwdne458776:0</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterText>crwdns458778:0crwdne458778:0</PsychicEmanatorShipPartCrash.letterText>
+  
+  <RaidEnemy.label>crwdns458780:0crwdne458780:0</RaidEnemy.label>
 </LanguageData>
