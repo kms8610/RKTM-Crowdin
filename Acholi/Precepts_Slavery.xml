@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slavery.label>crwdns432336:0crwdne432336:0</Slavery.label>
+  <Slavery_Abhorrent.label>crwdns436958:0crwdne436958:0</Slavery_Abhorrent.label>
+  <Slavery_Abhorrent.description>crwdns436960:0crwdne436960:0</Slavery_Abhorrent.description>
+  <Slavery_Abhorrent.comps.0.description>crwdns436962:0crwdne436962:0</Slavery_Abhorrent.comps.0.description>
+  <Slavery_Abhorrent.comps.5.description>crwdns436964:0crwdne436964:0</Slavery_Abhorrent.comps.5.description>
+  
+  <Slavery_Acceptable.label>crwdns436966:0crwdne436966:0</Slavery_Acceptable.label>
+  <Slavery_Acceptable.description>crwdns436968:0crwdne436968:0</Slavery_Acceptable.description>
+  
+  <Slavery_Disapproved.label>crwdns436970:0crwdne436970:0</Slavery_Disapproved.label>
+  <Slavery_Disapproved.description>crwdns436972:0crwdne436972:0</Slavery_Disapproved.description>
+  <Slavery_Disapproved.comps.0.description>crwdns436974:0crwdne436974:0</Slavery_Disapproved.comps.0.description>
+  <Slavery_Disapproved.comps.5.description>crwdns436976:0crwdne436976:0</Slavery_Disapproved.comps.5.description>
+  <Slavery_Disapproved.comps.6.description>crwdns436978:0crwdne436978:0</Slavery_Disapproved.comps.6.description>
+  
+  <Slavery_Honorable.label>crwdns436980:0crwdne436980:0</Slavery_Honorable.label>
+  <Slavery_Honorable.description>crwdns436982:0crwdne436982:0</Slavery_Honorable.description>
+  <Slavery_Honorable.comps.0.description>crwdns436984:0crwdne436984:0</Slavery_Honorable.comps.0.description>
+  <Slavery_Honorable.comps.6.description>crwdns436986:0crwdne436986:0</Slavery_Honorable.comps.6.description>
+  <Slavery_Honorable.comps.7.description>crwdns436988:0crwdne436988:0</Slavery_Honorable.comps.7.description>
+  <Slavery_Honorable.comps.8.eventLabel>crwdns436990:0crwdne436990:0</Slavery_Honorable.comps.8.eventLabel>
+  
+  <Slavery_Horrible.label>crwdns436992:0crwdne436992:0</Slavery_Horrible.label>
+  <Slavery_Horrible.description>crwdns436994:0crwdne436994:0</Slavery_Horrible.description>
+  <Slavery_Horrible.comps.0.description>crwdns436996:0crwdne436996:0</Slavery_Horrible.comps.0.description>
+  <Slavery_Horrible.comps.5.description>crwdns436998:0crwdne436998:0</Slavery_Horrible.comps.5.description>
+  <Slavery_Horrible.comps.6.description>crwdns437000:0crwdne437000:0</Slavery_Horrible.comps.6.description>
 </LanguageData>
