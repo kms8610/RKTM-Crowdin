@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beggar.label>beggar</Beggar.label>
+  <Mechanitor.label>mechanitor</Mechanitor.label>
   
-  <PovertyPilgrim.label>pilgrim</PovertyPilgrim.label>
+  <Mechanitor_Basic.label>mechanitor</Mechanitor_Basic.label>
   
-  <WellEquippedTraveler.label>well-equipped traveler</WellEquippedTraveler.label>
+  <Sanguophage.label>sanguophage</Sanguophage.label>
+  
+  <SanguophageThrall.label>thrall</SanguophageThrall.label>
+  
+  <Sanguophage_Player.label>sanguophage</Sanguophage_Player.label>
+  
+  <Tribal_Child.label>villager</Tribal_Child.label>
+  
+  <Villager_Child.label>villager</Villager_Child.label>
 </LanguageData>
