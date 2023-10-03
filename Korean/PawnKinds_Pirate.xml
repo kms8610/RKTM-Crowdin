@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Drifter.label>유랑자</Drifter.label>
+  <Drifter.label>drifter</Drifter.label>
   
-  <Pirate.label>우주해적</Pirate.label>
+  <Pirate.label>pirate gunner</Pirate.label>
   
-  <Scavenger.label>강도</Scavenger.label>
+  <Scavenger.label>scavenger gunner</Scavenger.label>
   
-  <Thrasher.label>도살자</Thrasher.label>
+  <Thrasher.label>scavenger thrasher</Thrasher.label>
 </LanguageData>
