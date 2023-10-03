@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Defoliator.label>crwdns448964:0crwdne448964:0</Defoliator.label>
-  <Defoliator.description>crwdns448966:0crwdne448966:0</Defoliator.description>
-  
-  <Gloomlight.label>crwdns448968:0crwdne448968:0</Gloomlight.label>
-  <Gloomlight.description>crwdns448970:0crwdne448970:0</Gloomlight.description>
-  
-  <UnstablePowerCell.label>crwdns448972:0crwdne448972:0</UnstablePowerCell.label>
-  <UnstablePowerCell.description>crwdns448974:0crwdne448974:0</UnstablePowerCell.description>
+  <BurningPowerCell.label>crwdns471518:0crwdne471518:0</BurningPowerCell.label>
+  <BurningPowerCell.description>crwdns471520:0crwdne471520:0</BurningPowerCell.description>
 </LanguageData>
