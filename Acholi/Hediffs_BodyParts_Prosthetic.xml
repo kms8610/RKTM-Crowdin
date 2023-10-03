@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CochlearImplant.label>crwdns472210:0crwdne472210:0</CochlearImplant.label>
-  <CochlearImplant.description>crwdns472212:0crwdne472212:0</CochlearImplant.description>
+  <CochlearImplant.label>crwdns457408:0crwdne457408:0</CochlearImplant.label>
+  <CochlearImplant.description>crwdns457410:0crwdne457410:0</CochlearImplant.description>
+  <CochlearImplant.labelNoun>crwdns457412:0crwdne457412:0</CochlearImplant.labelNoun>
   
-  <Joywire.label>crwdns472214:0crwdne472214:0</Joywire.label>
-  <Joywire.description>crwdns472216:0crwdne472216:0</Joywire.description>
+  <Joywire.label>crwdns457414:0crwdne457414:0</Joywire.label>
+  <Joywire.description>crwdns457416:0crwdne457416:0</Joywire.description>
+  <Joywire.labelNoun>crwdns457418:0crwdne457418:0</Joywire.labelNoun>
   
-  <Painstopper.label>crwdns472218:0crwdne472218:0</Painstopper.label>
-  <Painstopper.description>crwdns472220:0crwdne472220:0</Painstopper.description>
+  <Painstopper.label>crwdns457420:0crwdne457420:0</Painstopper.label>
+  <Painstopper.description>crwdns457422:0crwdne457422:0</Painstopper.description>
+  <Painstopper.labelNoun>crwdns457424:0crwdne457424:0</Painstopper.labelNoun>
   
-  <PowerClaw.label>crwdns472222:0crwdne472222:0</PowerClaw.label>
-  <PowerClaw.description>crwdns472224:0crwdne472224:0</PowerClaw.description>
+  <PowerClaw.label>crwdns457426:0crwdne457426:0</PowerClaw.label>
+  <PowerClaw.description>crwdns457428:0crwdne457428:0</PowerClaw.description>
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>crwdns457430:0crwdne457430:0</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <PowerClaw.labelNoun>crwdns457432:0crwdne457432:0</PowerClaw.labelNoun>
   
-  <SimpleProstheticArm.label>crwdns472226:0crwdne472226:0</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>crwdns472228:0crwdne472228:0</SimpleProstheticArm.description>
+  <SimpleProstheticArm.label>crwdns457434:0crwdne457434:0</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>crwdns457436:0crwdne457436:0</SimpleProstheticArm.description>
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>crwdns457438:0crwdne457438:0</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <SimpleProstheticArm.labelNoun>crwdns457440:0crwdne457440:0</SimpleProstheticArm.labelNoun>
   
-  <SimpleProstheticHeart.label>crwdns472230:0crwdne472230:0</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.description>crwdns472232:0crwdne472232:0</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.label>crwdns457442:0crwdne457442:0</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.description>crwdns457444:0crwdne457444:0</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.labelNoun>crwdns457446:0crwdne457446:0</SimpleProstheticHeart.labelNoun>
   
-  <SimpleProstheticLeg.label>crwdns472234:0crwdne472234:0</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>crwdns472236:0crwdne472236:0</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.label>crwdns457448:0crwdne457448:0</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>crwdns457450:0crwdne457450:0</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.labelNoun>crwdns457452:0crwdne457452:0</SimpleProstheticLeg.labelNoun>
 </LanguageData>
