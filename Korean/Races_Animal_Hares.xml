@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Hare.label>멧토끼</Hare.label>
-  <Hare.description>단독 생활을 하는 작은 초식동물로, 위협에서 재빨리 달아날 수 있습니다.</Hare.description>
-  <Hare.tools.head.label>지팡이 끝</Hare.tools.head.label>
+  <Hare.label>hare</Hare.label>
   
-  <Snowhare.label>눈토끼</Snowhare.label>
-  <Snowhare.description>이 강인한 동물은 먹을 풀을 찾기 위해 눈 밑을 파고들며 거친 겨울을 견뎌냅니다.</Snowhare.description>
-  <Snowhare.tools.head.label>지팡이 끝</Snowhare.tools.head.label>
+  <Snowhare.label>snowhare</Snowhare.label>
 </LanguageData>
