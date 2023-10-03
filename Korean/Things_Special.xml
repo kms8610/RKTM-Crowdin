@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActiveDropPod.label>낙하기</ActiveDropPod.label>
+  <ActiveDropPod.label>drop pod</ActiveDropPod.label>
   
-  <ActiveDropPodMechanoid.label>낙하기</ActiveDropPodMechanoid.label>
+  <ActiveDropPodMechanoid.label>drop pod</ActiveDropPodMechanoid.label>
   
-  <Fire.label>화염</Fire.label>
+  <Fire.label>fire</Fire.label>
   
-  <Spark.label>불꽃</Spark.label>
+  <Spark.label>spark</Spark.label>
 </LanguageData>
