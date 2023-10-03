@@ -1,4 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoRole.label>지위</IdeoRole.label>
+  <IdeoRole_AnimalsSpecialist.label>조련 전문가</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_AnimalsSpecialist.description>다른 것을 배제하고 동물에 초점을 맞춘 특별한 이념적 직위입니다. 이러한 전문화된 직위는 길들이기 및 조련 효율성을 향상시킵니다. 이 직위에 임명된 사람은 동물과 관련되지 않은 일부 작업을 거부합니다.</IdeoRole_AnimalsSpecialist.description>
+  
+  <IdeoRole_Leader.label>왕초</IdeoRole_Leader.label>
+  <IdeoRole_Leader.description>정착지의 구심점이자 외교를 대표합니다.</IdeoRole_Leader.description>
+  
+  <IdeoRole_MedicalSpecialist.label>의학 전문가</IdeoRole_MedicalSpecialist.label>
+  <IdeoRole_MedicalSpecialist.description>A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to do any kind of violence, and won't perform some non-medical tasks.</IdeoRole_MedicalSpecialist.description>
+  
+  <IdeoRole_MeleeSpecialist.label>melee specialist</IdeoRole_MeleeSpecialist.label>
+  <IdeoRole_MeleeSpecialist.description>근접 전투에 특화된 고유 지위입니다. 이 지위는 근접 회피율과 명중률을 높여주며, 짧은 시간동안 무아지경에 빠지는 광폭화 능력을 부여합니다. 이 지위를 소유한 자는 격투와 관련되지 않은 많은 작업을 거부할 것입니다.</IdeoRole_MeleeSpecialist.description>
+  
+  <IdeoRole_MiningSpecialist.label>채굴 전문가</IdeoRole_MiningSpecialist.label>
+  <IdeoRole_MiningSpecialist.description>채굴에 특화된 고유 지위입니다. 이 지위는 채굴 속도를 높여주며, 주변 동료들의 채굴 속도를 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 채굴과 관련되지 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_MiningSpecialist.description>
+  
+  <IdeoRole_Moralist.label>moral guide</IdeoRole_Moralist.label>
+  <IdeoRole_Moralist.description>의식을 주관하며 신자들의 고민을 들어줍니다.</IdeoRole_Moralist.description>
+  
+  <IdeoRole_PlantSpecialist.label>원예 전문가</IdeoRole_PlantSpecialist.label>
+  <IdeoRole_PlantSpecialist.description>농업에 특화된 고유 지위입니다. 이 지위는 식물과 관련된 작업 속도를 높여주며, 주변 동료들의 재배 능력을 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 식물과 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_PlantSpecialist.description>
+  
+  <IdeoRole_ProductionSpecialist.label>생산 전문가</IdeoRole_ProductionSpecialist.label>
+  <IdeoRole_ProductionSpecialist.description>제작과 건설에 특화된 고유 지위입니다. 이 지위는 제작과 건설 효율을 높여주며, 주변 동료들의 생산 능력을 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 생산과 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_ProductionSpecialist.description>
+  
+  <IdeoRole_ResearchSpecialist.label>연구 전문가</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ResearchSpecialist.description>연구에 특화된 고유 지위입니다. 이 지위는 연구 및 해킹 속도를 높여주며, 주변 동료들의 연구 능력을 향상시키는 능력을 부여합니다. 이 지위를 소유한 자는 연구와 관련되지 않은 작업 일부를 거부할 것입니다.</IdeoRole_ResearchSpecialist.description>
+  
+  <IdeoRole_ShootingSpecialist.label>shooting specialist</IdeoRole_ShootingSpecialist.label>
+  <IdeoRole_ShootingSpecialist.description>A special ideoligious status focusing on ranged combat to the exclusion of all else. This specialized role gives increased accuracy and the ability to boost the shooting abilities of nearby allies. Holders of this role will refuse to do many kinds of non-shooting-related work.</IdeoRole_ShootingSpecialist.description>
 </LanguageData>
