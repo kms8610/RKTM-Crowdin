@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CureAbasia.label>anti-abasia mechanite infusion</CureAbasia.label>
-  <CureAbasia.description>This special medical operation uses a massive dose of mechanites to saturate brain tissue and execute a coordinated restructure of neural activity without damaging the brain. It permanently cures a patient's abasia-induced paralysis, but consumes a large amount of glitterworld medicine.</CureAbasia.description>
-  <CureAbasia.jobString>Infusing anti-abasia mechanites.</CureAbasia.jobString>
-  <CureAbasia.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s paralytic abasia.</CureAbasia.successfullyRemovedHediffMessage>
+  <AcidBurn.label>acid burn</AcidBurn.label>
+  <AcidBurn.description>An acid burn.</AcidBurn.description>
+  <AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>tended</AcidBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>bandaged</AcidBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>tended</AcidBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>acid burn scar</AcidBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <AcidBurn.injuryProps.destroyedLabel>Dissolved off</AcidBurn.injuryProps.destroyedLabel>
+  <AcidBurn.injuryProps.destroyedOutLabel>Dissolved</AcidBurn.injuryProps.destroyedOutLabel>
+  <AcidBurn.labelNoun>an acid burn</AcidBurn.labelNoun>
+  <AcidBurn.labelNounPretty>{0} in the {1}</AcidBurn.labelNounPretty>
   
-  <CureBloodRot.label>cure blood rot</CureBloodRot.label>
-  <CureBloodRot.description>This special medical operation cures blood rot by a massive infusion of bacteriophage mechanites.</CureBloodRot.description>
-  <CureBloodRot.jobString>Curing blood rot.</CureBloodRot.jobString>
-  <CureBloodRot.successfullyRemovedHediffMessage>{0} has successfully cured {1}'s blood rot.</CureBloodRot.successfullyRemovedHediffMessage>
+  <BloodfeederMark.label>bloodfeeder mark</BloodfeederMark.label>
+  <BloodfeederMark.description>Two small puncture wounds.</BloodfeederMark.description>
+  <BloodfeederMark.labelNoun>a bloodfeeder mark</BloodfeederMark.labelNoun>
+  
+  <ImplantedIUD.label>implanted IUD</ImplantedIUD.label>
+  <ImplantedIUD.description>A small metal device has been implanted in this individual's uterus, preventing pregnancy. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</ImplantedIUD.description>
+  
+  <ToxGasExposure.label>tox gas</ToxGasExposure.label>
+  <ToxGasExposure.description>Aftereffects of exposure to tox gas, a poisonous chemical gas. It burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup and eventually death.</ToxGasExposure.description>
+  <ToxGasExposure.stages.mild.label>mild</ToxGasExposure.stages.mild.label>
+  <ToxGasExposure.stages.moderate.label>moderate</ToxGasExposure.stages.moderate.label>
+  <ToxGasExposure.stages.severe.label>severe</ToxGasExposure.stages.severe.label>
+  
+  <TubalLigation.label>tubal ligation</TubalLigation.label>
+  <TubalLigation.description>This individual's reproductive parts have been shut down by closing off the fallopian tubes, preventing ova from traveling from the ovary to the uterus.</TubalLigation.description>
+  
+  <Vasectomy.label>vasectomy</Vasectomy.label>
+  <Vasectomy.description>This creature's reproductive parts have been disabled by cutting and sealing the vas deferens, a tube which carries sperm to the urethra. This can be surgically reversed in most cases, but there is a chance of permanent sterilization.</Vasectomy.description>
 </LanguageData>
