@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AcidBurn.label>crwdns421278:0crwdne421278:0</AcidBurn.label>
-  <AcidBurn.deathMessage>crwdns421280:0{0}crwdne421280:0</AcidBurn.deathMessage>
+  <Bomb.label>crwdns456590:0crwdne456590:0</Bomb.label>
+  <Bomb.deathMessage>crwdns456592:0{0}crwdne456592:0</Bomb.deathMessage>
   
-  <Beam.label>crwdns421282:0crwdne421282:0</Beam.label>
-  <Beam.deathMessage>crwdns421284:0{0}crwdne421284:0</Beam.deathMessage>
+  <BombSuper.label>crwdns456594:0crwdne456594:0</BombSuper.label>
+  <BombSuper.deathMessage>crwdns456596:0{0}crwdne456596:0</BombSuper.deathMessage>
   
-  <ToxGas.label>crwdns421286:0crwdne421286:0</ToxGas.label>
-  <ToxGas.deathMessage>crwdns421288:0{0}crwdne421288:0</ToxGas.deathMessage>
+  <Deterioration.label>crwdns456598:0crwdne456598:0</Deterioration.label>
+  <Deterioration.deathMessage>crwdns456600:0{0}crwdne456600:0</Deterioration.deathMessage>
   
-  <Vaporize.label>crwdns421290:0crwdne421290:0</Vaporize.label>
-  <Vaporize.deathMessage>crwdns421292:0{0}crwdne421292:0</Vaporize.deathMessage>
+  <Extinguish.label>crwdns456602:0crwdne456602:0</Extinguish.label>
+  <Extinguish.deathMessage>crwdns456604:0{0}crwdne456604:0</Extinguish.deathMessage>
+  
+  <Mining.label>crwdns456606:0crwdne456606:0</Mining.label>
+  <Mining.deathMessage>crwdns456608:0{0}crwdne456608:0</Mining.deathMessage>
+  
+  <Rotting.label>crwdns456610:0crwdne456610:0</Rotting.label>
+  <Rotting.deathMessage>crwdns456612:0{0}crwdne456612:0</Rotting.deathMessage>
+  
+  <Smoke.label>crwdns456614:0crwdne456614:0</Smoke.label>
+  <Smoke.deathMessage>crwdns456616:0{0}crwdne456616:0</Smoke.deathMessage>
+  
+  <Thump.label>crwdns456618:0crwdne456618:0</Thump.label>
+  <Thump.deathMessage>crwdns456620:0{0}crwdne456620:0</Thump.deathMessage>
 </LanguageData>
