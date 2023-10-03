@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CrashedShipPartIncoming.label>함선 잔해 (접근 중)</CrashedShipPartIncoming.label>
-  
-  <DropPodIncoming.label>수송 포드 (접근 중)</DropPodIncoming.label>
-  
-  <DropPodIncomingMechanoid.label>수송 포드 (접근 중)</DropPodIncomingMechanoid.label>
-  
-  <DropPodLeaving.label>수송 포드 (떠나는 중)</DropPodLeaving.label>
-  
-  <MeteoriteIncoming.label>운석 (접근 중)</MeteoriteIncoming.label>
-  
-  <ShipChunkIncoming.label>우주선 파편 (접근 중)</ShipChunkIncoming.label>
-  
-  <ShuttleCrashing.label>왕복선 (추락 중)</ShuttleCrashing.label>
+  <ShuttleCrashing_Mechanitor.label>메카나이터 함선 (추락 중)</ShuttleCrashing_Mechanitor.label>
+  <ShuttleCrashing_Mechanitor.description>메카나이터가 저궤도 또는 행성간 이동을 할 때 사용되는 메카노이드 운반용 단거리 함선입니다.</ShuttleCrashing_Mechanitor.description>
 </LanguageData>
