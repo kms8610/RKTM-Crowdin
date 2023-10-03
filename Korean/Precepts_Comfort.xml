@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SlabBed_Preferred.stages.slept_on_slab_bed.label>딱딱한 침대 위에서 잠</SlabBed_Preferred.stages.slept_on_slab_bed.label>
-  <SlabBed_Preferred.stages.slept_on_slab_bed.description>잠자리는 불편했지만 내 믿음을 증명했어.</SlabBed_Preferred.stages.slept_on_slab_bed.description>
+  <Comfort.label>편안</Comfort.label>
+  
+  <SlabBed.label>딱딱한 침대</SlabBed.label>
 </LanguageData>
