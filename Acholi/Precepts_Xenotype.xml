@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PreferredXenotype.label>crwdns424886:0crwdne424886:0</PreferredXenotype.label>
-  <PreferredXenotype.description>crwdns424888:0crwdne424888:0</PreferredXenotype.description>
-  <PreferredXenotype.comps.0.description>crwdns424890:0crwdne424890:0</PreferredXenotype.comps.0.description>
-  <PreferredXenotype.comps.1.thoughtStageDescriptions.0>crwdns424892:0crwdne424892:0</PreferredXenotype.comps.1.thoughtStageDescriptions.0>
-  <PreferredXenotype.comps.1.thoughtStageDescriptions.1>crwdns424894:0crwdne424894:0</PreferredXenotype.comps.1.thoughtStageDescriptions.1>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.0>crwdns424896:0crwdne424896:0</PreferredXenotype.comps.2.thoughtStageDescriptions.0>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.1>crwdns424898:0crwdne424898:0</PreferredXenotype.comps.2.thoughtStageDescriptions.1>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.2>crwdns424900:0crwdne424900:0</PreferredXenotype.comps.2.thoughtStageDescriptions.2>
-  <PreferredXenotype.comps.2.thoughtStageDescriptions.3>crwdns424902:0crwdne424902:0</PreferredXenotype.comps.2.thoughtStageDescriptions.3>
+  <PreferredXenotype.stages.preferred_xenotype.label>crwdns428064:0crwdne428064:0</PreferredXenotype.stages.preferred_xenotype.label>
+  <PreferredXenotype.stages.disliked_xenotype.label>crwdns428066:0crwdne428066:0</PreferredXenotype.stages.disliked_xenotype.label>
+  
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>crwdns428068:0crwdne428068:0</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>crwdns428070:0crwdne428070:0</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>crwdns428072:0crwdne428072:0</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>crwdns428074:0crwdne428074:0</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>crwdns428076:0crwdne428076:0</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>crwdns428078:0crwdne428078:0</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>crwdns428080:0crwdne428080:0</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
+  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>crwdns428082:0crwdne428082:0</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
+  
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>crwdns428084:0crwdne428084:0</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
+  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>crwdns428086:0{XENOTYPENAME}crwdne428086:0</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
 </LanguageData>
