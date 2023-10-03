@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ControlSublink.label>crwdns427398:0crwdne427398:0</ControlSublink.label>
-  <ControlSublink.description>crwdns427400:0crwdne427400:0</ControlSublink.description>
-  <ControlSublink.comps.CompUsableImplant.useLabel>crwdns427402:0crwdne427402:0</ControlSublink.comps.CompUsableImplant.useLabel>
+  <RemoteRepair.label>crwdns420982:0crwdne420982:0</RemoteRepair.label>
+  <RemoteRepair.description>crwdns420984:0crwdne420984:0</RemoteRepair.description>
   
-  <ControlSublinkHigh.label>crwdns427404:0crwdne427404:0</ControlSublinkHigh.label>
-  <ControlSublinkHigh.description>crwdns427406:0crwdne427406:0</ControlSublinkHigh.description>
-  <ControlSublinkHigh.comps.CompUsableImplant.useLabel>crwdns427408:0crwdne427408:0</ControlSublinkHigh.comps.CompUsableImplant.useLabel>
-  
-  <MechFormfeeder.label>crwdns427410:0crwdne427410:0</MechFormfeeder.label>
-  <MechFormfeeder.description>crwdns427412:0crwdne427412:0</MechFormfeeder.description>
-  <MechFormfeeder.comps.CompUsableImplant.useLabel>crwdns427414:0{0_label}crwdne427414:0</MechFormfeeder.comps.CompUsableImplant.useLabel>
-  
-  <Mechlink.label>crwdns427416:0crwdne427416:0</Mechlink.label>
-  <Mechlink.description>crwdns427418:0crwdne427418:0</Mechlink.description>
-  <Mechlink.comps.CompUsableImplant.useLabel>crwdns427420:0{0_label}crwdne427420:0</Mechlink.comps.CompUsableImplant.useLabel>
-  
-  <RemoteRepairer.label>crwdns427422:0crwdne427422:0</RemoteRepairer.label>
-  <RemoteRepairer.description>crwdns427424:0crwdne427424:0</RemoteRepairer.description>
-  <RemoteRepairer.comps.CompUsableImplant.useLabel>crwdns427426:0{0_label}crwdne427426:0</RemoteRepairer.comps.CompUsableImplant.useLabel>
-  
-  <RemoteShielder.label>crwdns427428:0crwdne427428:0</RemoteShielder.label>
-  <RemoteShielder.description>crwdns427430:0crwdne427430:0</RemoteShielder.description>
-  <RemoteShielder.comps.CompUsableImplant.useLabel>crwdns427432:0{0_label}crwdne427432:0</RemoteShielder.comps.CompUsableImplant.useLabel>
-  
-  <RepairProbe.label>crwdns427434:0crwdne427434:0</RepairProbe.label>
-  <RepairProbe.description>crwdns427436:0crwdne427436:0</RepairProbe.description>
-  <RepairProbe.comps.CompUsableImplant.useLabel>crwdns427438:0{0_label}crwdne427438:0</RepairProbe.comps.CompUsableImplant.useLabel>
+  <RemoteShield.label>crwdns420986:0crwdne420986:0</RemoteShield.label>
+  <RemoteShield.description>crwdns420988:0crwdne420988:0</RemoteShield.description>
 </LanguageData>
