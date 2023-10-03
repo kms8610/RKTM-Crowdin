@@ -1,11 +1,196 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <RoyalFavorTip>crwdns450068:0{0}crwdnd450068:0{1}crwdnd450068:0{2}crwdnd450068:0{3_name}crwdnd450068:0{2}crwdnd450068:0{0}crwdne450068:0</RoyalFavorTip>
-  
-  <!-- Work tab -->
-  <WorkDisabledByRoyalTitle>crwdns450070:0{0}crwdne450070:0</WorkDisabledByRoyalTitle>
 
-  <SpacedroneSelfDestructsIn>crwdns450072:0{0}crwdne450072:0</SpacedroneSelfDestructsIn>
+  <!-- Work tab -->
+  <ManualPriorities>crwdns482074:0crwdne482074:0</ManualPriorities>
+  <HigherPriority>crwdns482076:0crwdne482076:0</HigherPriority>
+  <LowerPriority>crwdns482078:0crwdne482078:0</LowerPriority>
+  <RelevantSkills>crwdns482080:0{0}crwdnd482080:0{1}crwdne482080:0</RelevantSkills>
+  <ClickToJumpTo>crwdns482082:0crwdne482082:0</ClickToJumpTo>
+  <CannotDoThisWork>crwdns482084:0{1_labelShort}crwdne482084:0</CannotDoThisWork>
+  <NoneBrackets>crwdns482086:0crwdne482086:0</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>crwdns482088:0crwdne482088:0</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>crwdns482090:0crwdne482090:0</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>crwdns482092:0crwdne482092:0</SelectedWorkTypeWithVeryBadSkill>
+  <PriorityOneDoneFirst>crwdns482094:0crwdne482094:0</PriorityOneDoneFirst>
+  <Priority0>crwdns482096:0crwdne482096:0</Priority0>
+  <Priority1>crwdns482098:0crwdne482098:0</Priority1>
+  <Priority2>crwdns482100:0crwdne482100:0</Priority2>
+  <Priority3>crwdns482102:0crwdne482102:0</Priority3>
+  <Priority4>crwdns482104:0crwdne482104:0</Priority4>
+  <PawnFactionInfo>crwdns482106:0{0}crwdnd482106:0{1_nameDef}crwdne482106:0</PawnFactionInfo>
+  <WorkDisabledByBackstory>crwdns482108:0{0}crwdne482108:0</WorkDisabledByBackstory>
+  <WorkDisabledByTrait>crwdns482110:0{0}crwdne482110:0</WorkDisabledByTrait>
+  <WorkDisabledByQuest>crwdns482112:0{0}crwdne482112:0</WorkDisabledByQuest>
+  
+  <!-- Assign tab -->
+  <ManageOutfits>crwdns482114:0crwdne482114:0</ManageOutfits>
+  <Unchangeable>crwdns482116:0crwdne482116:0</Unchangeable>
+  <ClearForcedApparel>crwdns482118:0crwdne482118:0</ClearForcedApparel>
+  <ApparelForcedLower>crwdns482120:0crwdne482120:0</ApparelForcedLower>
+  <ApparelLockedLower>crwdns482122:0crwdne482122:0</ApparelLockedLower>
+  <ForcedApparel>crwdns482124:0crwdne482124:0</ForcedApparel>
+  <AssignTabEdit>crwdns482126:0crwdne482126:0</AssignTabEdit>
+  <ManageDrugPolicies>crwdns482128:0crwdne482128:0</ManageDrugPolicies>
+  <ManageFoodRestrictions>crwdns482130:0crwdne482130:0</ManageFoodRestrictions>
+  
+  <!-- Restrictions tab -->
+  <Copy>crwdns482132:0crwdne482132:0</Copy>
+  <Paste>crwdns482134:0crwdne482134:0</Paste>
+  <AllowedArea>crwdns482136:0crwdne482136:0</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>crwdns482138:0crwdne482138:0</Master>
+  <PregnantIconDesc>crwdns482140:0{0}crwdnd482140:0{1}crwdne482140:0</PregnantIconDesc>
+  <BondedTo>crwdns482142:0crwdne482142:0</BondedTo>
+  <SterilizeAnimal>crwdns482144:0crwdne482144:0</SterilizeAnimal>
+  <AnimalAlreadySterile>crwdns482146:0crwdne482146:0</AnimalAlreadySterile>
+  
+  <!-- Wildlife tab -->
+  <IsPredator>crwdns482148:0crwdne482148:0</IsPredator>
+  <IsInMentalState>crwdns482150:0{0}crwdne482150:0</IsInMentalState>
+  
+  <!-- Factions tab -->
+  <Hostile>crwdns482152:0crwdne482152:0</Hostile>
+  <Ally>crwdns482154:0crwdne482154:0</Ally>
+  <HostileLower>crwdns482156:0crwdne482156:0</HostileLower>
+  <AllyLower>crwdns482158:0crwdne482158:0</AllyLower>
+  <DefeatedLower>crwdns482160:0crwdne482160:0</DefeatedLower>
+  <HostileTo>crwdns482162:0{0}crwdne482162:0</HostileTo>
+  <EnemyOf>crwdns482164:0crwdne482164:0</EnemyOf>
+  <RecentEvents>crwdns482166:0crwdne482166:0</RecentEvents>
+  <OngoingEvents>crwdns482168:0crwdne482168:0</OngoingEvents>
+  <CurrentGoodwillTip_PermanentEnemy>crwdns482170:0crwdne482170:0</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>crwdns482172:0{0}crwdne482172:0</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>crwdns482174:0{0}crwdnd482174:0{1}crwdne482174:0</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>crwdns482176:0{0}crwdne482176:0</CurrentGoodwillTip_Hostile>
+
+  <!-- Social tab -->
+  <Friend>crwdns482178:0crwdne482178:0</Friend>
+  <Rival>crwdns482180:0crwdne482180:0</Rival>
+  <Acquaintance>crwdns482182:0crwdne482182:0</Acquaintance>
+  
+  <!-- History tab - subtabs -->
+  <Graph>crwdns482184:0crwdne482184:0</Graph>
+  <Messages>crwdns482186:0crwdne482186:0</Messages>
+  <Statistics>crwdns482188:0crwdne482188:0</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <SelectGraph>crwdns482190:0crwdne482190:0</SelectGraph>
+  <Last30Days>crwdns482192:0crwdne482192:0</Last30Days>
+  <Last100Days>crwdns482194:0crwdne482194:0</Last100Days>
+  <Last300Days>crwdns482196:0crwdne482196:0</Last300Days>
+  <AllDays>crwdns482198:0crwdne482198:0</AllDays>
+  <Value>crwdns482200:0crwdne482200:0</Value>
+  <External>crwdns482202:0crwdne482202:0</External>
+
+  <!-- History tab - Messages -->
+  <ShowLetters>crwdns482204:0crwdne482204:0</ShowLetters>
+  <ShowMessages>crwdns482206:0crwdne482206:0</ShowMessages>
+  <PinArchivableTip>crwdns482208:0{0}crwdne482208:0</PinArchivableTip>
+  <NoMessages>crwdns482210:0crwdne482210:0</NoMessages>
+
+  <!-- History tab - Statistics -->
+  <Playtime>crwdns482212:0crwdne482212:0</Playtime>
+  <Storyteller>crwdns482214:0crwdne482214:0</Storyteller>
+  <ThisMapColonyWealthTotal>crwdns482216:0crwdne482216:0</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>crwdns482218:0crwdne482218:0</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>crwdns482220:0crwdne482220:0</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthColonistsAndTameAnimals>crwdns482222:0crwdne482222:0</ThisMapColonyWealthColonistsAndTameAnimals>
+  <NumThreatBigs>crwdns482224:0crwdne482224:0</NumThreatBigs>
+  <NumEnemyRaids>crwdns482226:0crwdne482226:0</NumEnemyRaids>
+  <ThisMapDamageTaken>crwdns482228:0crwdne482228:0</ThisMapDamageTaken>
+  <ColonistsKilled>crwdns482230:0crwdne482230:0</ColonistsKilled>
+  <ColonistsLaunched>crwdns482232:0crwdne482232:0</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <Research>crwdns482234:0crwdne482234:0</Research>
+  <Study>crwdns482236:0crwdne482236:0</Study>
+  <StudyThing>crwdns482238:0{0}crwdne482238:0</StudyThing>
+  <Unresearched>crwdns482240:0crwdne482240:0</Unresearched>
+  <Finished>crwdns482242:0crwdne482242:0</Finished>
+  <InProgress>crwdns482244:0crwdne482244:0</InProgress>
+  <Locked>crwdns482246:0crwdne482246:0</Locked>
+  <ResearchPrerequisites>crwdns482248:0crwdne482248:0</ResearchPrerequisites>
+  <ResearchTechprintRequirement>crwdns482250:0{0}crwdnd482250:0{1}crwdne482250:0</ResearchTechprintRequirement>
+  <InsufficientTechprintsApplied>crwdns482252:0{0}crwdnd482252:0{1}crwdne482252:0</InsufficientTechprintsApplied>
+  <PrerequisitesNotCompleted>crwdns482254:0crwdne482254:0</PrerequisitesNotCompleted>
+  <MissingRequiredResearchFacilities>crwdns482256:0crwdne482256:0</MissingRequiredResearchFacilities>
+  <RequiredResearchBench>crwdns482258:0crwdne482258:0</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>crwdns482260:0crwdne482260:0</RequiredResearchBenchFacilities>
+  <ResearchCostComparison>crwdns482262:0{0}crwdnd482262:0{1}crwdne482262:0</ResearchCostComparison>
+  <ResearchTechprintsFromFactions>crwdns482264:0crwdne482264:0</ResearchTechprintsFromFactions>
+  <TechLevelTooLow>crwdns482266:0{0}crwdnd482266:0{1}crwdnd482266:0{2}crwdne482266:0</TechLevelTooLow>
+  <UnlockedWith>crwdns482268:0crwdne482268:0</UnlockedWith>
+
+  <!-- Factions tab -->
+  <FactionsTab>crwdns482270:0crwdne482270:0</FactionsTab>
+  <NoFactions>crwdns482272:0crwdne482272:0</NoFactions>
+
+  <!-- Quests tab -->
+  <AvailableQuests>crwdns482274:0crwdne482274:0</AvailableQuests>
+  <ActiveQuests>crwdns482276:0crwdne482276:0</ActiveQuests>
+  <HistoricalQuests>crwdns482278:0crwdne482278:0</HistoricalQuests>
+  <NoQuestSelected>crwdns482280:0crwdne482280:0</NoQuestSelected>
+  <AppearedDaysAgo>crwdns482282:0{0}crwdne482282:0</AppearedDaysAgo>
+  <AppearedOn>crwdns482284:0{0}crwdne482284:0</AppearedOn>
+  <AcceptedAgo>crwdns482286:0{0}crwdne482286:0</AcceptedAgo>
+  <AcceptedOn>crwdns482288:0{0}crwdne482288:0</AcceptedOn>
+  <AcceptedAgoBy>crwdns482290:0{0}crwdnd482290:0{1}crwdne482290:0</AcceptedAgoBy>
+  <AcceptedOnBy>crwdns482292:0{0}crwdnd482292:0{1}crwdne482292:0</AcceptedOnBy>
+  <QuestExpiresIn>crwdns482294:0{0}crwdne482294:0</QuestExpiresIn>
+  <QuestExpiresOn>crwdns482296:0{0}crwdne482296:0</QuestExpiresOn>
+  <QuestAveragePawnMood>crwdns482298:0{0}crwdnd482298:0{1}crwdne482298:0</QuestAveragePawnMood>
+  <QuestAveragePawnMoodTargets>crwdns482300:0{0}crwdnd482300:0{1}crwdne482300:0</QuestAveragePawnMoodTargets>
+  <ShuttleArrivesIn>crwdns482302:0{0}crwdne482302:0</ShuttleArrivesIn>
+  <ShuttleArrivesOn>crwdns482304:0{0}crwdne482304:0</ShuttleArrivesOn>
+  <ShuttleDepartsIn>crwdns482306:0{0}crwdne482306:0</ShuttleDepartsIn>
+  <ShuttleDepartsOn>crwdns482308:0{0}crwdne482308:0</ShuttleDepartsOn>
+  <GuestsDepartsIn>crwdns482310:0{0}crwdne482310:0</GuestsDepartsIn>
+  <GuestsDepartsOn>crwdns482312:0{0}crwdne482312:0</GuestsDepartsOn>
+  <QuestFinishedAgo>crwdns482314:0{0}crwdne482314:0</QuestFinishedAgo>
+  <AcceptQuest>crwdns482316:0crwdne482316:0</AcceptQuest>
+  <AcceptWith>crwdns482318:0{0_labelShort}crwdne482318:0</AcceptWith>
+  <AcceptQuestFor>crwdns482320:0crwdne482320:0</AcceptQuestFor>
+  <AcceptQuestForTip>crwdns482322:0crwdne482322:0</AcceptQuestForTip>
+  <QuestOutcomeInfo_OfferExpired>crwdns482324:0crwdne482324:0</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_UnknownOrSuccess>crwdns482326:0crwdne482326:0</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_Failed>crwdns482328:0crwdne482328:0</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Invalid>crwdns482330:0crwdne482330:0</QuestOutcomeInfo_Invalid>
+  <JumpToTargetCustom>crwdns482332:0{0}crwdne482332:0</JumpToTargetCustom>
+  <SelectHiveTargets>crwdns482334:0crwdne482334:0</SelectHiveTargets>
+  <QuestChallengeRatingTip>crwdns482336:0crwdne482336:0</QuestChallengeRatingTip>
+  <QuestAcceptanceRequirementsDescription>crwdns482338:0crwdne482338:0</QuestAcceptanceRequirementsDescription>
+  <QuestBedroomRequirementsUnsatisfied>crwdns482340:0crwdne482340:0</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfiedSingle>crwdns482342:0crwdne482342:0</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestThroneRoomRequirementsUnsatisfied>crwdns482344:0{PAWN_definite}crwdnd482344:0{TITLE}crwdne482344:0</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestNoThroneRoom>crwdns482346:0{PAWN_definite}crwdne482346:0</QuestNoThroneRoom>
+  <QuestNoColonistWithTitle>crwdns482348:0{0}crwdne482348:0</QuestNoColonistWithTitle>
+  <QuestPawnNotOnColonyMap>crwdns482350:0{PAWN_definite}crwdne482350:0</QuestPawnNotOnColonyMap>
+  <QuestRequiresNoDangerOnMap>crwdns482352:0crwdne482352:0</QuestRequiresNoDangerOnMap>
+  <QuestCanNotStartUntilBestowingCeremonyFinished>crwdns482354:0crwdne482354:0</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <ChooseRewards>crwdns482356:0crwdne482356:0</ChooseRewards>
+  <ChooseRewardsDesc>crwdns482358:0crwdne482358:0</ChooseRewardsDesc>
+  <AcceptRoyalFavor>crwdns482360:0{FACTION_royalFavorLabel}crwdne482360:0</AcceptRoyalFavor>
+  <AcceptRoyalFavorDesc>crwdns482362:0{FACTION_royalFavorLabel}crwdnd482362:0{FACTION_name}crwdnd482362:0{FACTION_name}crwdne482362:0</AcceptRoyalFavorDesc>
+  <AcceptGoodwill>crwdns482364:0crwdne482364:0</AcceptGoodwill>
+  <AcceptGoodwillDesc>crwdns482366:0{FACTION_name}crwdnd482366:0{FACTION_name}crwdne482366:0</AcceptGoodwillDesc>
+  <RoyalFavorOn>crwdns482368:0{FACTION_royalFavorLabel}crwdne482368:0</RoyalFavorOn>
+  <RoyalFavorOff>crwdns482370:0{FACTION_royalFavorLabel}crwdne482370:0</RoyalFavorOff>
+  <GoodwillTip>crwdns482372:0{0_name}crwdnd482372:0{1}crwdnd482372:0{4}crwdnd482372:0{5}crwdnd482372:0{2}crwdnd482372:0{3}crwdne482372:0</GoodwillTip>
+  <PawnQuestReward>crwdns482374:0{0_labelShort}crwdne482374:0</PawnQuestReward>
+  <QuestBetrayalOffer>crwdns482376:0{0}crwdne482376:0</QuestBetrayalOffer>
+  <QuestBetrayalOfferTip>crwdns482378:0{0}crwdnd482378:0{1}crwdne482378:0</QuestBetrayalOfferTip>
+  <QuestRequiredPlayerWealth>crwdns482380:0{0}crwdne482380:0</QuestRequiredPlayerWealth>
+  <QuestAlliedTo>crwdns482382:0{0}crwdne482382:0</QuestAlliedTo>
+  <QuestHostileTo>crwdns482384:0{0}crwdne482384:0</QuestHostileTo>
+  <QuestNeutralTo>crwdns482386:0{0}crwdne482386:0</QuestNeutralTo>
+  <QuestRequiredThingStudied>crwdns482388:0{0_labelShort}crwdne482388:0</QuestRequiredThingStudied>
+
+  <!-- Health tab -->
+  <CreatesNeed>crwdns482390:0crwdne482390:0</CreatesNeed>
+
+  <!-- Misc -->
+  <ClickToEdit>crwdns482392:0crwdne482392:0</ClickToEdit>
 
 </LanguageData>
