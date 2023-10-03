@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Research.label>crwdns432324:0crwdne432324:0</Research.label>
+  <Research_ExtremelySlow.label>crwdns436766:0crwdne436766:0</Research_ExtremelySlow.label>
+  <Research_ExtremelySlow.description>crwdns436768:0crwdne436768:0</Research_ExtremelySlow.description>
+  
+  <Research_Fast.label>crwdns436770:0crwdne436770:0</Research_Fast.label>
+  <Research_Fast.description>crwdns436772:0crwdne436772:0</Research_Fast.description>
+  
+  <Research_None.label>crwdns436774:0crwdne436774:0</Research_None.label>
+  <Research_None.description>crwdns436776:0crwdne436776:0</Research_None.description>
+  
+  <Research_Normal.label>crwdns436778:0crwdne436778:0</Research_Normal.label>
+  <Research_Normal.description>crwdns436780:0crwdne436780:0</Research_Normal.description>
+  
+  <Research_Slow.label>crwdns436782:0crwdne436782:0</Research_Slow.label>
+  <Research_Slow.description>crwdns436784:0crwdne436784:0</Research_Slow.description>
+  
+  <Research_VeryFast.label>crwdns436786:0crwdne436786:0</Research_VeryFast.label>
+  <Research_VeryFast.description>crwdns436788:0crwdne436788:0</Research_VeryFast.description>
+  
+  <Research_VerySlow.label>crwdns436790:0crwdne436790:0</Research_VerySlow.label>
+  <Research_VerySlow.description>crwdns436792:0crwdne436792:0</Research_VerySlow.description>
 </LanguageData>
