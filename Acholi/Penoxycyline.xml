@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Penoxycyline.label>crwdns472872:0crwdne472872:0</Penoxycyline.label>
-  <Penoxycyline.description>crwdns472874:0crwdne472874:0</Penoxycyline.description>
-  <Penoxycyline.ingestible.ingestCommandString>crwdns472876:0{0}crwdne472876:0</Penoxycyline.ingestible.ingestCommandString>
-  <Penoxycyline.ingestible.ingestReportString>crwdns472878:0{0}crwdne472878:0</Penoxycyline.ingestible.ingestReportString>
+  <PenoxycylineHigh.label>crwdns458256:0crwdne458256:0</PenoxycylineHigh.label>
+  <PenoxycylineHigh.description>crwdns458258:0crwdne458258:0</PenoxycylineHigh.description>
 </LanguageData>
