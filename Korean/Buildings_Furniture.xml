@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalBed.label>동물 침대</AnimalBed.label>
-  <AnimalBed.description>동물이 잘 수 있는 부드러운 침대입니다. 모든 크기의 동물에게 적합합니다.</AnimalBed.description>
+  <AnimalBed.label>animal bed</AnimalBed.label>
+  <AnimalBed.description>A soft bed for animals to sleep on. Fits any animal.</AnimalBed.description>
   
-  <AnimalSleepingBox.label>동물 상자</AnimalSleepingBox.label>
-  <AnimalSleepingBox.description>작은 동물이 잘 수 있는 상자입니다. 닭, 고양이, 작은 개까지 들어갈 수 있습니다.</AnimalSleepingBox.description>
+  <AnimalSleepingBox.label>animal sleeping box</AnimalSleepingBox.label>
+  <AnimalSleepingBox.description>A small box for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs.</AnimalSleepingBox.description>
   
-  <AnimalSleepingSpot.label>동물 잠자리</AnimalSleepingSpot.label>
-  <AnimalSleepingSpot.description>동물이 잠을 청할 위치를 지정합니다.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.label>animal sleeping spot</AnimalSleepingSpot.label>
+  <AnimalSleepingSpot.description>Designates a spot on the ground where animals should sleep.</AnimalSleepingSpot.description>
   
-  <Armchair.label>팔걸이 의자</Armchair.label>
-  <Armchair.description>커다랗고 부드럽고 편안한 의자입니다. 휴식하기에 좋습니다.</Armchair.description>
+  <Armchair.label>armchair</Armchair.label>
+  <Armchair.description>A large, soft, comfy seat. Great for relaxation. Can be used at tables, work stations, and elsewhere.</Armchair.description>
   
-  <Bed.label>베드</Bed.label>
-  <Bed.description>아늑한 매트리스와 천으로 덮여있는 침대입니다.</Bed.description>
+  <Bed.label>bed</Bed.label>
+  <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>
   
-  <Bedroll.label>침낭</Bedroll.label>
-  <Bedroll.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대입니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</Bedroll.description>
+  <Bedroll.label>bedroll</Bedroll.label>
+  <Bedroll.description>A simple bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</Bedroll.description>
   
-  <BedrollDouble.label>큰 침낭</BedrollDouble.label>
-  <BedrollDouble.description>천이나 가죽으로 만들어 바닥에 놓는 간단한 침대로, 두 명까지 사용할 수 있습니다. 가볍고, 말아서 쉽게 운반할 수 있지만 고정식 침대처럼 편하진 않습니다.</BedrollDouble.description>
+  <BedrollDouble.label>double bedroll</BedrollDouble.label>
+  <BedrollDouble.description>A simple double-wide bed that lays on the floor, usually made of cloth or leather, often lined with fur. It is lightweight and can be rolled up for easy transport, but it is not quite as comfortable as a typical bed. Caravans can use bedrolls while traveling for better sleep.</BedrollDouble.description>
   
-  <DiningChair.label>식탁 의자</DiningChair.label>
-  <DiningChair.description>사람들이 앉을 수 있는 편안하고 매력적인 의자입니다.</DiningChair.description>
+  <DiningChair.label>dining chair</DiningChair.label>
+  <DiningChair.description>A comfortable and attractive chair. Can be used at tables, work stations, and elsewhere.</DiningChair.description>
   
-  <DoubleBed.label>큰 침대</DoubleBed.label>
-  <DoubleBed.description>간단한 2인용 침대입니다.</DoubleBed.description>
+  <DoubleBed.label>double bed</DoubleBed.label>
+  <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>
   
-  <DoubleSleepingSpot.label>큰 잠자리</DoubleSleepingSpot.label>
-  <DoubleSleepingSpot.description>바닥에 두명이 함께 잠을 청할 위치를 정합니다. 불편합니다.</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.label>double sleeping spot</DoubleSleepingSpot.label>
+  <DoubleSleepingSpot.description>Designates a spot on the ground where two people should sleep together. Not comfortable.</DoubleSleepingSpot.description>
   
-  <Dresser.label>옷장</Dresser.label>
-  <Dresser.description>주위 모든 침대의 편안함을 개선합니다. 한 침대는 옷장 하나의 영향만 받습니다.</Dresser.description>
+  <Dresser.label>dresser</Dresser.label>
+  <Dresser.description>A dresser. Gives a small comfort bonus to all nearby beds. Placing more than one dresser near the same bed has no effect.</Dresser.description>
   
-  <EndTable.label>협탁</EndTable.label>
-  <EndTable.description>다른 가구 옆에 배치하는 작은 탁자입니다. 근처 침대의 머리맡에 붙여서 배치하면 편안함을 개선합니다. 한 침대는 협탁 하나의 영향만 받습니다.</EndTable.description>
+  <EndTable.label>end table</EndTable.label>
+  <EndTable.description>A small bedside table which makes nearby beds a little bit more comfortable. Must be placed directly adjacent to the head of the bed. Placing more than one end table near the same bed has no effect.</EndTable.description>
   
-  <HospitalBed.label>회복 침대</HospitalBed.label>
-  <HospitalBed.description>부상자들을 위한 특별한 침대입니다. 치료와 수술의 질을 높입니다.</HospitalBed.description>
+  <HospitalBed.label>hospital bed</HospitalBed.label>
+  <HospitalBed.description>A bed specially designed for use in hospitals. Adjustable for a patient and festooned with built-in equipment, it improves medical outcomes over normal beds.</HospitalBed.description>
   
-  <PlantPot.label>화분</PlantPot.label>
-  <PlantPot.description>꽃으로 주변 사람들의 기분을 좋게 만듭니다.</PlantPot.description>
+  <PlantPot.label>plant pot</PlantPot.label>
+  <PlantPot.description>Plant decorative flowers here to improve the mood of people nearby.</PlantPot.description>
   
-  <RoyalBed.label>고급 침대</RoyalBed.label>
-  <RoyalBed.description>금으로 장식까지 한, 높으신 분들을 위한 호화로운 침대입니다. 매우 편하고 두 명까지 누울 수 있습니다.</RoyalBed.description>
+  <RoyalBed.label>royal bed</RoyalBed.label>
+  <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful, it is a work of art in itself. Fits two.</RoyalBed.description>
   
-  <Shelf.label>선반</Shelf.label>
-  <Shelf.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</Shelf.description>
+  <Shelf.label>shelf</Shelf.label>
+  <Shelf.description>A triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</Shelf.description>
   
-  <ShelfSmall.label>소형 선반</ShelfSmall.label>
-  <ShelfSmall.description>맨땅에 비해 세 배의 물건을 적재할 수 있는 삼중 소형 선반입니다. 선반에 보관한 물건은 절대 손상되지 않고 주변 미관에도 영향을 주지 않습니다.\n\n선반의 수납공간은 제한돼있으므로 바위 덩어리나 건물, 식물, 대형 시체 등은 보관할 수 없습니다.</ShelfSmall.description>
+  <ShelfSmall.label>small shelf</ShelfSmall.label>
+  <ShelfSmall.description>A small triple-stack shelf that holds three times as much as empty ground. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nSince shelf space is limited, shelves cannot hold chunks, buildings, plants and large corpses.</ShelfSmall.description>
   
-  <SleepingSpot.label>잠자리</SleepingSpot.label>
-  <SleepingSpot.description>바닥에 정착민들이 잠을 청할 위치를 정합니다. 불편합니다.</SleepingSpot.description>
+  <SleepingSpot.label>sleeping spot</SleepingSpot.label>
+  <SleepingSpot.description>Designates a spot on the ground where people should sleep. Not comfortable.</SleepingSpot.description>
   
-  <StandingLamp.label>스탠드 조명</StandingLamp.label>
-  <StandingLamp.description>주변을 밝게 비추는 일반적인 전등입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다.</StandingLamp.description>
+  <StandingLamp.label>standing lamp</StandingLamp.label>
+  <StandingLamp.description>An electrical standing lamp that lights an area. People need light to move and work at full speed.</StandingLamp.description>
   
-  <Stool.label>의자</Stool.label>
-  <Stool.description>앉을 수 있는 간단한 받침대입니다.</Stool.description>
+  <Stool.label>stool</Stool.label>
+  <Stool.description>A simple platform on which to sit. Not very comfortable, but much better than nothing. Can be used at tables, work stations, and elsewhere.</Stool.description>
   
-  <SunLamp.label>태양등</SunLamp.label>
-  <SunLamp.description>작물이 충분히 자랄 수 있도록 주변을 밝게 비춰줍니다. 밤에는 자동으로 꺼집니다.</SunLamp.description>
-  <SunLamp.comps.CompSchedule.offMessage>작물 휴식기에 꺼짐</SunLamp.comps.CompSchedule.offMessage>
+  <SunLamp.label>sun lamp</SunLamp.label>
+  <SunLamp.description>An industrial lamp which lights an area brightly enough to grow crops, but consumes a huge amount of power. Automatically turns itself off at night.</SunLamp.description>
+  <SunLamp.comps.CompSchedule.offMessage>Off for plant resting period</SunLamp.comps.CompSchedule.offMessage>
   
-  <Table1x2c.label>식탁 (1x2)</Table1x2c.label>
-  <Table1x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table1x2c.description>
+  <Table1x2c.label>table (1x2)</Table1x2c.label>
+  <Table1x2c.description>People eat off tables when chairs are placed facing them.</Table1x2c.description>
   
-  <Table2x2c.label>식탁 (2x2)</Table2x2c.label>
-  <Table2x2c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x2c.description>
+  <Table2x2c.label>table (2x2)</Table2x2c.label>
+  <Table2x2c.description>People eat off tables when chairs are placed facing them.</Table2x2c.description>
   
-  <Table2x4c.label>식탁 (2x4)</Table2x4c.label>
-  <Table2x4c.description>의자가 있으면 여기서 밥을 먹습니다.</Table2x4c.description>
+  <Table2x4c.label>table (2x4)</Table2x4c.label>
+  <Table2x4c.description>People eat off tables when chairs are placed facing them.</Table2x4c.description>
   
-  <Table3x3c.label>식탁 (3x3)</Table3x3c.label>
-  <Table3x3c.description>의자가 있으면 여기서 밥을 먹습니다.</Table3x3c.description>
+  <Table3x3c.label>table (3x3)</Table3x3c.label>
+  <Table3x3c.description>People eat off tables when chairs are placed facing them.</Table3x3c.description>
   
-  <TorchLamp.label>횃불</TorchLamp.label>
-  <TorchLamp.description>주변을 밝게 비추는 나무 횃불입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다. 나무를 자동으로 다시 넣을 수 있습니다. 약한 열을 발산합니다.</TorchLamp.description>
+  <TorchLamp.label>torch lamp</TorchLamp.label>
+  <TorchLamp.description>A wooden torch for lighting an area. People need light to move and work at full speed. Can be automatically refueled with wood. Produces a small amount of heat.</TorchLamp.description>
 </LanguageData>
