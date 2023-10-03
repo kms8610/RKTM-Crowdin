@@ -1,8 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BestowingCeremony.reportString>crwdns445780:0crwdne445780:0</BestowingCeremony.reportString>
+  <ActivateThing.reportString>crwdns459714:0crwdne459714:0</ActivateThing.reportString>
   
-  <LinkPsylinkable.reportString>crwdns445782:0crwdne445782:0</LinkPsylinkable.reportString>
+  <ApplyTechprint.reportString>crwdns459716:0crwdne459716:0</ApplyTechprint.reportString>
   
-  <Reign.reportString>crwdns445784:0crwdne445784:0</Reign.reportString>
+  <AttackMelee.reportString>crwdns459718:0crwdne459718:0</AttackMelee.reportString>
+  
+  <AttackStatic.reportString>crwdns459720:0crwdne459720:0</AttackStatic.reportString>
+  
+  <BeatFire.reportString>crwdns459722:0crwdne459722:0</BeatFire.reportString>
+  
+  <Carried.reportString>crwdns459724:0crwdne459724:0</Carried.reportString>
+  
+  <CastAbilityOnThing.reportString>crwdns459726:0crwdne459726:0</CastAbilityOnThing.reportString>
+  
+  <CastAbilityOnThingMelee.reportString>crwdns459728:0crwdne459728:0</CastAbilityOnThingMelee.reportString>
+  
+  <CastAbilityOnThingUninterruptible.reportString>crwdns459730:0crwdne459730:0</CastAbilityOnThingUninterruptible.reportString>
+  
+  <CastAbilityOnWorldTile.reportString>crwdns459732:0crwdne459732:0</CastAbilityOnWorldTile.reportString>
+  
+  <CastAbilityTouch.reportString>crwdns459734:0crwdne459734:0</CastAbilityTouch.reportString>
+  
+  <CastJump.reportString>crwdns459736:0crwdne459736:0</CastJump.reportString>
+  
+  <ClearSnow.reportString>crwdns459738:0crwdne459738:0</ClearSnow.reportString>
+  
+  <DeliverToBed.reportString>crwdns459740:0crwdne459740:0</DeliverToBed.reportString>
+  
+  <DeliverToCell.reportString>crwdns459742:0crwdne459742:0</DeliverToCell.reportString>
+  
+  <DropEquipment.reportString>crwdns459744:0crwdne459744:0</DropEquipment.reportString>
+  
+  <EmptyThingContainer.reportString>crwdns459746:0crwdne459746:0</EmptyThingContainer.reportString>
+  
+  <EnterCryptosleepCasket.reportString>crwdns459748:0crwdne459748:0</EnterCryptosleepCasket.reportString>
+  
+  <EnterTransporter.reportString>crwdns459750:0crwdne459750:0</EnterTransporter.reportString>
+  
+  <Equip.reportString>crwdns459752:0crwdne459752:0</Equip.reportString>
+  
+  <ExtinguishSelf.reportString>crwdns459754:0crwdne459754:0</ExtinguishSelf.reportString>
+  
+  <FillFermentingBarrel.reportString>crwdns459756:0crwdne459756:0</FillFermentingBarrel.reportString>
+  
+  <Flee.reportString>crwdns459758:0crwdne459758:0</Flee.reportString>
+  
+  <FleeAndCower.reportString>crwdns459760:0crwdne459760:0</FleeAndCower.reportString>
+  
+  <Flick.reportString>crwdns459762:0crwdne459762:0</Flick.reportString>
+  
+  <Follow.reportString>crwdns459764:0crwdne459764:0</Follow.reportString>
+  
+  <FollowClose.reportString>crwdns459766:0crwdne459766:0</FollowClose.reportString>
+  
+  <FollowRoper.reportString>crwdns459768:0crwdne459768:0</FollowRoper.reportString>
+  
+  <GiveToPackAnimal.reportString>crwdns459770:0crwdne459770:0</GiveToPackAnimal.reportString>
+  
+  <Goto.reportString>crwdns459772:0crwdne459772:0</Goto.reportString>
+  
+  <GotoMindControlled.reportString>crwdns459774:0crwdne459774:0</GotoMindControlled.reportString>
+  
+  <GotoSafeTemperature.reportString>crwdns459776:0crwdne459776:0</GotoSafeTemperature.reportString>
+  
+  <GotoWander.reportString>crwdns459778:0crwdne459778:0</GotoWander.reportString>
+  
+  <HaulCorpseToPublicPlace.reportString>crwdns459780:0crwdne459780:0</HaulCorpseToPublicPlace.reportString>
+  
+  <HaulToTransporter.reportString>crwdns459782:0crwdne459782:0</HaulToTransporter.reportString>
+  
+  <IdleWhileDespawned.reportString>crwdns459784:0crwdne459784:0</IdleWhileDespawned.reportString>
+  
+  <Ignite.reportString>crwdns459786:0crwdne459786:0</Ignite.reportString>
+  
+  <InducePrisonerToEscape.reportString>crwdns459788:0crwdne459788:0</InducePrisonerToEscape.reportString>
+  
+  <Ingest.reportString>crwdns459790:0crwdne459790:0</Ingest.reportString>
+  
+  <Insult.reportString>crwdns459792:0crwdne459792:0</Insult.reportString>
+  
+  <LayDown.reportString>crwdns459794:0crwdne459794:0</LayDown.reportString>
+  
+  <LayDownAwake.reportString>crwdns459796:0crwdne459796:0</LayDownAwake.reportString>
+  
+  <LayDownResting.reportString>crwdns459798:0crwdne459798:0</LayDownResting.reportString>
+  
+  <Lovin.reportString>crwdns459800:0crwdne459800:0</Lovin.reportString>
+  
+  <ManTurret.reportString>crwdns459802:0crwdne459802:0</ManTurret.reportString>
+  
+  <OfferHelp.reportString>crwdns459804:0crwdne459804:0</OfferHelp.reportString>
+  
+  <Open.reportString>crwdns459806:0crwdne459806:0</Open.reportString>
+  
+  <PickupToHold.reportString>crwdns459808:0crwdne459808:0</PickupToHold.reportString>
+  
+  <RearmTurret.reportString>crwdns459810:0crwdne459810:0</RearmTurret.reportString>
+  
+  <RearmTurretAtomic.reportString>crwdns459812:0crwdne459812:0</RearmTurretAtomic.reportString>
+  
+  <Refuel.reportString>crwdns459814:0crwdne459814:0</Refuel.reportString>
+  
+  <RefuelAtomic.reportString>crwdns459816:0crwdne459816:0</RefuelAtomic.reportString>
+  
+  <Reload.reportString>crwdns459818:0crwdne459818:0</Reload.reportString>
+  
+  <RemoveApparel.reportString>crwdns459820:0crwdne459820:0</RemoveApparel.reportString>
+  
+  <Resurrect.reportString>crwdns459822:0crwdne459822:0</Resurrect.reportString>
+  
+  <SocialFight.reportString>crwdns459824:0crwdne459824:0</SocialFight.reportString>
+  
+  <Strip.reportString>crwdns459826:0crwdne459826:0</Strip.reportString>
+  
+  <TakeBeerOutOfFermentingBarrel.reportString>crwdns459828:0crwdne459828:0</TakeBeerOutOfFermentingBarrel.reportString>
+  
+  <TakeCountToInventory.reportString>crwdns459830:0crwdne459830:0</TakeCountToInventory.reportString>
+  
+  <TakeFromOtherInventory.reportString>crwdns459832:0crwdne459832:0</TakeFromOtherInventory.reportString>
+  
+  <TakeInventory.reportString>crwdns459834:0crwdne459834:0</TakeInventory.reportString>
+  
+  <TradeWithPawn.reportString>crwdns459836:0crwdne459836:0</TradeWithPawn.reportString>
+  
+  <TriggerObject.reportString>crwdns459838:0crwdne459838:0</TriggerObject.reportString>
+  
+  <UnloadInventory.reportString>crwdns459840:0crwdne459840:0</UnloadInventory.reportString>
+  
+  <UnloadYourInventory.reportString>crwdns459842:0crwdne459842:0</UnloadYourInventory.reportString>
+  
+  <UseArtifact.reportString>crwdns459844:0crwdne459844:0</UseArtifact.reportString>
+  
+  <UseItem.reportString>crwdns459846:0crwdne459846:0</UseItem.reportString>
+  
+  <UseNeurotrainer.reportString>crwdns459848:0crwdne459848:0</UseNeurotrainer.reportString>
+  
+  <UseVerbOnThing.reportString>crwdns459850:0crwdne459850:0</UseVerbOnThing.reportString>
+  
+  <UseVerbOnThingStatic.reportString>crwdns459852:0crwdne459852:0</UseVerbOnThingStatic.reportString>
+  
+  <Vomit.reportString>crwdns459854:0crwdne459854:0</Vomit.reportString>
+  
+  <Wait.reportString>crwdns459856:0crwdne459856:0</Wait.reportString>
+  
+  <Wait_Asleep.reportString>crwdns459858:0crwdne459858:0</Wait_Asleep.reportString>
+  
+  <Wait_Combat.reportString>crwdns459860:0crwdne459860:0</Wait_Combat.reportString>
+  
+  <Wait_Downed.reportString>crwdns459862:0crwdne459862:0</Wait_Downed.reportString>
+  
+  <Wait_MaintainPosture.reportString>crwdns459864:0crwdne459864:0</Wait_MaintainPosture.reportString>
+  
+  <Wait_SafeTemperature.reportString>crwdns459866:0crwdne459866:0</Wait_SafeTemperature.reportString>
+  
+  <Wait_Wander.reportString>crwdns459868:0crwdne459868:0</Wait_Wander.reportString>
+  
+  <Wear.reportString>crwdns459870:0crwdne459870:0</Wear.reportString>
 </LanguageData>
