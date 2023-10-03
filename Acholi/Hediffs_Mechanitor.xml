@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RemoteRepair.label>crwdns420982:0crwdne420982:0</RemoteRepair.label>
-  <RemoteRepair.description>crwdns420984:0crwdne420984:0</RemoteRepair.description>
+  <BandNode.label>crwdns423526:0crwdne423526:0</BandNode.label>
+  <BandNode.description>crwdns423528:0crwdne423528:0</BandNode.description>
   
-  <RemoteShield.label>crwdns420986:0crwdne420986:0</RemoteShield.label>
-  <RemoteShield.description>crwdns420988:0crwdne420988:0</RemoteShield.description>
+  <ControlSublinkImplant.label>crwdns423530:0crwdne423530:0</ControlSublinkImplant.label>
+  <ControlSublinkImplant.description>crwdns423532:0crwdne423532:0</ControlSublinkImplant.description>
+  
+  <MechFormfeederImplant.label>crwdns423534:0crwdne423534:0</MechFormfeederImplant.label>
+  <MechFormfeederImplant.description>crwdns423536:0crwdne423536:0</MechFormfeederImplant.description>
+  <MechFormfeederImplant.descriptionShort>crwdns423538:0crwdne423538:0</MechFormfeederImplant.descriptionShort>
+  
+  <MechlinkImplant.label>crwdns423540:0crwdne423540:0</MechlinkImplant.label>
+  <MechlinkImplant.description>crwdns423542:0crwdne423542:0</MechlinkImplant.description>
+  <MechlinkImplant.comps.HediffComp_LetterOnDeath.letterLabel>crwdns423544:0{HEDIFF_label}crwdne423544:0</MechlinkImplant.comps.HediffComp_LetterOnDeath.letterLabel>
+  <MechlinkImplant.comps.HediffComp_LetterOnDeath.letterText>crwdns423546:0{PAWN}crwdnd423546:0{HEDIFF_label}crwdne423546:0</MechlinkImplant.comps.HediffComp_LetterOnDeath.letterText>
+  <MechlinkImplant.descriptionShort>crwdns423548:0crwdne423548:0</MechlinkImplant.descriptionShort>
+  
+  <RemoteRepairerImplant.label>crwdns423550:0crwdne423550:0</RemoteRepairerImplant.label>
+  <RemoteRepairerImplant.description>crwdns423552:0crwdne423552:0</RemoteRepairerImplant.description>
+  <RemoteRepairerImplant.descriptionShort>crwdns423554:0crwdne423554:0</RemoteRepairerImplant.descriptionShort>
+  
+  <RemoteShielderImplant.label>crwdns423556:0crwdne423556:0</RemoteShielderImplant.label>
+  <RemoteShielderImplant.description>crwdns423558:0crwdne423558:0</RemoteShielderImplant.description>
+  
+  <RepairProbeImplant.label>crwdns423560:0crwdne423560:0</RepairProbeImplant.label>
+  <RepairProbeImplant.description>crwdns423562:0crwdne423562:0</RepairProbeImplant.description>
+  <RepairProbeImplant.descriptionShort>crwdns423564:0crwdne423564:0</RepairProbeImplant.descriptionShort>
 </LanguageData>
