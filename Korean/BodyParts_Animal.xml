@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalJaw.label>물어뜯는</AnimalJaw.label>
+  <AnimalJaw.label>jaw</AnimalJaw.label>
   
-  <Antenna.label>더듬이</Antenna.label>
+  <Antenna.label>antenna</Antenna.label>
   
-  <Beak.label>부리</Beak.label>
+  <Beak.label>beak</Beak.label>
   
-  <Body.label>몸</Body.label>
+  <Body.label>body</Body.label>
   
-  <Elytra.label>겉날개</Elytra.label>
+  <Elytra.label>elytra</Elytra.label>
   
-  <FrontClaw.label>앞발톱</FrontClaw.label>
-  <FrontClaw.labelShort>발톱</FrontClaw.labelShort>
+  <FrontClaw.label>front claw</FrontClaw.label>
+  <FrontClaw.labelShort>claw</FrontClaw.labelShort>
   
-  <HeadClaw.label>머리뿔</HeadClaw.label>
+  <HeadClaw.label>head claw</HeadClaw.label>
   
-  <Hoof.label>발굽</Hoof.label>
+  <Hoof.label>hoof</Hoof.label>
   
-  <Horn.label>뿔</Horn.label>
+  <Horn.label>horn</Horn.label>
   
-  <Hump.label>혹</Hump.label>
+  <Hump.label>hump</Hump.label>
   
-  <InsectHead.label>지팡이 끝</InsectHead.label>
+  <InsectHead.label>head</InsectHead.label>
   
-  <InsectHeart.label>심장</InsectHeart.label>
+  <InsectHeart.label>heart</InsectHeart.label>
   
-  <InsectLeg.label>다리</InsectLeg.label>
+  <InsectLeg.label>leg</InsectLeg.label>
   
-  <InsectMouth.label>입</InsectMouth.label>
+  <InsectMouth.label>mouth</InsectMouth.label>
   
-  <InsectNostril.label>콧구멍</InsectNostril.label>
+  <InsectNostril.label>nostril</InsectNostril.label>
   
-  <Jowl.label>목덜미</Jowl.label>
+  <Jowl.label>jowl</Jowl.label>
   
-  <Paw.label>발</Paw.label>
+  <Paw.label>paw</Paw.label>
   
-  <Plastron.label>가슴껍질</Plastron.label>
+  <Plastron.label>plastron</Plastron.label>
   
-  <Pronotum.label>전흉배판</Pronotum.label>
+  <Pronotum.label>pronotum</Pronotum.label>
   
-  <RearClaw.label>뒷발톱</RearClaw.label>
-  <RearClaw.labelShort>발톱</RearClaw.labelShort>
+  <RearClaw.label>rear claw</RearClaw.label>
+  <RearClaw.labelShort>claw</RearClaw.labelShort>
   
-  <Shell.label>껍질</Shell.label>
+  <Shell.label>shell</Shell.label>
   
-  <SnakeBody.label>몸</SnakeBody.label>
+  <SnakeBody.label>body</SnakeBody.label>
   
-  <SnakeHead.label>지팡이 끝</SnakeHead.label>
+  <SnakeHead.label>head</SnakeHead.label>
   
-  <SnakeMouth.label>입</SnakeMouth.label>
+  <SnakeMouth.label>mouth</SnakeMouth.label>
   
-  <Trunk.label>코</Trunk.label>
+  <Trunk.label>trunk</Trunk.label>
   
-  <TurtleBeak.label>부리</TurtleBeak.label>
+  <TurtleBeak.label>beak</TurtleBeak.label>
   
-  <TurtleShell.label>껍질</TurtleShell.label>
+  <TurtleShell.label>shell</TurtleShell.label>
   
-  <Tusk.label>엄니</Tusk.label>
+  <Tusk.label>tusk</Tusk.label>
 </LanguageData>
