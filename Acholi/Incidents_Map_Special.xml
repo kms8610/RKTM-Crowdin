@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_AncientComplex_Mechanitor.label>crwdns423672:0crwdne423672:0</GiveQuest_AncientComplex_Mechanitor.label>
-  <GiveQuest_AncientComplex_Mechanitor.letterLabel>crwdns423674:0crwdne423674:0</GiveQuest_AncientComplex_Mechanitor.letterLabel>
+  <GauranlenPodSpawn.label>crwdns431572:0crwdne431572:0</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.letterLabel>crwdns431574:0crwdne431574:0</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterText>crwdns431576:0crwdne431576:0</GauranlenPodSpawn.letterText>
   
-  <PoluxTreeSpawn.label>crwdns423676:0crwdne423676:0</PoluxTreeSpawn.label>
-  <PoluxTreeSpawn.letterLabel>crwdns423678:0crwdne423678:0</PoluxTreeSpawn.letterLabel>
-  <PoluxTreeSpawn.letterText>crwdns423680:0crwdne423680:0</PoluxTreeSpawn.letterText>
+  <GiveQuest_Beggars.label>crwdns431578:0crwdne431578:0</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.letterLabel>crwdns431580:0crwdne431580:0</GiveQuest_Beggars.letterLabel>
   
-  <RefugeePodCrash_Baby.label>crwdns423682:0crwdne423682:0</RefugeePodCrash_Baby.label>
+  <GiveQuest_ReliquaryPilgrims.label>crwdns431582:0crwdne431582:0</GiveQuest_ReliquaryPilgrims.label>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>crwdns431584:0crwdne431584:0</GiveQuest_ReliquaryPilgrims.letterLabel>
+  
+  <Infestation_Jelly.label>crwdns431586:0crwdne431586:0</Infestation_Jelly.label>
+  <Infestation_Jelly.letterLabel>crwdns431588:0crwdne431588:0</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterText>crwdns431590:0crwdne431590:0</Infestation_Jelly.letterText>
+  
+  <WanderersSkylantern.label>crwdns431592:0crwdne431592:0</WanderersSkylantern.label>
+  <WanderersSkylantern.letterLabel>crwdns431594:0crwdne431594:0</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterText>crwdns431596:0crwdne431596:0</WanderersSkylantern.letterText>
 </LanguageData>
