@@ -1,121 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Autosaving>자동저장</Autosaving>
-  <GameStartDialog>동면장치에서 잠을 자고 있던 여러분 세 사람은 사이렌과 쇠 찢어지는 소리에 깨어났고, 우주선이 박살나기 전에 간신히 탈출용 낙하기를 탈 수 있었습니다.\n\n잠시 후 여러분은 전혀 모르는 변경계에 불시착했습니다.\n\n타고 왔던 우주선의 파편들이 주변에 떨어지는 것을 보면서 여러분은 생존하기 위한 계획을 세우기 시작합니다.</GameStartDialog>
-  <Colony>정착지</Colony>
-  <ChangeLanguageFromMainMenu>언어 설정은 주 메뉴에서만 변경힐 수 있습니다.</ChangeLanguageFromMainMenu>
-  <AndLower>앤드</AndLower>
-  <DisabledLower>비활성</DisabledLower>
+  <Autosaving>Autosaving</Autosaving>
+  <GameStartDialog>The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive.</GameStartDialog>
+  <Colony>Colony</Colony>
+  <ChangeLanguageFromMainMenu>You can only change language from the options screen on the main menu.</ChangeLanguageFromMainMenu>
+  <AndLower>and</AndLower>
+  <DisabledLower>disabled</DisabledLower>
 
-  <VersionIndicator>버전 {0}</VersionIndicator>
-  <GameVersionIndicator>게임 버전</GameVersionIndicator>
-  <DevelopmentBuildLower>개발 빌드</DevelopmentBuildLower>
-  <CompiledOn>{0}에 컴파일됨</CompiledOn>
-  <LoggedIntoSteamAs>스팀에 로그인 됨: {0}</LoggedIntoSteamAs>
+  <VersionIndicator>Version {0}</VersionIndicator>
+  <GameVersionIndicator>Game version</GameVersionIndicator>
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <CompiledOn>Compiled {0}</CompiledOn>
+  <LoggedIntoSteamAs>Logged into Steam as {0}</LoggedIntoSteamAs>
   
   <!-- ToCommaList() -->
-  <ToCommaListAnd>{0}, {1}</ToCommaListAnd>
-  <ToCommaListOr>{0} 또는 {1}</ToCommaListOr>
+  <ToCommaListAnd>{0} and {1}</ToCommaListAnd>
+  <ToCommaListOr>{0} or {1}</ToCommaListOr>
   
   <!-- General-use words -->
-  <Yes>예</Yes>
-  <No>아니오</No>
-  <NoSubject>{0} 없음</NoSubject>
-  <New>새</New>
-  <Gender>성별</Gender>
-  <Sex>성별</Sex>
-  <min>최소</min>
-  <max>최대</max>
-  <chance>확률</chance>
-  <context>대상</context>
-  <multiplier>계수</multiplier>
-  <damage>피해량</damage>
-  <radius>범위</radius>
-  <expired>작동 정지됨</expired>
-  <durationDays>기간 (일)</durationDays>
-  <intervalDays>간격 (일)</intervalDays>
-  <repeat>반복</repeat>
-  <default>기본값</default>
-  <distance>거리</distance>
-  <YesUppercase>예</YesUppercase>
-  <NoUppercase>아니오</NoUppercase>
+  <Yes>Yes</Yes>
+  <No>No</No>
+  <NoSubject>No {0}</NoSubject>
+  <New>new</New>
+  <Gender>Gender</Gender>
+  <Sex>Sex</Sex>
+  <min>min</min>
+  <max>max</max>
+  <chance>chance</chance>
+  <context>context</context>
+  <multiplier>multiplier</multiplier>
+  <damage>damage</damage>
+  <radius>radius</radius>
+  <expired>expired</expired>
+  <durationDays>duration (days)</durationDays>
+  <intervalDays>interval (days)</intervalDays>
+  <repeat>repeat</repeat>
+  <default>default</default>
+  <distance>distance</distance>
+  <YesUppercase>YES</YesUppercase>
+  <NoUppercase>NO</NoUppercase>
   <kg>kg</kg>
-  <Day>일</Day>
-  <day>일</day>
-  <Default>기본값</Default>
-  <Average>평균</Average>
-  <Cause>원인</Cause>
-  <Etc>기타</Etc>
+  <Day>Day</Day>
+  <day>day</day>
+  <Default>Default</Default>
+  <Average>Average</Average>
+  <Cause>Cause</Cause>
+  <Etc>etc</Etc>
   <MoneyFormat>${0}</MoneyFormat>
-  <Factors>요인</Factors>
-  <Uses>사용</Uses>
-  <Translation>번역</Translation>
+  <Factors>Factors</Factors>
+  <Uses>Uses</Uses>
+  <Translation>Translation</Translation>
 
   <!-- Content generation-->
   
-  <MeatLabel>{0} 고기</MeatLabel>
-  <MeatDesc>손질된 날고기입니다. 요리해서 음식으로 만들거나 날것 그대로 먹을 수 있습니다.</MeatDesc>
-  <MeatInsectDesc>손질된 날고기입니다. 필요하다면 요리해서 음식으로 만들거나 날것 그대로 먹을 수 있습니다. 굉장히 맛이 없습니다.</MeatInsectDesc>
-  <MeatHumanDesc>손질된 날고기입니다. 대부분의 사람들이 반대하겠지만, 요리해서 음식으로 만들거나 날것 그대로 먹을 수 있습니다.</MeatHumanDesc>
+  <MeatLabel>{0} meat</MeatLabel>
+  <MeatDesc>Raw butchered flesh. Can be cooked into meals, or eaten raw.</MeatDesc>
+  <MeatInsectDesc>Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing.</MeatInsectDesc>
+  <MeatHumanDesc>Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea.</MeatHumanDesc>
 
-  <TechprintLabel>기술청사진 ({PROJECT_label})</TechprintLabel>
-  <TechprintDesc>이것은 연구 프로젝트 '{PROJECT_label}'의 기술청사진입니다.\n\n물리적 형태의 기술청사진은 단순한 도표가 적힌 종이 조각에서부터 고급 교육 기계에 이르기까지 매우 다양한 형태를 가지고 있습니다. 이것들은 형식에 관계없이 동일한 역할을 수행합니다. 기술청사진은 연구자들에게 어떠한 아이디어의 실현 가능성에 대한 확신과, 구체적인 내용에 대한 힌트를 제공합니다.\n\n연구자들은 주어진 기술의 시작 위치를 알기 위해 기술청사진이 제공하는 기초 지식이 필요합니다. 연구원은 충분한 청사진을 확보해야만 당신이 처한 상황에서 해당 기술을 확보하는 방법에 대한 세부 정보를 얻을 수 있습니다.\n\n진행중인 연구 프로젝트에 기술청사진을 적용하면 남은 연구 진행율의 절반이 채워집니다. 뿐만 아니라, 연구원들은 이미 완성된 기술에도 기술청사진을 적용하여 자신의 지적 능력을 향상시킬 수 있습니다.</TechprintDesc>
-  <Unlocks>연구 보상</Unlocks>
+  <TechprintLabel>techprint ({PROJECT_label})</TechprintLabel>
+  <TechprintDesc>This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies.</TechprintDesc>
+  <Unlocks>Unlocks</Unlocks>
 
-  <CorpseLabel>{0} 시체</CorpseLabel>
-  <CorpseDesc>{0}의 시체입니다.</CorpseDesc>
-  <DeadLabel>{1_label} (죽음)</DeadLabel>
+  <CorpseLabel>{0} corpse</CorpseLabel>
+  <CorpseDesc>Dead body of a {0}.</CorpseDesc>
+  <DeadLabel>{1_label} (dead)</DeadLabel>
 
-  <RoughStoneTerrainLabel>자연 {0}</RoughStoneTerrainLabel>
-  <RoughStoneTerrainDesc>자연상태 그대로의 {0} 바닥입니다.</RoughStoneTerrainDesc>
-  <RoughHewnStoneTerrainLabel>거친 {0}</RoughHewnStoneTerrainLabel>
-  <RoughHewnStoneTerrainDesc>거칠게 연마된 {0} 바닥입니다.</RoughHewnStoneTerrainDesc>
-  <SmoothStoneTerrainLabel>매끄러운 {0}</SmoothStoneTerrainLabel>
-  <SmoothStoneTerrainDesc>매끄럽게 연마된 {0} 바닥입니다.</SmoothStoneTerrainDesc>
+  <RoughStoneTerrainLabel>rough {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Rough, natural {0} ground.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>rough-hewn {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Roughly cut natural {0} floor.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>smooth {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Smoothed natural {0} floor.</SmoothStoneTerrainDesc>
 
-  <BlueprintLabelExtra> (청사진)</BlueprintLabelExtra>
-  <FrameLabelExtra> (건설 중)</FrameLabelExtra>
+  <BlueprintLabelExtra> (blueprint)</BlueprintLabelExtra>
+  <FrameLabelExtra> (building)</FrameLabelExtra>
 
-  <FactionUnaffiliated>우주 조난자</FactionUnaffiliated>
+  <FactionUnaffiliated>Unaffiliated</FactionUnaffiliated>
 
-  <StillWishContinue>그래도 계속하시겠습니까?</StillWishContinue>
+  <StillWishContinue>Continue anyway?</StillWishContinue>
   
-  <BabyTalk>바,뱌,부,가,갸,구,나,냐,누,우,와,아,야,마,먀</BabyTalk>
+  <BabyTalk>ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah</BabyTalk>
 
   <!-- For things made of stuff, e.g. "Stone bed" -->
   <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
   <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
 
-  <SomeonesRoom>{PAWN_labelShort}의 {1}</SomeonesRoom>
-  <CouplesRoom>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}의 {2}</CouplesRoom>
+  <SomeonesRoom>{PAWN_labelShort}'s {1}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort} and {PAWN2_labelShort}'s {2}</CouplesRoom>
   
-  <StatRelatesToCurrentRoom>현재 유형의 방에 중요합니다.</StatRelatesToCurrentRoom>
+  <StatRelatesToCurrentRoom>Important for this type of room.</StatRelatesToCurrentRoom>
   
-  <DeepResourceRemaining>{RESOURCE_label} {COUNT}개가 지하에 있습니다.</DeepResourceRemaining>
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} underground here.</DeepResourceRemaining>
   
-  <VariousLabel>(여러 가지)</VariousLabel>
+  <VariousLabel>(various)</VariousLabel>
 
   <!-- History events -->
-  <ColonistDied>정착민 사망</ColonistDied>
+  <ColonistDied>Colonist died</ColonistDied>
   
   <!-- Rotation -->
-  <North>북</North>
-  <South>남</South>
-  <West>서</West>
-  <East>동</East>
+  <North>North</North>
+  <South>South</South>
+  <West>West</West>
+  <East>East</East>
 
-  <ApplyingTechprint>({0})에 기술청사진 적용</ApplyingTechprint>
+  <ApplyingTechprint>applying techprint ({0})</ApplyingTechprint>
 
   <!-- Apparel Looks -->
-  <VariantOf>원형</VariantOf>
+  <VariantOf>variant of</VariantOf>
   
   <!-- Familial relationships -->
-  <BornOfParents>{0}의 자식</BornOfParents>
-  <ParentsUnknown>부모를 알 수 없음</ParentsUnknown>
+  <BornOfParents>born to {0}</BornOfParents>
+  <ParentsUnknown>unknown parents</ParentsUnknown>
   
   <!-- Legal status -->
-  <Colonist>정착민</Colonist>
+  <Colonist>colonist</Colonist>
   
   
 </LanguageData>
