@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeatEating_Abhorrent.label>crwdns436502:0crwdne436502:0</MeatEating_Abhorrent.label>
-  <MeatEating_Abhorrent.description>crwdns436504:0crwdne436504:0</MeatEating_Abhorrent.description>
+  <AteMeat_Abhorrent.stages.ate_meat.label>crwdns441812:0crwdne441812:0</AteMeat_Abhorrent.stages.ate_meat.label>
+  <AteMeat_Abhorrent.stages.ate_meat.description>crwdns441814:0crwdne441814:0</AteMeat_Abhorrent.stages.ate_meat.description>
   
-  <MeatEating_Disapproved.label>crwdns436506:0crwdne436506:0</MeatEating_Disapproved.label>
-  <MeatEating_Disapproved.description>crwdns436508:0crwdne436508:0</MeatEating_Disapproved.description>
+  <AteMeat_Disapproved.stages.ate_meat.label>crwdns441816:0crwdne441816:0</AteMeat_Disapproved.stages.ate_meat.label>
+  <AteMeat_Disapproved.stages.ate_meat.description>crwdns441818:0crwdne441818:0</AteMeat_Disapproved.stages.ate_meat.description>
   
-  <MeatEating_Horrible.label>crwdns436510:0crwdne436510:0</MeatEating_Horrible.label>
-  <MeatEating_Horrible.description>crwdns436512:0crwdne436512:0</MeatEating_Horrible.description>
+  <AteMeat_Horrible.stages.ate_meat.label>crwdns441820:0crwdne441820:0</AteMeat_Horrible.stages.ate_meat.label>
+  <AteMeat_Horrible.stages.ate_meat.description>crwdns441822:0crwdne441822:0</AteMeat_Horrible.stages.ate_meat.description>
   
-  <MeatEating_NonMeat_Abhorrent.label>crwdns436514:0crwdne436514:0</MeatEating_NonMeat_Abhorrent.label>
-  <MeatEating_NonMeat_Abhorrent.description>crwdns436516:0crwdne436516:0</MeatEating_NonMeat_Abhorrent.description>
+  <AteMeat_Know_Abhorrent.stages.ate_meat.label>crwdns441824:0crwdne441824:0</AteMeat_Know_Abhorrent.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Disapproved.label>crwdns436518:0crwdne436518:0</MeatEating_NonMeat_Disapproved.label>
-  <MeatEating_NonMeat_Disapproved.description>crwdns436520:0crwdne436520:0</MeatEating_NonMeat_Disapproved.description>
+  <AteMeat_Know_Disapproved.stages.ate_meat.label>crwdns441826:0crwdne441826:0</AteMeat_Know_Disapproved.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Horrible.label>crwdns436522:0crwdne436522:0</MeatEating_NonMeat_Horrible.label>
-  <MeatEating_NonMeat_Horrible.description>crwdns436524:0crwdne436524:0</MeatEating_NonMeat_Horrible.description>
+  <AteMeat_Know_Horrible.stages.ate_meat.label>crwdns441828:0crwdne441828:0</AteMeat_Know_Horrible.stages.ate_meat.label>
+  
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>crwdns441830:0crwdne441830:0</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>crwdns441832:0crwdne441832:0</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>crwdns441834:0crwdne441834:0</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>crwdns441836:0crwdne441836:0</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>crwdns441838:0crwdne441838:0</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>crwdns441840:0crwdne441840:0</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>crwdns441842:0crwdne441842:0</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>crwdns441844:0crwdne441844:0</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>crwdns441846:0crwdne441846:0</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
 </LanguageData>
