@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LetterLabelTributeCollectorArrival>crwdns449934:0crwdne449934:0</LetterLabelTributeCollectorArrival>
-  <LetterTributeCollectorArrival>crwdns449936:0{FACTION_name}crwdnd449936:0{FACTION_royalFavorLabel}crwdnd449936:0{FACTION_name}crwdne449936:0</LetterTributeCollectorArrival>
+  <LetterLabelAnimalInsanitySingle>crwdns481416:0{ANIMAL_labelShort}crwdne481416:0</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>crwdns481418:0{ANIMAL_label}crwdne481418:0</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>crwdns481420:0{0}crwdne481420:0</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>crwdns481422:0{0}crwdne481422:0</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>crwdns481424:0{PLANTDEF_labelPlural}crwdne481424:0</LetterLabelCropBlight>
+  <LetterCropBlight>crwdns481426:0{PLANTDEF_labelPlural}crwdne481426:0</LetterCropBlight>
+
+  <LetterLabelMiracleHeal>crwdns481428:0crwdne481428:0</LetterLabelMiracleHeal>
+  <MiracleHeal>crwdns481430:0{0}crwdne481430:0</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <EnemyRaidLeaderPresent>crwdns481432:0{LEADER_factionPawnsPlural}crwdnd481432:0{LEADER_labelShort}crwdne481432:0</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <FriendlyRaidLeaderPresent>crwdns481434:0{LEADER_factionPawnsPlural}crwdnd481434:0{LEADER_labelShort}crwdne481434:0</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>crwdns481436:0crwdne481436:0</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>crwdns481438:0{PAWN_titleIndef}crwdnd481438:0{PAWN_nameDef}crwdnd481438:0{PAWN_pronoun}crwdnd481438:0{PAWN_pronoun}crwdne481438:0</RefugeePodCrash>
+  <RefugeePodCrash_Child>crwdns481440:0{PAWN_nameDef}crwdnd481440:0{AGE}crwdne481440:0</RefugeePodCrash_Child>
+  <RefugeePodCrash_Factionless>crwdns481442:0{PAWN_nameDef}crwdnd481442:0{PAWN_objective}crwdnd481442:0{PAWN_pronoun}crwdnd481442:0{PAWN_objective}crwdne481442:0</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Hostile>crwdns481444:0{PAWN_nameDef}crwdnd481444:0{PAWN_factionName}crwdnd481444:0{PAWN_objective}crwdne481444:0</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>crwdns481446:0{PAWN_nameDef}crwdnd481446:0{PAWN_factionName}crwdnd481446:0{PAWN_objective}crwdnd481446:0{PAWN_pronoun}crwdnd481446:0{PAWN_pronoun}crwdnd481446:0{PAWN_objective}crwdnd481446:0{PAWN_possessive}crwdne481446:0</RefugeePodCrash_NonHostile>
+
+  <LetterLabelWandererJoins>crwdns481448:0{PAWN_nameDef}crwdne481448:0</LetterLabelWandererJoins>
+  <LetterWandererJoins>crwdns481450:0{PAWN_title}crwdnd481450:0{PAWN_nameDef}crwdnd481450:0[PAWN_pronoun]crwdnd481450:0{PAWN_objective}crwdnd481450:0{PAWN_objective}crwdne481450:0</LetterWandererJoins>
+
+  <LetterLabelCargoPodCrash>crwdns481452:0crwdne481452:0</LetterLabelCargoPodCrash>
+  <CargoPodCrash>crwdns481454:0crwdne481454:0</CargoPodCrash>
+
+  <AnElectricalConduit>crwdns481456:0crwdne481456:0</AnElectricalConduit>
+  <ShortCircuit>crwdns481458:0{0}crwdne481458:0</ShortCircuit>
+  <ShortCircuitStartedFire>crwdns481460:0{0}crwdne481460:0</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>crwdns481462:0{0}crwdne481462:0</ShortCircuitDischargedEnergy>
+  <ShortCircuitWasLarge>crwdns481464:0crwdne481464:0</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>crwdns481466:0crwdne481466:0</ShortCircuitWasHuge>
+
+  <TraderArrival>crwdns481468:0{0}crwdnd481468:0{1}crwdnd481468:0{2}crwdne481468:0</TraderArrival>
+  <TraderArrivalFromFaction>crwdns481470:0{FACTION_name}crwdne481470:0</TraderArrivalFromFaction>
+  <TraderArrivalNoFaction>crwdns481472:0crwdne481472:0</TraderArrivalNoFaction>
+
+  <SingleTravelerPassing>crwdns481474:0{PAWN_title}crwdnd481474:0{1}crwdnd481474:0{PAWN_pronoun}crwdnd481474:0{PAWN_nameFull}crwdne481474:0</SingleTravelerPassing>
+  <GroupTravelersPassing>crwdns481476:0{0}crwdne481476:0</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>crwdns481478:0crwdne481478:0</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>crwdns481480:0{PAWN_titleIndef}crwdnd481480:0{1}crwdnd481480:0{PAWN_pronoun}crwdnd481480:0{PAWN_nameFull}crwdnd481480:0{3}crwdnd481480:0{4}crwdne481480:0</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>crwdns481482:0{PAWN_pronoun}crwdne481482:0</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>crwdns481484:0{PAWN_pronoun}crwdne481484:0</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>crwdns481486:0crwdne481486:0</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>crwdns481488:0{0}crwdnd481488:0{1}crwdnd481488:0{2}crwdne481488:0</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>crwdns481490:0crwdne481490:0</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>crwdns481492:0{1_labelShort}crwdne481492:0</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>crwdns481494:0{0}crwdne481494:0</VisitorsLeaving>
+
+  <LetterLabelManhunterPackArrived>crwdns481496:0crwdne481496:0</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>crwdns481498:0{0}crwdnd481498:0{0}crwdne481498:0</ManhunterPackArrived>
   
+  <!-- Crashed ship part-->
+  <MessageAnimalInsanityPulse>crwdns481500:0{SOURCE_label}crwdne481500:0</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>crwdns481502:0{0}crwdne481502:0</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>crwdns481504:0{0}crwdne481504:0</AwokeDaysAgo>
+  <ActivatedDaysAgo>crwdns481506:0{0}crwdne481506:0</ActivatedDaysAgo>
+  <OpenedDaysAgo>crwdns481508:0{0}crwdne481508:0</OpenedDaysAgo>
+  <PsychicDroneLevel>crwdns481510:0{0}crwdne481510:0</PsychicDroneLevel>
+  <LetterLabelPsychicDroneLevelIncreased>crwdns481512:0crwdne481512:0</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>crwdns481514:0{0}crwdne481514:0</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>crwdns481516:0crwdne481516:0</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>crwdns481518:0{0}crwdnd481518:0{1}crwdne481518:0</LetterAgentRevealed>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>crwdns481520:0crwdne481520:0</LetterLabelBeaversArrived>
+  <BeaversArrived>crwdns481522:0crwdne481522:0</BeaversArrived>
+  
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>crwdns481524:0{1_kind}crwdne481524:0</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>crwdns481526:0{0}crwdne481526:0</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>crwdns481528:0{0}crwdnd481528:0{ANIMAL_nameFull}crwdne481528:0</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>crwdns481530:0{0}crwdnd481530:0{ANIMAL_nameFull}crwdne481530:0</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <LetterLabelFarmAnimalsWanderIn>crwdns481532:0{0}crwdne481532:0</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>crwdns481534:0{0}crwdne481534:0</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <LetterLabelThrumboPasses>crwdns481536:0crwdne481536:0</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>crwdns481538:0crwdne481538:0</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <LetterLabelTraderCaravanArrival>crwdns481540:0{1}crwdnd481540:0{0}crwdne481540:0</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>crwdns481542:0{0}crwdnd481542:0{1}crwdne481542:0</LetterTraderCaravanArrival>
+  <LetterCaravanArrivalCommonWarning>crwdns481544:0crwdne481544:0</LetterCaravanArrivalCommonWarning>
+    
+  <!-- Ransom demand -->
+  <RansomDemandTitle>crwdns481546:0{0}crwdne481546:0</RansomDemandTitle>
+  <RansomDemand>crwdns481548:0{1}crwdnd481548:0{PAWN_labelShort}crwdnd481548:0{PAWN_objective}crwdnd481548:0{2}crwdne481548:0</RansomDemand>
+  <RansomDemand_Accept>crwdns481550:0crwdne481550:0</RansomDemand_Accept>
+  <RansomDemand_Reject>crwdns481552:0crwdne481552:0</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <EscapeShipFoundLabel>crwdns481554:0crwdne481554:0</EscapeShipFoundLabel>
+  <EscapeShipFound>crwdns481556:0crwdne481556:0</EscapeShipFound>
+  <EscapeShipFoundPeaceful>crwdns481558:0crwdne481558:0</EscapeShipFoundPeaceful>
+
+  <!-- Caravan meeting -->
+  <CaravanMeetingTitle>crwdns481560:0{0}crwdne481560:0</CaravanMeetingTitle>
+  <CaravanMeeting>crwdns481562:0{0}crwdnd481562:0{1}crwdnd481562:0{2}crwdne481562:0</CaravanMeeting>
+  <CaravanMeeting_Trade>crwdns481564:0crwdne481564:0</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>crwdns481566:0crwdne481566:0</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>crwdns481568:0crwdne481568:0</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>crwdns481570:0crwdne481570:0</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_NoPermit>crwdns481572:0{0}crwdnd481572:0{1_name}crwdne481572:0</CaravanMeeting_NoPermit>
+  
+  <!-- Caravan request -->
+  <LetterLabelCaravanRequest>crwdns481574:0crwdne481574:0</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>crwdns481576:0{0}crwdnd481576:0{1}crwdnd481576:0{2}crwdnd481576:0{3}crwdnd481576:0{4}crwdnd481576:0{5}crwdnd481576:0{6}crwdnd481576:0{0}crwdne481576:0</LetterCaravanRequest>
+  <CaravanRequestInfo>crwdns481578:0{0}crwdnd481578:0{2}crwdnd481578:0{1}crwdne481578:0</CaravanRequestInfo>
+  <NormalQualityOrBetter>crwdns481580:0crwdne481580:0</NormalQualityOrBetter>
+  <NotTainted>crwdns481582:0crwdne481582:0</NotTainted>
+
+  <!-- Caravan demand -->
+  <CaravanDemandTitle>crwdns481584:0{0}crwdne481584:0</CaravanDemandTitle>
+  <CaravanDemand>crwdns481586:0{0}crwdnd481586:0{2}crwdnd481586:0{4}crwdnd481586:0{1}crwdnd481586:0{3}crwdne481586:0</CaravanDemand>
+  <CaravanDemand_Give>crwdns481588:0crwdne481588:0</CaravanDemand_Give>
+  <CaravanDemand_Fight>crwdns481590:0crwdne481590:0</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <LetterLabelSiteNoLongerHostile>crwdns481592:0crwdne481592:0</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>crwdns481594:0crwdne481594:0</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>crwdns481596:0{0}crwdnd481596:0{1}crwdne481596:0</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>crwdns481598:0{0}crwdne481598:0</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <LetterLabelQuestAskerFactionHostile>crwdns481600:0crwdne481600:0</LetterLabelQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>crwdns481602:0{FACTION_name}crwdne481602:0</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <LetterLabelQuestAskerCaptured>crwdns481604:0crwdne481604:0</LetterLabelQuestAskerCaptured>
+  <LetterQuestAskerCaptured>crwdns481606:0{SUBJECT_definite}crwdne481606:0</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <LetterLabelQuestAskerDied>crwdns481608:0crwdne481608:0</LetterLabelQuestAskerDied>
+  <LetterQuestAskerDied>crwdns481610:0{SUBJECT_definite}crwdne481610:0</LetterQuestAskerDied>
+
 </LanguageData>
