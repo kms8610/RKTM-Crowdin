@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AbandonedSettlement.label>crwdns477276:0crwdne477276:0</AbandonedSettlement.label>
-  <AbandonedSettlement.description>crwdns477278:0crwdne477278:0</AbandonedSettlement.description>
+  <AbandonedArchotechStructures.label>crwdns442960:0crwdne442960:0</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.description>crwdns442962:0crwdne442962:0</AbandonedArchotechStructures.description>
   
-  <AttackedNonPlayerCaravan.label>crwdns477280:0crwdne477280:0</AttackedNonPlayerCaravan.label>
-  <AttackedNonPlayerCaravan.description>crwdns477282:0crwdne477282:0</AttackedNonPlayerCaravan.description>
+  <Settlement_SecondArchonexusCycle.label>crwdns442964:0crwdne442964:0</Settlement_SecondArchonexusCycle.label>
+  <Settlement_SecondArchonexusCycle.description>crwdns442966:0crwdne442966:0</Settlement_SecondArchonexusCycle.description>
   
-  <Caravan.label>crwdns477284:0crwdne477284:0</Caravan.label>
-  <Caravan.description>crwdns477286:0crwdne477286:0</Caravan.description>
-  
-  <DestroyedSettlement.label>crwdns477288:0crwdne477288:0</DestroyedSettlement.label>
-  <DestroyedSettlement.description>crwdns477290:0crwdne477290:0</DestroyedSettlement.description>
-  
-  <EscapeShip.label>crwdns477292:0crwdne477292:0</EscapeShip.label>
-  <EscapeShip.description>crwdns477294:0crwdne477294:0</EscapeShip.description>
-  
-  <PeaceTalks.label>crwdns477296:0crwdne477296:0</PeaceTalks.label>
-  <PeaceTalks.description>crwdns477298:0crwdne477298:0</PeaceTalks.description>
-  
-  <RoutePlannerWaypoint.label>crwdns477300:0crwdne477300:0</RoutePlannerWaypoint.label>
-  <RoutePlannerWaypoint.description>crwdns477302:0crwdne477302:0</RoutePlannerWaypoint.description>
-  
-  <Settlement.label>crwdns477304:0crwdne477304:0</Settlement.label>
-  <Settlement.description>crwdns477306:0crwdne477306:0</Settlement.description>
-  
-  <TravelingTransportPods.label>crwdns477308:0crwdne477308:0</TravelingTransportPods.label>
-  <TravelingTransportPods.description>crwdns477310:0crwdne477310:0</TravelingTransportPods.description>
+  <Settlement_ThirdArchonexusCycle.label>crwdns442968:0crwdne442968:0</Settlement_ThirdArchonexusCycle.label>
+  <Settlement_ThirdArchonexusCycle.description>crwdns442970:0crwdne442970:0</Settlement_ThirdArchonexusCycle.description>
 </LanguageData>
