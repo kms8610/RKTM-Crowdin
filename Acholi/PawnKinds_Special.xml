@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beggar.label>crwdns435366:0crwdne435366:0</Beggar.label>
+  <Slave.label>crwdns460698:0crwdne460698:0</Slave.label>
   
-  <PovertyPilgrim.label>crwdns435368:0crwdne435368:0</PovertyPilgrim.label>
+  <StrangerInBlack.label>crwdns460700:0crwdne460700:0</StrangerInBlack.label>
+  <StrangerInBlack.labelFemale>crwdns460702:0crwdne460702:0</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelMale>crwdns460704:0crwdne460704:0</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelPlural>crwdns460706:0crwdne460706:0</StrangerInBlack.labelPlural>
   
-  <WellEquippedTraveler.label>crwdns435370:0crwdne435370:0</WellEquippedTraveler.label>
+  <WildMan.label>crwdns460708:0crwdne460708:0</WildMan.label>
+  <WildMan.labelFemale>crwdns460710:0crwdne460710:0</WildMan.labelFemale>
+  <WildMan.labelFemalePlural>crwdns460712:0crwdne460712:0</WildMan.labelFemalePlural>
+  <WildMan.labelPlural>crwdns460714:0crwdne460714:0</WildMan.labelPlural>
 </LanguageData>
