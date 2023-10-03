@@ -1,5 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicEntropyGain.label>crwdns448686:0crwdne448686:0</PsychicEntropyGain.label>
-  <PsychicEntropyGain.description>crwdns448688:0crwdne448688:0</PsychicEntropyGain.description>
+  <AnimalsLearningFactor.label>crwdns466988:0crwdne466988:0</AnimalsLearningFactor.label>
+  <AnimalsLearningFactor.description>crwdns466990:0crwdne466990:0</AnimalsLearningFactor.description>
+  
+  <BedHungerRateFactor.label>crwdns466992:0crwdne466992:0</BedHungerRateFactor.label>
+  
+  <CaravanRidingSpeedFactor.label>crwdns466994:0crwdne466994:0</CaravanRidingSpeedFactor.label>
+  <CaravanRidingSpeedFactor.description>crwdns466996:0crwdne466996:0</CaravanRidingSpeedFactor.description>
+  
+  <CarryingCapacity.label>crwdns466998:0crwdne466998:0</CarryingCapacity.label>
+  <CarryingCapacity.description>crwdns467000:0crwdne467000:0</CarryingCapacity.description>
+  
+  <ComfyTemperatureMax.label>crwdns467002:0crwdne467002:0</ComfyTemperatureMax.label>
+  <ComfyTemperatureMax.description>crwdns467004:0crwdne467004:0</ComfyTemperatureMax.description>
+  
+  <ComfyTemperatureMin.label>crwdns467006:0crwdne467006:0</ComfyTemperatureMin.label>
+  <ComfyTemperatureMin.description>crwdns467008:0crwdne467008:0</ComfyTemperatureMin.description>
+  
+  <EatingSpeed.label>crwdns467010:0crwdne467010:0</EatingSpeed.label>
+  <EatingSpeed.description>crwdns467012:0crwdne467012:0</EatingSpeed.description>
+  
+  <FilthRate.label>crwdns467014:0crwdne467014:0</FilthRate.label>
+  <FilthRate.description>crwdns467016:0crwdne467016:0</FilthRate.description>
+  
+  <ForagedNutritionPerDay.label>crwdns467018:0crwdne467018:0</ForagedNutritionPerDay.label>
+  <ForagedNutritionPerDay.description>crwdns467020:0crwdne467020:0</ForagedNutritionPerDay.description>
+  
+  <GlobalLearningFactor.label>crwdns467022:0crwdne467022:0</GlobalLearningFactor.label>
+  <GlobalLearningFactor.description>crwdns467024:0crwdne467024:0</GlobalLearningFactor.description>
+  
+  <ImmunityGainSpeed.label>crwdns467026:0crwdne467026:0</ImmunityGainSpeed.label>
+  <ImmunityGainSpeed.description>crwdns467028:0crwdne467028:0</ImmunityGainSpeed.description>
+  
+  <InjuryHealingFactor.label>crwdns467030:0crwdne467030:0</InjuryHealingFactor.label>
+  <InjuryHealingFactor.description>crwdns467032:0crwdne467032:0</InjuryHealingFactor.description>
+  
+  <LeatherAmount.label>crwdns467034:0crwdne467034:0</LeatherAmount.label>
+  <LeatherAmount.description>crwdns467036:0crwdne467036:0</LeatherAmount.description>
+  
+  <LifespanFactor.label>crwdns467038:0crwdne467038:0</LifespanFactor.label>
+  <LifespanFactor.description>crwdns467040:0crwdne467040:0</LifespanFactor.description>
+  
+  <MaxNutrition.label>crwdns467042:0crwdne467042:0</MaxNutrition.label>
+  <MaxNutrition.description>crwdns467044:0crwdne467044:0</MaxNutrition.description>
+  
+  <MeatAmount.label>crwdns467046:0crwdne467046:0</MeatAmount.label>
+  <MeatAmount.description>crwdns467048:0crwdne467048:0</MeatAmount.description>
+  
+  <MeditationFocusGain.label>crwdns467050:0crwdne467050:0</MeditationFocusGain.label>
+  <MeditationFocusGain.description>crwdns467052:0crwdne467052:0</MeditationFocusGain.description>
+  <MeditationFocusGain.formatString>crwdns467054:0{0}crwdne467054:0</MeditationFocusGain.formatString>
+  <MeditationFocusGain.formatStringUnfinalized>crwdns467056:0{0}crwdne467056:0</MeditationFocusGain.formatStringUnfinalized>
+  
+  <MentalBreakThreshold.label>crwdns467058:0crwdne467058:0</MentalBreakThreshold.label>
+  <MentalBreakThreshold.description>crwdns467060:0crwdne467060:0</MentalBreakThreshold.description>
+  
+  <MinimumHandlingSkill.label>crwdns467062:0crwdne467062:0</MinimumHandlingSkill.label>
+  <MinimumHandlingSkill.description>crwdns467064:0crwdne467064:0</MinimumHandlingSkill.description>
+  
+  <MoveSpeed.label>crwdns467066:0crwdne467066:0</MoveSpeed.label>
+  <MoveSpeed.description>crwdns467068:0crwdne467068:0</MoveSpeed.description>
+  <MoveSpeed.formatString>crwdns467070:0{0}crwdne467070:0</MoveSpeed.formatString>
+  
+  <PainShockThreshold.label>crwdns467072:0crwdne467072:0</PainShockThreshold.label>
+  <PainShockThreshold.description>crwdns467074:0crwdne467074:0</PainShockThreshold.description>
+  
+  <PsychicEntropyMax.label>crwdns467076:0crwdne467076:0</PsychicEntropyMax.label>
+  <PsychicEntropyMax.description>crwdns467078:0crwdne467078:0</PsychicEntropyMax.description>
+  
+  <PsychicEntropyRecoveryRate.label>crwdns467080:0crwdne467080:0</PsychicEntropyRecoveryRate.label>
+  <PsychicEntropyRecoveryRate.description>crwdns467082:0crwdne467082:0</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.formatString>crwdns467084:0{0}crwdne467084:0</PsychicEntropyRecoveryRate.formatString>
+  
+  <PsychicSensitivity.label>crwdns467086:0crwdne467086:0</PsychicSensitivity.label>
+  <PsychicSensitivity.description>crwdns467088:0crwdne467088:0</PsychicSensitivity.description>
+  
+  <RestFallRateFactor.label>crwdns467090:0crwdne467090:0</RestFallRateFactor.label>
+  <RestFallRateFactor.description>crwdns467092:0crwdne467092:0</RestFallRateFactor.description>
+  
+  <RestRateMultiplier.label>crwdns467094:0crwdne467094:0</RestRateMultiplier.label>
+  <RestRateMultiplier.description>crwdns467096:0crwdne467096:0</RestRateMultiplier.description>
+  
+  <ToxicEnvironmentResistance.label>crwdns467098:0crwdne467098:0</ToxicEnvironmentResistance.label>
+  <ToxicEnvironmentResistance.description>crwdns467100:0crwdne467100:0</ToxicEnvironmentResistance.description>
+  
+  <ToxicResistance.label>crwdns467102:0crwdne467102:0</ToxicResistance.label>
+  <ToxicResistance.description>crwdns467104:0crwdne467104:0</ToxicResistance.description>
 </LanguageData>
