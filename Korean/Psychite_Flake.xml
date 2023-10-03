@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Flake.label>플레이크</Flake.label>
-  <Flake.description>사이카이트를 정제한 눈꽃 모양의 백색 가루입니다. 저렴하게 생산할 수 있고 강렬한 쾌감을 선사하지만 중독성도 특히 강합니다. 플레이크는 목숨과 공동체, 사회 전체를 무너뜨리곤 했습니다.</Flake.description>
-  <Flake.ingestible.ingestCommandString>{0} 흡연</Flake.ingestible.ingestCommandString>
-  <Flake.ingestible.ingestReportString>{0} 흡연 중</Flake.ingestible.ingestReportString>
+  <Flake.label>flake</Flake.label>
+  <Flake.description>A flaky white preparation of psychite that can be smoked to induce a short but powerful euphoric state. While it is cheap to produce and extremely pleasurable to use, it is exceptionally addictive. Flake is known for destroying lives, communities, and entire societies.</Flake.description>
+  <Flake.ingestible.ingestCommandString>Smoke {0}</Flake.ingestible.ingestCommandString>
+  <Flake.ingestible.ingestReportString>Smoking {0}.</Flake.ingestible.ingestReportString>
 </LanguageData>
