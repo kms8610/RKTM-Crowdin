@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildLabor.label>crwdns424396:0crwdne424396:0</ChildLabor.label>
+  <ChildLabor_Disapproved.label>crwdns424846:0crwdne424846:0</ChildLabor_Disapproved.label>
+  <ChildLabor_Disapproved.description>crwdns424848:0crwdne424848:0</ChildLabor_Disapproved.description>
+  <ChildLabor_Disapproved.comps.0.description>crwdns424850:0crwdne424850:0</ChildLabor_Disapproved.comps.0.description>
+  
+  <ChildLabor_Encouraged.label>crwdns424852:0crwdne424852:0</ChildLabor_Encouraged.label>
+  <ChildLabor_Encouraged.description>crwdns424854:0crwdne424854:0</ChildLabor_Encouraged.description>
+  <ChildLabor_Encouraged.comps.0.description>crwdns424856:0crwdne424856:0</ChildLabor_Encouraged.comps.0.description>
 </LanguageData>
