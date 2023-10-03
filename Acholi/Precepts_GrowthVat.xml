@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>crwdns428044:0crwdne428044:0</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
-  <GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>crwdns428046:0crwdne428046:0</GrowthVat_Essential_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
-  
-  <GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>crwdns428048:0crwdne428048:0</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.label>
-  <GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>crwdns428050:0crwdne428050:0</GrowthVat_Essential_Pregnant.stages.natural_pregnancy.description>
-  
-  <GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>crwdns428052:0crwdne428052:0</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.label>
-  <GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>crwdns428054:0crwdne428054:0</GrowthVat_Prohibited_ChildInGrowthVat.stages.my_child_is_in_a_growth_vat.description>
-  
-  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>crwdns428056:0crwdne428056:0</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.label>
-  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>crwdns428058:0crwdne428058:0</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.child_not_in_growth_vat.description>
-  
-  <GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>crwdns428060:0crwdne428060:0</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.label>
-  <GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>crwdns428062:0crwdne428062:0</GrowthVat_Prohibited_GrowthVatInColony.stages.growth_vat.description>
+  <GrowthVat.label>crwdns424398:0crwdne424398:0</GrowthVat.label>
 </LanguageData>
