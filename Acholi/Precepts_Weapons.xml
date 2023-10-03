@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Weapons.label>crwdns432356:0crwdne432356:0</Weapons.label>
+  <NobleDespisedWeapons.label>crwdns437118:0crwdne437118:0</NobleDespisedWeapons.label>
+  <NobleDespisedWeapons.description>crwdns437120:0crwdne437120:0</NobleDespisedWeapons.description>
+  <NobleDespisedWeapons.comps.0.description>crwdns437122:0crwdne437122:0</NobleDespisedWeapons.comps.0.description>
+  <NobleDespisedWeapons.comps.1.description>crwdns437124:0crwdne437124:0</NobleDespisedWeapons.comps.1.description>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>crwdns437126:0crwdne437126:0</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.0>
+  <NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>crwdns437128:0crwdne437128:0</NobleDespisedWeapons.comps.2.thoughtStageDescriptions.1>
 </LanguageData>
