@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Skullspike.label>crwdns432334:0crwdne432334:0</Skullspike.label>
+  <Skullspike_Desired.label>crwdns436946:0crwdne436946:0</Skullspike_Desired.label>
+  <Skullspike_Desired.description>crwdns436948:0crwdne436948:0</Skullspike_Desired.description>
+  <Skullspike_Desired.comps.0.description>crwdns436950:0crwdne436950:0</Skullspike_Desired.comps.0.description>
+  
+  <Skullspike_Disapproved.label>crwdns436952:0crwdne436952:0</Skullspike_Disapproved.label>
+  <Skullspike_Disapproved.description>crwdns436954:0crwdne436954:0</Skullspike_Disapproved.description>
+  <Skullspike_Disapproved.comps.0.description>crwdns436956:0crwdne436956:0</Skullspike_Disapproved.comps.0.description>
 </LanguageData>
