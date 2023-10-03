@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Spacedrone.label>crwdns440436:0crwdne440436:0</Spacedrone.label>
-  <Spacedrone.description>crwdns440438:0crwdne440438:0</Spacedrone.description>
+  <BroadshieldProjector.label>crwdns448934:0crwdne448934:0</BroadshieldProjector.label>
+  <BroadshieldProjector.description>crwdns448936:0crwdne448936:0</BroadshieldProjector.description>
+  <BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>crwdns448938:0crwdne448938:0</BroadshieldProjector.comps.CompDestroyAfterDelay.countdownLabel>
 </LanguageData>
