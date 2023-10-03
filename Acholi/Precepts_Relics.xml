@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RelicDestroyed.stages.relic_destroyed.label>crwdns442166:0crwdne442166:0</RelicDestroyed.stages.relic_destroyed.label>
-  <RelicDestroyed.stages.relic_destroyed.description>crwdns442168:0crwdne442168:0</RelicDestroyed.stages.relic_destroyed.description>
+  <RelicDestroyed.label>crwdns431132:0crwdne431132:0</RelicDestroyed.label>
   
-  <RelicLost.stages.relic_lost.label>crwdns442170:0crwdne442170:0</RelicLost.stages.relic_lost.label>
-  <RelicLost.stages.relic_lost.description>crwdns442172:0crwdne442172:0</RelicLost.stages.relic_lost.description>
+  <RelicLost.label>crwdns431134:0crwdne431134:0</RelicLost.label>
 </LanguageData>
