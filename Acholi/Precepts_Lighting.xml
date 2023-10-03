@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DarknessCombat.label>crwdns432298:0crwdne432298:0</DarknessCombat.label>
+  <Darklight_Preferred.label>crwdns436434:0crwdne436434:0</Darklight_Preferred.label>
+  <Darklight_Preferred.description>crwdns436436:0crwdne436436:0</Darklight_Preferred.description>
   
-  <Eclipse.label>crwdns432300:0crwdne432300:0</Eclipse.label>
+  <DarknessCombat_Preferred.label>crwdns436438:0crwdne436438:0</DarknessCombat_Preferred.label>
+  <DarknessCombat_Preferred.description>crwdns436440:0crwdne436440:0</DarknessCombat_Preferred.description>
   
-  <Lighting.label>crwdns432302:0crwdne432302:0</Lighting.label>
+  <Eclipse_Beautiful.label>crwdns436442:0crwdne436442:0</Eclipse_Beautiful.label>
+  <Eclipse_Beautiful.description>crwdns436444:0crwdne436444:0</Eclipse_Beautiful.description>
 </LanguageData>
