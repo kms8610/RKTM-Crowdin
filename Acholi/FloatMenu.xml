@@ -1,318 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CallOnRadio>crwdns479974:0{0}crwdne479974:0</CallOnRadio>
-  <CannotUseReason>crwdns479976:0{0}crwdne479976:0</CannotUseReason>
-  <CannotUseSolarFlare>crwdns479978:0crwdne479978:0</CannotUseSolarFlare>
-  <CannotUseNoPower>crwdns479980:0crwdne479980:0</CannotUseNoPower>
-  <CannotUseNoPath>crwdns479982:0crwdne479982:0</CannotUseNoPath>
-  <CannotUseReserved>crwdns479984:0crwdne479984:0</CannotUseReserved>
-  <CannotUseFull>crwdns479986:0crwdne479986:0</CannotUseFull>
-  <LeaderUnavailable>crwdns479988:0{1_labelShort}crwdne479988:0</LeaderUnavailable>
-  <LeaderUnavailableNoLeader>crwdns479990:0crwdne479990:0</LeaderUnavailableNoLeader>
-  <NotAllowed>crwdns479992:0crwdne479992:0</NotAllowed>
-  
-  <FireAt>crwdns479994:0{1_label}crwdne479994:0</FireAt>
+  <NotAMechanitor>crwdns429298:0crwdne429298:0</NotAMechanitor>
+  <NotEnoughBandwidth>crwdns429300:0crwdne429300:0</NotEnoughBandwidth>
+  <ControlMech>crwdns429302:0{0}crwdne429302:0</ControlMech>
+  <CannotControlMech>crwdns429304:0{0}crwdne429304:0</CannotControlMech>
+  <CannotControlMechAlreadyControlled>crwdns429306:0{0}crwdne429306:0</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>crwdns429308:0crwdne429308:0</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>crwdns429310:0crwdne429310:0</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>crwdns429312:0{0}crwdne429312:0</CannotDisconnectMech>
+  <DisconnectMech>crwdns429314:0{0}crwdne429314:0</DisconnectMech>
+  <DisassembleMech>crwdns429316:0{0}crwdne429316:0</DisassembleMech>
+  <CannotDisassembleMech>crwdns429318:0{0}crwdne429318:0</CannotDisassembleMech>
+  <MustBeOverseer>crwdns429320:0crwdne429320:0</MustBeOverseer>
+  <Extract>crwdns429322:0crwdne429322:0</Extract>
+  <OutOfCommandRange>crwdns429324:0crwdne429324:0</OutOfCommandRange>
+  <CannotGoOutOfRange>crwdns429326:0crwdne429326:0</CannotGoOutOfRange>
+  <WasteContainerFull>crwdns429328:0crwdne429328:0</WasteContainerFull>
+  <CannotRepairMech>crwdns429330:0{0}crwdne429330:0</CannotRepairMech>
 
-  <OutOfRange>crwdns479996:0crwdne479996:0</OutOfRange>
-  <TooClose>crwdns479998:0crwdne479998:0</TooClose>
-  <CannotHitTarget>crwdns480000:0crwdne480000:0</CannotHitTarget>
-  <IsIncapableOfViolenceLower>crwdns480002:0{1_labelShort}crwdne480002:0</IsIncapableOfViolenceLower>
-  <IncapableOfViolenceLower>crwdns480004:0crwdne480004:0</IncapableOfViolenceLower>
-  <IsIncapableOfShootingLower>crwdns480006:0{0_labelShort}crwdne480006:0</IsIncapableOfShootingLower>
-  <IsNotDraftedLower>crwdns480008:0{1_labelShort}crwdne480008:0</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>crwdns480010:0crwdne480010:0</CannotOrderNonControlledLower>
-  <CannotAttackSelf>crwdns480012:0crwdne480012:0</CannotAttackSelf>
-  <CannotAttackSameFactionMember>crwdns480014:0crwdne480014:0</CannotAttackSameFactionMember>
-  <IncapableOfFirefighting>crwdns480016:0crwdne480016:0</IncapableOfFirefighting>
+  <ExtractXenogermFrom>crwdns429332:0{PAWN_nameDef}crwdne429332:0</ExtractXenogermFrom>
+  <EnterBuilding>crwdns429334:0{0_labelShort}crwdne429334:0</EnterBuilding>
+  <PawnHasNoGenes>crwdns429336:0{PAWN_nameDef}crwdne429336:0</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>crwdns429338:0{PAWN_nameDef}crwdne429338:0</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>crwdns429340:0crwdne429340:0</InXenogerminationComa>
+  <Occupied>crwdns429342:0crwdne429342:0</Occupied>
+  <OccupantEjectedFromGrowthVat>crwdns429344:0{PAWN_nameDef}crwdne429344:0</OccupantEjectedFromGrowthVat>
+  <TooOld>crwdns429346:0{PAWN_nameDef}crwdnd429346:0{AGEYEARS}crwdne429346:0</TooOld>
+  <PawnIsTooOld>crwdns429348:0{PAWN_nameDef}crwdne429348:0</PawnIsTooOld>
+  <PawnBiostarving>crwdns429350:0{PAWN_nameDef}crwdne429350:0</PawnBiostarving>
+  <NoViablePawns>crwdns429352:0crwdne429352:0</NoViablePawns>
+  <NoExtractablePawns>crwdns429354:0crwdne429354:0</NoExtractablePawns>
+  <NoImplantablePawns>crwdns429356:0crwdne429356:0</NoImplantablePawns>
+  <CannotEnterBuilding>crwdns429358:0{0_labelShort}crwdne429358:0</CannotEnterBuilding>
+  <AssignedToOtherPawn>crwdns429360:0{0_labelShort}crwdne429360:0</AssignedToOtherPawn>
 
-  <OrderManThing>crwdns480018:0{1_labelShort}crwdne480018:0</OrderManThing>
-  
-  <MeleeAttack>crwdns480020:0{1_label}crwdne480020:0</MeleeAttack>
-  <MeleeAttackToDeath>crwdns480022:0{1_label}crwdne480022:0</MeleeAttackToDeath>
-  <NoPath>crwdns480024:0crwdne480024:0</NoPath>
-  <Burying>crwdns480026:0crwdne480026:0</Burying>
-  <DesignatedFor>crwdns480028:0{0}crwdne480028:0</DesignatedFor>
+  <AbsorbXenogerm>crwdns429362:0{PAWN_nameDef}crwdne429362:0</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>crwdns429364:0{PAWN_nameDef}crwdne429364:0</CannotAbsorbXenogerm>
+  <SameXenotype>crwdns429366:0{PAWN_nameDef}crwdnd429366:0{PAWN_xenotype}crwdne429366:0</SameXenotype>
+  <XenogermLossShockPresent>crwdns429368:0{PAWN_nameDef}crwdne429368:0</XenogermLossShockPresent>
+  <CarryToSpecificThing>crwdns429370:0{0_labelShort}crwdne429370:0</CarryToSpecificThing>
+  <NoCasketOrBed>crwdns429372:0crwdne429372:0</NoCasketOrBed>
+  <TemporaryFactionMember>crwdns429374:0{PAWN_nameDef}crwdne429374:0</TemporaryFactionMember>
 
-  <ForbiddenLower>crwdns480030:0crwdne480030:0</ForbiddenLower>
-  <ForbiddenOutsideAllowedAreaLower>crwdns480032:0crwdne480032:0</ForbiddenOutsideAllowedAreaLower>
-  <NotInHomeArea>crwdns480034:0crwdne480034:0</NotInHomeArea>
-  <BurningLower>crwdns480036:0crwdne480036:0</BurningLower>
-  <NoEmptyPlaceLower>crwdns480038:0crwdne480038:0</NoEmptyPlaceLower>
-  <NoMergeTarget>crwdns480040:0crwdne480040:0</NoMergeTarget>
-  <AlreadyFilledLower>crwdns480042:0crwdne480042:0</AlreadyFilledLower>
-  <MissingMaterials>crwdns480044:0{0}crwdne480044:0</MissingMaterials>
-  <NoMedicineMatchingCategory>crwdns480046:0{CATEGORY}crwdne480046:0</NoMedicineMatchingCategory>
-  <UnderRequiredSkill>crwdns480048:0{0}crwdne480048:0</UnderRequiredSkill>
-  <UnderAllowedSkill>crwdns480050:0{0}crwdne480050:0</UnderAllowedSkill>
-  <AboveAllowedSkill>crwdns480052:0{0}crwdne480052:0</AboveAllowedSkill>
-  <NoReachableOutsideCell>crwdns480054:0crwdne480054:0</NoReachableOutsideCell>
-  <MissingRequiredSkillLevel>crwdns480056:0crwdne480056:0</MissingRequiredSkillLevel>
-  <AnimalInteractedTooRecently>crwdns480058:0crwdne480058:0</AnimalInteractedTooRecently>
-  <PrisonerInteractedTooRecently>crwdns480060:0crwdne480060:0</PrisonerInteractedTooRecently>
-  <NoUsableFood>crwdns480062:0crwdne480062:0</NoUsableFood>
-  <NoFood>crwdns480064:0crwdne480064:0</NoFood>
-  <NoFoodMatchingRestrictions>crwdns480066:0crwdne480066:0</NoFoodMatchingRestrictions>
-  <NoIngredient>crwdns480068:0{0_label}crwdne480068:0</NoIngredient>
-  <FoodBelowTitleRequirements>crwdns480070:0{0}crwdne480070:0</FoodBelowTitleRequirements>
-  <AnimalsSkillTooLow>crwdns480072:0{0}crwdne480072:0</AnimalsSkillTooLow>
-  <CantInteractAnimalDowned>crwdns480074:0crwdne480074:0</CantInteractAnimalDowned>
-  <CantInteractAnimalAsleep>crwdns480076:0crwdne480076:0</CantInteractAnimalAsleep>
-  <CantInteractAnimalBusy>crwdns480078:0crwdne480078:0</CantInteractAnimalBusy>
-  <CantRopeAnimalNoUsableReachablePens>crwdns480080:0crwdne480080:0</CantRopeAnimalNoUsableReachablePens>
-  <CantRopeAnimalNoEnclosedPens>crwdns480082:0crwdne480082:0</CantRopeAnimalNoEnclosedPens>
-  <CantRopeAnimalNoAllowedPens>crwdns480084:0crwdne480084:0</CantRopeAnimalNoAllowedPens>
-  <CantRopeAnimalNoReachablePens>crwdns480086:0crwdne480086:0</CantRopeAnimalNoReachablePens>
-  <CantRopeAnimalCantTouch>crwdns480088:0crwdne480088:0</CantRopeAnimalCantTouch>
-  <CantRopeAnimalNoSpace>crwdns480090:0crwdne480090:0</CantRopeAnimalNoSpace>
-  <CantRopeAnimalMentalState>crwdns480092:0{0_labelShort}crwdnd480092:0{1}crwdne480092:0</CantRopeAnimalMentalState>
-  <CantRopeAnimalAlreadyInBestPen>crwdns480094:0crwdne480094:0</CantRopeAnimalAlreadyInBestPen>
-  <SkillTooLowForConstruction>crwdns480096:0{0}crwdne480096:0</SkillTooLowForConstruction>
-  <NoComponentsToRepair>crwdns480098:0crwdne480098:0</NoComponentsToRepair>
-  <NoFuelToRefuel>crwdns480100:0{0}crwdne480100:0</NoFuelToRefuel>
-  <NoWort>crwdns480102:0crwdne480102:0</NoWort>
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>crwdns480104:0crwdne480104:0</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-  <NoFoodToFillHopper>crwdns480106:0crwdne480106:0</NoFoodToFillHopper>
-  <SelfTendDisabled>crwdns480108:0crwdne480108:0</SelfTendDisabled>
-  <ReservedForPrisoners>crwdns480110:0crwdne480110:0</ReservedForPrisoners>
-  <CannotReach>crwdns480112:0crwdne480112:0</CannotReach>
-  <NotSurgeryReady>crwdns480114:0crwdne480114:0</NotSurgeryReady>
-  <SkillDisabled>crwdns480116:0crwdne480116:0</SkillDisabled>
-  <CantSowCavePlantBecauseOfLight>crwdns480118:0crwdne480118:0</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>crwdns480120:0crwdne480120:0</CantSowCavePlantBecauseUnroofed>
-  <IncapableOfDeconstruction>crwdns480122:0crwdne480122:0</IncapableOfDeconstruction>
-  <IncapableOfMining>crwdns480124:0crwdne480124:0</IncapableOfMining>
-  <AngersFaction>crwdns480126:0crwdne480126:0</AngersFaction>
-  <InstallImplantNoBodyPart>crwdns480128:0crwdne480128:0</InstallImplantNoBodyPart>
-  <InstallImplantNotAllowedForNonColonists>crwdns480130:0crwdne480130:0</InstallImplantNotAllowedForNonColonists>
-  <InstallImplantAlreadyInstalled>crwdns480132:0crwdne480132:0</InstallImplantAlreadyInstalled>
-  <InstallImplantHediffRequired>crwdns480134:0{0}crwdne480134:0</InstallImplantHediffRequired>
-  <InstallImplantAlreadyMaxLevel>crwdns480136:0crwdne480136:0</InstallImplantAlreadyMaxLevel>
-  <InstallImplantMinLevel>crwdns480138:0{0}crwdne480138:0</InstallImplantMinLevel>
-  <InstallImplantPsychicallyDeaf>crwdns480140:0crwdne480140:0</InstallImplantPsychicallyDeaf>
-  <UpgradeImplant>crwdns480142:0{0}crwdnd480142:0{1}crwdne480142:0</UpgradeImplant>
-  <SurgeryViolationFellowFactionMember>crwdns480144:0crwdne480144:0</SurgeryViolationFellowFactionMember>
-  <BeingCarriedBy>crwdns480146:0{0_labelShort}crwdne480146:0</BeingCarriedBy>
-  <ContainerFull>crwdns480148:0crwdne480148:0</ContainerFull>
-  <AlreadyAssigned>crwdns480150:0crwdne480150:0</AlreadyAssigned>
-  
-  <ConsumeThing>crwdns480152:0{1_labelShort}crwdne480152:0</ConsumeThing>
-  
-  <CannotGoNoPath>crwdns480154:0crwdne480154:0</CannotGoNoPath>
-  <GoHere>crwdns480156:0crwdne480156:0</GoHere>
-  
-  <Arrest>crwdns480158:0{0}crwdne480158:0</Arrest>
-  <TryToArrest>crwdns480160:0{1_label}crwdnd480160:0{2}crwdne480160:0</TryToArrest>
-  <CannotArrest>crwdns480162:0crwdne480162:0</CannotArrest>
-  <ArrestChance>crwdns480164:0{0}crwdne480164:0</ArrestChance>
+  <SubcoreScannerNotInit>crwdns429376:0crwdne429376:0</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>crwdns429378:0crwdne429378:0</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>crwdns429380:0crwdne429380:0</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>crwdns429382:0{0}crwdne429382:0</EnterSubcoreScanner>
 
-  <Capture>crwdns480166:0{1_label}crwdne480166:0</Capture>
-  <CannotCapture>crwdns480168:0crwdne480168:0</CannotCapture>
-  <Unrecruitable>crwdns480170:0crwdne480170:0</Unrecruitable>
+  <BabyCareBreastfeed>crwdns429384:0{BABY_labelShort}crwdne429384:0</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>crwdns429386:0{BABY_labelShort}crwdne429386:0</BabyCareBreastfeedUnable>
+  <NoBabyFood>crwdns429388:0crwdne429388:0</NoBabyFood>
 
-  <Rescue>crwdns480172:0{1_label}crwdne480172:0</Rescue>
-  <PutSomewhereSafe>crwdns480174:0{1_label}crwdne480174:0</PutSomewhereSafe>
-  <TakingToBed>crwdns480176:0{0_labelShort}crwdne480176:0</TakingToBed>
-  <CannotRescue>crwdns480178:0crwdne480178:0</CannotRescue>
+  <CannotInteractBabyPlayFull>crwdns429390:0crwdne429390:0</CannotInteractBabyPlayFull>
 
-  <CarryToCryptosleepCasket>crwdns480180:0{1_label}crwdne480180:0</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>crwdns480182:0crwdne480182:0</CannotCarryToCryptosleepCasket>
+  <BloodfeedOn>crwdns429392:0{PAWN_nameDef}crwdne429392:0</BloodfeedOn>
+  <CannotBloodfeedOn>crwdns429394:0{PAWN_nameDef}crwdne429394:0</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>crwdns429396:0crwdne429396:0</CannotFeedOnWouldKill>
 
-  <CarryToShuttle>crwdns480184:0{0_label}crwdne480184:0</CarryToShuttle>
+  <!-- BreastfeedFailReason strings-->
+  <BreastfeedFailReason_MomNotEnoughMilk>crwdns429398:0{MOM_labelShort}crwdne429398:0</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>crwdns429400:0{MOM_labelShort}crwdne429400:0</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>crwdns429402:0{BABY_labelShort}crwdne429402:0</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>crwdns429404:0{BABY_labelShort}crwdnd429404:0{MOM_labelShort}crwdne429404:0</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>crwdns429406:0{BABY_labelShort}crwdnd429406:0{HAULER_labelShort}crwdne429406:0</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>crwdns429408:0{MOM_labelShort}crwdnd429408:0{HAULER_labelShort}crwdne429408:0</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>crwdns429410:0{MOM_labelShort}crwdnd429410:0{BABY_labelShort}crwdne429410:0</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>crwdns429412:0{HAULER_labelShort}crwdnd429412:0{BABY_labelShort}crwdnd429412:0{MOM_labelShort}crwdne429412:0</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>crwdns429414:0{HAULER_labelShort}crwdnd429414:0{BABY_labelShort}crwdne429414:0</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>crwdns429416:0{BABY_factionPawnsPlural}crwdnd429416:0{BABY_labelShort}crwdne429416:0</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>crwdns429418:0{MOM_labelShort}crwdne429418:0</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>crwdns429420:0{MOM_labelShort}crwdne429420:0</BreastfeedFailReason_MomInsideContainer> <!-- text_todo -->
+  <BreastfeedFailReason_MomBeingCarried>crwdns429422:0{MOM_labelShort}crwdne429422:0</BreastfeedFailReason_MomBeingCarried> <!-- text_todo -->
 
-  <NoCryptosleepCasket>crwdns480186:0crwdne480186:0</NoCryptosleepCasket>
-  <CryptosleepCasketGuestsNotAllowed>crwdns480188:0crwdne480188:0</CryptosleepCasketGuestsNotAllowed>
-  <CryptosleepCasketGuestPrisonersNotAllowed>crwdns480190:0crwdne480190:0</CryptosleepCasketGuestPrisonersNotAllowed>
-  <CryptosleepCasketOccupied>crwdns480192:0crwdne480192:0</CryptosleepCasketOccupied>
-  <NoPrisonerBed>crwdns480194:0crwdne480194:0</NoPrisonerBed>
-  <NoNonPrisonerBed>crwdns480196:0crwdne480196:0</NoNonPrisonerBed>
-  <NoAnimalBed>crwdns480198:0crwdne480198:0</NoAnimalBed>
-  <Reserved>crwdns480200:0crwdne480200:0</Reserved>
-  <ReservedBy>crwdns480202:0{1_labelShort}crwdne480202:0</ReservedBy>
-  <IsReservedBy>crwdns480204:0{0}crwdnd480204:0{1}crwdne480204:0</IsReservedBy>
-  <TooHeavy>crwdns480206:0crwdne480206:0</TooHeavy>
-  <SameFaction>crwdns480208:0{0_labelShort}crwdne480208:0</SameFaction>
+  <OrderImplantationIntoPawn>crwdns429424:0{PAWN_nameDef}crwdne429424:0</OrderImplantationIntoPawn>
+  <AcceptXenogerm>crwdns429426:0{0_xenotype}crwdne429426:0</AcceptXenogerm>
 
-  <Incapable>crwdns480210:0crwdne480210:0</Incapable>
-  <IncapableOfCapacity>crwdns480212:0{0}crwdne480212:0</IncapableOfCapacity>
-  <MustHaveHediff>crwdns480214:0{0_label}crwdne480214:0</MustHaveHediff>
+  <CarryToRechargerOrdered>crwdns429428:0{PAWN_labelShort}crwdne429428:0</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>crwdns429430:0{PAWN_labelShort}crwdne429430:0</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>crwdns429432:0crwdne429432:0</CannotCarryToRechargerNoneAvailable>
 
-  <MinSkill>crwdns480216:0crwdne480216:0</MinSkill>
-  
-  <Equip>crwdns480218:0{0}crwdne480218:0</Equip>
-  <EquipWarningBrawler>crwdns480220:0crwdne480220:0</EquipWarningBrawler>
-  <CannotEquip>crwdns480222:0{0}crwdne480222:0</CannotEquip>
-  <CannotManThing>crwdns480224:0{1_labelShort}crwdne480224:0</CannotManThing>
-  
-  <ForceWear>crwdns480226:0{1_labelShort}crwdne480226:0</ForceWear>
-  <CannotWear>crwdns480228:0{1_label}crwdne480228:0</CannotWear>
-  <ForceEquipApparel>crwdns480230:0{1_labelShort}crwdne480230:0</ForceEquipApparel>
-  <CannotEquipApparel>crwdns480232:0{1_label}crwdne480232:0</CannotEquipApparel>
-  <CannotWearBecauseOfMissingBodyParts>crwdns480234:0crwdne480234:0</CannotWearBecauseOfMissingBodyParts>
-  
-  <Reload>crwdns480236:0{GEAR_labelShort}crwdnd480236:0{AMMO_label}crwdne480236:0</Reload>
-  <ReloadFull>crwdns480238:0crwdne480238:0</ReloadFull>
-  <ReloadNotEnough>crwdns480240:0crwdne480240:0</ReloadNotEnough>
-  <ReloadCannotCarryEnough>crwdns480242:0{AMMO_label}crwdne480242:0</ReloadCannotCarryEnough>
-  
-  <CannotPickUp>crwdns480244:0{1_labelShort}crwdne480244:0</CannotPickUp>
-  <CannotPickUpAll>crwdns480246:0{1_label}crwdne480246:0</CannotPickUpAll>
-  <PickUpOne>crwdns480248:0{1_labelShort}crwdne480248:0</PickUpOne>
-  <PickUpAll>crwdns480250:0{1_label}crwdne480250:0</PickUpAll>
-  <PickUpSome>crwdns480252:0{1_labelShort}crwdne480252:0</PickUpSome>
-  <PickUpCount>crwdns480254:0{1_labelShort}crwdnd480254:0{{0}}crwdne480254:0</PickUpCount>
-  <CannotPickUpSome>crwdns480256:0{1_labelShort}crwdne480256:0</CannotPickUpSome>
-  <MaxPickUpAllowed>crwdns480258:0{0}crwdnd480258:0{1}crwdne480258:0</MaxPickUpAllowed>
-  
-  <CannotGiveToPackAnimal>crwdns480260:0{1_label}crwdne480260:0</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>crwdns480262:0{1_label}crwdne480262:0</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>crwdns480264:0{1_label}crwdne480264:0</GiveToPackAnimal>
-  <GiveToPackAnimalAll>crwdns480266:0{1_label}crwdne480266:0</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>crwdns480268:0{1_labelShort}crwdne480268:0</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>crwdns480270:0{1_labelShort}crwdnd480270:0{{0}}crwdne480270:0</GiveToPackAnimalCount>
-  
-  <CannotLoadIntoCaravan>crwdns480272:0{1_label}crwdne480272:0</CannotLoadIntoCaravan>
-  <CannotLoadIntoCaravanAll>crwdns480274:0{1_label}crwdne480274:0</CannotLoadIntoCaravanAll>
-  <LoadIntoCaravan>crwdns480276:0{1_label}crwdne480276:0</LoadIntoCaravan>
-  <LoadIntoCaravanAll>crwdns480278:0{1_label}crwdne480278:0</LoadIntoCaravanAll>
-  <LoadIntoCaravanSome>crwdns480280:0{1_labelShort}crwdne480280:0</LoadIntoCaravanSome>
-  <LoadIntoCaravanCount>crwdns480282:0{1_labelShort}crwdnd480282:0{{0}}crwdne480282:0</LoadIntoCaravanCount>
-  <OverweightLower>crwdns480284:0crwdne480284:0</OverweightLower>
+  <CannotStudy>crwdns429434:0crwdne429434:0</CannotStudy>
+  <AlreadyStudied>crwdns429436:0crwdne429436:0</AlreadyStudied>
+  <NoResearchBench>crwdns429438:0crwdne429438:0</NoResearchBench>
 
-  <CannotCarryToExit>crwdns480286:0{1_label}crwdne480286:0</CannotCarryToExit>
-  <CarryToExit>crwdns480288:0{1_label}crwdne480288:0</CarryToExit>
-  <CarryToExitAndCapture>crwdns480290:0{1_label}crwdne480290:0</CarryToExitAndCapture>
-  
-  <Strip>crwdns480292:0{1_label}crwdne480292:0</Strip>
-  <CannotStrip>crwdns480294:0{1_label}crwdne480294:0</CannotStrip>
-  <CannotDrop>crwdns480296:0{1_label}crwdne480296:0</CannotDrop>
-  <Carry>crwdns480298:0{0_label}crwdne480298:0</Carry>
-  <CannotCarry>crwdns480300:0{0_label}crwdne480300:0</CannotCarry>
-  <QuestRelated>crwdns480302:0crwdne480302:0</QuestRelated>
-  <QuestRelated_Outfit>crwdns480304:0crwdne480304:0</QuestRelated_Outfit>
-  <WouldReplaceLockedApparel>crwdns480306:0crwdne480306:0</WouldReplaceLockedApparel>
+  <NotAllowedHemogen>crwdns429440:0crwdne429440:0</NotAllowedHemogen>
 
-  <CannotPlaceIn>crwdns480308:0{0_label}crwdnd480308:0{1_label}crwdne480308:0</CannotPlaceIn>
-  <PlaceIn>crwdns480310:0{0_label}crwdnd480310:0{1_label}crwdne480310:0</PlaceIn>
+  <EjectGenepackFromGeneBank>crwdns429442:0crwdne429442:0</EjectGenepackFromGeneBank>
 
-  <SelfDestructHere>crwdns480312:0crwdne480312:0</SelfDestructHere>
-  
-  <Drop>crwdns480314:0{1_label}crwdne480314:0</Drop>
+  <ResultingMetTooLow>crwdns429444:0crwdne429444:0</ResultingMetTooLow>
 
-  <UseMedicalBed>crwdns480316:0crwdne480316:0</UseMedicalBed>
-  <NotInjured>crwdns480318:0crwdne480318:0</NotInjured>
-  <NoDoctor>crwdns480320:0crwdne480320:0</NoDoctor>
-  <NotForSlaves>crwdns480322:0crwdne480322:0</NotForSlaves><!-- text_todo -->
-  <SomeoneElseSleeping>crwdns480324:0{0}crwdne480324:0</SomeoneElseSleeping>
-  
-  <TradeWith>crwdns480326:0{0}crwdne480326:0</TradeWith>
-  <CannotTrade>crwdns480328:0crwdne480328:0</CannotTrade>
-
-  <Open>crwdns480330:0{0_label}crwdne480330:0</Open>
-  <CannotOpen>crwdns480332:0{0_label}crwdne480332:0</CannotOpen>
-  
-  <EnterMap>crwdns480334:0{0}crwdne480334:0</EnterMap>
-  <VisitSettlement>crwdns480336:0{0}crwdne480336:0</VisitSettlement>
-  <VisitPeaceTalks>crwdns480338:0{0}crwdne480338:0</VisitPeaceTalks>
-  <VisitEscapeShip>crwdns480340:0{0}crwdne480340:0</VisitEscapeShip>
-  <AttackSettlement>crwdns480342:0{0}crwdne480342:0</AttackSettlement>
-  <ApproachSite>crwdns480344:0{0}crwdne480344:0</ApproachSite>
-  <ApproachingSite>crwdns480346:0{0}crwdne480346:0</ApproachingSite>
-  <OfferGifts>crwdns480348:0crwdne480348:0</OfferGifts>
-  <TradeWithSettlement>crwdns480350:0{0}crwdne480350:0</TradeWithSettlement>
-
-  <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>crwdns480352:0crwdne480352:0</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>crwdns480354:0crwdne480354:0</OpenCryptosleepCasket>
-  <EnterShuttle>crwdns480356:0crwdne480356:0</EnterShuttle>
-
-  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <CannotGenericWork>crwdns480358:0{0}crwdnd480358:0{1}crwdne480358:0</CannotGenericWork>
-  <CannotGenericWorkCustom>crwdns480360:0{0}crwdne480360:0</CannotGenericWorkCustom>
-
-  <CannotMissingHealthActivities>crwdns480362:0{0}crwdne480362:0</CannotMissingHealthActivities>
-
-  <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <CannotGenericAlreadyAm>crwdns480364:0{0}crwdnd480364:0{2_labelShort}crwdne480364:0</CannotGenericAlreadyAm>
-  <CannotGenericAlreadyAmCustom>crwdns480366:0{0}crwdne480366:0</CannotGenericAlreadyAmCustom>
-
-  <CannotPrioritizeWorkTypeDisabled>crwdns480368:0{0}crwdne480368:0</CannotPrioritizeWorkTypeDisabled>
-  <MissingTitleAbility>crwdns480370:0crwdne480370:0</MissingTitleAbility>
-
-  <CannotPrioritizeWorkGiverDisabled>crwdns480372:0{0}crwdne480372:0</CannotPrioritizeWorkGiverDisabled>
-  <WillNever>crwdns480374:0{0}crwdne480374:0</WillNever>
-
-  <CannotPrioritizeNotAssignedToWorkType>crwdns480376:0{0}crwdne480376:0</CannotPrioritizeNotAssignedToWorkType>
-  <NotAssigned>crwdns480378:0crwdne480378:0</NotAssigned>
-  <NotAssignedToWorkType>crwdns480380:0{0}crwdne480380:0</NotAssignedToWorkType>
-
-  <CannotPrioritizeResearch>crwdns480382:0crwdne480382:0</CannotPrioritizeResearch>
-
-  <CannotPrioritizeForbidden>crwdns480384:0{1_label}crwdne480384:0</CannotPrioritizeForbidden>
-  <CannotPrioritizeCellForbidden>crwdns480386:0crwdne480386:0</CannotPrioritizeCellForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>crwdns480388:0crwdne480388:0</CannotPrioritizeForbiddenOutsideAllowedArea>
-  <CannotPrioritizeBurying>crwdns480390:0crwdne480390:0</CannotPrioritizeBurying>
-
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
-  <PrioritizeGeneric>crwdns480392:0{0}crwdnd480392:0{1}crwdne480392:0</PrioritizeGeneric>
-  
-  <DropAtEdge>crwdns480394:0crwdne480394:0</DropAtEdge>
-  <DropInCenter>crwdns480396:0crwdne480396:0</DropInCenter>
-  <AttackShuttle>crwdns480398:0{0}crwdne480398:0</AttackShuttle>
-  <AttackAndDropAtEdge>crwdns480400:0{0}crwdne480400:0</AttackAndDropAtEdge>
-  <AttackAndDropInCenter>crwdns480402:0{0}crwdne480402:0</AttackAndDropInCenter>
-  
-  <VomitingLower>crwdns480404:0crwdne480404:0</VomitingLower>
-  <NotInterruptibleLower>crwdns480406:0crwdne480406:0</NotInterruptibleLower>
-  
-  <AddWaypoint>crwdns480408:0crwdne480408:0</AddWaypoint>
-  <RemoveWaypoint>crwdns480410:0crwdne480410:0</RemoveWaypoint>
-
-  <RemoveAllDesignations>crwdns480412:0crwdne480412:0</RemoveAllDesignations>
-  <DesignateAll>crwdns480414:0crwdne480414:0</DesignateAll>
-  <CountToDesignate>crwdns480416:0{0}crwdne480416:0</CountToDesignate>
-  <ForbidAllItems>crwdns480418:0crwdne480418:0</ForbidAllItems>
-  <UnforbidAllItems>crwdns480420:0crwdne480420:0</UnforbidAllItems>
-
-  <!-- Transport pods -->
-  <LandInExistingMap>crwdns480422:0{0}crwdne480422:0</LandInExistingMap>
-  <TransportPodsContentsWillBeLost>crwdns480424:0crwdne480424:0</TransportPodsContentsWillBeLost>
-  <FormCaravanHere>crwdns480426:0crwdne480426:0</FormCaravanHere>
-  <GiveToCaravan>crwdns480428:0{0}crwdne480428:0</GiveToCaravan>
-  <GiveGiftViaTransportPods>crwdns480430:0{0}crwdnd480430:0{1}crwdne480430:0</GiveGiftViaTransportPods>
-  <NotPartOfLaunchGroup>crwdns480432:0crwdne480432:0</NotPartOfLaunchGroup>
-
-  <!-- Rescue quest -->
-  <FreePrisoner>crwdns480434:0crwdne480434:0</FreePrisoner>
-  <OfferHelp>crwdns480436:0crwdne480436:0</OfferHelp>
-
-  <ApplyTechprint>crwdns480438:0{0}crwdne480438:0</ApplyTechprint>
-
-  <EnterCooldownBlocksEntering>crwdns480440:0crwdne480440:0</EnterCooldownBlocksEntering>
-
-  <!-- CommsConsole -->
-  <NoCommsTarget>crwdns480442:0crwdne480442:0</NoCommsTarget>
-
-  <Invoke>crwdns480444:0{0}crwdne480444:0</Invoke>
-  <CannotInvoke>crwdns480446:0{0}crwdne480446:0</CannotInvoke>
-  <Power>crwdns480448:0crwdne480448:0</Power>
-  <AlreadyInvoked>crwdns480450:0crwdne480450:0</AlreadyInvoked>
-
-  <Tend>crwdns480452:0{0}crwdne480452:0</Tend>
-  <CannotTend>crwdns480454:0{0}crwdne480454:0</CannotTend>
-  <TendingNotRequired>crwdns480456:0{0}crwdne480456:0</TendingNotRequired>
-  <WithoutMedicine>crwdns480458:0crwdne480458:0</WithoutMedicine>
-
-  <RepairThing>crwdns480460:0{0}crwdne480460:0</RepairThing>
-  <CannotRepair>crwdns480462:0{0}crwdne480462:0</CannotRepair>
-
-  <CannotEnter>crwdns480464:0crwdne480464:0</CannotEnter>
-
-  <!-- Romance partner -->
-  <CannotRomance>crwdns480466:0{0}crwdne480466:0</CannotRomance>
-  <CanRomance>crwdns480468:0{0}crwdne480468:0</CanRomance>
-
-  <!-- Feeding -->
-  <WarningFoodDisliked>crwdns480470:0crwdne480470:0</WarningFoodDisliked>
+  <RomanceOnCooldown>crwdns429446:0crwdne429446:0</RomanceOnCooldown><!-- text_todo -->
 
 </LanguageData>
