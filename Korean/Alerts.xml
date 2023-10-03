@@ -1,199 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ClickToJumpToProblem>클릭해서 사건 발생 장소로 이동</ClickToJumpToProblem>
+  <ClickToJumpToProblem>Click to jump to problem</ClickToJumpToProblem>
 
-  <BreakRiskMinor>가벼운 정신불안</BreakRiskMinor>
-  <BreakRiskMajor>심각한 정신불안</BreakRiskMajor>
-  <BreakRiskExtreme>극심한 정신불안</BreakRiskExtreme>
-  <BreakRiskMinorDesc>다음 정착민은 가벼운 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskMinorDesc>
-  <BreakRiskMajorDesc>다음 정착민은 심각한 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskMajorDesc>
-  <BreakRiskExtremeDesc>다음 정착민은 극심하고 폭력적인 정신이상 징후를 보이고 있습니다.\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>정착민의 기분에 영향을 미치는 요소들을 확인하여 문제를 해결하세요.\n\n멋진 식사, 쉬는 시간, 오락 시설, 아름다운 장식물, 술, 담배, 마약 등을 제공하여 정착민의 기분을 달래줄 수 있습니다.</BreakRiskDescEnding>
+  <BreakRiskMinor>Minor break risk</BreakRiskMinor>
+  <BreakRiskMajor>Major break risk</BreakRiskMajor>
+  <BreakRiskExtreme>Extreme break risk</BreakRiskExtreme>
+  <BreakRiskMinorDesc>These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more.</BreakRiskDescEnding>
 
-  <ColonistNeedsRescue>구조가 필요한 정착민</ColonistNeedsRescue>
-  <ColonistsNeedRescue>구조가 필요한 정착민들</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>다음 정착민들이 행동 불능 상태가 되었습니다.\n\n{0}\n다른 정착민을 보내 침대로 이송하세요.\n\n(다른 정착민을 선택하고 행동 불능 상태가 된 정착민을 우클릭하여 구조 명령을 내릴 수 있습니다.)</ColonistsNeedRescueDesc>
-  <ColonistsNeedRescueDescController>다음 정착민들이 행동 불능 상태가 되었습니다.\n\n{0}\n다른 정착민을 보내 침대로 이송하세요.\n\n(다른 정착민을 선택하고 행동 불능 상태가 된 정착민 위에서 왼쪽 트리거를 사용해 구조 명령을 내릴 수 있습니다.)</ColonistsNeedRescueDescController>
+  <ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.)</ColonistsNeedRescueDescController>
 
-  <NeedDefenses>방어시설 필요</NeedDefenses>
-  <NeedDefensesDesc>이곳에 정착한 뒤로 시간이 꽤 흘렀으니 누군가에게 위치가 알려졌을 가능성이 높습니다. 얘기치 않은 침략에 대비하여 방어를 준비해야 합니다.\n\n엄폐물이나 함정은 많은 도움이 됩니다.</NeedDefensesDesc>
+  <NeedDefenses>Need defenses</NeedDefenses>
+  <NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps.</NeedDefensesDesc>
 
-  <NeedDoctor>의사 필요</NeedDoctor>
-  <NeedDoctorDesc>다음 정착민이 치료를 원하지만 정착지에 의사가 없습니다.\n\n{0}\n건강한 정착민을 의사로 지정하세요. 방치된 상처는 제대로 아물지 않고 영원히 남을 수 있습니다.</NeedDoctorDesc>
+  <NeedDoctor>Need doctor</NeedDoctor>
+  <NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
 
-  <NeedMiner>광부 필요</NeedMiner>
-  <NeedMinerDesc>바위를 채굴하도록 지시했지만 정착민 중 광부가 없습니다.\n\n정착민을 채굴 역할에 배치하세요.</NeedMinerDesc>
+  <NeedMiner>Need miner</NeedMiner>
+  <NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
 
-  <NeedWarden>간수 필요</NeedWarden>
-  <NeedWardenDesc>수감자가 있지만 간수가 없습니다.\n\n정착민을 간수 역할에 배치하세요.</NeedWardenDesc>
+  <NeedWarden>Need warden</NeedWarden>
+  <NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 
-  <LowFood>식량 부족</LowFood>
-  <LowFoodDesc>보유 식량이 매우 적습니다.\n\n    한 끼 식사 가능 횟수: {0}\n    음식이 필요한 정착민 및 수감자의 수: {1}\n    비축식량: {2}일\n\n재배, 구매, 탐색하거나 죽여서 식재료나 식량을 얻으세요.</LowFoodDesc>
+  <LowFood>Low food</LowFood>
+  <LowFoodDesc>You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
 
-  <LowMedicine>약품 부족</LowMedicine>
-  <LowMedicineDesc>보유한 약품이 {0}개밖에 남지 않았습니다.\n\n상인에게서 약품을 구입하세요.</LowMedicineDesc>
-  <NoMedicineDesc>보유한 약품이 없습니다.\n\n상인에게서 약품을 구입하세요.</NoMedicineDesc>
+  <LowMedicine>Low medicine</LowMedicine>
+  <LowMedicineDesc>You only have {0} medications left in storage.\n\nBuy more medicine from traders.</LowMedicineDesc>
+  <NoMedicineDesc>You have no medicine left in storage.\n\nBuy more medicine from traders.</NoMedicineDesc>
   
-  <NeedColonistBeds>정착민 침대 부족</NeedColonistBeds>
-  <NeedColonistBedsDesc>침대 수보다 더 많은 정착민이 머물고 있습니다.\n\n침대를 더 만들거나 수감자 전용 침대를 정착민 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요. 추가적인 비용이 들지 않으며 즉시 배치됩니다.</NeedColonistBedsDesc>
+  <NeedColonistBeds>Need colonist beds</NeedColonistBeds>
+  <NeedColonistBedsDesc>You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedColonistBedsDesc>
   
-  <AlertColonistLeftUnburied>방치된 정착민 시체</AlertColonistLeftUnburied>
-  <AlertColonistLeftUnburiedDesc>사망한 정착민이 매장되지 않은 채 방치되어 있습니다.\n\n방치된 시신은 다른 정착민들의 기분을 망칠 것입니다.</AlertColonistLeftUnburiedDesc>
+  <AlertColonistLeftUnburied>Colonist left unburied</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>A colonist is left unburied.\n\nThis may negatively affect your colonists' mood.</AlertColonistLeftUnburiedDesc>
 
-  <HunterLacksWeapon>사냥용 원거리 무기 필요</HunterLacksWeapon>
-  <HunterLacksWeaponDesc>사냥꾼으로 지정된 정착민이 원거리 무기를 가지고 있지 않습니다.\n\n사냥꾼에게 원거리 무기를 주기 전까지는 사냥을 하지 않습니다.\n\n원거리 무기가 필요한 사냥꾼은 다음과 같습니다</HunterLacksWeaponDesc>
+  <HunterLacksWeapon>Hunter lacks ranged weapon</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons</HunterLacksWeaponDesc>
 
-  <AlertTatteredApparel>낡은 옷</AlertTatteredApparel>
-  <AlertTatteredApparelDesc>다음 정착민들이 낡은 옷 때문에 스트레스를 받고 있습니다.\n\n{0}\n더 좋은 옷이 필요합니다.\n\n옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</AlertTatteredApparelDesc>
+  <AlertTatteredApparel>Tattered apparel</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertTatteredApparelDesc>
 
-  <AlertUnhappyNudity>벌거벗음</AlertUnhappyNudity>
-  <AlertUnhappyNudityDesc>다음 정착민들이 옷을 입지 못해 스트레스를 받고 있습니다.\n\n{0}\n옷가지를 가져다주세요.\n\n옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</AlertUnhappyNudityDesc>
+  <AlertUnhappyNudity>Unhappy nudity</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders.</AlertUnhappyNudityDesc>
 
-  <Starvation>굶주림</Starvation>
-  <StarvationDesc>다음 정착민들이 굶주리고 있습니다.\n\n{0}\n식량을 구해주세요.</StarvationDesc>
+  <Starvation>Starvation</Starvation>
+  <StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
 
-  <StarvationAnimals>동물 굶주림</StarvationAnimals>
-  <StarvationAnimalsDesc>다음 동물들이 굶주리고 있습니다.\n\n{0}\n식량을 구해주세요.</StarvationAnimalsDesc>
+  <StarvationAnimals>Animal starvation</StarvationAnimals>
+  <StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
 
-  <Exhaustion>탈진</Exhaustion>
-  <ExhaustionDesc>다음 정착민들이 탈진하여 휴식이 필요합니다.\n\n{0}\n휴식을 위해서 정착민들이 사용할 수 있는 침대가 필요합니다. 또한 소집상태를 해제했는지 확인해주세요.</ExhaustionDesc>
+  <Exhaustion>Exhaustion</Exhaustion>
+  <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
 
-  <NeedFoodHopper>투입구 필요</NeedFoodHopper>
-  <NeedFoodHopperDesc>영양죽 배급기 옆에 투입구가 없습니다.\n\n영양죽 배급기는 투입구를 통해 조리되지 않은 식품을 받아야 작동이 가능합니다.\n\n투입구를 배급기 옆에 건설하세요.</NeedFoodHopperDesc>
+  <NeedFoodHopper>Need food hopper</NeedFoodHopper>
+  <NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
 
-  <NeedMealSource>조리기구 필요</NeedMealSource>
-  <NeedMealSourceDesc>음식을 만들 수 있는 방법이 없습니다.\n\n스토브, 모닥불, 또는 영양죽 배급기를 건설하세요.\n\n(감옥에 건설할 경우 정착민들이 사용할 수 없습니다.)</NeedMealSourceDesc>
+  <NeedMealSource>Need meal source</NeedMealSource>
+  <NeedMealSourceDesc>You have no way of preparing proper meals from raw food.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
 
-  <NeedJoySource>오락시설 필요</NeedJoySource>
-  <NeedJoySourceDesc>{1}에서 즐길 수 있는 오락 유형은 {0}가지 뿐이지만, 현재 기대 수준({2})에서 정착민들이 만족하려면 {3}가지 오락시설이 필요합니다. 새롭고 다양한 오락 유형을 제공해 주세요.\n\n{4}\n\n{5}\n\n물품 선택 후 'i' 버튼으로 볼 수 있는 정보 화면에서 해당 물품의 오락 유형을 확인할 수 있습니다.</NeedJoySourceDesc>
-  <AvailableRecreationTypes>가능한 오락 유형</AvailableRecreationTypes>
-  <MissingRecreationTypes>없는 오락 유형</MissingRecreationTypes>
-  <CurrentExpectationsAndRecreation>현재의 기대감({0})에 의해, 매일 {1}만큼 감소합니다. {2}가지 유형의 오락시설을 보유하기를 권장합니다.</CurrentExpectationsAndRecreation>
-  <bored>질림</bored>
+  <NeedJoySource>Need recreation variety</NeedJoySource>
+  <NeedJoySourceDesc>There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>Available recreation types</AvailableRecreationTypes>
+  <MissingRecreationTypes>Missing recreation types</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>At current expectations ({0}), each tolerance falls by {1} per day awake. Having {2} recreation types is recommended.</CurrentExpectationsAndRecreation>
+  <bored>bored</bored>
 
-  <Boredom>지루함</Boredom>
-  <BoredomDesc>오락 시설이 필요하거나 사용 가능한 모든 오락 시설에 싫증을 느끼는 사람들:\n\n{0}\n\n좀 더 다양하게 오락 시설을 설치하세요.\n\n{PAWN_labelShort}(이)가 현재 사용 가능한 오락 시설:\n\n{2}</BoredomDesc>
+  <Boredom>Boredom</Boredom>
+  <BoredomDesc>These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2}</BoredomDesc>
 
-  <NeedBatteries>축전지 필요</NeedBatteries>
-  <NeedBatteriesDesc>태양광이나 풍력 발전기는 있지만 축전지가 없습니다. 태양이 지거나 바람이 멈추면 전기가 끊길 것입니다.</NeedBatteriesDesc>
-  <NeedBatteriesResearchedDesc>축전지를 한두 개 건설해서 예비 전력을 확보하세요.</NeedBatteriesResearchedDesc>
-  <NeedBatteriesNotResearchedDesc>축전지를 연구하고 한두 개 건설해서 예비 전력을 확보하세요.</NeedBatteriesNotResearchedDesc>
+  <NeedBatteries>Need batteries</NeedBatteries>
+  <NeedBatteriesDesc>You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms.</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>Build a battery or two to guarantee sustained power.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Research batteries and build a couple to guarantee sustained power.</NeedBatteriesNotResearchedDesc>
 
-  <BrawlerHasRangedWeapon>싸움꾼이 원거리 무기 사용</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>싸움꾼 특성을 가진 정착민에게 원거리 무기를 지급한 상태입니다. 이로 인해 싸움꾼의 기분이 매우 악화됩니다.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Brawler has ranged weapon</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
 
-  <ShieldUserHasRangedWeapon>보호막 사용자가 원거리 무기 사용</ShieldUserHasRangedWeapon>
-  <ShieldUserHasRangedWeaponDesc>정착민 중 한 명이 방어 벨트와 원거리 무기를 같이 사용하고 있습니다. 방어 벨트의 보호막은 원거리 무기 사용을 막습니다.</ShieldUserHasRangedWeaponDesc>
+  <ShieldUserHasRangedWeapon>Shield user has ranged weapon</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them).</ShieldUserHasRangedWeaponDesc>
 
-  <NeedResearchProject>다음 연구 진행 가능</NeedResearchProject>
-  <NeedResearchProjectDesc>설치된 연구대가 있지만 현재 진행중인 연구가 없습니다.\n\n연구 메뉴에서 연구할 항목을 지정해 주세요.</NeedResearchProjectDesc>
+  <NeedResearchProject>Need research project</NeedResearchProject>
+  <NeedResearchProjectDesc>You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project.</NeedResearchProjectDesc>
 
-  <ColonistsIdle>{0}명의 정착민 대기 중</ColonistsIdle>
-  <ColonistsIdleDesc>다음 정착민들이 할 일이 없어 주변을 방황하고 있습니다.\n\n{0}\n무언가 생산적인 일을 찾아주어야 할 것입니다.</ColonistsIdleDesc>
+  <ColonistsIdle>{0} colonists idle</ColonistsIdle>
+  <ColonistsIdleDesc>These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
   
-  <CaravanIdle>상단 대기 중</CaravanIdle>
-  <CaravanIdleDesc>이 상단은 다음 목적지 설정을 기다리고 있습니다:\n\n{0}</CaravanIdleDesc>
+  <CaravanIdle>Caravan idle</CaravanIdle>
+  <CaravanIdleDesc>These caravans are waiting for you to set their next destination:\n\n{0}</CaravanIdleDesc>
 
-  <ColonistNeedsTreatment>치료 필요</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>다음 정착민들이 치료를 받아야 합니다. 치료를 받지 못하면 상처 때문에 사망하거나 영구적인 장애가 발생할 수 있습니다.\n\n{0}\n의료용 침대로 보내 치료하세요.\n\n(먼저 침대를 선택해서 의료용 침대로 전환하고, 상처 입은 정착민을 선택한 후 병원 침대를 마우스 오른쪽 버튼으로 클릭하세요.)</ColonistNeedsTreatmentDesc>
-  <ColonistNeedsTreatmentDescController>다음 정착민들이 치료를 받아야 합니다. 치료를 받지 못하면 상처 때문에 사망하거나 영구적인 장애가 발생할 수 있습니다.\n\n{0}\n의료용 침대로 보내 치료하세요.\n\n(먼저 침대를 선택해서 의료용 침대로 전환하고, 상처 입은 정착민을 선택한 후 병원 침대 위에서 왼쪽 버튼을 사용하세요.)</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatment>Medical treatment needed</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.)</ColonistNeedsTreatmentDescController>
 
-  <AlertHypothermia>저체온증</AlertHypothermia>
-  <AlertHypothermiaDesc>다음 정착민이 저체온증으로 인해 고통받고 있습니다.\n\n{0}\n계절에 맞는 옷을 만들어 입히거나 따듯한 곳으로 이동해야합니다.</AlertHypothermiaDesc>
+  <AlertHypothermia>Hypothermia</AlertHypothermia>
+  <AlertHypothermiaDesc>These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated.</AlertHypothermiaDesc>
   
-  <PatientsAwaitingMedicalOperation>{0}명 수술 대기중</PatientsAwaitingMedicalOperation>
-  <PatientsAwaitingMedicalOperationDesc>다음 환자들이 수술을 기다리고 있습니다.\n\n{0}\n필요한 의료기구를 가지고 있는지 확인하고, 활동 가능한 의사를 준비하세요.</PatientsAwaitingMedicalOperationDesc>
+  <PatientsAwaitingMedicalOperation>{0} patients await medical operation</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available.</PatientsAwaitingMedicalOperationDesc>
 
-  <FireInHomeArea>화재!</FireInHomeArea>
-  <FireInHomeAreaDesc>주거구역 내에 화재가 발생했습니다.</FireInHomeAreaDesc>
+  <FireInHomeArea>Fire!</FireInHomeArea>
+  <FireInHomeAreaDesc>There is a fire in the home area.</FireInHomeAreaDesc>
 
-  <PawnsWithLifeThreateningDisease>심각한 질병</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>다음 사람들은 심각한 질병으로 인해 사망의 위험이 있습니다.\n\n{0}\n최대한 많은 의사들이 관심을 가지고 보살필 수 있도록 하세요.</PawnsWithLifeThreateningDiseaseDesc>
-  <PawnsWithLifeThreateningDiseaseAmputationDesc>다음 사람들은 심각한 질병으로 인해 사망의 위험이 있습니다.\n\n{0}\n가능하다면 생명을 유지하기 위해 절단을 하거나 감염된 부위를 교체하는 것이 좋습니다.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+  <PawnsWithLifeThreateningDisease>Medical emergency</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>당구대에 여유 공간 필요</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>당구대 중 하나가 장애물 바로 옆에 놓여있어 정착민들이 사용할 수 없습니다.\n\n당구대는 주변 모든 방향으로 열린 공간이 필요합니다.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Billiards needs space</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable.</BilliardsNeedsSpaceDesc>
 
-  <ChessTablesNeedChairs>체스 탁자에 의자 필요</ChessTablesNeedChairs>
-  <ChessTablesNeedChairsDesc>인접한 의자가 없는 체스 탁자가 있습니다.\n\n체스 탁자는 인접한 의자가 있어야 사용할 수 있습니다. 체스는 한 번에 두 명까지 할 수 있습니다.</ChessTablesNeedChairsDesc>
+  <ChessTablesNeedChairs>Chess table needs chairs</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>One of your chess tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the chess table. Up to two people can use a chess table at once.</ChessTablesNeedChairsDesc>
 
-  <PokerTablesNeedChairs>포커 탁자에 의자 필요</PokerTablesNeedChairs>
-  <PokerTablesNeedChairsDesc>인접한 의자가 없는 포커 탁자가 있습니다.\n\n포커 탁자는 인접한 의자가 있어야 사용할 수 있습니다. 포커는 한 번에 여덟 명까지 할 수 있습니다.</PokerTablesNeedChairsDesc>
+  <PokerTablesNeedChairs>Poker table needs chairs</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>One of your poker tables does not have any adjacent chairs.\n\nBuild adjacent chairs or stools to allow your colonists to use the poker table. Up to eight people can use a poker table at once.</PokerTablesNeedChairsDesc>
 
-  <HunterHasShieldAndRangedWeapon>사냥꾼이 보호막 생성기와 원거리 무기 사용</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>사냥꾼 중 한 명이 보호막 벨트와 원거리 무기를 같이 사용하고 있습니다. 보호막 벨트는 원거리에서의 발사를 막습니다.\n\n벨트를 벗기 전까지는 사냥할 수 없습니다.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeapon>Hunter has shield and ranged weapon</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed.</HunterHasShieldAndRangedWeaponDesc>
 
-  <NeedWarmClothes>따뜻한 옷 필요</NeedWarmClothes>
-  <NeedWarmClothesDesc1>{0}명의 정착민이 이번 겨울에 입을 옷이 없습니다.</NeedWarmClothesDesc1>
-  <NeedWarmClothesDesc1All>모든 정착민이 이번 겨울에 입을 옷이 없습니다.</NeedWarmClothesDesc1All>
-  <NeedWarmClothesDesc2>외부 온도가 곧 {0}도로 떨어집니다.\n\n따뜻한 옷은 재봉 작업대에서 만들거나 상인에게 살 수 있습니다.</NeedWarmClothesDesc2>
+  <NeedWarmClothes>Need warm clothes</NeedWarmClothes>
+  <NeedWarmClothesDesc1>At least {0} of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>All of your colonists will lack warm clothes when the cold season comes.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders.</NeedWarmClothesDesc2>
 
-  <ImmobileCaravan>상단이 움직일 수 없음</ImmobileCaravan>
-  <ImmobileCaravanDesc>상단 중 하나가 무게 초과로 인해 움직일 수 없습니다.\n\n소지품 탭에서 일부 물건을 선택하고 버릴 수 있습니다.</ImmobileCaravanDesc>
+  <ImmobileCaravan>Immobile caravan</ImmobileCaravan>
+  <ImmobileCaravanDesc>One of your caravans is immobile because it carries too much.\n\nYou can make the caravan mobile again by abandoning some items in the ITEMS tab.</ImmobileCaravanDesc>
 
-  <BuildingCantBeUsedRoofed>지붕으로 인한 건물 사용 불가</BuildingCantBeUsedRoofed>
-  <BuildingCantBeUsedRoofedDesc>이 시설은 지붕 아래에서는 사용할 수 없습니다. 지붕을 제거하세요.</BuildingCantBeUsedRoofedDesc>
+  <BuildingCantBeUsedRoofed>Building unusable due to roof</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>One or more of your buildings can only be used if not roofed, but there is a roof over it. The building(s) won't be usable until you remove the roof.</BuildingCantBeUsedRoofedDesc>
 
-  <AlertHeatstroke>열사병</AlertHeatstroke>
-  <AlertHeatstrokeDesc>다음 정착민이 열사병으로 고통 받고 있습니다.\n\n{0}\n서늘한 곳으로 데려가십시오. 냉각기를 통해 방을 식히거나, 밀폐된 지하 공간을 활용하십시오.</AlertHeatstrokeDesc>
+  <AlertHeatstroke>Heatstroke</AlertHeatstroke>
+  <AlertHeatstrokeDesc>The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door.</AlertHeatstrokeDesc>
 
-  <QuestPartMoodBelowThreshold>불쾌한 방문객</QuestPartMoodBelowThreshold>
-  <QuestPartMoodBelowThresholdDesc>{0} 임무를 완수하려면 방문객의 기분이 좋아야 합니다. 다음 방문객의 기분을 개선하기 위한 적당한 조치를 취하세요.\n\n{1}</QuestPartMoodBelowThresholdDesc>
+  <QuestPartMoodBelowThreshold>Guest unhappy</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
-  <QuestPartShuttleLeaveDelay>{0} 후 왕복선 출발</QuestPartShuttleLeaveDelay>
-  <QuestPartShuttleLeaveDelayDesc>왕복선이 {1} 후 출발합니다. {0} 임무를 수행하려면 출발하기 전에 다음 인물이나 물품을 왕복선으로 옮겨야 합니다.\n\n{2}</QuestPartShuttleLeaveDelayDesc>
-  <QuestPartShuttleLeaveDelayDescHidden>왕복선이 {0} 후 출발합니다.</QuestPartShuttleLeaveDelayDescHidden>
+  <QuestPartShuttleLeaveDelay>Shuttle leaving in {0}</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>The shuttle will leave in {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
-  <QuestPartShuttleArriveDelay>{0} 후 왕복선 도착</QuestPartShuttleArriveDelay>
-  <QuestPartShuttleArriveDelayDesc>왕복선이 {1} 후 도착합니다. {0} 임무를 수행하려면 출발하기 전에 다음 인물이나 물품을 왕복선으로 옮겨야 합니다.\n\n{2}</QuestPartShuttleArriveDelayDesc>
-  <QuestPartShuttleArriveDelayDescHidden>왕복선이 {0} 후 도착합니다.</QuestPartShuttleArriveDelayDescHidden>
+  <QuestPartShuttleArriveDelay>Shuttle arriving in {0}</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>A shuttle will arrive in {0}.</QuestPartShuttleArriveDelayDescHidden>
 
-  <DisallowedBuildingInsideMonument>기념비 훼손됨</DisallowedBuildingInsideMonument>
-  <DisallowedBuildingInsideMonumentDesc>기념비에 허용하지 않는 시설을 지었습니다. 해당 기념비는 {0} 후에 훼손된 것으로 간주됩니다.</DisallowedBuildingInsideMonumentDesc>
+  <DisallowedBuildingInsideMonument>Monument will be destroyed</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>You've built a disallowed building inside one of your monuments. The monument will be considered destroyed in {0}.</DisallowedBuildingInsideMonumentDesc>
 
-  <ActivatorCountdown>메카노이드 활성장치 {0}</ActivatorCountdown>
-  <ActivatorCountdownDesc>예정된 시간에 도달하면 장치 근처에 있는 모든 메카노이드가 깨어날 것입니다.</ActivatorCountdownDesc>
-  <ActivatorCountdownMultiple>{0}개의 메카노이드 활성장치</ActivatorCountdownMultiple>
-  <ActivatorCountdownDescMultiple>예정된 시간에 도달하면 {0} 장치 근처에 있는 모든 메카노이드가 깨어날 것입니다.</ActivatorCountdownDescMultiple>
+  <ActivatorCountdown>Countdown activator {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>There is a countdown activator ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} countdown activators</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>There are {0} countdown activators ticking down, preparing to awaken nearby mechanoids.</ActivatorCountdownDescMultiple>
 
-  <QuestExpiresSoon>임무 만료까지 {0}</QuestExpiresSoon>
-  <QuestExpiresSoonDesc>'{0}' 임무는 {1} 뒤 만료됩니다.</QuestExpiresSoonDesc>
+  <QuestExpiresSoon>Quest expires in {0}</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>The quest '{0}' will expire in {1}.</QuestExpiresSoonDesc>
 
-  <AlertAnimalFilth>동물 오물</AlertAnimalFilth>
-  <AlertAnimalFilthDesc>오물을 생성하는 동물이 실내의 깨끗한 바닥 위를 돌아다니고 있습니다.\n\n동물이 일반 바닥 위를 돌아다니면 많은 양의 오물이 생깁니다. 오물을 생성하는 동물이 실내로 들어오지 못하도록 제한하세요. 바닥에 멍석을 깔아서 생성되는 오물의 양을 크게 줄일 수도 있습니다.\n\n동물의 오물 생성량은 'i' 버튼을 누르면 나타나는 통계 화면에서 확인할 수 있습니다.\n\n다음의 동물이 문제입니다:\n{0}</AlertAnimalFilthDesc>
+  <AlertAnimalFilth>Animal filth</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>A filth-producing animal is indoors on a clean floor.\n\nAnimals produce a very large amount of filth when moving around on normal floors. Keep filth-producing animals outdoors, or on straw matting where they will produce far less filth.\n\nYou can check an animal's filth production rate in its stats by clicking the 'i' button.\n\nThese animals are the problem:\n{0}</AlertAnimalFilthDesc>
 
-  <AlertAnimalPenNeeded>동물 우리 필요</AlertAnimalPenNeeded>
-  <AlertAnimalPenNeededDesc>가축들이 떠돌고 있습니다. 우리에 가두거나 상단 구성 장소에 묶어두지 않으면 도망칠 것입니다.</AlertAnimalPenNeededDesc>
-  <AlertAnimalPenNeededNoHandlers>동물을 우리로 끌고 갈 조련사가 없습니다.\n\n정착민을 조련 작업에 할당하세요.</AlertAnimalPenNeededNoHandlers>
-  <AlertAnimalPenNeededDescExplanation>울타리, 방어벽, 벽으로 둘러싸인 곳 안에 우리 표시를 설치해 동물 우리를 만드세요. 우리 표시를 선택하면 어떤 동물을 받을 수 있는지, 얼마나 많이 수용할 수 있는지 볼 수 있습니다.\n\n조련사가 동물을 할당한 우리로 끌고 갈 것입니다.\n\n우리 안에 동물을 넣으려면 문이나 울타리 문이 필요합니다.</AlertAnimalPenNeededDescExplanation>
+  <AlertAnimalPenNeeded>Pen needed</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>Some of your tame animals are roamers. If not kept in a pen or roped to a caravan hitching spot, they will wander away.</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>You do not have any handlers to take animals to a pen.\n\nAssign a colonist to the Handling work type.</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>Create an animal pen by building a pen marker inside a fenced, barricaded, or walled area. Select the pen marker to see which animals it accepts and how many its pen can support.\n\nYour animal handlers will bring animals to their assigned pen automatically.\n\nA pen needs a door or gate to admit animals.</AlertAnimalPenNeededDescExplanation>
   
-  <AlertAnimalPenNotEnclosed>개방된 동물 우리</AlertAnimalPenNotEnclosed>
-  <AlertAnimalPenNotEnclosedDesc>밀폐되지 않은 동물 우리가 있습니다.\n\n우리 표시는 동물이 밖으로 나가지 못하도록 울타리, 울타리 문, 방어벽, 벽, 문으로 둘러싼 영역 안에 위치해야 합니다.\n\n미완성 우리만 있더라도 조련사가 배회하는 동물을 집으로 데려오기는 하지만 동물이 밖으로 나갈 때마다 반복해서 끌고 와야 합니다.</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosed>Pen not enclosed</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again.</AlertAnimalPenNotEnclosedDesc>
 
-  <AlertPredatorInAnimalPen>동물 우리 안의 {ANIMAL_labelShort}</AlertPredatorInAnimalPen>
-  <AlertPredatorInAnimalPenDesc>배회하던 {ANIMAL_labelShort}(이)가 동물 우리 안으로 들어왔습니다.\n\n배가 고파지면 우리 안의 동물을 사냥할 수 있습니다.\n\n포식자를 죽이거나 떠나기를 기다리세요.</AlertPredatorInAnimalPenDesc>
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} in animal pen</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves.</AlertPredatorInAnimalPenDesc>
 
-  <AlertAnimalIsRoaming>배회 중인 동물</AlertAnimalIsRoaming>
-  <AlertAnimalIsRoamingDesc>길들인 동물 일부가 떠돌이 동물로서 지금 배회 중입니다. 배회 중에 지역 경계에 도달하면 지역 밖으로 나갈 것입니다.\n\n완성한 우리가 있으면 조련사가 데려올 것입니다. 우리 안에 가둬놓은 동물은 배회하지 않습니다.\n\n다음 동물이 배회 중입니다.\n\n{0}</AlertAnimalIsRoamingDesc>
+  <AlertAnimalIsRoaming>Animal wandering away</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0}</AlertAnimalIsRoamingDesc>
 
-  <AlertPennedAnimalHungry>우리 안의 동물이 굶주림</AlertPennedAnimalHungry>
-  <AlertPennedAnimalHungryDesc>우리 안의 동물이 배고픔을 느끼고 있습니다.\n\n우리 표시를 선택하고 먹이 탭을 열어 자세한 정보를 확인하세요.\n\n초식 동물이라면 더 많은 풀을 먹일 수 있는, 더 큰 우리가 필요할 수 있습니다. 다른 동물의 경우 우리 안에 저장 구역을 지정한 후, 건초 등 동물 먹이를 운반해야 할 수도 있습니다.\n\n배고픈 동물:\n\n{0}</AlertPennedAnimalHungryDesc>
+  <AlertPennedAnimalHungry>Hungry pen animals</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0}</AlertPennedAnimalHungryDesc>
 
-  <AlertHitchedAnimalHungryNoFood>굶주린 동물</AlertHitchedAnimalHungryNoFood>
-  <AlertHitchedAnimalHungryNoFoodDesc>묶여있는 일부 가축들이 굶주렸습니다. 근처에 적절한 먹이가 없을 수 있습니다.\n\n먹이를 가져다 주거나, 풀어주어 스스로 먹이를 찾을 수 있도록 하세요.\n\n굶주린 가축은 다음과 같습니다.\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+  <AlertHitchedAnimalHungryNoFood>Hungry hitched animal</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
-  <AlertTimedRaidsArrivingIn>습격 도착까지 {0}</AlertTimedRaidsArrivingIn>
-  <AlertTimedRaidsArrivingInDesc>다음의 지역으로 적이 접근하고 있습니다. 곧 적 병력이 도착할 것입니다.\n\n{0}</AlertTimedRaidsArrivingInDesc>
-  <AlertTimedRaidsArrivingAt>{0}에 {1} 후 도착</AlertTimedRaidsArrivingAt>
+  <AlertTimedRaidsArrivingIn>Raids arriving in {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>Arriving at {0} in {1}</AlertTimedRaidsArrivingAt>
 
-  <FactionWillBecomeHostileIfNotLeavingWithin>계속 머무르면 세력이 적대함</FactionWillBecomeHostileIfNotLeavingWithin>
-  <FactionWillBecomeHostileIfNotLeavingWithinDesc>다음 세력의 정착지나 전초기지에 계속 머무르면 적대하게 됩니다:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Faction will become hostile if you stay</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
-  <AlertMinifiedTreeAboutToDie>나무 {0}그루가 죽어감</AlertMinifiedTreeAboutToDie>
-  <AlertMinifiedTreeAboutToDieDesc>뽑아둔 나무 {0}그루가 하루 안에 죽을 예정입니다. 방치하면 특정 사상을 지닌 정착민이 실망할 것입니다.\n\n나무를 다시 심으면 기분 하락을 방지할 수 있습니다.</AlertMinifiedTreeAboutToDieDesc>
+  <AlertMinifiedTreeAboutToDie>{0} trees dying</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>{0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees.</AlertMinifiedTreeAboutToDieDesc>
 
-  <NeedResearchBench>연구 작업대 필요</NeedResearchBench>
-  <NeedResearchBenchDesc>{0}(을)를 연구 프로젝트로 지정했습니다. 진행하려면 {1}(을)를 건설해야 합니다.</NeedResearchBenchDesc>
+  <NeedResearchBench>Need research bench</NeedResearchBench>
+  <NeedResearchBenchDesc>You have an active research project '{0}'. This project requires you to build {1}.</NeedResearchBenchDesc>
   
 </LanguageData>
