@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmokeleafJoint.label>crwdns474124:0crwdne474124:0</SmokeleafJoint.label>
-  <SmokeleafJoint.description>crwdns474126:0crwdne474126:0</SmokeleafJoint.description>
-  <SmokeleafJoint.ingestible.ingestCommandString>crwdns474128:0{0}crwdne474128:0</SmokeleafJoint.ingestible.ingestCommandString>
-  <SmokeleafJoint.ingestible.ingestReportString>crwdns474130:0{0}crwdne474130:0</SmokeleafJoint.ingestible.ingestReportString>
-  <SmokeleafJoint.ingestible.ingestReportStringEat>crwdns474132:0{0}crwdne474132:0</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>crwdns474364:0crwdne474364:0</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <SmokeleafHigh.stages.high_on_smokeleaf.description>crwdns474366:0crwdne474366:0</SmokeleafHigh.stages.high_on_smokeleaf.description>
+  
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>crwdns474368:0crwdne474368:0</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>crwdns474370:0crwdne474370:0</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
 </LanguageData>
