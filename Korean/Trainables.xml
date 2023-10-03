@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Haul.label>운반</Haul.label>
-  <Haul.description>때때로 물건을 운반합니다. 특정 물건을 운반하게 명령할 수는 없습니다.</Haul.description>
+  <Haul.label>haul</Haul.label>
+  <Haul.description>The animal will randomly haul items from time to time (though it can't be directed to haul specific items).</Haul.description>
   
-  <Obedience.label>경호</Obedience.label>
-  <Obedience.description>주인을 따라다니면서 경호할 수 있습니다.</Obedience.description>
+  <Obedience.label>guard</Obedience.label>
+  <Obedience.description>The animal can be assigned a master whom it will follow and defend.</Obedience.description>
   
-  <Release.label>공격</Release.label>
-  <Release.description>주인을 지키는 대신 멀리 떨어진 목표를 공격하기 위해 풀어놓을 수 있습니다.</Release.description>
+  <Release.label>attack</Release.label>
+  <Release.description>The animal can be released to attack distant targets instead of just guarding its master.</Release.description>
   
-  <Rescue.label>구조</Rescue.label>
-  <Rescue.description>쓰러진 아군을 끌고 안전한 곳으로 이동할 수 있습니다.</Rescue.description>
+  <Rescue.label>rescue</Rescue.label>
+  <Rescue.description>The animal will rescue wounded allies and drag them to safety.</Rescue.description>
   
-  <Tameness.label>유대감</Tameness.label>
-  <Tameness.description>동물이 스스로 정착지의 일원이라고 생각하는 정도입니다.</Tameness.description>
+  <Tameness.label>tameness</Tameness.label>
+  <Tameness.description>The animal can learn to consider itself a member of your colony.</Tameness.description>
 </LanguageData>
