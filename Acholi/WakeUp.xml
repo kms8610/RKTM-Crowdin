@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUp.label>crwdns474236:0crwdne474236:0</WakeUp.label>
-  <WakeUp.description>crwdns474238:0crwdne474238:0</WakeUp.description>
-  <WakeUp.ingestible.ingestCommandString>crwdns474240:0{0}crwdne474240:0</WakeUp.ingestible.ingestCommandString>
-  <WakeUp.ingestible.ingestReportString>crwdns474242:0{0}crwdne474242:0</WakeUp.ingestible.ingestReportString>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.label>crwdns475918:0crwdne475918:0</WakeUpWithdrawal.stages.wakeup_withdrawal.label>
+  <WakeUpWithdrawal.stages.wakeup_withdrawal.description>crwdns475920:0crwdne475920:0</WakeUpWithdrawal.stages.wakeup_withdrawal.description>
 </LanguageData>
