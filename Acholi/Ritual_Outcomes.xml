@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttendedSpeech.description>crwdns462718:0{MINMOOD}crwdnd462718:0{MAXMOOD}crwdnd462718:0{MOODDAYS}crwdne462718:0</AttendedSpeech.description>
-  <AttendedSpeech.comps.0.label>crwdns462720:0{PAWN_labelShort}crwdne462720:0</AttendedSpeech.comps.0.label>
-  <AttendedSpeech.comps.0.labelAbstract>crwdns462722:0crwdne462722:0</AttendedSpeech.comps.0.labelAbstract>
-  <AttendedSpeech.comps.1.label>crwdns462724:0crwdne462724:0</AttendedSpeech.comps.1.label>
-  <AttendedSpeech.comps.2.label>crwdns462726:0crwdne462726:0</AttendedSpeech.comps.2.label>
-  <AttendedSpeech.outcomeChances.0.label>crwdns462728:0crwdne462728:0</AttendedSpeech.outcomeChances.0.label>
-  <AttendedSpeech.outcomeChances.1.label>crwdns462730:0crwdne462730:0</AttendedSpeech.outcomeChances.1.label>
-  <AttendedSpeech.outcomeChances.2.label>crwdns462732:0crwdne462732:0</AttendedSpeech.outcomeChances.2.label>
-  <AttendedSpeech.outcomeChances.3.label>crwdns462734:0crwdne462734:0</AttendedSpeech.outcomeChances.3.label>
+  <ChildBirth.description>crwdns425498:0crwdne425498:0</ChildBirth.description>
+  <ChildBirth.comps.0.label>crwdns425500:0{PAWN_labelShort}crwdne425500:0</ChildBirth.comps.0.label>
+  <ChildBirth.comps.0.labelAbstract>crwdns425502:0crwdne425502:0</ChildBirth.comps.0.labelAbstract>
+  <ChildBirth.comps.1.label>crwdns425504:0{PAWN_labelShort}crwdne425504:0</ChildBirth.comps.1.label>
+  <ChildBirth.comps.1.labelAbstract>crwdns425506:0crwdne425506:0</ChildBirth.comps.1.labelAbstract>
+  <ChildBirth.comps.2.label>crwdns425508:0crwdne425508:0</ChildBirth.comps.2.label>
+  <ChildBirth.comps.2.labelNotMet>crwdns425510:0crwdne425510:0</ChildBirth.comps.2.labelNotMet>
+  <ChildBirth.comps.3.label>crwdns425512:0crwdne425512:0</ChildBirth.comps.3.label>
+  <ChildBirth.comps.4.label>crwdns425514:0crwdne425514:0</ChildBirth.comps.4.label>
+  <ChildBirth.comps.5.label>crwdns425516:0crwdne425516:0</ChildBirth.comps.5.label>
+  <ChildBirth.extraOutcomeDescriptions.0.description>crwdns425518:0{0_percentage}crwdne425518:0</ChildBirth.extraOutcomeDescriptions.0.description>
+  <ChildBirth.outcomeChances.0.label>crwdns425520:0crwdne425520:0</ChildBirth.outcomeChances.0.label>
+  <ChildBirth.outcomeChances.0.description>crwdns425522:0{MOTHER_labelShort}crwdne425522:0</ChildBirth.outcomeChances.0.description>
+  <ChildBirth.outcomeChances.1.label>crwdns425524:0crwdne425524:0</ChildBirth.outcomeChances.1.label>
+  <ChildBirth.outcomeChances.1.description>crwdns425526:0{MOTHER_labelShort}crwdne425526:0</ChildBirth.outcomeChances.1.description>
+  <ChildBirth.outcomeChances.2.label>crwdns425528:0crwdne425528:0</ChildBirth.outcomeChances.2.label>
+  <ChildBirth.outcomeChances.2.description>crwdns425530:0{MOTHER_labelShort}crwdne425530:0</ChildBirth.outcomeChances.2.description>
 </LanguageData>
