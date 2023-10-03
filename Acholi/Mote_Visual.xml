@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mote_DuelCircle.label>crwdns440722:0crwdne440722:0</Mote_DuelCircle.label>
+  <Mote_Bestow.label>crwdns449286:0crwdne449286:0</Mote_Bestow.label>
   
-  <Mote_GauranlenCasteChanged.label>crwdns440724:0crwdne440724:0</Mote_GauranlenCasteChanged.label>
+  <Mote_CastPsycast.label>crwdns449288:0crwdne449288:0</Mote_CastPsycast.label>
   
-  <Mote_LightBall.label>crwdns440726:0crwdne440726:0</Mote_LightBall.label>
+  <Mote_ProximityScannerActivated.label>crwdns449290:0crwdne449290:0</Mote_ProximityScannerActivated.label>
   
-  <Mote_LightBallLights.label>crwdns440728:0crwdne440728:0</Mote_LightBallLights.label>
+  <Mote_ProximityScannerRadius.label>crwdns449292:0crwdne449292:0</Mote_ProximityScannerRadius.label>
   
-  <Mote_LoudspeakerLights.label>crwdns440730:0crwdne440730:0</Mote_LoudspeakerLights.label>
+  <Mote_PsychicLinkLine.label>crwdns449294:0crwdne449294:0</Mote_PsychicLinkLine.label>
   
-  <Mote_SkyLanternGlow.label>crwdns440732:0crwdne440732:0</Mote_SkyLanternGlow.label>
+  <Mote_PsychicLinkPulse.label>crwdns449296:0crwdne449296:0</Mote_PsychicLinkPulse.label>
   
-  <Mote_SkyLanternOuterGlow.label>crwdns440734:0crwdne440734:0</Mote_SkyLanternOuterGlow.label>
+  <Mote_PsyfocusPulse.label>crwdns449298:0crwdne449298:0</Mote_PsyfocusPulse.label>
   
-  <Mote_SkyLanternSmoke.label>crwdns440736:0crwdne440736:0</Mote_SkyLanternSmoke.label>
+  <Mote_WarmupNeuroquake.label>crwdns449300:0crwdne449300:0</Mote_WarmupNeuroquake.label>
+  
+  <Mote_WarmupWordOf.label>crwdns449302:0crwdne449302:0</Mote_WarmupWordOf.label>
 </LanguageData>
