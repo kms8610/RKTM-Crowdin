@@ -1,50 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BerserkTrance.label>crwdns430948:0crwdne430948:0</BerserkTrance.label>
-  <BerserkTrance.description>crwdns430950:0crwdne430950:0</BerserkTrance.description>
+  <Mote_CombatCommand.label>crwdns440682:0crwdne440682:0</Mote_CombatCommand.label>
   
-  <CombatCommand.label>crwdns430952:0crwdne430952:0</CombatCommand.label>
-  <CombatCommand.description>crwdns430954:0crwdne430954:0</CombatCommand.description>
+  <Mote_CombatCommandLinkLine.label>crwdns440684:0crwdne440684:0</Mote_CombatCommandLinkLine.label>
   
-  <CombatCommandBuff.label>crwdns430956:0crwdne430956:0</CombatCommandBuff.label>
-  <CombatCommandBuff.description>crwdns430958:0crwdne430958:0</CombatCommandBuff.description>
+  <Mote_WorkCommand.label>crwdns440686:0crwdne440686:0</Mote_WorkCommand.label>
   
-  <FarmingCommand.label>crwdns430960:0crwdne430960:0</FarmingCommand.label>
-  <FarmingCommand.description>crwdns430962:0crwdne430962:0</FarmingCommand.description>
-  
-  <FarmingCommandBuff.label>crwdns430964:0crwdne430964:0</FarmingCommandBuff.label>
-  <FarmingCommandBuff.description>crwdns430966:0crwdne430966:0</FarmingCommandBuff.description>
-  
-  <ImmunityDrive.label>crwdns430968:0crwdne430968:0</ImmunityDrive.label>
-  <ImmunityDrive.description>crwdns430970:0crwdne430970:0</ImmunityDrive.description>
-  
-  <MarksmanCommand.label>crwdns430972:0crwdne430972:0</MarksmanCommand.label>
-  <MarksmanCommand.description>crwdns430974:0crwdne430974:0</MarksmanCommand.description>
-  
-  <MarksmanCommandBuff.label>crwdns430976:0crwdne430976:0</MarksmanCommandBuff.label>
-  <MarksmanCommandBuff.description>crwdns430978:0crwdne430978:0</MarksmanCommandBuff.description>
-  
-  <MiningCommand.label>crwdns430980:0crwdne430980:0</MiningCommand.label>
-  <MiningCommand.description>crwdns430982:0crwdne430982:0</MiningCommand.description>
-  
-  <MiningCommandBuff.label>crwdns430984:0crwdne430984:0</MiningCommandBuff.label>
-  <MiningCommandBuff.description>crwdns430986:0crwdne430986:0</MiningCommandBuff.description>
-  
-  <PreachHealth.label>crwdns430988:0crwdne430988:0</PreachHealth.label>
-  <PreachHealth.description>crwdns430990:0crwdne430990:0</PreachHealth.description>
-  
-  <ProductionCommand.label>crwdns430992:0crwdne430992:0</ProductionCommand.label>
-  <ProductionCommand.description>crwdns430994:0crwdne430994:0</ProductionCommand.description>
-  
-  <ProductionCommandBuff.label>crwdns430996:0crwdne430996:0</ProductionCommandBuff.label>
-  <ProductionCommandBuff.description>crwdns430998:0crwdne430998:0</ProductionCommandBuff.description>
-  
-  <ResearchCommand.label>crwdns431000:0crwdne431000:0</ResearchCommand.label>
-  <ResearchCommand.description>crwdns431002:0crwdne431002:0</ResearchCommand.description>
-  
-  <ResearchCommandBuff.label>crwdns431004:0crwdne431004:0</ResearchCommandBuff.label>
-  <ResearchCommandBuff.description>crwdns431006:0crwdne431006:0</ResearchCommandBuff.description>
-  
-  <WorkDrive.label>crwdns431008:0crwdne431008:0</WorkDrive.label>
-  <WorkDrive.description>crwdns431010:0crwdne431010:0</WorkDrive.description>
+  <Mote_WorkCommandLinkLine.label>crwdns440688:0crwdne440688:0</Mote_WorkCommandLinkLine.label>
 </LanguageData>
