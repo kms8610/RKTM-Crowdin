@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ApparelDesire.label>crwdns432270:0crwdne432270:0</ApparelDesire.label>
+  <ApparelDesired_Soft_Subordinate.label>crwdns436156:0crwdne436156:0</ApparelDesired_Soft_Subordinate.label>
+  <ApparelDesired_Soft_Subordinate.description>crwdns436158:0{GENDER}crwdnd436158:0{APPAREL_indefinite}crwdnd436158:0{GENDER}crwdnd436158:0{APPAREL_indefinite}crwdne436158:0</ApparelDesired_Soft_Subordinate.description>
+  <ApparelDesired_Soft_Subordinate.comps.1.description>crwdns436160:0crwdne436160:0</ApparelDesired_Soft_Subordinate.comps.1.description>
+  
+  <ApparelDesired_Strong_Subordinate.label>crwdns436162:0crwdne436162:0</ApparelDesired_Strong_Subordinate.label>
+  <ApparelDesired_Strong_Subordinate.description>crwdns436164:0{GENDER}crwdnd436164:0{APPAREL_indefinite}crwdnd436164:0{GENDER}crwdnd436164:0{APPAREL_indefinite}crwdne436164:0</ApparelDesired_Strong_Subordinate.description>
+  <ApparelDesired_Strong_Subordinate.comps.1.description>crwdns436166:0crwdne436166:0</ApparelDesired_Strong_Subordinate.comps.1.description>
 </LanguageData>
