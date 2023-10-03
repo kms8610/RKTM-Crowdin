@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmokeleafJoint.label>연초</SmokeleafJoint.label>
-  <SmokeleafJoint.description>흡연을 위해 작게 말아둔 연초입니다. 기분이 좋아지지만 식욕이 증가하고 집중을 방해하며 움직임을 느리게 합니다. 또한 연초에 의존하게 될 수 있습니다.\n\n연초는 별다른 장비 없이 제작 장소에서 제작할 수 있으며, 많은 전통적인 저산업 문화의 고정 수입원입니다.</SmokeleafJoint.description>
-  <SmokeleafJoint.ingestible.ingestCommandString>{0} 피우기</SmokeleafJoint.ingestible.ingestCommandString>
-  <SmokeleafJoint.ingestible.ingestReportString>{0} 피우는 중</SmokeleafJoint.ingestible.ingestReportString>
-  <SmokeleafJoint.ingestible.ingestReportStringEat>{0} 섭취 중</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <SmokeleafJoint.label>smokeleaf joint</SmokeleafJoint.label>
+  <SmokeleafJoint.description>Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures.</SmokeleafJoint.description>
+  <SmokeleafJoint.ingestible.ingestCommandString>Smoke {0}</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestReportString>Smoking {0}.</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Consuming {0}.</SmokeleafJoint.ingestible.ingestReportStringEat>
 </LanguageData>
