@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
-    <li>questDescription->오래 전에 사망한 메카나이터의 유해가 위치한 고대 설비의 위치를 [discoveryDesc].\n\n메카나이터들은 메카노이드를 제작하고 제어해서 작업과 전투에 활용합니다. 설비에 침투해서 유해를 회수할 수 있다면, 메크링크를 꺼내 정착민에게 이식하여 새로운 메카나이터로 만들 수 있습니다.\n\n조심하세요. 이런 종류의 구조물에는 다양한 위협이 도사리기 마련이고, 발생하는 소란은 원치 않는 손님들을 부르곤 합니다.</li>
-    <li>discoveryDesc(discovered==false)->알게 되었습니다</li>
-    <li>discoveryDesc(discovered==true)->알아냈습니다</li>
-  </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
-  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
-    <li>questName(p=3)->[complexAdj] 메카나이터 [complex]</li>
-    <li>questName->메카나이터의 [complex]</li>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+    <li>questDescription->근처의 오래된 유적에 고대의 보물이 잠들어 있다는 정보를 들었습니다.\n\n내부로 들어가 노획품을 챙겨올 수 있습니다.\n\n하지만 조심하십시오. 이러한 건물에는 여러 위험이 도사리고 있으며, 원치 않은 적의 주의를 끌 수도 있습니다.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+    <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
+    <li>questName->[complex] [finalWord]</li>
     <li>complexAdj->비밀스러운</li>
+    <li>complexAdj->신비의</li>
     <li>complexAdj->고대의</li>
     <li>complexAdj->오래된</li>
     <li>complexAdj->숨겨진</li>
-    <li>complexAdj->먼지 쌓인</li>
-    <li>complexAdj->위험한</li>
-    <li>complexAdj->숨겨진</li>
+    <li>complexAdj->죽음의</li>
     <li>complex->설비</li>
-    <li>complex->은신처</li>
-    <li>complex->기지</li>
     <li>complex->시설</li>
-    <li>complex->지하실</li>
-    <li>complex->메카노이드 설비</li>
-    <li>complex->메카노이드 기지</li>
-  </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+    <li>complex->구조물</li>
+    <li>finalWord->보물</li>
+    <li>finalWord->재화</li>
+    <li>finalWord->재물</li>
+    <li>finalWord->은닉처</li>
+    <li>finalWord->전리품</li>
+    <li>finalWord->털기</li>
+    <li>finalWord->노략</li>
+    <li>finalWord->약탈</li>
+    <li>finalWord->절도</li>
+    <li>finalWord->강탈</li>
+    <li>finalWord->작전</li>
+    <li>finalWord->노획품</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
 </LanguageData>
