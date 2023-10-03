@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Deathrest.label>crwdns424652:0crwdne424652:0</Deathrest.label>
-  <Deathrest.description>crwdns424654:0crwdne424654:0</Deathrest.description>
-  
-  <KillThirst.label>crwdns424656:0crwdne424656:0</KillThirst.label>
-  <KillThirst.description>crwdns424658:0crwdne424658:0</KillThirst.description>
-  
-  <Learning.label>crwdns424660:0crwdne424660:0</Learning.label>
-  <Learning.description>crwdns424662:0{ACTIVITIES}crwdne424662:0</Learning.description>
-  
-  <MechEnergy.label>crwdns424664:0crwdne424664:0</MechEnergy.label>
-  <MechEnergy.description>crwdns424666:0crwdne424666:0</MechEnergy.description>
-  
-  <Play.label>crwdns424668:0crwdne424668:0</Play.label>
-  <Play.description>crwdns424670:0crwdne424670:0</Play.description>
+  <Suppression.label>crwdns435350:0crwdne435350:0</Suppression.label>
 </LanguageData>
