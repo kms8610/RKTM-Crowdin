@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ambrosia.label>crwdns456102:0crwdne456102:0</Ambrosia.label>
+  <AmbrosiaAddiction.label>crwdns457266:0crwdne457266:0</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.description>crwdns457268:0crwdne457268:0</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.stages.withdrawal.label>crwdns457270:0crwdne457270:0</AmbrosiaAddiction.stages.withdrawal.label>
+  
+  <AmbrosiaHigh.label>crwdns457272:0crwdne457272:0</AmbrosiaHigh.label>
+  <AmbrosiaHigh.description>crwdns457274:0crwdne457274:0</AmbrosiaHigh.description>
+  
+  <AmbrosiaTolerance.label>crwdns457276:0crwdne457276:0</AmbrosiaTolerance.label>
+  <AmbrosiaTolerance.description>crwdns457278:0crwdne457278:0</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.stages.small.label>crwdns457280:0crwdne457280:0</AmbrosiaTolerance.stages.small.label>
+  <AmbrosiaTolerance.stages.large.label>crwdns457282:0crwdne457282:0</AmbrosiaTolerance.stages.large.label>
+  <AmbrosiaTolerance.stages.massive.label>crwdns457284:0crwdne457284:0</AmbrosiaTolerance.stages.massive.label>
 </LanguageData>
