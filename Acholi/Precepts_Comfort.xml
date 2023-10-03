@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SlabBed_Preferred.stages.slept_on_slab_bed.label>crwdns441494:0crwdne441494:0</SlabBed_Preferred.stages.slept_on_slab_bed.label>
-  <SlabBed_Preferred.stages.slept_on_slab_bed.description>crwdns441496:0crwdne441496:0</SlabBed_Preferred.stages.slept_on_slab_bed.description>
+  <Comfort.label>crwdns432286:0crwdne432286:0</Comfort.label>
+  
+  <SlabBed.label>crwdns432288:0crwdne432288:0</SlabBed.label>
 </LanguageData>
