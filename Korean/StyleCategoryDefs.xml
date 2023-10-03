@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Animalist.label>동물</Animalist.label>
+  <Animalist.label>animalist</Animalist.label>
   
-  <Buddhist.label>불자</Buddhist.label>
+  <Buddhist.label>Buddhist</Buddhist.label>
   
-  <Christian.label>기독교</Christian.label>
+  <Christian.label>Christian</Christian.label>
   
-  <Hindu.label>힌두교도</Hindu.label>
+  <Hindu.label>Hindu</Hindu.label>
   
-  <Islamic.label>이슬람교</Islamic.label>
+  <Islamic.label>Islamic</Islamic.label>
   
-  <Morbid.label>죽음</Morbid.label>
+  <Morbid.label>morbid</Morbid.label>
   
-  <Rustic.label>시골</Rustic.label>
+  <Rustic.label>rustic</Rustic.label>
   
-  <Spikecore.label>스파이크코어</Spikecore.label>
+  <Spikecore.label>spikecore</Spikecore.label>
   
-  <Techist.label>기술</Techist.label>
+  <Techist.label>techist</Techist.label>
   
-  <Totemic.label>토템</Totemic.label>
+  <Totemic.label>totemic</Totemic.label>
 </LanguageData>
