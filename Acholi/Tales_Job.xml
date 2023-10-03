@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Gathering_Concert.rulePack.rulesStrings>
-    <li>crwdns448616:0crwdne448616:0</li>
-    <li>crwdns448618:0crwdne448618:0</li>
-    <li>crwdns448620:0crwdne448620:0</li>
-  </Gathering_Concert.rulePack.rulesStrings>
+  <AttendedConcert.label>crwdns448690:0crwdne448690:0</AttendedConcert.label>
+  <AttendedConcert.rulePack.rulesStrings>
+    <li>crwdns448692:0[ATTENDER_nameDef]crwdnd448692:0[ORGANIZER_nameDef]crwdne448692:0</li>
+    <li>crwdns448694:0[ATTENDER_nameDef]crwdnd448694:0[ORGANIZER_nameDef]crwdne448694:0</li>
+    <li>crwdns448696:0[ATTENDER_nameFull]crwdnd448696:0[circumstance_group]crwdne448696:0</li>
+    <li>crwdns448698:0[ATTENDER_nameFull]crwdnd448698:0[ORGANIZER_nameFull]crwdnd448698:0[circumstance_group]crwdne448698:0</li>
+    <li>crwdns448700:0[ATTENDER_nameFull]crwdnd448700:0[circumstance_group]crwdne448700:0</li>
+    <li>crwdns448702:0[ATTENDER_nameFull]crwdnd448702:0[circumstance_group]crwdne448702:0</li>
+    <li>crwdns448704:0crwdne448704:0</li>
+    <li>crwdns448706:0[Quantity_adjphrase]crwdnd448706:0[PersonJob]crwdne448706:0</li>
+    <li>crwdns448708:0[Quantity_adjphrase]crwdnd448708:0[Animal]crwdne448708:0</li>
+  </AttendedConcert.rulePack.rulesStrings>
+  
+  <HeldConcert.label>crwdns448710:0crwdne448710:0</HeldConcert.label>
+  <HeldConcert.rulePack.rulesStrings>
+    <li>crwdns448712:0[ORGANIZER_nameDef]crwdne448712:0</li>
+    <li>crwdns448714:0[ORGANIZER_nameFull]crwdnd448714:0[circumstance_group]crwdne448714:0</li>
+    <li>crwdns448716:0[ORGANIZER_nameFull]crwdne448716:0</li>
+    <li>crwdns448718:0[ORGANIZER_nameFull]crwdne448718:0</li>
+    <li>crwdns448720:0[ORGANIZER_nameFull]crwdnd448720:0[circumstance_group]crwdne448720:0</li>
+    <li>crwdns448722:0crwdne448722:0</li>
+    <li>crwdns448724:0[Quantity_adjphrase]crwdnd448724:0[PersonJob]crwdne448724:0</li>
+    <li>crwdns448726:0[Quantity_adjphrase]crwdnd448726:0[Animal]crwdne448726:0</li>
+  </HeldConcert.rulePack.rulesStrings>
 </LanguageData>
