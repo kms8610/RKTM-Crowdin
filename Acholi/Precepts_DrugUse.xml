@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse.label>crwdns432290:0crwdne432290:0</DrugUse.label>
+  <DrugUse_MedicalOnly.label>crwdns436312:0crwdne436312:0</DrugUse_MedicalOnly.label>
+  <DrugUse_MedicalOnly.description>crwdns436314:0crwdne436314:0</DrugUse_MedicalOnly.description>
+  <DrugUse_MedicalOnly.comps.2.description>crwdns436316:0crwdne436316:0</DrugUse_MedicalOnly.comps.2.description>
+  <DrugUse_MedicalOnly.comps.5.description>crwdns436318:0crwdne436318:0</DrugUse_MedicalOnly.comps.5.description>
+  
+  <DrugUse_MedicalOrSocial.label>crwdns436320:0crwdne436320:0</DrugUse_MedicalOrSocial.label>
+  <DrugUse_MedicalOrSocial.description>crwdns436322:0crwdne436322:0</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.comps.2.description>crwdns436324:0crwdne436324:0</DrugUse_MedicalOrSocial.comps.2.description>
+  <DrugUse_MedicalOrSocial.comps.5.description>crwdns436326:0crwdne436326:0</DrugUse_MedicalOrSocial.comps.5.description>
+  
+  <DrugUse_Prohibited.label>crwdns436328:0crwdne436328:0</DrugUse_Prohibited.label>
+  <DrugUse_Prohibited.description>crwdns436330:0crwdne436330:0</DrugUse_Prohibited.description>
+  <DrugUse_Prohibited.comps.0.description>crwdns436332:0crwdne436332:0</DrugUse_Prohibited.comps.0.description>
+  <DrugUse_Prohibited.comps.5.description>crwdns436334:0crwdne436334:0</DrugUse_Prohibited.comps.5.description>
 </LanguageData>
