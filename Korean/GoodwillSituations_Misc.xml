@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttackingSettlement.label>거주지 공격</AttackingSettlement.label>
+  <AttackingSettlement.label>attacking settlement</AttackingSettlement.label>
   
-  <NaturalEnemy.label>천적</NaturalEnemy.label>
+  <NaturalEnemy.label>natural enemy</NaturalEnemy.label>
   
-  <PermanentEnemy.label>영구적인 적대</PermanentEnemy.label>
+  <PermanentEnemy.label>permanently hostile</PermanentEnemy.label>
 </LanguageData>
