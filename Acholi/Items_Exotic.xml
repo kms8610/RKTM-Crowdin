@@ -1,27 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AIPersonaCore.label>crwdns472256:0crwdne472256:0</AIPersonaCore.label>
-  <AIPersonaCore.description>crwdns472258:0crwdne472258:0</AIPersonaCore.description>
-  
-  <ElephantTusk.label>crwdns472260:0crwdne472260:0</ElephantTusk.label>
-  <ElephantTusk.description>crwdns472262:0crwdne472262:0</ElephantTusk.description>
-  <ElephantTusk.tools.point.label>crwdns472264:0crwdne472264:0</ElephantTusk.tools.point.label>
-  <ElephantTusk.tools.base.label>crwdns472266:0crwdne472266:0</ElephantTusk.tools.base.label>
-  
-  <MechSerumHealer.label>crwdns472268:0crwdne472268:0</MechSerumHealer.label>
-  <MechSerumHealer.description>crwdns472270:0crwdne472270:0</MechSerumHealer.description>
-  <MechSerumHealer.comps.CompUsable.useLabel>crwdns472272:0{0_label}crwdne472272:0</MechSerumHealer.comps.CompUsable.useLabel>
-  
-  <MechSerumResurrector.label>crwdns472274:0crwdne472274:0</MechSerumResurrector.label>
-  <MechSerumResurrector.description>crwdns472276:0crwdne472276:0</MechSerumResurrector.description>
-  <MechSerumResurrector.comps.CompUsable.useLabel>crwdns472278:0{0_label}crwdne472278:0</MechSerumResurrector.comps.CompUsable.useLabel>
-  
-  <TechprofSubpersonaCore.label>crwdns472280:0crwdne472280:0</TechprofSubpersonaCore.label>
-  <TechprofSubpersonaCore.description>crwdns472282:0crwdne472282:0</TechprofSubpersonaCore.description>
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>crwdns472284:0{0_label}crwdne472284:0</TechprofSubpersonaCore.comps.CompUsable.useLabel>
-  
-  <ThrumboHorn.label>crwdns472286:0crwdne472286:0</ThrumboHorn.label>
-  <ThrumboHorn.description>crwdns472288:0crwdne472288:0</ThrumboHorn.description>
-  <ThrumboHorn.tools.point.label>crwdns472290:0crwdne472290:0</ThrumboHorn.tools.point.label>
-  <ThrumboHorn.tools.base.label>crwdns472292:0crwdne472292:0</ThrumboHorn.tools.base.label>
+  <BroadshieldCore.label>crwdns449210:0crwdne449210:0</BroadshieldCore.label>
+  <BroadshieldCore.description>crwdns449212:0crwdne449212:0</BroadshieldCore.description>
 </LanguageData>
