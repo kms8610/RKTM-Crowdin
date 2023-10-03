@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChoppedStump_Polux.label>crwdns427702:0crwdne427702:0</ChoppedStump_Polux.label>
-  <ChoppedStump_Polux.description>crwdns427704:0crwdne427704:0</ChoppedStump_Polux.description>
+  <ChoppedStump_Gauranlen.label>crwdns440738:0crwdne440738:0</ChoppedStump_Gauranlen.label>
+  <ChoppedStump_Gauranlen.description>crwdns440740:0crwdne440740:0</ChoppedStump_Gauranlen.description>
   
-  <Plant_TreePolux.label>crwdns427706:0crwdne427706:0</Plant_TreePolux.label>
-  <Plant_TreePolux.description>crwdns427708:0crwdne427708:0</Plant_TreePolux.description>
+  <GauranlenSeed.label>crwdns440742:0crwdne440742:0</GauranlenSeed.label>
+  <GauranlenSeed.description>crwdns440744:0crwdne440744:0</GauranlenSeed.description>
   
-  <PoluxSeed.label>crwdns427710:0crwdne427710:0</PoluxSeed.label>
-  <PoluxSeed.description>crwdns427712:0crwdne427712:0</PoluxSeed.description>
+  <Plant_Fibercorn.label>crwdns440746:0crwdne440746:0</Plant_Fibercorn.label>
+  <Plant_Fibercorn.description>crwdns440748:0crwdne440748:0</Plant_Fibercorn.description>
   
-  <SmashedStump_Polux.label>crwdns427714:0crwdne427714:0</SmashedStump_Polux.label>
-  <SmashedStump_Polux.description>crwdns427716:0crwdne427716:0</SmashedStump_Polux.description>
+  <Plant_MossGauranlen.label>crwdns440750:0crwdne440750:0</Plant_MossGauranlen.label>
+  <Plant_MossGauranlen.description>crwdns440752:0crwdne440752:0</Plant_MossGauranlen.description>
+  
+  <Plant_Nutrifungus.label>crwdns440754:0crwdne440754:0</Plant_Nutrifungus.label>
+  <Plant_Nutrifungus.description>crwdns440756:0crwdne440756:0</Plant_Nutrifungus.description>
+  
+  <Plant_PodGauranlen.label>crwdns440758:0crwdne440758:0</Plant_PodGauranlen.label>
+  <Plant_PodGauranlen.description>crwdns440760:0crwdne440760:0</Plant_PodGauranlen.description>
+  
+  <Plant_Timbershroom.label>crwdns440762:0crwdne440762:0</Plant_Timbershroom.label>
+  <Plant_Timbershroom.description>crwdns440764:0crwdne440764:0</Plant_Timbershroom.description>
+  
+  <Plant_TreeBonsai.label>crwdns440766:0crwdne440766:0</Plant_TreeBonsai.label>
+  <Plant_TreeBonsai.description>crwdns440768:0crwdne440768:0</Plant_TreeBonsai.description>
+  
+  <Plant_TreeGauranlen.label>crwdns440770:0crwdne440770:0</Plant_TreeGauranlen.label>
+  <Plant_TreeGauranlen.description>crwdns440772:0crwdne440772:0</Plant_TreeGauranlen.description>
+  
+  <SmashedStump_Gauranlen.label>crwdns440774:0crwdne440774:0</SmashedStump_Gauranlen.label>
+  <SmashedStump_Gauranlen.description>crwdns440776:0crwdne440776:0</SmashedStump_Gauranlen.description>
 </LanguageData>
