@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_Agrihand.label>crwdns424778:0crwdne424778:0</Mech_Agrihand.label>
+  <Mech_Agrihand.label>crwdns427778:0crwdne427778:0</Mech_Agrihand.label>
+  <Mech_Agrihand.description>crwdns427780:0crwdne427780:0</Mech_Agrihand.description>
+  <Mech_Agrihand.tools.head.label>crwdns427782:0crwdne427782:0</Mech_Agrihand.tools.head.label>
+  <Mech_Agrihand.tools.right_blade.label>crwdns427784:0crwdne427784:0</Mech_Agrihand.tools.right_blade.label>
   
-  <Mech_Cleansweeper.label>crwdns424780:0crwdne424780:0</Mech_Cleansweeper.label>
+  <Mech_Cleansweeper.label>crwdns427786:0crwdne427786:0</Mech_Cleansweeper.label>
+  <Mech_Cleansweeper.description>crwdns427788:0crwdne427788:0</Mech_Cleansweeper.description>
+  <Mech_Cleansweeper.tools.head.label>crwdns427790:0crwdne427790:0</Mech_Cleansweeper.tools.head.label>
   
-  <Mech_Constructoid.label>crwdns424782:0crwdne424782:0</Mech_Constructoid.label>
+  <Mech_Constructoid.label>crwdns427792:0crwdne427792:0</Mech_Constructoid.label>
+  <Mech_Constructoid.description>crwdns427794:0crwdne427794:0</Mech_Constructoid.description>
+  <Mech_Constructoid.tools.head.label>crwdns427796:0crwdne427796:0</Mech_Constructoid.tools.head.label>
+  <Mech_Constructoid.tools.torso.label>crwdns427798:0crwdne427798:0</Mech_Constructoid.tools.torso.label>
   
-  <Mech_Fabricor.label>crwdns424784:0crwdne424784:0</Mech_Fabricor.label>
+  <Mech_Fabricor.label>crwdns427800:0crwdne427800:0</Mech_Fabricor.label>
+  <Mech_Fabricor.description>crwdns427802:0crwdne427802:0</Mech_Fabricor.description>
+  <Mech_Fabricor.tools.head.label>crwdns427804:0crwdne427804:0</Mech_Fabricor.tools.head.label>
   
-  <Mech_Lifter.label>crwdns424786:0crwdne424786:0</Mech_Lifter.label>
+  <Mech_Lifter.label>crwdns427806:0crwdne427806:0</Mech_Lifter.label>
+  <Mech_Lifter.description>crwdns427808:0crwdne427808:0</Mech_Lifter.description>
+  <Mech_Lifter.tools.head.label>crwdns427810:0crwdne427810:0</Mech_Lifter.tools.head.label>
   
-  <Mech_Militor.label>crwdns424788:0crwdne424788:0</Mech_Militor.label>
+  <Mech_Militor.label>crwdns427812:0crwdne427812:0</Mech_Militor.label>
+  <Mech_Militor.description>crwdns427814:0crwdne427814:0</Mech_Militor.description>
+  <Mech_Militor.tools.head.label>crwdns427816:0crwdne427816:0</Mech_Militor.tools.head.label>
   
-  <Mech_Paramedic.label>crwdns424790:0crwdne424790:0</Mech_Paramedic.label>
+  <Mech_Paramedic.label>crwdns427818:0crwdne427818:0</Mech_Paramedic.label>
+  <Mech_Paramedic.description>crwdns427820:0crwdne427820:0</Mech_Paramedic.description>
+  <Mech_Paramedic.tools.head.label>crwdns427822:0crwdne427822:0</Mech_Paramedic.tools.head.label>
   
-  <Mech_WarUrchin.label>crwdns424792:0crwdne424792:0</Mech_WarUrchin.label>
-  <Mech_WarUrchin.labelPlural>crwdns424794:0crwdne424794:0</Mech_WarUrchin.labelPlural>
+  <Mech_WarUrchin.label>crwdns427824:0crwdne427824:0</Mech_WarUrchin.label>
+  <Mech_WarUrchin.description>crwdns427826:0crwdne427826:0</Mech_WarUrchin.description>
+  <Mech_WarUrchin.tools.head.label>crwdns427828:0crwdne427828:0</Mech_WarUrchin.tools.head.label>
 </LanguageData>
