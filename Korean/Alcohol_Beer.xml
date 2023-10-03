@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AlcoholAddiction.label>알코올 중독</AlcoholAddiction.label>
-  <AlcoholAddiction.description>알코올 중독입니다. 알코올을 장기간 섭취하면 신경세포 단위의 적응 현상이 발생하여 알코올 없이는 뇌가 제대로 기능할 수 없습니다.\n\n정기적인 알코올 섭취를 하지 않으면 금단 현상이 나타납니다. 하지만 계속 섭취하지 않으면 뇌가 정상적인 상태로 회복하므로 중독에서 벗어날 수 있습니다.</AlcoholAddiction.description>
-  <AlcoholAddiction.stages.withdrawal.label>금단 현상</AlcoholAddiction.stages.withdrawal.label>
-  
-  <AlcoholHigh.label>알코올</AlcoholHigh.label>
-  <AlcoholHigh.description>혈액에 알코올이 존재합니다. 행복감을 느끼지만 능력이 저하됩니다.</AlcoholHigh.description>
-  <AlcoholHigh.labelNoun>음주</AlcoholHigh.labelNoun>
-  <AlcoholHigh.stages.warm.label>술기운</AlcoholHigh.stages.warm.label>
-  <AlcoholHigh.stages.tipsy.label>달아오름</AlcoholHigh.stages.tipsy.label>
-  <AlcoholHigh.stages.drunk.label>만취</AlcoholHigh.stages.drunk.label>
-  <AlcoholHigh.stages.hammered.label>취기 (취함)</AlcoholHigh.stages.hammered.label>
-  <AlcoholHigh.stages.blackout.label>인사불성</AlcoholHigh.stages.blackout.label>
-  
-  <AlcoholTolerance.label>알코올 내성</AlcoholTolerance.label>
-  <AlcoholTolerance.description>알코올에 대한 내성입니다. 이 내성이 심할수록 동일한 효과를 얻는 데 더 많은 알코올이 필요합니다.</AlcoholTolerance.description>
-  <AlcoholTolerance.stages.small.label>약함</AlcoholTolerance.stages.small.label>
-  <AlcoholTolerance.stages.large.label>강함</AlcoholTolerance.stages.large.label>
-  <AlcoholTolerance.stages.massive.label>대량의</AlcoholTolerance.stages.massive.label>
-  
-  <Hangover.label>숙취</Hangover.label>
-  <Hangover.description>알코올의 불쾌한 후폭풍입니다.</Hangover.description>
-  <Hangover.labelNoun>숙취</Hangover.labelNoun>
-  <Hangover.stages.slight.label>약함</Hangover.stages.slight.label>
-  <Hangover.stages.strong.label>중간</Hangover.stages.strong.label>
-  <Hangover.stages.pounding.label>강함</Hangover.stages.pounding.label>
+  <Chemical_Alcohol.label>알코올</Chemical_Alcohol.label>
+  <Chemical_Alcohol.description>알코올 중독으로 인한 금단 현상을 피하려면 주기적인 섭취가 필요합니다.</Chemical_Alcohol.description>
 </LanguageData>
