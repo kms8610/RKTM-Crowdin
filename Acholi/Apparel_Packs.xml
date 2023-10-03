@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_PackBroadshield.label>crwdns448752:0crwdne448752:0</Apparel_PackBroadshield.label>
-  <Apparel_PackBroadshield.description>crwdns448754:0crwdne448754:0</Apparel_PackBroadshield.description>
-  <Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>crwdns448756:0crwdne448756:0</Apparel_PackBroadshield.comps.CompReloadable.chargeNoun>
-  <Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>crwdns448758:0crwdne448758:0</Apparel_PackBroadshield.comps.CompReloadable.cooldownGerund>
-  <Apparel_PackBroadshield.verbs.deploy_lowshield.label>crwdns448760:0crwdne448760:0</Apparel_PackBroadshield.verbs.deploy_lowshield.label>
+  <Apparel_FirefoampopPack.label>crwdns471208:0crwdne471208:0</Apparel_FirefoampopPack.label>
+  <Apparel_FirefoampopPack.description>crwdns471210:0crwdne471210:0</Apparel_FirefoampopPack.description>
+  <Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>crwdns471212:0crwdne471212:0</Apparel_FirefoampopPack.comps.CompReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>crwdns471214:0crwdne471214:0</Apparel_FirefoampopPack.comps.CompReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>crwdns471216:0crwdne471216:0</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
-  <Apparel_PackJump.label>crwdns448762:0crwdne448762:0</Apparel_PackJump.label>
-  <Apparel_PackJump.description>crwdns448764:0crwdne448764:0</Apparel_PackJump.description>
-  <Apparel_PackJump.comps.CompReloadable.chargeNoun>crwdns448766:0crwdne448766:0</Apparel_PackJump.comps.CompReloadable.chargeNoun>
-  <Apparel_PackJump.comps.CompReloadable.cooldownGerund>crwdns448768:0crwdne448768:0</Apparel_PackJump.comps.CompReloadable.cooldownGerund>
-  <Apparel_PackJump.verbs.jump.label>crwdns448770:0crwdne448770:0</Apparel_PackJump.verbs.jump.label>
+  <Apparel_SmokepopBelt.label>crwdns471218:0crwdne471218:0</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.description>crwdns471220:0crwdne471220:0</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>crwdns471222:0crwdne471222:0</Apparel_SmokepopBelt.comps.CompReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>crwdns471224:0crwdne471224:0</Apparel_SmokepopBelt.comps.CompReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>crwdns471226:0crwdne471226:0</Apparel_SmokepopBelt.verbs.pop_smoke.label>
 </LanguageData>
