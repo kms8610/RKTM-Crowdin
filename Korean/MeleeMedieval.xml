@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeleeWeapon_Gladius.label>gladius</MeleeWeapon_Gladius.label>
-  <MeleeWeapon_Gladius.description>A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons.</MeleeWeapon_Gladius.description>
-  <MeleeWeapon_Gladius.tools.handle.label>handle</MeleeWeapon_Gladius.tools.handle.label>
-  <MeleeWeapon_Gladius.tools.point.label>point</MeleeWeapon_Gladius.tools.point.label>
-  <MeleeWeapon_Gladius.tools.edge.label>edge</MeleeWeapon_Gladius.tools.edge.label>
+  <MeleeWeapon_Axe.label>axe</MeleeWeapon_Axe.label>
+  <MeleeWeapon_Axe.description>An advanced form of one of mankind's oldest weapons, the war axe is a short blade attached to a shaft. The simple, ancient design concentrates cutting power generated from strong overhand swings.</MeleeWeapon_Axe.description>
+  <MeleeWeapon_Axe.tools.handle.label>handle</MeleeWeapon_Axe.tools.handle.label>
+  <MeleeWeapon_Axe.tools.edge.label>edge</MeleeWeapon_Axe.tools.edge.label>
   
-  <MeleeWeapon_LongSword.label>longsword</MeleeWeapon_LongSword.label>
-  <MeleeWeapon_LongSword.description>The ancient weapon of kings, the longsword can be used for slashing or stabbing.</MeleeWeapon_LongSword.description>
-  <MeleeWeapon_LongSword.tools.handle.label>handle</MeleeWeapon_LongSword.tools.handle.label>
-  <MeleeWeapon_LongSword.tools.point.label>point</MeleeWeapon_LongSword.tools.point.label>
-  <MeleeWeapon_LongSword.tools.edge.label>edge</MeleeWeapon_LongSword.tools.edge.label>
-  
-  <MeleeWeapon_Mace.label>mace</MeleeWeapon_Mace.label>
-  <MeleeWeapon_Mace.description>A refined club, engineered for efficient swinging and deadly impacts.</MeleeWeapon_Mace.description>
-  <MeleeWeapon_Mace.tools.handle.label>handle</MeleeWeapon_Mace.tools.handle.label>
-  <MeleeWeapon_Mace.tools.head.label>head</MeleeWeapon_Mace.tools.head.label>
+  <MeleeWeapon_Warhammer.label>warhammer</MeleeWeapon_Warhammer.label>
+  <MeleeWeapon_Warhammer.description>A long polearm topped with a brutal hammer. The powerful blunt impacts can pulverize an enemy's insides, even through armor.</MeleeWeapon_Warhammer.description>
+  <MeleeWeapon_Warhammer.tools.handle.label>handle</MeleeWeapon_Warhammer.tools.handle.label>
+  <MeleeWeapon_Warhammer.tools.head.label>head</MeleeWeapon_Warhammer.tools.head.label>
 </LanguageData>
