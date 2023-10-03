@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Raiding_Required.label>crwdns436730:0crwdne436730:0</Raiding_Required.label>
-  <Raiding_Required.description>crwdns436732:0crwdne436732:0</Raiding_Required.description>
-  <Raiding_Required.comps.3.thoughtStageDescriptions.0>crwdns436734:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436734:0</Raiding_Required.comps.3.thoughtStageDescriptions.0>
-  <Raiding_Required.comps.3.thoughtStageDescriptions.1>crwdns436736:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436736:0</Raiding_Required.comps.3.thoughtStageDescriptions.1>
+  <PlayerRaidedSomeone.label>crwdns431122:0crwdne431122:0</PlayerRaidedSomeone.label>
   
-  <Raiding_Respected.label>crwdns436738:0crwdne436738:0</Raiding_Respected.label>
-  <Raiding_Respected.description>crwdns436740:0crwdne436740:0</Raiding_Respected.description>
-  <Raiding_Respected.comps.3.thoughtStageDescriptions.0>crwdns436742:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436742:0</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
-  <Raiding_Respected.comps.3.thoughtStageDescriptions.1>crwdns436744:0{DAYSSINCELASTRAIDTHRESHOLD}crwdne436744:0</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
+  <Raided.label>crwdns431124:0crwdne431124:0</Raided.label>
+  
+  <Raided_BanditCamp.label>crwdns431126:0crwdne431126:0</Raided_BanditCamp.label>
+  
+  <Raided_WorkSite.label>crwdns431128:0crwdne431128:0</Raided_WorkSite.label>
 </LanguageData>
