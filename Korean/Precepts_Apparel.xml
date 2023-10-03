@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ApparelDesired_Soft_Subordinate.label>relaxed</ApparelDesired_Soft_Subordinate.label>
-  <ApparelDesired_Soft_Subordinate.description>{GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} if it doesn't interfere with any other apparel.</ApparelDesired_Soft_Subordinate.description>
-  <ApparelDesired_Soft_Subordinate.comps.1.description>Wearing desired apparel</ApparelDesired_Soft_Subordinate.comps.1.description>
+  <WearingDesiredApparel_Soft.stages.wearing.label>wearing {APPAREL}</WearingDesiredApparel_Soft.stages.wearing.label>
+  <WearingDesiredApparel_Soft.stages.wearing.description>It's good to be wearing {APPAREL} in accordance with my beliefs.</WearingDesiredApparel_Soft.stages.wearing.description>
   
-  <ApparelDesired_Strong_Subordinate.label>strong</ApparelDesired_Strong_Subordinate.label>
-  <ApparelDesired_Strong_Subordinate.description>{GENDER} members will be pleased when wearing {APPAREL_indefinite}. {GENDER} members will arrive wearing {APPAREL_indefinite} unless it interferes with armor.</ApparelDesired_Strong_Subordinate.description>
-  <ApparelDesired_Strong_Subordinate.comps.1.description>Wearing desired apparel</ApparelDesired_Strong_Subordinate.comps.1.description>
+  <WearingDesiredApparel_Strong.stages.wearing.label>wearing {APPAREL}</WearingDesiredApparel_Strong.stages.wearing.label>
+  <WearingDesiredApparel_Strong.stages.wearing.description>It's great to be wearing {APPAREL} in accordance with my beliefs.</WearingDesiredApparel_Strong.stages.wearing.description>
 </LanguageData>
