@@ -1,17 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PreferredXenotype.stages.preferred_xenotype.label>선호하는 인종형</PreferredXenotype.stages.preferred_xenotype.label>
-  <PreferredXenotype.stages.disliked_xenotype.label>싫어하는 인종형</PreferredXenotype.stages.disliked_xenotype.label>
-  
-  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>모두가 선호하는 인종형</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.label>
-  <PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>우리는 훌륭하고 강한 인종형들만의 공동체를 만들었어.</PreferredXenotypeMakeup.stages.all_preferred_xenotypes.description>
-  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>일부의 싫어하는 인종형</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.label>
-  <PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>그 인종형이 우리 공동체 안에 있어. 나는 그들이 여기에 있는 걸 원하지 않아.</PreferredXenotypeMakeup.stages.some_disliked_xenotypes.description>
-  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>대다수의 싫어하는 인종형</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.label>
-  <PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>우리 공동체에 그러한 인종형이 많이 있어. 그들은 여기에 있어서는 안 돼.</PreferredXenotypeMakeup.stages.many_disliked_xenotypes.description>
-  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>매우 많은 싫어하는 인종형</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.label>
-  <PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>나는 그 인종형에 둘러싸여 있어. 그들은 여기에 어울리지 않아.</PreferredXenotypeMakeup.stages.tons_of_disliked_xenotypes.description>
-  
-  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>나는 내 인종형이 싫어</SelfDislikedXenotype.stages.I_am_disliked_xenotype.label>
-  <SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>나는 {XENOTYPENAME}(이)야. 좋은 유형 중 하나가 아니지.</SelfDislikedXenotype.stages.I_am_disliked_xenotype.description>
+  <BecomeNonPreferredXenotype.label>become a non-preferred xenotype</BecomeNonPreferredXenotype.label>
 </LanguageData>
