@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ship_Shuttle.label>shuttle</Ship_Shuttle.label>
+  <Ship_ShuttleCrashing.label>crashed shuttle</Ship_ShuttleCrashing.label>
+  
+  <Ship_ShuttleCrashing_Mechanitor.label>crashed mechanitor ship</Ship_ShuttleCrashing_Mechanitor.label>
 </LanguageData>
