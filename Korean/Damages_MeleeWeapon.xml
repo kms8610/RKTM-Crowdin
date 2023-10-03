@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bite.label>물림</Bite.label>
-  <Bite.deathMessage>{0}(이)가 물려 죽었습니다.</Bite.deathMessage>
+  <Bite.label>bite</Bite.label>
+  <Bite.deathMessage>{0} has been bitten to death.</Bite.deathMessage>
   
-  <Blunt.label>맞음</Blunt.label>
-  <Blunt.deathMessage>{0}(이)가 맞아 죽었습니다.</Blunt.deathMessage>
+  <Blunt.label>blunt</Blunt.label>
+  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
   
-  <Crush.label>으스러짐</Crush.label>
-  <Crush.deathMessage>{0}(이)가 압사했습니다.</Crush.deathMessage>
+  <Crush.label>crush</Crush.label>
+  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
   
-  <Cut.label>잘림</Cut.label>
-  <Cut.deathMessage>{0}(이)가 잘려 죽었습니다.</Cut.deathMessage>
+  <Cut.label>cut</Cut.label>
+  <Cut.deathMessage>{0} has been cut to death.</Cut.deathMessage>
   
-  <Demolish.label>맞음</Demolish.label>
-  <Demolish.deathMessage>{0}(이)가 맞아 죽었습니다.</Demolish.deathMessage>
+  <Demolish.label>blunt</Demolish.label>
+  <Demolish.deathMessage>{0} has been beaten to death.</Demolish.deathMessage>
   
-  <Poke.label>맞음</Poke.label>
-  <Poke.deathMessage>{0}(이)가 맞아 죽었습니다.</Poke.deathMessage>
+  <Poke.label>blunt</Poke.label>
+  <Poke.deathMessage>{0} has been beaten to death.</Poke.deathMessage>
   
-  <Scratch.label>찢김</Scratch.label>
-  <Scratch.deathMessage>{0}(이)가 찢겨 죽었습니다.</Scratch.deathMessage>
+  <Scratch.label>scratch</Scratch.label>
+  <Scratch.deathMessage>{0} has been torn to death.</Scratch.deathMessage>
   
-  <ScratchToxic.label>찢김 (독성)</ScratchToxic.label>
-  <ScratchToxic.deathMessage>{0}(이)가 찢겨 죽었습니다.</ScratchToxic.deathMessage>
+  <ScratchToxic.label>toxic scratch</ScratchToxic.label>
+  <ScratchToxic.deathMessage>{0} has been torn to death.</ScratchToxic.deathMessage>
   
-  <Stab.label>찔림</Stab.label>
-  <Stab.deathMessage>{0}(이)가 찔려 죽었습니다.</Stab.deathMessage>
+  <Stab.label>stab</Stab.label>
+  <Stab.deathMessage>{0} has been stabbed to death.</Stab.deathMessage>
   
-  <ToxicBite.label>물림 (독성)</ToxicBite.label>
-  <ToxicBite.deathMessage>{0}(이)가 물려 죽었습니다.</ToxicBite.deathMessage>
+  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} has been bitten to death.</ToxicBite.deathMessage>
 </LanguageData>
