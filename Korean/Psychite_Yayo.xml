@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_Psychite.label>사이카이트</Chemical_Psychite.label>
-  <Chemical_Psychite.description>광이 중독으로 인한 금단 현상을 피하려면 주기적인 섭취가 필요합니다.</Chemical_Psychite.description>
+  <Yayo.label>야요</Yayo.label>
+  <Yayo.description>사이카이트를 정제한 가루입니다. 흡입하면 빠른 쾌감과 피로 회복, 고통 억제의 효과가 있습니다. 사이카이트의 다른 모든 형태와 마찬가지로 중독성을 갖고 있지만, 정제 과정 덕분에 플레이크보다는 중독성이 약합니다.\n\n높은 제작 비용과 깨끗한 모습 덕에, 많은 문화에서는 야요를 타락한 부와 연결 짓습니다. 왕실이나 이사회가 내놓는 엉터리 정책의 대부분은 야요에 취한 결과물입니다.</Yayo.description>
+  <Yayo.ingestible.ingestCommandString>{0} 흡입</Yayo.ingestible.ingestCommandString>
+  <Yayo.ingestible.ingestReportString>{0} 흡입 중</Yayo.ingestible.ingestReportString>
 </LanguageData>
