@@ -1,234 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- ITab titles -->
-  <TabBills>crwdns481032:0crwdne481032:0</TabBills>
-  <TabGrowing>crwdns481034:0crwdne481034:0</TabGrowing>
-  <TabCharacter>crwdns481036:0crwdne481036:0</TabCharacter>
-  <TabTraining>crwdns481038:0crwdne481038:0</TabTraining>
-  <TabPrisoner>crwdns481040:0crwdne481040:0</TabPrisoner>
-  <TabGuest>crwdns481042:0crwdne481042:0</TabGuest>
-  <TabGear>crwdns481044:0crwdne481044:0</TabGear>
-  <TabNeeds>crwdns481046:0crwdne481046:0</TabNeeds>
-  <TabStorage>crwdns481048:0crwdne481048:0</TabStorage>
-  <TabShells>crwdns481050:0crwdne481050:0</TabShells>
-  <TabHealth>crwdns481052:0crwdne481052:0</TabHealth>
-  <TabRace>crwdns481054:0crwdne481054:0</TabRace>
-  <TabBasics>crwdns481056:0crwdne481056:0</TabBasics>
-  <TabStats>crwdns481058:0crwdne481058:0</TabStats>
-  <TabRecords>crwdns481060:0crwdne481060:0</TabRecords>
-  <TabArt>crwdns481062:0crwdne481062:0</TabArt>
-  <TabSocial>crwdns481064:0crwdne481064:0</TabSocial>
-  <TabLog>crwdns481066:0crwdne481066:0</TabLog>
-  <TabPenAnimals>crwdns481068:0crwdne481068:0</TabPenAnimals>
-  <TabPenFood>crwdns481070:0crwdne481070:0</TabPenFood>
-  <TabPenAutoCut>crwdns481072:0crwdne481072:0</TabPenAutoCut>
-  <TabFormingCaravan>crwdns481074:0crwdne481074:0</TabFormingCaravan>
-  <TabTransporterContents>crwdns481076:0crwdne481076:0</TabTransporterContents>
-  <TabCasketContents>crwdns481078:0crwdne481078:0</TabCasketContents>
-  <TabWindTurbineAutoCut>crwdns481080:0crwdne481080:0</TabWindTurbineAutoCut>
-  
-  <!-- Bills tab  -->
-  <AddBill>crwdns481082:0crwdne481082:0</AddBill>
-  <RecipeRequiresSkills>crwdns481084:0{0}crwdne481084:0</RecipeRequiresSkills>
-  <MinimumSkill>crwdns481086:0crwdne481086:0</MinimumSkill>
-  <SuspendedCaps>crwdns481088:0crwdne481088:0</SuspendedCaps>
-  <BoundWorkerIs>crwdns481090:0{1_labelShort}crwdne481090:0</BoundWorkerIs>
-  <PlantVerb>crwdns481092:0crwdne481092:0</PlantVerb>
-  <ClipboardBillNotAvailableHere>crwdns481094:0crwdne481094:0</ClipboardBillNotAvailableHere>
-  <ReorderBillUpTip>crwdns481096:0crwdne481096:0</ReorderBillUpTip>
-  <ReorderBillDownTip>crwdns481098:0crwdne481098:0</ReorderBillDownTip>
-  <DeleteBillTip>crwdns481100:0crwdne481100:0</DeleteBillTip>
-  <CopyBillTip>crwdns481102:0crwdne481102:0</CopyBillTip>
-  <SuspendBillTip>crwdns481104:0crwdne481104:0</SuspendBillTip>
-  <PasteBillTip>crwdns481106:0crwdne481106:0</PasteBillTip>
-  <PasteBillTip_LimitReached>crwdns481108:0crwdne481108:0</PasteBillTip_LimitReached>
+  <RecipeRequiresMechanitor>crwdns429496:0{0}crwdne429496:0</RecipeRequiresMechanitor>
 
-  <!-- Guest/prisoner tab -->
-  <RecruitmentResistance>crwdns481110:0crwdne481110:0</RecruitmentResistance>
-  <RecruitmentResistanceDesc>crwdns481112:0crwdne481112:0</RecruitmentResistanceDesc>
-  <RecruitmentResistanceFromPawnKind>crwdns481114:0{0}crwdne481114:0</RecruitmentResistanceFromPawnKind>
-  <PrisonerReleasePotentialRelationGains>crwdns481116:0crwdne481116:0</PrisonerReleasePotentialRelationGains>
-  <PrisonerReleaseRelationGainsDesc>crwdns481118:0crwdne481118:0</PrisonerReleaseRelationGainsDesc>
-  <PrisonBreakMTBDays>crwdns481120:0crwdne481120:0</PrisonBreakMTBDays>
-  <PrisonBreakMTBDaysDescription>crwdns481122:0crwdne481122:0</PrisonBreakMTBDaysDescription>
-  <Never>crwdns481124:0crwdne481124:0</Never>
-  <NotWhileAsleep>crwdns481126:0crwdne481126:0</NotWhileAsleep>
-  <CurrentlyPrisonBreaking>crwdns481128:0crwdne481128:0</CurrentlyPrisonBreaking>
-  <FactorForDoorCount>crwdns481130:0crwdne481130:0</FactorForDoorCount>
-  <FactorForMovement>crwdns481132:0crwdne481132:0</FactorForMovement>
-  <SlavePrice>crwdns481134:0crwdne481134:0</SlavePrice>
-  <SlavePriceDescription>crwdns481136:0crwdne481136:0</SlavePriceDescription>
-  <GetsFood>crwdns481138:0crwdne481138:0</GetsFood>
-  <DoctorsCare>crwdns481140:0crwdne481140:0</DoctorsCare>
-  <GetsMedicine>crwdns481142:0crwdne481142:0</GetsMedicine>
-  <ShouldTryToRecruit>crwdns481144:0crwdne481144:0</ShouldTryToRecruit>
-  <ConsideredGuilty>crwdns481146:0{0}crwdne481146:0</ConsideredGuilty>
-  <ConsideredGuiltyNoTimer>crwdns481148:0crwdne481148:0</ConsideredGuiltyNoTimer>
-  <LastRecruitment>crwdns481150:0crwdne481150:0</LastRecruitment>
-  <LastRecruitmentDescription>crwdns481152:0{0_nameDef}crwdnd481152:0{1}crwdnd481152:0{0_pronoun}crwdne481152:0</LastRecruitmentDescription>
-  <OpinionOfRecruiter>crwdns481154:0crwdne481154:0</OpinionOfRecruiter>
-  <RecruiterNegotiationAbility>crwdns481156:0crwdne481156:0</RecruiterNegotiationAbility>
-  <NonRecruitable>crwdns481158:0crwdne481158:0</NonRecruitable>
-  <NonRecruitableTip>crwdns481160:0crwdne481160:0</NonRecruitableTip>
-  <NonRecruitableTipCannotConvert>crwdns481162:0crwdne481162:0</NonRecruitableTipCannotConvert>
+  <GenepackPlural>crwdns429498:0crwdne429498:0</GenepackPlural>
+  <TraitsDevelopLaterBaby>crwdns429500:0crwdne429500:0</TraitsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>crwdns429502:0crwdne429502:0</SkillsDevelopLaterBaby>
+  <TabGenes>crwdns429504:0crwdne429504:0</TabGenes>
 
+  <ViewGenes>crwdns429506:0crwdne429506:0</ViewGenes>
+  <ViewGenesDesc>crwdns429508:0{PAWN_nameDef}crwdne429508:0</ViewGenesDesc>
 
+  <!-- Feeding tab (human babies) -->
+  <TabFeeding>crwdns429510:0crwdne429510:0</TabFeeding>
+  <AutofeedSectionHeader>crwdns429512:0crwdne429512:0</AutofeedSectionHeader>
+  <AutofeedModeNever>crwdns429514:0crwdne429514:0</AutofeedModeNever>
+  <AutofeedModeChildcare>crwdns429516:0crwdne429516:0</AutofeedModeChildcare>
+  <AutofeedModeUrgent>crwdns429518:0crwdne429518:0</AutofeedModeUrgent>
+  <AutofeedNone>crwdns429520:0crwdne429520:0</AutofeedNone>
+  <AutofeedModeTooltipNever>crwdns429522:0{FEEDER_nameDef}crwdnd429522:0{BABY_nameDef}crwdne429522:0</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipChildcare>crwdns429524:0{FEEDER_nameDef}crwdnd429524:0{BABY_nameDef}crwdne429524:0</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>crwdns429526:0{FEEDER_nameDef}crwdnd429526:0{BABY_nameDef}crwdnd429526:0{FEEDER_nameDef}crwdne429526:0</AutofeedModeTooltipUrgent>
+  <BabyFoodConsumables>crwdns429528:0crwdne429528:0</BabyFoodConsumables>
 
+  <!-- Social tab (human babies) -->
+  <IdeoExposureSectionHeader>crwdns429530:0crwdne429530:0</IdeoExposureSectionHeader>
+  <IdeoExposureNoExposure>crwdns429532:0{BABY_labelShort}crwdne429532:0</IdeoExposureNoExposure>
+  <IdeoExposureNoExposureDetail>crwdns429534:0{BABY_pronoun}crwdnd429534:0{CHILDAGE}crwdnd429534:0{BABY_labelShort}crwdnd429534:0{BABY_pronoun}crwdne429534:0</IdeoExposureNoExposureDetail>
+  <IdeoExposurePointsTooltipJoinLikelihood>crwdns429536:0{BABY_labelShort}crwdnd429536:0{PERCENT}crwdnd429536:0{IDEO_name}crwdne429536:0</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinDescription>crwdns429538:0{BABY_labelShort}crwdnd429538:0{BABY_pronoun}crwdnd429538:0{BABY_labelShort}crwdnd429538:0{BABY_pronoun}crwdnd429538:0{CHILDAGE}crwdne429538:0</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipExposureDescription>crwdns429540:0{BABY_labelShort}crwdnd429540:0{BABY_pronoun}crwdne429540:0</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipIdeoExposure>crwdns429542:0{IDEO_name}crwdne429542:0</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipTotalExposure>crwdns429544:0crwdne429544:0</IdeoExposurePointsTooltipTotalExposure>
 
-  <!-- Medical - general -->
-  <MoveSpeed>crwdns481164:0crwdne481164:0</MoveSpeed>
-  <Efficiency>crwdns481166:0crwdne481166:0</Efficiency>
-  <PartEfficiency>crwdns481168:0crwdne481168:0</PartEfficiency>
-  <BodyPartEfficiency>crwdns481170:0crwdne481170:0</BodyPartEfficiency>
-  <MissingBodyPart>crwdns481172:0crwdne481172:0</MissingBodyPart>
-  <DestroyedBodyPart>crwdns481174:0crwdne481174:0</DestroyedBodyPart>
-  <ShatteredBodyPart>crwdns481176:0crwdne481176:0</ShatteredBodyPart>
-  <RemovedBodyPart>crwdns481178:0crwdne481178:0</RemovedBodyPart>
-  <Healthy>crwdns481180:0crwdne481180:0</Healthy>
-  <InPain>crwdns481182:0crwdne481182:0</InPain>
-  <PainLevel>crwdns481184:0crwdne481184:0</PainLevel>
-  <Injured>crwdns481186:0crwdne481186:0</Injured>
-  <UntendedInjury>crwdns481188:0crwdne481188:0</UntendedInjury>
-  <NoHealthConditions>crwdns481190:0crwdne481190:0</NoHealthConditions>
-  <WholeBody>crwdns481192:0crwdne481192:0</WholeBody>
-  <DataProcessing>crwdns481194:0crwdne481194:0</DataProcessing>
-  <Communication>crwdns481196:0crwdne481196:0</Communication>
-  <Affects>crwdns481198:0crwdne481198:0</Affects>
-  <BleedingRate>crwdns481200:0crwdne481200:0</BleedingRate>
-  <TimeToDeath>crwdns481202:0{0}crwdne481202:0</TimeToDeath>
-  <WontBleedOutSoon>crwdns481204:0crwdne481204:0</WontBleedOutSoon>
-  <HealthOverview>crwdns481206:0crwdne481206:0</HealthOverview>
-  <MedicalOperationsShort>crwdns481208:0crwdne481208:0</MedicalOperationsShort>
-  <MedicalOperationsMechanoidsShort>crwdns481210:0crwdne481210:0</MedicalOperationsMechanoidsShort>
-  <MedicalOperations>crwdns481212:0crwdne481212:0</MedicalOperations>
-  <Amputate>crwdns481214:0crwdne481214:0</Amputate>
-  <HarvestOrgan>crwdns481216:0crwdne481216:0</HarvestOrgan>
-  <RemoveOrgan>crwdns481218:0crwdne481218:0</RemoveOrgan>
-  <MemoryLower>crwdns481220:0crwdne481220:0</MemoryLower>
-  <SocialInteractionsLower>crwdns481222:0crwdne481222:0</SocialInteractionsLower>
-  <HungerRate>crwdns481224:0crwdne481224:0</HungerRate>
-  <FoodConsumption>crwdns481226:0crwdne481226:0</FoodConsumption>
-  <Tiredness>crwdns481228:0crwdne481228:0</Tiredness>
-  <PainFactor>crwdns481230:0crwdne481230:0</PainFactor>
-  <PreventsInfection>crwdns481232:0crwdne481232:0</PreventsInfection>
-  <SelfTend>crwdns481234:0crwdne481234:0</SelfTend>
-  <SelfTendTip>crwdns481236:0{0}crwdnd481236:0{1}crwdne481236:0</SelfTendTip>
-  <DeathIn>crwdns481238:0{0}crwdne481238:0</DeathIn>
-  
-  <!-- Medical - Body and activities condition -->
-  <None>crwdns481240:0crwdne481240:0</None>
-  <VeryPoor>crwdns481242:0crwdne481242:0</VeryPoor>
-  <Poor>crwdns481244:0crwdne481244:0</Poor>
-  <Weakened>crwdns481246:0crwdne481246:0</Weakened>
-  <GoodCondition>crwdns481248:0crwdne481248:0</GoodCondition>
-  <Enhanced>crwdns481250:0crwdne481250:0</Enhanced>
-  <SeriouslyImpaired>crwdns481252:0crwdne481252:0</SeriouslyImpaired>
-  <Impaired>crwdns481254:0crwdne481254:0</Impaired>
-  <SlightlyImpaired>crwdns481256:0crwdne481256:0</SlightlyImpaired>
-  <NoPain>crwdns481258:0crwdne481258:0</NoPain>
-  <LittlePain>crwdns481260:0crwdne481260:0</LittlePain>
-  <MediumPain>crwdns481262:0crwdne481262:0</MediumPain>
-  <SeverePain>crwdns481264:0crwdne481264:0</SeverePain>
-  <ExtremePain>crwdns481266:0crwdne481266:0</ExtremePain>
+  <!-- Social tab (romance) -->
+  <TryRomanceButtonLabel>crwdns429546:0crwdne429546:0</TryRomanceButtonLabel>
+  <TryRomanceNoOptsMessage>crwdns429548:0{0_labelShort}crwdne429548:0</TryRomanceNoOptsMessage>
+  <CantRomanceTargetUnreachable>crwdns429550:0crwdne429550:0</CantRomanceTargetUnreachable>
+  <CantRomanceTargetSleeping>crwdns429552:0crwdne429552:0</CantRomanceTargetSleeping>
+  <CantRomanceTargetDowned>crwdns429554:0crwdne429554:0</CantRomanceTargetDowned>
+  <CantRomanceTargetDrafted>crwdns429556:0crwdne429556:0</CantRomanceTargetDrafted>
+  <CantRomanceTargetMentalState>crwdns429558:0crwdne429558:0</CantRomanceTargetMentalState>
+  <CantRomanceTargetIncest>crwdns429560:0crwdne429560:0</CantRomanceTargetIncest>
+  <CantRomanceTargetOpinion>crwdns429562:0crwdne429562:0</CantRomanceTargetOpinion>
+  <CantRomanceTargetSexuality>crwdns429564:0crwdne429564:0</CantRomanceTargetSexuality>
+  <CantRomanceTargetPrisoner>crwdns429566:0crwdne429566:0</CantRomanceTargetPrisoner>
+  <CantRomanceTargetYoung>crwdns429568:0crwdne429568:0</CantRomanceTargetYoung>
+  <CantRomanceTargetZeroChance>crwdns429570:0crwdne429570:0</CantRomanceTargetZeroChance>
+  <CantRomanceInitiateMessagePrisoner>crwdns429572:0{0_labelShort}crwdnd429572:0{0_pronoun}crwdne429572:0</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessageSlave>crwdns429574:0{0_labelShort}crwdnd429574:0{0_pronoun}crwdne429574:0</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageAsexual>crwdns429576:0{0_labelShort}crwdnd429576:0{0_pronoun}crwdne429576:0</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageDowned>crwdns429578:0{0_labelShort}crwdnd429578:0{0_pronoun}crwdne429578:0</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDrafted>crwdns429580:0{0_labelShort}crwdnd429580:0{0_pronoun}crwdne429580:0</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageMentalState>crwdns429582:0{0_labelShort}crwdnd429582:0{0_pronoun}crwdne429582:0</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageTalk>crwdns429584:0{0_labelShort}crwdnd429584:0{0_pronoun}crwdne429584:0</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageCooldown>crwdns429586:0{0_labelShort}crwdnd429586:0{1}crwdne429586:0</CantRomanceInitiateMessageCooldown>
+  <TryRomanceFailedMessage>crwdns429588:0{0_labelShort}crwdnd429588:0{1_labelShort}crwdne429588:0</TryRomanceFailedMessage>
+  <RomanceExistingRelationshipWarning>crwdns429590:0{INITIATOR_nameDef}crwdnd429590:0{TARGET_nameDef}crwdne429590:0</RomanceExistingRelationshipWarning>
+  <RomanceChance>crwdns429592:0crwdne429592:0</RomanceChance>
+  <RomanceChanceExistingRelation>crwdns429594:0{PAWN_nameDef}crwdnd429594:0{RELATION}crwdne429594:0</RomanceChanceExistingRelation>
+  <RomanceChanceCant>crwdns429596:0crwdne429596:0</RomanceChanceCant>
+  <RomanceChanceAgeFactor>crwdns429598:0crwdne429598:0</RomanceChanceAgeFactor>
+  <RomanceChanceBeautyFactor>crwdns429600:0crwdne429600:0</RomanceChanceBeautyFactor>
+  <RomanceChanceOpinionFactor>crwdns429602:0crwdne429602:0</RomanceChanceOpinionFactor>
+  <RomanceChancePartnerFactor>crwdns429604:0crwdne429604:0</RomanceChancePartnerFactor>
+  <RomanceFailedUnexpected>crwdns429606:0{0_labelShort}crwdnd429606:0{1_labelShort}crwdne429606:0</RomanceFailedUnexpected>
+  <RomanceWarningMonogamous>crwdns429608:0{0_nameDef}crwdne429608:0</RomanceWarningMonogamous>
+  <RomanceWarningPolygamous>crwdns429610:0{0_nameDef}crwdnd429610:0{1}crwdne429610:0</RomanceWarningPolygamous>
 
-  <!-- Training tab -->
-  <Trainability>crwdns481268:0crwdne481268:0</Trainability>
-  <CannotTrainNotSmartEnough>crwdns481270:0{0}crwdne481270:0</CannotTrainNotSmartEnough>
-  <CannotTrainTooSmall>crwdns481272:0{1_labelShort}crwdne481272:0</CannotTrainTooSmall>
-
-  <TrainingNeedsPrerequisite>crwdns481274:0{0}crwdne481274:0</TrainingNeedsPrerequisite>
-  
-  <!-- Social tab -->
-  <Kidnapped>crwdns481276:0crwdne481276:0</Kidnapped>
-  <Lent>crwdns481278:0{FACTION_name}crwdnd481278:0{1}crwdne481278:0</Lent>
-  <Missing>crwdns481280:0crwdne481280:0</Missing>
-  <Slave>crwdns481282:0crwdne481282:0</Slave>
-  <FactionLeader>crwdns481284:0crwdne481284:0</FactionLeader>
-  <OpinionOf>crwdns481286:0{0}crwdne481286:0</OpinionOf>
-  <SomeonesOpinionOfMe>crwdns481288:0{0}crwdne481288:0</SomeonesOpinionOfMe>
-  <IAmDead>crwdns481290:0crwdne481290:0</IAmDead>
-  <IAmPsychopath>crwdns481292:0crwdne481292:0</IAmPsychopath>
-  
-  <!-- Gear tab -->
-  <OverallArmor>crwdns481294:0crwdne481294:0</OverallArmor>
-  <MassCarried>crwdns481296:0{0}crwdnd481296:0{1}crwdne481296:0</MassCarried>
-  <ComfyTemperatureRange>crwdns481298:0crwdne481298:0</ComfyTemperatureRange>
-  <ArmorBlunt>crwdns481300:0crwdne481300:0</ArmorBlunt>
-  <ArmorSharp>crwdns481302:0crwdne481302:0</ArmorSharp>
-  <ArmorHeat>crwdns481304:0crwdne481304:0</ArmorHeat>
-  
-  <!-- Log tab -->
-  <ShowAll>crwdns481306:0crwdne481306:0</ShowAll>
-  <ShowCombat>crwdns481308:0crwdne481308:0</ShowCombat>
-  <ShowSocial>crwdns481310:0crwdne481310:0</ShowSocial>
-  <NoRecentEntries>crwdns481312:0crwdne481312:0</NoRecentEntries>
-  <CopyLogTip>crwdns481314:0crwdne481314:0</CopyLogTip>
-
-  <!-- Forming caravan tab -->
-  <FormingCaravanStatus_GatheringAnimals>crwdns481316:0crwdne481316:0</FormingCaravanStatus_GatheringAnimals>
-  <FormingCaravanStatus_GatheringAnimals_Pause>crwdns481318:0crwdne481318:0</FormingCaravanStatus_GatheringAnimals_Pause>
-  <FormingCaravanStatus_GatheringItems>crwdns481320:0crwdne481320:0</FormingCaravanStatus_GatheringItems>
-  <FormingCaravanStatus_GatheringItems_Pause>crwdns481322:0crwdne481322:0</FormingCaravanStatus_GatheringItems_Pause>
-  <FormingCaravanStatus_GatheringDownedPawns>crwdns481324:0crwdne481324:0</FormingCaravanStatus_GatheringDownedPawns>
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>crwdns481326:0crwdne481326:0</FormingCaravanStatus_GatheringDownedPawns_Pause>
-  <FormingCaravanStatus_Leaving>crwdns481328:0crwdne481328:0</FormingCaravanStatus_Leaving>
-  <FormingCaravanStatus_Leaving_Pause>crwdns481330:0crwdne481330:0</FormingCaravanStatus_Leaving_Pause>
-  <FormingCaravanStatus_Waiting>crwdns481332:0crwdne481332:0</FormingCaravanStatus_Waiting>
-  <CaravanMembers>crwdns481334:0crwdne481334:0</CaravanMembers>
-  <CaravanAnimals>crwdns481336:0crwdne481336:0</CaravanAnimals>
-  <ItemsToLoad>crwdns481338:0crwdne481338:0</ItemsToLoad>
-  <LoadedItems>crwdns481340:0crwdne481340:0</LoadedItems>
-  <PackAnimalsCountLower>crwdns481342:0crwdne481342:0</PackAnimalsCountLower>
-  <InMentalStateCountLower>crwdns481344:0crwdne481344:0</InMentalStateCountLower>
-
-  <!-- Transporter contents -->
-  <RemoveSliderText>crwdns481346:0{{0}}crwdnd481346:0{0}crwdne481346:0</RemoveSliderText>
-  <ContainedItems>crwdns481348:0crwdne481348:0</ContainedItems>
-  <ConfirmRemoveItemDialog>crwdns481350:0{0}crwdne481350:0</ConfirmRemoveItemDialog>
-  
-  <!-- Quests tab -->
-  <DismissQuest>crwdns481352:0crwdne481352:0</DismissQuest>
-  <UnDismissQuest>crwdns481354:0crwdne481354:0</UnDismissQuest>
-  <QuestDismissed>crwdns481356:0crwdne481356:0</QuestDismissed>
-  <DeleteQuest>crwdns481358:0crwdne481358:0</DeleteQuest>
-
-  <!-- Animal pen food tab -->
-  <PenFoodTab_NotEnclosed>crwdns481360:0crwdne481360:0</PenFoodTab_NotEnclosed>
-
-  <PenFoodTab_StockpileTotal>crwdns481362:0crwdne481362:0</PenFoodTab_StockpileTotal>
-  <PenFoodTab_StockpileTotalDescription>crwdns481364:0crwdne481364:0</PenFoodTab_StockpileTotalDescription>
-  <PenFoodTab_StockpileEmptyDays>crwdns481366:0crwdne481366:0</PenFoodTab_StockpileEmptyDays>
-  <PenFoodTab_StockpileEmptyDaysDescription>crwdns481368:0crwdne481368:0</PenFoodTab_StockpileEmptyDaysDescription>
-
-  <PenFoodTab_AnimalType>crwdns481370:0crwdne481370:0</PenFoodTab_AnimalType>
-  <PenFoodTab_Count>crwdns481372:0crwdne481372:0</PenFoodTab_Count>
-  <PenFoodTab_CurrentDay>crwdns481374:0crwdne481374:0</PenFoodTab_CurrentDay>
-  <PenFoodTab_Nutrition_Unit>crwdns481376:0crwdne481376:0</PenFoodTab_Nutrition_Unit>
-  <PenFoodTab_NutritionPerDay_Unit>crwdns481378:0crwdne481378:0</PenFoodTab_NutritionPerDay_Unit>
-  <PenFoodTab_AddAnimal>crwdns481380:0crwdne481380:0</PenFoodTab_AddAnimal>
-
-  <PenFoodTab_NaturalNutritionGrowthRate>crwdns481382:0crwdne481382:0</PenFoodTab_NaturalNutritionGrowthRate>
-  <PenFoodTab_GrowthPerSeason>crwdns481384:0crwdne481384:0</PenFoodTab_GrowthPerSeason>
-  <PenFoodTab_TotalNutritionConsumptionRate>crwdns481386:0crwdne481386:0</PenFoodTab_TotalNutritionConsumptionRate>
-  <PenFoodTab_NaturalNutritionGrowthRateDescription>crwdns481388:0crwdne481388:0</PenFoodTab_NaturalNutritionGrowthRateDescription>
-  <PenFoodTab_NutritionConsumptionDescription>crwdns481390:0crwdne481390:0</PenFoodTab_NutritionConsumptionDescription>
-  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>crwdns481392:0crwdne481392:0</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
-
-  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>crwdns481394:0crwdne481394:0</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
-  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>crwdns481396:0crwdne481396:0</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
-  <PenFoodTab_NutritionConsumedPerDay>crwdns481398:0{ANIMALDEF_label}crwdne481398:0</PenFoodTab_NutritionConsumedPerDay>
-  <PenFoodTab_NutritionConsumedEachAnimalLabel>crwdns481400:0{CONSUMEDAMOUNT}crwdne481400:0</PenFoodTab_NutritionConsumedEachAnimalLabel>
-  <PenFoodTab_AnimalTypeAnimalCapacity>crwdns481402:0crwdne481402:0</PenFoodTab_AnimalTypeAnimalCapacity>
-
-  <PenFoodTab_EdibleNow>crwdns481404:0crwdne481404:0</PenFoodTab_EdibleNow>
-
-  <PenAutoCut_EnabledCheckbox>crwdns481406:0crwdne481406:0</PenAutoCut_EnabledCheckbox>
-  <PenAutoCut_EnabledCheckboxTip>crwdns481408:0crwdne481408:0</PenAutoCut_EnabledCheckboxTip>
-
-  <AutocutUnenclosedPen>crwdns481410:0crwdne481410:0</AutocutUnenclosedPen>
-  <AutocutUnenclosedPenTip>crwdns481412:0crwdne481412:0</AutocutUnenclosedPenTip>
-
-  <WindTurbineAutoCut_EnabledCheckbox>crwdns481414:0crwdne481414:0</WindTurbineAutoCut_EnabledCheckbox>
+  <!-- Guest tab (prisoners) -->
+  <FactorForGenes>crwdns429612:0crwdne429612:0</FactorForGenes>
+  <PrisonBreakingDisabledDueToGene>crwdns429614:0{GENE_label}crwdne429614:0</PrisonBreakingDisabledDueToGene>
 
 </LanguageData>
