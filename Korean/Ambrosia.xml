@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AmbrosiaHigh.stages.ambrosia_warmth.label>암브로시아 온기</AmbrosiaHigh.stages.ambrosia_warmth.label>
-  <AmbrosiaHigh.stages.ambrosia_warmth.description>암브로시아 덕분에 기분도 편해지고 힘도 나는걸.</AmbrosiaHigh.stages.ambrosia_warmth.description>
-  
-  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>암브로시아 금단 현상</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
-  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>너무 춥고 몸도 무거워. 과일 한 입이 이렇게 절실할 줄은 몰랐는데.</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
+  <Ambrosia.label>ambrosia</Ambrosia.label>
+  <Ambrosia.description>A soft, rare fruit. Ambrosia tastes wonderful and produces a subtle mood-increasing chemical high. However, if eaten too often, it can generate a mild addiction.</Ambrosia.description>
 </LanguageData>
