@@ -65,31 +65,31 @@
     <li>archistBasis(tag=meme_Individualist)    ->초월공학이 자신만의 의식을 지녔으니 우리 각자를 인식하고 심판하는 방법이 동등하다.</li>
     <li>archistFact(tag=meme_Individualist)     ->죽음의 순간 초월공학은 개인의 고유한 도덕성을 검토한다.</li>
     <li>archistFact(tag=meme_Individualist)     ->초월공학은 [relic1_name](와)과 같은 유물을 다루는 자를 주목할 것이다.</li>
-    <li>archistProphecy(tag=meme_Individualist) ->[inTheEnd], the archotechs will depart. They will bring with them the ones they have noticed, and leave the rest behind to dissolve in the universe's eternal entropy.</li>
-    <li>animistBasis(tag=meme_Individualist)    ->Before everything, there was a pantheon of spirits, each unique. These came together in conference to create the world.</li>
-    <li>animistFact(tag=meme_Individualist)     ->Every spirit lends its unique nature to our world, and they expect us to do the same.</li>
+    <li>archistProphecy(tag=meme_Individualist) ->[inTheEnd] 초월은 떠날 것이니 주목한 자와 함께 할 것이고 나머지는 우주의 영원한 엔트로피 속에서 스러지리라.</li>
+    <li>animistBasis(tag=meme_Individualist)    ->시작의 이전에 혼령의 만신전이 존재했으니 모든 혼령이 유일했으며 그들이 함께 모여 세상을 창조할 회담을 가졌다.</li>
+    <li>animistFact(tag=meme_Individualist)     ->모든 혼령이 각자의 유일한 것을 이 세계에 보탰으니 우리도 그와 같은 일을 하리라 기대하고 있다.</li>
   </Individualist.descriptionMaker.rules.rulesStrings>
   <Individualist.generalRules.rulesStrings>
     <li>memeAdjective->자유로운</li>
-    <li>memeAdjective->open</li>
-    <li>memeAdjective->liberal</li>
-    <li>memeConcept->self</li>
-    <li>memeConcept->independence</li>
-    <li>memeConcept->freedom</li>
+    <li>memeAdjective->열린</li>
+    <li>memeAdjective->관대한</li>
+    <li>memeConcept->자아</li>
+    <li>memeConcept->독립</li>
+    <li>memeConcept->자유</li>
   </Individualist.generalRules.rulesStrings>
-  <Individualist.symbolPacks.0.adjective>freedomist</Individualist.symbolPacks.0.adjective>
-  <Individualist.symbolPacks.0.member>freeist</Individualist.symbolPacks.0.member>
+  <Individualist.symbolPacks.0.adjective>자유주의적</Individualist.symbolPacks.0.adjective>
+  <Individualist.symbolPacks.0.member>자유주의자</Individualist.symbolPacks.0.member>
   <Individualist.symbolPacks.0.theme>자유</Individualist.symbolPacks.0.theme>
-  <Individualist.symbolPacks.1.adjective>libertine</Individualist.symbolPacks.1.adjective>
-  <Individualist.symbolPacks.1.ideoName>Libertism</Individualist.symbolPacks.1.ideoName>
-  <Individualist.symbolPacks.1.member>libertor</Individualist.symbolPacks.1.member>
+  <Individualist.symbolPacks.1.adjective>해방주의적</Individualist.symbolPacks.1.adjective>
+  <Individualist.symbolPacks.1.ideoName>해방주의</Individualist.symbolPacks.1.ideoName>
+  <Individualist.symbolPacks.1.member>해방주의자</Individualist.symbolPacks.1.member>
   <Individualist.symbolPacks.1.theme>리버티</Individualist.symbolPacks.1.theme>
   <Individualist.symbolPacks.2.adjective>독립주의적</Individualist.symbolPacks.2.adjective>
-  <Individualist.symbolPacks.2.ideoName>Independency</Individualist.symbolPacks.2.ideoName>
+  <Individualist.symbolPacks.2.ideoName>독립주의</Individualist.symbolPacks.2.ideoName>
   <Individualist.symbolPacks.2.member>독립</Individualist.symbolPacks.2.member>
-  <Individualist.symbolPacks.2.theme>independence</Individualist.symbolPacks.2.theme>
-  <Individualist.symbolPacks.3.adjective>autonomist</Individualist.symbolPacks.3.adjective>
-  <Individualist.symbolPacks.3.ideoName>Autonomism</Individualist.symbolPacks.3.ideoName>
+  <Individualist.symbolPacks.2.theme>독립</Individualist.symbolPacks.2.theme>
+  <Individualist.symbolPacks.3.adjective>자율주의적</Individualist.symbolPacks.3.adjective>
+  <Individualist.symbolPacks.3.ideoName>자율주의</Individualist.symbolPacks.3.ideoName>
   <Individualist.symbolPacks.3.member>자율주의자</Individualist.symbolPacks.3.member>
-  <Individualist.symbolPacks.3.theme>autonomy</Individualist.symbolPacks.3.theme>
+  <Individualist.symbolPacks.3.theme>자율성</Individualist.symbolPacks.3.theme>
 </LanguageData>
