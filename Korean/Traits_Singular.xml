@@ -95,7 +95,7 @@
   <Transhumanist.degreeDatas.body_modder.description>{PAWN_nameDef}(은)는 {PAWN_possessive} 연약한 육체에 한계를 느낍니다. {PAWN_pronoun}는 종종 인공 신체 부위 또는 이종 유전학으로 강화되는 것을 꿈꿉니다.</Transhumanist.degreeDatas.body_modder.description>
   
   <Undergrounder.degreeDatas.undergrounder.label>실내 선호</Undergrounder.degreeDatas.undergrounder.label>
-  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>{PAWN_nameDef}(은)는 조명이나 야외를 구경할 필요가 없습니다. {PAWN_pronoun}는 얼마나 오래 실내에 있더라도 상관이 없고 어둠따위 신경쓰지도 않습니다.</Undergrounder.degreeDatas.undergrounder.description>
   
   <Wimp.degreeDatas.wimp.label>약골</Wimp.degreeDatas.wimp.label>
   <Wimp.degreeDatas.wimp.description>{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}.</Wimp.degreeDatas.wimp.description>
