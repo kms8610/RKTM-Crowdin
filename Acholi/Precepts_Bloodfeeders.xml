@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bloodfeeders_Revered.label>crwdns424820:0crwdne424820:0</Bloodfeeders_Revered.label>
-  <Bloodfeeders_Revered.description>crwdns424822:0crwdne424822:0</Bloodfeeders_Revered.description>
-  <Bloodfeeders_Revered.comps.0.description>crwdns424824:0crwdne424824:0</Bloodfeeders_Revered.comps.0.description>
-  <Bloodfeeders_Revered.comps.2.description>crwdns424826:0crwdne424826:0</Bloodfeeders_Revered.comps.2.description>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>crwdns424828:0crwdne424828:0</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.0>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>crwdns424830:0crwdne424830:0</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.1>
-  <Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>crwdns424832:0crwdne424832:0</Bloodfeeders_Revered.comps.3.thoughtStageDescriptions.2>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.label>crwdns428000:0crwdne428000:0</BloodfeederColonist_Revered.stages.no_bloodfeeders.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeders.description>crwdns428002:0crwdne428002:0</BloodfeederColonist_Revered.stages.no_bloodfeeders.description>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>crwdns428004:0crwdne428004:0</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>crwdns428006:0crwdne428006:0</BloodfeederColonist_Revered.stages.no_bloodfeeder_master.description>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.label>crwdns428008:0crwdne428008:0</BloodfeederColonist_Revered.stages.bloodfeeder_master.label>
+  <BloodfeederColonist_Revered.stages.bloodfeeder_master.description>crwdns428010:0crwdne428010:0</BloodfeederColonist_Revered.stages.bloodfeeder_master.description>
   
-  <Bloodfeeders_Reviled.label>crwdns424834:0crwdne424834:0</Bloodfeeders_Reviled.label>
-  <Bloodfeeders_Reviled.description>crwdns424836:0crwdne424836:0</Bloodfeeders_Reviled.description>
-  <Bloodfeeders_Reviled.comps.0.description>crwdns424838:0crwdne424838:0</Bloodfeeders_Reviled.comps.0.description>
-  <Bloodfeeders_Reviled.comps.1.description>crwdns424840:0crwdne424840:0</Bloodfeeders_Reviled.comps.1.description>
-  <Bloodfeeders_Reviled.comps.3.description>crwdns424842:0crwdne424842:0</Bloodfeeders_Reviled.comps.3.description>
-  <Bloodfeeders_Reviled.comps.4.description>crwdns424844:0crwdne424844:0</Bloodfeeders_Reviled.comps.4.description>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>crwdns428012:0crwdne428012:0</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.label>
+  <BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>crwdns428014:0crwdne428014:0</BloodfeederColonist_Reviled.stages.bloodfeeder_among_us.description>
+  
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.label>crwdns428016:0crwdne428016:0</BloodfeederDied_Revered.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Revered.stages.bloodfeeder_died.description>crwdns428018:0crwdne428018:0</BloodfeederDied_Revered.stages.bloodfeeder_died.description>
+  
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.label>crwdns428020:0crwdne428020:0</BloodfeederDied_Reviled.stages.bloodfeeder_died.label>
+  <BloodfeederDied_Reviled.stages.bloodfeeder_died.description>crwdns428022:0crwdne428022:0</BloodfeederDied_Reviled.stages.bloodfeeder_died.description>
+  
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>crwdns428024:0crwdne428024:0</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.label>
+  <Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>crwdns428026:0crwdne428026:0</Bloodfeeder_ReveredBloodfeeder.stages.revered_bloodfeeder.description>
+  
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>crwdns428028:0crwdne428028:0</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.label>
+  <Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>crwdns428030:0crwdne428030:0</Bloodfeeder_ReviledBloodfeeder.stages.bloodfeeder_self_hatred.description>
+  
+  <Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>crwdns428032:0crwdne428032:0</Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.bloodfeeder.label>
+  
+  <Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>crwdns428034:0crwdne428034:0</Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.bloodfeeder.label>
 </LanguageData>
