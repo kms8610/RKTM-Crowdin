@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TreeCutting.label>crwdns432350:0crwdne432350:0</TreeCutting.label>
+  <TreeCutting_Disapproved.label>crwdns437062:0crwdne437062:0</TreeCutting_Disapproved.label>
+  <TreeCutting_Disapproved.description>crwdns437064:0crwdne437064:0</TreeCutting_Disapproved.description>
+  <TreeCutting_Disapproved.comps.2.description>crwdns437066:0crwdne437066:0</TreeCutting_Disapproved.comps.2.description>
+  
+  <TreeCutting_Horrible.label>crwdns437068:0crwdne437068:0</TreeCutting_Horrible.label>
+  <TreeCutting_Horrible.description>crwdns437070:0crwdne437070:0</TreeCutting_Horrible.description>
+  <TreeCutting_Horrible.comps.2.description>crwdns437072:0crwdne437072:0</TreeCutting_Horrible.comps.2.description>
+  
+  <TreeCutting_Prohibited.label>crwdns437074:0crwdne437074:0</TreeCutting_Prohibited.label>
+  <TreeCutting_Prohibited.description>crwdns437076:0crwdne437076:0</TreeCutting_Prohibited.description>
+  <TreeCutting_Prohibited.comps.2.description>crwdns437078:0crwdne437078:0</TreeCutting_Prohibited.comps.2.description>
 </LanguageData>
