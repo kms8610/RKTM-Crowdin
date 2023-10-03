@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmokeleafAddiction.label>crwdns458294:0crwdne458294:0</SmokeleafAddiction.label>
-  <SmokeleafAddiction.description>crwdns458296:0crwdne458296:0</SmokeleafAddiction.description>
-  <SmokeleafAddiction.stages.withdrawal.label>crwdns458298:0crwdne458298:0</SmokeleafAddiction.stages.withdrawal.label>
-  
-  <SmokeleafHigh.label>crwdns458300:0crwdne458300:0</SmokeleafHigh.label>
-  <SmokeleafHigh.description>crwdns458302:0crwdne458302:0</SmokeleafHigh.description>
-  <SmokeleafHigh.labelNoun>crwdns458304:0crwdne458304:0</SmokeleafHigh.labelNoun>
-  
-  <SmokeleafTolerance.label>crwdns458306:0crwdne458306:0</SmokeleafTolerance.label>
-  <SmokeleafTolerance.description>crwdns458308:0crwdne458308:0</SmokeleafTolerance.description>
-  <SmokeleafTolerance.stages.small.label>crwdns458310:0crwdne458310:0</SmokeleafTolerance.stages.small.label>
-  <SmokeleafTolerance.stages.large.label>crwdns458312:0crwdne458312:0</SmokeleafTolerance.stages.large.label>
-  <SmokeleafTolerance.stages.massive.label>crwdns458314:0crwdne458314:0</SmokeleafTolerance.stages.massive.label>
+  <Chemical_Smokeleaf.label>crwdns460530:0crwdne460530:0</Chemical_Smokeleaf.label>
+  <Chemical_Smokeleaf.description>crwdns460532:0crwdne460532:0</Chemical_Smokeleaf.description>
 </LanguageData>
