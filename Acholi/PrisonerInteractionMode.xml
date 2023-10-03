@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bloodfeed.label>crwdns424904:0crwdne424904:0</Bloodfeed.label>
-  <Bloodfeed.description>crwdns424906:0crwdne424906:0</Bloodfeed.description>
+  <Convert.label>crwdns437134:0crwdne437134:0</Convert.label>
+  <Convert.description>crwdns437136:0crwdne437136:0</Convert.description>
   
-  <HemogenFarm.label>crwdns424908:0crwdne424908:0</HemogenFarm.label>
-  <HemogenFarm.description>crwdns424910:0crwdne424910:0</HemogenFarm.description>
+  <Enslave.label>crwdns437138:0crwdne437138:0</Enslave.label>
+  <Enslave.description>crwdns437140:0crwdne437140:0</Enslave.description>
+  
+  <ReduceWill.label>crwdns437142:0crwdne437142:0</ReduceWill.label>
+  <ReduceWill.description>crwdns437144:0crwdne437144:0</ReduceWill.description>
 </LanguageData>
