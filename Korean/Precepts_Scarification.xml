@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Scarification.label>상흔 문신</Scarification.label>
-  <Scarification.description>의식이나 예술적 목적을 위해 피부 위에 조심스럽게 새긴 문신입니다.</Scarification.description>
-  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>상흔 문신</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
-  <Scarification.labelNoun>상흔 문신</Scarification.labelNoun>
-  <Scarification.labelNounPretty>{1}의 {0}</Scarification.labelNounPretty>
+  <GotScarified.label>몸에 상흔 문신을 새김</GotScarified.label>
 </LanguageData>
