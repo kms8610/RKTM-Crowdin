@@ -1,20 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildBirth.description>모든 품질 요소가 산모와 아기의 건강상태를 결정합니다.</ChildBirth.description>
-  <ChildBirth.comps.0.label>{PAWN_labelShort}의 나이</ChildBirth.comps.0.label>
-  <ChildBirth.comps.0.labelAbstract>산모의 나이</ChildBirth.comps.0.labelAbstract>
-  <ChildBirth.comps.1.label>{PAWN_labelShort}의 의학기술</ChildBirth.comps.1.label>
-  <ChildBirth.comps.1.labelAbstract>의사의 의학 기술</ChildBirth.comps.1.labelAbstract>
-  <ChildBirth.comps.2.label>사랑하는 사람 참석</ChildBirth.comps.2.label>
-  <ChildBirth.comps.2.labelNotMet>사랑하는 사람 부재</ChildBirth.comps.2.labelNotMet>
-  <ChildBirth.comps.3.label>실내</ChildBirth.comps.3.label>
-  <ChildBirth.comps.4.label>방 청결도</ChildBirth.comps.4.label>
-  <ChildBirth.comps.5.label>침대 효과</ChildBirth.comps.5.label>
-  <ChildBirth.extraOutcomeDescriptions.0.description>추가적으로 산모는 출산 중 {0_percentage} 확률로 사망합니다.</ChildBirth.extraOutcomeDescriptions.0.description>
-  <ChildBirth.outcomeChances.0.label>죽은 채로</ChildBirth.outcomeChances.0.label>
-  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}의 아기가 사산되었습니다.</ChildBirth.outcomeChances.0.description>
-  <ChildBirth.outcomeChances.1.label>병약하게</ChildBirth.outcomeChances.1.label>
-  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort}(이)가 아기를 낳았지만, 불행히도 아기가 아픕니다.</ChildBirth.outcomeChances.1.description>
-  <ChildBirth.outcomeChances.2.label>건강하게</ChildBirth.outcomeChances.2.label>
-  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort}(이)가 건강한 아기를 낳았습니다!</ChildBirth.outcomeChances.2.description>
+  <AttendedFuneral.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</AttendedFuneral.description>
+  <AttendedFuneral.comps.0.label>종교 지도자 참여</AttendedFuneral.comps.0.label>
+  <AttendedFuneral.comps.1.label>참여자 수</AttendedFuneral.comps.1.label>
+  <AttendedFuneral.outcomeChances.0.label>끔찍한</AttendedFuneral.outcomeChances.0.label>
+  <AttendedFuneral.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자 모두가 이 자리에서 참고 있어야 한다는 현실에 모욕감을 느꼈습니다.</AttendedFuneral.outcomeChances.0.description>
+  <AttendedFuneral.outcomeChances.1.label>우중충한</AttendedFuneral.outcomeChances.1.label>
+  <AttendedFuneral.outcomeChances.1.description>{0}(은)는 흐리멍텅했습니다. 연설은 장황했고 어떤 감정도 해소하지 못했습니다.</AttendedFuneral.outcomeChances.1.description>
+  <AttendedFuneral.outcomeChances.2.label>좋은</AttendedFuneral.outcomeChances.2.label>
+  <AttendedFuneral.outcomeChances.2.description>{0}(은)는 좋았습니다. 연설의 마지막 구절은 모두가 나아가야 할 길을 제시해 주었습니다.</AttendedFuneral.outcomeChances.2.description>
+  <AttendedFuneral.outcomeChances.3.label>따뜻한</AttendedFuneral.outcomeChances.3.label>
+  <AttendedFuneral.outcomeChances.3.description>{0}(은)는 참여자들의 마음을 녹이는 계기가 됐습니다. 감동적이고 진심 어린 연설은 참여자 모두에게 좋은 추억거리로 남았습니다.</AttendedFuneral.outcomeChances.3.description>
+  
+  <AttendedFuneralNoCorpse.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.comps.0.label>종교 지도자 참여</AttendedFuneralNoCorpse.comps.0.label>
+  <AttendedFuneralNoCorpse.comps.1.label>참여자 수</AttendedFuneralNoCorpse.comps.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>끔찍한</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자 모두가 이 자리에서 참고 있어야 한다는 현실에 모욕감을 느꼈습니다.</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>우중충한</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.1.description>{0}(은)는 흐리멍텅했습니다. 연설은 장황했고 어떤 감정도 해소하지 못했습니다.</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>좋은</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <AttendedFuneralNoCorpse.outcomeChances.2.description>{0}(은)는 좋았습니다. 연설의 마지막 구절은 모두가 나아가야 할 길을 제시해 주었습니다.</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>따뜻한</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <AttendedFuneralNoCorpse.outcomeChances.3.description>{0}(은)는 참여자들의 마음을 녹이는 계기가 됐습니다. 감동적이고 진심 어린 연설은 참여자 모두에게 좋은 추억거리로 남았습니다.</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  
+  <BlindingCeremony.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</BlindingCeremony.description>
+  <BlindingCeremony.comps.2.label>종교 지도자 참여</BlindingCeremony.comps.2.label>
+  <BlindingCeremony.comps.3.label>참여자 수</BlindingCeremony.comps.3.label>
+  <BlindingCeremony.comps.4.label>제단에서 진행</BlindingCeremony.comps.4.label>
+  <BlindingCeremony.comps.4.expectedThingLabelTip>제단</BlindingCeremony.comps.4.expectedThingLabelTip>
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>{0}(이)가 만족스럽게 진행된다면 의식 대상의 정신력이 강화되거나 새로운 초능력을 얻게 됩니다.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <BlindingCeremony.outcomeChances.0.label>끔찍한</BlindingCeremony.outcomeChances.0.label>
+  <BlindingCeremony.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 잘 들리지 않았고 실명 기술마저 엉망진창이었습니다. 모두는 이 시간이 어서 끝나기만을 기다리고 있었습니다.</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.1.label>지루한</BlindingCeremony.outcomeChances.1.label>
+  <BlindingCeremony.outcomeChances.1.description>{0}(은)는 지루했습니다. 연설은 반복적이었고, 실명 기술은 조잡했습니다. 위엄이라곤 전혀 느껴지지 않았습니다.</BlindingCeremony.outcomeChances.1.description>
+  <BlindingCeremony.outcomeChances.2.label>만족스러운</BlindingCeremony.outcomeChances.2.label>
+  <BlindingCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 뜻깊었고, 실명 의식은 정밀하고 위엄이 있었습니다.</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>실명 의식 대상자는 정신력이 강화되거나 새로운 초능력을 얻게 됩니다.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <BlindingCeremony.outcomeChances.3.label>훌륭한</BlindingCeremony.outcomeChances.3.label>
+  <BlindingCeremony.outcomeChances.3.description>{0}(은)는 환상적이었습니다! 연설은 감명 깊었고, 눈알을 뽑을 때 흘러나온 경쾌한 소리는 모두를 환호케 했습니다.</BlindingCeremony.outcomeChances.3.description>
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>실명 의식 대상자는 정신력이 강화되거나 새로운 초능력을 얻게 됩니다.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <CelebratedDate.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebratedDate.description>
+  <CelebratedDate.comps.2.label>지도자 참여</CelebratedDate.comps.2.label>
+  <CelebratedDate.comps.3.label>참여자 수</CelebratedDate.comps.3.label>
+  <CelebratedDate.comps.4.label>제단에서 진행</CelebratedDate.comps.4.label>
+  <CelebratedDate.comps.4.expectedThingLabelTip>제단</CelebratedDate.comps.4.expectedThingLabelTip>
+  <CelebratedDate.outcomeChances.0.label>끔찍한</CelebratedDate.outcomeChances.0.label>
+  <CelebratedDate.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</CelebratedDate.outcomeChances.0.description>
+  <CelebratedDate.outcomeChances.1.label>지루한</CelebratedDate.outcomeChances.1.label>
+  <CelebratedDate.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</CelebratedDate.outcomeChances.1.description>
+  <CelebratedDate.outcomeChances.2.label>즐거운</CelebratedDate.outcomeChances.2.label>
+  <CelebratedDate.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</CelebratedDate.outcomeChances.2.description>
+  <CelebratedDate.outcomeChances.3.label>인상적인</CelebratedDate.outcomeChances.3.label>
+  <CelebratedDate.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</CelebratedDate.outcomeChances.3.description>
+  
+  <CelebratedDate_Consumable.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.comps.0.label>참여자 수</CelebratedDate_Consumable.comps.0.label>
+  <CelebratedDate_Consumable.comps.1.label>방 인상</CelebratedDate_Consumable.comps.1.label>
+  <CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>{0}(이)가 만족스럽게 진행되면 참여자 중 한 명이 영감을 획득합니다.</CelebratedDate_Consumable.extraPredictedOutcomeDescriptions.0>
+  <CelebratedDate_Consumable.outcomeChances.0.label>끔찍한</CelebratedDate_Consumable.outcomeChances.0.label>
+  <CelebratedDate_Consumable.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</CelebratedDate_Consumable.outcomeChances.0.description>
+  <CelebratedDate_Consumable.outcomeChances.1.label>지루한</CelebratedDate_Consumable.outcomeChances.1.label>
+  <CelebratedDate_Consumable.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</CelebratedDate_Consumable.outcomeChances.1.description>
+  <CelebratedDate_Consumable.outcomeChances.2.label>즐거운</CelebratedDate_Consumable.outcomeChances.2.label>
+  <CelebratedDate_Consumable.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</CelebratedDate_Consumable.outcomeChances.2.description>
+  <CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</CelebratedDate_Consumable.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebratedDate_Consumable.outcomeChances.3.label>인상적인</CelebratedDate_Consumable.outcomeChances.3.label>
+  <CelebratedDate_Consumable.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</CelebratedDate_Consumable.outcomeChances.3.description>
+  <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <CelebrationPartyDanceDrum.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.comps.0.label>참여자 수</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.1.label>방 인상</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.2.label>연주된 북 갯수</CelebrationPartyDanceDrum.comps.2.label>
+  <CelebrationPartyDanceDrum.comps.3.label>모닥불 이용</CelebrationPartyDanceDrum.comps.3.label>
+  <CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>모닥불</CelebrationPartyDanceDrum.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>{0}(이)가 재미있거나 인상적으로 진행된다면, 참여자들은 얼마간 작업 속도에 긍정적인 영향을 받게 됩니다.</CelebrationPartyDanceDrum.extraPredictedOutcomeDescriptions.0>
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>끔찍한</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <CelebrationPartyDanceDrum.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 어색한 대화, 저질 농담, 형편없는 춤, 칙칙한 음악까지 무엇 하나 제대로 된 게 없었습니다.</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>지루한</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <CelebrationPartyDanceDrum.outcomeChances.1.description>{0}(은)는 지루했습니다. 형편없는 춤과 시시한 음악 때문에 모든 게 시간 낭비처럼 느껴졌습니다.</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>즐거운</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <CelebrationPartyDanceDrum.outcomeChances.2.description>{0}(은)는 재미있었습니다. 모두 함께 멋진 춤을 추며 일상으로부터의 휴식을 즐겼습니다.</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>모두가 상쾌한 춤바람에 빠져들고 말았습니다. 참여자들의 작업 속도가 일시적으로 빨라집니다.</CelebrationPartyDanceDrum.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>인상적인</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <CelebrationPartyDanceDrum.outcomeChances.3.description>{0}은 매우 인상적이었습니다! 무용수들은 음악에 무아지경으로 몸을 맡겼고. 모두를 하나로 단합시켰습니다.</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>모두가 상쾌한 춤바람에 빠져들고 말았습니다. 참여자들의 작업 속도가 일시적으로 빨라집니다.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <CelebrationPartyDanceTech.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.comps.0.label>참여자 수</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.1.label>방 인상</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.2.label>사용된 스피커 수</CelebrationPartyDanceTech.comps.2.label>
+  <CelebrationPartyDanceTech.comps.3.label>미러볼 사용</CelebrationPartyDanceTech.comps.3.label>
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>미러볼</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>{0}(이)가 재미있거나 인상적으로 진행된다면, 참여자들은 얼마간 작업 속도에 긍정적인 영향을 받게 됩니다.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
+  <CelebrationPartyDanceTech.outcomeChances.0.label>끔찍한</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <CelebrationPartyDanceTech.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 어색한 대화, 저질 농담, 형편없는 춤, 칙칙한 음악까지 무엇 하나 제대로 된 게 없었습니다.</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <CelebrationPartyDanceTech.outcomeChances.1.label>지루한</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <CelebrationPartyDanceTech.outcomeChances.1.description>{0}(은)는 지루했습니다. 형편없는 춤과 시시한 음악 때문에 모든 게 시간 낭비처럼 느껴졌습니다.</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <CelebrationPartyDanceTech.outcomeChances.2.label>즐거운</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <CelebrationPartyDanceTech.outcomeChances.2.description>{0}(은)는 재미있었습니다. 모두 함께 멋진 춤을 추며 일상으로부터의 휴식을 즐겼습니다.</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>모두가 상쾌한 춤바람에 빠져들고 말았습니다. 참여자들의 작업 속도가 일시적으로 빨라집니다.</CelebrationPartyDanceTech.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationPartyDanceTech.outcomeChances.3.label>인상적인</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <CelebrationPartyDanceTech.outcomeChances.3.description>{0}은 매우 인상적이었습니다! 무용수들은 음악에 무아지경으로 몸을 맡겼고. 모두를 하나로 단합시켰습니다.</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>모두가 상쾌한 춤바람에 빠져들고 말았습니다. 참여자들의 작업 속도가 일시적으로 빨라집니다.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <CelebrationSkyLanterns.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.comps.0.label>참여자 수</CelebrationSkyLanterns.comps.0.label>
+  <CelebrationSkyLanterns.extraInfoLines.0>각 참여자는 4개의 목재로 풍등을 제작합니다.</CelebrationSkyLanterns.extraInfoLines.0>
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>{0}(이)가 아름답거나 인상적으로 진행된다면 풍등이 우호적인 방문객들을 불러올 것입니다.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <CelebrationSkyLanterns.outcomeChances.0.label>끔찍한</CelebrationSkyLanterns.outcomeChances.0.label>
+  <CelebrationSkyLanterns.outcomeChances.0.description>{0}(은)는 끔찍했습니다. 사람들은 풍등을 만들며 계속 짜증을 냈고, 떠오른 풍등은 바람에 날리는 쓰레기처럼 보였습니다.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <CelebrationSkyLanterns.outcomeChances.1.label>틀에 박힌</CelebrationSkyLanterns.outcomeChances.1.label>
+  <CelebrationSkyLanterns.outcomeChances.1.description>{0}(은)는 시시하게 끝났습니다. 풍등 만들기는 너무 오래 걸렸고, 이내 모두가 싫증을 느꼈습니다.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.2.label>아름다운</CelebrationSkyLanterns.outcomeChances.2.label>
+  <CelebrationSkyLanterns.outcomeChances.2.description>{0}(은)는 아름다웠습니다. 풍등이 떠다니는 광경은 모두에게 평화를 선사했습니다.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>풍등이 빛을 내며 하늘 위로 떠오릅니다. 이것을 본 방문객들이 선물을 가지고 찾아올 수 있습니다.</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationSkyLanterns.outcomeChances.3.label>인상적인</CelebrationSkyLanterns.outcomeChances.3.label>
+  <CelebrationSkyLanterns.outcomeChances.3.description>{0}(은)는 인상적이었습니다! 모두가 웃고 떠들며 풍등을 만들었고, 모두의 영혼도 풍등과 함께 떠올랐습니다.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>풍등이 빛을 내며 하늘 위로 떠오릅니다. 이것을 본 방문객들이 선물을 가지고 찾아올 수 있습니다.</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <ConnectToTree.description>결속자는 나무와 연결될 것입니다.</ConnectToTree.description>
+  <ConnectToTree.comps.0.label>참여자 수</ConnectToTree.comps.0.label>
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>결속자는 의식의 품질에 따라 25%~45%의 교감 수준을 얻게 됩니다.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>높은 교감을 유지할수록 나무 근처에 요정이끼 타래가 더 많이 자라나 경관을 아름답게 꾸며줄 것입니다.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
+  
+  <Conversion.description>설교가 매끄럽게 진행된다면 대상의 믿음이 흔들리거나 교화될 것입니다. 반대의 경우 기존의 믿음이 더욱 굳건해질 수도 있습니다.</Conversion.description>
+  <Conversion.comps.0.label>방 인상</Conversion.comps.0.label>
+  <Conversion.comps.1.label>참여자 수</Conversion.comps.1.label>
+  <Conversion.comps.2.label>{PAWN_labelShort}의 사교 능력</Conversion.comps.2.label>
+  <Conversion.comps.2.labelAbstract>설교자의 사교 능력</Conversion.comps.2.labelAbstract>
+  <Conversion.comps.3.label>{PAWN_labelShort}의 기대감</Conversion.comps.3.label>
+  <Conversion.comps.3.labelAbstract>개종 대상의 신념</Conversion.comps.3.labelAbstract>
+  <Conversion.outcomeChances.0.label>끔찍한</Conversion.outcomeChances.0.label>
+  <Conversion.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 설교는 쓸데없이 늘어졌고 논리적이지도 못해서 대상을 전혀 설득하지 못했습니다.</Conversion.outcomeChances.0.description>
+  <Conversion.outcomeChances.1.label>효과 없음</Conversion.outcomeChances.1.label>
+  <Conversion.outcomeChances.1.description>{0}(은)는 효과가 없었습니다. 설교에 담긴 주장은 불분명했고, 대상은 타당한 의문을 제기하며 반박했습니다.</Conversion.outcomeChances.1.description>
+  <Conversion.outcomeChances.2.label>성공적인</Conversion.outcomeChances.2.label>
+  <Conversion.outcomeChances.2.description>{0}(은)는 효과적이었습니다! 설교의 내용은 참여자들에게 즐거움을 선사했을 뿐더러 교화 대상의 마음까지 확실히 흔들었습니다.</Conversion.outcomeChances.2.description>
+  <Conversion.outcomeChances.3.label>위대한</Conversion.outcomeChances.3.label>
+  <Conversion.outcomeChances.3.description>{0}(은)는 역사에 남을 위대한 설교였습니다! 설교 대상의 오래된 믿음은 너무나 쉽게 흩어져 버렸고, 대신 참된 뜻만이 바로 섰습니다.</Conversion.outcomeChances.3.description>
+  
+  <DestroyConsumableBuilding.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding.description>
+  <DestroyConsumableBuilding.comps.0.label>참여자 수</DestroyConsumableBuilding.comps.0.label>
+  <DestroyConsumableBuilding.comps.1.label>방 인상</DestroyConsumableBuilding.comps.1.label>
+  <DestroyConsumableBuilding.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding.outcomeChances.0.label>
+  <DestroyConsumableBuilding.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding.outcomeChances.0.description>
+  <DestroyConsumableBuilding.outcomeChances.1.label>지루한</DestroyConsumableBuilding.outcomeChances.1.label>
+  <DestroyConsumableBuilding.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</DestroyConsumableBuilding.outcomeChances.1.description>
+  <DestroyConsumableBuilding.outcomeChances.2.label>즐거운</DestroyConsumableBuilding.outcomeChances.2.label>
+  <DestroyConsumableBuilding.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding.outcomeChances.2.description>
+  <DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding.outcomeChances.3.label>인상적인</DestroyConsumableBuilding.outcomeChances.3.label>
+  <DestroyConsumableBuilding.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding.outcomeChances.3.description>
+  <DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <DestroyConsumableBuilding_Burnbong.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding_Burnbong.description>
+  <DestroyConsumableBuilding_Burnbong.comps.0.label>참여자 수</DestroyConsumableBuilding_Burnbong.comps.0.label>
+  <DestroyConsumableBuilding_Burnbong.comps.1.label>방 인상</DestroyConsumableBuilding_Burnbong.comps.1.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_Burnbong.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>지루한</DestroyConsumableBuilding_Burnbong.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_Burnbong.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_Burnbong.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_Burnbong.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <DestroyConsumableBuilding_CannibalPlatter.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.0.label>참여자 수</DestroyConsumableBuilding_CannibalPlatter.comps.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.comps.1.label>방 인상</DestroyConsumableBuilding_CannibalPlatter.comps.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.0.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>지루한</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.1.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.label>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.description>
+  <DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_CannibalPlatter.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <DestroyConsumableBuilding_ChristmasTree.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding_ChristmasTree.description>
+  <DestroyConsumableBuilding_ChristmasTree.comps.0.label>참여자 수</DestroyConsumableBuilding_ChristmasTree.comps.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.comps.1.label>방 인상</DestroyConsumableBuilding_ChristmasTree.comps.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.0.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>지루한</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.1.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.label>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.description>
+  <DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_ChristmasTree.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <DestroyConsumableBuilding_Pyre.description>의식의 대상은 파괴될 것입니다.</DestroyConsumableBuilding_Pyre.description>
+  <DestroyConsumableBuilding_Pyre.comps.0.label>참여자 수</DestroyConsumableBuilding_Pyre.comps.0.label>
+  <DestroyConsumableBuilding_Pyre.comps.1.label>방 인상</DestroyConsumableBuilding_Pyre.comps.1.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.label>끔찍한</DestroyConsumableBuilding_Pyre.outcomeChances.0.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 참여자들은 행사가 끝날 때까지 이를 악물고 의미 없는 대화를 나누며 견뎌야 했습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.0.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.label>지루한</DestroyConsumableBuilding_Pyre.outcomeChances.1.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.1.description>{0}(은)는 지루했습니다. 웃고 즐기기에는 너무 어색한 분위기였습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.1.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.label>즐거운</DestroyConsumableBuilding_Pyre.outcomeChances.2.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.description>{0}(은)는 즐거웠습니다. 모두가 함께 즐기며 쉴 수 있는 기회를 반겼습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.2.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</DestroyConsumableBuilding_Pyre.outcomeChances.2.potentialExtraOutcomeDesc>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.label>인상적인</DestroyConsumableBuilding_Pyre.outcomeChances.3.label>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.description>{0}(은)는 잊지 않을 겁니다! 모두는 서로에 대해 많은 것을 배웠고, 가족이 된 기분이었습니다.</DestroyConsumableBuilding_Pyre.outcomeChances.3.description>
+  <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <Execution.description>의식의 품질에 따라, 일반 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다. 참여한 노예들의 복종심은 최대치까지 상승할 것입니다.</Execution.description>
+  <Execution.comps.0.label>참여자 수</Execution.comps.0.label>
+  <Execution.comps.1.label>제단이나 상징문양에서 진행</Execution.comps.1.label>
+  <Execution.comps.1.expectedThingLabelTip>제단 또는 상징문양</Execution.comps.1.expectedThingLabelTip>
+  <Execution.outcomeChances.0.label>끔찍한</Execution.outcomeChances.0.label>
+  <Execution.outcomeChances.0.description>{0}(은)는 끔찍했습니다. 연설은 장황하게 늘어졌고, 처형인은 무기를 휘두르다 넘어져 체면을 구겼습니다. 정의라고는 한 톨도 느껴지지 않았습니다.</Execution.outcomeChances.0.description>
+  <Execution.outcomeChances.1.label>만족스러운</Execution.outcomeChances.1.label>
+  <Execution.outcomeChances.1.description>{0}(은)는 만족스러웠습니다. 모두가 정의가 구현됨을 느꼈습니다.</Execution.outcomeChances.1.description>
+  <Execution.outcomeChances.2.label>훌륭한</Execution.outcomeChances.2.label>
+  <Execution.outcomeChances.2.description>{0}(은)는 장관이었습니다! 한 번의 매끄러운 칼질로 처형은 끝났고 모두가 정의와 권력의 힘에 고취되었습니다.</Execution.outcomeChances.2.description>
+  
+  <GladiatorDuel.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</GladiatorDuel.description>
+  <GladiatorDuel.comps.0.label>참여자 수</GladiatorDuel.comps.0.label>
+  <GladiatorDuel.comps.1.label>지도자 참여</GladiatorDuel.comps.1.label>
+  <GladiatorDuel.comps.2.label>결투자 사망</GladiatorDuel.comps.2.label>
+  <GladiatorDuel.comps.3.label>무기 사용</GladiatorDuel.comps.3.label>
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.0>결투자들과 관중들은 격투 경험치를 획득할 것입니다.</GladiatorDuel.extraPredictedOutcomeDescriptions.0>
+  <GladiatorDuel.extraPredictedOutcomeDescriptions.1>관중들은 기분이 개선되며 오락 욕구를 만족하게 됩니다.</GladiatorDuel.extraPredictedOutcomeDescriptions.1>
+  <GladiatorDuel.outcomeChances.0.label>끔찍한</GladiatorDuel.outcomeChances.0.label>
+  <GladiatorDuel.outcomeChances.0.description>결투는 끔찍했습니다. 투사들은 어색하게 갈팡질팡 서로를 피하며 비겁하고 약한 모습을 보여 관중들을 슬프게 했습니다.</GladiatorDuel.outcomeChances.0.description>
+  <GladiatorDuel.outcomeChances.1.label>지루한</GladiatorDuel.outcomeChances.1.label>
+  <GladiatorDuel.outcomeChances.1.description>결투는 지루했습니다. 투사들이 싸우려 들지 않았기에, 흥분되는 순간이라곤 존재하지 않았습니다.</GladiatorDuel.outcomeChances.1.description>
+  <GladiatorDuel.outcomeChances.2.label>좋은</GladiatorDuel.outcomeChances.2.label>
+  <GladiatorDuel.outcomeChances.2.description>결투는 좋았습니다. 투사들은 피를 보려 뛰어들었고, 진정한 용기를 보여주었습니다.</GladiatorDuel.outcomeChances.2.description>
+  <GladiatorDuel.outcomeChances.3.label>인상적인</GladiatorDuel.outcomeChances.3.label>
+  <GladiatorDuel.outcomeChances.3.description>결투는 인상적이었습니다! 투사들 모두 자신이 가진 것을 총동원해 싸웠고, 죽음으로 헌신했습니다.</GladiatorDuel.outcomeChances.3.description>
+  
+  <RoleChange.description>정착민에게 새로운 지위가 주어집니다.</RoleChange.description>
+  <RoleChange.comps.0.label>필요한 참가자 수</RoleChange.comps.0.label>
+  <RoleChange.extraPredictedOutcomeDescriptions.0>지위 변경이 인정되기 위해서는 최소한의 인원이 행사에 참석해야 합니다.</RoleChange.extraPredictedOutcomeDescriptions.0>
+  <RoleChange.outcomeChances.0.label>실패</RoleChange.outcomeChances.0.label>
+  <RoleChange.outcomeChances.0.description>취임에 필요한 최소 인원이 참석하지 못했습니다.</RoleChange.outcomeChances.0.description>
+  <RoleChange.outcomeChances.1.label>성공적인</RoleChange.outcomeChances.1.label>
+  <RoleChange.outcomeChances.1.description>취임식이 성공적으로 완료되었습니다.</RoleChange.outcomeChances.1.description>
+  
+  <Sacrifice.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</Sacrifice.description>
+  <Sacrifice.comps.2.label>종교 지도자 참여</Sacrifice.comps.2.label>
+  <Sacrifice.comps.3.label>참여자 수</Sacrifice.comps.3.label>
+  <Sacrifice.comps.4.label>제단에서 진행</Sacrifice.comps.4.label>
+  <Sacrifice.comps.4.expectedThingLabelTip>제단</Sacrifice.comps.4.expectedThingLabelTip>
+  <Sacrifice.extraPredictedOutcomeDescriptions.0>{0}(이)가 훌륭히 진행된다면 참여자가 영감을 얻을 수 있습니다.</Sacrifice.extraPredictedOutcomeDescriptions.0>
+  <Sacrifice.outcomeChances.0.label>끔찍한</Sacrifice.outcomeChances.0.label>
+  <Sacrifice.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 더듬거리고 앞뒤도 안 맞는데다, 살인 과정마저 엉망이었습니다. 희생물이 죽기까지 너무 오래 걸려서 모두가 고개를 돌렸습니다.</Sacrifice.outcomeChances.0.description>
+  <Sacrifice.outcomeChances.1.label>지루한</Sacrifice.outcomeChances.1.label>
+  <Sacrifice.outcomeChances.1.description>{0}(은)는 지루했습니다. 연설에는 같은 말이 반복되었으며, 살인 과정도 눈에 보일 정도로 서툴렀습니다. 위엄이라고는 찾아볼 수 없었습니다.</Sacrifice.outcomeChances.1.description>
+  <Sacrifice.outcomeChances.2.label>만족스러운</Sacrifice.outcomeChances.2.label>
+  <Sacrifice.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 깊이가 있었으며, 살인 과정 또한 정확하고 위엄이 넘쳤습니다.</Sacrifice.outcomeChances.2.description>
+  <Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>참여자들이 5% 확률로 영감을 획득합니다.</Sacrifice.outcomeChances.2.potentialExtraOutcomeDesc>
+  <Sacrifice.outcomeChances.3.label>훌륭한</Sacrifice.outcomeChances.3.label>
+  <Sacrifice.outcomeChances.3.description>{0}(은)는 장관이었습니다! 감명깊은 연설과 완벽하게 내리쳐진 칼날은 모든 관객을 흥분시켰고, 솟구친 피는 영혼을 정화시키는 성수가 되어 그들 위로 내렸습니다.</Sacrifice.outcomeChances.3.description>
+  <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>10%의 확률로 참여자 중 한 명이 영감을 획득합니다.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
+  
+  <ScarificationCeremony.description>행사의 품질에 따라, 참여자들은 {MINMOOD}~{MAXMOOD} 기분을 {MOODDAYS}일 동안 얻게 됩니다.</ScarificationCeremony.description>
+  <ScarificationCeremony.comps.2.label>종교 지도자 참여</ScarificationCeremony.comps.2.label>
+  <ScarificationCeremony.comps.3.label>참여자 수</ScarificationCeremony.comps.3.label>
+  <ScarificationCeremony.comps.4.label>제단에서 진행</ScarificationCeremony.comps.4.label>
+  <ScarificationCeremony.comps.4.expectedThingLabelTip>제단</ScarificationCeremony.comps.4.expectedThingLabelTip>
+  <ScarificationCeremony.outcomeChances.0.label>끔찍한</ScarificationCeremony.outcomeChances.0.label>
+  <ScarificationCeremony.outcomeChances.0.description>{0}(은)는 끔찍했습니다! 연설은 잘 들리지 않았고 상흔 기술은 엉망진창이었습니다. 모두는 이 시간이 어서 끝나기만을 기다리고 있었습니다.</ScarificationCeremony.outcomeChances.0.description>
+  <ScarificationCeremony.outcomeChances.1.label>지루한</ScarificationCeremony.outcomeChances.1.label>
+  <ScarificationCeremony.outcomeChances.1.description>{0}(은)는 지루했습니다. 연설은 반복적이었고, 상흔 기술은 조잡했습니다. 위엄이라곤 전혀 느껴지지 않았습니다.</ScarificationCeremony.outcomeChances.1.description>
+  <ScarificationCeremony.outcomeChances.2.label>만족스러운</ScarificationCeremony.outcomeChances.2.label>
+  <ScarificationCeremony.outcomeChances.2.description>{0}(은)는 만족스러웠습니다. 연설은 뜻깊었고, 상흔 의식은 정밀하고 위엄이 있었습니다.</ScarificationCeremony.outcomeChances.2.description>
+  <ScarificationCeremony.outcomeChances.3.label>훌륭한</ScarificationCeremony.outcomeChances.3.label>
+  <ScarificationCeremony.outcomeChances.3.description>{0}(은)는 장관이었습니다! 살 위에서 칼이 춤추며 아름다운 상처를 남겼고 모두가 환호했습니다.</ScarificationCeremony.outcomeChances.3.description>
+  
+  <Trial.description>재판의 품질은 피고가 유죄 판결을 받을 확률을 결정합니다.</Trial.description>
+  <Trial.comps.0.label>참여자 수</Trial.comps.0.label>
+  <Trial.comps.1.label>{PAWN_labelShort}의 협상 능력</Trial.comps.1.label>
+  <Trial.comps.1.labelAbstract>원고의 협상 능력</Trial.comps.1.labelAbstract>
+  <Trial.comps.2.label>{PAWN_labelShort}의 협상 능력</Trial.comps.2.label>
+  <Trial.comps.2.labelAbstract>피고의 협상 능력</Trial.comps.2.labelAbstract>
+  <Trial.outcomeChances.0.label>무죄 판결</Trial.outcomeChances.0.label>
+  <Trial.outcomeChances.0.description>원고 {PROSECUTOR_labelShort}의 주장은 다른 이들을 설득하지 못했습니다. {PAWN_labelShort}(은)는 무죄 판결을 받았습니다.</Trial.outcomeChances.0.description>
+  <Trial.outcomeChances.1.label>유죄</Trial.outcomeChances.1.label>
+  <Trial.outcomeChances.1.description>원고는 모두의 앞에서 {PAWN_labelShort}의 유죄를 증명했습니다. 이제 {PAWN_labelShort}(을)를 추방하거나 처형하더라도 모두가 납득할 것입니다.</Trial.outcomeChances.1.description>
+  
+  <TrialMentalState.description>재판의 품질은 피고가 유죄 판결을 받을 확률을 결정합니다.</TrialMentalState.description>
+  <TrialMentalState.comps.0.label>참여자 수</TrialMentalState.comps.0.label>
+  <TrialMentalState.comps.1.label>{PAWN_labelShort}의 협상 능력</TrialMentalState.comps.1.label>
+  <TrialMentalState.comps.1.labelAbstract>원고의 협상 능력</TrialMentalState.comps.1.labelAbstract>
+  <TrialMentalState.outcomeChances.0.label>무죄 판결</TrialMentalState.outcomeChances.0.label>
+  <TrialMentalState.outcomeChances.0.description>원고 {PROSECUTOR_labelShort}의 주장은 다른 이들을 설득하지 못했습니다. {PAWN_labelShort}(은)는 무죄 판결을 받았습니다.</TrialMentalState.outcomeChances.0.description>
+  <TrialMentalState.outcomeChances.1.label>유죄</TrialMentalState.outcomeChances.1.label>
+  <TrialMentalState.outcomeChances.1.description>원고는 모두의 앞에서 {PAWN_labelShort}의 유죄를 증명했습니다. 이제 {PAWN_labelShort}(을)를 추방하거나 처형하더라도 모두가 납득할 것입니다.</TrialMentalState.outcomeChances.1.description>
 </LanguageData>
