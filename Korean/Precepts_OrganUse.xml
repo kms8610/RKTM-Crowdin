@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OrganUse.label>장기 사용</OrganUse.label>
+  <HarvestedOrgan.label>harvested organ</HarvestedOrgan.label>
+  
+  <InstalledOrgan.label>installed organ</InstalledOrgan.label>
+  
+  <SoldOrgan.label>sold organ</SoldOrgan.label>
+  
+  <TradedOrgan.label>traded organ</TradedOrgan.label>
 </LanguageData>
