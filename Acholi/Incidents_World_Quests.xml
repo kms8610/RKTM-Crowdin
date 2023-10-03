@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GiveQuest_EndGame_ArchonexusVictory.label>crwdns431598:0crwdne431598:0</GiveQuest_EndGame_ArchonexusVictory.label>
-  <GiveQuest_EndGame_ArchonexusVictory.letterLabel>crwdns431600:0crwdne431600:0</GiveQuest_EndGame_ArchonexusVictory.letterLabel>
+  <GiveQuest_EndGame_RoyalAscent.label>crwdns445752:0crwdne445752:0</GiveQuest_EndGame_RoyalAscent.label>
+  
+  <GiveQuest_Intro_Deserter.label>crwdns445754:0crwdne445754:0</GiveQuest_Intro_Deserter.label>
+  
+  <GiveQuest_Intro_Wimp.label>crwdns445756:0crwdne445756:0</GiveQuest_Intro_Wimp.label>
+  
+  <ProblemCauser.label>crwdns445758:0crwdne445758:0</ProblemCauser.label>
 </LanguageData>
