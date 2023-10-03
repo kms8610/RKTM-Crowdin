@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.label>crwdns428036:0crwdne428036:0</ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.label>
-  <ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.description>crwdns428038:0crwdne428038:0</ChildLabor_Encouraged_ChildAssignedRecreation.stages.children_assigned_recreation.description>
-  
-  <ChildLabor_Encouraged_ChildAssignedWork.stages.children_assigned_work.label>crwdns428040:0crwdne428040:0</ChildLabor_Encouraged_ChildAssignedWork.stages.children_assigned_work.label>
-  <ChildLabor_Encouraged_ChildAssignedWork.stages.children_assigned_work.description>crwdns428042:0crwdne428042:0</ChildLabor_Encouraged_ChildAssignedWork.stages.children_assigned_work.description>
+  <ChildLabor.label>crwdns424396:0crwdne424396:0</ChildLabor.label>
 </LanguageData>
