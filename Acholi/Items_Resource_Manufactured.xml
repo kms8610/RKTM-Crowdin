@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bullet_Shell_Tox.label>crwdns427448:0crwdne427448:0</Bullet_Shell_Tox.label>
+  <Chemfuel.label>crwdns472402:0crwdne472402:0</Chemfuel.label>
+  <Chemfuel.description>crwdns472404:0crwdne472404:0</Chemfuel.description>
   
-  <DeathrestCapacitySerum.label>crwdns427450:0crwdne427450:0</DeathrestCapacitySerum.label>
-  <DeathrestCapacitySerum.description>crwdns427452:0crwdne427452:0</DeathrestCapacitySerum.description>
-  <DeathrestCapacitySerum.comps.CompUsable.useLabel>crwdns427454:0{0_label}crwdne427454:0</DeathrestCapacitySerum.comps.CompUsable.useLabel>
+  <ComponentIndustrial.label>crwdns472406:0crwdne472406:0</ComponentIndustrial.label>
+  <ComponentIndustrial.description>crwdns472408:0crwdne472408:0</ComponentIndustrial.description>
   
-  <NanostructuringChip.label>crwdns427456:0crwdne427456:0</NanostructuringChip.label>
-  <NanostructuringChip.description>crwdns427458:0crwdne427458:0</NanostructuringChip.description>
-  <NanostructuringChip.comps.CompStudiable.completedLetterText>crwdns427460:0{PARENT_label}crwdnd427460:0{STUDIER_labelShort}crwdnd427460:0{RESEARCH}crwdne427460:0</NanostructuringChip.comps.CompStudiable.completedLetterText>
-  <NanostructuringChip.comps.CompStudiable.completedLetterTitle>crwdns427462:0{PARENT_label}crwdnd427462:0{RESEARCH}crwdne427462:0</NanostructuringChip.comps.CompStudiable.completedLetterTitle>
+  <ComponentSpacer.label>crwdns472410:0crwdne472410:0</ComponentSpacer.label>
+  <ComponentSpacer.description>crwdns472412:0crwdne472412:0</ComponentSpacer.description>
   
-  <PowerfocusChip.label>crwdns427464:0crwdne427464:0</PowerfocusChip.label>
-  <PowerfocusChip.description>crwdns427466:0crwdne427466:0</PowerfocusChip.description>
-  <PowerfocusChip.comps.CompStudiable.completedLetterText>crwdns427468:0{PARENT_label}crwdnd427468:0{STUDIER_labelShort}crwdnd427468:0{RESEARCH}crwdne427468:0</PowerfocusChip.comps.CompStudiable.completedLetterText>
-  <PowerfocusChip.comps.CompStudiable.completedLetterTitle>crwdns427470:0{PARENT_label}crwdnd427470:0{RESEARCH}crwdne427470:0</PowerfocusChip.comps.CompStudiable.completedLetterTitle>
+  <MedicineHerbal.label>crwdns472414:0crwdne472414:0</MedicineHerbal.label>
+  <MedicineHerbal.description>crwdns472416:0crwdne472416:0</MedicineHerbal.description>
   
-  <Shell_Toxic.label>crwdns427472:0crwdne427472:0</Shell_Toxic.label>
-  <Shell_Toxic.description>crwdns427474:0crwdne427474:0</Shell_Toxic.description>
+  <MedicineIndustrial.label>crwdns472418:0crwdne472418:0</MedicineIndustrial.label>
+  <MedicineIndustrial.description>crwdns472420:0crwdne472420:0</MedicineIndustrial.description>
   
-  <Shell_Toxic_Releasing.label>crwdns427476:0crwdne427476:0</Shell_Toxic_Releasing.label>
+  <MedicineUltratech.label>crwdns472422:0crwdne472422:0</MedicineUltratech.label>
+  <MedicineUltratech.description>crwdns472424:0crwdne472424:0</MedicineUltratech.description>
   
-  <Shell_Toxic_Releasing_Water.label>crwdns427478:0crwdne427478:0</Shell_Toxic_Releasing_Water.label>
+  <Neutroamine.label>crwdns472426:0crwdne472426:0</Neutroamine.label>
+  <Neutroamine.description>crwdns472428:0crwdne472428:0</Neutroamine.description>
   
-  <SignalChip.label>crwdns427480:0crwdne427480:0</SignalChip.label>
-  <SignalChip.description>crwdns427482:0crwdne427482:0</SignalChip.description>
-  <SignalChip.comps.CompStudiable.completedLetterText>crwdns427484:0{PARENT_label}crwdnd427484:0{STUDIER_labelShort}crwdnd427484:0{RESEARCH}crwdne427484:0</SignalChip.comps.CompStudiable.completedLetterText>
-  <SignalChip.comps.CompStudiable.completedLetterTitle>crwdns427486:0{PARENT_label}crwdnd427486:0{RESEARCH}crwdne427486:0</SignalChip.comps.CompStudiable.completedLetterTitle>
-  
-  <SubcoreBasic.label>crwdns427488:0crwdne427488:0</SubcoreBasic.label>
-  <SubcoreBasic.description>crwdns427490:0crwdne427490:0</SubcoreBasic.description>
-  
-  <SubcoreHigh.label>crwdns427492:0crwdne427492:0</SubcoreHigh.label>
-  <SubcoreHigh.description>crwdns427494:0crwdne427494:0</SubcoreHigh.description>
-  
-  <SubcoreRegular.label>crwdns427496:0crwdne427496:0</SubcoreRegular.label>
-  <SubcoreRegular.description>crwdns427498:0crwdne427498:0</SubcoreRegular.description>
-  
-  <Wastepack.label>crwdns427500:0crwdne427500:0</Wastepack.label>
-  <Wastepack.description>crwdns427502:0crwdne427502:0</Wastepack.description>
+  <ReinforcedBarrel.label>crwdns472430:0crwdne472430:0</ReinforcedBarrel.label>
+  <ReinforcedBarrel.description>crwdns472432:0crwdne472432:0</ReinforcedBarrel.description>
 </LanguageData>
