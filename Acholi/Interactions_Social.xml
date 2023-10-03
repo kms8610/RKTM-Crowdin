@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
-    <li>crwdns438580:0[RECIPIENT_nameDef]crwdne438580:0</li>
-  </Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
+  <WordOfInspiration.label>crwdns445760:0crwdne445760:0</WordOfInspiration.label>
+  <WordOfInspiration.logRulesInitiator.rulesStrings>
+    <li>crwdns445762:0[INITIATOR_nameDef]crwdnd445762:0[RECIPIENT_nameDef]crwdne445762:0</li>
+  </WordOfInspiration.logRulesInitiator.rulesStrings>
   
-  <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
-    <li>crwdns438582:0[RECIPIENT_nameDef]crwdne438582:0</li>
-  </Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
+  <WordOfJoy.label>crwdns445764:0crwdne445764:0</WordOfJoy.label>
+  <WordOfJoy.logRulesInitiator.rulesStrings>
+    <li>crwdns445766:0[INITIATOR_nameDef]crwdnd445766:0[RECIPIENT_nameDef]crwdne445766:0</li>
+  </WordOfJoy.logRulesInitiator.rulesStrings>
   
-  <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
-    <li>crwdns438584:0[RECIPIENT_nameDef]crwdne438584:0</li>
-  </Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
+  <WordOfLove.label>crwdns445768:0crwdne445768:0</WordOfLove.label>
+  <WordOfLove.logRulesInitiator.rulesStrings>
+    <li>crwdns445770:0[INITIATOR_nameDef]crwdnd445770:0[RECIPIENT_nameDef]crwdne445770:0</li>
+  </WordOfLove.logRulesInitiator.rulesStrings>
   
-  <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
-    <li>crwdns438586:0[RECIPIENT_nameDef]crwdnd438586:0[RECIPIENT_possessive]crwdne438586:0</li>
-  </Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
+  <WordOfSerenity.label>crwdns445772:0crwdne445772:0</WordOfSerenity.label>
+  <WordOfSerenity.logRulesInitiator.rulesStrings>
+    <li>crwdns445774:0[INITIATOR_nameDef]crwdnd445774:0[RECIPIENT_nameDef]crwdnd445774:0[RECIPIENT_possessive]crwdne445774:0</li>
+  </WordOfSerenity.logRulesInitiator.rulesStrings>
+  
+  <WordOfTrust.label>crwdns445776:0crwdne445776:0</WordOfTrust.label>
+  <WordOfTrust.logRulesInitiator.rulesStrings>
+    <li>crwdns445778:0[INITIATOR_nameDef]crwdnd445778:0[RECIPIENT_nameDef]crwdnd445778:0[RECIPIENT_possessive]crwdne445778:0</li>
+  </WordOfTrust.logRulesInitiator.rulesStrings>
 </LanguageData>
