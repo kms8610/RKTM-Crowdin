@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MechAssembler.label>메카노이드 제조기</MechAssembler.label>
-  <MechAssembler.description>자동 메카노이드 공장입니다. 주기적으로 새로운 메카노이드를 조립하여 배치합니다.</MechAssembler.description>
+  <MechAssembler.label>mech assembler</MechAssembler.label>
+  <MechAssembler.description>An automated mechanoid factory. It periodically assembles and deploys new mechanoids.</MechAssembler.description>
   
-  <MechCapsule.label>메카노이드 캡슐</MechCapsule.label>
-  <MechCapsule.description>메카노이드 보관 및 배치 캡슐입니다. 깨어나자마자 싸울 수 있는 메카노이드 병력을 포함하고 있습니다.</MechCapsule.description>
+  <MechCapsule.label>mech capsule</MechCapsule.label>
+  <MechCapsule.description>A mechanoid storage and deployment capsule. It can contain a number of mechanoids, ready to emerge and fight upon being awakened.</MechCapsule.description>
   
-  <MechDropBeacon.label>메카노이드 낙하신호기</MechDropBeacon.label>
-  <MechDropBeacon.description>메카노이드 증원군 낙하 신호기입니다. 활성화되면 메카노이드 한 무리가 수송 포드로 근처에 낙하합니다.</MechDropBeacon.description>
+  <MechDropBeacon.label>mech drop beacon</MechDropBeacon.label>
+  <MechDropBeacon.description>A mechanoid reinforcement drop beacon. When activated, it calls in a group of mechs to land in drop pods nearby.</MechDropBeacon.description>
 </LanguageData>
