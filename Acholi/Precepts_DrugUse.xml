@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_MedicalOnly.label>crwdns436312:0crwdne436312:0</DrugUse_MedicalOnly.label>
-  <DrugUse_MedicalOnly.description>crwdns436314:0crwdne436314:0</DrugUse_MedicalOnly.description>
-  <DrugUse_MedicalOnly.comps.2.description>crwdns436316:0crwdne436316:0</DrugUse_MedicalOnly.comps.2.description>
-  <DrugUse_MedicalOnly.comps.5.description>crwdns436318:0crwdne436318:0</DrugUse_MedicalOnly.comps.5.description>
+  <AdministeredDrug_Horrible.stages.administered_drug.label>crwdns441498:0crwdne441498:0</AdministeredDrug_Horrible.stages.administered_drug.label>
+  <AdministeredDrug_Horrible.stages.administered_drug.description>crwdns441500:0crwdne441500:0</AdministeredDrug_Horrible.stages.administered_drug.description>
   
-  <DrugUse_MedicalOrSocial.label>crwdns436320:0crwdne436320:0</DrugUse_MedicalOrSocial.label>
-  <DrugUse_MedicalOrSocial.description>crwdns436322:0crwdne436322:0</DrugUse_MedicalOrSocial.description>
-  <DrugUse_MedicalOrSocial.comps.2.description>crwdns436324:0crwdne436324:0</DrugUse_MedicalOrSocial.comps.2.description>
-  <DrugUse_MedicalOrSocial.comps.5.description>crwdns436326:0crwdne436326:0</DrugUse_MedicalOrSocial.comps.5.description>
+  <AdministeredDrug_Know_Horrible.stages.administered_drug.label>crwdns441502:0crwdne441502:0</AdministeredDrug_Know_Horrible.stages.administered_drug.label>
   
-  <DrugUse_Prohibited.label>crwdns436328:0crwdne436328:0</DrugUse_Prohibited.label>
-  <DrugUse_Prohibited.description>crwdns436330:0crwdne436330:0</DrugUse_Prohibited.description>
-  <DrugUse_Prohibited.comps.0.description>crwdns436332:0crwdne436332:0</DrugUse_Prohibited.comps.0.description>
-  <DrugUse_Prohibited.comps.5.description>crwdns436334:0crwdne436334:0</DrugUse_Prohibited.comps.5.description>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>crwdns441504:0crwdne441504:0</AdministeredHardDrug_Horrible.stages.administered_hard_drug.label>
+  <AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>crwdns441506:0crwdne441506:0</AdministeredHardDrug_Horrible.stages.administered_hard_drug.description>
+  
+  <AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>crwdns441508:0crwdne441508:0</AdministeredHardDrug_Know_Horrible.stages.administered_hard_drug.label>
+  
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>crwdns441510:0crwdne441510:0</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.label>
+  <AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>crwdns441512:0crwdne441512:0</AdministeredRecreationalDrug_Horrible.stages.administered_recreational_drug.description>
+  
+  <AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>crwdns441514:0crwdne441514:0</AdministeredRecreationalDrug_Know_Horrible.stages.administered_recreational_drug.label>
+  
+  <IngestedDrug_Horrible.stages.used_drug.label>crwdns441516:0crwdne441516:0</IngestedDrug_Horrible.stages.used_drug.label>
+  <IngestedDrug_Horrible.stages.used_drug.description>crwdns441518:0crwdne441518:0</IngestedDrug_Horrible.stages.used_drug.description>
+  
+  <IngestedDrug_Know_Horrible.stages.used_drug.label>crwdns441520:0crwdne441520:0</IngestedDrug_Know_Horrible.stages.used_drug.label>
+  
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.label>crwdns441522:0crwdne441522:0</IngestedHardDrug_Horrible.stages.used_hard_drug.label>
+  <IngestedHardDrug_Horrible.stages.used_hard_drug.description>crwdns441524:0crwdne441524:0</IngestedHardDrug_Horrible.stages.used_hard_drug.description>
+  
+  <IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>crwdns441526:0crwdne441526:0</IngestedHardDrug_Know_Horrible.stages.used_hard_drug.label>
+  
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>crwdns441528:0crwdne441528:0</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.label>
+  <IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>crwdns441530:0crwdne441530:0</IngestedRecreationalDrug_Horrible.stages.used_recreational_drug.description>
+  
+  <IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>crwdns441532:0crwdne441532:0</IngestedRecreationalDrug_Know_Horrible.stages.used_recreational_drug.label>
 </LanguageData>
