@@ -1,106 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BottleFeedBaby.label>crwdns428502:0crwdne428502:0</BottleFeedBaby.label>
-  <BottleFeedBaby.gerund>crwdns428504:0crwdne428504:0</BottleFeedBaby.gerund>
-  <BottleFeedBaby.verb>crwdns428506:0crwdne428506:0</BottleFeedBaby.verb>
+  <ChangeTreeMode.label>crwdns442900:0crwdne442900:0</ChangeTreeMode.label>
+  <ChangeTreeMode.gerund>crwdns442902:0crwdne442902:0</ChangeTreeMode.gerund>
+  <ChangeTreeMode.verb>crwdns442904:0crwdne442904:0</ChangeTreeMode.verb>
   
-  <BreastfeedBaby.label>crwdns428508:0crwdne428508:0</BreastfeedBaby.label>
-  <BreastfeedBaby.gerund>crwdns428510:0crwdne428510:0</BreastfeedBaby.gerund>
-  <BreastfeedBaby.verb>crwdns428512:0crwdne428512:0</BreastfeedBaby.verb>
+  <ConvertPrisoner.label>crwdns442906:0crwdne442906:0</ConvertPrisoner.label>
+  <ConvertPrisoner.gerund>crwdns442908:0crwdne442908:0</ConvertPrisoner.gerund>
+  <ConvertPrisoner.verb>crwdns442910:0crwdne442910:0</ConvertPrisoner.verb>
   
-  <BringBabyToSafety.label>crwdns428514:0crwdne428514:0</BringBabyToSafety.label>
-  <BringBabyToSafety.gerund>crwdns428516:0crwdne428516:0</BringBabyToSafety.gerund>
-  <BringBabyToSafety.verb>crwdns428518:0crwdne428518:0</BringBabyToSafety.verb>
+  <EmancipateSlave.label>crwdns442912:0crwdne442912:0</EmancipateSlave.label>
+  <EmancipateSlave.gerund>crwdns442914:0crwdne442914:0</EmancipateSlave.gerund>
+  <EmancipateSlave.verb>crwdns442916:0crwdne442916:0</EmancipateSlave.verb>
   
-  <CarryToBreastfeed.label>crwdns428520:0crwdne428520:0</CarryToBreastfeed.label>
-  <CarryToBreastfeed.gerund>crwdns428522:0crwdne428522:0</CarryToBreastfeed.gerund>
-  <CarryToBreastfeed.verb>crwdns428524:0crwdne428524:0</CarryToBreastfeed.verb>
+  <EnslavePrisoner.label>crwdns442918:0crwdne442918:0</EnslavePrisoner.label>
+  <EnslavePrisoner.gerund>crwdns442920:0crwdne442920:0</EnslavePrisoner.gerund>
+  <EnslavePrisoner.verb>crwdns442922:0crwdne442922:0</EnslavePrisoner.verb>
   
-  <CarryToGeneExtractor.label>crwdns428526:0crwdne428526:0</CarryToGeneExtractor.label>
-  <CarryToGeneExtractor.gerund>crwdns428528:0crwdne428528:0</CarryToGeneExtractor.gerund>
-  <CarryToGeneExtractor.verb>crwdns428530:0crwdne428530:0</CarryToGeneExtractor.verb>
+  <ExecuteSlave.label>crwdns442924:0crwdne442924:0</ExecuteSlave.label>
+  <ExecuteSlave.gerund>crwdns442926:0crwdne442926:0</ExecuteSlave.gerund>
+  <ExecuteSlave.verb>crwdns442928:0crwdne442928:0</ExecuteSlave.verb>
   
-  <CarryToGrowthVat.label>crwdns428532:0crwdne428532:0</CarryToGrowthVat.label>
-  <CarryToGrowthVat.gerund>crwdns428534:0crwdne428534:0</CarryToGrowthVat.gerund>
-  <CarryToGrowthVat.verb>crwdns428536:0crwdne428536:0</CarryToGrowthVat.verb>
+  <ExtractSkull.label>crwdns442930:0crwdne442930:0</ExtractSkull.label>
+  <ExtractSkull.gerund>crwdns442932:0crwdne442932:0</ExtractSkull.gerund>
+  <ExtractSkull.verb>crwdns442934:0crwdne442934:0</ExtractSkull.verb>
   
-  <CarryToSubcoreScanner.label>crwdns428538:0crwdne428538:0</CarryToSubcoreScanner.label>
-  <CarryToSubcoreScanner.gerund>crwdns428540:0crwdne428540:0</CarryToSubcoreScanner.gerund>
-  <CarryToSubcoreScanner.verb>crwdns428542:0crwdne428542:0</CarryToSubcoreScanner.verb>
+  <HaulToBiosculpterPod.label>crwdns442936:0crwdne442936:0</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.gerund>crwdns442938:0crwdne442938:0</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.verb>crwdns442940:0crwdne442940:0</HaulToBiosculpterPod.verb>
   
-  <ChildcarerTeach.label>crwdns428544:0crwdne428544:0</ChildcarerTeach.label>
-  <ChildcarerTeach.gerund>crwdns428546:0crwdne428546:0</ChildcarerTeach.gerund>
-  <ChildcarerTeach.verb>crwdns428548:0crwdne428548:0</ChildcarerTeach.verb>
+  <ImprisonSlave.label>crwdns442942:0crwdne442942:0</ImprisonSlave.label>
+  <ImprisonSlave.gerund>crwdns442944:0crwdne442944:0</ImprisonSlave.gerund>
+  <ImprisonSlave.verb>crwdns442946:0crwdne442946:0</ImprisonSlave.verb>
   
-  <CleanClearPollution.label>crwdns428550:0crwdne428550:0</CleanClearPollution.label>
-  <CleanClearPollution.gerund>crwdns428552:0crwdne428552:0</CleanClearPollution.gerund>
-  <CleanClearPollution.verb>crwdns428554:0crwdne428554:0</CleanClearPollution.verb>
+  <PruneGauranlenTree.label>crwdns442948:0crwdne442948:0</PruneGauranlenTree.label>
+  <PruneGauranlenTree.gerund>crwdns442950:0crwdne442950:0</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.verb>crwdns442952:0crwdne442952:0</PruneGauranlenTree.verb>
   
-  <CreateXenogerm.label>crwdns428556:0crwdne428556:0</CreateXenogerm.label>
-  <CreateXenogerm.gerund>crwdns428558:0crwdne428558:0</CreateXenogerm.gerund>
-  <CreateXenogerm.verb>crwdns428560:0crwdne428560:0</CreateXenogerm.verb>
-  
-  <DeliverHemogenToPrisoner.label>crwdns428562:0crwdne428562:0</DeliverHemogenToPrisoner.label>
-  <DeliverHemogenToPrisoner.gerund>crwdns428564:0crwdne428564:0</DeliverHemogenToPrisoner.gerund>
-  <DeliverHemogenToPrisoner.verb>crwdns428566:0crwdne428566:0</DeliverHemogenToPrisoner.verb>
-  
-  <DoBillsMechGestator.label>crwdns428568:0crwdne428568:0</DoBillsMechGestator.label>
-  <DoBillsMechGestator.gerund>crwdns428570:0crwdne428570:0</DoBillsMechGestator.gerund>
-  <DoBillsMechGestator.verb>crwdns428572:0crwdne428572:0</DoBillsMechGestator.verb>
-  
-  <DoBillsSubcoreEncoder.label>crwdns428574:0crwdne428574:0</DoBillsSubcoreEncoder.label>
-  <DoBillsSubcoreEncoder.gerund>crwdns428576:0crwdne428576:0</DoBillsSubcoreEncoder.gerund>
-  <DoBillsSubcoreEncoder.verb>crwdns428578:0crwdne428578:0</DoBillsSubcoreEncoder.verb>
-  
-  <EmptyWasteContainer.label>crwdns428580:0crwdne428580:0</EmptyWasteContainer.label>
-  <EmptyWasteContainer.gerund>crwdns428582:0crwdne428582:0</EmptyWasteContainer.gerund>
-  <EmptyWasteContainer.verb>crwdns428584:0crwdne428584:0</EmptyWasteContainer.verb>
-  
-  <EnterGeneExtractor.label>crwdns428586:0crwdne428586:0</EnterGeneExtractor.label>
-  <EnterGeneExtractor.gerund>crwdns428588:0crwdne428588:0</EnterGeneExtractor.gerund>
-  <EnterGeneExtractor.verb>crwdns428590:0crwdne428590:0</EnterGeneExtractor.verb>
-  
-  <EnterGrowthVat.label>crwdns428592:0crwdne428592:0</EnterGrowthVat.label>
-  <EnterGrowthVat.gerund>crwdns428594:0crwdne428594:0</EnterGrowthVat.gerund>
-  <EnterGrowthVat.verb>crwdns428596:0crwdne428596:0</EnterGrowthVat.verb>
-  
-  <EnterSubcoreScanner.label>crwdns428598:0crwdne428598:0</EnterSubcoreScanner.label>
-  <EnterSubcoreScanner.gerund>crwdns428600:0crwdne428600:0</EnterSubcoreScanner.gerund>
-  <EnterSubcoreScanner.verb>crwdns428602:0crwdne428602:0</EnterSubcoreScanner.verb>
-  
-  <FeedHemogen.label>crwdns428604:0crwdne428604:0</FeedHemogen.label>
-  <FeedHemogen.gerund>crwdns428606:0crwdne428606:0</FeedHemogen.gerund>
-  <FeedHemogen.verb>crwdns428608:0crwdne428608:0</FeedHemogen.verb>
-  
-  <HaulMechsToCharger.label>crwdns428610:0crwdne428610:0</HaulMechsToCharger.label>
-  <HaulMechsToCharger.gerund>crwdns428612:0crwdne428612:0</HaulMechsToCharger.gerund>
-  <HaulMechsToCharger.verb>crwdns428614:0crwdne428614:0</HaulMechsToCharger.verb>
-  
-  <HaulToCarrier.label>crwdns428616:0crwdne428616:0</HaulToCarrier.label>
-  <HaulToCarrier.gerund>crwdns428618:0crwdne428618:0</HaulToCarrier.gerund>
-  <HaulToCarrier.verb>crwdns428620:0crwdne428620:0</HaulToCarrier.verb>
-  
-  <HaulToGeneBank.label>crwdns428622:0crwdne428622:0</HaulToGeneBank.label>
-  <HaulToGeneBank.gerund>crwdns428624:0crwdne428624:0</HaulToGeneBank.gerund>
-  <HaulToGeneBank.verb>crwdns428626:0crwdne428626:0</HaulToGeneBank.verb>
-  
-  <HaulToGrowthVat.label>crwdns428628:0crwdne428628:0</HaulToGrowthVat.label>
-  <HaulToGrowthVat.gerund>crwdns428630:0crwdne428630:0</HaulToGrowthVat.gerund>
-  <HaulToGrowthVat.verb>crwdns428632:0crwdne428632:0</HaulToGrowthVat.verb>
-  
-  <HaulToSubcoreScanner.label>crwdns428634:0crwdne428634:0</HaulToSubcoreScanner.label>
-  <HaulToSubcoreScanner.gerund>crwdns428636:0crwdne428636:0</HaulToSubcoreScanner.gerund>
-  <HaulToSubcoreScanner.verb>crwdns428638:0crwdne428638:0</HaulToSubcoreScanner.verb>
-  
-  <HaulToWastepackAtomizer.label>crwdns428640:0crwdne428640:0</HaulToWastepackAtomizer.label>
-  <HaulToWastepackAtomizer.gerund>crwdns428642:0crwdne428642:0</HaulToWastepackAtomizer.gerund>
-  <HaulToWastepackAtomizer.verb>crwdns428644:0crwdne428644:0</HaulToWastepackAtomizer.verb>
-  
-  <PlayWithBaby.label>crwdns428646:0crwdne428646:0</PlayWithBaby.label>
-  <PlayWithBaby.gerund>crwdns428648:0crwdne428648:0</PlayWithBaby.gerund>
-  <PlayWithBaby.verb>crwdns428650:0crwdne428650:0</PlayWithBaby.verb>
-  
-  <RepairMech.label>crwdns428652:0crwdne428652:0</RepairMech.label>
-  <RepairMech.gerund>crwdns428654:0crwdne428654:0</RepairMech.gerund>
-  <RepairMech.verb>crwdns428656:0crwdne428656:0</RepairMech.verb>
+  <SuppressSlave.label>crwdns442954:0crwdne442954:0</SuppressSlave.label>
+  <SuppressSlave.gerund>crwdns442956:0crwdne442956:0</SuppressSlave.gerund>
+  <SuppressSlave.verb>crwdns442958:0crwdne442958:0</SuppressSlave.verb>
 </LanguageData>
