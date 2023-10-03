@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mech_CentipedeBlaster.label>crwdns461014:0crwdne461014:0</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.label>crwdns473738:0crwdne473738:0</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.description>crwdns473740:0crwdne473740:0</Mech_CentipedeBlaster.description>
+  <Mech_CentipedeBlaster.tools.head.label>crwdns473742:0crwdne473742:0</Mech_CentipedeBlaster.tools.head.label>
   
-  <Mech_CentipedeBurner.label>crwdns461016:0crwdne461016:0</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.label>crwdns473744:0crwdne473744:0</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.description>crwdns473746:0crwdne473746:0</Mech_CentipedeBurner.description>
+  <Mech_CentipedeBurner.tools.head.label>crwdns473748:0crwdne473748:0</Mech_CentipedeBurner.tools.head.label>
   
-  <Mech_CentipedeGunner.label>crwdns461018:0crwdne461018:0</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.label>crwdns473750:0crwdne473750:0</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.description>crwdns473752:0crwdne473752:0</Mech_CentipedeGunner.description>
+  <Mech_CentipedeGunner.tools.head.label>crwdns473754:0crwdne473754:0</Mech_CentipedeGunner.tools.head.label>
   
-  <Mech_Lancer.label>crwdns461020:0crwdne461020:0</Mech_Lancer.label>
+  <Mech_Lancer.label>crwdns473756:0crwdne473756:0</Mech_Lancer.label>
+  <Mech_Lancer.description>crwdns473758:0crwdne473758:0</Mech_Lancer.description>
+  <Mech_Lancer.tools.left_fist.label>crwdns473760:0crwdne473760:0</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.right_fist.label>crwdns473762:0crwdne473762:0</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.head.label>crwdns473764:0crwdne473764:0</Mech_Lancer.tools.head.label>
   
-  <Mech_Pikeman.label>crwdns461022:0crwdne461022:0</Mech_Pikeman.label>
-  <Mech_Pikeman.labelPlural>crwdns461024:0crwdne461024:0</Mech_Pikeman.labelPlural>
+  <Mech_Pikeman.label>crwdns473766:0crwdne473766:0</Mech_Pikeman.label>
+  <Mech_Pikeman.description>crwdns473768:0crwdne473768:0</Mech_Pikeman.description>
+  <Mech_Pikeman.tools.front_left_leg.label>crwdns473770:0crwdne473770:0</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.label>crwdns473772:0crwdne473772:0</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.head.label>crwdns473774:0crwdne473774:0</Mech_Pikeman.tools.head.label>
   
-  <Mech_Scyther.label>crwdns461026:0crwdne461026:0</Mech_Scyther.label>
+  <Mech_Scyther.label>crwdns473776:0crwdne473776:0</Mech_Scyther.label>
+  <Mech_Scyther.description>crwdns473778:0crwdne473778:0</Mech_Scyther.description>
+  <Mech_Scyther.tools.left_blade.label>crwdns473780:0crwdne473780:0</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.right_blade.label>crwdns473782:0crwdne473782:0</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.head.label>crwdns473784:0crwdne473784:0</Mech_Scyther.tools.head.label>
+  
+  <Mech_Termite.label>crwdns473786:0crwdne473786:0</Mech_Termite.label>
+  <Mech_Termite.description>crwdns473788:0crwdne473788:0</Mech_Termite.description>
+  <Mech_Termite.tools.head.label>crwdns473790:0crwdne473790:0</Mech_Termite.tools.head.label>
 </LanguageData>
