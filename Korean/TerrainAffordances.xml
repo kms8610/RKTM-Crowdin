@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bridgeable.label>다리 건설 가능</Bridgeable.label>
+  <Bridgeable.label>bridgeable</Bridgeable.label>
   
-  <Diggable.label>매장 가능</Diggable.label>
+  <Diggable.label>diggable</Diggable.label>
   
-  <GrowSoil.label>재배 가능</GrowSoil.label>
+  <GrowSoil.label>growable</GrowSoil.label>
   
-  <Heavy.label>무거운</Heavy.label>
+  <Heavy.label>heavy</Heavy.label>
   
-  <Light.label>무른 지면</Light.label>
+  <Light.label>light</Light.label>
   
-  <Medium.label>적당한 지면</Medium.label>
+  <Medium.label>medium</Medium.label>
   
-  <MovingFluid.label>흐르는 물</MovingFluid.label>
+  <MovingFluid.label>moving water</MovingFluid.label>
   
-  <ShallowWater.label>얕은 물</ShallowWater.label>
+  <ShallowWater.label>shallow water</ShallowWater.label>
   
-  <SmoothableStone.label>연마 가능</SmoothableStone.label>
+  <SmoothableStone.label>smoothable</SmoothableStone.label>
 </LanguageData>
