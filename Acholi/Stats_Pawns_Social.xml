@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArrestSuccessChance.label>crwdns467106:0crwdne467106:0</ArrestSuccessChance.label>
-  <ArrestSuccessChance.description>crwdns467108:0crwdne467108:0</ArrestSuccessChance.description>
+  <AnimalProductsSellImprovement.label>crwdns439894:0crwdne439894:0</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>crwdns439896:0crwdne439896:0</AnimalProductsSellImprovement.description>
   
-  <BondAnimalChanceFactor.label>crwdns467110:0crwdne467110:0</BondAnimalChanceFactor.label>
-  <BondAnimalChanceFactor.description>crwdns467112:0crwdne467112:0</BondAnimalChanceFactor.description>
-  
-  <DrugSellPriceImprovement.label>crwdns467114:0crwdne467114:0</DrugSellPriceImprovement.label>
-  <DrugSellPriceImprovement.description>crwdns467116:0crwdne467116:0</DrugSellPriceImprovement.description>
-  
-  <NegotiationAbility.label>crwdns467118:0crwdne467118:0</NegotiationAbility.label>
-  <NegotiationAbility.description>crwdns467120:0crwdne467120:0</NegotiationAbility.description>
-  
-  <PawnBeauty.label>crwdns467122:0crwdne467122:0</PawnBeauty.label>
-  <PawnBeauty.description>crwdns467124:0crwdne467124:0</PawnBeauty.description>
-  
-  <SocialImpact.label>crwdns467126:0crwdne467126:0</SocialImpact.label>
-  <SocialImpact.description>crwdns467128:0crwdne467128:0</SocialImpact.description>
-  
-  <TameAnimalChance.label>crwdns467130:0crwdne467130:0</TameAnimalChance.label>
-  <TameAnimalChance.description>crwdns467132:0crwdne467132:0</TameAnimalChance.description>
-  
-  <TradePriceImprovement.label>crwdns467134:0crwdne467134:0</TradePriceImprovement.label>
-  <TradePriceImprovement.description>crwdns467136:0crwdne467136:0</TradePriceImprovement.description>
-  
-  <TrainAnimalChance.label>crwdns467138:0crwdne467138:0</TrainAnimalChance.label>
-  <TrainAnimalChance.description>crwdns467140:0crwdne467140:0</TrainAnimalChance.description>
+  <SlaveSuppressionFallRate.label>crwdns439898:0crwdne439898:0</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>crwdns439900:0crwdne439900:0</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.formatString>crwdns439902:0{0}crwdne439902:0</SlaveSuppressionFallRate.formatString>
+  <SlaveSuppressionFallRate.formatStringUnfinalized>crwdns439904:0{0}crwdne439904:0</SlaveSuppressionFallRate.formatStringUnfinalized>
 </LanguageData>
