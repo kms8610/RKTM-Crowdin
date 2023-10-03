@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BerserkTrance.label>crwdns435346:0crwdne435346:0</BerserkTrance.label>
-  <BerserkTrance.baseInspectLine>crwdns435348:0crwdne435348:0</BerserkTrance.baseInspectLine>
+  <BerserkMechanoid.label>crwdns460424:0crwdne460424:0</BerserkMechanoid.label>
+  <BerserkMechanoid.baseInspectLine>crwdns460426:0crwdne460426:0</BerserkMechanoid.baseInspectLine>
+  
+  <Manhunter.label>crwdns460428:0crwdne460428:0</Manhunter.label>
+  <Manhunter.baseInspectLine>crwdns460430:0crwdne460430:0</Manhunter.baseInspectLine>
+  <Manhunter.beginLetter>crwdns460432:0{0}crwdne460432:0</Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>crwdns460434:0{0}crwdne460434:0</Manhunter.recoveryMessage>
+  
+  <ManhunterPermanent.label>crwdns460436:0crwdne460436:0</ManhunterPermanent.label>
+  <ManhunterPermanent.baseInspectLine>crwdns460438:0crwdne460438:0</ManhunterPermanent.baseInspectLine>
+  <ManhunterPermanent.beginLetter>crwdns460440:0{0}crwdne460440:0</ManhunterPermanent.beginLetter>
+  <ManhunterPermanent.recoveryMessage>crwdns460442:0{0}crwdne460442:0</ManhunterPermanent.recoveryMessage>
+  
+  <PanicFlee.label>crwdns460444:0crwdne460444:0</PanicFlee.label>
+  <PanicFlee.baseInspectLine>crwdns460446:0crwdne460446:0</PanicFlee.baseInspectLine>
+  <PanicFlee.beginLetter>crwdns460448:0{0}crwdne460448:0</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>crwdns460450:0crwdne460450:0</PanicFlee.beginLetterLabel>
+  <PanicFlee.recoveryMessage>crwdns460452:0{0}crwdne460452:0</PanicFlee.recoveryMessage>
+  
+  <Roaming.label>crwdns460454:0crwdne460454:0</Roaming.label>
+  <Roaming.baseInspectLine>crwdns460456:0crwdne460456:0</Roaming.baseInspectLine>
+  
+  <SocialFighting.label>crwdns460458:0crwdne460458:0</SocialFighting.label>
+  <SocialFighting.baseInspectLine>crwdns460460:0crwdne460460:0</SocialFighting.baseInspectLine>
+  
+  <WanderConfused.label>crwdns460462:0crwdne460462:0</WanderConfused.label>
+  <WanderConfused.baseInspectLine>crwdns460464:0crwdne460464:0</WanderConfused.baseInspectLine>
+  <WanderConfused.beginLetter>crwdns460466:0{0}crwdne460466:0</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>crwdns460468:0crwdne460468:0</WanderConfused.beginLetterLabel>
+  <WanderConfused.recoveryMessage>crwdns460470:0{0}crwdne460470:0</WanderConfused.recoveryMessage>
 </LanguageData>
