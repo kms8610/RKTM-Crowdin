@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <DetoxifierKidney.label>해독 신장</DetoxifierKidney.label>
-  <DetoxifierKidney.description>첨단기술의 인공 신장입니다. 일련의 나노 필터를 사용하여 혈액에서 광범위한 종류의 독소를 빠르게 제거할 수 있으며, 환경 독소 및 직접 주입된 독에 효과적입니다.</DetoxifierKidney.description>
+  <DetoxifierKidney.description>설치된 해독 신장입니다.</DetoxifierKidney.description>
+  <DetoxifierKidney.labelNoun>해독 신장</DetoxifierKidney.labelNoun>
   
   <DetoxifierLung.label>해독 폐</DetoxifierLung.label>
-  <DetoxifierLung.description>미세 필터를 사용하여 환경 독소의 섭취를 줄이는 고급 인공 폐는 사용자가 오염된 환경에서 더 오래 생존할 수 있도록 합니다. 또한 산성 스모그의 자극을 무효화하고 폐부종을 예방합니다.</DetoxifierLung.description>
+  <DetoxifierLung.description>설치된 해독 폐입니다. 이 폐에서의 폐렴을 방지하며 산성 안개의 효과를 무효화 합니다.\n\n해독 폐는 독성가스의 효과를 방지하지 않습니다.</DetoxifierLung.description>
+  <DetoxifierLung.labelNoun>해독 폐</DetoxifierLung.labelNoun>
 </LanguageData>
