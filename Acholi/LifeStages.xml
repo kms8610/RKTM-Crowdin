@@ -1,28 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalAdult.label>crwdns460166:0crwdne460166:0</AnimalAdult.label>
-  
-  <AnimalBaby.label>crwdns460168:0crwdne460168:0</AnimalBaby.label>
-  
-  <AnimalBabyTiny.label>crwdns460170:0crwdne460170:0</AnimalBabyTiny.label>
-  
-  <AnimalJuvenile.label>crwdns460172:0crwdne460172:0</AnimalJuvenile.label>
-  
-  <EusocialInsectAdult.label>crwdns460174:0crwdne460174:0</EusocialInsectAdult.label>
-  
-  <EusocialInsectJuvenile.label>crwdns460176:0crwdne460176:0</EusocialInsectJuvenile.label>
-  
-  <EusocialInsectLarva.label>crwdns460178:0crwdne460178:0</EusocialInsectLarva.label>
-  
-  <HumanlikeAdult.label>crwdns460180:0crwdne460180:0</HumanlikeAdult.label>
-  
-  <HumanlikeBaby.label>crwdns460182:0crwdne460182:0</HumanlikeBaby.label>
-  <HumanlikeBaby.customMoodTipString>crwdns460184:0crwdne460184:0</HumanlikeBaby.customMoodTipString>
-  
-  <HumanlikeChild.label>crwdns460186:0crwdne460186:0</HumanlikeChild.label>
-  
-  <HumanlikeTeenager.label>crwdns460188:0crwdne460188:0</HumanlikeTeenager.label>
-  <HumanlikeTeenager.adjective>crwdns460190:0crwdne460190:0</HumanlikeTeenager.adjective>
-  
-  <MechanoidFullyFormed.label>crwdns460192:0crwdne460192:0</MechanoidFullyFormed.label>
+  <HumanlikePreTeenager.label>crwdns424524:0crwdne424524:0</HumanlikePreTeenager.label>
 </LanguageData>
