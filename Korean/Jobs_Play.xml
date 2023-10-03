@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PlayStatic.reportString>{TargetA}(와)과 노는 중</PlayStatic.reportString>
+  <PlayStatic.reportString>playing with TargetA.</PlayStatic.reportString>
   
-  <PlayToys.reportString>{TargetA}(와)과 노는 중</PlayToys.reportString>
+  <PlayToys.reportString>playing with TargetA.</PlayToys.reportString>
   
-  <PlayWalking.reportString>{TargetA}(와)과 노는 중</PlayWalking.reportString>
+  <PlayWalking.reportString>playing with TargetA.</PlayWalking.reportString>
 </LanguageData>
