@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychiteTeaHigh.stages.psychite_tea.label>광이차</PsychiteTeaHigh.stages.psychite_tea.label>
-  <PsychiteTeaHigh.stages.psychite_tea.description>이 차를 마시는건 대단해. 날 너무 기분 좋게 해!</PsychiteTeaHigh.stages.psychite_tea.description>
+  <PsychiteTeaHigh.label>광이차에 취함</PsychiteTeaHigh.label>
+  <PsychiteTeaHigh.description>혈액에 광이차의 활성성분이 존재합니다. 약한 쾌감을 제공합니다.</PsychiteTeaHigh.description>
+  <PsychiteTeaHigh.labelNoun>광이차에 취함</PsychiteTeaHigh.labelNoun>
 </LanguageData>
