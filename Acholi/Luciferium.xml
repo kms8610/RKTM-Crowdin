@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Luciferium.label>crwdns456106:0crwdne456106:0</Luciferium.label>
+  <LuciferiumAddiction.label>crwdns458246:0crwdne458246:0</LuciferiumAddiction.label>
+  <LuciferiumAddiction.description>crwdns458248:0crwdne458248:0</LuciferiumAddiction.description>
+  <LuciferiumAddiction.stages.unmet.label>crwdns458250:0crwdne458250:0</LuciferiumAddiction.stages.unmet.label>
+  
+  <LuciferiumHigh.label>crwdns458252:0crwdne458252:0</LuciferiumHigh.label>
+  <LuciferiumHigh.description>crwdns458254:0crwdne458254:0</LuciferiumHigh.description>
 </LanguageData>
