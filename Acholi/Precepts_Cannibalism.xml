@@ -1,32 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cannibalism_Abhorrent.label>crwdns436240:0crwdne436240:0</Cannibalism_Abhorrent.label>
-  <Cannibalism_Abhorrent.description>crwdns436242:0crwdne436242:0</Cannibalism_Abhorrent.description>
-  <Cannibalism_Abhorrent.comps.5.description>crwdns436244:0crwdne436244:0</Cannibalism_Abhorrent.comps.5.description>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>crwdns441110:0crwdne441110:0</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>crwdns441112:0crwdne441112:0</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
   
-  <Cannibalism_Acceptable.label>crwdns436246:0crwdne436246:0</Cannibalism_Acceptable.label>
-  <Cannibalism_Acceptable.description>crwdns436248:0crwdne436248:0</Cannibalism_Acceptable.description>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>crwdns441114:0crwdne441114:0</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.description>crwdns441116:0crwdne441116:0</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
   
-  <Cannibalism_Disapproved.label>crwdns436250:0crwdne436250:0</Cannibalism_Disapproved.label>
-  <Cannibalism_Disapproved.description>crwdns436252:0crwdne436252:0</Cannibalism_Disapproved.description>
-  <Cannibalism_Disapproved.comps.5.description>crwdns436254:0crwdne436254:0</Cannibalism_Disapproved.comps.5.description>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>crwdns441118:0crwdne441118:0</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.description>crwdns441120:0crwdne441120:0</AteHumanMeat_Horrible.stages.ate_human_meat.description>
   
-  <Cannibalism_Horrible.label>crwdns436256:0crwdne436256:0</Cannibalism_Horrible.label>
-  <Cannibalism_Horrible.description>crwdns436258:0crwdne436258:0</Cannibalism_Horrible.description>
-  <Cannibalism_Horrible.comps.5.description>crwdns436260:0crwdne436260:0</Cannibalism_Horrible.comps.5.description>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>crwdns441122:0crwdne441122:0</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
   
-  <Cannibalism_Preferred.label>crwdns436262:0crwdne436262:0</Cannibalism_Preferred.label>
-  <Cannibalism_Preferred.description>crwdns436264:0crwdne436264:0</Cannibalism_Preferred.description>
-  <Cannibalism_Preferred.comps.1.description>crwdns436266:0{HUMANMEATREQUIREDINTERVAL}crwdne436266:0</Cannibalism_Preferred.comps.1.description>
-  <Cannibalism_Preferred.comps.2.description>crwdns436268:0crwdne436268:0</Cannibalism_Preferred.comps.2.description>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>crwdns441124:0crwdne441124:0</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
   
-  <Cannibalism_RequiredRavenous.label>crwdns436270:0crwdne436270:0</Cannibalism_RequiredRavenous.label>
-  <Cannibalism_RequiredRavenous.description>crwdns436272:0crwdne436272:0</Cannibalism_RequiredRavenous.description>
-  <Cannibalism_RequiredRavenous.comps.3.description>crwdns436274:0{HUMANMEATREQUIREDINTERVAL}crwdne436274:0</Cannibalism_RequiredRavenous.comps.3.description>
-  <Cannibalism_RequiredRavenous.comps.4.description>crwdns436276:0crwdne436276:0</Cannibalism_RequiredRavenous.comps.4.description>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>crwdns441126:0crwdne441126:0</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
   
-  <Cannibalism_RequiredStrong.label>crwdns436278:0crwdne436278:0</Cannibalism_RequiredStrong.label>
-  <Cannibalism_RequiredStrong.description>crwdns436280:0crwdne436280:0</Cannibalism_RequiredStrong.description>
-  <Cannibalism_RequiredStrong.comps.3.description>crwdns436282:0{HUMANMEATREQUIREDINTERVAL}crwdne436282:0</Cannibalism_RequiredStrong.comps.3.description>
-  <Cannibalism_RequiredStrong.comps.4.description>crwdns436284:0crwdne436284:0</Cannibalism_RequiredStrong.comps.4.description>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>crwdns441128:0crwdne441128:0</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.description>crwdns441130:0crwdne441130:0</AteHumanMeat_Preferred.stages.ate_human_meat.description>
+  
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>crwdns441132:0crwdne441132:0</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>crwdns441134:0crwdne441134:0</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
+  
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>crwdns441136:0crwdne441136:0</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>crwdns441138:0crwdne441138:0</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
+  
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>crwdns441140:0crwdne441140:0</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>crwdns441142:0crwdne441142:0</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+  
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>crwdns441144:0crwdne441144:0</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>crwdns441146:0crwdne441146:0</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+  
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>crwdns441148:0crwdne441148:0</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>crwdns441150:0crwdne441150:0</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>crwdns441152:0crwdne441152:0</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>crwdns441154:0crwdne441154:0</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+  
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>crwdns441156:0crwdne441156:0</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>crwdns441158:0crwdne441158:0</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+  
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>crwdns441160:0crwdne441160:0</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>crwdns441162:0crwdne441162:0</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+  
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>crwdns441164:0crwdne441164:0</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>crwdns441166:0crwdne441166:0</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+  
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>crwdns441168:0crwdne441168:0</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+  
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>crwdns441170:0crwdne441170:0</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>crwdns441172:0crwdne441172:0</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+  
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>crwdns441174:0crwdne441174:0</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+  
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>crwdns441176:0crwdne441176:0</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>crwdns441178:0crwdne441178:0</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+  
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>crwdns441180:0crwdne441180:0</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+  
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.label>crwdns441182:0{0}crwdne441182:0</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.description>crwdns441184:0crwdne441184:0</HumanLeatherApparel_Abhorrent.stages.human_leather.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>crwdns441186:0{0}crwdne441186:0</HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>crwdns441188:0crwdne441188:0</HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>crwdns441190:0{0}crwdne441190:0</HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>crwdns441192:0crwdne441192:0</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>crwdns441194:0{0}crwdne441194:0</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>crwdns441196:0crwdne441196:0</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparel_Disapproved.stages.human_leather.label>crwdns441198:0{0}crwdne441198:0</HumanLeatherApparel_Disapproved.stages.human_leather.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather.description>crwdns441200:0crwdne441200:0</HumanLeatherApparel_Disapproved.stages.human_leather.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.label>crwdns441202:0{0}crwdne441202:0</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>crwdns441204:0crwdne441204:0</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>crwdns441206:0{0}crwdne441206:0</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>crwdns441208:0crwdne441208:0</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>crwdns441210:0{0}crwdne441210:0</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>crwdns441212:0crwdne441212:0</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparel_Horrible.stages.human_leather.label>crwdns441214:0{0}crwdne441214:0</HumanLeatherApparel_Horrible.stages.human_leather.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather.description>crwdns441216:0crwdne441216:0</HumanLeatherApparel_Horrible.stages.human_leather.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.label>crwdns441218:0{0}crwdne441218:0</HumanLeatherApparel_Horrible.stages.human_leather_1.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.description>crwdns441220:0crwdne441220:0</HumanLeatherApparel_Horrible.stages.human_leather_1.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.label>crwdns441222:0{0}crwdne441222:0</HumanLeatherApparel_Horrible.stages.human_leather_2.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.description>crwdns441224:0crwdne441224:0</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>crwdns441226:0{0}crwdne441226:0</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.description>crwdns441228:0crwdne441228:0</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparel_Preferred.stages.human_leather.label>crwdns441230:0{0}crwdne441230:0</HumanLeatherApparel_Preferred.stages.human_leather.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather.description>crwdns441232:0crwdne441232:0</HumanLeatherApparel_Preferred.stages.human_leather.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.label>crwdns441234:0{0}crwdne441234:0</HumanLeatherApparel_Preferred.stages.human_leather_1.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.description>crwdns441236:0crwdne441236:0</HumanLeatherApparel_Preferred.stages.human_leather_1.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.label>crwdns441238:0{0}crwdne441238:0</HumanLeatherApparel_Preferred.stages.human_leather_2.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.description>crwdns441240:0crwdne441240:0</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>crwdns441242:0{0}crwdne441242:0</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.description>crwdns441244:0crwdne441244:0</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>crwdns441246:0{0}crwdne441246:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>crwdns441248:0crwdne441248:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>crwdns441250:0{0}crwdne441250:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>crwdns441252:0crwdne441252:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>crwdns441254:0{0}crwdne441254:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>crwdns441256:0crwdne441256:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>crwdns441258:0{0}crwdne441258:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>crwdns441260:0crwdne441260:0</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.label>crwdns441262:0{0}crwdne441262:0</HumanLeatherApparel_RequiredStrong.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.description>crwdns441264:0crwdne441264:0</HumanLeatherApparel_RequiredStrong.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>crwdns441266:0{0}crwdne441266:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>crwdns441268:0crwdne441268:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>crwdns441270:0{0}crwdne441270:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>crwdns441272:0crwdne441272:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>crwdns441274:0{0}crwdne441274:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>crwdns441276:0crwdne441276:0</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
+  
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>crwdns441278:0crwdne441278:0</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.description>crwdns441280:0crwdne441280:0</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
+  
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>crwdns441282:0crwdne441282:0</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>crwdns441284:0crwdne441284:0</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
+  
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>crwdns441286:0crwdne441286:0</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>crwdns441288:0crwdne441288:0</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
 </LanguageData>
