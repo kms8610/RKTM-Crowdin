@@ -1,394 +1,394 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BasicReleasePrisoner.label>수감자 석방</BasicReleasePrisoner.label>
-  <BasicReleasePrisoner.gerund> 석방</BasicReleasePrisoner.gerund>
-  <BasicReleasePrisoner.verb>방출</BasicReleasePrisoner.verb>
-  
-  <BuildRoofs.label>지붕 건설</BuildRoofs.label>
-  <BuildRoofs.gerund> 지붕 건설</BuildRoofs.gerund>
-  <BuildRoofs.verb>지붕 건설</BuildRoofs.verb>
-  
-  <ChatWithPrisoner.label>수감자와 대화</ChatWithPrisoner.label>
-  <ChatWithPrisoner.gerund>(와)과 대화</ChatWithPrisoner.gerund>
-  <ChatWithPrisoner.verb>대화</ChatWithPrisoner.verb>
-  
-  <CleanClearSnow.label>제설</CleanClearSnow.label>
-  <CleanClearSnow.gerund> 제설</CleanClearSnow.gerund>
-  <CleanClearSnow.verb>제설</CleanClearSnow.verb>
-  
-  <CleanFilth.label>오물 청소</CleanFilth.label>
-  <CleanFilth.gerund> 청소</CleanFilth.gerund>
-  <CleanFilth.verb>부드러운</CleanFilth.verb>
-  
-  <ConstructDeliverResourcesToBlueprints.label>청사진으로 자원 운반</ConstructDeliverResourcesToBlueprints.label>
-  <ConstructDeliverResourcesToBlueprints.gerund> 작업</ConstructDeliverResourcesToBlueprints.gerund>
-  <ConstructDeliverResourcesToBlueprints.verb>작업</ConstructDeliverResourcesToBlueprints.verb>
-  
-  <ConstructDeliverResourcesToFrames.label>건물 틀로 자원 운반</ConstructDeliverResourcesToFrames.label>
-  <ConstructDeliverResourcesToFrames.gerund> 작업</ConstructDeliverResourcesToFrames.gerund>
-  <ConstructDeliverResourcesToFrames.verb>작업</ConstructDeliverResourcesToFrames.verb>
-  
-  <ConstructFinishFrames.label>배치된 건물틀에서 건설</ConstructFinishFrames.label>
-  <ConstructFinishFrames.gerund> 건설</ConstructFinishFrames.gerund>
-  <ConstructFinishFrames.verb>건설</ConstructFinishFrames.verb>
-  
-  <ConstructRemoveFloors.label>바닥 제거</ConstructRemoveFloors.label>
-  <ConstructRemoveFloors.gerund> 바닥 제거</ConstructRemoveFloors.gerund>
-  <ConstructRemoveFloors.verb>바닥 제거</ConstructRemoveFloors.verb>
-  
-  <ConstructSmoothFloors.label>바닥 다듬기</ConstructSmoothFloors.label>
-  <ConstructSmoothFloors.gerund> 다듬기</ConstructSmoothFloors.gerund>
-  <ConstructSmoothFloors.verb>다듬기</ConstructSmoothFloors.verb>
-  
-  <ConstructSmoothWalls.label>벽 다듬기</ConstructSmoothWalls.label>
-  <ConstructSmoothWalls.gerund> 다듬기</ConstructSmoothWalls.gerund>
-  <ConstructSmoothWalls.verb>다듬기</ConstructSmoothWalls.verb>
-  
-  <CookFillHopper.label>투입구에 식재료 채워넣기</CookFillHopper.label>
-  <CookFillHopper.gerund> 식재료 투입</CookFillHopper.gerund>
-  <CookFillHopper.verb>식재료 투입</CookFillHopper.verb>
-  
-  <Deconstruct.label>건물 해체</Deconstruct.label>
-  <Deconstruct.gerund> 해체</Deconstruct.gerund>
-  <Deconstruct.verb>해체</Deconstruct.verb>
-  
-  <DeliverFoodToPrisoner.label>수감자에게 식사 전달</DeliverFoodToPrisoner.label>
-  <DeliverFoodToPrisoner.gerund>에게 식사 전달</DeliverFoodToPrisoner.gerund>
-  <DeliverFoodToPrisoner.verb>식사 전달</DeliverFoodToPrisoner.verb>
-  
-  <DeliverResourcesToBlueprints.label>청사진으로 자원 운반</DeliverResourcesToBlueprints.label>
-  <DeliverResourcesToBlueprints.gerund>운반 </DeliverResourcesToBlueprints.gerund>
-  <DeliverResourcesToBlueprints.verb>운반</DeliverResourcesToBlueprints.verb>
-  
-  <DeliverResourcesToFrames.label>건물 틀로 자원 운반</DeliverResourcesToFrames.label>
-  <DeliverResourcesToFrames.gerund> 운반</DeliverResourcesToFrames.gerund>
-  <DeliverResourcesToFrames.verb>운반</DeliverResourcesToFrames.verb>
-  
-  <DoBillsBrew.label>양조</DoBillsBrew.label>
-  <DoBillsBrew.gerund>에서 양조</DoBillsBrew.gerund>
-  <DoBillsBrew.verb>양조</DoBillsBrew.verb>
-  
-  <DoBillsButcherFlesh.label>도축</DoBillsButcherFlesh.label>
-  <DoBillsButcherFlesh.gerund>에서 도축</DoBillsButcherFlesh.gerund>
-  <DoBillsButcherFlesh.verb>도축</DoBillsButcherFlesh.verb>
-  
-  <DoBillsCook.label>스토브에서 조리</DoBillsCook.label>
-  <DoBillsCook.gerund>에서 조리</DoBillsCook.gerund>
-  <DoBillsCook.verb>조리</DoBillsCook.verb>
-  
-  <DoBillsCookCampfire.label>모닥불에서 조리</DoBillsCookCampfire.label>
-  <DoBillsCookCampfire.gerund>에서 조리</DoBillsCookCampfire.gerund>
-  <DoBillsCookCampfire.verb>조리</DoBillsCookCampfire.verb>
-  
-  <DoBillsCremate.label>화장</DoBillsCremate.label>
-  <DoBillsCremate.gerund>에서 화장</DoBillsCremate.gerund>
-  <DoBillsCremate.verb>화장</DoBillsCremate.verb>
-  
-  <DoBillsFabricationBench.label>만들기</DoBillsFabricationBench.label>
-  <DoBillsFabricationBench.gerund>에서 조립</DoBillsFabricationBench.gerund>
-  <DoBillsFabricationBench.verb>조립</DoBillsFabricationBench.verb>
-  
-  <DoBillsHaulCampfire.label>모닥불에서 작업</DoBillsHaulCampfire.label>
-  <DoBillsHaulCampfire.gerund>에서 작업</DoBillsHaulCampfire.gerund>
-  <DoBillsHaulCampfire.verb>작업</DoBillsHaulCampfire.verb>
-  
-  <DoBillsMachiningTable.label>기계 작업대에서 작업</DoBillsMachiningTable.label>
-  <DoBillsMachiningTable.gerund>에서 작업</DoBillsMachiningTable.gerund>
-  <DoBillsMachiningTable.verb>작업</DoBillsMachiningTable.verb>
-  
-  <DoBillsMakeApparel.label>재단</DoBillsMakeApparel.label>
-  <DoBillsMakeApparel.gerund>에서 재단</DoBillsMakeApparel.gerund>
-  <DoBillsMakeApparel.verb>재단</DoBillsMakeApparel.verb>
-  
-  <DoBillsMakeWeapons.label>무기 제작</DoBillsMakeWeapons.label>
-  <DoBillsMakeWeapons.gerund>에서 가공</DoBillsMakeWeapons.gerund>
-  <DoBillsMakeWeapons.verb>제작</DoBillsMakeWeapons.verb>
-  
-  <DoBillsMedicalAnimalOperation.label>동물 수술</DoBillsMedicalAnimalOperation.label>
-  <DoBillsMedicalAnimalOperation.gerund> 수술</DoBillsMedicalAnimalOperation.gerund>
-  <DoBillsMedicalAnimalOperation.verb>수술</DoBillsMedicalAnimalOperation.verb>
-  
-  <DoBillsMedicalHumanOperation.label>의료 작업</DoBillsMedicalHumanOperation.label>
-  <DoBillsMedicalHumanOperation.gerund> 수술</DoBillsMedicalHumanOperation.gerund>
-  <DoBillsMedicalHumanOperation.verb>수술</DoBillsMedicalHumanOperation.verb>
-  
-  <DoBillsProduceDrugs.label>약물 만들기</DoBillsProduceDrugs.label>
-  <DoBillsProduceDrugs.gerund>에서 약물 제작</DoBillsProduceDrugs.gerund>
-  <DoBillsProduceDrugs.verb>약물 제작</DoBillsProduceDrugs.verb>
-  
-  <DoBillsRefinery.label>화학물질 정제</DoBillsRefinery.label>
-  <DoBillsRefinery.gerund>에서 화학물질 정제</DoBillsRefinery.gerund>
-  <DoBillsRefinery.verb>화학물질 정제</DoBillsRefinery.verb>
-  
-  <DoBillsSculpt.label>조각</DoBillsSculpt.label>
-  <DoBillsSculpt.gerund>에서 조각</DoBillsSculpt.gerund>
-  <DoBillsSculpt.verb>조각</DoBillsSculpt.verb>
-  
-  <DoBillsSmelter.label>금속 추출</DoBillsSmelter.label>
-  <DoBillsSmelter.gerund>에서 금속 추출</DoBillsSmelter.gerund>
-  <DoBillsSmelter.verb>금속 추출</DoBillsSmelter.verb>
-  
-  <DoBillsStonecut.label>석재 가공</DoBillsStonecut.label>
-  <DoBillsStonecut.gerund>에서 석재 가공</DoBillsStonecut.gerund>
-  <DoBillsStonecut.verb>석재 가공</DoBillsStonecut.verb>
-  
-  <DoBillsUseCraftingSpot.label>만들기</DoBillsUseCraftingSpot.label>
-  <DoBillsUseCraftingSpot.gerund>에서 제작</DoBillsUseCraftingSpot.gerund>
-  <DoBillsUseCraftingSpot.verb>제작</DoBillsUseCraftingSpot.verb>
-  
-  <DoExecution.label>수감자 처형</DoExecution.label>
-  <DoExecution.gerund> 처형</DoExecution.gerund>
-  <DoExecution.verb>처형</DoExecution.verb>
-  
-  <DoctorFeedAnimals.label>동물 먹이 먹여주기</DoctorFeedAnimals.label>
-  <DoctorFeedAnimals.gerund>에게 먹이 먹여주기</DoctorFeedAnimals.gerund>
-  <DoctorFeedAnimals.verb>먹이 먹여주기</DoctorFeedAnimals.verb>
-  
-  <DoctorFeedHumanlikes.label>환자에게 밥 먹여주기</DoctorFeedHumanlikes.label>
-  <DoctorFeedHumanlikes.gerund>에게 밥 먹여주기</DoctorFeedHumanlikes.gerund>
-  <DoctorFeedHumanlikes.verb>밥 먹여주기</DoctorFeedHumanlikes.verb>
-  
-  <DoctorRescue.label>쓰러진 아군 구조</DoctorRescue.label>
-  <DoctorRescue.gerund> 구조</DoctorRescue.gerund>
-  <DoctorRescue.verb>구조</DoctorRescue.verb>
-  
-  <DoctorTendEmergency.label>응급 치료</DoctorTendEmergency.label>
-  <DoctorTendEmergency.gerund> 치료</DoctorTendEmergency.gerund>
-  <DoctorTendEmergency.verb>치료</DoctorTendEmergency.verb>
-  
-  <DoctorTendToAnimals.label>동물 치료</DoctorTendToAnimals.label>
-  <DoctorTendToAnimals.gerund> 치료</DoctorTendToAnimals.gerund>
-  <DoctorTendToAnimals.verb>치료</DoctorTendToAnimals.verb>
-  
-  <DoctorTendToHumanlikes.label>치료</DoctorTendToHumanlikes.label>
-  <DoctorTendToHumanlikes.gerund> 치료</DoctorTendToHumanlikes.gerund>
-  <DoctorTendToHumanlikes.verb>치료</DoctorTendToHumanlikes.verb>
-  
-  <DoctorTendToSelf.label>자가 치료</DoctorTendToSelf.label>
-  <DoctorTendToSelf.gerund> 치료</DoctorTendToSelf.gerund>
-  <DoctorTendToSelf.verb>치료</DoctorTendToSelf.verb>
-  
-  <DoctorTendToSelfEmergency.label>자가 치료</DoctorTendToSelfEmergency.label>
-  <DoctorTendToSelfEmergency.gerund> 치료</DoctorTendToSelfEmergency.gerund>
-  <DoctorTendToSelfEmergency.verb>치료</DoctorTendToSelfEmergency.verb>
-  
-  <Drill.label>심층 채굴</Drill.label>
-  <Drill.gerund>에서 채굴</Drill.gerund>
-  <Drill.verb>심층 채굴</Drill.verb>
-  
-  <EmptyEggBox.label>알 상자 비우기</EmptyEggBox.label>
-  <EmptyEggBox.gerund> 비우기</EmptyEggBox.gerund>
-  <EmptyEggBox.verb>비우기</EmptyEggBox.verb>
-  
-  <ExecuteGuiltyColonist.label>유죄 정착민 처형</ExecuteGuiltyColonist.label>
-  <ExecuteGuiltyColonist.gerund> 처형</ExecuteGuiltyColonist.gerund>
-  <ExecuteGuiltyColonist.verb>처형</ExecuteGuiltyColonist.verb>
-  
-  <ExtractTree.label>나무 뽑기</ExtractTree.label>
-  <ExtractTree.gerund> 뽑기</ExtractTree.gerund>
-  <ExtractTree.verb>추출</ExtractTree.verb>
-  
-  <FeedPrisoner.label>수감자에게 밥 먹여주기</FeedPrisoner.label>
-  <FeedPrisoner.gerund>에게 밥 먹여주기</FeedPrisoner.gerund>
-  <FeedPrisoner.verb>밥 먹여주기</FeedPrisoner.verb>
-  
-  <FightFires.label>화재 진압</FightFires.label>
-  <FightFires.gerund> 진압</FightFires.gerund>
-  <FightFires.verb>진압</FightFires.verb>
-  
-  <FillFermentingBarrel.label>발효통 채우기</FillFermentingBarrel.label>
-  <FillFermentingBarrel.gerund> 채우기</FillFermentingBarrel.gerund>
-  <FillFermentingBarrel.verb>채우기</FillFermentingBarrel.verb>
-  
-  <FixBrokenDownBuilding.label>망가진 건물 수리</FixBrokenDownBuilding.label>
-  <FixBrokenDownBuilding.gerund> 부품 교체</FixBrokenDownBuilding.gerund>
-  <FixBrokenDownBuilding.verb>부품 교체</FixBrokenDownBuilding.verb>
-  
-  <Flick.label>스위치 조작</Flick.label>
-  <Flick.gerund> 스위치 조작</Flick.gerund>
-  <Flick.verb>스위치 조작</Flick.verb>
-  
-  <GroundPenetratingScan.label>지면 투과 탐색기 조작</GroundPenetratingScan.label>
-  <GroundPenetratingScan.gerund>에서 탐색</GroundPenetratingScan.gerund>
-  <GroundPenetratingScan.verb>탐색</GroundPenetratingScan.verb>
-  
-  <GrowerHarvest.label>작물 수확</GrowerHarvest.label>
-  <GrowerHarvest.gerund> 수확</GrowerHarvest.gerund>
-  <GrowerHarvest.verb>수확</GrowerHarvest.verb>
-  
-  <GrowerSow.label>작물 심기</GrowerSow.label>
-  <GrowerSow.gerund> 심기</GrowerSow.gerund>
-  <GrowerSow.verb>심기</GrowerSow.verb>
-  
-  <HandlingFeedPatientAnimals.label>동물 먹이 주기</HandlingFeedPatientAnimals.label>
-  <HandlingFeedPatientAnimals.gerund> 먹이 주기</HandlingFeedPatientAnimals.gerund>
-  <HandlingFeedPatientAnimals.verb>먹이 주기</HandlingFeedPatientAnimals.verb>
-  
-  <HaulCorpses.label>시체 운반</HaulCorpses.label>
-  <HaulCorpses.gerund> 운반</HaulCorpses.gerund>
-  <HaulCorpses.verb>운반</HaulCorpses.verb>
-  
-  <HaulGeneral.label>물건 운반</HaulGeneral.label>
-  <HaulGeneral.gerund> 운반</HaulGeneral.gerund>
-  <HaulGeneral.verb>운반</HaulGeneral.verb>
-  
-  <HaulMerge.label>정리</HaulMerge.label>
-  <HaulMerge.gerund> 정리</HaulMerge.gerund>
-  <HaulMerge.verb>정리</HaulMerge.verb>
-  
-  <HelpGatheringItemsForCaravan.label>상단 적재</HelpGatheringItemsForCaravan.label>
-  <HelpGatheringItemsForCaravan.gerund> 적재</HelpGatheringItemsForCaravan.gerund>
-  <HelpGatheringItemsForCaravan.verb>적재</HelpGatheringItemsForCaravan.verb>
-  
-  <HunterHunt.label>사냥</HunterHunt.label>
-  <HunterHunt.gerund> 사냥</HunterHunt.gerund>
-  <HunterHunt.verb>사냥</HunterHunt.verb>
-  
-  <LoadTransporters.label>수송 포드 적재</LoadTransporters.label>
-  <LoadTransporters.gerund> 적재</LoadTransporters.gerund>
-  <LoadTransporters.verb>적재</LoadTransporters.verb>
-  
-  <LongRangeScan.label>장거리 광물 탐색기 조작</LongRangeScan.label>
-  <LongRangeScan.gerund>에서 탐색</LongRangeScan.gerund>
-  <LongRangeScan.verb>탐색</LongRangeScan.verb>
-  
-  <Milk.label>우유 짜기</Milk.label>
-  <Milk.gerund> 착유</Milk.gerund>
-  <Milk.verb>착유</Milk.verb>
-  
-  <Mine.label>채굴</Mine.label>
-  <Mine.gerund> 채굴</Mine.gerund>
-  <Mine.verb>채굴</Mine.verb>
-  
-  <Open.label>열기</Open.label>
-  <Open.gerund> 열기</Open.gerund>
-  <Open.verb>열기</Open.verb>
-  
-  <PaintBuilding.label>건물 색칠</PaintBuilding.label>
-  <PaintBuilding.gerund> 색칠</PaintBuilding.gerund>
-  <PaintBuilding.verb>색칠</PaintBuilding.verb>
-  
-  <PaintFloor.label>바닥 색칠</PaintFloor.label>
-  <PaintFloor.gerund> 색칠</PaintFloor.gerund>
-  <PaintFloor.verb>색칠</PaintFloor.verb>
-  
-  <PatientGoToBedEmergencyTreatment.label>응급치료를 위해 침대로 가기</PatientGoToBedEmergencyTreatment.label>
-  <PatientGoToBedEmergencyTreatment.gerund> 요양</PatientGoToBedEmergencyTreatment.gerund>
-  <PatientGoToBedEmergencyTreatment.verb>요양</PatientGoToBedEmergencyTreatment.verb>
-  
-  <PatientGoToBedRecuperate.label>휴식</PatientGoToBedRecuperate.label>
-  <PatientGoToBedRecuperate.gerund> 휴식</PatientGoToBedRecuperate.gerund>
-  <PatientGoToBedRecuperate.verb>휴식</PatientGoToBedRecuperate.verb>
-  
-  <PatientGoToBedTreatment.label>치료를 위해 침대로 가기</PatientGoToBedTreatment.label>
-  <PatientGoToBedTreatment.gerund> 요양</PatientGoToBedTreatment.gerund>
-  <PatientGoToBedTreatment.verb>요양</PatientGoToBedTreatment.verb>
-  
-  <PlantSeed.label>작물 씨를 뿌림</PlantSeed.label>
-  <PlantSeed.gerund> 심기</PlantSeed.gerund>
-  <PlantSeed.verb>심기</PlantSeed.verb>
-  
-  <PlantsCut.label>제초</PlantsCut.label>
-  <PlantsCut.gerund> 제초/벌목</PlantsCut.gerund>
-  <PlantsCut.verb>제초/벌목</PlantsCut.verb>
-  
-  <RearmTurrets.label>포탑 장전</RearmTurrets.label>
-  <RearmTurrets.gerund> 장전</RearmTurrets.gerund>
-  <RearmTurrets.verb>장전</RearmTurrets.verb>
-  
-  <RebalanceAnimalsInPens.label>가축 조정</RebalanceAnimalsInPens.label>
-  <RebalanceAnimalsInPens.gerund> 끌고 가기</RebalanceAnimalsInPens.gerund>
-  <RebalanceAnimalsInPens.verb>끌고 가기</RebalanceAnimalsInPens.verb>
-  
-  <Refuel.label>연료 보충</Refuel.label>
-  <Refuel.gerund> 연료 보충</Refuel.gerund>
-  <Refuel.verb>연료 보충</Refuel.verb>
-  
-  <ReleasePrisoner.label>수감자 석방</ReleasePrisoner.label>
-  <ReleasePrisoner.gerund> 석방</ReleasePrisoner.gerund>
-  <ReleasePrisoner.verb>방출</ReleasePrisoner.verb>
-  
-  <ReleaseToWild.label>야생으로 돌려보내기</ReleaseToWild.label>
-  <ReleaseToWild.gerund> 방출</ReleaseToWild.gerund>
-  <ReleaseToWild.verb>방출</ReleaseToWild.verb>
-  
-  <RemovePaintBuilding.label>색칠 제거</RemovePaintBuilding.label>
-  <RemovePaintBuilding.gerund> 색칠 제거</RemovePaintBuilding.gerund>
-  <RemovePaintBuilding.verb>색칠 제거</RemovePaintBuilding.verb>
-  
-  <RemovePaintFloor.label>바닥 색칠 제거</RemovePaintFloor.label>
-  <RemovePaintFloor.gerund> 색칠 제거</RemovePaintFloor.gerund>
-  <RemovePaintFloor.verb>색칠 제거</RemovePaintFloor.verb>
-  
-  <RemoveRoofs.label>지붕 해체</RemoveRoofs.label>
-  <RemoveRoofs.gerund> 지붕 해체</RemoveRoofs.gerund>
-  <RemoveRoofs.verb>지붕 해체</RemoveRoofs.verb>
-  
-  <Repair.label>피해 수리</Repair.label>
-  <Repair.gerund> 수리</Repair.gerund>
-  <Repair.verb>수리</Repair.verb>
-  
-  <Replant.label>나무 심기</Replant.label>
-  <Replant.gerund> 심기</Replant.gerund>
-  <Replant.verb>심기</Replant.verb>
-  
-  <Research.label>연구</Research.label>
-  <Research.gerund>에서 연구</Research.gerund>
-  <Research.verb>연구</Research.verb>
-  
-  <Shear.label>털 깎기</Shear.label>
-  <Shear.gerund>의 털 깎기</Shear.gerund>
-  <Shear.verb>깎기</Shear.verb>
-  
-  <Slaughter.label>도축</Slaughter.label>
-  <Slaughter.gerund> 도축</Slaughter.gerund>
-  <Slaughter.verb>도축</Slaughter.verb>
-  
-  <Strip.label>시체 벗기기</Strip.label>
-  <Strip.gerund> 벗기기</Strip.gerund>
-  <Strip.verb>벗기기</Strip.verb>
-  
-  <StudyThing.label>연구</StudyThing.label>
-  <StudyThing.gerund> 연구</StudyThing.gerund>
-  <StudyThing.verb>연구</StudyThing.verb>
-  
-  <TakeBeerOutOfFermentingBarrel.label>발효통에서 맥주 꺼내기</TakeBeerOutOfFermentingBarrel.label>
-  <TakeBeerOutOfFermentingBarrel.gerund>에서 맥주 꺼내기</TakeBeerOutOfFermentingBarrel.gerund>
-  <TakeBeerOutOfFermentingBarrel.verb>맥주 꺼내기</TakeBeerOutOfFermentingBarrel.verb>
-  
-  <TakePrisonerToBed.label>수감자 침대로 이송</TakePrisonerToBed.label>
-  <TakePrisonerToBed.gerund> 이송</TakePrisonerToBed.gerund>
-  <TakePrisonerToBed.verb>이송</TakePrisonerToBed.verb>
-  
-  <TakeRoamingAnimalsToPen.label>떠도는 동물 끌고 오기</TakeRoamingAnimalsToPen.label>
-  <TakeRoamingAnimalsToPen.gerund> 끌고 가기</TakeRoamingAnimalsToPen.gerund>
-  <TakeRoamingAnimalsToPen.verb>끌고 가기</TakeRoamingAnimalsToPen.verb>
-  
-  <TakeToBedToOperate.label>수술하기 위해 침대로 환자 이송</TakeToBedToOperate.label>
-  <TakeToBedToOperate.gerund> 이송</TakeToBedToOperate.gerund>
-  <TakeToBedToOperate.verb>이송</TakeToBedToOperate.verb>
-  
-  <TakeToPen.label>동물 끌고 가기</TakeToPen.label>
-  <TakeToPen.gerund> 끌고 가기</TakeToPen.gerund>
-  <TakeToPen.verb>끌고 가기</TakeToPen.verb>
-  
-  <Tame.label>동물 길들이기</Tame.label>
-  <Tame.gerund> 길들이기</Tame.gerund>
-  <Tame.verb>길들이기</Tame.verb>
-  
-  <Train.label>동물 훈련</Train.label>
-  <Train.gerund> 훈련</Train.gerund>
-  <Train.verb>훈련</Train.verb>
-  
-  <Uninstall.label>가구 포장</Uninstall.label>
-  <Uninstall.gerund> 포장</Uninstall.gerund>
-  <Uninstall.verb>포장</Uninstall.verb>
-  
-  <UnloadCarriers.label>짐 내리기</UnloadCarriers.label>
-  <UnloadCarriers.gerund>의 짐 내리기</UnloadCarriers.gerund>
-  <UnloadCarriers.verb>비우기</UnloadCarriers.verb>
-  
-  <VisitSickPawn.label>병문안</VisitSickPawn.label>
-  <VisitSickPawn.gerund> 병문안</VisitSickPawn.gerund>
-  <VisitSickPawn.verb>병문안</VisitSickPawn.verb>
+  <BasicReleasePrisoner.label>release prisoners</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.gerund>releasing</BasicReleasePrisoner.gerund>
+  <BasicReleasePrisoner.verb>release</BasicReleasePrisoner.verb>
+  
+  <BuildRoofs.label>build roofs</BuildRoofs.label>
+  <BuildRoofs.gerund>building roof</BuildRoofs.gerund>
+  <BuildRoofs.verb>build roof</BuildRoofs.verb>
+  
+  <ChatWithPrisoner.label>chat with prisoners</ChatWithPrisoner.label>
+  <ChatWithPrisoner.gerund>chatting with</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.verb>chat with</ChatWithPrisoner.verb>
+  
+  <CleanClearSnow.label>clear snow</CleanClearSnow.label>
+  <CleanClearSnow.gerund>clearing snow</CleanClearSnow.gerund>
+  <CleanClearSnow.verb>clear snow</CleanClearSnow.verb>
+  
+  <CleanFilth.label>clean filth</CleanFilth.label>
+  <CleanFilth.gerund>cleaning</CleanFilth.gerund>
+  <CleanFilth.verb>clean</CleanFilth.verb>
+  
+  <ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.gerund>working on</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.verb>work on</ConstructDeliverResourcesToBlueprints.verb>
+  
+  <ConstructDeliverResourcesToFrames.label>deliver resources to frames</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.gerund>working on</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.verb>work on</ConstructDeliverResourcesToFrames.verb>
+  
+  <ConstructFinishFrames.label>construct placed frames</ConstructFinishFrames.label>
+  <ConstructFinishFrames.gerund>constructing</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.verb>construct</ConstructFinishFrames.verb>
+  
+  <ConstructRemoveFloors.label>remove floors</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.gerund>removing floor</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.verb>remove floor</ConstructRemoveFloors.verb>
+  
+  <ConstructSmoothFloors.label>smooth floors</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.gerund>smoothing</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.verb>smooth</ConstructSmoothFloors.verb>
+  
+  <ConstructSmoothWalls.label>smooth walls</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.gerund>smoothing</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.verb>smooth</ConstructSmoothWalls.verb>
+  
+  <CookFillHopper.label>fill food hoppers</CookFillHopper.label>
+  <CookFillHopper.gerund>filling</CookFillHopper.gerund>
+  <CookFillHopper.verb>fill</CookFillHopper.verb>
+  
+  <Deconstruct.label>deconstruct structures</Deconstruct.label>
+  <Deconstruct.gerund>deconstructing</Deconstruct.gerund>
+  <Deconstruct.verb>deconstruct</Deconstruct.verb>
+  
+  <DeliverFoodToPrisoner.label>deliver food to prisoners</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.gerund>delivering food for</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.verb>deliver food for</DeliverFoodToPrisoner.verb>
+  
+  <DeliverResourcesToBlueprints.label>deliver resources to blueprints</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.gerund>delivering to</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.verb>deliver to</DeliverResourcesToBlueprints.verb>
+  
+  <DeliverResourcesToFrames.label>deliver resources to frames</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.gerund>delivering to</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.verb>deliver to</DeliverResourcesToFrames.verb>
+  
+  <DoBillsBrew.label>brew liquors</DoBillsBrew.label>
+  <DoBillsBrew.gerund>brewing at</DoBillsBrew.gerund>
+  <DoBillsBrew.verb>brew</DoBillsBrew.verb>
+  
+  <DoBillsButcherFlesh.label>butcher creatures</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.gerund>butchering at</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.verb>butcher</DoBillsButcherFlesh.verb>
+  
+  <DoBillsCook.label>cook meals at stove</DoBillsCook.label>
+  <DoBillsCook.gerund>cooking at</DoBillsCook.gerund>
+  <DoBillsCook.verb>cook</DoBillsCook.verb>
+  
+  <DoBillsCookCampfire.label>cook meals at campfire</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.gerund>cooking at</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.verb>cook</DoBillsCookCampfire.verb>
+  
+  <DoBillsCremate.label>do cremation bills</DoBillsCremate.label>
+  <DoBillsCremate.gerund>cremating at</DoBillsCremate.gerund>
+  <DoBillsCremate.verb>cremate</DoBillsCremate.verb>
+  
+  <DoBillsFabricationBench.label>fabricate things</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.gerund>fabricating things at</DoBillsFabricationBench.gerund>
+  <DoBillsFabricationBench.verb>fabricate</DoBillsFabricationBench.verb>
+  
+  <DoBillsHaulCampfire.label>do bills at campfire</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.gerund>working at</DoBillsHaulCampfire.gerund>
+  <DoBillsHaulCampfire.verb>work at</DoBillsHaulCampfire.verb>
+  
+  <DoBillsMachiningTable.label>make things at machining table</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.gerund>working at</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.verb>work</DoBillsMachiningTable.verb>
+  
+  <DoBillsMakeApparel.label>make apparel</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.gerund>tailoring at</DoBillsMakeApparel.gerund>
+  <DoBillsMakeApparel.verb>tailor</DoBillsMakeApparel.verb>
+  
+  <DoBillsMakeWeapons.label>make weapons</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.gerund>smithing at</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.verb>smith</DoBillsMakeWeapons.verb>
+  
+  <DoBillsMedicalAnimalOperation.label>operate on animals</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.gerund>operating on</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.verb>operate on</DoBillsMedicalAnimalOperation.verb>
+  
+  <DoBillsMedicalHumanOperation.label>operate on humanlikes</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.gerund>operating on</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.verb>operate on</DoBillsMedicalHumanOperation.verb>
+  
+  <DoBillsProduceDrugs.label>synthesize drugs</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.gerund>producing drugs at</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.verb>produce drugs</DoBillsProduceDrugs.verb>
+  
+  <DoBillsRefinery.label>work at refinery</DoBillsRefinery.label>
+  <DoBillsRefinery.gerund>refining chemicals at</DoBillsRefinery.gerund>
+  <DoBillsRefinery.verb>refine chemicals</DoBillsRefinery.verb>
+  
+  <DoBillsSculpt.label>make things at art bench</DoBillsSculpt.label>
+  <DoBillsSculpt.gerund>sculpting at</DoBillsSculpt.gerund>
+  <DoBillsSculpt.verb>sculpt</DoBillsSculpt.verb>
+  
+  <DoBillsSmelter.label>smelt items</DoBillsSmelter.label>
+  <DoBillsSmelter.gerund>refining at</DoBillsSmelter.gerund>
+  <DoBillsSmelter.verb>refine</DoBillsSmelter.verb>
+  
+  <DoBillsStonecut.label>make stone blocks</DoBillsStonecut.label>
+  <DoBillsStonecut.gerund>cutting stone blocks at</DoBillsStonecut.gerund>
+  <DoBillsStonecut.verb>stonecut</DoBillsStonecut.verb>
+  
+  <DoBillsUseCraftingSpot.label>make things at crafting spot</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.gerund>crafting at</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.verb>craft</DoBillsUseCraftingSpot.verb>
+  
+  <DoExecution.label>execute prisoners</DoExecution.label>
+  <DoExecution.gerund>executing</DoExecution.gerund>
+  <DoExecution.verb>execute</DoExecution.verb>
+  
+  <DoctorFeedAnimals.label>feed animals</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.gerund>feeding</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.verb>feed</DoctorFeedAnimals.verb>
+  
+  <DoctorFeedHumanlikes.label>feed patients</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.gerund>feeding</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.verb>feed</DoctorFeedHumanlikes.verb>
+  
+  <DoctorRescue.label>rescue downed allies to bed</DoctorRescue.label>
+  <DoctorRescue.gerund>rescuing</DoctorRescue.gerund>
+  <DoctorRescue.verb>rescue</DoctorRescue.verb>
+  
+  <DoctorTendEmergency.label>tend to patients with urgent needs</DoctorTendEmergency.label>
+  <DoctorTendEmergency.gerund>tending to</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.verb>tend to</DoctorTendEmergency.verb>
+  
+  <DoctorTendToAnimals.label>tend to animals</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.gerund>tending to</DoctorTendToAnimals.gerund>
+  <DoctorTendToAnimals.verb>tend to</DoctorTendToAnimals.verb>
+  
+  <DoctorTendToHumanlikes.label>tend to patients</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.gerund>tending to</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToHumanlikes.verb>tend to</DoctorTendToHumanlikes.verb>
+  
+  <DoctorTendToSelf.label>tend to self</DoctorTendToSelf.label>
+  <DoctorTendToSelf.gerund>tending to</DoctorTendToSelf.gerund>
+  <DoctorTendToSelf.verb>tend to</DoctorTendToSelf.verb>
+  
+  <DoctorTendToSelfEmergency.label>tend to self</DoctorTendToSelfEmergency.label>
+  <DoctorTendToSelfEmergency.gerund>tending to</DoctorTendToSelfEmergency.gerund>
+  <DoctorTendToSelfEmergency.verb>tend to</DoctorTendToSelfEmergency.verb>
+  
+  <Drill.label>drill at deep drill</Drill.label>
+  <Drill.gerund>drilling</Drill.gerund>
+  <Drill.verb>drill</Drill.verb>
+  
+  <EmptyEggBox.label>empty egg box</EmptyEggBox.label>
+  <EmptyEggBox.gerund>emptying</EmptyEggBox.gerund>
+  <EmptyEggBox.verb>empty</EmptyEggBox.verb>
+  
+  <ExecuteGuiltyColonist.label>execute guilty colonists</ExecuteGuiltyColonist.label>
+  <ExecuteGuiltyColonist.gerund>executing</ExecuteGuiltyColonist.gerund>
+  <ExecuteGuiltyColonist.verb>execute</ExecuteGuiltyColonist.verb>
+  
+  <ExtractTree.label>extract trees</ExtractTree.label>
+  <ExtractTree.gerund>extracting</ExtractTree.gerund>
+  <ExtractTree.verb>extract</ExtractTree.verb>
+  
+  <FeedPrisoner.label>feed prisoners</FeedPrisoner.label>
+  <FeedPrisoner.gerund>feeding</FeedPrisoner.gerund>
+  <FeedPrisoner.verb>feed</FeedPrisoner.verb>
+  
+  <FightFires.label>fight fires</FightFires.label>
+  <FightFires.gerund>extinguishing</FightFires.gerund>
+  <FightFires.verb>extinguish</FightFires.verb>
+  
+  <FillFermentingBarrel.label>fill fermenting barrels</FillFermentingBarrel.label>
+  <FillFermentingBarrel.gerund>filling</FillFermentingBarrel.gerund>
+  <FillFermentingBarrel.verb>fill</FillFermentingBarrel.verb>
+  
+  <FixBrokenDownBuilding.label>fix broken-down buildings</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.gerund>replacing broken components in</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.verb>replace broken components in</FixBrokenDownBuilding.verb>
+  
+  <Flick.label>flick switches</Flick.label>
+  <Flick.gerund>flicking switch on</Flick.gerund>
+  <Flick.verb>flick switch on</Flick.verb>
+  
+  <GroundPenetratingScan.label>operate ground penetrating scanner</GroundPenetratingScan.label>
+  <GroundPenetratingScan.gerund>scanning at</GroundPenetratingScan.gerund>
+  <GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb>
+  
+  <GrowerHarvest.label>harvest crops</GrowerHarvest.label>
+  <GrowerHarvest.gerund>harvesting</GrowerHarvest.gerund>
+  <GrowerHarvest.verb>harvest</GrowerHarvest.verb>
+  
+  <GrowerSow.label>sow crops</GrowerSow.label>
+  <GrowerSow.gerund>sowing</GrowerSow.gerund>
+  <GrowerSow.verb>sow</GrowerSow.verb>
+  
+  <HandlingFeedPatientAnimals.label>feed animals</HandlingFeedPatientAnimals.label>
+  <HandlingFeedPatientAnimals.gerund>feeding</HandlingFeedPatientAnimals.gerund>
+  <HandlingFeedPatientAnimals.verb>feed</HandlingFeedPatientAnimals.verb>
+  
+  <HaulCorpses.label>haul corpses</HaulCorpses.label>
+  <HaulCorpses.gerund>hauling</HaulCorpses.gerund>
+  <HaulCorpses.verb>haul</HaulCorpses.verb>
+  
+  <HaulGeneral.label>haul general things</HaulGeneral.label>
+  <HaulGeneral.gerund>hauling</HaulGeneral.gerund>
+  <HaulGeneral.verb>haul</HaulGeneral.verb>
+  
+  <HaulMerge.label>merge things</HaulMerge.label>
+  <HaulMerge.gerund>merging</HaulMerge.gerund>
+  <HaulMerge.verb>merge</HaulMerge.verb>
+  
+  <HelpGatheringItemsForCaravan.label>load caravan</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.gerund>loading</HelpGatheringItemsForCaravan.gerund>
+  <HelpGatheringItemsForCaravan.verb>load</HelpGatheringItemsForCaravan.verb>
+  
+  <HunterHunt.label>hunt</HunterHunt.label>
+  <HunterHunt.gerund>hunting</HunterHunt.gerund>
+  <HunterHunt.verb>hunt</HunterHunt.verb>
+  
+  <LoadTransporters.label>load transporters</LoadTransporters.label>
+  <LoadTransporters.gerund>loading</LoadTransporters.gerund>
+  <LoadTransporters.verb>load</LoadTransporters.verb>
+  
+  <LongRangeScan.label>operate long range scanner</LongRangeScan.label>
+  <LongRangeScan.gerund>scanning at</LongRangeScan.gerund>
+  <LongRangeScan.verb>scan</LongRangeScan.verb>
+  
+  <Milk.label>milk animals</Milk.label>
+  <Milk.gerund>milking</Milk.gerund>
+  <Milk.verb>milk</Milk.verb>
+  
+  <Mine.label>mine</Mine.label>
+  <Mine.gerund>mining</Mine.gerund>
+  <Mine.verb>mine</Mine.verb>
+  
+  <Open.label>open containers</Open.label>
+  <Open.gerund>opening</Open.gerund>
+  <Open.verb>open</Open.verb>
+  
+  <PaintBuilding.label>paint buildings</PaintBuilding.label>
+  <PaintBuilding.gerund>painting</PaintBuilding.gerund>
+  <PaintBuilding.verb>paint</PaintBuilding.verb>
+  
+  <PaintFloor.label>paint floor</PaintFloor.label>
+  <PaintFloor.gerund>painting</PaintFloor.gerund>
+  <PaintFloor.verb>paint</PaintFloor.verb>
+  
+  <PatientGoToBedEmergencyTreatment.label>go to bed for emergency treatment</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.gerund>receiving treatment in</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.verb>receive treatment in</PatientGoToBedEmergencyTreatment.verb>
+  
+  <PatientGoToBedRecuperate.label>recuperate in bed</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.gerund>getting bed rest in</PatientGoToBedRecuperate.gerund>
+  <PatientGoToBedRecuperate.verb>get bed rest in</PatientGoToBedRecuperate.verb>
+  
+  <PatientGoToBedTreatment.label>go to bed for treatment</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.gerund>receiving treatment in</PatientGoToBedTreatment.gerund>
+  <PatientGoToBedTreatment.verb>receive treatment in</PatientGoToBedTreatment.verb>
+  
+  <PlantSeed.label>plant seeds</PlantSeed.label>
+  <PlantSeed.gerund>planting</PlantSeed.gerund>
+  <PlantSeed.verb>plant</PlantSeed.verb>
+  
+  <PlantsCut.label>cut plants</PlantsCut.label>
+  <PlantsCut.gerund>cutting</PlantsCut.gerund>
+  <PlantsCut.verb>cut</PlantsCut.verb>
+  
+  <RearmTurrets.label>rearm turrets</RearmTurrets.label>
+  <RearmTurrets.gerund>rearming</RearmTurrets.gerund>
+  <RearmTurrets.verb>rearm</RearmTurrets.verb>
+  
+  <RebalanceAnimalsInPens.label>rebalance penned animals</RebalanceAnimalsInPens.label>
+  <RebalanceAnimalsInPens.gerund>roping</RebalanceAnimalsInPens.gerund>
+  <RebalanceAnimalsInPens.verb>rope</RebalanceAnimalsInPens.verb>
+  
+  <Refuel.label>refuel fuelable buildings</Refuel.label>
+  <Refuel.gerund>refueling</Refuel.gerund>
+  <Refuel.verb>refuel</Refuel.verb>
+  
+  <ReleasePrisoner.label>release prisoners</ReleasePrisoner.label>
+  <ReleasePrisoner.gerund>releasing</ReleasePrisoner.gerund>
+  <ReleasePrisoner.verb>release</ReleasePrisoner.verb>
+  
+  <ReleaseToWild.label>release to wild</ReleaseToWild.label>
+  <ReleaseToWild.gerund>releasing</ReleaseToWild.gerund>
+  <ReleaseToWild.verb>release</ReleaseToWild.verb>
+  
+  <RemovePaintBuilding.label>remove paint</RemovePaintBuilding.label>
+  <RemovePaintBuilding.gerund>removing paint from</RemovePaintBuilding.gerund>
+  <RemovePaintBuilding.verb>remove paint</RemovePaintBuilding.verb>
+  
+  <RemovePaintFloor.label>remove floor paint</RemovePaintFloor.label>
+  <RemovePaintFloor.gerund>removing paint from</RemovePaintFloor.gerund>
+  <RemovePaintFloor.verb>remove paint</RemovePaintFloor.verb>
+  
+  <RemoveRoofs.label>remove roofs</RemoveRoofs.label>
+  <RemoveRoofs.gerund>removing roof</RemoveRoofs.gerund>
+  <RemoveRoofs.verb>remove roof</RemoveRoofs.verb>
+  
+  <Repair.label>repair damaged things</Repair.label>
+  <Repair.gerund>repairing</Repair.gerund>
+  <Repair.verb>repair</Repair.verb>
+  
+  <Replant.label>replant tree</Replant.label>
+  <Replant.gerund>replanting</Replant.gerund>
+  <Replant.verb>replant</Replant.verb>
+  
+  <Research.label>do research</Research.label>
+  <Research.gerund>researching at</Research.gerund>
+  <Research.verb>research</Research.verb>
+  
+  <Shear.label>shear animals</Shear.label>
+  <Shear.gerund>shearing</Shear.gerund>
+  <Shear.verb>shear</Shear.verb>
+  
+  <Slaughter.label>slaughter animals</Slaughter.label>
+  <Slaughter.gerund>slaughtering</Slaughter.gerund>
+  <Slaughter.verb>slaughter</Slaughter.verb>
+  
+  <Strip.label>strip corpses</Strip.label>
+  <Strip.gerund>stripping</Strip.gerund>
+  <Strip.verb>strip</Strip.verb>
+  
+  <StudyThing.label>study</StudyThing.label>
+  <StudyThing.gerund>studying</StudyThing.gerund>
+  <StudyThing.verb>research</StudyThing.verb>
+  
+  <TakeBeerOutOfFermentingBarrel.label>take beer out of fermenting barrels</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.gerund>taking beer from</TakeBeerOutOfFermentingBarrel.gerund>
+  <TakeBeerOutOfFermentingBarrel.verb>take beer</TakeBeerOutOfFermentingBarrel.verb>
+  
+  <TakePrisonerToBed.label>take prisoners to bed</TakePrisonerToBed.label>
+  <TakePrisonerToBed.gerund>taking to bed</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.verb>take to bed</TakePrisonerToBed.verb>
+  
+  <TakeRoamingAnimalsToPen.label>rope roaming animals</TakeRoamingAnimalsToPen.label>
+  <TakeRoamingAnimalsToPen.gerund>roping</TakeRoamingAnimalsToPen.gerund>
+  <TakeRoamingAnimalsToPen.verb>rope</TakeRoamingAnimalsToPen.verb>
+  
+  <TakeToBedToOperate.label>take patients to bed for operations</TakeToBedToOperate.label>
+  <TakeToBedToOperate.gerund>taking to operate</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.verb>take to operate</TakeToBedToOperate.verb>
+  
+  <TakeToPen.label>rope animals</TakeToPen.label>
+  <TakeToPen.gerund>roping</TakeToPen.gerund>
+  <TakeToPen.verb>rope</TakeToPen.verb>
+  
+  <Tame.label>tame animals</Tame.label>
+  <Tame.gerund>taming</Tame.gerund>
+  <Tame.verb>tame</Tame.verb>
+  
+  <Train.label>train animals</Train.label>
+  <Train.gerund>training</Train.gerund>
+  <Train.verb>train</Train.verb>
+  
+  <Uninstall.label>uninstall structures</Uninstall.label>
+  <Uninstall.gerund>uninstalling</Uninstall.gerund>
+  <Uninstall.verb>uninstall</Uninstall.verb>
+  
+  <UnloadCarriers.label>unload carriers</UnloadCarriers.label>
+  <UnloadCarriers.gerund>unloading</UnloadCarriers.gerund>
+  <UnloadCarriers.verb>unload</UnloadCarriers.verb>
+  
+  <VisitSickPawn.label>visit sick people</VisitSickPawn.label>
+  <VisitSickPawn.gerund>visiting</VisitSickPawn.gerund>
+  <VisitSickPawn.verb>visit</VisitSickPawn.verb>
 </LanguageData>
