@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Clear.label>맑음</Clear.label>
-  <Clear.description>화창하고 평범합니다.</Clear.description>
+  <Clear.label>clear</Clear.label>
+  <Clear.description>A clear day. No penalties or modifiers.</Clear.description>
   
-  <DryThunderstorm.label>마른 벼락</DryThunderstorm.label>
-  <DryThunderstorm.description>벼락으로 인한 화재의 위험이 있습니다. 비가 내리지 않아서 불이 꺼지지 않습니다.</DryThunderstorm.description>
+  <DryThunderstorm.label>dry thunderstorm</DryThunderstorm.label>
+  <DryThunderstorm.description>Dry thunderstorms are dangerous because the lightning can start fires and there is no rain to put them out.</DryThunderstorm.description>
   
-  <Fog.label>안개</Fog.label>
-  <Fog.description>원거리 무기의 명중률이 감소합니다.</Fog.description>
+  <Fog.label>fog</Fog.label>
+  <Fog.description>Fog reduces the accuracy of ranged weapons.</Fog.description>
   
-  <FoggyRain.label>안개비</FoggyRain.label>
-  <FoggyRain.description>이동 속도와 원거리 무기의 명중률이 감소합니다.</FoggyRain.description>
+  <FoggyRain.label>foggy rain</FoggyRain.label>
+  <FoggyRain.description>Reduces accuracy and movement speed.</FoggyRain.description>
   
-  <Rain.label>비</Rain.label>
-  <Rain.description>이동 속도와 원거리 무기의 명중률이 감소합니다. 외부의 화염이 진압됩니다.</Rain.description>
+  <Rain.label>rain</Rain.label>
+  <Rain.description>Rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</Rain.description>
   
-  <RainyThunderstorm.label>폭풍우</RainyThunderstorm.label>
-  <RainyThunderstorm.description>벼락으로 인해 화재의 위험이 있지만 비로 인해 크게 번지지 않습니다. 이동 속도와 원거리 무기의 명중률이 감소합니다.</RainyThunderstorm.description>
+  <RainyThunderstorm.label>rainy thunderstorm</RainyThunderstorm.label>
+  <RainyThunderstorm.description>The lightning will start fires, but the rain will put it out. The rain also reduces movement speed and shooting accuracy.</RainyThunderstorm.description>
   
-  <SnowGentle.label>눈</SnowGentle.label>
-  <SnowGentle.description>이동 속도와 원거리 무기의 명중률이 감소합니다. 외부의 화염이 진압됩니다.</SnowGentle.description>
+  <SnowGentle.label>gentle snow</SnowGentle.label>
+  <SnowGentle.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowGentle.description>
   
-  <SnowHard.label>폭설</SnowHard.label>
-  <SnowHard.description>이동 속도와 원거리 무기의 명중률이 감소합니다. 외부의 화염이 진압됩니다.</SnowHard.description>
+  <SnowHard.label>hard snow</SnowHard.label>
+  <SnowHard.description>Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.</SnowHard.description>
 </LanguageData>
