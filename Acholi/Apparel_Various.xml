@@ -1,44 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_ArmorRecon.label>crwdns471252:0crwdne471252:0</Apparel_ArmorRecon.label>
-  <Apparel_ArmorRecon.description>crwdns471254:0crwdne471254:0</Apparel_ArmorRecon.description>
+  <Apparel_Bandolier.label>crwdns427140:0crwdne427140:0</Apparel_Bandolier.label>
+  <Apparel_Bandolier.description>crwdns427142:0crwdne427142:0</Apparel_Bandolier.description>
   
-  <Apparel_BasicShirt.label>crwdns471256:0crwdne471256:0</Apparel_BasicShirt.label>
-  <Apparel_BasicShirt.description>crwdns471258:0crwdne471258:0</Apparel_BasicShirt.description>
+  <Apparel_MechlordSuit.label>crwdns427144:0crwdne427144:0</Apparel_MechlordSuit.label>
+  <Apparel_MechlordSuit.description>crwdns427146:0crwdne427146:0</Apparel_MechlordSuit.description>
   
-  <Apparel_Cape.label>crwdns471260:0crwdne471260:0</Apparel_Cape.label>
-  <Apparel_Cape.description>crwdns471262:0crwdne471262:0</Apparel_Cape.description>
-  
-  <Apparel_CollarShirt.label>crwdns471264:0crwdne471264:0</Apparel_CollarShirt.label>
-  <Apparel_CollarShirt.description>crwdns471266:0crwdne471266:0</Apparel_CollarShirt.description>
-  
-  <Apparel_Duster.label>crwdns471268:0crwdne471268:0</Apparel_Duster.label>
-  <Apparel_Duster.description>crwdns471270:0crwdne471270:0</Apparel_Duster.description>
-  
-  <Apparel_FlakJacket.label>crwdns471272:0crwdne471272:0</Apparel_FlakJacket.label>
-  <Apparel_FlakJacket.description>crwdns471274:0crwdne471274:0</Apparel_FlakJacket.description>
-  
-  <Apparel_FlakPants.label>crwdns471276:0crwdne471276:0</Apparel_FlakPants.label>
-  <Apparel_FlakPants.description>crwdns471278:0crwdne471278:0</Apparel_FlakPants.description>
-  
-  <Apparel_FlakVest.label>crwdns471280:0crwdne471280:0</Apparel_FlakVest.label>
-  <Apparel_FlakVest.description>crwdns471282:0crwdne471282:0</Apparel_FlakVest.description>
-  
-  <Apparel_Jacket.label>crwdns471284:0crwdne471284:0</Apparel_Jacket.label>
-  <Apparel_Jacket.description>crwdns471286:0crwdne471286:0</Apparel_Jacket.description>
-  
-  <Apparel_Pants.label>crwdns471288:0crwdne471288:0</Apparel_Pants.label>
-  <Apparel_Pants.description>crwdns471290:0crwdne471290:0</Apparel_Pants.description>
-  
-  <Apparel_Parka.label>crwdns471292:0crwdne471292:0</Apparel_Parka.label>
-  <Apparel_Parka.description>crwdns471294:0crwdne471294:0</Apparel_Parka.description>
-  
-  <Apparel_PlateArmor.label>crwdns471296:0crwdne471296:0</Apparel_PlateArmor.label>
-  <Apparel_PlateArmor.description>crwdns471298:0crwdne471298:0</Apparel_PlateArmor.description>
-  
-  <Apparel_PowerArmor.label>crwdns471300:0crwdne471300:0</Apparel_PowerArmor.label>
-  <Apparel_PowerArmor.description>crwdns471302:0crwdne471302:0</Apparel_PowerArmor.description>
-  
-  <Apparel_TribalA.label>crwdns471304:0crwdne471304:0</Apparel_TribalA.label>
-  <Apparel_TribalA.description>crwdns471306:0crwdne471306:0</Apparel_TribalA.description>
+  <Apparel_Sash.label>crwdns427148:0crwdne427148:0</Apparel_Sash.label>
+  <Apparel_Sash.description>crwdns427150:0crwdne427150:0</Apparel_Sash.description>
 </LanguageData>
