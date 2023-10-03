@@ -1,60 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalCalm.label>Animal calm</AnimalCalm.label>
-  <AnimalCalm.description>Use unique methods of connecting with animals to calm a maddened beast.</AnimalCalm.description>
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AcidSpray.label>acid spray</AcidSpray.label>
+  <AcidSpray.description>Spray a sticky acid substance from glands in the neck up through the mouth and all over the target area. The acid will stick to targets and burn them.</AcidSpray.description>
   
-  <BerserkTrance.label>berserk trance</BerserkTrance.label>
-  <BerserkTrance.description>The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours.</BerserkTrance.description>
+  <AnimalWarcall.label>animal warcall</AnimalWarcall.label>
+  <AnimalWarcall.description>With a powerful bellow and psychic connection, call an animal to fight your enemies for a few hours.</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>warcall</AnimalWarcall.verbProperties.label>
   
-  <CombatCommand.label>combat command</CombatCommand.label>
-  <CombatCommand.description>Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration.</CombatCommand.description>
+  <Bloodfeed.label>bloodfeed</Bloodfeed.label>
+  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size.</Bloodfeed.description>
   
-  <ConversionRitual.label>conversion ritual</ConversionRitual.label>
-  <ConversionRitual.description>Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram.</ConversionRitual.description>
+  <Coagulate.label>coagulate</Coagulate.label>
+  <Coagulate.description>Use special glands in the wrists to quickly tend someone's wounds.</Coagulate.description>
   
-  <Convert.label>convert</Convert.label>
-  <Convert.description>Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability.</Convert.description>
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <FireBurst.label>fire burst</FireBurst.label>
+  <FireBurst.description>Emit a burst of burning fuel in all directions to form puddles of ignited liquid on the ground.</FireBurst.description>
   
-  <Counsel.label>Counsel</Counsel.label>
-  <Counsel.description>Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener.</Counsel.description>
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <FireSpew.label>fire spew</FireSpew.label>
+  <FireSpew.description>Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition.</FireSpew.description>
   
-  <FarmingCommand.label>farming command</FarmingCommand.label>
-  <FarmingCommand.description>Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours.</FarmingCommand.description>
+  <FirefoampopMech.label>firefoam pop</FirefoampopMech.label>
+  <FirefoampopMech.description>Release a fire-retardant foam in a circular area.</FirefoampopMech.description>
   
-  <ImmunityDrive.label>Immunity drive</ImmunityDrive.label>
-  <ImmunityDrive.description>Offer moral support that energizes the body, boosting someone's immunity gain for one day.</ImmunityDrive.description>
+  <FoamSpray.label>foam spray</FoamSpray.label>
+  <FoamSpray.description>Spray thick fire-retardant foam from glands in the neck up through the mouth. The foam will cover a small area and extinguish any fire it touches.</FoamSpray.description>
   
-  <LeaderSpeech.label>leader speech</LeaderSpeech.label>
-  <LeaderSpeech.description>Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur.</LeaderSpeech.description>
+  <Longjump.label>longjump</Longjump.label>
+  <Longjump.description>Jump to a distant location using super-strong hemogen-powered legs.</Longjump.description>
+  <Longjump.verbProperties.label>jump</Longjump.verbProperties.label>
   
-  <MarksmanCommand.label>marksman command</MarksmanCommand.label>
-  <MarksmanCommand.description>Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours.</MarksmanCommand.description>
+  <LongjumpMech.label>mech longjump</LongjumpMech.label>
+  <LongjumpMech.description>Jump to a distant location using special ultrafast mechanoid muscles.</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>jump</LongjumpMech.verbProperties.label>
   
-  <MiningCommand.label>mining command</MiningCommand.label>
-  <MiningCommand.description>Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours.</MiningCommand.description>
+  <LongjumpMechLauncher.label>jump launcher</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>Jump to a distant location using a built-in jump launcher.</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>jump</LongjumpMechLauncher.verbProperties.label>
   
-  <PreachHealth.label>preach health</PreachHealth.label>
-  <PreachHealth.description>Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain.</PreachHealth.description>
+  <PiercingSpine.label>piercing spine</PiercingSpine.label>
+  <PiercingSpine.description>Use a hemogenic chemical reaction to launch a bony spine at the target. The spine exits through the skin from an opening between the collarbones. Given the method of launch, it is surprisingly easy to aim.</PiercingSpine.description>
   
-  <ProductionCommand.label>production command</ProductionCommand.label>
-  <ProductionCommand.description>Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours.</ProductionCommand.description>
+  <ReimplantXenogerm.label>implant genes</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
   
-  <Reassure.label>reassure</Reassure.label>
-  <Reassure.description>Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability.</Reassure.description>
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Resurrect.label>resurrect</Resurrect.label>
+  <Resurrect.description>Use archites in the bloodstream to infuse a corpse's body with new life, repairing degenerated cell structures and kickstarting vital functions. The older and worse-preserved the corpse is, the more likely it is that they will come back with memory loss or health conditions. This ability seems to exhaust the archites somehow, so it can only be used very rarely.</Resurrect.description>
   
-  <ResearchCommand.label>research command</ResearchCommand.label>
-  <ResearchCommand.description>Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours.</ResearchCommand.description>
+  <ResurrectionMech.label>resurrect mech</ResurrectionMech.label>
+  <ResurrectionMech.description>Resurrect a recently-killed mechanoid by externally supercharging its self-repair processes. The mechanoid will come back with some but not all of its wounds healed.</ResurrectionMech.description>
   
-  <Trial.label>trial</Trial.label>
-  <Trial.description>Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused.</Trial.description>
-  
-  <WorkDrive.label>work drive</WorkDrive.label>
-  <WorkDrive.description>Call on a person to work harder for some time.</WorkDrive.description>
+  <SmokepopMech.label>mech smokepop</SmokepopMech.label>
+  <SmokepopMech.description>Release compressed smoke from concealed vents. Smoke reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely.</SmokepopMech.description>
 </LanguageData>
