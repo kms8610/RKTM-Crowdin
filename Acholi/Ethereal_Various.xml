@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TunnelJellySpawner.label>crwdns440630:0crwdne440630:0</TunnelJellySpawner.label>
+  <BulletShieldPsychic.label>crwdns449088:0crwdne449088:0</BulletShieldPsychic.label>
+  
+  <Flashstorm.label>crwdns449090:0crwdne449090:0</Flashstorm.label>
+  
+  <MonumentMarker.label>crwdns449092:0crwdne449092:0</MonumentMarker.label>
+  <MonumentMarker.description>crwdns449094:0crwdne449094:0</MonumentMarker.description>
+  
+  <SolarPinhole.label>crwdns449096:0crwdne449096:0</SolarPinhole.label>
 </LanguageData>
