@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Royalty -->
-  <RequestChangeRoyalHeir>crwdns449732:0{HOLDER_labelShort}crwdnd449732:0{TITLE}crwdnd449732:0{HEIR_labelShort}crwdne449732:0</RequestChangeRoyalHeir>
-  <RequestSetRoyalHeir>crwdns449734:0{HOLDER_labelShort}crwdnd449734:0{TITLE}crwdne449734:0</RequestSetRoyalHeir>
-  <RequestChangeRoyalHeirAlreadyInProgress>crwdns449736:0{PAWN_labelShort}crwdne449736:0</RequestChangeRoyalHeirAlreadyInProgress>
+  <FactionGreetingHostile>crwdns478412:0{0}crwdne478412:0</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>crwdns478414:0{0}crwdnd478414:0{0_possessive}crwdnd478414:0{0_possessive}crwdnd478414:0{0_pronoun}crwdnd478414:0{0_pronoun}crwdne478414:0</FactionGreetingHostileAppreciative>
+  <FactionGreetingWary>crwdns478416:0{0}crwdnd478416:0{NEGOTIATOR_labelShort}crwdne478416:0</FactionGreetingWary>
+  <FactionGreetingWarm>crwdns478418:0{0}crwdnd478418:0{NEGOTIATOR_labelShort}crwdnd478418:0{LEADER_pronoun}crwdne478418:0</FactionGreetingWarm>
+
+  <WorkTypeDisablesOption>crwdns478420:0{0}crwdne478420:0</WorkTypeDisablesOption>
+  <Disconnect>crwdns478422:0crwdne478422:0</Disconnect>
+
+  <!-- Gift offer -->
+  <OfferGift>crwdns478424:0crwdne478424:0</OfferGift>
+  <MustBeAlly>crwdns478426:0crwdne478426:0</MustBeAlly>
+  <NeedGoodwill>crwdns478428:0{0}crwdne478428:0</NeedGoodwill>
+  <NeedSilverLaunchable>crwdns478430:0{0}crwdne478430:0</NeedSilverLaunchable>
+  <NotEnoughSilver>crwdns478432:0crwdne478432:0</NotEnoughSilver>
+  <SilverForGoodwill>crwdns478434:0{0}crwdnd478434:0{1}crwdne478434:0</SilverForGoodwill>
+  <SilverGiftSent>crwdns478436:0{0}crwdnd478436:0{1}crwdne478436:0</SilverGiftSent>
+
+  <!-- Trade caravan request -->
+  <RequestTrader>crwdns478438:0{0}crwdne478438:0</RequestTrader>
+  <ChooseTraderKind>crwdns478440:0{0}crwdne478440:0</ChooseTraderKind>
+  <TraderSent>crwdns478442:0{0}crwdne478442:0</TraderSent>
+  <WaitTime>crwdns478444:0{0}crwdne478444:0</WaitTime>
   
+  <!-- AI core request -->
+  <RequestAICoreInformation>crwdns478446:0{0}crwdnd478446:0{1}crwdne478446:0</RequestAICoreInformation>
+  <RequestAICoreInformationResult>crwdns478448:0{0}crwdne478448:0</RequestAICoreInformationResult>
+  <NoKnownAICore>crwdns478450:0crwdne478450:0</NoKnownAICore>  
+  
+  <!-- Military aid request -->
+  <RequestMilitaryAid>crwdns478452:0{0}crwdne478452:0</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>crwdns478454:0{0}crwdnd478454:0{1}crwdne478454:0</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>crwdns478456:0crwdne478456:0</CallConfirm>
+  <CallCancel>crwdns478458:0crwdne478458:0</CallCancel>
+  <MilitaryAidSent>crwdns478460:0{0}crwdne478460:0</MilitaryAidSent>
+  <CantSendMilitaryAidInTime>crwdns478462:0{0}crwdne478462:0</CantSendMilitaryAidInTime>
+  <HostileVisitorsPresent>crwdns478464:0crwdne478464:0</HostileVisitorsPresent>
+
 </LanguageData>
