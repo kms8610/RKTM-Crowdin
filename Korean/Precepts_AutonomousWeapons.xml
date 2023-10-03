@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 추한 일이야.</HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>
-  
-  <HasAutomatedTurrets_Horrible.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Horrible.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Horrible.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 끔찍한 일이야.</HasAutomatedTurrets_Horrible.stages.automated_weapons.description>
-  
-  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>자동화된 무기</HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>우리는 자동화된 무기를 사용해. 기계에게 생사여탈권을 주다니 정말 혐오스러운 일이야.</HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>
+  <BuiltAutomatedTurret.label>built automated weapon</BuiltAutomatedTurret.label>
 </LanguageData>
