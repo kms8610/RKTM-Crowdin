@@ -1,75 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RecipeRequiresMechanitor>crwdns429496:0{0}crwdne429496:0</RecipeRequiresMechanitor>
+  <!-- Character -->
+  <OverridesSomePrecepts>crwdns443634:0crwdne443634:0</OverridesSomePrecepts>
+  <AgreeableMemes>crwdns443636:0crwdne443636:0</AgreeableMemes>
+  <DisagreeableMemes>crwdns443638:0crwdne443638:0</DisagreeableMemes>
 
-  <GenepackPlural>crwdns429498:0crwdne429498:0</GenepackPlural>
-  <TraitsDevelopLaterBaby>crwdns429500:0crwdne429500:0</TraitsDevelopLaterBaby>
-  <SkillsDevelopLaterBaby>crwdns429502:0crwdne429502:0</SkillsDevelopLaterBaby>
-  <TabGenes>crwdns429504:0crwdne429504:0</TabGenes>
+  <!-- ITab titles -->
+  <TabSlave>crwdns443640:0crwdne443640:0</TabSlave>
+  <SlaveReleaseRelationGainsDesc>crwdns443642:0crwdne443642:0</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>crwdns443644:0crwdne443644:0</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>crwdns443646:0crwdne443646:0</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>crwdns443648:0crwdne443648:0</SlaveRebellionMTBDaysDescription>
 
-  <ViewGenes>crwdns429506:0crwdne429506:0</ViewGenes>
-  <ViewGenesDesc>crwdns429508:0{PAWN_nameDef}crwdne429508:0</ViewGenesDesc>
+  <!-- Slave tab -->
+  <Suppression>crwdns443650:0crwdne443650:0</Suppression>
+  <SuppressionDesc>crwdns443652:0crwdne443652:0</SuppressionDesc>
+  <SuppressionFallRate>crwdns443654:0crwdne443654:0</SuppressionFallRate>
+  <SuppressionFallRateDesc>crwdns443656:0{1}crwdnd443656:0{0}crwdnd443656:0{4}crwdnd443656:0{3}crwdnd443656:0{2}crwdnd443656:0{6}crwdnd443656:0{5}crwdne443656:0</SuppressionFallRateDesc>
+  <CannotEmancipate>crwdns443658:0crwdne443658:0</CannotEmancipate>
+  <CannotImprison>crwdns443660:0crwdne443660:0</CannotImprison>
+  <CurrentSuppression>crwdns443662:0crwdne443662:0</CurrentSuppression>
+  <Terror>crwdns443664:0crwdne443664:0</Terror>
+  <TerrorDescription>crwdns443666:0crwdne443666:0</TerrorDescription>
+  <TerrorCurrentThoughts>crwdns443668:0crwdne443668:0</TerrorCurrentThoughts>
 
-  <!-- Feeding tab (human babies) -->
-  <TabFeeding>crwdns429510:0crwdne429510:0</TabFeeding>
-  <AutofeedSectionHeader>crwdns429512:0crwdne429512:0</AutofeedSectionHeader>
-  <AutofeedModeNever>crwdns429514:0crwdne429514:0</AutofeedModeNever>
-  <AutofeedModeChildcare>crwdns429516:0crwdne429516:0</AutofeedModeChildcare>
-  <AutofeedModeUrgent>crwdns429518:0crwdne429518:0</AutofeedModeUrgent>
-  <AutofeedNone>crwdns429520:0crwdne429520:0</AutofeedNone>
-  <AutofeedModeTooltipNever>crwdns429522:0{FEEDER_nameDef}crwdnd429522:0{BABY_nameDef}crwdne429522:0</AutofeedModeTooltipNever>
-  <AutofeedModeTooltipChildcare>crwdns429524:0{FEEDER_nameDef}crwdnd429524:0{BABY_nameDef}crwdne429524:0</AutofeedModeTooltipChildcare>
-  <AutofeedModeTooltipUrgent>crwdns429526:0{FEEDER_nameDef}crwdnd429526:0{BABY_nameDef}crwdnd429526:0{FEEDER_nameDef}crwdne429526:0</AutofeedModeTooltipUrgent>
-  <BabyFoodConsumables>crwdns429528:0crwdne429528:0</BabyFoodConsumables>
+  <SuppressionBaseInterval>crwdns443670:0crwdne443670:0</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>crwdns443672:0crwdne443672:0</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>crwdns443674:0crwdne443674:0</SuppressionFactor>
+  <SuppressionMoodFactor>crwdns443676:0crwdne443676:0</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>crwdns443678:0crwdne443678:0</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>crwdns443680:0crwdne443680:0</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>crwdns443682:0crwdne443682:0</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>crwdns443684:0crwdne443684:0</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>crwdns443686:0crwdne443686:0</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>crwdns443688:0{0}crwdnd443688:0{1}crwdne443688:0</SuppressionRebellionAnySlave>
 
-  <!-- Social tab (human babies) -->
-  <IdeoExposureSectionHeader>crwdns429530:0crwdne429530:0</IdeoExposureSectionHeader>
-  <IdeoExposureNoExposure>crwdns429532:0{BABY_labelShort}crwdne429532:0</IdeoExposureNoExposure>
-  <IdeoExposureNoExposureDetail>crwdns429534:0{BABY_pronoun}crwdnd429534:0{CHILDAGE}crwdnd429534:0{BABY_labelShort}crwdnd429534:0{BABY_pronoun}crwdne429534:0</IdeoExposureNoExposureDetail>
-  <IdeoExposurePointsTooltipJoinLikelihood>crwdns429536:0{BABY_labelShort}crwdnd429536:0{PERCENT}crwdnd429536:0{IDEO_name}crwdne429536:0</IdeoExposurePointsTooltipJoinLikelihood>
-  <IdeoExposurePointsTooltipJoinDescription>crwdns429538:0{BABY_labelShort}crwdnd429538:0{BABY_pronoun}crwdnd429538:0{BABY_labelShort}crwdnd429538:0{BABY_pronoun}crwdnd429538:0{CHILDAGE}crwdne429538:0</IdeoExposurePointsTooltipJoinDescription>
-  <IdeoExposurePointsTooltipExposureDescription>crwdns429540:0{BABY_labelShort}crwdnd429540:0{BABY_pronoun}crwdne429540:0</IdeoExposurePointsTooltipExposureDescription>
-  <IdeoExposurePointsTooltipIdeoExposure>crwdns429542:0{IDEO_name}crwdne429542:0</IdeoExposurePointsTooltipIdeoExposure>
-  <IdeoExposurePointsTooltipTotalExposure>crwdns429544:0crwdne429544:0</IdeoExposurePointsTooltipTotalExposure>
+  <WillLevel>crwdns443690:0crwdne443690:0</WillLevel>
+  <WillLevelDesc>crwdns443692:0crwdne443692:0</WillLevelDesc>
+  <WillFromPawnKind>crwdns443694:0{0}crwdne443694:0</WillFromPawnKind>
+  <IdeoConversionTarget>crwdns443696:0crwdne443696:0</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>crwdns443698:0crwdne443698:0</IdeoConversionTargetDesc>
 
-  <!-- Social tab (romance) -->
-  <TryRomanceButtonLabel>crwdns429546:0crwdne429546:0</TryRomanceButtonLabel>
-  <TryRomanceNoOptsMessage>crwdns429548:0{0_labelShort}crwdne429548:0</TryRomanceNoOptsMessage>
-  <CantRomanceTargetUnreachable>crwdns429550:0crwdne429550:0</CantRomanceTargetUnreachable>
-  <CantRomanceTargetSleeping>crwdns429552:0crwdne429552:0</CantRomanceTargetSleeping>
-  <CantRomanceTargetDowned>crwdns429554:0crwdne429554:0</CantRomanceTargetDowned>
-  <CantRomanceTargetDrafted>crwdns429556:0crwdne429556:0</CantRomanceTargetDrafted>
-  <CantRomanceTargetMentalState>crwdns429558:0crwdne429558:0</CantRomanceTargetMentalState>
-  <CantRomanceTargetIncest>crwdns429560:0crwdne429560:0</CantRomanceTargetIncest>
-  <CantRomanceTargetOpinion>crwdns429562:0crwdne429562:0</CantRomanceTargetOpinion>
-  <CantRomanceTargetSexuality>crwdns429564:0crwdne429564:0</CantRomanceTargetSexuality>
-  <CantRomanceTargetPrisoner>crwdns429566:0crwdne429566:0</CantRomanceTargetPrisoner>
-  <CantRomanceTargetYoung>crwdns429568:0crwdne429568:0</CantRomanceTargetYoung>
-  <CantRomanceTargetZeroChance>crwdns429570:0crwdne429570:0</CantRomanceTargetZeroChance>
-  <CantRomanceInitiateMessagePrisoner>crwdns429572:0{0_labelShort}crwdnd429572:0{0_pronoun}crwdne429572:0</CantRomanceInitiateMessagePrisoner>
-  <CantRomanceInitiateMessageSlave>crwdns429574:0{0_labelShort}crwdnd429574:0{0_pronoun}crwdne429574:0</CantRomanceInitiateMessageSlave>
-  <CantRomanceInitiateMessageAsexual>crwdns429576:0{0_labelShort}crwdnd429576:0{0_pronoun}crwdne429576:0</CantRomanceInitiateMessageAsexual>
-  <CantRomanceInitiateMessageDowned>crwdns429578:0{0_labelShort}crwdnd429578:0{0_pronoun}crwdne429578:0</CantRomanceInitiateMessageDowned>
-  <CantRomanceInitiateMessageDrafted>crwdns429580:0{0_labelShort}crwdnd429580:0{0_pronoun}crwdne429580:0</CantRomanceInitiateMessageDrafted>
-  <CantRomanceInitiateMessageMentalState>crwdns429582:0{0_labelShort}crwdnd429582:0{0_pronoun}crwdne429582:0</CantRomanceInitiateMessageMentalState>
-  <CantRomanceInitiateMessageTalk>crwdns429584:0{0_labelShort}crwdnd429584:0{0_pronoun}crwdne429584:0</CantRomanceInitiateMessageTalk>
-  <CantRomanceInitiateMessageCooldown>crwdns429586:0{0_labelShort}crwdnd429586:0{1}crwdne429586:0</CantRomanceInitiateMessageCooldown>
-  <TryRomanceFailedMessage>crwdns429588:0{0_labelShort}crwdnd429588:0{1_labelShort}crwdne429588:0</TryRomanceFailedMessage>
-  <RomanceExistingRelationshipWarning>crwdns429590:0{INITIATOR_nameDef}crwdnd429590:0{TARGET_nameDef}crwdne429590:0</RomanceExistingRelationshipWarning>
-  <RomanceChance>crwdns429592:0crwdne429592:0</RomanceChance>
-  <RomanceChanceExistingRelation>crwdns429594:0{PAWN_nameDef}crwdnd429594:0{RELATION}crwdne429594:0</RomanceChanceExistingRelation>
-  <RomanceChanceCant>crwdns429596:0crwdne429596:0</RomanceChanceCant>
-  <RomanceChanceAgeFactor>crwdns429598:0crwdne429598:0</RomanceChanceAgeFactor>
-  <RomanceChanceBeautyFactor>crwdns429600:0crwdne429600:0</RomanceChanceBeautyFactor>
-  <RomanceChanceOpinionFactor>crwdns429602:0crwdne429602:0</RomanceChanceOpinionFactor>
-  <RomanceChancePartnerFactor>crwdns429604:0crwdne429604:0</RomanceChancePartnerFactor>
-  <RomanceFailedUnexpected>crwdns429606:0{0_labelShort}crwdnd429606:0{1_labelShort}crwdne429606:0</RomanceFailedUnexpected>
-  <RomanceWarningMonogamous>crwdns429608:0{0_nameDef}crwdne429608:0</RomanceWarningMonogamous>
-  <RomanceWarningPolygamous>crwdns429610:0{0_nameDef}crwdnd429610:0{1}crwdne429610:0</RomanceWarningPolygamous>
+  <!-- Social -->
+  <CertaintyChangePerDay>crwdns443700:0crwdne443700:0</CertaintyChangePerDay>
+  <MoodChangeRate>crwdns443702:0crwdne443702:0</MoodChangeRate>
+  <CertaintyInIdeo>crwdns443704:0{PAWN_nameDef}crwdnd443704:0{IDEO_name}crwdne443704:0</CertaintyInIdeo>
+  <RoleDesc>crwdns443706:0crwdne443706:0</RoleDesc>
+  <RoleAssignmentTip>crwdns443708:0crwdne443708:0</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>crwdns443710:0crwdne443710:0</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>crwdns443712:0crwdne443712:0</ConversionStrongerDueToTraitAgreements>
 
-  <!-- Guest tab (prisoners) -->
-  <FactorForGenes>crwdns429612:0crwdne429612:0</FactorForGenes>
-  <PrisonBreakingDisabledDueToGene>crwdns429614:0{GENE_label}crwdne429614:0</PrisonBreakingDisabledDueToGene>
+  <Cut>crwdns443714:0crwdne443714:0</Cut>
+  <CutBothEyes>crwdns443716:0crwdne443716:0</CutBothEyes>
 
 </LanguageData>
