@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Audio.label>음향</Audio.label>
+  <Audio.label>audio</Audio.label>
   
-  <Controls.label>조작</Controls.label>
+  <Controls.label>controls</Controls.label>
   
-  <Dev.label>개발</Dev.label>
+  <Dev.label>dev</Dev.label>
   
-  <Gameplay.label>게임플레이</Gameplay.label>
+  <Gameplay.label>gameplay</Gameplay.label>
   
-  <General.label>일반</General.label>
+  <General.label>general</General.label>
   
-  <Graphics.label>그래픽</Graphics.label>
+  <Graphics.label>graphics</Graphics.label>
   
-  <Interface.label>인터페이스</Interface.label>
+  <Interface.label>interface</Interface.label>
   
-  <Mods.label>모드 설정</Mods.label>
+  <Mods.label>mod options</Mods.label>
 </LanguageData>
