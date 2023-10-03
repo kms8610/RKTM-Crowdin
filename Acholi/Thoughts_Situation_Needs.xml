@@ -1,112 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugDesireFascination.stages.chemical_want.label>crwdns475258:0crwdne475258:0</DrugDesireFascination.stages.chemical_want.label>
-  <DrugDesireFascination.stages.chemical_want.description>crwdns475260:0crwdne475260:0</DrugDesireFascination.stages.chemical_want.description>
-  <DrugDesireFascination.stages.chemical_hunger.label>crwdns475262:0crwdne475262:0</DrugDesireFascination.stages.chemical_hunger.label>
-  <DrugDesireFascination.stages.chemical_hunger.description>crwdns475264:0crwdne475264:0</DrugDesireFascination.stages.chemical_hunger.description>
-  <DrugDesireFascination.stages.chemical_starvation.label>crwdns475266:0crwdne475266:0</DrugDesireFascination.stages.chemical_starvation.label>
-  <DrugDesireFascination.stages.chemical_starvation.description>crwdns475268:0crwdne475268:0</DrugDesireFascination.stages.chemical_starvation.description>
+  <NeedLearning.stages.learningstarved.label>crwdns428192:0crwdne428192:0</NeedLearning.stages.learningstarved.label>
+  <NeedLearning.stages.learningstarved.description>crwdns428194:0crwdne428194:0</NeedLearning.stages.learningstarved.description>
+  <NeedLearning.stages.learningdeprived.label>crwdns428196:0crwdne428196:0</NeedLearning.stages.learningdeprived.label>
+  <NeedLearning.stages.learningdeprived.description>crwdns428198:0crwdne428198:0</NeedLearning.stages.learningdeprived.description>
+  <NeedLearning.stages.learning_unfulfilled.label>crwdns428200:0crwdne428200:0</NeedLearning.stages.learning_unfulfilled.label>
+  <NeedLearning.stages.learning_unfulfilled.description>crwdns428202:0crwdne428202:0</NeedLearning.stages.learning_unfulfilled.description>
+  <NeedLearning.stages.learning_satisfied.label>crwdns428204:0crwdne428204:0</NeedLearning.stages.learning_satisfied.label>
+  <NeedLearning.stages.learning_satisfied.description>crwdns428206:0crwdne428206:0</NeedLearning.stages.learning_satisfied.description>
+  <NeedLearning.stages.learning_fully_satisfied.label>crwdns428208:0crwdne428208:0</NeedLearning.stages.learning_fully_satisfied.label>
+  <NeedLearning.stages.learning_fully_satisfied.description>crwdns428210:0crwdne428210:0</NeedLearning.stages.learning_fully_satisfied.description>
   
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>crwdns475270:0crwdne475270:0</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>crwdns475272:0crwdne475272:0</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>crwdns475274:0crwdne475274:0</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>crwdns475276:0crwdne475276:0</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
-  
-  <DrugDesireInterest.stages.chemical_want.label>crwdns475278:0crwdne475278:0</DrugDesireInterest.stages.chemical_want.label>
-  <DrugDesireInterest.stages.chemical_want.description>crwdns475280:0crwdne475280:0</DrugDesireInterest.stages.chemical_want.description>
-  <DrugDesireInterest.stages.chemical_hunger.label>crwdns475282:0crwdne475282:0</DrugDesireInterest.stages.chemical_hunger.label>
-  <DrugDesireInterest.stages.chemical_hunger.description>crwdns475284:0crwdne475284:0</DrugDesireInterest.stages.chemical_hunger.description>
-  <DrugDesireInterest.stages.chemical_starvation.label>crwdns475286:0crwdne475286:0</DrugDesireInterest.stages.chemical_starvation.label>
-  <DrugDesireInterest.stages.chemical_starvation.description>crwdns475288:0crwdne475288:0</DrugDesireInterest.stages.chemical_starvation.description>
-  
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.label>crwdns475290:0crwdne475290:0</DrugDesireInterestSatisfied.stages.chemical_comfort.label>
-  <DrugDesireInterestSatisfied.stages.chemical_comfort.description>crwdns475292:0crwdne475292:0</DrugDesireInterestSatisfied.stages.chemical_comfort.description>
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>crwdns475294:0crwdne475294:0</DrugDesireInterestSatisfied.stages.chemical_satisfaction.label>
-  <DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>crwdns475296:0crwdne475296:0</DrugDesireInterestSatisfied.stages.chemical_satisfaction.description>
-  
-  <NeedBeauty.stages.hideous_environment.label>crwdns475298:0crwdne475298:0</NeedBeauty.stages.hideous_environment.label>
-  <NeedBeauty.stages.hideous_environment.description>crwdns475300:0crwdne475300:0</NeedBeauty.stages.hideous_environment.description>
-  <NeedBeauty.stages.ugly_environment.label>crwdns475302:0crwdne475302:0</NeedBeauty.stages.ugly_environment.label>
-  <NeedBeauty.stages.ugly_environment.description>crwdns475304:0crwdne475304:0</NeedBeauty.stages.ugly_environment.description>
-  <NeedBeauty.stages.unsightly_environment.label>crwdns475306:0crwdne475306:0</NeedBeauty.stages.unsightly_environment.label>
-  <NeedBeauty.stages.unsightly_environment.description>crwdns475308:0crwdne475308:0</NeedBeauty.stages.unsightly_environment.description>
-  <NeedBeauty.stages.pretty_environment.label>crwdns475310:0crwdne475310:0</NeedBeauty.stages.pretty_environment.label>
-  <NeedBeauty.stages.pretty_environment.description>crwdns475312:0crwdne475312:0</NeedBeauty.stages.pretty_environment.description>
-  <NeedBeauty.stages.beautiful_environment.label>crwdns475314:0crwdne475314:0</NeedBeauty.stages.beautiful_environment.label>
-  <NeedBeauty.stages.beautiful_environment.description>crwdns475316:0crwdne475316:0</NeedBeauty.stages.beautiful_environment.description>
-  <NeedBeauty.stages.gorgeous_environment.label>crwdns475318:0crwdne475318:0</NeedBeauty.stages.gorgeous_environment.label>
-  <NeedBeauty.stages.gorgeous_environment.description>crwdns475320:0crwdne475320:0</NeedBeauty.stages.gorgeous_environment.description>
-  
-  <NeedComfort.stages.uncomfortable.label>crwdns475322:0crwdne475322:0</NeedComfort.stages.uncomfortable.label>
-  <NeedComfort.stages.uncomfortable.description>crwdns475324:0crwdne475324:0</NeedComfort.stages.uncomfortable.description>
-  <NeedComfort.stages.comfortable.label>crwdns475326:0crwdne475326:0</NeedComfort.stages.comfortable.label>
-  <NeedComfort.stages.comfortable.description>crwdns475328:0crwdne475328:0</NeedComfort.stages.comfortable.description>
-  <NeedComfort.stages.quite_comfortable.label>crwdns475330:0crwdne475330:0</NeedComfort.stages.quite_comfortable.label>
-  <NeedComfort.stages.quite_comfortable.description>crwdns475332:0crwdne475332:0</NeedComfort.stages.quite_comfortable.description>
-  <NeedComfort.stages.extremely_comfortable.label>crwdns475334:0crwdne475334:0</NeedComfort.stages.extremely_comfortable.label>
-  <NeedComfort.stages.extremely_comfortable.description>crwdns475336:0crwdne475336:0</NeedComfort.stages.extremely_comfortable.description>
-  <NeedComfort.stages.luxuriantly_comfortable.label>crwdns475338:0crwdne475338:0</NeedComfort.stages.luxuriantly_comfortable.label>
-  <NeedComfort.stages.luxuriantly_comfortable.description>crwdns475340:0crwdne475340:0</NeedComfort.stages.luxuriantly_comfortable.description>
-  
-  <NeedFood.stages.hungry.label>crwdns475342:0crwdne475342:0</NeedFood.stages.hungry.label>
-  <NeedFood.stages.hungry.description>crwdns475344:0crwdne475344:0</NeedFood.stages.hungry.description>
-  <NeedFood.stages.ravenously_hungry.label>crwdns475346:0crwdne475346:0</NeedFood.stages.ravenously_hungry.label>
-  <NeedFood.stages.ravenously_hungry.description>crwdns475348:0crwdne475348:0</NeedFood.stages.ravenously_hungry.description>
-  <NeedFood.stages.malnourished.label>crwdns475350:0crwdne475350:0</NeedFood.stages.malnourished.label>
-  <NeedFood.stages.malnourished.description>crwdns475352:0crwdne475352:0</NeedFood.stages.malnourished.description>
-  <NeedFood.stages.badly_malnourished.label>crwdns475354:0crwdne475354:0</NeedFood.stages.badly_malnourished.label>
-  <NeedFood.stages.badly_malnourished.description>crwdns475356:0crwdne475356:0</NeedFood.stages.badly_malnourished.description>
-  <NeedFood.stages.starving.label>crwdns475358:0crwdne475358:0</NeedFood.stages.starving.label>
-  <NeedFood.stages.starving.description>crwdns475360:0crwdne475360:0</NeedFood.stages.starving.description>
-  <NeedFood.stages.advanced_starvation.label>crwdns475362:0crwdne475362:0</NeedFood.stages.advanced_starvation.label>
-  <NeedFood.stages.advanced_starvation.description>crwdns475364:0crwdne475364:0</NeedFood.stages.advanced_starvation.description>
-  <NeedFood.stages.extreme_starvation.label>crwdns475366:0crwdne475366:0</NeedFood.stages.extreme_starvation.label>
-  <NeedFood.stages.extreme_starvation.description>crwdns475368:0crwdne475368:0</NeedFood.stages.extreme_starvation.description>
-  
-  <NeedIndoors.stages.just_outdoors.label>crwdns475370:0crwdne475370:0</NeedIndoors.stages.just_outdoors.label>
-  <NeedIndoors.stages.just_outdoors.description>crwdns475372:0crwdne475372:0</NeedIndoors.stages.just_outdoors.description>
-  <NeedIndoors.stages.outdoors.label>crwdns475374:0crwdne475374:0</NeedIndoors.stages.outdoors.label>
-  <NeedIndoors.stages.outdoors.description>crwdns475376:0crwdne475376:0</NeedIndoors.stages.outdoors.description>
-  <NeedIndoors.stages.long_outdoors.label>crwdns475378:0crwdne475378:0</NeedIndoors.stages.long_outdoors.label>
-  <NeedIndoors.stages.long_outdoors.description>crwdns475380:0crwdne475380:0</NeedIndoors.stages.long_outdoors.description>
-  <NeedIndoors.stages.very_long_outdoors.label>crwdns475382:0crwdne475382:0</NeedIndoors.stages.very_long_outdoors.label>
-  <NeedIndoors.stages.very_long_outdoors.description>crwdns475384:0crwdne475384:0</NeedIndoors.stages.very_long_outdoors.description>
-  <NeedIndoors.stages.brutal_outdoors.label>crwdns475386:0crwdne475386:0</NeedIndoors.stages.brutal_outdoors.label>
-  <NeedIndoors.stages.brutal_outdoors.description>crwdns475388:0crwdne475388:0</NeedIndoors.stages.brutal_outdoors.description>
-  
-  <NeedJoy.stages.recreationstarved.label>crwdns475390:0crwdne475390:0</NeedJoy.stages.recreationstarved.label>
-  <NeedJoy.stages.recreationstarved.description>crwdns475392:0crwdne475392:0</NeedJoy.stages.recreationstarved.description>
-  <NeedJoy.stages.recreationdeprived.label>crwdns475394:0crwdne475394:0</NeedJoy.stages.recreationdeprived.label>
-  <NeedJoy.stages.recreationdeprived.description>crwdns475396:0crwdne475396:0</NeedJoy.stages.recreationdeprived.description>
-  <NeedJoy.stages.recreation_unfulfilled.label>crwdns475398:0crwdne475398:0</NeedJoy.stages.recreation_unfulfilled.label>
-  <NeedJoy.stages.recreation_unfulfilled.description>crwdns475400:0crwdne475400:0</NeedJoy.stages.recreation_unfulfilled.description>
-  <NeedJoy.stages.recreation_satisfied.label>crwdns475402:0crwdne475402:0</NeedJoy.stages.recreation_satisfied.label>
-  <NeedJoy.stages.recreation_satisfied.description>crwdns475404:0crwdne475404:0</NeedJoy.stages.recreation_satisfied.description>
-  <NeedJoy.stages.recreation_fully_satisfied.label>crwdns475406:0crwdne475406:0</NeedJoy.stages.recreation_fully_satisfied.label>
-  <NeedJoy.stages.recreation_fully_satisfied.description>crwdns475408:0crwdne475408:0</NeedJoy.stages.recreation_fully_satisfied.description>
-  
-  <NeedOutdoors.stages.entombed_underground.label>crwdns475410:0crwdne475410:0</NeedOutdoors.stages.entombed_underground.label>
-  <NeedOutdoors.stages.entombed_underground.description>crwdns475412:0crwdne475412:0</NeedOutdoors.stages.entombed_underground.description>
-  <NeedOutdoors.stages.trapped_underground.label>crwdns475414:0crwdne475414:0</NeedOutdoors.stages.trapped_underground.label>
-  <NeedOutdoors.stages.trapped_underground.description>crwdns475416:0crwdne475416:0</NeedOutdoors.stages.trapped_underground.description>
-  <NeedOutdoors.stages.cabin_fever.label>crwdns475418:0crwdne475418:0</NeedOutdoors.stages.cabin_fever.label>
-  <NeedOutdoors.stages.cabin_fever.description>crwdns475420:0crwdne475420:0</NeedOutdoors.stages.cabin_fever.description>
-  <NeedOutdoors.stages.trapped_indoors.label>crwdns475422:0crwdne475422:0</NeedOutdoors.stages.trapped_indoors.label>
-  <NeedOutdoors.stages.trapped_indoors.description>crwdns475424:0crwdne475424:0</NeedOutdoors.stages.trapped_indoors.description>
-  <NeedOutdoors.stages.stuck_indoors.label>crwdns475426:0crwdne475426:0</NeedOutdoors.stages.stuck_indoors.label>
-  <NeedOutdoors.stages.stuck_indoors.description>crwdns475428:0crwdne475428:0</NeedOutdoors.stages.stuck_indoors.description>
-  
-  <NeedRest.stages.drowsy.label>crwdns475430:0crwdne475430:0</NeedRest.stages.drowsy.label>
-  <NeedRest.stages.drowsy.description>crwdns475432:0crwdne475432:0</NeedRest.stages.drowsy.description>
-  <NeedRest.stages.tired.label>crwdns475434:0crwdne475434:0</NeedRest.stages.tired.label>
-  <NeedRest.stages.tired.description>crwdns475436:0crwdne475436:0</NeedRest.stages.tired.description>
-  <NeedRest.stages.exhausted.label>crwdns475438:0crwdne475438:0</NeedRest.stages.exhausted.label>
-  <NeedRest.stages.exhausted.description>crwdns475440:0crwdne475440:0</NeedRest.stages.exhausted.description>
-  
-  <NeedRoomSize.stages.confined_interior.label>crwdns475442:0crwdne475442:0</NeedRoomSize.stages.confined_interior.label>
-  <NeedRoomSize.stages.confined_interior.description>crwdns475444:0crwdne475444:0</NeedRoomSize.stages.confined_interior.description>
-  <NeedRoomSize.stages.cramped_interior.label>crwdns475446:0crwdne475446:0</NeedRoomSize.stages.cramped_interior.label>
-  <NeedRoomSize.stages.cramped_interior.description>crwdns475448:0crwdne475448:0</NeedRoomSize.stages.cramped_interior.description>
-  <NeedRoomSize.stages.spacious_interior.label>crwdns475450:0crwdne475450:0</NeedRoomSize.stages.spacious_interior.label>
-  <NeedRoomSize.stages.spacious_interior.description>crwdns475452:0crwdne475452:0</NeedRoomSize.stages.spacious_interior.description>
+  <NeedPlay.stages.desperately_wants_to_play.label>crwdns428212:0crwdne428212:0</NeedPlay.stages.desperately_wants_to_play.label>
+  <NeedPlay.stages.desperately_wants_to_play.description>crwdns428214:0crwdne428214:0</NeedPlay.stages.desperately_wants_to_play.description>
+  <NeedPlay.stages.really_wants_to_play.label>crwdns428216:0crwdne428216:0</NeedPlay.stages.really_wants_to_play.label>
+  <NeedPlay.stages.really_wants_to_play.description>crwdns428218:0crwdne428218:0</NeedPlay.stages.really_wants_to_play.description>
+  <NeedPlay.stages.wants_to_play.label>crwdns428220:0crwdne428220:0</NeedPlay.stages.wants_to_play.label>
+  <NeedPlay.stages.wants_to_play.description>crwdns428222:0crwdne428222:0</NeedPlay.stages.wants_to_play.description>
+  <NeedPlay.stages.entertained.label>crwdns428224:0crwdne428224:0</NeedPlay.stages.entertained.label>
+  <NeedPlay.stages.entertained.description>crwdns428226:0crwdne428226:0</NeedPlay.stages.entertained.description>
+  <NeedPlay.stages.very_entertained.label>crwdns428228:0crwdne428228:0</NeedPlay.stages.very_entertained.label>
+  <NeedPlay.stages.very_entertained.description>crwdns428230:0crwdne428230:0</NeedPlay.stages.very_entertained.description>
 </LanguageData>
