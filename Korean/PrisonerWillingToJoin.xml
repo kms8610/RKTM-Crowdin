@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PrisonerWillingToJoin.label>수감자 수용소</PrisonerWillingToJoin.label>
-  <PrisonerWillingToJoin.description>적들에게 붙잡힌 수감자입니다. 구조를 해준다면 합류합니다.</PrisonerWillingToJoin.description>
+  <PrisonerWillingToJoin.label>prisoner camp</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.description>A prisoner being held by enemies. Rescue them and they will join you.</PrisonerWillingToJoin.description>
 </LanguageData>
