@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Expectations.stages.skyhigh_expectations.label>crwdns474296:0crwdne474296:0</Expectations.stages.skyhigh_expectations.label>
-  <Expectations.stages.skyhigh_expectations.description>crwdns474298:0crwdne474298:0</Expectations.stages.skyhigh_expectations.description>
-  <Expectations.stages.high_expectations.label>crwdns474300:0crwdne474300:0</Expectations.stages.high_expectations.label>
-  <Expectations.stages.high_expectations.description>crwdns474302:0crwdne474302:0</Expectations.stages.high_expectations.description>
-  <Expectations.stages.moderate_expectations.label>crwdns474304:0crwdne474304:0</Expectations.stages.moderate_expectations.label>
-  <Expectations.stages.moderate_expectations.description>crwdns474306:0crwdne474306:0</Expectations.stages.moderate_expectations.description>
-  <Expectations.stages.low_expectations.label>crwdns474308:0crwdne474308:0</Expectations.stages.low_expectations.label>
-  <Expectations.stages.low_expectations.description>crwdns474310:0crwdne474310:0</Expectations.stages.low_expectations.description>
-  <Expectations.stages.very_low_expectations.label>crwdns474312:0crwdne474312:0</Expectations.stages.very_low_expectations.label>
-  <Expectations.stages.very_low_expectations.description>crwdns474314:0crwdne474314:0</Expectations.stages.very_low_expectations.description>
-  <Expectations.stages.extremely_low_expectations.label>crwdns474316:0crwdne474316:0</Expectations.stages.extremely_low_expectations.label>
-  <Expectations.stages.extremely_low_expectations.description>crwdns474318:0crwdne474318:0</Expectations.stages.extremely_low_expectations.description>
-  <Expectations.stages.noble_expectations.label>crwdns474320:0crwdne474320:0</Expectations.stages.noble_expectations.label>
-  <Expectations.stages.noble_expectations.description>crwdns474322:0crwdne474322:0</Expectations.stages.noble_expectations.description>
-  <Expectations.stages.royal_expectations.label>crwdns474324:0crwdne474324:0</Expectations.stages.royal_expectations.label>
-  <Expectations.stages.royal_expectations.description>crwdns474326:0crwdne474326:0</Expectations.stages.royal_expectations.description>
-  <Expectations.stages.elite_expectations.label>crwdns474328:0crwdne474328:0</Expectations.stages.elite_expectations.label>
-  <Expectations.stages.elite_expectations.description>crwdns474330:0crwdne474330:0</Expectations.stages.elite_expectations.description>
-  <Expectations.stages.supreme_expectations.label>crwdns474332:0crwdne474332:0</Expectations.stages.supreme_expectations.label>
-  <Expectations.stages.supreme_expectations.description>crwdns474334:0crwdne474334:0</Expectations.stages.supreme_expectations.description>
+  <RoleElite.label>crwdns430794:0crwdne430794:0</RoleElite.label>
+  
+  <RoleSupreme.label>crwdns430796:0crwdne430796:0</RoleSupreme.label>
 </LanguageData>
