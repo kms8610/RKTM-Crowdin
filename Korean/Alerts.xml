@@ -1,73 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AlertMechLacksOverseer>Uncontrolled mechs</AlertMechLacksOverseer>
-  <AlertMechLacksOverseerDesc>One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.</AlertMechLacksOverseerDesc>
-  <AlertMechLacksOverseerUncontrolled>The following mechanoids are uncontrolled</AlertMechLacksOverseerUncontrolled>
-  <AlertMechLacksOverseerMayGoFeral>The following mechanoids are uncontrolled and could go feral at any moment</AlertMechLacksOverseerMayGoFeral>
+  <NeedSlaveBeds>노예 침대 부족</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>침대 수보다 더 많은 노예가 존재합니다.\n\n침대를 더 만들거나, 기존의 침대를 노예 전용 침대로 전환하세요.\n\n침대를 만들 재료나 시간이 없다면 잠자리를 지정하세요.</NeedSlaveBedsDesc>
 
-  <AlertWarqueenHasLowResources>{0} is low on resources</AlertWarqueenHasLowResources>
-  <AlertWarqueenHasLowResourcesDesc>One or more {0} are low on resoures. They will be unable to produce mechs on command if they run out of resources.</AlertWarqueenHasLowResourcesDesc>
+  <SlavesUnsuppressedLabel>복종하지 않는 노예</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_nameDef}의 복종심이 너무 낮아 반란을 일으키기 직전입니다.\n\n간수 작업에 할당된 정착민이 있는지 확인하세요. 간수는 주기적으로 노예를 억압해서 반란을 방지합니다.</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>Slave unattended</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>Slaves unattended</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
 
-  <AlertLowDeathrestPawn>{PAWN} needs deathrest</AlertLowDeathrestPawn>
-  <AlertLowDeathrestPawns>{NUMCULPRITS} colonists need deathrest</AlertLowDeathrestPawns>
-  <AlertLowDeathrestDesc>A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS}</AlertLowDeathrestDesc>
+  <RitualOpportunity>{0} 시기</RitualOpportunity>
+  <RitualOpportunityFor>{1}(을)를 위한 {0} 기회</RitualOpportunityFor>
+  <RitualExpiresIn>{0} 후 {1}에 만료됩니다.</RitualExpiresIn>
+  <RitualSingleTargetDesc>의식을 시작하려면 {FOCUS}(을)를 선택하고 '{RITUAL_label} 시작' 명령을 클릭하세요.</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>의식을 시작하려면 다음 중 하나를 선택하고 '{RITUAL_label} 시작' 명령을 클릭하세요</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1}</RitualTargetsExplanation>
+  <RitualJumpToTargets>Click to jump to targets</RitualJumpToTargets>
+  <RitualUnfilledRoles>{0}(을)를 진행하려면 다음 지위가 필요함</RitualUnfilledRoles>
 
-  <AlertLowHemogen>Low hemogen</AlertLowHemogen>
-  <AlertLowHemogenDesc>A colonist has low hemogen. At zero hemogen, they will develop a painful hemogen craving.\n\nFeed them hemogen packs to prevent this. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nThe following colonists have low hemogen</AlertLowHemogenDesc>
+  <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{IDEO_name}(을)를 사용하려면 {2} 이상 동안 정착지에 {0}(이)가 있어야 합니다.\n\n{0}(은)는 {BASEBUILDING_label}의 변형입니다.{BUILDINGINFO}\n\n이 요구 사항은 다음과 같은 경우에만 활성화됩니다. {IDEO_name}(은)는 당신 세력의 주요 이념이거나 세력에 {MINBELIEVERS}명의 믿는 사람이 있는 경우에만 활성화됩니다.{4}\n\n요건이 충족되지 않으면 해당 인원은 불행해질 것입니다.\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc>건설 메뉴의 '{TABNAME}' 항목을 열어 찾을 수 있습니다.</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt> 다음 위치에 생성할 수 있습니다.\n{0}.</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
 
-  <AlertRechargerFull>Recharger full</AlertRechargerFull>
-  <AlertRechargerFullDesc>Some mech recharger(s) are storing their maximum number of toxic wastepacks. Mechs can't use these chargers until the toxic wastepacks are hauled away.\n\nSelect a colonist and right-click a recharger to unload it.</AlertRechargerFullDesc>
-
-  <AlertNeedMechChargers>Need mech rechargers</AlertNeedMechChargers>
-  <AlertNeedMechChargersDesc>You don't have rechargers for all your mechanoids. If a mech runs out of energy, it will fall into a dormant self-charging state and will recharge very slowly.\n\nBuild more of the following chargers:\n\n{0}\n\nNote: Only light mechanoids can use regular mech rechargers. Medium or heavier mechanoids require large mech rechargers.</AlertNeedMechChargersDesc>
-  <AlertNeedMechChargerBasicMechtech>Research basic mechtech or higher to build rechargers.</AlertNeedMechChargerBasicMechtech>
-
-  <AlertReimplantationAvailable>Reimplantation available</AlertReimplantationAvailable>
-  <AlertReimplantationAvailableDesc>{0_nameDef} is waiting to reimplant {0_possessive} xenogerm into one of your colonists.</AlertReimplantationAvailableDesc>
-
-  <AlertLowBabyFood>Low baby food</AlertLowBabyFood>
-  <AlertLowBabyFoodDesc>You are dangerously low on baby food.\n\n    Babies needing food: {0}\n    Days worth of baby food in storage: {1}\n\nBuy, find or make some baby-edible food. This includes {2}.</AlertLowBabyFoodDesc>
-  <AlertNoBabyFeeder>No baby feeders</AlertNoBabyFeeder>
-  <AlertNoBabyFeederDesc>No {FACTION_pawnsPlural} are assigned to feed these babies, or they're all downed.\n\nAssign one of your {FACTION_pawnsPlural} to childcare or assign a lactating {FACTION_pawnSingular} to feed these babies with Urgent priority in the babies' feeding tab, and ensure at least one of them is not downed.</AlertNoBabyFeederDesc>
-  <AlertAbandonedBaby>Abandoned baby</AlertAbandonedBaby> <!-- text_todo -->
-  <AlertAbandonedBabyDesc>There are abandoned babies nearby with no closeby caregivers.  If you don’t adopt the babies, it’s likely they'll starve to death.\n\nTo adopt a baby, select it and then select "{0}".</AlertAbandonedBabyDesc> <!-- text_todo -->
-
-  <AlertNoBabyFoodCaravan>No baby food in caravan</AlertNoBabyFoodCaravan>
-  <AlertNoBabyFoodCaravanDesc>Babies on this caravan have no baby food and no lactating {FACTION_pawnsPlural} are set to feed them.</AlertNoBabyFoodCaravanDesc>
-
-  <AlertToxicBuildup>Toxic buildup</AlertToxicBuildup>
-  <AlertToxicBuildupDesc>These colonists have serious toxic buildup:\n\n{0}\n\nMove them away from toxic sources.\n\nToxic buildup can be caused by many things including toxic fallout, tox gas, and polluted terrain.</AlertToxicBuildupDesc>
-
-  <AlertNeedBabyCribs>Need baby cribs</AlertNeedBabyCribs>
-  <AlertNeedBabyCribsDesc>You have more babies than cribs.\n\nMake more cribs or, if you have no resources to spare, place some baby sleeping spots for free.</AlertNeedBabyCribsDesc>
-  <AlertNeedSlaveCribs>Need slave cribs</AlertNeedSlaveCribs>
-  <AlertNeedSlaveCribsDesc>You have more slave babies than you have cribs marked for slave use.\n\nEither make more cribs or change a colonist crib to a slave crib.\n\nIf you have no resources, baby sleeping spots are free and can be placed instantly.</AlertNeedSlaveCribsDesc>
-
-  <AlertPollutedTerrain>Polluted terrain</AlertPollutedTerrain>
-  <AlertPollutedTerrainDesc>A person or animal is suffering toxic buildup and is on polluted terrain. Any time someone is on polluted terrain, their toxic buildup will increase over time until they die.\n\nThese people or animals are affected:\n\n{0}\n\nKeep people off polluted terrain, or find a way to protect them from its effects. Certain apparel, implants and gene modifications can protect from toxic buildup. Polluted terrain cannot be covered using a floor, but it can be cleaned by hand and other methods.</AlertPollutedTerrainDesc>
-
-  <AlertMechMissingBodyPart>Mechanoid missing part</AlertMechMissingBodyPart>
-  <AlertMechsMissingBodyPart>Mechanoids missing parts</AlertMechsMissingBodyPart>
-  <AlertMechMissingBodyPartDesc>One or more of your mechanoids are missing a body part. A mechanitor can repair lost parts.\n\nThe mechanoids with lost body parts are</AlertMechMissingBodyPartDesc>
-
-  <AlertMechNeedsRepair>Mechanoid repair needed</AlertMechNeedsRepair>
-  <AlertMechNeedsRepairDescPrefix>These mechanoids are damaged and need repair</AlertMechNeedsRepairDescPrefix>
-  <AlertMechNeedsRepairDesc>Order a mechanitor to repair them, or select the mech and turn on auto-repair. Repairing a mechanoid requires energy. If a mechanoid's energy is so low it can't move, someone must carry it to a recharger.</AlertMechNeedsRepairDesc>
+  <IdeoBuildingDisrespected>{0} disrespected</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>{0}(은)는 {1}(이)가 존중받는 공간이 되기를 바랍니다. 다음 요구사항을 만족시켜야 합니다.\n{2}\n\n{1}의 요구사항을 만족시키지 못하면 {0}(을)를 믿는 다음 정착민들의 기분이 나빠집니다.\n{3}</IdeoBuildingDisrespectedDesc>
   
-  <AlertToxifierGeneratorStopped>{0} stopped</AlertToxifierGeneratorStopped>
-  <AlertToxifierGeneratorStoppedDesc>Your {0} is not producing power because it has no nearby fertile terrain to convert.\n\nClean polluted terrain with pollution pumps, or by assigning a pollution removal area.</AlertToxifierGeneratorStoppedDesc>
+  <QuestPartRaidsDelay>습격 도착까지 {0}</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>{0} 후 적이 습격합니다.\n\n습격자들은 무인 우주선을 파괴하려 할 것입니다. 해킹으로 자료를 회수하는 동안 무인 우주선을 보호하세요.</QuestPartRaidsDelayDesc>
 
-  <AlertPsychicBondedPawnsSeparated>Psychic bond distance</AlertPsychicBondedPawnsSeparated>
-  <AlertPsychicBondedPawnsSeparatedDesc>Some colonists with psychic bonds have been separated and are feeling negative effects from the distance. To avoid this, people with a psychic bond must be in the same world tile, caravan, or vehicle. Additionally, they must not be in cryptosleep or similar suspended animation.\n\nThe following people are affected</AlertPsychicBondedPawnsSeparatedDesc>
+  <IdeoRoleEmpty>{0} 지위가 비어있음</IdeoRoleEmpty>
+  <IdeoRolesEmpty>{0} 지위가 비어있음</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>다음 지위가 공석입니다.\n{0}\n\n관계 탭에서 정착민에게 지위를 할당하거나 제단이나 행사 장소를 우클릭하여 취임식을 시작하세요.\n\n해당 지위가 계속 공석으로 남아있을 경우 다음 정착민이 실망합니다.</IdeoRolesEmptyDesc>
 
-  <AlertGenebankUnpowered>Gene bank needs power</AlertGenebankUnpowered>
-  <AlertGenebankUnpoweredDesc>A gene bank is unpowered, so the genepacks inside it are slowly deteriorating. Restore power to the gene bank to prevent the genepacks from deteriorating.\n\nOnce the gene bank is powered, it will slowly reverse the deterioration of the genepacks inside it.</AlertGenebankUnpoweredDesc>
+  <AncientAltarThreatsWaking>{0} 후 보안 시스템 활성화</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>보안 시스템이 {0} 후 발동합니다. 유물을 위협하는 자가 누구든 공격할 것입니다.</AncientAltarThreatsWakingDesc>
 
-  <AlertBossgroupIncoming>{0} incoming</AlertBossgroupIncoming>
-  <AlertBossgroupIncomingDesc>Signaled by your mechanitor, a hostile {0} is approaching with its combat escort. Be prepared, this won't be an easy fight. The hostile mechanoids will arrive in a few hours or days.</AlertBossgroupIncomingDesc>
+  <AlertRitualComing>행사 시기가 다가옴</AlertRitualComing>
+  <AlertRitualComingDesc>아래 행사를 진행할 시기가 다가옴</AlertRitualComingDesc>
+  <AlertRitualComingExtra>이 기회는 {0}일 후 만료되며, 매년 같은 시기에 다시 발생합니다.</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{1} ({2} 후)에 {0} 기회</AlertRitualComingEntry>
 
-  <AlertDeathrestComplete>Deathrest complete</AlertDeathrestComplete><!-- text_todo -->
-  <AlertDeathrestCompleteDesc>The following people have completed their deathrest and can wake up safely</AlertDeathrestCompleteDesc><!-- text_todo -->
+  <AlertAgeReversalDemandNear>노화 역전 요구</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>노화 역전 시술을 원하는 정착민들이 있습니다. 들어주지 않으면 불만이 생길 것입니다.\n\n시술을 원하는 정착민의 목록은 다음과 같습니다.</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>최근 {FACTION}에 합류한 {PAWN}(이)가 {DURATION} 내로 노화 역전 시술을 받고 싶어합니다.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN}(이)가 다음 시술을 {DURATION} 후 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN}(이)가 첫 시술을 {DURATION} 후 받고 싶어 합니다.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}의 노화 역전 시술이 {DURATION} 지연되고 있습니다.</AlertAgeReversalDemandDesc_Overdue>
 
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}의 사상, {IDEO_name}(으)로 인해 {ANIMALS} 고기를 먹을 수 없습니다.</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad caste not set</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>나무지기 계급을 선택하지 않은 요정나무가 한 그루 이상 존재합니다.\n\n나무를 선택 후 '{0}' 버튼을 클릭해서 나무지기 계급을 선택하세요.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>교감자가 제초 작업에 할당되지 않음</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>다듬어야 할 요정나무가 존재하지만 그 나무의 교감자를 제초 작업에 할당하지 않았습니다.\n\n아래의 사람에게 제초 작업을 할당해야 합니다</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <AlertFuelNodeIgniting>Fuel node explodes in {0}</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires.</AlertFuelNodeIgnitingDesc>
+
+  <AlertInfestationArriving>Insects arriving in {0}</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>거대 곤충 무리가 당신의 활동을 감지하고 지하로부터 접근하고 있습니다. 곧 곤충군락 감염이 시작됩니다.</AlertInfestationArrivingDesc>
+
+  <AlertHostilesWakingUp>{0_pawnsPlural} waking in {1}</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you.</AlertHostilesWakingUpDesc>
+
+  <AlertCasketOpening>Cryptosleep caskets opening in {0}</AlertCasketOpening>
+  <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
+
+  <AlertSlaveRebellionLikely>Slave rebellion likely</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion.</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>약 {COMBINEDTIME}마다 노예 반란이 일어날 가능성이 있습니다. 노예 각각의 반란 확률은 독립적이지만 한 명이 반란을 일으키면 주변 노예가 주모자에게 합류할 수 있음을 주의하세요.\n\n가장 반항적인 노예는 {REBEL_labelShort}(으)로, 약 {INDIVIDUALTIME}마다 반란을 도모할 것으로 예상됩니다. 다음은 {REBEL_labelShort}의 반란 주기에 영향을 주는 요소입니다:</AlertSlaveRebellionLikelyMostRebellious>
+  
 </LanguageData>
