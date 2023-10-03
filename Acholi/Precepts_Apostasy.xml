@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apostasy.label>crwdns432268:0crwdne432268:0</Apostasy.label>
+  <Apostasy_Abhorrent.label>crwdns436138:0crwdne436138:0</Apostasy_Abhorrent.label>
+  <Apostasy_Abhorrent.description>crwdns436140:0crwdne436140:0</Apostasy_Abhorrent.description>
+  <Apostasy_Abhorrent.comps.0.description>crwdns436142:0crwdne436142:0</Apostasy_Abhorrent.comps.0.description>
+  
+  <Apostasy_Disapproved.label>crwdns436144:0crwdne436144:0</Apostasy_Disapproved.label>
+  <Apostasy_Disapproved.description>crwdns436146:0crwdne436146:0</Apostasy_Disapproved.description>
+  <Apostasy_Disapproved.comps.0.description>crwdns436148:0crwdne436148:0</Apostasy_Disapproved.comps.0.description>
+  
+  <Apostasy_Horrible.label>crwdns436150:0crwdne436150:0</Apostasy_Horrible.label>
+  <Apostasy_Horrible.description>crwdns436152:0crwdne436152:0</Apostasy_Horrible.description>
+  <Apostasy_Horrible.comps.0.description>crwdns436154:0crwdne436154:0</Apostasy_Horrible.comps.0.description>
 </LanguageData>
