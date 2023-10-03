@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ambush.label>crwdns477272:0crwdne477272:0</Ambush.label>
-  <Ambush.description>crwdns477274:0crwdne477274:0</Ambush.description>
+  <Ambush.label>crwdns458580:0crwdne458580:0</Ambush.label>
+  <Ambush.letterLabel>crwdns458582:0crwdne458582:0</Ambush.letterLabel>
+  <Ambush.letterText>crwdns458584:0{0}crwdnd458584:0{1}crwdnd458584:0{2}crwdne458584:0</Ambush.letterText>
+  
+  <CaravanDemand.label>crwdns458586:0crwdne458586:0</CaravanDemand.label>
+  
+  <CaravanMeeting.label>crwdns458588:0crwdne458588:0</CaravanMeeting.label>
+  
+  <ManhunterAmbush.label>crwdns458590:0crwdne458590:0</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>crwdns458592:0crwdne458592:0</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>crwdns458594:0{0}crwdnd458594:0{1}crwdne458594:0</ManhunterAmbush.letterText>
 </LanguageData>
