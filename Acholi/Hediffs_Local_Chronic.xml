@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ExciseCarcinoma.label>crwdns461802:0crwdne461802:0</ExciseCarcinoma.label>
-  <ExciseCarcinoma.description>crwdns461804:0crwdne461804:0</ExciseCarcinoma.description>
-  <ExciseCarcinoma.jobString>crwdns461806:0crwdne461806:0</ExciseCarcinoma.jobString>
-  <ExciseCarcinoma.successfullyRemovedHediffMessage>crwdns461808:0{0}crwdnd461808:0{1}crwdne461808:0</ExciseCarcinoma.successfullyRemovedHediffMessage>
+  <Alzheimers.label>crwdns457654:0crwdne457654:0</Alzheimers.label>
+  <Alzheimers.description>crwdns457656:0crwdne457656:0</Alzheimers.description>
+  <Alzheimers.stages.minor-0.label>crwdns457658:0crwdne457658:0</Alzheimers.stages.minor-0.label>
+  <Alzheimers.stages.minor-1.label>crwdns457660:0crwdne457660:0</Alzheimers.stages.minor-1.label>
+  <Alzheimers.stages.major-0.label>crwdns457662:0crwdne457662:0</Alzheimers.stages.major-0.label>
+  <Alzheimers.stages.major-1.label>crwdns457664:0crwdne457664:0</Alzheimers.stages.major-1.label>
+  
+  <Asthma.label>crwdns457666:0crwdne457666:0</Asthma.label>
+  <Asthma.description>crwdns457668:0crwdne457668:0</Asthma.description>
+  <Asthma.stages.minor.label>crwdns457670:0crwdne457670:0</Asthma.stages.minor.label>
+  <Asthma.stages.major-0.label>crwdns457672:0crwdne457672:0</Asthma.stages.major-0.label>
+  <Asthma.stages.major-1.label>crwdns457674:0crwdne457674:0</Asthma.stages.major-1.label>
+  
+  <BadBack.label>crwdns457676:0crwdne457676:0</BadBack.label>
+  <BadBack.description>crwdns457678:0crwdne457678:0</BadBack.description>
+  <BadBack.labelNoun>crwdns457680:0crwdne457680:0</BadBack.labelNoun>
+  
+  <Blindness.label>crwdns457682:0crwdne457682:0</Blindness.label>
+  <Blindness.description>crwdns457684:0crwdne457684:0</Blindness.description>
+  
+  <Carcinoma.label>crwdns457686:0crwdne457686:0</Carcinoma.label>
+  <Carcinoma.description>crwdns457688:0crwdne457688:0</Carcinoma.description>
+  <Carcinoma.labelNoun>crwdns457690:0crwdne457690:0</Carcinoma.labelNoun>
+  <Carcinoma.stages.minor-0.label>crwdns457692:0crwdne457692:0</Carcinoma.stages.minor-0.label>
+  <Carcinoma.stages.minor-1.label>crwdns457694:0crwdne457694:0</Carcinoma.stages.minor-1.label>
+  <Carcinoma.stages.major-0.label>crwdns457696:0crwdne457696:0</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-1.label>crwdns457698:0crwdne457698:0</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.extreme-0.label>crwdns457700:0crwdne457700:0</Carcinoma.stages.extreme-0.label>
+  <Carcinoma.stages.extreme-1.label>crwdns457702:0crwdne457702:0</Carcinoma.stages.extreme-1.label>
+  
+  <Cataract.label>crwdns457704:0crwdne457704:0</Cataract.label>
+  <Cataract.description>crwdns457706:0crwdne457706:0</Cataract.description>
+  <Cataract.labelNoun>crwdns457708:0crwdne457708:0</Cataract.labelNoun>
+  
+  <Dementia.label>crwdns457710:0crwdne457710:0</Dementia.label>
+  <Dementia.description>crwdns457712:0crwdne457712:0</Dementia.description>
+  
+  <Frail.label>crwdns457714:0crwdne457714:0</Frail.label>
+  <Frail.description>crwdns457716:0crwdne457716:0</Frail.description>
+  <Frail.labelNoun>crwdns457718:0crwdne457718:0</Frail.labelNoun>
+  
+  <HearingLoss.label>crwdns457720:0crwdne457720:0</HearingLoss.label>
+  <HearingLoss.description>crwdns457722:0crwdne457722:0</HearingLoss.description>
+  
+  <HeartArteryBlockage.label>crwdns457724:0crwdne457724:0</HeartArteryBlockage.label>
+  <HeartArteryBlockage.description>crwdns457726:0crwdne457726:0</HeartArteryBlockage.description>
+  <HeartArteryBlockage.labelNoun>crwdns457728:0crwdne457728:0</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.stages.minor-0.label>crwdns457730:0crwdne457730:0</HeartArteryBlockage.stages.minor-0.label>
+  <HeartArteryBlockage.stages.minor-1.label>crwdns457732:0crwdne457732:0</HeartArteryBlockage.stages.minor-1.label>
+  <HeartArteryBlockage.stages.major-0.label>crwdns457734:0crwdne457734:0</HeartArteryBlockage.stages.major-0.label>
+  <HeartArteryBlockage.stages.major-1.label>crwdns457736:0crwdne457736:0</HeartArteryBlockage.stages.major-1.label>
+  <HeartArteryBlockage.stages.extreme.label>crwdns457738:0crwdne457738:0</HeartArteryBlockage.stages.extreme.label>
 </LanguageData>
