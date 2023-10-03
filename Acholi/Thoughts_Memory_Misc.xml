@@ -1,137 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteWithoutTable.stages.ate_without_table.label>crwdns474708:0crwdne474708:0</AteWithoutTable.stages.ate_without_table.label>
-  <AteWithoutTable.stages.ate_without_table.description>crwdns474710:0crwdne474710:0</AteWithoutTable.stages.ate_without_table.description>
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>crwdns442614:0crwdne442614:0</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.label>
+  <BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>crwdns442616:0crwdne442616:0</BiosculpterPleasure.stages.biosculpter_pleasure_cycle.description>
   
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>crwdns474712:0{0}crwdne474712:0</BondedAnimalBanished.stages.bonded_animal_banished.label>
-  <BondedAnimalBanished.stages.bonded_animal_banished.description>crwdns474714:0crwdne474714:0</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <ConnectedTreeDied.stages.Gauranlen_death.label>crwdns442618:0crwdne442618:0</ConnectedTreeDied.stages.Gauranlen_death.label>
+  <ConnectedTreeDied.stages.Gauranlen_death.description>crwdns442620:0crwdne442620:0</ConnectedTreeDied.stages.Gauranlen_death.description>
   
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>crwdns474716:0crwdne474716:0</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>crwdns474718:0crwdne474718:0</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <DryadDied.stages.dryad_died.label>crwdns442622:0crwdne442622:0</DryadDied.stages.dryad_died.label>
+  <DryadDied.stages.dryad_died.description>crwdns442624:0crwdne442624:0</DryadDied.stages.dryad_died.description>
   
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>crwdns474720:0crwdne474720:0</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  <RelicsCollected.stages.all_relics_collected.label>crwdns442626:0crwdne442626:0</RelicsCollected.stages.all_relics_collected.label>
+  <RelicsCollected.stages.all_relics_collected.description>crwdns442628:0crwdne442628:0</RelicsCollected.stages.all_relics_collected.description>
   
-  <Catharsis.stages.catharsis.label>crwdns474722:0crwdne474722:0</Catharsis.stages.catharsis.label>
-  <Catharsis.stages.catharsis.description>crwdns474724:0crwdne474724:0</Catharsis.stages.catharsis.description>
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.label>crwdns442630:0crwdne442630:0</SleptInRoomWithSlave.stages.shared_room_with_slave.label>
+  <SleptInRoomWithSlave.stages.shared_room_with_slave.description>crwdns442632:0crwdne442632:0</SleptInRoomWithSlave.stages.shared_room_with_slave.description>
   
-  <ColonistBanished.stages.colonist_banished.label>crwdns474726:0crwdne474726:0</ColonistBanished.stages.colonist_banished.label>
-  <ColonistBanished.stages.colonist_banished.description>crwdns474728:0crwdne474728:0</ColonistBanished.stages.colonist_banished.description>
-  
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>crwdns474730:0crwdne474730:0</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>crwdns474732:0crwdne474732:0</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
-  
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>crwdns474734:0crwdne474734:0</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>crwdns474736:0crwdne474736:0</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
-  
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>crwdns474738:0{0}crwdne474738:0</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>crwdns474740:0crwdne474740:0</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
-  
-  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>crwdns474742:0crwdne474742:0</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
-  
-  <DefeatedInsectHive.stages.defeated_insect_hive.label>crwdns474744:0crwdne474744:0</DefeatedInsectHive.stages.defeated_insect_hive.label>
-  <DefeatedInsectHive.stages.defeated_insect_hive.description>crwdns474746:0crwdne474746:0</DefeatedInsectHive.stages.defeated_insect_hive.description>
-  
-  <DefeatedMechCluster.stages.defeated_mech_cluster.label>crwdns474748:0crwdne474748:0</DefeatedMechCluster.stages.defeated_mech_cluster.label>
-  <DefeatedMechCluster.stages.defeated_mech_cluster.description>crwdns474750:0crwdne474750:0</DefeatedMechCluster.stages.defeated_mech_cluster.description>
-  
-  <DeniedJoining.stages.denied_joining.label>crwdns474752:0crwdne474752:0</DeniedJoining.stages.denied_joining.label>
-  <DeniedJoining.stages.denied_joining.description>crwdns474754:0crwdne474754:0</DeniedJoining.stages.denied_joining.description>
-  
-  <FailedToRescueRelative.stages.failed_to_rescue.label>crwdns474756:0{0}crwdne474756:0</FailedToRescueRelative.stages.failed_to_rescue.label>
-  <FailedToRescueRelative.stages.failed_to_rescue.description>crwdns474758:0crwdne474758:0</FailedToRescueRelative.stages.failed_to_rescue.description>
-  
-  <FreedFromSlavery.stages.freed_from_slavery.label>crwdns474760:0crwdne474760:0</FreedFromSlavery.stages.freed_from_slavery.label>
-  <FreedFromSlavery.stages.freed_from_slavery.description>crwdns474762:0crwdne474762:0</FreedFromSlavery.stages.freed_from_slavery.description>
-  
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>crwdns474764:0crwdne474764:0</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>crwdns474766:0crwdne474766:0</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
-  
-  <KilledHumanlikeBloodlust.stages.killed_someone.label>crwdns474768:0crwdne474768:0</KilledHumanlikeBloodlust.stages.killed_someone.label>
-  <KilledHumanlikeBloodlust.stages.killed_someone.description>crwdns474770:0crwdne474770:0</KilledHumanlikeBloodlust.stages.killed_someone.description>
-  
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>crwdns474772:0crwdne474772:0</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>crwdns474774:0crwdne474774:0</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
-  
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>crwdns474776:0crwdne474776:0</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>crwdns474778:0crwdne474778:0</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
-  
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>crwdns474780:0crwdne474780:0</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>crwdns474782:0crwdne474782:0</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
-  
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>crwdns474784:0crwdne474784:0</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>crwdns474786:0crwdne474786:0</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
-  
-  <KnowPrisonerSold.stages.prisoner_sold.label>crwdns474788:0crwdne474788:0</KnowPrisonerSold.stages.prisoner_sold.label>
-  <KnowPrisonerSold.stages.prisoner_sold.description>crwdns474790:0crwdne474790:0</KnowPrisonerSold.stages.prisoner_sold.description>
-  
-  <MyOrganHarvested.stages.my_organ_harvested.label>crwdns474792:0crwdne474792:0</MyOrganHarvested.stages.my_organ_harvested.label>
-  <MyOrganHarvested.stages.my_organ_harvested.description>crwdns474794:0crwdne474794:0</MyOrganHarvested.stages.my_organ_harvested.description>
-  
-  <NewColonyHope.stages.initial_hope.label>crwdns474796:0crwdne474796:0</NewColonyHope.stages.initial_hope.label>
-  <NewColonyHope.stages.initial_hope.description>crwdns474798:0crwdne474798:0</NewColonyHope.stages.initial_hope.description>
-  
-  <NewColonyOptimism.stages.initial_optimism.label>crwdns474800:0crwdne474800:0</NewColonyOptimism.stages.initial_optimism.label>
-  <NewColonyOptimism.stages.initial_optimism.description>crwdns474802:0crwdne474802:0</NewColonyOptimism.stages.initial_optimism.description>
-  
-  <Nuzzled.stages.nuzzled.label>crwdns474804:0crwdne474804:0</Nuzzled.stages.nuzzled.label>
-  <Nuzzled.stages.nuzzled.description>crwdns474806:0crwdne474806:0</Nuzzled.stages.nuzzled.description>
-  
-  <ObservedLayingCorpse.stages.observed_corpse.label>crwdns474808:0crwdne474808:0</ObservedLayingCorpse.stages.observed_corpse.label>
-  <ObservedLayingCorpse.stages.observed_corpse.description>crwdns474810:0crwdne474810:0</ObservedLayingCorpse.stages.observed_corpse.description>
-  
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>crwdns474812:0crwdne474812:0</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>crwdns474814:0crwdne474814:0</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
-  
-  <OnDuty.stages.on_duty.label>crwdns474816:0crwdne474816:0</OnDuty.stages.on_duty.label>
-  <OnDuty.stages.on_duty.description>crwdns474818:0crwdne474818:0</OnDuty.stages.on_duty.description>
-  
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>crwdns474820:0crwdne474820:0</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>crwdns474822:0crwdne474822:0</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
-  
-  <ReleasedHealthyPrisoner.stages.prisoner_released.label>crwdns474824:0crwdne474824:0</ReleasedHealthyPrisoner.stages.prisoner_released.label>
-  <ReleasedHealthyPrisoner.stages.prisoner_released.description>crwdns474826:0crwdne474826:0</ReleasedHealthyPrisoner.stages.prisoner_released.description>
-  
-  <Rescued.stages.rescued.label>crwdns474828:0crwdne474828:0</Rescued.stages.rescued.label>
-  <Rescued.stages.rescued.description>crwdns474830:0crwdne474830:0</Rescued.stages.rescued.description>
-  
-  <RescuedRelative.stages.rescued.label>crwdns474832:0{0}crwdne474832:0</RescuedRelative.stages.rescued.label>
-  <RescuedRelative.stages.rescued.description>crwdns474834:0crwdne474834:0</RescuedRelative.stages.rescued.description>
-  
-  <SleepDisturbed.stages.disturbed_sleep.label>crwdns474836:0crwdne474836:0</SleepDisturbed.stages.disturbed_sleep.label>
-  <SleepDisturbed.stages.disturbed_sleep.description>crwdns474838:0crwdne474838:0</SleepDisturbed.stages.disturbed_sleep.description>
-  
-  <SleptInCold.stages.slept_in_the_cold.label>crwdns474840:0crwdne474840:0</SleptInCold.stages.slept_in_the_cold.label>
-  <SleptInCold.stages.slept_in_the_cold.description>crwdns474842:0crwdne474842:0</SleptInCold.stages.slept_in_the_cold.description>
-  
-  <SleptInHeat.stages.slept_in_the_heat.label>crwdns474844:0crwdne474844:0</SleptInHeat.stages.slept_in_the_heat.label>
-  <SleptInHeat.stages.slept_in_the_heat.description>crwdns474846:0crwdne474846:0</SleptInHeat.stages.slept_in_the_heat.description>
-  
-  <SleptOnGround.stages.slept_on_ground.label>crwdns474848:0crwdne474848:0</SleptOnGround.stages.slept_on_ground.label>
-  <SleptOnGround.stages.slept_on_ground.description>crwdns474850:0crwdne474850:0</SleptOnGround.stages.slept_on_ground.description>
-  
-  <SleptOutside.stages.slept_outside.label>crwdns474852:0crwdne474852:0</SleptOutside.stages.slept_outside.label>
-  <SleptOutside.stages.slept_outside.description>crwdns474854:0crwdne474854:0</SleptOutside.stages.slept_outside.description>
-  
-  <SoakingWet.stages.soaking_wet.label>crwdns474856:0crwdne474856:0</SoakingWet.stages.soaking_wet.label>
-  <SoakingWet.stages.soaking_wet.description>crwdns474858:0crwdne474858:0</SoakingWet.stages.soaking_wet.description>
-  
-  <TravelAnticipation.stages.eager_to_travel.label>crwdns474860:0crwdne474860:0</TravelAnticipation.stages.eager_to_travel.label>
-  <TravelAnticipation.stages.eager_to_travel.description>crwdns474862:0crwdne474862:0</TravelAnticipation.stages.eager_to_travel.description>
-  <TravelAnticipation.stages.excited_to_travel.label>crwdns474864:0crwdne474864:0</TravelAnticipation.stages.excited_to_travel.label>
-  <TravelAnticipation.stages.excited_to_travel.description>crwdns474866:0crwdne474866:0</TravelAnticipation.stages.excited_to_travel.description>
-  
-  <WasImprisoned.stages.was_imprisoned.label>crwdns474868:0crwdne474868:0</WasImprisoned.stages.was_imprisoned.label>
-  <WasImprisoned.stages.was_imprisoned.description>crwdns474870:0crwdne474870:0</WasImprisoned.stages.was_imprisoned.description>
-  
-  <WitnessedDeathAlly.stages.witnessed_allys_death.label>crwdns474872:0crwdne474872:0</WitnessedDeathAlly.stages.witnessed_allys_death.label>
-  <WitnessedDeathAlly.stages.witnessed_allys_death.description>crwdns474874:0crwdne474874:0</WitnessedDeathAlly.stages.witnessed_allys_death.description>
-  
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>crwdns474876:0crwdne474876:0</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>
-  <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>crwdns474878:0crwdne474878:0</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.description>
-  
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.label>crwdns474880:0crwdne474880:0</WitnessedDeathFamily.stages.witnessed_family_members_death.label>
-  <WitnessedDeathFamily.stages.witnessed_family_members_death.description>crwdns474882:0crwdne474882:0</WitnessedDeathFamily.stages.witnessed_family_members_death.description>
-  
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>crwdns474884:0crwdne474884:0</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.label>
-  <WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>crwdns474886:0crwdne474886:0</WitnessedDeathNonAlly.stages.witnessed_outsiders_death.description>
+  <WasEnslaved.stages.was_enslaved.label>crwdns442634:0crwdne442634:0</WasEnslaved.stages.was_enslaved.label>
+  <WasEnslaved.stages.was_enslaved.description>crwdns442636:0crwdne442636:0</WasEnslaved.stages.was_enslaved.description>
 </LanguageData>
