@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_AirwireHeadset.label>crwdns427090:0crwdne427090:0</Apparel_AirwireHeadset.label>
-  <Apparel_AirwireHeadset.description>crwdns427092:0crwdne427092:0</Apparel_AirwireHeadset.description>
+  <Apparel_AuthorityCap.label>crwdns440100:0crwdne440100:0</Apparel_AuthorityCap.label>
+  <Apparel_AuthorityCap.description>crwdns440102:0crwdne440102:0</Apparel_AuthorityCap.description>
   
-  <Apparel_ArmorHelmetMechCommander.label>crwdns427094:0crwdne427094:0</Apparel_ArmorHelmetMechCommander.label>
-  <Apparel_ArmorHelmetMechCommander.description>crwdns427096:0crwdne427096:0</Apparel_ArmorHelmetMechCommander.description>
+  <Apparel_Broadwrap.label>crwdns440104:0crwdne440104:0</Apparel_Broadwrap.label>
+  <Apparel_Broadwrap.description>crwdns440106:0crwdne440106:0</Apparel_Broadwrap.description>
   
-  <Apparel_ArmorHelmetMechlordHelmet.label>crwdns427098:0crwdne427098:0</Apparel_ArmorHelmetMechlordHelmet.label>
-  <Apparel_ArmorHelmetMechlordHelmet.description>crwdns427100:0crwdne427100:0</Apparel_ArmorHelmetMechlordHelmet.description>
+  <Apparel_Collar.label>crwdns440108:0crwdne440108:0</Apparel_Collar.label>
+  <Apparel_Collar.description>crwdns440110:0crwdne440110:0</Apparel_Collar.description>
   
-  <Apparel_ArrayHeadset.label>crwdns427102:0crwdne427102:0</Apparel_ArrayHeadset.label>
-  <Apparel_ArrayHeadset.description>crwdns427104:0crwdne427104:0</Apparel_ArrayHeadset.description>
+  <Apparel_Flophat.label>crwdns440112:0crwdne440112:0</Apparel_Flophat.label>
+  <Apparel_Flophat.description>crwdns440114:0crwdne440114:0</Apparel_Flophat.description>
   
-  <Apparel_ClothMask.label>crwdns427106:0crwdne427106:0</Apparel_ClothMask.label>
-  <Apparel_ClothMask.description>crwdns427108:0crwdne427108:0</Apparel_ClothMask.description>
+  <Apparel_Headwrap.label>crwdns440116:0crwdne440116:0</Apparel_Headwrap.label>
+  <Apparel_Headwrap.description>crwdns440118:0crwdne440118:0</Apparel_Headwrap.description>
   
-  <Apparel_GasMask.label>crwdns427110:0crwdne427110:0</Apparel_GasMask.label>
-  <Apparel_GasMask.description>crwdns427112:0crwdne427112:0</Apparel_GasMask.description>
+  <Apparel_Shadecone.label>crwdns440120:0crwdne440120:0</Apparel_Shadecone.label>
+  <Apparel_Shadecone.description>crwdns440122:0crwdne440122:0</Apparel_Shadecone.description>
   
-  <Apparel_IntegratorHeadset.label>crwdns427114:0crwdne427114:0</Apparel_IntegratorHeadset.label>
-  <Apparel_IntegratorHeadset.description>crwdns427116:0crwdne427116:0</Apparel_IntegratorHeadset.description>
+  <Apparel_Slicecap.label>crwdns440124:0crwdne440124:0</Apparel_Slicecap.label>
+  <Apparel_Slicecap.description>crwdns440126:0crwdne440126:0</Apparel_Slicecap.description>
+  
+  <Apparel_Tailcap.label>crwdns440128:0crwdne440128:0</Apparel_Tailcap.label>
+  <Apparel_Tailcap.description>crwdns440130:0crwdne440130:0</Apparel_Tailcap.description>
+  
+  <Apparel_VisageMask.label>crwdns440132:0crwdne440132:0</Apparel_VisageMask.label>
+  <Apparel_VisageMask.description>crwdns440134:0crwdne440134:0</Apparel_VisageMask.description>
 </LanguageData>
