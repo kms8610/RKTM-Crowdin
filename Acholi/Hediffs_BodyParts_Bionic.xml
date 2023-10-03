@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BionicArm.label>crwdns457328:0crwdne457328:0</BionicArm.label>
-  <BionicArm.description>crwdns457330:0crwdne457330:0</BionicArm.description>
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>crwdns457332:0crwdne457332:0</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <BionicArm.labelNoun>crwdns457334:0crwdne457334:0</BionicArm.labelNoun>
+  <InstallBionicArm.label>crwdns461652:0crwdne461652:0</InstallBionicArm.label>
+  <InstallBionicArm.description>crwdns461654:0crwdne461654:0</InstallBionicArm.description>
+  <InstallBionicArm.jobString>crwdns461656:0crwdne461656:0</InstallBionicArm.jobString>
   
-  <BionicEar.label>crwdns457336:0crwdne457336:0</BionicEar.label>
-  <BionicEar.description>crwdns457338:0crwdne457338:0</BionicEar.description>
-  <BionicEar.labelNoun>crwdns457340:0crwdne457340:0</BionicEar.labelNoun>
+  <InstallBionicEar.label>crwdns461658:0crwdne461658:0</InstallBionicEar.label>
+  <InstallBionicEar.description>crwdns461660:0crwdne461660:0</InstallBionicEar.description>
+  <InstallBionicEar.jobString>crwdns461662:0crwdne461662:0</InstallBionicEar.jobString>
   
-  <BionicEye.label>crwdns457342:0crwdne457342:0</BionicEye.label>
-  <BionicEye.description>crwdns457344:0crwdne457344:0</BionicEye.description>
-  <BionicEye.labelNoun>crwdns457346:0crwdne457346:0</BionicEye.labelNoun>
+  <InstallBionicEye.label>crwdns461664:0crwdne461664:0</InstallBionicEye.label>
+  <InstallBionicEye.description>crwdns461666:0crwdne461666:0</InstallBionicEye.description>
+  <InstallBionicEye.jobString>crwdns461668:0crwdne461668:0</InstallBionicEye.jobString>
   
-  <BionicHeart.label>crwdns457348:0crwdne457348:0</BionicHeart.label>
-  <BionicHeart.description>crwdns457350:0crwdne457350:0</BionicHeart.description>
-  <BionicHeart.labelNoun>crwdns457352:0crwdne457352:0</BionicHeart.labelNoun>
+  <InstallBionicHeart.label>crwdns461670:0crwdne461670:0</InstallBionicHeart.label>
+  <InstallBionicHeart.description>crwdns461672:0crwdne461672:0</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>crwdns461674:0crwdne461674:0</InstallBionicHeart.jobString>
   
-  <BionicLeg.label>crwdns457354:0crwdne457354:0</BionicLeg.label>
-  <BionicLeg.description>crwdns457356:0crwdne457356:0</BionicLeg.description>
-  <BionicLeg.labelNoun>crwdns457358:0crwdne457358:0</BionicLeg.labelNoun>
+  <InstallBionicLeg.label>crwdns461676:0crwdne461676:0</InstallBionicLeg.label>
+  <InstallBionicLeg.description>crwdns461678:0crwdne461678:0</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>crwdns461680:0crwdne461680:0</InstallBionicLeg.jobString>
   
-  <BionicSpine.label>crwdns457360:0crwdne457360:0</BionicSpine.label>
-  <BionicSpine.description>crwdns457362:0crwdne457362:0</BionicSpine.description>
-  <BionicSpine.labelNoun>crwdns457364:0crwdne457364:0</BionicSpine.labelNoun>
+  <InstallBionicSpine.label>crwdns461682:0crwdne461682:0</InstallBionicSpine.label>
+  <InstallBionicSpine.description>crwdns461684:0crwdne461684:0</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>crwdns461686:0crwdne461686:0</InstallBionicSpine.jobString>
   
-  <BionicStomach.label>crwdns457366:0crwdne457366:0</BionicStomach.label>
-  <BionicStomach.description>crwdns457368:0crwdne457368:0</BionicStomach.description>
-  <BionicStomach.labelNoun>crwdns457370:0crwdne457370:0</BionicStomach.labelNoun>
+  <InstallBionicStomach.label>crwdns461688:0crwdne461688:0</InstallBionicStomach.label>
+  <InstallBionicStomach.description>crwdns461690:0crwdne461690:0</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>crwdns461692:0crwdne461692:0</InstallBionicStomach.jobString>
   
-  <BionicTongue.label>crwdns457372:0crwdne457372:0</BionicTongue.label>
-  <BionicTongue.description>crwdns457374:0crwdne457374:0</BionicTongue.description>
-  <BionicTongue.labelNoun>crwdns457376:0crwdne457376:0</BionicTongue.labelNoun>
+  <InstallBionicTongue.label>crwdns461694:0crwdne461694:0</InstallBionicTongue.label>
+  <InstallBionicTongue.description>crwdns461696:0crwdne461696:0</InstallBionicTongue.description>
+  <InstallBionicTongue.jobString>crwdns461698:0crwdne461698:0</InstallBionicTongue.jobString>
   
-  <DeathAcidifier.label>crwdns457378:0crwdne457378:0</DeathAcidifier.label>
-  <DeathAcidifier.description>crwdns457380:0crwdne457380:0</DeathAcidifier.description>
-  <DeathAcidifier.labelNoun>crwdns457382:0crwdne457382:0</DeathAcidifier.labelNoun>
+  <InstallDeathAcidifier.label>crwdns461700:0crwdne461700:0</InstallDeathAcidifier.label>
+  <InstallDeathAcidifier.description>crwdns461702:0crwdne461702:0</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.jobString>crwdns461704:0crwdne461704:0</InstallDeathAcidifier.jobString>
 </LanguageData>
