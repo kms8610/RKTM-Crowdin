@@ -1,32 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beggars.label>beggars</Beggars.label>
-  <Beggars.description>A group of beggars seeking charity.</Beggars.description>
-  <Beggars.leaderTitle>leader</Beggars.leaderTitle>
-  <Beggars.pawnSingular>beggar</Beggars.pawnSingular>
-  <Beggars.pawnsPlural>beggars</Beggars.pawnsPlural>
+  <OutlanderRoughPig.label>rough pig union</OutlanderRoughPig.label>
+  <OutlanderRoughPig.description>A loose union of hardy pigskin townships. They're willing to make friends, even with thinsnouts, but they're also ready to toss a bomb and gnaw human gristle when it suits them. Treat them with respect and they'll offer a trotter to an ally in need. Turn against them and the last thing you hear might be a triumphant battle squeal.</OutlanderRoughPig.description>
+  <OutlanderRoughPig.leaderTitle>prime councilor</OutlanderRoughPig.leaderTitle>
+  <OutlanderRoughPig.pawnSingular>pig</OutlanderRoughPig.pawnSingular>
+  <OutlanderRoughPig.pawnsPlural>pigs</OutlanderRoughPig.pawnsPlural>
   
-  <CannibalPirate.label>cannibal pirate gang</CannibalPirate.label>
-  <CannibalPirate.description>A loose confederation of pirate groups who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.\n\nThis particular gang of pirates are cannibals.</CannibalPirate.description>
-  <CannibalPirate.leaderTitle>boss</CannibalPirate.leaderTitle>
-  <CannibalPirate.pawnSingular>pirate</CannibalPirate.pawnSingular>
-  <CannibalPirate.pawnsPlural>pirates</CannibalPirate.pawnsPlural>
+  <PirateWaster.label>waster pirates</PirateWaster.label>
+  <PirateWaster.description>A loose collection of violent pirate bands made up primarily of wasters - xenohumans engineered to thrive around toxins and pollution. They have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.</PirateWaster.description>
+  <PirateWaster.leaderTitle>boss</PirateWaster.leaderTitle>
+  <PirateWaster.pawnSingular>waster</PirateWaster.pawnSingular>
+  <PirateWaster.pawnsPlural>wasters</PirateWaster.pawnsPlural>
   
-  <NudistTribe.label>nudist tribe</NudistTribe.label>
-  <NudistTribe.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe believes that covering one's body is wrong.</NudistTribe.description>
-  <NudistTribe.leaderTitle>chief</NudistTribe.leaderTitle>
-  <NudistTribe.pawnSingular>tribesman</NudistTribe.pawnSingular>
-  <NudistTribe.pawnsPlural>tribespeople</NudistTribe.pawnsPlural>
+  <PirateYttakin.label>yttakin pirates</PirateYttakin.label>
+  <PirateYttakin.description>A close-knit band of hulking, fur-bodied pirates of the yttakin xenotype. They refuse to deal with outsiders and are quick to call their animal warriors against those who disrespect them - or whose wealth they intend to take.\n\nOriginally engineered to populate the icy planet Yttak, yttakin now pursue their traditional lifestyle on many worlds.</PirateYttakin.description>
+  <PirateYttakin.leaderTitle>boss</PirateYttakin.leaderTitle>
+  <PirateYttakin.pawnSingular>yttakin</PirateYttakin.pawnSingular>
+  <PirateYttakin.pawnsPlural>yttakin</PirateYttakin.pawnsPlural>
   
-  <Pilgrims.label>pilgrims</Pilgrims.label>
-  <Pilgrims.description>A group of pilgrims seeking to venerate an ancient relic.</Pilgrims.description>
-  <Pilgrims.leaderTitle>leader</Pilgrims.leaderTitle>
-  <Pilgrims.pawnSingular>pilgrim</Pilgrims.pawnSingular>
-  <Pilgrims.pawnsPlural>pilgrims</Pilgrims.pawnsPlural>
+  <Sanguophages.label>sanguophages</Sanguophages.label>
+  <Sanguophages.description>A group of ancient sanguophages.</Sanguophages.description>
+  <Sanguophages.leaderTitle>leader</Sanguophages.leaderTitle>
+  <Sanguophages.pawnSingular>sanguophage</Sanguophages.pawnSingular>
+  <Sanguophages.pawnsPlural>sanguophages</Sanguophages.pawnsPlural>
   
-  <TribeCannibal.label>cannibal tribe</TribeCannibal.label>
-  <TribeCannibal.description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particularly vicious tribe believes eating the flesh of their enemies is a great honor.</TribeCannibal.description>
-  <TribeCannibal.leaderTitle>chief</TribeCannibal.leaderTitle>
-  <TribeCannibal.pawnSingular>tribesman</TribeCannibal.pawnSingular>
-  <TribeCannibal.pawnsPlural>tribespeople</TribeCannibal.pawnsPlural>
+  <TribeRoughNeanderthal.label>fierce neanderthal tribe</TribeRoughNeanderthal.label>
+  <TribeRoughNeanderthal.description>An unfriendly, territorial tribe of neanderthals. They are open to peaceful trade, but are otherwise unfriendly and territorial. Warriors from their tribe won't hesitate to bash in the skulls of anyone they deem dangerous. Their numbers, and the extreme amounts of damage they absorb before falling make them serious foes despite their lack of technology and analytical ability.\n\nHaving been on this planet for countless generations, they have no memory of how they got here. They might be the descendants of a neanderthal service caste from a dead civilization, or even the leftovers from some ancient science experiment.</TribeRoughNeanderthal.description>
+  <TribeRoughNeanderthal.leaderTitle>chief</TribeRoughNeanderthal.leaderTitle>
+  <TribeRoughNeanderthal.pawnSingular>neanderthal</TribeRoughNeanderthal.pawnSingular>
+  <TribeRoughNeanderthal.pawnsPlural>neanderthals</TribeRoughNeanderthal.pawnsPlural>
+  
+  <TribeSavageImpid.label>savage impid tribe</TribeSavageImpid.label>
+  <TribeSavageImpid.description>A vicious tribe of yellow-skinned, fire-spewing impids. This particular tribe has no intention of coexisting peacefully with anyone else. Their warriors are experts at using their natural speed and flame attacks to burn the towns and children of other peoples.\n\nHaving been here for thousands of years, the origins of this tribe are lost in myth. They might descend from a group of settlers who lost their technology, or an impid community in some long-ruined civilization.</TribeSavageImpid.description>
+  <TribeSavageImpid.leaderTitle>chief</TribeSavageImpid.leaderTitle>
+  <TribeSavageImpid.pawnSingular>imp</TribeSavageImpid.pawnSingular>
+  <TribeSavageImpid.pawnsPlural>imps</TribeSavageImpid.pawnsPlural>
 </LanguageData>
