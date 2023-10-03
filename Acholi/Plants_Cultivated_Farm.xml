@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Plant_Corn.label>crwdns472900:0crwdne472900:0</Plant_Corn.label>
-  <Plant_Corn.description>crwdns472902:0crwdne472902:0</Plant_Corn.description>
-  
-  <Plant_Cotton.label>crwdns472904:0crwdne472904:0</Plant_Cotton.label>
-  <Plant_Cotton.description>crwdns472906:0crwdne472906:0</Plant_Cotton.description>
-  
-  <Plant_Devilstrand.label>crwdns472908:0crwdne472908:0</Plant_Devilstrand.label>
-  <Plant_Devilstrand.description>crwdns472910:0crwdne472910:0</Plant_Devilstrand.description>
-  
-  <Plant_Haygrass.label>crwdns472912:0crwdne472912:0</Plant_Haygrass.label>
-  <Plant_Haygrass.description>crwdns472914:0crwdne472914:0</Plant_Haygrass.description>
-  
-  <Plant_Healroot.label>crwdns472916:0crwdne472916:0</Plant_Healroot.label>
-  <Plant_Healroot.description>crwdns472918:0crwdne472918:0</Plant_Healroot.description>
-  
-  <Plant_Hops.label>crwdns472920:0crwdne472920:0</Plant_Hops.label>
-  <Plant_Hops.description>crwdns472922:0crwdne472922:0</Plant_Hops.description>
-  
-  <Plant_Potato.label>crwdns472924:0crwdne472924:0</Plant_Potato.label>
-  <Plant_Potato.description>crwdns472926:0crwdne472926:0</Plant_Potato.description>
-  
-  <Plant_Psychoid.label>crwdns472928:0crwdne472928:0</Plant_Psychoid.label>
-  <Plant_Psychoid.description>crwdns472930:0crwdne472930:0</Plant_Psychoid.description>
-  
-  <Plant_Rice.label>crwdns472932:0crwdne472932:0</Plant_Rice.label>
-  <Plant_Rice.description>crwdns472934:0crwdne472934:0</Plant_Rice.description>
-  
-  <Plant_Smokeleaf.label>crwdns472936:0crwdne472936:0</Plant_Smokeleaf.label>
-  <Plant_Smokeleaf.description>crwdns472938:0crwdne472938:0</Plant_Smokeleaf.description>
-  
-  <Plant_Strawberry.label>crwdns472940:0crwdne472940:0</Plant_Strawberry.label>
-  <Plant_Strawberry.description>crwdns472942:0crwdne472942:0</Plant_Strawberry.description>
-  
-  <Plant_TreeCocoa.label>crwdns472944:0crwdne472944:0</Plant_TreeCocoa.label>
-  <Plant_TreeCocoa.description>crwdns472946:0crwdne472946:0</Plant_TreeCocoa.description>
+  <Plant_Toxipotato.label>crwdns427698:0crwdne427698:0</Plant_Toxipotato.label>
+  <Plant_Toxipotato.description>crwdns427700:0crwdne427700:0</Plant_Toxipotato.description>
 </LanguageData>
