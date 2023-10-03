@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GoJuiceAddiction.label>crwdns457286:0crwdne457286:0</GoJuiceAddiction.label>
-  <GoJuiceAddiction.description>crwdns457288:0crwdne457288:0</GoJuiceAddiction.description>
-  <GoJuiceAddiction.stages.withdrawal.label>crwdns457290:0crwdne457290:0</GoJuiceAddiction.stages.withdrawal.label>
-  
-  <GoJuiceHigh.label>crwdns457292:0crwdne457292:0</GoJuiceHigh.label>
-  <GoJuiceHigh.description>crwdns457294:0crwdne457294:0</GoJuiceHigh.description>
-  <GoJuiceHigh.labelNoun>crwdns457296:0crwdne457296:0</GoJuiceHigh.labelNoun>
-  
-  <GoJuiceTolerance.label>crwdns457298:0crwdne457298:0</GoJuiceTolerance.label>
-  <GoJuiceTolerance.description>crwdns457300:0crwdne457300:0</GoJuiceTolerance.description>
-  <GoJuiceTolerance.stages.small.label>crwdns457302:0crwdne457302:0</GoJuiceTolerance.stages.small.label>
-  <GoJuiceTolerance.stages.large.label>crwdns457304:0crwdne457304:0</GoJuiceTolerance.stages.large.label>
-  <GoJuiceTolerance.stages.massive.label>crwdns457306:0crwdne457306:0</GoJuiceTolerance.stages.massive.label>
+  <Chemical_GoJuice.label>crwdns460480:0crwdne460480:0</Chemical_GoJuice.label>
+  <Chemical_GoJuice.description>crwdns460482:0crwdne460482:0</Chemical_GoJuice.description>
 </LanguageData>
