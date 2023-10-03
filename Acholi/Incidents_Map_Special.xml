@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <OrbitalTraderArrival.label>crwdns458726:0crwdne458726:0</OrbitalTraderArrival.label>
+  <GiveQuest_AncientComplex_Mechanitor.label>crwdns423672:0crwdne423672:0</GiveQuest_AncientComplex_Mechanitor.label>
+  <GiveQuest_AncientComplex_Mechanitor.letterLabel>crwdns423674:0crwdne423674:0</GiveQuest_AncientComplex_Mechanitor.letterLabel>
   
-  <RaidFriendly.label>crwdns458728:0crwdne458728:0</RaidFriendly.label>
+  <PoluxTreeSpawn.label>crwdns423676:0crwdne423676:0</PoluxTreeSpawn.label>
+  <PoluxTreeSpawn.letterLabel>crwdns423678:0crwdne423678:0</PoluxTreeSpawn.letterLabel>
+  <PoluxTreeSpawn.letterText>crwdns423680:0crwdne423680:0</PoluxTreeSpawn.letterText>
   
-  <ShipChunkDrop.label>crwdns458730:0crwdne458730:0</ShipChunkDrop.label>
-  
-  <StrangerInBlackJoin.label>crwdns458732:0crwdne458732:0</StrangerInBlackJoin.label>
-  <StrangerInBlackJoin.letterLabel>crwdns458734:0crwdne458734:0</StrangerInBlackJoin.letterLabel>
-  <StrangerInBlackJoin.letterText>crwdns458736:0[PAWN_kind]crwdnd458736:0[PAWN_pronoun]crwdne458736:0</StrangerInBlackJoin.letterText>
-  
-  <TraderCaravanArrival.label>crwdns458738:0crwdne458738:0</TraderCaravanArrival.label>
-  
-  <TravelerGroup.label>crwdns458740:0crwdne458740:0</TravelerGroup.label>
-  
-  <VisitorGroup.label>crwdns458742:0crwdne458742:0</VisitorGroup.label>
+  <RefugeePodCrash_Baby.label>crwdns423682:0crwdne423682:0</RefugeePodCrash_Baby.label>
 </LanguageData>
