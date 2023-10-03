@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Astropolitan.label>아스트로폴리탄</Astropolitan.label>
-  <Astropolitan.description>우주 여행자들 사이에 흔한 문화 모음입니다.</Astropolitan.description>
+  <Astropolitan.label>astropolitan</Astropolitan.label>
+  <Astropolitan.description>A broad collection of cultures common among frequent space travelers.</Astropolitan.description>
   
-  <Corunan.label>코루난</Corunan.label>
-  <Corunan.description>변경계 부족민들 사이에 흔한 고대 문화입니다.</Corunan.description>
+  <Corunan.label>corunan</Corunan.label>
+  <Corunan.description>An ancient culture common among rimworld tribes.</Corunan.description>
   
-  <Kriminul.label>크리미눌</Kriminul.label>
-  <Kriminul.description>다양한 해적 집단들의 모습과 관행을 모은 문화입니다.</Kriminul.description>
+  <Kriminul.label>kriminul</Kriminul.label>
+  <Kriminul.description>A broad category describing the styles and practices of many pirate groups.</Kriminul.description>
   
-  <Rustican.label>루스티칸</Rustican.label>
-  <Rustican.description>변경계 이방인들 사이에 흔한 공업적 문화입니다.</Rustican.description>
+  <Rustican.label>rustican</Rustican.label>
+  <Rustican.description>A hardy industrial culture common among rimworld outlanders.</Rustican.description>
 </LanguageData>
