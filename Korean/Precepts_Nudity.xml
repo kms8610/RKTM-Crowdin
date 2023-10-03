@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>pants at most</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>Women should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_Mandatory.label>fully nude</Nudity_Female_Mandatory.label>
-  <Nudity_Female_Mandatory.description>Women must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable.</Nudity_Female_Mandatory.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>To stifle the skin is wrong. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
   
-  <Nudity_Female_NoRules.label>no rules</Nudity_Female_NoRules.label>
-  <Nudity_Female_NoRules.description>A woman may display or cover any part of her body.</Nudity_Female_NoRules.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>wore clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>To conceal the skin is wrong, but I did it anyway. Only the groin should be covered.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
   
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>totally covered</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>Women must cover their entire body, including their hair and face.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>pants, shirt, and hat</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>Women must cover their entire body and hair. The face may be covered, or not.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>wearing clothes (non-groin)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
   
-  <Nudity_Female_UncoveredGroinDisapproved.label>pants</Nudity_Female_UncoveredGroinDisapproved.label>
-  <Nudity_Female_UncoveredGroinDisapproved.description>Women must cover their groin. The rest of the body may be covered, or not.</Nudity_Female_UncoveredGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
   
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>pants and shirt</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>Women must cover their groin and chest. The rest of the body may be covered, or not.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>I don't approve of covering myself, yet here I am doing it.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
   
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>pants at most</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
-  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>Men should cover their groin, but may not cover anything else. Utility items like shields belts or jump packs are acceptable.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>wore clothes</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>I concealed my flesh. It was wrong.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
   
-  <Nudity_Male_Mandatory.label>fully nude</Nudity_Male_Mandatory.label>
-  <Nudity_Male_Mandatory.description>Men must be entirely nude at all times. Utility items like shields belts or jump packs are acceptable.</Nudity_Male_Mandatory.description>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
   
-  <Nudity_Male_NoRules.label>no rules</Nudity_Male_NoRules.label>
-  <Nudity_Male_NoRules.description>A man may display or cover any part of his body.</Nudity_Male_NoRules.description>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>wearing clothes</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
   
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>totally covered</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>Men must cover their entire body, including their hair and face.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>pants, shirt, and hat</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
-  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>Men must cover their entire body and hair. The face may be covered, or not.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>To show myself to the world is wrong. I should be completely covered up.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.uncovered_any_body_part.description>
   
-  <Nudity_Male_UncoveredGroinDisapproved.label>pants</Nudity_Male_UncoveredGroinDisapproved.label>
-  <Nudity_Male_UncoveredGroinDisapproved.description>Men must cover their groin. The rest of the body may be covered, or not.</Nudity_Male_UncoveredGroinDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
   
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>pants and shirt</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
-  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>Men must cover their groin and chest. The rest of the body may be covered, or not.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Female.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>It's wrong to be displaying myself like this. Only the face may be visible.</GroinChestOrHairUncovered_Disapproved_Male.stages.uncovered_groinchesthair.description>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Female.stages.uncovered_any_body_part.label>
+  
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>uncovered any body part</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.uncovered_any_body_part.label>
+  
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Female.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>I don't like displaying my private parts or my chest.</GroinOrChestUncovered_Disapproved_Male.stages.uncovered_groinchest.description>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Female.stages.uncovered_groinchest.label>
+  
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Male.stages.uncovered_groinchest.label>
+  
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>I shouldn't have my private parts hanging out.</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
+  
+  <GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>
+  
+  <GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>uncovered groin</GroinUncovered_Disapproved_Social_Male.stages.uncovered_groin.label>
 </LanguageData>
