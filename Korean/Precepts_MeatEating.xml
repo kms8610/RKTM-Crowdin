@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeatEating_Abhorrent.label>abhorrent</MeatEating_Abhorrent.label>
-  <MeatEating_Abhorrent.description>Eating meat of any kind is deeply evil.</MeatEating_Abhorrent.description>
+  <AteMeat_Abhorrent.stages.ate_meat.label>ate meat</AteMeat_Abhorrent.stages.ate_meat.label>
+  <AteMeat_Abhorrent.stages.ate_meat.description>I had to eat meat. It was an abhorrent violation of everything I believe.</AteMeat_Abhorrent.stages.ate_meat.description>
   
-  <MeatEating_Disapproved.label>disapproved</MeatEating_Disapproved.label>
-  <MeatEating_Disapproved.description>Eating meat of any kind should be avoided.</MeatEating_Disapproved.description>
+  <AteMeat_Disapproved.stages.ate_meat.label>ate meat</AteMeat_Disapproved.stages.ate_meat.label>
+  <AteMeat_Disapproved.stages.ate_meat.description>I had to eat meat. It's not something I approve of.</AteMeat_Disapproved.stages.ate_meat.description>
   
-  <MeatEating_Horrible.label>horrible</MeatEating_Horrible.label>
-  <MeatEating_Horrible.description>Eating meat of any kind is a horrible act.</MeatEating_Horrible.description>
+  <AteMeat_Horrible.stages.ate_meat.label>ate meat</AteMeat_Horrible.stages.ate_meat.label>
+  <AteMeat_Horrible.stages.ate_meat.description>I had to eat meat. It was a horrible violation of my beliefs.</AteMeat_Horrible.stages.ate_meat.description>
   
-  <MeatEating_NonMeat_Abhorrent.label>vegetarian abhorrent</MeatEating_NonMeat_Abhorrent.label>
-  <MeatEating_NonMeat_Abhorrent.description>Anyone who is a vegetarian is deeply morally deficient. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine.</MeatEating_NonMeat_Abhorrent.description>
+  <AteMeat_Know_Abhorrent.stages.ate_meat.label>ate meat</AteMeat_Know_Abhorrent.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Disapproved.label>vegetarian disliked</MeatEating_NonMeat_Disapproved.label>
-  <MeatEating_NonMeat_Disapproved.description>Eating vegetarian food is distasteful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine.</MeatEating_NonMeat_Disapproved.description>
+  <AteMeat_Know_Disapproved.stages.ate_meat.label>ate meat</AteMeat_Know_Disapproved.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Horrible.label>vegetarian hated</MeatEating_NonMeat_Horrible.label>
-  <MeatEating_NonMeat_Horrible.description>Eating vegetarian food is awful. Every meal should have some meat. Eggs, milk, and processed foods without vegetables are also fine.</MeatEating_NonMeat_Horrible.description>
+  <AteMeat_Know_Horrible.stages.ate_meat.label>ate meat</AteMeat_Know_Horrible.stages.ate_meat.label>
+  
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>I ate a meal without any meat. It was an abhorrent violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>I ate a meal without any meat. It was an unacceptable deviation from the proper carnivore diet. Some eggs, milk, or processed food without vegetables or would have also been okay.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>I ate a meal without any meat. It was an horrible violation of the proper carnivore diet. Some eggs, milk, or processed food without vegetables would have also been okay.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>ate vegetarian</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
 </LanguageData>
