@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MinifiedThing.label>포장됨</MinifiedThing.label>
+  <MinifiedThing.label>minified thing</MinifiedThing.label>
   
-  <MinifiedTree.label>포장된 나무</MinifiedTree.label>
+  <MinifiedTree.label>minified tree</MinifiedTree.label>
   
-  <UnfinishedApparel.label>미완성 의복</UnfinishedApparel.label>
-  <UnfinishedApparel.description>미완성된 의복입니다.</UnfinishedApparel.description>
+  <UnfinishedApparel.label>unfinished apparel</UnfinishedApparel.label>
+  <UnfinishedApparel.description>An unfinished piece of an apparel.</UnfinishedApparel.description>
   
-  <UnfinishedArmor.label>미완성 방어구</UnfinishedArmor.label>
-  <UnfinishedArmor.description>미완성된 방어구입니다.</UnfinishedArmor.description>
+  <UnfinishedArmor.label>unfinished simple armor</UnfinishedArmor.label>
+  <UnfinishedArmor.description>An unfinished piece of simple armor.</UnfinishedArmor.description>
   
-  <UnfinishedBelt.label>미완성 벨트</UnfinishedBelt.label>
-  <UnfinishedBelt.description>미완성된 벨트입니다.</UnfinishedBelt.description>
+  <UnfinishedBelt.label>unfinished belt</UnfinishedBelt.label>
+  <UnfinishedBelt.description>An unfinished piece of a belt.</UnfinishedBelt.description>
   
-  <UnfinishedComponent.label>미완성 부품</UnfinishedComponent.label>
-  <UnfinishedComponent.description>미완성된 부품입니다.</UnfinishedComponent.description>
+  <UnfinishedComponent.label>unfinished component</UnfinishedComponent.label>
+  <UnfinishedComponent.description>An unfinished component.</UnfinishedComponent.description>
   
-  <UnfinishedGun.label>미완성 화기</UnfinishedGun.label>
-  <UnfinishedGun.description>미완성된 화기입니다.</UnfinishedGun.description>
+  <UnfinishedGun.label>unfinished gun</UnfinishedGun.label>
+  <UnfinishedGun.description>An unfinished gun of some kind.</UnfinishedGun.description>
   
-  <UnfinishedHealthItemBionic.label>미완성 생체공학</UnfinishedHealthItemBionic.label>
-  <UnfinishedHealthItemBionic.description>미완성된 생체공학입니다.</UnfinishedHealthItemBionic.description>
+  <UnfinishedHealthItemBionic.label>unfinished bionic</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemBionic.description>An unfinished bionic.</UnfinishedHealthItemBionic.description>
   
-  <UnfinishedHealthItemProsthetic.label>미완성 보철물</UnfinishedHealthItemProsthetic.label>
-  <UnfinishedHealthItemProsthetic.description>미완성된 보철물입니다.</UnfinishedHealthItemProsthetic.description>
+  <UnfinishedHealthItemProsthetic.label>unfinished prosthetic</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedHealthItemProsthetic.description>An unfinished prosthetic.</UnfinishedHealthItemProsthetic.description>
   
-  <UnfinishedMask.label>미완성 마스크</UnfinishedMask.label>
-  <UnfinishedMask.description>미완성된 마스크입니다.</UnfinishedMask.description>
+  <UnfinishedMask.label>unfinished mask</UnfinishedMask.label>
+  <UnfinishedMask.description>An unfinished mask.</UnfinishedMask.description>
   
-  <UnfinishedMetallicTechArmor.label>미완성 금속 방어구</UnfinishedMetallicTechArmor.label>
-  <UnfinishedMetallicTechArmor.description>미완성된 금속 방어구입니다.</UnfinishedMetallicTechArmor.description>
+  <UnfinishedMetallicTechArmor.label>unfinished metal armor</UnfinishedMetallicTechArmor.label>
+  <UnfinishedMetallicTechArmor.description>An unfinished piece of metal armor.</UnfinishedMetallicTechArmor.description>
   
-  <UnfinishedPack.label>미완성 등짐</UnfinishedPack.label>
-  <UnfinishedPack.description>미완성된 등짐 조각입니다.</UnfinishedPack.description>
+  <UnfinishedPack.label>unfinished pack</UnfinishedPack.label>
+  <UnfinishedPack.description>An unfinished piece of a pack.</UnfinishedPack.description>
   
-  <UnfinishedSculpture.label>미완성 예술품</UnfinishedSculpture.label>
-  <UnfinishedSculpture.description>미완성된 예술품입니다.</UnfinishedSculpture.description>
+  <UnfinishedSculpture.label>unfinished sculpture</UnfinishedSculpture.label>
+  <UnfinishedSculpture.description>An unfinished sculpture.</UnfinishedSculpture.description>
   
-  <UnfinishedTechArmor.label>미완성 고급 방어구</UnfinishedTechArmor.label>
-  <UnfinishedTechArmor.description>미완성된 고급 방어구입니다.</UnfinishedTechArmor.description>
+  <UnfinishedTechArmor.label>unfinished advanced armor</UnfinishedTechArmor.label>
+  <UnfinishedTechArmor.description>An unfinished piece of high-tech armor.</UnfinishedTechArmor.description>
   
-  <UnfinishedWeapon.label>미완성 무기</UnfinishedWeapon.label>
-  <UnfinishedWeapon.description>미완성된 무기입니다.</UnfinishedWeapon.description>
+  <UnfinishedWeapon.label>unfinished weapon</UnfinishedWeapon.label>
+  <UnfinishedWeapon.description>An unfinished weapon.</UnfinishedWeapon.description>
 </LanguageData>
