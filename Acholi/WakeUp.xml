@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUp.label>crwdns456112:0crwdne456112:0</WakeUp.label>
+  <WakeUpAddiction.label>crwdns458316:0crwdne458316:0</WakeUpAddiction.label>
+  <WakeUpAddiction.description>crwdns458318:0crwdne458318:0</WakeUpAddiction.description>
+  <WakeUpAddiction.stages.withdrawal.label>crwdns458320:0crwdne458320:0</WakeUpAddiction.stages.withdrawal.label>
+  
+  <WakeUpHigh.label>crwdns458322:0crwdne458322:0</WakeUpHigh.label>
+  <WakeUpHigh.description>crwdns458324:0crwdne458324:0</WakeUpHigh.description>
+  <WakeUpHigh.labelNoun>crwdns458326:0crwdne458326:0</WakeUpHigh.labelNoun>
+  
+  <WakeUpTolerance.label>crwdns458328:0crwdne458328:0</WakeUpTolerance.label>
+  <WakeUpTolerance.description>crwdns458330:0crwdne458330:0</WakeUpTolerance.description>
+  <WakeUpTolerance.stages.small.label>crwdns458332:0crwdne458332:0</WakeUpTolerance.stages.small.label>
+  <WakeUpTolerance.stages.large.label>crwdns458334:0crwdne458334:0</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>crwdns458336:0crwdne458336:0</WakeUpTolerance.stages.massive.label>
 </LanguageData>
