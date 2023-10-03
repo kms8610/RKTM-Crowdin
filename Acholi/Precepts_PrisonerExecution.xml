@@ -1,42 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Execution_Abhorrent.label>crwdns436644:0crwdne436644:0</Execution_Abhorrent.label>
-  <Execution_Abhorrent.description>crwdns436646:0crwdne436646:0</Execution_Abhorrent.description>
-  <Execution_Abhorrent.comps.2.description>crwdns436648:0crwdne436648:0</Execution_Abhorrent.comps.2.description>
-  <Execution_Abhorrent.comps.3.description>crwdns436650:0crwdne436650:0</Execution_Abhorrent.comps.3.description>
-  <Execution_Abhorrent.comps.4.description>crwdns436652:0crwdne436652:0</Execution_Abhorrent.comps.4.description>
-  <Execution_Abhorrent.comps.5.description>crwdns436654:0crwdne436654:0</Execution_Abhorrent.comps.5.description>
-  <Execution_Abhorrent.comps.6.description>crwdns436656:0crwdne436656:0</Execution_Abhorrent.comps.6.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>crwdns442032:0crwdne442032:0</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>crwdns442034:0crwdne442034:0</ExecutedColonist_Know_Abhorrent_Mood.stages.justified_execution_of_colonist.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>crwdns442036:0crwdne442036:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>crwdns442038:0crwdne442038:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_euthanized.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>crwdns442040:0crwdne442040:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>crwdns442042:0crwdne442042:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_executed.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>crwdns442044:0crwdne442044:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>crwdns442046:0crwdne442046:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_organharvested.description>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>crwdns442048:0crwdne442048:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.label>
+  <ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>crwdns442050:0crwdne442050:0</ExecutedColonist_Know_Abhorrent_Mood.stages.colonist_ripscanned.description>
   
-  <Execution_DontCare.label>crwdns436658:0crwdne436658:0</Execution_DontCare.label>
-  <Execution_DontCare.description>crwdns436660:0crwdne436660:0</Execution_DontCare.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>crwdns442052:0crwdne442052:0</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>crwdns442054:0crwdne442054:0</ExecutedGuest_Know_Abhorrent_Mood.stages.justified_execution.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>crwdns442056:0crwdne442056:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>crwdns442058:0crwdne442058:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_euthanized.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>crwdns442060:0crwdne442060:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>crwdns442062:0crwdne442062:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_executed.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>crwdns442064:0crwdne442064:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>crwdns442066:0crwdne442066:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_organmurdered.description>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>crwdns442068:0crwdne442068:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.label>
+  <ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>crwdns442070:0crwdne442070:0</ExecutedGuest_Know_Abhorrent_Mood.stages.someone_was_ripscanned.description>
   
-  <Execution_Horrible.label>crwdns436662:0crwdne436662:0</Execution_Horrible.label>
-  <Execution_Horrible.description>crwdns436664:0crwdne436664:0</Execution_Horrible.description>
-  <Execution_Horrible.comps.2.description>crwdns436666:0crwdne436666:0</Execution_Horrible.comps.2.description>
-  <Execution_Horrible.comps.3.description>crwdns436668:0crwdne436668:0</Execution_Horrible.comps.3.description>
-  <Execution_Horrible.comps.5.description>crwdns436670:0crwdne436670:0</Execution_Horrible.comps.5.description>
-  <Execution_Horrible.comps.6.description>crwdns436672:0crwdne436672:0</Execution_Horrible.comps.6.description>
-  <Execution_Horrible.comps.7.description>crwdns436674:0crwdne436674:0</Execution_Horrible.comps.7.description>
+  <ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>crwdns442072:0crwdne442072:0</ExecutedPrisonerGuilty_Know_Respected.stages.executed_guilty_prisoner.label>
   
-  <Execution_HorribleIfInnocent.label>crwdns436676:0crwdne436676:0</Execution_HorribleIfInnocent.label>
-  <Execution_HorribleIfInnocent.description>crwdns436678:0crwdne436678:0</Execution_HorribleIfInnocent.description>
-  <Execution_HorribleIfInnocent.comps.2.description>crwdns436680:0crwdne436680:0</Execution_HorribleIfInnocent.comps.2.description>
-  <Execution_HorribleIfInnocent.comps.3.description>crwdns436682:0crwdne436682:0</Execution_HorribleIfInnocent.comps.3.description>
-  <Execution_HorribleIfInnocent.comps.5.description>crwdns436684:0crwdne436684:0</Execution_HorribleIfInnocent.comps.5.description>
-  <Execution_HorribleIfInnocent.comps.6.description>crwdns436686:0crwdne436686:0</Execution_HorribleIfInnocent.comps.6.description>
-  <Execution_HorribleIfInnocent.comps.7.description>crwdns436688:0crwdne436688:0</Execution_HorribleIfInnocent.comps.7.description>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>crwdns442074:0crwdne442074:0</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.label>
+  <ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>crwdns442076:0crwdne442076:0</ExecutedPrisonerGuilty_Know_Respected_Mood.stages.guilty_prisoner_executed.description>
   
-  <Execution_Required.label>crwdns436690:0crwdne436690:0</Execution_Required.label>
-  <Execution_Required.description>crwdns436692:0crwdne436692:0</Execution_Required.description>
-  <Execution_Required.comps.2.description>crwdns436694:0crwdne436694:0</Execution_Required.comps.2.description>
-  <Execution_Required.comps.3.description>crwdns436696:0crwdne436696:0</Execution_Required.comps.3.description>
-  <Execution_Required.comps.4.description>crwdns436698:0crwdne436698:0</Execution_Required.comps.4.description>
-  <Execution_Required.comps.5.description>crwdns436700:0crwdne436700:0</Execution_Required.comps.5.description>
-  <Execution_Required.comps.6.description>crwdns436702:0{MINDAYSLASTEXECUTION}crwdne436702:0</Execution_Required.comps.6.description>
-  <Execution_Required.comps.7.eventLabel>crwdns436704:0crwdne436704:0</Execution_Required.comps.7.eventLabel>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>crwdns442078:0crwdne442078:0</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.label>
+  <ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>crwdns442080:0crwdne442080:0</ExecutedPrisonerGuilty_Respected.stages.executed_guilty_prisoner.description>
   
-  <Execution_RespectedIfGuilty.label>crwdns436706:0crwdne436706:0</Execution_RespectedIfGuilty.label>
-  <Execution_RespectedIfGuilty.description>crwdns436708:0crwdne436708:0</Execution_RespectedIfGuilty.description>
-  <Execution_RespectedIfGuilty.comps.3.eventLabel>crwdns436710:0crwdne436710:0</Execution_RespectedIfGuilty.comps.3.eventLabel>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>crwdns442082:0crwdne442082:0</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.label>
+  <ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>crwdns442084:0crwdne442084:0</ExecutedPrisonerInnocent_Horrible.stages.executed_innocent_prisoner.description>
+  
+  <ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>crwdns442086:0crwdne442086:0</ExecutedPrisonerInnocent_Know_Horrible.stages.executed_innocent_prisoner.label>
+  
+  <ExecutedPrisoner_Horrible.stages.executed_prisoner.label>crwdns442088:0crwdne442088:0</ExecutedPrisoner_Horrible.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Horrible.stages.executed_prisoner.description>crwdns442090:0crwdne442090:0</ExecutedPrisoner_Horrible.stages.executed_prisoner.description>
+  
+  <ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>crwdns442092:0crwdne442092:0</ExecutedPrisoner_Know_Abhorrent.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>crwdns442094:0crwdne442094:0</ExecutedPrisoner_Know_Horrible.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>crwdns442096:0crwdne442096:0</ExecutedPrisoner_Know_Respected.stages.executed_prisoner.label>
+  
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.label>crwdns442098:0crwdne442098:0</ExecutedPrisoner_Respected.stages.executed_prisoner.label>
+  <ExecutedPrisoner_Respected.stages.executed_prisoner.description>crwdns442100:0crwdne442100:0</ExecutedPrisoner_Respected.stages.executed_prisoner.description>
+  
+  <Execution_Know_Respected_Mood.stages.execution.label>crwdns442102:0crwdne442102:0</Execution_Know_Respected_Mood.stages.execution.label>
+  <Execution_Know_Respected_Mood.stages.execution.description>crwdns442104:0crwdne442104:0</Execution_Know_Respected_Mood.stages.execution.description>
+  
+  <GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>crwdns442106:0crwdne442106:0</GuiltyPrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>crwdns442108:0crwdne442108:0</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.label>
+  <GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>crwdns442110:0crwdne442110:0</GuiltyPrisonerDied_Respected.stages.guilty_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>crwdns442112:0crwdne442112:0</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.label>
+  <InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>crwdns442114:0crwdne442114:0</InnocentPrisonerDied_Abhorrent.stages.innocent_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>crwdns442116:0crwdne442116:0</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.label>
+  <InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>crwdns442118:0crwdne442118:0</InnocentPrisonerDied_Horrible.stages.innocent_prisoner_died_responsible.description>
+  
+  <InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>crwdns442120:0crwdne442120:0</InnocentPrisonerDied_Know_Abhorrent.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>crwdns442122:0crwdne442122:0</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.label>
+  <InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>crwdns442124:0crwdne442124:0</InnocentPrisonerDied_Know_Abhorrent_Mood.stages.innocent_prisoner_died.description>
+  
+  <InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>crwdns442126:0crwdne442126:0</InnocentPrisonerDied_Know_Horrible.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <NoRecentExecution.stages.no_execution.label>crwdns442128:0crwdne442128:0</NoRecentExecution.stages.no_execution.label>
+  <NoRecentExecution.stages.no_execution.description>crwdns442130:0crwdne442130:0</NoRecentExecution.stages.no_execution.description>
+  
+  <PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>crwdns442132:0crwdne442132:0</PrisonerDied_Know_Respected.stages.responsible_for_the_death_of_a_prisoner.label>
+  
+  <PrisonerDied_Respected.stages.prisoner_died_responsible.label>crwdns442134:0crwdne442134:0</PrisonerDied_Respected.stages.prisoner_died_responsible.label>
+  <PrisonerDied_Respected.stages.prisoner_died_responsible.description>crwdns442136:0crwdne442136:0</PrisonerDied_Respected.stages.prisoner_died_responsible.description>
 </LanguageData>
