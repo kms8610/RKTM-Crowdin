@@ -2,357 +2,359 @@
 <LanguageData>
 
   <!-- Misc -->
-  <JumpToLocation>위치로 이동</JumpToLocation>
-  <PostponeLetter>미루기</PostponeLetter>
-  <RejectLetter>거부</RejectLetter>
-  <ReadMore>자세히</ReadMore>
-  <MoreLetters>{0}개 편지가 더 있습니다</MoreLetters>
+  <JumpToLocation>Jump to location</JumpToLocation>
+  <PostponeLetter>Postpone</PostponeLetter>
+  <RejectLetter>Reject</RejectLetter>
+  <ReadMore>Read more</ReadMore>
+  <MoreLetters>You have {0} more letters</MoreLetters>
 
-  <LetterLabelFirstSummerWarning>여름</LetterLabelFirstSummerWarning>
-  <FirstSummerWarning>여름이 시작되었습니다! 그러나 겨울이 오고 있습니다.\n\n작물은 겨울의 추위 속에서는 자라지 못합니다. 그러니 겨울이 오기 전에 최대한 많은 음식과 작물을 보관하세요. 음식물이 상하는 것은 냉동고를 건설해 방지할 수 있습니다.\n\n겨울을 대비해 파카를 만들거나, 구입하거나, 훔치거나, 만들지 않으면 밖으로 나가서 얼어 죽을 수 있습니다.</FirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Summer</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside.</FirstSummerWarning>
 
-  <LetterRelationsChange_Hostile>{0} 세력과의 관계가 틀어져 이제 적대로 돌아섰습니다.</LetterRelationsChange_Hostile>  
-  <LetterRelationsChange_HostileGoodwillDescription>그들은 정착지와 상단을 주기적으로 습격하고, 거래도 거부할 것입니다. 관계를 개선하기 위해 상단이나 수송 포드를 이용하여 선물을 제공할 수 있습니다.\n\n우호도가({0}) {1} 아래로 떨어졌기 때문에 발생했습니다. 중립 관계를 다시 회복하려면 우호도가 {2}에 도달해야 합니다.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_Hostile>Relations with {0} have broken down completely. They are now hostile to you.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_HostileGoodwillDescription>They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again.</LetterRelationsChange_HostileGoodwillDescription>  
 
-  <LetterRelationsChange_NeutralFromHostile>{0} 세력과의 관계가 완화되어 더는 공격하지 않을 것입니다.</LetterRelationsChange_NeutralFromHostile>
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>우호도({1})가 {2}보다 높아졌기 때문에 발생했습니다. 우호도가 {3}보다 낮아지면 {0}(은)는 다시 적대 세력으로 돌아설 것입니다. 우호도가 {4} 이상이 되면 동맹이 되어 함께 싸워줄 것입니다.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostile>Relations with {0} have warmed. They now consider you neutral and will no longer attack you.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
-  <LetterRelationsChange_NeutralFromAlly>{0} 세력과의 관계가 식어 중립이 됐습니다.</LetterRelationsChange_NeutralFromAlly>
-  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>여전히 우리와 평화적으로 소통하겠지만, 위험에 처해도 지원군을 보내지는 않을 것입니다.\n\n우호도({1})가 {2} 아래로 떨어졌기 때문에 발생했습니다. 우호도가 {3}보다 낮아지면 {0}(와)과 적대 관계가 됩니다. 우호도가 {4} 이상이 되면 다시 동맹이 되어 함께 싸워줄 것입니다.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  <LetterRelationsChange_NeutralFromAlly>Relations with {0} have cooled. They now consider you neutral instead of allied.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
-  <LetterRelationsChange_Ally>{0} 세력과의 관계가 매우 가까워져 동맹이 됐습니다.</LetterRelationsChange_Ally>
-  <LetterRelationsChange_AllyGoodwillDescription>동맹은 정착지가 적의 공격을 받을 때 가끔 지원군을 파견하기도 합니다. 또한 언제든지 우호도를 소모하여 도움을 요청할 수 있습니다.\n\n우호도({0})가 {1}보다 높아졌기 때문에 발생했습니다. 우호도가 {2}보다 낮아지면 다시 중립 관계가 됩니다.</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_Ally>Relations with {0} have become very close. They now consider you an ally.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_AllyGoodwillDescription>Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral.</LetterRelationsChange_AllyGoodwillDescription>
 
-  <goodwill>호의</goodwill>
-  <Neutral>중립</Neutral>
-  <NeutralLower>중립</NeutralLower>
-  <Death>사망</Death>
+  <goodwill>goodwill</goodwill>
+  <Neutral>Neutral</Neutral>
+  <NeutralLower>neutral</NeutralLower>
+  <Death>Death</Death>
 
-  <ShortCircuitRain>{1_label}에 빗물이 스며들어 누전 화재가 발생했습니다.</ShortCircuitRain>
+  <ShortCircuitRain>A {1_label} has short-circuited due to precipitation and started a fire.</ShortCircuitRain>
 
-  <LetterLabelAreaRevealed>공간 발견</LetterLabelAreaRevealed>
-  <AreaRevealed>새로운 공간이 드러났습니다.</AreaRevealed>
-  <AreaRevealedWithMechanoids>새로운 공간이 드러났습니다. 적대적인 고대 메카노이드도 함께 발견되었습니다.</AreaRevealedWithMechanoids>
+  <LetterLabelAreaRevealed>Area revealed</LetterLabelAreaRevealed>
+  <AreaRevealed>A new area has been revealed.</AreaRevealed>
+  <AreaRevealedWithMechanoids>A new area has been revealed. It contains ancient, hostile mechanoids.</AreaRevealedWithMechanoids>
 
-  <RoofCollapsed>지붕이 지지대와 너무 멀리 떨어져 있어서 붕괴됐습니다.</RoofCollapsed>
-  <TheseThingsCrushed>파손 목록:</TheseThingsCrushed>
-  <NothingCrushed>아무것도 파괴되지 않았습니다.</NothingCrushed>
-  <LetterLabelRoofCollapsed>지붕 붕괴</LetterLabelRoofCollapsed>
+  <RoofCollapsed>A roof has collapsed because it was too far from any support.</RoofCollapsed>
+  <TheseThingsCrushed>These things were crushed:</TheseThingsCrushed>
+  <NothingCrushed>Nothing was crushed.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Roof collapse</LetterLabelRoofCollapsed>
 
-  <RecruitSuccess>{1}에 대한 {0}의 포섭은 성공적이었습니다. (포섭 확률 {2})</RecruitSuccess>
-  <RecruitFail>{1}에 대한 {0}의 포섭은 실패했습니다. (포섭 확률 {2})</RecruitFail>
+  <RecruitSuccess>{0} successfully recruited {1} ({2} chance).</RecruitSuccess>
+  <RecruitFail>{0} failed to recruit {1} ({2} chance).</RecruitFail>
 
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef}(은)는 {RELATIVE_labelShort}의 {1}입니다. {PAWN_nameDef}(이)가 사망하면 {RELATIVE_labelShort}(은)는 오랜 시간 후회로 고통받게 됩니다. 그러나 {PAWN_nameDef}(을)를 구출하면 {RELATIVE_labelShort}(은)는 오랜 시간동안 기뻐할 것입니다.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time.</RelatedPawnInvolvedInQuest>
 
-  <LetterLabelBirthday>생일</LetterLabelBirthday>
-  <BirthdayChronological>오늘은 {0}의 실제 생일입니다! 생물학적으로는 {1} {3}살 입니다.\n\n생체적으로는 {1}살에서 {2}살이 되었습니다.\n\n사람들은 동면중일 때 나이를 먹지 않기 때문에 실제 생일은 생체적 생일과 분리되어 있습니다.</BirthdayChronological>
-  <LetterBirthdayBiological>{0_nameFull}(이)가 생물학적으로 {1}살이 됐습니다.</LetterBirthdayBiological>
-  <BirthdayBiologicalAgeInjuries>불행하게도 {0_nameFull}(은)는 노화로 인해 다음 질병을 앓게 됐습니다</BirthdayBiologicalAgeInjuries>
+  <LetterLabelBirthday>Birthday</LetterLabelBirthday>
+  <BirthdayChronological>It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday.</BirthdayChronological>
+  <LetterBirthdayBiological>{0_nameFull} has reached the biological age of {1}.</LetterBirthdayBiological>
+  <BirthdayBiologicalAgeInjuries>Unfortunately, {0_nameFull} has gained the following diseases due to aging</BirthdayBiologicalAgeInjuries>
 
-  <LetterLabelNewDisease>질병</LetterLabelNewDisease>
-  <NewDisease>{PAWN}(이)가 {1} 때문에 아픕니다.\n\n{PAWN_definite}(이)가 최대한 많은 시간을 침대에서 보내며 적절한 치료를 받을 수 있는지 확인하세요.</NewDisease>
-  <NewPartDisease>{PAWN}의 {1}(이)가 {3} 때문에 아픕니다.\n\n{PAWN_definite}(이)가 최대한 많은 시간을 침대에서 보내며 적절한 치료를 받을 수 있는지 확인하세요.</NewPartDisease>
-  <NewDiseaseAnimal>{PAWN_labelShort}(이)가 질병을 앓고 있습니다: {1}</NewDiseaseAnimal>
-  <NewPartDiseaseAnimal>{PAWN_labelShort}(은)는 다음과 같은 병을 앓고 있습니다: {PAWN_possessive} {1}의 {3}</NewPartDiseaseAnimal>
+  <LetterLabelNewDisease>Disease</LetterLabelNewDisease>
+  <NewDisease>{PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.</NewDisease>
+  <NewPartDisease>{PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible.</NewPartDisease>
+  <NewDiseaseAnimal>{PAWN_labelShort} has developed an illness: {1}</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1}</NewPartDiseaseAnimal>
 
-  <PawnWasFormerlyColonist>{0}(은)는 이전에 당신의 동료였습니다.</PawnWasFormerlyColonist>
-  <PawnWasFormerlyLodger>{0}(은)는 이전에 당신을 섬겼습니다.</PawnWasFormerlyLodger>
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort}(은)는 정착민과 다음과 같은 관계를 맺고 있습니다:</PawnHasTheseRelationshipsWithColonists>
+  <PawnWasFormerlyColonist>{0} was formerly part of your faction.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyLodger>You previously hosted {0}.</PawnWasFormerlyLodger>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} has these relationships with your colonists:</PawnHasTheseRelationshipsWithColonists>
 
-  <LetterLabelAncientShrineWarning>고대 위협</LetterLabelAncientShrineWarning>
-  <AncientShrineWarning>고대의 구조물에 접근할수록 불길한 느낌이 {PAWN_nameDef}(을)를 휘어잡습니다. 확실한 증거는 없지만, {PAWN_pronoun}는 이 오래된 구조물 안에 뭔가 커다란 위협이 잠들어 있음을 예감합니다.</AncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Ancient danger</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger.</AncientShrineWarning>
 
-  <StruckMineable>{0}(을)를 발견했습니다!</StruckMineable>
+  <StruckMineable>We have struck {0}!</StruckMineable>
 
-  <LetterLabelAnimalManhunterRevenge>{0}의 복수</LetterLabelAnimalManhunterRevenge>
-  <AnimalManhunterFromDamage>피해를 받은 {1_indefinite}(이)가 반격하기 시작합니다!\n\n잠들기 전까지 인간사냥은 계속될 것입니다.</AnimalManhunterFromDamage>
-  <AnimalManhunterFromTaming>조련에 실패하여 {1_indefinite}(이)가 공격하기 시작합니다!</AnimalManhunterFromTaming>
-  <AnimalManhunterOthers>주위의 다른 {1_kindBasePlural}도 같이 공격합니다!</AnimalManhunterOthers>
+  <LetterLabelAnimalManhunterRevenge>{0} revenge</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{1_indefinite} is attacking due to a botched taming attempt!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>Other {1_kindBasePlural} nearby have also become enraged!</AnimalManhunterOthers>
 
-  <LetterFriendlyTrapSprungLabel>{1_labelShort}의 함정 발동</LetterFriendlyTrapSprungLabel>
-  <LetterFriendlyTrapSprung>{1_labelShort}(이)가 실수로 함정을 작동시켜 피해를 입었습니다.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} hit trap</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{1_labelShort} has accidentally sprung a trap and taken damage from it.</LetterFriendlyTrapSprung>
 
-  <LetterHealthComplications>{PAWN_labelShort}의 건강 상태에 문제가 발생했습니다.\n\n  {1}\n\n원인:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>{PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2}</LetterHealthComplications>
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort}의 건강 상태에 문제가 발생했습니다: {1}</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} has developed a health condition: {1}.</LetterHediffFromRandomHediffGiver>
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
-  <LetterLeadersDeathLabel>{1} 사망: {0}</LetterLeadersDeathLabel>
-  <LetterLeadersDeath>{0}의 {1}, {OLDLEADER_nameFull}(이)가 죽었습니다.</LetterLeadersDeath>
+  <LetterLeadersDeathLabel>{1} died: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} of {0}, has died.</LetterLeadersDeath>
 
-  <LetterLeaderChangedLabel>새로운 {1}: {0}</LetterLeaderChangedLabel>
-  <LetterLeaderChanged>{OLDLEADER_nameFull}(은)는 이제 {0}의 {1}(이)가 아닙니다.</LetterLeaderChanged>
+  <LetterLeaderChangedLabel>New {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} is no longer {1} of {0}.</LetterLeaderChanged>
 
-  <LetterNewLeader>새로운 {0}(은)는 {NEWLEADER_nameFull} 입니다.</LetterNewLeader>
+  <LetterNewLeader>The new {0} is {NEWLEADER_nameFull}.</LetterNewLeader>
 
-  <FinalStraw>마지막 계기: {0}</FinalStraw>
-  <MentalStateReason_Mood>기분이 좋지 않아서 발생했습니다.</MentalStateReason_Mood>
-  <MentalStateReason_Trait>다음 특성 때문에 발생함: {0}</MentalStateReason_Trait>
-  <MentalStateReason_Hediff>다음 문제 때문에 발생함: {0}</MentalStateReason_Hediff>
-  <MentalStateReason_BondedHumanDeath>{0_definite}의 죽음 때문에 발생했습니다.</MentalStateReason_BondedHumanDeath>
-  <LastFactionRelationsEvent>마지막 계기</LastFactionRelationsEvent>
+  <FinalStraw>The final straw was: {0}</FinalStraw>
+  <MentalStateReason_Mood>This happened because of poor mood.</MentalStateReason_Mood>
+  <MentalStateReason_Trait>This happened because of the trait: {0}.</MentalStateReason_Trait>
+  <MentalStateReason_Hediff>This happened because of: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_BondedHumanDeath>This happened because of {0_definite}'s death.</MentalStateReason_BondedHumanDeath>
+  <LastFactionRelationsEvent>The last event was</LastFactionRelationsEvent>
 
-  <ViewRelatedQuest>관련된 임무 보기</ViewRelatedQuest>
-  <ViewQuest>임무 보기</ViewQuest>
-  <LastEventsInLife>{PAWN_definite} 생애 마지막 사건</LastEventsInLife>
+  <ViewRelatedQuest>View related quest</ViewRelatedQuest>
+  <ViewQuest>View quest</ViewQuest>
+  <LastEventsInLife>The last events in {PAWN_definite}'s life</LastEventsInLife>
 
-  <LetterInspirationBeginThanksToHighMoodPart>{PAWN_nameIndef}(은)는 기분이 좋아 영감을 받았습니다!</LetterInspirationBeginThanksToHighMoodPart>
+  <LetterInspirationBeginThanksToHighMoodPart>Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration!</LetterInspirationBeginThanksToHighMoodPart>
 
   <!-- Related pawns -->
-  <LetterLabelNoticedRelatedPawns>관계</LetterLabelNoticedRelatedPawns>
-  <LetterRelatedPawnsRaidEnemy>{1}의 무리에 {0} 또는 수감자와 아는 사람들이 포함되어 있습니다.\n\n비록 가족이지만 세력 갈등에 의해 서로 공격할 것입니다.\n\n목록:</LetterRelatedPawnsRaidEnemy>
-  <LetterRelatedPawnsRaidFriendly>우호적인 {1}의 무리에 {0} 또는 수감자와 아는 사람들이 포함되어 있습니다:</LetterRelatedPawnsRaidFriendly>
-  <LetterRelatedPawnsNeutralGroup>{0} 또는 수감자와 아는 사람들이 포함되어 있습니다:</LetterRelatedPawnsNeutralGroup>
-  <LetterRelatedPawnsTradeShip>궤도 상선이 {0} 또는 수감자와 아는 사람을 판매하고 있습니다:</LetterRelatedPawnsTradeShip>
-  <LetterRelatedPawnsTradingWithSettlement>해당 세력 정착지에서 {0} 또는 수감자와 아는 사람을 판매하고 있습니다:</LetterRelatedPawnsTradingWithSettlement>
-  <LetterRelatedPawnsTradingWithOtherCaravan>해당 상단에서 {0} 또는 수감자와 아는 사람을 판매하고 있습니다:</LetterRelatedPawnsTradingWithOtherCaravan>
-  <LetterRelatedPawnsGroupGeneric>{0} 또는 수감자와 관계가 있는 사람들이 있습니다:</LetterRelatedPawnsGroupGeneric>
-  <LetterRelatedPawnsInMapWherePlayerLanded>착륙한 지역에 {0} 또는 수감자와 관계가 있는 사람들이 있습니다.</LetterRelatedPawnsInMapWherePlayerLanded>
-  <LetterRelatedPawnsSettlement>이 정착지에 {0} 또는 수감자와 관계가 있는 사람들이 있습니다:</LetterRelatedPawnsSettlement>
-  <LetterRelatedPawnsSite>이 지역에 {0} 또는 수감자와 관계가 있는 사람들이 있습니다:</LetterRelatedPawnsSite>
+  <LetterLabelNoticedRelatedPawns>Relationship</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>There are people who have relationships with your {0} or prisoners in the arriving group:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>The orbital trader is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>The settlement is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>The caravan is selling people who have relationships with your {0} or prisoners:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsGroupGeneric>There are people who have relationships with your {0} or prisoners in the group:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsInMapWherePlayerLanded>There are people who have relationships with your {0} or prisoners in the area where your {0} have landed.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsSettlement>There are people who have relationships with your {0} or prisoners in this settlement:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>There are people who have relationships with your {0} or prisoners in this area:</LetterRelatedPawnsSite>
 
-  <RelationshipAppendedLetterSuffix>유대관계</RelationshipAppendedLetterSuffix>
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}(은)는 정착민과 관계가 있습니다. {PAWN_pronoun}는 {RELATIVE_labelShort}의 {1}입니다.</RelationshipAppendedLetterTextColonist>
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}(은)는 수감자와 관계가 있습니다. {PAWN_pronoun}는 {RELATIVE_labelShort}의 {1}입니다.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterSuffix>relationship</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
-  <LetterLabelAffair>불륜</LetterLabelAffair>
-  <LetterAffair>{SPOUSE_labelShort}(와)과 결혼한 {PAWN1_labelShort}(이)가 {PAWN2_labelShort}(와)과 부적절한 관계를 시작했습니다.</LetterAffair>
-  <LetterLabelNewLovers>새로운 연인</LetterLabelNewLovers>
-  <LetterNewLovers>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}(은)는 같이 자고 싶어합니다. 큰 침대를 설치하고 지정해주세요.</LetterNewLovers>
-  <LetterNoLongerLovers>{PAWN1_labelShort}(와)과 {PAWN2_labelShort}(은)는 이제 아무 사이도 아닙니다.</LetterNoLongerLovers>
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort}(은)는 자신의 성을 원래대로 되돌립니다.</LetterNoLongerLovers_BackToBirthName>
-  <LetterLabelBreakup>깨짐</LetterLabelBreakup>
-  <LetterLabelAcceptedProposal>약혼!</LetterLabelAcceptedProposal>
-  <LetterLabelRejectedProposal>고백 거절</LetterLabelRejectedProposal>
-  <LetterAcceptedProposal>다가오는 어느 날, 모두를 초대해 결혼식을 올릴 예정입니다. 결혼식 위치를 지정해 장소를 제한할 수 있습니다.</LetterAcceptedProposal>
-  <LetterAcceptedProposal_NameChange>{PAWN_label}(은)는 자신의 성을 {1}(으)로 변경합니다.</LetterAcceptedProposal_NameChange>
-  <LetterRejectedProposal>{INITIATOR_nameFull}(은)는 이를 불행하게 생각합니다.</LetterRejectedProposal>
+  <LetterLabelAffair>Affair</LetterLabelAffair>
+  <LetterAffair>{PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}.</LetterAffair>
+  <LetterLabelNewLovers>New lovers</LetterLabelNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed.</LetterNewLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship.</LetterNoLongerLovers>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name.</LetterNoLongerLovers_BackToBirthName>
+  <LetterLabelBreakup>Breakup</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Marriage is on!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Rejected proposal</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs.</LetterAcceptedProposal>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} will change {PAWN_possessive} last name to {1}.</LetterAcceptedProposal_NameChange>
+  <LetterRejectedProposal>{INITIATOR_nameFull} is going to be unhappy about this.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
-  <LetterLabelRelationsChange_Hostile>적대: {0}</LetterLabelRelationsChange_Hostile>
-  <LetterLabelRelationsChange_Ally>동맹: {0}</LetterLabelRelationsChange_Ally>
-  <LetterLabelRelationsChange_NeutralFromHostile>적대 ▶ 중립: {0}</LetterLabelRelationsChange_NeutralFromHostile>
-  <LetterLabelRelationsChange_NeutralFromAlly>동맹 ▶ 중립: {0}</LetterLabelRelationsChange_NeutralFromAlly>
-  <LetterLabelShortCircuit>파지직!</LetterLabelShortCircuit>
+  <LetterLabelRelationsChange_Hostile>Hostile: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Ally>Allied: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_NeutralFromHostile>Enemy now neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromAlly>Ally now neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
-  <LetterLabelSuffixBondedAnimalDied>각별한 동물</LetterLabelSuffixBondedAnimalDied>
-  <LetterPartBondedAnimalDied>{HUMAN_labelShort}(와)과 각별한 사이였던 {ANIMAL_definite}(이)가 죽었습니다. {HUMAN_labelShort}의 기분에 영향을 미칩니다.</LetterPartBondedAnimalDied>
-  <LetterPartBondedAnimalDiedMulti>다음 구성원의 기분에 영향을 미칩니다:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <LetterLabelSuffixBondedAnimalDied>bonded</LetterLabelSuffixBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDiedMulti>It will affect mood of the following people:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
-  <LetterLabelPrisonBreak>탈옥</LetterLabelPrisonBreak>
-  <LetterPrisonBreak>수감자들이 어떤 방법으로 문의 잠금을 풀고 탈옥했습니다! 수감자들은 무기를 찾고, 싸우고, 도망칠 수 있습니다. 가담한 수감자들:\n\n{0}\n\n수감자들의 수가 많고 건강할 때 탈옥을 시도할 가능성이 높아집니다.</LetterPrisonBreak>
+  <LetterLabelPrisonBreak>Prison break</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
-  <LetterLabelNewlyAddicted>{0} 중독</LetterLabelNewlyAddicted>
-  <LetterNewlyAddicted>{PAWN_labelShort}(이)가 {1}에 중독됐습니다.\n\n{PAWN_possessive} 필요 탭에서 필요한 {1} 필요를 확인할 수 있으며, 가능한 경우 스스로 약물을 사용해 필요를 채울 것입니다. {PAWN_pronoun}가 {1}(을)를 구할 수 없게 된다면 일시적 금단 현상을 보일 수 있습니다.</LetterNewlyAddicted>
+  <LetterLabelNewlyAddicted>{0} addiction</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
-  <LetterLabelDrugBinge>{0} 갈망</LetterLabelDrugBinge>
-  <LetterDrugBinge>{2_label}(이)가 {1}(을)를 갈망하고 있습니다.</LetterDrugBinge>
+  <LetterLabelDrugBinge>{0} binge</LetterLabelDrugBinge>
+  <LetterDrugBinge>{2_label} is binging on {1}.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>상단 파괴</LetterLabelAllCaravanColonistsDied>
-  <LetterAllCaravanColonistsDied>{0}의 모든 구성원이 죽었습니다.</LetterAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Caravan destroyed</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>All members of {0} have died.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
-  <LetterLabelCaravanEnteredMap>{0_label}에 도착한 상단</LetterLabelCaravanEnteredMap>
-  <LetterCaravanEnteredMap>{0}(이)가 {1_definite}에 도착했습니다.</LetterCaravanEnteredMap>
+  <LetterLabelCaravanEnteredMap>Caravan arrived at {0_label}</LetterLabelCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} has arrived at {1_definite}.</LetterCaravanEnteredMap>
 
   <!-- Caravan entered enemy base -->
-  <LetterLabelCaravanEnteredEnemyBase>공격 시작</LetterLabelCaravanEnteredEnemyBase>
-  <LetterCaravanEnteredEnemyBase>{0}(이)가 {1}에 도착해 공격할 준비를 마쳤습니다.</LetterCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>Attack begun</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} has arrived at {1} and is ready to begin the attack.</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
-  <LetterLabelTransportPodsLandedInEnemyBase>공격 시작</LetterLabelTransportPodsLandedInEnemyBase>
-  <LetterTransportPodsLandedInEnemyBase>{0}에 수송 포드가 도착했습니다.</LetterTransportPodsLandedInEnemyBase>
-  <LetterShuttleLandedInEnemyBase>{0}에 왕복선이 도착했습니다.</LetterShuttleLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>Attack begun</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Your transport pods have arrived at {0}.</LetterTransportPodsLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>The shuttle has arrived at {0}.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
-  <LetterLabelFactionBaseDefeated>전초기지 파괴</LetterLabelFactionBaseDefeated>
-  <LetterFactionBaseDefeated>적의 전초기지 {0}(이)가 파괴되었습니다.\n\n지금 상단을 재구성해서 떠나지 않으면 {1} 후에 적이 병력을 보내 상단을 공격할 것입니다.</LetterFactionBaseDefeated>
-  <LetterFactionBaseDefeated_FactionDestroyed>마지막 기지 파괴로 인해 {0} 세력은 이제 존재하지 않습니다.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterLabelFactionBaseDefeated>Base destroyed</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated_FactionDestroyed>Since this was their last settlement, {0} has been defeated.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>임무 완료</LetterLabelDefeatAllEnemiesQuestCompleted>
-  <LetterDefeatAllEnemiesQuestCompleted>적의 전초기지를 파괴했습니다!\n\n{0}의 보상과 함께 관계가 {1}만큼 상승했습니다.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest completed</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
-  <LetterLabelFoundPreciousLump>귀금속 발견</LetterLabelFoundPreciousLump>
-  <LetterFoundPreciousLump>{WORKER_labelShort}(이)가 장거리 광물 탐색기를 사용하여 {0} 광맥을 발견했습니다.\n\n{1}일 내에 찾아가지 않으면 다른 누군가 먼저 채굴해갈 것입니다.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Distant resource scanned</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
-  <LetterLabelDeepScannerFoundLump>지하 자원 탐색</LetterLabelDeepScannerFoundLump>
-  <LetterDeepScannerFoundLump>{FINDER_nameDef}(이)가 지면 투과 탐색기를 사용하여 {0} 광맥을 발견했습니다!</LetterDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Scanned underground</LetterLabelDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
-  <LetterLabelAmbushInExistingMap>매복</LetterLabelAmbushInExistingMap>
-  <LetterAmbushInExistingMap>{0}(이)가 매복에 당했습니다!</LetterAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>Ambush</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>Your {0} have been ambushed!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
-  <LetterLabelPeaceTalks_Disaster>평화회담 참사</LetterLabelPeaceTalks_Disaster>
-  <LetterPeaceTalks_Disaster>회담은 참담했습니다. 대표단은 회담이 모욕과 비난으로 끝나기 전에 간신히 첫 인사만 마칠 수 있었습니다.\n\n상단이 얼른 자리를 피했지만, {1}의 {0}(이)가 따라잡아 공격했습니다!\n\n{1} 세력과의 관계: {2}.</LetterPeaceTalks_Disaster>
-  <LetterLabelPeaceTalks_Backfire>평화회담 실패</LetterLabelPeaceTalks_Backfire>
-  <LetterPeaceTalks_Backfire>회담은 실패했습니다. 약간의 사교적인 인사를 나눴음에도 불구하고, 대표단은 진정한 문제에 대해 진척을 이루지 못하고 몇몇 진술들은 모욕적으로 해석되었습니다.\n\n{0} 세력과의 관계: {1}.</LetterPeaceTalks_Backfire>
-  <LetterLabelPeaceTalks_TalksFlounder>평화회담 결렬</LetterLabelPeaceTalks_TalksFlounder>
-  <LetterPeaceTalks_TalksFlounder>회담은 결렬되었습니다. 대표단은 또렷하고 기본적인 존중으로 의사소통을 했지만, 진정한 문제에 대해서는 진척이 없었습니다.\n\n{0} 세력과의 관계는 변하지 않았습니다.</LetterPeaceTalks_TalksFlounder>
-  <LetterLabelPeaceTalks_Success>평화회담 성공</LetterLabelPeaceTalks_Success>
-  <LetterPeaceTalks_Success>회담은 성공적이었습니다. 대표단은 새로운 몇가지의 중대한 문제에 대해 서로 합의점을 찾을 수 있었습니다.\n\n{0} 세력과의 관계가 {1}만큼 향상되었습니다.</LetterPeaceTalks_Success>
-  <LetterLabelPeaceTalks_Triumph>평화회담 대성공</LetterLabelPeaceTalks_Triumph>
-  <LetterPeaceTalks_Triumph>회담은 대성공입니다! 대표단은 각 개인의 능력을 발휘해 가장 어려운 문제에 대해서 상대방의 관점을 진정성 있게 느꼈습니다.\n\n{0} 세력과의 관계가 {1}만큼 향상되었습니다.\n\n상단이 출발할 때, {0} 세력이 선물을 주었습니다:\n\n{2}</LetterPeaceTalks_Triumph>
-  <PeaceTalksSocialXPGain>협상가 {PAWN_labelShort}(은)는 {1}만큼의 사교 경험치를 얻었습니다.</PeaceTalksSocialXPGain>
+  <LetterLabelPeaceTalks_Disaster>Peace talks disaster</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>Peace talks backfire</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>Peace talks flounder</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>Peace talks success</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>Peace talks triumph</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}, your negotiator, has gained {1} social experience.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
-  <LetterRunWildMentalBreak>{0}(은)는 문명사회에 질려버렸습니다.\n\n{PAWN_pronoun}는 야생이 항상 자유가 넘친다는 것을 깨달았고, 세력을 떠나 동물들과 함께 살기로 결정했습니다.\n\n{PAWN_objective} 체포하거나 길들여 다시 데려올 수 있습니다.</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>{0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
-  <LetterCatatonicMentalBreak>{0}(은)는 정신적인 충격 때문에 일시적인 신경쇠약 상태에 빠졌습니다. 며칠이 지난 뒤 자연 회복됩니다.</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>{0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days.</LetterCatatonicMentalBreak>
 
-  <LetterLabelAICoreOffer>자아 인공지능 핵</LetterLabelAICoreOffer>
-  <LetterAICoreOffer>{1}의 {PAWN_definite}(이)가 정보를 제공함: 우주선 건설에 필요한 자아 인공지능 핵의 위치를 알려주었습니다. 매우 희소한 가치가 있어 철저한 감시하에 보관 중입니다.\n\n관심이 있다면 통신 콘솔을 이용해 연락하세요.</LetterAICoreOffer>
+  <LetterLabelAICoreOffer>Persona Core Offer</LetterLabelAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested.</LetterAICoreOffer>
 
   <!-- Crafting letters -->
-  <LetterCraftedLegendaryLabel>새로운 전설</LetterCraftedLegendaryLabel>
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort}(이)가 {CRAFTED_labelShort}에 대한 위대한 작업을 끝마쳤습니다.\n\n인류사에 길이 남을 새로운 유물의 탄생에 전 세계가 주목합니다.</LetterCraftedLegendaryMessage>
-  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort}(이)가 {CRAFTED_labelShort}에 대한 위대한 작업을 끝마쳤습니다.\n\n{0}\n\n인류사에 길이 남을 새로운 유물의 탄생에 전 세계가 주목합니다.</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryLabel>Legendary Work</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world.</LetterCraftedLegendaryMessageArt>
 
-  <LetterCraftedMasterworkLabel>걸작의 완성</LetterCraftedMasterworkLabel>
-  <LetterCraftedMasterworkMessage>{WORKER_labelShort}(이)가 {CRAFTED_labelShort}에 대한 위대한 작업을 끝마쳤습니다.</LetterCraftedMasterworkMessage>
-  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort}(이)가 {CRAFTED_labelShort}에 대한 위대한 작업을 끝마쳤습니다.\n\n{0}</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkLabel>Masterwork</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort} has created a {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>버려진 상단원</LetterLabelPawnsLostBecauseMapClosed_Caravan>
-  <LetterPawnsLostBecauseMapClosed_Caravan>버려진 상단원과 동물들</LetterPawnsLostBecauseMapClosed_Caravan>
-  <LetterLabelPawnsLostBecauseMapClosed_Home>버려진 구성원</LetterLabelPawnsLostBecauseMapClosed_Home>
-  <LetterPawnsLostBecauseMapClosed_Home>버려진 정착민과 동물들</LetterPawnsLostBecauseMapClosed_Home>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Caravan lost</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>Your caravan has been lost. The following people and animals have been lost with it</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Inhabitants abandoned</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>The following people and animals have been abandoned</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
-  <LetterLabelHibernateComplete>원자로 준비 완료</LetterLabelHibernateComplete>
-  <LetterHibernateComplete>(*Name)샬론 화이트스톤(/Name)은 원자로를 완전히 복구했고 이륙할 준비를 마쳤습니다.</LetterHibernateComplete>
-  <LetterHibernateCompleteStandalone>원자로 전력이 완전히 복구되어 이륙할 준비가 끝났습니다.</LetterHibernateCompleteStandalone>
+  <LetterLabelHibernateComplete>Reactor ready</LetterLabelHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff.</LetterHibernateComplete>
+  <LetterHibernateCompleteStandalone>The reactor's power up sequence is complete. It is now ready to power a liftoff.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
-  <LetterLabelVisitorsGaveGift>{0}의 선물</LetterLabelVisitorsGaveGift>
-  <LetterVisitorsGaveGift>{PAWN_factionName} 세력의 {0}(이)가 선물을 남김:\n\n{1}</LetterVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Gift from {0}</LetterLabelVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0} from {PAWN_factionName} have left a gift:\n\n{1}</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
-  <LetterLabelFactionBaseProximity>세력 거주지 근접도</LetterLabelFactionBaseProximity>
-  <LetterFactionBaseProximity>거리가 너무 가깝기 때문에 해당 세력이 영토를 침범 당했다고 느낍니다.\n\n지난 분기 동안 감소된 세력과의 관계도:</LetterFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>Faction base proximity</LetterLabelFactionBaseProximity>
+  <LetterFactionBaseProximity>Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
-  <LetterLabelCaravansBattlefieldVictory>상단 전투 승리</LetterLabelCaravansBattlefieldVictory>
-  <LetterCaravansBattlefieldVictory>상단이 전투에서 승리했습니다.\n\n세계지도에서 해당 지역을 선택한 뒤 "상단 재구성"을 할 수 있습니다.\n\n상단 재구성 화면에서 즉시 물품을 수집할 수 있으므로 직접 수집할 필요는 없습니다.\n\n{0} 후부터 적이 추가 공격을 시작합니다. 이 공격은 상단을 재구성해서 지역을 떠나기 전까지 지속됩니다.</LetterCaravansBattlefieldVictory>
+  <LetterLabelCaravansBattlefieldVictory>Caravan battle won</LetterLabelCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
-  <LetterLabelRescueQuestFinished>구조자 합류</LetterLabelRescueQuestFinished>
-  <LetterRescueQuestFinished>{PAWN_nameDef}(을)를 구조하였고 {PAWN_pronoun}가 정착지에 합류했습니다.\n\n세계지도에서 이 지역을 선택하고 "상단 재구성" 옵션을 선택하면 {PAWN_nameDef}(와)과 함께 갈 수 있습니다.</LetterRescueQuestFinished>
+  <LetterLabelRescueQuestFinished>Rescuee joins</LetterLabelRescueQuestFinished>
+  <LetterRescueQuestFinished>You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option.</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort}의 {PREY_definite} 사냥</LetterLabelPredatorHuntingColonist>
-  <LetterPredatorHuntingColonist>{PREDATOR}(은)는 먹이를 구하기 위해 {PREY_definite}(을)를 사냥하려고 합니다!</LetterPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} hunting {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} is hunting {PREY_definite} for food!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
-  <LetterDisease_Blocked>{0}(이)가 {1}(을)를 예방함</LetterDisease_Blocked>
-  <LetterLabelTraitDisease>질병: {0}</LetterLabelTraitDisease>
-  <LetterTraitDisease>{PAWN_label}(이)가 {1}에 걸렸습니다.\n\n의사와 의료용 침대를 준비하세요. {PAWN_pronoun}는 많은 휴식을 취하며 적절한 치료를 받아야 합니다.</LetterTraitDisease>
+  <LetterDisease_Blocked>{0} blocked {1} on</LetterDisease_Blocked>
+  <LetterLabelTraitDisease>Disease: {0}</LetterLabelTraitDisease>
+  <LetterTraitDisease>{PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible.</LetterTraitDisease>
 
   <!-- Quests -->
-  <LetterQuestBecameAvailable>새로운 '{0}' 임무 진행이 가능합니다.</LetterQuestBecameAvailable>
-  <LetterQuestRequiresAcceptance>{0} 내에 수락하지 않으면 만료됩니다.</LetterQuestRequiresAcceptance>
-  <LetterQuestBecameActive>새로운 임무가 활성화되었습니다. 이름은 '{0}'입니다.</LetterQuestBecameActive>
-  <LetterQuestAutomaticallyAcceptedTitle>임무 활성화: {0}</LetterQuestAutomaticallyAcceptedTitle>
-  <LetterQuestActiveNowTime>{0} 후에 만료됩니다.</LetterQuestActiveNowTime>
+  <LetterQuestBecameAvailable>A new quest has become available. It is called '{0}'.</LetterQuestBecameAvailable>
+  <LetterQuestRequiresAcceptance>If you don't accept the quest within {0}, it will expire.</LetterQuestRequiresAcceptance>
+  <LetterQuestBecameActive>A new quest has become active. It is called '{0}'.</LetterQuestBecameActive>
+  <LetterQuestAutomaticallyAcceptedTitle>Quest active: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestActiveNowTime>It will expire in {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
-  <LetterLabelQuestDropPodsArrived>수송 포드 도착</LetterLabelQuestDropPodsArrived>
-  <LetterQuestDropPodsArrived>다음 내용물이 담긴 수송 포드가 도착했습니다.\n\n{0}</LetterQuestDropPodsArrived>
+  <LetterLabelQuestDropPodsArrived>Pods arrived</LetterLabelQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Transport pods with the following contents have arrived:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Quest items added to caravan inventory -->
-  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label}(이)가 물품을 받음</LetterLabelQuestItemsAddedToCaravanInventory>
-  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label}(이)가 다음의 물품을 받았습니다.\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} received items</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} has received the following items:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
-  <LetterLabelRefugeeJoins>{PAWN_nameDef} 합류</LetterLabelRefugeeJoins>
-  <LetterRefugeeJoins>{PAWN_title}, {PAWN_nameDef}(이)가 정착지의 일원으로 합류했습니다.</LetterRefugeeJoins>
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} joins</LetterLabelRefugeeJoins>
+  <LetterRefugeeJoins>A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
-  <LetterLabelRescueeJoins>{PAWN_nameDef} 합류</LetterLabelRescueeJoins>
-  <LetterRescueeJoins>{PAWN_nameDef}(은)는 자신을 구해준 것에 감사를 표하며 정착지의 일원으로 합류했습니다.</LetterRescueeJoins>
+  <LetterLabelRescueeJoins>{PAWN_nameDef} joins</LetterLabelRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
-  <LetterLabelPawnsArriveAndJoin>정착민 합류</LetterLabelPawnsArriveAndJoin>
-  <LetterPawnsArriveAndJoin>다음 인물이 정착지에 합류했습니다.\n\n{0}</LetterPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>People join</LetterLabelPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>The following people have arrived and joined the colony:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
-  <LetterLabelPawnsArrive>사람들이 도착함</LetterLabelPawnsArrive>
-  <LetterPawnsArrive>다음 사람들이 도착했습니다.\n\n{0}</LetterPawnsArrive>
+  <LetterLabelPawnsArrive>People arrived</LetterLabelPawnsArrive>
+  <LetterPawnsArrive>The following people have arrived:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
-  <LetterLabelPawnLeaving>{0} 떠남</LetterLabelPawnLeaving>
-  <LetterPawnLeaving>{0}(이)가 정착지를 떠납니다.</LetterPawnLeaving>
+  <LetterLabelPawnLeaving>{0} leaving</LetterLabelPawnLeaving>
+  <LetterPawnLeaving>{0} is leaving.</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
-  <LetterLabelPawnsLeaving>{0} 떠남</LetterLabelPawnsLeaving>
-  <LetterPawnsLeaving>{0}의 외지인들이 정착지를 떠납니다.</LetterPawnsLeaving>
+  <LetterLabelPawnsLeaving>{0} leaving</LetterLabelPawnsLeaving>
+  <LetterPawnsLeaving>{0} are leaving.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
-  <LetterLabelPawnsKidnapped>납치된 {PAWN_nameDef}</LetterLabelPawnsKidnapped>
-  <LetterPawnsKidnapped>{FACTION_name}(이)가 {PAWN_nameDef}(을)를 납치했습니다!\n\n그러나 이 사건이 반드시 영원한 이별을 의미하는 것은 아닙니다. 가까운 미래에 {PAWN_objective} 구출할 기회가 있을 것입니다.</LetterPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} kidnapped</LetterLabelPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} has been kidnapped by {FACTION_name}!
+\nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
-  <LetterTechprintAppliedLabel>{PROJECT_label}에 기술청사진 적용됨</LetterTechprintAppliedLabel>
-  <LetterTechprintAppliedPartIntro>{PROJECT_label} 연구에 기술청사진이 적용되었습니다.</LetterTechprintAppliedPartIntro>
-  <LetterTechprintAppliedPartJustUnlocked>연구 시작에 필요한 기술청사진을 모두 적용했습니다! 이제 연구를 시작할 수 있습니다.</LetterTechprintAppliedPartJustUnlocked>
-  <LetterTechprintAppliedPartNotUnlockedYet>연구 시작에 필요한 기술청사진 요구조건이 아직 충족되지 않았습니다. 현재 {0}개의 기술청사진이 적용되었으며, 총 {1}개의 기술청사진이 필요합니다.</LetterTechprintAppliedPartNotUnlockedYet>
-  <LetterTechprintAppliedPartAlreadyUnlocked>기술청사진 요구조건은 이미 충족된 상태지만, 더 많은 기술청사진을 적용함으로써 {PROJECT_label}에 대한 추가적인 성과를 얻을 수 있었습니다. 남은 연구점수의 절반인 {0}점이 완료되었습니다.</LetterTechprintAppliedPartAlreadyUnlocked>
-  <LetterTechprintAppliedPartAlreadyResearched>이 연구는 이미 완전히 끝난 상태이므로 기술청사진 적용으로 어떤 성과도 얻지 못했습니다.</LetterTechprintAppliedPartAlreadyResearched>
-  <LetterTechprintAppliedPartExpAwarded>{PAWN_labelShort}(은)는 기술청사진으로부터 {0} {1} 경험치를 획득했습니다.</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedLabel>Techprint applied: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedPartIntro>A techprint has been applied to the research project: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartJustUnlocked>You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches.</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartNotUnlockedYet>This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartAlreadyUnlocked>This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyResearched>This project is already fully researched, so the techprint didn't advance your knowledge at all.</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartExpAwarded>By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill.</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
-  <LetterQuestCompletedLabel>임무 완료</LetterQuestCompletedLabel>
-  <LetterQuestFailedLabel>임무 실패</LetterQuestFailedLabel>
-  <LetterQuestConcludedLabel>임무 완수</LetterQuestConcludedLabel>
-  <LetterQuestCompletedSuccess>'{0}' 임무를 성공적으로 완료했습니다!</LetterQuestCompletedSuccess>
-  <LetterQuestCompletedFail>'{0}' 임무를 실패했습니다.</LetterQuestCompletedFail>
-  <LetterQuestCompletedConcluded>'{0}' 임무를 완수했습니다.</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedLabel>Quest completed</LetterQuestCompletedLabel>
+  <LetterQuestFailedLabel>Quest failed</LetterQuestFailedLabel>
+  <LetterQuestConcludedLabel>Quest concluded</LetterQuestConcludedLabel>
+  <LetterQuestCompletedSuccess>You have successfully completed the quest '{0}'!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedFail>You have failed the quest '{0}'.</LetterQuestCompletedFail>
+  <LetterQuestCompletedConcluded>You have concluded the quest '{0}'.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
-  <LetterBladelinkWeaponBondedLabel>{PAWN_labelShort}(이)가 자신의 무기와 결속됨</LetterBladelinkWeaponBondedLabel>
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort}(이)가 {WEAPON_labelShort}(와)과 영혼의 유대를 맺었습니다.\n\n지금부터 {WEAPON_labelShort}(은)는 {PAWN_labelShort}만이 사용할 수 있습니다.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBondedLabel>Persona bond: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
+\nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
-  <LetterLabelMechClusterArrived>메카노이드 도착</LetterLabelMechClusterArrived>
-  <LetterMechClusterArrived>메카노이드 군대가 도착했습니다.</LetterMechClusterArrived>
+  <LetterLabelMechClusterArrived>Mechanoids arrived</LetterLabelMechClusterArrived>
+  <LetterMechClusterArrived>Mechanoids have arrived.</LetterMechClusterArrived>
 
-  <LetterLabelSiteCountdownStarted>상단 발각됨</LetterLabelSiteCountdownStarted>
-  <LetterTextSiteCountdownStarted>상단의 위치가 적에게 발각되었습니다. {2}의 {1}(이)가 {0} 후 해당 지역에 도착합니다.\n\n{1}(을)를 피하려면 상단을 재구성하고 이동하세요. {1}(이)가 도착할 때까지 남은 시간을 나타내는 타이머가 표시됩니다.</LetterTextSiteCountdownStarted>
+  <LetterLabelSiteCountdownStarted>Caravan detected</LetterLabelSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible.</LetterTextSiteCountdownStarted>
 
-  <LetterLabelUnrecruitablePawnCaptured>확고한 충성심의 수감자</LetterLabelUnrecruitablePawnCaptured>
-  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef}(은)는 자신의 출신 세력에 충성하며 이 의지는 꺾을 수 없습니다.\n\n사람을 선택하면 굴복 여부를 알아낼 수 있습니다.</LetterTextUnrecruitablePawnCaptured>
-  <OptionalEnslaveDesc>{PAWN_objective} 노예화</OptionalEnslaveDesc>
+  <LetterLabelUnrecruitablePawnCaptured>Unwavering prisoner</LetterLabelUnrecruitablePawnCaptured>
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them.</LetterTextUnrecruitablePawnCaptured>
+  <OptionalEnslaveDesc>enslave {PAWN_objective}</OptionalEnslaveDesc>
 
   <!-- Lung rot -->
-  <LetterTextLungRot>{PAWN}(이)가 썩어가는 시체에서 나온 부패 가스에 길게 노출돼 {1}(을)를 얻었습니다.\n\n의사와 의료용 침대를 준비하세요. {PAWN_pronoun}는 많은 휴식을 취하며 적절한 치료를 받아야 합니다.</LetterTextLungRot>
+  <LetterTextLungRot>{PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment.</LetterTextLungRot>
 
   <!-- Join Offer -->
-  <LetterJoinOfferLabel>합류 제안: {PAWN_nameDef}</LetterJoinOfferLabel>
-  <LetterJoinOfferTitle>{PAWN_nameDef}(이)가 합류하길 원합니다.</LetterJoinOfferTitle>
-  <LetterJoinOfferText>{PAWN_nameDef}(은)는 {MAP_definite}에서 만족하고 있습니다. {PAWN_pronoun}는 당신의 세력에 영구적으로 합류하고 싶어합니다.</LetterJoinOfferText>
-  <LetterJoinOfferAccept>수락</LetterJoinOfferAccept>
+  <LetterJoinOfferLabel>Join offer: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferTitle>{PAWN_nameDef} wishes to join your faction.</LetterJoinOfferTitle>
+  <LetterJoinOfferText>{PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently.</LetterJoinOfferText>
+  <LetterJoinOfferAccept>Accept</LetterJoinOfferAccept>
 
   <!-- Speeches -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort}(이)가 연설을 마쳤습니다.</LetterFinishedSpeech>
-  <LetterTerribleSpeech>어색한 농담과 우울한 이야기로 가득한 연설이었습니다. 정말 끔찍했습니다.</LetterTerribleSpeech>
-  <LetterUninspiringSpeech>열정이 부족하고 독창적이지도 않은 연설이었습니다.</LetterUninspiringSpeech>
-  <LetterEncouragingSpeech>격려와 위로가 담긴 따뜻한 연설이었습니다.</LetterEncouragingSpeech>
-  <LetterInspirationalSpeech>목적성을 자극하는 강렬한 연설이었습니다. 놀라운 영감이 주어집니다.</LetterInspirationalSpeech>
-  <LetterSpeechInspiredListeners>연설에 감동받아 영감을 받은 사람들:</LetterSpeechInspiredListeners>
-  <LetterSpeechInspiration>{SPEAKER_nameIndef}의 놀라운 연설은 {PAWN_nameIndef}의 영감을 자극했습니다!</LetterSpeechInspiration>
-  <LetterSpeechInterrupted>연설이 {0}에서 중단되어 별 효과를 내지 못했습니다.</LetterSpeechInterrupted>
-  <LetterSpeechCancelled>{0}의 연설이 준비한 것의 반도 넘기지 못하고 취소되었습니다. 아무 효과도 없었습니다.</LetterSpeechCancelled>
-  <LetterLabelSpeechCancelled>연설 취소됨</LetterLabelSpeechCancelled>
+  <LetterFinishedSpeech>{ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech.</LetterFinishedSpeech>
+  <LetterTerribleSpeech>It was truly atrocious - halting, full of awkward jokes and depressing stories.</LetterTerribleSpeech>
+  <LetterUninspiringSpeech>It was uninspiring - unoriginal, droning and lacking any sense of passion.</LetterUninspiringSpeech>
+  <LetterEncouragingSpeech>It was encouraging and well-delivered.</LetterEncouragingSpeech>
+  <LetterInspirationalSpeech>It was remarkably inspiring, full of intensity and purpose.</LetterInspirationalSpeech>
+  <LetterSpeechInspiredListeners>The following people were particularly moved by the speech and are now inspired:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiration>Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration!</LetterSpeechInspiration>
+  <LetterSpeechInterrupted>Because the speech was interrupted after only {0} completed, it wasn't as effective.</LetterSpeechInterrupted>
+  <LetterSpeechCancelled>{0}'s speech was cancelled before reaching 50% completion. It had no effect.</LetterSpeechCancelled>
+  <LetterLabelSpeechCancelled>Speech cancelled</LetterLabelSpeechCancelled>
 
 </LanguageData>
