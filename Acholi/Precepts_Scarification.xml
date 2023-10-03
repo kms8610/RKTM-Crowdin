@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Scarification.label>crwdns432332:0crwdne432332:0</Scarification.label>
+  <Scarification_Extreme.label>crwdns436916:0crwdne436916:0</Scarification_Extreme.label>
+  <Scarification_Extreme.description>crwdns436918:0crwdne436918:0</Scarification_Extreme.description>
+  <Scarification_Extreme.comps.0.thoughtStageDescriptions.0>crwdns436920:0crwdne436920:0</Scarification_Extreme.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>crwdns436922:0crwdne436922:0</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
+  
+  <Scarification_Heavy.label>crwdns436924:0crwdne436924:0</Scarification_Heavy.label>
+  <Scarification_Heavy.description>crwdns436926:0crwdne436926:0</Scarification_Heavy.description>
+  <Scarification_Heavy.comps.0.thoughtStageDescriptions.0>crwdns436928:0crwdne436928:0</Scarification_Heavy.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Heavy.comps.1.thoughtStageDescriptions.0>crwdns436930:0crwdne436930:0</Scarification_Heavy.comps.1.thoughtStageDescriptions.0>
+  
+  <Scarification_Horrible.label>crwdns436932:0crwdne436932:0</Scarification_Horrible.label>
+  <Scarification_Horrible.description>crwdns436934:0crwdne436934:0</Scarification_Horrible.description>
+  <Scarification_Horrible.comps.0.description>crwdns436936:0crwdne436936:0</Scarification_Horrible.comps.0.description>
+  
+  <Scarification_Minor.label>crwdns436938:0crwdne436938:0</Scarification_Minor.label>
+  <Scarification_Minor.description>crwdns436940:0crwdne436940:0</Scarification_Minor.description>
+  <Scarification_Minor.comps.0.thoughtStageDescriptions.0>crwdns436942:0crwdne436942:0</Scarification_Minor.comps.0.thoughtStageDescriptions.0>
+  <Scarification_Minor.comps.1.thoughtStageDescriptions.0>crwdns436944:0crwdne436944:0</Scarification_Minor.comps.1.thoughtStageDescriptions.0>
 </LanguageData>
