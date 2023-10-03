@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bomb.label>폭탄</Bomb.label>
-  <Bomb.deathMessage>{0}(이)가 폭발에 휘말려 죽었습니다.</Bomb.deathMessage>
+  <AcidBurn.label>산성 화상</AcidBurn.label>
+  <AcidBurn.deathMessage>{0}(이)가 타죽었습니다.</AcidBurn.deathMessage>
   
-  <BombSuper.label>폭탄</BombSuper.label>
-  <BombSuper.deathMessage>{0}(이)가 폭발에 휘말려 죽었습니다.</BombSuper.deathMessage>
+  <Beam.label>광선</Beam.label>
+  <Beam.deathMessage>{0}(이)가 광선에 맞아 죽었습니다.</Beam.deathMessage>
   
-  <Deterioration.label>훼손</Deterioration.label>
-  <Deterioration.deathMessage>{0}(이)가 죽었습니다.</Deterioration.deathMessage>
+  <ToxGas.label>독소 활용</ToxGas.label>
+  <ToxGas.deathMessage>{0}(이)가 죽었습니다.</ToxGas.deathMessage>
   
-  <Extinguish.label>진압</Extinguish.label>
-  <Extinguish.deathMessage>{0}(이)가 죽었습니다.</Extinguish.deathMessage>
-  
-  <Mining.label>채굴</Mining.label>
-  <Mining.deathMessage>{0}(이)가 죽었습니다.</Mining.deathMessage>
-  
-  <Rotting.label>부패</Rotting.label>
-  <Rotting.deathMessage>{0}(이)가 죽었습니다.</Rotting.deathMessage>
-  
-  <Smoke.label>연기</Smoke.label>
-  <Smoke.deathMessage>{0}(이)가 죽었습니다.</Smoke.deathMessage>
-  
-  <Thump.label>충격</Thump.label>
-  <Thump.deathMessage>{0}(이)가 총에 맞아 죽었습니다.</Thump.deathMessage>
+  <Vaporize.label>기화</Vaporize.label>
+  <Vaporize.deathMessage>{0}(은)는 극한의 열에 의해 기화되었습니다.</Vaporize.deathMessage>
 </LanguageData>
