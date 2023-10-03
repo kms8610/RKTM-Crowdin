@@ -1,42 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Disease_AnimalFlu.label>crwdns458596:0crwdne458596:0</Disease_AnimalFlu.label>
-  <Disease_AnimalFlu.letterLabel>crwdns458598:0crwdne458598:0</Disease_AnimalFlu.letterLabel>
-  <Disease_AnimalFlu.letterText>crwdns458600:0{0}crwdnd458600:0{2}crwdne458600:0</Disease_AnimalFlu.letterText>
+  <Disease_Abasia.label>crwdns445730:0crwdne445730:0</Disease_Abasia.label>
+  <Disease_Abasia.letterLabel>crwdns445732:0crwdne445732:0</Disease_Abasia.letterLabel>
+  <Disease_Abasia.letterText>crwdns445734:0{0}crwdnd445734:0{1}crwdnd445734:0{2}crwdnd445734:0{1}crwdne445734:0</Disease_Abasia.letterText>
   
-  <Disease_AnimalPlague.label>crwdns458602:0crwdne458602:0</Disease_AnimalPlague.label>
-  <Disease_AnimalPlague.letterLabel>crwdns458604:0crwdne458604:0</Disease_AnimalPlague.letterLabel>
-  <Disease_AnimalPlague.letterText>crwdns458606:0{0}crwdnd458606:0{2}crwdne458606:0</Disease_AnimalPlague.letterText>
-  
-  <Disease_FibrousMechanites.label>crwdns458608:0crwdne458608:0</Disease_FibrousMechanites.label>
-  <Disease_FibrousMechanites.letterLabel>crwdns458610:0crwdne458610:0</Disease_FibrousMechanites.letterLabel>
-  <Disease_FibrousMechanites.letterText>crwdns458612:0{0}crwdnd458612:0{1}crwdnd458612:0{2}crwdnd458612:0{1}crwdne458612:0</Disease_FibrousMechanites.letterText>
-  
-  <Disease_Flu.label>crwdns458614:0crwdne458614:0</Disease_Flu.label>
-  <Disease_Flu.letterLabel>crwdns458616:0crwdne458616:0</Disease_Flu.letterLabel>
-  <Disease_Flu.letterText>crwdns458618:0{0}crwdnd458618:0{1}crwdnd458618:0{2}crwdnd458618:0{1}crwdne458618:0</Disease_Flu.letterText>
-  
-  <Disease_GutWorms.label>crwdns458620:0crwdne458620:0</Disease_GutWorms.label>
-  <Disease_GutWorms.letterLabel>crwdns458622:0crwdne458622:0</Disease_GutWorms.letterLabel>
-  <Disease_GutWorms.letterText>crwdns458624:0{0}crwdnd458624:0{1}crwdnd458624:0{2}crwdnd458624:0{1}crwdne458624:0</Disease_GutWorms.letterText>
-  
-  <Disease_Malaria.label>crwdns458626:0crwdne458626:0</Disease_Malaria.label>
-  <Disease_Malaria.letterLabel>crwdns458628:0crwdne458628:0</Disease_Malaria.letterLabel>
-  <Disease_Malaria.letterText>crwdns458630:0{0}crwdnd458630:0{1}crwdnd458630:0{2}crwdnd458630:0{1}crwdne458630:0</Disease_Malaria.letterText>
-  
-  <Disease_MuscleParasites.label>crwdns458632:0crwdne458632:0</Disease_MuscleParasites.label>
-  <Disease_MuscleParasites.letterLabel>crwdns458634:0crwdne458634:0</Disease_MuscleParasites.letterLabel>
-  <Disease_MuscleParasites.letterText>crwdns458636:0{0}crwdnd458636:0{1}crwdnd458636:0{2}crwdnd458636:0{1}crwdne458636:0</Disease_MuscleParasites.letterText>
-  
-  <Disease_Plague.label>crwdns458638:0crwdne458638:0</Disease_Plague.label>
-  <Disease_Plague.letterLabel>crwdns458640:0crwdne458640:0</Disease_Plague.letterLabel>
-  <Disease_Plague.letterText>crwdns458642:0{0}crwdnd458642:0{1}crwdnd458642:0{2}crwdnd458642:0{1}crwdne458642:0</Disease_Plague.letterText>
-  
-  <Disease_SensoryMechanites.label>crwdns458644:0crwdne458644:0</Disease_SensoryMechanites.label>
-  <Disease_SensoryMechanites.letterLabel>crwdns458646:0crwdne458646:0</Disease_SensoryMechanites.letterLabel>
-  <Disease_SensoryMechanites.letterText>crwdns458648:0{0}crwdnd458648:0{1}crwdnd458648:0{2}crwdnd458648:0{1}crwdne458648:0</Disease_SensoryMechanites.letterText>
-  
-  <Disease_SleepingSickness.label>crwdns458650:0crwdne458650:0</Disease_SleepingSickness.label>
-  <Disease_SleepingSickness.letterLabel>crwdns458652:0crwdne458652:0</Disease_SleepingSickness.letterLabel>
-  <Disease_SleepingSickness.letterText>crwdns458654:0{0}crwdnd458654:0{1}crwdnd458654:0{2}crwdnd458654:0{1}crwdne458654:0</Disease_SleepingSickness.letterText>
+  <Disease_BloodRot.label>crwdns445736:0crwdne445736:0</Disease_BloodRot.label>
+  <Disease_BloodRot.letterLabel>crwdns445738:0crwdne445738:0</Disease_BloodRot.letterLabel>
+  <Disease_BloodRot.letterText>crwdns445740:0{0}crwdnd445740:0{1}crwdnd445740:0{2}crwdnd445740:0{1}crwdne445740:0</Disease_BloodRot.letterText>
 </LanguageData>
