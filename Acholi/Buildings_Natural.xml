@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CollapsedRocks.label>crwdns471618:0crwdne471618:0</CollapsedRocks.label>
-  <CollapsedRocks.description>crwdns471620:0crwdne471620:0</CollapsedRocks.description>
+  <CocoonMegascarab.label>crwdns427336:0crwdne427336:0</CocoonMegascarab.label>
+  <CocoonMegascarab.description>crwdns427338:0crwdne427338:0</CocoonMegascarab.description>
   
-  <GlowPod.label>crwdns471622:0crwdne471622:0</GlowPod.label>
-  <GlowPod.description>crwdns471624:0crwdne471624:0</GlowPod.description>
+  <CocoonMegaspider.label>crwdns427340:0crwdne427340:0</CocoonMegaspider.label>
+  <CocoonMegaspider.description>crwdns427342:0crwdne427342:0</CocoonMegaspider.description>
   
-  <Hive.label>crwdns471626:0crwdne471626:0</Hive.label>
-  <Hive.description>crwdns471628:0crwdne471628:0</Hive.description>
-  
-  <MineableComponentsIndustrial.label>crwdns471630:0crwdne471630:0</MineableComponentsIndustrial.label>
-  <MineableComponentsIndustrial.description>crwdns471632:0crwdne471632:0</MineableComponentsIndustrial.description>
-  
-  <MineableGold.label>crwdns471634:0crwdne471634:0</MineableGold.label>
-  <MineableGold.description>crwdns471636:0crwdne471636:0</MineableGold.description>
-  
-  <MineableJade.label>crwdns471638:0crwdne471638:0</MineableJade.label>
-  <MineableJade.description>crwdns471640:0crwdne471640:0</MineableJade.description>
-  
-  <MineablePlasteel.label>crwdns471642:0crwdne471642:0</MineablePlasteel.label>
-  <MineablePlasteel.description>crwdns471644:0crwdne471644:0</MineablePlasteel.description>
-  
-  <MineableSilver.label>crwdns471646:0crwdne471646:0</MineableSilver.label>
-  <MineableSilver.description>crwdns471648:0crwdne471648:0</MineableSilver.description>
-  
-  <MineableSteel.label>crwdns471650:0crwdne471650:0</MineableSteel.label>
-  <MineableSteel.description>crwdns471652:0crwdne471652:0</MineableSteel.description>
-  
-  <MineableUranium.label>crwdns471654:0crwdne471654:0</MineableUranium.label>
-  <MineableUranium.description>crwdns471656:0crwdne471656:0</MineableUranium.description>
-  
-  <RaisedRocks.label>crwdns471658:0crwdne471658:0</RaisedRocks.label>
-  <RaisedRocks.description>crwdns471660:0crwdne471660:0</RaisedRocks.description>
-  
-  <SteamGeyser.label>crwdns471662:0crwdne471662:0</SteamGeyser.label>
-  <SteamGeyser.description>crwdns471664:0crwdne471664:0</SteamGeyser.description>
+  <CocoonSpelopede.label>crwdns427344:0crwdne427344:0</CocoonSpelopede.label>
+  <CocoonSpelopede.description>crwdns427346:0crwdne427346:0</CocoonSpelopede.description>
 </LanguageData>
