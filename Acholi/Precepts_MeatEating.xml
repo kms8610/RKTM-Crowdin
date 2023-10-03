@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeatEating.label>crwdns432304:0crwdne432304:0</MeatEating.label>
+  <MeatEating_Abhorrent.label>crwdns436502:0crwdne436502:0</MeatEating_Abhorrent.label>
+  <MeatEating_Abhorrent.description>crwdns436504:0crwdne436504:0</MeatEating_Abhorrent.description>
+  
+  <MeatEating_Disapproved.label>crwdns436506:0crwdne436506:0</MeatEating_Disapproved.label>
+  <MeatEating_Disapproved.description>crwdns436508:0crwdne436508:0</MeatEating_Disapproved.description>
+  
+  <MeatEating_Horrible.label>crwdns436510:0crwdne436510:0</MeatEating_Horrible.label>
+  <MeatEating_Horrible.description>crwdns436512:0crwdne436512:0</MeatEating_Horrible.description>
+  
+  <MeatEating_NonMeat_Abhorrent.label>crwdns436514:0crwdne436514:0</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Abhorrent.description>crwdns436516:0crwdne436516:0</MeatEating_NonMeat_Abhorrent.description>
+  
+  <MeatEating_NonMeat_Disapproved.label>crwdns436518:0crwdne436518:0</MeatEating_NonMeat_Disapproved.label>
+  <MeatEating_NonMeat_Disapproved.description>crwdns436520:0crwdne436520:0</MeatEating_NonMeat_Disapproved.description>
+  
+  <MeatEating_NonMeat_Horrible.label>crwdns436522:0crwdne436522:0</MeatEating_NonMeat_Horrible.label>
+  <MeatEating_NonMeat_Horrible.description>crwdns436524:0crwdne436524:0</MeatEating_NonMeat_Horrible.description>
 </LanguageData>
