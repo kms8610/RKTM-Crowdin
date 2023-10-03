@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MiningYield_High.label>high</MiningYield_High.label>
-  <MiningYield_High.description>Mining is so important that we do it with great focus and respect, and we get more resources because of that.</MiningYield_High.description>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>destroyed natural wall</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>I destroyed a natural wall. It's wrong to scar the world this way.</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
   
-  <Mining_Disapproved.label>disapproved</Mining_Disapproved.label>
-  <Mining_Disapproved.description>Mining into the natural earth is an ugly act.</Mining_Disapproved.description>
-  <Mining_Disapproved.comps.0.description>Someone mined a block</Mining_Disapproved.comps.0.description>
-  <Mining_Disapproved.comps.3.description>Someone mined a block</Mining_Disapproved.comps.3.description>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>destroyed natural wall</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>I destroyed a natural wall. It was a horrible violation of nature.</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
   
-  <Mining_Horrible.label>horrible</Mining_Horrible.label>
-  <Mining_Horrible.description>Violating the natural earth with mining tools is a horrible act.</Mining_Horrible.description>
-  <Mining_Horrible.comps.0.description>Someone mined a block</Mining_Horrible.comps.0.description>
-  <Mining_Horrible.comps.3.description>Someone mined a block</Mining_Horrible.comps.3.description>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>destroyed natural wall</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>I destroyed a natural wall. What a terrible offense against nature.</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
   
-  <Mining_Prohibited.label>prohibited</Mining_Prohibited.label>
-  <Mining_Prohibited.description>Raping the natural earth with mining tools is a horrifically evil act.</Mining_Prohibited.description>
-  <Mining_Prohibited.comps.0.description>Mining</Mining_Prohibited.comps.0.description>
-  <Mining_Prohibited.comps.3.description>Someone mined a block</Mining_Prohibited.comps.3.description>
+  <Mined_Disapproved.stages.mined.label>mined</Mined_Disapproved.stages.mined.label>
+  <Mined_Disapproved.stages.mined.description>I had to mine a hole. I disapprove of harming the earth this way.</Mined_Disapproved.stages.mined.description>
+  
+  <Mined_Horrible.stages.mined.label>mined</Mined_Horrible.stages.mined.label>
+  <Mined_Horrible.stages.mined.description>I had to mine a hole. It was an offense against the earth.</Mined_Horrible.stages.mined.description>
+  
+  <Mined_Know_Disapproved.stages.mined.label>mined</Mined_Know_Disapproved.stages.mined.label>
+  
+  <Mined_Know_Disapproved_Mood.stages.mined.label>mined</Mined_Know_Disapproved_Mood.stages.mined.label>
+  <Mined_Know_Disapproved_Mood.stages.mined.description>Someone mined a hole in the pure earth. It's wrong to scar the world this way.</Mined_Know_Disapproved_Mood.stages.mined.description>
+  
+  <Mined_Know_Horrible.stages.mined.label>mined</Mined_Know_Horrible.stages.mined.label>
+  
+  <Mined_Know_Horrible_Mood.stages.mined.label>mined</Mined_Know_Horrible_Mood.stages.mined.label>
+  <Mined_Know_Horrible_Mood.stages.mined.description>Someone mined a hole in the pure earth. It was a horrible violation of nature.</Mined_Know_Horrible_Mood.stages.mined.description>
+  
+  <Mined_Know_Prohibited.stages.mined.label>mined</Mined_Know_Prohibited.stages.mined.label>
+  
+  <Mined_Know_Prohibited_Mood.stages.mined.label>mined</Mined_Know_Prohibited_Mood.stages.mined.label>
+  <Mined_Know_Prohibited_Mood.stages.mined.description>We mined a hole in the pure earth. What a terrible offense against nature.</Mined_Know_Prohibited_Mood.stages.mined.description>
 </LanguageData>
