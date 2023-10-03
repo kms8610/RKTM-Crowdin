@@ -1,131 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalsSlaughtered.label>도축</AnimalsSlaughtered.label>
-  <AnimalsSlaughtered.description>내가 도축한 동물의 수.</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.label>animals slaughtered</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.description>The number of animals I have slaughtered.</AnimalsSlaughtered.description>
   
-  <AnimalsTamed.label>조련</AnimalsTamed.label>
-  <AnimalsTamed.description>내가 길들인 동물의 수.</AnimalsTamed.description>
+  <AnimalsTamed.label>animals tamed</AnimalsTamed.label>
+  <AnimalsTamed.description>The number of animals I have tamed.</AnimalsTamed.description>
   
-  <ArtifactsActivated.label>유물</ArtifactsActivated.label>
-  <ArtifactsActivated.description>내가 사용한 유물의 수.</ArtifactsActivated.description>
+  <ArtifactsActivated.label>artifacts activated</ArtifactsActivated.label>
+  <ArtifactsActivated.description>The number of artifacts I have activated.</ArtifactsActivated.description>
   
-  <BodiesStripped.label>벗기기</BodiesStripped.label>
-  <BodiesStripped.description>내가 시체에서 옷을 벗긴 횟수.</BodiesStripped.description>
+  <BodiesStripped.label>bodies stripped</BodiesStripped.label>
+  <BodiesStripped.description>The number of bodies I have stripped.</BodiesStripped.description>
   
-  <CellsMined.label>채굴</CellsMined.label>
-  <CellsMined.description>내가 캐낸 바위의 칸 수.</CellsMined.description>
+  <CellsMined.label>cells mined</CellsMined.label>
+  <CellsMined.description>The number of cells I have mined out.</CellsMined.description>
   
-  <ContainersOpened.label>개봉</ContainersOpened.label>
-  <ContainersOpened.description>내가 열어본 상자의 수.</ContainersOpened.description>
+  <ContainersOpened.label>containers opened</ContainersOpened.label>
+  <ContainersOpened.description>The number of containers I have opened.</ContainersOpened.description>
   
-  <CorpsesBuried.label>매장</CorpsesBuried.label>
-  <CorpsesBuried.description>내가 매장한 시체의 수.</CorpsesBuried.description>
+  <CorpsesBuried.label>corpses buried</CorpsesBuried.label>
+  <CorpsesBuried.description>The number of corpses I have buried.</CorpsesBuried.description>
   
-  <DamageDealt.label>가한 피해량</DamageDealt.label>
-  <DamageDealt.description>내가 가한 피해량.</DamageDealt.description>
+  <DamageDealt.label>damage dealt</DamageDealt.label>
+  <DamageDealt.description>The amount of damage I have dealt.</DamageDealt.description>
   
-  <DamageTaken.label>받은 피해량</DamageTaken.label>
-  <DamageTaken.description>내가 받은 피해량.</DamageTaken.description>
+  <DamageTaken.label>damage taken</DamageTaken.label>
+  <DamageTaken.description>The amount of damage I have taken.</DamageTaken.description>
   
-  <FiresExtinguished.label>화제 진압</FiresExtinguished.label>
-  <FiresExtinguished.description>내가 불을 끈 횟수.</FiresExtinguished.description>
+  <FiresExtinguished.label>fires extinguished</FiresExtinguished.label>
+  <FiresExtinguished.description>The number of fires I have extinguished.</FiresExtinguished.description>
   
-  <Headshots.label>헤드샷</Headshots.label>
-  <Headshots.description>내가 머리를 맞춘 횟수.</Headshots.description>
+  <Headshots.label>headshots</Headshots.label>
+  <Headshots.description>The number of headshots I have made.</Headshots.description>
   
-  <Kills.label>죽임</Kills.label>
-  <Kills.description>내가 제거한 개체의 수.</Kills.description>
+  <Kills.label>kills</Kills.label>
+  <Kills.description>The number of creatures I have killed.</Kills.description>
   
-  <KillsAnimals.label>사냥</KillsAnimals.label>
-  <KillsAnimals.description>내가 죽인 동물의 수.</KillsAnimals.description>
+  <KillsAnimals.label>kills (animals)</KillsAnimals.label>
+  <KillsAnimals.description>The number of animals I have killed.</KillsAnimals.description>
   
-  <KillsHumanlikes.label>살인</KillsHumanlikes.label>
-  <KillsHumanlikes.description>내가 죽인 인간의 수.</KillsHumanlikes.description>
+  <KillsHumanlikes.label>kills (humanlikes)</KillsHumanlikes.label>
+  <KillsHumanlikes.description>The number of humanlike characters I have killed.</KillsHumanlikes.description>
   
-  <KillsMechanoids.label>사냥 (메카노이드)</KillsMechanoids.label>
-  <KillsMechanoids.description>내가 부순 메카노이드의 수.</KillsMechanoids.description>
+  <KillsMechanoids.label>kills (mechanoids)</KillsMechanoids.label>
+  <KillsMechanoids.description>The number of mechanoids I have killed.</KillsMechanoids.description>
   
-  <MealsCooked.label>조리</MealsCooked.label>
-  <MealsCooked.description>내가 만든 음식의 수.</MealsCooked.description>
+  <MealsCooked.label>meals cooked</MealsCooked.label>
+  <MealsCooked.description>The number of meals I have cooked.</MealsCooked.description>
   
-  <MessesCleaned.label>청소</MessesCleaned.label>
-  <MessesCleaned.description>내가 청소한 쓰레기의 수.</MessesCleaned.description>
+  <MessesCleaned.label>messes cleaned</MessesCleaned.label>
+  <MessesCleaned.description>The number of messes I have cleaned up.</MessesCleaned.description>
   
-  <NutritionEaten.label>섭취</NutritionEaten.label>
-  <NutritionEaten.description>내가 섭취한 영양가의 총량.</NutritionEaten.description>
+  <NutritionEaten.label>nutrition eaten</NutritionEaten.label>
+  <NutritionEaten.description>The amount of nutrition I have eaten.</NutritionEaten.description>
   
-  <OperationsPerformed.label>수술</OperationsPerformed.label>
-  <OperationsPerformed.description>내가 수술을 한 횟수.</OperationsPerformed.description>
+  <OperationsPerformed.label>operations performed</OperationsPerformed.label>
+  <OperationsPerformed.description>How many medical operations I have performed.</OperationsPerformed.description>
   
-  <OperationsReceived.label>수술 받음</OperationsReceived.label>
-  <OperationsReceived.description>내가 수술을 받은 횟수.</OperationsReceived.description>
+  <OperationsReceived.label>operations received</OperationsReceived.label>
+  <OperationsReceived.description>How many times I have been medically operated on.</OperationsReceived.description>
   
-  <PawnsDowned.label>제압</PawnsDowned.label>
-  <PawnsDowned.description>내가 제압한 개체의 수.</PawnsDowned.description>
+  <PawnsDowned.label>enemies downed</PawnsDowned.label>
+  <PawnsDowned.description>The number of creatures I have downed.</PawnsDowned.description>
   
-  <PawnsDownedAnimals.label>제압 (동물)</PawnsDownedAnimals.label>
-  <PawnsDownedAnimals.description>내가 제압한 동물의 수.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.label>enemies downed (animals)</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.description>The number of animals I have downed, whether hunting or in combat.</PawnsDownedAnimals.description>
   
-  <PawnsDownedHumanlikes.label>제압 (인간)</PawnsDownedHumanlikes.label>
-  <PawnsDownedHumanlikes.description>내가 제압한 인간의 수.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.label>enemies downed (humanlikes)</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.description>The number of humanlike creatures I have downed.</PawnsDownedHumanlikes.description>
   
-  <PawnsDownedMechanoids.label>제압 (메카노이드)</PawnsDownedMechanoids.label>
-  <PawnsDownedMechanoids.description>내가 제압한 메카노이드의 수.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.label>enemies downed (mechanoids)</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.description>The number of mechanoids I have downed.</PawnsDownedMechanoids.description>
   
-  <PeopleCaptured.label>수감</PeopleCaptured.label>
-  <PeopleCaptured.description>내가 붙잡은 사람의 수.</PeopleCaptured.description>
+  <PeopleCaptured.label>people captured</PeopleCaptured.label>
+  <PeopleCaptured.description>The number of people I have captured.</PeopleCaptured.description>
   
-  <PlantsHarvested.label>수확</PlantsHarvested.label>
-  <PlantsHarvested.description>내가 수확한 식물의 수.</PlantsHarvested.description>
+  <PlantsHarvested.label>plants harvested</PlantsHarvested.label>
+  <PlantsHarvested.description>The number of plants I have harvested.</PlantsHarvested.description>
   
-  <PlantsSown.label>재배</PlantsSown.label>
-  <PlantsSown.description>내가 심은 식물의 수.</PlantsSown.description>
+  <PlantsSown.label>plants sown</PlantsSown.label>
+  <PlantsSown.description>The number of plants I have sown.</PlantsSown.description>
   
-  <PrisonersChatted.label>대화 (수감)</PrisonersChatted.label>
-  <PrisonersChatted.description>내가 수감자와 대화한 횟수.</PrisonersChatted.description>
+  <PrisonersChatted.label>prisoners chatted</PrisonersChatted.label>
+  <PrisonersChatted.description>How many times I have chatted with prisoners.</PrisonersChatted.description>
   
-  <PrisonersRecruited.label>포섭</PrisonersRecruited.label>
-  <PrisonersRecruited.description>지금까지 포섭한 사람의 수입니다.</PrisonersRecruited.description>
+  <PrisonersRecruited.label>prisoners recruited</PrisonersRecruited.label>
+  <PrisonersRecruited.description>The number of prisoners I have recruited.</PrisonersRecruited.description>
   
-  <ResearchPointsResearched.label>연구</ResearchPointsResearched.label>
-  <ResearchPointsResearched.description>내가 연구한 양.</ResearchPointsResearched.description>
+  <ResearchPointsResearched.label>research points researched</ResearchPointsResearched.label>
+  <ResearchPointsResearched.description>The number of research points I have researched.</ResearchPointsResearched.description>
   
-  <ShotsFired.label>격발</ShotsFired.label>
-  <ShotsFired.description>내가 무기를 발사한 횟수.</ShotsFired.description>
+  <ShotsFired.label>shots fired</ShotsFired.label>
+  <ShotsFired.description>The number of shots I have fired.</ShotsFired.description>
   
-  <SwitchesFlicked.label>전원</SwitchesFlicked.label>
-  <SwitchesFlicked.description>내가 전원 스위치를 조작한 횟수.</SwitchesFlicked.description>
+  <SwitchesFlicked.label>switches flicked</SwitchesFlicked.label>
+  <SwitchesFlicked.description>The number of switches I have flicked.</SwitchesFlicked.description>
   
-  <ThingsConstructed.label>건설</ThingsConstructed.label>
-  <ThingsConstructed.description>내가 뭔가 건설한 횟수.</ThingsConstructed.description>
+  <ThingsConstructed.label>things constructed</ThingsConstructed.label>
+  <ThingsConstructed.description>The number of things I have constructed.</ThingsConstructed.description>
   
-  <ThingsCrafted.label>제작</ThingsCrafted.label>
-  <ThingsCrafted.description>내가 뭔가 제작한 횟수.</ThingsCrafted.description>
+  <ThingsCrafted.label>things crafted</ThingsCrafted.label>
+  <ThingsCrafted.description>The number of things I have crafted.</ThingsCrafted.description>
   
-  <ThingsDeconstructed.label>해체</ThingsDeconstructed.label>
-  <ThingsDeconstructed.description>내가 뭔가 해체한 횟수.</ThingsDeconstructed.description>
+  <ThingsDeconstructed.label>things deconstructed</ThingsDeconstructed.label>
+  <ThingsDeconstructed.description>The number of things I have deconstructed.</ThingsDeconstructed.description>
   
-  <ThingsHauled.label>운반</ThingsHauled.label>
-  <ThingsHauled.description>내가 뭔가 운반한 횟수.</ThingsHauled.description>
+  <ThingsHauled.label>things hauled</ThingsHauled.label>
+  <ThingsHauled.description>The number of things I have hauled.</ThingsHauled.description>
   
-  <ThingsInstalled.label>설치</ThingsInstalled.label>
-  <ThingsInstalled.description>내가 뭔가 설치한 횟수.</ThingsInstalled.description>
+  <ThingsInstalled.label>things installed</ThingsInstalled.label>
+  <ThingsInstalled.description>The number of things I have installed.</ThingsInstalled.description>
   
-  <ThingsRepaired.label>수리</ThingsRepaired.label>
-  <ThingsRepaired.description>내가 뭔가 수리한 횟수.</ThingsRepaired.description>
+  <ThingsRepaired.label>things repaired</ThingsRepaired.label>
+  <ThingsRepaired.description>The number of things I have repaired.</ThingsRepaired.description>
   
-  <ThingsUninstalled.label>포장</ThingsUninstalled.label>
-  <ThingsUninstalled.description>내가 뭔가 포장한 횟수.</ThingsUninstalled.description>
+  <ThingsUninstalled.label>things uninstalled</ThingsUninstalled.label>
+  <ThingsUninstalled.description>The number of things I have uninstalled.</ThingsUninstalled.description>
   
-  <TimesInMentalState.label>정신이상</TimesInMentalState.label>
-  <TimesInMentalState.description>내 정신이 무너진 횟수.</TimesInMentalState.description>
+  <TimesInMentalState.label>times in mental state</TimesInMentalState.label>
+  <TimesInMentalState.description>How many times I have suffered a mental break.</TimesInMentalState.description>
   
-  <TimesOnFire.label>불</TimesOnFire.label>
-  <TimesOnFire.description>내가 불에 붙은 횟수.</TimesOnFire.description>
+  <TimesOnFire.label>times on fire</TimesOnFire.label>
+  <TimesOnFire.description>How many times I have been on fire.</TimesOnFire.description>
   
-  <TimesTendedOther.label>간호</TimesTendedOther.label>
-  <TimesTendedOther.description>내가 간호를 한 횟수.</TimesTendedOther.description>
+  <TimesTendedOther.label>tends given</TimesTendedOther.label>
+  <TimesTendedOther.description>How many times I have tended to others' medical conditions.</TimesTendedOther.description>
   
-  <TimesTendedTo.label>간호 받음</TimesTendedTo.label>
-  <TimesTendedTo.description>내가 간호를 받은 횟수.</TimesTendedTo.description>
+  <TimesTendedTo.label>tends received</TimesTendedTo.label>
+  <TimesTendedTo.description>How many times I have had my medical conditions tended.</TimesTendedTo.description>
 </LanguageData>
