@@ -1,23 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
-  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>난 동물을 도축해야 했어. 매우 끔찍한 일이었어.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
-  
-  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
-  <SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>동물을 죽여야만 했어! 생각하는 존재를 그렇게 지워버리다니 너무 끔찍해.</SlaughteredAnimal_Horrible.stages.slaughtered_animal.description>
-  
-  <SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Disapproved.stages.slaughtered_animal.label>
-  
-  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.label>
-  <SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>누군가 동물을 도축했어. 슬픈 일이야.</SlaughteredAnimal_Know_Disapproved_Mood.stages.animal_slaughtered.description>
-  
-  <SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Horrible.stages.slaughtered_animal.label>
-  
-  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
-  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>누군가가 동물을 도축했어! 생각하는 존재를 그렇게 지워버리다니 너무 끔찍해.</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
-  
-  <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>동물 도축 목격</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>
-  
-  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>동물 도축 목격</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.label>
-  <SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>누군가가 동물을 도축했어! 소중한 생명을 비극적으로 잃었어.</SlaughteredAnimal_Know_Prohibited_Mood.stages.animal_slaughtered.description>
+  <SlaughteredAnimal.label>slaughtered animal</SlaughteredAnimal.label>
 </LanguageData>
