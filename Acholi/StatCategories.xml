@@ -1,62 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ability.label>crwdns466618:0crwdne466618:0</Ability.label>
+  <Mechanitor.label>crwdns426896:0crwdne426896:0</Mechanitor.label>
   
-  <AnimalProductivity.label>crwdns466620:0crwdne466620:0</AnimalProductivity.label>
-  
-  <Apparel.label>crwdns466622:0crwdne466622:0</Apparel.label>
-  
-  <Basics.label>crwdns466624:0crwdne466624:0</Basics.label>
-  
-  <BasicsImportant.label>crwdns466626:0crwdne466626:0</BasicsImportant.label>
-  
-  <BasicsNonPawn.label>crwdns466628:0crwdne466628:0</BasicsNonPawn.label>
-  
-  <BasicsNonPawnImportant.label>crwdns466630:0crwdne466630:0</BasicsNonPawnImportant.label>
-  
-  <BasicsPawn.label>crwdns466632:0crwdne466632:0</BasicsPawn.label>
-  
-  <BasicsPawnImportant.label>crwdns466634:0crwdne466634:0</BasicsPawnImportant.label>
-  
-  <Building.label>crwdns466636:0crwdne466636:0</Building.label>
-  
-  <CapacityEffects.label>crwdns466638:0crwdne466638:0</CapacityEffects.label>
-  
-  <Drug.label>crwdns466640:0crwdne466640:0</Drug.label>
-  
-  <DrugAddiction.label>crwdns466642:0crwdne466642:0</DrugAddiction.label>
-  
-  <EquippedStatOffsets.label>crwdns466644:0crwdne466644:0</EquippedStatOffsets.label>
-  
-  <Genetics.label>crwdns466646:0crwdne466646:0</Genetics.label>
-  
-  <Implant.label>crwdns466648:0crwdne466648:0</Implant.label>
-  
-  <Meditation.label>crwdns466650:0crwdne466650:0</Meditation.label>
-  
-  <PawnCombat.label>crwdns466652:0crwdne466652:0</PawnCombat.label>
-  
-  <PawnMisc.label>crwdns466654:0crwdne466654:0</PawnMisc.label>
-  
-  <PawnSocial.label>crwdns466656:0crwdne466656:0</PawnSocial.label>
-  
-  <PawnWork.label>crwdns466658:0crwdne466658:0</PawnWork.label>
-  
-  <Source.label>crwdns466660:0crwdne466660:0</Source.label>
-  
-  <StuffOfEquipmentStatFactors.label>crwdns466662:0crwdne466662:0</StuffOfEquipmentStatFactors.label>
-  
-  <StuffStatFactors.label>crwdns466664:0crwdne466664:0</StuffStatFactors.label>
-  
-  <StuffStatOffsets.label>crwdns466666:0crwdne466666:0</StuffStatOffsets.label>
-  
-  <Surgery.label>crwdns466668:0crwdne466668:0</Surgery.label>
-  
-  <Terrain.label>crwdns466670:0crwdne466670:0</Terrain.label>
-  
-  <Weapon.label>crwdns466672:0crwdne466672:0</Weapon.label>
-  
-  <Weapon_Melee.label>crwdns466674:0crwdne466674:0</Weapon_Melee.label>
-  
-  <Weapon_Ranged.label>crwdns466676:0crwdne466676:0</Weapon_Ranged.label>
+  <Mechanoid.label>crwdns426898:0crwdne426898:0</Mechanoid.label>
 </LanguageData>
