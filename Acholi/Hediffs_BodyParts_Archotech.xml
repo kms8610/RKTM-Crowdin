@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArchotechArm.label>crwdns472146:0crwdne472146:0</ArchotechArm.label>
-  <ArchotechArm.description>crwdns472148:0crwdne472148:0</ArchotechArm.description>
+  <ArchotechArm.label>crwdns457308:0crwdne457308:0</ArchotechArm.label>
+  <ArchotechArm.description>crwdns457310:0crwdne457310:0</ArchotechArm.description>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>crwdns457312:0crwdne457312:0</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.labelNoun>crwdns457314:0crwdne457314:0</ArchotechArm.labelNoun>
   
-  <ArchotechEye.label>crwdns472150:0crwdne472150:0</ArchotechEye.label>
-  <ArchotechEye.description>crwdns472152:0crwdne472152:0</ArchotechEye.description>
+  <ArchotechEye.label>crwdns457316:0crwdne457316:0</ArchotechEye.label>
+  <ArchotechEye.description>crwdns457318:0crwdne457318:0</ArchotechEye.description>
+  <ArchotechEye.labelNoun>crwdns457320:0crwdne457320:0</ArchotechEye.labelNoun>
   
-  <ArchotechLeg.label>crwdns472154:0crwdne472154:0</ArchotechLeg.label>
-  <ArchotechLeg.description>crwdns472156:0crwdne472156:0</ArchotechLeg.description>
+  <ArchotechLeg.label>crwdns457322:0crwdne457322:0</ArchotechLeg.label>
+  <ArchotechLeg.description>crwdns457324:0crwdne457324:0</ArchotechLeg.description>
+  <ArchotechLeg.labelNoun>crwdns457326:0crwdne457326:0</ArchotechLeg.labelNoun>
 </LanguageData>
