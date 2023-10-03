@@ -1,41 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrillArm.label>crwdns445570:0crwdne445570:0</DrillArm.label>
-  <DrillArm.description>crwdns445572:0crwdne445572:0</DrillArm.description>
-  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>crwdns445574:0crwdne445574:0</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
-  <DrillArm.labelNoun>crwdns445576:0crwdne445576:0</DrillArm.labelNoun>
+  <InstallDrillArm.label>crwdns447844:0crwdne447844:0</InstallDrillArm.label>
+  <InstallDrillArm.description>crwdns447846:0crwdne447846:0</InstallDrillArm.description>
+  <InstallDrillArm.jobString>crwdns447848:0crwdne447848:0</InstallDrillArm.jobString>
   
-  <ElbowBlade.label>crwdns445578:0crwdne445578:0</ElbowBlade.label>
-  <ElbowBlade.description>crwdns445580:0crwdne445580:0</ElbowBlade.description>
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>crwdns445582:0crwdne445582:0</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
-  <ElbowBlade.labelNoun>crwdns445584:0crwdne445584:0</ElbowBlade.labelNoun>
+  <InstallElbowBlade.label>crwdns447850:0crwdne447850:0</InstallElbowBlade.label>
+  <InstallElbowBlade.description>crwdns447852:0crwdne447852:0</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>crwdns447854:0crwdne447854:0</InstallElbowBlade.jobString>
   
-  <FieldHand.label>crwdns445586:0crwdne445586:0</FieldHand.label>
-  <FieldHand.description>crwdns445588:0crwdne445588:0</FieldHand.description>
-  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>crwdns445590:0crwdne445590:0</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
-  <FieldHand.labelNoun>crwdns445592:0crwdne445592:0</FieldHand.labelNoun>
+  <InstallFieldHand.label>crwdns447856:0crwdne447856:0</InstallFieldHand.label>
+  <InstallFieldHand.description>crwdns447858:0crwdne447858:0</InstallFieldHand.description>
+  <InstallFieldHand.jobString>crwdns447860:0crwdne447860:0</InstallFieldHand.jobString>
   
-  <HandTalon.label>crwdns445594:0crwdne445594:0</HandTalon.label>
-  <HandTalon.description>crwdns445596:0crwdne445596:0</HandTalon.description>
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>crwdns445598:0crwdne445598:0</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
-  <HandTalon.labelNoun>crwdns445600:0crwdne445600:0</HandTalon.labelNoun>
+  <InstallHandTalon.label>crwdns447862:0crwdne447862:0</InstallHandTalon.label>
+  <InstallHandTalon.description>crwdns447864:0crwdne447864:0</InstallHandTalon.description>
+  <InstallHandTalon.jobString>crwdns447866:0crwdne447866:0</InstallHandTalon.jobString>
   
-  <KneeSpike.label>crwdns445602:0crwdne445602:0</KneeSpike.label>
-  <KneeSpike.description>crwdns445604:0crwdne445604:0</KneeSpike.description>
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>crwdns445606:0crwdne445606:0</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
-  <KneeSpike.labelNoun>crwdns445608:0crwdne445608:0</KneeSpike.labelNoun>
+  <InstallKneeSpike.label>crwdns447868:0crwdne447868:0</InstallKneeSpike.label>
+  <InstallKneeSpike.description>crwdns447870:0crwdne447870:0</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>crwdns447872:0crwdne447872:0</InstallKneeSpike.jobString>
   
-  <Mindscrew.label>crwdns445610:0crwdne445610:0</Mindscrew.label>
-  <Mindscrew.description>crwdns445612:0crwdne445612:0</Mindscrew.description>
-  <Mindscrew.labelNoun>crwdns445614:0crwdne445614:0</Mindscrew.labelNoun>
+  <InstallMindscrew.label>crwdns447874:0crwdne447874:0</InstallMindscrew.label>
+  <InstallMindscrew.description>crwdns447876:0crwdne447876:0</InstallMindscrew.description>
+  <InstallMindscrew.jobString>crwdns447878:0crwdne447878:0</InstallMindscrew.jobString>
   
-  <VenomFangs.label>crwdns445616:0crwdne445616:0</VenomFangs.label>
-  <VenomFangs.description>crwdns445618:0crwdne445618:0</VenomFangs.description>
-  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>crwdns445620:0crwdne445620:0</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
-  <VenomFangs.labelNoun>crwdns445622:0crwdne445622:0</VenomFangs.labelNoun>
+  <InstallVenomFangs.label>crwdns447880:0crwdne447880:0</InstallVenomFangs.label>
+  <InstallVenomFangs.description>crwdns447882:0crwdne447882:0</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>crwdns447884:0crwdne447884:0</InstallVenomFangs.jobString>
   
-  <VenomTalon.label>crwdns445624:0crwdne445624:0</VenomTalon.label>
-  <VenomTalon.description>crwdns445626:0crwdne445626:0</VenomTalon.description>
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>crwdns445628:0crwdne445628:0</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
-  <VenomTalon.labelNoun>crwdns445630:0crwdne445630:0</VenomTalon.labelNoun>
+  <InstallVenomTalon.label>crwdns447886:0crwdne447886:0</InstallVenomTalon.label>
+  <InstallVenomTalon.description>crwdns447888:0crwdne447888:0</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>crwdns447890:0crwdne447890:0</InstallVenomTalon.jobString>
+  
+  <RemoveElbowBlade.label>crwdns447892:0crwdne447892:0</RemoveElbowBlade.label>
+  <RemoveElbowBlade.description>crwdns447894:0crwdne447894:0</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>crwdns447896:0crwdne447896:0</RemoveElbowBlade.jobString>
+  
+  <RemoveHandTalon.label>crwdns447898:0crwdne447898:0</RemoveHandTalon.label>
+  <RemoveHandTalon.description>crwdns447900:0crwdne447900:0</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>crwdns447902:0crwdne447902:0</RemoveHandTalon.jobString>
+  
+  <RemoveKneeSpike.label>crwdns447904:0crwdne447904:0</RemoveKneeSpike.label>
+  <RemoveKneeSpike.description>crwdns447906:0crwdne447906:0</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>crwdns447908:0crwdne447908:0</RemoveKneeSpike.jobString>
+  
+  <RemoveVenomFangs.label>crwdns447910:0crwdne447910:0</RemoveVenomFangs.label>
+  <RemoveVenomFangs.description>crwdns447912:0crwdne447912:0</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>crwdns447914:0crwdne447914:0</RemoveVenomFangs.jobString>
+  
+  <RemoveVenomTalon.label>crwdns447916:0crwdne447916:0</RemoveVenomTalon.label>
+  <RemoveVenomTalon.description>crwdns447918:0crwdne447918:0</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>crwdns447920:0crwdne447920:0</RemoveVenomTalon.jobString>
 </LanguageData>
