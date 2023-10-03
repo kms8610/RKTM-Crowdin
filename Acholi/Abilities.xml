@@ -1,60 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalCalm.label>crwdns430684:0crwdne430684:0</AnimalCalm.label>
-  <AnimalCalm.description>crwdns430686:0crwdne430686:0</AnimalCalm.description>
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>crwdns430688:0{INITIATOR_labelShort}crwdnd430688:0{RECIPIENT_labelShort}crwdne430688:0</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimaTreeLinking.label>crwdns444810:0crwdne444810:0</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>crwdns444812:0crwdne444812:0</AnimaTreeLinking.description>
   
-  <BerserkTrance.label>crwdns430690:0crwdne430690:0</BerserkTrance.label>
-  <BerserkTrance.description>crwdns430692:0crwdne430692:0</BerserkTrance.description>
+  <Beckon.label>crwdns444814:0crwdne444814:0</Beckon.label>
+  <Beckon.description>crwdns444816:0crwdne444816:0</Beckon.description>
   
-  <CombatCommand.label>crwdns430694:0crwdne430694:0</CombatCommand.label>
-  <CombatCommand.description>crwdns430696:0crwdne430696:0</CombatCommand.description>
+  <Berserk.label>crwdns444818:0crwdne444818:0</Berserk.label>
+  <Berserk.description>crwdns444820:0crwdne444820:0</Berserk.description>
   
-  <ConversionRitual.label>crwdns430698:0crwdne430698:0</ConversionRitual.label>
-  <ConversionRitual.description>crwdns430700:0crwdne430700:0</ConversionRitual.description>
+  <BerserkPulse.label>crwdns444822:0crwdne444822:0</BerserkPulse.label>
+  <BerserkPulse.description>crwdns444824:0crwdne444824:0</BerserkPulse.description>
   
-  <Convert.label>crwdns430702:0crwdne430702:0</Convert.label>
-  <Convert.description>crwdns430704:0crwdne430704:0</Convert.description>
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>crwdns430706:0{INITIATOR_labelShort}crwdnd430706:0{RECIPIENT_labelShort}crwdnd430706:0{RECIPIENT_labelShort}crwdnd430706:0{RECIPIENT_possessive}crwdnd430706:0{CERTAINTYBEFORE}crwdnd430706:0{CERTAINTYAFTER}crwdne430706:0</Convert.comps.CompAbilityEffect_Convert.failMessage>
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>crwdns430708:0{INITIATOR_labelShort}crwdnd430708:0{RECIPIENT_labelShort}crwdnd430708:0{IDEO}crwdne430708:0</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <BlindingPulse.label>crwdns444826:0crwdne444826:0</BlindingPulse.label>
+  <BlindingPulse.description>crwdns444828:0crwdne444828:0</BlindingPulse.description>
   
-  <Counsel.label>crwdns430710:0crwdne430710:0</Counsel.label>
-  <Counsel.description>crwdns430712:0crwdne430712:0</Counsel.description>
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>crwdns430714:0{INITIATOR_labelShort}crwdnd430714:0{RECIPIENT_labelShort}crwdnd430714:0{RECIPIENT_labelShort}crwdne430714:0</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>crwdns430716:0{INITIATOR_labelShort}crwdnd430716:0{RECIPIENT_labelShort}crwdnd430716:0{2}crwdne430716:0</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>crwdns430718:0{INITIATOR_labelShort}crwdnd430718:0{RECIPIENT_labelShort}crwdnd430718:0{RECIPIENT_possessive}crwdnd430718:0{MOODBONUS}crwdne430718:0</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <BulletShield.label>crwdns444830:0crwdne444830:0</BulletShield.label>
+  <BulletShield.description>crwdns444832:0crwdne444832:0</BulletShield.description>
   
-  <FarmingCommand.label>crwdns430720:0crwdne430720:0</FarmingCommand.label>
-  <FarmingCommand.description>crwdns430722:0crwdne430722:0</FarmingCommand.description>
+  <Burden.label>crwdns444834:0crwdne444834:0</Burden.label>
+  <Burden.description>crwdns444836:0crwdne444836:0</Burden.description>
   
-  <ImmunityDrive.label>crwdns430724:0crwdne430724:0</ImmunityDrive.label>
-  <ImmunityDrive.description>crwdns430726:0crwdne430726:0</ImmunityDrive.description>
+  <ChaosSkip.label>crwdns444838:0crwdne444838:0</ChaosSkip.label>
+  <ChaosSkip.description>crwdns444840:0crwdne444840:0</ChaosSkip.description>
   
-  <LeaderSpeech.label>crwdns430728:0crwdne430728:0</LeaderSpeech.label>
-  <LeaderSpeech.description>crwdns430730:0crwdne430730:0</LeaderSpeech.description>
+  <Chunkskip.label>crwdns444842:0crwdne444842:0</Chunkskip.label>
+  <Chunkskip.description>crwdns444844:0crwdne444844:0</Chunkskip.description>
   
-  <MarksmanCommand.label>crwdns430732:0crwdne430732:0</MarksmanCommand.label>
-  <MarksmanCommand.description>crwdns430734:0crwdne430734:0</MarksmanCommand.description>
+  <EntropyDump.label>crwdns444846:0crwdne444846:0</EntropyDump.label>
+  <EntropyDump.description>crwdns444848:0crwdne444848:0</EntropyDump.description>
   
-  <MiningCommand.label>crwdns430736:0crwdne430736:0</MiningCommand.label>
-  <MiningCommand.description>crwdns430738:0crwdne430738:0</MiningCommand.description>
+  <Farskip.label>crwdns444850:0crwdne444850:0</Farskip.label>
+  <Farskip.description>crwdns444852:0crwdne444852:0</Farskip.description>
   
-  <PreachHealth.label>crwdns430740:0crwdne430740:0</PreachHealth.label>
-  <PreachHealth.description>crwdns430742:0crwdne430742:0</PreachHealth.description>
+  <Flashstorm.label>crwdns444854:0crwdne444854:0</Flashstorm.label>
+  <Flashstorm.description>crwdns444856:0crwdne444856:0</Flashstorm.description>
   
-  <ProductionCommand.label>crwdns430744:0crwdne430744:0</ProductionCommand.label>
-  <ProductionCommand.description>crwdns430746:0crwdne430746:0</ProductionCommand.description>
+  <Focus.label>crwdns444858:0crwdne444858:0</Focus.label>
+  <Focus.description>crwdns444860:0crwdne444860:0</Focus.description>
   
-  <Reassure.label>crwdns430748:0crwdne430748:0</Reassure.label>
-  <Reassure.description>crwdns430750:0crwdne430750:0</Reassure.description>
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>crwdns430752:0{INITIATOR_labelShort}crwdnd430752:0{RECIPIENT_labelShort}crwdnd430752:0{RECIPIENT_possessive}crwdnd430752:0{IDEO}crwdnd430752:0{BEFORECERTAINTY}crwdnd430752:0{AFTERCERTAINTY}crwdne430752:0</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Invisibility.label>crwdns444862:0crwdne444862:0</Invisibility.label>
+  <Invisibility.description>crwdns444864:0crwdne444864:0</Invisibility.description>
   
-  <ResearchCommand.label>crwdns430754:0crwdne430754:0</ResearchCommand.label>
-  <ResearchCommand.description>crwdns430756:0crwdne430756:0</ResearchCommand.description>
+  <ManhunterPulse.label>crwdns444866:0crwdne444866:0</ManhunterPulse.label>
+  <ManhunterPulse.description>crwdns444868:0crwdne444868:0</ManhunterPulse.description>
   
-  <Trial.label>crwdns430758:0crwdne430758:0</Trial.label>
-  <Trial.description>crwdns430760:0crwdne430760:0</Trial.description>
+  <MassChaosSkip.label>crwdns444870:0crwdne444870:0</MassChaosSkip.label>
+  <MassChaosSkip.description>crwdns444872:0crwdne444872:0</MassChaosSkip.description>
   
-  <WorkDrive.label>crwdns430762:0crwdne430762:0</WorkDrive.label>
-  <WorkDrive.description>crwdns430764:0crwdne430764:0</WorkDrive.description>
+  <Neuroquake.label>crwdns444874:0crwdne444874:0</Neuroquake.label>
+  <Neuroquake.description>crwdns444876:0crwdne444876:0</Neuroquake.description>
+  <Neuroquake.confirmationDialogText>crwdns444878:0crwdne444878:0</Neuroquake.confirmationDialogText>
+  
+  <Painblock.label>crwdns444880:0crwdne444880:0</Painblock.label>
+  <Painblock.description>crwdns444882:0crwdne444882:0</Painblock.description>
+  
+  <Skip.label>crwdns444884:0crwdne444884:0</Skip.label>
+  <Skip.description>crwdns444886:0crwdne444886:0</Skip.description>
+  
+  <Smokepop.label>crwdns444888:0crwdne444888:0</Smokepop.label>
+  <Smokepop.description>crwdns444890:0crwdne444890:0</Smokepop.description>
+  
+  <SolarPinhole.label>crwdns444892:0crwdne444892:0</SolarPinhole.label>
+  <SolarPinhole.description>crwdns444894:0crwdne444894:0</SolarPinhole.description>
+  
+  <Speech.label>crwdns444896:0crwdne444896:0</Speech.label>
+  <Speech.description>crwdns444898:0crwdne444898:0</Speech.description>
+  
+  <Stun.label>crwdns444900:0crwdne444900:0</Stun.label>
+  <Stun.description>crwdns444902:0crwdne444902:0</Stun.description>
+  
+  <VertigoPulse.label>crwdns444904:0crwdne444904:0</VertigoPulse.label>
+  <VertigoPulse.description>crwdns444906:0crwdne444906:0</VertigoPulse.description>
+  
+  <Wallraise.label>crwdns444908:0crwdne444908:0</Wallraise.label>
+  <Wallraise.description>crwdns444910:0crwdne444910:0</Wallraise.description>
+  
+  <Waterskip.label>crwdns444912:0crwdne444912:0</Waterskip.label>
+  <Waterskip.description>crwdns444914:0crwdne444914:0</Waterskip.description>
+  
+  <WordOfInspiration.label>crwdns444916:0crwdne444916:0</WordOfInspiration.label>
+  <WordOfInspiration.description>crwdns444918:0crwdne444918:0</WordOfInspiration.description>
+  
+  <WordOfJoy.label>crwdns444920:0crwdne444920:0</WordOfJoy.label>
+  <WordOfJoy.description>crwdns444922:0crwdne444922:0</WordOfJoy.description>
+  
+  <WordOfLove.label>crwdns444924:0crwdne444924:0</WordOfLove.label>
+  <WordOfLove.description>crwdns444926:0crwdne444926:0</WordOfLove.description>
+  
+  <WordOfSerenity.label>crwdns444928:0crwdne444928:0</WordOfSerenity.label>
+  <WordOfSerenity.description>crwdns444930:0crwdne444930:0</WordOfSerenity.description>
+  
+  <WordOfTrust.label>crwdns444932:0crwdne444932:0</WordOfTrust.label>
+  <WordOfTrust.description>crwdns444934:0crwdne444934:0</WordOfTrust.description>
 </LanguageData>
