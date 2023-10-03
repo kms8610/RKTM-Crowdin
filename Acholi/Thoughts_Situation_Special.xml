@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>crwdns442850:0crwdne442850:0</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>crwdns442852:0crwdne442852:0</PsychicArchotechEmanator_Core.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>crwdns442854:0crwdne442854:0</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>crwdns442856:0crwdne442856:0</PsychicArchotechEmanator_Core.stages.archotech_emanation-1.description>
+  <AnimaScream.stages.anima_scream.label>crwdns449468:0crwdne449468:0</AnimaScream.stages.anima_scream.label>
+  <AnimaScream.stages.anima_scream.description>crwdns449470:0crwdne449470:0</AnimaScream.stages.anima_scream.description>
   
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>crwdns442858:0crwdne442858:0</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>crwdns442860:0crwdne442860:0</PsychicArchotechEmanator_Grand.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>crwdns442862:0crwdne442862:0</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>crwdns442864:0crwdne442864:0</PsychicArchotechEmanator_Grand.stages.archotech_emanation-1.description>
+  <DecreeUnmet.stages.decree_ignored.label>crwdns449472:0crwdne449472:0</DecreeUnmet.stages.decree_ignored.label>
+  <DecreeUnmet.stages.decree_ignored.description>crwdns449474:0{0}crwdne449474:0</DecreeUnmet.stages.decree_ignored.description>
   
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>crwdns442866:0crwdne442866:0</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.label>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>crwdns442868:0crwdne442868:0</PsychicArchotechEmanator_Major.stages.archotech_emanation-0.description>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>crwdns442870:0crwdne442870:0</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.label>
-  <PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>crwdns442872:0crwdne442872:0</PsychicArchotechEmanator_Major.stages.archotech_emanation-1.description>
+  <Joyfuzz.stages.joyfuzz.label>crwdns449476:0crwdne449476:0</Joyfuzz.stages.joyfuzz.label>
+  <Joyfuzz.stages.joyfuzz.description>crwdns449478:0crwdne449478:0</Joyfuzz.stages.joyfuzz.description>
+  
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>crwdns449480:0crwdne449480:0</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>crwdns449482:0crwdne449482:0</PsychicEntropyOverloaded.stages.minor_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>crwdns449484:0crwdne449484:0</PsychicEntropyOverloaded.stages.major_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>crwdns449486:0crwdne449486:0</PsychicEntropyOverloaded.stages.major_psychic_breakdown.description>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>crwdns449488:0crwdne449488:0</PsychicEntropyOverloaded.stages.total_psychic_breakdown.label>
+  <PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>crwdns449490:0crwdne449490:0</PsychicEntropyOverloaded.stages.total_psychic_breakdown.description>
+  
+  <PsychicLove.stages.psychic_love.label>crwdns449492:0crwdne449492:0</PsychicLove.stages.psychic_love.label>
 </LanguageData>
