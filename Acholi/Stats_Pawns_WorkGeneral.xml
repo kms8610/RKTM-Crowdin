@@ -1,51 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalGatherSpeed.label>crwdns467142:0crwdne467142:0</AnimalGatherSpeed.label>
-  <AnimalGatherSpeed.description>crwdns467144:0crwdne467144:0</AnimalGatherSpeed.description>
-  
-  <AnimalGatherYield.label>crwdns467146:0crwdne467146:0</AnimalGatherYield.label>
-  <AnimalGatherYield.description>crwdns467148:0crwdne467148:0</AnimalGatherYield.description>
-  
-  <CleaningSpeed.label>crwdns467150:0crwdne467150:0</CleaningSpeed.label>
-  <CleaningSpeed.description>crwdns467152:0crwdne467152:0</CleaningSpeed.description>
-  
-  <ConstructSuccessChance.label>crwdns467154:0crwdne467154:0</ConstructSuccessChance.label>
-  <ConstructSuccessChance.description>crwdns467156:0crwdne467156:0</ConstructSuccessChance.description>
-  
-  <ConstructionSpeed.label>crwdns467158:0crwdne467158:0</ConstructionSpeed.label>
-  <ConstructionSpeed.description>crwdns467160:0crwdne467160:0</ConstructionSpeed.description>
-  
-  <DeepDrillingSpeed.label>crwdns467162:0crwdne467162:0</DeepDrillingSpeed.label>
-  <DeepDrillingSpeed.description>crwdns467164:0crwdne467164:0</DeepDrillingSpeed.description>
-  
-  <DrugHarvestYield.label>crwdns467166:0crwdne467166:0</DrugHarvestYield.label>
-  <DrugHarvestYield.description>crwdns467168:0crwdne467168:0</DrugHarvestYield.description>
-  
-  <FixBrokenDownBuildingSuccessChance.label>crwdns467170:0crwdne467170:0</FixBrokenDownBuildingSuccessChance.label>
-  <FixBrokenDownBuildingSuccessChance.description>crwdns467172:0crwdne467172:0</FixBrokenDownBuildingSuccessChance.description>
-  
-  <HuntingStealth.label>crwdns467174:0crwdne467174:0</HuntingStealth.label>
-  <HuntingStealth.description>crwdns467176:0crwdne467176:0</HuntingStealth.description>
-  
-  <MiningSpeed.label>crwdns467178:0crwdne467178:0</MiningSpeed.label>
-  <MiningSpeed.description>crwdns467180:0crwdne467180:0</MiningSpeed.description>
-  
-  <MiningYield.label>crwdns467182:0crwdne467182:0</MiningYield.label>
-  <MiningYield.description>crwdns467184:0crwdne467184:0</MiningYield.description>
-  
-  <PlantHarvestYield.label>crwdns467186:0crwdne467186:0</PlantHarvestYield.label>
-  <PlantHarvestYield.description>crwdns467188:0crwdne467188:0</PlantHarvestYield.description>
-  
-  <PlantWorkSpeed.label>crwdns467190:0crwdne467190:0</PlantWorkSpeed.label>
-  <PlantWorkSpeed.description>crwdns467192:0crwdne467192:0</PlantWorkSpeed.description>
-  
-  <ResearchSpeed.label>crwdns467194:0crwdne467194:0</ResearchSpeed.label>
-  <ResearchSpeed.description>crwdns467196:0crwdne467196:0</ResearchSpeed.description>
-  
-  <SmoothingSpeed.label>crwdns467198:0crwdne467198:0</SmoothingSpeed.label>
-  <SmoothingSpeed.description>crwdns467200:0crwdne467200:0</SmoothingSpeed.description>
-  
-  <WorkSpeedGlobal.label>crwdns467202:0crwdne467202:0</WorkSpeedGlobal.label>
-  <WorkSpeedGlobal.description>crwdns467204:0crwdne467204:0</WorkSpeedGlobal.description>
-  <WorkSpeedGlobal.parts.2.label>crwdns467206:0crwdne467206:0</WorkSpeedGlobal.parts.2.label>
+  <WorkSpeedGlobalOffsetMech.label>crwdns427024:0crwdne427024:0</WorkSpeedGlobalOffsetMech.label>
+  <WorkSpeedGlobalOffsetMech.description>crwdns427026:0crwdne427026:0</WorkSpeedGlobalOffsetMech.description>
 </LanguageData>
