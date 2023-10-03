@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoligionTips.SlaveWorkEfficiency>Slaves work slower than normal colonists due to lack of motivation.</IdeoligionTips.SlaveWorkEfficiency>
-  <IdeoligionTips.TerrorRadius>Terror-inducing buildings affect anyone within a 5-cell radius.</IdeoligionTips.TerrorRadius>
-  <IdeoligionTips.SleepAcceleratorNaps>Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep.</IdeoligionTips.SleepAcceleratorNaps>
+  <BiotechTips.CallBossgroups>Mechanitors can summon powerful mechs. Fight them yourself - or draw them into your enemies.</BiotechTips.CallBossgroups>
+  <BiotechTips.ChildrenBarracks>Children can sleep in the same room as parents and other children without any negative mood effect.</BiotechTips.ChildrenBarracks>
+  <BiotechTips.NoxiousHaze>The more polluted nearby world tiles are, the more often you'll get acidic smog.</BiotechTips.NoxiousHaze>
+  <BiotechTips.CustomXenotypes>When starting a new game, you can create custom xenotypes with any genetic combination you want.</BiotechTips.CustomXenotypes>
+  <BiotechTips.ArmedChildren>Enemies are less likely to target or hunt down children who are unarmed. You can keep kids safer by not giving them weapons.</BiotechTips.ArmedChildren>
 </LanguageData>
