@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slave.label>노예</Slave.label>
+  <Mechanitor.label>메카나이터</Mechanitor.label>
   
-  <StrangerInBlack.label>검은 옷의 이방인</StrangerInBlack.label>
-  <StrangerInBlack.labelFemale>검은 옷의 여성</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelMale>구세주</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelPlural>검은 이방인들</StrangerInBlack.labelPlural>
+  <Mechanitor_Basic.label>메카나이터</Mechanitor_Basic.label>
   
-  <WildMan.label>야인</WildMan.label>
-  <WildMan.labelFemale>야인 여성</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>야인 여성들</WildMan.labelFemalePlural>
-  <WildMan.labelPlural>야인</WildMan.labelPlural>
+  <Sanguophage.label>생귀오파지</Sanguophage.label>
+  
+  <SanguophageThrall.label>흡혈종복</SanguophageThrall.label>
+  
+  <Sanguophage_Player.label>생귀오파지</Sanguophage_Player.label>
+  
+  <Tribal_Child.label>마을 사람</Tribal_Child.label>
+  
+  <Villager_Child.label>마을 사람</Villager_Child.label>
 </LanguageData>
