@@ -1,45 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MinifiedThing.label>crwdns472660:0crwdne472660:0</MinifiedThing.label>
-  
-  <MinifiedTree.label>crwdns472662:0crwdne472662:0</MinifiedTree.label>
-  
-  <UnfinishedApparel.label>crwdns472664:0crwdne472664:0</UnfinishedApparel.label>
-  <UnfinishedApparel.description>crwdns472666:0crwdne472666:0</UnfinishedApparel.description>
-  
-  <UnfinishedArmor.label>crwdns472668:0crwdne472668:0</UnfinishedArmor.label>
-  <UnfinishedArmor.description>crwdns472670:0crwdne472670:0</UnfinishedArmor.description>
-  
-  <UnfinishedBelt.label>crwdns472672:0crwdne472672:0</UnfinishedBelt.label>
-  <UnfinishedBelt.description>crwdns472674:0crwdne472674:0</UnfinishedBelt.description>
-  
-  <UnfinishedComponent.label>crwdns472676:0crwdne472676:0</UnfinishedComponent.label>
-  <UnfinishedComponent.description>crwdns472678:0crwdne472678:0</UnfinishedComponent.description>
-  
-  <UnfinishedGun.label>crwdns472680:0crwdne472680:0</UnfinishedGun.label>
-  <UnfinishedGun.description>crwdns472682:0crwdne472682:0</UnfinishedGun.description>
-  
-  <UnfinishedHealthItemBionic.label>crwdns472684:0crwdne472684:0</UnfinishedHealthItemBionic.label>
-  <UnfinishedHealthItemBionic.description>crwdns472686:0crwdne472686:0</UnfinishedHealthItemBionic.description>
-  
-  <UnfinishedHealthItemProsthetic.label>crwdns472688:0crwdne472688:0</UnfinishedHealthItemProsthetic.label>
-  <UnfinishedHealthItemProsthetic.description>crwdns472690:0crwdne472690:0</UnfinishedHealthItemProsthetic.description>
-  
-  <UnfinishedMask.label>crwdns472692:0crwdne472692:0</UnfinishedMask.label>
-  <UnfinishedMask.description>crwdns472694:0crwdne472694:0</UnfinishedMask.description>
-  
-  <UnfinishedMetallicTechArmor.label>crwdns472696:0crwdne472696:0</UnfinishedMetallicTechArmor.label>
-  <UnfinishedMetallicTechArmor.description>crwdns472698:0crwdne472698:0</UnfinishedMetallicTechArmor.description>
-  
-  <UnfinishedPack.label>crwdns472700:0crwdne472700:0</UnfinishedPack.label>
-  <UnfinishedPack.description>crwdns472702:0crwdne472702:0</UnfinishedPack.description>
-  
-  <UnfinishedSculpture.label>crwdns472704:0crwdne472704:0</UnfinishedSculpture.label>
-  <UnfinishedSculpture.description>crwdns472706:0crwdne472706:0</UnfinishedSculpture.description>
-  
-  <UnfinishedTechArmor.label>crwdns472708:0crwdne472708:0</UnfinishedTechArmor.label>
-  <UnfinishedTechArmor.description>crwdns472710:0crwdne472710:0</UnfinishedTechArmor.description>
-  
-  <UnfinishedWeapon.label>crwdns472712:0crwdne472712:0</UnfinishedWeapon.label>
-  <UnfinishedWeapon.description>crwdns472714:0crwdne472714:0</UnfinishedWeapon.description>
+  <UnfinishedSubcore.label>crwdns427508:0crwdne427508:0</UnfinishedSubcore.label>
+  <UnfinishedSubcore.description>crwdns427510:0crwdne427510:0</UnfinishedSubcore.description>
 </LanguageData>
