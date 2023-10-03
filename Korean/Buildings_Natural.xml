@@ -1,38 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CollapsedRocks.label>collapsed rocks</CollapsedRocks.label>
-  <CollapsedRocks.description>Collapsed rocks, packed tightly enough to hold up a roof.</CollapsedRocks.description>
+  <CocoonMegascarab.label>megascarab cocoon</CocoonMegascarab.label>
+  <CocoonMegascarab.description>A stasis cocoon containing a megascarab.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonMegascarab.description>
   
-  <GlowPod.label>glow pod</GlowPod.label>
-  <GlowPod.description>A bioluminescent pod produced by giant insects. Glows under its own light for a long time, then dies.</GlowPod.description>
+  <CocoonMegaspider.label>megaspider cocoon</CocoonMegaspider.label>
+  <CocoonMegaspider.description>A stasis cocoon containing a megaspider.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonMegaspider.description>
   
-  <Hive.label>hive</Hive.label>
-  <Hive.description>A hive of giant insects. If activated, it will spawn additional insects and hives over time, as well as valuable insect jelly.</Hive.description>
-  
-  <MineableComponentsIndustrial.label>compacted machinery</MineableComponentsIndustrial.label>
-  <MineableComponentsIndustrial.description>Ancient machinery, compacted over time. Can be mined for useful components.</MineableComponentsIndustrial.description>
-  
-  <MineableGold.label>gold ore</MineableGold.label>
-  <MineableGold.description>Rock containing bits of gold.</MineableGold.description>
-  
-  <MineableJade.label>jade</MineableJade.label>
-  <MineableJade.description>Rock containing bits of jade.</MineableJade.description>
-  
-  <MineablePlasteel.label>compacted plasteel</MineablePlasteel.label>
-  <MineablePlasteel.description>Ancient compacted rubble rich in plasteel.</MineablePlasteel.description>
-  
-  <MineableSilver.label>silver ore</MineableSilver.label>
-  <MineableSilver.description>Rock containing bits of silver.</MineableSilver.description>
-  
-  <MineableSteel.label>compacted steel</MineableSteel.label>
-  <MineableSteel.description>The remains of some ancient, collapsed structure. Rich in steel.</MineableSteel.description>
-  
-  <MineableUranium.label>uranium ore</MineableUranium.label>
-  <MineableUranium.description>Rock containing bits of uranium.</MineableUranium.description>
-  
-  <RaisedRocks.label>raised rocks</RaisedRocks.label>
-  <RaisedRocks.description>A fragile wall made of rubble. It will collapse in time.</RaisedRocks.description>
-  
-  <SteamGeyser.label>steam geyser</SteamGeyser.label>
-  <SteamGeyser.description>A natural source of high-pressure steam. Geothermal generators can harness the steam power. Rooms built over this will rapidly cook.</SteamGeyser.description>
+  <CocoonSpelopede.label>spelopede cocoon</CocoonSpelopede.label>
+  <CocoonSpelopede.description>A stasis cocoon containing a spelopede.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonSpelopede.description>
 </LanguageData>
