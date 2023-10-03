@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BodyModification.label>crwdns432278:0crwdne432278:0</BodyModification.label>
+  <BodyMod_Abhorrent.label>crwdns436220:0crwdne436220:0</BodyMod_Abhorrent.label>
+  <BodyMod_Abhorrent.description>crwdns436222:0crwdne436222:0</BodyMod_Abhorrent.description>
+  
+  <BodyMod_Approved.label>crwdns436224:0crwdne436224:0</BodyMod_Approved.label>
+  <BodyMod_Approved.description>crwdns436226:0crwdne436226:0</BodyMod_Approved.description>
+  
+  <BodyMod_Disapproved.label>crwdns436228:0crwdne436228:0</BodyMod_Disapproved.label>
+  <BodyMod_Disapproved.description>crwdns436230:0crwdne436230:0</BodyMod_Disapproved.description>
 </LanguageData>
