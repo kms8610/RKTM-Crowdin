@@ -1,77 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BiofuelRefinery.label>crwdns471706:0crwdne471706:0</BiofuelRefinery.label>
-  <BiofuelRefinery.description>crwdns471708:0crwdne471708:0</BiofuelRefinery.description>
+  <LargeMechGestator.label>crwdns427348:0crwdne427348:0</LargeMechGestator.label>
+  <LargeMechGestator.description>crwdns427350:0crwdne427350:0</LargeMechGestator.description>
   
-  <Brewery.label>crwdns471710:0crwdne471710:0</Brewery.label>
-  <Brewery.description>crwdns471712:0crwdne471712:0</Brewery.description>
+  <MechGestator.label>crwdns427352:0crwdne427352:0</MechGestator.label>
+  <MechGestator.description>crwdns427354:0crwdne427354:0</MechGestator.description>
   
-  <ButcherSpot.label>crwdns471714:0crwdne471714:0</ButcherSpot.label>
-  <ButcherSpot.description>crwdns471716:0crwdne471716:0</ButcherSpot.description>
+  <SubcoreEncoder.label>crwdns427356:0crwdne427356:0</SubcoreEncoder.label>
+  <SubcoreEncoder.description>crwdns427358:0crwdne427358:0</SubcoreEncoder.description>
   
-  <CraftingSpot.label>crwdns471718:0crwdne471718:0</CraftingSpot.label>
-  <CraftingSpot.description>crwdns471720:0crwdne471720:0</CraftingSpot.description>
+  <SubcoreRipscanner.label>crwdns427360:0crwdne427360:0</SubcoreRipscanner.label>
+  <SubcoreRipscanner.description>crwdns427362:0crwdne427362:0</SubcoreRipscanner.description>
   
-  <DeepDrill.label>crwdns471722:0crwdne471722:0</DeepDrill.label>
-  <DeepDrill.description>crwdns471724:0crwdne471724:0</DeepDrill.description>
-  
-  <DrugLab.label>crwdns471726:0crwdne471726:0</DrugLab.label>
-  <DrugLab.description>crwdns471728:0crwdne471728:0</DrugLab.description>
-  
-  <ElectricCrematorium.label>crwdns471730:0crwdne471730:0</ElectricCrematorium.label>
-  <ElectricCrematorium.description>crwdns471732:0crwdne471732:0</ElectricCrematorium.description>
-  
-  <ElectricSmelter.label>crwdns471734:0crwdne471734:0</ElectricSmelter.label>
-  <ElectricSmelter.description>crwdns471736:0crwdne471736:0</ElectricSmelter.description>
-  
-  <ElectricSmithy.label>crwdns471738:0crwdne471738:0</ElectricSmithy.label>
-  <ElectricSmithy.description>crwdns471740:0crwdne471740:0</ElectricSmithy.description>
-  
-  <ElectricStove.label>crwdns471742:0crwdne471742:0</ElectricStove.label>
-  <ElectricStove.description>crwdns471744:0crwdne471744:0</ElectricStove.description>
-  
-  <ElectricTailoringBench.label>crwdns471746:0crwdne471746:0</ElectricTailoringBench.label>
-  <ElectricTailoringBench.description>crwdns471748:0crwdne471748:0</ElectricTailoringBench.description>
-  
-  <FabricationBench.label>crwdns471750:0crwdne471750:0</FabricationBench.label>
-  <FabricationBench.description>crwdns471752:0crwdne471752:0</FabricationBench.description>
-  
-  <FermentingBarrel.label>crwdns471754:0crwdne471754:0</FermentingBarrel.label>
-  <FermentingBarrel.description>crwdns471756:0crwdne471756:0</FermentingBarrel.description>
-  
-  <FueledSmithy.label>crwdns471758:0crwdne471758:0</FueledSmithy.label>
-  <FueledSmithy.description>crwdns471760:0crwdne471760:0</FueledSmithy.description>
-  
-  <FueledStove.label>crwdns471762:0crwdne471762:0</FueledStove.label>
-  <FueledStove.description>crwdns471764:0crwdne471764:0</FueledStove.description>
-  
-  <HandTailoringBench.label>crwdns471766:0crwdne471766:0</HandTailoringBench.label>
-  <HandTailoringBench.description>crwdns471768:0crwdne471768:0</HandTailoringBench.description>
-  
-  <HiTechResearchBench.label>crwdns471770:0crwdne471770:0</HiTechResearchBench.label>
-  <HiTechResearchBench.description>crwdns471772:0crwdne471772:0</HiTechResearchBench.description>
-  
-  <Hopper.label>crwdns471774:0crwdne471774:0</Hopper.label>
-  <Hopper.description>crwdns471776:0crwdne471776:0</Hopper.description>
-  
-  <HydroponicsBasin.label>crwdns471778:0crwdne471778:0</HydroponicsBasin.label>
-  <HydroponicsBasin.description>crwdns471780:0crwdne471780:0</HydroponicsBasin.description>
-  
-  <NutrientPasteDispenser.label>crwdns471782:0crwdne471782:0</NutrientPasteDispenser.label>
-  <NutrientPasteDispenser.description>crwdns471784:0crwdne471784:0</NutrientPasteDispenser.description>
-  
-  <SimpleResearchBench.label>crwdns471786:0crwdne471786:0</SimpleResearchBench.label>
-  <SimpleResearchBench.description>crwdns471788:0crwdne471788:0</SimpleResearchBench.description>
-  
-  <TableButcher.label>crwdns471790:0crwdne471790:0</TableButcher.label>
-  <TableButcher.description>crwdns471792:0crwdne471792:0</TableButcher.description>
-  
-  <TableMachining.label>crwdns471794:0crwdne471794:0</TableMachining.label>
-  <TableMachining.description>crwdns471796:0crwdne471796:0</TableMachining.description>
-  
-  <TableSculpting.label>crwdns471798:0crwdne471798:0</TableSculpting.label>
-  <TableSculpting.description>crwdns471800:0crwdne471800:0</TableSculpting.description>
-  
-  <TableStonecutter.label>crwdns471802:0crwdne471802:0</TableStonecutter.label>
-  <TableStonecutter.description>crwdns471804:0crwdne471804:0</TableStonecutter.description>
+  <SubcoreSoftscanner.label>crwdns427364:0crwdne427364:0</SubcoreSoftscanner.label>
+  <SubcoreSoftscanner.description>crwdns427366:0crwdne427366:0</SubcoreSoftscanner.description>
 </LanguageData>
