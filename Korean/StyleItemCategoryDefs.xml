@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cannibal.label>식인</Cannibal.label>
+  <Cannibal.label>cannibal</Cannibal.label>
   
-  <Minimal.label>최소</Minimal.label>
+  <Minimal.label>minimal</Minimal.label>
   
-  <Misc.label>기타</Misc.label>
+  <Misc.label>misc</Misc.label>
   
-  <Moustache.label>콧수염</Moustache.label>
+  <Moustache.label>moustache</Moustache.label>
   
-  <Punk.label>불량 청소년</Punk.label>
+  <Punk.label>punk</Punk.label>
   
-  <Royal.label>왕족</Royal.label>
+  <Royal.label>royal</Royal.label>
   
-  <Rural.label>시골</Rural.label>
+  <Rural.label>rural</Rural.label>
   
-  <Soldier.label>군인</Soldier.label>
+  <Soldier.label>soldier</Soldier.label>
   
-  <Tribal.label>부족민</Tribal.label>
+  <Tribal.label>tribal</Tribal.label>
   
-  <Urban.label>도시</Urban.label>
+  <Urban.label>urban</Urban.label>
 </LanguageData>
