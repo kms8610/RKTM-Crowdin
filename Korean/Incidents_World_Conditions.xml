@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Aurora.label>오로라</Aurora.label>
-  <Aurora.letterLabel>오로라</Aurora.letterLabel>
+  <Aurora.label>aurora</Aurora.label>
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
   
-  <Eclipse.label>일식</Eclipse.label>
-  <Eclipse.letterLabel>일식</Eclipse.letterLabel>
+  <Eclipse.label>eclipse</Eclipse.label>
+  <Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
   
-  <SolarFlare.label>흑점 폭발</SolarFlare.label>
-  <SolarFlare.letterLabel>흑점 폭발</SolarFlare.letterLabel>
+  <SolarFlare.label>solar flare</SolarFlare.label>
+  <SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
 </LanguageData>
