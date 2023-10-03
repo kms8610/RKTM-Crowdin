@@ -1,17 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimusStone.label>crwdns449048:0crwdne449048:0</AnimusStone.label>
-  <AnimusStone.description>crwdns449050:0crwdne449050:0</AnimusStone.description>
+  <AncientCryptosleepCasket.label>crwdns471522:0crwdne471522:0</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.description>crwdns471524:0crwdne471524:0</AncientCryptosleepCasket.description>
   
-  <MeditationSpot.label>crwdns449052:0crwdne449052:0</MeditationSpot.label>
-  <MeditationSpot.description>crwdns449054:0crwdne449054:0</MeditationSpot.description>
+  <CaravanPackingSpot.label>crwdns471526:0crwdne471526:0</CaravanPackingSpot.label>
+  <CaravanPackingSpot.description>crwdns471528:0crwdne471528:0</CaravanPackingSpot.description>
   
-  <NatureShrine_Large.label>crwdns449056:0crwdne449056:0</NatureShrine_Large.label>
-  <NatureShrine_Large.description>crwdns449058:0crwdne449058:0</NatureShrine_Large.description>
+  <CommsConsole.label>crwdns471530:0crwdne471530:0</CommsConsole.label>
+  <CommsConsole.description>crwdns471532:0crwdne471532:0</CommsConsole.description>
+  <CommsConsole.comps.CompUsable.useLabel>crwdns471534:0crwdne471534:0</CommsConsole.comps.CompUsable.useLabel>
   
-  <NatureShrine_Small.label>crwdns449060:0crwdne449060:0</NatureShrine_Small.label>
-  <NatureShrine_Small.description>crwdns449062:0crwdne449062:0</NatureShrine_Small.description>
+  <CryptosleepCasket.label>crwdns471536:0crwdne471536:0</CryptosleepCasket.label>
+  <CryptosleepCasket.description>crwdns471538:0crwdne471538:0</CryptosleepCasket.description>
   
-  <ShipLandingBeacon.label>crwdns449064:0crwdne449064:0</ShipLandingBeacon.label>
-  <ShipLandingBeacon.description>crwdns449066:0crwdne449066:0</ShipLandingBeacon.description>
+  <EggBox.label>crwdns471540:0crwdne471540:0</EggBox.label>
+  <EggBox.description>crwdns471542:0crwdne471542:0</EggBox.description>
+  
+  <FirefoamPopper.label>crwdns471544:0crwdne471544:0</FirefoamPopper.label>
+  <FirefoamPopper.description>crwdns471546:0crwdne471546:0</FirefoamPopper.description>
+  <FirefoamPopper.comps.CompUsable.useLabel>crwdns471548:0{0_label}crwdne471548:0</FirefoamPopper.comps.CompUsable.useLabel>
+  
+  <Grave.label>crwdns471550:0crwdne471550:0</Grave.label>
+  <Grave.description>crwdns471552:0crwdne471552:0</Grave.description>
+  
+  <GroundPenetratingScanner.label>crwdns471554:0crwdne471554:0</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>crwdns471556:0crwdne471556:0</GroundPenetratingScanner.description>
+  
+  <LongRangeMineralScanner.label>crwdns471558:0crwdne471558:0</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.description>crwdns471560:0crwdne471560:0</LongRangeMineralScanner.description>
+  
+  <MarriageSpot.label>crwdns471562:0crwdne471562:0</MarriageSpot.label>
+  <MarriageSpot.description>crwdns471564:0crwdne471564:0</MarriageSpot.description>
+  
+  <MoisturePump.label>crwdns471566:0crwdne471566:0</MoisturePump.label>
+  <MoisturePump.description>crwdns471568:0crwdne471568:0</MoisturePump.description>
+  
+  <MultiAnalyzer.label>crwdns471570:0crwdne471570:0</MultiAnalyzer.label>
+  <MultiAnalyzer.description>crwdns471572:0crwdne471572:0</MultiAnalyzer.description>
+  
+  <OrbitalTradeBeacon.label>crwdns471574:0crwdne471574:0</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.description>crwdns471576:0crwdne471576:0</OrbitalTradeBeacon.description>
+  
+  <PartySpot.label>crwdns471578:0crwdne471578:0</PartySpot.label>
+  <PartySpot.description>crwdns471580:0crwdne471580:0</PartySpot.description>
+  
+  <PenMarker.label>crwdns471582:0crwdne471582:0</PenMarker.label>
+  <PenMarker.description>crwdns471584:0crwdne471584:0</PenMarker.description>
+  
+  <PodLauncher.label>crwdns471586:0crwdne471586:0</PodLauncher.label>
+  <PodLauncher.description>crwdns471588:0crwdne471588:0</PodLauncher.description>
+  
+  <Sarcophagus.label>crwdns471590:0crwdne471590:0</Sarcophagus.label>
+  <Sarcophagus.description>crwdns471592:0crwdne471592:0</Sarcophagus.description>
+  
+  <SteleGrand.label>crwdns471594:0crwdne471594:0</SteleGrand.label>
+  <SteleGrand.description>crwdns471596:0crwdne471596:0</SteleGrand.description>
+  
+  <SteleLarge.label>crwdns471598:0crwdne471598:0</SteleLarge.label>
+  <SteleLarge.description>crwdns471600:0crwdne471600:0</SteleLarge.description>
+  
+  <ToolCabinet.label>crwdns471602:0crwdne471602:0</ToolCabinet.label>
+  <ToolCabinet.description>crwdns471604:0crwdne471604:0</ToolCabinet.description>
+  
+  <TransportPod.label>crwdns471606:0crwdne471606:0</TransportPod.label>
+  <TransportPod.description>crwdns471608:0crwdne471608:0</TransportPod.description>
+  
+  <VitalsMonitor.label>crwdns471610:0crwdne471610:0</VitalsMonitor.label>
+  <VitalsMonitor.description>crwdns471612:0crwdne471612:0</VitalsMonitor.description>
 </LanguageData>
