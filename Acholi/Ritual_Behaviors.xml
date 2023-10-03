@@ -1,8 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildBirth.roles.0.label>crwdns425488:0crwdne425488:0</ChildBirth.roles.0.label>
-  <ChildBirth.roles.1.label>crwdns425490:0crwdne425490:0</ChildBirth.roles.1.label>
-  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>crwdns425492:0crwdne425492:0</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
-  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>crwdns425494:0crwdne425494:0</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
-  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>crwdns425496:0crwdne425496:0</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
+  <BlindingCeremony.roles.0.label>crwdns437760:0crwdne437760:0</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.0.missingDesc>crwdns437762:0crwdne437762:0</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.1.label>crwdns437764:0crwdne437764:0</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.missingDesc>crwdns437766:0crwdne437766:0</BlindingCeremony.roles.1.missingDesc>
+  <BlindingCeremony.stages.0.failTriggers.0.desc>crwdns437768:0crwdne437768:0</BlindingCeremony.stages.0.failTriggers.0.desc>
+  <BlindingCeremony.stages.0.failTriggers.1.desc>crwdns437770:0crwdne437770:0</BlindingCeremony.stages.0.failTriggers.1.desc>
+  
+  <BurnCircle.spectatorGerund>crwdns437772:0crwdne437772:0</BurnCircle.spectatorGerund>
+  <BurnCircle.spectatorsLabel>crwdns437774:0crwdne437774:0</BurnCircle.spectatorsLabel>
+  
+  <CelebrationPartyDanceDrum.spectatorGerund>crwdns437776:0crwdne437776:0</CelebrationPartyDanceDrum.spectatorGerund>
+  <CelebrationPartyDanceDrum.spectatorsLabel>crwdns437778:0crwdne437778:0</CelebrationPartyDanceDrum.spectatorsLabel>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>crwdns437780:0crwdne437780:0</CelebrationPartyDanceDrum.stages.0.failTriggers.0.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>crwdns437782:0crwdne437782:0</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>crwdns437784:0crwdne437784:0</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  
+  <CelebrationSkyLanterns.spectatorGerund>crwdns437786:0crwdne437786:0</CelebrationSkyLanterns.spectatorGerund>
+  <CelebrationSkyLanterns.spectatorsLabel>crwdns437788:0crwdne437788:0</CelebrationSkyLanterns.spectatorsLabel>
+  
+  <CelebrationTree.spectatorGerund>crwdns437790:0crwdne437790:0</CelebrationTree.spectatorGerund>
+  <CelebrationTree.spectatorsLabel>crwdns437792:0crwdne437792:0</CelebrationTree.spectatorsLabel>
+  
+  <Conversion.roles.0.label>crwdns437794:0crwdne437794:0</Conversion.roles.0.label>
+  <Conversion.roles.1.label>crwdns437796:0crwdne437796:0</Conversion.roles.1.label>
+  <Conversion.stages.0.failTriggers.0.desc>crwdns437798:0crwdne437798:0</Conversion.stages.0.failTriggers.0.desc>
+  <Conversion.stages.0.failTriggers.1.desc>crwdns437800:0crwdne437800:0</Conversion.stages.0.failTriggers.1.desc>
+  
+  <DancePartyTech.spectatorGerund>crwdns437802:0crwdne437802:0</DancePartyTech.spectatorGerund>
+  <DancePartyTech.spectatorsLabel>crwdns437804:0crwdne437804:0</DancePartyTech.spectatorsLabel>
+  <DancePartyTech.stages.0.failTriggers.0.desc>crwdns437806:0crwdne437806:0</DancePartyTech.stages.0.failTriggers.0.desc>
+  <DancePartyTech.stages.0.failTriggers.1.desc>crwdns437808:0crwdne437808:0</DancePartyTech.stages.0.failTriggers.1.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>crwdns437810:0crwdne437810:0</DancePartyTech.stages.0.failTriggers.2.desc>
+  
+  <DateRitual.roles.0.label>crwdns437812:0crwdne437812:0</DateRitual.roles.0.label>
+  <DateRitual.spectatorGerund>crwdns437814:0crwdne437814:0</DateRitual.spectatorGerund>
+  <DateRitual.spectatorsLabel>crwdns437816:0crwdne437816:0</DateRitual.spectatorsLabel>
+  <DateRitual.stages.0.postAction.text>crwdns437818:0{0}crwdne437818:0</DateRitual.stages.0.postAction.text>
+  
+  <Execution.roles.0.label>crwdns437820:0crwdne437820:0</Execution.roles.0.label>
+  <Execution.roles.0.missingDesc>crwdns437822:0crwdne437822:0</Execution.roles.0.missingDesc>
+  <Execution.roles.1.label>crwdns437824:0crwdne437824:0</Execution.roles.1.label>
+  <Execution.roles.1.missingDesc>crwdns437826:0crwdne437826:0</Execution.roles.1.missingDesc>
+  <Execution.spectatorFilter.description>crwdns437828:0crwdne437828:0</Execution.spectatorFilter.description>
+  <Execution.stages.0.failTriggers.0.desc>crwdns437830:0crwdne437830:0</Execution.stages.0.failTriggers.0.desc>
+  <Execution.stages.0.failTriggers.1.desc>crwdns437832:0crwdne437832:0</Execution.stages.0.failTriggers.1.desc>
+  
+  <FeastCannibal.spectatorGerund>crwdns437834:0crwdne437834:0</FeastCannibal.spectatorGerund>
+  <FeastCannibal.spectatorsLabel>crwdns437836:0crwdne437836:0</FeastCannibal.spectatorsLabel>
+  
+  <Funeral.roles.0.label>crwdns437838:0crwdne437838:0</Funeral.roles.0.label>
+  
+  <GladiatorDuel.roles.0.label>crwdns437840:0crwdne437840:0</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>crwdns437842:0crwdne437842:0</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.1.categoryLabel>crwdns437844:0crwdne437844:0</GladiatorDuel.roles.1.categoryLabel>
+  <GladiatorDuel.roles.1.missingDesc>crwdns437846:0crwdne437846:0</GladiatorDuel.roles.1.missingDesc>
+  <GladiatorDuel.roles.2.label>crwdns437848:0crwdne437848:0</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.2.categoryLabel>crwdns437850:0crwdne437850:0</GladiatorDuel.roles.2.categoryLabel>
+  <GladiatorDuel.roles.2.missingDesc>crwdns437852:0crwdne437852:0</GladiatorDuel.roles.2.missingDesc>
+  <GladiatorDuel.roles.3.label>crwdns437854:0crwdne437854:0</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.3.categoryLabel>crwdns437856:0crwdne437856:0</GladiatorDuel.roles.3.categoryLabel>
+  <GladiatorDuel.roles.3.missingDesc>crwdns437858:0crwdne437858:0</GladiatorDuel.roles.3.missingDesc>
+  <GladiatorDuel.roles.4.label>crwdns437860:0crwdne437860:0</GladiatorDuel.roles.4.label>
+  <GladiatorDuel.roles.4.categoryLabel>crwdns437862:0crwdne437862:0</GladiatorDuel.roles.4.categoryLabel>
+  <GladiatorDuel.roles.4.missingDesc>crwdns437864:0crwdne437864:0</GladiatorDuel.roles.4.missingDesc>
+  <GladiatorDuel.spectatorGerund>crwdns437866:0crwdne437866:0</GladiatorDuel.spectatorGerund>
+  <GladiatorDuel.spectatorsLabel>crwdns437868:0crwdne437868:0</GladiatorDuel.spectatorsLabel>
+  <GladiatorDuel.stages.2.failTriggers.0.desc>crwdns437870:0crwdne437870:0</GladiatorDuel.stages.2.failTriggers.0.desc>
+  <GladiatorDuel.stages.2.failTriggers.1.desc>crwdns437872:0crwdne437872:0</GladiatorDuel.stages.2.failTriggers.1.desc>
+  <GladiatorDuel.stages.2.failTriggers.2.desc>crwdns437874:0crwdne437874:0</GladiatorDuel.stages.2.failTriggers.2.desc>
+  
+  <LeaderSpeech.letterText>crwdns437876:0{SPEAKER_labelShort}crwdnd437876:0{RITUAL_labelIndef}crwdnd437876:0{SPEAKER_labelShort}crwdnd437876:0{IDEOMEMBERS}crwdne437876:0</LeaderSpeech.letterText>
+  <LeaderSpeech.letterTitle>crwdns437878:0{RITUAL_labelCap}crwdne437878:0</LeaderSpeech.letterTitle>
+  <LeaderSpeech.roles.0.label>crwdns437880:0crwdne437880:0</LeaderSpeech.roles.0.label>
+  
+  <RoleChange.roles.0.label>crwdns437882:0crwdne437882:0</RoleChange.roles.0.label>
+  <RoleChange.roles.0.missingDesc>crwdns437884:0crwdne437884:0</RoleChange.roles.0.missingDesc>
+  <RoleChange.spectatorGerund>crwdns437886:0crwdne437886:0</RoleChange.spectatorGerund>
+  <RoleChange.spectatorsLabel>crwdns437888:0crwdne437888:0</RoleChange.spectatorsLabel>
+  
+  <SacrificeAnimal.roles.0.label>crwdns437890:0crwdne437890:0</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.1.label>crwdns437892:0crwdne437892:0</SacrificeAnimal.roles.1.label>
+  <SacrificeAnimal.roles.1.missingDesc>crwdns437894:0crwdne437894:0</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.spectatorGerund>crwdns437896:0crwdne437896:0</SacrificeAnimal.spectatorGerund>
+  <SacrificeAnimal.spectatorsLabel>crwdns437898:0crwdne437898:0</SacrificeAnimal.spectatorsLabel>
+  <SacrificeAnimal.stages.0.failTriggers.0.desc>crwdns437900:0crwdne437900:0</SacrificeAnimal.stages.0.failTriggers.0.desc>
+  <SacrificeAnimal.stages.0.failTriggers.1.desc>crwdns437902:0crwdne437902:0</SacrificeAnimal.stages.0.failTriggers.1.desc>
+  
+  <SacrificePrisoner.roles.0.label>crwdns437904:0crwdne437904:0</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.1.label>crwdns437906:0crwdne437906:0</SacrificePrisoner.roles.1.label>
+  <SacrificePrisoner.roles.1.missingDesc>crwdns437908:0crwdne437908:0</SacrificePrisoner.roles.1.missingDesc>
+  <SacrificePrisoner.spectatorGerund>crwdns437910:0crwdne437910:0</SacrificePrisoner.spectatorGerund>
+  <SacrificePrisoner.spectatorsLabel>crwdns437912:0crwdne437912:0</SacrificePrisoner.spectatorsLabel>
+  <SacrificePrisoner.stages.0.failTriggers.0.desc>crwdns437914:0crwdne437914:0</SacrificePrisoner.stages.0.failTriggers.0.desc>
+  <SacrificePrisoner.stages.0.failTriggers.1.desc>crwdns437916:0crwdne437916:0</SacrificePrisoner.stages.0.failTriggers.1.desc>
+  
+  <ScarificationCeremony.roles.0.label>crwdns437918:0crwdne437918:0</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.0.missingDesc>crwdns437920:0crwdne437920:0</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.1.label>crwdns437922:0crwdne437922:0</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.missingDesc>crwdns437924:0crwdne437924:0</ScarificationCeremony.roles.1.missingDesc>
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>crwdns437926:0crwdne437926:0</ScarificationCeremony.stages.0.failTriggers.0.desc>
+  <ScarificationCeremony.stages.0.failTriggers.1.desc>crwdns437928:0crwdne437928:0</ScarificationCeremony.stages.0.failTriggers.1.desc>
+  
+  <SmokeCircle.spectatorGerund>crwdns437930:0crwdne437930:0</SmokeCircle.spectatorGerund>
+  <SmokeCircle.spectatorsLabel>crwdns437932:0crwdne437932:0</SmokeCircle.spectatorsLabel>
+  
+  <TreeConnection.roles.0.label>crwdns437934:0crwdne437934:0</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.customChildDisallowMessage>crwdns437936:0crwdne437936:0</TreeConnection.roles.0.customChildDisallowMessage>
+  <TreeConnection.spectatorGerund>crwdns437938:0crwdne437938:0</TreeConnection.spectatorGerund>
+  <TreeConnection.spectatorsLabel>crwdns437940:0crwdne437940:0</TreeConnection.spectatorsLabel>
+  
+  <Trial.roles.0.label>crwdns437942:0crwdne437942:0</Trial.roles.0.label>
+  <Trial.roles.1.label>crwdns437944:0crwdne437944:0</Trial.roles.1.label>
+  
+  <TrialMentalState.roles.0.label>crwdns437946:0crwdne437946:0</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>crwdns437948:0crwdne437948:0</TrialMentalState.roles.1.label>
+  
+  <TrialPrisoner.roles.0.label>crwdns437950:0crwdne437950:0</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>crwdns437952:0crwdne437952:0</TrialPrisoner.roles.1.label>
+  <TrialPrisoner.stages.0.failTriggers.0.desc>crwdns437954:0crwdne437954:0</TrialPrisoner.stages.0.failTriggers.0.desc>
+  <TrialPrisoner.stages.0.failTriggers.1.desc>crwdns437956:0crwdne437956:0</TrialPrisoner.stages.0.failTriggers.1.desc>
 </LanguageData>
