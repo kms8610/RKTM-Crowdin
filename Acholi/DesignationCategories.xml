@@ -1,4 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ideology.label>crwdns430774:0crwdne430774:0</Ideology.label>
+  <Floors.label>crwdns456652:0crwdne456652:0</Floors.label>
+  
+  <Furniture.label>crwdns456654:0crwdne456654:0</Furniture.label>
+  
+  <Joy.label>crwdns456656:0crwdne456656:0</Joy.label>
+  
+  <Misc.label>crwdns456658:0crwdne456658:0</Misc.label>
+  
+  <Orders.label>crwdns456660:0crwdne456660:0</Orders.label>
+  
+  <Power.label>crwdns456662:0crwdne456662:0</Power.label>
+  
+  <Production.label>crwdns456664:0crwdne456664:0</Production.label>
+  
+  <Security.label>crwdns456666:0crwdne456666:0</Security.label>
+  
+  <Ship.label>crwdns456668:0crwdne456668:0</Ship.label>
+  
+  <Structure.label>crwdns456670:0crwdne456670:0</Structure.label>
+  
+  <Temperature.label>crwdns456672:0crwdne456672:0</Temperature.label>
+  
+  <Zone.label>crwdns456674:0crwdne456674:0</Zone.label>
 </LanguageData>
