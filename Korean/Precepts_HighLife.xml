@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_Essential.label>essential</DrugUse_Essential.label>
-  <DrugUse_Essential.description>Exotic states of mind are central to a good life.</DrugUse_Essential.description>
-  <DrugUse_Essential.comps.0.description>Drugs taken every {DAYSSATISIFED} days</DrugUse_Essential.comps.0.description>
+  <HighLife.stages.high_life-0.label>high life</HighLife.stages.high_life-0.label>
+  <HighLife.stages.high_life-0.description>The right path goes through altered consciousness, and I am walking it.</HighLife.stages.high_life-0.description>
+  <HighLife.stages.high_life-1.label>high life</HighLife.stages.high_life-1.label>
+  <HighLife.stages.high_life_missing-0.label>high life missing</HighLife.stages.high_life_missing-0.label>
+  <HighLife.stages.high_life_missing-0.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.high_life_missing-0.description>
+  <HighLife.stages.high_life_missing-1.label>high life missing</HighLife.stages.high_life_missing-1.label>
+  <HighLife.stages.high_life_missing-1.description>I should be altering my consciousness. It's not right to be sober so long.</HighLife.stages.high_life_missing-1.description>
 </LanguageData>
