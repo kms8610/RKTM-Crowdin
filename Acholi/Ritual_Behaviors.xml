@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.roles.0.label>crwdns448020:0crwdne448020:0</AnimaTreeLinking.roles.0.label>
-  <AnimaTreeLinking.roles.0.customChildDisallowMessage>crwdns448022:0crwdne448022:0</AnimaTreeLinking.roles.0.customChildDisallowMessage>
-  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>crwdns448024:0crwdne448024:0</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
-  <AnimaTreeLinking.spectatorFilter.description>crwdns448026:0crwdne448026:0</AnimaTreeLinking.spectatorFilter.description>
-  <AnimaTreeLinking.spectatorGerund>crwdns448028:0crwdne448028:0</AnimaTreeLinking.spectatorGerund>
-  <AnimaTreeLinking.spectatorsLabel>crwdns448030:0crwdne448030:0</AnimaTreeLinking.spectatorsLabel>
-  
-  <ThroneSpeech.letterText>crwdns448032:0{ORGANIZER_labelShort}crwdnd448032:0{ORGANIZER_labelShort}crwdnd448032:0{ORGANIZER_labelShort}crwdne448032:0</ThroneSpeech.letterText>
-  <ThroneSpeech.letterTitle>crwdns448034:0crwdne448034:0</ThroneSpeech.letterTitle>
-  <ThroneSpeech.roles.0.label>crwdns448036:0crwdne448036:0</ThroneSpeech.roles.0.label>
+  <ChildBirth.roles.0.label>crwdns425488:0crwdne425488:0</ChildBirth.roles.0.label>
+  <ChildBirth.roles.1.label>crwdns425490:0crwdne425490:0</ChildBirth.roles.1.label>
+  <ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>crwdns425492:0crwdne425492:0</ChildBirth.stages.2.roleBehaviors.1.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>crwdns425494:0crwdne425494:0</ChildBirth.stages.3.roleBehaviors.0.jobReportOverride>
+  <ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>crwdns425496:0crwdne425496:0</ChildBirth.stages.3.roleBehaviors.1.jobReportOverride>
 </LanguageData>
