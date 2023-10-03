@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Grenadier_Destructive.label>척탄병</Grenadier_Destructive.label>
+  <Grenadier_Destructive.label>grenadier</Grenadier_Destructive.label>
   
-  <Grenadier_EMP.label>EMP 척탄병</Grenadier_EMP.label>
+  <Grenadier_EMP.label>EMP grenadier</Grenadier_EMP.label>
   
-  <Grenadier_Smoke.label>연막 전문가</Grenadier_Smoke.label>
+  <Grenadier_Smoke.label>smoke grenadier</Grenadier_Smoke.label>
   
-  <Mercenary_Elite.label>정예 용병</Mercenary_Elite.label>
-  <Mercenary_Elite.labelPlural>정예 용병</Mercenary_Elite.labelPlural>
+  <Mercenary_Elite.label>elite mercenary</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>elite mercenaries</Mercenary_Elite.labelPlural>
   
-  <Mercenary_Elite_Acidifier.label>정예 용병</Mercenary_Elite_Acidifier.label>
-  <Mercenary_Elite_Acidifier.labelPlural>정예 용병</Mercenary_Elite_Acidifier.labelPlural>
+  <Mercenary_Elite_Acidifier.label>elite mercenary</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelPlural>elite mercenaries</Mercenary_Elite_Acidifier.labelPlural>
   
-  <Mercenary_Gunner.label>용병 사수</Mercenary_Gunner.label>
+  <Mercenary_Gunner.label>mercenary gunner</Mercenary_Gunner.label>
   
-  <Mercenary_Gunner_Acidifier.label>용병 사수</Mercenary_Gunner_Acidifier.label>
+  <Mercenary_Gunner_Acidifier.label>mercenary gunner</Mercenary_Gunner_Acidifier.label>
   
-  <Mercenary_Heavy.label>용병 중화기병</Mercenary_Heavy.label>
-  <Mercenary_Heavy.labelPlural>용병 중화기병</Mercenary_Heavy.labelPlural>
+  <Mercenary_Heavy.label>heavy mercenary</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>heavy mercenaries</Mercenary_Heavy.labelPlural>
   
-  <Mercenary_Slasher.label>용병 도살자</Mercenary_Slasher.label>
+  <Mercenary_Slasher.label>mercenary slasher</Mercenary_Slasher.label>
   
-  <Mercenary_Slasher_Acidifier.label>용병 도살자</Mercenary_Slasher_Acidifier.label>
+  <Mercenary_Slasher_Acidifier.label>mercenary slasher</Mercenary_Slasher_Acidifier.label>
   
-  <Mercenary_Sniper.label>용병 저격수</Mercenary_Sniper.label>
+  <Mercenary_Sniper.label>mercenary sniper</Mercenary_Sniper.label>
   
-  <Mercenary_Sniper_Acidifier.label>용병 저격수</Mercenary_Sniper_Acidifier.label>
+  <Mercenary_Sniper_Acidifier.label>mercenary sniper</Mercenary_Sniper_Acidifier.label>
   
-  <PirateBoss.label>두목</PirateBoss.label>
-  <PirateBoss.labelPlural>대장</PirateBoss.labelPlural>
+  <PirateBoss.label>boss</PirateBoss.label>
+  <PirateBoss.labelPlural>bosses</PirateBoss.labelPlural>
 </LanguageData>
