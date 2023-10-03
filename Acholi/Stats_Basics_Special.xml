@@ -1,26 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CleaningTimeFactor.label>crwdns466846:0crwdne466846:0</CleaningTimeFactor.label>
-  <CleaningTimeFactor.description>crwdns466848:0crwdne466848:0</CleaningTimeFactor.description>
+  <SlaveSuppressionOffset.label>crwdns439806:0crwdne439806:0</SlaveSuppressionOffset.label>
+  <SlaveSuppressionOffset.description>crwdns439808:0crwdne439808:0</SlaveSuppressionOffset.description>
   
-  <ConstructionSpeedFactor.label>crwdns466850:0crwdne466850:0</ConstructionSpeedFactor.label>
-  <ConstructionSpeedFactor.description>crwdns466852:0crwdne466852:0</ConstructionSpeedFactor.description>
-  <ConstructionSpeedFactor.labelForFullStatList>crwdns466854:0crwdne466854:0</ConstructionSpeedFactor.labelForFullStatList>
-  
-  <FilthMultiplier.label>crwdns466856:0crwdne466856:0</FilthMultiplier.label>
-  <FilthMultiplier.description>crwdns466858:0crwdne466858:0</FilthMultiplier.description>
-  
-  <MedicalPotency.label>crwdns466860:0crwdne466860:0</MedicalPotency.label>
-  <MedicalPotency.description>crwdns466862:0crwdne466862:0</MedicalPotency.description>
-  
-  <MedicalQualityMax.label>crwdns466864:0crwdne466864:0</MedicalQualityMax.label>
-  <MedicalQualityMax.description>crwdns466866:0crwdne466866:0</MedicalQualityMax.description>
-  
-  <MeditationFocusStrength.label>crwdns466868:0crwdne466868:0</MeditationFocusStrength.label>
-  <MeditationFocusStrength.description>crwdns466870:0crwdne466870:0</MeditationFocusStrength.description>
-  <MeditationFocusStrength.formatString>crwdns466872:0{0}crwdne466872:0</MeditationFocusStrength.formatString>
-  <MeditationFocusStrength.formatStringUnfinalized>crwdns466874:0{0}crwdne466874:0</MeditationFocusStrength.formatStringUnfinalized>
-  
-  <PsychicSensitivityOffset.label>crwdns466876:0crwdne466876:0</PsychicSensitivityOffset.label>
-  <PsychicSensitivityOffset.description>crwdns466878:0crwdne466878:0</PsychicSensitivityOffset.description>
+  <TerrorSource.label>crwdns439810:0crwdne439810:0</TerrorSource.label>
+  <TerrorSource.description>crwdns439812:0crwdne439812:0</TerrorSource.description>
+  <TerrorSource.formatString>crwdns439814:0{0}crwdne439814:0</TerrorSource.formatString>
 </LanguageData>
