@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Anything.label>자유행동</Anything.label>
+  <Anything.label>anything</Anything.label>
   
-  <Joy.label>오락</Joy.label>
+  <Joy.label>recreation</Joy.label>
   
-  <Sleep.label>수면</Sleep.label>
+  <Sleep.label>sleep</Sleep.label>
   
-  <Work.label>작업</Work.label>
+  <Work.label>work</Work.label>
 </LanguageData>
