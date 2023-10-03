@@ -1,124 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Mechanitor -->
-  <LetterLabelMechsFeral>Mech(s) gone feral</LetterLabelMechsFeral>
-  <LetterMechsFeral>Some mech(s) which were wandering without an overseer have linked with ancient planet-wide mech control signals. They have joined {0} and become hostile, and appear to be trying to fight their way off the map.\n\nFeral mechanoids cannot be resurrected at a gestator when killed.\n\nThese mechs are involved:\n\n{1}</LetterMechsFeral>
-  <LetterLabelMechlinkInstalled>Mechlink installed</LetterLabelMechlinkInstalled>
-  <LetterMechlinkInstalled>{PAWN_labelShort} has installed a mechlink! {PAWN_pronoun} is now a mechanitor and can create and control mechanoids.\n\nResearch basic mechtech to get started.\n\n(*SectionTitle)Creating mechs:(/SectionTitle) Your mechanitor can create mechs at a production building called a mech gestator.\n\n(*SectionTitle)About bandwidth:(/SectionTitle) Mechanitors can control as many mechs as their total bandwidth allows. Select {PAWN_labelShort} and look at {PAWN_possessive} 'Bandwidth' readout to see how much bandwidth {PAWN_pronoun} is currently using and how much {PAWN_pronoun} has available. Bandwidth can be increased with certain apparel and by building band node buildings.\n\n(*SectionTitle)About control groups:(/SectionTitle) Mechanitors control mechs in groups. Each control group can be set to one of these modes:\n\n- Work\n- Escort\n- Recharge\n- Dormant self-charge\n\nTo learn more about what each mode does, select the work mode icon on one of {PAWN_labelShort}'s control groups and hover over the different work orders. The maximum number of control groups can be increased with apparel and implants.\n\n(*SectionTitle)About threat calling:(/SectionTitle) Mechanitors can signal ancient leader mechs to attack in order to obtain rare items from them. You must do this to improve your mechanitor past certain limits, but beware the danger.</LetterMechlinkInstalled>
+  <!-- Convert ideo attempt -->
+  <LetterLabelConvertIdeoAttempt_Success>교화</LetterLabelConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}.</LetterConvertIdeoAttempt_Success>
 
-  <MentalStateReason_Gene>This happened because of</MentalStateReason_Gene>
+  <!-- Slave rebellion -->
+  <LetterLabelGrandSlaveRebellion>Grand slave rebellion</LetterLabelGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>대규모 노예 반란이 일어났습니다! 모든 노예가 대항을 위해 일어섰습니다. 가담자들은 무기를 찾아 장비한 후 정착민을 모조리 죽이려 할 것입니다.\n\n가담자는 다음과 같습니다.\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>Local slave rebellion</LetterLabelLocalSlaveRebellion>
+  <LetterLocalSlaveRebellion>국지적인 노예 반란이 일어났습니다! {0_nameDef}(와)과 근처 몇몇 노예가 대항을 위해 일어섰습니다. 가담자들은 무기를 찾아 장비한 후 정착민을 모조리 죽이려 할 것입니다.\n\n가담자는 다음과 같습니다.\n\n{1}</LetterLocalSlaveRebellion> 
+  <LetterLabelSingleSlaveRebellion>Slave rebellion</LetterLabelSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef}(이)가 반란을 일으켰습니다! {0_pronoun}는 무기를 찾아 장비한 후 정착민을 모조리 죽이려 할 것입니다.</LetterSingleSlaveRebellion>
 
-  <LetterLabelBossgroupSummoned>{0} summoned</LetterLabelBossgroupSummoned>
-  <LetterBossgroupSummoned>Attracted by your mech-band signals, an ultra-heavy mech from {0} will arrive soon. Be prepared.</LetterBossgroupSummoned>
+  <!-- Slave escape -->
+  <LetterLabelGrandSlaveEscape>Grand slave escape</LetterLabelGrandSlaveEscape>
+  <LetterGrandSlaveEscape>노예들의 대탈주가 시작됐습니다! 모든 노예가 탈주하고 있습니다.\n\n가담자는 다음과 같습니다.\n\n{0}</LetterGrandSlaveEscape>
+  <LetterLabelLocalSlaveEscape>Local slave escape</LetterLabelLocalSlaveEscape>
+  <LetterLocalSlaveEscape>몇몇 노예들이 탈주하기 시작합니다! {0_nameDef}(와)과 근처 노예들이 탈주하고 있습니다.\n\n가담자는 다음과 같습니다.\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLabelSingleSlaveEscape>Slave escape</LetterLabelSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef}(이)가 탈주를 시도합니다!</LetterSingleSlaveEscape>
 
-  <LetterLabelBossgroupArrived>{0} arrived</LetterLabelBossgroupArrived>
-  <LetterBossgroupArrived>An ultra-heavy mech from {0} has come to eradicate you, along with escorts.\n\n{1}\n\nThe assault group is composed of the following {3}:\n\n{4}\n\nThey will prepare for a while before attacking.</LetterBossgroupArrived>
-
-  <LetterLabelCommsConsoleSpawned>Summon {LEADER_label} available</LetterLabelCommsConsoleSpawned>
-  <LetterCommsConsoleSpawned>A mechanitor can use the {PARENT_label} to summon a dangerous and hostile {LEADER_label} mechanoid. Be prepared, {LEADER_label} mechanoids are extremely powerful.\n\nIf you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
-
-  <LetterLabelBossgroupCallerUnlocked>Summon {LEADER_label} possible</LetterLabelBossgroupCallerUnlocked>
-  <LetterBossgroupCallerUnlocked>You can now build a {PARENT_label} which a mechanitor can use to summon a {LEADER_label}. If you defeat the {LEADER_label}, it will drop the following items:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
-
-  <LetterLabelMechanitorCasketOpened>{0_nameDef}'s mechlink available</LetterLabelMechanitorCasketOpened>
-  <LetterMechanitorCasketOpened>You have found the corpse of an ancient mechanitor!\n\nExtract {0_possessive} mechlink by selecting a colonist and right-clicking the corpse.</LetterMechanitorCasketOpened>
-  <LetterLabelMechanitorCasketFound>Mechanitor casket found</LetterLabelMechanitorCasketFound>
-  <LetterMechanitorCasketFound>You have discovered a mechanitor's cryptosleep casket!\n\nOpen it to find them inside.</LetterMechanitorCasketFound>
+  <SlaveRebellionSuppressionExplanation>노예의 복종심이 낮으면 반란을 일으킬 확률이 높아집니다.</SlaveRebellionSuppressionExplanation>
   
-  <!-- Pawns lost because map closed (including mechs) -->
-  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>Your caravan has been lost. The following people, animals and mechanoids have been lost with it</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
-  <LetterPawnsLostIncMechsBecauseMapClosed_Home>The following people, animals and mechanoids have been abandoned</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  <!-- Ideo role -->
+  <LetterLabelRoleActive>{0} 지위 활성화</LetterLabelRoleActive>
+  <LetterLabelRoleActiveDesc>정착지의 {0} 수가 {1}에 도달했습니다. 이제 {ROLE_labelDef}의 지위를 정착민 중 한 명에게 할당할 수 있습니다.\n\n지위를 할당하려면 해당 정착민의 관계 탭을 사용하거나, 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</LetterLabelRoleActiveDesc>
+
+  <LetterLabelRoleInactive>{0} 지위 비활성화</LetterLabelRoleInactive>
+  <LetterLabelRoleInactiveDesc>정착지 내 {0}의 수가 {1}명으로 떨어져서 {ROLE_labelDef} 지위가 비활성화됐습니다. {ROLE_labelDef}(은)는 {0}(이)가 {2}명이 되면 다시 활성화됩니다.</LetterLabelRoleInactiveDesc>
+
+  <LetterLabelRoleLost>{PAWN_labelShort}, {ROLE_labelIndef} 지위 상실</LetterLabelRoleLost>
+  <LetterRoleLostDesc>{PAWN_labelShort}(은)는 {ROLE_labelIndef} 지위를 잃었습니다. 사유:</LetterRoleLostDesc>
+  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} was unassigned.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonLowBelieversDesc>{0}의 수가 부족하기 때문에 지위가 비활성화됐습니다.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort}(이)가 {OLDIDEO_name} 사상을 포기하면서 {ROLE_labelDef} 지위도 잃었습니다.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterObligationRoleInactive>{0} skipped.</LetterObligationRoleInactive>
+  <LetterObligationRoleInactiveDateDesc>{0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}.</LetterObligationRoleInactiveDateDesc>
   
+  <!-- Ideo misc -->
+  <LetterSpeechConvertedListeners>{PAWN_pronoun}'s speech converted following people to {IDEO}</LetterSpeechConvertedListeners>
 
-  <!-- Children -->
-  <LetterLabelBecameChild>{0_nameDef} became a child</LetterLabelBecameChild>
-  <LetterLabelBecameAdult>{0_nameDef} became an adult</LetterLabelBecameAdult>
-  <LetterBecameChild>Baby {0_nameDef} has grown up and become a child! {0_pronoun} is now old enough to do the following work:</LetterBecameChild>
-  <LetterBecameChildChanges>Children can do various types of work. As they get older, they become able to do more work types.\n\nThey also do various child-specific recreational activities.\n\nChildren need to wear special child-sized apparel.</LetterBecameChildChanges>
-  <LetterChildLegalStatus>By tradition {0_nameDef}, {0_parentage}, is a {0_legalStatus}, but exceptions can be made....  Should {0_nameDef} remain a {0_legalStatus}?</LetterChildLegalStatus>
-  <LetterChildFollowIdeo>{0_labelShort} has decided to become a follower of the ideoligion {1_name}.</LetterChildFollowIdeo>
-  <CannotChangeChildStatusReason>{0_nameDef}'s slave status has already changed since {0_possessive} birthday.</CannotChangeChildStatusReason>
-  <Enslave>enslave</Enslave>
-  <Emancipate>emancipate</Emancipate>
-  <RemainX>remain {0}</RemainX>
-  <LetterLabelAdopted>{BABY_nameDef} adopted</LetterLabelAdopted>
-  <LetterTextAdopted>{BABY_nameDef}, a baby, has been adopted by your colony. You may want to assign colonists to the 'childcare' work type to take care of {BABY_objective}.</LetterTextAdopted>
+  <LetterTitleObligationsActivated>{0} rituals activated</LetterTitleObligationsActivated>
+  <LetterTitleObligationsDeactivated>{0} rituals deactivated</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out.</LetterTitleObligationsActivatedIdeoBecameMajor>
 
-  <LetterLabelThirdTrimester>{0_nameDef}'s baby prep</LetterLabelThirdTrimester>
-  <LetterTextThirdTrimester>{0_nameDef} is due to give birth in less than 6 days. You can prepare for the baby:\n\n- Build a birth room with a clean floor and good bed.\n- Get a skilled doctor ready.\n- In the work tab, assign at least one person to childcare\n- Prepare a food source for the baby. {0_nameDef} can breastfeed the baby, or you can feed them baby food, milk, or insect jelly.\n- Build a crib. High quality cribs will make a baby happy.\n\nYou can make baby food at a stove or campfire.</LetterTextThirdTrimester>
+  <LetterBondRemoved>Bond(s) removed</LetterBondRemoved>
+  <LetterBondRemovedDesc>{PAWN_nameDef}(이)가 이제 {IDEO}(을)를 믿습니다. {IDEO}(은)는 동물과 각별해지는 것을 금지하기 때문에, {PAWN_nameDef} 또한 아래 동물과의 유대관계를 끊었습니다:\n\n{BONDS}</LetterBondRemovedDesc>
 
-  <LetterVatBirth>{0} vat birth</LetterVatBirth>
-  <LetterVatHealthyBaby>The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a healthy baby!</LetterVatHealthyBaby>
-  <LetterVatHealthyBabyNoParents>An embryo has finished gestating in a growth vat and become a healthy baby!</LetterVatHealthyBabyNoParents>
-  <LetterVatInfantIllness>The embryo of {0_nameDef} and {1_nameDef} has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick.</LetterVatInfantIllness>
-  <LetterVatInfantIllnessNoParents>An embryo has finished gestating in a growth vat and has become a baby. Unfortunately, the baby is sick.</LetterVatInfantIllnessNoParents>
-  <LetterVatStillborn>The baby formed in a growth vat from the embryo of {0_nameDef} and {1_nameDef} was stillborn.</LetterVatStillborn>
-  <LetterVatSillbornNoParents>The baby formed in a growth vat was stillborn.</LetterVatSillbornNoParents>
-  <LetterColonistPregnancyLaborLabel>{0_labelShort} in labor!</LetterColonistPregnancyLaborLabel>
-  <LetterColonistPregnancyLabor>{0_labelShort} is about to give birth! She's going to have contractions for a few hours before delivering a baby. The labor may go through several stages of different levels of difficulty and danger.\n\nTo improve the baby's chances, gather a doctor and others to help with the birth. Select {0_labelShort} and press 'Gather for birth' to start the procedure.</LetterColonistPregnancyLabor>
-  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} has died due to complications after giving birth.</LetterPartColonistDiedAfterChildbirth>
-  <LetterPartSurrogacy>The baby was created from in vitro fertilization and has the genetic makeup of {0_labelShort} and {1_labelShort}.</LetterPartSurrogacy>
-  <InbredBabyBorn>The baby shows signs of genetic abnormalities due to inbreeding.</InbredBabyBorn>
+  <!-- Slave will -->
+  <LetterLabelEnslavementSuccess>Enslaved</LetterLabelEnslavementSuccess>
+  <LetterEnslavementSuccess>{0_nameDef} successfully enslaved {1_nameDef}.</LetterEnslavementSuccess>
 
-  <BabyAlreadyNamed>{0_nameDef} has already been named.</BabyAlreadyNamed>
-  <NameBaby>name baby</NameBaby>
-  <Immediately>immediately</Immediately>
-  <Within>within</Within>
-  <LetterPartTempBabyName>The baby has been given the temporary name {0_nameFull}.</LetterPartTempBabyName>
-  <LetterPartLiveBirthNameDeadline>You can change it until {0} after birth.</LetterPartLiveBirthNameDeadline>
-  <LetterPartStillbirthNameDeadline>Would you like to give the baby another name?</LetterPartStillbirthNameDeadline>
-  <LetterPartNameBabyAdopt>The baby was given the temporary name {0_nameFull}. You can change it as long as the baby is less than {1} old.</LetterPartNameBabyAdopt>
+  <!-- Primary ideo changed -->
+  <LetterLabelNewPrimaryIdeo>Primary ideoligion changed</LetterLabelNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>플레이어 세력의 주요 사상이 {OLDIDEO_name}에서 {NEWIDEO_name}(으)로 바뀌었습니다.\n\n{FACTION_pawnsPlural} 사이에서 {NEWIDEO_name}(이)가 다른 모든 사상보다 널리 퍼졌습니다.\n\n주요 사상의 방향성이 다른 세력의 사상과 얼마나 방향을 공유하는지에 따라 우호도에 영향을 미칩니다.</LetterNewPrimaryIdeo>
 
-  <BirthdayGrowthMoment>Growth moment for {PAWNNAME}</BirthdayGrowthMoment>
-  <BirthdayBiologicalGrowthMoment>{0_nameFull} has reached the biological age of {1} and has experienced a growth moment!</BirthdayBiologicalGrowthMoment>
-  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} is now old enough to do the following work</BirthdayBiologicalAgeWorkTypes>
-  <BirthdayPickPassion>Choose 1 skill for {0_nameDef} to increase {0_possessive} passion for</BirthdayPickPassion>
-  <BirthdayPickPassions>Choose {1} skills for {0_nameDef} to increase {0_possessive} passion for</BirthdayPickPassions>
-  <BirthdayPickTrait>Choose a trait for {0_nameDef} to gain</BirthdayPickTrait>
-  <BirthdayGrowthTier>When this growth moment happened, {0_nameDef} was at growth tier {1}. Children at higher growth tiers get more trait and passion options to choose from, and more passions overall. Satisfying the learning need helps the child gain growth tiers faster. Growth tiers are reset after each growth moment.</BirthdayGrowthTier>
-  <BirthdayChooseHowPawnWillGrow>Open this letter to choose how {0_nameDef} will grow.</BirthdayChooseHowPawnWillGrow>
+  <!-- Charity incidents -->
+  <JoinerCharityInfo>이것은 이타적 사건입니다. 만약 {0}(을)를 그냥 돌려보내면 이타적 사상을 가진 정착민들이 실망할 것입니다.</JoinerCharityInfo>
+  <AfflictedJoinerChartityInfo>이것은 이타적 사건입니다. 이타적 사상을 가진 정착민은 {0}(을)를 치료해주거나 포섭하면 기뻐할 것이고, 치료를 받지 못하고 사망하거나 방치되면 실망할 것입니다.</AfflictedJoinerChartityInfo>
+  <PawnsHaveCharitableBeliefs>다음 정착민들이 이타적 사상을 가지고 있습니다</PawnsHaveCharitableBeliefs>
 
-  <BirthdayPassionArchive>Passion was increased for {0}.</BirthdayPassionArchive>
-  <BirthdayTraitArchive>The trait {0} was gained.</BirthdayTraitArchive>
-  <BirthdayNoTraitChoice>No trait</BirthdayNoTraitChoice>
-  <BirthdayNoTraitChoiceTooltip>{0} does not gain a trait.</BirthdayNoTraitChoiceTooltip>
+  <!-- Change ideo mental state -->
+  <LetterIdeoChangeConverted>{PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeNotConverted>{PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangedWanderOwnRoom>To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs.</LetterIdeoChangedSadWander>
 
-  <BirthdayMakeChoices>Make choices to close</BirthdayMakeChoices>
-  <BirthdayNickname>{0} has gained the nickname {1}.</BirthdayNickname>
-  <SelectATrait>Select a trait.</SelectATrait>
-  <SelectPassionSingular>Select a passion.</SelectPassionSingular>
-  <SelectPassionsPlural>Select {0} passions.</SelectPassionsPlural>
-  <Later>Later</Later>
+  <!-- Change ideo divorces -->
+  <LetterIdeoChangedDivorce>Divorce</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorcedPawns>{PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1}</LetterIdeoChangedDivorcedPawns>
+
+  <!-- Surprise reinforcement -->
+  <LetterLabelSurpriseReinforcements>Surprise reinforcements!</LetterLabelSurpriseReinforcements>
+  <LetterSurpriseReinforcements>예상치 못했던 지원군이 나타났습니다! 그들은 {0}(을)를 돕기 위해 {1}에서 왔습니다.</LetterSurpriseReinforcements>
+
+  <!-- Style change -->
+  <LetterWantLookChange>Look change desired</LetterWantLookChange>
+  <LetterWantLookChangeDesc>{PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station.</LetterWantLookChangeDesc>
+
+  <!-- Spacedrone incoming -->
+  <LetterLabelSpacedroneIncoming>무인 우주선 접근</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>무인 우주선이 근처에 착륙합니다.</LetterTextSpacedroneIncoming>
+  <LetterTextRaidSpacedrone>착륙한 {1}(을)를 파괴하기 위해 {0}의 습격 부대가 도착했습니다.</LetterTextRaidSpacedrone>
+
+  <!-- Hacked -->
+  <LetterTextSpacedroneHacked>{0} 해킹이 끝냈습니다. 고대 {1} 유물에 관한 정보를 입수했습니다.</LetterTextSpacedroneHacked>
+
+  <!-- Relic destroyed -->
+  <LetterLabelRelicDestroyed>Relic destroyed</LetterLabelRelicDestroyed>
+  <LetterTextRelicDestroyed>{0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1}</LetterTextRelicDestroyed>
   
-  <LetterLabelMechlinkAvailable>Mechlink available</LetterLabelMechlinkAvailable>
-  <LetterMechlinkAvailable>An opportunity to acquire the unique mechlink implant has become available via the quest '{0}'.\n\nInstalling a mechlink will turn a colonist into a mechanitor. Mechanitors can create, control, and manipulate mechanoids for use in work and in combat.</LetterMechlinkAvailable>
+  <!-- Relic lost -->
+  <LetterLabelRelicLost>Relic lost</LetterLabelRelicLost>
+  <LetterTextRelicLost>{0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1}</LetterTextRelicLost>
 
-  <!-- Genes -->
-  <LetterLabelXenogermOrderedImplanted>Xenogerm implantation ordered</LetterLabelXenogermOrderedImplanted>
-  <LetterXenogermOrderedImplanted>You have ordered a xenogerm be implanted in {PAWN_nameDef}. This procedure requires a medical bed and {MEDICINENEEDED} medicine.{BEDINFO}{MEDICINEINFO}\n\nYou can cancel this procedure by going to {PAWN_nameDef}'s health -> operations tab.</LetterXenogermOrderedImplanted>
-  <XenogermOrderedImplantedBedNeeded>\n\nYou do not have any medical beds available for {PAWN_nameDef}. Consider marking a bed as medical.</XenogermOrderedImplantedBedNeeded>
-  <XenogermOrderedImplantedMedicineNeeded>\n\nYou do not have enough medicine to implant the xenogerm. Implanting cannot begin until you get {MEDICINENEEDED} medicine.</XenogermOrderedImplantedMedicineNeeded>
-  <LetterLabelInvoluntaryDeathrest>Involuntary deathrest</LetterLabelInvoluntaryDeathrest>
-  <LetterLabelRegenerationComa>Regeneration coma</LetterLabelRegenerationComa>
-  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}'s deathless gene has prevented {PAWN_objective} from dying. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
-  <LetterTextDeathrest>Instead, {PAWN_pronoun} has fallen into a deathrest.</LetterTextDeathrest>
-  <LetterTextRegenerationComa>Instead, {PAWN_pronoun} has fallen into a regeneration coma.</LetterTextRegenerationComa>
-  <DeathrestLostSkill>Due to the neural shock of traumatic deathrest, {PAWN_nameDef} has lost {XPLOSS} XP in {PAWN_possessive} {SKILL} skill.</DeathrestLostSkill>
-  <DeathrestLethalDamage>Lethal damage taken.</DeathrestLethalDamage>
+  <!-- Caravan destroyed -->
+  <LetterOnlySlaveCaravanColonistsLeft>All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded.</LetterOnlySlaveCaravanColonistsLeft>
 
-  <LetterLabelSanguophageWaitingToReimplant>Xenogerm implantation</LetterLabelSanguophageWaitingToReimplant>
-  <LetterTextSanguophageWaitingToReimplant>As thanks for allowing {PAWN_objective} and {PAWN_possessive} fellow sanguophages meet here, {PAWN_nameDef} is willing to share a copy of {PAWN_possessive} xenogerm with one of your colonists. This will turn your colonist into a sanguophage.\n\nTo accept, select a colonist and right click on {PAWN_nameDef}.\n\nIf no colonists have claimed the reward in {DURATION}, the sanguophages will leave.</LetterTextSanguophageWaitingToReimplant>
+  <!-- Hacker lost -->
+  <LetterLabelLastHackerLost>Last hacker lost</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>고대 시설의 비밀을 찾아낼 마지막 해커를 잃었습니다. 해킹이 가능한 정착민을 추가로 지원하거나 임무를 포기하십시오.</LetterTextLastHackerLost>
 
-  <LetterLabelGenesImplanted>Genes reimplanted</LetterLabelGenesImplanted>
-  <LetterTextGenesImplanted>{CASTER_nameDef} has implanted a copy of {CASTER_possessive} xenogerm into {TARGET_nameDef}, passing all xenogenes onto {TARGET_objective}.\n\n{TARGET_nameDef} will be in a xenogermination coma for the next {COMADURATION} while {TARGET_possessive} body adjusts to the changes.\n\n{CASTER_nameDef} will suffer from gene loss shock for the next {SHOCKDURATION}. {CASTER_possessive} genes will also need to regrow. This process takes time. If {CASTER_nameDef} implants {CASTER_possessive} xenogerm again before {CASTER_possessive} genes have regrown, {CASTER_pronoun} will die.</LetterTextGenesImplanted>
-  
-  <RefugeePodCrashBaby>A baby named {PAWN_nameDef} from {PAWN_factionName} is crashing in a transport pod nearby.\n\nYou may choose to adopt {PAWN_objective} with the 'adopt' command or ignore {PAWN_objective}.</RefugeePodCrashBaby>
-  <RefugeePodCrashBabyHasParent>The body of {PAWN_nameDef}'s deceased parent is contained within the transport pod as well.</RefugeePodCrashBabyHasParent>
+  <!-- Relic hunt -->
+  <LetterLabelRelicFound>Relic found</LetterLabelRelicFound>
+  <LetterTextRelicFoundLocation>You've finally learned the location of the relic {0}!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>유물이 고대 시설 안에 보관되어 있습니다. 다수의 독립 부대로 구성된 보안 시스템이 주변을 보호하고 있습니다. 한 번에 하나씩 격파할 수도 있고, 유물을 들고 몰래 도망칠 수도 있습니다.\n\n{0} 후에는 보안 시스템의 모든 구성 요소가 활성화됩니다.</LetterTextRelicFoundSecurityThreats>
 
-  <LetterPsychicBondCreated>Instinctively seeking a mate, {BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness.</LetterPsychicBondCreated>
+  <!-- Relics collection -->
+  <LetterLabelRelicsCollected>Relics collected</LetterLabelRelicsCollected>
+  <LetterTextRelicsCollected>All relics belonging to {0} have been collected. The following people will be delighted</LetterTextRelicsCollected>
+  <LetterTextRelicsCollectedClassic>이 세계에 알려진 모든 유물을 수집했습니다. 아래의 사람들이 기뻐합니다</LetterTextRelicsCollectedClassic>
 
-  <LetterPsychicBondCreatedLovinLabel>Psychic bond</LetterPsychicBondCreatedLovinLabel>
-  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} has formed a psychically-bonded romantic relationship with {OTHERPAWN_nameDef}. {OTHERPAWN_nameDef} will benefit psychologically from the connection to {BONDPAWN_nameDef}, but if they are separated onto different world tiles, both will suffer from psychic stress. If one dies, the other will be driven to madness.</LetterPsychicBondCreatedLovinText>
+  <!-- Gauranlen tree connection -->
+  <LetterLabelPawnConnected>{TREE_label} connection</LetterLabelPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef}(이)가 {TREE_definite}(와)과 교감했습니다.\n\n{TREE_definite}(은)는 뿌리 근처에서 나무지기라고 불리는 작은 동물을 만들어냅니다. 나무지기는 여러 전문화된 계급을 가지고 있으며, 도중에 계급을 바꿀 수도 있습니다.\n\n교감 수준이 높을수록 {TREE_definite}(이)가 만들어낼 수 있는 나무지기의 수도 증가합니다. {CONNECTOR_nameDef}(은)는 {TREE_definite}(을)를 다듬으면서 교감을 강화할 수 있습니다. 강한 교감 수준을 유지하려면 더 자주 다듬어줘야 합니다.</LetterTextPawnConnected>
+  <LetterLabelConnectedTreeDestroyed>교감중이던 {TREE_label} 파괴됨</LetterLabelConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>{CONNECTEDPAWN_nameDef}(와)과 교감하던 {TREE_label}(이)가 파괴돼 나무지기 여왕도 죽었습니다.\n\n여왕의 부재로 인해 나무지기 군체 의식이 붕괴하면서 이 나무에 속한 모든 나무지기가 함께 죽었습니다.</LetterTextConnectedTreeDestroyed>
+
+  <!-- Archonexus victory -->
+  <LetterLabelArchonexusWealthReached>Quest '{0}' available</LetterLabelArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>You have reached the wealth requirement for the quest '{0}'. You can now accept the quest.</LetterTextArchonexusWealthReached>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort} 연구 완료</LetterLabelArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>{0_labelShort}의 연구를 마쳤습니다.\n\n이 물체를 조금이라도 이해했다고 말하기는 어렵지만, {0_labelShort}의 동작과 정보 표현 방식에서 일정한 규칙을 찾아냈습니다.\n\n이 정보를 사용하면 초월 연결체를 가리키는 지도의 다음 조각도 해석할 수 있을 것입니다.</LetterTextArchonexusStructureResearched>
+  <LetterLabelArchotechStructuresAbandoned>초월공학 구조물 버려짐</LetterLabelArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>{0_definite}에 위치한 초월공학 구조물을 버렸습니다.\n\n목격자들의 증언에 따르면, {0_definite}(을)를 떠나고 얼마 지나지 않아 그곳에서 거대한 섬광이 발생했다고 합니다.</LetterTextArchotechStructuresAbandoned>
+
+  <!-- Reforming ideo -->
+  <LetterLabelReformIdeo>사상 개혁</LetterLabelReformIdeo>
+  <LetterTextReformIdeo>충분한 점수를 모았으므로 {0}(을)를 개혁할 수 있습니다!\n\n개혁을 하면 다음과 같이 사상을 바꿀 수 있습니다.\n\n- 가르침 1개 추가\n- 가르침 1개 제거\n- 구조 변경\n- 양식 변경\n\n규율, 신적 존재, 구절, 그 외 기타 상징도 제한 없이 바꿀 수 있습니다.\n\n사상을 개혁하려면 사상 탭을 열어서 확인하세요.</LetterTextReformIdeo>
 
 </LanguageData>
