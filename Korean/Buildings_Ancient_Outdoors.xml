@@ -1,19 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AncientExostriderCannon.label>고대 엑소스트라이더 주포</AncientExostriderCannon.label>
-  <AncientExostriderCannon.description>거대한 고대 엑소스트라이더 메카노이드 뒤에 달려있던 에너지 캐논의 잔해입니다.</AncientExostriderCannon.description>
+  <AncientAPC.label>고대 장갑차 잔해</AncientAPC.label>
+  <AncientAPC.description>중화기에 의해 파괴된 고대 장갑차의 잔해입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientAPC.description>
   
-  <AncientExostriderHead.label>고대 엑소스트라이더 머리</AncientExostriderHead.label>
-  <AncientExostriderHead.description>거대한 고대 엑소스트라이더 메카노이드의 머리부분 잔해입니다. 이는 고에너지 무기에 의해 파괴되었습니다.</AncientExostriderHead.description>
+  <AncientATM.label>고대 현금인출기</AncientATM.label>
+  <AncientATM.description>고대의 현금인출기입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientATM.description>
   
-  <AncientExostriderLeg.label>고대 엑소스트라이더 다리</AncientExostriderLeg.label>
-  <AncientExostriderLeg.description>거대한 고대 엑소스트라이더 메카노이드의 다리 잔해 입니다.</AncientExostriderLeg.description>
+  <AncientAirConditioner.label>고대 냉방기</AncientAirConditioner.label>
+  <AncientAirConditioner.description>고대의 냉방기기입니다. 쓸만한 부품은 오래전에 전부 누군가 부숴놓았고, 나머지 부분도 심하게 녹이 슬어있습니다.</AncientAirConditioner.description>
   
-  <AncientExostriderRemains.label>고대 엑소스트라이더 몸체</AncientExostriderRemains.label>
-  <AncientExostriderRemains.description>거대한 고대 전쟁 메카노이드인 엑소스트라이더의 잔해입니다. 오래전에 한 고에너지 무기가 몸체를 산산조각내고 부품들을 하나의 거대한 덩어리로 용접시켜버렸습니다.\n\n이 안에는 아직 작동하는 송신기가 달려있습니다. 이 송신기를 빼내어 해독하면 중요한 정보를 얻을 수 있습니다.\n\n이 메카노이드의 화염무기 탄창이 불안정한 상태로 남아있으며, 피해를 입으면 폭파 할 수 있습니다.</AncientExostriderRemains.description>
-  <AncientExostriderRemains.comps.CompProximityLetter.letterLabel>고대 메카노이드</AncientExostriderRemains.comps.CompProximityLetter.letterLabel>
-  <AncientExostriderRemains.comps.CompProximityLetter.letterText>고대 엑소스트라이더 메카노이드의 잔해 근처에 다가간 {PAWN_nameDef}(이)가 안쪽의 (*Reward)온전한 통신기(/Reward)를 발견했습니다.\n\n통신기를 손에 넣을 수 있다면 귀중한 정보를 읽어낼 수 있을 겁니다. 이 거대한 메카노이드는 으깨지고 압축돼서 하나의 덩어리가 됐습니다. 통신기를 회수하려면 파괴해야 합니다.\n\n조심하세요. 메카노이드의 잔해가 큰 피해를 입으면 (*Threat)불안정한(/Threat) 화염탄이 폭발할지도 모릅니다.</AncientExostriderRemains.comps.CompProximityLetter.letterText>
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>사용 가능: {LEAVINGS1_label}</AncientExostriderRemains.comps.CompLeavingsLetter.letterLabel>
-  <AncientExostriderRemains.comps.CompLeavingsLetter.letterText>폭발 후 {LEAVINGS1_label}(이)가 남았습니다. 연구 작업대에서 해독할 수 있습니다.\n\n정착민을 선택하고 {LEAVINGS1_label}(을)를 오른쪽 클릭해서 해독하세요.</AncientExostriderRemains.comps.CompLeavingsLetter.letterText>
-  <AncientExostriderRemains.comps.CompInspectString.inspectString>고대 메카노이드 송신기가 들어있습니다.</AncientExostriderRemains.comps.CompInspectString.inspectString>
+  <AncientContainer.label>고대 적재 상자</AncientContainer.label>
+  <AncientContainer.description>고대 화물차에 부착되었던 대형 적재 상자입니다. 오래 전에 약탈되어 귀중한 것은 아무 것도 남지 않았습니다.</AncientContainer.description>
+  
+  <AncientDropshipEngine.label>고대 상륙정 엔진</AncientDropshipEngine.label>
+  <AncientDropshipEngine.description>고대의 상륙정에서 떨어져 나온 것으로 추정되는 엔진입니다. 섬세한 부품들은 녹슬었으며 남아있는 것들도 철저히 망가졌습니다.</AncientDropshipEngine.description>
+  
+  <AncientFence.label>고대 울타리</AncientFence.label>
+  <AncientFence.description>콘크리트 패널로 만들어진 고대의 울타리입니다.</AncientFence.description>
+  
+  <AncientGiantWheel.label>고대 대형 바퀴</AncientGiantWheel.label>
+  <AncientGiantWheel.description>오랜 세월 전에 사용되었을 대형 차량의 바퀴입니다. 고무는 이미 썩어 사라졌고, 금속 부분에는 녹만 가득합니다.</AncientGiantWheel.description>
+  
+  <AncientHydrant.label>고대 소화전</AncientHydrant.label>
+  <AncientHydrant.description>고대의 소화전입니다. 심하게 녹슬어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientHydrant.description>
+  
+  <AncientJetEngine.label>고대 제트 엔진</AncientJetEngine.label>
+  <AncientJetEngine.description>고대의 대형 비행기에서 떨어져 나온 것으로 추정되는 제트 엔진입니다. 섬세한 부품들은 녹슬었으며 남아있는 것들도 철저히 망가졌습니다.</AncientJetEngine.description>
+  
+  <AncientKitchenSink.label>고대 싱크대</AncientKitchenSink.label>
+  <AncientKitchenSink.description>고대의 주방에서 쓰였을 비금속 싱크대입니다. 심각하게 손상되었으며 무언가를 얻을 수 있을 것 같진 않습니다. 어쩌다 여기까지 오게 되었는지 의문입니다.</AncientKitchenSink.description>
+  
+  <AncientLargeCrate.label>고대 상자</AncientLargeCrate.label>
+  <AncientLargeCrate.description>아주 오래 전에 버려진 커다랗고 텅 빈 상자입니다. 녹이 너무 슬어 무언가를 보관하기엔 부적합해 보입니다.</AncientLargeCrate.description>
+  
+  <AncientLargeRustedEngineBlock.label>고대 대형 엔진 부품</AncientLargeRustedEngineBlock.label>
+  <AncientLargeRustedEngineBlock.description>거대 운송수단이나 에너지원에 사용되었던 커다란 엔진 부품입니다. 굉장히 녹슬었고 주요 부품들은 전부 사라졌습니다. 수리가 불가능합니다.</AncientLargeRustedEngineBlock.description>
+  
+  <AncientLongCrate.label>고대 상자</AncientLongCrate.label>
+  <AncientLongCrate.description>아주 오래 전에 버려진 기다란 텅 빈 상자입니다. 녹이 너무 슬어 무언가를 보관하기엔 부적합해 보입니다.</AncientLongCrate.description>
+  
+  <AncientMechDetritus.label>메카노이드 잔해</AncientMechDetritus.label>
+  <AncientMechDetritus.description>메카노이드의 박살난 잔해. 쓸만한 부품은 전부 파괴되거나 사라졌습니다.</AncientMechDetritus.description>
+  
+  <AncientMechDropBeacon.label>고대 메카노이드 낙하신호기</AncientMechDropBeacon.label>
+  <AncientMechDropBeacon.description>메카노이드 낙하신호기의 부서진 외피입니다. 쓸만한 부품은 남아있지 않으며 외피도 오랜 세월에 의해 대부분 훼손됐습니다.</AncientMechDropBeacon.description>
+  
+  <AncientMegaCannonBarrel.label>고대 초강력포탑 포신</AncientMegaCannonBarrel.label>
+  <AncientMegaCannonBarrel.description>장거리 대함 대포의 포신입니다. 멀쩡했을 때는 분명 끔찍하게 강력했겠지만, 지금은 수리를 할 수 없을 정도로 철저히 망가졌으며 그나마 쓸만한 부품들은 누군가가 전부 떼어갔습니다.</AncientMegaCannonBarrel.description>
+  
+  <AncientMegaCannonTripod.label>고대 초강력포탑 지지대</AncientMegaCannonTripod.label>
+  <AncientMegaCannonTripod.description>포탑을 올려두었을 지지대입니다. 망가진 지 오랜 시간이 지났으며, 그나마 쓸만한 부품들은 누군가가 전부 떼어갔습니다.</AncientMegaCannonTripod.description>
+  
+  <AncientMicrowave.label>고대 전자레인지</AncientMicrowave.label>
+  <AncientMicrowave.description>음식을 가열하는 고대 장치입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientMicrowave.description>
+  
+  <AncientMiniWarwalkerRemains.label>고대 기동 병기 잔해</AncientMiniWarwalkerRemains.label>
+  <AncientMiniWarwalkerRemains.description>부서진 소형 기동 병기의 잔해입니다. 망가지지 않은 부분은 오래 전에 누군가 떼어갔습니다.</AncientMiniWarwalkerRemains.description>
+  
+  <AncientOven.label>고대 오븐</AncientOven.label>
+  <AncientOven.description>고대의 오븐입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientOven.description>
+  
+  <AncientPipelineSection.label>고대 송유관</AncientPipelineSection.label>
+  <AncientPipelineSection.description>고대 송유관의 일부입니다. 한때 귀중한 액체를 운반했을 테지만 지금은 아무 쓸모도 없습니다.</AncientPipelineSection.description>
+  
+  <AncientPipes.label>고대 배관</AncientPipes.label>
+  <AncientPipes.description>고대의 녹슨 배관입니다. 어떻게 여기까지 왔는지는 의문입니다.</AncientPipes.description>
+  
+  <AncientPodCar.label>고대 포드 차량</AncientPodCar.label>
+  <AncientPodCar.description>한때 자동 비행이 가능했던 고대의 포드 차량 입니다. 귀중한 부분은 오래 전에 약탈되었고 나머지는 심하게 훼손되었습니다.</AncientPodCar.description>
+  
+  <AncientPostbox.label>고대 우체통</AncientPostbox.label>
+  <AncientPostbox.description>박살나고 훼손되어 더 이상 쓸모가 없는 고대의 우체통입니다. 알 수 없는 이유로 여기까지 오게 된 것 같습니다.</AncientPostbox.description>
+  
+  <AncientRazorWire.label>고대 철조망</AncientRazorWire.label>
+  <AncientRazorWire.description>고대에 쓰이던 가시 철조망입니다. 너무나도 오랜 시간이 흐르며 풍화를 겪어 더 이상 위협적이지 않습니다.</AncientRazorWire.description>
+  
+  <AncientRefrigerator.label>고대 냉장고</AncientRefrigerator.label>
+  <AncientRefrigerator.description>고대의 냉장고입니다. 흥미로운 부품들은 이미 사라진 지 오래입니다.</AncientRefrigerator.description>
+  
+  <AncientRustedCar.label>고대 차량</AncientRustedCar.label>
+  <AncientRustedCar.description>망가진 고대의 운송 수단입니다. 녹으로 뒤덮이지 않은 부분은 이미 누군가가 털어간 모양입니다.</AncientRustedCar.description>
+  
+  <AncientRustedCarFrame.label>고대 차량 프레임</AncientRustedCarFrame.label>
+  <AncientRustedCarFrame.description>고대의 차량 프레임입니다. 녹슨 뼈대 외의 부분은 더 이상 존재하지 않습니다.</AncientRustedCarFrame.description>
+  
+  <AncientRustedDropship.label>고대 상륙정</AncientRustedDropship.label>
+  <AncientRustedDropship.description>고대 상륙정의 잔해입니다. 섬세한 부품들은 녹슬었으며 남아있는 것들도 철저히 망가졌습니다</AncientRustedDropship.description>
+  
+  <AncientRustedEngineBlock.label>고대 엔진 부품</AncientRustedEngineBlock.label>
+  <AncientRustedEngineBlock.description>녹슨 고대 엔진 부품. 어떤 방법으로도 고칠 수 없습니다.</AncientRustedEngineBlock.description>
+  
+  <AncientRustedJeep.label>고대 장갑차</AncientRustedJeep.label>
+  <AncientRustedJeep.description>망가진 고대의 장갑차입니다. 녹으로 뒤덮이지 않은 부분은 이미 누군가가 털어간 모양입니다.</AncientRustedJeep.description>
+  
+  <AncientRustedTruck.label>고대 화물차</AncientRustedTruck.label>
+  <AncientRustedTruck.description>고대의 부서진 트럭입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientRustedTruck.description>
+  
+  <AncientSecurityTurret.label>고대 보안 포탑</AncientSecurityTurret.label>
+  <AncientSecurityTurret.description>낡고 부서진 보안 포탑. 귀중한 부품은 모두 약탈당하거나 부서졌습니다.</AncientSecurityTurret.description>
+  
+  <AncientShipBeacon.label>고대 항해 신호기</AncientShipBeacon.label>
+  <AncientShipBeacon.description>이미 고장난 고대 항해 신호기입니다. 쓸만한 부품들은 도난당한 지 오래입니다.</AncientShipBeacon.description>
+  
+  <AncientShoppingCart.label>고대 쇼핑카트</AncientShoppingCart.label>
+  <AncientShoppingCart.description>녹슨 고대의 쇼핑카트입니다. 어떻게 여기까지 오게 됐는지는 의문이지만, 분명 길고 슬픈 이야기가 있을 겁니다.</AncientShoppingCart.description>
+  
+  <AncientSmallCrate.label>고대 작은 상자</AncientSmallCrate.label>
+  <AncientSmallCrate.description>아주 오래 전에 버려진 작은 상자입니다. 녹이 너무 슬어 무언가를 보관하기엔 부적합해 보입니다.</AncientSmallCrate.description>
+  
+  <AncientStove.label>고대 조리대</AncientStove.label>
+  <AncientStove.description>고대의 조리대입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientStove.description>
+  
+  <AncientTank.label>고대 전차 잔해</AncientTank.label>
+  <AncientTank.description>중화기에 의해 파괴된 고대 전차의 잔해입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientTank.description>
+  
+  <AncientTankTrap.label>고대 전차 장애물</AncientTankTrap.label>
+  <AncientTankTrap.description>차량을 멈추기 위한 방어 시설입니다. 오랜 세월 동안 방치됐습니다.</AncientTankTrap.description>
+  
+  <AncientToilet.label>고대 변기</AncientToilet.label>
+  <AncientToilet.description>고대의 변기입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientToilet.description>
+  
+  <AncientVendingMachine.label>고대 자판기</AncientVendingMachine.label>
+  <AncientVendingMachine.description>고대의 자판기입니다. 아주 오래전에 부서졌으며, 여러 세대에 걸쳐 사람들이 가능한 모든 부품을 떼어갔습니다. 어떻게 여기까지 왔는지는 의문입니다.</AncientVendingMachine.description>
+  
+  <AncientWarspiderRemains.label>고대 전쟁 거미 잔해</AncientWarspiderRemains.label>
+  <AncientWarspiderRemains.description>폐허가 된 고대 전쟁 거미의  잔해입니다. 이미 여러 번 분해되었고, 수집할 가치가 있는 것은 아무것도 남지 않았습니다.</AncientWarspiderRemains.description>
+  
+  <AncientWarwalkerClaw.label>고대 전쟁 병기 충각</AncientWarwalkerClaw.label>
+  <AncientWarwalkerClaw.description>고대 전쟁 병기의 충각 부분입니다. 이 무기는 근거리에서 플라스틸 장갑을 찢어버리는데 특화되었습니다. 귀중한 부품들은 이미 오래전에 떼어졌습니다.</AncientWarwalkerClaw.description>
+  
+  <AncientWarwalkerFoot.label>고대 전쟁 병기 발</AncientWarwalkerFoot.label>
+  <AncientWarwalkerFoot.description>고대 전쟁 병기의 거대한 발입니다. 중화기에 의해 파괴된 것 같습니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientWarwalkerFoot.description>
+  
+  <AncientWarwalkerLeg.label>고대 전쟁 병기 다리</AncientWarwalkerLeg.label>
+  <AncientWarwalkerLeg.description>고대에 쓰러진 전쟁 병기의 파괴된 다리입니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientWarwalkerLeg.description>
+  
+  <AncientWarwalkerShell.label>고대 전쟁 병기 장갑</AncientWarwalkerShell.label>
+  <AncientWarwalkerShell.description>고대 전쟁 병기의 강화 장갑입니다. 거대한 무기에 의해 물리적으로 찢긴 것 같습니다. 중요한 부품들은 사라졌으며 남아있는 것들도 철저히 망가졌습니다.</AncientWarwalkerShell.description>
+  
+  <AncientWarwalkerTorso.label>고대 전쟁 병기 상체</AncientWarwalkerTorso.label>
+  <AncientWarwalkerTorso.description>고대에 쓰러진 전쟁 병기의 위쪽 부분입니다. 귀중한 부품들은 이미 오래전에 해체되고 고철만 남았습니다.</AncientWarwalkerTorso.description>
+  
+  <AncientWashingMachine.label>고대 세탁기</AncientWashingMachine.label>
+  <AncientWashingMachine.description>직물을 세척하는 고대의 장치입니다. 녹슬고 심하게 훼손되어 아무 짝에도 쓸모가 없습니다. 어떻게 여기까지 오게 되었는지 의문입니다.</AncientWashingMachine.description>
+  
+  <AncientWheel.label>고대 바퀴</AncientWheel.label>
+  <AncientWheel.description>오랜 세월 전에 사용되었을 차량의 바퀴입니다. 고무는 이미 썩어 사라졌고, 금속 부분에는 녹만 가득합니다.</AncientWheel.description>
 </LanguageData>
