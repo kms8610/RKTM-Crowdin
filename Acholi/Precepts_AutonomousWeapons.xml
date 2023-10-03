@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>crwdns440980:0crwdne440980:0</HasAutomatedTurrets_Disapproved.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>crwdns440982:0crwdne440982:0</HasAutomatedTurrets_Disapproved.stages.automated_weapons.description>
-  
-  <HasAutomatedTurrets_Horrible.stages.automated_weapons.label>crwdns440984:0crwdne440984:0</HasAutomatedTurrets_Horrible.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Horrible.stages.automated_weapons.description>crwdns440986:0crwdne440986:0</HasAutomatedTurrets_Horrible.stages.automated_weapons.description>
-  
-  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>crwdns440988:0crwdne440988:0</HasAutomatedTurrets_Prohibited.stages.automated_weapons.label>
-  <HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>crwdns440990:0crwdne440990:0</HasAutomatedTurrets_Prohibited.stages.automated_weapons.description>
+  <BuiltAutomatedTurret.label>crwdns431054:0crwdne431054:0</BuiltAutomatedTurret.label>
 </LanguageData>
