@@ -1,57 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Character -->
-  <OverridesSomePrecepts>crwdns443634:0crwdne443634:0</OverridesSomePrecepts>
-  <AgreeableMemes>crwdns443636:0crwdne443636:0</AgreeableMemes>
-  <DisagreeableMemes>crwdns443638:0crwdne443638:0</DisagreeableMemes>
+  <!-- Character tab -->
+  <RoyalTitleTooltipHasTitle>crwdns449874:0{PAWN_labelShort}crwdnd449874:0{TITLE}crwdnd449874:0{FACTION_name}crwdne449874:0</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>crwdns449876:0{PAWN_labelShort}crwdne449876:0</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>crwdns449878:0{PAWN_labelShort}crwdne449878:0</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>crwdns449880:0crwdne449880:0</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>crwdns449882:0{0}crwdnd449882:0{FACTION_royalFavorLabel}crwdne449882:0</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>crwdns449884:0crwdne449884:0</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>crwdns449886:0{PAWN_nameDef}crwdnd449886:0{HEIR_nameFull}crwdnd449886:0{PAWN_possessive}crwdne449886:0</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>crwdns449888:0{HEIR_nameFull}crwdne449888:0</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>crwdns449890:0{HEIR_nameFull}crwdnd449890:0{FACTION_name}crwdne449890:0</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>crwdns449892:0{PAWN_nameDef}crwdnd449892:0{PAWN_pronoun}crwdne449892:0</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>crwdns449894:0{FACTION_name}crwdne449894:0</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>crwdns449896:0{FACTION_name}crwdne449896:0</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>crwdns449898:0{0}crwdnd449898:0{1}crwdne449898:0</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>crwdns449900:0{0}crwdne449900:0</RoyalTitleTooltipRoyalFavorTotal>
 
-  <!-- ITab titles -->
-  <TabSlave>crwdns443640:0crwdne443640:0</TabSlave>
-  <SlaveReleaseRelationGainsDesc>crwdns443642:0crwdne443642:0</SlaveReleaseRelationGainsDesc>
-  <SlaveReleasePotentialRelationGains>crwdns443644:0crwdne443644:0</SlaveReleasePotentialRelationGains>
-  <SlaveRebellionMTBDays>crwdns443646:0crwdne443646:0</SlaveRebellionMTBDays>
-  <SlaveRebellionMTBDaysDescription>crwdns443648:0crwdne443648:0</SlaveRebellionMTBDaysDescription>
-
-  <!-- Slave tab -->
-  <Suppression>crwdns443650:0crwdne443650:0</Suppression>
-  <SuppressionDesc>crwdns443652:0crwdne443652:0</SuppressionDesc>
-  <SuppressionFallRate>crwdns443654:0crwdne443654:0</SuppressionFallRate>
-  <SuppressionFallRateDesc>crwdns443656:0{1}crwdnd443656:0{0}crwdnd443656:0{4}crwdnd443656:0{3}crwdnd443656:0{2}crwdnd443656:0{6}crwdnd443656:0{5}crwdne443656:0</SuppressionFallRateDesc>
-  <CannotEmancipate>crwdns443658:0crwdne443658:0</CannotEmancipate>
-  <CannotImprison>crwdns443660:0crwdne443660:0</CannotImprison>
-  <CurrentSuppression>crwdns443662:0crwdne443662:0</CurrentSuppression>
-  <Terror>crwdns443664:0crwdne443664:0</Terror>
-  <TerrorDescription>crwdns443666:0crwdne443666:0</TerrorDescription>
-  <TerrorCurrentThoughts>crwdns443668:0crwdne443668:0</TerrorCurrentThoughts>
-
-  <SuppressionBaseInterval>crwdns443670:0crwdne443670:0</SuppressionBaseInterval>
-  <SuppressionMovingCapacityFactor>crwdns443672:0crwdne443672:0</SuppressionMovingCapacityFactor>
-  <SuppressionFactor>crwdns443674:0crwdne443674:0</SuppressionFactor>
-  <SuppressionMoodFactor>crwdns443676:0crwdne443676:0</SuppressionMoodFactor>
-  <SuppressionSlaveCountFactor>crwdns443678:0crwdne443678:0</SuppressionSlaveCountFactor>
-  <SuppressionEscapeFactor>crwdns443680:0crwdne443680:0</SuppressionEscapeFactor>
-  <SuppressionWeaponProximityFactor>crwdns443682:0crwdne443682:0</SuppressionWeaponProximityFactor>
-  <SuppressionFinalInterval>crwdns443684:0crwdne443684:0</SuppressionFinalInterval>
-  <SuppressionUnattendedByColonists>crwdns443686:0crwdne443686:0</SuppressionUnattendedByColonists>
-  <SuppressionRebellionAnySlave>crwdns443688:0{0}crwdnd443688:0{1}crwdne443688:0</SuppressionRebellionAnySlave>
-
-  <WillLevel>crwdns443690:0crwdne443690:0</WillLevel>
-  <WillLevelDesc>crwdns443692:0crwdne443692:0</WillLevelDesc>
-  <WillFromPawnKind>crwdns443694:0{0}crwdne443694:0</WillFromPawnKind>
-  <IdeoConversionTarget>crwdns443696:0crwdne443696:0</IdeoConversionTarget>
-  <IdeoConversionTargetDesc>crwdns443698:0crwdne443698:0</IdeoConversionTargetDesc>
-
-  <!-- Social -->
-  <CertaintyChangePerDay>crwdns443700:0crwdne443700:0</CertaintyChangePerDay>
-  <MoodChangeRate>crwdns443702:0crwdne443702:0</MoodChangeRate>
-  <CertaintyInIdeo>crwdns443704:0{PAWN_nameDef}crwdnd443704:0{IDEO_name}crwdne443704:0</CertaintyInIdeo>
-  <RoleDesc>crwdns443706:0crwdne443706:0</RoleDesc>
-  <RoleAssignmentTip>crwdns443708:0crwdne443708:0</RoleAssignmentTip>
-  <ConversionWeakerDueToTraitAgreements>crwdns443710:0crwdne443710:0</ConversionWeakerDueToTraitAgreements>
-  <ConversionStrongerDueToTraitAgreements>crwdns443712:0crwdne443712:0</ConversionStrongerDueToTraitAgreements>
-
-  <Cut>crwdns443714:0crwdne443714:0</Cut>
-  <CutBothEyes>crwdns443716:0crwdne443716:0</CutBothEyes>
-
+  <RecruitmentResistanceRoyalTitleOffset>crwdns449902:0{0}crwdne449902:0</RecruitmentResistanceRoyalTitleOffset>
+  
+  <!-- Permits tab -->
+  <TabPermits>crwdns449904:0crwdne449904:0</TabPermits>
+  <PermitsFromFaction>crwdns449906:0{FACTION_name}crwdne449906:0</PermitsFromFaction>
+  <CurrentTitle>crwdns449908:0crwdne449908:0</CurrentTitle>
+  <UnusedPermits>crwdns449910:0crwdne449910:0</UnusedPermits>
+  <ReturnAllPermits>crwdns449912:0crwdne449912:0</ReturnAllPermits>
+  <NoPermitsToReturn>crwdns449914:0{PAWN_nameDef}crwdne449914:0</NoPermitsToReturn>
+  <NotEnoughFavor>crwdns449916:0{FAVORCOST}crwdnd449916:0{FAVOR}crwdnd449916:0{PAWN_nameDef}crwdnd449916:0{CURFAVOR}crwdne449916:0</NotEnoughFavor>
+  <ReturnAllPermits_Desc>crwdns449918:0{BASEFAVORCOST}crwdnd449918:0{FAVOR}crwdnd449918:0{FAVORCOST}crwdne449918:0</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>crwdns449920:0{FACTION_name}crwdnd449920:0{BASEFAVORCOST}crwdnd449920:0{FAVOR}crwdnd449920:0{FAVORCOST}crwdne449920:0</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>crwdns449922:0crwdne449922:0</SwitchFaction_Desc>
+  <AcceptPermit>crwdns449924:0crwdne449924:0</AcceptPermit>
+  <RequiresTitle>crwdns449926:0{0}crwdne449926:0</RequiresTitle>
+  <UpgradeFrom>crwdns449928:0{0}crwdne449928:0</UpgradeFrom>
+  <Cooldown>crwdns449930:0crwdne449930:0</Cooldown>
+  <CooldownUseFavorCost>crwdns449932:0{HONOR}crwdne449932:0</CooldownUseFavorCost>
+  
 </LanguageData>
