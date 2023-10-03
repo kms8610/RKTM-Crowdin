@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FlakeHigh.label>crwdns458260:0crwdne458260:0</FlakeHigh.label>
-  <FlakeHigh.description>crwdns458262:0crwdne458262:0</FlakeHigh.description>
-  <FlakeHigh.labelNoun>crwdns458264:0crwdne458264:0</FlakeHigh.labelNoun>
+  <Flake.label>crwdns473088:0crwdne473088:0</Flake.label>
+  <Flake.description>crwdns473090:0crwdne473090:0</Flake.description>
+  <Flake.ingestible.ingestCommandString>crwdns473092:0{0}crwdne473092:0</Flake.ingestible.ingestCommandString>
+  <Flake.ingestible.ingestReportString>crwdns473094:0{0}crwdne473094:0</Flake.ingestible.ingestReportString>
 </LanguageData>
