@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Psychite.label>crwdns456108:0crwdne456108:0</Psychite.label>
+  <PsychiteAddiction.label>crwdns458272:0crwdne458272:0</PsychiteAddiction.label>
+  <PsychiteAddiction.description>crwdns458274:0crwdne458274:0</PsychiteAddiction.description>
+  <PsychiteAddiction.stages.withdrawal.label>crwdns458276:0crwdne458276:0</PsychiteAddiction.stages.withdrawal.label>
+  
+  <PsychiteTolerance.label>crwdns458278:0crwdne458278:0</PsychiteTolerance.label>
+  <PsychiteTolerance.description>crwdns458280:0crwdne458280:0</PsychiteTolerance.description>
+  <PsychiteTolerance.stages.small.label>crwdns458282:0crwdne458282:0</PsychiteTolerance.stages.small.label>
+  <PsychiteTolerance.stages.large.label>crwdns458284:0crwdne458284:0</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.massive.label>crwdns458286:0crwdne458286:0</PsychiteTolerance.stages.massive.label>
+  
+  <YayoHigh.label>crwdns458288:0crwdne458288:0</YayoHigh.label>
+  <YayoHigh.description>crwdns458290:0crwdne458290:0</YayoHigh.description>
+  <YayoHigh.labelNoun>crwdns458292:0crwdne458292:0</YayoHigh.labelNoun>
 </LanguageData>
