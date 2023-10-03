@@ -1,36 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AdministeredDrug.label>crwdns458488:0crwdne458488:0</AdministeredDrug.label>
+  <AbsorbedXenogerm.label>crwdns423650:0crwdne423650:0</AbsorbedXenogerm.label>
   
-  <AdministeredHardDrug.label>crwdns458490:0crwdne458490:0</AdministeredHardDrug.label>
+  <ExtractedHemogenPack.label>crwdns423652:0crwdne423652:0</ExtractedHemogenPack.label>
   
-  <AdministeredRecreationalDrug.label>crwdns458492:0crwdne458492:0</AdministeredRecreationalDrug.label>
+  <PollutedBase.label>crwdns423654:0crwdne423654:0</PollutedBase.label>
   
-  <AteHumanMeat.label>crwdns458494:0crwdne458494:0</AteHumanMeat.label>
+  <PollutedNearbySite.label>crwdns423656:0crwdne423656:0</PollutedNearbySite.label>
   
-  <BuildSpecificDef.label>crwdns458496:0crwdne458496:0</BuildSpecificDef.label>
-  
-  <CharityRefused_ThreatReward_Joiner.label>crwdns458498:0crwdne458498:0</CharityRefused_ThreatReward_Joiner.label>
-  
-  <CutTree.label>crwdns458500:0crwdne458500:0</CutTree.label>
-  
-  <DestroyedMineable.label>crwdns458502:0crwdne458502:0</DestroyedMineable.label>
-  
-  <IngestedDrug.label>crwdns458504:0crwdne458504:0</IngestedDrug.label>
-  
-  <IngestedHardDrug.label>crwdns458506:0crwdne458506:0</IngestedHardDrug.label>
-  
-  <IngestedRecreationalDrug.label>crwdns458508:0crwdne458508:0</IngestedRecreationalDrug.label>
-  
-  <InstalledProsthetic.label>crwdns458510:0crwdne458510:0</InstalledProsthetic.label>
-  
-  <Mined.label>crwdns458512:0crwdne458512:0</Mined.label>
-  
-  <MinifiedTreeDied.label>crwdns458514:0crwdne458514:0</MinifiedTreeDied.label>
-  
-  <Researching.label>crwdns458516:0crwdne458516:0</Researching.label>
-  
-  <SowedHumanFoodPlant.label>crwdns458518:0crwdne458518:0</SowedHumanFoodPlant.label>
-  
-  <SowedPlant.label>crwdns458520:0crwdne458520:0</SowedPlant.label>
+  <ToxicWasteDumping.label>crwdns423658:0crwdne423658:0</ToxicWasteDumping.label>
 </LanguageData>
