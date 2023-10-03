@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArchotechArm.label>crwdns457308:0crwdne457308:0</ArchotechArm.label>
-  <ArchotechArm.description>crwdns457310:0crwdne457310:0</ArchotechArm.description>
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>crwdns457312:0crwdne457312:0</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
-  <ArchotechArm.labelNoun>crwdns457314:0crwdne457314:0</ArchotechArm.labelNoun>
+  <InstallArchotechArm.label>crwdns461634:0crwdne461634:0</InstallArchotechArm.label>
+  <InstallArchotechArm.description>crwdns461636:0crwdne461636:0</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>crwdns461638:0crwdne461638:0</InstallArchotechArm.jobString>
   
-  <ArchotechEye.label>crwdns457316:0crwdne457316:0</ArchotechEye.label>
-  <ArchotechEye.description>crwdns457318:0crwdne457318:0</ArchotechEye.description>
-  <ArchotechEye.labelNoun>crwdns457320:0crwdne457320:0</ArchotechEye.labelNoun>
+  <InstallArchotechEye.label>crwdns461640:0crwdne461640:0</InstallArchotechEye.label>
+  <InstallArchotechEye.description>crwdns461642:0crwdne461642:0</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>crwdns461644:0crwdne461644:0</InstallArchotechEye.jobString>
   
-  <ArchotechLeg.label>crwdns457322:0crwdne457322:0</ArchotechLeg.label>
-  <ArchotechLeg.description>crwdns457324:0crwdne457324:0</ArchotechLeg.description>
-  <ArchotechLeg.labelNoun>crwdns457326:0crwdne457326:0</ArchotechLeg.labelNoun>
+  <InstallArchotechLeg.label>crwdns461646:0crwdne461646:0</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>crwdns461648:0crwdne461648:0</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>crwdns461650:0crwdne461650:0</InstallArchotechLeg.jobString>
 </LanguageData>
