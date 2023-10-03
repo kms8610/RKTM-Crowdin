@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Archogenetics.label>crwdns425452:0crwdne425452:0</Archogenetics.label>
-  <Archogenetics.description>crwdns425454:0crwdne425454:0</Archogenetics.description>
+  <Bioregeneration.label>crwdns437712:0crwdne437712:0</Bioregeneration.label>
+  <Bioregeneration.description>crwdns437714:0crwdne437714:0</Bioregeneration.description>
   
-  <Deathrest.label>crwdns425456:0crwdne425456:0</Deathrest.label>
-  <Deathrest.description>crwdns425458:0crwdne425458:0</Deathrest.description>
+  <Biosculpting.label>crwdns437716:0crwdne437716:0</Biosculpting.label>
+  <Biosculpting.description>crwdns437718:0crwdne437718:0</Biosculpting.description>
   
-  <FertilityProcedures.label>crwdns425460:0crwdne425460:0</FertilityProcedures.label>
-  <FertilityProcedures.description>crwdns425462:0crwdne425462:0</FertilityProcedures.description>
-  
-  <GeneProcessor.label>crwdns425464:0crwdne425464:0</GeneProcessor.label>
-  <GeneProcessor.description>crwdns425466:0crwdne425466:0</GeneProcessor.description>
-  
-  <GrowthVats.label>crwdns425468:0crwdne425468:0</GrowthVats.label>
-  <GrowthVats.description>crwdns425470:0crwdne425470:0</GrowthVats.description>
-  
-  <ToxFiltration.label>crwdns425472:0crwdne425472:0</ToxFiltration.label>
-  <ToxFiltration.description>crwdns425474:0crwdne425474:0</ToxFiltration.description>
-  
-  <ToxGas.label>crwdns425476:0crwdne425476:0</ToxGas.label>
-  <ToxGas.description>crwdns425478:0crwdne425478:0</ToxGas.description>
-  
-  <ToxifierGenerator.label>crwdns425480:0crwdne425480:0</ToxifierGenerator.label>
-  <ToxifierGenerator.description>crwdns425482:0crwdne425482:0</ToxifierGenerator.description>
-  
-  <Xenogermination.label>crwdns425484:0crwdne425484:0</Xenogermination.label>
-  <Xenogermination.description>crwdns425486:0crwdne425486:0</Xenogermination.description>
+  <NeuralSupercharger.label>crwdns437720:0crwdne437720:0</NeuralSupercharger.label>
+  <NeuralSupercharger.description>crwdns437722:0crwdne437722:0</NeuralSupercharger.description>
 </LanguageData>
