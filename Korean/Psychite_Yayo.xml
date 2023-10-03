@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Yayo.label>yayo</Yayo.label>
-  <Yayo.description>A refined powdery preparation of the psychite drug. When snorted, it produces a rapid euphoric high, dramatically reduces the user's need for rest, and suppresses pain. Like all forms of psychite, it is addictive, though it is not as addictive as the cruder flake.\n\nBecause of its high cost and refined appearance, many cultures associate yayo with degenerate wealth. Whether in the throneroom or the boardroom, many hare-brained policy schemes have been developed during yayo-fueled binge parties.</Yayo.description>
-  <Yayo.ingestible.ingestCommandString>Snort {0}</Yayo.ingestible.ingestCommandString>
-  <Yayo.ingestible.ingestReportString>Snorting {0}.</Yayo.ingestible.ingestReportString>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>psychite withdrawal</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.description>God I'm tired. Everything's so slow and boring. Especially me.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
+  
+  <YayoHigh.stages.high_on_yayo.label>high on yayo</YayoHigh.stages.high_on_yayo.label>
+  <YayoHigh.stages.high_on_yayo.description>Feeling pumped! Let's do this!</YayoHigh.stages.high_on_yayo.description>
 </LanguageData>
