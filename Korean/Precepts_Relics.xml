@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <RelicDestroyed.label>relic destroyed</RelicDestroyed.label>
-  
-  <RelicLost.label>relic lost</RelicLost.label>
+  <IdeoRelic.label>relic</IdeoRelic.label>
 </LanguageData>
