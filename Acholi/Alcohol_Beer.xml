@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Alcohol.label>crwdns456100:0crwdne456100:0</Alcohol.label>
+  <AlcoholAddiction.label>crwdns457222:0crwdne457222:0</AlcoholAddiction.label>
+  <AlcoholAddiction.description>crwdns457224:0crwdne457224:0</AlcoholAddiction.description>
+  <AlcoholAddiction.stages.withdrawal.label>crwdns457226:0crwdne457226:0</AlcoholAddiction.stages.withdrawal.label>
+  
+  <AlcoholHigh.label>crwdns457228:0crwdne457228:0</AlcoholHigh.label>
+  <AlcoholHigh.description>crwdns457230:0crwdne457230:0</AlcoholHigh.description>
+  <AlcoholHigh.labelNoun>crwdns457232:0crwdne457232:0</AlcoholHigh.labelNoun>
+  <AlcoholHigh.stages.warm.label>crwdns457234:0crwdne457234:0</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.tipsy.label>crwdns457236:0crwdne457236:0</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.drunk.label>crwdns457238:0crwdne457238:0</AlcoholHigh.stages.drunk.label>
+  <AlcoholHigh.stages.hammered.label>crwdns457240:0crwdne457240:0</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.blackout.label>crwdns457242:0crwdne457242:0</AlcoholHigh.stages.blackout.label>
+  
+  <AlcoholTolerance.label>crwdns457244:0crwdne457244:0</AlcoholTolerance.label>
+  <AlcoholTolerance.description>crwdns457246:0crwdne457246:0</AlcoholTolerance.description>
+  <AlcoholTolerance.stages.small.label>crwdns457248:0crwdne457248:0</AlcoholTolerance.stages.small.label>
+  <AlcoholTolerance.stages.large.label>crwdns457250:0crwdne457250:0</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.massive.label>crwdns457252:0crwdne457252:0</AlcoholTolerance.stages.massive.label>
+  
+  <Hangover.label>crwdns457254:0crwdne457254:0</Hangover.label>
+  <Hangover.description>crwdns457256:0crwdne457256:0</Hangover.description>
+  <Hangover.labelNoun>crwdns457258:0crwdne457258:0</Hangover.labelNoun>
+  <Hangover.stages.slight.label>crwdns457260:0crwdne457260:0</Hangover.stages.slight.label>
+  <Hangover.stages.strong.label>crwdns457262:0crwdne457262:0</Hangover.stages.strong.label>
+  <Hangover.stages.pounding.label>crwdns457264:0crwdne457264:0</Hangover.stages.pounding.label>
 </LanguageData>
