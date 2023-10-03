@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ranching.label>crwdns432320:0crwdne432320:0</Ranching.label>
+  <Ranching_Central.label>crwdns436746:0crwdne436746:0</Ranching_Central.label>
+  <Ranching_Central.description>crwdns436748:0crwdne436748:0</Ranching_Central.description>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.0>crwdns436750:0crwdne436750:0</Ranching_Central.comps.0.thoughtStageDescriptions.0>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.1>crwdns436752:0{STAGE1}crwdne436752:0</Ranching_Central.comps.0.thoughtStageDescriptions.1>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.2>crwdns436754:0{STAGE2}crwdne436754:0</Ranching_Central.comps.0.thoughtStageDescriptions.2>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.3>crwdns436756:0{STAGE4}crwdne436756:0</Ranching_Central.comps.0.thoughtStageDescriptions.3>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.4>crwdns436758:0{STAGE5}crwdne436758:0</Ranching_Central.comps.0.thoughtStageDescriptions.4>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.5>crwdns436760:0crwdne436760:0</Ranching_Central.comps.0.thoughtStageDescriptions.5>
 </LanguageData>
