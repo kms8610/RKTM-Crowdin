@@ -60,12 +60,12 @@
     <li>creation(tag=meme_Blindsight)        ->[deity0_name]께서 공허에서 무한히 티끌을 찾으나 그것이 어디에도 없으매 [deity0_name]께서 스스로 눈을 뽑아 생각하시니 그 마음 속에서 우주가 피어났니라.</li>
     <li>episode(uses=1,tag=meme_Blindsight)  ->눈 먼 걸인이 [deity0_name]께 이르되 왜 저를 버리셨나이까 당신이 만드신 것도 볼 수 없지 않사옵니까 하니 [deity0_name]께서 이르시되 나의 진리는 마음 속에 있나니 너는 더 적은 것이 아니라 더 많은 것을 보고 있느니라 하셨느니라.</li>
     <li>intro(tag=meme_Blindsight)           ->[deity0_type] [deity0_name]께서 [place_summary] [place_name]에 병을 퍼트리시어 모든 이의 눈을 멀게 하시니 이는 시각이 신성한 지식을 가로막는 장벽에 불과함을 깨닫도록 하심이니라.</li>
-    <li>conflict(tag=meme_Blindsight)        ->A [foeLeader] demanded that all [memberNamePlural] watch [foeLeader_possessive] propaganda every day. Many blinded themselves in protest.</li>
-    <li>founderJoin(tag=meme_Blindsight)     ->A [place_job] named [founderName] lost [founder_possessive] sight when [founder_pronoun] saved a [memberName] from one of [foeLeader]'s [foeSoldiers]. It was only then that [founderName] could truly see the tyranny of the [foeLeader].</li>
-    <li>victory(tag=meme_Blindsight)         ->[founderName] went to the [place_powerCenter] and cut the [foeLeader]'s eyes out with a spoon in a surprise suicide attack. Only then could the [foeLeader] see the divinity of [deity0_name].</li>
-    <li>setup(tag=meme_Blindsight)           ->[founderName] was a healer of the poor. Seeing so much daily suffering, [founder_pronoun] could take it no longer. [founder_pronoun] gouged [founder_possessive] eyes out with a blade, and found tranquility in blindness. [founder_pronoun] began to spread [founder_possessive] discovery to the sighted.</li>
+    <li>conflict(tag=meme_Blindsight)        ->[foeLeader](이)가 [memberNamePlural]에게 너희는 나의 선전을 매일 볼 지어다 하니 많은 맹인이 시위하니라.</li>
+    <li>founderJoin(tag=meme_Blindsight)     ->한 [place_job]의 이름이 [founderName]인데 [foeLeader]의 [foeSoldiers]에게서 [memberName](을)를 구하니 과정에 눈을 잃었으매 [founderName](이)가 진정 [foeLeader]의 폭정을 볼 수 있게 됨이라.</li>
+    <li>victory(tag=meme_Blindsight)         ->곧 [founderName](이)가 [place_powerCenter]에 자살공격으로 기습하러 가서 [foeLeader]의 눈을 숟가락으로 파내었노라. 그제서야 [foeLeader](은)는 [deity0_name]의 신성함을 볼 수 있더라.</li>
+    <li>setup(tag=meme_Blindsight)           ->[founderName]께서는 가난한 자들을 돌보시는 자였다. 나날이 고통받는 그들을 보며 더이상 버티실 수 없었다. [founderName]께서는 칼날로 눈알을 파내고 어둠 속에서 평정을 찾으셨고, 볼 수 있는 자들에게 깨달음을 퍼뜨리기 시작하셨다.</li>
     <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]께서 어느 눈먼 치유사에게 가르침을 주고자 찾아가셨으나, 가르치기는 커녕 가르침을 받는 자신을 발견하셨으니 이때가 [founderName]께서 육신의 시야가 진정한 가치를 모호하게 할 뿐이라는 것을 이해하신 때다.</li>
-    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] was blind and took wisdom from sightlessness. [founder_pronoun] once personally removed the eyes of an entire family so that they may see as [founder_pronoun] does.</li>
+    <li>story(uses=1,tag=meme_Blindsight)    ->[founderName]께서는 눈먼 자셨고 눈멂으로부터 지혜를 찾으셨다. 한 번은 [founderName]께서 어느 가족의 눈을 모두 적출하셨으니 이는 모두가 [founderName]께서 보시는 것처럼 볼 수 있도록 함이다.</li>
     <li>lessonIntro(tag=meme_Blindsight)         ->내 발걸음은 당당했지만 내 영혼은 모든 걸음마다 넘어지고 있었다. 너무 많은 것이 보였으니까. 내 눈에 쏟아진 산성 용액 덕분에 그제서야 알 수 있었다.</li>
     <li>lesson(tag=meme_Blindsight)              ->눈이 멀어야만 진정 볼 수 있다는 것을</li>
     <li>lesson(tag=meme_Blindsight)              ->눈은 방해이며 지식은 안에서 나온다는 것을</li>
@@ -159,7 +159,7 @@
     <li>founderJoin(tag=meme_Darkness)     ->[founderName](이)가 예언자니 [place_name]의 그림자에서 태어나 일생을 어둠 속에서 사니라. [deity0_name]께서 그 모습 보시고 [founder_pronoun]에게 지혜를 속삭이셨느니라.</li>
     <li>victory(tag=meme_Darkness)         ->최후의 순간이 다가오니 [memberName]들이 [place_powerCenter]의 전기를 끊으매 [founderName](이)가 [foeSoldiers]에게 보이지 않더라. [founderName](이)가 어둠에 가려진 [foeLeader](을)를 보아 [founder_possessive] [place_personalWeapon](으)로 [foeLeader]에게 무한한 칠흑을 선사하니라.</li>
     <li>setup(tag=meme_Darkness)           ->[founderName]께서는 번화계의 혼란스러운 삶과 가혹한 불빛 속에서 사셨다. 흑점 폭발 이후 긴 어둠 속에서 [founder_pronoun]께서는 평화와 사색을 찾으셨다. 그리곤 우리 이념의 시초가 되는 논문을 녹음하셨다.</li>
-    <li>story(uses=1,tag=meme_Darkness)    ->[founderName] created a studio where the artists worked in the dark, and it produced many masterpieces.</li>
+    <li>story(uses=1,tag=meme_Darkness)    ->[founderName]께서 암실로만 구성된 스튜디오를 구성하시니 그곳의 예술가들이 수많은 걸작을 만들었다.</li>
     <li>lessonIntro(tag=meme_Darkness)         ->내 어린 시절은 모두 너무나도 강력한 빛 아래에서 찡그린 눈을 뜨고 있던 기억뿐이다. 그러니 이해하는 것도 오래 걸린 거지.</li>
     <li>lesson(tag=meme_Darkness)              ->빛은 태우지만 어둠은 양분을 준다는 것을</li>
     <li>lessonReinforcement(tag=meme_Darkness) ->스위치를 켜는 듯한 경험이었다고 농담하곤 한다.</li>
@@ -301,8 +301,8 @@
     <li>lessonReinforcement(tag=meme_Nudism) ->거리에서 우리를 마주치면 이 자유로운 모습을 보고 생각해라. 진실을 받아들인 자구나, 하고.</li>
     <li>archistBasis(tag=meme_Nudism)       ->초월공학이 나타났을 때, 그들은 겉모습에 전혀 신경 쓰지 않았다. 우리에게 물리적 형체보다 마음이 중요하다는 것을 보인 것이다.</li>
     <li>archistFact(tag=meme_Nudism)        ->초월공학은 때때로 인간의 의식에 직접 접근하지만 우리의 몸이 마치 우리의 마음처럼 직접 볼 수 없다면 아무것도 이해할 수 없으리.</li>
-    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], they will seek out those who, like themselves, don't attempt to appear as anything other than what they are.</li>
-    <li>animistFact(tag=meme_Nudism)        ->To cover our bodies with cloth is to hide the nature of the spirits within us, and it makes them restless.</li>
+    <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd] 초월공학은 마치 자신들처럼 스스로의 본질을 가리지 않는 자를 찾아 나서리라.</li>
+    <li>animistFact(tag=meme_Nudism)        ->옷으로 우리의 몸을 가리는 것은 우리 안의 혼령의 본성을 가리는 것이고 이는 그들이 안식하지 못함이라.</li>
   </Nudism.descriptionMaker.rules.rulesStrings>
   <Nudism.generalRules.rulesStrings>
     <li>memeAdjective->알몸의</li>
@@ -320,9 +320,9 @@
   <Nudism.symbolPacks.0.adjective>나체주의적</Nudism.symbolPacks.0.adjective>
   <Nudism.symbolPacks.0.ideoName>나체주의</Nudism.symbolPacks.0.ideoName>
   <Nudism.symbolPacks.0.member>나체주의적</Nudism.symbolPacks.0.member>
-  <Nudism.symbolPacks.0.theme>nudity</Nudism.symbolPacks.0.theme>
+  <Nudism.symbolPacks.0.theme>나체</Nudism.symbolPacks.0.theme>
   <Nudism.symbolPacks.1.adjective>노출주의적</Nudism.symbolPacks.1.adjective>
-  <Nudism.symbolPacks.1.ideoName>skinism</Nudism.symbolPacks.1.ideoName>
+  <Nudism.symbolPacks.1.ideoName>노출주의</Nudism.symbolPacks.1.ideoName>
   <Nudism.symbolPacks.1.member>노출주의적</Nudism.symbolPacks.1.member>
   <Nudism.symbolPacks.1.theme>노출</Nudism.symbolPacks.1.theme>
   
