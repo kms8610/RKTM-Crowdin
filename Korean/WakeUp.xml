@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WakeUp.label>웨이크업</WakeUp.label>
+  <WakeUpAddiction.label>웨이크업 중독</WakeUpAddiction.label>
+  <WakeUpAddiction.description>웨이크업에 중독됐습니다. 웨이크업을 장기간 복용하면 신경세포 단위의 적응 현상이 발생하여 웨이크업 없이는 뇌가 제대로 기능할 수 없습니다.\n\n정기적인 웨이크업 복용을 하지 않으면 금단 현상이 나타납니다. 하지만 계속 복용하지 않으면 뇌가 정상적인 상태로 회복하므로 중독에서 벗어날 수 있습니다.</WakeUpAddiction.description>
+  <WakeUpAddiction.stages.withdrawal.label>금단 현상</WakeUpAddiction.stages.withdrawal.label>
+  
+  <WakeUpHigh.label>웨이크업에 취함</WakeUpHigh.label>
+  <WakeUpHigh.description>혈액에 웨이크업의 활성성분이 존재합니다. 뇌를 자극해 피로를 풀고 집중력을 강화하며 작업 속도를 향상합니다. 명상에서 획득하는 초집중량도 증가합니다.</WakeUpHigh.description>
+  <WakeUpHigh.labelNoun>웨이크업에 취함</WakeUpHigh.labelNoun>
+  
+  <WakeUpTolerance.label>웨이크업 내성</WakeUpTolerance.label>
+  <WakeUpTolerance.description>웨이크업에 내성이 생겼습니다. 이 수치가 클수록 동일한 효과를 얻기 위해서는 더 많은 웨이크업이 필요합니다.</WakeUpTolerance.description>
+  <WakeUpTolerance.stages.small.label>약함</WakeUpTolerance.stages.small.label>
+  <WakeUpTolerance.stages.large.label>강함</WakeUpTolerance.stages.large.label>
+  <WakeUpTolerance.stages.massive.label>대량의</WakeUpTolerance.stages.massive.label>
 </LanguageData>
