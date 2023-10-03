@@ -1,36 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ClimateAdjustment.label>crwdns445360:0crwdne445360:0</ClimateAdjustment.label>
-  <ClimateAdjustment.description>crwdns445362:0crwdne445362:0</ClimateAdjustment.description>
-  <ClimateAdjustment.letterText>crwdns445364:0crwdne445364:0</ClimateAdjustment.letterText>
-  
-  <EMIField.label>crwdns445366:0crwdne445366:0</EMIField.label>
-  <EMIField.description>crwdns445368:0crwdne445368:0</EMIField.description>
-  <EMIField.descriptionFuture>crwdns445370:0[map_definite]crwdnd445370:0[gameConditionDuration_duration]crwdne445370:0</EMIField.descriptionFuture>
-  <EMIField.endMessage>crwdns445372:0crwdne445372:0</EMIField.endMessage>
-  <EMIField.letterText>crwdns445374:0crwdne445374:0</EMIField.letterText>
-  
-  <GiantSmokeCloud.label>crwdns445376:0crwdne445376:0</GiantSmokeCloud.label>
-  <GiantSmokeCloud.description>crwdns445378:0crwdne445378:0</GiantSmokeCloud.description>
-  <GiantSmokeCloud.letterText>crwdns445380:0crwdne445380:0</GiantSmokeCloud.letterText>
-  
-  <PsychicSuppression.label>crwdns445382:0crwdne445382:0</PsychicSuppression.label>
-  <PsychicSuppression.description>crwdns445384:0{0}crwdne445384:0</PsychicSuppression.description>
-  <PsychicSuppression.descriptionFuture>crwdns445386:0[psychicSuppressorGender]crwdnd445386:0[map_definite]crwdnd445386:0[gameConditionDuration_duration]crwdne445386:0</PsychicSuppression.descriptionFuture>
-  <PsychicSuppression.endMessage>crwdns445388:0crwdne445388:0</PsychicSuppression.endMessage>
-  <PsychicSuppression.letterText>crwdns445390:0{0}crwdne445390:0</PsychicSuppression.letterText>
-  
-  <SunBlocker.label>crwdns445392:0crwdne445392:0</SunBlocker.label>
-  <SunBlocker.description>crwdns445394:0crwdne445394:0</SunBlocker.description>
-  <SunBlocker.letterText>crwdns445396:0crwdne445396:0</SunBlocker.letterText>
-  
-  <ToxicSpewer.label>crwdns445398:0crwdne445398:0</ToxicSpewer.label>
-  <ToxicSpewer.description>crwdns445400:0crwdne445400:0</ToxicSpewer.description>
-  <ToxicSpewer.letterText>crwdns445402:0crwdne445402:0</ToxicSpewer.letterText>
-  
-  <WeatherController.label>crwdns445404:0crwdne445404:0</WeatherController.label>
-  <WeatherController.description>crwdns445406:0crwdne445406:0</WeatherController.description>
-  <WeatherController.descriptionFuture>crwdns445408:0[map_definite]crwdnd445408:0[forcedWeather_indefinite]crwdnd445408:0[gameConditionDuration_duration]crwdne445408:0</WeatherController.descriptionFuture>
-  <WeatherController.endMessage>crwdns445410:0crwdne445410:0</WeatherController.endMessage>
-  <WeatherController.letterText>crwdns445412:0crwdne445412:0</WeatherController.letterText>
+  <PsychicSuppression.label>crwdns445446:0crwdne445446:0</PsychicSuppression.label>
+  <PsychicSuppression.description>crwdns445448:0crwdne445448:0</PsychicSuppression.description>
 </LanguageData>
