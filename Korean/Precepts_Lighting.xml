@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Darklight_Preferred_BlindingLight.stages.blinding_light.label>blinding light</Darklight_Preferred_BlindingLight.stages.blinding_light.label>
-  <Darklight_Preferred_BlindingLight.stages.blinding_light.description>I cannot stand this terrible light. My senses are overwhelmed!</Darklight_Preferred_BlindingLight.stages.blinding_light.description>
+  <DarknessCombat.label>어둠 속 전투</DarknessCombat.label>
   
-  <Darklight_Preferred_Darklight.stages.darklight.label>darklight</Darklight_Preferred_Darklight.stages.darklight.label>
-  <Darklight_Preferred_Darklight.stages.darklight.description>This dim light is perfect. I feel focused and energized.</Darklight_Preferred_Darklight.stages.darklight.description>
+  <Eclipse.label>일식</Eclipse.label>
   
-  <Darklight_Preferred_IndoorLight.stages.indoor_light.label>indoor light</Darklight_Preferred_IndoorLight.stages.indoor_light.label>
-  <Darklight_Preferred_IndoorLight.stages.indoor_light.description>This indoor light is too bright. I would prefer something dimmer.</Darklight_Preferred_IndoorLight.stages.indoor_light.description>
-  
-  <Eclipse_Beautiful.stages.beautiful_eclipse.label>beautiful eclipse</Eclipse_Beautiful.stages.beautiful_eclipse.label>
-  <Eclipse_Beautiful.stages.beautiful_eclipse.description>I have a moment's respite from the blinding sunlight.</Eclipse_Beautiful.stages.beautiful_eclipse.description>
+  <Lighting.label>밝기</Lighting.label>
 </LanguageData>
