@@ -1,464 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <MessageSiegersAssaulting>crwdns483252:0{0}crwdnd483252:0{1}crwdne483252:0</MessageSiegersAssaulting>
-
-  <MessageRaidersBeginningAssault>crwdns483254:0{0}crwdnd483254:0{1}crwdne483254:0</MessageRaidersBeginningAssault>
-  <MessageRaidersDetectedEarlyAssault>crwdns483256:0{0}crwdnd483256:0{1}crwdne483256:0</MessageRaidersDetectedEarlyAssault>
-  <MessageRaidersKidnapping>crwdns483258:0{0}crwdnd483258:0{1}crwdne483258:0</MessageRaidersKidnapping>
-  <MessageRaidersStealing>crwdns483260:0{0}crwdnd483260:0{1}crwdne483260:0</MessageRaidersStealing>
-
-  <MessageCaravanDetectedRaidArrived>crwdns483262:0{0}crwdnd483262:0{1}crwdnd483262:0{2}crwdne483262:0</MessageCaravanDetectedRaidArrived>
-
-  <MessageRaidersLeaving>crwdns483264:0{0}crwdnd483264:0{1}crwdne483264:0</MessageRaidersLeaving>
-  <MessageRaidersGivenUpLeaving>crwdns483266:0{0}crwdnd483266:0{1}crwdne483266:0</MessageRaidersGivenUpLeaving>
-  <MessageRaidersSatisfiedLeaving>crwdns483268:0{0}crwdnd483268:0{1}crwdne483268:0</MessageRaidersSatisfiedLeaving>
-
-  <MessageFightersFleeing>crwdns483270:0{0}crwdnd483270:0{1}crwdne483270:0</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>crwdns483272:0{0}crwdnd483272:0{1}crwdne483272:0</MessageFriendlyFightersLeaving>
-
-  <MessageVisitorsTakingWounded>crwdns483274:0{0}crwdnd483274:0{1}crwdne483274:0</MessageVisitorsTakingWounded>
-  <MessageVisitorsTrappedLeaving>crwdns483276:0{0}crwdnd483276:0{1}crwdne483276:0</MessageVisitorsTrappedLeaving>
-  <MessageVisitorsDangerousTemperature>crwdns483278:0{0}crwdnd483278:0{1}crwdne483278:0</MessageVisitorsDangerousTemperature>
-
-  <MessageWornApparelDeterioratedAway>crwdns483280:0{0}crwdnd483280:0{1_nameFull}crwdne483280:0</MessageWornApparelDeterioratedAway>
-  <MessageDeterioratedAway>crwdns483282:0{0}crwdne483282:0</MessageDeterioratedAway>
-
-  <MessageSeasonBegun>crwdns483284:0{0}crwdne483284:0</MessageSeasonBegun>
-
-  <MessageShipHasLeftCommsRange>crwdns483286:0{0}crwdne483286:0</MessageShipHasLeftCommsRange>
-
-  <MessageNeedBeaconToTradeWithShip>crwdns483288:0crwdne483288:0</MessageNeedBeaconToTradeWithShip>
-  <MessageNeedRoyalTitleToCallWithShip>crwdns483290:0{0_label}crwdne483290:0</MessageNeedRoyalTitleToCallWithShip>
-
-  <MessageConditionCauserDespawned>crwdns483292:0{0}crwdne483292:0</MessageConditionCauserDespawned>
   
-  <MessageBillComplete>crwdns483294:0{0}crwdne483294:0</MessageBillComplete>
+  <MessageColonistReaching2ndTrimesterPregnancy>crwdns429844:0{PAWN_labelShort}crwdne429844:0</MessageColonistReaching2ndTrimesterPregnancy>
+  <MessageColonistReaching3rdTrimesterPregnancy>crwdns429846:0{PAWN_labelShort}crwdne429846:0</MessageColonistReaching3rdTrimesterPregnancy>
+  <MessageColonistInFinalStagesOfLabor>crwdns429848:0{PAWN_labelShort}crwdne429848:0</MessageColonistInFinalStagesOfLabor>
 
-  <MessageFullyHealed>crwdns483296:0{1_label}crwdne483296:0</MessageFullyHealed>
+  <MessageMechChargerDestroyedMechGoesBerserk>crwdns429850:0{PAWN_nameDef}crwdne429850:0</MessageMechChargerDestroyedMechGoesBerserk>
 
-  <MessagePrisonerIsEscaping>crwdns483298:0{1_labelShort}crwdne483298:0</MessagePrisonerIsEscaping>
+  <MessageCantUseOnResistingPerson>crwdns429852:0{ABILITY_label}crwdne429852:0</MessageCantUseOnResistingPerson>
+  <MessageCannotUseOnSameXenotype>crwdns429854:0{0_labelShort}crwdnd429854:0{0_xenotype}crwdne429854:0</MessageCannotUseOnSameXenotype>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>crwdns429856:0crwdne429856:0</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCannotImplantInTempFactionMembers>crwdns429858:0crwdne429858:0</MessageCannotImplantInTempFactionMembers>
+  <MessageXenogermCompleted>crwdns429860:0crwdne429860:0</MessageXenogermCompleted>
+  <MessageXenogermCancelledMissingPack>crwdns429862:0{0_labelShort}crwdne429862:0</MessageXenogermCancelledMissingPack>
+  <MessageAbsorbingXenogermWillAngerFaction>crwdns429864:0{PAWN_nameDef}crwdnd429864:0{0}crwdne429864:0</MessageAbsorbingXenogermWillAngerFaction>
+  <MessageCannotUseOnOtherFactions>crwdns429866:0{ABILITY_label}crwdne429866:0</MessageCannotUseOnOtherFactions>
+  <MessageCannotBecomeNonPreferredXenotype>crwdns429868:0{0_labelShort}crwdne429868:0</MessageCannotBecomeNonPreferredXenotype>
 
-  <MessageOutOfNearbyShellsFor>crwdns483300:0{PAWN_labelShort}crwdnd483300:0{GUN_label}crwdne483300:0</MessageOutOfNearbyShellsFor>
-  <MessageOutOfNearbyFuelFor>crwdns483302:0{PAWN_labelShort}crwdnd483302:0{FUEL}crwdnd483302:0{GUN_label}crwdne483302:0</MessageOutOfNearbyFuelFor>
+  <MessageCaravanAddingEscortingMech>crwdns429870:0{MECH_nameDef}crwdnd429870:0{OVERSEER_nameDef}crwdne429870:0</MessageCaravanAddingEscortingMech> 
+  <MessageCaravanRemovingEscortingMech>crwdns429872:0{MECH_nameDef}crwdnd429872:0{OVERSEER_nameDef}crwdne429872:0</MessageCaravanRemovingEscortingMech>
 
-  <MessageAnimalsGoPsychoHunted>crwdns483304:0{ANIMAL_kindBasePlural}crwdnd483304:0{1}crwdne483304:0</MessageAnimalsGoPsychoHunted>
-  <MessageAnimalManhuntsOnTameFailed>crwdns483306:0{ANIMAL_kindBasePlural}crwdnd483306:0{1}crwdne483306:0</MessageAnimalManhuntsOnTameFailed>
-  <MessageInsectTameDesignated>crwdns483308:0{INSECT_indefinite}crwdne483308:0</MessageInsectTameDesignated>
-
-  <MessageInsectsHostileOnTaming>crwdns483310:0{PAWN_labelShort}crwdne483310:0</MessageInsectsHostileOnTaming>
+  <MessageMechanitorCasketOpened>crwdns429874:0{0}crwdnd429874:0{0_possessive}crwdnd429874:0{1_label}crwdne429874:0</MessageMechanitorCasketOpened>
   
-  <LetterLabelMessageRecruitSuccess>crwdns483312:0crwdne483312:0</LetterLabelMessageRecruitSuccess>
-  <MessageRecruitSuccess>crwdns483314:0{RECRUITER_nameFull}crwdnd483314:0{RECRUITEE_nameFull}crwdne483314:0</MessageRecruitSuccess>
-  <MessageTameSuccess>crwdns483316:0{RECRUITER_labelShort}crwdnd483316:0{1}crwdne483316:0</MessageTameSuccess>
-  <MessageTameAndNameSuccess>crwdns483318:0{RECRUITER_labelShort}crwdnd483318:0{1}crwdnd483318:0{RECRUITEE_nameFull}crwdne483318:0</MessageTameAndNameSuccess>
-  <MessageTameNoSuitablePens>crwdns483320:0{ANIMAL_labelShort}crwdne483320:0</MessageTameNoSuitablePens>
-  <MessageRecruitJoinOfferAccepted>crwdns483322:0{RECRUITEE}crwdne483322:0</MessageRecruitJoinOfferAccepted>
+  <MessageNoBloodfeedersPrisonerInteractionReset>crwdns429876:0crwdne429876:0</MessageNoBloodfeedersPrisonerInteractionReset>
 
-  <MessageColonyCannotAfford>crwdns483324:0crwdne483324:0</MessageColonyCannotAfford>
-  <MessageColonyNotEnoughSilver>crwdns483326:0crwdne483326:0</MessageColonyNotEnoughSilver>
-
-  <MessageCriticalAlert>crwdns483328:0{0}crwdne483328:0</MessageCriticalAlert>
-
-  <MessageMustDesignateHarvestable>crwdns483330:0crwdne483330:0</MessageMustDesignateHarvestable>
-  <MessageMustDesignateHarvestableWood>crwdns483332:0crwdne483332:0</MessageMustDesignateHarvestableWood>
-  <MessageMustDesignatePlants>crwdns483334:0crwdne483334:0</MessageMustDesignatePlants>
-  <MessageMustDesignateHaulable>crwdns483336:0crwdne483336:0</MessageMustDesignateHaulable>
-  <MessageMustDesignateMineable>crwdns483338:0crwdne483338:0</MessageMustDesignateMineable>
-  <MessageMustDesignateHuntable>crwdns483340:0crwdne483340:0</MessageMustDesignateHuntable>
-  <MessageMustDesignateTameable>crwdns483342:0crwdne483342:0</MessageMustDesignateTameable>
-  <MessageMustDesignateClaimable>crwdns483344:0crwdne483344:0</MessageMustDesignateClaimable>
-  <MessageMustDesignatePaintableBuildings>crwdns483346:0{0_label}crwdne483346:0</MessageMustDesignatePaintableBuildings>
-  <MessageMustDesignatePaintableFloors>crwdns483348:0{0_label}crwdne483348:0</MessageMustDesignatePaintableFloors>
-  <MessageMustDesignatePainted>crwdns483350:0crwdne483350:0</MessageMustDesignatePainted>
-  <MessageMustDesignateDeconstructibleMechCluster>crwdns483352:0crwdne483352:0</MessageMustDesignateDeconstructibleMechCluster>
-  <MessageMustDesignateSmoothableSurface>crwdns483354:0crwdne483354:0</MessageMustDesignateSmoothableSurface>
-  <MessageNothingCanRemoveThickRoofs>crwdns483356:0crwdne483356:0</MessageNothingCanRemoveThickRoofs>
-  <MessageAlreadyInStorage>crwdns483358:0crwdne483358:0</MessageAlreadyInStorage>
-  <MessageMustDesignateStrippable>crwdns483360:0crwdne483360:0</MessageMustDesignateStrippable>
-  <MessageMustDesignateSlaughterable>crwdns483362:0crwdne483362:0</MessageMustDesignateSlaughterable>
-  <MessageMustDesignateOpenable>crwdns483364:0crwdne483364:0</MessageMustDesignateOpenable>
-  <MessageMustDesignateForbiddable>crwdns483366:0crwdne483366:0</MessageMustDesignateForbiddable>
-  <MessageMustDesignateUnforbiddable>crwdns483368:0crwdne483368:0</MessageMustDesignateUnforbiddable>
-  <MessageCannotClaimWhenThreatsAreNear>crwdns483370:0{CLAIMABLE_labelShort}crwdnd483370:0{THREAT_factionPawnsPlural}crwdne483370:0</MessageCannotClaimWhenThreatsAreNear>
-  <MessageCannotAdoptWhileThreatsAreNear>crwdns483372:0{CLAIMABLE_labelShort}crwdnd483372:0{THREAT_factionPawnsPlural}crwdne483372:0</MessageCannotAdoptWhileThreatsAreNear>
-
-  <MessageRefusedArrest>crwdns483374:0{1_labelShort}crwdne483374:0</MessageRefusedArrest>
+  <MessagePregnancyTerminated>crwdns429878:0{PAWN_nameDef}crwdne429878:0</MessagePregnancyTerminated>
   
-  <MessageNoMedicalBeds>crwdns483376:0crwdne483376:0</MessageNoMedicalBeds>
-  <MessageNoAnimalBeds>crwdns483378:0crwdne483378:0</MessageNoAnimalBeds>
-  <MessageWarningNoMedicineForRestriction>crwdns483380:0{PAWN_nameDef}crwdnd483380:0{RESTRICTIONLABEL}crwdnd483380:0{PAWN_possessive}crwdne483380:0</MessageWarningNoMedicineForRestriction>
-  
-  <PawnDiedBecauseOf>crwdns483382:0{PAWN_labelShort}crwdnd483382:0{1}crwdne483382:0</PawnDiedBecauseOf>
-  <PawnDied>crwdns483384:0{1_labelShort}crwdne483384:0</PawnDied>
-
-  <MessageNoLongerDowned>crwdns483386:0{1_label}crwdne483386:0</MessageNoLongerDowned>
-
-  <MessageInvoluntarySleep>crwdns483388:0{1_labelShort}crwdne483388:0</MessageInvoluntarySleep>
-
-  <MessageMedicalOperationWillAngerFaction>crwdns483390:0{0}crwdne483390:0</MessageMedicalOperationWillAngerFaction>
-
-  <MessageAnimalIsPregnant>crwdns483392:0{PAWN_nameDef}crwdne483392:0</MessageAnimalIsPregnant>
-  <MessageMiscarriedStarvation>crwdns483394:0{0}crwdne483394:0</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>crwdns483396:0{0}crwdne483396:0</MessageMiscarriedPoorHealth>
-  <MessageGaveBirth>crwdns483398:0{0}crwdne483398:0</MessageGaveBirth>
-  
-  <MessagePsylinkNoSensitivity>crwdns483400:0{PAWN_labelShort}crwdnd483400:0{PAWN_pronoun}crwdne483400:0</MessagePsylinkNoSensitivity>
-  <MessageLostImplantLevelFromHediff>crwdns483402:0{PAWN_labelShort}crwdnd483402:0{1}crwdnd483402:0{2}crwdne483402:0</MessageLostImplantLevelFromHediff>
-  <MessageReceivedBrainDamageFromHediff>crwdns483404:0{PAWN_labelShort}crwdnd483404:0{1}crwdnd483404:0{2}crwdne483404:0</MessageReceivedBrainDamageFromHediff>
-  <MessageWentOverPsychicEntropyLimit>crwdns483406:0{PAWN_labelShort}crwdne483406:0</MessageWentOverPsychicEntropyLimit>
-
-  <MessageNoHandlerSkilledEnough>crwdns483408:0{ANIMAL_kindBase}crwdnd483408:0{1}crwdnd483408:0{2}crwdnd483408:0{HANDLER_labelShort}crwdnd483408:0{4}crwdne483408:0</MessageNoHandlerSkilledEnough>
-  
-  <MessageEatenByPredator>crwdns483410:0{EATEN_labelShort}crwdnd483410:0{PREDATOR}crwdne483410:0</MessageEatenByPredator>
-  <MessageAttackedByPredator>crwdns483412:0{PREY_labelShort}crwdnd483412:0{PREDATOR}crwdne483412:0</MessageAttackedByPredator>
-
-  <MessageRoamerLeaving>crwdns483414:0{PAWN_labelShort}crwdnd483414:0{PAWN_pronoun}crwdnd483414:0{PAWN_objective}crwdne483414:0</MessageRoamerLeaving>
-
-  <MessageHiveReproduced>crwdns483416:0crwdne483416:0</MessageHiveReproduced>
-  
-  <MessageTraderCaravanLeaving>crwdns483418:0{0}crwdne483418:0</MessageTraderCaravanLeaving>
-  
-  <MessageCantSelectDeadPawn>crwdns483420:0{1_labelShort}crwdne483420:0</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>crwdns483422:0{1_labelShort}crwdne483422:0</MessageCantSelectOffMapPawn>
-  
-  <MessageSocialFight>crwdns483424:0{PAWN1_labelShort}crwdnd483424:0{PAWN2_labelShort}crwdne483424:0</MessageSocialFight>
-  
-  <MessageNewMarriageCeremony>crwdns483426:0{PAWN1_labelShort}crwdnd483426:0{PAWN2_labelShort}crwdne483426:0</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>crwdns483428:0{PAWN1_labelShort}crwdnd483428:0{PAWN2_labelShort}crwdne483428:0</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>crwdns483430:0{PAWN1_labelShort}crwdnd483430:0{PAWN2_labelShort}crwdne483430:0</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>crwdns483432:0{PAWN1_labelShort}crwdnd483432:0{PAWN2_labelShort}crwdne483432:0</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>crwdns483434:0{PAWN1_labelShort}crwdnd483434:0{PAWN2_labelShort}crwdne483434:0</MessageMarriageCeremonyAfterPartyFinished>
-  
-  <MessageNewBondRelation>crwdns483436:0{HUMAN_labelShort}crwdnd483436:0{ANIMAL_labelShort}crwdne483436:0</MessageNewBondRelation>
-  <MessageNewBondRelationNewName>crwdns483438:0{HUMAN_labelShort}crwdnd483438:0{1}crwdnd483438:0{HUMAN_labelShort}crwdnd483438:0{ANIMAL_objective}crwdnd483438:0{ANIMAL_nameFull}crwdne483438:0</MessageNewBondRelationNewName>
-  
-  <MessageBondedAnimalMentalBreak>crwdns483440:0{ANIMAL}crwdnd483440:0{HUMAN_labelShort}crwdne483440:0</MessageBondedAnimalMentalBreak>
-  <MessageNamedBondedAnimalMentalBreak>crwdns483442:0{ANIMAL_kindIndef}crwdnd483442:0{ANIMAL_label}crwdnd483442:0{HUMAN_labelShort}crwdne483442:0</MessageNamedBondedAnimalMentalBreak>
-  <MessageBondedAnimalsMentalBreak>crwdns483444:0{0}crwdnd483444:0{HUMAN_labelShort}crwdne483444:0</MessageBondedAnimalsMentalBreak>
-  
-  <MessageSuccessfullyRemovedHediff>crwdns483446:0{SURGEON_labelShort}crwdnd483446:0{PATIENT_labelShort}crwdnd483446:0{HEDIFF}crwdne483446:0</MessageSuccessfullyRemovedHediff>
-  
-  <MessageShipChunkDrop>crwdns483448:0crwdne483448:0</MessageShipChunkDrop>
-
-  <MessageCannotSellItemsReason>crwdns483450:0crwdne483450:0</MessageCannotSellItemsReason>
-
-  <MessageConstructionFailed>crwdns483452:0{WORKER_labelShort}crwdnd483452:0{0}crwdne483452:0</MessageConstructionFailed>
-
-  <MessageScreenshotSavedAs>crwdns483454:0{0}crwdne483454:0</MessageScreenshotSavedAs>
-  
-  <MessageNoLongerSocialFighting>crwdns483456:0{PAWN1_labelShort}crwdnd483456:0{PAWN2_labelShort}crwdne483456:0</MessageNoLongerSocialFighting>
-  
-  <MessageNoLongerBingingOnDrug>crwdns483458:0{2_labelShort}crwdnd483458:0{1}crwdne483458:0</MessageNoLongerBingingOnDrug>
-
-  <MessageNoLongerOnTargetedInsultingSpree>crwdns483460:0{PAWN_labelShort}crwdnd483460:0{TARGET_label}crwdne483460:0</MessageNoLongerOnTargetedInsultingSpree>
-
-  <MessageRottedAwayInStorage>crwdns483462:0{1_label}crwdne483462:0</MessageRottedAwayInStorage>
-  
-  <MessageFoodPoisoning>crwdns483464:0{PAWN_labelShort}crwdnd483464:0{FOOD_labelShort}crwdnd483464:0{2}crwdne483464:0</MessageFoodPoisoning>
-  
-  <MessagePawnLostWhileFormingCaravan>crwdns483466:0{0}crwdne483466:0</MessagePawnLostWhileFormingCaravan>
-  <MessagePawnLostWhileFormingCaravan_AllLost>crwdns483468:0crwdne483468:0</MessagePawnLostWhileFormingCaravan_AllLost>
-  <MessageCaravanFormationPaused>crwdns483470:0crwdne483470:0</MessageCaravanFormationPaused>
-  <MessageCaravanFormationUnpaused>crwdns483472:0crwdne483472:0</MessageCaravanFormationUnpaused>
-  
-  <MessageCaravanMemberHasExtremeMentalBreak>crwdns483474:0crwdne483474:0</MessageCaravanMemberHasExtremeMentalBreak>
-  
-  <MessageMaxPlanetCoveragePerformanceWarning>crwdns483476:0crwdne483476:0</MessageMaxPlanetCoveragePerformanceWarning>
-
-  <MessagePlantDiedOfCold>crwdns483478:0{0}crwdne483478:0</MessagePlantDiedOfCold>
-  <MessagePlantDiedOfRot_LeftUnharvested>crwdns483480:0{0}crwdne483480:0</MessagePlantDiedOfRot_LeftUnharvested>
-  <MessagePlantDiedOfRot_ExposedToLight>crwdns483482:0{0}crwdne483482:0</MessagePlantDiedOfRot_ExposedToLight>
-  <MessagePlantDiedOfRot>crwdns483484:0{0}crwdne483484:0</MessagePlantDiedOfRot>
-  <MessagePlantDiedOfPoison>crwdns483486:0{0}crwdne483486:0</MessagePlantDiedOfPoison>
-  <MessagePlantDiedOfBlight>crwdns483488:0{1_label}crwdne483488:0</MessagePlantDiedOfBlight>
-
-  <MessagePawnBeingBurned>crwdns483490:0{1_labelShort}crwdne483490:0</MessagePawnBeingBurned>
-
-  <MessageAccidentalOverdose>crwdns483492:0{INGESTER}crwdnd483492:0{DRUG_labelShort}crwdne483492:0</MessageAccidentalOverdose>
-  
-  <MessageCaravanArrivedAtDestination>crwdns483494:0{0}crwdne483494:0</MessageCaravanArrivedAtDestination>
-  
-  <MessagePawnLeftMapAndCreatedCaravan>crwdns483496:0{1_labelShort}crwdne483496:0</MessagePawnLeftMapAndCreatedCaravan>
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>crwdns483498:0crwdne483498:0</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
-  
-  <MessageSettledInExistingMap>crwdns483500:0crwdne483500:0</MessageSettledInExistingMap>
-  
-  <MessagePermanentWoundHealed>crwdns483502:0{PAWN_labelShort}crwdnd483502:0{2}crwdnd483502:0{0}crwdne483502:0</MessagePermanentWoundHealed>
-  
-  <MessageRescueeDidntJoin>crwdns483504:0[PAWN_nameDef]crwdne483504:0</MessageRescueeDidntJoin>
-  
-  <MessageTransporterUnreachable>crwdns483506:0crwdne483506:0</MessageTransporterUnreachable>
-  <MessageTransportersNotAdjacent>crwdns483508:0crwdne483508:0</MessageTransportersNotAdjacent>
-  
-  <MessageTransportersLoadCanceled_TransporterDestroyed>crwdns483510:0crwdne483510:0</MessageTransportersLoadCanceled_TransporterDestroyed>
-  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>crwdns483512:0crwdne483512:0</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>crwdns483514:0crwdne483514:0</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
-  
-  <MessageTransportersLoadingProcessStarted>crwdns483516:0crwdne483516:0</MessageTransportersLoadingProcessStarted>
-  <MessageTransporterSingleLoadingProcessStarted>crwdns483518:0crwdne483518:0</MessageTransporterSingleLoadingProcessStarted>
-  
-  <MessageTransportPodsArrived>crwdns483520:0crwdne483520:0</MessageTransportPodsArrived>
-  <MessageTransportPodsArrivedAndLost>crwdns483522:0crwdne483522:0</MessageTransportPodsArrivedAndLost>
-  <MessageTransportPodsArrivedAndAddedToCaravan>crwdns483524:0{0}crwdne483524:0</MessageTransportPodsArrivedAndAddedToCaravan>
-  
-  <MessageFinishedLoadingTransporters>crwdns483526:0crwdne483526:0</MessageFinishedLoadingTransporters>
-  <MessageFinishedLoadingTransporterSingle>crwdns483528:0crwdne483528:0</MessageFinishedLoadingTransporterSingle>
-
-  <MessageCantLoadMoreIntoTransporters>crwdns483530:0{1}crwdnd483530:0{2_labelShort}crwdne483530:0</MessageCantLoadMoreIntoTransporters>
-  
-  <MessageTransportPodsDestinationIsInvalid>crwdns483532:0crwdne483532:0</MessageTransportPodsDestinationIsInvalid>
-  <MessageTransportPodsDestinationIsTooFar>crwdns483534:0{0}crwdne483534:0</MessageTransportPodsDestinationIsTooFar>
-  
-  <MessageReformedCaravan>crwdns483536:0crwdne483536:0</MessageReformedCaravan>
-  
-  <MessageCantBanishLastColonist>crwdns483538:0crwdne483538:0</MessageCantBanishLastColonist>
-
-  <MessageCantEquipCustom>crwdns483540:0{0}crwdne483540:0</MessageCantEquipCustom>
-  <MessageCantEquipIncapableOfViolence>crwdns483542:0{1_labelShort}crwdne483542:0</MessageCantEquipIncapableOfViolence>
-  <MessageCantEquipIncapableOfShooting>crwdns483544:0{1_labelShort}crwdne483544:0</MessageCantEquipIncapableOfShooting>
-  <MessageCantEquipIncapableOfManipulation>crwdns483546:0crwdne483546:0</MessageCantEquipIncapableOfManipulation>
-  <MessageCantWearApparelMissingBodyParts>crwdns483548:0{1_labelShort}crwdne483548:0</MessageCantWearApparelMissingBodyParts>
-  <MessageCantUnequipLockedApparel>crwdns483550:0crwdne483550:0</MessageCantUnequipLockedApparel>
-  <MessageWouldReplaceLockedApparel>crwdns483552:0{1_labelShort}crwdne483552:0</MessageWouldReplaceLockedApparel>
-  
-  <MessageSlaughteringBondedAnimal>crwdns483554:0{DESIGNATED_labelShort}crwdnd483554:0{BONDED_labelShort}crwdne483554:0</MessageSlaughteringBondedAnimal>
-  <MessageReleaseBondedAnimal>crwdns483556:0{DESIGNATED_labelShort}crwdnd483556:0{BONDED_labelShort}crwdne483556:0</MessageReleaseBondedAnimal>
-  
-  <MessageCaravanRanOutOfFood>crwdns483558:0{0}crwdne483558:0</MessageCaravanRanOutOfFood>
-  <MessageCaravanDeathCorpseAddedToInventory>crwdns483560:0{PAWN_definite}crwdne483560:0</MessageCaravanDeathCorpseAddedToInventory>
-
-  <MessageSelectOwnBaseToFormCaravan>crwdns483562:0crwdne483562:0</MessageSelectOwnBaseToFormCaravan>
-
-  <MessageScreenResTooSmallForUIScale>crwdns483564:0crwdne483564:0</MessageScreenResTooSmallForUIScale>
-  
-  <MessageYouHaveToReformCaravanNow>crwdns483566:0crwdne483566:0</MessageYouHaveToReformCaravanNow>
-  
-  <MessageDefendersAttacking>crwdns483568:0{0}crwdnd483568:0{1}crwdnd483568:0{2}crwdne483568:0</MessageDefendersAttacking>
-  <MessageMechanoidsAssembled>crwdns483570:0crwdne483570:0</MessageMechanoidsAssembled>
-  <MessageMechanoidsLeftToAssemble>crwdns483572:0crwdne483572:0</MessageMechanoidsLeftToAssemble>
-  <MessageMechanoidsReinforcementsDrop>crwdns483574:0crwdne483574:0</MessageMechanoidsReinforcementsDrop>
-
-  <MessageSelfTendUnsatisfied>crwdns483576:0{1_labelShort}crwdne483576:0</MessageSelfTendUnsatisfied>
-  <MessageCannotSelfTendEver>crwdns483578:0{1_labelShort}crwdne483578:0</MessageCannotSelfTendEver>
-  
-  <MessageCantAddWaypointBecauseImpassable>crwdns483580:0crwdne483580:0</MessageCantAddWaypointBecauseImpassable>
-  <MessageCantAddWaypointBecauseUnreachable>crwdns483582:0crwdne483582:0</MessageCantAddWaypointBecauseUnreachable>
-  <MessageCantAddWaypointBecauseLimit>crwdns483584:0{0}crwdne483584:0</MessageCantAddWaypointBecauseLimit>
-  <MessageCantRemoveWaypointBecauseFirst>crwdns483586:0crwdne483586:0</MessageCantRemoveWaypointBecauseFirst>
-  
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>crwdns483588:0crwdne483588:0</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
-  
-  <MessageCanReformCaravanNowNoMoreEnemies>crwdns483590:0crwdne483590:0</MessageCanReformCaravanNowNoMoreEnemies>
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>crwdns483592:0crwdne483592:0</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
-
-  <MessageCantBanishDownedPawn>crwdns483594:0{1_labelShort}crwdnd483594:0{1_pronoun}crwdne483594:0</MessageCantBanishDownedPawn>
-
-  <MessageSleepingPawnsWokenUp>crwdns483596:0{0}crwdne483596:0</MessageSleepingPawnsWokenUp>
-  <MessageMechClusterDefeated>crwdns483598:0crwdne483598:0</MessageMechClusterDefeated>
-
-  <MessageCompSpawnerSpawnedItem>crwdns483600:0{0}crwdne483600:0</MessageCompSpawnerSpawnedItem>
-
-  <MessageHediffCuredByItem>crwdns483602:0{0}crwdne483602:0</MessageHediffCuredByItem>
-  <MessageBodyPartCuredByItem>crwdns483604:0{0}crwdne483604:0</MessageBodyPartCuredByItem>
-  <MessageResearchProjectFinishedByItem>crwdns483606:0{0}crwdne483606:0</MessageResearchProjectFinishedByItem>
-
-  <MessagePawnResurrected>crwdns483608:0{0}crwdne483608:0</MessagePawnResurrected>
-
-  <MessageFailedToRescueRelative>crwdns483610:0{PAWN_labelShort}crwdnd483610:0{RELATIVE_labelShort}crwdne483610:0</MessageFailedToRescueRelative>
-  <MessageRescuedRelative>crwdns483612:0{PAWN_labelShort}crwdnd483612:0{RELATIVE_labelShort}crwdne483612:0</MessageRescuedRelative>
-
-  <MessageTornadoLeftMap>crwdns483614:0crwdne483614:0</MessageTornadoLeftMap>
-  <MessageTornadoDissipated>crwdns483616:0crwdne483616:0</MessageTornadoDissipated>
-
-  <MessagePeaceTalksNoDiplomat>crwdns483618:0crwdne483618:0</MessagePeaceTalksNoDiplomat>
-
-  <MessageWarningCavePlantsExposedToLight>crwdns483620:0{0}crwdne483620:0</MessageWarningCavePlantsExposedToLight>
-
-  <MessageTargetedTantrumChangedTarget>crwdns483622:0{PAWN_labelShort}crwdnd483622:0{OLDTARGET_label}crwdnd483622:0{PAWN_pronoun}crwdnd483622:0{PAWN_possessive}crwdnd483622:0{TARGET_label}crwdne483622:0</MessageTargetedTantrumChangedTarget>
-
-  <MessageTargetedInsultingSpreeChangedTarget>crwdns483624:0{PAWN_labelShort}crwdnd483624:0{OLDTARGET_label}crwdnd483624:0{PAWN_pronoun}crwdnd483624:0{PAWN_possessive}crwdnd483624:0{TARGET_label}crwdne483624:0</MessageTargetedInsultingSpreeChangedTarget>
-
-  <MessageMurderousRageChangedTarget>crwdns483626:0{PAWN_labelShort}crwdnd483626:0{PAWN_possessive}crwdnd483626:0{TARGET_label}crwdne483626:0</MessageMurderousRageChangedTarget>
-
-  <MessagePlantIncompatibleWithRoof>crwdns483628:0{0}crwdne483628:0</MessagePlantIncompatibleWithRoof>
-  <MessageRoofIncompatibleWithPlant>crwdns483630:0{0}crwdne483630:0</MessageRoofIncompatibleWithPlant>
-
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>crwdns483632:0crwdne483632:0</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>crwdns483634:0crwdne483634:0</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
-
-  <MessageGoodwillChanged>crwdns483636:0{0}crwdnd483636:0{1}crwdnd483636:0{2}crwdne483636:0</MessageGoodwillChanged>
-  <MessageGoodwillChangedWithReason>crwdns483638:0{0}crwdnd483638:0{1}crwdnd483638:0{2}crwdnd483638:0{3}crwdne483638:0</MessageGoodwillChangedWithReason>
-  <GoodwillChangedReason_AttackedPawn>crwdns483640:0{1_labelShort}crwdne483640:0</GoodwillChangedReason_AttackedPawn>
-  <GoodwillChangedReason_UsedItem>crwdns483642:0{ITEM_labelShort}crwdnd483642:0{TARGET_labelShort}crwdne483642:0</GoodwillChangedReason_UsedItem>
-  <GoodwillChangedReason_UsedAbility>crwdns483644:0{0}crwdnd483644:0{1}crwdne483644:0</GoodwillChangedReason_UsedAbility>
-  <GoodwillChangedReason_RemovedBodyPart>crwdns483646:0{0}crwdne483646:0</GoodwillChangedReason_RemovedBodyPart>
-  <GoodwillChangedReason_RemovedImplant>crwdns483648:0{0}crwdne483648:0</GoodwillChangedReason_RemovedImplant>
-  <GoodwillChangedReason_DowngradedImplant>crwdns483650:0{0}crwdne483650:0</GoodwillChangedReason_DowngradedImplant>
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>crwdns483652:0{0}crwdne483652:0</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
-  <GoodwillChangedReason_CapturedPawn>crwdns483654:0{1_labelShort}crwdne483654:0</GoodwillChangedReason_CapturedPawn>
-  <GoodwillChangedReason_PawnCrushed>crwdns483656:0{1_labelShort}crwdne483656:0</GoodwillChangedReason_PawnCrushed>
-  <GoodwillChangedReason_PawnDied>crwdns483658:0{1_labelShort}crwdne483658:0</GoodwillChangedReason_PawnDied>
-  <GoodwillChangedReason_PawnStripped>crwdns483660:0{0_labelShort}crwdne483660:0</GoodwillChangedReason_PawnStripped>
-  <GoodwillChangedReason_Traded>crwdns483662:0crwdne483662:0</GoodwillChangedReason_Traded>
-  <GoodwillChangedReason_AttackedCaravan>crwdns483664:0crwdne483664:0</GoodwillChangedReason_AttackedCaravan>
-  <GoodwillChangedReason_ExitedMapHealthy>crwdns483666:0{1_labelShort}crwdne483666:0</GoodwillChangedReason_ExitedMapHealthy>
-  <GoodwillChangedReason_Tended>crwdns483668:0{1_labelShort}crwdne483668:0</GoodwillChangedReason_Tended>
-  <GoodwillChangedReason_ReceivedGift>crwdns483670:0crwdne483670:0</GoodwillChangedReason_ReceivedGift>
-  <GoodwillChangedReason_FulfilledTradeRequest>crwdns483672:0crwdne483672:0</GoodwillChangedReason_FulfilledTradeRequest>
-  <GoodwillChangedReason_FinishedQuest>crwdns483674:0crwdne483674:0</GoodwillChangedReason_FinishedQuest>
-  <GoodwillChangedReason_UsedForbiddenThing>crwdns483676:0{PAWN_labelShort}crwdnd483676:0{CULPRIT}crwdne483676:0</GoodwillChangedReason_UsedForbiddenThing>
-  <GoodwillChangedReason_SoldPawn>crwdns483678:0{0_labelShort}crwdne483678:0</GoodwillChangedReason_SoldPawn>
-  <GoodwillChangedReason_EuthanizedPawn>crwdns483680:0{PAWN_labelShort}crwdne483680:0</GoodwillChangedReason_EuthanizedPawn>
-  <GoodwillChangedReason_RequestedMilitaryAid>crwdns483682:0crwdne483682:0</GoodwillChangedReason_RequestedMilitaryAid>
-  <GoodwillChangedReason_RequestedTrader>crwdns483684:0crwdne483684:0</GoodwillChangedReason_RequestedTrader>
-  <GoodwillChangedReason_CausedNeuroquakeEcho>crwdns483686:0crwdne483686:0</GoodwillChangedReason_CausedNeuroquakeEcho>
-  <GoodwillChangedReason_CausedBerserk>crwdns483688:0{PAWN_labelShort}crwdne483688:0</GoodwillChangedReason_CausedBerserk>
-  <GoodwillChangeReason_AttackedFaction>crwdns483690:0{0_name}crwdne483690:0</GoodwillChangeReason_AttackedFaction>
-  <GoodwillChangeReason_ShuttleDestroyed>crwdns483692:0crwdne483692:0</GoodwillChangeReason_ShuttleDestroyed>
-  <GoodwillChangeReason_CiviliansLost>crwdns483694:0crwdne483694:0</GoodwillChangeReason_CiviliansLost>
-  <GoodwillChangeReason_CommanderLost>crwdns483696:0crwdne483696:0</GoodwillChangeReason_CommanderLost>
-
-  <MessageGiftGivenButNotAppreciated>crwdns483698:0{0}crwdne483698:0</MessageGiftGivenButNotAppreciated>
-
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>crwdns483700:0crwdne483700:0</MessageCantGiveGiftBecauseCantCarryEncumbered>
-  <MessageCantGiveGiftBecauseCantCarry>crwdns483702:0{0}crwdnd483702:0{1}crwdne483702:0</MessageCantGiveGiftBecauseCantCarry>
-
-  <MessageFormedCaravan>crwdns483704:0{0}crwdne483704:0</MessageFormedCaravan>
-  <MessageFormedCaravan_Orders>crwdns483706:0crwdne483706:0</MessageFormedCaravan_Orders>
-
-  <MessageBillValidationStoreZoneDeleted>crwdns483708:0{1}crwdnd483708:0{0}crwdnd483708:0{2}crwdne483708:0</MessageBillValidationStoreZoneDeleted>
-  <MessageBillValidationStoreZoneUnavailable>crwdns483710:0{1}crwdnd483710:0{0}crwdnd483710:0{2}crwdne483710:0</MessageBillValidationStoreZoneUnavailable>
-  <MessageBillValidationPawnUnavailable>crwdns483712:0{0}crwdnd483712:0{1}crwdnd483712:0{2}crwdne483712:0</MessageBillValidationPawnUnavailable>
-  <MessageBillValidationIncludeZoneDeleted>crwdns483714:0{1}crwdnd483714:0{0}crwdnd483714:0{2}crwdne483714:0</MessageBillValidationIncludeZoneDeleted>
-  <MessageBillValidationIncludeZoneUnavailable>crwdns483716:0{1}crwdnd483716:0{0}crwdnd483716:0{2}crwdne483716:0</MessageBillValidationIncludeZoneUnavailable>
-  <MessageBillValidationStoreZoneInsufficient>crwdns483718:0{1}crwdnd483718:0{0}crwdnd483718:0{2}crwdne483718:0</MessageBillValidationStoreZoneInsufficient>
-
-  <MessageAnimalReturnedWild>crwdns483720:0{1_labelShort}crwdne483720:0</MessageAnimalReturnedWild>
-  <MessageAnimalReturnedWildReleased>crwdns483722:0{1_labelShort}crwdne483722:0</MessageAnimalReturnedWildReleased>
-  <MessageAnimalLostSkill>crwdns483724:0{ANIMAL_labelShort}crwdnd483724:0{1}crwdne483724:0</MessageAnimalLostSkill>
-
-  <MessageTranslationReportSaved>crwdns483726:0{0}crwdne483726:0</MessageTranslationReportSaved>
-
-  <MessageCaravanArrivalActionNoLongerValid>crwdns483728:0{0}crwdne483728:0</MessageCaravanArrivalActionNoLongerValid>
-
-  <MessageEnterCooldownBlocksEntering>crwdns483730:0{0}crwdne483730:0</MessageEnterCooldownBlocksEntering>
-
-  <MessagePermitCooldownFinished>crwdns483732:0{0_labelShort}crwdnd483732:0{1}crwdne483732:0</MessagePermitCooldownFinished>
-
-  <MessagePredatorHuntingPlayerAnimal>crwdns483734:0{PREDATOR}crwdnd483734:0{PREY_definite}crwdnd483734:0{PREY_kindBase}crwdne483734:0</MessagePredatorHuntingPlayerAnimal>
-
-  <MessagePrisonerResistanceBroken>crwdns483736:0{PRISONER_labelShort}crwdnd483736:0{WARDEN_labelShort}crwdne483736:0</MessagePrisonerResistanceBroken>
-  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>crwdns483738:0crwdne483738:0</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
-
-  <MessageModWithPackageIdAlreadyEnabled>crwdns483740:0{0}crwdnd483740:0{1}crwdne483740:0</MessageModWithPackageIdAlreadyEnabled>
-  <MessageDisableModsBeforeCleaningTranslationFiles>crwdns483742:0crwdne483742:0</MessageDisableModsBeforeCleaningTranslationFiles>
-  <MessageUnpackBeforeCleaningTranslationFiles>crwdns483744:0crwdne483744:0</MessageUnpackBeforeCleaningTranslationFiles>
-  <MessageTranslationFilesCleanupDone>crwdns483746:0{0}crwdne483746:0</MessageTranslationFilesCleanupDone>
-
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>crwdns483748:0{0}crwdne483748:0</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
-
-  <MessageCapturingWillAngerFaction>crwdns483750:0{PAWN_nameDef}crwdnd483750:0{PAWN_possessive}crwdnd483750:0{PAWN_factionName}crwdne483750:0</MessageCapturingWillAngerFaction>
-
-  <MessageStrippingWillAngerFaction>crwdns483752:0{PAWN_nameDef}crwdnd483752:0{PAWN_factionName}crwdne483752:0</MessageStrippingWillAngerFaction>
-
-  <MessageCantShootInMelee>crwdns483754:0crwdne483754:0</MessageCantShootInMelee>
-
-  <MessageNoColonistCanAcceptQuest>crwdns483756:0{0}crwdne483756:0</MessageNoColonistCanAcceptQuest>
-  <MessageCannotAcceptQuest>crwdns483758:0crwdne483758:0</MessageCannotAcceptQuest>
-  <MessageQuestAccepted>crwdns483760:0{0_definite}crwdnd483760:0{1}crwdne483760:0</MessageQuestAccepted>
-  <MessagePawnLeaving>crwdns483762:0{0}crwdne483762:0</MessagePawnLeaving>
-  <MessagePawnsLeaving>crwdns483764:0{0}crwdne483764:0</MessagePawnsLeaving>
-
-  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>crwdns483766:0crwdne483766:0</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
-
-  <MessageNoResearchBenchForTechprint>crwdns483768:0crwdne483768:0</MessageNoResearchBenchForTechprint>
-
-  <NoValidDestinationFound>crwdns483770:0{0}crwdne483770:0</NoValidDestinationFound>
-
-  <MessageMinifiedTreeDied>crwdns483772:0crwdne483772:0</MessageMinifiedTreeDied>
-  
-  <!-- Research -->
-  <MessageResearchMenuWithoutBench>crwdns483774:0crwdne483774:0</MessageResearchMenuWithoutBench>
-
-  <MessageActivatorProximityTriggered>crwdns483776:0{0_indefinite}crwdne483776:0</MessageActivatorProximityTriggered>
-
-  <MessageCannotSelectInvisibleStat>crwdns483778:0{0_label}crwdne483778:0</MessageCannotSelectInvisibleStat>
-
-  <MessagePrisonerCannotEquipWeapon>crwdns483780:0{PAWN_nameDef}crwdne483780:0</MessagePrisonerCannotEquipWeapon>
-
-  <MessageIdeoOpposedWorkTypeSelected>crwdns483782:0{0_nameDef}crwdnd483782:0{1}crwdnd483782:0{0_pronoun}crwdne483782:0</MessageIdeoOpposedWorkTypeSelected>
-
-  <MessageBedLostAssignment>crwdns483784:0{0}crwdnd483784:0{1_nameDef}crwdne483784:0</MessageBedLostAssignment>
-  <MessageBedDestroyed>crwdns483786:0{0}crwdnd483786:0{1_nameDef}crwdne483786:0</MessageBedDestroyed>
-
-  <!-- Rituals -->
-  <Spectate>crwdns483788:0crwdne483788:0</Spectate>
-  <AssignToRole>crwdns483790:0{0}crwdne483790:0</AssignToRole>
-  <RitualBegun>crwdns483792:0{0}crwdne483792:0</RitualBegun>
-  <MaxPawnsPerRole>crwdns483794:0{0}crwdnd483794:0{1}crwdne483794:0</MaxPawnsPerRole>
-  <RoleIsLocked>crwdns483796:0{0}crwdne483796:0</RoleIsLocked>
-  <MessageRitualNeedsAtLeastOnePerson>crwdns483798:0crwdne483798:0</MessageRitualNeedsAtLeastOnePerson>
-  <MessageRitualNeedsAtLeastOneSpectator>crwdns483800:0crwdne483800:0</MessageRitualNeedsAtLeastOneSpectator>
-  <MessageRitualNeedsAtLeastOneRolePawn>crwdns483802:0{0}crwdne483802:0</MessageRitualNeedsAtLeastOneRolePawn>
-  <MessageRitualNeedsAtLeastNumRolePawn>crwdns483804:0{1}crwdnd483804:0{0}crwdne483804:0</MessageRitualNeedsAtLeastNumRolePawn>
-  <MessageRitualPawnDowned>crwdns483806:0{0_labelShort}crwdne483806:0</MessageRitualPawnDowned>
-  <MessageRitualPawnPrisonerNotSecured>crwdns483808:0{0_labelShort}crwdne483808:0</MessageRitualPawnPrisonerNotSecured>
-  <MessageRitualPawnSlaveNotSecured>crwdns483810:0{0_labelShort}crwdne483810:0</MessageRitualPawnSlaveNotSecured>
-  <MessageRitualPawnReleased>crwdns483812:0{0_labelShort}crwdne483812:0</MessageRitualPawnReleased>
-  <MessageRitualPawnInjured>crwdns483814:0{0_labelShort}crwdne483814:0</MessageRitualPawnInjured>
-  <MessageRitualRoleRequired>crwdns483816:0{0_labelShort}crwdne483816:0</MessageRitualRoleRequired>
-  <MessageRitualRoleMustBePrisoner>crwdns483818:0{0}crwdne483818:0</MessageRitualRoleMustBePrisoner>
-  <MessageRitualRoleMustBeAnimal>crwdns483820:0{0}crwdne483820:0</MessageRitualRoleMustBeAnimal>
-  <MessageRitualRoleMustBeHumanlike>crwdns483822:0{0}crwdne483822:0</MessageRitualRoleMustBeHumanlike>
-  <MessageRitualRoleCannotBeABaby>crwdns483824:0{0}crwdne483824:0</MessageRitualRoleCannotBeABaby>
-  <MessageRitualNoRolesAvailable>crwdns483826:0{0_labelShort}crwdne483826:0</MessageRitualNoRolesAvailable>
-  <MessageRitualNotOfPlayerIdeo>crwdns483828:0{0_labelShort}crwdne483828:0</MessageRitualNotOfPlayerIdeo>
-  <MessageRitualRoleMustHaveEyes>crwdns483830:0{0}crwdne483830:0</MessageRitualRoleMustHaveEyes>
-  <MessageRitualRoleMustRequireScarification>crwdns483832:0{0_labelShort}crwdne483832:0</MessageRitualRoleMustRequireScarification>
-  <MessageRitualRoleMustRequireBlinding>crwdns483834:0{0_labelShort}crwdne483834:0</MessageRitualRoleMustRequireBlinding>
-  <MessageRitualRoleMustBePrisonerOrSlave>crwdns483836:0{0}crwdne483836:0</MessageRitualRoleMustBePrisonerOrSlave>
-  <MessageRitualRoleMustBeCapableOfFighting>crwdns483838:0{0_labelShort}crwdne483838:0</MessageRitualRoleMustBeCapableOfFighting>
-  <MessageRitualRoleCannotReplaceRequiredPawn>crwdns483840:0crwdne483840:0</MessageRitualRoleCannotReplaceRequiredPawn>
-  <MessageRitualRolePawnRecentlyTornConnection>crwdns483842:0{0_labelShort}crwdnd483842:0{0_possessive}crwdne483842:0</MessageRitualRolePawnRecentlyTornConnection>
-  <MessageRitualRolePawnHasSameIdeo>crwdns483844:0{0_labelShort}crwdne483844:0</MessageRitualRolePawnHasSameIdeo>
-  <MessageRitualRoleMustBeCapableOfWardening>crwdns483846:0{0_labelShort}crwdne483846:0</MessageRitualRoleMustBeCapableOfWardening>
-  <MessageRitualRoleMustBeCapableOfGeneric>crwdns483848:0{0}crwdnd483848:0{1}crwdne483848:0</MessageRitualRoleMustBeCapableOfGeneric>
-  <MessageRitualRoleMustNotBePrisonerToSpectate>crwdns483850:0{0}crwdne483850:0</MessageRitualRoleMustNotBePrisonerToSpectate>
-  <MessageRitualRoleMustHaveIdeoToSpectate>crwdns483852:0{0}crwdnd483852:0{1}crwdne483852:0</MessageRitualRoleMustHaveIdeoToSpectate>
-  <MessageRitualRoleMustHaveIdeoToDoRole>crwdns483854:0{0}crwdnd483854:0{1}crwdne483854:0</MessageRitualRoleMustHaveIdeoToDoRole>
-  <MessageRitualRoleMustBeColonist>crwdns483856:0{0}crwdne483856:0</MessageRitualRoleMustBeColonist>
-  <MessageRitualWontAttendExtremeTemperature>crwdns483858:0{0_labelShort}crwdne483858:0</MessageRitualWontAttendExtremeTemperature>
-  <MessageRitualRoleMustBeFreeColonist>crwdns483860:0{0}crwdne483860:0</MessageRitualRoleMustBeFreeColonist>
-  <MessageRitualRoleMustHaveLargerBodySize>crwdns483862:0{0}crwdnd483862:0{1}crwdne483862:0</MessageRitualRoleMustHaveLargerBodySize>
-  <MessageRitualPawnMentalState>crwdns483864:0{0_labelShort}crwdne483864:0</MessageRitualPawnMentalState>
-  <MessageRitualPawnIsAlreadyBelievingIdeo>crwdns483866:0{0_labelShort}crwdnd483866:0{1}crwdne483866:0</MessageRitualPawnIsAlreadyBelievingIdeo>
-  <MessageRitualCannotAssignAnyRoleFromSpectating>crwdns483868:0{0_labelShort}crwdne483868:0</MessageRitualCannotAssignAnyRoleFromSpectating>
-  <MessageRitualRoleMustNotBeImprisonedWildMan>crwdns483870:0{0}crwdne483870:0</MessageRitualRoleMustNotBeImprisonedWildMan>
-  <MessageRitualRoleMustNotBeImprisoned>crwdns483872:0{0}crwdne483872:0</MessageRitualRoleMustNotBeImprisoned>
-  <MessageRitualRoleCannotBeChild>crwdns483874:0{0}crwdne483874:0</MessageRitualRoleCannotBeChild>
-  <MessageRitualRoleCannotBeBaby>crwdns483876:0{0}crwdne483876:0</MessageRitualRoleCannotBeBaby>
-
-  <MessagePlayerMustSelectTile>crwdns483878:0crwdne483878:0</MessagePlayerMustSelectTile>
-
-  <CannotPlantThing>crwdns483880:0{0_labelShort}crwdne483880:0</CannotPlantThing>
-  <MessageWarningNotEnoughFertility>crwdns483882:0crwdne483882:0</MessageWarningNotEnoughFertility>
-  <BlockedBy>crwdns483884:0{0_label}crwdne483884:0</BlockedBy>
-  <AdjacentSowBlocker>crwdns483886:0{0_label}crwdne483886:0</AdjacentSowBlocker>
-  <TooCloseToOtherPlant>crwdns483888:0{0_label}crwdne483888:0</TooCloseToOtherPlant>
-  <TooCloseToOtherSeedPlantCell>crwdns483890:0{0}crwdne483890:0</TooCloseToOtherSeedPlantCell>
-
-  <MessageWarningCutImportantPlant>crwdns483892:0{0}crwdne483892:0</MessageWarningCutImportantPlant>
-
-  <MessageIncapableOfManipulation>crwdns483894:0{0_labelShort}crwdne483894:0</MessageIncapableOfManipulation>
-
-  <MessageActivationCanceled>crwdns483896:0{0_labelShort}crwdne483896:0</MessageActivationCanceled>
-
-  <NothingAvailableInCategory>crwdns483898:0crwdne483898:0</NothingAvailableInCategory>
-
-  <SettingsLinkedFor>crwdns483900:0{0}crwdne483900:0</SettingsLinkedFor>
-  <SettingsUnlinkedFor>crwdns483902:0{0}crwdne483902:0</SettingsUnlinkedFor>
-  <StorageSettingsCopiedToClipboard>crwdns483904:0crwdne483904:0</StorageSettingsCopiedToClipboard>
-  <StorageSettingsPastedFromClipboard>crwdns483906:0crwdne483906:0</StorageSettingsPastedFromClipboard>
+  <!-- Pollution -->
+  <MessageAngeredPollutedCell>crwdns429880:0{0}crwdnd429880:0{1}crwdne429880:0</MessageAngeredPollutedCell>
+  <MessageWarningPollutedCell>crwdns429882:0crwdne429882:0</MessageWarningPollutedCell>
+  <MessageWarningNotPollutedCell>crwdns429884:0crwdne429884:0</MessageWarningNotPollutedCell>
+  <MessagePlantDiedOfPollution>crwdns429886:0{0}crwdne429886:0</MessagePlantDiedOfPollution>
+  <MessagePlantDiedOfNoPollution>crwdns429888:0{0}crwdne429888:0</MessagePlantDiedOfNoPollution>
+  <MessageWorldTilePollutionChanged>crwdns429890:0{0}crwdnd429890:0{1}crwdne429890:0</MessageWorldTilePollutionChanged>
+  <MessageCocoonDisturbed>crwdns429892:0crwdne429892:0</MessageCocoonDisturbed>
+  <MessageCocoonDisturbedPlural>crwdns429894:0crwdne429894:0</MessageCocoonDisturbedPlural>
+
+  <MessageTargetMustBeDownedToForceReimplant>crwdns429896:0{PAWN_nameDef}crwdnd429896:0{PAWN_objective}crwdnd429896:0{PAWN_possessive}crwdne429896:0</MessageTargetMustBeDownedToForceReimplant>
+
+  <MessageWorkTypeDisabledAge>crwdns429898:0{0_nameDef}crwdnd429898:0{1}crwdnd429898:0{2}crwdnd429898:0{3}crwdne429898:0</MessageWorkTypeDisabledAge>
+
+  <MessageDeathrestingPawnCanWakeSafely>crwdns429900:0{PAWN_nameDef}crwdne429900:0</MessageDeathrestingPawnCanWakeSafely>
+
+  <MessageMechanitorLostControlOfMech>crwdns429902:0{0_nameDef}crwdnd429902:0{1_kindBase}crwdne429902:0</MessageMechanitorLostControlOfMech>
+  <MessageMechanitorDisconnectedFromMech>crwdns429904:0{0_nameDef}crwdnd429904:0{1_nameDef}crwdne429904:0</MessageMechanitorDisconnectedFromMech>
+
+  <!-- Xenogerm -->
+  <MetabolismTooLowToCreateXenogerm>crwdns429906:0{MIN}crwdnd429906:0{AMOUNT}crwdne429906:0</MetabolismTooLowToCreateXenogerm>
+  <ComplexityTooHighToCreateXenogerm>crwdns429908:0{MAX}crwdnd429908:0{AMOUNT}crwdne429908:0</ComplexityTooHighToCreateXenogerm>
+  <MessageNoSelectedGenepacks>crwdns429910:0crwdne429910:0</MessageNoSelectedGenepacks>
+  <MessageNoSelectedGenes>crwdns429912:0crwdne429912:0</MessageNoSelectedGenes>
+  <CanOnlyStoreNumGenepacks>crwdns429914:0{0_label}crwdnd429914:0{1}crwdne429914:0</CanOnlyStoreNumGenepacks>
+  <XenotypeNameCannotBeEmpty>crwdns429916:0crwdne429916:0</XenotypeNameCannotBeEmpty>
+  <MessageGeneMissingPrerequisite>crwdns429918:0{0}crwdne429918:0</MessageGeneMissingPrerequisite>
+
+  <MessageDeathrestCapacityChanged>crwdns429920:0{PAWN_nameDef}crwdnd429920:0{OLD}crwdnd429920:0{NEW}crwdne429920:0</MessageDeathrestCapacityChanged>
+
+  <SanguophagesArrivingSoon>crwdns429922:0crwdne429922:0</SanguophagesArrivingSoon>
+  <SanguophagesBegunMeeting>crwdns429924:0crwdne429924:0</SanguophagesBegunMeeting>
+  <SanguophagesLeavingTemperature>crwdns429926:0crwdne429926:0</SanguophagesLeavingTemperature>
+
+  <MessagePawnWokenFromSunlight>crwdns429928:0{PAWN_nameDef}crwdnd429928:0{PAWN_possessive}crwdne429928:0</MessagePawnWokenFromSunlight>
+  <MessageBedExposedToSunlight>crwdns429930:0{BED_labelShort}crwdnd429930:0{PAWN_nameDef}crwdnd429930:0{PAWN_nameDef}crwdne429930:0</MessageBedExposedToSunlight>
+
+  <GeneExtractorNoPowerEjectedMessage>crwdns429932:0{PAWN_labelShort}crwdne429932:0</GeneExtractorNoPowerEjectedMessage>
+
+  <!-- Mechanitor -->
+  <MessagePawnKilledRipscanner>crwdns429934:0{PAWN_nameDef}crwdne429934:0</MessagePawnKilledRipscanner>
+  <MessageSubcoreSoftscannerCompleted>crwdns429936:0{PAWN_nameDef}crwdne429936:0</MessageSubcoreSoftscannerCompleted>
+
+  <MessageCannotResurrectDessicatedCorpse>crwdns429938:0crwdne429938:0</MessageCannotResurrectDessicatedCorpse>
+
+  <MessageAboutToExplode>crwdns429940:0{0}crwdne429940:0</MessageAboutToExplode>
+
+  <!-- Childcare -->
+  <MessageChildcareDisabled>crwdns429942:0{FEEDER_labelShort}crwdne429942:0</MessageChildcareDisabled>
+  <MessageChildcareNotAssigned>crwdns429944:0{FEEDER_labelShort}crwdne429944:0</MessageChildcareNotAssigned>
+
+  <MessageTooManyCustomXenotypes>crwdns429946:0crwdne429946:0</MessageTooManyCustomXenotypes>
+  <MessageConflictingGenesPresent>crwdns429948:0crwdne429948:0</MessageConflictingGenesPresent>
+
+  <MessageDeathrestBuildingBound>crwdns429950:0{BUILDING_labelShort}crwdnd429950:0{PAWN_nameDef}crwdnd429950:0{CUR}crwdnd429950:0{MAX}crwdne429950:0</MessageDeathrestBuildingBound>
+
+  <MessageDevelopmentalStageSelectionDisabledByScenario>crwdns429952:0crwdne429952:0</MessageDevelopmentalStageSelectionDisabledByScenario>
+
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>crwdns429954:0{PAWN_nameDef}crwdne429954:0</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <MessageCannotStartHemogenExtraction>crwdns429956:0{PAWN_nameDef}crwdne429956:0</MessageCannotStartHemogenExtraction>
+
+  <MessageCannotPostponeGrowthMoment>crwdns429958:0{PAWN_nameDef}crwdne429958:0</MessageCannotPostponeGrowthMoment>
+
+  <MessageDraftedPawnCarryingBaby>crwdns429960:0{0_labelShort}crwdne429960:0</MessageDraftedPawnCarryingBaby>
+  <MessageTakingBabyToSafeTemperature>crwdns429962:0{ADULT_nameDef}crwdnd429962:0{BABY_nameDef}crwdne429962:0</MessageTakingBabyToSafeTemperature>
+
+  <MessagePregnancyFailed>crwdns429964:0{MOTHER_nameDef}crwdnd429964:0{FATHER_nameDef}crwdne429964:0</MessagePregnancyFailed>
+  <MessageFerilizeFailed>crwdns429966:0{PAWN_nameDef}crwdne429966:0</MessageFerilizeFailed>
+  <CombinedGenesExceedMetabolismLimits>crwdns429968:0crwdne429968:0</CombinedGenesExceedMetabolismLimits>
 
 </LanguageData>
