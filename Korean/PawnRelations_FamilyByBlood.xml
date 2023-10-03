@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Child.label>자식</Child.label>
-  <Child.labelFemale>딸</Child.labelFemale>
+  <Child.label>son</Child.label>
+  <Child.labelFemale>daughter</Child.labelFemale>
   
-  <Cousin.label>사촌</Cousin.label>
+  <Cousin.label>cousin</Cousin.label>
   
-  <CousinOnceRemoved.label>오촌</CousinOnceRemoved.label>
+  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
   
-  <Grandchild.label>손자</Grandchild.label>
-  <Grandchild.labelFemale>손녀</Grandchild.labelFemale>
+  <Grandchild.label>grandson</Grandchild.label>
+  <Grandchild.labelFemale>granddaughter</Grandchild.labelFemale>
   
-  <GrandnephewOrGrandniece.label>종손자</GrandnephewOrGrandniece.label>
-  <GrandnephewOrGrandniece.labelFemale>종손녀</GrandnephewOrGrandniece.labelFemale>
+  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
   
-  <Grandparent.label>조부</Grandparent.label>
-  <Grandparent.labelFemale>조모</Grandparent.labelFemale>
+  <Grandparent.label>grandfather</Grandparent.label>
+  <Grandparent.labelFemale>grandmother</Grandparent.labelFemale>
   
-  <GranduncleOrGrandaunt.label>종조부</GranduncleOrGrandaunt.label>
-  <GranduncleOrGrandaunt.labelFemale>종조모</GranduncleOrGrandaunt.labelFemale>
+  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
   
-  <GreatGrandchild.label>증손자</GreatGrandchild.label>
-  <GreatGrandchild.labelFemale>증손녀</GreatGrandchild.labelFemale>
+  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
   
-  <GreatGrandparent.label>증조부</GreatGrandparent.label>
-  <GreatGrandparent.labelFemale>증조모</GreatGrandparent.labelFemale>
+  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
   
-  <HalfSibling.label>형제</HalfSibling.label>
-  <HalfSibling.labelFemale>자매(남매)</HalfSibling.labelFemale>
+  <HalfSibling.label>brother</HalfSibling.label>
+  <HalfSibling.labelFemale>sister</HalfSibling.labelFemale>
   
-  <Kin.label>킨</Kin.label>
+  <Kin.label>kin</Kin.label>
   
-  <NephewOrNiece.label>조카</NephewOrNiece.label>
-  <NephewOrNiece.labelFemale>조카</NephewOrNiece.labelFemale>
+  <NephewOrNiece.label>nephew</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
   
-  <Parent.label>아버지</Parent.label>
-  <Parent.labelFemale>산모</Parent.labelFemale>
+  <Parent.label>father</Parent.label>
+  <Parent.labelFemale>mother</Parent.labelFemale>
   
-  <SecondCousin.label>육촌</SecondCousin.label>
+  <SecondCousin.label>second cousin</SecondCousin.label>
   
-  <Sibling.label>형제(남매)</Sibling.label>
-  <Sibling.labelFemale>자매(남매)</Sibling.labelFemale>
+  <Sibling.label>brother</Sibling.label>
+  <Sibling.labelFemale>sister</Sibling.labelFemale>
   
-  <UncleOrAunt.label>삼촌</UncleOrAunt.label>
-  <UncleOrAunt.labelFemale>숙모</UncleOrAunt.labelFemale>
+  <UncleOrAunt.label>uncle</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
 </LanguageData>
