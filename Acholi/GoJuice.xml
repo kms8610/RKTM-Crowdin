@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_GoJuice.label>crwdns460480:0crwdne460480:0</Chemical_GoJuice.label>
-  <Chemical_GoJuice.description>crwdns460482:0crwdne460482:0</Chemical_GoJuice.description>
+  <GoJuice.label>crwdns472138:0crwdne472138:0</GoJuice.label>
+  <GoJuice.description>crwdns472140:0crwdne472140:0</GoJuice.description>
+  <GoJuice.ingestible.ingestCommandString>crwdns472142:0{0}crwdne472142:0</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestReportString>crwdns472144:0{0}crwdne472144:0</GoJuice.ingestible.ingestReportString>
 </LanguageData>
