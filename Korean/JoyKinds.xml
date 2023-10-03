@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical.label>약물</Chemical.label>
+  <Chemical.label>chemical consumption</Chemical.label>
   
-  <Gaming_Cerebral.label>지적 놀이</Gaming_Cerebral.label>
+  <Gaming_Cerebral.label>cerebral play</Gaming_Cerebral.label>
   
-  <Gaming_Dexterity.label>육체적 놀이</Gaming_Dexterity.label>
+  <Gaming_Dexterity.label>dexterity play</Gaming_Dexterity.label>
   
-  <Gluttonous.label>탐욕</Gluttonous.label>
+  <Gluttonous.label>food consumption</Gluttonous.label>
   
-  <HighCulture.label>높은 문화</HighCulture.label>
+  <HighCulture.label>music</HighCulture.label>
   
-  <Meditative.label>명상</Meditative.label>
+  <Meditative.label>solitary relaxation</Meditative.label>
   
-  <Social.label>사교</Social.label>
+  <Social.label>social interaction</Social.label>
   
-  <Telescope.label>망원경 관찰</Telescope.label>
+  <Telescope.label>telescope study</Telescope.label>
   
-  <Television.label>텔레비전 감상</Television.label>
+  <Television.label>television watching</Television.label>
 </LanguageData>
