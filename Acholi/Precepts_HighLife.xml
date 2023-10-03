@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <DrugUse_Essential.label>crwdns436344:0crwdne436344:0</DrugUse_Essential.label>
-  <DrugUse_Essential.description>crwdns436346:0crwdne436346:0</DrugUse_Essential.description>
-  <DrugUse_Essential.comps.0.description>crwdns436348:0{DAYSSATISIFED}crwdne436348:0</DrugUse_Essential.comps.0.description>
+  <HighLife.stages.high_life-0.label>crwdns441558:0crwdne441558:0</HighLife.stages.high_life-0.label>
+  <HighLife.stages.high_life-0.description>crwdns441560:0crwdne441560:0</HighLife.stages.high_life-0.description>
+  <HighLife.stages.high_life-1.label>crwdns441562:0crwdne441562:0</HighLife.stages.high_life-1.label>
+  <HighLife.stages.high_life_missing-0.label>crwdns441564:0crwdne441564:0</HighLife.stages.high_life_missing-0.label>
+  <HighLife.stages.high_life_missing-0.description>crwdns441566:0crwdne441566:0</HighLife.stages.high_life_missing-0.description>
+  <HighLife.stages.high_life_missing-1.label>crwdns441568:0crwdne441568:0</HighLife.stages.high_life_missing-1.label>
+  <HighLife.stages.high_life_missing-1.description>crwdns441570:0crwdne441570:0</HighLife.stages.high_life_missing-1.description>
 </LanguageData>
