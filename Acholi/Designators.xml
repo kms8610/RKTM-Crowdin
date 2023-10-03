@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <DesignatorMechControlGroup>crwdns428832:0crwdne428832:0</DesignatorMechControlGroup>
-  <DesignatorMechControlGroupDesc>crwdns428834:0crwdne428834:0</DesignatorMechControlGroupDesc>
-  <MechCanBuildThis>crwdns428836:0{0}crwdne428836:0</MechCanBuildThis>
 
-  <DesignatorAdopt>crwdns428838:0crwdne428838:0</DesignatorAdopt>
-  <DesignatorAdoptDesc>crwdns428840:0crwdne428840:0</DesignatorAdoptDesc>
-  <ChooseMechColor>crwdns428842:0crwdne428842:0</ChooseMechColor>
-
-  <DesignatorAreaPollutionClearExpand>crwdns428844:0crwdne428844:0</DesignatorAreaPollutionClearExpand>
-  <DesignatorAreaPollutionClearExpandDesc>crwdns428846:0crwdne428846:0</DesignatorAreaPollutionClearExpandDesc>
-  <DesignatorAreaPollutionClearClear>crwdns428848:0crwdne428848:0</DesignatorAreaPollutionClearClear>
-  <DesignatorAreaPollutionClearClearDesc>crwdns428850:0crwdne428850:0</DesignatorAreaPollutionClearClearDesc>
-
-
+  <DesignatorExtractSkull>crwdns443084:0crwdne443084:0</DesignatorExtractSkull>
+  <DesignatorExtractSkullDesc>crwdns443086:0crwdne443086:0</DesignatorExtractSkullDesc>
+  
 </LanguageData>
