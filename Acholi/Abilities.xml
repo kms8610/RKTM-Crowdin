@@ -1,96 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimaTreeLinking.label>crwdns444810:0crwdne444810:0</AnimaTreeLinking.label>
-  <AnimaTreeLinking.description>crwdns444812:0crwdne444812:0</AnimaTreeLinking.description>
+  <AcidSpray.label>crwdns420910:0crwdne420910:0</AcidSpray.label>
+  <AcidSpray.description>crwdns420912:0crwdne420912:0</AcidSpray.description>
   
-  <Beckon.label>crwdns444814:0crwdne444814:0</Beckon.label>
-  <Beckon.description>crwdns444816:0crwdne444816:0</Beckon.description>
+  <AnimalWarcall.label>crwdns420914:0crwdne420914:0</AnimalWarcall.label>
+  <AnimalWarcall.description>crwdns420916:0crwdne420916:0</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>crwdns420918:0crwdne420918:0</AnimalWarcall.verbProperties.label>
   
-  <Berserk.label>crwdns444818:0crwdne444818:0</Berserk.label>
-  <Berserk.description>crwdns444820:0crwdne444820:0</Berserk.description>
+  <Bloodfeed.label>crwdns420920:0crwdne420920:0</Bloodfeed.label>
+  <Bloodfeed.description>crwdns420922:0crwdne420922:0</Bloodfeed.description>
   
-  <BerserkPulse.label>crwdns444822:0crwdne444822:0</BerserkPulse.label>
-  <BerserkPulse.description>crwdns444824:0crwdne444824:0</BerserkPulse.description>
+  <Coagulate.label>crwdns420924:0crwdne420924:0</Coagulate.label>
+  <Coagulate.description>crwdns420926:0crwdne420926:0</Coagulate.description>
   
-  <BlindingPulse.label>crwdns444826:0crwdne444826:0</BlindingPulse.label>
-  <BlindingPulse.description>crwdns444828:0crwdne444828:0</BlindingPulse.description>
+  <FireBurst.label>crwdns420928:0crwdne420928:0</FireBurst.label>
+  <FireBurst.description>crwdns420930:0crwdne420930:0</FireBurst.description>
   
-  <BulletShield.label>crwdns444830:0crwdne444830:0</BulletShield.label>
-  <BulletShield.description>crwdns444832:0crwdne444832:0</BulletShield.description>
+  <FireSpew.label>crwdns420932:0crwdne420932:0</FireSpew.label>
+  <FireSpew.description>crwdns420934:0crwdne420934:0</FireSpew.description>
   
-  <Burden.label>crwdns444834:0crwdne444834:0</Burden.label>
-  <Burden.description>crwdns444836:0crwdne444836:0</Burden.description>
+  <FirefoampopMech.label>crwdns420936:0crwdne420936:0</FirefoampopMech.label>
+  <FirefoampopMech.description>crwdns420938:0crwdne420938:0</FirefoampopMech.description>
   
-  <ChaosSkip.label>crwdns444838:0crwdne444838:0</ChaosSkip.label>
-  <ChaosSkip.description>crwdns444840:0crwdne444840:0</ChaosSkip.description>
+  <FoamSpray.label>crwdns420940:0crwdne420940:0</FoamSpray.label>
+  <FoamSpray.description>crwdns420942:0crwdne420942:0</FoamSpray.description>
   
-  <Chunkskip.label>crwdns444842:0crwdne444842:0</Chunkskip.label>
-  <Chunkskip.description>crwdns444844:0crwdne444844:0</Chunkskip.description>
+  <Longjump.label>crwdns420944:0crwdne420944:0</Longjump.label>
+  <Longjump.description>crwdns420946:0crwdne420946:0</Longjump.description>
+  <Longjump.verbProperties.label>crwdns420948:0crwdne420948:0</Longjump.verbProperties.label>
   
-  <EntropyDump.label>crwdns444846:0crwdne444846:0</EntropyDump.label>
-  <EntropyDump.description>crwdns444848:0crwdne444848:0</EntropyDump.description>
+  <LongjumpMech.label>crwdns420950:0crwdne420950:0</LongjumpMech.label>
+  <LongjumpMech.description>crwdns420952:0crwdne420952:0</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>crwdns420954:0crwdne420954:0</LongjumpMech.verbProperties.label>
   
-  <Farskip.label>crwdns444850:0crwdne444850:0</Farskip.label>
-  <Farskip.description>crwdns444852:0crwdne444852:0</Farskip.description>
+  <LongjumpMechLauncher.label>crwdns420956:0crwdne420956:0</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>crwdns420958:0crwdne420958:0</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>crwdns420960:0crwdne420960:0</LongjumpMechLauncher.verbProperties.label>
   
-  <Flashstorm.label>crwdns444854:0crwdne444854:0</Flashstorm.label>
-  <Flashstorm.description>crwdns444856:0crwdne444856:0</Flashstorm.description>
+  <PiercingSpine.label>crwdns420962:0crwdne420962:0</PiercingSpine.label>
+  <PiercingSpine.description>crwdns420964:0crwdne420964:0</PiercingSpine.description>
   
-  <Focus.label>crwdns444858:0crwdne444858:0</Focus.label>
-  <Focus.description>crwdns444860:0crwdne444860:0</Focus.description>
+  <ReimplantXenogerm.label>crwdns420966:0crwdne420966:0</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>crwdns420968:0crwdne420968:0</ReimplantXenogerm.description>
   
-  <Invisibility.label>crwdns444862:0crwdne444862:0</Invisibility.label>
-  <Invisibility.description>crwdns444864:0crwdne444864:0</Invisibility.description>
+  <Resurrect.label>crwdns420970:0crwdne420970:0</Resurrect.label>
+  <Resurrect.description>crwdns420972:0crwdne420972:0</Resurrect.description>
   
-  <ManhunterPulse.label>crwdns444866:0crwdne444866:0</ManhunterPulse.label>
-  <ManhunterPulse.description>crwdns444868:0crwdne444868:0</ManhunterPulse.description>
+  <ResurrectionMech.label>crwdns420974:0crwdne420974:0</ResurrectionMech.label>
+  <ResurrectionMech.description>crwdns420976:0crwdne420976:0</ResurrectionMech.description>
   
-  <MassChaosSkip.label>crwdns444870:0crwdne444870:0</MassChaosSkip.label>
-  <MassChaosSkip.description>crwdns444872:0crwdne444872:0</MassChaosSkip.description>
-  
-  <Neuroquake.label>crwdns444874:0crwdne444874:0</Neuroquake.label>
-  <Neuroquake.description>crwdns444876:0crwdne444876:0</Neuroquake.description>
-  <Neuroquake.confirmationDialogText>crwdns444878:0crwdne444878:0</Neuroquake.confirmationDialogText>
-  
-  <Painblock.label>crwdns444880:0crwdne444880:0</Painblock.label>
-  <Painblock.description>crwdns444882:0crwdne444882:0</Painblock.description>
-  
-  <Skip.label>crwdns444884:0crwdne444884:0</Skip.label>
-  <Skip.description>crwdns444886:0crwdne444886:0</Skip.description>
-  
-  <Smokepop.label>crwdns444888:0crwdne444888:0</Smokepop.label>
-  <Smokepop.description>crwdns444890:0crwdne444890:0</Smokepop.description>
-  
-  <SolarPinhole.label>crwdns444892:0crwdne444892:0</SolarPinhole.label>
-  <SolarPinhole.description>crwdns444894:0crwdne444894:0</SolarPinhole.description>
-  
-  <Speech.label>crwdns444896:0crwdne444896:0</Speech.label>
-  <Speech.description>crwdns444898:0crwdne444898:0</Speech.description>
-  
-  <Stun.label>crwdns444900:0crwdne444900:0</Stun.label>
-  <Stun.description>crwdns444902:0crwdne444902:0</Stun.description>
-  
-  <VertigoPulse.label>crwdns444904:0crwdne444904:0</VertigoPulse.label>
-  <VertigoPulse.description>crwdns444906:0crwdne444906:0</VertigoPulse.description>
-  
-  <Wallraise.label>crwdns444908:0crwdne444908:0</Wallraise.label>
-  <Wallraise.description>crwdns444910:0crwdne444910:0</Wallraise.description>
-  
-  <Waterskip.label>crwdns444912:0crwdne444912:0</Waterskip.label>
-  <Waterskip.description>crwdns444914:0crwdne444914:0</Waterskip.description>
-  
-  <WordOfInspiration.label>crwdns444916:0crwdne444916:0</WordOfInspiration.label>
-  <WordOfInspiration.description>crwdns444918:0crwdne444918:0</WordOfInspiration.description>
-  
-  <WordOfJoy.label>crwdns444920:0crwdne444920:0</WordOfJoy.label>
-  <WordOfJoy.description>crwdns444922:0crwdne444922:0</WordOfJoy.description>
-  
-  <WordOfLove.label>crwdns444924:0crwdne444924:0</WordOfLove.label>
-  <WordOfLove.description>crwdns444926:0crwdne444926:0</WordOfLove.description>
-  
-  <WordOfSerenity.label>crwdns444928:0crwdne444928:0</WordOfSerenity.label>
-  <WordOfSerenity.description>crwdns444930:0crwdne444930:0</WordOfSerenity.description>
-  
-  <WordOfTrust.label>crwdns444932:0crwdne444932:0</WordOfTrust.label>
-  <WordOfTrust.description>crwdns444934:0crwdne444934:0</WordOfTrust.description>
+  <SmokepopMech.label>crwdns420978:0crwdne420978:0</SmokepopMech.label>
+  <SmokepopMech.description>crwdns420980:0crwdne420980:0</SmokepopMech.description>
 </LanguageData>
