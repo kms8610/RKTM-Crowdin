@@ -1,43 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ArmorRating_Blunt.label>crwdns466718:0crwdne466718:0</ArmorRating_Blunt.label>
-  <ArmorRating_Blunt.description>crwdns466720:0crwdne466720:0</ArmorRating_Blunt.description>
-  <ArmorRating_Blunt.labelForFullStatList>crwdns466722:0crwdne466722:0</ArmorRating_Blunt.labelForFullStatList>
-  
-  <ArmorRating_Heat.label>crwdns466724:0crwdne466724:0</ArmorRating_Heat.label>
-  <ArmorRating_Heat.description>crwdns466726:0crwdne466726:0</ArmorRating_Heat.description>
-  <ArmorRating_Heat.labelForFullStatList>crwdns466728:0crwdne466728:0</ArmorRating_Heat.labelForFullStatList>
-  
-  <ArmorRating_Sharp.label>crwdns466730:0crwdne466730:0</ArmorRating_Sharp.label>
-  <ArmorRating_Sharp.description>crwdns466732:0crwdne466732:0</ArmorRating_Sharp.description>
-  <ArmorRating_Sharp.labelForFullStatList>crwdns466734:0crwdne466734:0</ArmorRating_Sharp.labelForFullStatList>
-  
-  <EnergyShieldEnergyMax.label>crwdns466736:0crwdne466736:0</EnergyShieldEnergyMax.label>
-  <EnergyShieldEnergyMax.description>crwdns466738:0crwdne466738:0</EnergyShieldEnergyMax.description>
-  
-  <EnergyShieldRechargeRate.label>crwdns466740:0crwdne466740:0</EnergyShieldRechargeRate.label>
-  <EnergyShieldRechargeRate.description>crwdns466742:0crwdne466742:0</EnergyShieldRechargeRate.description>
-  <EnergyShieldRechargeRate.formatString>crwdns466744:0{0}crwdne466744:0</EnergyShieldRechargeRate.formatString>
-  
-  <EquipDelay.label>crwdns466746:0crwdne466746:0</EquipDelay.label>
-  <EquipDelay.description>crwdns466748:0crwdne466748:0</EquipDelay.description>
-  <EquipDelay.formatString>crwdns466750:0{0}crwdne466750:0</EquipDelay.formatString>
-  
-  <Insulation_Cold.label>crwdns466752:0crwdne466752:0</Insulation_Cold.label>
-  <Insulation_Cold.description>crwdns466754:0crwdne466754:0</Insulation_Cold.description>
-  <Insulation_Cold.labelForFullStatList>crwdns466756:0crwdne466756:0</Insulation_Cold.labelForFullStatList>
-  
-  <Insulation_Heat.label>crwdns466758:0crwdne466758:0</Insulation_Heat.label>
-  <Insulation_Heat.description>crwdns466760:0crwdne466760:0</Insulation_Heat.description>
-  <Insulation_Heat.labelForFullStatList>crwdns466762:0crwdne466762:0</Insulation_Heat.labelForFullStatList>
-  
-  <SmokepopBeltRadius.label>crwdns466764:0crwdne466764:0</SmokepopBeltRadius.label>
-  <SmokepopBeltRadius.description>crwdns466766:0crwdne466766:0</SmokepopBeltRadius.description>
-  <SmokepopBeltRadius.formatString>crwdns466768:0{0}crwdne466768:0</SmokepopBeltRadius.formatString>
-  
-  <StuffEffectMultiplierArmor.label>crwdns466770:0crwdne466770:0</StuffEffectMultiplierArmor.label>
-  
-  <StuffEffectMultiplierInsulation_Cold.label>crwdns466772:0crwdne466772:0</StuffEffectMultiplierInsulation_Cold.label>
-  
-  <StuffEffectMultiplierInsulation_Heat.label>crwdns466774:0crwdne466774:0</StuffEffectMultiplierInsulation_Heat.label>
+  <JumpRange.label>crwdns448676:0crwdne448676:0</JumpRange.label>
+  <JumpRange.description>crwdns448678:0crwdne448678:0</JumpRange.description>
+  <JumpRange.formatString>crwdns448680:0{0}crwdne448680:0</JumpRange.formatString>
 </LanguageData>
