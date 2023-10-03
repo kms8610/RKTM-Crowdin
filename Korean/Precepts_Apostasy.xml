@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apostasy_Abhorrent.label>abhorrent</Apostasy_Abhorrent.label>
-  <Apostasy_Abhorrent.description>To leave our ideoligion after having known it is the depth of immorality.</Apostasy_Abhorrent.description>
-  <Apostasy_Abhorrent.comps.0.description>Changed ideoligion</Apostasy_Abhorrent.comps.0.description>
+  <ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>recent apostasy</ChangedIdeo_Know_Abhorrent.stages.recent_apostasy.label>
   
-  <Apostasy_Disapproved.label>disapproved</Apostasy_Disapproved.label>
-  <Apostasy_Disapproved.description>To leave our ideoligion after having known it indicates character flaws.</Apostasy_Disapproved.description>
-  <Apostasy_Disapproved.comps.0.description>Changed ideoligion</Apostasy_Disapproved.comps.0.description>
+  <ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>recent apostasy</ChangedIdeo_Know_Disapproved.stages.recent_apostasy.label>
   
-  <Apostasy_Horrible.label>horrible</Apostasy_Horrible.label>
-  <Apostasy_Horrible.description>To leave our ideoligion after having known it indicates deep moral flaws.</Apostasy_Horrible.description>
-  <Apostasy_Horrible.comps.0.description>Changed ideoligion</Apostasy_Horrible.comps.0.description>
+  <ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>recent apostasy</ChangedIdeo_Know_Horrible.stages.recent_apostasy.label>
+  
+  <IsApostate_Abhorrent_Social.stages.apostate.label>apostate</IsApostate_Abhorrent_Social.stages.apostate.label>
+  
+  <IsApostate_Disapproved_Social.stages.apostate.label>apostate</IsApostate_Disapproved_Social.stages.apostate.label>
+  
+  <IsApostate_Horrible_Social.stages.apostate.label>apostate</IsApostate_Horrible_Social.stages.apostate.label>
 </LanguageData>
