@@ -1,40 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Animals.label>crwdns460194:0crwdne460194:0</Animals.label>
-  <Animals.description>crwdns460196:0crwdne460196:0</Animals.description>
-  
-  <Architect.label>crwdns460198:0crwdne460198:0</Architect.label>
-  <Architect.description>crwdns460200:0crwdne460200:0</Architect.description>
-  
-  <Assign.label>crwdns460202:0crwdne460202:0</Assign.label>
-  <Assign.description>crwdns460204:0crwdne460204:0</Assign.description>
-  
-  <Factions.label>crwdns460206:0crwdne460206:0</Factions.label>
-  <Factions.description>crwdns460208:0crwdne460208:0</Factions.description>
-  
-  <History.label>crwdns460210:0crwdne460210:0</History.label>
-  <History.description>crwdns460212:0crwdne460212:0</History.description>
-  
-  <Inspect.label>crwdns460214:0crwdne460214:0</Inspect.label>
-  
-  <Menu.label>crwdns460216:0crwdne460216:0</Menu.label>
-  <Menu.description>crwdns460218:0crwdne460218:0</Menu.description>
-  
-  <Quests.label>crwdns460220:0crwdne460220:0</Quests.label>
-  <Quests.description>crwdns460222:0crwdne460222:0</Quests.description>
-  
-  <Research.label>crwdns460224:0crwdne460224:0</Research.label>
-  <Research.description>crwdns460226:0crwdne460226:0</Research.description>
-  
-  <Schedule.label>crwdns460228:0crwdne460228:0</Schedule.label>
-  <Schedule.description>crwdns460230:0crwdne460230:0</Schedule.description>
-  
-  <Wildlife.label>crwdns460232:0crwdne460232:0</Wildlife.label>
-  <Wildlife.description>crwdns460234:0crwdne460234:0</Wildlife.description>
-  
-  <Work.label>crwdns460236:0crwdne460236:0</Work.label>
-  <Work.description>crwdns460238:0crwdne460238:0</Work.description>
-  
-  <World.label>crwdns460240:0crwdne460240:0</World.label>
-  <World.description>crwdns460242:0crwdne460242:0</World.description>
+  <Mechs.label>crwdns424526:0crwdne424526:0</Mechs.label>
+  <Mechs.description>crwdns424528:0crwdne424528:0</Mechs.description>
 </LanguageData>
