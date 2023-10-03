@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Proselytizing.label>crwdns432316:0crwdne432316:0</Proselytizing.label>
+  <Proselytizing_Frequently.label>crwdns436712:0crwdne436712:0</Proselytizing_Frequently.label>
+  <Proselytizing_Frequently.description>crwdns436714:0crwdne436714:0</Proselytizing_Frequently.description>
+  <Proselytizing_Frequently.comps.0.eventLabel>crwdns436716:0crwdne436716:0</Proselytizing_Frequently.comps.0.eventLabel>
+  
+  <Proselytizing_Occasionally.label>crwdns436718:0crwdne436718:0</Proselytizing_Occasionally.label>
+  <Proselytizing_Occasionally.description>crwdns436720:0crwdne436720:0</Proselytizing_Occasionally.description>
+  <Proselytizing_Occasionally.comps.0.eventLabel>crwdns436722:0crwdne436722:0</Proselytizing_Occasionally.comps.0.eventLabel>
+  
+  <Proselytizing_Sometimes.label>crwdns436724:0crwdne436724:0</Proselytizing_Sometimes.label>
+  <Proselytizing_Sometimes.description>crwdns436726:0crwdne436726:0</Proselytizing_Sometimes.description>
+  <Proselytizing_Sometimes.comps.0.eventLabel>crwdns436728:0crwdne436728:0</Proselytizing_Sometimes.comps.0.eventLabel>
 </LanguageData>
