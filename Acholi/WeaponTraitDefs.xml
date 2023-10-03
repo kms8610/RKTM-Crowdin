@@ -1,59 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <HungerMaker.label>crwdns449572:0crwdne449572:0</HungerMaker.label>
-  <HungerMaker.description>crwdns449574:0crwdne449574:0</HungerMaker.description>
+  <HungerMaker.label>crwdns445714:0crwdne445714:0</HungerMaker.label>
+  <HungerMaker.description>crwdns445716:0crwdne445716:0</HungerMaker.description>
   
-  <Jealous.label>crwdns449576:0crwdne449576:0</Jealous.label>
-  <Jealous.description>crwdns449578:0crwdne449578:0</Jealous.description>
+  <NeuralHeatRecoveryGain.label>crwdns445718:0crwdne445718:0</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>crwdns445720:0crwdne445720:0</NeuralHeatRecoveryGain.description>
   
-  <NeedKill.label>crwdns449580:0crwdne449580:0</NeedKill.label>
-  <NeedKill.description>crwdns449582:0crwdne449582:0</NeedKill.description>
+  <NoPain.label>crwdns445722:0crwdne445722:0</NoPain.label>
+  <NoPain.description>crwdns445724:0crwdne445724:0</NoPain.description>
   
-  <NeuralHeatRecoveryGain.label>crwdns449584:0crwdne449584:0</NeuralHeatRecoveryGain.label>
-  <NeuralHeatRecoveryGain.description>crwdns449586:0crwdne449586:0</NeuralHeatRecoveryGain.description>
-  
-  <NeverBond.label>crwdns449588:0crwdne449588:0</NeverBond.label>
-  <NeverBond.description>crwdns449590:0crwdne449590:0</NeverBond.description>
-  
-  <NoPain.label>crwdns449592:0crwdne449592:0</NoPain.label>
-  <NoPain.description>crwdns449594:0crwdne449594:0</NoPain.description>
-  
-  <OnKill_PsyfocusGain.label>crwdns449596:0crwdne449596:0</OnKill_PsyfocusGain.label>
-  <OnKill_PsyfocusGain.description>crwdns449598:0crwdne449598:0</OnKill_PsyfocusGain.description>
-  
-  <OnKill_ThoughtBad.label>crwdns449600:0crwdne449600:0</OnKill_ThoughtBad.label>
-  <OnKill_ThoughtBad.description>crwdns449602:0crwdne449602:0</OnKill_ThoughtBad.description>
-  
-  <OnKill_ThoughtGood.label>crwdns449604:0crwdne449604:0</OnKill_ThoughtGood.label>
-  <OnKill_ThoughtGood.description>crwdns449606:0crwdne449606:0</OnKill_ThoughtGood.description>
-  
-  <PsychicSensitivityDownMajor.label>crwdns449608:0crwdne449608:0</PsychicSensitivityDownMajor.label>
-  <PsychicSensitivityDownMajor.description>crwdns449610:0crwdne449610:0</PsychicSensitivityDownMajor.description>
-  
-  <PsychicSensitivityDownMinor.label>crwdns449612:0crwdne449612:0</PsychicSensitivityDownMinor.label>
-  <PsychicSensitivityDownMinor.description>crwdns449614:0crwdne449614:0</PsychicSensitivityDownMinor.description>
-  
-  <PsychicSensitivityUpMajor.label>crwdns449616:0crwdne449616:0</PsychicSensitivityUpMajor.label>
-  <PsychicSensitivityUpMajor.description>crwdns449618:0crwdne449618:0</PsychicSensitivityUpMajor.description>
-  
-  <PsychicSensitivityUpMinor.label>crwdns449620:0crwdne449620:0</PsychicSensitivityUpMinor.label>
-  <PsychicSensitivityUpMinor.description>crwdns449622:0crwdne449622:0</PsychicSensitivityUpMinor.description>
-  
-  <PsyfocusMeditationBonus.label>crwdns449624:0crwdne449624:0</PsyfocusMeditationBonus.label>
-  <PsyfocusMeditationBonus.description>crwdns449626:0crwdne449626:0</PsyfocusMeditationBonus.description>
-  
-  <SpeedBoost.label>crwdns449628:0crwdne449628:0</SpeedBoost.label>
-  <SpeedBoost.description>crwdns449630:0crwdne449630:0</SpeedBoost.description>
-  
-  <ThoughtCalm.label>crwdns449632:0crwdne449632:0</ThoughtCalm.label>
-  <ThoughtCalm.description>crwdns449634:0crwdne449634:0</ThoughtCalm.description>
-  
-  <ThoughtKind.label>crwdns449636:0crwdne449636:0</ThoughtKind.label>
-  <ThoughtKind.description>crwdns449638:0crwdne449638:0</ThoughtKind.description>
-  
-  <ThoughtMuttering.label>crwdns449640:0crwdne449640:0</ThoughtMuttering.label>
-  <ThoughtMuttering.description>crwdns449642:0crwdne449642:0</ThoughtMuttering.description>
-  
-  <ThoughtWailing.label>crwdns449644:0crwdne449644:0</ThoughtWailing.label>
-  <ThoughtWailing.description>crwdns449646:0crwdne449646:0</ThoughtWailing.description>
+  <SpeedBoost.label>crwdns445726:0crwdne445726:0</SpeedBoost.label>
+  <SpeedBoost.description>crwdns445728:0crwdne445728:0</SpeedBoost.description>
 </LanguageData>
