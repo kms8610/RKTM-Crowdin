@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Harp.label>하프</Harp.label>
+  <Harp.description>일부 문화권에서 귀족에게 선풍적인 인기를 끌고있는, 간단한 고정식 악기인 하프를 제작합니다.</Harp.description>
+  
+  <Harpsichord.label>하프시코드</Harpsichord.label>
+  <Harpsichord.description>복잡한 고정식 악기인 하프시코드를 제작합니다.</Harpsichord.description>
+  
+  <Piano.label>피아노</Piano.label>
+  <Piano.description>고정식 고급악기인 피아노를 만듭니다.</Piano.description>
+</LanguageData>

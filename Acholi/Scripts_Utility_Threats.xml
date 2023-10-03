@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+    <li>crwdns447610:0[gameConditionDescriptionFuture]crwdne447610:0</li>
+  </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+  
+  <Util_Infestation.questDescriptionRules.rulesStrings>
+    <li>crwdns447612:0[hivesCount]crwdne447612:0</li>
+  </Util_Infestation.questDescriptionRules.rulesStrings>
+  
+  <Util_ManhunterPack.questDescriptionRules.rulesStrings>
+    <li>crwdns447614:0[animalCount]crwdnd447614:0[animalKind_labelPlural]crwdne447614:0</li>
+  </Util_ManhunterPack.questDescriptionRules.rulesStrings>
+  
+  <Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+    <li>crwdns447616:0[allSitePartsDescriptions]crwdne447616:0</li>
+    <li>crwdns447618:0[allSitePartsDescriptions]crwdne447618:0</li>
+    <li>crwdns447620:0[site_label]crwdne447620:0</li>
+  </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+</LanguageData>

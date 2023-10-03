@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CallLaborerGang.label>증강된 노동대 호출</CallLaborerGang.label>
+  <CallLaborerGang.description>8명의 노동자를 호출해 4일간 일하게 합니다. 이 노동자들은 정착민처럼 다룰 수 있지만 일반 노동 작업만 가능합니다. 안전하게 지켜주세요.</CallLaborerGang.description>
+  
+  <CallLaborerTeam.label>노동대 호출</CallLaborerTeam.label>
+  <CallLaborerTeam.description>4명의 노동자를 호출해 4일간 일하게 합니다. 이 노동자들은 정착민처럼 다룰 수 있지만 일반 노동 작업만 가능합니다. 안전하게 지켜주세요.</CallLaborerTeam.description>
+  
+  <CallMilitaryAidGrand.label>중무장대 호출</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.description>중장 근위병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidGrand.description>
+  
+  <CallMilitaryAidLarge.label>친위보병대 호출</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.description>정예 친위병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidLarge.description>
+  
+  <CallMilitaryAidSmall.label>돌격병 호출</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.description>전투를 도와줄 4명의 경보병을 호출합니다.</CallMilitaryAidSmall.description>
+  
+  <CallOrbitalSalvo.label>무인항공기 편대 호출</CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.description>무인항공기 편대를 호출하여 목표 지점을 여러 차례 타격합니다.</CallOrbitalSalvo.description>
+  
+  <CallOrbitalStrike.label>무인항공기 호출</CallOrbitalStrike.label>
+  <CallOrbitalStrike.description>무인항공기를 호출하여 목표 지점을 타격합니다.</CallOrbitalStrike.description>
+  
+  <CallTransportShuttle.label>왕복선 호출</CallTransportShuttle.label>
+  <CallTransportShuttle.description>왕복선을 호출합니다. 70 타일 내의 위치에 정착민이나 동물, 물품들을 운송합니다.</CallTransportShuttle.description>
+  
+  <FoodDrop.label>식량 투하</FoodDrop.label>
+  <FoodDrop.description>보존식량 20개를 요청합니다.</FoodDrop.description>
+  
+  <GlitterMedDrop.label>번화계 약품 투하</GlitterMedDrop.label>
+  <GlitterMedDrop.description>번화계 약품 5개를 요청합니다.</GlitterMedDrop.description>
+  
+  <SilverDrop.label>은 투하</SilverDrop.label>
+  <SilverDrop.description>은 500개를 요청합니다.</SilverDrop.description>
+  
+  <SteelDrop.label>강철 투하</SteelDrop.label>
+  <SteelDrop.description>강철 250개를 요청합니다.</SteelDrop.description>
+  
+  <TradeCaravan.label>상단과 거래</TradeCaravan.label>
+  
+  <TradeOrbital.label>궤도상선과 거래</TradeOrbital.label>
+  
+  <TradeSettlement.label>정착지와 거래</TradeSettlement.label>
+</LanguageData>

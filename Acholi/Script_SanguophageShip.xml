@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SanguophageShip.questContentRules.rulesStrings>
+    <li>crwdns425120:0crwdne425120:0</li>
+    <li>crwdns425122:0[thrallCount]crwdne425122:0</li>
+    <li>crwdns425124:0crwdne425124:0</li>
+    <li>crwdns425126:0crwdne425126:0</li>
+    <li>crwdns425128:0crwdne425128:0</li>
+    <li>crwdns425130:0[sanguophage_possessive]crwdne425130:0</li>
+  </SanguophageShip.questContentRules.rulesStrings>
+  <SanguophageShip.questDescriptionRules.rulesStrings>
+    <li>crwdns425132:0[thrallCount]crwdnd425132:0[map_definite]crwdnd425132:0[sanguophage_possessive]crwdnd425132:0[sanguophage_objective]crwdnd425132:0[sanguophageInfo]crwdne425132:0</li>
+    <li>crwdns425134:0crwdne425134:0</li>
+  </SanguophageShip.questDescriptionRules.rulesStrings>
+  <SanguophageShip.questNameRules.rulesStrings>
+    <li>crwdns425136:0[shipAdjective]crwdnd425136:0[shipNoun]crwdne425136:0</li>
+    <li>crwdns425138:0crwdne425138:0</li>
+    <li>crwdns425140:0crwdne425140:0</li>
+    <li>crwdns425142:0crwdne425142:0</li>
+    <li>crwdns425144:0crwdne425144:0</li>
+    <li>crwdns425146:0crwdne425146:0</li>
+    <li>crwdns425148:0crwdne425148:0</li>
+    <li>crwdns425150:0crwdne425150:0</li>
+    <li>crwdns425152:0crwdne425152:0</li>
+    <li>crwdns425154:0crwdne425154:0</li>
+    <li>crwdns425156:0crwdne425156:0</li>
+    <li>crwdns425158:0crwdne425158:0</li>
+    <li>crwdns425160:0crwdne425160:0</li>
+    <li>crwdns425162:0crwdne425162:0</li>
+    <li>crwdns425164:0crwdne425164:0</li>
+    <li>crwdns425166:0crwdne425166:0</li>
+    <li>crwdns425168:0crwdne425168:0</li>
+  </SanguophageShip.questNameRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Beard_Always.label>crwdns421572:0crwdne421572:0</Beard_Always.label>
+  <Beard_Always.description>crwdns421574:0crwdne421574:0</Beard_Always.description>
+  <Beard_Always.labelShortAdj>crwdns421576:0crwdne421576:0</Beard_Always.labelShortAdj>
+  
+  <Beard_BushyOnly.label>crwdns421578:0crwdne421578:0</Beard_BushyOnly.label>
+  <Beard_BushyOnly.description>crwdns421580:0crwdne421580:0</Beard_BushyOnly.description>
+  <Beard_BushyOnly.labelShortAdj>crwdns421582:0crwdne421582:0</Beard_BushyOnly.labelShortAdj>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>crwdns421584:0crwdne421584:0</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>crwdns421586:0crwdne421586:0</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>crwdns421588:0crwdne421588:0</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>crwdns421590:0crwdne421590:0</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>crwdns421592:0crwdne421592:0</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>crwdns421594:0crwdne421594:0</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+  
+  <Beard_NoBeardOnly.label>crwdns421596:0crwdne421596:0</Beard_NoBeardOnly.label>
+  <Beard_NoBeardOnly.description>crwdns421598:0crwdne421598:0</Beard_NoBeardOnly.description>
+  <Beard_NoBeardOnly.labelShortAdj>crwdns421600:0crwdne421600:0</Beard_NoBeardOnly.labelShortAdj>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>crwdns421602:0crwdne421602:0</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>crwdns421604:0crwdne421604:0</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>crwdns421606:0crwdne421606:0</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>crwdns421608:0crwdne421608:0</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>crwdns421610:0crwdne421610:0</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <Brow_Heavy.label>crwdns421612:0crwdne421612:0</Brow_Heavy.label>
+  <Brow_Heavy.description>crwdns421614:0crwdne421614:0</Brow_Heavy.description>
+  
+  <Eyes_Gray.label>crwdns421616:0crwdne421616:0</Eyes_Gray.label>
+  <Eyes_Gray.description>crwdns421618:0crwdne421618:0</Eyes_Gray.description>
+  <Eyes_Gray.labelShortAdj>crwdns421620:0crwdne421620:0</Eyes_Gray.labelShortAdj>
+  
+  <Eyes_Red.label>crwdns421622:0crwdne421622:0</Eyes_Red.label>
+  <Eyes_Red.description>crwdns421624:0crwdne421624:0</Eyes_Red.description>
+  <Eyes_Red.labelShortAdj>crwdns421626:0crwdne421626:0</Eyes_Red.labelShortAdj>
+  
+  <FacialRidges.label>crwdns421628:0crwdne421628:0</FacialRidges.label>
+  <FacialRidges.description>crwdns421630:0crwdne421630:0</FacialRidges.description>
+  
+  <Furskin.label>crwdns421632:0crwdne421632:0</Furskin.label>
+  <Furskin.description>crwdns421634:0crwdne421634:0</Furskin.description>
+  <Furskin.labelShortAdj>crwdns421636:0crwdne421636:0</Furskin.labelShortAdj>
+  
+  <Hair_BaldOnly.label>crwdns421638:0crwdne421638:0</Hair_BaldOnly.label>
+  <Hair_BaldOnly.description>crwdns421640:0crwdne421640:0</Hair_BaldOnly.description>
+  <Hair_BaldOnly.labelShortAdj>crwdns421642:0crwdne421642:0</Hair_BaldOnly.labelShortAdj>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>crwdns421644:0crwdne421644:0</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>crwdns421646:0crwdne421646:0</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>crwdns421648:0crwdne421648:0</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>crwdns421650:0crwdne421650:0</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>crwdns421652:0crwdne421652:0</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>crwdns421654:0crwdne421654:0</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>crwdns421656:0crwdne421656:0</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>crwdns421658:0crwdne421658:0</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+  
+  <Hair_Grayless.label>crwdns421660:0crwdne421660:0</Hair_Grayless.label>
+  <Hair_Grayless.description>crwdns421662:0crwdne421662:0</Hair_Grayless.description>
+  <Hair_Grayless.customEffectDescriptions.0>crwdns421664:0crwdne421664:0</Hair_Grayless.customEffectDescriptions.0>
+  
+  <Hair_LongOnly.label>crwdns421666:0crwdne421666:0</Hair_LongOnly.label>
+  <Hair_LongOnly.description>crwdns421668:0crwdne421668:0</Hair_LongOnly.description>
+  
+  <Hair_ShortOnly.label>crwdns421670:0crwdne421670:0</Hair_ShortOnly.label>
+  <Hair_ShortOnly.description>crwdns421672:0crwdne421672:0</Hair_ShortOnly.description>
+  <Hair_ShortOnly.labelShortAdj>crwdns421674:0crwdne421674:0</Hair_ShortOnly.labelShortAdj>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>crwdns421676:0crwdne421676:0</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>crwdns421678:0crwdne421678:0</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>crwdns421680:0crwdne421680:0</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>crwdns421682:0crwdne421682:0</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>crwdns421684:0crwdne421684:0</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>crwdns421686:0crwdne421686:0</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>crwdns421688:0crwdne421688:0</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>crwdns421690:0crwdne421690:0</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+  
+  <Skin_Blue.label>crwdns421692:0crwdne421692:0</Skin_Blue.label>
+  <Skin_Blue.description>crwdns421694:0crwdne421694:0</Skin_Blue.description>
+  <Skin_Blue.labelShortAdj>crwdns421696:0crwdne421696:0</Skin_Blue.labelShortAdj>
+  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>crwdns421698:0crwdne421698:0</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>crwdns421700:0crwdne421700:0</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>crwdns421702:0crwdne421702:0</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_DeepRed.label>crwdns421704:0crwdne421704:0</Skin_DeepRed.label>
+  <Skin_DeepRed.description>crwdns421706:0crwdne421706:0</Skin_DeepRed.description>
+  <Skin_DeepRed.labelShortAdj>crwdns421708:0crwdne421708:0</Skin_DeepRed.labelShortAdj>
+  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>crwdns421710:0crwdne421710:0</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>crwdns421712:0crwdne421712:0</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>crwdns421714:0crwdne421714:0</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>crwdns421716:0crwdne421716:0</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>crwdns421718:0crwdne421718:0</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+  
+  <Skin_DeepYellow.label>crwdns421720:0crwdne421720:0</Skin_DeepYellow.label>
+  <Skin_DeepYellow.description>crwdns421722:0crwdne421722:0</Skin_DeepYellow.description>
+  <Skin_DeepYellow.labelShortAdj>crwdns421724:0crwdne421724:0</Skin_DeepYellow.labelShortAdj>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>crwdns421726:0crwdne421726:0</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>crwdns421728:0crwdne421728:0</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>crwdns421730:0crwdne421730:0</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_Green.label>crwdns421732:0crwdne421732:0</Skin_Green.label>
+  <Skin_Green.description>crwdns421734:0crwdne421734:0</Skin_Green.description>
+  <Skin_Green.labelShortAdj>crwdns421736:0crwdne421736:0</Skin_Green.labelShortAdj>
+  <Skin_Green.symbolPack.prefixSymbols.0.symbol>crwdns421738:0crwdne421738:0</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.1.symbol>crwdns421740:0crwdne421740:0</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.2.symbol>crwdns421742:0crwdne421742:0</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.3.symbol>crwdns421744:0crwdne421744:0</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>crwdns421746:0crwdne421746:0</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+  
+  <Skin_InkBlack.label>crwdns421748:0crwdne421748:0</Skin_InkBlack.label>
+  <Skin_InkBlack.description>crwdns421750:0crwdne421750:0</Skin_InkBlack.description>
+  <Skin_InkBlack.labelShortAdj>crwdns421752:0crwdne421752:0</Skin_InkBlack.labelShortAdj>
+  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>crwdns421754:0crwdne421754:0</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>crwdns421756:0crwdne421756:0</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>crwdns421758:0crwdne421758:0</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>crwdns421760:0crwdne421760:0</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>crwdns421762:0crwdne421762:0</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>crwdns421764:0crwdne421764:0</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>crwdns421766:0crwdne421766:0</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>crwdns421768:0crwdne421768:0</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>crwdns421770:0crwdne421770:0</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>crwdns421772:0crwdne421772:0</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+  
+  <Skin_LightGray.label>crwdns421774:0crwdne421774:0</Skin_LightGray.label>
+  <Skin_LightGray.description>crwdns421776:0crwdne421776:0</Skin_LightGray.description>
+  <Skin_LightGray.labelShortAdj>crwdns421778:0crwdne421778:0</Skin_LightGray.labelShortAdj>
+  <Skin_LightGray.symbolPack.prefixSymbols.0.symbol>crwdns421780:0crwdne421780:0</Skin_LightGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_LightGray.symbolPack.prefixSymbols.1.symbol>crwdns421782:0crwdne421782:0</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
+  
+  <Skin_Orange.label>crwdns421784:0crwdne421784:0</Skin_Orange.label>
+  <Skin_Orange.description>crwdns421786:0crwdne421786:0</Skin_Orange.description>
+  <Skin_Orange.labelShortAdj>crwdns421788:0crwdne421788:0</Skin_Orange.labelShortAdj>
+  <Skin_Orange.symbolPack.prefixSymbols.0.symbol>crwdns421790:0crwdne421790:0</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
+  
+  <Skin_PaleRed.label>crwdns421792:0crwdne421792:0</Skin_PaleRed.label>
+  <Skin_PaleRed.description>crwdns421794:0crwdne421794:0</Skin_PaleRed.description>
+  <Skin_PaleRed.labelShortAdj>crwdns421796:0crwdne421796:0</Skin_PaleRed.labelShortAdj>
+  <Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>crwdns421798:0crwdne421798:0</Skin_PaleRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>crwdns421800:0crwdne421800:0</Skin_PaleRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>crwdns421802:0crwdne421802:0</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
+  
+  <Skin_PaleYellow.label>crwdns421804:0crwdne421804:0</Skin_PaleYellow.label>
+  <Skin_PaleYellow.description>crwdns421806:0crwdne421806:0</Skin_PaleYellow.description>
+  <Skin_PaleYellow.labelShortAdj>crwdns421808:0crwdne421808:0</Skin_PaleYellow.labelShortAdj>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>crwdns421810:0crwdne421810:0</Skin_PaleYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>crwdns421812:0crwdne421812:0</Skin_PaleYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>crwdns421814:0crwdne421814:0</Skin_PaleYellow.symbolPack.prefixSymbols.2.symbol>
+  <Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>crwdns421816:0crwdne421816:0</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
+  
+  <Skin_Purple.label>crwdns421818:0crwdne421818:0</Skin_Purple.label>
+  <Skin_Purple.description>crwdns421820:0crwdne421820:0</Skin_Purple.description>
+  <Skin_Purple.labelShortAdj>crwdns421822:0crwdne421822:0</Skin_Purple.labelShortAdj>
+  <Skin_Purple.symbolPack.prefixSymbols.0.symbol>crwdns421824:0crwdne421824:0</Skin_Purple.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Purple.symbolPack.prefixSymbols.1.symbol>crwdns421826:0crwdne421826:0</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
+  
+  <Skin_SheerWhite.label>crwdns421828:0crwdne421828:0</Skin_SheerWhite.label>
+  <Skin_SheerWhite.description>crwdns421830:0crwdne421830:0</Skin_SheerWhite.description>
+  <Skin_SheerWhite.labelShortAdj>crwdns421832:0crwdne421832:0</Skin_SheerWhite.labelShortAdj>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>crwdns421834:0crwdne421834:0</Skin_SheerWhite.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>crwdns421836:0crwdne421836:0</Skin_SheerWhite.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>crwdns421838:0crwdne421838:0</Skin_SheerWhite.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>crwdns421840:0crwdne421840:0</Skin_SheerWhite.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>crwdns421842:0crwdne421842:0</Skin_SheerWhite.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>crwdns421844:0crwdne421844:0</Skin_SheerWhite.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>crwdns421846:0crwdne421846:0</Skin_SheerWhite.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>crwdns421848:0crwdne421848:0</Skin_SheerWhite.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>crwdns421850:0crwdne421850:0</Skin_SheerWhite.symbolPack.prefixSymbols.8.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>crwdns421852:0crwdne421852:0</Skin_SheerWhite.symbolPack.prefixSymbols.9.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>crwdns421854:0crwdne421854:0</Skin_SheerWhite.symbolPack.prefixSymbols.10.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>crwdns421856:0crwdne421856:0</Skin_SheerWhite.symbolPack.prefixSymbols.11.symbol>
+  <Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>crwdns421858:0crwdne421858:0</Skin_SheerWhite.symbolPack.prefixSymbols.12.symbol>
+  <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>crwdns421860:0crwdne421860:0</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
+  
+  <Skin_SlateGray.label>crwdns421862:0crwdne421862:0</Skin_SlateGray.label>
+  <Skin_SlateGray.description>crwdns421864:0crwdne421864:0</Skin_SlateGray.description>
+  <Skin_SlateGray.labelShortAdj>crwdns421866:0crwdne421866:0</Skin_SlateGray.labelShortAdj>
+  <Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>crwdns421868:0crwdne421868:0</Skin_SlateGray.symbolPack.prefixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>crwdns421870:0crwdne421870:0</Skin_SlateGray.symbolPack.prefixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>crwdns421872:0crwdne421872:0</Skin_SlateGray.symbolPack.prefixSymbols.2.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>crwdns421874:0crwdne421874:0</Skin_SlateGray.symbolPack.prefixSymbols.3.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>crwdns421876:0crwdne421876:0</Skin_SlateGray.symbolPack.prefixSymbols.4.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>crwdns421878:0crwdne421878:0</Skin_SlateGray.symbolPack.prefixSymbols.5.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>crwdns421880:0crwdne421880:0</Skin_SlateGray.symbolPack.prefixSymbols.6.symbol>
+  <Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>crwdns421882:0crwdne421882:0</Skin_SlateGray.symbolPack.prefixSymbols.7.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>crwdns421884:0crwdne421884:0</Skin_SlateGray.symbolPack.suffixSymbols.0.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>crwdns421886:0crwdne421886:0</Skin_SlateGray.symbolPack.suffixSymbols.1.symbol>
+  <Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>crwdns421888:0crwdne421888:0</Skin_SlateGray.symbolPack.suffixSymbols.2.symbol>
+  
+  <Tail_Furry.label>crwdns421890:0crwdne421890:0</Tail_Furry.label>
+  <Tail_Furry.description>crwdns421892:0crwdne421892:0</Tail_Furry.description>
+  
+  <Tail_Smooth.label>crwdns421894:0crwdne421894:0</Tail_Smooth.label>
+  <Tail_Smooth.description>crwdns421896:0crwdne421896:0</Tail_Smooth.description>
+</LanguageData>

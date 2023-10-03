@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BuildMonument_Basic.questDescriptionRules.rulesStrings>
+    <li>crwdns445888:0[monumentSize]crwdnd445888:0[monumentRequiredResourcesMarketValue_money]crwdnd445888:0[monumentRequiredResources]crwdnd445888:0[constructionTimeoutTicks_duration]crwdnd445888:0[dontDestroyMonument]crwdne445888:0</li>
+    <li>crwdns445890:0crwdne445890:0</li>
+    <li>crwdns445892:0[keepMonumentTicks_duration]crwdnd445892:0[asker_factionName]crwdnd445892:0[goodwillChangeIfMonumentDestroyed]crwdne445892:0</li>
+  </BuildMonument_Basic.questDescriptionRules.rulesStrings>
+</LanguageData>

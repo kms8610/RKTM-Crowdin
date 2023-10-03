@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerWorld.rulePack.rulesStrings>
+    <li>crwdns465100:0[celestial_name]crwdne465100:0</li>
+    <li>crwdns465102:0[celestial_prefix]crwdnd465102:0[celestial_name]crwdne465102:0</li>
+    <li>crwdns465104:0[celestial_name]crwdnd465104:0[celestial_suffix]crwdne465104:0</li>
+    <li>crwdns465106:0[world_name_numeric]crwdne465106:0</li>
+    <li>crwdns465108:0[world_name_numeric]crwdnd465108:0[celestial_suffix]crwdne465108:0</li>
+    <li>crwdns465110:0[celestial_name]crwdnd465110:0[RomanNumeral]crwdne465110:0</li>
+    <li>crwdns465112:0[celestial_name]crwdnd465112:0[RomanNumeral]crwdne465112:0</li>
+    <li>crwdns465114:0[celestial_name]crwdnd465114:0[numbers]crwdne465114:0</li>
+    <li>crwdns465116:0[celestial_name]crwdnd465116:0[celestial_name]crwdne465116:0</li>
+    <li>crwdns465118:0[NamePerson]crwdnd465118:0[planet]crwdne465118:0</li>
+    <li>crwdns465120:0[letters]crwdnd465120:0[numbers]crwdne465120:0</li>
+    <li>crwdns465122:0[letters]crwdnd465122:0[numbers]crwdne465122:0</li>
+    <li>crwdns465124:0[Letter]crwdne465124:0</li>
+    <li>crwdns465126:0[Letter]crwdnd465126:0[Letter]crwdne465126:0</li>
+    <li>crwdns465128:0[Letter]crwdnd465128:0[Letter]crwdnd465128:0[Letter]crwdne465128:0</li>
+    <li>crwdns465130:0[Digit]crwdne465130:0</li>
+    <li>crwdns465132:0[Digit]crwdnd465132:0[Digit]crwdne465132:0</li>
+    <li>crwdns465134:0[Digit]crwdnd465134:0[Digit]crwdnd465134:0[Digit]crwdne465134:0</li>
+    <li>crwdns465136:0crwdne465136:0</li>
+    <li>crwdns465138:0crwdne465138:0</li>
+  </NamerWorld.rulePack.rulesStrings>
+</LanguageData>

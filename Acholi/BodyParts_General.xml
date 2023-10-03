@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Brain.label>crwdns455894:0crwdne455894:0</Brain.label>
+  
+  <Ear.label>crwdns455896:0crwdne455896:0</Ear.label>
+  
+  <Eye.label>crwdns455898:0crwdne455898:0</Eye.label>
+  
+  <Foot.label>crwdns455900:0crwdne455900:0</Foot.label>
+  
+  <Head.label>crwdns455902:0crwdne455902:0</Head.label>
+  
+  <Jaw.label>crwdns455904:0crwdne455904:0</Jaw.label>
+  
+  <Leg.label>crwdns455906:0crwdne455906:0</Leg.label>
+  
+  <Neck.label>crwdns455908:0crwdne455908:0</Neck.label>
+  
+  <Nose.label>crwdns455910:0crwdne455910:0</Nose.label>
+  
+  <Ribcage.label>crwdns455912:0crwdne455912:0</Ribcage.label>
+  
+  <Skull.label>crwdns455914:0crwdne455914:0</Skull.label>
+  
+  <Spine.label>crwdns455916:0crwdne455916:0</Spine.label>
+  
+  <Tongue.label>crwdns455918:0crwdne455918:0</Tongue.label>
+  <Tongue.removeRecipeLabelOverride>crwdns455920:0crwdne455920:0</Tongue.removeRecipeLabelOverride>
+</LanguageData>

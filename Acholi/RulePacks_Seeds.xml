@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SeedGenerator.rulePack.rulesStrings>
+    <li>crwdns466112:0[NamePerson]crwdne466112:0</li>
+    <li>crwdns466114:0[Animal]crwdne466114:0</li>
+    <li>crwdns466116:0[TerrainFeature]crwdne466116:0</li>
+    <li>crwdns466118:0[PersonJob]crwdne466118:0</li>
+    <li>crwdns466120:0[Enemy]crwdne466120:0</li>
+    <li>crwdns466122:0[Gore]crwdne466122:0</li>
+    <li>crwdns466124:0[Apparel]crwdne466124:0</li>
+    <li>crwdns466126:0[AdjectiveAny]crwdne466126:0</li>
+    <li>crwdns466128:0[ConceptAny]crwdne466128:0</li>
+    <li>crwdns466130:0[Weapon]crwdne466130:0</li>
+    <li>crwdns466132:0[Color]crwdne466132:0</li>
+    <li>crwdns466134:0[Vegetable]crwdne466134:0</li>
+    <li>crwdns466136:0[Game]crwdne466136:0</li>
+    <li>crwdns466138:0[businessname]crwdne466138:0</li>
+    <li>crwdns466140:0[businesstype]crwdne466140:0</li>
+    <li>crwdns466142:0[Community]crwdne466142:0</li>
+  </SeedGenerator.rulePack.rulesStrings>
+</LanguageData>

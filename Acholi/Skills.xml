@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Level>crwdns485776:0crwdne485776:0</Level>
+  <SkillLevel>crwdns485778:0crwdne485778:0</SkillLevel>
+  <ProgressToNextLevel>crwdns485780:0crwdne485780:0</ProgressToNextLevel>
+  <Experience>crwdns485782:0crwdne485782:0</Experience>
+  <Passion>crwdns485784:0crwdne485784:0</Passion>
+  <PassionNone>crwdns485786:0crwdne485786:0</PassionNone>
+  <PassionMinor>crwdns485788:0crwdne485788:0</PassionMinor>
+  <PassionMajor>crwdns485790:0crwdne485790:0</PassionMajor>
+  <LearningSpeed>crwdns485792:0crwdne485792:0</LearningSpeed>
+  <LearnedMaxToday>crwdns485794:0{0}crwdnd485794:0{1}crwdnd485794:0{2}crwdne485794:0</LearnedMaxToday>
+  <ChildrenLearn>crwdns485796:0crwdne485796:0</ChildrenLearn>
+  <EffectsAtLevel>crwdns485798:0{0}crwdne485798:0</EffectsAtLevel>
+  <SkillMax>crwdns485800:0crwdne485800:0</SkillMax>
+  <LearnedLevel>crwdns485802:0crwdne485802:0</LearnedLevel>
+  <NegativeLevelAdjustedToZero>crwdns485804:0crwdne485804:0</NegativeLevelAdjustedToZero>
+  <LevelCappedAtMax>crwdns485806:0{0}crwdne485806:0</LevelCappedAtMax>
+  <GeneLabelWithDesc>crwdns485808:0{GENE_label}crwdne485808:0</GeneLabelWithDesc>
+
+  <Skill0>crwdns485810:0crwdne485810:0</Skill0>
+  <Skill1>crwdns485812:0crwdne485812:0</Skill1>
+  <Skill2>crwdns485814:0crwdne485814:0</Skill2>
+  <Skill3>crwdns485816:0crwdne485816:0</Skill3>
+  <Skill4>crwdns485818:0crwdne485818:0</Skill4>
+  <Skill5>crwdns485820:0crwdne485820:0</Skill5>
+  <Skill6>crwdns485822:0crwdne485822:0</Skill6>
+  <Skill7>crwdns485824:0crwdne485824:0</Skill7>
+  <Skill8>crwdns485826:0crwdne485826:0</Skill8>
+  <Skill9>crwdns485828:0crwdne485828:0</Skill9>
+  <Skill10>crwdns485830:0crwdne485830:0</Skill10>
+  <Skill11>crwdns485832:0crwdne485832:0</Skill11>
+  <Skill12>crwdns485834:0crwdne485834:0</Skill12>
+  <Skill13>crwdns485836:0crwdne485836:0</Skill13>
+  <Skill14>crwdns485838:0crwdne485838:0</Skill14>
+  <Skill15>crwdns485840:0crwdne485840:0</Skill15>
+  <Skill16>crwdns485842:0crwdne485842:0</Skill16>
+  <Skill17>crwdns485844:0crwdne485844:0</Skill17>
+  <Skill18>crwdns485846:0crwdne485846:0</Skill18>
+  <Skill19>crwdns485848:0crwdne485848:0</Skill19>
+  <Skill20>crwdns485850:0crwdne485850:0</Skill20>
+  
+</LanguageData>

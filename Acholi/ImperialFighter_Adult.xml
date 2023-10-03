@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Artilleryman28.baseDesc>crwdns445064:0[PAWN_nameDef]crwdnd445064:0[PAWN_possessive]crwdne445064:0</Artilleryman28.baseDesc>
+  <Artilleryman28.title>crwdns445066:0crwdne445066:0</Artilleryman28.title>
+  <Artilleryman28.titleFemale>crwdns445068:0crwdne445068:0</Artilleryman28.titleFemale>
+  <Artilleryman28.titleShort>crwdns445070:0crwdne445070:0</Artilleryman28.titleShort>
+  
+  <BrokenSoldier29.baseDesc>crwdns445072:0[PAWN_pronoun]crwdnd445072:0[PAWN_possessive]crwdnd445072:0[PAWN_possessive]crwdnd445072:0[PAWN_nameDef]crwdnd445072:0[PAWN_possessive]crwdnd445072:0[PAWN_objective]crwdnd445072:0[PAWN_objective]crwdnd445072:0[PAWN_possessive]crwdnd445072:0[PAWN_nameDef]crwdne445072:0</BrokenSoldier29.baseDesc>
+  <BrokenSoldier29.title>crwdns445074:0crwdne445074:0</BrokenSoldier29.title>
+  <BrokenSoldier29.titleShort>crwdns445076:0crwdne445076:0</BrokenSoldier29.titleShort>
+  
+  <Demolitionist39.baseDesc>crwdns445078:0[PAWN_nameDef]crwdnd445078:0[PAWN_objective]crwdne445078:0</Demolitionist39.baseDesc>
+  <Demolitionist39.title>crwdns445080:0crwdne445080:0</Demolitionist39.title>
+  <Demolitionist39.titleShort>crwdns445082:0crwdne445082:0</Demolitionist39.titleShort>
+  
+  <Deserter65.baseDesc>crwdns445084:0[PAWN_pronoun]crwdnd445084:0[PAWN_nameDef]crwdnd445084:0[PAWN_possessive]crwdnd445084:0[PAWN_nameDef]crwdnd445084:0[PAWN_pronoun]crwdne445084:0</Deserter65.baseDesc>
+  <Deserter65.title>crwdns445086:0crwdne445086:0</Deserter65.title>
+  <Deserter65.titleShort>crwdns445088:0crwdne445088:0</Deserter65.titleShort>
+  
+  <DisgracedOfficer19.baseDesc>crwdns445090:0[PAWN_nameDef]crwdnd445090:0[PAWN_pronoun]crwdnd445090:0[PAWN_possessive]crwdnd445090:0[PAWN_possessive]crwdnd445090:0[PAWN_nameDef]crwdnd445090:0[PAWN_pronoun]crwdne445090:0</DisgracedOfficer19.baseDesc>
+  <DisgracedOfficer19.title>crwdns445092:0crwdne445092:0</DisgracedOfficer19.title>
+  <DisgracedOfficer19.titleShort>crwdns445094:0crwdne445094:0</DisgracedOfficer19.titleShort>
+  
+  <Firebomber51.baseDesc>crwdns445096:0[PAWN_nameDef]crwdnd445096:0[PAWN_pronoun]crwdne445096:0</Firebomber51.baseDesc>
+  <Firebomber51.title>crwdns445098:0crwdne445098:0</Firebomber51.title>
+  <Firebomber51.titleShort>crwdns445100:0crwdne445100:0</Firebomber51.titleShort>
+  
+  <InfantryEngineer46.baseDesc>crwdns445102:0[PAWN_nameDef]crwdnd445102:0[PAWN_possessive]crwdne445102:0</InfantryEngineer46.baseDesc>
+  <InfantryEngineer46.title>crwdns445104:0crwdne445104:0</InfantryEngineer46.title>
+  <InfantryEngineer46.titleShort>crwdns445106:0crwdne445106:0</InfantryEngineer46.titleShort>
+  
+  <InfantryMedic6.baseDesc>crwdns445108:0[PAWN_nameDef]crwdnd445108:0[PAWN_possessive]crwdne445108:0</InfantryMedic6.baseDesc>
+  <InfantryMedic6.title>crwdns445110:0crwdne445110:0</InfantryMedic6.title>
+  <InfantryMedic6.titleShort>crwdns445112:0crwdne445112:0</InfantryMedic6.titleShort>
+  
+  <InfantryOfficer49.baseDesc>crwdns445114:0[PAWN_nameDef]crwdnd445114:0[PAWN_pronoun]crwdnd445114:0[PAWN_possessive]crwdne445114:0</InfantryOfficer49.baseDesc>
+  <InfantryOfficer49.title>crwdns445116:0crwdne445116:0</InfantryOfficer49.title>
+  <InfantryOfficer49.titleShort>crwdns445118:0crwdne445118:0</InfantryOfficer49.titleShort>
+  
+  <IntelligenceAgent21.baseDesc>crwdns445120:0[PAWN_nameDef]crwdne445120:0</IntelligenceAgent21.baseDesc>
+  <IntelligenceAgent21.title>crwdns445122:0crwdne445122:0</IntelligenceAgent21.title>
+  <IntelligenceAgent21.titleShort>crwdns445124:0crwdne445124:0</IntelligenceAgent21.titleShort>
+  
+  <LineInfanteer20.baseDesc>crwdns445126:0[PAWN_nameDef]crwdnd445126:0[PAWN_nameDef]crwdnd445126:0[PAWN_possessive]crwdnd445126:0[PAWN_pronoun]crwdnd445126:0[PAWN_objective]crwdne445126:0</LineInfanteer20.baseDesc>
+  <LineInfanteer20.title>crwdns445128:0crwdne445128:0</LineInfanteer20.title>
+  <LineInfanteer20.titleShort>crwdns445130:0crwdne445130:0</LineInfanteer20.titleShort>
+  
+  <LoyalJanissary59.baseDesc>crwdns445132:0[PAWN_nameDef]crwdnd445132:0[PAWN_pronoun]crwdnd445132:0[PAWN_pronoun]crwdnd445132:0[PAWN_possessive]crwdnd445132:0[PAWN_pronoun]crwdnd445132:0[PAWN_possessive]crwdne445132:0</LoyalJanissary59.baseDesc>
+  <LoyalJanissary59.title>crwdns445134:0crwdne445134:0</LoyalJanissary59.title>
+  <LoyalJanissary59.titleShort>crwdns445136:0crwdne445136:0</LoyalJanissary59.titleShort>
+  
+  <MilitaryChaplain10.baseDesc>crwdns445138:0[PAWN_nameDef]crwdnd445138:0[PAWN_pronoun]crwdnd445138:0[PAWN_objective]crwdnd445138:0[PAWN_pronoun]crwdne445138:0</MilitaryChaplain10.baseDesc>
+  <MilitaryChaplain10.title>crwdns445140:0crwdne445140:0</MilitaryChaplain10.title>
+  <MilitaryChaplain10.titleShort>crwdns445142:0crwdne445142:0</MilitaryChaplain10.titleShort>
+  
+  <MilitaryCommissar71.baseDesc>crwdns445144:0[PAWN_nameDef]crwdnd445144:0[PAWN_pronoun]crwdnd445144:0[PAWN_objective]crwdnd445144:0[PAWN_pronoun]crwdne445144:0</MilitaryCommissar71.baseDesc>
+  <MilitaryCommissar71.title>crwdns445146:0crwdne445146:0</MilitaryCommissar71.title>
+  <MilitaryCommissar71.titleShort>crwdns445148:0crwdne445148:0</MilitaryCommissar71.titleShort>
+  
+  <MilitaryCook18.baseDesc>crwdns445150:0[PAWN_nameDef]crwdnd445150:0[PAWN_possessive]crwdnd445150:0[PAWN_objective]crwdne445150:0</MilitaryCook18.baseDesc>
+  <MilitaryCook18.title>crwdns445152:0crwdne445152:0</MilitaryCook18.title>
+  <MilitaryCook18.titleShort>crwdns445154:0crwdne445154:0</MilitaryCook18.titleShort>
+  
+  <PiousSoldier67.baseDesc>crwdns445156:0[PAWN_nameDef]crwdnd445156:0[PAWN_pronoun]crwdnd445156:0[PAWN_possessive]crwdnd445156:0[PAWN_possessive]crwdnd445156:0[PAWN_possessive]crwdne445156:0</PiousSoldier67.baseDesc>
+  <PiousSoldier67.title>crwdns445158:0crwdne445158:0</PiousSoldier67.title>
+  <PiousSoldier67.titleShort>crwdns445160:0crwdne445160:0</PiousSoldier67.titleShort>
+  
+  <Propagandist86.baseDesc>crwdns445162:0[PAWN_nameDef]crwdnd445162:0[PAWN_pronoun]crwdnd445162:0[PAWN_possessive]crwdne445162:0</Propagandist86.baseDesc>
+  <Propagandist86.title>crwdns445164:0crwdne445164:0</Propagandist86.title>
+  <Propagandist86.titleShort>crwdns445166:0crwdne445166:0</Propagandist86.titleShort>
+  
+  <ReconSniper89.baseDesc>crwdns445168:0[PAWN_nameDef]crwdnd445168:0[PAWN_pronoun]crwdnd445168:0[PAWN_possessive]crwdne445168:0</ReconSniper89.baseDesc>
+  <ReconSniper89.title>crwdns445170:0crwdne445170:0</ReconSniper89.title>
+  <ReconSniper89.titleShort>crwdns445172:0crwdne445172:0</ReconSniper89.titleShort>
+  
+  <RoyalGuard51.baseDesc>crwdns445174:0[PAWN_nameDef]crwdnd445174:0[PAWN_nameDef]crwdnd445174:0[PAWN_pronoun]crwdne445174:0</RoyalGuard51.baseDesc>
+  <RoyalGuard51.title>crwdns445176:0crwdne445176:0</RoyalGuard51.title>
+  <RoyalGuard51.titleShort>crwdns445178:0crwdne445178:0</RoyalGuard51.titleShort>
+  
+  <Shipcracker37.baseDesc>crwdns445180:0[PAWN_nameDef]crwdnd445180:0[PAWN_pronoun]crwdnd445180:0[PAWN_pronoun]crwdnd445180:0[PAWN_pronoun]crwdne445180:0</Shipcracker37.baseDesc>
+  <Shipcracker37.title>crwdns445182:0crwdne445182:0</Shipcracker37.title>
+  <Shipcracker37.titleShort>crwdns445184:0crwdne445184:0</Shipcracker37.titleShort>
+  
+  <Warmonger35.baseDesc>crwdns445186:0[PAWN_nameDef]crwdnd445186:0[PAWN_objective]crwdnd445186:0[PAWN_possessive]crwdnd445186:0[PAWN_nameDef]crwdnd445186:0[PAWN_pronoun]crwdne445186:0</Warmonger35.baseDesc>
+  <Warmonger35.title>crwdns445188:0crwdne445188:0</Warmonger35.title>
+  <Warmonger35.titleShort>crwdns445190:0crwdne445190:0</Warmonger35.titleShort>
+</LanguageData>

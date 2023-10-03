@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ExciseCarcinoma.label>암 절제</ExciseCarcinoma.label>
+  <ExciseCarcinoma.description>암 조직을 제거합니다.</ExciseCarcinoma.description>
+  <ExciseCarcinoma.jobString>암 절제 중.</ExciseCarcinoma.jobString>
+  <ExciseCarcinoma.successfullyRemovedHediffMessage>{0}(이)가 집도한 {1}의 암 수술이 성공적으로 끝났습니다.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+</LanguageData>

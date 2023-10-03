@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CaravanAmbushDefeated.label>상단 매복 격퇴</CaravanAmbushDefeated.label>
+  <CaravanAmbushDefeated.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 상단의 성공적인 방어</li>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 매복을 격퇴함</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]가 저항함</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]가 [Weapon]를 방어적으로 들어올림</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]가 [PAWN_possessive]를 [Weapon]로 보복함</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]가 건물처럼 우뚝 일어섬</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]는 [AdjectiveBadass] 표정을 지음</li>
+    <li>image->[circumstance_group] 동안 [PAWN_nameFull]는 [AdjectiveAngsty] 표정을 지음</li>
+    <li>circumstance_phrase->달려오는 무리들에 대비하는</li>
+    <li>circumstance_phrase->화물 주위를 빙빙 도는</li>
+    <li>circumstance_phrase->승리의 함성을 지르는</li>
+    <li>circumstance_phrase->[Weapon]를 휘두르는</li>
+    <li>circumstance_phrase->[Gore]로 뒤덮이는</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들이 달려오며, [Weapon]를 휘두르고 있습니다.</li>
+    <li>desc_sentence->거대한 [Enemy]이 달려오며, [Weapon]를 휘두르고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들이 [AdjectiveBadass] 눈빛으로 달려오고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들이 [AdjectiveAngsty] 눈빛으로 달려오고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 [Color]으로 빛나는 눈빛으로 달려오고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 [Gore]로 뒤덮여 달려오고 있습니다.</li>
+    <li>desc_sentence->대지는 [Gore]로 뒤덮여있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 그 지역에서 도망칩니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 그 지역에서 도망칩니다.</li>
+  </CaravanAmbushDefeated.rulePack.rulesStrings>
+  
+  <CaravanAssaultSuccessful.label>상단 습격 성공</CaravanAssaultSuccessful.label>
+  <CaravanAssaultSuccessful.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 적의 거점을 격퇴함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [Enemy]에게 달려감</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [Weapon]를 들어올림</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [Weapon]를 휘저음</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 건물처럼 우뚝 일어섬</li>
+    <li>circumstance_phrase->[PAWN_possessive]눈에 [AdjectiveBadass] 눈빛을 보이는</li>
+    <li>circumstance_phrase->[PAWN_possessive]눈에 [AdjectiveAngsty] 눈빛을 보이는</li>
+    <li>circumstance_phrase->승리의 함성을 지르는</li>
+    <li>circumstance_phrase->[Gore]로 뒤덮이는</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 공격에 움츠려 들었습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 그 지역에서 도망칩니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 눈에 띄게 상처입었습니다.</li>
+    <li>desc_sentence->멀리서 [Community]가 타오릅니다.</li>
+    <li>desc_sentence->멀리서 [Community]에 연기가 피어오릅니다.</li>
+    <li>desc_sentence->대지는 [Gore]로 뒤덮여있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 그 지역에서 도망칩니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 그 지역에서 도망칩니다.</li>
+  </CaravanAssaultSuccessful.rulePack.rulesStrings>
+  
+  <CaravanFled.label>상단 퇴각</CaravanFled.label>
+  <CaravanFled.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 위험에서 도망감</li>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 위험을 모면함</li>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 가까스로 위험을 모면함</li>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 적들에게 추적당함</li>
+    <li>image->[PAWN_nameFull]는  [circumstance_group] 미친듯이 달려감</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 전력질주함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [TerrainFeature]뒤에 숨음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 퇴로를 생각함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 아무생각 없이 떠돌아다님</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [Enemy]들이 추적하기 때문에</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [Enemy]들이 수색하는 동안</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] [Enemy]들로 부터</li>
+    <li>circumstance_phrase->[Quantity_adjphrase] 적대적인 [Animal]들로 부터</li>
+    <li>circumstance_phrase->[AdjectiveLarge] [Enemy]로 부터</li>
+    <li>desc_sentence->[PAWN_nameDef]의 추적자들은 [Weapon]를 휘두르고 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 추적자들은 [Color] 연기에 휩싸여 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 추적자들은 [AdjectiveAngsty] 표정을 짓고있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 추적자들은 [Weapon]를 휘두르고 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 땀을 흘리고 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 숨을 헐떡이고 있습니다.</li>
+  </CaravanFled.rulePack.rulesStrings>
+  
+  <CaravanFormed.label>상단 구성</CaravanFormed.label>
+  <CaravanFormed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 모험을 위해 출발함</li>
+    <li>tale_noun->[PAWN_nameDef]는 상단을 구성함</li>
+    <li>image->[PAWN_nameFull]는 결의에 차 앞으로 나아감 [circumstance_group]</li>
+    <li>image->[PAWN_nameFull]는 지평선을 바라봄 [circumstance_group]</li>
+    <li>image->[PAWN_nameFull]는 여행용 보급품 적재 중 [circumstance_group]</li>
+    <li>image->[PAWN_nameFull]는 여행을 계획중 [circumstance_group]</li>
+    <li>circumstance_phrase->그리고 싸울 준비가 되어있음</li>
+    <li>circumstance_phrase->그리고 생존할 준비가 되어있음</li>
+    <li>circumstance_phrase->그리고 탐험할 준비가 되어있음</li>
+    <li>circumstance_phrase->[PAWN_possessive] 눈에서 열망하는 눈빛이 함께함</li>
+    <li>circumstance_phrase->[PAWN_possessive] 눈에서 [AdjectiveAny]의 눈빛이 함께함</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]들은 준비상황을 지켜보는 중입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]들은 준비상황을 도와줍니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Enemy]들은 현장에서 움츠러듭니다.</li>
+    <li>desc_sentence->멀리서 [TerrainFeature]가 보입니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [PersonJob]들은 멀리서 지켜봅니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들은 평화롭게 배회합니다.</li>
+  </CaravanFormed.rulePack.rulesStrings>
+  
+  <CaravanRemoteMining.label>상단 원격 채굴</CaravanRemoteMining.label>
+  <CaravanRemoteMining.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 상단이 [MATERIAL_label]가 풍부한 외지에서 채굴함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 채굴도구로 [MATERIAL_label]벽을 작업함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group]  [MATERIAL_label]의 덩어리를 들어올림</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 벽에 기대 쉬고있음</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 풍부한 광맥에 대비하여 발군단을 조정함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] [MATERIAL_label]의 풍부한 광맥을 주의깊게 조사함</li>
+    <li>circumstance_phrase->진땀을 흘리며</li>
+    <li>circumstance_phrase->[AdjectiveFriendly] 표정을 지으며</li>
+    <li>circumstance_phrase->자랑스럽게 웃으며</li>
+    <li>circumstance_phrase->[PAWN_possessive] 얼굴의 만족스러운 표정으로</li>
+    <li>circumstance_phrase->위험을 경계하여 두리번 거리며</li>
+    <li>desc_sentence->[Quantity_adjphrase] [ally]들이 도와줍니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] [Animal]들이 지역을 배회합니다.</li>
+    <li>desc_sentence->뒤에 임시 거처가 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 먼곳에 더 많은 광맥이 보입니다.</li>
+    <li>desc_sentence->멀리서 [TerrainFeature]가 보입니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 작업으로 인해 땀에 젖고 더럽습니다.</li>
+  </CaravanRemoteMining.rulePack.rulesStrings>
+</LanguageData>

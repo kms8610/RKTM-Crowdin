@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerFactionEmpire.rulePack.rulesStrings>
+    <li>r_name(p=2)->[ofThing] [empire]</li>
+    <li>r_name(p=2)->[ofThing] [empire]</li>
+    <li>r_name->붕괴된 [empire]</li>
+    <li>r_name->난민 [empire]</li>
+    <li>r_name->무너진 [empire]</li>
+    <li>r_name->와해된 [empire]</li>
+    <li>r_name->몰락한 [empire]</li>
+    <li>r_name->[Color] [empire]</li>
+    <li>empire(p=4)->제국</li>
+    <li>empire->연방국</li>
+    <li>empire->초대국</li>
+    <li>empire->자치령</li>
+    <li>empire->자주국</li>
+    <li>ofThing(p=4)->[WordImperial]</li>
+    <li>ofThing->태양의</li>
+    <li>ofThing->달의</li>
+    <li>ofThing->은하</li>
+    <li>ofThing->하늘</li>
+    <li>ofThing->완전한</li>
+    <li>ofThing->영원한</li>
+    <li>ofThing->성령</li>
+  </NamerFactionEmpire.rulePack.rulesStrings>
+  
+  <NamerPersonSophian.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameLast] [ImperialNameFirstMale]</li>
+    <li>r_name(p=2)->[WordImperial] [ImperialNameFirstMale]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophian.rulePack.rulesStrings>
+  
+  <NamerPersonSophianFemale.rulePack.rulesStrings>
+    <li>r_name(p=3)->[ImperialNameLast] [ImperialNameFirstFemale]</li>
+    <li>r_name(p=2)->[WordImperial] [ImperialNameFirstFemale]</li>
+    <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
+  
+  <NamerSettlementEmpire.rulePack.rulesStrings>
+    <li>r_name->[townname_wordgen]</li>
+    <li>r_name->[townname_fixed]</li>
+    <li>townname_wordgen->[WordImperial]</li>
+    <li>townname_wordgen->[WordImperial][townend]</li>
+    <li>townend(p=3)->아이움</li>
+    <li>townend(p=3)->아이오르</li>
+    <li>townend(p=3)->폴리스</li>
+    <li>townend->놀</li>
+    <li>townend->란</li>
+    <li>townend->락스</li>
+    <li>townend->릭스</li>
+    <li>townend->린</li>
+    <li>townend->리안</li>
+    <li>townend->프룸</li>
+    <li>townend->포르</li>
+    <li>townend->테오</li>
+    <li>townend->오플</li>
+    <li>townend->오피움</li>
+    <li>townend->오르</li>
+    <li>townend->아이토르</li>
+    <li>townend->에이움</li>
+    <li>townend->아이티움</li>
+    <li>townend->아엠</li>
+    <li>townend->에이움</li>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
+</LanguageData>

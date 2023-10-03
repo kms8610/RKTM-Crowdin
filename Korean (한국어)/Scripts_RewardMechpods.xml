@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>dangersDescription(priority=1)->\n\nThe pods contain these dangers:\n\n[allThreats]</li>
+    <li>dangersDescription-></li>
+    <li>questDescription(asker_factionLeader==True)->[asker_faction_name]의 [asker_faction_leaderTitle], [asker_nameDef](이)가 요청 중입니다. [commonMainPart]</li>
+    <li>questDescription(asker_royalInCurrentFaction==True)->[asker_faction_name]의 [asker_royalTitleInCurrentFaction], [asker_nameDef](이)가 요청 중입니다. [commonMainPart]</li>
+    <li>commonMainPart->A mechanoid swarm has been attacking [asker_possessive] settlements. [asker_pronoun] wants you to signal the mechs to distract them while [asker_pronoun] clears the hive. If you do, (*Threat)a mechanoid cluster(/Threat) will land at [map_definite].[dangersDescription]\n\nThe mechanoid cluster will be initially dormant. It may have a countdown activator, or it may stay dormant forever until disturbed.[helpersParagraph]</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>questName->[menace] 전초기지</li>
+    <li>questName->[menace] 포드</li>
+    <li>questName->[nameBased]</li>
+    <li>nameBased->[asker_nameDef]의 메카</li>
+    <li>nameBased->[asker_nameDef]의 메카노이드들</li>
+    <li>nameBased->[asker_nameDef]의 메카 전초기지</li>
+    <li>nameBased->[asker_nameDef]의 [menace] 메카</li>
+    <li>menace->위협적인</li>
+    <li>menace->성가신</li>
+    <li>menace->괴로운</li>
+    <li>menace->위험한</li>
+    <li>menace->두려운</li>
+    <li>menace->무서운</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

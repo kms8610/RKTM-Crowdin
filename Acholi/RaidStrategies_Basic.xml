@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ImmediateAttack.arrivalTextEnemy>crwdns461568:0crwdne461568:0</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextFriendly>crwdns461570:0crwdne461570:0</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.letterLabelEnemy>crwdns461572:0crwdne461572:0</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelFriendly>crwdns461574:0crwdne461574:0</ImmediateAttack.letterLabelFriendly>
+  
+  <ImmediateAttackFriendly.arrivalTextEnemy>crwdns461576:0crwdne461576:0</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextFriendly>crwdns461578:0crwdne461578:0</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.letterLabelEnemy>crwdns461580:0crwdne461580:0</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelFriendly>crwdns461582:0crwdne461582:0</ImmediateAttackFriendly.letterLabelFriendly>
+  
+  <ImmediateAttackSmart.arrivalTextEnemy>crwdns461584:0crwdne461584:0</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextFriendly>crwdns461586:0crwdne461586:0</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.letterLabelEnemy>crwdns461588:0crwdne461588:0</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelFriendly>crwdns461590:0crwdne461590:0</ImmediateAttackSmart.letterLabelFriendly>
+  
+  <StageThenAttack.arrivalTextEnemy>crwdns461592:0crwdne461592:0</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextFriendly>crwdns461594:0crwdne461594:0</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.letterLabelEnemy>crwdns461596:0crwdne461596:0</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelFriendly>crwdns461598:0crwdne461598:0</StageThenAttack.letterLabelFriendly>
+</LanguageData>

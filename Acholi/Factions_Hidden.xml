@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Ancients.label>crwdns456760:0crwdne456760:0</Ancients.label>
+  <Ancients.fixedName>crwdns456762:0crwdne456762:0</Ancients.fixedName>
+  <Ancients.leaderTitle>crwdns456764:0crwdne456764:0</Ancients.leaderTitle>
+  <Ancients.pawnSingular>crwdns456766:0crwdne456766:0</Ancients.pawnSingular>
+  <Ancients.pawnsPlural>crwdns456768:0crwdne456768:0</Ancients.pawnsPlural>
+  
+  <AncientsHostile.label>crwdns456770:0crwdne456770:0</AncientsHostile.label>
+  <AncientsHostile.fixedName>crwdns456772:0crwdne456772:0</AncientsHostile.fixedName>
+  <AncientsHostile.leaderTitle>crwdns456774:0crwdne456774:0</AncientsHostile.leaderTitle>
+  <AncientsHostile.pawnSingular>crwdns456776:0crwdne456776:0</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnsPlural>crwdns456778:0crwdne456778:0</AncientsHostile.pawnsPlural>
+  
+  <Insect.label>crwdns456780:0crwdne456780:0</Insect.label>
+  <Insect.description>crwdns456782:0crwdne456782:0</Insect.description>
+  <Insect.fixedName>crwdns456784:0crwdne456784:0</Insect.fixedName>
+  <Insect.leaderTitle>crwdns456786:0crwdne456786:0</Insect.leaderTitle>
+  <Insect.pawnSingular>crwdns456788:0crwdne456788:0</Insect.pawnSingular>
+  <Insect.pawnsPlural>crwdns456790:0crwdne456790:0</Insect.pawnsPlural>
+  
+  <Mechanoid.label>crwdns456792:0crwdne456792:0</Mechanoid.label>
+  <Mechanoid.description>crwdns456794:0crwdne456794:0</Mechanoid.description>
+  <Mechanoid.leaderTitle>crwdns456796:0crwdne456796:0</Mechanoid.leaderTitle>
+  <Mechanoid.pawnSingular>crwdns456798:0crwdne456798:0</Mechanoid.pawnSingular>
+  <Mechanoid.pawnsPlural>crwdns456800:0crwdne456800:0</Mechanoid.pawnsPlural>
+</LanguageData>

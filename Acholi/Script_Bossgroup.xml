@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bossgroup.questContentRules.rulesStrings>
+    <li>crwdns424912:0[escortees0_label]crwdnd424912:0[reward_label]crwdne424912:0</li>
+    <li>crwdns424914:0[defeated]crwdnd424914:0[study]crwdnd424914:0[manufacture]crwdne424914:0</li>
+    <li>crwdns424916:0[defeated]crwdnd424916:0[manufacture]crwdne424916:0</li>
+    <li>crwdns424918:0[escortees0_label]crwdnd424918:0[reward_label]crwdne424918:0</li>
+    <li>crwdns424920:0crwdne424920:0</li>
+    <li>crwdns424922:0[reward_label]crwdnd424922:0[reward_label]crwdne424922:0</li>
+  </Bossgroup.questContentRules.rulesStrings>
+  <Bossgroup.questDescriptionRules.rulesStrings>
+    <li>crwdns424924:0crwdne424924:0</li>
+  </Bossgroup.questDescriptionRules.rulesStrings>
+  <Bossgroup.questNameRules.rulesStrings>
+    <li>crwdns424926:0crwdne424926:0</li>
+  </Bossgroup.questNameRules.rulesStrings>
+</LanguageData>

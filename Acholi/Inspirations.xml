@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Frenzy_Go.label>crwdns458802:0crwdne458802:0</Frenzy_Go.label>
+  <Frenzy_Go.baseInspectLine>crwdns458804:0crwdne458804:0</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>crwdns458806:0[PAWN_pronoun]crwdne458806:0</Frenzy_Go.beginLetter>
+  <Frenzy_Go.endMessage>crwdns458808:0{0}crwdne458808:0</Frenzy_Go.endMessage>
+  
+  <Frenzy_Shoot.label>crwdns458810:0crwdne458810:0</Frenzy_Shoot.label>
+  <Frenzy_Shoot.baseInspectLine>crwdns458812:0crwdne458812:0</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>crwdns458814:0[PAWN_pronoun]crwdne458814:0</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.endMessage>crwdns458816:0{0}crwdne458816:0</Frenzy_Shoot.endMessage>
+  
+  <Frenzy_Work.label>crwdns458818:0crwdne458818:0</Frenzy_Work.label>
+  <Frenzy_Work.baseInspectLine>crwdns458820:0crwdne458820:0</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>crwdns458822:0[PAWN_pronoun]crwdne458822:0</Frenzy_Work.beginLetter>
+  <Frenzy_Work.endMessage>crwdns458824:0{0}crwdne458824:0</Frenzy_Work.endMessage>
+  
+  <Inspired_Creativity.label>crwdns458826:0crwdne458826:0</Inspired_Creativity.label>
+  <Inspired_Creativity.baseInspectLine>crwdns458828:0crwdne458828:0</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>crwdns458830:0[PAWN_pronoun]crwdne458830:0</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.endMessage>crwdns458832:0{0}crwdne458832:0</Inspired_Creativity.endMessage>
+  
+  <Inspired_Recruitment.label>crwdns458834:0crwdne458834:0</Inspired_Recruitment.label>
+  <Inspired_Recruitment.baseInspectLine>crwdns458836:0crwdne458836:0</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>crwdns458838:0[PAWN_pronoun]crwdne458838:0</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.endMessage>crwdns458840:0{0}crwdne458840:0</Inspired_Recruitment.endMessage>
+  
+  <Inspired_Surgery.label>crwdns458842:0crwdne458842:0</Inspired_Surgery.label>
+  <Inspired_Surgery.baseInspectLine>crwdns458844:0crwdne458844:0</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>crwdns458846:0[PAWN_pronoun]crwdnd458846:0[PAWN_possessive]crwdne458846:0</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.endMessage>crwdns458848:0{0}crwdne458848:0</Inspired_Surgery.endMessage>
+  
+  <Inspired_Taming.label>crwdns458850:0crwdne458850:0</Inspired_Taming.label>
+  <Inspired_Taming.baseInspectLine>crwdns458852:0crwdne458852:0</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.beginLetter>crwdns458854:0[PAWN_pronoun]crwdne458854:0</Inspired_Taming.beginLetter>
+  <Inspired_Taming.endMessage>crwdns458856:0{0}crwdne458856:0</Inspired_Taming.endMessage>
+  
+  <Inspired_Trade.label>crwdns458858:0crwdne458858:0</Inspired_Trade.label>
+  <Inspired_Trade.baseInspectLine>crwdns458860:0crwdne458860:0</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>crwdns458862:0[PAWN_pronoun]crwdnd458862:0[PAWN_possessive]crwdne458862:0</Inspired_Trade.beginLetter>
+  <Inspired_Trade.endMessage>crwdns458864:0{0}crwdne458864:0</Inspired_Trade.endMessage>
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+    <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Count of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Count means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Count.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
+    <li>intro(sameQuestsCount==0)->이 행성을 탈출하는 방법을 배웠습니다!\n\n</li>
+    <li>intro(sameQuestsCount>=1)->왕실의 승인을 받을 기회가 생겼습니다.\n\n</li>
+    <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\n적대적 세력들은 [asker_faction_leaderTitle](을)를 죽일 수 있는 좋은 기회를 놓치려 하지 않을 것입니다. 방어를 준비하세요.</li>
+    <li>threatsInfo-></li>
+  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+  <EndGame_RoyalAscent.questNameRules.rulesStrings>
+    <li>questName(sameQuestsCount==0)->왕실의 승인</li>
+    <li>questName(sameQuestsCount>=1)->왕[titleEnd]</li>
+    <li>titleEnd->실의 승인</li>
+    <li>titleEnd->의 승천</li>
+    <li>titleEnd->의 방문</li>
+    <li>titleEnd->실 내빈</li>
+    <li>titleEnd->실 접대</li>
+    <li>titleEnd->의 승리</li>
+  </EndGame_RoyalAscent.questNameRules.rulesStrings>
+  <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>임무 실패: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
+  <EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>[faction_name](이)가 적대로 돌아섰습니다. </EndGame_RoyalAscent.LetterTextFactionBecameHostile.slateRef>
+  <EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>asker.NoLongerFactionLeader</EndGame_RoyalAscent.root.nodes.ReplaceLostLeaderReferences.inSignal.slateRef>
+  <EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>[asker_faction_leaderTitle] 도착</EndGame_RoyalAscent.LetterLabelAskerArrived.value.slateRef>
+  <EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>[asker_faction_name]의 [asker_faction_leaderTitle](이)가 도착했습니다.\n\n왕복선이 도착할 때까지 [shuttleDelayTicks_duration] 동안 보호하고 왕실의 요구를 충족시키세요.\n\n[asker_faction_leaderTitle](와)과 모두 동행하여 제국의 소함선으로 이동하여 새로운 삶을 시작할 수 있습니다.</EndGame_RoyalAscent.LetterTextAskerArrived.value.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>내빈객 사망: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestDied.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestDied.slateRef>보호 임무를 맡은 {SUBJECT_definite}(이)가 사망했습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestDied.slateRef>
+  <EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>왕복선에 탑승해야 함</EndGame_RoyalAscent.InspectStringDepartShuttle.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>왕복선 도착</EndGame_RoyalAscent.LetterLabelShuttleArrived.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>왕복선이 [asker_faction_leaderTitle](을)를 데려가기 위해 도착했습니다.\n\n[asker_faction_leaderTitle](와)과 모두 동행하여 제국의 소함선으로 이동하여 새로운 삶을 시작할 수 있습니다.</EndGame_RoyalAscent.LetterTextShuttleArrived.slateRef>
+  <EndGame_RoyalAscent.EndGameEndingText.slateRef>항성군주는 자신의 함선에 마련된 영광스런 귀족의 전당에 당신을 초대했습니다.\n\n당신은 제국에 완전히 합류하여 권력을 위해 투쟁할 수 있습니다. 아니면, 복잡한 정치 놀음을 피해 번화계의 사치와 쾌락을 누릴 수도 있습니다. 또는, 함선을 구입하여 오랜 시간 돌아가지 못했던 집으로 돌아갈 방법을 궁리할 수도 있습니다.\n\n미래는 모두 당신에게 달려있습니다.</EndGame_RoyalAscent.EndGameEndingText.slateRef>
+  <EndGame_RoyalAscent.EndGameIntroText.slateRef>제국의 왕복선을 타고 탈출했습니다!</EndGame_RoyalAscent.EndGameIntroText.slateRef>
+  <EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>불행한 {SUBJECT_bestRoyalTitle}</EndGame_RoyalAscent.LetterLabelSubjectUnhappy.slateRef>
+  <EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>기분을 유지하고 보호 임무를 받은 {SUBJECT_definite}의 기분이 오랫동안 최소 수치인 [lodgersMoodThreshold] 보다 낮았습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextSubjectUnhappy.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>포획된 내빈객: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>보호 임무를 맡은 {SUBJECT_definite}(이)가 잡혀갔습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestCaptured.slateRef>
+  <EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>승인되지 않은 수술: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelUnauthorizedSurgery.slateRef>
+  <EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>보호해야 될 {SUBJECT_definite}에게 승인되지 않은 수술이 실행되었습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextUnauthorizedSurgery.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>Xenogerm absorbed: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>{SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. [failLetterEndingCommon]</EndGame_RoyalAscent.root.nodes.lodgersXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>내빈객 실종: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterTextGuestLost.slateRef>보호해야 될 {SUBJECT_definite}(이)가 지정된 정착지에서 떠났습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextGuestLost.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>파괴된 왕복선</EndGame_RoyalAscent.LetterLabelShuttleDestroyed.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>[asker_faction_leaderTitle](을)를 데리러 온 왕복선이 파괴되었습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleDestroyed.slateRef>
+  <EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>내빈객 실종: {SUBJECT_definite}</EndGame_RoyalAscent.LetterLabelLodgerRanWild.slateRef>
+  <EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>보호하기로 한 {SUBJECT_definite}(이)가 야생으로 뛰쳐나갔습니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextLodgerRanWild.slateRef>
+  <EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>임무 실패: [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelShuttleSentUnsatisfied.slateRef>
+  <EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>[asker_faction_leaderTitle](을)를 데리러 온 왕복선이 [asker_objective] 태우지 않고 떠났습니다. [asker_pronoun]는 걸어서 떠납니다. [failLetterEndingCommon]</EndGame_RoyalAscent.LetterTextShuttleSentUnsatisfied.slateRef>
+</LanguageData>

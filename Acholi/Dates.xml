@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClockTime>crwdns477622:0crwdne477622:0</ClockTime>
+  <ClockDate>crwdns477624:0crwdne477624:0</ClockDate>
+  <ClockYear>crwdns477626:0crwdne477626:0</ClockYear>
+  <DateReadoutTip>crwdns477628:0{0}crwdnd477628:0{4}crwdnd477628:0{2}crwdnd477628:0{3}crwdnd477628:0{5}crwdne477628:0</DateReadoutTip>
+
+  <FullDate>crwdns477630:0{0}crwdnd477630:0{1}crwdnd477630:0{2}crwdne477630:0</FullDate>
+  <ShortDate>crwdns477632:0{0}crwdnd477632:0{1}crwdnd477632:0{2}crwdne477632:0</ShortDate>
+  <DateReadout>crwdns477634:0{0}crwdnd477634:0{1}crwdnd477634:0{2}crwdne477634:0</DateReadout>
+  <SeasonFullDate>crwdns477636:0{0}crwdnd477636:0{1}crwdne477636:0</SeasonFullDate>
+  <WholeYear>crwdns477638:0crwdne477638:0</WholeYear>
+  
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <WordOfInspiration.label>영감의 단어</WordOfInspiration.label>
+  <WordOfInspiration.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 초능력으로 [RECIPIENT_nameDef]에게 영감을 줌.</li>
+  </WordOfInspiration.logRulesInitiator.rulesStrings>
+  
+  <WordOfJoy.label>오락의 단어</WordOfJoy.label>
+  <WordOfJoy.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 초능력으로 [RECIPIENT_nameDef]에게 평온함을 느끼게 함.</li>
+  </WordOfJoy.logRulesInitiator.rulesStrings>
+  
+  <WordOfLove.label>사랑의 단어</WordOfLove.label>
+  <WordOfLove.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 초능력으로 [RECIPIENT_nameDef]에게 새로운 연애 욕망을 부여함.</li>
+  </WordOfLove.logRulesInitiator.rulesStrings>
+  
+  <WordOfSerenity.label>평온의 단어</WordOfSerenity.label>
+  <WordOfSerenity.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는 초능력으로 [RECIPIENT_nameDef]이 정신이상에서 회복할 수 있도록 함.</li>
+  </WordOfSerenity.logRulesInitiator.rulesStrings>
+  
+  <WordOfTrust.label>신뢰의 단어</WordOfTrust.label>
+  <WordOfTrust.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef](은)는초능력으로  [RECIPIENT_nameDef]의 경계심을 누그러뜨림.</li>
+  </WordOfTrust.logRulesInitiator.rulesStrings>
+</LanguageData>

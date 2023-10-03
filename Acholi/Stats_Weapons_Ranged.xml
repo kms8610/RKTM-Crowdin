@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AccuracyLong.label>crwdns467320:0crwdne467320:0</AccuracyLong.label>
+  <AccuracyLong.description>crwdns467322:0crwdne467322:0</AccuracyLong.description>
+  
+  <AccuracyMedium.label>crwdns467324:0crwdne467324:0</AccuracyMedium.label>
+  <AccuracyMedium.description>crwdns467326:0crwdne467326:0</AccuracyMedium.description>
+  
+  <AccuracyShort.label>crwdns467328:0crwdne467328:0</AccuracyShort.label>
+  <AccuracyShort.description>crwdns467330:0crwdne467330:0</AccuracyShort.description>
+  
+  <AccuracyTouch.label>crwdns467332:0crwdne467332:0</AccuracyTouch.label>
+  <AccuracyTouch.description>crwdns467334:0crwdne467334:0</AccuracyTouch.description>
+  
+  <RangedWeapon_Cooldown.label>crwdns467336:0crwdne467336:0</RangedWeapon_Cooldown.label>
+  <RangedWeapon_Cooldown.description>crwdns467338:0crwdne467338:0</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.formatString>crwdns467340:0{0}crwdne467340:0</RangedWeapon_Cooldown.formatString>
+  
+  <RangedWeapon_DamageMultiplier.label>crwdns467342:0crwdne467342:0</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_DamageMultiplier.description>crwdns467344:0crwdne467344:0</RangedWeapon_DamageMultiplier.description>
+</LanguageData>

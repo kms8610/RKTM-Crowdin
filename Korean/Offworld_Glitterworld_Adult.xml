@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Architect28.baseDesc>{PAWN_nameDef}(은)는 건물을 설계하고 건설했습니다. {PAWN_possessive} 고향 번화계에서는 건축의 기술적 측면 대부분은 인공지능이 처리했으므로, {PAWN_pronoun}는 기술적 한계를 넘어 예술을 추구할 수 있었지만 현장에서 자신의 손을 더럽힐 일은 한 번도 없었습니다.</Architect28.baseDesc>
+  <Architect28.title>건축가</Architect28.title>
+  <Architect28.titleShort>건축가</Architect28.titleShort>
+  
+  <BiosphereManager95.baseDesc>{PAWN_nameDef}(은)는 하찮은 일은 모두 로봇이 하고 사람들은 여가에 일생을 쏟는, 평화로운 번화계에서 태어났습니다. {PAWN_pronoun}는 사람들이 자연의 아름다움을 감상하곤 했던 거대한 공원에서 동식물의 생태를 관리했습니다.</BiosphereManager95.baseDesc>
+  <BiosphereManager95.title>생태계 관리자</BiosphereManager95.title>
+  <BiosphereManager95.titleShort>식물학자</BiosphereManager95.titleShort>
+  
+  <CharityWorker36.baseDesc>번화계는 그곳에 사는 운이 좋은 사람들에겐 안전하고 편안한 천국입니다. 그러나 {PAWN_nameDef}(은)는 빈곤으로 고통받는 주변 행성들을 무시할 수 없었습니다. {PAWN_pronoun}는 기부를 호소하고, 도움이 필요한 사람들을 지원해 주는 일을 했습니다.</CharityWorker36.baseDesc>
+  <CharityWorker36.title>자선가</CharityWorker36.title>
+  <CharityWorker36.titleShort>자선가</CharityWorker36.titleShort>
+  
+  <GlitterworldEmpath26.baseDesc>{PAWN_nameDef}(은)는 타인을 이해하고 충돌을 해소하는 데 엄청난 재주를 지녔습니다. {PAWN_pronoun}는 공감능력자로 선택돼 훈련을 받아 선천적인 공감 능력이 극대화됐지만, 대신 다른 이들을 해칠 수 없게 됐습니다.</GlitterworldEmpath26.baseDesc>
+  <GlitterworldEmpath26.title>번화계 공감능력자</GlitterworldEmpath26.title>
+  <GlitterworldEmpath26.titleShort>공감자</GlitterworldEmpath26.titleShort>
+  
+  <GlitterworldOfficer60.baseDesc>번화계는 평화로운 곳이지만 만약을 위해 전쟁은 계속 대비하는 경우가 많습니다. {PAWN_nameDef}의 부대는 실제 전투를 겪어보지 못했습니다.\n\n{PAWN_pronoun}는 예술적인 취미를 추구했지만, {PAWN_possessive} 부대원들은 유흥으로써 서로 싸우길 즐겼기 때문에 {PAWN_nameDef}(은)는 싸움을 말리는 일에도 익숙해졌습니다.</GlitterworldOfficer60.baseDesc>
+  <GlitterworldOfficer60.title>번화계 장교</GlitterworldOfficer60.title>
+  <GlitterworldOfficer60.titleShort>장교</GlitterworldOfficer60.titleShort>
+  
+  <GlitterworldSurgeon15.baseDesc>{PAWN_nameDef}(은)는 대부분의 질병과 고통이 사라진 번화계에서 외과의로 일했습니다.\n\n{PAWN_possessive} 일은 대부분 정교하고 창의적인 성형수술이었습니다. {PAWN_pronoun}는 인체생물학에 대한 이해가 깊었지만 암이나 총알을 제거할 일은 한 번도 없었습니다.</GlitterworldSurgeon15.baseDesc>
+  <GlitterworldSurgeon15.title>번화계 외과의</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleShort>외과의</GlitterworldSurgeon15.titleShort>
+  
+  <NavyScientist52.baseDesc>성간 전투는 과학 기술이 승패를 결정하므로 번화계 해군은 항상 현대 과학의 정점에 서있습니다. 게다가, 초월공학 유물은 우주에서 발견되므로 해군은 제일 먼저 유물을 연구할 수 있습니다.\n\n{PAWN_nameDef}(은)는 해군 연구소에서 일했습니다.</NavyScientist52.baseDesc>
+  <NavyScientist52.title>해군 과학자</NavyScientist52.title>
+  <NavyScientist52.titleShort>과학자</NavyScientist52.titleShort>
+  
+  <Novelist7.baseDesc>{PAWN_nameDef}(은)는 번화계에 살면서 아주 성공적인 소설들을 썼습니다. {PAWN_pronoun}는 낮에는 글을 쓰고 밤에는 파티를 참여하면서 자유분방하게 살았습니다. 단 하루도 육체노동을 했던 일은 없었습니다.</Novelist7.baseDesc>
+  <Novelist7.title>소설가</Novelist7.title>
+  <Novelist7.titleShort>소설가</Novelist7.titleShort>
+  
+  <Sculptor63.baseDesc>{PAWN_nameDef}(은)는 사람 크기의 바위를 조각하는 걸로 커리어를 시작했지만, 곧 더 큰 생각을 하게 됐습니다. {PAWN_pronoun}는 광산 로봇의 도움을 받아 절벽에 거대한 기념물을 조각하기 시작했고, 곧 {PAWN_pronoun}가 살았던 번화계 자연공원은 거대한 암석 조각상들로 가득 찼습니다.</Sculptor63.baseDesc>
+  <Sculptor63.title>조각가</Sculptor63.title>
+  <Sculptor63.titleShort>조각가</Sculptor63.titleShort>
+  
+  <VRDesigner87.baseDesc>{PAWN_nameDef}(은)는 번화계 사람들을 위한 가상 현실 시뮬레이션을 설계했습니다. {PAWN_pronoun}는 자신이 창조한 세계의 모든 면에 주의를 기울였고, 심지어 지형을 더 현실적으로 만들기 위한 일념만으로 식물에 대해 공부할 수 있는 모든 걸 다 배웠습니다.</VRDesigner87.baseDesc>
+  <VRDesigner87.title>가상현실 설계자</VRDesigner87.title>
+  <VRDesigner87.titleShort>게임 개발자</VRDesigner87.titleShort>
+</LanguageData>

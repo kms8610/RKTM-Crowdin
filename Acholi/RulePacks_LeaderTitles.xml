@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+    <li>crwdns439486:0[cultureLeaderNoun]crwdne439486:0</li>
+    <li>crwdns439488:0[cultureLeaderAdjective]crwdnd439488:0[cultureLeaderNoun]crwdne439488:0</li>
+    <li>crwdns439490:0crwdne439490:0</li>
+    <li>crwdns439492:0crwdne439492:0</li>
+    <li>crwdns439494:0crwdne439494:0</li>
+    <li>crwdns439496:0crwdne439496:0</li>
+    <li>crwdns439498:0crwdne439498:0</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+    <li>crwdns439500:0crwdne439500:0</li>
+    <li>crwdns439502:0crwdne439502:0</li>
+    <li>crwdns439504:0crwdne439504:0</li>
+    <li>crwdns439506:0crwdne439506:0</li>
+    <li>crwdns439508:0crwdne439508:0</li>
+    <li>crwdns439510:0crwdne439510:0</li>
+    <li>crwdns439512:0crwdne439512:0</li>
+    <li>crwdns439514:0crwdne439514:0</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+    <li>crwdns439516:0[memeLeaderAdjective]crwdnd439516:0[memeLeaderNoun]crwdne439516:0</li>
+    <li>crwdns439518:0[cultureLeaderAdjective]crwdnd439518:0[memeLeaderNoun]crwdne439518:0</li>
+    <li>crwdns439520:0[memeLeaderAdjective]crwdnd439520:0[cultureLeaderNoun]crwdne439520:0</li>
+    <li>crwdns439522:0[cultureLeaderTitle]crwdne439522:0</li>
+  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+  
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+    <li>crwdns439524:0[cultureLeaderNoun]crwdne439524:0</li>
+    <li>crwdns439526:0[cultureLeaderAdjective]crwdnd439526:0[cultureLeaderNoun]crwdne439526:0</li>
+    <li>crwdns439528:0crwdne439528:0</li>
+    <li>crwdns439530:0crwdne439530:0</li>
+    <li>crwdns439532:0crwdne439532:0</li>
+    <li>crwdns439534:0crwdne439534:0</li>
+    <li>crwdns439536:0crwdne439536:0</li>
+    <li>crwdns439538:0crwdne439538:0</li>
+    <li>crwdns439540:0crwdne439540:0</li>
+    <li>crwdns439542:0crwdne439542:0</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+    <li>crwdns439544:0[cultureLeaderAdjective]crwdnd439544:0[cultureLeaderNoun]crwdne439544:0</li>
+    <li>crwdns439546:0crwdne439546:0</li>
+    <li>crwdns439548:0crwdne439548:0</li>
+    <li>crwdns439550:0crwdne439550:0</li>
+    <li>crwdns439552:0crwdne439552:0</li>
+    <li>crwdns439554:0crwdne439554:0</li>
+    <li>crwdns439556:0crwdne439556:0</li>
+    <li>crwdns439558:0crwdne439558:0</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+    <li>crwdns439560:0crwdne439560:0</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BondedAnimalLost.stages.bonded_animal_lost.label>각별한 동물 {0} 실종</BondedAnimalLost.stages.bonded_animal_lost.label>
+  <BondedAnimalLost.stages.bonded_animal_lost.description>아아, 다시는 그런 아이를 찾을 수 없겠지.</BondedAnimalLost.stages.bonded_animal_lost.description>
+  
+  <BondedAnimalReleased.stages.bonded_animal_released.label>각별한 동물 {0} 방출</BondedAnimalReleased.stages.bonded_animal_released.label>
+  <BondedAnimalReleased.stages.bonded_animal_released.description>정말 특별하고 특별한 동물이었어. 왜 버려져야 했어?</BondedAnimalReleased.stages.bonded_animal_released.description>
+  
+  <ColonistLost.stages.colonist_lost.label>정착민 잃음</ColonistLost.stages.colonist_lost.label>
+  <ColonistLost.stages.colonist_lost.description>우린 비극적인 방식으로 정착지에서 누군가를 잃었어.</ColonistLost.stages.colonist_lost.description>
+  
+  <MyAuntLost.stages.my_aunt_lost.label>my aunt {0} lost</MyAuntLost.stages.my_aunt_lost.label>
+  <MyAuntLost.stages.my_aunt_lost.description>My aunt has gone lost. I hope she will get back to us someday.</MyAuntLost.stages.my_aunt_lost.description>
+  
+  <MyBrotherLost.stages.my_brother_lost.label>형제 {0} 잃음</MyBrotherLost.stages.my_brother_lost.label>
+  <MyBrotherLost.stages.my_brother_lost.description>형제를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyBrotherLost.stages.my_brother_lost.description>
+  
+  <MyCousinLost.stages.my_cousin_lost.label>my cousin {0} lost</MyCousinLost.stages.my_cousin_lost.label>
+  <MyCousinLost.stages.my_cousin_lost.description>친적을 잃었어.</MyCousinLost.stages.my_cousin_lost.description>
+  
+  <MyDaughterLost.stages.my_daughter_lost.label>딸 {0} 잃음</MyDaughterLost.stages.my_daughter_lost.label>
+  <MyDaughterLost.stages.my_daughter_lost.description>딸을 잃었어. 언젠가 다시 돌아올거라 믿어.</MyDaughterLost.stages.my_daughter_lost.description>
+  
+  <MyFatherLost.stages.my_father_lost.label>아버지 {0} 잃음</MyFatherLost.stages.my_father_lost.label>
+  <MyFatherLost.stages.my_father_lost.description>아버지를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyFatherLost.stages.my_father_lost.description>
+  
+  <MyFianceLost.stages.my_fiance_lost.label>약혼자 {0} 잃음</MyFianceLost.stages.my_fiance_lost.label>
+  <MyFianceLost.stages.my_fiance_lost.description>약혼자를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyFianceLost.stages.my_fiance_lost.description>
+  
+  <MyFianceeLost.stages.my_fiance_lost.label>약혼녀 {0} 잃음</MyFianceeLost.stages.my_fiance_lost.label>
+  <MyFianceeLost.stages.my_fiance_lost.description>약혼녀를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyFianceeLost.stages.my_fiance_lost.description>
+  
+  <MyGrandchildLost.stages.my_grandchild_lost.label>손주 {0} 잃음</MyGrandchildLost.stages.my_grandchild_lost.label>
+  <MyGrandchildLost.stages.my_grandchild_lost.description>손자를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyGrandchildLost.stages.my_grandchild_lost.description>
+  
+  <MyGrandparentLost.stages.my_grandparent_lost.label>조부모 {0} 잃음</MyGrandparentLost.stages.my_grandparent_lost.label>
+  <MyGrandparentLost.stages.my_grandparent_lost.description>조부모를 잃었어.</MyGrandparentLost.stages.my_grandparent_lost.description>
+  
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.label>의붓형제 {0} 잃음</MyHalfSiblingLost.stages.my_halfsibling_lost.label>
+  <MyHalfSiblingLost.stages.my_halfsibling_lost.description>의붓형제를 잃었어.</MyHalfSiblingLost.stages.my_halfsibling_lost.description>
+  
+  <MyHusbandLost.stages.my_husband_lost.label>남편 {0} 잃음</MyHusbandLost.stages.my_husband_lost.label>
+  <MyHusbandLost.stages.my_husband_lost.description>남편을 잃었어. 언젠가 다시 돌아올거라 믿어.</MyHusbandLost.stages.my_husband_lost.description>
+  
+  <MyKinLost.stages.my_kin_lost.label>친척 {0} 잃음</MyKinLost.stages.my_kin_lost.label>
+  <MyKinLost.stages.my_kin_lost.description>친척을 잃었어.</MyKinLost.stages.my_kin_lost.description>
+  
+  <MyLoverLost.stages.my_lover_lost.label>연인 {0} 잃음</MyLoverLost.stages.my_lover_lost.label>
+  <MyLoverLost.stages.my_lover_lost.description>연인을 잃었어. 언젠가 다시 돌아올거라 믿어.</MyLoverLost.stages.my_lover_lost.description>
+  
+  <MyMotherLost.stages.my_mother_lost.label>어머니 {0} 잃음</MyMotherLost.stages.my_mother_lost.label>
+  <MyMotherLost.stages.my_mother_lost.description>어머니를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyMotherLost.stages.my_mother_lost.description>
+  
+  <MyNephewLost.stages.my_nephew_lost.label>조카 {0} 잃음</MyNephewLost.stages.my_nephew_lost.label>
+  <MyNephewLost.stages.my_nephew_lost.description>조카를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyNephewLost.stages.my_nephew_lost.description>
+  
+  <MyNieceLost.stages.my_niece_lost.label>조카딸 {0} 잃음</MyNieceLost.stages.my_niece_lost.label>
+  <MyNieceLost.stages.my_niece_lost.description>조카딸을 잃었어. 언젠가 다시 돌아올거라 믿어.</MyNieceLost.stages.my_niece_lost.description>
+  
+  <MySisterLost.stages.my_sister_lost.label>자매 {0} 잃음</MySisterLost.stages.my_sister_lost.label>
+  <MySisterLost.stages.my_sister_lost.description>자매를 잃었어. 언젠가 다시 돌아올거라 믿어.</MySisterLost.stages.my_sister_lost.description>
+  
+  <MySonLost.stages.my_son_lost.label>아들 {0} 잃음</MySonLost.stages.my_son_lost.label>
+  <MySonLost.stages.my_son_lost.description>아들을 잃었어. 언젠가 다시 돌아올거라 믿어.</MySonLost.stages.my_son_lost.description>
+  
+  <MyUncleLost.stages.my_uncle_lost.label>my uncle {0} lost</MyUncleLost.stages.my_uncle_lost.label>
+  <MyUncleLost.stages.my_uncle_lost.description>친척을 잃었어. 언젠가 다시 돌아올거라 믿어.</MyUncleLost.stages.my_uncle_lost.description>
+  
+  <MyWifeLost.stages.my_wife_lost.label>아내 {0} 잃음</MyWifeLost.stages.my_wife_lost.label>
+  <MyWifeLost.stages.my_wife_lost.description>아내를 잃었어. 언젠가 다시 돌아올거라 믿어.</MyWifeLost.stages.my_wife_lost.description>
+  
+  <PawnWithBadOpinionLost.stages.my_rival_lost.label>경쟁자 {0} 잃음</PawnWithBadOpinionLost.stages.my_rival_lost.label>
+  <PawnWithBadOpinionLost.stages.my_rival_lost.description>꼴 좋네! 이런 세상에도 정의는 살아있다는 거지.</PawnWithBadOpinionLost.stages.my_rival_lost.description>
+  
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.label>친구 {0} 잃음</PawnWithGoodOpinionLost.stages.my_friend_lost.label>
+  <PawnWithGoodOpinionLost.stages.my_friend_lost.description>그런 멋진 사람을 잃다니. 매일 어둠이 닥치는 것 같아.</PawnWithGoodOpinionLost.stages.my_friend_lost.description>
+</LanguageData>

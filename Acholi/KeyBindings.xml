@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Accept.label>crwdns460056:0crwdne460056:0</Accept.label>
+  
+  <Cancel.label>crwdns460058:0crwdne460058:0</Cancel.label>
+  
+  <Command_ColonistDraft.label>crwdns460060:0crwdne460060:0</Command_ColonistDraft.label>
+  
+  <Command_ItemForbid.label>crwdns460062:0crwdne460062:0</Command_ItemForbid.label>
+  
+  <Command_TogglePower.label>crwdns460064:0crwdne460064:0</Command_TogglePower.label>
+  
+  <Designator_Cancel.label>crwdns460066:0crwdne460066:0</Designator_Cancel.label>
+  
+  <Designator_Deconstruct.label>crwdns460068:0crwdne460068:0</Designator_Deconstruct.label>
+  
+  <Designator_RotateLeft.label>crwdns460070:0crwdne460070:0</Designator_RotateLeft.label>
+  
+  <Designator_RotateRight.label>crwdns460072:0crwdne460072:0</Designator_RotateRight.label>
+  
+  <Dev_ChangeSelectedDebugAction.label>crwdns460074:0crwdne460074:0</Dev_ChangeSelectedDebugAction.label>
+  
+  <Dev_TickOnce.label>crwdns460076:0crwdne460076:0</Dev_TickOnce.label>
+  
+  <Dev_ToggleDebugActionsMenu.label>crwdns460078:0crwdne460078:0</Dev_ToggleDebugActionsMenu.label>
+  
+  <Dev_ToggleDebugInspector.label>crwdns460080:0crwdne460080:0</Dev_ToggleDebugInspector.label>
+  
+  <Dev_ToggleDebugLog.label>crwdns460082:0crwdne460082:0</Dev_ToggleDebugLog.label>
+  
+  <Dev_ToggleDebugLogMenu.label>crwdns460084:0crwdne460084:0</Dev_ToggleDebugLogMenu.label>
+  
+  <Dev_ToggleDebugSettingsMenu.label>crwdns460086:0crwdne460086:0</Dev_ToggleDebugSettingsMenu.label>
+  
+  <Dev_ToggleDevPalette.label>crwdns460088:0crwdne460088:0</Dev_ToggleDevPalette.label>
+  
+  <Dev_ToggleGodMode.label>crwdns460090:0crwdne460090:0</Dev_ToggleGodMode.label>
+  
+  <MapDolly_Down.label>crwdns460092:0crwdne460092:0</MapDolly_Down.label>
+  
+  <MapDolly_Left.label>crwdns460094:0crwdne460094:0</MapDolly_Left.label>
+  
+  <MapDolly_Right.label>crwdns460096:0crwdne460096:0</MapDolly_Right.label>
+  
+  <MapDolly_Up.label>crwdns460098:0crwdne460098:0</MapDolly_Up.label>
+  
+  <MapZoom_In.label>crwdns460100:0crwdne460100:0</MapZoom_In.label>
+  
+  <MapZoom_Out.label>crwdns460102:0crwdne460102:0</MapZoom_Out.label>
+  
+  <Misc1.label>crwdns460104:0crwdne460104:0</Misc1.label>
+  
+  <Misc10.label>crwdns460106:0crwdne460106:0</Misc10.label>
+  
+  <Misc11.label>crwdns460108:0crwdne460108:0</Misc11.label>
+  
+  <Misc12.label>crwdns460110:0crwdne460110:0</Misc12.label>
+  
+  <Misc2.label>crwdns460112:0crwdne460112:0</Misc2.label>
+  
+  <Misc3.label>crwdns460114:0crwdne460114:0</Misc3.label>
+  
+  <Misc4.label>crwdns460116:0crwdne460116:0</Misc4.label>
+  
+  <Misc5.label>crwdns460118:0crwdne460118:0</Misc5.label>
+  
+  <Misc6.label>crwdns460120:0crwdne460120:0</Misc6.label>
+  
+  <Misc7.label>crwdns460122:0crwdne460122:0</Misc7.label>
+  
+  <Misc8.label>crwdns460124:0crwdne460124:0</Misc8.label>
+  
+  <Misc9.label>crwdns460126:0crwdne460126:0</Misc9.label>
+  
+  <ModifierIncrement_100x.label>crwdns460128:0crwdne460128:0</ModifierIncrement_100x.label>
+  
+  <ModifierIncrement_10x.label>crwdns460130:0crwdne460130:0</ModifierIncrement_10x.label>
+  
+  <NextColonist.label>crwdns460132:0crwdne460132:0</NextColonist.label>
+  
+  <PreviousColonist.label>crwdns460134:0crwdne460134:0</PreviousColonist.label>
+  
+  <QueueOrder.label>crwdns460136:0crwdne460136:0</QueueOrder.label>
+  
+  <SelectNextInCell.label>crwdns460138:0crwdne460138:0</SelectNextInCell.label>
+  
+  <ShowCellInspector.label>crwdns460140:0crwdne460140:0</ShowCellInspector.label>
+  
+  <ShowEyedropper.label>crwdns460142:0crwdne460142:0</ShowEyedropper.label>
+  
+  <TakeScreenshot.label>crwdns460144:0crwdne460144:0</TakeScreenshot.label>
+  
+  <TimeSpeed_Fast.label>crwdns460146:0crwdne460146:0</TimeSpeed_Fast.label>
+  
+  <TimeSpeed_Faster.label>crwdns460148:0crwdne460148:0</TimeSpeed_Faster.label>
+  
+  <TimeSpeed_Normal.label>crwdns460150:0crwdne460150:0</TimeSpeed_Normal.label>
+  
+  <TimeSpeed_Slower.label>crwdns460152:0crwdne460152:0</TimeSpeed_Slower.label>
+  
+  <TimeSpeed_Superfast.label>crwdns460154:0crwdne460154:0</TimeSpeed_Superfast.label>
+  
+  <TimeSpeed_Ultrafast.label>crwdns460156:0crwdne460156:0</TimeSpeed_Ultrafast.label>
+  
+  <ToggleBeautyDisplay.label>crwdns460158:0crwdne460158:0</ToggleBeautyDisplay.label>
+  
+  <TogglePause.label>crwdns460160:0crwdne460160:0</TogglePause.label>
+  
+  <ToggleRoomStatsDisplay.label>crwdns460162:0crwdne460162:0</ToggleRoomStatsDisplay.label>
+  
+  <ToggleScreenshotMode.label>crwdns460164:0crwdne460164:0</ToggleScreenshotMode.label>
+</LanguageData>

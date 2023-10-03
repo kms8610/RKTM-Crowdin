@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AteRawHumanlikeMeat.label>인육 날것으로 섭취</AteRawHumanlikeMeat.label>
+  <AteRawHumanlikeMeat.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 인육 섭취</li>
+    <li>image->[circumstance_group] 인간의 고기를 [eat_gerund] [PAWN_nameFull]</li>
+    <li>image->[PAWN_nameFull](이)가 인간의 팔을 [circumstance_group] [eat_gerund] 장면</li>
+    <li>image->[PAWN_nameFull](이)가 [circumstance_group] 인간의 살을 [eat_gerund] 모습</li>
+    <li>eat_gerund->먹는</li>
+    <li>eat_gerund->ingesting</li>
+    <li>eat_gerund->씹는</li>
+    <li>eat_gerund->씹어 넘기는</li>
+    <li>eat_gerund->섭취하는</li>
+    <li>eat_gerund->삼키는</li>
+    <li>eat_gerund->물어뜯는</li>
+    <li>circumstance_phrase->목적의식을 가지고</li>
+    <li>circumstance_phrase->조금도 부끄러워 하지 않고</li>
+    <li>circumstance_phrase->부끄러워하며</li>
+    <li>circumstance_phrase->다른 사람들이 지켜보는 가운데</li>
+    <li>circumstance_phrase->열광적으로</li>
+    <li>circumstance_phrase->마치 자신의 목숨이 달려 있는 것처럼, 정신없이</li>
+    <li>desc_sentence->[PAWN_nameDef]의 얼굴은 피와 액체로 덮여 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](은)는 손가락을 핥고 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 앞에는 피와 창자들이 널브러져 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](은)는 피의 연못 한가운데 있습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](이)가 식인에 관심을 보이는 다른 누군가를 힐끗 보고 있습니다.</li>
+    <li>desc_sentence->고기의 육즙이 번들거리고 있습니다.</li>
+    <li>desc_sentence->그 고기는 [PAWN_nameDef]의 몸에 튀고 있습니다.</li>
+  </AteRawHumanlikeMeat.rulePack.rulesStrings>
+  
+  <ButcheredHumanlikeCorpse.label>인간 도축</ButcheredHumanlikeCorpse.label>
+  
+  <CraftedArt.label>예술 작품 만들기</CraftedArt.label>
+  <CraftedArt.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef](이)가 [THING_indefinite](을)를 완성한 순간</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 [title_sentence] [THING_quality] [THING_indefinite](을)를 완성하는 장면</li>
+    <li>image->[circumstance_group] [title_sentence] [THING_quality] [THING_indefinite](을)를 완성한 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 [title_sentence] [THING_quality] [THING_indefinite](을)를 작업하는 모습</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 [title_sentence] [THING_quality] [THING_indefinite](을)를 제작하는 광경</li>
+    <li>circumstance_phrase->온 심혈을 기울여</li>
+    <li>circumstance_phrase->얼굴에 만족감을 떠올리며</li>
+    <li>circumstance_phrase->작업대에서</li>
+    <li>circumstance_phrase->매우 열정적으로</li>
+    <li>desc_sentence->주변에 도구들이 어지러이 널려있는 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]의 손은 작업을 하며 생긴 생채기로 덮여있는 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]의 온 몸이 땀으로 흠뻑 젖어 있는 모습이 보입니다.</li>
+    <li>desc_sentence->깔끔한 작업장에는 모든 도구가 제자리에 놓여 있는 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]의 모습은 실제보다 더 힘차고 강력하게 과장되어 있습니다.</li>
+    <li>desc_sentence->중요성을 상징하는 듯 [THING_definite]의 크기가 크게 과장되어 있습니다.</li>
+    <li>desc_sentence->[THING_definite] 뒤로 후광이 비치고 있습니다. 성스럽게 보일 지경입니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 모습은 배경에 녹아들어 [pawn_possessive] 새로운 창작물을 강조하고 있습니다.</li>
+    <li>desc_sentence->[Quantity_adjphrase] 명의 구경꾼들이 [PAWN_objective] 둘러싸고 있는 모습이 보입니다.</li>
+    <li>desc_sentence->사람들이 뒤에서 축하하고 있는 모습이 보입니다.</li>
+    <li>quality_sentence->[THING_definite] looks to be of [THING_quality] quality</li>
+    <li>quality_sentence->[THING_quality] 품질</li>
+    <li>quality_sentence->[THING_quality] 품질의</li>
+    <li>title_sentence->아래 명판에 "[THING_title]"(이)라는 제목이 붙어있는,</li>
+    <li>title_sentence->제목이 "[THING_title]"인</li>
+    <li>title_sentence->배경에 작품의 제목, "[THING_title]"(이)가 적혀있는,</li>
+  </CraftedArt.rulePack.rulesStrings>
+  
+  <Drunk.label>어지러움</Drunk.label>
+  <Drunk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef](이)가 만취한 이야기</li>
+    <li>tale_noun->[PAWN_nameDef](이)가 술에 취한 이야기</li>
+    <li>image->[circumstance_group] 술에 취해 비틀거리는 [PAWN_nameFull]</li>
+    <li>image->[PAWN_nameFull](이)가 [circumstance_group] 머리를 뒤로 기울이고 술을 마구 마셔대는 모습</li>
+    <li>image->[PAWN_nameFull](이)가 [circumstance_group] 술병을 탐욕스럽게 끌어안은 장면</li>
+    <li>image->[circumstance_group] 술을 무식하게 퍼마시는 [PAWN_nameFull]</li>
+    <li>circumstance_phrase->주변을 망각한채</li>
+    <li>circumstance_phrase->인사불성으로</li>
+    <li>circumstance_phrase->스스로의 존재 이유를 질문하며</li>
+    <li>circumstance_phrase->눈에 눈물이 맺힌 채</li>
+    <li>circumstance_phrase->미친 듯이 낄낄대며</li>
+    <li>circumstance_phrase->훌쩍이며</li>
+    <li>circumstance_phrase->불쌍할 정도로</li>
+    <li>circumstance_phrase->주위 사람들을 사납게 노려보면서</li>
+    <li>circumstance_phrase->근처 사람들을 곁눈질하며</li>
+    <li>circumstance_phrase->옷을 벗으려 하며</li>
+    <li>circumstance_phrase->손가락을 입에 집어넣은 채</li>
+    <li>circumstance_phrase->구역질을 참으며</li>
+    <li>circumstance_phrase->주변 일에 관심을 끊고</li>
+    <li>circumstance_phrase->욕정에 가득 찬 눈빛을 하고</li>
+    <li>circumstance_phrase->과거의 망령을 만났는지</li>
+    <li>desc_sentence->[PAWN_pronoun](은)는[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 얼굴은 부어올랐습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun](은)는 거의 무의식 상태에 있으며, [PAWN_possessive] 혀가 나뒹굴며 침을 흘리고 있습니다.</li>
+    <li>desc_sentence->행복하면서도 슬프게 보이는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->앞 섶이 더럽혀진 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->주변에 다 마신 술병들이 널브러져 있습니다.</li>
+    <li>desc_sentence->바지에 하얀 얼룩이 묻어 있는 [PAWN_possessive] 모습이 보입니다.</li>
+    <li>desc_sentence->신발 한 짝을 잃어버린 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->머리카락이 완전히 엉망인 [PAWN_possessive] 모습이 보입니다.</li>
+  </Drunk.rulePack.rulesStrings>
+  
+  <FinishedResearchProject.label>연구 완료</FinishedResearchProject.label>
+  <FinishedResearchProject.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 [PROJECT_label] 연구 완료</li>
+    <li>image->[PAWN_nameFull] working on the [PROJECT_label] research project [circumstance_group]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 [PROJECT_label]의 비밀을 탐구하는 모습</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 [PROJECT_label](을)를 연구하는 장면</li>
+    <li>circumstance_phrase->매우 열정적으로</li>
+    <li>circumstance_phrase->연구 작업대에 앉아서 혼자</li>
+    <li>circumstance_phrase->손에 여러 보고서를 쥐고</li>
+    <li>circumstance_phrase->강렬한 열정으로</li>
+    <li>desc_sentence->[PAWN_nameDef]는 땀을 흘리고 있습니다.</li>
+    <li>desc_sentence->연구 과제가 매우 복잡합니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]의 주위엔 각종 도구들이 보입니다.</li>
+    <li>desc_sentence->[PAWN_nameDef](이)가 자신의 발견에 흥분한 모습이 엿보입니다.</li>
+  </FinishedResearchProject.rulePack.rulesStrings>
+  
+  <LandedInPod.label>포드로 착륙</LandedInPod.label>
+  <LandedInPod.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 포드 착륙 이야기</li>
+    <li>image->[circumstance_group] 땅에 수송 포드로 착륙하는 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가  수송 포드로 착륙하는 모습</li>
+    <li>image->[circumstance_group] 땅에 쳐박히는 [PAWN_nameFull]의 수송 포드</li>
+    <li>image->[circumstance_group] 떨어지는 수송 포드를 조종하는 [PAWN_nameFull]</li>
+    <li>circumstance_phrase->[TerrainFeature]의 앞에서</li>
+    <li>circumstance_phrase->믿을 수 없는 힘으로</li>
+    <li>circumstance_phrase->먼지와 암석의 기둥이 되어</li>
+    <li>circumstance_phrase->역추진 로켓의 극적인 발화와 함께</li>
+    <li>circumstance_phrase->멋드러지게 착륙한</li>
+    <li>desc_sentence->[PAWN_pronoun]는 제어장치에 열중하고 있습니다.</li>
+    <li>desc_sentence->공포에 질려 눈을 감은 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_pronoun] 의식을 잃고, [PAWN_possessive] 혀는 자리를 잃고 침을 흘리며 밖에서 춤추고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 음산하게 웃으며 기뻐합니다.</li>
+    <li>desc_sentence->[PAWN_pronoun] 자신이 무엇을 하고 있는지 전혀 모르는 것 같습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun] [PAWN_possessive] 눈을 감고, 무기력하게 묶여있습니다.</li>
+    <li>desc_sentence->수송 포드의 뒤쪽으로 화염의 꼬리가 길게 늘어져 있는 것이 보입니다.</li>
+    <li>desc_sentence->근처에 있던 [Animal]이 깜짝 놀라며 고개들 들어 올리고 있습니다.</li>
+    <li>desc_sentence->[Animal](이)가 충격에 놀라 도망가는 것이 보입니다.</li>
+    <li>desc_sentence->배경으로 [TerrainFeature]가 보입니다.</li>
+    <li>desc_sentence->[PersonJob]이 멀리서 묵묵히 지켜보고 있습니다.</li>
+  </LandedInPod.rulePack.rulesStrings>
+  
+  <MentalStateBerserk.label>정신 광란</MentalStateBerserk.label>
+  <MentalStateBerserk.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 광란 이야기</li>
+    <li>image->[PAWN_nameFull](은)는 [circumstance_group] 격하게 분노함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 점점 격렬하게 미쳐감</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 [PAWN_possessive] 얼굴에 정신에 이상이 있는 듯한 표정을 띈채 비틀거리며 앞으로 나아감</li>
+    <li>circumstance_phrase->옷을 벗으려 하며</li>
+    <li>circumstance_phrase->별다른 이유 없이</li>
+    <li>circumstance_phrase->다른 이들이 두려움에 움츠려들 정도로</li>
+    <li>circumstance_phrase->친구가 도망갈 정도로</li>
+    <li>circumstance_phrase->스트레스 때문에</li>
+    <li>circumstance_phrase->최후의 수단으로</li>
+    <li>desc_sentence->[PAWN_pronoun]는 걷잡을 수 없는 분노로 떨고 있습니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 치아가 부러질 정도로 이를 갈고 있음.</li>
+    <li>desc_sentence->[PAWN_possessive] 눈은 살기와 광기로 번들거립니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 미친듯한 화를 표출하는 비명과 함께 [PAWN_possessive] 입에서 침이 날아옵니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]이 [PAWN_possessive] 옷의 일부를 잃어버렸습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 불행에 얼굴을 찡그리고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 미친듯이 웃고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [Animal]의 으르렁대는 얼굴로 묘사할 수 있습니다.</li>
+    <li>desc_sentence->비유하자면 [Animal]들이 [PAWN_possessive] 머리를 둘러싸고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [PAWN_possessive] 눈에 살의를 품고 있습니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 온 몸이 증오로 떨리고 있습니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 얼굴이 고요하게 뒤틀려있습니다.</li>
+    <li>desc_sentence->한 방울의 눈물이 [PAWN_possessive] 얼굴에서 떨어짐.</li>
+  </MentalStateBerserk.rulePack.rulesStrings>
+  
+  <MentalStateGaveUp.label>탈주</MentalStateGaveUp.label>
+  <MentalStateGaveUp.rulePack.rulesStrings>
+    <li>tale_noun->좌절에 빠져 모든걸 놓아버린 [PAWN_nameDef]의 이야기</li>
+    <li>image->[circumstance_group] 스트레스를 견디지 못한 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] 주체하지 못하고 흐느끼는 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 완전히 표정이 풀려 비틀거리는 모습</li>
+    <li>circumstance_phrase->옷을 벗으려 하며</li>
+    <li>circumstance_phrase->별다른 이유 없이</li>
+    <li>circumstance_phrase->불쌍하게도</li>
+    <li>circumstance_phrase->나쁜 기분에</li>
+    <li>circumstance_phrase->스트레스 때문에</li>
+    <li>circumstance_phrase->최후의 수단으로</li>
+    <li>desc_sentence->얼굴에 눈물이 흐르는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->가늠할 수 없는 슬픔 속에 웃고 있는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->누군가에게 묻는 것처럼 하늘을 올려다보고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->입고 있는 옷을 찢어버리고 있는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_pronoun](은)는[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</li>
+    <li>desc_sentence->행복하면서도 슬프게 보이는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->앞 섶이 더럽혀진 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->신발 한 짝을 잃어버린 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->머리카락이 완전히 엉망인 [PAWN_possessive] 모습이 보입니다.</li>
+  </MentalStateGaveUp.rulePack.rulesStrings>
+  
+  <StruckMineable.label>광물 발견</StruckMineable.label>
+  <StruckMineable.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef](이)가 [THING_label](을)를 발견한 이야기</li>
+    <li>image->[circumstance_group] [THING_label](을)를 발견한 [PAWN_nameFull]</li>
+    <li>circumstance_phrase->채굴 중에</li>
+    <li>circumstance_phrase->땅을 파던 중에</li>
+    <li>circumstance_phrase->굴을 파던 중에</li>
+    <li>circumstance_phrase->놀란 얼굴로</li>
+    <li>circumstance_phrase->만족스런 얼굴로</li>
+    <li>desc_sentence->눈썹을 닦고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->기쁨에 젖어 허공으로 뛰는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->친구와 손뼉을 맞추고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->기쁨의 함성을 지르고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->시원하게 웃고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 작업으로 인해 땀에 젖고 더럽습니다.</li>
+    <li>desc_sentence->[PAWN_nameDef]는 작업으로 인해 땀에 젖고 더럽습니다.</li>
+  </StruckMineable.rulePack.rulesStrings>
+  
+  <Vomited.label>구토</Vomited.label>
+  <Vomited.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]의 구토</li>
+    <li>image->[circumstance_group] 바닥에 구토를 하는 [PAWN_nameFull]</li>
+    <li>image->말라붙은 토사물에 덮인 채 [circumstance_group] 역겨운 표정을 짓는 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 몸부림 치며 헛구역질을 하는 모습</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 무릎을 꿇은 채 바닥에 토하는 장면</li>
+    <li>circumstance_phrase->고통스러운 얼굴로</li>
+    <li>circumstance_phrase->몹시 부끄러워 합니다.</li>
+    <li>circumstance_phrase->남들이 보기에</li>
+    <li>desc_sentence->[PAWN_pronoun](은)는[PAWN_objective]의 주위에 무엇이 있는지 전혀 모르는 것 같습니다.</li>
+    <li>desc_sentence->[PAWN_possessive] 얼굴은 부어올랐습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun](은)는 거의 무의식 상태에 있으며, [PAWN_possessive] 혀가 나뒹굴며 침을 흘리고 있습니다.</li>
+    <li>desc_sentence->격렬하게 경련하는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->창피한 듯 보이는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->이런 상황에도 웃으려 노력하는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->격렬한 구토로 인해 속이 완전히 비어 피곤해 보이는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->예술적으로 표현된 구토물의 고리에 휩싸인 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->뒤 쪽에서 구토의 흔적을 핥아먹고 있는 [Animal]의 모습이 보입니다.</li>
+  </Vomited.rulePack.rulesStrings>
+  
+  <WalkedNaked.label>나체 활보</WalkedNaked.label>
+  <WalkedNaked.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef](이)가 알몸으로 돌아다닌 모습</li>
+    <li>image->[circumstance_group] 자연으로 돌아가 알몸으로 [nude_action] [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] 알몸으로 [nude_action] [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 알몸으로 [nude_action] 모습</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 옷도 없이 알몸으로 [nude_action] 장면</li>
+    <li>nude_action->활보하는</li>
+    <li>nude_action->뛰노는</li>
+    <li>nude_action->뛰어다니는</li>
+    <li>nude_action->걷는</li>
+    <li>nude_action->[PAWN_possessive]의 물건을 뽐내는</li>
+    <li>nude_action->알몸을 자랑하는</li>
+    <li>nude_action->살금살금 돌아다니는</li>
+    <li>nude_action->산책하는</li>
+    <li>nude_action->주변을 둘러보는</li>
+    <li>circumstance_phrase->목적의식을 가지고</li>
+    <li>circumstance_phrase->조금도 부끄러워 하지 않고</li>
+    <li>circumstance_phrase->다른 사람들이 지켜보는 가운데</li>
+    <li>circumstance_phrase->뚜렷한 이유없이</li>
+    <li>circumstance_phrase->동물들이 혼란스럽게 바라보는 가운데</li>
+    <li>desc_sentence->흥분을 느끼고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->정체를 알 수 없는 물기가 느껴지는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->별 이유없이 거친 호흡을 하는 [PAWN_nameDef]의 모습이 보입니다.</li>
+    <li>desc_sentence->수풀을 쓰다듬고 있는 [PAWN_nameDef]의 모습이 보입니다.</li>
+  </WalkedNaked.rulePack.rulesStrings>
+  
+  <WasOnFire.label>불에 탐</WasOnFire.label>
+  <WasOnFire.rulePack.rulesStrings>
+    <li>tale_noun->몸에 불이 붙은 [PAWN_nameDef]의 목격담</li>
+    <li>image->[circumstance_group] [PAWN_possessive]의 몸에 붙을 불을 미친 듯이 끄려 하는 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] 화염에 휩싸인 [PAWN_nameFull]</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 무릎을 꿇고 머리 위로 손을 올린 채 [PAWN_possessive] 몸에 붙은 불을 끄려 하는 장면</li>
+    <li>image->[circumstance_group] [PAWN_nameFull](이)가 불을 끄려 바닥을 구르고 있는 모습</li>
+    <li>circumstance_phrase->다른 사람들이 지켜보는 가운데</li>
+    <li>circumstance_phrase->거의 나체로</li>
+    <li>circumstance_phrase->오직 일념으로</li>
+    <li>desc_sentence->피부가 불에 새까맣게 탄 [PAWN_possessive]의 모습이 보입니다.</li>
+    <li>desc_sentence->극심한 공포로 커진 [PAWN_possessive] 눈이 보입니다.</li>
+    <li>desc_sentence->눈에서 생명의 빛이 꺼져가고 의식이 점점 사라지는 [PAWN_pronoun]의 모습이 보입니다..</li>
+    <li>desc_sentence->도움을 청하면서 비명을 지르고 있는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->The flames are about to envelope [PAWN_possessive] head.</li>
+    <li>desc_sentence->A symbolic halo of fire surrounds [PAWN_possessive] face.</li>
+    <li>desc_sentence->미친 듯이 울고 웃는 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->정신을 거의 놓아버린 [PAWN_pronoun]의 모습이 보입니다.</li>
+    <li>desc_sentence->몸에서 연기가 피어나고 있는 [PAWN_possessive] 모습이 보입니다.</li>
+    <li>desc_sentence->마치 시체처럼 표현된 [PAWN_pronoun]의 모습이 보입니다.</li>
+  </WasOnFire.rulePack.rulesStrings>
+</LanguageData>

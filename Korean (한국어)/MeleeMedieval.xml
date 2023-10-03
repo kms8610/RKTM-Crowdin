@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MeleeWeapon_Gladius.label>검</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.description>고대로부터 내려온 짧은 검입니다. 찌르거나 베는 데 좋습니다.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.tools.handle.label>손잡이</MeleeWeapon_Gladius.tools.handle.label>
+  <MeleeWeapon_Gladius.tools.point.label>끝</MeleeWeapon_Gladius.tools.point.label>
+  <MeleeWeapon_Gladius.tools.edge.label>날</MeleeWeapon_Gladius.tools.edge.label>
+  
+  <MeleeWeapon_LongSword.label>장검</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.description>왕들의 고대 무기인 이 장검은 날카롭게 베거나 찌르는데 사용됩니다</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.tools.handle.label>손잡이</MeleeWeapon_LongSword.tools.handle.label>
+  <MeleeWeapon_LongSword.tools.point.label>끝</MeleeWeapon_LongSword.tools.point.label>
+  <MeleeWeapon_LongSword.tools.edge.label>날</MeleeWeapon_LongSword.tools.edge.label>
+  
+  <MeleeWeapon_Mace.label>철퇴</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.description>단순한 곤봉을 보다 치명적이고 효율적으로 개선한 형태입니다.</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.tools.handle.label>손잡이</MeleeWeapon_Mace.tools.handle.label>
+  <MeleeWeapon_Mace.tools.head.label>머리</MeleeWeapon_Mace.tools.head.label>
+</LanguageData>

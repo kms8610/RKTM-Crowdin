@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <HospitalPatientRoomStats.stages.awful_hospital.label>crwdns475454:0crwdne475454:0</HospitalPatientRoomStats.stages.awful_hospital.label>
+  <HospitalPatientRoomStats.stages.awful_hospital.description>crwdns475456:0crwdne475456:0</HospitalPatientRoomStats.stages.awful_hospital.description>
+  <HospitalPatientRoomStats.stages.dull_hospital.label>crwdns475458:0crwdne475458:0</HospitalPatientRoomStats.stages.dull_hospital.label>
+  <HospitalPatientRoomStats.stages.dull_hospital.description>crwdns475460:0crwdne475460:0</HospitalPatientRoomStats.stages.dull_hospital.description>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>crwdns475462:0crwdne475462:0</HospitalPatientRoomStats.stages.slightly_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>crwdns475464:0crwdne475464:0</HospitalPatientRoomStats.stages.slightly_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>crwdns475466:0crwdne475466:0</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>crwdns475468:0crwdne475468:0</HospitalPatientRoomStats.stages.somewhat_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.label>crwdns475470:0crwdne475470:0</HospitalPatientRoomStats.stages.very_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.very_impressive_hospital.description>crwdns475472:0crwdne475472:0</HospitalPatientRoomStats.stages.very_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>crwdns475474:0crwdne475474:0</HospitalPatientRoomStats.stages.extremely_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>crwdns475476:0crwdne475476:0</HospitalPatientRoomStats.stages.extremely_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>crwdns475478:0crwdne475478:0</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>crwdns475480:0crwdne475480:0</HospitalPatientRoomStats.stages.unbelievably_impressive_hospital.description>
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>crwdns475482:0crwdne475482:0</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.label>
+  <HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>crwdns475484:0crwdne475484:0</HospitalPatientRoomStats.stages.wondrously_impressive_hospital.description>
+  
+  <PrisonBarracks.stages.awful_barracks.label>crwdns475486:0crwdne475486:0</PrisonBarracks.stages.awful_barracks.label>
+  <PrisonBarracks.stages.awful_barracks.description>crwdns475488:0crwdne475488:0</PrisonBarracks.stages.awful_barracks.description>
+  <PrisonBarracks.stages.dull_barracks.label>crwdns475490:0crwdne475490:0</PrisonBarracks.stages.dull_barracks.label>
+  <PrisonBarracks.stages.dull_barracks.description>crwdns475492:0crwdne475492:0</PrisonBarracks.stages.dull_barracks.description>
+  <PrisonBarracks.stages.slightly_impressive_barracks.label>crwdns475494:0crwdne475494:0</PrisonBarracks.stages.slightly_impressive_barracks.label>
+  <PrisonBarracks.stages.slightly_impressive_barracks.description>crwdns475496:0crwdne475496:0</PrisonBarracks.stages.slightly_impressive_barracks.description>
+  <PrisonBarracks.stages.somewhat_impressive_barracks.label>crwdns475498:0crwdne475498:0</PrisonBarracks.stages.somewhat_impressive_barracks.label>
+  <PrisonBarracks.stages.somewhat_impressive_barracks.description>crwdns475500:0crwdne475500:0</PrisonBarracks.stages.somewhat_impressive_barracks.description>
+  <PrisonBarracks.stages.very_impressive_barracks.label>crwdns475502:0crwdne475502:0</PrisonBarracks.stages.very_impressive_barracks.label>
+  <PrisonBarracks.stages.very_impressive_barracks.description>crwdns475504:0crwdne475504:0</PrisonBarracks.stages.very_impressive_barracks.description>
+  <PrisonBarracks.stages.extremely_impressive_barracks.label>crwdns475506:0crwdne475506:0</PrisonBarracks.stages.extremely_impressive_barracks.label>
+  <PrisonBarracks.stages.extremely_impressive_barracks.description>crwdns475508:0crwdne475508:0</PrisonBarracks.stages.extremely_impressive_barracks.description>
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.label>crwdns475510:0crwdne475510:0</PrisonBarracks.stages.unbelievably_impressive_barracks.label>
+  <PrisonBarracks.stages.unbelievably_impressive_barracks.description>crwdns475512:0crwdne475512:0</PrisonBarracks.stages.unbelievably_impressive_barracks.description>
+  <PrisonBarracks.stages.wondrously_impressive_barracks.label>crwdns475514:0crwdne475514:0</PrisonBarracks.stages.wondrously_impressive_barracks.label>
+  <PrisonBarracks.stages.wondrously_impressive_barracks.description>crwdns475516:0crwdne475516:0</PrisonBarracks.stages.wondrously_impressive_barracks.description>
+  
+  <PrisonCell.stages.awful_prison_cell.label>crwdns475518:0crwdne475518:0</PrisonCell.stages.awful_prison_cell.label>
+  <PrisonCell.stages.awful_prison_cell.description>crwdns475520:0crwdne475520:0</PrisonCell.stages.awful_prison_cell.description>
+  <PrisonCell.stages.decent_prison_cell.label>crwdns475522:0crwdne475522:0</PrisonCell.stages.decent_prison_cell.label>
+  <PrisonCell.stages.decent_prison_cell.description>crwdns475524:0crwdne475524:0</PrisonCell.stages.decent_prison_cell.description>
+  <PrisonCell.stages.slightly_impressive_prison_cell.label>crwdns475526:0crwdne475526:0</PrisonCell.stages.slightly_impressive_prison_cell.label>
+  <PrisonCell.stages.slightly_impressive_prison_cell.description>crwdns475528:0crwdne475528:0</PrisonCell.stages.slightly_impressive_prison_cell.description>
+  <PrisonCell.stages.impressive_prison_cell.label>crwdns475530:0crwdne475530:0</PrisonCell.stages.impressive_prison_cell.label>
+  <PrisonCell.stages.impressive_prison_cell.description>crwdns475532:0crwdne475532:0</PrisonCell.stages.impressive_prison_cell.description>
+  <PrisonCell.stages.very_impressive_prison_cell.label>crwdns475534:0crwdne475534:0</PrisonCell.stages.very_impressive_prison_cell.label>
+  <PrisonCell.stages.very_impressive_prison_cell.description>crwdns475536:0crwdne475536:0</PrisonCell.stages.very_impressive_prison_cell.description>
+  <PrisonCell.stages.extremely_impressive_prison_cell.label>crwdns475538:0crwdne475538:0</PrisonCell.stages.extremely_impressive_prison_cell.label>
+  <PrisonCell.stages.extremely_impressive_prison_cell.description>crwdns475540:0crwdne475540:0</PrisonCell.stages.extremely_impressive_prison_cell.description>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.label>crwdns475542:0crwdne475542:0</PrisonCell.stages.unbelievably_impressive_prison_cell.label>
+  <PrisonCell.stages.unbelievably_impressive_prison_cell.description>crwdns475544:0crwdne475544:0</PrisonCell.stages.unbelievably_impressive_prison_cell.description>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.label>crwdns475546:0crwdne475546:0</PrisonCell.stages.wondrously_impressive_prison_cell.label>
+  <PrisonCell.stages.wondrously_impressive_prison_cell.description>crwdns475548:0crwdne475548:0</PrisonCell.stages.wondrously_impressive_prison_cell.description>
+</LanguageData>

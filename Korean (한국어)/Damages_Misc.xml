@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AcidBurn.label>산화상</AcidBurn.label>
+  <AcidBurn.deathMessage>{0}(이)가 불에 타 죽었습니다.</AcidBurn.deathMessage>
+  
+  <Beam.label>beam</Beam.label>
+  <Beam.deathMessage>{0} has been beamed to death.</Beam.deathMessage>
+  
+  <ToxGas.label>tox gas</ToxGas.label>
+  <ToxGas.deathMessage>{0}(이)가 죽었습니다.</ToxGas.deathMessage>
+  
+  <Vaporize.label>vaporize</Vaporize.label>
+  <Vaporize.deathMessage>{0} has been vaporized by extreme heat.</Vaporize.deathMessage>
+</LanguageData>

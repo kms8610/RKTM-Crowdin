@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bomb.label>crwdns456590:0crwdne456590:0</Bomb.label>
+  <Bomb.deathMessage>crwdns456592:0{0}crwdne456592:0</Bomb.deathMessage>
+  
+  <BombSuper.label>crwdns456594:0crwdne456594:0</BombSuper.label>
+  <BombSuper.deathMessage>crwdns456596:0{0}crwdne456596:0</BombSuper.deathMessage>
+  
+  <Deterioration.label>crwdns456598:0crwdne456598:0</Deterioration.label>
+  <Deterioration.deathMessage>crwdns456600:0{0}crwdne456600:0</Deterioration.deathMessage>
+  
+  <Extinguish.label>crwdns456602:0crwdne456602:0</Extinguish.label>
+  <Extinguish.deathMessage>crwdns456604:0{0}crwdne456604:0</Extinguish.deathMessage>
+  
+  <Mining.label>crwdns456606:0crwdne456606:0</Mining.label>
+  <Mining.deathMessage>crwdns456608:0{0}crwdne456608:0</Mining.deathMessage>
+  
+  <Rotting.label>crwdns456610:0crwdne456610:0</Rotting.label>
+  <Rotting.deathMessage>crwdns456612:0{0}crwdne456612:0</Rotting.deathMessage>
+  
+  <Smoke.label>crwdns456614:0crwdne456614:0</Smoke.label>
+  <Smoke.deathMessage>crwdns456616:0{0}crwdne456616:0</Smoke.deathMessage>
+  
+  <Thump.label>crwdns456618:0crwdne456618:0</Thump.label>
+  <Thump.deathMessage>crwdns456620:0{0}crwdne456620:0</Thump.deathMessage>
+</LanguageData>

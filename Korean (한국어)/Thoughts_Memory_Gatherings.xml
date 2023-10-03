@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AttendedConcert.stages.attended_concert.label>연주회 참석</AttendedConcert.stages.attended_concert.label>
+  <AttendedConcert.stages.attended_concert.description>공연 듣는 것이 즐거웠어.</AttendedConcert.stages.attended_concert.description>
+  
+  <AttendedParty.stages.attended_party.label>파티</AttendedParty.stages.attended_party.label>
+  <AttendedParty.stages.attended_party.description>파티 즐거웠어.</AttendedParty.stages.attended_party.description>
+  
+  <AttendedWedding.stages.attended_wedding.label>결혼식 참여</AttendedWedding.stages.attended_wedding.label>
+  <AttendedWedding.stages.attended_wedding.description>두 명의 연이 이어지는걸 보는건 정말 좋은 일이지.</AttendedWedding.stages.attended_wedding.description>
+  
+  <EncouragingSpeech.stages.encouraging_speech.label>고무적인 연설</EncouragingSpeech.stages.encouraging_speech.label>
+  <EncouragingSpeech.stages.encouraging_speech.description>그 연설은 마치 우리가 나아갈 길이 확실하다는 느낌을 받았어.</EncouragingSpeech.stages.encouraging_speech.description>
+  
+  <GotMarried.stages.got_married_to.label>{0}(와)과 결혼</GotMarried.stages.got_married_to.label>
+  <GotMarried.stages.got_married_to.description>우리 결혼했어요! 미래가 화창하구나!</GotMarried.stages.got_married_to.description>
+  
+  <HeldConcert.stages.held_concert.label>연주회 개최</HeldConcert.stages.held_concert.label>
+  <HeldConcert.stages.held_concert.description>그들은 날 좋아해. 그들은 정말로 날 좋아해.</HeldConcert.stages.held_concert.description>
+  
+  <InspirationalSpeech.stages.inspirational_speech.label>감동적인 연설</InspirationalSpeech.stages.inspirational_speech.label>
+  <InspirationalSpeech.stages.inspirational_speech.description>그 연설이 감정적으로나 지적으로나 날 감동시켰어. 난 목표를 꼭 이룰거야.</InspirationalSpeech.stages.inspirational_speech.description>
+  
+  <TerribleSpeech.stages.terrible_speech.label>끔찍한 연설</TerribleSpeech.stages.terrible_speech.label>
+  <TerribleSpeech.stages.terrible_speech.description>형편없는 연설이야. 우리에게 얼마나 희망이 없는지 깨닫게 해주는구나.</TerribleSpeech.stages.terrible_speech.description>
+  
+  <UninspiringSpeech.stages.uninspiring_speech.label>시시한 연설</UninspiringSpeech.stages.uninspiring_speech.label>
+  <UninspiringSpeech.stages.uninspiring_speech.description>격려를 해준다더니 듣기 거북했어. 우리에게 하는 말이라면 앞으로가 너무 걱정인걸.</UninspiringSpeech.stages.uninspiring_speech.description>
+</LanguageData>

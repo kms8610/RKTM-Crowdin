@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Intro_Deserter.questDescriptionRules.rulesStrings>
+    <li>crwdns446794:0[asker_nameFull]crwdnd446794:0[asker_titleIndef]crwdnd446794:0[asker_pronoun]crwdnd446794:0[asker_factionName]crwdnd446794:0[asker_pronoun]crwdnd446794:0[map_definite]crwdnd446794:0[asker_nameDef]crwdnd446794:0[sitePart1_itemStashContents]crwdnd446794:0[asker_nameDef]crwdnd446794:0[asker_factionName]crwdnd446794:0[asker_factionName]crwdne446794:0</li>
+  </Intro_Deserter.questDescriptionRules.rulesStrings>
+  <Intro_Deserter.questNameRules.rulesStrings>
+    <li>crwdns446796:0crwdne446796:0</li>
+  </Intro_Deserter.questNameRules.rulesStrings>
+  <Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>crwdns446798:0{BASETEXT}crwdnd446798:0[asker_nameDef]crwdnd446798:0[asker_factionName]crwdnd446798:0[asker_objective]crwdne446798:0</Intro_Deserter.LetterLabelAskerBecameHostile.slateRef>
+  <Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>crwdns446800:0{BASELABEL}crwdne446800:0</Intro_Deserter.LetterLabelLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>crwdns446802:0{BASETEXT}crwdne446802:0</Intro_Deserter.LetterTextLoyaltySquad.value.slateRef>
+  <Intro_Deserter.LetterLabelQuestExpired.slateRef>crwdns446804:0[resolvedQuestName]crwdne446804:0</Intro_Deserter.LetterLabelQuestExpired.slateRef>
+  <Intro_Deserter.LetterTextQuestExpired.slateRef>crwdns446806:0crwdne446806:0</Intro_Deserter.LetterTextQuestExpired.slateRef>
+</LanguageData>

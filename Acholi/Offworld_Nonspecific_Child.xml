@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChildSpy47.baseDesc>crwdns450704:0[PAWN_nameDef]crwdnd450704:0[PAWN_pronoun]crwdnd450704:0[PAWN_possessive]crwdnd450704:0[PAWN_objective]crwdnd450704:0[PAWN_pronoun]crwdne450704:0</ChildSpy47.baseDesc>
+  <ChildSpy47.title>crwdns450706:0crwdne450706:0</ChildSpy47.title>
+  <ChildSpy47.titleShort>crwdns450708:0crwdne450708:0</ChildSpy47.titleShort>
+  
+  <ChildStar74.baseDesc>crwdns450710:0[PAWN_nameDef]crwdnd450710:0[PAWN_possessive]crwdnd450710:0[PAWN_possessive]crwdnd450710:0[PAWN_objective]crwdnd450710:0[PAWN_possessive]crwdne450710:0</ChildStar74.baseDesc>
+  <ChildStar74.title>crwdns450712:0crwdne450712:0</ChildStar74.title>
+  <ChildStar74.titleShort>crwdns450714:0crwdne450714:0</ChildStar74.titleShort>
+  
+  <ComaChild93.baseDesc>crwdns450716:0[PAWN_nameDef]crwdnd450716:0[PAWN_pronoun]crwdnd450716:0[PAWN_pronoun]crwdnd450716:0[PAWN_possessive]crwdnd450716:0[PAWN_possessive]crwdnd450716:0[PAWN_objective]crwdnd450716:0[PAWN_possessive]crwdne450716:0</ComaChild93.baseDesc>
+  <ComaChild93.title>crwdns450718:0crwdne450718:0</ComaChild93.title>
+  <ComaChild93.titleShort>crwdns450720:0crwdne450720:0</ComaChild93.titleShort>
+  
+  <CultChild3.baseDesc>crwdns450722:0[PAWN_nameDef]crwdnd450722:0[PAWN_possessive]crwdnd450722:0[PAWN_pronoun]crwdne450722:0</CultChild3.baseDesc>
+  <CultChild3.title>crwdns450724:0crwdne450724:0</CultChild3.title>
+  <CultChild3.titleShort>crwdns450726:0crwdne450726:0</CultChild3.titleShort>
+  
+  <FrightenedChild43.baseDesc>crwdns450728:0[PAWN_nameDef]crwdnd450728:0[PAWN_pronoun]crwdnd450728:0[PAWN_pronoun]crwdnd450728:0[PAWN_objective]crwdnd450728:0[PAWN_possessive]crwdnd450728:0[PAWN_objective]crwdne450728:0</FrightenedChild43.baseDesc>
+  <FrightenedChild43.title>crwdns450730:0crwdne450730:0</FrightenedChild43.title>
+  <FrightenedChild43.titleShort>crwdns450732:0crwdne450732:0</FrightenedChild43.titleShort>
+  
+  <MedicalAssistant12.baseDesc>crwdns450734:0[PAWN_nameDef]crwdnd450734:0[PAWN_pronoun]crwdnd450734:0[PAWN_possessive]crwdnd450734:0[PAWN_pronoun]crwdne450734:0</MedicalAssistant12.baseDesc>
+  <MedicalAssistant12.title>crwdns450736:0crwdne450736:0</MedicalAssistant12.title>
+  <MedicalAssistant12.titleShort>crwdns450738:0crwdne450738:0</MedicalAssistant12.titleShort>
+  
+  <MusicalKid86.baseDesc>crwdns450740:0[PAWN_nameDef]crwdnd450740:0[PAWN_pronoun]crwdnd450740:0[PAWN_pronoun]crwdnd450740:0[PAWN_objective]crwdne450740:0</MusicalKid86.baseDesc>
+  <MusicalKid86.title>crwdns450742:0crwdne450742:0</MusicalKid86.title>
+  <MusicalKid86.titleShort>crwdns450744:0crwdne450744:0</MusicalKid86.titleShort>
+  
+  <Mute34.baseDesc>crwdns450746:0[PAWN_nameDef]crwdnd450746:0[PAWN_possessive]crwdnd450746:0[PAWN_pronoun]crwdnd450746:0[PAWN_possessive]crwdne450746:0</Mute34.baseDesc>
+  <Mute34.title>crwdns450748:0crwdne450748:0</Mute34.title>
+  <Mute34.titleShort>crwdns450750:0crwdne450750:0</Mute34.titleShort>
+  
+  <OrganFarm67.baseDesc>crwdns450752:0[PAWN_nameDef]crwdnd450752:0[PAWN_possessive]crwdnd450752:0[PAWN_possessive]crwdnd450752:0[PAWN_objective]crwdnd450752:0[PAWN_objective]crwdne450752:0</OrganFarm67.baseDesc>
+  <OrganFarm67.title>crwdns450754:0crwdne450754:0</OrganFarm67.title>
+  <OrganFarm67.titleShort>crwdns450756:0crwdne450756:0</OrganFarm67.titleShort>
+  
+  <Pyromaniac18.baseDesc>crwdns450758:0[PAWN_nameDef]crwdnd450758:0[PAWN_pronoun]crwdnd450758:0[PAWN_pronoun]crwdnd450758:0[PAWN_objective]crwdnd450758:0[PAWN_pronoun]crwdnd450758:0[PAWN_possessive]crwdne450758:0</Pyromaniac18.baseDesc>
+  <Pyromaniac18.title>crwdns450760:0crwdne450760:0</Pyromaniac18.title>
+  <Pyromaniac18.titleShort>crwdns450762:0crwdne450762:0</Pyromaniac18.titleShort>
+  
+  <ShopKid36.baseDesc>crwdns450764:0[PAWN_nameDef]crwdnd450764:0[PAWN_objective]crwdnd450764:0[PAWN_pronoun]crwdnd450764:0[PAWN_pronoun]crwdne450764:0</ShopKid36.baseDesc>
+  <ShopKid36.title>crwdns450766:0crwdne450766:0</ShopKid36.title>
+  <ShopKid36.titleShort>crwdns450768:0crwdne450768:0</ShopKid36.titleShort>
+  
+  <SicklyChild55.baseDesc>crwdns450770:0[PAWN_nameDef]crwdnd450770:0[PAWN_pronoun]crwdnd450770:0[PAWN_pronoun]crwdne450770:0</SicklyChild55.baseDesc>
+  <SicklyChild55.title>crwdns450772:0crwdne450772:0</SicklyChild55.title>
+  <SicklyChild55.titleShort>crwdns450774:0crwdne450774:0</SicklyChild55.titleShort>
+  
+  <StoryWriter67.baseDesc>crwdns450776:0[PAWN_nameDef]crwdnd450776:0[PAWN_pronoun]crwdnd450776:0[PAWN_possessive]crwdnd450776:0[PAWN_possessive]crwdnd450776:0[PAWN_nameDef]crwdnd450776:0[PAWN_pronoun]crwdnd450776:0[PAWN_possessive]crwdne450776:0</StoryWriter67.baseDesc>
+  <StoryWriter67.title>crwdns450778:0crwdne450778:0</StoryWriter67.title>
+  <StoryWriter67.titleShort>crwdns450780:0crwdne450780:0</StoryWriter67.titleShort>
+  
+  <VatgrownSoldier8.baseDesc>crwdns450782:0[PAWN_nameDef]crwdnd450782:0[PAWN_possessive]crwdnd450782:0[PAWN_nameDef]crwdne450782:0</VatgrownSoldier8.baseDesc>
+  <VatgrownSoldier8.title>crwdns450784:0crwdne450784:0</VatgrownSoldier8.title>
+  <VatgrownSoldier8.titleShort>crwdns450786:0crwdne450786:0</VatgrownSoldier8.titleShort>
+  
+  <WarRefugee51.baseDesc>crwdns450788:0[PAWN_nameDef]crwdnd450788:0[PAWN_pronoun]crwdnd450788:0[PAWN_possessive]crwdnd450788:0[PAWN_objective]crwdnd450788:0[PAWN_nameDef]crwdnd450788:0[PAWN_objective]crwdnd450788:0[PAWN_pronoun]crwdnd450788:0[PAWN_objective]crwdne450788:0</WarRefugee51.baseDesc>
+  <WarRefugee51.title>crwdns450790:0crwdne450790:0</WarRefugee51.title>
+  <WarRefugee51.titleShort>crwdns450792:0crwdne450792:0</WarRefugee51.titleShort>
+</LanguageData>

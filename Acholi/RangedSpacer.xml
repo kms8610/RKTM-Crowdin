@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ChargeLance.label>crwdns474072:0crwdne474072:0</Bullet_ChargeLance.label>
+  
+  <Bullet_ChargeRifle.label>crwdns474074:0crwdne474074:0</Bullet_ChargeRifle.label>
+  
+  <Gun_ChargeLance.label>crwdns474076:0crwdne474076:0</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>crwdns474078:0crwdne474078:0</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.barrel.label>crwdns474080:0crwdne474080:0</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>crwdns474082:0crwdne474082:0</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <Gun_ChargeRifle.label>crwdns474084:0crwdne474084:0</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>crwdns474086:0crwdne474086:0</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.stock.label>crwdns474088:0crwdne474088:0</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.barrel.label>crwdns474090:0crwdne474090:0</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>crwdns474092:0crwdne474092:0</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

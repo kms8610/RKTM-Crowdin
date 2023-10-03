@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DeathrestAccelerator.label>crwdns427202:0crwdne427202:0</DeathrestAccelerator.label>
+  <DeathrestAccelerator.description>crwdns427204:0crwdne427204:0</DeathrestAccelerator.description>
+  
+  <DeathrestCasket.label>crwdns427206:0crwdne427206:0</DeathrestCasket.label>
+  <DeathrestCasket.description>crwdns427208:0crwdne427208:0</DeathrestCasket.description>
+  
+  <GlucosoidPump.label>crwdns427210:0crwdne427210:0</GlucosoidPump.label>
+  <GlucosoidPump.description>crwdns427212:0crwdne427212:0</GlucosoidPump.description>
+  <GlucosoidPump.comps.CompRefuelable.fuelLabel>crwdns427214:0crwdne427214:0</GlucosoidPump.comps.CompRefuelable.fuelLabel>
+  
+  <HemogenAmplifier.label>crwdns427216:0crwdne427216:0</HemogenAmplifier.label>
+  <HemogenAmplifier.description>crwdns427218:0crwdne427218:0</HemogenAmplifier.description>
+  <HemogenAmplifier.comps.CompRefuelable.fuelLabel>crwdns427220:0crwdne427220:0</HemogenAmplifier.comps.CompRefuelable.fuelLabel>
+  
+  <Hemopump.label>crwdns427222:0crwdne427222:0</Hemopump.label>
+  <Hemopump.description>crwdns427224:0crwdne427224:0</Hemopump.description>
+  <Hemopump.comps.CompRefuelable.fuelLabel>crwdns427226:0crwdne427226:0</Hemopump.comps.CompRefuelable.fuelLabel>
+  
+  <PsychofluidPump.label>crwdns427228:0crwdne427228:0</PsychofluidPump.label>
+  <PsychofluidPump.description>crwdns427230:0crwdne427230:0</PsychofluidPump.description>
+  <PsychofluidPump.comps.CompRefuelable.fuelLabel>crwdns427232:0crwdne427232:0</PsychofluidPump.comps.CompRefuelable.fuelLabel>
+</LanguageData>

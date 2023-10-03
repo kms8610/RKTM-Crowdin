@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MainPageCredit>Tynan Sylvester의 정착지 시뮬레이션</MainPageCredit>
+
+  <Credits_Developers>Engineering</Credits_Developers>
+  <Credit_MusicAndSound>음향</Credit_MusicAndSound>
+  <Credit_GameArt>예술</Credit_GameArt>
+  <Credit_MenuArt>메뉴 아트</Credit_MenuArt>
+  <Credits_AdditionalDevelopment>Additional engineering</Credits_AdditionalDevelopment>
+  <Credits_TitleCommunity>커뮤니티 자원자들</Credits_TitleCommunity>
+  <Credits_TitleTester>커뮤니티 테스터</Credits_TitleTester>
+  <Credits_TitleMods>모드</Credits_TitleMods>
+  <Credit_ModDonation>모드 기증</Credit_ModDonation>
+  <Credit_WritingDonation>이야기 기증</Credit_WritingDonation>
+  <Credit_Moderator>포럼 관리</Credit_Moderator>
+  <Credit_WikiMaster>위키 관리</Credit_WikiMaster>
+  <Credit_TestLead>테스트 리드</Credit_TestLead>
+  <Credits_TitleLanguage>{0} 언어</Credits_TitleLanguage>
+  <ThanksForPlaying>플레이 해주셔서 감사합니다!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <Credit_SpecialThanks>도움 주신 분들</Credit_SpecialThanks>
+
+</LanguageData>

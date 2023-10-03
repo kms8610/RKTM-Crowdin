@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerFestivalGlobal.rulePack.rulesStrings>
+    <li>crwdns439580:0[memeAdjective]crwdnd439580:0[festival]crwdne439580:0</li>
+    <li>crwdns439582:0[festival]crwdnd439582:0[chosenTheme]crwdne439582:0</li>
+    <li>crwdns439584:0[chosenAdjective]crwdnd439584:0[festival]crwdne439584:0</li>
+    <li>crwdns439586:0[keyDeity]crwdnd439586:0[festival]crwdne439586:0</li>
+    <li>crwdns439588:0[festival]crwdnd439588:0[keyDeity]crwdne439588:0</li>
+    <li>crwdns439590:0[festival]crwdnd439590:0[memeConcept]crwdne439590:0</li>
+    <li>crwdns439592:0[festival]crwdnd439592:0[chosenIdeoName]crwdne439592:0</li>
+    <li>crwdns439594:0crwdne439594:0</li>
+    <li>crwdns439596:0crwdne439596:0</li>
+    <li>crwdns439598:0crwdne439598:0</li>
+    <li>crwdns439600:0crwdne439600:0</li>
+    <li>crwdns439602:0crwdne439602:0</li>
+    <li>crwdns439604:0crwdne439604:0</li>
+    <li>crwdns439606:0crwdne439606:0</li>
+  </NamerFestivalGlobal.rulePack.rulesStrings>
+  
+  <NamerRitualFestival.rulePack.rulesStrings>
+    <li>crwdns439608:0[festivalName]crwdne439608:0</li>
+  </NamerRitualFestival.rulePack.rulesStrings>
+</LanguageData>

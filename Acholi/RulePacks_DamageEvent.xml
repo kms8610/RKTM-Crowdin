@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DamageEvent_Ceiling.rulePack.rulesStrings>
+    <li>crwdns464348:0[roof]crwdnd464348:0[collapsed]crwdne464348:0</li>
+    <li>crwdns464350:0crwdne464350:0</li>
+    <li>crwdns464352:0crwdne464352:0</li>
+    <li>crwdns464354:0crwdne464354:0</li>
+    <li>crwdns464356:0crwdne464356:0</li>
+    <li>crwdns464358:0crwdne464358:0</li>
+    <li>crwdns464360:0crwdne464360:0</li>
+    <li>crwdns464362:0crwdne464362:0</li>
+    <li>crwdns464364:0crwdne464364:0</li>
+    <li>crwdns464366:0crwdne464366:0</li>
+    <li>crwdns464368:0crwdne464368:0</li>
+    <li>crwdns464370:0crwdne464370:0</li>
+    <li>crwdns464372:0crwdne464372:0</li>
+    <li>crwdns464374:0crwdne464374:0</li>
+    <li>crwdns464376:0crwdne464376:0</li>
+    <li>crwdns464378:0crwdne464378:0</li>
+  </DamageEvent_Ceiling.rulePack.rulesStrings>
+  
+  <DamageEvent_Fire.rulePack.rulesStrings>
+    <li>crwdns464380:0[fire]crwdne464380:0</li>
+    <li>crwdns464382:0crwdne464382:0</li>
+    <li>crwdns464384:0crwdne464384:0</li>
+    <li>crwdns464386:0crwdne464386:0</li>
+    <li>crwdns464388:0crwdne464388:0</li>
+    <li>crwdns464390:0crwdne464390:0</li>
+    <li>crwdns464392:0crwdne464392:0</li>
+    <li>crwdns464394:0crwdne464394:0</li>
+    <li>crwdns464396:0crwdne464396:0</li>
+    <li>crwdns464398:0crwdne464398:0</li>
+    <li>crwdns464400:0crwdne464400:0</li>
+    <li>crwdns464402:0crwdne464402:0</li>
+    <li>crwdns464404:0crwdne464404:0</li>
+    <li>crwdns464406:0crwdne464406:0</li>
+    <li>crwdns464408:0crwdne464408:0</li>
+  </DamageEvent_Fire.rulePack.rulesStrings>
+  
+  <DamageEvent_Include.rulePack.rulesStrings>
+    <li>crwdns464410:0[damage_source]crwdnd464410:0[RECIPIENT_nameDef]crwdnd464410:0[destroyed_present]crwdnd464410:0[RECIPIENT_possessive]crwdnd464410:0[destroyed_targets]crwdne464410:0</li>
+    <li>crwdns464412:0[damage_source]crwdnd464412:0[RECIPIENT_nameDef]crwdnd464412:0[destroyed_present]crwdnd464412:0[RECIPIENT_possessive]crwdnd464412:0[destroyed_targets]crwdnd464412:0[damaged_present]crwdnd464412:0[RECIPIENT_possessive]crwdnd464412:0[damaged_targets]crwdne464412:0</li>
+    <li>crwdns464414:0[damage_source]crwdnd464414:0[RECIPIENT_nameDef]crwdnd464414:0[damaged_present]crwdnd464414:0[RECIPIENT_possessive]crwdnd464414:0[damaged_targets]crwdne464414:0</li>
+    <li>crwdns464416:0[damage_source]crwdnd464416:0[RECIPIENT_nameDef]crwdne464416:0</li>
+  </DamageEvent_Include.rulePack.rulesStrings>
+  
+  <DamageEvent_PowerBeam.rulePack.rulesStrings>
+    <li>crwdns464418:0[sky]crwdne464418:0</li>
+    <li>crwdns464420:0[power]crwdnd464420:0[damaged_past]crwdne464420:0</li>
+    <li>crwdns464422:0[light]crwdnd464422:0[damaged_past]crwdne464422:0</li>
+    <li>crwdns464424:0crwdne464424:0</li>
+    <li>crwdns464426:0crwdne464426:0</li>
+    <li>crwdns464428:0crwdne464428:0</li>
+    <li>crwdns464430:0crwdne464430:0</li>
+    <li>crwdns464432:0crwdne464432:0</li>
+    <li>crwdns464434:0crwdne464434:0</li>
+    <li>crwdns464436:0crwdne464436:0</li>
+    <li>crwdns464438:0crwdne464438:0</li>
+    <li>crwdns464440:0crwdne464440:0</li>
+    <li>crwdns464442:0crwdne464442:0</li>
+  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+  
+  <DamageEvent_Tornado.rulePack.rulesStrings>
+    <li>crwdns464444:0[spiraling]crwdnd464444:0[enveloped]crwdne464444:0</li>
+    <li>crwdns464446:0crwdne464446:0</li>
+    <li>crwdns464448:0crwdne464448:0</li>
+    <li>crwdns464450:0crwdne464450:0</li>
+    <li>crwdns464452:0crwdne464452:0</li>
+    <li>crwdns464454:0crwdne464454:0</li>
+    <li>crwdns464456:0crwdne464456:0</li>
+    <li>crwdns464458:0crwdne464458:0</li>
+    <li>crwdns464460:0crwdne464460:0</li>
+  </DamageEvent_Tornado.rulePack.rulesStrings>
+  
+  <DamageEvent_TrapSpike.rulePack.rulesStrings>
+    <li>crwdns464462:0[spiketrap]crwdne464462:0</li>
+    <li>crwdns464464:0[spiketrap]crwdne464464:0</li>
+    <li>crwdns464466:0[spiketrap]crwdne464466:0</li>
+    <li>crwdns464468:0crwdne464468:0</li>
+    <li>crwdns464470:0crwdne464470:0</li>
+    <li>crwdns464472:0crwdne464472:0</li>
+    <li>crwdns464474:0crwdne464474:0</li>
+    <li>crwdns464476:0crwdne464476:0</li>
+    <li>crwdns464478:0crwdne464478:0</li>
+    <li>crwdns464480:0crwdne464480:0</li>
+    <li>crwdns464482:0crwdne464482:0</li>
+    <li>crwdns464484:0crwdne464484:0</li>
+    <li>crwdns464486:0crwdne464486:0</li>
+    <li>crwdns464488:0crwdne464488:0</li>
+    <li>crwdns464490:0crwdne464490:0</li>
+    <li>crwdns464492:0crwdne464492:0</li>
+  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+</LanguageData>

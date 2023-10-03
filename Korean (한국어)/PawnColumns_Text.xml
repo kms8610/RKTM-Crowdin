@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ManhunterOnDamageChance.headerTip>The chance this creature will attack when harmed.\n\nThis chance increases up to three times if the attacker is closer.\n\nThis chance is applied each time damage is taken. This means that slower-firing, higher-damage weapons are less likely to trigger it while hunting.</ManhunterOnDamageChance.headerTip>
+  
+  <ManhunterOnTameFailChance.headerTip>동물을 길들이려 할 때 덤벼들 확률입니다.</ManhunterOnTameFailChance.headerTip>
+</LanguageData>

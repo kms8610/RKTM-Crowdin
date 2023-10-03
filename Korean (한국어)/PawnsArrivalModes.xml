@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CenterDrop.textEnemy>{1}의 {0} 무리가 바로 중앙으로 낙하하고 있습니다!</CenterDrop.textEnemy>
+  <CenterDrop.textFriendly>우호적인 {1}의 {0} 무리가 바로 중앙으로 낙하하고 있습니다!</CenterDrop.textFriendly>
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef}의 수송 포드가 바로 위에 도착합니다.</CenterDrop.textWillArrive>
+  
+  <EdgeDrop.textEnemy>{1}에서 온 {0}이 수송 포드로 근처에 도착했습니다.</EdgeDrop.textEnemy>
+  <EdgeDrop.textFriendly>{1}에서 온 우호적인 {0}이 수송 포드로 근처에 도착했습니다.</EdgeDrop.textFriendly>
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef}의 수송 포드가 도착했습니다.</EdgeDrop.textWillArrive>
+  
+  <EdgeDropGroups.textEnemy>각기 떨어진 {1}의 {0} 무리가 수송 포드로 근처에 도착했습니다.</EdgeDropGroups.textEnemy>
+  <EdgeDropGroups.textFriendly>각기 떨어진 우호적인 {1}의 {0} 무리가 수송 포드로 근처에 도착했습니다.</EdgeDropGroups.textFriendly>
+  <EdgeDropGroups.textWillArrive>각기 떨어진 {0_pawnsPluralDef}의 무리가 수송 포드로 근처에 도착했습니다.</EdgeDropGroups.textWillArrive>
+  
+  <EdgeWalkIn.textEnemy>{1}의 {0} 무리가 근처에 도착했습니다.</EdgeWalkIn.textEnemy>
+  <EdgeWalkIn.textFriendly>우호적인 {1}의 {0} 무리가 근처에 도착했습니다.</EdgeWalkIn.textFriendly>
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef}(이)가 걸어서 도착했습니다.</EdgeWalkIn.textWillArrive>
+  
+  <EdgeWalkInGroups.textEnemy>각기 떨어진 {1}의 {0} 무리가 근처에 도착했습니다.</EdgeWalkInGroups.textEnemy>
+  <EdgeWalkInGroups.textFriendly>각기 떨어진 우호적인 {1}의 {0} 무리가 근처에 도착했습니다.</EdgeWalkInGroups.textFriendly>
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef}(이)가 걸어서 도착하여, 한번에 여러 갈래에서 접근합니다.</EdgeWalkInGroups.textWillArrive>
+  
+  <MechClusterDrop.textEnemy>{0}의 무리가 근처에 수송 포드로 착륙했습니다.</MechClusterDrop.textEnemy>
+  <MechClusterDrop.textWillArrive>메카노이드 무리가 수송 포드로 착륙했습니다.</MechClusterDrop.textWillArrive>
+  
+  <RandomDrop.textEnemy>{1} 의 {0} 그룹이 수송 포드에 도착했습니다. 그들의 포트가 뒤엉켜서 온 지역에 흩어져 착륙하고 있습니다!</RandomDrop.textEnemy>
+  <RandomDrop.textFriendly>{1} 의 동맹 {0} 그룹이 수송 포드에 도착했습니다. 그들의 포트가 뒤엉켜서 온 지역에 흩어져 착륙하고 있습니다!</RandomDrop.textFriendly>
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef}의 수송 포드가 도착했습니다.</RandomDrop.textWillArrive>
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_GenerateSite.root.singleSitePartRules.slateRef>
+    <rulesStrings>
+      <li>crwdns461506:0[temperatureOffset]crwdne461506:0</li>
+      <li>crwdns461508:0[affectedGender]crwdne461508:0</li>
+      <li>crwdns461510:0[affectedGender]crwdne461510:0</li>
+      <li>crwdns461512:0[weather_label]crwdne461512:0</li>
+      <li>crwdns461514:0crwdne461514:0</li>
+      <li>crwdns461516:0crwdne461516:0</li>
+      <li>crwdns461518:0crwdne461518:0</li>
+      <li>crwdns461520:0crwdne461520:0</li>
+      <li>crwdns461522:0[enemiesCount]crwdnd461522:0[enemiesLabel]crwdnd461522:0[mtbDays]crwdne461522:0</li>
+      <li>crwdns461524:0[enemiesCount]crwdnd461524:0[enemiesLabel]crwdne461524:0</li>
+      <li>crwdns461526:0[enemiesCount]crwdnd461526:0[enemiesLabel]crwdne461526:0</li>
+      <li>crwdns461528:0[kindLabel]crwdne461528:0</li>
+      <li>crwdns461530:0[count]crwdnd461530:0[kindLabel]crwdne461530:0</li>
+      <li>crwdns461532:0crwdne461532:0</li>
+      <li>crwdns461534:0[count]crwdne461534:0</li>
+      <li>crwdns461536:0[threatsInfo]crwdne461536:0</li>
+      <li>crwdns461538:0crwdne461538:0</li>
+      <li>crwdns461540:0crwdne461540:0</li>
+      <li>crwdns461542:0crwdne461542:0</li>
+      <li>crwdns461544:0crwdne461544:0</li>
+      <li>crwdns461546:0[label]crwdne461546:0</li>
+    </rulesStrings>
+  </Util_GenerateSite.root.singleSitePartRules.slateRef>
+  
+  <Util_MechCluster.questDescriptionRules.rulesStrings>
+    <li>crwdns461548:0[map_definite]crwdnd461548:0[allThreats]crwdne461548:0</li>
+  </Util_MechCluster.questDescriptionRules.rulesStrings>
+  
+  <Util_Raid.questDescriptionRules.rulesStrings>
+    <li>crwdns461550:0[enemyFaction_pawnsPlural]crwdnd461550:0[enemyFaction_name]crwdnd461550:0[raidPawnKinds]crwdnd461550:0[raidArrivalModeInfo]crwdne461550:0</li>
+  </Util_Raid.questDescriptionRules.rulesStrings>
+  
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>crwdns461552:0[enemyFaction_pawnsPlural]crwdne461552:0</li>
+    <li>crwdns461554:0[enemyFaction_pawnsPlural]crwdne461554:0</li>
+    <li>crwdns461556:0[enemyFaction_pawnsPlural]crwdne461556:0</li>
+    <li>crwdns461558:0[enemyFaction_pawnsPlural]crwdnd461558:0[raidCountMinusOne]crwdne461558:0</li>
+    <li>crwdns461560:0crwdne461560:0</li>
+    <li>crwdns461562:0crwdne461562:0</li>
+    <li>crwdns461564:0crwdne461564:0</li>
+    <li>crwdns461566:0[raidCount]crwdne461566:0</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AttendedConcert.stages.attended_concert.label>crwdns474572:0crwdne474572:0</AttendedConcert.stages.attended_concert.label>
+  <AttendedConcert.stages.attended_concert.description>crwdns474574:0crwdne474574:0</AttendedConcert.stages.attended_concert.description>
+  
+  <AttendedParty.stages.attended_party.label>crwdns474576:0crwdne474576:0</AttendedParty.stages.attended_party.label>
+  <AttendedParty.stages.attended_party.description>crwdns474578:0crwdne474578:0</AttendedParty.stages.attended_party.description>
+  
+  <AttendedWedding.stages.attended_wedding.label>crwdns474580:0crwdne474580:0</AttendedWedding.stages.attended_wedding.label>
+  <AttendedWedding.stages.attended_wedding.description>crwdns474582:0crwdne474582:0</AttendedWedding.stages.attended_wedding.description>
+  
+  <EncouragingSpeech.stages.encouraging_speech.label>crwdns474584:0crwdne474584:0</EncouragingSpeech.stages.encouraging_speech.label>
+  <EncouragingSpeech.stages.encouraging_speech.description>crwdns474586:0crwdne474586:0</EncouragingSpeech.stages.encouraging_speech.description>
+  
+  <GotMarried.stages.got_married_to.label>crwdns474588:0{0}crwdne474588:0</GotMarried.stages.got_married_to.label>
+  <GotMarried.stages.got_married_to.description>crwdns474590:0crwdne474590:0</GotMarried.stages.got_married_to.description>
+  
+  <HeldConcert.stages.held_concert.label>crwdns474592:0crwdne474592:0</HeldConcert.stages.held_concert.label>
+  <HeldConcert.stages.held_concert.description>crwdns474594:0crwdne474594:0</HeldConcert.stages.held_concert.description>
+  
+  <InspirationalSpeech.stages.inspirational_speech.label>crwdns474596:0crwdne474596:0</InspirationalSpeech.stages.inspirational_speech.label>
+  <InspirationalSpeech.stages.inspirational_speech.description>crwdns474598:0crwdne474598:0</InspirationalSpeech.stages.inspirational_speech.description>
+  
+  <TerribleSpeech.stages.terrible_speech.label>crwdns474600:0crwdne474600:0</TerribleSpeech.stages.terrible_speech.label>
+  <TerribleSpeech.stages.terrible_speech.description>crwdns474602:0crwdne474602:0</TerribleSpeech.stages.terrible_speech.description>
+  
+  <UninspiringSpeech.stages.uninspiring_speech.label>crwdns474604:0crwdne474604:0</UninspiringSpeech.stages.uninspiring_speech.label>
+  <UninspiringSpeech.stages.uninspiring_speech.description>crwdns474606:0crwdne474606:0</UninspiringSpeech.stages.uninspiring_speech.description>
+</LanguageData>

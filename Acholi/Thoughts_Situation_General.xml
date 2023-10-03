@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ApparelDamaged.stages.ratty_apparel.label>crwdns475158:0crwdne475158:0</ApparelDamaged.stages.ratty_apparel.label>
+  <ApparelDamaged.stages.ratty_apparel.description>crwdns475160:0crwdne475160:0</ApparelDamaged.stages.ratty_apparel.description>
+  <ApparelDamaged.stages.tattered_apparel.label>crwdns475162:0crwdne475162:0</ApparelDamaged.stages.tattered_apparel.label>
+  <ApparelDamaged.stages.tattered_apparel.description>crwdns475164:0crwdne475164:0</ApparelDamaged.stages.tattered_apparel.description>
+  
+  <DeadMansApparel.stages.tainted.label>crwdns475166:0{0}crwdne475166:0</DeadMansApparel.stages.tainted.label>
+  <DeadMansApparel.stages.tainted.description>crwdns475168:0crwdne475168:0</DeadMansApparel.stages.tainted.description>
+  <DeadMansApparel.stages.tainted_1.label>crwdns475170:0{0}crwdne475170:0</DeadMansApparel.stages.tainted_1.label>
+  <DeadMansApparel.stages.tainted_1.description>crwdns475172:0crwdne475172:0</DeadMansApparel.stages.tainted_1.description>
+  <DeadMansApparel.stages.tainted_2.label>crwdns475174:0{0}crwdne475174:0</DeadMansApparel.stages.tainted_2.label>
+  <DeadMansApparel.stages.tainted_2.description>crwdns475176:0crwdne475176:0</DeadMansApparel.stages.tainted_2.description>
+  <DeadMansApparel.stages.tainted_etc.label>crwdns475178:0{0}crwdne475178:0</DeadMansApparel.stages.tainted_etc.label>
+  <DeadMansApparel.stages.tainted_etc.description>crwdns475180:0crwdne475180:0</DeadMansApparel.stages.tainted_etc.description>
+  
+  <EnvironmentCold.stages.chilly.label>crwdns475182:0crwdne475182:0</EnvironmentCold.stages.chilly.label>
+  <EnvironmentCold.stages.chilly.description>crwdns475184:0crwdne475184:0</EnvironmentCold.stages.chilly.description>
+  <EnvironmentCold.stages.cold.label>crwdns475186:0crwdne475186:0</EnvironmentCold.stages.cold.label>
+  <EnvironmentCold.stages.cold.description>crwdns475188:0crwdne475188:0</EnvironmentCold.stages.cold.description>
+  <EnvironmentCold.stages.numbing_cold.label>crwdns475190:0crwdne475190:0</EnvironmentCold.stages.numbing_cold.label>
+  <EnvironmentCold.stages.numbing_cold.description>crwdns475192:0crwdne475192:0</EnvironmentCold.stages.numbing_cold.description>
+  <EnvironmentCold.stages.absolutely_freezing.label>crwdns475194:0crwdne475194:0</EnvironmentCold.stages.absolutely_freezing.label>
+  <EnvironmentCold.stages.absolutely_freezing.description>crwdns475196:0crwdne475196:0</EnvironmentCold.stages.absolutely_freezing.description>
+  
+  <EnvironmentDark.stages.darkness.label>crwdns475198:0crwdne475198:0</EnvironmentDark.stages.darkness.label>
+  <EnvironmentDark.stages.darkness.description>crwdns475200:0crwdne475200:0</EnvironmentDark.stages.darkness.description>
+  
+  <EnvironmentHot.stages.sweaty.label>crwdns475202:0crwdne475202:0</EnvironmentHot.stages.sweaty.label>
+  <EnvironmentHot.stages.sweaty.description>crwdns475204:0crwdne475204:0</EnvironmentHot.stages.sweaty.description>
+  <EnvironmentHot.stages.hot.label>crwdns475206:0crwdne475206:0</EnvironmentHot.stages.hot.label>
+  <EnvironmentHot.stages.hot.description>crwdns475208:0crwdne475208:0</EnvironmentHot.stages.hot.description>
+  <EnvironmentHot.stages.sweltering_hot.label>crwdns475210:0crwdne475210:0</EnvironmentHot.stages.sweltering_hot.label>
+  <EnvironmentHot.stages.sweltering_hot.description>crwdns475212:0crwdne475212:0</EnvironmentHot.stages.sweltering_hot.description>
+  <EnvironmentHot.stages.blistering_hot.label>crwdns475214:0crwdne475214:0</EnvironmentHot.stages.blistering_hot.label>
+  <EnvironmentHot.stages.blistering_hot.description>crwdns475216:0crwdne475216:0</EnvironmentHot.stages.blistering_hot.description>
+  
+  <HumanLeatherApparelHappy.stages.human_leather.label>crwdns475218:0{0}crwdne475218:0</HumanLeatherApparelHappy.stages.human_leather.label>
+  <HumanLeatherApparelHappy.stages.human_leather.description>crwdns475220:0crwdne475220:0</HumanLeatherApparelHappy.stages.human_leather.description>
+  <HumanLeatherApparelHappy.stages.human_leather_1.label>crwdns475222:0{0}crwdne475222:0</HumanLeatherApparelHappy.stages.human_leather_1.label>
+  <HumanLeatherApparelHappy.stages.human_leather_1.description>crwdns475224:0crwdne475224:0</HumanLeatherApparelHappy.stages.human_leather_1.description>
+  <HumanLeatherApparelHappy.stages.human_leather_2.label>crwdns475226:0{0}crwdne475226:0</HumanLeatherApparelHappy.stages.human_leather_2.label>
+  <HumanLeatherApparelHappy.stages.human_leather_2.description>crwdns475228:0crwdne475228:0</HumanLeatherApparelHappy.stages.human_leather_2.description>
+  <HumanLeatherApparelHappy.stages.human_leather_etc.label>crwdns475230:0{0}crwdne475230:0</HumanLeatherApparelHappy.stages.human_leather_etc.label>
+  <HumanLeatherApparelHappy.stages.human_leather_etc.description>crwdns475232:0crwdne475232:0</HumanLeatherApparelHappy.stages.human_leather_etc.description>
+  
+  <HumanLeatherApparelSad.stages.human_leather.label>crwdns475234:0{0}crwdne475234:0</HumanLeatherApparelSad.stages.human_leather.label>
+  <HumanLeatherApparelSad.stages.human_leather.description>crwdns475236:0crwdne475236:0</HumanLeatherApparelSad.stages.human_leather.description>
+  <HumanLeatherApparelSad.stages.human_leather_1.label>crwdns475238:0{0}crwdne475238:0</HumanLeatherApparelSad.stages.human_leather_1.label>
+  <HumanLeatherApparelSad.stages.human_leather_1.description>crwdns475240:0crwdne475240:0</HumanLeatherApparelSad.stages.human_leather_1.description>
+  <HumanLeatherApparelSad.stages.human_leather_2.label>crwdns475242:0{0}crwdne475242:0</HumanLeatherApparelSad.stages.human_leather_2.label>
+  <HumanLeatherApparelSad.stages.human_leather_2.description>crwdns475244:0crwdne475244:0</HumanLeatherApparelSad.stages.human_leather_2.description>
+  <HumanLeatherApparelSad.stages.human_leather_etc.label>crwdns475246:0{0}crwdne475246:0</HumanLeatherApparelSad.stages.human_leather_etc.label>
+  <HumanLeatherApparelSad.stages.human_leather_etc.description>crwdns475248:0crwdne475248:0</HumanLeatherApparelSad.stages.human_leather_etc.description>
+  
+  <Sick.stages.sick.label>crwdns475250:0crwdne475250:0</Sick.stages.sick.label>
+  <Sick.stages.sick.description>crwdns475252:0crwdne475252:0</Sick.stages.sick.description>
+  
+  <WrongApparelGender.stages.wearing_apparel.label>crwdns475254:0{0}crwdne475254:0</WrongApparelGender.stages.wearing_apparel.label>
+  <WrongApparelGender.stages.wearing_apparel.description>crwdns475256:0{0}crwdne475256:0</WrongApparelGender.stages.wearing_apparel.description>
+</LanguageData>

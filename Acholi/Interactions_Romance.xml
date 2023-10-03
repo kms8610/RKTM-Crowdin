@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>crwdns462892:0[RECIPIENT_nameDef]crwdne462892:0</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>crwdns462894:0[RECIPIENT_nameDef]crwdne462894:0</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>crwdns462896:0crwdne462896:0</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+    <li>crwdns462898:0[RECIPIENT_nameDef]crwdnd462898:0[INITIATOR_nameDef]crwdne462898:0</li>
+    <li>crwdns462900:0[RECIPIENT_nameDef]crwdnd462900:0[INITIATOR_nameDef]crwdne462900:0</li>
+    <li>crwdns462902:0[RECIPIENT_nameDef]crwdnd462902:0[INITIATOR_nameDef]crwdne462902:0</li>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>crwdns462904:0[RECIPIENT_nameDef]crwdne462904:0</li>
+    <li>crwdns462906:0[RECIPIENT_nameDef]crwdne462906:0</li>
+    <li>crwdns462908:0[RECIPIENT_nameDef]crwdnd462908:0[RECIPIENT_possessive]crwdne462908:0</li>
+    <li>crwdns462910:0[RECIPIENT_nameDef]crwdne462910:0</li>
+    <li>crwdns462912:0[RECIPIENT_nameDef]crwdne462912:0</li>
+    <li>crwdns462914:0[RECIPIENT_nameDef]crwdne462914:0</li>
+    <li>crwdns462916:0[RECIPIENT_nameDef]crwdnd462916:0[INITIATOR_objective]crwdne462916:0</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+</LanguageData>

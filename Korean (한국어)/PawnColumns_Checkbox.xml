@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <FollowDrafted.headerTip>주인이 소집되면 따라다닙니다.</FollowDrafted.headerTip>
+  
+  <FollowFieldwork.headerTip>주인이 외부 작업을 하면 따라다닙니다. (사냥, 조련 등)</FollowFieldwork.headerTip>
+  
+  <Hunt.headerTip>동물에 표시를 남겨 사냥 하도록 지시합니다.</Hunt.headerTip>
+  
+  <ReleaseAnimalToWild.headerTip>야생으로 돌려보내기</ReleaseAnimalToWild.headerTip>
+  
+  <Slaughter.headerTip>도축</Slaughter.headerTip>
+  
+  <Sterile.headerTip>Sterilize</Sterile.headerTip>
+  
+  <Tame.headerTip>야생동물을 길들입니다.</Tame.headerTip>
+</LanguageData>

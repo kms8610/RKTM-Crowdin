@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LetterDay>crwdns485852:0crwdne485852:0</LetterDay>
+  <LetterHour>crwdns485854:0crwdne485854:0</LetterHour>
+  <LetterMinute>crwdns485856:0crwdne485856:0</LetterMinute>
+  <LetterSecond>crwdns485858:0crwdne485858:0</LetterSecond>
+  <LetterYear>crwdns485860:0crwdne485860:0</LetterYear>
+
+  <DaysLower>crwdns485862:0crwdne485862:0</DaysLower>
+  <HoursLower>crwdns485864:0crwdne485864:0</HoursLower>
+  <SecondsLower>crwdns485866:0crwdne485866:0</SecondsLower>
+
+  <SeasonSpring>crwdns485868:0crwdne485868:0</SeasonSpring>
+  <SeasonSummer>crwdns485870:0crwdne485870:0</SeasonSummer>
+  <SeasonFall>crwdns485872:0crwdne485872:0</SeasonFall>
+  <SeasonWinter>crwdns485874:0crwdne485874:0</SeasonWinter>
+  <SeasonPermanentSummer>crwdns485876:0crwdne485876:0</SeasonPermanentSummer>
+  <SeasonPermanentWinter>crwdns485878:0crwdne485878:0</SeasonPermanentWinter>
+
+  <QuadrumAprimay>crwdns485880:0crwdne485880:0</QuadrumAprimay>
+  <QuadrumJugust>crwdns485882:0crwdne485882:0</QuadrumJugust>
+  <QuadrumSeptober>crwdns485884:0crwdne485884:0</QuadrumSeptober>
+  <QuadrumDecembary>crwdns485886:0crwdne485886:0</QuadrumDecembary>
+
+  <QuadrumAprimay_Short>crwdns485888:0crwdne485888:0</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>crwdns485890:0crwdne485890:0</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>crwdns485892:0crwdne485892:0</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>crwdns485894:0crwdne485894:0</QuadrumDecembary_Short>
+  
+  <Born>crwdns485896:0{0}crwdne485896:0</Born>
+  <AgeChronological>crwdns485898:0{0}crwdnd485898:0{1}crwdnd485898:0{2}crwdne485898:0</AgeChronological>
+  <AgeBiological>crwdns485900:0{0}crwdnd485900:0{1}crwdnd485900:0{2}crwdne485900:0</AgeBiological>
+
+  <!-- Date periods -->
+  <Period1Year>crwdns485902:0crwdne485902:0</Period1Year>
+  <PeriodYears>crwdns485904:0{0}crwdne485904:0</PeriodYears>
+  <Period1Quadrum>crwdns485906:0crwdne485906:0</Period1Quadrum>
+  <PeriodQuadrums>crwdns485908:0{0}crwdne485908:0</PeriodQuadrums>
+  <Period1Day>crwdns485910:0crwdne485910:0</Period1Day>
+  <PeriodDays>crwdns485912:0{0}crwdne485912:0</PeriodDays>
+  <Period1Hour>crwdns485914:0crwdne485914:0</Period1Hour>
+  <PeriodHours>crwdns485916:0{0}crwdne485916:0</PeriodHours>
+  <Period1Second>crwdns485918:0crwdne485918:0</Period1Second>
+  <PeriodSeconds>crwdns485920:0{0}crwdne485920:0</PeriodSeconds>
+
+  <!-- Misc -->
+  <Started>crwdns485922:0crwdne485922:0</Started>
+  <Lasted>crwdns485924:0crwdne485924:0</Lasted>
+  <OccurredTimeAgo>crwdns485926:0{0}crwdne485926:0</OccurredTimeAgo>
+  <TimeAgo>crwdns485928:0{0}crwdne485928:0</TimeAgo>
+  
+</LanguageData>

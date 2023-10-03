@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IndefiniteArticle>crwdns480972:0crwdne480972:0</IndefiniteArticle>
+  <DefiniteArticle>crwdns480974:0crwdne480974:0</DefiniteArticle>
+  <IndefiniteForm>crwdns480976:0{0}crwdne480976:0</IndefiniteForm>
+  <DefiniteForm>crwdns480978:0{0}crwdne480978:0</DefiniteForm>
+
+  <Proits>crwdns480980:0crwdne480980:0</Proits>
+  <Prohis>crwdns480982:0crwdne480982:0</Prohis>
+  <Proher>crwdns480984:0crwdne480984:0</Proher>
+  <ProitsCap>crwdns480986:0crwdne480986:0</ProitsCap>
+  <ProhisCap>crwdns480988:0crwdne480988:0</ProhisCap>
+  <ProherCap>crwdns480990:0crwdne480990:0</ProherCap>
+
+  <ProitObj>crwdns480992:0crwdne480992:0</ProitObj>
+  <ProhimObj>crwdns480994:0crwdne480994:0</ProhimObj>
+  <ProherObj>crwdns480996:0crwdne480996:0</ProherObj>
+  <ProitObjCap>crwdns480998:0crwdne480998:0</ProitObjCap>
+  <ProhimObjCap>crwdns481000:0crwdne481000:0</ProhimObjCap>
+  <ProherObjCap>crwdns481002:0crwdne481002:0</ProherObjCap>
+
+  <Prohe>crwdns481004:0crwdne481004:0</Prohe>
+  <Proshe>crwdns481006:0crwdne481006:0</Proshe>
+  <Proit>crwdns481008:0crwdne481008:0</Proit>
+  <ProheCap>crwdns481010:0crwdne481010:0</ProheCap>
+  <ProsheCap>crwdns481012:0crwdne481012:0</ProsheCap>
+  <ProitCap>crwdns481014:0crwdne481014:0</ProitCap>
+
+  <ClauseSequence2>crwdns481016:0{0}crwdnd481016:0{1}crwdne481016:0</ClauseSequence2>
+  <ClauseSequence3>crwdns481018:0{0}crwdnd481018:0{1}crwdnd481018:0{2}crwdne481018:0</ClauseSequence3>
+  <ClauseSequence4>crwdns481020:0{0}crwdnd481020:0{1}crwdnd481020:0{2}crwdnd481020:0{3}crwdne481020:0</ClauseSequence4>
+  <ClauseSequence5>crwdns481022:0{0}crwdnd481022:0{1}crwdnd481022:0{2}crwdnd481022:0{3}crwdnd481022:0{4}crwdne481022:0</ClauseSequence5>
+  <ClauseSequence6>crwdns481024:0{0}crwdnd481024:0{1}crwdnd481024:0{2}crwdnd481024:0{3}crwdnd481024:0{4}crwdnd481024:0{5}crwdne481024:0</ClauseSequence6>
+  <ClauseSequence7>crwdns481026:0{0}crwdnd481026:0{1}crwdnd481026:0{2}crwdnd481026:0{3}crwdnd481026:0{4}crwdnd481026:0{5}crwdnd481026:0{6}crwdne481026:0</ClauseSequence7>
+  <ClauseSequence8>crwdns481028:0{0}crwdnd481028:0{1}crwdnd481028:0{2}crwdnd481028:0{3}crwdnd481028:0{4}crwdnd481028:0{5}crwdnd481028:0{6}crwdnd481028:0{7}crwdne481028:0</ClauseSequence8>
+
+  <XorY>crwdns481030:0{0}crwdnd481030:0{1}crwdne481030:0</XorY>
+
+</LanguageData>

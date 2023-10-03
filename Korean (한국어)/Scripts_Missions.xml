@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>questDescription->[enemiesLabel](이)가 캠프를 세우고 [asker_faction_name]의 상단을 괴롭히고 있습니다. [asker_nameDef](은)는 [enemiesLabel] [enemiesCount]명이 지키고 있는 캠프에 대한 공중강습을 계획하고 있습니다. [asker_pronoun]는 [soldiers](을)를 제공하여 공격을 수행하길 원합니다.\n\n[asker_pronoun]는 왕복선을 보내 전사들을 이동시키고, 지역 공격이 완료되면 다시 집으로 돌려보낼 것입니다. 이동 중에는 충분한 식량이 제공됩니다.\n\n공격이 시작되면, [timeoutTicks_duration] 내로 모든 적과 포탑들을 격파해야 합니다.</li>
+    <li>soldiers(requiredPawnCount>1)->군인 [requiredPawnCount]명</li>
+    <li>soldiers(requiredPawnCount==1)->군인 [requiredPawnCount]명</li>
+  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[questNameInner]</li>
+    <li>questName->[asker_nameDef]의 [questNameInner]</li>
+    <li>questNameInner->[aerial] [attack]</li>
+    <li>questNameInner->[target] [attack]</li>
+    <li>questNameInner->[attack] [work]</li>
+    <li>target->수용소</li>
+    <li>target->기지</li>
+    <li>target->요새</li>
+    <li>aerial->항공</li>
+    <li>aerial->공중</li>
+    <li>aerial->수송선</li>
+    <li>attack->공격</li>
+    <li>attack->돌격</li>
+    <li>work->작업</li>
+    <li>work->과업</li>
+  </Mission_BanditCamp.questNameRules.rulesStrings>
+</LanguageData>

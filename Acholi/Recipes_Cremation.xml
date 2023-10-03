@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BurnApparel.label>crwdns461850:0crwdne461850:0</BurnApparel.label>
+  <BurnApparel.description>crwdns461852:0crwdne461852:0</BurnApparel.description>
+  <BurnApparel.jobString>crwdns461854:0crwdne461854:0</BurnApparel.jobString>
+  
+  <BurnDrugs.label>crwdns461856:0crwdne461856:0</BurnDrugs.label>
+  <BurnDrugs.description>crwdns461858:0crwdne461858:0</BurnDrugs.description>
+  <BurnDrugs.jobString>crwdns461860:0crwdne461860:0</BurnDrugs.jobString>
+  
+  <BurnWeapon.label>crwdns461862:0crwdne461862:0</BurnWeapon.label>
+  <BurnWeapon.description>crwdns461864:0crwdne461864:0</BurnWeapon.description>
+  <BurnWeapon.jobString>crwdns461866:0crwdne461866:0</BurnWeapon.jobString>
+  
+  <CremateCorpse.label>crwdns461868:0crwdne461868:0</CremateCorpse.label>
+  <CremateCorpse.description>crwdns461870:0crwdne461870:0</CremateCorpse.description>
+  <CremateCorpse.jobString>crwdns461872:0crwdne461872:0</CremateCorpse.jobString>
+</LanguageData>

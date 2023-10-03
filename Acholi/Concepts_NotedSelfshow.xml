@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Alerts.label>crwdns456338:0crwdne456338:0</Alerts.label>
+  <Alerts.helpText>crwdns456340:0crwdne456340:0</Alerts.helpText>
+  
+  <AllowedAreas.label>crwdns456342:0crwdne456342:0</AllowedAreas.label>
+  <AllowedAreas.helpText>crwdns456344:0crwdne456344:0</AllowedAreas.helpText>
+  
+  <AnimalTaming.label>crwdns456346:0crwdne456346:0</AnimalTaming.label>
+  <AnimalTaming.helpText>crwdns456348:0crwdne456348:0</AnimalTaming.helpText>
+  
+  <AnimalTraining.label>crwdns456350:0crwdne456350:0</AnimalTraining.label>
+  <AnimalTraining.helpText>crwdns456352:0crwdne456352:0</AnimalTraining.helpText>
+  
+  <CameraDolly.label>crwdns456354:0crwdne456354:0</CameraDolly.label>
+  <CameraDolly.helpText>crwdns456356:0{Key:MapDolly_Up}crwdnd456356:0{Key:MapDolly_Left}crwdnd456356:0{Key:MapDolly_Down}crwdnd456356:0{Key:MapDolly_Right}crwdne456356:0</CameraDolly.helpText>
+  <CameraDolly.helpTextController>crwdns456358:0crwdne456358:0</CameraDolly.helpTextController>
+  
+  <CameraZoom.label>crwdns456360:0crwdne456360:0</CameraZoom.label>
+  <CameraZoom.helpText>crwdns456362:0{Key:MapZoom_In}crwdnd456362:0{Key:MapZoom_Out}crwdne456362:0</CameraZoom.helpText>
+  <CameraZoom.helpTextController>crwdns456364:0{Key:MapZoom_In}crwdnd456364:0{Key:MapZoom_Out}crwdne456364:0</CameraZoom.helpTextController>
+  
+  <ClickingMessages.label>crwdns456366:0crwdne456366:0</ClickingMessages.label>
+  <ClickingMessages.helpText>crwdns456368:0crwdne456368:0</ClickingMessages.helpText>
+  
+  <CoverAndShooting.label>crwdns456370:0crwdne456370:0</CoverAndShooting.label>
+  <CoverAndShooting.helpText>crwdns456372:0crwdne456372:0</CoverAndShooting.helpText>
+  
+  <Deterioration.label>crwdns456374:0crwdne456374:0</Deterioration.label>
+  <Deterioration.helpText>crwdns456376:0crwdne456376:0</Deterioration.helpText>
+  
+  <EquippingWeapons.label>crwdns456378:0crwdne456378:0</EquippingWeapons.label>
+  <EquippingWeapons.helpText>crwdns456380:0crwdne456380:0</EquippingWeapons.helpText>
+  <EquippingWeapons.helpTextController>crwdns456382:0crwdne456382:0</EquippingWeapons.helpTextController>
+  
+  <FirePreparation.label>crwdns456384:0crwdne456384:0</FirePreparation.label>
+  <FirePreparation.helpText>crwdns456386:0crwdne456386:0</FirePreparation.helpText>
+  
+  <Forbidding.label>crwdns456388:0crwdne456388:0</Forbidding.label>
+  <Forbidding.helpText>crwdns456390:0crwdne456390:0</Forbidding.helpText>
+  
+  <ForbiddingDoors.label>crwdns456392:0crwdne456392:0</ForbiddingDoors.label>
+  <ForbiddingDoors.helpText>crwdns456394:0crwdne456394:0</ForbiddingDoors.helpText>
+  
+  <FormCaravan.label>crwdns456396:0crwdne456396:0</FormCaravan.label>
+  <FormCaravan.helpText>crwdns456398:0crwdne456398:0</FormCaravan.helpText>
+  
+  <FriendlyFireSafety.label>crwdns456400:0crwdne456400:0</FriendlyFireSafety.label>
+  <FriendlyFireSafety.helpText>crwdns456402:0crwdne456402:0</FriendlyFireSafety.helpText>
+  
+  <GettingMoreTraders.label>crwdns456404:0crwdne456404:0</GettingMoreTraders.label>
+  <GettingMoreTraders.helpText>crwdns456406:0crwdne456406:0</GettingMoreTraders.helpText>
+  
+  <GrowingFood.label>crwdns456408:0crwdne456408:0</GrowingFood.label>
+  <GrowingFood.helpText>crwdns456410:0crwdne456410:0</GrowingFood.helpText>
+  
+  <HistoryTab.label>crwdns456412:0crwdne456412:0</HistoryTab.label>
+  <HistoryTab.helpText>crwdns456414:0crwdne456414:0</HistoryTab.helpText>
+  
+  <HomeArea.label>crwdns456416:0crwdne456416:0</HomeArea.label>
+  <HomeArea.helpText>crwdns456418:0crwdne456418:0</HomeArea.helpText>
+  
+  <HostilityResponse.label>crwdns456420:0crwdne456420:0</HostilityResponse.label>
+  <HostilityResponse.helpText>crwdns456422:0crwdne456422:0</HostilityResponse.helpText>
+  
+  <InfoCard.label>crwdns456424:0crwdne456424:0</InfoCard.label>
+  <InfoCard.helpText>crwdns456426:0crwdne456426:0</InfoCard.helpText>
+  
+  <ManualWorkPriorities.label>crwdns456428:0crwdne456428:0</ManualWorkPriorities.label>
+  <ManualWorkPriorities.helpText>crwdns456430:0crwdne456430:0</ManualWorkPriorities.helpText>
+  
+  <MedicalOperations.label>crwdns456432:0crwdne456432:0</MedicalOperations.label>
+  <MedicalOperations.helpText>crwdns456434:0crwdne456434:0</MedicalOperations.helpText>
+  
+  <Mining.label>crwdns456436:0crwdne456436:0</Mining.label>
+  <Mining.helpText>crwdns456438:0crwdne456438:0</Mining.helpText>
+  
+  <Outfits.label>crwdns456440:0crwdne456440:0</Outfits.label>
+  <Outfits.helpText>crwdns456442:0crwdne456442:0</Outfits.helpText>
+  
+  <Pause.label>crwdns456444:0crwdne456444:0</Pause.label>
+  <Pause.helpText>crwdns456446:0{Key:TogglePause}crwdnd456446:0{Key:TogglePause}crwdne456446:0</Pause.helpText>
+  
+  <ShotAccuracyTooltip.label>crwdns456448:0crwdne456448:0</ShotAccuracyTooltip.label>
+  <ShotAccuracyTooltip.helpText>crwdns456450:0crwdne456450:0</ShotAccuracyTooltip.helpText>
+  
+  <SpoilageAndFreezers.label>crwdns456452:0crwdne456452:0</SpoilageAndFreezers.label>
+  <SpoilageAndFreezers.helpText>crwdns456454:0crwdne456454:0</SpoilageAndFreezers.helpText>
+  
+  <Stockpiles.label>crwdns456456:0crwdne456456:0</Stockpiles.label>
+  <Stockpiles.helpText>crwdns456458:0crwdne456458:0</Stockpiles.helpText>
+  
+  <StorageTab.label>crwdns456460:0crwdne456460:0</StorageTab.label>
+  <StorageTab.helpText>crwdns456462:0crwdne456462:0</StorageTab.helpText>
+  
+  <TileInspector.label>crwdns456464:0crwdne456464:0</TileInspector.label>
+  <TileInspector.helpText>crwdns456466:0{Key:ShowCellInspector}crwdne456466:0</TileInspector.helpText>
+  
+  <TimeAssignments.label>crwdns456468:0crwdne456468:0</TimeAssignments.label>
+  <TimeAssignments.helpText>crwdns456470:0crwdne456470:0</TimeAssignments.helpText>
+  
+  <TimeControls.label>crwdns456472:0crwdne456472:0</TimeControls.label>
+  <TimeControls.helpText>crwdns456474:0{Key:TimeSpeed_Normal}crwdnd456474:0{Key:TimeSpeed_Fast}crwdnd456474:0{Key:TimeSpeed_Superfast}crwdne456474:0</TimeControls.helpText>
+  <TimeControls.helpTextController>crwdns456476:0{Key:TimeSpeed_Faster}crwdnd456476:0{Key:TimeSpeed_Slower}crwdne456476:0</TimeControls.helpTextController>
+  
+  <WorkTab.label>crwdns456478:0crwdne456478:0</WorkTab.label>
+  <WorkTab.helpText>crwdns456480:0crwdne456480:0</WorkTab.helpText>
+</LanguageData>

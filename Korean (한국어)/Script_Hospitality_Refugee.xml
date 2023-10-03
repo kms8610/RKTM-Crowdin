@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Hospitality_Refugee.questContentRules.rulesStrings>
+    <li>lastOrNot(lodgerCount==1)-></li>
+    <li>lastOrNot(lodgerCount>=2)->마지막</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersArriveLetterLabel->[lodgersLabelSingularOrPlural] 도착</li>
+    <li>lodgersArriveLetterText->[hasHave][lodgersSingularOrPluralDef](이)가 도착했습니다. [lodgersPronoun](은)는 [questDurationTicks_duration] 동안 머무르기 때문에 휴식을 취하며 재편성할 수 있습니다.</li>
+    <li>hasHave(lodgerCount==1)-></li>
+    <li>hasHave(lodgerCount>=2)-></li>
+    <li>appalledButNoAction->{PAWNSALIVECOUNT_multiple ? 다른 사람들은 : 마지막 [lodgersLabel](은)는} 이 일로 충격받았지만, {PAWNSALIVECOUNT_multiple ? 당신에: 당신에} 대한 행동에 반하는 모습은 없었습니다.</li>
+    <li>othersWillNotAccept->{PAWNSALIVECOUNT_multiple ? 다른 사람들은 : 마지막 [lodgersLabel](은)는} 이 일을 받아들이지 않고</li>
+    <li>turnedViolent->[othersWillNotAccept], {PAWNSALIVECOUNT_multiple ? 당신에게 : 당신에게 } 맹렬하게 저항합니다.</li>
+    <li>decidedToLeave->[othersWillNotAccept], {PAWNSALIVECOUNT_multiple ? 떠나기로 : 떠나기로 } 합니다.</li>
+    <li>whoAskedToStay->당신과 함께 지내길 원했던</li>
+    <li>oneOfThe->당신과 함께 지내길 원했던 [faction_pawnsPlural]</li>
+    <li>questOver->'[resolvedQuestName]' 임무가 끝났습니다.</li>
+    <li>letterIntroDeath->{SUBJECT_definite}, [oneOfThe](이)가 죽었습니다.</li>
+    <li>lodgerDiedMemoryThoughtLetterLabel->[lodgersLabel] 사망: 분노</li>
+    <li>lodgerDiedMemoryThoughtLetterText->[letterIntroDeath]\n\n[appalledButNoAction]</li>
+    <li>lodgerDiedAttackPlayerLetterLabel->[lodgersLabel] 사망: 복수</li>
+    <li>lodgerDiedAttackPlayerLetterText->[letterIntroDeath]\n\n[turnedViolent]</li>
+    <li>lodgerDiedLeaveMapLetterLabel->[lodgersLabel] 사망: 이탈</li>
+    <li>lodgerDiedLeaveMapLetterText->[letterIntroDeath]\n\n[decidedToLeave]</li>
+    <li>lodgersAllDiedLetterLabel->임무 실패</li>
+    <li>lodgersAllDiedLetterText->[whoAskedToStay], [lastOrNot] {SUBJECT_definite}(이)가 죽었습니다.\n\n[questOver]</li>
+    <li>letterIntroArrested->{SUBJECT_definite}, [oneOfThe](을)를 체포 했습니다.</li>
+    <li>lodgerArrestedMemoryThoughtLetterLabel->[lodgersLabel] 체포: 분노</li>
+    <li>lodgerArrestedMemoryThoughtLetterText->[letterIntroArrested]\n\n[appalledButNoAction]</li>
+    <li>lodgerArrestedAttackPlayerLetterLabel->[lodgersLabel] 체포: 복수</li>
+    <li>lodgerArrestedAttackPlayerLetterText->[letterIntroArrested]\n\n[turnedViolent]</li>
+    <li>lodgerArrestedLeaveMapLetterLabel->[lodgersLabel] 체포: 이탈</li>
+    <li>lodgerArrestedLeaveMapLetterText->[letterIntroArrested]\n\n[decidedToLeave]</li>
+    <li>lodgersAllArrestedLetterLabel->임무 실패</li>
+    <li>lodgersAllArrestedLetterText->[whoAskedToStay], [lastOrNot] [faction_pawnSingular], {SUBJECT_definite}(을)를 체포했습니다.\n\n[questOver]</li>
+    <li>letterIntroViolated->{SUBJECT_definite}, [oneOfThe](은)는 수술로 유린 당했습니다.</li>
+    <li>lodgerViolatedMemoryThoughtLetterLabel->[lodgersLabel] 위반: 분노</li>
+    <li>lodgerViolatedMemoryThoughtLetterText->[letterIntroViolated]\n\n[appalledButNoAction]</li>
+    <li>lodgerViolatedAttackPlayerLetterLabel->[lodgersLabel] 위반: 복수</li>
+    <li>lodgerViolatedAttackPlayerLetterText->[letterIntroViolated]\n\n[turnedViolent]</li>
+    <li>lodgerViolatedLeaveMapLetterLabel->[lodgersLabel] 체포: 이탈</li>
+    <li>lodgerViolatedLeaveMapLetterText->[letterIntroViolated]\n\n[decidedToLeave]</li>
+    <li>mutinyLetterLabel->배신</li>
+    <li>mutinyLetterText->[whoAskedToStay][areIs] [lodgersSingularOrPluralDef](이)가 돌아섰습니다!\n\n[lodgersPronoun](이)가 배신을 계획한 것 같습니다.</li>
+    <li>areIs(lodgerCount==1)-></li>
+    <li>areIs(lodgerCount>=2)-></li>
+    <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] 떠남</li>
+    <li>lodgersLeavingLetterText->{FACTION_leaderNameDef}(이)가 [questDurationTicks_duration] 동안 [map_definite]에 머무를 수 있게 허락해줘서 고마워합니다. {FACTION_leaderPronoun}(와)과 {FACTION_leaderPossessive} 사람들이 함께 이동 중입니다.\n\n{FACTION_leaderNameDef}(은)는 당신이 한 일을 잊지 않을거라고 합니다.</li>
+  </Hospitality_Refugee.questContentRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->난민</li>
+    <li>lodgersLabelPlural->난민들</li>
+  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+  <Hospitality_Refugee.questDescriptionRules.rulesStrings>
+    <li>offer(lodgerCount==1)->제안들</li>
+    <li>offer(lodgerCount>=2)->제안</li>
+    <li>lodgersPronoun(lodgerCount==1)->[asker_pronoun]</li>
+    <li>lodgersPronoun(lodgerCount>=2)->그들</li>
+    <li>lodgersPreposition(lodgerCount==1)->[asker_pronoun] 스스로</li>
+    <li>lodgersPreposition(lodgerCount>=2)->그들 스스로</li>
+    <li>lodgersObjective(lodgerCount==1)->[asker_objective]</li>
+    <li>lodgersObjective(lodgerCount>=2)->그들을</li>
+    <li>lodgersPossessive(lodgerCount==1)->[asker_possessive]</li>
+    <li>lodgersPossessive(lodgerCount>=2)->그들의</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount==1)->[asker_nameDef]</li>
+    <li>lodgersSingularOrPluralDef(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>questDescription->[approachInfo] [claimInfo] [asker_nameDef](은)는 휴식과 재충전을 위해 [questDurationTicks_duration] 동안 [map_definite]에서 머무르기를 청합니다.\n\n그 대가로 [lodgersPronoun](은)는 머무르는 동안 일하며 싸워줄 것을 약속합니다.\n\n[joinInfo] [lodgersPronoun](을)를 돕는다면 어떤 형태로든 보상이 돌아오겠지만, [lodgersPossessive] 진정한 의도는 아무도 모릅니다.\n\n[travelerInfo](은)는 어떠한 세력에도 소속되어 있지 않습니다. [lodgersObjective] 체포하거나, 팔거나, 죽이더라도 외교적 불이익이 없습니다.</li>
+    <li>approachInfo(lodgerCount==1)->자포자기한 [asker_nameDef](이)라는 이름의 [faction_pawnSingular](이)가 접근하고 있습니다.</li>
+    <li>approachInfo(lodgerCount==2)->자포자기한 [asker_nameDef](와)과 [faction_pawnSingular](이)가 접근하고 있습니다.</li>
+    <li>approachInfo(lodgerCount==2,childCount==1,priority=1)->[asker_nameDef] is approaching with a child in tow.</li>
+    <li>approachInfo(lodgerCount>=3)->자포자기한 [lodgerCount]명의 [faction_pawnsPlural](이)가 접근하고 있습니다. 이들의 지도자는 [asker_nameDef] 입니다.</li>
+    <li>approachInfo(lodgerCount>=3,childCount==1,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including a child are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,childCount>=2,priority=1)->[lodgerCount] desperate [faction_pawnsPlural] including some children are approaching. Their leader is called [asker_nameDef].</li>
+    <li>approachInfo(lodgerCount>=3,allButOneChildren==true,priority=2)->A group of [lodgerCount] desperate [faction_pawnsPlural] are approaching consisting of [asker_nameDef] and [lodgersCountMinusOne] children [asker_pronoun] has taken under [asker_possessive] wing.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef](은)는 최근의 공격으로 [asker_possessive] 고향을 잃었다고 합니다.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef](은)는 혼자 동면관에서 깨어났다고 합니다.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef](은)는 복수에 눈이 먼 전애인에게 [asker_possessive] 집에서 쫓겨났다고 합니다.</li>
+    <li>claimInfo(lodgerCount==1)->[asker_nameDef](은)는 마을 지도자와 말다툼 후 추방되었다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 최근의 공격으로 고향을 잃었다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 장기적출 작업에서 도망쳤다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 노예상단에서 도망쳤다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 병충해 때문에 마을에서 굶고 있다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 커다란 섬광폭풍이 집을 태워버렸다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 상단이 매복에 당해 모든 것을 잃었다고 합니다.</li>
+    <li>claimInfo(lodgerCount>=2)->그들은 의견충돌 때문에 추방되었다고 합니다.</li>
+    <li>joinInfo(lodgerCount==1)->[asker_objective] 만족하게 한다면, [asker_pronoun]는 합류할 수도 있습니다.</li>
+    <li>joinInfo(lodgerCount>=2)->그들을 만족하게 한다면, 그들 중 일부는 합류할 수도 있습니다.</li>
+    <li>travelerInfo(lodgerCount==1)->이 [faction_pawnSingular]</li>
+    <li>travelerInfo(lodgerCount>=2)->이 [faction_pawnsPlural]</li>
+  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
+  <Hospitality_Refugee.questNameRules.rulesStrings>
+    <li>questName(lodgerCount==1)->[lodgerAdj] [asker_nameDef]</li>
+    <li>questName(lodgerCount==1)->[athe][lodgerAdj] [lodgerSingle]</li>
+    <li>questName(p=2,lodgerCount>=2)->[lodgerAdj] [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[lodgerAdj] [asker_nameDef]의 [lodgerPlural]</li>
+    <li>questName(lodgerCount>=2)->[asker_nameDef]의 [lodgerPlural]</li>
+    <li>athe->a</li>
+    <li>athe-></li>
+    <li>lodgerAdj->지친</li>
+    <li>lodgerAdj->길잃은</li>
+    <li>lodgerAdj->궁핍한</li>
+    <li>lodgerAdj->가난한</li>
+    <li>lodgerAdj->desperate</li>
+    <li>lodgerAdj->슬픈</li>
+    <li>lodgerAdj->칙칙한</li>
+    <li>lodgerAdj->절망한</li>
+    <li>lodgerAdj->무명의</li>
+    <li>lodgerAdj->쓸쓸한</li>
+    <li>lodgerAdj->버려진</li>
+    <li>lodgerSingle->여행자</li>
+    <li>lodgerSingle->난민</li>
+    <li>lodgerSingle->떠돌이</li>
+    <li>lodgerSingle->생존자</li>
+    <li>lodgerSingle->유랑자</li>
+    <li>lodgerSingle->방랑자</li>
+    <li>lodgerPlural->여행자들</li>
+    <li>lodgerPlural->난민들</li>
+    <li>lodgerPlural->떠돌이들</li>
+    <li>lodgerPlural->생존자들</li>
+    <li>lodgerPlural->유랑자들</li>
+    <li>lodgerPlural->방랑자들</li>
+  </Hospitality_Refugee.questNameRules.rulesStrings>
+  
+  <RefugeeBetrayal.questContentRules.rulesStrings>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>betrayalOfferRewardLetterLabel->[factionOpponent_nameDef]의 보상</li>
+    <li>betrayalOfferRewardLetterText->의뢰가 성공적으로 끝났기 때문에 [factionOpponent_pronoun](은)는 약속했던 보상을 보냅니다.\n\n[betrayalRewards] (총 가치 [betrayalRewardMarketValue_money])\n\n[questOver]</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterLabel->Betrayal reward retracted</li>
+    <li>betrayalOfferFailedBecauseRecruitedLetterText->[factionOpponent_nameDef] has learned that all surviving members of the [faction_name] have joined your faction! [factionOpponent_nameDef] wanted all members of the [faction_name] to die and has therefore retracted [factionOpponent_possessive] offer.</li>
+    <li>betrayalOfferFailedLetterLabel->보상 철회</li>
+    <li>betrayalOfferFailedLetterText->[factionOpponent_nameDef](은)는 [faction_name]의 구성원 중 한 명이 [map_definite]를 빠져나간 것을 알게 되었습니다. [faction_name]의 구성원들을 모두 죽이지 못했기 때문에 [factionOpponent_nameDef](은)는 보상을 철회했습니다.</li>
+    <li>otherLodgers(lodgerCount==1)->(이)가</li>
+    <li>otherLodgers(lodgerCount==2)->(와)과 다른 [lodgersLabel](이)가</li>
+    <li>otherLodgers(lodgerCount>=3)->(와)과 몇몇 [lodgersLabelPlural](이)가</li>
+    <li>otherMembers(lodgerCount==1)->(을)를</li>
+    <li>otherMembers(lodgerCount>=2)->(와)과 [faction_name]의 다른 구성원 모두를</li>
+    <li>questOver->'[resolvedQuestName]' 임무가 끝났습니다.</li>
+  </RefugeeBetrayal.questContentRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+    <li>lodgersLabel->난민</li>
+    <li>lodgersLabelPlural->난민들</li>
+  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+  <RefugeeBetrayal.questDescriptionRules.rulesStrings>
+    <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
+    <li>lodgersLabelSingularOrPlural(lodgerCount>=2)->[lodgersLabelPlural]</li>
+    <li>otherLodgers(lodgerCount==1)->(이)가</li>
+    <li>otherLodgers(lodgerCount==2)->(와)과 다른 [lodgersLabel](이)가</li>
+    <li>otherLodgers(lodgerCount>=3)->(와)과 몇몇 [lodgersLabelPlural](이)가</li>
+    <li>otherMembers(lodgerCount==1)->(을)를</li>
+    <li>otherMembers(lodgerCount>=2)->(와)과 [faction_name]의 다른 구성원 모두를</li>
+    <li>areIs(lodgerCount==1)-></li>
+    <li>areIs(lodgerCount>=2)-></li>
+  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+  <RefugeeBetrayal.questNameRules.rulesStrings>
+    <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>
+  </RefugeeBetrayal.questNameRules.rulesStrings>
+  
+  <RefugeeDelayedReward.questContentRules.rulesStrings>
+    <li>rewardLetterLabel->환대 보상</li>
+    <li>rewardLetterText->[rewardGiver_nameDef](이)가 통신을 보내왔습니다. 당신은 [rewardDelayTicks_duration] 전, 절박한 상황에 처한 [rewardGiver_objective] 도운 적이 있습니다.\n\n[rewardGiver_pronoun]는 무사히 돌아갔으며, 이제 그 날 받았던 호의에 보답하고 싶어합니다. 수송 포드로 다음 물품이 도착했습니다.\n\n[listOfRewards]</li>
+  </RefugeeDelayedReward.questContentRules.rulesStrings>
+  <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+    <li>questDescription->난민 임무에 대한 지연된 보상</li>
+  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+  <RefugeeDelayedReward.questNameRules.rulesStrings>
+    <li>questName->난민의 지연된 보상</li>
+  </RefugeeDelayedReward.questNameRules.rulesStrings>
+</LanguageData>

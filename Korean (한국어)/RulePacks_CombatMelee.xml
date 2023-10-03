@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Combat_Deflect.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [recipient_part0_label](을)를 [damaged_present]. 그러나 [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [skillAdvMaybe] [RECIPIENT_definite](을)를 [implement](으)로 [damaged_present]. 그러나 [deflected_result].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [skillAdvMaybe] [RECIPIENT_definite](을)를 [damaged_present]. 그러나 [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite](이)가 [skillDescMelee] [RECIPIENT_definite]의 [recipient_part0_label](을)를 [damaged_present]. 그러나 [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [implement](으)로 [damaged_inf]버리려 시도했으나 [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[INITIATOR_definite](이)가 [skillAdvMaybe] [implement](으)로 [RECIPIENT_definite](을)를 [damaged_inf]버리려고 했지만 [deflected_result].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>atMaybe-></li>
+    <li>atMaybe-></li>
+    <li>deflected_result->[TOOL_label](이)가 [harmlessly_opt] [deflected]</li>
+    <li>deflected_result->장갑에 막혀 [harmlessly_opt] [deflecting]</li>
+    <li>harmlessly_opt(p=4)-></li>
+    <li>harmlessly_opt->[harmlessly]</li>
+    <li>harmlessly->무의미하게</li>
+    <li>harmlessly->무력하게</li>
+    <li>deflected->튕겨나감</li>
+    <li>deflected->긁기만 함</li>
+    <li>deflected->미끄러짐</li>
+    <li>deflected->빗겨나감</li>
+    <li>deflected->튕겨버림</li>
+    <li>deflected->막혀버림</li>
+    <li>deflecting->튕겨나감</li>
+    <li>deflecting->scraping</li>
+    <li>deflecting->미끄러짐</li>
+    <li>deflecting->긁기만 함</li>
+    <li>deflecting->튕겨버림</li>
+    <li>deflecting->막혀버림</li>
+  </Combat_Deflect.rulePack.rulesStrings>
+  
+  <Combat_Dodge.rulePack.rulesStrings>
+    <li>r_logentry(p=0.5)->[RECIPIENT_definite](이)가 [INITIATOR_definite]의 [implement](을)를 [skillAdvMaybe] 피함.</li>
+    <li>r_logentry(p=0.5)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [damaged_inf]버리려고 했지만 [skillAdvMaybe] 피함.</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>result->그러나 [RECIPIENT_definite](은)는 옆으로 피해버림</li>
+    <li>result->그러나 [RECIPIENT_definite]의 움직임에 속음</li>
+    <li>result->그러나 [RECIPIENT_definite](이)가 공격을 가볍게 피해버림</li>
+  </Combat_Dodge.rulePack.rulesStrings>
+  
+  <Combat_Hit.rulePack.rulesStrings>
+    <li>r_logentry(p=1.0)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [recipient_part0_label](을)를 [damaged_present].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [recipient_part0_label](을)를 [strikeAdv] [damaged_present].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [recipient_part0_label](을)를 [damaged_present]. [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [skillDescMelee] [RECIPIENT_definite]의 [recipient_part0_label](을)를 [damaged_present].</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [skillDescMelee] [RECIPIENT_definite]의 [recipient_part0_label](을)를 [strikeAdv] [damaged_present].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_suffix] [destroyed_past].</li>
+    <li>r_logentry(p=0.4)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite]의 [destroyed_targets](을)를 [destroyed_present].</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite](을)를 [damaged_present].</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite](을)를 [skillAdv] [damaged_present].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_targets](을)를 [destroyed_present]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_targets](을)를 [damaged_present]</li>
+    <li>result(p=1)->[destroyed_targets](을)를 [destroyed_present]. [RECIPIENT_possessive] [damaged_targets]도 [damaged_present]</li>
+    <li>action(p=1.0)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite](을)를 [damaged_inf]서</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [damaged_inf]서</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [skillDescMelee] [RECIPIENT_definite](을)를 [damaged_inf]서</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite](을)를 [damaged_inf]버려</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [skillDescMelee] [implement](으)로 [RECIPIENT_definite](을)를 [damaged_inf]버려</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [implement](을)를 사용해 [RECIPIENT_definite](을)를 [damaged_inf]서</li>
+    <li>action(p=0.3)->[INITIATOR_definite](이)가 [implement](으)로 [RECIPIENT_definite](을)를 [skillAdv] [damaged_inf]버려</li>
+  </Combat_Hit.rulePack.rulesStrings>
+  
+  <Combat_Miss.rulePack.rulesStrings>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [WEAPON_label](으)로 [damaged_inf]버리려고 했지만 회피함.</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [implement](으)로 [damaged_inf]버리려고 했지만 빗맞춤.</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [implement](으)로 [damaged_inf]버리려고 했지만 [failtype].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [damaged_inf]버리려고 했지만 [failtype].</li>
+    <li>r_logentry(p=0.3)->[INITIATOR_definite](이)가 [RECIPIENT_definite](을)를 [skillAdvMaybe] [damaged_inf]버리려고 했지만 [failtype].</li>
+    <li>skillAdvMaybe-></li>
+    <li>skillAdvMaybe->[skillAdv]</li>
+    <li>failtype(p=5)->실패함</li>
+    <li>failtype->발을 헛디딤</li>
+    <li>failtype->실수함</li>
+    <li>failtype->빗나감</li>
+    <li>failtype->허둥대다 실패함</li>
+    <li>result(p=4)->빗나감</li>
+    <li>result->허공만 때림</li>
+    <li>result->너무 멀리 휘두름</li>
+    <li>result->직전에 발을 헛디딤</li>
+    <li>result(initiator_flesh!=Mechanoid)->직전에 머뭇거림</li>
+  </Combat_Miss.rulePack.rulesStrings>
+</LanguageData>

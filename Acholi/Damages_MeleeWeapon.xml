@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bite.label>crwdns456550:0crwdne456550:0</Bite.label>
+  <Bite.deathMessage>crwdns456552:0{0}crwdne456552:0</Bite.deathMessage>
+  
+  <Blunt.label>crwdns456554:0crwdne456554:0</Blunt.label>
+  <Blunt.deathMessage>crwdns456556:0{0}crwdne456556:0</Blunt.deathMessage>
+  
+  <Crush.label>crwdns456558:0crwdne456558:0</Crush.label>
+  <Crush.deathMessage>crwdns456560:0{0}crwdne456560:0</Crush.deathMessage>
+  
+  <Cut.label>crwdns456562:0crwdne456562:0</Cut.label>
+  <Cut.deathMessage>crwdns456564:0{0}crwdne456564:0</Cut.deathMessage>
+  
+  <Demolish.label>crwdns456566:0crwdne456566:0</Demolish.label>
+  <Demolish.deathMessage>crwdns456568:0{0}crwdne456568:0</Demolish.deathMessage>
+  
+  <Poke.label>crwdns456570:0crwdne456570:0</Poke.label>
+  <Poke.deathMessage>crwdns456572:0{0}crwdne456572:0</Poke.deathMessage>
+  
+  <Scratch.label>crwdns456574:0crwdne456574:0</Scratch.label>
+  <Scratch.deathMessage>crwdns456576:0{0}crwdne456576:0</Scratch.deathMessage>
+  
+  <ScratchToxic.label>crwdns456578:0crwdne456578:0</ScratchToxic.label>
+  <ScratchToxic.deathMessage>crwdns456580:0{0}crwdne456580:0</ScratchToxic.deathMessage>
+  
+  <Stab.label>crwdns456582:0crwdne456582:0</Stab.label>
+  <Stab.deathMessage>crwdns456584:0{0}crwdne456584:0</Stab.deathMessage>
+  
+  <ToxicBite.label>crwdns456586:0crwdne456586:0</ToxicBite.label>
+  <ToxicBite.deathMessage>crwdns456588:0{0}crwdne456588:0</ToxicBite.deathMessage>
+</LanguageData>

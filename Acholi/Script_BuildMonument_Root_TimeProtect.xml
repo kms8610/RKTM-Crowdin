@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+    <li>crwdns445894:0[monumentSize]crwdnd445894:0[monumentRequiredResourcesMarketValue_money]crwdnd445894:0[monumentRequiredResources]crwdnd445894:0[constructionTimeoutTicks_duration]crwdnd445894:0[haveToProtectForTicks_duration]crwdnd445894:0[asker2]crwdnd445894:0[threatDescription]crwdne445894:0</li>
+  </BuildMonument_TimeProtect.questDescriptionRules.rulesStrings>
+  <BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>crwdns445896:0crwdne445896:0</BuildMonument_TimeProtect.LetterLabelMonumentComplete.slateRef>
+  <BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>crwdns445898:0[haveToProtectForTicks_duration]crwdnd445898:0[asker2]crwdnd445898:0[threatDescription]crwdne445898:0</BuildMonument_TimeProtect.LetterTextMonumentComplete.slateRef>
+</LanguageData>

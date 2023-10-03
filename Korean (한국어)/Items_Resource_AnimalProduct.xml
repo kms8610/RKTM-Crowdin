@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <EggCassowaryFertilized.label>화식조 알</EggCassowaryFertilized.label>
+  <EggCassowaryFertilized.description>수정된 화식조 알입니다. 적합한 환경에서 새끼 화식조로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggCassowaryFertilized.description>
+  
+  <EggChickenFertilized.label>유정란</EggChickenFertilized.label>
+  <EggChickenFertilized.description>수정된 닭의 알입니다. 적합한 환경에서 병아리로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggChickenFertilized.description>
+  
+  <EggChickenUnfertilized.label>무정란</EggChickenUnfertilized.label>
+  <EggChickenUnfertilized.description>수정되지 않은 닭의 알입니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggChickenUnfertilized.description>
+  
+  <EggCobraFertilized.label>코브라 알</EggCobraFertilized.label>
+  <EggCobraFertilized.description>수정된 코브라 알입니다. 적합한 환경에서 새끼 코브라로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggCobraFertilized.description>
+  
+  <EggDuckFertilized.label>오리 알</EggDuckFertilized.label>
+  <EggDuckFertilized.description>수정된 오리 알입니다. 적합한 환경에서 새끼 오리로 부화할 수 있습니다. 생으로 먹을 수 있지만, 조리했을 때 훨씬 훌륭합니다.</EggDuckFertilized.description>
+  
+  <EggDuckUnfertilized.label>오리 무정란</EggDuckUnfertilized.label>
+  <EggDuckUnfertilized.description>수정되지 않은 오리의 알입니다. 생으로 먹을 수 있지만, 조리했을 때 훨씬 훌륭합니다.</EggDuckUnfertilized.description>
+  
+  <EggEmuFertilized.label>에뮤 알</EggEmuFertilized.label>
+  <EggEmuFertilized.description>수정된 에뮤 알입니다. 적합한 환경에서 새끼 에뮤로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggEmuFertilized.description>
+  
+  <EggGooseFertilized.label>거위 알</EggGooseFertilized.label>
+  <EggGooseFertilized.description>수정된 거위 알입니다. 적합한 환경에서 새끼 거위로 부화할 수 있습니다. 생으로 먹을 수 있지만, 조리했을 때 훨씬 훌륭합니다.</EggGooseFertilized.description>
+  
+  <EggGooseUnfertilized.label>거위 무정란</EggGooseUnfertilized.label>
+  <EggGooseUnfertilized.description>수정되지 않은 거위의 알입니다. 생으로 먹을 수 있지만, 조리했을 때 훨씬 훌륭합니다.</EggGooseUnfertilized.description>
+  
+  <EggIguanaFertilized.label>이구아나 알</EggIguanaFertilized.label>
+  <EggIguanaFertilized.description>수정된 이구아나 알입니다. 적합한 환경에서 새끼 이구아나로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggIguanaFertilized.description>
+  
+  <EggOstrichFertilized.label>타조 알</EggOstrichFertilized.label>
+  <EggOstrichFertilized.description>수정된 타조 알입니다. 적합한 환경에서 새끼 타조로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggOstrichFertilized.description>
+  
+  <EggTortoiseFertilized.label>거북이 알</EggTortoiseFertilized.label>
+  <EggTortoiseFertilized.description>수정된 거북이 알입니다. 적합한 환경에서 새끼 거북이로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggTortoiseFertilized.description>
+  
+  <EggTurkeyFertilized.label>칠면조 알</EggTurkeyFertilized.label>
+  <EggTurkeyFertilized.description>수정된 칠면조 알입니다. 적합한 환경에서 새끼 칠면조로 부화할 수 있습니다. 생으로 먹을 수 있지만 조리했을 때 훨씬 훌륭합니다.</EggTurkeyFertilized.description>
+  
+  <InsectJelly.label>곤충 젤리</InsectJelly.label>
+  <InsectJelly.description>Jelly stored and used as food by oversized insects. It is smooth, rich, and fulfills the recreation need of those who consume it. Because of its unique biological properties, it can nourish almost any creature and never rots.\n\nOddly, its texture and nutrient balance makes it an ideal baby food.</InsectJelly.description>
+  
+  <Milk.label>우유</Milk.label>
+  <Milk.description>Milk from an animal.\n\nMilk can be fed to human babies.</Milk.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ChoppedStump_Anima.label>crwdns449314:0crwdne449314:0</ChoppedStump_Anima.label>
+  <ChoppedStump_Anima.description>crwdns449316:0crwdne449316:0</ChoppedStump_Anima.description>
+  
+  <Plant_GrassAnima.label>crwdns449318:0crwdne449318:0</Plant_GrassAnima.label>
+  <Plant_GrassAnima.description>crwdns449320:0crwdne449320:0</Plant_GrassAnima.description>
+  
+  <Plant_TreeAnima.label>crwdns449322:0crwdne449322:0</Plant_TreeAnima.label>
+  <Plant_TreeAnima.description>crwdns449324:0crwdne449324:0</Plant_TreeAnima.description>
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>crwdns449326:0crwdne449326:0</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterLabel>
+  <Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>crwdns449328:0{0}crwdnd449328:0{1}crwdne449328:0</Plant_TreeAnima.comps.CompPsylinkable.enoughPlantsLetterText>
+  <Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>crwdns449330:0crwdne449330:0</Plant_TreeAnima.comps.CompGiveThoughtToAllMapPawnsOnDestroy.message>
+  
+  <SmashedStump_Anima.label>crwdns449332:0crwdne449332:0</SmashedStump_Anima.label>
+  <SmashedStump_Anima.description>crwdns449334:0crwdne449334:0</SmashedStump_Anima.description>
+</LanguageData>

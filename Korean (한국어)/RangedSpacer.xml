@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ChargeLance.label>전자기포 총알</Bullet_ChargeLance.label>
+  
+  <Bullet_ChargeRifle.label>포대용 전자기 포탄</Bullet_ChargeRifle.label>
+  
+  <Gun_ChargeLance.label>전자기포</Gun_ChargeLance.label>
+  <Gun_ChargeLance.description>펄스 충전 레일이 장착된 랜스 무기. 가속 레일을 벗어나 고속으로 발사되면 불안정한 에너지로 타격합니다.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.tools.barrel.label>총열</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>전자기포</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  
+  <Gun_ChargeRifle.label>전자기 소총</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.description>전자기 돌격 소총. 펄스 차지 기술은 각 탄환마다 불안정한 에너지를 충전시켜 피격된 대상의 손상을 크게 증가시킵니다.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.tools.stock.label>개머리판</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.barrel.label>총열</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>전자기 소총</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

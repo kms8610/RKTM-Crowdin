@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BurnCircle.descOverride>crwdns438510:0crwdne438510:0</BurnCircle.descOverride>
+  <BurnCircle.ritualExpectedDesc>crwdns438512:0{DATE}crwdnd438512:0{MEMBERS}crwdne438512:0</BurnCircle.ritualExpectedDesc>
+  <BurnCircle.shortDescOverride>crwdns438514:0crwdne438514:0</BurnCircle.shortDescOverride>
+  
+  <CelebrationPartyChat.ritualExpectedDesc>crwdns438516:0{DATE}crwdnd438516:0{MEMBERS}crwdne438516:0</CelebrationPartyChat.ritualExpectedDesc>
+  
+  <CelebrationPartyDanceDrum.descOverride>crwdns438518:0crwdne438518:0</CelebrationPartyDanceDrum.descOverride>
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>crwdns438520:0{DATE}crwdnd438520:0{MEMBERS}crwdne438520:0</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.shortDescOverride>crwdns438522:0crwdne438522:0</CelebrationPartyDanceDrum.shortDescOverride>
+  
+  <CelebrationPartyDanceTech.descOverride>crwdns438524:0crwdne438524:0</CelebrationPartyDanceTech.descOverride>
+  <CelebrationPartyDanceTech.ritualExpectedDesc>crwdns438526:0{DATE}crwdnd438526:0{MEMBERS}crwdne438526:0</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <CelebrationPartyDanceTech.shortDescOverride>crwdns438528:0crwdne438528:0</CelebrationPartyDanceTech.shortDescOverride>
+  
+  <CelebrationSkyLanterns.descOverride>crwdns438530:0crwdne438530:0</CelebrationSkyLanterns.descOverride>
+  <CelebrationSkyLanterns.ritualExpectedDesc>crwdns438532:0{DATE}crwdnd438532:0{MEMBERS}crwdne438532:0</CelebrationSkyLanterns.ritualExpectedDesc>
+  <CelebrationSkyLanterns.shortDescOverride>crwdns438534:0crwdne438534:0</CelebrationSkyLanterns.shortDescOverride>
+  
+  <CelebrationTree.descOverride>crwdns438536:0crwdne438536:0</CelebrationTree.descOverride>
+  <CelebrationTree.ritualExpectedDesc>crwdns438538:0{DATE}crwdnd438538:0{MEMBERS}crwdne438538:0</CelebrationTree.ritualExpectedDesc>
+  <CelebrationTree.shortDescOverride>crwdns438540:0crwdne438540:0</CelebrationTree.shortDescOverride>
+  
+  <Conversion.ritualExplanation>crwdns438542:0crwdne438542:0</Conversion.ritualExplanation>
+  
+  <FeastCannibal.descOverride>crwdns438544:0crwdne438544:0</FeastCannibal.descOverride>
+  <FeastCannibal.ritualExpectedDesc>crwdns438546:0{DATE}crwdnd438546:0{MEMBERS}crwdne438546:0</FeastCannibal.ritualExpectedDesc>
+  <FeastCannibal.shortDescOverride>crwdns438548:0crwdne438548:0</FeastCannibal.shortDescOverride>
+  
+  <FuneralNoCorpse.ritualExpectedDesc>crwdns438550:0{IDEOLIGION_adjective}crwdnd438550:0{PAWN_nameDef}crwdne438550:0</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>crwdns438552:0{PAWN_nameDef}crwdne438552:0</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  
+  <FuneralStandard.ritualExpectedDesc>crwdns438554:0{IDEOLIGION_adjective}crwdnd438554:0{PAWN_nameDef}crwdne438554:0</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDescNoAdjective>crwdns438556:0{PAWN_nameDef}crwdne438556:0</FuneralStandard.ritualExpectedDescNoAdjective>
+  
+  <SacrificeAnimal.descOverride>crwdns438558:0crwdne438558:0</SacrificeAnimal.descOverride>
+  <SacrificeAnimal.ritualExpectedDesc>crwdns438560:0{DATE}crwdnd438560:0{MEMBERS}crwdne438560:0</SacrificeAnimal.ritualExpectedDesc>
+  <SacrificeAnimal.shortDescOverride>crwdns438562:0crwdne438562:0</SacrificeAnimal.shortDescOverride>
+  
+  <SacrificePrisoner.descOverride>crwdns438564:0crwdne438564:0</SacrificePrisoner.descOverride>
+  <SacrificePrisoner.ritualExpectedDesc>crwdns438566:0{DATE}crwdnd438566:0{MEMBERS}crwdne438566:0</SacrificePrisoner.ritualExpectedDesc>
+  <SacrificePrisoner.shortDescOverride>crwdns438568:0crwdne438568:0</SacrificePrisoner.shortDescOverride>
+  
+  <SmokeCircle.descOverride>crwdns438570:0crwdne438570:0</SmokeCircle.descOverride>
+  <SmokeCircle.ritualExpectedDesc>crwdns438572:0{DATE}crwdnd438572:0{MEMBERS}crwdne438572:0</SmokeCircle.ritualExpectedDesc>
+  <SmokeCircle.shortDescOverride>crwdns438574:0crwdne438574:0</SmokeCircle.shortDescOverride>
+</LanguageData>

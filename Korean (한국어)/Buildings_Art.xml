@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SculptureGrand.label>초대형 조각상</SculptureGrand.label>
+  <SculptureGrand.description>방 전체를 압도하는 크기의 조각상입니다.</SculptureGrand.description>
+  
+  <SculptureLarge.label>대형 조각상</SculptureLarge.label>
+  <SculptureLarge.description>사람 크기의 조각상입니다.</SculptureLarge.description>
+  
+  <SculptureSmall.label>소형 조각상</SculptureSmall.label>
+  <SculptureSmall.description>아담한 조각상입니다.</SculptureSmall.description>
+  
+  <Snowman.label>눈사람</Snowman.label>
+  <Snowman.description>두 개의 커다란 눈덩이를 간단히 쌓아 만든, 사람 모양의 조형물입니다.</Snowman.description>
+</LanguageData>

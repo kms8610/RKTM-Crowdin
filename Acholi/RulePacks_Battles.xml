@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Battle_Brawl.rulePack.rulesStrings>
+    <li>crwdns463386:0crwdne463386:0</li>
+  </Battle_Brawl.rulePack.rulesStrings>
+  
+  <Battle_Duel.rulePack.rulesStrings>
+    <li>crwdns463388:0[PARTICIPANT1_nameDef]crwdnd463388:0[PARTICIPANT2_nameDef]crwdne463388:0</li>
+  </Battle_Duel.rulePack.rulesStrings>
+  
+  <Battle_Internal.rulePack.rulesStrings>
+    <li>crwdns463390:0[FACTION1_name]crwdne463390:0</li>
+  </Battle_Internal.rulePack.rulesStrings>
+  
+  <Battle_Solo.rulePack.rulesStrings>
+    <li>crwdns463392:0[PARTICIPANT1_nameDef]crwdne463392:0</li>
+  </Battle_Solo.rulePack.rulesStrings>
+  
+  <Battle_War.rulePack.rulesStrings>
+    <li>crwdns463394:0[FACTION1_name]crwdnd463394:0[FACTION2_name]crwdne463394:0</li>
+  </Battle_War.rulePack.rulesStrings>
+</LanguageData>

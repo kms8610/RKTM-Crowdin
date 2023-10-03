@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Lancer.label>crwdns455680:0crwdne455680:0</Lancer.label>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns455682:0crwdne455682:0</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>crwdns455684:0crwdne455684:0</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns455686:0crwdne455686:0</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns455688:0crwdne455688:0</Lancer.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.customLabel>crwdns455690:0crwdne455690:0</Lancer.corePart.parts.left_mechanical_shoulder.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>crwdns455692:0crwdne455692:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>crwdns455694:0crwdne455694:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>crwdns455696:0crwdne455696:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>crwdns455698:0crwdne455698:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>crwdns455700:0crwdne455700:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>crwdns455702:0crwdne455702:0</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>crwdns455704:0crwdne455704:0</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>crwdns455706:0crwdne455706:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>crwdns455708:0crwdne455708:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>crwdns455710:0crwdne455710:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>crwdns455712:0crwdne455712:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>crwdns455714:0crwdne455714:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>crwdns455716:0crwdne455716:0</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Lancer.corePart.parts.left_leg.customLabel>crwdns455718:0crwdne455718:0</Lancer.corePart.parts.left_leg.customLabel>
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>crwdns455720:0crwdne455720:0</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Lancer.corePart.parts.right_leg.customLabel>crwdns455722:0crwdne455722:0</Lancer.corePart.parts.right_leg.customLabel>
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>crwdns455724:0crwdne455724:0</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <MechanicalCentipede.label>crwdns455726:0crwdne455726:0</MechanicalCentipede.label>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns455728:0crwdne455728:0</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>crwdns455730:0crwdne455730:0</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns455732:0crwdne455732:0</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns455734:0crwdne455734:0</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <MechanicalTermite.label>crwdns455736:0crwdne455736:0</MechanicalTermite.label>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns455738:0crwdne455738:0</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>crwdns455740:0crwdne455740:0</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns455742:0crwdne455742:0</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns455744:0crwdne455744:0</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  
+  <Pikeman.label>crwdns455746:0crwdne455746:0</Pikeman.label>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns455748:0crwdne455748:0</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>crwdns455750:0crwdne455750:0</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns455752:0crwdne455752:0</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns455754:0crwdne455754:0</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.customLabel>crwdns455756:0crwdne455756:0</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>crwdns455758:0crwdne455758:0</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.customLabel>crwdns455760:0crwdne455760:0</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>crwdns455762:0crwdne455762:0</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>crwdns455764:0crwdne455764:0</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>crwdns455766:0crwdne455766:0</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>crwdns455768:0crwdne455768:0</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>crwdns455770:0crwdne455770:0</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  
+  <Scyther.label>crwdns455772:0crwdne455772:0</Scyther.label>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns455774:0crwdne455774:0</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>crwdns455776:0crwdne455776:0</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns455778:0crwdne455778:0</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns455780:0crwdne455780:0</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.left_shoulder.customLabel>crwdns455782:0crwdne455782:0</Scyther.corePart.parts.left_shoulder.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>crwdns455784:0crwdne455784:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>crwdns455786:0crwdne455786:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>crwdns455788:0crwdne455788:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>crwdns455790:0crwdne455790:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>crwdns455792:0crwdne455792:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>crwdns455794:0crwdne455794:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>crwdns455796:0crwdne455796:0</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Scyther.corePart.parts.right_shoulder.customLabel>crwdns455798:0crwdne455798:0</Scyther.corePart.parts.right_shoulder.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>crwdns455800:0crwdne455800:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>crwdns455802:0crwdne455802:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>crwdns455804:0crwdne455804:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>crwdns455806:0crwdne455806:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>crwdns455808:0crwdne455808:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>crwdns455810:0crwdne455810:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>crwdns455812:0crwdne455812:0</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Scyther.corePart.parts.left_leg.customLabel>crwdns455814:0crwdne455814:0</Scyther.corePart.parts.left_leg.customLabel>
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>crwdns455816:0crwdne455816:0</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Scyther.corePart.parts.right_leg.customLabel>crwdns455818:0crwdne455818:0</Scyther.corePart.parts.right_leg.customLabel>
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>crwdns455820:0crwdne455820:0</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

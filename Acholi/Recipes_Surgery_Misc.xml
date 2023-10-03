@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Anesthetize.label>crwdns462080:0crwdne462080:0</Anesthetize.label>
+  <Anesthetize.description>crwdns462082:0crwdne462082:0</Anesthetize.description>
+  <Anesthetize.jobString>crwdns462084:0crwdne462084:0</Anesthetize.jobString>
+  
+  <Euthanize.label>crwdns462086:0crwdne462086:0</Euthanize.label>
+  <Euthanize.description>crwdns462088:0crwdne462088:0</Euthanize.description>
+  <Euthanize.jobString>crwdns462090:0crwdne462090:0</Euthanize.jobString>
+  
+  <RemoveBodyPart.label>crwdns462092:0crwdne462092:0</RemoveBodyPart.label>
+  <RemoveBodyPart.description>crwdns462094:0crwdne462094:0</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>crwdns462096:0crwdne462096:0</RemoveBodyPart.jobString>
+</LanguageData>

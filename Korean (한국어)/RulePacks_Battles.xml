@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Battle_Brawl.rulePack.rulesStrings>
+    <li>r_battlename->난투극</li>
+  </Battle_Brawl.rulePack.rulesStrings>
+  
+  <Battle_Duel.rulePack.rulesStrings>
+    <li>r_battlename->[PARTICIPANT1_nameDef] vs [PARTICIPANT2_nameDef]</li>
+  </Battle_Duel.rulePack.rulesStrings>
+  
+  <Battle_Internal.rulePack.rulesStrings>
+    <li>r_battlename->[FACTION1_name] 내부 사건</li>
+  </Battle_Internal.rulePack.rulesStrings>
+  
+  <Battle_Solo.rulePack.rulesStrings>
+    <li>r_battlename->[PARTICIPANT1_nameDef]의 보고</li>
+  </Battle_Solo.rulePack.rulesStrings>
+  
+  <Battle_War.rulePack.rulesStrings>
+    <li>r_battlename->[FACTION1_name] vs [FACTION2_name]</li>
+  </Battle_War.rulePack.rulesStrings>
+</LanguageData>

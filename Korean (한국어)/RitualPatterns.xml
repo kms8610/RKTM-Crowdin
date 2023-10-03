@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BurnCircle.descOverride>증오의 상징을 불태우는 행사입니다. 참여자들은 희생제 구조물 주위에 모여 증오의 상징에 불을 붙이고 재가 될 때까지 즐길 것입니다.</BurnCircle.descOverride>
+  <BurnCircle.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</BurnCircle.ritualExpectedDesc>
+  <BurnCircle.shortDescOverride>상징 태우기</BurnCircle.shortDescOverride>
+  
+  <CelebrationPartyChat.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</CelebrationPartyChat.ritualExpectedDesc>
+  
+  <CelebrationPartyDanceDrum.descOverride>북과 함께 하는 댄스 파티입니다. 참가자들은 모여서 참여자들은 어울려 북을 치고 춤추고 즐기며 교감합니다.</CelebrationPartyDanceDrum.descOverride>
+  <CelebrationPartyDanceDrum.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</CelebrationPartyDanceDrum.ritualExpectedDesc>
+  <CelebrationPartyDanceDrum.shortDescOverride>북 파티</CelebrationPartyDanceDrum.shortDescOverride>
+  
+  <CelebrationPartyDanceTech.descOverride>시끄러운 음악과 함께하는 댄스 파티입니다. 참여자들은 어울려 춤추고 즐기며 교감합니다.</CelebrationPartyDanceTech.descOverride>
+  <CelebrationPartyDanceTech.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</CelebrationPartyDanceTech.ritualExpectedDesc>
+  <CelebrationPartyDanceTech.shortDescOverride>무도회</CelebrationPartyDanceTech.shortDescOverride>
+  
+  <CelebrationSkyLanterns.descOverride>풍등을 날리는 행사입니다. 참여자들은 함께 목재 풍등을 만들고 띄우며 즐길 것입니다.</CelebrationSkyLanterns.descOverride>
+  <CelebrationSkyLanterns.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</CelebrationSkyLanterns.ritualExpectedDesc>
+  <CelebrationSkyLanterns.shortDescOverride>풍등 축제</CelebrationSkyLanterns.shortDescOverride>
+  
+  <CelebrationTree.descOverride>성탄 나무 주변에서 하는 파티입니다. 참여자들은 나무 주변에 모여 즐거운 시간을 보낼 것입니다.</CelebrationTree.descOverride>
+  <CelebrationTree.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</CelebrationTree.ritualExpectedDesc>
+  <CelebrationTree.shortDescOverride>성탄절 파티</CelebrationTree.shortDescOverride>
+  
+  <Conversion.ritualExplanation>성공한다면 대상의 믿음을 흔들거나 바로 교화할 수 있습니다. 실패하면 역효과를 낼 것입니다.</Conversion.ritualExplanation>
+  
+  <FeastCannibal.descOverride>인육 잔치를 즐기는 행사입니다. 참여자들은 인육이 담긴 접시 주변에 모여들어 피로 물든 잔치를 벌입니다.</FeastCannibal.descOverride>
+  <FeastCannibal.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</FeastCannibal.ritualExpectedDesc>
+  <FeastCannibal.shortDescOverride>식인 잔치</FeastCannibal.shortDescOverride>
+  
+  <FuneralNoCorpse.ritualExpectedDesc>You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef} even though the body was lost.</FuneralNoCorpse.ritualExpectedDesc>
+  <FuneralNoCorpse.ritualExpectedDescNoAdjective>You can hold a funeral for {PAWN_nameDef} even though the body was lost.</FuneralNoCorpse.ritualExpectedDescNoAdjective>
+  
+  <FuneralStandard.ritualExpectedDesc>You can hold a {IDEOLIGION_adjective} funeral for {PAWN_nameDef}.</FuneralStandard.ritualExpectedDesc>
+  <FuneralStandard.ritualExpectedDescNoAdjective>You can hold a funeral for {PAWN_nameDef}.</FuneralStandard.ritualExpectedDescNoAdjective>
+  
+  <SacrificeAnimal.descOverride>의식에 동물을 희생시킵니다. 수행자는 연설을 통해 군중의 흥분을 끌어낸 다음 동물의 목을 베고, 동물이 죽으면 다시 한 번 연설하며 의식을 마칠 것입니다.</SacrificeAnimal.descOverride>
+  <SacrificeAnimal.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</SacrificeAnimal.ritualExpectedDesc>
+  <SacrificeAnimal.shortDescOverride>동물 희생제</SacrificeAnimal.shortDescOverride>
+  
+  <SacrificePrisoner.descOverride>의식에 수감자를 희생시킵니다. 수행자는 연설을 통해 군중의 흥분을 끌어낸 다음 죄수의 목을 베고, 죄수가 죽으면 다시 한 번 연설하며 의식을 마칠 것입니다.</SacrificePrisoner.descOverride>
+  <SacrificePrisoner.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</SacrificePrisoner.ritualExpectedDesc>
+  <SacrificePrisoner.shortDescOverride>수감자 희생제</SacrificePrisoner.shortDescOverride>
+  
+  <SmokeCircle.descOverride>대량의 연초잎을 태우는 행사입니다. 참여자들은 연통 주변에 모여 흡연하며 즐길 것입니다.</SmokeCircle.descOverride>
+  <SmokeCircle.ritualExpectedDesc>Every year on {DATE}, {MEMBERS} can have a special celebration.</SmokeCircle.ritualExpectedDesc>
+  <SmokeCircle.shortDescOverride>연초 운식</SmokeCircle.shortDescOverride>
+</LanguageData>

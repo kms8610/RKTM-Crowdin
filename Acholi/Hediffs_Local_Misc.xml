@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CureScaria.label>crwdns461810:0crwdne461810:0</CureScaria.label>
+  <CureScaria.description>crwdns461812:0crwdne461812:0</CureScaria.description>
+  <CureScaria.jobString>crwdns461814:0crwdne461814:0</CureScaria.jobString>
+  <CureScaria.successfullyRemovedHediffMessage>crwdns461816:0{0}crwdnd461816:0{1}crwdne461816:0</CureScaria.successfullyRemovedHediffMessage>
+  
+  <Sterilize.label>crwdns461818:0crwdne461818:0</Sterilize.label>
+  <Sterilize.description>crwdns461820:0crwdne461820:0</Sterilize.description>
+  <Sterilize.jobString>crwdns461822:0crwdne461822:0</Sterilize.jobString>
+  <Sterilize.successfullyRemovedHediffMessage>crwdns461824:0{0}crwdnd461824:0{1}crwdne461824:0</Sterilize.successfullyRemovedHediffMessage>
+</LanguageData>

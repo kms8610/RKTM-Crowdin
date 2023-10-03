@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerAnimalGenericFemale.rulePack.rulesStrings>
+    <li>crwdns465140:0[NameAnimalUnisex]crwdne465140:0</li>
+    <li>crwdns465142:0[NameAnimalFemale]crwdne465142:0</li>
+    <li>crwdns465144:0[NamePersonFemale]crwdne465144:0</li>
+    <li>crwdns465146:0[exoticname]crwdne465146:0</li>
+    <li>crwdns465148:0[AdjectiveBadass]crwdne465148:0</li>
+    <li>crwdns465150:0[PersonBadass]crwdne465150:0</li>
+    <li>crwdns465152:0[Enemy]crwdne465152:0</li>
+    <li>crwdns465154:0[ConceptAny]crwdne465154:0</li>
+    <li>crwdns465156:0[Color]crwdne465156:0</li>
+  </NamerAnimalGenericFemale.rulePack.rulesStrings>
+  
+  <NamerAnimalGenericMale.rulePack.rulesStrings>
+    <li>crwdns465158:0[NameAnimalUnisex]crwdne465158:0</li>
+    <li>crwdns465160:0[NameAnimalMale]crwdne465160:0</li>
+    <li>crwdns465162:0[NamePersonMale]crwdne465162:0</li>
+    <li>crwdns465164:0[exoticname]crwdne465164:0</li>
+    <li>crwdns465166:0[AdjectiveBadass]crwdne465166:0</li>
+    <li>crwdns465168:0[PersonBadass]crwdne465168:0</li>
+    <li>crwdns465170:0[Enemy]crwdne465170:0</li>
+    <li>crwdns465172:0[ConceptAny]crwdne465172:0</li>
+    <li>crwdns465174:0[Color]crwdne465174:0</li>
+  </NamerAnimalGenericMale.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AncientAltar.label>유물 유적</AncientAltar.label>
+  <AncientAltar.description>유물이 봉인된 고대 유적입니다.</AncientAltar.description>
+  <AncientAltar.approachingReportString>{0} 조사</AncientAltar.approachingReportString>
+  <AncientAltar.approachOrderString>{0} 조사</AncientAltar.approachOrderString>
+  <AncientAltar.arrivedLetter>이 지역에는 유물을 품고 있는 고대의 건물들이 있습니다.</AncientAltar.arrivedLetter>
+</LanguageData>

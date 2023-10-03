@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <MarriageCeremony.label>crwdns456986:0crwdne456986:0</MarriageCeremony.label>
+  
+  <Party.label>crwdns456988:0crwdne456988:0</Party.label>
+  <Party.calledOffMessage>crwdns456990:0crwdne456990:0</Party.calledOffMessage>
+  <Party.finishedMessage>crwdns456992:0crwdne456992:0</Party.finishedMessage>
+  <Party.letterText>crwdns456994:0{ORGANIZER_labelShort}crwdne456994:0</Party.letterText>
+  <Party.letterTitle>crwdns456996:0crwdne456996:0</Party.letterTitle>
+</LanguageData>

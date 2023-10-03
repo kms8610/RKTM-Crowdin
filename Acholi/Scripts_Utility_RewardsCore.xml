@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+    <li>crwdns461496:0[joiner_age]crwdnd461496:0[joiner_title]crwdnd461496:0[joiner_nameDef]crwdnd461496:0[joinerFactionInfo]crwdnd461496:0[joiner_relationInfo]crwdne461496:0</li>
+    <li>crwdns461498:0[joiner_pronoun]crwdnd461498:0[joiner_factionName]crwdne461498:0</li>
+    <li>crwdns461500:0crwdne461500:0</li>
+  </Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+  
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+    <li>crwdns461502:0[joiner_age]crwdnd461502:0[joiner_title]crwdnd461502:0[joiner_nameDef]crwdnd461502:0[joiner_relationInfo]crwdne461502:0</li>
+  </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+  
+  <Util_SendItemPods.questDescriptionRules.rulesStrings>
+    <li>crwdns461504:0[itemPodsTotalMarketValue_money]crwdnd461504:0[itemPodsContents]crwdne461504:0</li>
+  </Util_SendItemPods.questDescriptionRules.rulesStrings>
+</LanguageData>

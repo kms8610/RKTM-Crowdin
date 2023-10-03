@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DecreeSetup.questDescriptionRules.rulesStrings>
+    <li>crwdns447106:0[asker_nameDef]crwdnd447106:0[asker_bestRoyalTitle]crwdne447106:0</li>
+    <li>crwdns447108:0[decreeDays]crwdnd447108:0[asker_nameDef]crwdnd447108:0[asker_possessive]crwdne447108:0</li>
+  </DecreeSetup.questDescriptionRules.rulesStrings>
+  <DecreeSetup.LetterLabelDecreeForgotten.slateRef>crwdns447110:0[asker_nameDef]crwdne447110:0</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
+  <DecreeSetup.LetterTextDecreeForgotten.slateRef>crwdns447112:0[asker_nameDef]crwdnd447112:0[asker_possessive]crwdne447112:0</DecreeSetup.LetterTextDecreeForgotten.slateRef>
+  <DecreeSetup.LetterLabelDecreeCancelled.slateRef>crwdns447114:0crwdne447114:0</DecreeSetup.LetterLabelDecreeCancelled.slateRef>
+  <DecreeSetup.LetterTextDecreeCancelled.slateRef>crwdns447116:0[asker_nameDef]crwdnd447116:0[resolvedQuestName]crwdne447116:0</DecreeSetup.LetterTextDecreeCancelled.slateRef>
+</LanguageData>

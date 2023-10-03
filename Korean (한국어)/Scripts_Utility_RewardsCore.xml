@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+    <li>rewardDescription->[joiner_age]세 [joiner_title]인 [joiner_nameDef](이)가 수송 포드를 통해 도착합니다.[joinerFactionInfo][joiner_relationInfo]</li>
+    <li>joinerFactionInfo(priority=1)-> [joiner_pronoun]는 [joiner_factionName]에 합류합니다.</li>
+    <li>joinerFactionInfo-></li>
+  </Util_JoinerDropIn.questDescriptionRules.rulesStrings>
+  
+  <Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+    <li>rewardDescription->[joiner_age] 연령의 [joiner_nameDef]라는 이름을 가진 [joiner_title]가 도착하여 당신의 정착지에 합류할 것입니다. [joiner_relationInfo]</li>
+  </Util_JoinerWalkIn.questDescriptionRules.rulesStrings>
+  
+  <Util_SendItemPods.questDescriptionRules.rulesStrings>
+    <li>rewardDescription->transport pods with the following resources will arrive (total value [itemPodsTotalMarketValue_money]):\n\n[itemPodsContents]</li>
+  </Util_SendItemPods.questDescriptionRules.rulesStrings>
+</LanguageData>

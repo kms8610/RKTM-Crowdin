@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+    <li>crwdns461314:0[worker_definite]crwdnd461314:0[targetMineable_label]crwdnd461314:0[timeoutTicks_duration]crwdnd461314:0[lumpThreatDescription]crwdne461314:0</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>crwdns461316:0[lump]crwdnd461316:0[targetMineableThing_label]crwdne461316:0</li>
+    <li>crwdns461318:0[targetMineableThing_label]crwdnd461318:0[lump]crwdne461318:0</li>
+    <li>crwdns461320:0[targetMineableThing_label]crwdnd461320:0[lump]crwdne461320:0</li>
+    <li>crwdns461322:0[adj]crwdnd461322:0[targetMineableThing_label]crwdne461322:0</li>
+    <li>crwdns461324:0[targetMineableThing_label]crwdnd461324:0[discovered]crwdne461324:0</li>
+    <li>crwdns461326:0crwdne461326:0</li>
+    <li>crwdns461328:0crwdne461328:0</li>
+    <li>crwdns461330:0crwdne461330:0</li>
+    <li>crwdns461332:0crwdne461332:0</li>
+    <li>crwdns461334:0crwdne461334:0</li>
+    <li>crwdns461336:0crwdne461336:0</li>
+    <li>crwdns461338:0crwdne461338:0</li>
+    <li>crwdns461340:0crwdne461340:0</li>
+    <li>crwdns461342:0crwdne461342:0</li>
+    <li>crwdns461344:0crwdne461344:0</li>
+    <li>crwdns461346:0crwdne461346:0</li>
+    <li>crwdns461348:0crwdne461348:0</li>
+    <li>crwdns461350:0crwdne461350:0</li>
+    <li>crwdns461352:0crwdne461352:0</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>crwdns461354:0[resolvedQuestName]crwdne461354:0</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>crwdns461356:0[targetMineable_label]crwdnd461356:0[resolvedQuestName]crwdne461356:0</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+</LanguageData>

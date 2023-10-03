@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+    <li>crwdns447490:0[allThreats]crwdne447490:0</li>
+    <li>crwdns447492:0crwdne447492:0</li>
+    <li>crwdns447494:0[asker_nameDef]crwdnd447494:0[asker_faction_leaderTitle]crwdnd447494:0[asker_faction_name]crwdnd447494:0[commonMainPart]crwdne447494:0</li>
+    <li>crwdns447496:0[asker_nameDef]crwdnd447496:0[asker_royalTitleInCurrentFaction]crwdnd447496:0[asker_faction_name]crwdnd447496:0[commonMainPart]crwdne447496:0</li>
+    <li>crwdns447498:0[asker_possessive]crwdnd447498:0[asker_pronoun]crwdnd447498:0[asker_pronoun]crwdnd447498:0[map_definite]crwdnd447498:0[dangersDescription]crwdnd447498:0[helpersParagraph]crwdne447498:0</li>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  <ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+    <li>crwdns447500:0[menace]crwdne447500:0</li>
+    <li>crwdns447502:0[menace]crwdne447502:0</li>
+    <li>crwdns447504:0[nameBased]crwdne447504:0</li>
+    <li>crwdns447506:0[asker_nameDef]crwdne447506:0</li>
+    <li>crwdns447508:0[asker_nameDef]crwdne447508:0</li>
+    <li>crwdns447510:0[asker_nameDef]crwdne447510:0</li>
+    <li>crwdns447512:0[asker_nameDef]crwdnd447512:0[menace]crwdne447512:0</li>
+    <li>crwdns447514:0crwdne447514:0</li>
+    <li>crwdns447516:0crwdne447516:0</li>
+    <li>crwdns447518:0crwdne447518:0</li>
+    <li>crwdns447520:0crwdne447520:0</li>
+    <li>crwdns447522:0crwdne447522:0</li>
+    <li>crwdns447524:0crwdne447524:0</li>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+</LanguageData>

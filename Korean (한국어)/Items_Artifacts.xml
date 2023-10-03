@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <PsychicAnimalPulser.label>정신파동기</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.description>모든 동물들이 인간을 사냥하도록 유도하는 일회용 유물입니다.</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>활동 {0_label}</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  
+  <PsychicSoothePulser.label>정신안정기</PsychicSoothePulser.label>
+  <PsychicSoothePulser.description>모든 사람들의 기분을 잠시 좋아지게 하는 일회용 유물입니다.</PsychicSoothePulser.description>
+  <PsychicSoothePulser.comps.CompUsable.useLabel>활동 {0_label}</PsychicSoothePulser.comps.CompUsable.useLabel>
+</LanguageData>

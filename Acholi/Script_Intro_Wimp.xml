@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Intro_Wimp.questDescriptionRules.rulesStrings>
+    <li>crwdns446808:0[asker_nameFull]crwdnd446808:0[asker_royalTitleInCurrentFaction]crwdnd446808:0[asker_faction_name]crwdnd446808:0[asker_possessive]crwdnd446808:0[asker_pronoun]crwdnd446808:0[animalKindDef_label]crwdnd446808:0[asker_nameDef]crwdnd446808:0[asker_objective]crwdnd446808:0[map_definite]crwdnd446808:0[asker_possessive]crwdnd446808:0[asker_objective]crwdnd446808:0[asker_pronoun]crwdnd446808:0[royalFavorReward]crwdnd446808:0[asker_faction_royalFavorLabel]crwdnd446808:0[asker_faction_royalFavorLabel]crwdne446808:0</li>
+  </Intro_Wimp.questDescriptionRules.rulesStrings>
+  <Intro_Wimp.questNameRules.rulesStrings>
+    <li>crwdns446810:0[adjAny]crwdnd446810:0[asker_royalTitleInCurrentFaction]crwdne446810:0</li>
+    <li>crwdns446812:0crwdne446812:0</li>
+    <li>crwdns446814:0crwdne446814:0</li>
+    <li>crwdns446816:0crwdne446816:0</li>
+    <li>crwdns446818:0crwdne446818:0</li>
+  </Intro_Wimp.questNameRules.rulesStrings>
+  <Intro_Wimp.LetterLabelAnimalArrived.slateRef>crwdns446820:0[animalKindDef_label]crwdne446820:0</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
+  <Intro_Wimp.LetterTextAnimalArrived.slateRef>crwdns446822:0[animalKindDef_label]crwdnd446822:0[asker_nameDef]crwdne446822:0</Intro_Wimp.LetterTextAnimalArrived.slateRef>
+  <Intro_Wimp.LetterLabelAngryAnimal.slateRef>crwdns446824:0[animalKindDef_label]crwdne446824:0</Intro_Wimp.LetterLabelAngryAnimal.slateRef>
+  <Intro_Wimp.LetterTextAngryAnimal.slateRef>crwdns446826:0[animalKindDef_label]crwdnd446826:0[asker_nameFull]crwdne446826:0</Intro_Wimp.LetterTextAngryAnimal.slateRef>
+  <Intro_Wimp.InspectStringDepartShuttle.slateRef>crwdns446828:0crwdne446828:0</Intro_Wimp.InspectStringDepartShuttle.slateRef>
+  <Intro_Wimp.LetterLabelShuttleArrived.slateRef>crwdns446830:0crwdne446830:0</Intro_Wimp.LetterLabelShuttleArrived.slateRef>
+  <Intro_Wimp.LetterTextShuttleArrived.slateRef>crwdns446832:0[asker_nameDef]crwdne446832:0</Intro_Wimp.LetterTextShuttleArrived.slateRef>
+  <Intro_Wimp.LetterLabelGuestDied.slateRef>crwdns446834:0{SUBJECT_definite}crwdne446834:0</Intro_Wimp.LetterLabelGuestDied.slateRef>
+  <Intro_Wimp.LetterTextGuestDied.slateRef>crwdns446836:0{SUBJECT_definite}crwdnd446836:0[failLetterEndingCommon]crwdne446836:0</Intro_Wimp.LetterTextGuestDied.slateRef>
+  <Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>crwdns446838:0{SUBJECT_definite}crwdne446838:0</Intro_Wimp.LetterLabelUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>crwdns446840:0{SUBJECT_definite}crwdnd446840:0[asker_pronoun]crwdnd446840:0[failLetterEndingCommon]crwdne446840:0</Intro_Wimp.LetterTextUnauthorizedSurgery.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>crwdns446842:0{SUBJECT_definite}crwdne446842:0</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>crwdns446844:0{SUBJECT_definite}crwdnd446844:0{SUBJECT_possessive}crwdnd446844:0{SUBJECT_pronoun}crwdnd446844:0[failLetterEndingCommon]crwdne446844:0</Intro_Wimp.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <Intro_Wimp.LetterLabelCaptured.slateRef>crwdns446846:0{SUBJECT_definite}crwdne446846:0</Intro_Wimp.LetterLabelCaptured.slateRef>
+  <Intro_Wimp.LetterTextCaptured.slateRef>crwdns446848:0{SUBJECT_definite}crwdnd446848:0[failLetterEndingCommon]crwdne446848:0</Intro_Wimp.LetterTextCaptured.slateRef>
+  <Intro_Wimp.LetterLabelGuestLost.slateRef>crwdns446850:0{SUBJECT_definite}crwdne446850:0</Intro_Wimp.LetterLabelGuestLost.slateRef>
+  <Intro_Wimp.LetterTextGuestLost.slateRef>crwdns446852:0{SUBJECT_definite}crwdnd446852:0[failLetterEndingCommon]crwdne446852:0</Intro_Wimp.LetterTextGuestLost.slateRef>
+  <Intro_Wimp.LetterLabelLodgerRanWild.slateRef>crwdns446854:0{SUBJECT_definite}crwdne446854:0</Intro_Wimp.LetterLabelLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterTextLodgerRanWild.slateRef>crwdns446856:0{SUBJECT_definite}crwdnd446856:0[failLetterEndingCommon]crwdne446856:0</Intro_Wimp.LetterTextLodgerRanWild.slateRef>
+  <Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>crwdns446858:0crwdne446858:0</Intro_Wimp.LetterLabelShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterTextShuttleDestroyed.slateRef>crwdns446860:0[asker_nameDef]crwdnd446860:0[asker_pronoun]crwdnd446860:0[failLetterEndingCommon]crwdne446860:0</Intro_Wimp.LetterTextShuttleDestroyed.slateRef>
+  <Intro_Wimp.LetterLabelQuestFailed.slateRef>crwdns446862:0[resolvedQuestName]crwdne446862:0</Intro_Wimp.LetterLabelQuestFailed.slateRef>
+  <Intro_Wimp.LetterTextQuestFailed.slateRef>crwdns446864:0[asker_nameDef]crwdnd446864:0[asker_objective]crwdnd446864:0[asker_pronoun]crwdnd446864:0[failLetterEndingCommon]crwdne446864:0</Intro_Wimp.LetterTextQuestFailed.slateRef>
+</LanguageData>

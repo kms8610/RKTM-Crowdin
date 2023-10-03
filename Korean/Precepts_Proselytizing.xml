@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Proselytizing_Frequently.label>빈번히</Proselytizing_Frequently.label>
+  <Proselytizing_Frequently.description>진실을 아는 자들은 그것을 퍼트리고 다른 믿음을 몰아낼 의무가 있다.</Proselytizing_Frequently.description>
+  <Proselytizing_Frequently.comps.0.eventLabel>새로운 구성원 교화</Proselytizing_Frequently.comps.0.eventLabel>
+  
+  <Proselytizing_Occasionally.label>가끔씩</Proselytizing_Occasionally.label>
+  <Proselytizing_Occasionally.description>진실을 아는 자들은 적절한 때에 그 진실을 나눠야 한다.</Proselytizing_Occasionally.description>
+  <Proselytizing_Occasionally.comps.0.eventLabel>새로운 구성원 교화</Proselytizing_Occasionally.comps.0.eventLabel>
+  
+  <Proselytizing_Sometimes.label>때때로</Proselytizing_Sometimes.label>
+  <Proselytizing_Sometimes.description>진실을 아는 자들은 기회가 있을 때마다 모르는 자를 이끌어야 한다.</Proselytizing_Sometimes.description>
+  <Proselytizing_Sometimes.comps.0.eventLabel>새로운 구성원 교화</Proselytizing_Sometimes.comps.0.eventLabel>
+</LanguageData>

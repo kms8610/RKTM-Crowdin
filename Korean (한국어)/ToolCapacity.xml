@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bite.label>물기</Bite.label>
+  
+  <Blunt.label>직격타</Blunt.label>
+  
+  <Cut.label>잘림</Cut.label>
+  
+  <Demolish.label>허물기</Demolish.label>
+  
+  <KickMaterialInEyes.label>눈에 이물질 뿌리기</KickMaterialInEyes.label>
+  
+  <Poke.label>포크</Poke.label>
+  
+  <Scratch.label>긁힘</Scratch.label>
+  
+  <ScratchToxic.label>독성 할퀴기</ScratchToxic.label>
+  
+  <Stab.label>찔림</Stab.label>
+  
+  <ToxicBite.label>물림 (독성)</ToxicBite.label>
+</LanguageData>

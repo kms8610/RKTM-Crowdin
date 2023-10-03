@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AirConditioning.label>crwdns462480:0crwdne462480:0</AirConditioning.label>
+  <AirConditioning.description>crwdns462482:0crwdne462482:0</AirConditioning.description>
+  
+  <Autodoors.label>crwdns462484:0crwdne462484:0</Autodoors.label>
+  <Autodoors.description>crwdns462486:0crwdne462486:0</Autodoors.description>
+  
+  <Batteries.label>crwdns462488:0crwdne462488:0</Batteries.label>
+  <Batteries.description>crwdns462490:0crwdne462490:0</Batteries.description>
+  
+  <BiofuelRefining.label>crwdns462492:0crwdne462492:0</BiofuelRefining.label>
+  <BiofuelRefining.description>crwdns462494:0crwdne462494:0</BiofuelRefining.description>
+  
+  <BlowbackOperation.label>crwdns462496:0crwdne462496:0</BlowbackOperation.label>
+  <BlowbackOperation.description>crwdns462498:0crwdne462498:0</BlowbackOperation.description>
+  
+  <ColoredLights.label>crwdns462500:0crwdne462500:0</ColoredLights.label>
+  <ColoredLights.description>crwdns462502:0crwdne462502:0</ColoredLights.description>
+  
+  <Electricity.label>crwdns462504:0crwdne462504:0</Electricity.label>
+  <Electricity.description>crwdns462506:0crwdne462506:0</Electricity.description>
+  <Electricity.discoveredLetterText>crwdns462508:0crwdne462508:0</Electricity.discoveredLetterText>
+  <Electricity.discoveredLetterTitle>crwdns462510:0crwdne462510:0</Electricity.discoveredLetterTitle>
+  
+  <Firefoam.label>crwdns462512:0crwdne462512:0</Firefoam.label>
+  <Firefoam.description>crwdns462514:0crwdne462514:0</Firefoam.description>
+  
+  <FlakArmor.label>crwdns462516:0crwdne462516:0</FlakArmor.label>
+  <FlakArmor.description>crwdns462518:0crwdne462518:0</FlakArmor.description>
+  
+  <FoamTurret.label>crwdns462520:0crwdne462520:0</FoamTurret.label>
+  <FoamTurret.description>crwdns462522:0crwdne462522:0</FoamTurret.description>
+  
+  <GasOperation.label>crwdns462524:0crwdne462524:0</GasOperation.label>
+  <GasOperation.description>crwdns462526:0crwdne462526:0</GasOperation.description>
+  
+  <GeothermalPower.label>crwdns462528:0crwdne462528:0</GeothermalPower.label>
+  <GeothermalPower.description>crwdns462530:0crwdne462530:0</GeothermalPower.description>
+  
+  <GunTurrets.label>crwdns462532:0crwdne462532:0</GunTurrets.label>
+  <GunTurrets.description>crwdns462534:0crwdne462534:0</GunTurrets.description>
+  
+  <Gunsmithing.label>crwdns462536:0crwdne462536:0</Gunsmithing.label>
+  <Gunsmithing.description>crwdns462538:0crwdne462538:0</Gunsmithing.description>
+  
+  <Hydroponics.label>crwdns462540:0crwdne462540:0</Hydroponics.label>
+  <Hydroponics.description>crwdns462542:0crwdne462542:0</Hydroponics.description>
+  
+  <IEDs.label>crwdns462544:0crwdne462544:0</IEDs.label>
+  <IEDs.description>crwdns462546:0crwdne462546:0</IEDs.description>
+  
+  <Machining.label>crwdns462548:0crwdne462548:0</Machining.label>
+  <Machining.description>crwdns462550:0crwdne462550:0</Machining.description>
+  
+  <Mortars.label>crwdns462552:0crwdne462552:0</Mortars.label>
+  <Mortars.description>crwdns462554:0crwdne462554:0</Mortars.description>
+  
+  <NutrientPaste.label>crwdns462556:0crwdne462556:0</NutrientPaste.label>
+  <NutrientPaste.description>crwdns462558:0crwdne462558:0</NutrientPaste.description>
+  
+  <PackagedSurvivalMeal.label>crwdns462560:0crwdne462560:0</PackagedSurvivalMeal.label>
+  <PackagedSurvivalMeal.description>crwdns462562:0crwdne462562:0</PackagedSurvivalMeal.description>
+  
+  <Prosthetics.label>crwdns462564:0crwdne462564:0</Prosthetics.label>
+  <Prosthetics.description>crwdns462566:0crwdne462566:0</Prosthetics.description>
+  
+  <SmokepopBelt.label>crwdns462568:0crwdne462568:0</SmokepopBelt.label>
+  <SmokepopBelt.description>crwdns462570:0crwdne462570:0</SmokepopBelt.description>
+  
+  <SolarPanels.label>crwdns462572:0crwdne462572:0</SolarPanels.label>
+  <SolarPanels.description>crwdns462574:0crwdne462574:0</SolarPanels.description>
+  
+  <SterileMaterials.label>crwdns462576:0crwdne462576:0</SterileMaterials.label>
+  <SterileMaterials.description>crwdns462578:0crwdne462578:0</SterileMaterials.description>
+  
+  <TubeTelevision.label>crwdns462580:0crwdne462580:0</TubeTelevision.label>
+  <TubeTelevision.description>crwdns462582:0crwdne462582:0</TubeTelevision.description>
+  
+  <WatermillGenerator.label>crwdns462584:0crwdne462584:0</WatermillGenerator.label>
+  <WatermillGenerator.description>crwdns462586:0crwdne462586:0</WatermillGenerator.description>
+</LanguageData>

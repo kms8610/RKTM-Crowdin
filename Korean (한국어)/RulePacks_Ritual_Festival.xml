@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerFestivalGlobal.rulePack.rulesStrings>
+    <li>festivalName(p=2)->[memeAdjective] [festival]</li>
+    <li>festivalName->[chosenTheme]의 [festival]</li>
+    <li>festivalName->[chosenAdjective] [festival]</li>
+    <li>festivalName->[keyDeity]의 [festival]</li>
+    <li>festivalName->[keyDeity]의 [festival]</li>
+    <li>festivalName->[memeConcept]의 [festival]</li>
+    <li>festivalName->[chosenIdeoName]의 [festival]</li>
+    <li>festival->축전</li>
+    <li>festival->기념일</li>
+    <li>festival->파티</li>
+    <li>festival->강림절</li>
+    <li>festival->축제</li>
+    <li>festival->환회</li>
+    <li>festival->피에스타</li>
+  </NamerFestivalGlobal.rulePack.rulesStrings>
+  
+  <NamerRitualFestival.rulePack.rulesStrings>
+    <li>r_ritualName->[festivalName]</li>
+  </NamerRitualFestival.rulePack.rulesStrings>
+</LanguageData>

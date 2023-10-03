@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CureAbasia.label>마비성 보행불능 치료</CureAbasia.label>
+  <CureAbasia.description>뇌를 손상시키지 않고 신경활동의 조정된 구조를 재배치하기 위해 대량의 메카나이트를 사용합니다. 이는 환자를 보행불능으로 인한 마비를 영구적으로 치료하지만 많은 번화계 약품이 필요합니다.</CureAbasia.description>
+  <CureAbasia.jobString>마비성 보행불능 치료 중.</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 마비성 보행불능을 치료했습니다.</CureAbasia.successfullyRemovedHediffMessage>
+  
+  <CureBloodRot.label>혈액부패 치료</CureBloodRot.label>
+  <CureBloodRot.description>메카나이트 살균바이러스를 대량으로 주입하여 혈액부패를 치료할 특별한 수술입니다.</CureBloodRot.description>
+  <CureBloodRot.jobString>혈액부패 치료 중.</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0}(은)는 성공적으로 {1}의 혈액부패를 치료했습니다.</CureBloodRot.successfullyRemovedHediffMessage>
+</LanguageData>

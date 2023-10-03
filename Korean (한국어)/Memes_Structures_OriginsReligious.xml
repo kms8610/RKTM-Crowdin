@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+    <li>r_deityType->[all]의 창조주</li>
+    <li>r_deityType->[adj] 신</li>
+    <li>all->만물</li>
+    <li>all->모든 것</li>
+    <li>all->우주</li>
+    <li>adj->전능한</li>
+    <li>adj->전능의</li>
+    <li>adj->만능의</li>
+  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+  
+  <NamerDeityChristian.rulePack.rulesStrings>
+    <li>r_deityName(p=3)->하느님</li>
+    <li>r_deityName->주 그리스도</li>
+    <li>r_deityName->그리스도</li>
+    <li>r_deityName->[color] 예수</li>
+    <li>r_deityName->[color] 그리스도</li>
+  </NamerDeityChristian.rulePack.rulesStrings>
+  
+  <NamerDeityIslamic.rulePack.rulesStrings>
+    <li>r_deityName(p=8)->알라</li>
+    <li>r_deityName->알라</li>
+    <li>r_deityName->아르라만</li>
+    <li>r_deityName->알말릭</li>
+    <li>r_deityName->알쿠도스</li>
+    <li>r_deityName->아즈살람</li>
+    <li>r_deityName->알무민</li>
+    <li>r_deityName->알아지즈</li>
+    <li>r_deityName->알자바르</li>
+    <li>r_deityName->알칼리크</li>
+    <li>r_deityName->알가파르</li>
+    <li>r_deityName->알카하르</li>
+    <li>r_deityName->알와하브</li>
+    <li>r_deityName->알파타</li>
+    <li>r_deityName->알알림</li>
+    <li>r_deityName->알하캄</li>
+  </NamerDeityIslamic.rulePack.rulesStrings>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <WorldCameraMovement.label>crwdns456240:0crwdne456240:0</WorldCameraMovement.label>
+  <WorldCameraMovement.helpText>crwdns456242:0{Key:MapZoom_In}crwdnd456242:0{Key:MapZoom_Out}crwdnd456242:0{Key:MapDolly_Up}crwdnd456242:0{Key:MapDolly_Left}crwdnd456242:0{Key:MapDolly_Down}crwdnd456242:0{Key:MapDolly_Right}crwdne456242:0</WorldCameraMovement.helpText>
+  <WorldCameraMovement.helpTextController>crwdns456244:0{Key:MapZoom_In}crwdnd456244:0{Key:MapZoom_Out}crwdne456244:0</WorldCameraMovement.helpTextController>
+</LanguageData>

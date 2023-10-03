@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <SparkSlaveRebellion.label>crwdns431700:0crwdne431700:0</SparkSlaveRebellion.label>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+    <li>crwdns431702:0[INITIATOR_nameDef]crwdne431702:0</li>
+    <li>crwdns431704:0[INITIATOR_nameDef]crwdnd431704:0[RECIPIENT_nameDef]crwdnd431704:0[RECIPIENT_possessive]crwdne431704:0</li>
+    <li>crwdns431706:0[INITIATOR_nameDef]crwdne431706:0</li>
+    <li>crwdns431708:0[INITIATOR_nameDef]crwdnd431708:0[RECIPIENT_nameDef]crwdne431708:0</li>
+    <li>crwdns431710:0[INITIATOR_nameDef]crwdne431710:0</li>
+  </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+  
+  <Suppress.label>crwdns431712:0crwdne431712:0</Suppress.label>
+  <Suppress.logRulesInitiator.rulesStrings>
+    <li>crwdns431714:0[INITIATOR_nameDef]crwdnd431714:0[RECIPIENT_nameDef]crwdne431714:0</li>
+    <li>crwdns431716:0[INITIATOR_nameDef]crwdnd431716:0[RECIPIENT_nameDef]crwdne431716:0</li>
+    <li>crwdns431718:0[INITIATOR_nameDef]crwdnd431718:0[RECIPIENT_nameDef]crwdne431718:0</li>
+    <li>crwdns431720:0[INITIATOR_nameDef]crwdnd431720:0[RECIPIENT_nameDef]crwdne431720:0</li>
+  </Suppress.logRulesInitiator.rulesStrings>
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Battery.label>crwdns471666:0crwdne471666:0</Battery.label>
+  <Battery.description>crwdns471668:0crwdne471668:0</Battery.description>
+  
+  <ChemfuelPoweredGenerator.label>crwdns471670:0crwdne471670:0</ChemfuelPoweredGenerator.label>
+  <ChemfuelPoweredGenerator.description>crwdns471672:0crwdne471672:0</ChemfuelPoweredGenerator.description>
+  
+  <GeothermalGenerator.label>crwdns471674:0crwdne471674:0</GeothermalGenerator.label>
+  <GeothermalGenerator.description>crwdns471676:0crwdne471676:0</GeothermalGenerator.description>
+  
+  <PowerConduit.label>crwdns471678:0crwdne471678:0</PowerConduit.label>
+  <PowerConduit.description>crwdns471680:0crwdne471680:0</PowerConduit.description>
+  
+  <PowerSwitch.label>crwdns471682:0crwdne471682:0</PowerSwitch.label>
+  <PowerSwitch.description>crwdns471684:0crwdne471684:0</PowerSwitch.description>
+  
+  <SolarGenerator.label>crwdns471686:0crwdne471686:0</SolarGenerator.label>
+  <SolarGenerator.description>crwdns471688:0crwdne471688:0</SolarGenerator.description>
+  
+  <WatermillGenerator.label>crwdns471690:0crwdne471690:0</WatermillGenerator.label>
+  <WatermillGenerator.description>crwdns471692:0crwdne471692:0</WatermillGenerator.description>
+  
+  <WaterproofConduit.label>crwdns471694:0crwdne471694:0</WaterproofConduit.label>
+  <WaterproofConduit.description>crwdns471696:0crwdne471696:0</WaterproofConduit.description>
+  
+  <WindTurbine.label>crwdns471698:0crwdne471698:0</WindTurbine.label>
+  <WindTurbine.description>crwdns471700:0crwdne471700:0</WindTurbine.description>
+  
+  <WoodFiredGenerator.label>crwdns471702:0crwdne471702:0</WoodFiredGenerator.label>
+  <WoodFiredGenerator.description>crwdns471704:0crwdne471704:0</WoodFiredGenerator.description>
+</LanguageData>

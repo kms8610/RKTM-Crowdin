@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Artillery_Mortar.label>crwdns471842:0crwdne471842:0</Artillery_Mortar.label>
+  <Artillery_Mortar.description>crwdns471844:0crwdne471844:0</Artillery_Mortar.description>
+  <Artillery_Mortar.verbs.Verb_Shoot.label>crwdns471846:0crwdne471846:0</Artillery_Mortar.verbs.Verb_Shoot.label>
+  
+  <Bullet_AutocannonTurret.label>crwdns471848:0crwdne471848:0</Bullet_AutocannonTurret.label>
+  
+  <Bullet_MiniTurret.label>crwdns471850:0crwdne471850:0</Bullet_MiniTurret.label>
+  
+  <Bullet_TurretSniper.label>crwdns471852:0crwdne471852:0</Bullet_TurretSniper.label>
+  
+  <Gun_AutocannonTurret.label>crwdns471854:0crwdne471854:0</Gun_AutocannonTurret.label>
+  <Gun_AutocannonTurret.description>crwdns471856:0crwdne471856:0</Gun_AutocannonTurret.description>
+  <Gun_AutocannonTurret.verbs.Verb_Shoot.label>crwdns471858:0crwdne471858:0</Gun_AutocannonTurret.verbs.Verb_Shoot.label>
+  
+  <Gun_MiniTurret.label>crwdns471860:0crwdne471860:0</Gun_MiniTurret.label>
+  <Gun_MiniTurret.description>crwdns471862:0crwdne471862:0</Gun_MiniTurret.description>
+  <Gun_MiniTurret.verbs.Verb_Shoot.label>crwdns471864:0crwdne471864:0</Gun_MiniTurret.verbs.Verb_Shoot.label>
+  
+  <Gun_RocketswarmLauncher.label>crwdns471866:0crwdne471866:0</Gun_RocketswarmLauncher.label>
+  <Gun_RocketswarmLauncher.description>crwdns471868:0crwdne471868:0</Gun_RocketswarmLauncher.description>
+  <Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>crwdns471870:0crwdne471870:0</Gun_RocketswarmLauncher.verbs.Verb_Shoot.label>
+  
+  <Gun_TurretFoam.label>crwdns471872:0crwdne471872:0</Gun_TurretFoam.label>
+  <Gun_TurretFoam.description>crwdns471874:0crwdne471874:0</Gun_TurretFoam.description>
+  <Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>crwdns471876:0crwdne471876:0</Gun_TurretFoam.verbs.Verb_ArcSprayProjectile.label>
+  
+  <Gun_TurretSniper.label>crwdns471878:0crwdne471878:0</Gun_TurretSniper.label>
+  <Gun_TurretSniper.description>crwdns471880:0crwdne471880:0</Gun_TurretSniper.description>
+  <Gun_TurretSniper.verbs.Verb_Shoot.label>crwdns471882:0crwdne471882:0</Gun_TurretSniper.verbs.Verb_Shoot.label>
+  
+  <Proj_Foam.label>crwdns471884:0crwdne471884:0</Proj_Foam.label>
+  
+  <Proj_Rocket.label>crwdns471886:0crwdne471886:0</Proj_Rocket.label>
+  
+  <Turret_Autocannon.label>crwdns471888:0crwdne471888:0</Turret_Autocannon.label>
+  <Turret_Autocannon.description>crwdns471890:0crwdne471890:0</Turret_Autocannon.description>
+  <Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>crwdns471892:0crwdne471892:0</Turret_Autocannon.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Autocannon.comps.CompRefuelable.fuelLabel>crwdns471894:0crwdne471894:0</Turret_Autocannon.comps.CompRefuelable.fuelLabel>
+  <Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>crwdns471896:0crwdne471896:0</Turret_Autocannon.comps.CompRefuelable.outOfFuelMessage>
+  
+  <Turret_FoamTurret.label>crwdns471898:0crwdne471898:0</Turret_FoamTurret.label>
+  <Turret_FoamTurret.description>crwdns471900:0crwdne471900:0</Turret_FoamTurret.description>
+  <Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>crwdns471902:0crwdne471902:0</Turret_FoamTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_FoamTurret.comps.CompRefuelable.fuelLabel>crwdns471904:0crwdne471904:0</Turret_FoamTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>crwdns471906:0crwdne471906:0</Turret_FoamTurret.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>crwdns471908:0crwdne471908:0</Turret_FoamTurret.comps.CompActivable_FoamTurret.jobString>
+  <Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>crwdns471910:0crwdne471910:0</Turret_FoamTurret.comps.CompActivable_FoamTurret.onCooldownString>
+  
+  <Turret_MiniTurret.label>crwdns471912:0crwdne471912:0</Turret_MiniTurret.label>
+  <Turret_MiniTurret.description>crwdns471914:0crwdne471914:0</Turret_MiniTurret.description>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>crwdns471916:0crwdne471916:0</Turret_MiniTurret.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.fuelLabel>crwdns471918:0crwdne471918:0</Turret_MiniTurret.comps.CompRefuelable.fuelLabel>
+  <Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>crwdns471920:0crwdne471920:0</Turret_MiniTurret.comps.CompRefuelable.outOfFuelMessage>
+  
+  <Turret_Mortar.label>crwdns471922:0crwdne471922:0</Turret_Mortar.label>
+  <Turret_Mortar.description>crwdns471924:0crwdne471924:0</Turret_Mortar.description>
+  <Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>crwdns471926:0crwdne471926:0</Turret_Mortar.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Mortar.comps.CompRefuelable.fuelLabel>crwdns471928:0crwdne471928:0</Turret_Mortar.comps.CompRefuelable.fuelLabel>
+  <Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>crwdns471930:0crwdne471930:0</Turret_Mortar.comps.CompRefuelable.outOfFuelMessage>
+  
+  <Turret_RocketswarmLauncher.label>crwdns471932:0crwdne471932:0</Turret_RocketswarmLauncher.label>
+  <Turret_RocketswarmLauncher.description>crwdns471934:0crwdne471934:0</Turret_RocketswarmLauncher.description>
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>crwdns471936:0crwdne471936:0</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>crwdns471938:0crwdne471938:0</Turret_RocketswarmLauncher.comps.CompRefuelable.fuelLabel>
+  <Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>crwdns471940:0crwdne471940:0</Turret_RocketswarmLauncher.comps.CompRefuelable.outOfFuelMessage>
+  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>crwdns471942:0crwdne471942:0</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.jobString>
+  <Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>crwdns471944:0crwdne471944:0</Turret_RocketswarmLauncher.comps.CompActivable_RocketswarmLauncher.onCooldownString>
+  
+  <Turret_Sniper.label>crwdns471946:0crwdne471946:0</Turret_Sniper.label>
+  <Turret_Sniper.description>crwdns471948:0crwdne471948:0</Turret_Sniper.description>
+  <Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>crwdns471950:0crwdne471950:0</Turret_Sniper.comps.CompRefuelable.fuelGizmoLabel>
+  <Turret_Sniper.comps.CompRefuelable.fuelLabel>crwdns471952:0crwdne471952:0</Turret_Sniper.comps.CompRefuelable.fuelLabel>
+  <Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>crwdns471954:0crwdne471954:0</Turret_Sniper.comps.CompRefuelable.outOfFuelMessage>
+</LanguageData>

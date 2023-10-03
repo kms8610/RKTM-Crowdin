@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Mission_BanditCamp.questDescriptionRules.rulesStrings>
+    <li>crwdns447424:0[enemiesLabel]crwdnd447424:0[asker_faction_name]crwdnd447424:0[asker_nameDef]crwdnd447424:0[enemiesCount]crwdnd447424:0[enemiesLabel]crwdnd447424:0[asker_pronoun]crwdnd447424:0[soldiers]crwdnd447424:0[asker_pronoun]crwdnd447424:0[timeoutTicks_duration]crwdne447424:0</li>
+    <li>crwdns447426:0[requiredPawnCount]crwdne447426:0</li>
+    <li>crwdns447428:0[requiredPawnCount]crwdne447428:0</li>
+  </Mission_BanditCamp.questDescriptionRules.rulesStrings>
+  <Mission_BanditCamp.questNameRules.rulesStrings>
+    <li>crwdns447430:0[questNameInner]crwdne447430:0</li>
+    <li>crwdns447432:0[asker_nameDef]crwdnd447432:0[questNameInner]crwdne447432:0</li>
+    <li>crwdns447434:0[aerial]crwdnd447434:0[attack]crwdne447434:0</li>
+    <li>crwdns447436:0[target]crwdnd447436:0[attack]crwdne447436:0</li>
+    <li>crwdns447438:0[attack]crwdnd447438:0[work]crwdne447438:0</li>
+    <li>crwdns447440:0crwdne447440:0</li>
+    <li>crwdns447442:0crwdne447442:0</li>
+    <li>crwdns447444:0crwdne447444:0</li>
+    <li>crwdns447446:0crwdne447446:0</li>
+    <li>crwdns447448:0crwdne447448:0</li>
+    <li>crwdns447450:0crwdne447450:0</li>
+    <li>crwdns447452:0crwdne447452:0</li>
+    <li>crwdns447454:0crwdne447454:0</li>
+    <li>crwdns447456:0crwdne447456:0</li>
+    <li>crwdns447458:0crwdne447458:0</li>
+  </Mission_BanditCamp.questNameRules.rulesStrings>
+</LanguageData>

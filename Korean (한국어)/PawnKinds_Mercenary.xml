@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Grenadier_Destructive.label>척탄병</Grenadier_Destructive.label>
+  
+  <Grenadier_EMP.label>전자기 척탄병</Grenadier_EMP.label>
+  
+  <Grenadier_Smoke.label>연막탄 척탄병</Grenadier_Smoke.label>
+  
+  <Mercenary_Elite.label>정예 용병</Mercenary_Elite.label>
+  <Mercenary_Elite.labelPlural>정예 용병</Mercenary_Elite.labelPlural>
+  
+  <Mercenary_Elite_Acidifier.label>정예 용병</Mercenary_Elite_Acidifier.label>
+  <Mercenary_Elite_Acidifier.labelPlural>정예 용병</Mercenary_Elite_Acidifier.labelPlural>
+  
+  <Mercenary_Gunner.label>용병 사수</Mercenary_Gunner.label>
+  
+  <Mercenary_Gunner_Acidifier.label>용병 사수</Mercenary_Gunner_Acidifier.label>
+  
+  <Mercenary_Heavy.label>용병 중화기병</Mercenary_Heavy.label>
+  <Mercenary_Heavy.labelPlural>용병 중화기병들</Mercenary_Heavy.labelPlural>
+  
+  <Mercenary_Slasher.label>용병 도살자</Mercenary_Slasher.label>
+  
+  <Mercenary_Slasher_Acidifier.label>용병 도살자</Mercenary_Slasher_Acidifier.label>
+  
+  <Mercenary_Sniper.label>용병 저격수</Mercenary_Sniper.label>
+  
+  <Mercenary_Sniper_Acidifier.label>용병 저격수</Mercenary_Sniper_Acidifier.label>
+  
+  <PirateBoss.label>대장</PirateBoss.label>
+  <PirateBoss.labelPlural>대장</PirateBoss.labelPlural>
+</LanguageData>

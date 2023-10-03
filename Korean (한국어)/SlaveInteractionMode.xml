@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Emancipate.label>emancipate</Emancipate.label>
+  <Emancipate.description>간수가 노예를 해방시킵니다.</Emancipate.description>
+  
+  <Execute.label>처형</Execute.label>
+  <Execute.description>간수가 목을 베어 즉결처형을 합니다.</Execute.description>
+  
+  <Imprison.label>imprison</Imprison.label>
+  <Imprison.description>간수가 노예를 감금합니다. 이후 포섭하거나 다시 노예화할 수 있습니다.</Imprison.description>
+  
+  <NoInteraction.label>상호작용 없음</NoInteraction.label>
+  <NoInteraction.description>간수들이 노예와 상호작용을 하지 않습니다.</NoInteraction.description>
+  
+  <Suppress.label>복종시키기</Suppress.label>
+  <Suppress.description>간수들은 주기적으로 노예를 억압하여 복종심을 높이고, 반란 확률을 낮춥니다.</Suppress.description>
+</LanguageData>

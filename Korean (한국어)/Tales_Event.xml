@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <CollapseDodged.label>낙석 회피</CollapseDodged.label>
+  <CollapseDodged.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]는 붕괴를 회피함</li>
+    <li>tale_noun->[PAWN_nameDef]는 떨어지는 물체에 찌그러질 뻔함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 낙석 파편으로부터 뛰면서 회피함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 붕괴를 간신히 회피함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 낙석을 회피함</li>
+    <li>image->[PAWN_nameFull]는 [circumstance_group] 낙석에 의한 사망을 회피함</li>
+    <li>circumstance_phrase->잔해와 먼지의 장막 뒤로 사라지며</li>
+    <li>circumstance_phrase->아래에 깔리는 모든 것을 분쇄하는</li>
+    <li>circumstance_phrase->믿을 수 없을 정도로 강한 충격을 동반하는</li>
+    <li>desc_sentence->[PAWN_pronoun]는 땀을 비오듯 흘리고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 겁에 질린 것 같습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]긁혀 피를 흘리고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [PAWN_possessive] 균형을 잃었습니다.</li>
+  </CollapseDodged.rulePack.rulesStrings>
+  
+  <LaunchedShip.label>함선 발사</LaunchedShip.label>
+  <LaunchedShip.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef]가 행성을 탈출함</li>
+    <li>tale_noun->[PAWN_nameDef]는 우주선을 타고 이륙함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 별들을 향해 발사됨</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 천국을 향해서 질주함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 탈출 속도를 위해 가속함</li>
+    <li>image->[circumstance_group] [PAWN_nameFull]는 로켓을 조종함</li>
+    <li>circumstance_phrase->[TerrainFeature]의 앞에서</li>
+    <li>circumstance_phrase->믿을 수 없는 힘으로</li>
+    <li>circumstance_phrase->먼지와 암석의 기둥이 되어</li>
+    <li>circumstance_phrase->로켓이 극적으로 발사되어</li>
+    <li>circumstance_phrase->정밀하게 이륙하여</li>
+    <li>desc_sentence->[PAWN_pronoun]는 제어장치에 열중하고 있습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [PAWN_possessive] 눈을 감으며 자신있는 표정을 짓습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 [PAWN_possessive] 눈을 평화롭게 감으며 잠들었습니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 음산하게 웃으며 기뻐합니다.</li>
+    <li>desc_sentence->[PAWN_pronoun]는 상황을 완전히 통제하고 있는 것 같습니다.</li>
+    <li>desc_sentence->함선 뒷부분을 핥듯이 불에 그을린 자국이 있습니다.</li>
+    <li>desc_sentence->근처에 있던 [Animal]이 깜짝 놀라며 고개들 들어 올리고 있습니다.</li>
+    <li>desc_sentence->[Animal]이 겁에 질려 도망치고 있습니다.</li>
+    <li>desc_sentence->배경으로 [TerrainFeature]가 보입니다.</li>
+    <li>desc_sentence->[PersonJob]이 멀리서 묵묵히 지켜보고 있습니다.</li>
+  </LaunchedShip.rulePack.rulesStrings>
+  
+  <SocialFight.label>사교적 다툼</SocialFight.label>
+  <SocialFight.rulePack.rulesStrings>
+    <li>tale_noun->[INITIATOR_nameDef]와 [RESPONDER_nameDef]는 서로 [fight_name_present]</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]를 모욕함</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]를 조롱함</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]를 위협함</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]에게 겁을 줌</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]에게 달려듬</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]를 폭행함</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]에게 주먹질 함</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]를 발로 참</li>
+    <li>image->[circumstance_group] [INITIATOR_nameFull]는 [RESPONDER_nameFull]에게 겁을 먹고 움츠러듬</li>
+    <li>fight_name_present->폭행함</li>
+    <li>fight_name_present->달려듬</li>
+    <li>fight_name_present->싸움</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 모욕하며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 조롱하며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 위협하며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 겁을 주며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 달려들며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 폭행하며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 주먹을 날리며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 발로 차며</li>
+    <li>circumstance_phrase->[RESPONDER_nameDef]가 [INITIATOR_objective] 겁을먹고 움츠러들며</li>
+    <li>desc_sentence->[target]는 양심의 가책도 없이 나타났습니다.</li>
+    <li>desc_sentence->[target]는 격정적인 분노에 사로잡혀 있습니다.</li>
+    <li>desc_sentence->[target]는 어떠한 감정이나 표정도 나타내지 않습니다.</li>
+    <li>desc_sentence->[target]의 몸은 [Gore]로 뒤덮여 있습니다.</li>
+    <li>desc_sentence->[target]는 사납게 절규하고 있습니다.</li>
+    <li>desc_sentence->[target]는 눈에 띄게 상처입었습니다.</li>
+    <li>desc_sentence->[target]의 눈은 [Color]으로 빛나고 있습니다.</li>
+    <li>target->[INITIATOR_nameDef]</li>
+    <li>target->[RESPONDER_nameDef]</li>
+  </SocialFight.rulePack.rulesStrings>
+</LanguageData>

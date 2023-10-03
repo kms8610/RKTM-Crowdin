@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <RelicHunt.questDescriptionRules.rulesStrings>
+    <li>crwdns437518:0[relic_name]crwdnd437518:0[relicGlobalCount]crwdne437518:0</li>
+    <li>crwdns437520:0[ideo_name]crwdnd437520:0[relic_name]crwdnd437520:0[ideo_memberNamePlural]crwdnd437520:0[ideo_memberNamePlural]crwdnd437520:0[ideo_name]crwdne437520:0</li>
+    <li>crwdns437522:0[relic_name]crwdne437522:0</li>
+  </RelicHunt.questDescriptionRules.rulesStrings>
+  <RelicHunt.questNameRules.rulesStrings>
+    <li>crwdns437524:0[hunt]crwdnd437524:0[item]crwdne437524:0</li>
+    <li>crwdns437526:0[itemAdj]crwdnd437526:0[item]crwdne437526:0</li>
+    <li>crwdns437528:0[item]crwdnd437528:0[ideo_name]crwdne437528:0</li>
+    <li>crwdns437530:0crwdne437530:0</li>
+    <li>crwdns437532:0crwdne437532:0</li>
+    <li>crwdns437534:0crwdne437534:0</li>
+    <li>crwdns437536:0[relic_name]crwdne437536:0</li>
+    <li>crwdns437538:0crwdne437538:0</li>
+    <li>crwdns437540:0crwdne437540:0</li>
+    <li>crwdns437542:0crwdne437542:0</li>
+    <li>crwdns437544:0crwdne437544:0</li>
+    <li>crwdns437546:0crwdne437546:0</li>
+  </RelicHunt.questNameRules.rulesStrings>
+</LanguageData>

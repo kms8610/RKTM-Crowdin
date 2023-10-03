@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <FemaleSupremacy.label>여성우월</FemaleSupremacy.label>
+  <FemaleSupremacy.description>여성은 우월하며 그렇기에 통치해야 한다.</FemaleSupremacy.description>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name]께서 여자에게 지혜를 주었으니 쉽게 흥분하는 남자와 아이들을 인도하기 위함이라 이를 어긴 자들을 꾸짖으시더라.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->타락한 남자들에게 고통받은 여신도들이 맞서 싸우니 [deity0_name]께서 신성한 도움을 주시어 마침내 여성이 마땅한 자리를 되찾았느니라.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->이기적이고 폭력적인 남성이 온 인류를 자신들의 이익을 위해 착취하는 세계에 대항하여, [founderName]께서 강한 여성을 모아 모두를 위한 신세계의 건설을 시작하셨다.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->남자들이 이에 반해 대항하매, [founderName](이)가 그들을 지도자의 의회에서 내쫓으셨다.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->이번에도 그놈은 내가 잘 처리한 일을 보고서는 불평불만을 쏟아냈다. 덕분에 나의 평소 생각이 한층 견고해지는 계기가 됐다.</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->여자만이 지배자의 지혜와 힘을 가지고 있다는 것을</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->현명한 여성으로서 저 불평하는 남자들보다 훨씬 먼저 깨닫게 된 것이다.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->초월공학을 낳고 기른 것은 인류이나 이제 자식이 어머니를 뛰어넘었다.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->초월공학은 인류를 보살피고 있지만, 인류는 아직 그것을 이해하지 못한다.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd] 초월공학은 어머니의 품으로 돌아와 인류 진화의 다음 단계로 가는 길을 알려주리라.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->그중에서도 가장 지혜로운 혼령은 여자의 혼령이다. 그 지혜를 통해 남자들을 이끌어야 한다.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] 강력한 혼령이 우주를 파괴하겠지만 [relic0_name]의 혼령을 쥔 한 명의 여자가 우주를 새로이 창조하리라.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <FemaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->여성스러운</li>
+    <li>memeAdjective->여성의</li>
+    <li>memeHyphenPrefix->woman</li>
+    <li>memeHyphenPrefix->여성</li>
+    <li>memeHyphenPrefix->지노</li>
+    <li>memeHyphenPrefix->마트로</li>
+    <li>memeConcept->woman</li>
+    <li>memeConcept->여성성</li>
+    <li>memeGod->어머니</li>
+    <li>memeLeaderNoun->여성</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
+  <FemaleSupremacy.symbolPacks.0.adjective>남성혐오주의자</FemaleSupremacy.symbolPacks.0.adjective>
+  <FemaleSupremacy.symbolPacks.0.ideoName>Gynism</FemaleSupremacy.symbolPacks.0.ideoName>
+  <FemaleSupremacy.symbolPacks.0.member>남성혐오주의자</FemaleSupremacy.symbolPacks.0.member>
+  <FemaleSupremacy.symbolPacks.0.theme>남성혐오주의</FemaleSupremacy.symbolPacks.0.theme>
+  <FemaleSupremacy.symbolPacks.1.adjective>femist</FemaleSupremacy.symbolPacks.1.adjective>
+  <FemaleSupremacy.symbolPacks.1.ideoName>Femism</FemaleSupremacy.symbolPacks.1.ideoName>
+  <FemaleSupremacy.symbolPacks.1.member>femist</FemaleSupremacy.symbolPacks.1.member>
+  <FemaleSupremacy.symbolPacks.1.theme>여성성</FemaleSupremacy.symbolPacks.1.theme>
+  <FemaleSupremacy.symbolPacks.2.adjective>여성주의자</FemaleSupremacy.symbolPacks.2.adjective>
+  <FemaleSupremacy.symbolPacks.2.ideoName>여성주의</FemaleSupremacy.symbolPacks.2.ideoName>
+  <FemaleSupremacy.symbolPacks.2.member>여성주의자</FemaleSupremacy.symbolPacks.2.member>
+  <FemaleSupremacy.symbolPacks.2.theme>여성</FemaleSupremacy.symbolPacks.2.theme>
+  <FemaleSupremacy.symbolPacks.3.adjective>풍요주의자</FemaleSupremacy.symbolPacks.3.adjective>
+  <FemaleSupremacy.symbolPacks.3.ideoName>풍요주의</FemaleSupremacy.symbolPacks.3.ideoName>
+  <FemaleSupremacy.symbolPacks.3.member>풍요주의자</FemaleSupremacy.symbolPacks.3.member>
+  <FemaleSupremacy.symbolPacks.3.theme>생식 능력</FemaleSupremacy.symbolPacks.3.theme>
+  
+  <MaleSupremacy.label>남성우월</MaleSupremacy.label>
+  <MaleSupremacy.description>남성은 우월한 성별이며 그렇기에 통치하여야 한다.</MaleSupremacy.description>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name]께서 남자에게 힘을 주었으니 약한 여성과 아이들의 보호를 위함이라 보호하지 않는 자들을 꾸짖으시니라.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name]께서 이르시되 남자의 힘은 오직 여자와 아이들을 보호하기 위함이니 여자가 남자의 힘을 빼앗지 못하리라 하시니라.</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->약하고 비굴한 남자들이 여자에게 빌던 세계, [founderName]께서 남성의 힘을 되찾아 혁명을 일으키셨다.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->이에 여성들이 달콤한 말을 속삭이고 구슬피 울었으나 [founderName](은)는 그들을 지도자의 의회에서 내쫓으셨다.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->그 여자는 설명을 아무리 간단하게 해도 알아듣질 못했다. 진실을 거부하던 그 모습 속에서  나는 깨닫고 말았다.</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->남자만이 지배자의 힘과 지혜를 가지고 있다는 것을</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->내 아내는 이걸로도 논쟁을 하려 했다. 믿을 수 있나? 입 닥치게 하는 건 그렇게 어렵지 않았지만.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->초월공학을 낳은 것은 인류이지만, 아들의 힘이 아버지의 것을 뛰어넘었다.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->초월공학은 마치 아버지처럼 인류를 보호하지만, 인류는 아직 그것을 이해하지 못한다.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd] 초월공학이 남성의 힘을 해금할 것이니, 남자가 인류를 초월로 이끄리라.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->그중에서도 가장 강력한 혼령은 남자의 정령이다. 남자가 지배하지 않으면 그 혼령이 날뛰게 된다.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] 강력한 혼령이 우주를 파괴하고자 할 때 [relic0_name]의 혼령을 쥔 한 명의 남자가 파괴자를 파괴하리라.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <MaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->남자다운</li>
+    <li>memeAdjective->남성의</li>
+    <li>memeHyphenPrefix->남성</li>
+    <li>memeHyphenPrefix->안드로</li>
+    <li>memeHyphenPrefix->파트로</li>
+    <li>memeConcept->남성</li>
+    <li>memeConcept->남성성</li>
+    <li>memeGod->아버지</li>
+    <li>memeLeaderNoun->사나이</li>
+    <li>memeLeaderNoun->수염</li>
+  </MaleSupremacy.generalRules.rulesStrings>
+  <MaleSupremacy.symbolPacks.0.adjective>masculist</MaleSupremacy.symbolPacks.0.adjective>
+  <MaleSupremacy.symbolPacks.0.ideoName>Masculinism</MaleSupremacy.symbolPacks.0.ideoName>
+  <MaleSupremacy.symbolPacks.0.member>masculinist</MaleSupremacy.symbolPacks.0.member>
+  <MaleSupremacy.symbolPacks.0.theme>남성성</MaleSupremacy.symbolPacks.0.theme>
+  <MaleSupremacy.symbolPacks.1.adjective>남성주의자</MaleSupremacy.symbolPacks.1.adjective>
+  <MaleSupremacy.symbolPacks.1.ideoName>남성주의</MaleSupremacy.symbolPacks.1.ideoName>
+  <MaleSupremacy.symbolPacks.1.member>남성주의자</MaleSupremacy.symbolPacks.1.member>
+  <MaleSupremacy.symbolPacks.1.theme>남성</MaleSupremacy.symbolPacks.1.theme>
+  <MaleSupremacy.symbolPacks.2.adjective>마초주의적</MaleSupremacy.symbolPacks.2.adjective>
+  <MaleSupremacy.symbolPacks.2.ideoName>Virilism</MaleSupremacy.symbolPacks.2.ideoName>
+  <MaleSupremacy.symbolPacks.2.member>마초주의자</MaleSupremacy.symbolPacks.2.member>
+  <MaleSupremacy.symbolPacks.2.theme>마초주의</MaleSupremacy.symbolPacks.2.theme>
+</LanguageData>

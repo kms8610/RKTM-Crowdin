@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <AestheticNose.label>crwdns449110:0crwdne449110:0</AestheticNose.label>
+  <AestheticNose.description>crwdns449112:0crwdne449112:0</AestheticNose.description>
+  
+  <AestheticShaper.label>crwdns449114:0crwdne449114:0</AestheticShaper.label>
+  <AestheticShaper.description>crwdns449116:0crwdne449116:0</AestheticShaper.description>
+  
+  <ArmorskinGland.label>crwdns449118:0crwdne449118:0</ArmorskinGland.label>
+  <ArmorskinGland.description>crwdns449120:0crwdne449120:0</ArmorskinGland.description>
+  
+  <CircadianAssistant.label>crwdns449122:0crwdne449122:0</CircadianAssistant.label>
+  <CircadianAssistant.description>crwdns449124:0crwdne449124:0</CircadianAssistant.description>
+  
+  <CircadianHalfCycler.label>crwdns449126:0crwdne449126:0</CircadianHalfCycler.label>
+  <CircadianHalfCycler.description>crwdns449128:0crwdne449128:0</CircadianHalfCycler.description>
+  
+  <Coagulator.label>crwdns449130:0crwdne449130:0</Coagulator.label>
+  <Coagulator.description>crwdns449132:0crwdne449132:0</Coagulator.description>
+  
+  <DetoxifierStomach.label>crwdns449134:0crwdne449134:0</DetoxifierStomach.label>
+  <DetoxifierStomach.description>crwdns449136:0crwdne449136:0</DetoxifierStomach.description>
+  
+  <GastroAnalyzer.label>crwdns449138:0crwdne449138:0</GastroAnalyzer.label>
+  <GastroAnalyzer.description>crwdns449140:0crwdne449140:0</GastroAnalyzer.description>
+  
+  <HealingEnhancer.label>crwdns449142:0crwdne449142:0</HealingEnhancer.label>
+  <HealingEnhancer.description>crwdns449144:0crwdne449144:0</HealingEnhancer.description>
+  
+  <Immunoenhancer.label>crwdns449146:0crwdne449146:0</Immunoenhancer.label>
+  <Immunoenhancer.description>crwdns449148:0crwdne449148:0</Immunoenhancer.description>
+  
+  <LearningAssistant.label>crwdns449150:0crwdne449150:0</LearningAssistant.label>
+  <LearningAssistant.description>crwdns449152:0crwdne449152:0</LearningAssistant.description>
+  
+  <LoveEnhancer.label>crwdns449154:0crwdne449154:0</LoveEnhancer.label>
+  <LoveEnhancer.description>crwdns449156:0crwdne449156:0</LoveEnhancer.description>
+  
+  <Neurocalculator.label>crwdns449158:0crwdne449158:0</Neurocalculator.label>
+  <Neurocalculator.description>crwdns449160:0crwdne449160:0</Neurocalculator.description>
+  
+  <NuclearStomach.label>crwdns449162:0crwdne449162:0</NuclearStomach.label>
+  <NuclearStomach.description>crwdns449164:0crwdne449164:0</NuclearStomach.description>
+  
+  <ReprocessorStomach.label>crwdns449166:0crwdne449166:0</ReprocessorStomach.label>
+  <ReprocessorStomach.description>crwdns449168:0crwdne449168:0</ReprocessorStomach.description>
+  
+  <StoneskinGland.label>crwdns449170:0crwdne449170:0</StoneskinGland.label>
+  <StoneskinGland.description>crwdns449172:0crwdne449172:0</StoneskinGland.description>
+  
+  <ToughskinGland.label>crwdns449174:0crwdne449174:0</ToughskinGland.label>
+  <ToughskinGland.description>crwdns449176:0crwdne449176:0</ToughskinGland.description>
+</LanguageData>

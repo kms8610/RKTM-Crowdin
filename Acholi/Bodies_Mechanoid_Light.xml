@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Mech_Agrihand.label>crwdns421040:0crwdne421040:0</Mech_Agrihand.label>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns421042:0crwdne421042:0</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>crwdns421044:0crwdne421044:0</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.customLabel>crwdns421046:0crwdne421046:0</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>crwdns421048:0crwdne421048:0</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>crwdns421050:0crwdne421050:0</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.customLabel>crwdns421052:0crwdne421052:0</Mech_Agrihand.corePart.parts.left_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>crwdns421054:0crwdne421054:0</Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.customLabel>crwdns421056:0crwdne421056:0</Mech_Agrihand.corePart.parts.right_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>crwdns421058:0crwdne421058:0</Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
+  
+  <Mech_Light.label>crwdns421060:0crwdne421060:0</Mech_Light.label>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>crwdns421062:0crwdne421062:0</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>crwdns421064:0crwdne421064:0</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Mech_Light.corePart.parts.left_leg.customLabel>crwdns421066:0crwdne421066:0</Mech_Light.corePart.parts.left_leg.customLabel>
+  <Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>crwdns421068:0crwdne421068:0</Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Light.corePart.parts.right_leg.customLabel>crwdns421070:0crwdne421070:0</Mech_Light.corePart.parts.right_leg.customLabel>
+  <Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>crwdns421072:0crwdne421072:0</Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>
+</LanguageData>

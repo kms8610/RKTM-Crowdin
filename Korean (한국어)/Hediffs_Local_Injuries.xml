@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <BeamWound.label>beam burn</BeamWound.label>
+  <BeamWound.description>A beam burn.</BeamWound.description>
+  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>붕대감음</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
+  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>permanent beam injury</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>old beam wound</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
+  <BeamWound.injuryProps.destroyedLabel>녹아내림</BeamWound.injuryProps.destroyedLabel>
+  <BeamWound.injuryProps.destroyedOutLabel>녹아내림</BeamWound.injuryProps.destroyedOutLabel>
+  <BeamWound.labelNoun>a beam burn</BeamWound.labelNoun>
+  <BeamWound.labelNounPretty>{0}(은)는 {1}의 영향을 받고 있습니다.</BeamWound.labelNounPretty>
+</LanguageData>

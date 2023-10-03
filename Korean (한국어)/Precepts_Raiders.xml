@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Raiding_Required.label>필요</Raiding_Required.label>
+  <Raiding_Required.description>우리는 평범한 노동자들처럼 일하지 않는다. 강한 자라면 응당 약한 자에게서 빼앗아야 하는 법. 그리 하지 못하는 것은 엄청난 수치이다.</Raiding_Required.description>
+  <Raiding_Required.comps.3.thoughtStageDescriptions.0>마지막 습격으로부터 {DAYSSINCELASTRAIDTHRESHOLD}일 미만</Raiding_Required.comps.3.thoughtStageDescriptions.0>
+  <Raiding_Required.comps.3.thoughtStageDescriptions.1>마지막 습격으로부터 {DAYSSINCELASTRAIDTHRESHOLD}일 이상</Raiding_Required.comps.3.thoughtStageDescriptions.1>
+  
+  <Raiding_Respected.label>중시함</Raiding_Respected.label>
+  <Raiding_Respected.description>우리는 평범한 노동자들처럼 일하지 않는다. 강한 자라면 응당 약한 자에게서 빼앗아야 하는 법. 그리 하지 못하는 것은 수치심의 표식이다.</Raiding_Respected.description>
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.0>마지막 습격으로부터 {DAYSSINCELASTRAIDTHRESHOLD}일 미만</Raiding_Respected.comps.3.thoughtStageDescriptions.0>
+  <Raiding_Respected.comps.3.thoughtStageDescriptions.1>마지막 습격으로부터 {DAYSSINCELASTRAIDTHRESHOLD}일 이상</Raiding_Respected.comps.3.thoughtStageDescriptions.1>
+</LanguageData>

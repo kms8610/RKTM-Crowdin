@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <NamerScenario.rulePack.rulesStrings>
+    <li>r_name->[Trans] [Weapon]의 [story]</li>
+    <li>r_name->[Trans] [Animal]의 [story]</li>
+    <li>r_name->[Trans] [TerrainFeature]의 [story]</li>
+    <li>r_name->[Trans] [PersonJob]들의 [story]</li>
+    <li>r_name->[Trans] [ConceptAny]의 [story]</li>
+    <li>r_name->[story]의 [ConceptAny]</li>
+    <li>r_name->[Trans] [Community]의 [story]</li>
+    <li>r_name->[AdjectiveAny] [story]</li>
+    <li>r_name->[Trans] [Game]의 [story]</li>
+    <li>r_name->[Color](와)과 [Color]의 [story]</li>
+    <li>r_name->[story]의 [Color]</li>
+    <li>r_name->[RomanNumeral]의 [story]</li>
+  </NamerScenario.rulePack.rulesStrings>
+</LanguageData>

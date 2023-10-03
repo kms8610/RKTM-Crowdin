@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Alpaca.label>알파카</Alpaca.label>
+  <Alpaca.description>라마와 밀접한 관련이 있는 중간 크기의 발굽동물인 알파카는 보통 놀라울 정도로 부드럽고 보온성 있는 양모를 얻을 수 있습니다. 알파카는 고대 남아메리카의 험한 산길에서 화물을 운반하는 짐꾼으로 사용되었습니다.</Alpaca.description>
+  <Alpaca.tools.left_hoof.label>왼쪽 발굽</Alpaca.tools.left_hoof.label>
+  <Alpaca.tools.right_hoof.label>오른쪽 발굽</Alpaca.tools.right_hoof.label>
+  <Alpaca.tools.head.label>머리</Alpaca.tools.head.label>
+  
+  <Capybara.label>카피바라</Capybara.label>
+  <Capybara.description>가장 큰 야생 설치류인 카피바라는 눅눅한 정글 환경에 잘 적응되어 있습니다.</Capybara.description>
+  <Capybara.tools.left_claw.label>왼쪽 발톱</Capybara.tools.left_claw.label>
+  <Capybara.tools.right_claw.label>오른쪽 발톱</Capybara.tools.right_claw.label>
+  <Capybara.tools.head.label>머리</Capybara.tools.head.label>
+  
+  <Megasloth.label>거대늘보</Megasloth.label>
+  <Megasloth.description>위협을 방어하기 위해 두 개의 큰 발톱을 가진 거대한 단독생활 초식동물. 지구는 북미 대륙의 원주민들에 의해 멸종된 지 오래되었지만, 거대늘보는 진보된 복제연구와 인공 수정을 이용해 다시 돌아왔습니다. 두꺼운 가죽은 두텁고 절연성이 강해, 추운 날씨의 옷을 위한 훌륭한 소재가 될 수 있습니다. 혼자 내버려두면 평화롭지만, 괴롭히는 사람은 누구나 그 거대한 발톱으로 갈기갈기 찢을 것입니다.</Megasloth.description>
+  <Megasloth.tools.left_claw.label>왼쪽 발톱</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.right_claw.label>오른쪽 발톱</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.head.label>머리</Megasloth.tools.head.label>
+  
+  <Sheep.label>양</Sheep.label>
+  <Sheep.description>양 사육은 대부분의 사람이 사는 세계에서 행해지고 있지만, 최근에서야 변경계에 도입되었습니다. 축사용 양들은 비교적 작은 초식동물이며, 주로 노란색을 띄는 털과 중간 크기의 뿔을 가지고 있습니다.</Sheep.description>
+  <Sheep.tools.head.label>머리</Sheep.tools.head.label>
+  <Sheep.tools.left_hoof.label>왼쪽 발굽</Sheep.tools.left_hoof.label>
+  <Sheep.tools.right_hoof.label>오른쪽 발굽</Sheep.tools.right_hoof.label>
+</LanguageData>

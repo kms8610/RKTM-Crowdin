@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ArrestingCreatesEnemies.label>crwdns456482:0crwdne456482:0</ArrestingCreatesEnemies.label>
+  <ArrestingCreatesEnemies.helpText>crwdns456484:0{0}crwdne456484:0</ArrestingCreatesEnemies.helpText>
+  
+  <MaxNumberOfPlayerSettlements.label>crwdns456486:0crwdne456486:0</MaxNumberOfPlayerSettlements.label>
+  <MaxNumberOfPlayerSettlements.helpText>crwdns456488:0crwdne456488:0</MaxNumberOfPlayerSettlements.helpText>
+  
+  <SteamDeckControlsGame.label>crwdns456490:0crwdne456490:0</SteamDeckControlsGame.label>
+  <SteamDeckControlsGame.helpText>crwdns456492:0{Key:TogglePause}crwdnd456492:0{Key:MapZoom_In}crwdnd456492:0{Key:MapZoom_Out}crwdne456492:0</SteamDeckControlsGame.helpText>
+  
+  <SteamDeckControlsMainMenu.label>crwdns456494:0crwdne456494:0</SteamDeckControlsMainMenu.label>
+  <SteamDeckControlsMainMenu.helpText>crwdns456496:0{Key:Accept}crwdnd456496:0{Key:Cancel}crwdne456496:0</SteamDeckControlsMainMenu.helpText>
+  
+  <SwitchFlickingDesignation.label>crwdns456498:0crwdne456498:0</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.helpText>crwdns456500:0crwdne456500:0</SwitchFlickingDesignation.helpText>
+  
+  <TradeGoodsMustBeNearBeacon.label>crwdns456502:0crwdne456502:0</TradeGoodsMustBeNearBeacon.label>
+  <TradeGoodsMustBeNearBeacon.helpText>crwdns456504:0crwdne456504:0</TradeGoodsMustBeNearBeacon.helpText>
+  
+  <TradingRequiresPermit.label>crwdns456506:0crwdne456506:0</TradingRequiresPermit.label>
+  <TradingRequiresPermit.helpText>crwdns456508:0{0}crwdnd456508:0{0}crwdne456508:0</TradingRequiresPermit.helpText>
+</LanguageData>

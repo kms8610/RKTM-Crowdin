@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ProblemCauser.questDescriptionRules.rulesStrings>
+    <li>crwdns447478:0[map_definite]crwdnd447478:0[allSitePartsDescriptions]crwdne447478:0</li>
+    <li>crwdns447480:0[map_definite]crwdnd447480:0[allSitePartsDescriptions]crwdne447480:0</li>
+  </ProblemCauser.questDescriptionRules.rulesStrings>
+  <ProblemCauser.questNameRules.rulesStrings>
+    <li>crwdns447482:0[problemCauserLabel]crwdne447482:0</li>
+    <li>crwdns447484:0[problemCauserLabel]crwdne447484:0</li>
+  </ProblemCauser.questNameRules.rulesStrings>
+  <ProblemCauser.LetterLabelSuccess.slateRef>crwdns447486:0[problemCauserLabel]crwdne447486:0</ProblemCauser.LetterLabelSuccess.slateRef>
+  <ProblemCauser.LetterTextSuccess.slateRef>crwdns447488:0[problemCauserLabel]crwdnd447488:0[map_definite]crwdne447488:0</ProblemCauser.LetterTextSuccess.slateRef>
+</LanguageData>

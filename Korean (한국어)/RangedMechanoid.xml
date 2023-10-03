@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Bullet_ChargeBlasterHeavy.label>차지 블라스터 포탄</Bullet_ChargeBlasterHeavy.label>
+  
+  <Bullet_InfernoCannon.label>지옥화염 포탄</Bullet_InfernoCannon.label>
+  
+  <Bullet_NeedleGun.label>바늘탄</Bullet_NeedleGun.label>
+  
+  <Gun_ChargeBlasterHeavy.label>차지 블라스터</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.description>지역 제압을 위한 펄스 충전식 고속 발사 전자기 가속포입니다.</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>총열</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>차지 블라스터</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  
+  <Gun_InfernoCannon.label>지옥화염 포</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.description>착탄지에 화염을 일으키는 소형 자주포입니다.</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.tools.barrel.label>총열</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>지옥화염 포</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  
+  <Gun_Needle.label>바늘총</Gun_Needle.label>
+  <Gun_Needle.description>메카노이드가 사용하는 장거리 무기로, 매우 정확하게 단발로 발사되는 이 총은 바늘같은 발사체의 모양을 본 따 이름이 붙여졌습니다. 전자기 무기보다는 피해가 적지만, 매우 먼 거리에서 사용가능합니다.</Gun_Needle.description>
+  <Gun_Needle.tools.barrel.label>총열</Gun_Needle.tools.barrel.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>바늘총</Gun_Needle.verbs.Verb_Shoot.label>
+</LanguageData>

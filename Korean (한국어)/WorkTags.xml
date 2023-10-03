@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WorkTagNone>없음</WorkTagNone>
+  <WorkTagIntellectual>지적노동</WorkTagIntellectual>
+  <WorkTagManualDumb>단순노동</WorkTagManualDumb>
+  <WorkTagManualSkilled>숙련노동</WorkTagManualSkilled>
+  <WorkTagViolent>전투</WorkTagViolent>
+  <WorkTagShooting>사격</WorkTagShooting>
+  <WorkTagCaring>간호</WorkTagCaring>
+  <WorkTagSocial>사교</WorkTagSocial>
+  <WorkTagAnimals>동물</WorkTagAnimals>
+  <WorkTagArtistic>예술</WorkTagArtistic>
+  <WorkTagCrafting>제작중</WorkTagCrafting>
+  <WorkTagCooking>조리</WorkTagCooking>
+  <WorkTagFirefighting>소방</WorkTagFirefighting>
+  <WorkTagCleaning>청소 중</WorkTagCleaning>
+  <WorkTagHauling>운반</WorkTagHauling>
+  <WorkTagPlantWork>원예</WorkTagPlantWork>
+  <WorkTagMining>채굴</WorkTagMining>
+  <WorkTagHunting>사냥중!</WorkTagHunting>
+  <WorkTagConstructing>밭 가는 중.</WorkTagConstructing>
+  <WorkTagCommoner>노동</WorkTagCommoner>
+  <WorkTagAllWork>모든 작업</WorkTagAllWork>
+
+</LanguageData>

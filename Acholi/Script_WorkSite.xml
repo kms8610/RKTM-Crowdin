@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+    <li>crwdns437646:0[siteLabel]crwdnd437646:0[faction_name]crwdnd437646:0[loot]crwdnd437646:0[raidConsequences]crwdnd437646:0[timeout_duration]crwdne437646:0</li>
+    <li>crwdns437648:0[faction_name]crwdne437648:0</li>
+    <li>crwdns437650:0[faction_name]crwdne437650:0</li>
+  </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_WorkSite.questNameRules.rulesStrings>
+    <li>crwdns437652:0[site_label]crwdnd437652:0[detected]crwdne437652:0</li>
+    <li>crwdns437654:0crwdne437654:0</li>
+    <li>crwdns437656:0crwdne437656:0</li>
+    <li>crwdns437658:0crwdne437658:0</li>
+    <li>crwdns437660:0crwdne437660:0</li>
+    <li>crwdns437662:0crwdne437662:0</li>
+    <li>crwdns437664:0crwdne437664:0</li>
+    <li>crwdns437666:0crwdne437666:0</li>
+    <li>crwdns437668:0crwdne437668:0</li>
+    <li>crwdns437670:0crwdne437670:0</li>
+  </OpportunitySite_WorkSite.questNameRules.rulesStrings>
+</LanguageData>
