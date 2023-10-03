@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KillingInnocentAnimals.label>무고한 동물 살해</KillingInnocentAnimals.label>
+  <KillingInnocentAnimals_Abhorrent.label>혐오함</KillingInnocentAnimals_Abhorrent.label>
+  <KillingInnocentAnimals_Abhorrent.description>무고한 동물을 죽이는 것은 끔찍할 정도로 비 인간적인 행위이다. 무고한 동물이란 공격하지 않거나, 인간의 도발에 의해 공격하게 된 동물을 말한다.</KillingInnocentAnimals_Abhorrent.description>
+  <KillingInnocentAnimals_Abhorrent.comps.2.description>무고한 동물 살해</KillingInnocentAnimals_Abhorrent.comps.2.description>
+  
+  <KillingInnocentAnimals_Disapproved.label>못마땅함</KillingInnocentAnimals_Disapproved.label>
+  <KillingInnocentAnimals_Disapproved.description>무고한 동물을 죽이는 것은 역겨운 행위이다. 무고한 동물이란 공격하지 않거나, 인간의 도발에 의해 공격하게 된 동물을 말한다.</KillingInnocentAnimals_Disapproved.description>
+  <KillingInnocentAnimals_Disapproved.comps.0.description>무고한 동물 살해</KillingInnocentAnimals_Disapproved.comps.0.description>
+  <KillingInnocentAnimals_Disapproved.comps.2.description>누군가가 무고한 동물을 살해</KillingInnocentAnimals_Disapproved.comps.2.description>
+  
+  <KillingInnocentAnimals_Horrible.label>끔찍함</KillingInnocentAnimals_Horrible.label>
+  <KillingInnocentAnimals_Horrible.description>무고한 동물을 죽이는 것은 끔찍할 정도로 비 인간적인 행위이다. 무고한 동물이란 공격하지 않거나, 인간의 도발에 의해 공격하게 된 동물을 말한다.</KillingInnocentAnimals_Horrible.description>
+  <KillingInnocentAnimals_Horrible.comps.0.description>무고한 동물 살해</KillingInnocentAnimals_Horrible.comps.0.description>
+  <KillingInnocentAnimals_Horrible.comps.2.description>누군가가 무고한 동물을 살해</KillingInnocentAnimals_Horrible.comps.2.description>
 </LanguageData>
