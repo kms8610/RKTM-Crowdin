@@ -1,21 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.label>crwdns474256:0crwdne474256:0</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
-  <AlcoholWithdrawal.stages.alcohol_withdrawal.description>crwdns474258:0crwdne474258:0</AlcoholWithdrawal.stages.alcohol_withdrawal.description>
-  
-  <Hungover.stages.mild_hangover.label>crwdns474260:0crwdne474260:0</Hungover.stages.mild_hangover.label>
-  <Hungover.stages.mild_hangover.description>crwdns474262:0crwdne474262:0</Hungover.stages.mild_hangover.description>
-  <Hungover.stages.serious_hangover.label>crwdns474264:0crwdne474264:0</Hungover.stages.serious_hangover.label>
-  <Hungover.stages.serious_hangover.description>crwdns474266:0crwdne474266:0</Hungover.stages.serious_hangover.description>
-  <Hungover.stages.pounding_hangover.label>crwdns474268:0crwdne474268:0</Hungover.stages.pounding_hangover.label>
-  <Hungover.stages.pounding_hangover.description>crwdns474270:0crwdne474270:0</Hungover.stages.pounding_hangover.description>
-  
-  <Inebriated.stages.alcohol_warmth.label>crwdns474272:0crwdne474272:0</Inebriated.stages.alcohol_warmth.label>
-  <Inebriated.stages.alcohol_warmth.description>crwdns474274:0crwdne474274:0</Inebriated.stages.alcohol_warmth.description>
-  <Inebriated.stages.quite_inebriated.label>crwdns474276:0crwdne474276:0</Inebriated.stages.quite_inebriated.label>
-  <Inebriated.stages.quite_inebriated.description>crwdns474278:0crwdne474278:0</Inebriated.stages.quite_inebriated.description>
-  <Inebriated.stages.drunk.label>crwdns474280:0crwdne474280:0</Inebriated.stages.drunk.label>
-  <Inebriated.stages.drunk.description>crwdns474282:0crwdne474282:0</Inebriated.stages.drunk.description>
-  <Inebriated.stages.hammered.label>crwdns474284:0crwdne474284:0</Inebriated.stages.hammered.label>
-  <Inebriated.stages.hammered.description>crwdns474286:0crwdne474286:0</Inebriated.stages.hammered.description>
+  <Alcohol.label>crwdns456100:0crwdne456100:0</Alcohol.label>
 </LanguageData>
