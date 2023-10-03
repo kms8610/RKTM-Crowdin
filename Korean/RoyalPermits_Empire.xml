@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CallLaborerGang.label>증강된 노동대 호출</CallLaborerGang.label>
-  <CallLaborerGang.description>8명의 노동자를 호출해 4일간 일하게 합니다. 노동자들은 정착민처럼 다룰 수 있지만 단순 노동만 가능하며, 위협에서 보호해줘야 합니다.</CallLaborerGang.description>
+  <CallLaborerGang.label>call laborer gang</CallLaborerGang.label>
+  <CallLaborerGang.description>Call a group of 8 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerGang.description>
   
-  <CallLaborerTeam.label>노동대 호출</CallLaborerTeam.label>
-  <CallLaborerTeam.description>4명의 노동자를 호출해 4일간 일하게 합니다. 노동자들은 정착민처럼 다룰 수 있지만 단순 노동만 가능하며, 위협에서 보호해줘야 합니다.</CallLaborerTeam.description>
+  <CallLaborerTeam.label>call laborer team</CallLaborerTeam.label>
+  <CallLaborerTeam.description>Call a group of 4 laborers to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</CallLaborerTeam.description>
   
-  <CallMilitaryAidGrand.label>근위대 호출</CallMilitaryAidGrand.label>
-  <CallMilitaryAidGrand.description>중장 근위병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidGrand.description>
+  <CallMilitaryAidGrand.label>call cataphract squad</CallMilitaryAidGrand.label>
+  <CallMilitaryAidGrand.description>Call a group of 4 heavy cataphracts to aid you in battle.</CallMilitaryAidGrand.description>
   
-  <CallMilitaryAidLarge.label>친위대 호출</CallMilitaryAidLarge.label>
-  <CallMilitaryAidLarge.description>정예 친위병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidLarge.description>
+  <CallMilitaryAidLarge.label>call janissary squad</CallMilitaryAidLarge.label>
+  <CallMilitaryAidLarge.description>Call a group of 4 professional janissaries to aid you in battle.</CallMilitaryAidLarge.description>
   
-  <CallMilitaryAidSmall.label>돌격대 호출</CallMilitaryAidSmall.label>
-  <CallMilitaryAidSmall.description>경무장 돌격병 4명을 호출해 전투에 투입합니다.</CallMilitaryAidSmall.description>
+  <CallMilitaryAidSmall.label>call trooper squad</CallMilitaryAidSmall.label>
+  <CallMilitaryAidSmall.description>Call a group of 4 light troopers to aid you in battle.</CallMilitaryAidSmall.description>
   
-  <CallOrbitalSalvo.label>무인항공기 편대 호출</CallOrbitalSalvo.label>
-  <CallOrbitalSalvo.description>무인항공기 편대를 호출하여 목표 지점을 여러 차례 타격합니다.</CallOrbitalSalvo.description>
+  <CallOrbitalSalvo.label>call aerodrone salvo</CallOrbitalSalvo.label>
+  <CallOrbitalSalvo.description>Call a salvo of aerodrone strikes around a target position.</CallOrbitalSalvo.description>
   
-  <CallOrbitalStrike.label>무인항공기 호출</CallOrbitalStrike.label>
-  <CallOrbitalStrike.description>무인항공기를 호출하여 목표 지점을 타격합니다.</CallOrbitalStrike.description>
+  <CallOrbitalStrike.label>call aerodrone strike</CallOrbitalStrike.label>
+  <CallOrbitalStrike.description>Call a single-impact aerodrone strike at a target position.</CallOrbitalStrike.description>
   
-  <CallTransportShuttle.label>왕복선 호출</CallTransportShuttle.label>
-  <CallTransportShuttle.description>왕복선을 호출하여 정착민, 동물, 물품을 세계 지도 70타일 내 원하는 곳으로 즉시 수송합니다.</CallTransportShuttle.description>
+  <CallTransportShuttle.label>call transport shuttle</CallTransportShuttle.label>
+  <CallTransportShuttle.description>Call a shuttle for your own use. It will transport colonists, items, and animals anywhere you like within 70 world tiles.</CallTransportShuttle.description>
   
-  <FoodDrop.label>식량 투하</FoodDrop.label>
-  <FoodDrop.description>보존식량 20개를 요청합니다.</FoodDrop.description>
+  <FoodDrop.label>food drop</FoodDrop.label>
+  <FoodDrop.description>Call for a drop of 20 packaged survival meals.</FoodDrop.description>
   
-  <GlitterMedDrop.label>번화계 약품 투하</GlitterMedDrop.label>
-  <GlitterMedDrop.description>번화계 약품 5개를 요청합니다.</GlitterMedDrop.description>
+  <GlitterMedDrop.label>glitter med drop</GlitterMedDrop.label>
+  <GlitterMedDrop.description>Call for a drop of 5 glitterworld medicine.</GlitterMedDrop.description>
   
-  <SilverDrop.label>은 투하</SilverDrop.label>
-  <SilverDrop.description>은 500개를 요청합니다.</SilverDrop.description>
+  <SilverDrop.label>silver drop</SilverDrop.label>
+  <SilverDrop.description>Call for a drop of 500 silver.</SilverDrop.description>
   
-  <SteelDrop.label>강철 투하</SteelDrop.label>
-  <SteelDrop.description>강철 250개를 요청합니다.</SteelDrop.description>
+  <SteelDrop.label>steel drop</SteelDrop.label>
+  <SteelDrop.description>Call for a drop of 250 steel.</SteelDrop.description>
   
-  <TradeCaravan.label>상단과 거래</TradeCaravan.label>
+  <TradeCaravan.label>trade with caravans</TradeCaravan.label>
   
-  <TradeOrbital.label>궤도상선과 거래</TradeOrbital.label>
+  <TradeOrbital.label>trade with orbital traders</TradeOrbital.label>
   
-  <TradeSettlement.label>정착지와 거래</TradeSettlement.label>
+  <TradeSettlement.label>trade with settlements</TradeSettlement.label>
 </LanguageData>
