@@ -1,17 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_Blindfold.label>crwdns440136:0crwdne440136:0</Apparel_Blindfold.label>
-  <Apparel_Blindfold.description>crwdns440138:0crwdne440138:0</Apparel_Blindfold.description>
+  <Apparel_ArmorCataphract.label>crwdns448832:0crwdne448832:0</Apparel_ArmorCataphract.label>
+  <Apparel_ArmorCataphract.description>crwdns448834:0crwdne448834:0</Apparel_ArmorCataphract.description>
   
-  <Apparel_BodyStrap.label>crwdns440140:0crwdne440140:0</Apparel_BodyStrap.label>
-  <Apparel_BodyStrap.description>crwdns440142:0crwdne440142:0</Apparel_BodyStrap.description>
+  <Apparel_ArmorCataphractPhoenix.label>crwdns448836:0crwdne448836:0</Apparel_ArmorCataphractPhoenix.label>
+  <Apparel_ArmorCataphractPhoenix.description>crwdns448838:0crwdne448838:0</Apparel_ArmorCataphractPhoenix.description>
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>crwdns448840:0crwdne448840:0</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>crwdns448842:0crwdne448842:0</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>crwdns448844:0crwdne448844:0</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
   
-  <Apparel_Burka.label>crwdns440144:0crwdne440144:0</Apparel_Burka.label>
-  <Apparel_Burka.description>crwdns440146:0crwdne440146:0</Apparel_Burka.description>
+  <Apparel_ArmorCataphractPrestige.label>crwdns448846:0crwdne448846:0</Apparel_ArmorCataphractPrestige.label>
+  <Apparel_ArmorCataphractPrestige.description>crwdns448848:0crwdne448848:0</Apparel_ArmorCataphractPrestige.description>
   
-  <Apparel_Robe.label>crwdns440148:0crwdne440148:0</Apparel_Robe.label>
-  <Apparel_Robe.description>crwdns440150:0crwdne440150:0</Apparel_Robe.description>
+  <Apparel_ArmorHelmetCataphract.label>crwdns448850:0crwdne448850:0</Apparel_ArmorHelmetCataphract.label>
+  <Apparel_ArmorHelmetCataphract.description>crwdns448852:0crwdne448852:0</Apparel_ArmorHelmetCataphract.description>
   
-  <Apparel_TortureCrown.label>crwdns440152:0crwdne440152:0</Apparel_TortureCrown.label>
-  <Apparel_TortureCrown.description>crwdns440154:0crwdne440154:0</Apparel_TortureCrown.description>
+  <Apparel_ArmorHelmetCataphractPrestige.label>crwdns448854:0crwdne448854:0</Apparel_ArmorHelmetCataphractPrestige.label>
+  <Apparel_ArmorHelmetCataphractPrestige.description>crwdns448856:0crwdne448856:0</Apparel_ArmorHelmetCataphractPrestige.description>
+  
+  <Apparel_ArmorHelmetReconPrestige.label>crwdns448858:0crwdne448858:0</Apparel_ArmorHelmetReconPrestige.label>
+  <Apparel_ArmorHelmetReconPrestige.description>crwdns448860:0crwdne448860:0</Apparel_ArmorHelmetReconPrestige.description>
+  
+  <Apparel_ArmorLocust.label>crwdns448862:0crwdne448862:0</Apparel_ArmorLocust.label>
+  <Apparel_ArmorLocust.description>crwdns448864:0crwdne448864:0</Apparel_ArmorLocust.description>
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>crwdns448866:0crwdne448866:0</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>crwdns448868:0crwdne448868:0</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorLocust.verbs.jump.label>crwdns448870:0crwdne448870:0</Apparel_ArmorLocust.verbs.jump.label>
+  
+  <Apparel_ArmorMarineGrenadier.label>crwdns448872:0crwdne448872:0</Apparel_ArmorMarineGrenadier.label>
+  <Apparel_ArmorMarineGrenadier.description>crwdns448874:0crwdne448874:0</Apparel_ArmorMarineGrenadier.description>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>crwdns448876:0crwdne448876:0</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>crwdns448878:0crwdne448878:0</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>crwdns448880:0crwdne448880:0</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  
+  <Apparel_ArmorMarineHelmetPrestige.label>crwdns448882:0crwdne448882:0</Apparel_ArmorMarineHelmetPrestige.label>
+  <Apparel_ArmorMarineHelmetPrestige.description>crwdns448884:0crwdne448884:0</Apparel_ArmorMarineHelmetPrestige.description>
+  
+  <Apparel_ArmorMarinePrestige.label>crwdns448886:0crwdne448886:0</Apparel_ArmorMarinePrestige.label>
+  <Apparel_ArmorMarinePrestige.description>crwdns448888:0crwdne448888:0</Apparel_ArmorMarinePrestige.description>
+  
+  <Apparel_ArmorReconPrestige.label>crwdns448890:0crwdne448890:0</Apparel_ArmorReconPrestige.label>
+  <Apparel_ArmorReconPrestige.description>crwdns448892:0crwdne448892:0</Apparel_ArmorReconPrestige.description>
+  
+  <Apparel_Gunlink.label>crwdns448894:0crwdne448894:0</Apparel_Gunlink.label>
+  <Apparel_Gunlink.description>crwdns448896:0crwdne448896:0</Apparel_Gunlink.description>
+  
+  <Proj_GrenadePhoenixFire.label>crwdns448898:0crwdne448898:0</Proj_GrenadePhoenixFire.label>
+  
+  <Proj_GrenadierGrenade.label>crwdns448900:0crwdne448900:0</Proj_GrenadierGrenade.label>
 </LanguageData>
