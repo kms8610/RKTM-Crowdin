@@ -1,111 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bullet_AssaultRifle.label>crwdns473792:0crwdne473792:0</Bullet_AssaultRifle.label>
+  <Bullet_ToxbombLauncher.label>crwdns427890:0crwdne427890:0</Bullet_ToxbombLauncher.label>
   
-  <Bullet_Autopistol.label>crwdns473794:0crwdne473794:0</Bullet_Autopistol.label>
+  <Flamebow.label>crwdns427892:0crwdne427892:0</Flamebow.label>
+  <Flamebow.description>crwdns427894:0crwdne427894:0</Flamebow.description>
+  <Flamebow.tools.limb.label>crwdns427896:0crwdne427896:0</Flamebow.tools.limb.label>
+  <Flamebow.verbs.Verb_Shoot.label>crwdns427898:0crwdne427898:0</Flamebow.verbs.Verb_Shoot.label>
   
-  <Bullet_BoltActionRifle.label>crwdns473796:0crwdne473796:0</Bullet_BoltActionRifle.label>
+  <Gun_ToxbombLauncher.label>crwdns427900:0crwdne427900:0</Gun_ToxbombLauncher.label>
+  <Gun_ToxbombLauncher.description>crwdns427902:0crwdne427902:0</Gun_ToxbombLauncher.description>
+  <Gun_ToxbombLauncher.tools.stock.label>crwdns427904:0crwdne427904:0</Gun_ToxbombLauncher.tools.stock.label>
+  <Gun_ToxbombLauncher.tools.barrel.label>crwdns427906:0crwdne427906:0</Gun_ToxbombLauncher.tools.barrel.label>
+  <Gun_ToxbombLauncher.verbs.Verb_Shoot.label>crwdns427908:0crwdne427908:0</Gun_ToxbombLauncher.verbs.Verb_Shoot.label>
   
-  <Bullet_EMPLauncher.label>crwdns473798:0crwdne473798:0</Bullet_EMPLauncher.label>
+  <Proj_FireArrow.label>crwdns427910:0crwdne427910:0</Proj_FireArrow.label>
   
-  <Bullet_HeavySMG.label>crwdns473800:0crwdne473800:0</Bullet_HeavySMG.label>
+  <Proj_GrenadeTox.label>crwdns427912:0crwdne427912:0</Proj_GrenadeTox.label>
   
-  <Bullet_IncendiaryLauncher.label>crwdns473802:0crwdne473802:0</Bullet_IncendiaryLauncher.label>
-  
-  <Bullet_LMG.label>crwdns473804:0crwdne473804:0</Bullet_LMG.label>
-  
-  <Bullet_MachinePistol.label>crwdns473806:0crwdne473806:0</Bullet_MachinePistol.label>
-  
-  <Bullet_Minigun.label>crwdns473808:0crwdne473808:0</Bullet_Minigun.label>
-  
-  <Bullet_Revolver.label>crwdns473810:0crwdne473810:0</Bullet_Revolver.label>
-  
-  <Bullet_Shotgun.label>crwdns473812:0crwdne473812:0</Bullet_Shotgun.label>
-  
-  <Bullet_SmokeLauncher.label>crwdns473814:0crwdne473814:0</Bullet_SmokeLauncher.label>
-  
-  <Bullet_SniperRifle.label>crwdns473816:0crwdne473816:0</Bullet_SniperRifle.label>
-  
-  <Gun_AssaultRifle.label>crwdns473818:0crwdne473818:0</Gun_AssaultRifle.label>
-  <Gun_AssaultRifle.description>crwdns473820:0crwdne473820:0</Gun_AssaultRifle.description>
-  <Gun_AssaultRifle.tools.stock.label>crwdns473822:0crwdne473822:0</Gun_AssaultRifle.tools.stock.label>
-  <Gun_AssaultRifle.tools.barrel.label>crwdns473824:0crwdne473824:0</Gun_AssaultRifle.tools.barrel.label>
-  <Gun_AssaultRifle.verbs.Verb_Shoot.label>crwdns473826:0crwdne473826:0</Gun_AssaultRifle.verbs.Verb_Shoot.label>
-  
-  <Gun_Autopistol.label>crwdns473828:0crwdne473828:0</Gun_Autopistol.label>
-  <Gun_Autopistol.description>crwdns473830:0crwdne473830:0</Gun_Autopistol.description>
-  <Gun_Autopistol.tools.grip.label>crwdns473832:0crwdne473832:0</Gun_Autopistol.tools.grip.label>
-  <Gun_Autopistol.tools.barrel.label>crwdns473834:0crwdne473834:0</Gun_Autopistol.tools.barrel.label>
-  <Gun_Autopistol.verbs.Verb_Shoot.label>crwdns473836:0crwdne473836:0</Gun_Autopistol.verbs.Verb_Shoot.label>
-  
-  <Gun_BoltActionRifle.label>crwdns473838:0crwdne473838:0</Gun_BoltActionRifle.label>
-  <Gun_BoltActionRifle.description>crwdns473840:0crwdne473840:0</Gun_BoltActionRifle.description>
-  <Gun_BoltActionRifle.tools.stock.label>crwdns473842:0crwdne473842:0</Gun_BoltActionRifle.tools.stock.label>
-  <Gun_BoltActionRifle.tools.barrel.label>crwdns473844:0crwdne473844:0</Gun_BoltActionRifle.tools.barrel.label>
-  <Gun_BoltActionRifle.verbs.Verb_Shoot.label>crwdns473846:0crwdne473846:0</Gun_BoltActionRifle.verbs.Verb_Shoot.label>
-  
-  <Gun_ChainShotgun.label>crwdns473848:0crwdne473848:0</Gun_ChainShotgun.label>
-  <Gun_ChainShotgun.description>crwdns473850:0crwdne473850:0</Gun_ChainShotgun.description>
-  <Gun_ChainShotgun.tools.stock.label>crwdns473852:0crwdne473852:0</Gun_ChainShotgun.tools.stock.label>
-  <Gun_ChainShotgun.tools.barrel.label>crwdns473854:0crwdne473854:0</Gun_ChainShotgun.tools.barrel.label>
-  <Gun_ChainShotgun.verbs.Verb_Shoot.label>crwdns473856:0crwdne473856:0</Gun_ChainShotgun.verbs.Verb_Shoot.label>
-  
-  <Gun_EmpLauncher.label>crwdns473858:0crwdne473858:0</Gun_EmpLauncher.label>
-  <Gun_EmpLauncher.description>crwdns473860:0crwdne473860:0</Gun_EmpLauncher.description>
-  <Gun_EmpLauncher.tools.stock.label>crwdns473862:0crwdne473862:0</Gun_EmpLauncher.tools.stock.label>
-  <Gun_EmpLauncher.tools.barrel.label>crwdns473864:0crwdne473864:0</Gun_EmpLauncher.tools.barrel.label>
-  <Gun_EmpLauncher.verbs.Verb_Shoot.label>crwdns473866:0crwdne473866:0</Gun_EmpLauncher.verbs.Verb_Shoot.label>
-  
-  <Gun_HeavySMG.label>crwdns473868:0crwdne473868:0</Gun_HeavySMG.label>
-  <Gun_HeavySMG.description>crwdns473870:0crwdne473870:0</Gun_HeavySMG.description>
-  <Gun_HeavySMG.tools.grip.label>crwdns473872:0crwdne473872:0</Gun_HeavySMG.tools.grip.label>
-  <Gun_HeavySMG.tools.barrel.label>crwdns473874:0crwdne473874:0</Gun_HeavySMG.tools.barrel.label>
-  <Gun_HeavySMG.verbs.Verb_Shoot.label>crwdns473876:0crwdne473876:0</Gun_HeavySMG.verbs.Verb_Shoot.label>
-  
-  <Gun_IncendiaryLauncher.label>crwdns473878:0crwdne473878:0</Gun_IncendiaryLauncher.label>
-  <Gun_IncendiaryLauncher.description>crwdns473880:0crwdne473880:0</Gun_IncendiaryLauncher.description>
-  <Gun_IncendiaryLauncher.tools.stock.label>crwdns473882:0crwdne473882:0</Gun_IncendiaryLauncher.tools.stock.label>
-  <Gun_IncendiaryLauncher.tools.barrel.label>crwdns473884:0crwdne473884:0</Gun_IncendiaryLauncher.tools.barrel.label>
-  <Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>crwdns473886:0crwdne473886:0</Gun_IncendiaryLauncher.verbs.Verb_Shoot.label>
-  
-  <Gun_LMG.label>crwdns473888:0crwdne473888:0</Gun_LMG.label>
-  <Gun_LMG.description>crwdns473890:0crwdne473890:0</Gun_LMG.description>
-  <Gun_LMG.tools.stock.label>crwdns473892:0crwdne473892:0</Gun_LMG.tools.stock.label>
-  <Gun_LMG.tools.barrel.label>crwdns473894:0crwdne473894:0</Gun_LMG.tools.barrel.label>
-  <Gun_LMG.verbs.Verb_Shoot.label>crwdns473896:0crwdne473896:0</Gun_LMG.verbs.Verb_Shoot.label>
-  
-  <Gun_MachinePistol.label>crwdns473898:0crwdne473898:0</Gun_MachinePistol.label>
-  <Gun_MachinePistol.description>crwdns473900:0crwdne473900:0</Gun_MachinePistol.description>
-  <Gun_MachinePistol.tools.grip.label>crwdns473902:0crwdne473902:0</Gun_MachinePistol.tools.grip.label>
-  <Gun_MachinePistol.tools.barrel.label>crwdns473904:0crwdne473904:0</Gun_MachinePistol.tools.barrel.label>
-  <Gun_MachinePistol.verbs.Verb_Shoot.label>crwdns473906:0crwdne473906:0</Gun_MachinePistol.verbs.Verb_Shoot.label>
-  
-  <Gun_Minigun.label>crwdns473908:0crwdne473908:0</Gun_Minigun.label>
-  <Gun_Minigun.description>crwdns473910:0crwdne473910:0</Gun_Minigun.description>
-  <Gun_Minigun.tools.barrels.label>crwdns473912:0crwdne473912:0</Gun_Minigun.tools.barrels.label>
-  <Gun_Minigun.verbs.Verb_Shoot.label>crwdns473914:0crwdne473914:0</Gun_Minigun.verbs.Verb_Shoot.label>
-  
-  <Gun_PumpShotgun.label>crwdns473916:0crwdne473916:0</Gun_PumpShotgun.label>
-  <Gun_PumpShotgun.description>crwdns473918:0crwdne473918:0</Gun_PumpShotgun.description>
-  <Gun_PumpShotgun.tools.stock.label>crwdns473920:0crwdne473920:0</Gun_PumpShotgun.tools.stock.label>
-  <Gun_PumpShotgun.tools.barrel.label>crwdns473922:0crwdne473922:0</Gun_PumpShotgun.tools.barrel.label>
-  <Gun_PumpShotgun.verbs.Verb_Shoot.label>crwdns473924:0crwdne473924:0</Gun_PumpShotgun.verbs.Verb_Shoot.label>
-  
-  <Gun_Revolver.label>crwdns473926:0crwdne473926:0</Gun_Revolver.label>
-  <Gun_Revolver.description>crwdns473928:0crwdne473928:0</Gun_Revolver.description>
-  <Gun_Revolver.tools.grip.label>crwdns473930:0crwdne473930:0</Gun_Revolver.tools.grip.label>
-  <Gun_Revolver.tools.barrel.label>crwdns473932:0crwdne473932:0</Gun_Revolver.tools.barrel.label>
-  <Gun_Revolver.verbs.Verb_Shoot.label>crwdns473934:0crwdne473934:0</Gun_Revolver.verbs.Verb_Shoot.label>
-  
-  <Gun_SmokeLauncher.label>crwdns473936:0crwdne473936:0</Gun_SmokeLauncher.label>
-  <Gun_SmokeLauncher.description>crwdns473938:0crwdne473938:0</Gun_SmokeLauncher.description>
-  <Gun_SmokeLauncher.tools.stock.label>crwdns473940:0crwdne473940:0</Gun_SmokeLauncher.tools.stock.label>
-  <Gun_SmokeLauncher.tools.barrel.label>crwdns473942:0crwdne473942:0</Gun_SmokeLauncher.tools.barrel.label>
-  <Gun_SmokeLauncher.verbs.Verb_Shoot.label>crwdns473944:0crwdne473944:0</Gun_SmokeLauncher.verbs.Verb_Shoot.label>
-  
-  <Gun_SniperRifle.label>crwdns473946:0crwdne473946:0</Gun_SniperRifle.label>
-  <Gun_SniperRifle.description>crwdns473948:0crwdne473948:0</Gun_SniperRifle.description>
-  <Gun_SniperRifle.tools.stock.label>crwdns473950:0crwdne473950:0</Gun_SniperRifle.tools.stock.label>
-  <Gun_SniperRifle.tools.barrel.label>crwdns473952:0crwdne473952:0</Gun_SniperRifle.tools.barrel.label>
-  <Gun_SniperRifle.verbs.Verb_Shoot.label>crwdns473954:0crwdne473954:0</Gun_SniperRifle.verbs.Verb_Shoot.label>
+  <Weapon_GrenadeTox.label>crwdns427914:0crwdne427914:0</Weapon_GrenadeTox.label>
+  <Weapon_GrenadeTox.description>crwdns427916:0crwdne427916:0</Weapon_GrenadeTox.description>
+  <Weapon_GrenadeTox.verbs.throw_tox_grenade.label>crwdns427918:0crwdne427918:0</Weapon_GrenadeTox.verbs.throw_tox_grenade.label>
 </LanguageData>
