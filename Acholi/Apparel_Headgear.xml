@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_AuthorityCap.label>crwdns440100:0crwdne440100:0</Apparel_AuthorityCap.label>
-  <Apparel_AuthorityCap.description>crwdns440102:0crwdne440102:0</Apparel_AuthorityCap.description>
+  <Apparel_AdvancedHelmet.label>crwdns471160:0crwdne471160:0</Apparel_AdvancedHelmet.label>
+  <Apparel_AdvancedHelmet.description>crwdns471162:0crwdne471162:0</Apparel_AdvancedHelmet.description>
   
-  <Apparel_Broadwrap.label>crwdns440104:0crwdne440104:0</Apparel_Broadwrap.label>
-  <Apparel_Broadwrap.description>crwdns440106:0crwdne440106:0</Apparel_Broadwrap.description>
+  <Apparel_ArmorHelmetRecon.label>crwdns471164:0crwdne471164:0</Apparel_ArmorHelmetRecon.label>
+  <Apparel_ArmorHelmetRecon.description>crwdns471166:0crwdne471166:0</Apparel_ArmorHelmetRecon.description>
   
-  <Apparel_Collar.label>crwdns440108:0crwdne440108:0</Apparel_Collar.label>
-  <Apparel_Collar.description>crwdns440110:0crwdne440110:0</Apparel_Collar.description>
+  <Apparel_BowlerHat.label>crwdns471168:0crwdne471168:0</Apparel_BowlerHat.label>
+  <Apparel_BowlerHat.description>crwdns471170:0crwdne471170:0</Apparel_BowlerHat.description>
   
-  <Apparel_Flophat.label>crwdns440112:0crwdne440112:0</Apparel_Flophat.label>
-  <Apparel_Flophat.description>crwdns440114:0crwdne440114:0</Apparel_Flophat.description>
+  <Apparel_CowboyHat.label>crwdns471172:0crwdne471172:0</Apparel_CowboyHat.label>
+  <Apparel_CowboyHat.description>crwdns471174:0crwdne471174:0</Apparel_CowboyHat.description>
   
-  <Apparel_Headwrap.label>crwdns440116:0crwdne440116:0</Apparel_Headwrap.label>
-  <Apparel_Headwrap.description>crwdns440118:0crwdne440118:0</Apparel_Headwrap.description>
+  <Apparel_HatHood.label>crwdns471176:0crwdne471176:0</Apparel_HatHood.label>
+  <Apparel_HatHood.description>crwdns471178:0crwdne471178:0</Apparel_HatHood.description>
   
-  <Apparel_Shadecone.label>crwdns440120:0crwdne440120:0</Apparel_Shadecone.label>
-  <Apparel_Shadecone.description>crwdns440122:0crwdne440122:0</Apparel_Shadecone.description>
+  <Apparel_PowerArmorHelmet.label>crwdns471180:0crwdne471180:0</Apparel_PowerArmorHelmet.label>
+  <Apparel_PowerArmorHelmet.description>crwdns471182:0crwdne471182:0</Apparel_PowerArmorHelmet.description>
   
-  <Apparel_Slicecap.label>crwdns440124:0crwdne440124:0</Apparel_Slicecap.label>
-  <Apparel_Slicecap.description>crwdns440126:0crwdne440126:0</Apparel_Slicecap.description>
+  <Apparel_PsychicFoilHelmet.label>crwdns471184:0crwdne471184:0</Apparel_PsychicFoilHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>crwdns471186:0crwdne471186:0</Apparel_PsychicFoilHelmet.description>
   
-  <Apparel_Tailcap.label>crwdns440128:0crwdne440128:0</Apparel_Tailcap.label>
-  <Apparel_Tailcap.description>crwdns440130:0crwdne440130:0</Apparel_Tailcap.description>
+  <Apparel_SimpleHelmet.label>crwdns471188:0crwdne471188:0</Apparel_SimpleHelmet.label>
+  <Apparel_SimpleHelmet.description>crwdns471190:0crwdne471190:0</Apparel_SimpleHelmet.description>
   
-  <Apparel_VisageMask.label>crwdns440132:0crwdne440132:0</Apparel_VisageMask.label>
-  <Apparel_VisageMask.description>crwdns440134:0crwdne440134:0</Apparel_VisageMask.description>
+  <Apparel_TribalHeaddress.label>crwdns471192:0crwdne471192:0</Apparel_TribalHeaddress.label>
+  <Apparel_TribalHeaddress.description>crwdns471194:0crwdne471194:0</Apparel_TribalHeaddress.description>
+  
+  <Apparel_Tuque.label>crwdns471196:0crwdne471196:0</Apparel_Tuque.label>
+  <Apparel_Tuque.description>crwdns471198:0crwdne471198:0</Apparel_Tuque.description>
+  
+  <Apparel_WarMask.label>crwdns471200:0crwdne471200:0</Apparel_WarMask.label>
+  <Apparel_WarMask.description>crwdns471202:0crwdne471202:0</Apparel_WarMask.description>
+  
+  <Apparel_WarVeil.label>crwdns471204:0crwdne471204:0</Apparel_WarVeil.label>
+  <Apparel_WarVeil.description>crwdns471206:0crwdne471206:0</Apparel_WarVeil.description>
 </LanguageData>
