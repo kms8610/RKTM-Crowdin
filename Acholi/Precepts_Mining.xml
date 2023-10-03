@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MiningYield_High.label>crwdns436526:0crwdne436526:0</MiningYield_High.label>
-  <MiningYield_High.description>crwdns436528:0crwdne436528:0</MiningYield_High.description>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>crwdns441848:0crwdne441848:0</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>crwdns441850:0crwdne441850:0</MineableDestroyed_Disapproved.stages.destroyed_natural_wall.description>
   
-  <Mining_Disapproved.label>crwdns436530:0crwdne436530:0</Mining_Disapproved.label>
-  <Mining_Disapproved.description>crwdns436532:0crwdne436532:0</Mining_Disapproved.description>
-  <Mining_Disapproved.comps.0.description>crwdns436534:0crwdne436534:0</Mining_Disapproved.comps.0.description>
-  <Mining_Disapproved.comps.3.description>crwdns436536:0crwdne436536:0</Mining_Disapproved.comps.3.description>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>crwdns441852:0crwdne441852:0</MineableDestroyed_Horrible.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>crwdns441854:0crwdne441854:0</MineableDestroyed_Horrible.stages.destroyed_natural_wall.description>
   
-  <Mining_Horrible.label>crwdns436538:0crwdne436538:0</Mining_Horrible.label>
-  <Mining_Horrible.description>crwdns436540:0crwdne436540:0</Mining_Horrible.description>
-  <Mining_Horrible.comps.0.description>crwdns436542:0crwdne436542:0</Mining_Horrible.comps.0.description>
-  <Mining_Horrible.comps.3.description>crwdns436544:0crwdne436544:0</Mining_Horrible.comps.3.description>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>crwdns441856:0crwdne441856:0</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.label>
+  <MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>crwdns441858:0crwdne441858:0</MineableDestroyed_Prohibited.stages.destroyed_natural_wall.description>
   
-  <Mining_Prohibited.label>crwdns436546:0crwdne436546:0</Mining_Prohibited.label>
-  <Mining_Prohibited.description>crwdns436548:0crwdne436548:0</Mining_Prohibited.description>
-  <Mining_Prohibited.comps.0.description>crwdns436550:0crwdne436550:0</Mining_Prohibited.comps.0.description>
-  <Mining_Prohibited.comps.3.description>crwdns436552:0crwdne436552:0</Mining_Prohibited.comps.3.description>
+  <Mined_Disapproved.stages.mined.label>crwdns441860:0crwdne441860:0</Mined_Disapproved.stages.mined.label>
+  <Mined_Disapproved.stages.mined.description>crwdns441862:0crwdne441862:0</Mined_Disapproved.stages.mined.description>
+  
+  <Mined_Horrible.stages.mined.label>crwdns441864:0crwdne441864:0</Mined_Horrible.stages.mined.label>
+  <Mined_Horrible.stages.mined.description>crwdns441866:0crwdne441866:0</Mined_Horrible.stages.mined.description>
+  
+  <Mined_Know_Disapproved.stages.mined.label>crwdns441868:0crwdne441868:0</Mined_Know_Disapproved.stages.mined.label>
+  
+  <Mined_Know_Disapproved_Mood.stages.mined.label>crwdns441870:0crwdne441870:0</Mined_Know_Disapproved_Mood.stages.mined.label>
+  <Mined_Know_Disapproved_Mood.stages.mined.description>crwdns441872:0crwdne441872:0</Mined_Know_Disapproved_Mood.stages.mined.description>
+  
+  <Mined_Know_Horrible.stages.mined.label>crwdns441874:0crwdne441874:0</Mined_Know_Horrible.stages.mined.label>
+  
+  <Mined_Know_Horrible_Mood.stages.mined.label>crwdns441876:0crwdne441876:0</Mined_Know_Horrible_Mood.stages.mined.label>
+  <Mined_Know_Horrible_Mood.stages.mined.description>crwdns441878:0crwdne441878:0</Mined_Know_Horrible_Mood.stages.mined.description>
+  
+  <Mined_Know_Prohibited.stages.mined.label>crwdns441880:0crwdne441880:0</Mined_Know_Prohibited.stages.mined.label>
+  
+  <Mined_Know_Prohibited_Mood.stages.mined.label>crwdns441882:0crwdne441882:0</Mined_Know_Prohibited_Mood.stages.mined.label>
+  <Mined_Know_Prohibited_Mood.stages.mined.description>crwdns441884:0crwdne441884:0</Mined_Know_Prohibited_Mood.stages.mined.description>
 </LanguageData>
