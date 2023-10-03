@@ -1,44 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <Level>수준</Level>
-  <SkillLevel>기술 등급</SkillLevel>
-  <ProgressToNextLevel>다음 등급까지의 진행도</ProgressToNextLevel>
-  <Experience>경험치</Experience>
-  <Passion>관심</Passion>
-  <PassionNone>무관심</PassionNone>
-  <PassionMinor>관심</PassionMinor>
-  <PassionMajor>열정적</PassionMajor>
-  <LearningSpeed>학습 속도</LearningSpeed>
-  <LearnedMaxToday>오늘 최대로 학습함 ({0} / {1}, 이후 학습 속도 x{2})</LearnedMaxToday>
-  <ChildrenLearn>아이들은 어른들이 일하는 모습을 관찰하거나 책상에서 수업을 듣는 것으로 기술을 배웁니다.</ChildrenLearn>
-  <EffectsAtLevel>등급 {0}에서 발휘하는 효과</EffectsAtLevel>
-  <SkillMax>최대</SkillMax>
-  <LearnedLevel>학습한 등급</LearnedLevel>
-  <NegativeLevelAdjustedToZero>음수 등급을 0으로 조정함</NegativeLevelAdjustedToZero>
-  <LevelCappedAtMax>최대 등급 제한 {0}</LevelCappedAtMax>
-  <GeneLabelWithDesc>{GENE_label} 유전자</GeneLabelWithDesc>
-
-  <Skill0>하나도 모름</Skill0>
-  <Skill1>완전 초보자</Skill1>
-  <Skill2>초보자</Skill2>
-  <Skill3>기초적</Skill3>
-  <Skill4>기본적</Skill4>
-  <Skill5>경험자</Skill5>
-  <Skill6>숙련자</Skill6>
-  <Skill7>초급 종사자</Skill7>
-  <Skill8>중급 종사자</Skill8>
-  <Skill9>전문가</Skill9>
-  <Skill10>숙련 전문가</Skill10>
-  <Skill11>고급 전문가</Skill11>
-  <Skill12>최고 전문가</Skill12>
-  <Skill13>특급 전문가</Skill13>
-  <Skill14>주인</Skill14>
-  <Skill15>지역구 장인</Skill15>
-  <Skill16>지역구 선구자</Skill16>
-  <Skill17>행성 장인</Skill17>
-  <Skill18>행성 선구자</Skill18>
-  <Skill19>인간 문화재</Skill19>
-  <Skill20>전설</Skill20>
+  <Animals.label>animals</Animals.label>
+  <Animals.description>Taming, training, and controlling animals.</Animals.description>
+  <Animals.skillLabel>animals</Animals.skillLabel>
   
+  <Artistic.label>artistic</Artistic.label>
+  <Artistic.description>Crafting art.</Artistic.description>
+  <Artistic.skillLabel>artistic</Artistic.skillLabel>
+  
+  <Construction.label>construction</Construction.label>
+  <Construction.description>Constructing and deconstructing structures and furniture.</Construction.description>
+  <Construction.skillLabel>construction</Construction.skillLabel>
+  
+  <Cooking.label>cooking</Cooking.label>
+  <Cooking.description>Creating meals from raw ingredients quickly and without accidental food poisoning.</Cooking.description>
+  <Cooking.skillLabel>cooking</Cooking.skillLabel>
+  
+  <Crafting.label>crafting</Crafting.label>
+  <Crafting.description>Crafting general items including weapons, components, and refined resources.</Crafting.description>
+  <Crafting.skillLabel>crafting</Crafting.skillLabel>
+  
+  <Intellectual.label>intellectual</Intellectual.label>
+  <Intellectual.description>Researching and drug synthesis.</Intellectual.description>
+  <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
+  
+  <Medicine.label>medical</Medicine.label>
+  <Medicine.description>Tending wounds and diseases and performing surgery.</Medicine.description>
+  <Medicine.skillLabel>medical</Medicine.skillLabel>
+  
+  <Melee.label>melee</Melee.label>
+  <Melee.description>Melee combat, both armed and unarmed.</Melee.description>
+  <Melee.skillLabel>melee</Melee.skillLabel>
+  
+  <Mining.label>mining</Mining.label>
+  <Mining.description>Digging tunnels and extracting buried resources.</Mining.description>
+  <Mining.skillLabel>mining</Mining.skillLabel>
+  
+  <Plants.label>plants</Plants.label>
+  <Plants.description>Sowing, caring for and harvesting crops, and foraging for food while traveling.</Plants.description>
+  <Plants.skillLabel>plants</Plants.skillLabel>
+  
+  <Shooting.label>shooting</Shooting.label>
+  <Shooting.description>Ranged combat, with both high-tech and low-tech weapons.</Shooting.description>
+  <Shooting.skillLabel>shooting</Shooting.skillLabel>
+  
+  <Social.label>social</Social.label>
+  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
+  <Social.skillLabel>social</Social.skillLabel>
 </LanguageData>
