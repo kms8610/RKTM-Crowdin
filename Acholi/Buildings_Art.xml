@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SculptureGrand.label>crwdns471336:0crwdne471336:0</SculptureGrand.label>
-  <SculptureGrand.description>crwdns471338:0crwdne471338:0</SculptureGrand.description>
-  
-  <SculptureLarge.label>crwdns471340:0crwdne471340:0</SculptureLarge.label>
-  <SculptureLarge.description>crwdns471342:0crwdne471342:0</SculptureLarge.description>
-  
-  <SculptureSmall.label>crwdns471344:0crwdne471344:0</SculptureSmall.label>
-  <SculptureSmall.description>crwdns471346:0crwdne471346:0</SculptureSmall.description>
-  
-  <Snowman.label>crwdns471348:0crwdne471348:0</Snowman.label>
-  <Snowman.description>crwdns471350:0crwdne471350:0</Snowman.description>
+  <SculptureTerror.label>crwdns440432:0crwdne440432:0</SculptureTerror.label>
+  <SculptureTerror.description>crwdns440434:0crwdne440434:0</SculptureTerror.description>
 </LanguageData>
