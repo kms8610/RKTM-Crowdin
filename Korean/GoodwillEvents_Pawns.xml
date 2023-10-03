@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttackedMember.label>구성원을 공격함</AttackedMember.label>
+  <AttackedMember.label>attacked member</AttackedMember.label>
   
-  <GuiltyPrisonerDied.label>죄수 사망</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>guilty prisoner died</GuiltyPrisonerDied.label>
   
-  <InnocentPrisonerDied.label>무고한 수감자 사망</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>innocent prisoner died</InnocentPrisonerDied.label>
   
-  <MemberCaptured.label>구성원을 납치함</MemberCaptured.label>
+  <MemberCaptured.label>member captured</MemberCaptured.label>
   
-  <MemberCrushed.label>무너지는 지붕에 깔린 구성원</MemberCrushed.label>
+  <MemberCrushed.label>member crushed</MemberCrushed.label>
   
-  <MemberExitedMapHealthy.label>구성원이 지역을 안전하게 벗어남</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>member exited map healthy</MemberExitedMapHealthy.label>
   
-  <MemberKilled.label>구성원을 죽임</MemberKilled.label>
+  <MemberKilled.label>member killed</MemberKilled.label>
   
-  <MemberNeutrallyDied.label>구성원이 죽음</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>member died</MemberNeutrallyDied.label>
   
-  <MemberSold.label>구성원을 팔아넘김</MemberSold.label>
+  <MemberSold.label>member sold</MemberSold.label>
   
-  <MemberStripped.label>구성원의 옷을 벗김</MemberStripped.label>
+  <MemberStripped.label>member stripped</MemberStripped.label>
   
-  <PerformedHarmfulSurgery.label>구성원에게 악의적인 수술</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>harmful surgery on member</PerformedHarmfulSurgery.label>
   
-  <PrisonerDied.label>수감자 사망</PrisonerDied.label>
+  <PrisonerDied.label>prisoner died</PrisonerDied.label>
   
-  <UsedHarmfulItem.label>구성원을 해침</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>harmed member</UsedHarmfulItem.label>
   
-  <XenogermAbsorbed.label>구성원의 변형이식체를 흡수함</XenogermAbsorbed.label>
+  <XenogermAbsorbed.label>member's xenogerm absorbed</XenogermAbsorbed.label>
 </LanguageData>
