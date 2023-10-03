@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Denture.label>crwdns457384:0crwdne457384:0</Denture.label>
-  <Denture.description>crwdns457386:0crwdne457386:0</Denture.description>
-  <Denture.labelNoun>crwdns457388:0crwdne457388:0</Denture.labelNoun>
+  <InstallDenture.label>crwdns461706:0crwdne461706:0</InstallDenture.label>
+  <InstallDenture.description>crwdns461708:0crwdne461708:0</InstallDenture.description>
+  <InstallDenture.jobString>crwdns461710:0crwdne461710:0</InstallDenture.jobString>
   
-  <PegLeg.label>crwdns457390:0crwdne457390:0</PegLeg.label>
-  <PegLeg.description>crwdns457392:0crwdne457392:0</PegLeg.description>
-  <PegLeg.labelNoun>crwdns457394:0crwdne457394:0</PegLeg.labelNoun>
+  <InstallPegLeg.label>crwdns461712:0crwdne461712:0</InstallPegLeg.label>
+  <InstallPegLeg.description>crwdns461714:0crwdne461714:0</InstallPegLeg.description>
+  <InstallPegLeg.jobString>crwdns461716:0crwdne461716:0</InstallPegLeg.jobString>
   
-  <WoodenFoot.label>crwdns457396:0crwdne457396:0</WoodenFoot.label>
-  <WoodenFoot.description>crwdns457398:0crwdne457398:0</WoodenFoot.description>
-  <WoodenFoot.labelNoun>crwdns457400:0crwdne457400:0</WoodenFoot.labelNoun>
+  <InstallWoodenFoot.label>crwdns461718:0crwdne461718:0</InstallWoodenFoot.label>
+  <InstallWoodenFoot.description>crwdns461720:0crwdne461720:0</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>crwdns461722:0crwdne461722:0</InstallWoodenFoot.jobString>
   
-  <WoodenHand.label>crwdns457402:0crwdne457402:0</WoodenHand.label>
-  <WoodenHand.description>crwdns457404:0crwdne457404:0</WoodenHand.description>
-  <WoodenHand.labelNoun>crwdns457406:0crwdne457406:0</WoodenHand.labelNoun>
+  <InstallWoodenHand.label>crwdns461724:0crwdne461724:0</InstallWoodenHand.label>
+  <InstallWoodenHand.description>crwdns461726:0crwdne461726:0</InstallWoodenHand.description>
+  <InstallWoodenHand.jobString>crwdns461728:0crwdne461728:0</InstallWoodenHand.jobString>
 </LanguageData>
