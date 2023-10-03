@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <WorkTagNone>훈련 불가</WorkTagNone>
-  <WorkTagIntellectual>지적노동</WorkTagIntellectual>
-  <WorkTagManualDumb>단순노동</WorkTagManualDumb>
-  <WorkTagManualSkilled>숙련노동</WorkTagManualSkilled>
-  <WorkTagViolent>전투</WorkTagViolent>
-  <WorkTagShooting>사격</WorkTagShooting>
-  <WorkTagCaring>치료</WorkTagCaring>
-  <WorkTagSocial>사교</WorkTagSocial>
-  <WorkTagAnimals>조련</WorkTagAnimals>
-  <WorkTagArtistic>예술</WorkTagArtistic>
-  <WorkTagCrafting>제작</WorkTagCrafting>
-  <WorkTagCooking>조리</WorkTagCooking>
-  <WorkTagFirefighting>소방</WorkTagFirefighting>
-  <WorkTagCleaning> 청소</WorkTagCleaning>
-  <WorkTagHauling> 운반</WorkTagHauling>
-  <WorkTagPlantWork>원예</WorkTagPlantWork>
-  <WorkTagMining> 채굴</WorkTagMining>
-  <WorkTagHunting> 사냥</WorkTagHunting>
-  <WorkTagConstructing> 건설</WorkTagConstructing>
-  <WorkTagCommoner>심부름</WorkTagCommoner>
-  <WorkTagAllWork>모든 작업</WorkTagAllWork>
+  <WorkTagNone>none</WorkTagNone>
+  <WorkTagIntellectual>intellectual</WorkTagIntellectual>
+  <WorkTagManualDumb>dumb labor</WorkTagManualDumb>
+  <WorkTagManualSkilled>skilled labor</WorkTagManualSkilled>
+  <WorkTagViolent>violent</WorkTagViolent>
+  <WorkTagShooting>shooting</WorkTagShooting>
+  <WorkTagCaring>caring</WorkTagCaring>
+  <WorkTagSocial>social</WorkTagSocial>
+  <WorkTagAnimals>animals</WorkTagAnimals>
+  <WorkTagArtistic>artistic</WorkTagArtistic>
+  <WorkTagCrafting>crafting</WorkTagCrafting>
+  <WorkTagCooking>cooking</WorkTagCooking>
+  <WorkTagFirefighting>firefighting</WorkTagFirefighting>
+  <WorkTagCleaning>cleaning</WorkTagCleaning>
+  <WorkTagHauling>hauling</WorkTagHauling>
+  <WorkTagPlantWork>plant work</WorkTagPlantWork>
+  <WorkTagMining>mining</WorkTagMining>
+  <WorkTagHunting>hunting</WorkTagHunting>
+  <WorkTagConstructing>constructing</WorkTagConstructing>
+  <WorkTagCommoner>commoner work</WorkTagCommoner>
+  <WorkTagAllWork>all work</WorkTagAllWork>
 
 </LanguageData>
