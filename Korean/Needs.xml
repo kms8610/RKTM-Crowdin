@@ -1,31 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beauty.label>미관</Beauty.label>
-  <Beauty.description>대상이 주변 경관을 얼마나 만족스러워하는지 나타냅니다. 예술품처럼 아름다운 건 미관을 향상하고, 오물이나 거친 돌바닥처럼 흉한 건 미관을 해칩니다.</Beauty.description>
-  
-  <Comfort.label>편안</Comfort.label>
-  <Comfort.description>편안한 가구에서 잠을 자거나 앉아있는 걸로 얻습니다.</Comfort.description>
-  
-  <DrugDesire.label>약물</DrugDesire.label>
-  <DrugDesire.description>약물은 약물을 섭취하고 싶은 욕구의 정도를 나타냅니다. 일정 수준 이상이면 기분이 좋아지지만, 그보다 아래면 점점 기분이 나빠집니다.</DrugDesire.description>
-  
-  <Food.label>허기</Food.label>
-  <Food.description>최근 섭취한 영양분의 양입니다. 만약 0에 도달하면 점점 심해지는 영양부족에 시달리다 죽습니다.</Food.description>
-  
-  <Indoors.label>실내</Indoors.label>
-  <Indoors.description>벽 사이와 지붕 아래에 있고자 하는 욕구입니다. 옥외나 지붕이 없는 곳에서 시간을 보내면 감소합니다. 이 욕구를 50%보다 높게 올리려면 지붕으로는 부족하고 산 아래에 있어야 합니다.</Indoors.description>
-  
-  <Joy.label>오락</Joy.label>
-  <Joy.description>재미는 시간이 지남에 따라 일을 그만두고 쉬려는 필요를 나타냅니다. 같은 종류의 행동을 반복할 경우 그 효과가 반감됩니다.</Joy.description>
-  
-  <Mood.label>기분</Mood.label>
-  <Mood.description>기분은 대상의 행복 수치를 나타냅니다. 기분이 너무 낮으면 정신이상을 겪을 수 있습니다. 낮은 정도에 따라 정신이상은 방 안에 하루 틀어박히는 가벼운 수준일 수도 있지만 무차별 살해와 같은 심각한 형태도 가능합니다.</Mood.description>
-  
-  <Outdoors.label>외출</Outdoors.label>
-  <Outdoors.description>실내에 갇혀있지 않으려는 욕구입니다. 긴 시간 실내, 특히 지하에 머무르면 감소합니다. 열린 하늘 아래에서 지내면 회복됩니다. 방의 크기와는 관계 없이 종종 밖으로 나가야 할 필요를 나타냅니다. 외출 시간 부족은 지하 거주지에 사는 사람들에게 특히 큰 문제가 됩니다.</Outdoors.description>
-  
-  <Rest.label>수면</Rest.label>
-  <Rest.description>대상이 최근에 잔 시간입니다. 만약 0에 도달하면 곧 그 자리에서 잠듭니다.</Rest.description>
-  
-  <RoomSize.label>방 크기</RoomSize.label>
+  <Authority.description>dummy need</Authority.description>
 </LanguageData>
