@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttemptRecruit.label>crwdns461188:0crwdne461188:0</AttemptRecruit.label>
-  <AttemptRecruit.description>crwdns461190:0crwdne461190:0</AttemptRecruit.description>
+  <Bloodfeed.label>crwdns424904:0crwdne424904:0</Bloodfeed.label>
+  <Bloodfeed.description>crwdns424906:0crwdne424906:0</Bloodfeed.description>
   
-  <Execution.label>crwdns461192:0crwdne461192:0</Execution.label>
-  <Execution.description>crwdns461194:0crwdne461194:0</Execution.description>
-  
-  <NoInteraction.label>crwdns461196:0crwdne461196:0</NoInteraction.label>
-  <NoInteraction.description>crwdns461198:0crwdne461198:0</NoInteraction.description>
-  
-  <ReduceResistance.label>crwdns461200:0crwdne461200:0</ReduceResistance.label>
-  <ReduceResistance.description>crwdns461202:0crwdne461202:0</ReduceResistance.description>
-  
-  <Release.label>crwdns461204:0crwdne461204:0</Release.label>
-  <Release.description>crwdns461206:0crwdne461206:0</Release.description>
+  <HemogenFarm.label>crwdns424908:0crwdne424908:0</HemogenFarm.label>
+  <HemogenFarm.description>crwdns424910:0crwdne424910:0</HemogenFarm.description>
 </LanguageData>
