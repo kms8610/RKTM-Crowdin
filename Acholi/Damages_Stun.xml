@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MechBandShockwave.label>crwdns421298:0crwdne421298:0</MechBandShockwave.label>
-  <MechBandShockwave.deathMessage>crwdns421300:0{0}crwdne421300:0</MechBandShockwave.deathMessage>
+  <EMP.label>crwdns456638:0crwdne456638:0</EMP.label>
+  <EMP.deathMessage>crwdns456640:0{0}crwdne456640:0</EMP.deathMessage>
+  
+  <Stun.label>crwdns456642:0crwdne456642:0</Stun.label>
+  <Stun.deathMessage>crwdns456644:0{0}crwdne456644:0</Stun.deathMessage>
 </LanguageData>
