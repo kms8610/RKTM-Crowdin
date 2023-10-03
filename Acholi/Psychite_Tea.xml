@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PsychiteTea.label>crwdns473096:0crwdne473096:0</PsychiteTea.label>
-  <PsychiteTea.description>crwdns473098:0crwdne473098:0</PsychiteTea.description>
-  <PsychiteTea.ingestible.ingestCommandString>crwdns473100:0{0}crwdne473100:0</PsychiteTea.ingestible.ingestCommandString>
-  <PsychiteTea.ingestible.ingestReportString>crwdns473102:0{0}crwdne473102:0</PsychiteTea.ingestible.ingestReportString>
+  <PsychiteTeaHigh.stages.psychite_tea.label>crwdns474352:0crwdne474352:0</PsychiteTeaHigh.stages.psychite_tea.label>
+  <PsychiteTeaHigh.stages.psychite_tea.description>crwdns474354:0crwdne474354:0</PsychiteTeaHigh.stages.psychite_tea.description>
 </LanguageData>
