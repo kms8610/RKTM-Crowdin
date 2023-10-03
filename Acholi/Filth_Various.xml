@@ -1,43 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Filth_AmnioticFluid.label>crwdns472096:0crwdne472096:0</Filth_AmnioticFluid.label>
+  <Filth_FlammableBile.label>crwdns427384:0crwdne427384:0</Filth_FlammableBile.label>
   
-  <Filth_AnimalFilth.label>crwdns472098:0crwdne472098:0</Filth_AnimalFilth.label>
+  <Filth_Floordrawing.label>crwdns427386:0crwdne427386:0</Filth_Floordrawing.label>
   
-  <Filth_Ash.label>crwdns472100:0crwdne472100:0</Filth_Ash.label>
-  
-  <Filth_Blood.label>crwdns472102:0crwdne472102:0</Filth_Blood.label>
-  
-  <Filth_BloodInsect.label>crwdns472104:0crwdne472104:0</Filth_BloodInsect.label>
-  
-  <Filth_CorpseBile.label>crwdns472106:0crwdne472106:0</Filth_CorpseBile.label>
-  
-  <Filth_Dirt.label>crwdns472108:0crwdne472108:0</Filth_Dirt.label>
-  
-  <Filth_FireFoam.label>crwdns472110:0crwdne472110:0</Filth_FireFoam.label>
-  
-  <Filth_Fuel.label>crwdns472112:0crwdne472112:0</Filth_Fuel.label>
-  <Filth_Fuel.description>crwdns472114:0crwdne472114:0</Filth_Fuel.description>
-  
-  <Filth_Hair.label>crwdns472116:0crwdne472116:0</Filth_Hair.label>
-  
-  <Filth_MachineBits.label>crwdns472118:0crwdne472118:0</Filth_MachineBits.label>
-  
-  <Filth_RubbleBuilding.label>crwdns472120:0crwdne472120:0</Filth_RubbleBuilding.label>
-  
-  <Filth_RubbleRock.label>crwdns472122:0crwdne472122:0</Filth_RubbleRock.label>
-  
-  <Filth_Sand.label>crwdns472124:0crwdne472124:0</Filth_Sand.label>
-  
-  <Filth_Slime.label>crwdns472126:0crwdne472126:0</Filth_Slime.label>
-  
-  <Filth_Trash.label>crwdns472128:0crwdne472128:0</Filth_Trash.label>
-  
-  <Filth_Vomit.label>crwdns472130:0crwdne472130:0</Filth_Vomit.label>
-  
-  <Filth_Water.label>crwdns472132:0crwdne472132:0</Filth_Water.label>
-  
-  <SandbagRubble.label>crwdns472134:0crwdne472134:0</SandbagRubble.label>
-  
-  <SlagRubble.label>crwdns472136:0crwdne472136:0</SlagRubble.label>
+  <Filth_SpentAcid.label>crwdns427388:0crwdne427388:0</Filth_SpentAcid.label>
 </LanguageData>
