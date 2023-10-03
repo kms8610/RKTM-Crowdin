@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WearingDesiredApparel_Soft.stages.wearing.label>{APPAREL} 착용</WearingDesiredApparel_Soft.stages.wearing.label>
-  <WearingDesiredApparel_Soft.stages.wearing.description>내 신념에 걸맞는 {APPAREL}(을)를 입으니 좋아.</WearingDesiredApparel_Soft.stages.wearing.description>
-  
-  <WearingDesiredApparel_Strong.stages.wearing.label>{APPAREL} 착용</WearingDesiredApparel_Strong.stages.wearing.label>
-  <WearingDesiredApparel_Strong.stages.wearing.description>내 신념에 걸맞는 {APPAREL}(을)를 입으니 정말 좋아.</WearingDesiredApparel_Strong.stages.wearing.description>
+  <ApparelDesire.label>apparel desire</ApparelDesire.label>
 </LanguageData>
