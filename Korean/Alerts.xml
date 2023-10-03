@@ -1,47 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Room requirements -->
-  <NeedThroneAssigned>Need throneroom</NeedThroneAssigned>
-  <NeedThroneAssignedDesc>One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom.</NeedThroneAssignedDesc>
+  <NeedSlaveBeds>Need slave beds</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly.</NeedSlaveBedsDesc>
 
-  <UndignifiedBedroom>Undignified bedroom</UndignifiedBedroom>
-  <UndignifiedBedroomDesc>One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements.</UndignifiedBedroomDesc>
+  <SlavesUnsuppressedLabel>Slave unsuppressed</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_nameDef}'s suppression level is dangerously low. There is a good chance {0_pronoun} will rebel.\n\nMake sure there is a colonist assigned to warden work. Wardens will suppress slaves periodically to stop them from rebelling.</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>Slave unattended</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>Slaves unattended</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours.</SlavesUnattendedDesc>
 
-  <NeedBedroomAssigned>Title requires bedroom</NeedBedroomAssigned>
-  <NeedBedroomAssignedDesc>One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements.</NeedBedroomAssignedDesc>
+  <RitualOpportunity>{0} opportunity</RitualOpportunity>
+  <RitualOpportunityFor>{0} opportunity for {1}</RitualOpportunityFor>
+  <RitualExpiresIn>Expires in {0}, on {1}.</RitualExpiresIn>
+  <RitualSingleTargetDesc>To begin the ritual, select a {FOCUS} and click the 'Begin {RITUAL_label}' command.</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>To begin the ritual, select one of the following and click the 'Begin {RITUAL_label}' command</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1}</RitualTargetsExplanation>
+  <RitualJumpToTargets>Click to jump to targets</RitualJumpToTargets>
+  <RitualUnfilledRoles>In order to perform {0} you need to fill these roles</RitualUnfilledRoles>
 
-  <UndignifiedThroneroom>Undignified throneroom</UndignifiedThroneroom>
-  <UndignifiedThroneroomDesc>One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements.</UndignifiedThroneroomDesc>
+  <IdeoBuildingMissing>{0} desired</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{IDEO_name} requires that you have a {0} in your colony as long as {2} or higher.\n\n{0} is a variant of {BASEBUILDING_label}.{BUILDINGINFO}\n\nThis requirement is only active if {IDEO_name} is your faction's primary ideoligion, or there are {MINBELIEVERS} believers in your faction.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc> You can find it by opening the '{TABNAME}' tab of the architect menu.</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt> It can be created at:\n{0}.</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>In order to dignify {0}, these room requirements must be met</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>expectations are</IdeoBuildingExpectations>
+
+  <IdeoBuildingDisrespected>{0} disrespected</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>{0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3}</IdeoBuildingDisrespectedDesc>
   
-  <RoyalNoAcceptableFood>No acceptable food</RoyalNoAcceptableFood>
-  <RoyalNoAcceptableFoodDesc>One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements.</RoyalNoAcceptableFoodDesc>
+  <QuestPartRaidsDelay>Raids arriving in {0}</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data.</QuestPartRaidsDelayDesc>
 
-  <RoomRequirementGracePeriodDesc>{0} days until requirement begins</RoomRequirementGracePeriodDesc>
+  <IdeoRoleEmpty>{0} role unfilled</IdeoRoleEmpty>
+  <IdeoRolesEmpty>{0} roles unfilled</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy</IdeoRolesEmptyDesc>
 
-  <ThroneroomInvalidConfiguration>Throne not usable</ThroneroomInvalidConfiguration>
-  <ThroneroomInvalidConfigurationDesc>A throne is not usable because of how it is set up:</ThroneroomInvalidConfigurationDesc>
-  
-  <MonumentMarkerMissingBlueprints>Monument missing blueprints</MonumentMarkerMissingBlueprints>
-  <MonumentMarkerMissingBlueprintsDesc>The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually.</MonumentMarkerMissingBlueprintsDesc>
+  <AncientAltarThreatsWaking>Security threats activated in {0}</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>Security threats will activate in {0}. They will attack any who may threaten the relic.</AncientAltarThreatsWakingDesc>
 
-  <ShipLandingBeaconUnusable>Beacon unusable</ShipLandingBeaconUnusable>
-  <ShipLandingBeaconUnusableDesc>A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals.</ShipLandingBeaconUnusableDesc>
+  <AlertRitualComing>Ritual opportunity soon</AlertRitualComing>
+  <AlertRitualComingDesc>A ritual opportunity is coming soon for following rituals</AlertRitualComingDesc>
+  <AlertRitualComingExtra>Opportunities expire after {0} days, and reoccur on the same day each year.</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{0} on {1}, {2} before opportunity arises</AlertRitualComingEntry>
 
-  <NeedMeditationSpotAlert>Need meditation spot</NeedMeditationSpotAlert>
-  <NeedMeditationSpotAlertDesc>These colonists have a psyfocus need or are sceheduled to meditate, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use.</NeedMeditationSpotAlertDesc>
+  <AlertAgeReversalDemandNear>Age reversal demanded</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} wants their next treatment in {DURATION}.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} wants their first treatment in {DURATION}.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}'s treatment is overdue by {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
 
-  <UnusableMeditationFocusAlert>Unusable meditation focus</UnusableMeditationFocusAlert>
-  <UnusableMeditationFocusAlertDesc>These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button.</UnusableMeditationFocusAlertDesc>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
-  <PermitChoiceReadyAlert>Permit choice ready</PermitChoiceReadyAlert>
-  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} can choose a new permit.</PermitChoiceReadyAlertDesc>
-  
-  <BestowerWaitingAlert>Bestower waiting</BestowerWaitingAlert>
-  <BestowerWaitingAlertDesc>A bestower is waiting to begin the bestowing ceremony.</BestowerWaitingAlertDesc>
-  
-  <AnimaLinkingReadyLabel>Anima linking ceremony ready</AnimaLinkingReadyLabel>
-  <AnimaLinkingReadyDesc>An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists</AnimaLinkingReadyDesc>
-  <AnimaLinkingReadyDescExtra>In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use.</AnimaLinkingReadyDescExtra>
+  <AlertGauranlenTreeWithoutDryadTypeLabel>Dryad caste not set</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Connector not assigned to plant cutting</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <AlertFuelNodeIgniting>Fuel node explodes in {0}</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires.</AlertFuelNodeIgnitingDesc>
+
+  <AlertInfestationArriving>Insects arriving in {0}</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin.</AlertInfestationArrivingDesc>
+
+  <AlertHostilesWakingUp>{0_pawnsPlural} waking in {1}</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>One or more {0_pawnsPlural} are waking up.\n\nThey will attack if they find you.</AlertHostilesWakingUpDesc>
+
+  <AlertCasketOpening>Cryptosleep caskets opening in {0}</AlertCasketOpening>
+  <AlertCasketOpeningDesc>Cryptosleep caskets containing unknown threats are opening soon.</AlertCasketOpeningDesc>
+
+  <AlertSlaveRebellionLikely>Slave rebellion likely</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>There are {REBELLIOUSCOUNT} slaves that are likely to initiate a rebellion.</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel:</AlertSlaveRebellionLikelyMostRebellious>
   
 </LanguageData>
