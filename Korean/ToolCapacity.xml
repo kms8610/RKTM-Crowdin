@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Bite.label>물림</Bite.label>
+  <Bite.label>bite</Bite.label>
   
-  <Blunt.label>맞음</Blunt.label>
+  <Blunt.label>blunt</Blunt.label>
   
-  <Cut.label>잘림</Cut.label>
+  <Cut.label>cut</Cut.label>
   
-  <Demolish.label>허물기</Demolish.label>
+  <Demolish.label>demolish</Demolish.label>
   
-  <KickMaterialInEyes.label>눈에 이물질 뿌리기</KickMaterialInEyes.label>
+  <KickMaterialInEyes.label>kick material in eyes</KickMaterialInEyes.label>
   
-  <Poke.label>찌르기</Poke.label>
+  <Poke.label>poke</Poke.label>
   
-  <Scratch.label>찢김</Scratch.label>
+  <Scratch.label>scratch</Scratch.label>
   
-  <ScratchToxic.label>찢김 (독성)</ScratchToxic.label>
+  <ScratchToxic.label>toxic scratch</ScratchToxic.label>
   
-  <Stab.label>찔림</Stab.label>
+  <Stab.label>stab</Stab.label>
   
-  <ToxicBite.label>물림 (독성)</ToxicBite.label>
+  <ToxicBite.label>toxic bite</ToxicBite.label>
 </LanguageData>
