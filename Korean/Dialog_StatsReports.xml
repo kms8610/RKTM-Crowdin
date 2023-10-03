@@ -28,11 +28,11 @@
 
   <Stat_Pawn_DarknessCombatShooting_Name>어둠 속 사격 명중률</Stat_Pawn_DarknessCombatShooting_Name>
   <Stat_Pawn_DarknessCombatShooting_Desc>대상의 밝기 단계에 따라 명중률에 더하는 수입니다.</Stat_Pawn_DarknessCombatShooting_Desc>
-  <Stat_Pawn_DarknessMeleeDodgeChance_Name>Darkness melee dodge chance</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>어둠 속 근접 회피 확률</Stat_Pawn_DarknessMeleeDodgeChance_Name>
   <Stat_Pawn_DarknessMeleeDodgeChance_Desc>현재 위치의 밝기 단계에 따라 근접 회피 확률에 더하는 수입니다.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
-  <Stat_Pawn_DarknessMeleeHitChance_Name>Darkness melee hit chance</Stat_Pawn_DarknessMeleeHitChance_Name>
-  <Stat_Pawn_DarknessMeleeHitChance_Desc>An offset applied to the melee hit chance based on the target's light level.</Stat_Pawn_DarknessMeleeHitChance_Desc>
-  <Stat_PawnDarkness_FollowingOffset>The following offsets can be applied</Stat_PawnDarkness_FollowingOffset>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>어둠 속 근접 명중 확률</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>대상의 밝기 단계에 따라 명중률에 더하는 수입니다.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>다음 영향 적용</Stat_PawnDarkness_FollowingOffset>
 
   <StatsReport_BiosculptingSpeedFactor>생체 재구축 속도</StatsReport_BiosculptingSpeedFactor>
 
