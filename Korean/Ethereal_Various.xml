@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blight.label>마름병</Blight.label>
+  <Blight.label>blight</Blight.label>
   
-  <Explosion.label>폭발</Explosion.label>
+  <Explosion.label>explosion</Explosion.label>
   
-  <PawnJumper.label>비행</PawnJumper.label>
+  <PawnJumper.label>flying</PawnJumper.label>
   
-  <RadialTrigger.label>근접 트리거</RadialTrigger.label>
+  <RadialTrigger.label>proximity trigger</RadialTrigger.label>
   
-  <RectTrigger.label>직사각 트리거</RectTrigger.label>
+  <RectTrigger.label>rect trigger</RectTrigger.label>
   
-  <Tornado.label>토네이도</Tornado.label>
+  <Tornado.label>tornado</Tornado.label>
   
-  <TriggerContainerEmptied.label>용기 비움 트리거</TriggerContainerEmptied.label>
+  <TriggerContainerEmptied.label>trigger container emptied</TriggerContainerEmptied.label>
   
-  <TriggerUnfogged.label>안개비 제거기</TriggerUnfogged.label>
+  <TriggerUnfogged.label>trigger unfogged</TriggerUnfogged.label>
   
-  <TunnelHiveSpawner.label>땅굴</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>tunnel</TunnelHiveSpawner.label>
 </LanguageData>
