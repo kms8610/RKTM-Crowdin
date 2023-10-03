@@ -1,14 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BeamWound.label>광선 화상</BeamWound.label>
-  <BeamWound.description>광선에 입은 화상입니다.</BeamWound.description>
-  <BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>치유됨</BeamWound.comps.HediffComp_TendDuration.labelSolidTendedWell>
-  <BeamWound.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</BeamWound.comps.HediffComp_TendDuration.labelTendedWell>
-  <BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</BeamWound.comps.HediffComp_TendDuration.labelTendedWellInner>
-  <BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>영구적 광선 화상</BeamWound.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
-  <BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>오래된 광선 상처</BeamWound.comps.HediffComp_GetsPermanent.permanentLabel>
-  <BeamWound.injuryProps.destroyedLabel>불에 타버림</BeamWound.injuryProps.destroyedLabel>
-  <BeamWound.injuryProps.destroyedOutLabel>불에 타버림</BeamWound.injuryProps.destroyedOutLabel>
-  <BeamWound.labelNoun>광선 화상</BeamWound.labelNoun>
-  <BeamWound.labelNounPretty>{1}의 {0}</BeamWound.labelNounPretty>
+  <Bite.label>물림</Bite.label>
+  <Bite.description>물린 상처입니다.</Bite.description>
+  <Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Bite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Bite.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Bite.comps.HediffComp_TendDuration.labelTendedWell>
+  <Bite.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Bite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Bite.comps.HediffComp_GetsPermanent.permanentLabel>물린 흉터</Bite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Bite.injuryProps.destroyedLabel>물어뜯김</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedOutLabel>물어뜯김</Bite.injuryProps.destroyedOutLabel>
+  <Bite.labelNoun>물린 상처</Bite.labelNoun>
+  <Bite.labelNounPretty>{1}의 {0}</Bite.labelNounPretty>
+  
+  <Bruise.label>튼튼</Bruise.label>
+  <Bruise.description>타박상 입니다.</Bruise.description>
+  <Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Bruise.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Bruise.comps.HediffComp_TendDuration.labelTendedWell>
+  <Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</Bruise.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Bruise.injuryProps.destroyedLabel>파괴됨</Bruise.injuryProps.destroyedLabel>
+  <Bruise.labelNoun>타박상</Bruise.labelNoun>
+  <Bruise.labelNounPretty>{1}의 {0}</Bruise.labelNounPretty>
+  
+  <Burn.label>화상</Burn.label>
+  <Burn.description>화상입니다.</Burn.description>
+  <Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</Burn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Burn.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Burn.comps.HediffComp_TendDuration.labelTendedWell>
+  <Burn.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</Burn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Burn.comps.HediffComp_GetsPermanent.permanentLabel>화상 흉터</Burn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Burn.injuryProps.destroyedLabel>불에 타버림</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedOutLabel>불에 타버림</Burn.injuryProps.destroyedOutLabel>
+  <Burn.labelNoun>화상</Burn.labelNoun>
+  <Burn.labelNounPretty>{1}의 {0}</Burn.labelNounPretty>
+  
+  <ChemicalBurn.label>화학적 화상</ChemicalBurn.label>
+  <ChemicalBurn.description>화학적 화상입니다.</ChemicalBurn.description>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</ChemicalBurn.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWell>
+  <ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</ChemicalBurn.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>화학적 화상 흉터</ChemicalBurn.comps.HediffComp_GetsPermanent.permanentLabel>
+  <ChemicalBurn.injuryProps.destroyedLabel>불에 타버림(화학적)</ChemicalBurn.injuryProps.destroyedLabel>
+  <ChemicalBurn.injuryProps.destroyedOutLabel>불에 타버림(화학적)</ChemicalBurn.injuryProps.destroyedOutLabel>
+  <ChemicalBurn.labelNoun>화학적 화상</ChemicalBurn.labelNoun>
+  <ChemicalBurn.labelNounPretty>{1}의 {0}</ChemicalBurn.labelNounPretty>
+  
+  <Crack.label>골절</Crack.label>
+  <Crack.description>골절입니다.</Crack.description>
+  <Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Crack.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWell>치유됨</Crack.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crack.comps.HediffComp_TendDuration.labelTendedWellInner>치유됨</Crack.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Crack.comps.HediffComp_GetsPermanent.permanentLabel>영구적 균열</Crack.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crack.injuryProps.destroyedLabel>박살남</Crack.injuryProps.destroyedLabel>
+  <Crack.labelNoun>골절</Crack.labelNoun>
+  <Crack.labelNounPretty>{1}의 {0}</Crack.labelNounPretty>
+  
+  <Crush.label>으스러짐</Crush.label>
+  <Crush.description>으스러졌습니다.</Crush.description>
+  <Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Crush.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Crush.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Crush.comps.HediffComp_TendDuration.labelTendedWell>
+  <Crush.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Crush.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Crush.comps.HediffComp_GetsPermanent.permanentLabel>짓이겨진 흉터</Crush.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Crush.injuryProps.destroyedLabel>으스러짐</Crush.injuryProps.destroyedLabel>
+  <Crush.labelNoun>으스러짐</Crush.labelNoun>
+  <Crush.labelNounPretty>{1}의 {0}</Crush.labelNounPretty>
+  
+  <Cut.label>잘림</Cut.label>
+  <Cut.description>베였습니다.</Cut.description>
+  <Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Cut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Cut.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Cut.comps.HediffComp_TendDuration.labelTendedWell>
+  <Cut.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Cut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Cut.comps.HediffComp_GetsPermanent.permanentLabel>베인 흉터</Cut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Cut.injuryProps.destroyedLabel>끊어짐</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedOutLabel>잘림</Cut.injuryProps.destroyedOutLabel>
+  <Cut.labelNoun>베임</Cut.labelNoun>
+  <Cut.labelNounPretty>{1}의 {0}</Cut.labelNounPretty>
+  
+  <ExecutionCut.label>잘림</ExecutionCut.label>
+  <ExecutionCut.description>처형 중 베였습니다.</ExecutionCut.description>
+  <ExecutionCut.injuryProps.destroyedLabel>끊어짐</ExecutionCut.injuryProps.destroyedLabel>
+  <ExecutionCut.injuryProps.destroyedOutLabel>잘림</ExecutionCut.injuryProps.destroyedOutLabel>
+  <ExecutionCut.labelNoun>베임</ExecutionCut.labelNoun>
+  <ExecutionCut.labelNounPretty>{1}의 {0}</ExecutionCut.labelNounPretty>
+  
+  <Frostbite.label>동상</Frostbite.label>
+  <Frostbite.description>낮은 온도에 노출되어 얼어붙은 세포조직입니다. 동상 부위는 매우 큰 고통을 유발하며 손실되기 쉽습니다.</Frostbite.description>
+  <Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>치료됨</Frostbite.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Frostbite.comps.HediffComp_TendDuration.labelTendedWell>
+  <Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>치료됨</Frostbite.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>동상 흉터</Frostbite.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Frostbite.injuryProps.destroyedLabel>동상으로 잃음</Frostbite.injuryProps.destroyedLabel>
+  <Frostbite.labelNounPretty>{1}의 {0}</Frostbite.labelNounPretty>
+  
+  <Gunshot.label>총상</Gunshot.label>
+  <Gunshot.description>총상입니다.</Gunshot.description>
+  <Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Gunshot.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Gunshot.comps.HediffComp_TendDuration.labelTendedWell>
+  <Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Gunshot.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>영구적 총상</Gunshot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>오래된 총상</Gunshot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Gunshot.injuryProps.destroyedLabel>총상으로 잃음</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>총상으로 잃음</Gunshot.injuryProps.destroyedOutLabel>
+  <Gunshot.labelNoun>총상</Gunshot.labelNoun>
+  <Gunshot.labelNounPretty>{1}의 {0}</Gunshot.labelNounPretty>
+  
+  <Misc.label>기타</Misc.label>
+  <Misc.description>부상입니다.</Misc.description>
+  <Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Misc.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Misc.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Misc.comps.HediffComp_TendDuration.labelTendedWell>
+  <Misc.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Misc.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Misc.comps.HediffComp_GetsPermanent.permanentLabel>상처</Misc.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Misc.injuryProps.destroyedLabel>파괴됨</Misc.injuryProps.destroyedLabel>
+  <Misc.labelNoun>부상</Misc.labelNoun>
+  <Misc.labelNounPretty>{1}의 {0}</Misc.labelNounPretty>
+  
+  <MissingBodyPart.label>신체 누락</MissingBodyPart.label>
+  <MissingBodyPart.description>신체 부위가 온전하지 않습니다.</MissingBodyPart.description>
+  <MissingBodyPart.labelNoun>신체 누락</MissingBodyPart.labelNoun>
+  <MissingBodyPart.labelNounPretty>{1} 누락</MissingBodyPart.labelNounPretty>
+  
+  <Scratch.label>찢김</Scratch.label>
+  <Scratch.description>긁힌 상처입니다.</Scratch.description>
+  <Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>치유됨</Scratch.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Scratch.comps.HediffComp_TendDuration.labelTendedWell>
+  <Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Scratch.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Scratch.comps.HediffComp_GetsPermanent.permanentLabel>긁힌 흉터</Scratch.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scratch.injuryProps.destroyedLabel>찢어짐</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedOutLabel>찢겨나감</Scratch.injuryProps.destroyedOutLabel>
+  <Scratch.labelNoun>긁힘</Scratch.labelNoun>
+  <Scratch.labelNounPretty>{1}의 {0}</Scratch.labelNounPretty>
+  
+  <Shredded.label>조각남</Shredded.label>
+  <Shredded.description>신체 일부가 파쇄되어 찢어졌습니다.</Shredded.description>
+  <Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Shredded.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Shredded.comps.HediffComp_TendDuration.labelTendedWell>
+  <Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Shredded.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Shredded.comps.HediffComp_GetsPermanent.permanentLabel>찢어진 흉터</Shredded.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Shredded.injuryProps.destroyedLabel>찢어짐</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedOutLabel>찢겨나감</Shredded.injuryProps.destroyedOutLabel>
+  <Shredded.labelNoun>조각난 상처</Shredded.labelNoun>
+  <Shredded.labelNounPretty>{1}의 {0}</Shredded.labelNounPretty>
+  
+  <Stab.label>찔림</Stab.label>
+  <Stab.description>찔린 상처입니다.</Stab.description>
+  <Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</Stab.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <Stab.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</Stab.comps.HediffComp_TendDuration.labelTendedWell>
+  <Stab.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</Stab.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <Stab.comps.HediffComp_GetsPermanent.permanentLabel>찔린 흉터</Stab.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Stab.injuryProps.destroyedLabel>끊어짐</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>잘림</Stab.injuryProps.destroyedOutLabel>
+  <Stab.labelNoun>찔린 상처</Stab.labelNoun>
+  <Stab.labelNounPretty>{1}의 {0}</Stab.labelNounPretty>
+  
+  <SurgicalCut.label>외과적 절단</SurgicalCut.label>
+  <SurgicalCut.description>수술 중 절단된 부위입니다.</SurgicalCut.description>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>접합됨</SurgicalCut.comps.HediffComp_TendDuration.labelSolidTendedWell>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>붕대 감음</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWell>
+  <SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>봉합됨</SurgicalCut.comps.HediffComp_TendDuration.labelTendedWellInner>
+  <SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>수술 흉터</SurgicalCut.comps.HediffComp_GetsPermanent.permanentLabel>
+  <SurgicalCut.labelNoun>외과적 절단</SurgicalCut.labelNoun>
+  <SurgicalCut.labelNounPretty>{1}의 {0}</SurgicalCut.labelNounPretty>
 </LanguageData>
