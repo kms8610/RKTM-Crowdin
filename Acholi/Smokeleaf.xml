@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SmokeleafHigh.stages.high_on_smokeleaf.label>crwdns474364:0crwdne474364:0</SmokeleafHigh.stages.high_on_smokeleaf.label>
-  <SmokeleafHigh.stages.high_on_smokeleaf.description>crwdns474366:0crwdne474366:0</SmokeleafHigh.stages.high_on_smokeleaf.description>
-  
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>crwdns474368:0crwdne474368:0</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>crwdns474370:0crwdne474370:0</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
+  <Smokeleaf.label>crwdns456110:0crwdne456110:0</Smokeleaf.label>
 </LanguageData>
