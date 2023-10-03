@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteCorpse.stages.ate_corpse.label>crwdns474524:0crwdne474524:0</AteCorpse.stages.ate_corpse.label>
-  <AteCorpse.stages.ate_corpse.description>crwdns474526:0crwdne474526:0</AteCorpse.stages.ate_corpse.description>
-  
-  <AteFineMeal.stages.ate_fine_meal.label>crwdns474528:0crwdne474528:0</AteFineMeal.stages.ate_fine_meal.label>
-  <AteFineMeal.stages.ate_fine_meal.description>crwdns474530:0crwdne474530:0</AteFineMeal.stages.ate_fine_meal.description>
-  
-  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>crwdns474532:0crwdne474532:0</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.label>
-  <AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>crwdns474534:0crwdne474534:0</AteHumanlikeMeatAsIngredient.stages.cooked_cannibalism.description>
-  
-  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>crwdns474536:0crwdne474536:0</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.label>
-  <AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>crwdns474538:0crwdne474538:0</AteHumanlikeMeatAsIngredientCannibal.stages.cooked_cannibalism.description>
-  
-  <AteHumanlikeMeatDirect.stages.raw_cannibalism.label>crwdns474540:0crwdne474540:0</AteHumanlikeMeatDirect.stages.raw_cannibalism.label>
-  <AteHumanlikeMeatDirect.stages.raw_cannibalism.description>crwdns474542:0crwdne474542:0</AteHumanlikeMeatDirect.stages.raw_cannibalism.description>
-  
-  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>crwdns474544:0crwdne474544:0</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.label>
-  <AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>crwdns474546:0crwdne474546:0</AteHumanlikeMeatDirectCannibal.stages.raw_cannibalism.description>
-  
-  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>crwdns474548:0crwdne474548:0</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.label>
-  <AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>crwdns474550:0crwdne474550:0</AteInsectMeatAsIngredient.stages.ate_cooked_insect_meat.description>
-  
-  <AteInsectMeatDirect.stages.ate_insect_meat.label>crwdns474552:0crwdne474552:0</AteInsectMeatDirect.stages.ate_insect_meat.label>
-  <AteInsectMeatDirect.stages.ate_insect_meat.description>crwdns474554:0crwdne474554:0</AteInsectMeatDirect.stages.ate_insect_meat.description>
-  
-  <AteKibble.stages.ate_kibble.label>crwdns474556:0crwdne474556:0</AteKibble.stages.ate_kibble.label>
-  <AteKibble.stages.ate_kibble.description>crwdns474558:0crwdne474558:0</AteKibble.stages.ate_kibble.description>
-  
-  <AteLavishMeal.stages.ate_lavish_meal.label>crwdns474560:0crwdne474560:0</AteLavishMeal.stages.ate_lavish_meal.label>
-  <AteLavishMeal.stages.ate_lavish_meal.description>crwdns474562:0crwdne474562:0</AteLavishMeal.stages.ate_lavish_meal.description>
-  
-  <AteRawFood.stages.ate_raw_food.label>crwdns474564:0crwdne474564:0</AteRawFood.stages.ate_raw_food.label>
-  <AteRawFood.stages.ate_raw_food.description>crwdns474566:0crwdne474566:0</AteRawFood.stages.ate_raw_food.description>
-  
-  <AteRottenFood.stages.ate_rotten_food.label>crwdns474568:0crwdne474568:0</AteRottenFood.stages.ate_rotten_food.label>
-  <AteRottenFood.stages.ate_rotten_food.description>crwdns474570:0crwdne474570:0</AteRottenFood.stages.ate_rotten_food.description>
+  <AteBabyFood.stages.ate_baby_food.label>crwdns428118:0crwdne428118:0</AteBabyFood.stages.ate_baby_food.label>
+  <AteBabyFood.stages.ate_baby_food.description>crwdns428120:0crwdne428120:0</AteBabyFood.stages.ate_baby_food.description>
 </LanguageData>
