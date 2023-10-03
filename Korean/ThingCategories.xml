@@ -1,140 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalProductRaw.label>축산물</AnimalProductRaw.label>
+  <AnimalProductRaw.label>animal products</AnimalProductRaw.label>
   
-  <Animals.label>조련</Animals.label>
+  <Animals.label>animals</Animals.label>
   
-  <Apparel.label>의복</Apparel.label>
+  <Apparel.label>apparel</Apparel.label>
   
-  <ApparelArmor.label>갑옷</ApparelArmor.label>
+  <ApparelArmor.label>armor</ApparelArmor.label>
   
-  <ApparelMisc.label>기타</ApparelMisc.label>
+  <ApparelMisc.label>misc</ApparelMisc.label>
   
-  <ApparelNoble.label>귀족 의류</ApparelNoble.label>
+  <ApparelNoble.label>noble apparel</ApparelNoble.label>
   
-  <ApparelUtility.label>다용도구</ApparelUtility.label>
+  <ApparelUtility.label>utility</ApparelUtility.label>
   
-  <ArmorHeadgear.label>머리장비</ArmorHeadgear.label>
+  <ArmorHeadgear.label>headgear</ArmorHeadgear.label>
   
-  <Artifacts.label>유물</Artifacts.label>
+  <Artifacts.label>artifacts</Artifacts.label>
   
-  <BodyParts.label>신체부위</BodyParts.label>
+  <BodyParts.label>body parts</BodyParts.label>
   
-  <BodyPartsArchotech.label>초월</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
   
-  <BodyPartsBionic.label>생체공학품</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bionic</BodyPartsBionic.label>
   
-  <BodyPartsMechtech.label>기계공학</BodyPartsMechtech.label>
+  <BodyPartsMechtech.label>mechtech</BodyPartsMechtech.label>
   
-  <BodyPartsNatural.label>자연스러운</BodyPartsNatural.label>
+  <BodyPartsNatural.label>natural</BodyPartsNatural.label>
   
-  <BodyPartsProsthetic.label>보철물</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>prosthetic</BodyPartsProsthetic.label>
   
-  <BodyPartsSimple.label>간단한 보철물</BodyPartsSimple.label>
+  <BodyPartsSimple.label>simple parts</BodyPartsSimple.label>
   
-  <BodyPartsUltra.label>첨단 기술</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratech</BodyPartsUltra.label>
   
-  <Buildings.label>구조물</Buildings.label>
+  <Buildings.label>buildings</Buildings.label>
   
-  <BuildingsArt.label>아트</BuildingsArt.label>
+  <BuildingsArt.label>art</BuildingsArt.label>
   
-  <BuildingsFurniture.label>가구</BuildingsFurniture.label>
+  <BuildingsFurniture.label>furniture</BuildingsFurniture.label>
   
-  <BuildingsJoy.label>오락</BuildingsJoy.label>
+  <BuildingsJoy.label>recreation</BuildingsJoy.label>
   
-  <BuildingsMisc.label>기타</BuildingsMisc.label>
+  <BuildingsMisc.label>misc</BuildingsMisc.label>
   
-  <BuildingsPower.label>위력</BuildingsPower.label>
+  <BuildingsPower.label>power</BuildingsPower.label>
   
-  <BuildingsProduction.label>생산</BuildingsProduction.label>
+  <BuildingsProduction.label>production</BuildingsProduction.label>
   
-  <BuildingsSecurity.label>방어</BuildingsSecurity.label>
+  <BuildingsSecurity.label>security</BuildingsSecurity.label>
   
-  <BuildingsSpecial.label>특별</BuildingsSpecial.label>
+  <BuildingsSpecial.label>special</BuildingsSpecial.label>
   
-  <BuildingsTemperature.label>온도</BuildingsTemperature.label>
+  <BuildingsTemperature.label>temperature</BuildingsTemperature.label>
   
-  <Chunks.label>폐기물</Chunks.label>
+  <Chunks.label>chunks</Chunks.label>
   
-  <Corpses.label>시체</Corpses.label>
+  <Corpses.label>corpses</Corpses.label>
   
-  <CorpsesAnimal.label>동물 시체</CorpsesAnimal.label>
+  <CorpsesAnimal.label>animal corpses</CorpsesAnimal.label>
   
-  <CorpsesHumanlike.label>인간 시체</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>humanlike corpses</CorpsesHumanlike.label>
   
-  <CorpsesInsect.label>곤충 시체</CorpsesInsect.label>
+  <CorpsesInsect.label>insect corpses</CorpsesInsect.label>
   
-  <CorpsesMechanoid.label>메카노이드 잔해</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>mechanoid corpses</CorpsesMechanoid.label>
   
-  <Drugs.label>약물</Drugs.label>
+  <Drugs.label>drugs</Drugs.label>
   
-  <EggsFertilized.label>수정란</EggsFertilized.label>
+  <EggsFertilized.label>eggs (fert.)</EggsFertilized.label>
   
-  <EggsUnfertilized.label>무정란</EggsUnfertilized.label>
+  <EggsUnfertilized.label>eggs (unfert.)</EggsUnfertilized.label>
   
-  <FoodMeals.label>음식</FoodMeals.label>
+  <FoodMeals.label>meals</FoodMeals.label>
   
-  <FoodRaw.label>재료</FoodRaw.label>
+  <FoodRaw.label>raw food</FoodRaw.label>
   
-  <Foods.label>식품</Foods.label>
+  <Foods.label>foods</Foods.label>
   
-  <Grenades.label>수류탄</Grenades.label>
+  <Grenades.label>grenades</Grenades.label>
   
-  <Headgear.label>머리장비</Headgear.label>
+  <Headgear.label>headgear</Headgear.label>
   
-  <HeadgearNoble.label>머리장비</HeadgearNoble.label>
+  <HeadgearNoble.label>headgear</HeadgearNoble.label>
   
-  <InertRelics.label>비활성 유물</InertRelics.label>
+  <InertRelics.label>inert relics</InertRelics.label>
   
-  <Items.label>물건</Items.label>
+  <Items.label>items</Items.label>
   
-  <ItemsMisc.label>기타</ItemsMisc.label>
+  <ItemsMisc.label>misc</ItemsMisc.label>
   
-  <Leathers.label>가죽</Leathers.label>
+  <Leathers.label>leathers</Leathers.label>
   
-  <Manufactured.label>제작품</Manufactured.label>
+  <Manufactured.label>manufactured</Manufactured.label>
   
-  <MeatRaw.label>육류</MeatRaw.label>
+  <MeatRaw.label>meat</MeatRaw.label>
   
-  <Medicine.label>의약품</Medicine.label>
+  <Medicine.label>medicine</Medicine.label>
   
-  <MortarShells.label>박격포탄</MortarShells.label>
+  <MortarShells.label>mortar shells</MortarShells.label>
   
-  <Neurotrainers.label>교육혈청</Neurotrainers.label>
+  <Neurotrainers.label>neurotrainers</Neurotrainers.label>
   
-  <NeurotrainersPsycast.label>초월교육혈청</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>psytrainers</NeurotrainersPsycast.label>
   
-  <NeurotrainersSkill.label>신경교육혈청</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>skilltrainers</NeurotrainersSkill.label>
   
-  <PlantFoodRaw.label>채식재료</PlantFoodRaw.label>
+  <PlantFoodRaw.label>vegetarian</PlantFoodRaw.label>
   
-  <PlantMatter.label>식물 자재</PlantMatter.label>
+  <PlantMatter.label>plant matter</PlantMatter.label>
   
-  <Plants.label>식물</Plants.label>
+  <Plants.label>plants</Plants.label>
   
-  <ResourcesRaw.label>원자재</ResourcesRaw.label>
+  <ResourcesRaw.label>raw resources</ResourcesRaw.label>
   
-  <Root.label>모두</Root.label>
+  <Root.label>root</Root.label>
   
-  <StoneBlocks.label>벽돌</StoneBlocks.label>
+  <StoneBlocks.label>stone blocks</StoneBlocks.label>
   
-  <StoneChunks.label>바위 덩어리</StoneChunks.label>
+  <StoneChunks.label>stone chunks</StoneChunks.label>
   
-  <Stumps.label>그루터기</Stumps.label>
+  <Stumps.label>stumps</Stumps.label>
   
-  <Techprints.label>기술청사진</Techprints.label>
+  <Techprints.label>techprints</Techprints.label>
   
-  <Textiles.label>옷감</Textiles.label>
+  <Textiles.label>textiles</Textiles.label>
   
-  <Unfinished.label>미완성품</Unfinished.label>
+  <Unfinished.label>unfinished</Unfinished.label>
   
-  <Weapons.label>무기</Weapons.label>
+  <Weapons.label>weapons</Weapons.label>
   
-  <WeaponsMelee.label>근접 무기</WeaponsMelee.label>
+  <WeaponsMelee.label>melee weapons</WeaponsMelee.label>
   
-  <WeaponsMeleeBladelink.label>결속 무기</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>persona weapons</WeaponsMeleeBladelink.label>
   
-  <WeaponsRanged.label>원거리 무기</WeaponsRanged.label>
+  <WeaponsRanged.label>ranged weapons</WeaponsRanged.label>
   
-  <Wools.label>털</Wools.label>
+  <Wools.label>wools</Wools.label>
 </LanguageData>
