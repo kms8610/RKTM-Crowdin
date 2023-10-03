@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Cat.label>crwdns460758:0crwdne460758:0</Cat.label>
-  <Cat.lifeStages.kitten.label>crwdns460760:0crwdne460760:0</Cat.lifeStages.kitten.label>
+  <Cat.label>crwdns473196:0crwdne473196:0</Cat.label>
+  <Cat.description>crwdns473198:0crwdne473198:0</Cat.description>
+  <Cat.tools.left_claw.label>crwdns473200:0crwdne473200:0</Cat.tools.left_claw.label>
+  <Cat.tools.right_claw.label>crwdns473202:0crwdne473202:0</Cat.tools.right_claw.label>
+  <Cat.tools.head.label>crwdns473204:0crwdne473204:0</Cat.tools.head.label>
   
-  <GuineaPig.label>crwdns460762:0crwdne460762:0</GuineaPig.label>
+  <GuineaPig.label>crwdns473206:0crwdne473206:0</GuineaPig.label>
+  <GuineaPig.description>crwdns473208:0crwdne473208:0</GuineaPig.description>
+  <GuineaPig.tools.left_claw.label>crwdns473210:0crwdne473210:0</GuineaPig.tools.left_claw.label>
+  <GuineaPig.tools.right_claw.label>crwdns473212:0crwdne473212:0</GuineaPig.tools.right_claw.label>
+  <GuineaPig.tools.head.label>crwdns473214:0crwdne473214:0</GuineaPig.tools.head.label>
   
-  <Husky.label>crwdns460764:0crwdne460764:0</Husky.label>
-  <Husky.labelPlural>crwdns460766:0crwdne460766:0</Husky.labelPlural>
-  <Husky.lifeStages.husky_puppy.label>crwdns460768:0crwdne460768:0</Husky.lifeStages.husky_puppy.label>
-  <Husky.lifeStages.husky_puppy.labelPlural>crwdns460770:0crwdne460770:0</Husky.lifeStages.husky_puppy.labelPlural>
+  <Husky.label>crwdns473216:0crwdne473216:0</Husky.label>
+  <Husky.description>crwdns473218:0crwdne473218:0</Husky.description>
+  <Husky.tools.left_claw.label>crwdns473220:0crwdne473220:0</Husky.tools.left_claw.label>
+  <Husky.tools.right_claw.label>crwdns473222:0crwdne473222:0</Husky.tools.right_claw.label>
+  <Husky.tools.head.label>crwdns473224:0crwdne473224:0</Husky.tools.head.label>
   
-  <LabradorRetriever.label>crwdns460772:0crwdne460772:0</LabradorRetriever.label>
-  <LabradorRetriever.lifeStages.labrador_puppy.label>crwdns460774:0crwdne460774:0</LabradorRetriever.lifeStages.labrador_puppy.label>
-  <LabradorRetriever.lifeStages.labrador_puppy.labelPlural>crwdns460776:0crwdne460776:0</LabradorRetriever.lifeStages.labrador_puppy.labelPlural>
+  <LabradorRetriever.label>crwdns473226:0crwdne473226:0</LabradorRetriever.label>
+  <LabradorRetriever.description>crwdns473228:0crwdne473228:0</LabradorRetriever.description>
+  <LabradorRetriever.tools.left_claw.label>crwdns473230:0crwdne473230:0</LabradorRetriever.tools.left_claw.label>
+  <LabradorRetriever.tools.right_claw.label>crwdns473232:0crwdne473232:0</LabradorRetriever.tools.right_claw.label>
+  <LabradorRetriever.tools.head.label>crwdns473234:0crwdne473234:0</LabradorRetriever.tools.head.label>
   
-  <Monkey.label>crwdns460778:0crwdne460778:0</Monkey.label>
+  <Monkey.label>crwdns473236:0crwdne473236:0</Monkey.label>
+  <Monkey.description>crwdns473238:0crwdne473238:0</Monkey.description>
+  <Monkey.tools.left_fist.label>crwdns473240:0crwdne473240:0</Monkey.tools.left_fist.label>
+  <Monkey.tools.right_fist.label>crwdns473242:0crwdne473242:0</Monkey.tools.right_fist.label>
+  <Monkey.tools.head.label>crwdns473244:0crwdne473244:0</Monkey.tools.head.label>
   
-  <YorkshireTerrier.label>crwdns460780:0crwdne460780:0</YorkshireTerrier.label>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>crwdns460782:0crwdne460782:0</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.label>
-  <YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>crwdns460784:0crwdne460784:0</YorkshireTerrier.lifeStages.yorkshire_terrier_puppy.labelPlural>
+  <YorkshireTerrier.label>crwdns473246:0crwdne473246:0</YorkshireTerrier.label>
+  <YorkshireTerrier.description>crwdns473248:0crwdne473248:0</YorkshireTerrier.description>
+  <YorkshireTerrier.tools.left_claw.label>crwdns473250:0crwdne473250:0</YorkshireTerrier.tools.left_claw.label>
+  <YorkshireTerrier.tools.right_claw.label>crwdns473252:0crwdne473252:0</YorkshireTerrier.tools.right_claw.label>
+  <YorkshireTerrier.tools.cute_little_teeth.label>crwdns473254:0crwdne473254:0</YorkshireTerrier.tools.cute_little_teeth.label>
+  <YorkshireTerrier.tools.head.label>crwdns473256:0crwdne473256:0</YorkshireTerrier.tools.head.label>
 </LanguageData>
