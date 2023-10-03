@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chemical_Smokeleaf.label>crwdns460530:0crwdne460530:0</Chemical_Smokeleaf.label>
-  <Chemical_Smokeleaf.description>crwdns460532:0crwdne460532:0</Chemical_Smokeleaf.description>
+  <SmokeleafJoint.label>crwdns474124:0crwdne474124:0</SmokeleafJoint.label>
+  <SmokeleafJoint.description>crwdns474126:0crwdne474126:0</SmokeleafJoint.description>
+  <SmokeleafJoint.ingestible.ingestCommandString>crwdns474128:0{0}crwdne474128:0</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestReportString>crwdns474130:0{0}crwdne474130:0</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>crwdns474132:0{0}crwdne474132:0</SmokeleafJoint.ingestible.ingestReportStringEat>
 </LanguageData>
