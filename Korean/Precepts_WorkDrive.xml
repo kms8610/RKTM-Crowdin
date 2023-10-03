@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WorkDrive_Tripled.label>tripled</WorkDrive_Tripled.label>
-  <WorkDrive_Tripled.description>지도자의 업무 수행 능력 지속 시간이 3배로 증가한다.</WorkDrive_Tripled.description>
+  <WorkDrive.label>work drive</WorkDrive.label>
 </LanguageData>
