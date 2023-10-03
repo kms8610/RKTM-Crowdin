@@ -1,69 +1,69 @@
-//일반 외부인입니다
-농부
-마을 사람
-제분업자
-대장장이
-양조업자
-방직공
-조리
-거지
-자경대원
-시의원
-제빵사
-재단사
-장로
-총포상
-대장장이
-활 장인
-방앗간 주인
-지붕 수리공
-목수
-상인
+﻿//Normal outlanders
+farmer
+villager
+miller
+smith
+brewer
+weaver
+cook
+beggar
+town guard
+town councilor
+baker
+tailor
+elder
+gunsmith
+blacksmith
+fletcher
+thresher
+thatcher
+carpenter
+trader
 
-//특별한 외부인입니다
-외과의
-의사
-탐험가
-모험가
-술고래
-사제
-성직자
-밀수꾼
-코미디언
-선생님
-곡예사
-광대
-배우
-예술가
-권투선수
-약사
-발레리노
-점쟁이
-정원사
-가정부
-최면술사
-보석상
-시인
-카우보이
-가수
-철학자
-총잡이
-보안관
+//Exotic outlanders
+surgeon
+doctor
+explorer
+adventurer
+drunkard
+priest
+cleric
+smuggler
+comedian
+teacher
+acrobat
+clown
+actor
+artist
+boxer
+chemist
+dancer
+fortune teller
+gardener
+maid
+hypnotist
+jeweler
+poet
+cowboy
+singer
+philosopher
+gunslinger
+sheriff
 
-//기술자
-고고학자
-해커
-행성학자
-정치인
-역사가
-작가
-기술자
-치과의사
-변호사
+//Tech
+archaeologist
+hacker
+planetologist
+politician
+historian
+writer
+engineer
+dentist
+lawyer
 
-//부족
-족장
-전사
-궁수
-마녀 의사
-주술사
+//Tribals
+chief
+warrior
+archer
+witch doctor
+shaman
