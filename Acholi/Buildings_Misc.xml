@@ -1,5 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MechBoost.label>crwdns423334:0crwdne423334:0</MechBoost.label>
-  <MechBoost.description>crwdns423336:0crwdne423336:0</MechBoost.description>
+  <BandNode.label>crwdns427268:0crwdne427268:0</BandNode.label>
+  <BandNode.description>crwdns427270:0crwdne427270:0</BandNode.description>
+  
+  <BurnoutMechlinkBooster.label>crwdns427272:0crwdne427272:0</BurnoutMechlinkBooster.label>
+  <BurnoutMechlinkBooster.description>crwdns427274:0crwdne427274:0</BurnoutMechlinkBooster.description>
+  <BurnoutMechlinkBooster.comps.CompUsable.useLabel>crwdns427276:0crwdne427276:0</BurnoutMechlinkBooster.comps.CompUsable.useLabel>
+  
+  <GeneAssembler.label>crwdns427278:0crwdne427278:0</GeneAssembler.label>
+  <GeneAssembler.description>crwdns427280:0crwdne427280:0</GeneAssembler.description>
+  
+  <GeneBank.label>crwdns427282:0crwdne427282:0</GeneBank.label>
+  <GeneBank.description>crwdns427284:0crwdne427284:0</GeneBank.description>
+  
+  <GeneExtractor.label>crwdns427286:0crwdne427286:0</GeneExtractor.label>
+  <GeneExtractor.description>crwdns427288:0crwdne427288:0</GeneExtractor.description>
+  
+  <GeneProcessor.label>crwdns427290:0crwdne427290:0</GeneProcessor.label>
+  <GeneProcessor.description>crwdns427292:0crwdne427292:0</GeneProcessor.description>
+  
+  <GrowthVat.label>crwdns427294:0crwdne427294:0</GrowthVat.label>
+  <GrowthVat.description>crwdns427296:0crwdne427296:0</GrowthVat.description>
+  
+  <MechBooster.label>crwdns427298:0crwdne427298:0</MechBooster.label>
+  <MechBooster.description>crwdns427300:0crwdne427300:0</MechBooster.description>
+  
+  <MechbandDish.label>crwdns427302:0crwdne427302:0</MechbandDish.label>
+  <MechbandDish.description>crwdns427304:0crwdne427304:0</MechbandDish.description>
+  <MechbandDish.comps.CompUsable.useLabel>crwdns427306:0crwdne427306:0</MechbandDish.comps.CompUsable.useLabel>
+  
+  <PollutionPump.label>crwdns427308:0crwdne427308:0</PollutionPump.label>
+  <PollutionPump.description>crwdns427310:0crwdne427310:0</PollutionPump.description>
+  
+  <SanguphageMeetingTorch.label>crwdns427312:0crwdne427312:0</SanguphageMeetingTorch.label>
+  <SanguphageMeetingTorch.description>crwdns427314:0crwdne427314:0</SanguphageMeetingTorch.description>
+  
+  <ShuttleCrashed_Exitable.label>crwdns427316:0crwdne427316:0</ShuttleCrashed_Exitable.label>
+  <ShuttleCrashed_Exitable.description>crwdns427318:0crwdne427318:0</ShuttleCrashed_Exitable.description>
+  
+  <ShuttleCrashed_Exitable_Mechanitor.label>crwdns427320:0crwdne427320:0</ShuttleCrashed_Exitable_Mechanitor.label>
+  <ShuttleCrashed_Exitable_Mechanitor.description>crwdns427322:0crwdne427322:0</ShuttleCrashed_Exitable_Mechanitor.description>
+  
+  <ToxifierGenerator.label>crwdns427324:0crwdne427324:0</ToxifierGenerator.label>
+  <ToxifierGenerator.description>crwdns427326:0crwdne427326:0</ToxifierGenerator.description>
+  
+  <TrapIED_ToxGas.label>crwdns427328:0crwdne427328:0</TrapIED_ToxGas.label>
+  <TrapIED_ToxGas.description>crwdns427330:0crwdne427330:0</TrapIED_ToxGas.description>
+  
+  <WastepackAtomizer.label>crwdns427332:0crwdne427332:0</WastepackAtomizer.label>
+  <WastepackAtomizer.description>crwdns427334:0crwdne427334:0</WastepackAtomizer.description>
 </LanguageData>
