@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>crwdns442138:0crwdne442138:0</Ranching_Central_AnimalMassPerCapita.stages.no_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>crwdns442140:0crwdne442140:0</Ranching_Central_AnimalMassPerCapita.stages.no_animals.description>
-  <Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>crwdns442142:0crwdne442142:0</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>crwdns442144:0crwdne442144:0</Ranching_Central_AnimalMassPerCapita.stages.scarce_animals.description>
-  <Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>crwdns442146:0crwdne442146:0</Ranching_Central_AnimalMassPerCapita.stages.few_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>crwdns442148:0crwdne442148:0</Ranching_Central_AnimalMassPerCapita.stages.few_animals.description>
-  <Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>crwdns442150:0crwdne442150:0</Ranching_Central_AnimalMassPerCapita.stages.some_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>crwdns442152:0crwdne442152:0</Ranching_Central_AnimalMassPerCapita.stages.some_animals.description>
-  <Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>crwdns442154:0crwdne442154:0</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>crwdns442156:0crwdne442156:0</Ranching_Central_AnimalMassPerCapita.stages.lots_of_animals.description>
-  <Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>crwdns442158:0crwdne442158:0</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.label>
-  <Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>crwdns442160:0crwdne442160:0</Ranching_Central_AnimalMassPerCapita.stages.tons_of_animals.description>
-  
-  <Ranching_SowedPlant.stages.sowed_human_food_plant.label>crwdns442162:0crwdne442162:0</Ranching_SowedPlant.stages.sowed_human_food_plant.label>
-  <Ranching_SowedPlant.stages.sowed_human_food_plant.description>crwdns442164:0crwdne442164:0</Ranching_SowedPlant.stages.sowed_human_food_plant.description>
+  <HospitalitySuccess_Animals.label>crwdns431130:0crwdne431130:0</HospitalitySuccess_Animals.label>
 </LanguageData>
