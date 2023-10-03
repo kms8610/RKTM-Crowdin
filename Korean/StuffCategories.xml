@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Fabric.label>옷감</Fabric.label>
-  <Fabric.noun>옷감</Fabric.noun>
+  <Fabric.label>fabric</Fabric.label>
+  <Fabric.noun>fabric</Fabric.noun>
   
-  <Leathery.label>가죽</Leathery.label>
-  <Leathery.noun>가죽</Leathery.noun>
+  <Leathery.label>leathery</Leathery.label>
+  <Leathery.noun>leather</Leathery.noun>
   
-  <Metallic.label>금속</Metallic.label>
-  <Metallic.noun>금속</Metallic.noun>
+  <Metallic.label>metallic</Metallic.label>
+  <Metallic.noun>metal</Metallic.noun>
   
-  <Stony.label>석재</Stony.label>
-  <Stony.noun>석재</Stony.noun>
+  <Stony.label>stony</Stony.label>
+  <Stony.noun>stone</Stony.noun>
   
-  <Woody.label>목재</Woody.label>
-  <Woody.noun>나무</Woody.noun>
+  <Woody.label>woody</Woody.label>
+  <Woody.noun>wood</Woody.noun>
 </LanguageData>
