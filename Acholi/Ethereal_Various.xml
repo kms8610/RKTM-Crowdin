@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Blight.label>crwdns472078:0crwdne472078:0</Blight.label>
+  <CocoonSpawner.label>crwdns427380:0crwdne427380:0</CocoonSpawner.label>
   
-  <Explosion.label>crwdns472080:0crwdne472080:0</Explosion.label>
-  
-  <PawnJumper.label>crwdns472082:0crwdne472082:0</PawnJumper.label>
-  
-  <RadialTrigger.label>crwdns472084:0crwdne472084:0</RadialTrigger.label>
-  
-  <RectTrigger.label>crwdns472086:0crwdne472086:0</RectTrigger.label>
-  
-  <Tornado.label>crwdns472088:0crwdne472088:0</Tornado.label>
-  
-  <TriggerContainerEmptied.label>crwdns472090:0crwdne472090:0</TriggerContainerEmptied.label>
-  
-  <TriggerUnfogged.label>crwdns472092:0crwdne472092:0</TriggerUnfogged.label>
-  
-  <TunnelHiveSpawner.label>crwdns472094:0crwdne472094:0</TunnelHiveSpawner.label>
+  <MechShield.label>crwdns427382:0crwdne427382:0</MechShield.label>
 </LanguageData>
