@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CochlearImplant.label>보청기</CochlearImplant.label>
-  <CochlearImplant.description>일반적인 청력을 대체하기 위한 보철물. 외부의 송화기를 통해 청각 신경 내부를 감싼 전극을 음향 신호로 전송합니다. 전극은 소리에 반응하여 신경을 자극해 들을 수 있게 해줍니다. 인체의 귀보다는 못하지만 귀가 없는 것보단 낫습니다.</CochlearImplant.description>
+  <InstallCochlearImplant.label>install cochlear implant</InstallCochlearImplant.label>
+  <InstallCochlearImplant.description>Install a cochlear implant.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>Installing cochlear implant.</InstallCochlearImplant.jobString>
   
-  <Joywire.label>쾌락회로</Joywire.label>
-  <Joywire.description>뇌의 쾌락 중추신경을 자극하는 이식물입니다. 사용자의 기분을 극적으로 향상시키는 반면, 행복감의 뒷면에는 실생활에 집중하는 것을 어렵게 만듭니다. 쾌락회로는 많은 행성에서 불법으로 여기며, 모든 문화를 무너뜨리는 것으로 유명합니다.</Joywire.description>
+  <InstallJoywire.label>install joywire</InstallJoywire.label>
+  <InstallJoywire.description>Install a joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Installing joywire.</InstallJoywire.jobString>
   
-  <Painstopper.label>통각차단장치</Painstopper.label>
-  <Painstopper.description>통각이나 통증을 차단하는 뇌 이식물입니다. 고통을 미리 차단함으로써 더 많은 일들을 하게 만듭니다. 통증을 느끼지 못한다면 정말 쉽게 다칠 위험이 큽니다.</Painstopper.description>
+  <InstallPainstopper.label>install painstopper</InstallPainstopper.label>
+  <InstallPainstopper.description>Install a painstopper.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>Installing painstopper.</InstallPainstopper.jobString>
   
-  <PowerClaw.label>강화 발톱</PowerClaw.label>
-  <PowerClaw.description>각 손가락에 날카로운 발톱이 달린 기계식으로 구성되어 있는 전투형 손으로 대체할 수 있습니다. 전투에서는 포악하며, 강력한 자동 제어장치로 인해 두개골을 달걀 부수듯이 자연적으로 손을 사용할 수 있습니다. 날을 숨길 수 있기 때문에, 비전투 시에는 생체학적 손처럼 사용할 수 있습니다.</PowerClaw.description>
+  <InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
   
-  <SimpleProstheticArm.label>의수</SimpleProstheticArm.label>
-  <SimpleProstheticArm.description>팔 보철물로, 신경적 요소가 부족하며, 복잡한 내부 관절의 배열로 인해 움직임을 자연스럽게 흉내 낼 수 있지만, 인체의 팔보다는 못합니다.</SimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
   
-  <SimpleProstheticHeart.label>인공심장</SimpleProstheticHeart.label>
-  <SimpleProstheticHeart.description>심장 보철물로, 혈액을 순환시키는 전동 모터가 포함되어 있습니다. 사용자가 피로감을 느끼는 부작용이 있지만, 그래도 심장이 없는 것보다는 상태가 좋을 겁니다.</SimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.label>install prosthetic heart</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticHeart.description>Install a prosthetic heart.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>Installing prosthetic heart.</InstallSimpleProstheticHeart.jobString>
   
-  <SimpleProstheticLeg.label>의족</SimpleProstheticLeg.label>
-  <SimpleProstheticLeg.description>다리 보철물로, 신경적 요소가 부족하며, 복잡한 내부 관절의 배열로 인해 움직임을 자연스럽게 흉내 낼 수 있지만, 인체의 다리보다는 못합니다.</SimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  
+  <RemovePainstopper.label>remove painstopper</RemovePainstopper.label>
+  <RemovePainstopper.description>Remove the painstopper.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>Removing painstopper.</RemovePainstopper.jobString>
 </LanguageData>
