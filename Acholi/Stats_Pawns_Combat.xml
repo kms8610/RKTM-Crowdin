@@ -1,43 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AimingDelayFactor.label>crwdns466932:0crwdne466932:0</AimingDelayFactor.label>
-  <AimingDelayFactor.description>crwdns466934:0crwdne466934:0</AimingDelayFactor.description>
+  <MeleeDamageFactor.label>crwdns426922:0crwdne426922:0</MeleeDamageFactor.label>
+  <MeleeDamageFactor.description>crwdns426924:0crwdne426924:0</MeleeDamageFactor.description>
   
-  <IncomingDamageFactor.label>crwdns466936:0crwdne466936:0</IncomingDamageFactor.label>
-  <IncomingDamageFactor.description>crwdns466938:0crwdne466938:0</IncomingDamageFactor.description>
+  <MeleeDoorDamageFactor.label>crwdns426926:0crwdne426926:0</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.description>crwdns426928:0crwdne426928:0</MeleeDoorDamageFactor.description>
   
-  <MeleeArmorPenetration.label>crwdns466940:0crwdne466940:0</MeleeArmorPenetration.label>
-  <MeleeArmorPenetration.description>crwdns466942:0crwdne466942:0</MeleeArmorPenetration.description>
+  <RangedCooldownFactor.label>crwdns426930:0crwdne426930:0</RangedCooldownFactor.label>
+  <RangedCooldownFactor.description>crwdns426932:0crwdne426932:0</RangedCooldownFactor.description>
   
-  <MeleeDPS.label>crwdns466944:0crwdne466944:0</MeleeDPS.label>
-  <MeleeDPS.description>crwdns466946:0crwdne466946:0</MeleeDPS.description>
+  <ShootingAccuracyChildFactor.label>crwdns426934:0crwdne426934:0</ShootingAccuracyChildFactor.label>
   
-  <MeleeDodgeChance.label>crwdns466948:0crwdne466948:0</MeleeDodgeChance.label>
-  <MeleeDodgeChance.description>crwdns466950:0crwdne466950:0</MeleeDodgeChance.description>
-  
-  <MeleeHitChance.label>crwdns466952:0crwdne466952:0</MeleeHitChance.label>
-  <MeleeHitChance.description>crwdns466954:0crwdne466954:0</MeleeHitChance.description>
-  
-  <MortarMissRadiusFactor.label>crwdns466956:0crwdne466956:0</MortarMissRadiusFactor.label>
-  <MortarMissRadiusFactor.description>crwdns466958:0crwdne466958:0</MortarMissRadiusFactor.description>
-  <MortarMissRadiusFactor.labelForFullStatList>crwdns466960:0crwdne466960:0</MortarMissRadiusFactor.labelForFullStatList>
-  
-  <PawnTrapSpringChance.label>crwdns466962:0crwdne466962:0</PawnTrapSpringChance.label>
-  <PawnTrapSpringChance.description>crwdns466964:0crwdne466964:0</PawnTrapSpringChance.description>
-  
-  <ShootingAccuracyFactor_Long.label>crwdns466966:0crwdne466966:0</ShootingAccuracyFactor_Long.label>
-  <ShootingAccuracyFactor_Long.description>crwdns466968:0crwdne466968:0</ShootingAccuracyFactor_Long.description>
-  
-  <ShootingAccuracyFactor_Medium.label>crwdns466970:0crwdne466970:0</ShootingAccuracyFactor_Medium.label>
-  <ShootingAccuracyFactor_Medium.description>crwdns466972:0crwdne466972:0</ShootingAccuracyFactor_Medium.description>
-  
-  <ShootingAccuracyFactor_Short.label>crwdns466974:0crwdne466974:0</ShootingAccuracyFactor_Short.label>
-  <ShootingAccuracyFactor_Short.description>crwdns466976:0crwdne466976:0</ShootingAccuracyFactor_Short.description>
-  
-  <ShootingAccuracyFactor_Touch.label>crwdns466978:0crwdne466978:0</ShootingAccuracyFactor_Touch.label>
-  <ShootingAccuracyFactor_Touch.description>crwdns466980:0crwdne466980:0</ShootingAccuracyFactor_Touch.description>
-  
-  <ShootingAccuracyPawn.label>crwdns466982:0crwdne466982:0</ShootingAccuracyPawn.label>
-  <ShootingAccuracyPawn.description>crwdns466984:0crwdne466984:0</ShootingAccuracyPawn.description>
-  <ShootingAccuracyPawn.labelForFullStatList>crwdns466986:0crwdne466986:0</ShootingAccuracyPawn.labelForFullStatList>
+  <StaggerDurationFactor.label>crwdns426936:0crwdne426936:0</StaggerDurationFactor.label>
+  <StaggerDurationFactor.description>crwdns426938:0crwdne426938:0</StaggerDurationFactor.description>
 </LanguageData>
