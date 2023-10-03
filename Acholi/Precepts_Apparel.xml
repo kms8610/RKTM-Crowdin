@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WearingDesiredApparel_Soft.stages.wearing.label>crwdns440972:0{APPAREL}crwdne440972:0</WearingDesiredApparel_Soft.stages.wearing.label>
-  <WearingDesiredApparel_Soft.stages.wearing.description>crwdns440974:0{APPAREL}crwdne440974:0</WearingDesiredApparel_Soft.stages.wearing.description>
-  
-  <WearingDesiredApparel_Strong.stages.wearing.label>crwdns440976:0{APPAREL}crwdne440976:0</WearingDesiredApparel_Strong.stages.wearing.label>
-  <WearingDesiredApparel_Strong.stages.wearing.description>crwdns440978:0{APPAREL}crwdne440978:0</WearingDesiredApparel_Strong.stages.wearing.description>
+  <ApparelDesire.label>crwdns432270:0crwdne432270:0</ApparelDesire.label>
 </LanguageData>
