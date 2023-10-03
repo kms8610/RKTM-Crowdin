@@ -1,40 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ActivateArchonexusCore.reportString>초월 연결체와 접속하는 중</ActivateArchonexusCore.reportString>
+  <BestowingCeremony.reportString>TargetA에게 작위 받는 중</BestowingCeremony.reportString>
   
-  <Blind.reportString>TargetA의 눈을 뽑는 중</Blind.reportString>
+  <LinkPsylinkable.reportString>{TargetA}(와)과 정신 연결 중</LinkPsylinkable.reportString>
   
-  <CarryToBiosculpterPod.reportString>{TargetA}(을)를 생체 재구축기에 넣는 중</CarryToBiosculpterPod.reportString>
-  
-  <DeliverToAltar.reportString>{TargetA}(을)를 제단으로 옮기는 중</DeliverToAltar.reportString>
-  
-  <DyeHair.reportString>머리 염색하는 중</DyeHair.reportString>
-  
-  <EnterBiosculpterPod.reportString>생체 재구축기에 들어가는 중</EnterBiosculpterPod.reportString>
-  
-  <ExtractRelic.reportString>TargetA에서 {TargetB}(을)를 꺼내는 중</ExtractRelic.reportString>
-  
-  <ExtractToInventory.reportString>{TargetB}(을)를 소지품에서 꺼내는 중</ExtractToInventory.reportString>
-  
-  <GetNeuralSupercharge.reportString>TargetA에서 신경 과충전 받는 중</GetNeuralSupercharge.reportString>
-  
-  <GiveToPawn.reportString>TargetB에게 {TargetA}(을)를 주는 중</GiveToPawn.reportString>
-  
-  <InduceSlaveToRebel.reportString>TargetA에게 반란 선동 중</InduceSlaveToRebel.reportString>
-  
-  <InstallRelic.reportString>TargetA에 {TargetB}(을)를 설치 중</InstallRelic.reportString>
-  
-  <MeditatePray.reportString>기도 중</MeditatePray.reportString>
-  
-  <OpenStylingStationDialog.reportString>TargetA에서 꾸미는 중</OpenStylingStationDialog.reportString>
-  
-  <RecolorApparel.reportString>의류 염색하는 중</RecolorApparel.reportString>
-  
-  <Sacrifice.reportString>{TargetA}(을)를 희생시키는 중</Sacrifice.reportString>
-  
-  <Scarify.reportString>TargetA에게 상흔 새기는 중</Scarify.reportString>
-  
-  <UseStylingStation.reportString>TargetA에서 꾸미는 중</UseStylingStation.reportString>
-  
-  <UseStylingStationAutomatic.reportString>TargetA에서 꾸미는 중</UseStylingStationAutomatic.reportString>
+  <Reign.reportString>명상 중</Reign.reportString>
 </LanguageData>
