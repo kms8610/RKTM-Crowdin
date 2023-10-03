@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalSlaughter.label>동물 도축</AnimalSlaughter.label>
+  <AnimalSlaughter_Disapproved.label>못마땅함</AnimalSlaughter_Disapproved.label>
+  <AnimalSlaughter_Disapproved.description>동물을 도축하는 건 역겨운 일이다.</AnimalSlaughter_Disapproved.description>
+  <AnimalSlaughter_Disapproved.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Disapproved.comps.1.description>
+  
+  <AnimalSlaughter_Horrible.label>끔찍함</AnimalSlaughter_Horrible.label>
+  <AnimalSlaughter_Horrible.description>동물을 도축하는 건 끔찍한 일이다.</AnimalSlaughter_Horrible.description>
+  <AnimalSlaughter_Horrible.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Horrible.comps.1.description>
+  
+  <AnimalSlaughter_Prohibited.label>금기</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.description>동물을 도축하는 건 금지된 일이다.</AnimalSlaughter_Prohibited.description>
+  <AnimalSlaughter_Prohibited.comps.1.description>누군가 동물을 도축함</AnimalSlaughter_Prohibited.comps.1.description>
+  <AnimalSlaughter_Prohibited.comps.2.description>Slaughter animal</AnimalSlaughter_Prohibited.comps.2.description>
 </LanguageData>
