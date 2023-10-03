@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <TunnelJellySpawner.label>tunnel</TunnelJellySpawner.label>
+  <CocoonSpawner.label>insect cocoon</CocoonSpawner.label>
+  
+  <MechShield.label>mech shield</MechShield.label>
 </LanguageData>
