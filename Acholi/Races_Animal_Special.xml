@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Dryad_Barkskin.label>crwdns435372:0crwdne435372:0</Dryad_Barkskin.label>
+  <Dryad_Barkskin.label>crwdns440778:0crwdne440778:0</Dryad_Barkskin.label>
+  <Dryad_Barkskin.description>crwdns440780:0crwdne440780:0</Dryad_Barkskin.description>
+  <Dryad_Barkskin.tools.left_claw.label>crwdns440782:0crwdne440782:0</Dryad_Barkskin.tools.left_claw.label>
+  <Dryad_Barkskin.tools.right_claw.label>crwdns440784:0crwdne440784:0</Dryad_Barkskin.tools.right_claw.label>
+  <Dryad_Barkskin.tools.head.label>crwdns440786:0crwdne440786:0</Dryad_Barkskin.tools.head.label>
   
-  <Dryad_Basic.label>crwdns435374:0crwdne435374:0</Dryad_Basic.label>
+  <Dryad_Basic.label>crwdns440788:0crwdne440788:0</Dryad_Basic.label>
+  <Dryad_Basic.description>crwdns440790:0crwdne440790:0</Dryad_Basic.description>
+  <Dryad_Basic.tools.left_claw.label>crwdns440792:0crwdne440792:0</Dryad_Basic.tools.left_claw.label>
+  <Dryad_Basic.tools.right_claw.label>crwdns440794:0crwdne440794:0</Dryad_Basic.tools.right_claw.label>
+  <Dryad_Basic.tools.head.label>crwdns440796:0crwdne440796:0</Dryad_Basic.tools.head.label>
   
-  <Dryad_Berrymaker.label>crwdns435376:0crwdne435376:0</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.label>crwdns440798:0crwdne440798:0</Dryad_Berrymaker.label>
+  <Dryad_Berrymaker.description>crwdns440800:0crwdne440800:0</Dryad_Berrymaker.description>
+  <Dryad_Berrymaker.tools.left_claw.label>crwdns440802:0crwdne440802:0</Dryad_Berrymaker.tools.left_claw.label>
+  <Dryad_Berrymaker.tools.right_claw.label>crwdns440804:0crwdne440804:0</Dryad_Berrymaker.tools.right_claw.label>
+  <Dryad_Berrymaker.tools.head.label>crwdns440806:0crwdne440806:0</Dryad_Berrymaker.tools.head.label>
   
-  <Dryad_Carrier.label>crwdns435378:0crwdne435378:0</Dryad_Carrier.label>
+  <Dryad_Carrier.label>crwdns440808:0crwdne440808:0</Dryad_Carrier.label>
+  <Dryad_Carrier.description>crwdns440810:0crwdne440810:0</Dryad_Carrier.description>
+  <Dryad_Carrier.tools.left_claw.label>crwdns440812:0crwdne440812:0</Dryad_Carrier.tools.left_claw.label>
+  <Dryad_Carrier.tools.right_claw.label>crwdns440814:0crwdne440814:0</Dryad_Carrier.tools.right_claw.label>
+  <Dryad_Carrier.tools.head.label>crwdns440816:0crwdne440816:0</Dryad_Carrier.tools.head.label>
   
-  <Dryad_Clawer.label>crwdns435380:0crwdne435380:0</Dryad_Clawer.label>
+  <Dryad_Clawer.label>crwdns440818:0crwdne440818:0</Dryad_Clawer.label>
+  <Dryad_Clawer.description>crwdns440820:0crwdne440820:0</Dryad_Clawer.description>
+  <Dryad_Clawer.tools.left_claw.label>crwdns440822:0crwdne440822:0</Dryad_Clawer.tools.left_claw.label>
+  <Dryad_Clawer.tools.right_claw.label>crwdns440824:0crwdne440824:0</Dryad_Clawer.tools.right_claw.label>
+  <Dryad_Clawer.tools.head.label>crwdns440826:0crwdne440826:0</Dryad_Clawer.tools.head.label>
   
-  <Dryad_Gaumaker.label>crwdns435382:0crwdne435382:0</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.label>crwdns440828:0crwdne440828:0</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.description>crwdns440830:0crwdne440830:0</Dryad_Gaumaker.description>
+  <Dryad_Gaumaker.tools.left_claw.label>crwdns440832:0crwdne440832:0</Dryad_Gaumaker.tools.left_claw.label>
+  <Dryad_Gaumaker.tools.right_claw.label>crwdns440834:0crwdne440834:0</Dryad_Gaumaker.tools.right_claw.label>
+  <Dryad_Gaumaker.tools.head.label>crwdns440836:0crwdne440836:0</Dryad_Gaumaker.tools.head.label>
   
-  <Dryad_Medicinemaker.label>crwdns435384:0crwdne435384:0</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.label>crwdns440838:0crwdne440838:0</Dryad_Medicinemaker.label>
+  <Dryad_Medicinemaker.description>crwdns440840:0crwdne440840:0</Dryad_Medicinemaker.description>
+  <Dryad_Medicinemaker.tools.left_claw.label>crwdns440842:0crwdne440842:0</Dryad_Medicinemaker.tools.left_claw.label>
+  <Dryad_Medicinemaker.tools.right_claw.label>crwdns440844:0crwdne440844:0</Dryad_Medicinemaker.tools.right_claw.label>
+  <Dryad_Medicinemaker.tools.head.label>crwdns440846:0crwdne440846:0</Dryad_Medicinemaker.tools.head.label>
   
-  <Dryad_Woodmaker.label>crwdns435386:0crwdne435386:0</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.label>crwdns440848:0crwdne440848:0</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.description>crwdns440850:0crwdne440850:0</Dryad_Woodmaker.description>
+  <Dryad_Woodmaker.tools.left_claw.label>crwdns440852:0crwdne440852:0</Dryad_Woodmaker.tools.left_claw.label>
+  <Dryad_Woodmaker.tools.right_claw.label>crwdns440854:0crwdne440854:0</Dryad_Woodmaker.tools.right_claw.label>
+  <Dryad_Woodmaker.tools.head.label>crwdns440856:0crwdne440856:0</Dryad_Woodmaker.tools.head.label>
 </LanguageData>
