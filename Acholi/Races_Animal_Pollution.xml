@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Toxalope.label>crwdns424768:0crwdne424768:0</Toxalope.label>
-  <Toxalope.lifeStages.toxalope_calf.label>crwdns424770:0crwdne424770:0</Toxalope.lifeStages.toxalope_calf.label>
-  <Toxalope.lifeStages.toxalope_calf.labelPlural>crwdns424772:0crwdne424772:0</Toxalope.lifeStages.toxalope_calf.labelPlural>
+  <Toxalope.label>crwdns427750:0crwdne427750:0</Toxalope.label>
+  <Toxalope.description>crwdns427752:0crwdne427752:0</Toxalope.description>
+  <Toxalope.tools.head.label>crwdns427754:0crwdne427754:0</Toxalope.tools.head.label>
+  <Toxalope.tools.left_hoof.label>crwdns427756:0crwdne427756:0</Toxalope.tools.left_hoof.label>
+  <Toxalope.tools.right_hoof.label>crwdns427758:0crwdne427758:0</Toxalope.tools.right_hoof.label>
   
-  <WasteRat.label>crwdns424774:0crwdne424774:0</WasteRat.label>
+  <WasteRat.label>crwdns427760:0crwdne427760:0</WasteRat.label>
+  <WasteRat.description>crwdns427762:0crwdne427762:0</WasteRat.description>
+  <WasteRat.tools.left_claw.label>crwdns427764:0crwdne427764:0</WasteRat.tools.left_claw.label>
+  <WasteRat.tools.right_claw.label>crwdns427766:0crwdne427766:0</WasteRat.tools.right_claw.label>
+  <WasteRat.tools.head.label>crwdns427768:0crwdne427768:0</WasteRat.tools.head.label>
 </LanguageData>
