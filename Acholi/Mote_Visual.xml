@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Mote_Bestow.label>crwdns449286:0crwdne449286:0</Mote_Bestow.label>
+  <CracksShieldBreak.label>crwdns472828:0crwdne472828:0</CracksShieldBreak.label>
   
-  <Mote_CastPsycast.label>crwdns449288:0crwdne449288:0</Mote_CastPsycast.label>
+  <FlashShieldBreak.label>crwdns472830:0crwdne472830:0</FlashShieldBreak.label>
   
-  <Mote_ProximityScannerActivated.label>crwdns449290:0crwdne449290:0</Mote_ProximityScannerActivated.label>
+  <Mote_ActivatorCountdownGlow.label>crwdns472832:0crwdne472832:0</Mote_ActivatorCountdownGlow.label>
   
-  <Mote_ProximityScannerRadius.label>crwdns449292:0crwdne449292:0</Mote_ProximityScannerRadius.label>
+  <Mote_ActivatorProximityGlow.label>crwdns472834:0crwdne472834:0</Mote_ActivatorProximityGlow.label>
   
-  <Mote_PsychicLinkLine.label>crwdns449294:0crwdne449294:0</Mote_PsychicLinkLine.label>
+  <Mote_Bombardment.label>crwdns472836:0crwdne472836:0</Mote_Bombardment.label>
   
-  <Mote_PsychicLinkPulse.label>crwdns449296:0crwdne449296:0</Mote_PsychicLinkPulse.label>
+  <Mote_CookBit.label>crwdns472838:0crwdne472838:0</Mote_CookBit.label>
   
-  <Mote_PsyfocusPulse.label>crwdns449298:0crwdne449298:0</Mote_PsyfocusPulse.label>
+  <Mote_FoodBitMeat.label>crwdns472840:0crwdne472840:0</Mote_FoodBitMeat.label>
   
-  <Mote_WarmupNeuroquake.label>crwdns449300:0crwdne449300:0</Mote_WarmupNeuroquake.label>
+  <Mote_FoodBitVegetarian.label>crwdns472842:0crwdne472842:0</Mote_FoodBitVegetarian.label>
   
-  <Mote_WarmupWordOf.label>crwdns449302:0crwdne449302:0</Mote_WarmupWordOf.label>
+  <Mote_ForceJob.label>crwdns472844:0crwdne472844:0</Mote_ForceJob.label>
+  
+  <Mote_ForceJobMaintained.label>crwdns472846:0crwdne472846:0</Mote_ForceJobMaintained.label>
+  
+  <Mote_GiantExplosion.label>crwdns472848:0crwdne472848:0</Mote_GiantExplosion.label>
+  
+  <Mote_GiantExplosionInner.label>crwdns472850:0crwdne472850:0</Mote_GiantExplosionInner.label>
+  
+  <Mote_Leaf.label>crwdns472852:0crwdne472852:0</Mote_Leaf.label>
+  
+  <Mote_PowerBeam.label>crwdns472854:0crwdne472854:0</Mote_PowerBeam.label>
+  
+  <Mote_PowerCellBurning.label>crwdns472856:0crwdne472856:0</Mote_PowerCellBurning.label>
+  
+  <Mote_PsychicConditionCauserEffect.label>crwdns472858:0crwdne472858:0</Mote_PsychicConditionCauserEffect.label>
+  
+  <Mote_PsychicEmanatorEffect.label>crwdns472860:0crwdne472860:0</Mote_PsychicEmanatorEffect.label>
+  
+  <Mote_ResurrectAbility.label>crwdns472862:0crwdne472862:0</Mote_ResurrectAbility.label>
+  
+  <Mote_ResurrectFlash.label>crwdns472864:0crwdne472864:0</Mote_ResurrectFlash.label>
+  
+  <Mote_SparkThrownFastBright.label>crwdns472866:0crwdne472866:0</Mote_SparkThrownFastBright.label>
+  
+  <Mote_StoneBit.label>crwdns472868:0crwdne472868:0</Mote_StoneBit.label>
+  
+  <Mote_VomitBit.label>crwdns472870:0crwdne472870:0</Mote_VomitBit.label>
 </LanguageData>
