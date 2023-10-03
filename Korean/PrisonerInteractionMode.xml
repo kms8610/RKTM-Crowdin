@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AttemptRecruit.label>포섭</AttemptRecruit.label>
-  <AttemptRecruit.description>대상 수감자를 포섭합니다. 아직 저항하고 있다면, 설득하기 위해 대화를 시도합니다.</AttemptRecruit.description>
+  <Convert.label>convert</Convert.label>
+  <Convert.description>Wardens will attempt to convert the prisoner to their ideoligion.</Convert.description>
   
-  <Execution.label>처형</Execution.label>
-  <Execution.description>죄수를 즉시 처형합니다. 이 행동은 다른 죄수와 정착민들의 기분에 영향을 줄 수 있습니다.</Execution.description>
+  <Enslave.label>enslave</Enslave.label>
+  <Enslave.description>Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them.</Enslave.description>
   
-  <NoInteraction.label>방치</NoInteraction.label>
-  <NoInteraction.description>수감자를 완전히 무시합니다.</NoInteraction.description>
-  
-  <ReduceResistance.label>설득</ReduceResistance.label>
-  <ReduceResistance.description>수감자와 대화를 시도하여 저항심을 낮춥니다. 포섭은 시도하지 않습니다.</ReduceResistance.description>
-  
-  <Release.label>방출</Release.label>
-  <Release.description>수감자를 석방합니다.</Release.description>
+  <ReduceWill.label>reduce will</ReduceWill.label>
+  <ReduceWill.description>Wardens will threaten the prisoner to reduce their will, but won't enslave them.</ReduceWill.description>
 </LanguageData>
