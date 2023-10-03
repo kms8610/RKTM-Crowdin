@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <CrashedShipPartIncoming.label>crwdns472064:0crwdne472064:0</CrashedShipPartIncoming.label>
-  
-  <DropPodIncoming.label>crwdns472066:0crwdne472066:0</DropPodIncoming.label>
-  
-  <DropPodIncomingMechanoid.label>crwdns472068:0crwdne472068:0</DropPodIncomingMechanoid.label>
-  
-  <DropPodLeaving.label>crwdns472070:0crwdne472070:0</DropPodLeaving.label>
-  
-  <MeteoriteIncoming.label>crwdns472072:0crwdne472072:0</MeteoriteIncoming.label>
-  
-  <ShipChunkIncoming.label>crwdns472074:0crwdne472074:0</ShipChunkIncoming.label>
-  
-  <ShuttleCrashing.label>crwdns472076:0crwdne472076:0</ShuttleCrashing.label>
+  <ShuttleCrashing_Mechanitor.label>crwdns427376:0crwdne427376:0</ShuttleCrashing_Mechanitor.label>
+  <ShuttleCrashing_Mechanitor.description>crwdns427378:0crwdne427378:0</ShuttleCrashing_Mechanitor.description>
 </LanguageData>
