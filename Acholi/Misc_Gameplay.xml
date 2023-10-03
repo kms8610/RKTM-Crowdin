@@ -1,97 +1,995 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Royalty and throne -->
-  <ThroneMaxSatisfiedTitle>crwdns450112:0crwdne450112:0</ThroneMaxSatisfiedTitle>
-  <ThroneRoomImpressivenessInfo>crwdns450114:0{0}crwdne450114:0</ThroneRoomImpressivenessInfo>
-  <ThroneMustBePlacedInside>crwdns450116:0crwdne450116:0</ThroneMustBePlacedInside>
-  <MinimumRoyalTitleInspectString>crwdns450118:0{FACTION_name}crwdnd450118:0{TITLE}crwdne450118:0</MinimumRoyalTitleInspectString>
-  <RequiresTradePermission>crwdns450120:0{0}crwdne450120:0</RequiresTradePermission>
-  <RequirementPersonalBedroom>crwdns450122:0crwdne450122:0</RequirementPersonalBedroom>
-  
-  <!-- Generated neurotrainers -->
-  <PsycastNeurotrainerLabel>crwdns450124:0{0}crwdne450124:0</PsycastNeurotrainerLabel>
-  <PsycastNeurotrainerUseLabel>crwdns450126:0{0}crwdne450126:0</PsycastNeurotrainerUseLabel>
-  <PsycastNeurotrainerDescription>crwdns450128:0{PSYCAST_label}crwdnd450128:0{PSYCASTDESCRIPTION}crwdne450128:0</PsycastNeurotrainerDescription>
-  <AbilityNeurotrainerUsed>crwdns450130:0{USER_labelShort}crwdnd450130:0{1}crwdne450130:0</AbilityNeurotrainerUsed>
-  <PsycastNeurotrainerNoPsylink>crwdns450132:0crwdne450132:0</PsycastNeurotrainerNoPsylink>
-  <PsycastNeurotrainerAbilityAlreadyLearned>crwdns450134:0{USER_labelShort}crwdnd450134:0{1}crwdne450134:0</PsycastNeurotrainerAbilityAlreadyLearned>
+  <!-- Various -->
+  <HitPointsBasic>crwdns484072:0crwdne484072:0</HitPointsBasic>
+  <WorkLeft>crwdns484074:0crwdne484074:0</WorkLeft>
+  <Contents>crwdns484076:0crwdne484076:0</Contents>
+  <ContainedResources>crwdns484078:0crwdne484078:0</ContainedResources>
+  <ForPrisonerUse>crwdns484080:0crwdne484080:0</ForPrisonerUse>
+  <InPrisonCell>crwdns484082:0crwdne484082:0</InPrisonCell>
+  <ForColonistUse>crwdns484084:0crwdne484084:0</ForColonistUse>
+  <MedicalBed>crwdns484086:0crwdne484086:0</MedicalBed>
+  <Owner>crwdns484088:0crwdne484088:0</Owner>
+  <Owners>crwdns484090:0crwdne484090:0</Owners>
+  <AssignedColonist>crwdns484092:0crwdne484092:0</AssignedColonist>
+  <BedUncomfortableTemperature>crwdns484094:0crwdne484094:0</BedUncomfortableTemperature>
+  <BedUnsafeTemperature>crwdns484096:0crwdne484096:0</BedUnsafeTemperature>
+  <DiedOn>crwdns484098:0{0}crwdne484098:0</DiedOn>
+  <Nobody>crwdns484100:0crwdne484100:0</Nobody>
+  <Unowned>crwdns484102:0crwdne484102:0</Unowned>
+  <DeadTime>crwdns484104:0{0}crwdne484104:0</DeadTime>
+  <WalkSpeed>crwdns484106:0{0}crwdne484106:0</WalkSpeed>
+  <FertShort>crwdns484108:0crwdne484108:0</FertShort>
+  <DyingLower>crwdns484110:0crwdne484110:0</DyingLower>
+  <FilthOnFeet>crwdns484112:0crwdne484112:0</FilthOnFeet>
+  <NotEnoughStoredLower>crwdns484114:0crwdne484114:0</NotEnoughStoredLower>
+  <NothingLower>crwdns484116:0crwdne484116:0</NothingLower>
+  <Nothing>crwdns484118:0crwdne484118:0</Nothing>
+  <Adapted>crwdns484120:0crwdne484120:0</Adapted>
+  <FreshMissingBodyPart>crwdns484122:0crwdne484122:0</FreshMissingBodyPart>
+  <DevelopedImmunityLower>crwdns484124:0crwdne484124:0</DevelopedImmunityLower>
+  <NeedsTendingNow>crwdns484126:0crwdne484126:0</NeedsTendingNow>
+  <CanTendNow>crwdns484128:0crwdne484128:0</CanTendNow>
+  <TreatmentExpiresIn>crwdns484130:0{0}crwdne484130:0</TreatmentExpiresIn>
+  <NextTendIn>crwdns484132:0{0}crwdne484132:0</NextTendIn>
+  <TendQuality>crwdns484134:0crwdne484134:0</TendQuality>
+  <DisappearsAtTotalTendQuality>crwdns484136:0crwdne484136:0</DisappearsAtTotalTendQuality>
+  <MissingMedicalBillIngredient>crwdns484138:0{0}crwdne484138:0</MissingMedicalBillIngredient>
+  <Immunity>crwdns484140:0crwdne484140:0</Immunity>
+  <DaysToRecover>crwdns484142:0{0}crwdne484142:0</DaysToRecover>
+  <Ineffective>crwdns484144:0crwdne484144:0</Ineffective>
+  <Illegal>crwdns484146:0crwdne484146:0</Illegal>
+  <DetectionChance>crwdns484148:0crwdne484148:0</DetectionChance>
+  <Race>crwdns484150:0crwdne484150:0</Race>
+  <Description>crwdns484152:0crwdne484152:0</Description>
+  <Equipment>crwdns484154:0crwdne484154:0</Equipment>
+  <Apparel>crwdns484156:0crwdne484156:0</Apparel>
+  <Inventory>crwdns484158:0crwdne484158:0</Inventory>
+  <ThingInfo>crwdns484160:0crwdne484160:0</ThingInfo>
+  <DropThing>crwdns484162:0crwdne484162:0</DropThing>
+  <DropThingLodger>crwdns484164:0crwdne484164:0</DropThingLodger>
+  <DropThingLocked>crwdns484166:0crwdne484166:0</DropThingLocked>
+  <Rename>crwdns484168:0crwdne484168:0</Rename>
+  <RenameAnimal>crwdns484170:0crwdne484170:0</RenameAnimal>
+  <RenameColonist>crwdns484172:0crwdne484172:0</RenameColonist>
+  <RenounceTitle>crwdns484174:0crwdne484174:0</RenounceTitle>
+  <Execute>crwdns484176:0crwdne484176:0</Execute>
+  <ExecuteColonist>crwdns484178:0crwdne484178:0</ExecuteColonist>
+  <MessageColonistMarkedForExecution>crwdns484180:0{0_labelShort}crwdnd484180:0{0_objective}crwdne484180:0</MessageColonistMarkedForExecution>
+  <TitleOfFaction>crwdns484182:0{0}crwdnd484182:0{1}crwdne484182:0</TitleOfFaction>
+  <RenounceTitleDescription>crwdns484184:0{PAWN_nameDef}crwdnd484184:0{PAWN_possessive}crwdnd484184:0{TITLE}crwdnd484184:0{EFFECTS}crwdne484184:0</RenounceTitleDescription>
+  <RenounceTitleWillLoosePermits>crwdns484186:0{PAWN_pronoun}crwdne484186:0</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLosePermitPoints>crwdns484188:0{PAWN_nameDef}crwdnd484188:0{POINTS}crwdnd484188:0{FACTION_name}crwdne484188:0</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillKeepPsylinkLevels>crwdns484190:0{PAWN_pronoun}crwdnd484190:0{PAWN_possessive}crwdne484190:0</RenounceTitleWillKeepPsylinkLevels>
+  <UnknownLower>crwdns484192:0crwdne484192:0</UnknownLower>
+  <On>crwdns484194:0crwdne484194:0</On>
+  <Off>crwdns484196:0crwdne484196:0</Off>
+  <PowerSwitch_Power>crwdns484198:0crwdne484198:0</PowerSwitch_Power>
+  <JoyTolerances>crwdns484200:0crwdne484200:0</JoyTolerances>
+  <MilkFullness>crwdns484202:0crwdne484202:0</MilkFullness>
+  <WoolGrowth>crwdns484204:0crwdne484204:0</WoolGrowth>
+  <EggProgress>crwdns484206:0crwdne484206:0</EggProgress>
+  <Fertilized>crwdns484208:0crwdne484208:0</Fertilized>
+  <ProgressStoppedUntilFertilized>crwdns484210:0crwdne484210:0</ProgressStoppedUntilFertilized>
+  <HatchesIn>crwdns484212:0crwdne484212:0</HatchesIn>
+  <SkillTooLow>crwdns484214:0{0}crwdnd484214:0{2}crwdnd484214:0{1}crwdne484214:0</SkillTooLow>
+  <Freezing>crwdns484216:0crwdne484216:0</Freezing>
+  <Overheating>crwdns484218:0crwdne484218:0</Overheating>
+  <RuinedByTemperature>crwdns484220:0crwdne484220:0</RuinedByTemperature>
+  <CorpsePercentMissing>crwdns484222:0crwdne484222:0</CorpsePercentMissing>
+  <HiveReproducesIn>crwdns484224:0crwdne484224:0</HiveReproducesIn>
+  <DormantHiveNotReproducing>crwdns484226:0crwdne484226:0</DormantHiveNotReproducing>
+  <NextSpawnedItemIn>crwdns484228:0{0}crwdne484228:0</NextSpawnedItemIn>
+  <NextSpawnedResourceIn>crwdns484230:0crwdne484230:0</NextSpawnedResourceIn>
+  <BrokenDown>crwdns484232:0crwdne484232:0</BrokenDown>
+  <BondBrackets>crwdns484234:0crwdne484234:0</BondBrackets>
+  <Fuel>crwdns484236:0crwdne484236:0</Fuel>
+  <FuelLevelGizmoLabel>crwdns484238:0crwdne484238:0</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>crwdns484240:0{0}crwdne484240:0</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>crwdns484242:0{0}crwdnd484242:0{1}crwdne484242:0</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>crwdns484244:0{0}crwdne484244:0</ConfiguredTargetFuelLevel>
+  <Enemies>crwdns484246:0crwdne484246:0</Enemies>
+  <People>crwdns484248:0crwdne484248:0</People>
+  <TimePassed>crwdns484250:0crwdne484250:0</TimePassed>
+  <CurrentRadius>crwdns484252:0crwdne484252:0</CurrentRadius>
+  <RadiusExpandsIn>crwdns484254:0crwdne484254:0</RadiusExpandsIn>
+  <Permanent>crwdns484256:0crwdne484256:0</Permanent>
+  <CaravanResting>crwdns484258:0crwdne484258:0</CaravanResting>
+  <UsingBedroll>crwdns484260:0crwdne484260:0</UsingBedroll>
+  <UsingBedrolls>crwdns484262:0{0}crwdne484262:0</UsingBedrolls>
+  <CaravanEstimatedTimeToDestination>crwdns484264:0{0}crwdne484264:0</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedDaysToDestination>crwdns484266:0{0}crwdne484266:0</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>crwdns484268:0crwdne484268:0</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>crwdns484270:0crwdne484270:0</CaravanOutOfFood>
+  <CaravanDaysOfFood>crwdns484272:0{0}crwdne484272:0</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>crwdns484274:0{0}crwdnd484274:0{1}crwdne484274:0</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>crwdns484276:0crwdne484276:0</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>crwdns484278:0crwdne484278:0</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>crwdns484280:0{0}crwdnd484280:0{1}crwdne484280:0</CaravanColonistsCount>
+  <CaravanAnimal>crwdns484282:0crwdne484282:0</CaravanAnimal>
+  <CaravanAnimalsCount>crwdns484284:0{0}crwdne484284:0</CaravanAnimalsCount>
+  <CaravanPrisoner>crwdns484286:0crwdne484286:0</CaravanPrisoner>
+  <CaravanPrisonersCount>crwdns484288:0{0}crwdne484288:0</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>crwdns484290:0{0}crwdne484290:0</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>crwdns484292:0{0}crwdne484292:0</CaravanPawnsDowned>
+  <CaravanTraveling>crwdns484294:0crwdne484294:0</CaravanTraveling>
+  <CaravanWaiting>crwdns484296:0crwdne484296:0</CaravanWaiting>
+  <BeingCarriedDueToIllness>crwdns484298:0crwdne484298:0</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>crwdns484300:0crwdne484300:0</UsingBedrollsDueToIllness>
+  <CurrentTileMovementTime>crwdns484302:0crwdne484302:0</CurrentTileMovementTime>
+  <Visibility>crwdns484304:0crwdne484304:0</Visibility>
+  <Temperature>crwdns484306:0crwdne484306:0</Temperature>
+  <BadTemperature>crwdns484308:0crwdne484308:0</BadTemperature>
+  <IdealFermentingTemperature>crwdns484310:0crwdne484310:0</IdealFermentingTemperature>
+  <DrugEffectMultiplier>crwdns484312:0{0}crwdnd484312:0{1}crwdne484312:0</DrugEffectMultiplier>
+  <CaravanVisiting>crwdns484314:0{0}crwdne484314:0</CaravanVisiting>
+  <CaravanEntering>crwdns484316:0{0}crwdne484316:0</CaravanEntering>
+  <CaravanAttacking>crwdns484318:0{0}crwdne484318:0</CaravanAttacking>
+  <CaravanOfferingGifts>crwdns484320:0{0}crwdne484320:0</CaravanOfferingGifts>
+  <CaravanTrading>crwdns484322:0{0}crwdne484322:0</CaravanTrading>
+  <WasWornByCorpse>crwdns484324:0crwdne484324:0</WasWornByCorpse>
+  <WornByCorpseChar>crwdns484326:0crwdne484326:0</WornByCorpseChar>
+  <DeterioratingUnroofed>crwdns484328:0crwdne484328:0</DeterioratingUnroofed>
+  <DeterioratingOutdoors>crwdns484330:0crwdne484330:0</DeterioratingOutdoors>
+  <DeterioratingRaining>crwdns484332:0crwdne484332:0</DeterioratingRaining> 
+  <Protected>crwdns484334:0crwdne484334:0</Protected>
+  <DeterioratingBecauseOf>crwdns484336:0crwdne484336:0</DeterioratingBecauseOf>
+  <DeteriorateInDuration>crwdns484338:0{0}crwdne484338:0</DeteriorateInDuration>
+  <Map>crwdns484340:0crwdne484340:0</Map>
+  <CaravanDetectedRaidCountdown>crwdns484342:0{0}crwdne484342:0</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdownTip>crwdns484344:0{0}crwdne484344:0</CaravanDetectedRaidCountdownTip>
+  <Room>crwdns484346:0crwdne484346:0</Room>
+  <BeautyHere>crwdns484348:0crwdne484348:0</BeautyHere>
+  <NoPower>crwdns484350:0crwdne484350:0</NoPower>
+  <WorkSpeedPenalty>crwdns484352:0crwdne484352:0</WorkSpeedPenalty>
+  <DisabledCommand>crwdns484354:0crwdne484354:0</DisabledCommand>
+  <ReadyForLaunch>crwdns484356:0crwdne484356:0</ReadyForLaunch>
+  <NotReadyForLaunch>crwdns484358:0crwdne484358:0</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>crwdns484360:0crwdne484360:0</NotAllInGroupConnectedToFuelingPort>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>crwdns484362:0crwdne484362:0</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>crwdns484364:0crwdne484364:0</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>crwdns484366:0crwdne484366:0</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodNotEnoughFuel>crwdns484368:0crwdne484368:0</TransportPodNotEnoughFuel>
+  <SettlementTrader>crwdns484370:0{0}crwdnd484370:0{1}crwdne484370:0</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>crwdns484372:0crwdne484372:0</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>crwdns484374:0crwdne484374:0</RoomInfectionChanceFactor>
+  <VentClosed>crwdns484376:0crwdne484376:0</VentClosed>
+  <WornBy>crwdns484378:0{1_labelShort}crwdne484378:0</WornBy>
+  <EquippedBy>crwdns484380:0{1_labelShort}crwdne484380:0</EquippedBy>
+  <QuestTargetDestroyInspectString>crwdns484382:0{0}crwdnd484382:0{1}crwdnd484382:0{2}crwdne484382:0</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>crwdns484384:0{0}crwdne484384:0</QuestTargetDestroyInspectStringShort>
+  <ShuttleDelayInspectString>crwdns484386:0{0}crwdne484386:0</ShuttleDelayInspectString>
+  <ShuttleLeaveDelayInspectString>crwdns484388:0{0}crwdne484388:0</ShuttleLeaveDelayInspectString>
+  <ShouldDepartOnShuttleInspectString>crwdns484390:0crwdne484390:0</ShouldDepartOnShuttleInspectString>
+  <WorldObjectTimeout>crwdns484392:0{0}crwdne484392:0</WorldObjectTimeout>
+  <ClickToSortByThisColumn>crwdns484394:0crwdne484394:0</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>crwdns484396:0crwdne484396:0</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>crwdns484398:0crwdne484398:0</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>crwdns484400:0crwdne484400:0</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>crwdns484402:0crwdne484402:0</CheckboxShiftClickTip>
+  <KnownSiteThreatEnemyCountAppend>crwdns484404:0{0}crwdnd484404:0{1}crwdne484404:0</KnownSiteThreatEnemyCountAppend>
+  <SkillRequirements>crwdns484406:0crwdne484406:0</SkillRequirements>
+  <Products>crwdns484408:0crwdne484408:0</Products>
+  <Requires>crwdns484410:0crwdne484410:0</Requires>
+  <NumAnyOf>crwdns484412:0{0}crwdne484412:0</NumAnyOf>
+  <Relationship>crwdns484414:0{0}crwdnd484414:0{1}crwdne484414:0</Relationship>
+  <Prisoner>crwdns484416:0crwdne484416:0</Prisoner>
+  <Refugee>crwdns484418:0crwdne484418:0</Refugee>
+  <TileMovementDifficulty>crwdns484420:0crwdne484420:0</TileMovementDifficulty>
+  <Impassable>crwdns484422:0crwdne484422:0</Impassable>
+  <CaravanMovementSpeedFull>crwdns484424:0crwdne484424:0</CaravanMovementSpeedFull>
+  <DownedLower>crwdns484426:0crwdne484426:0</DownedLower>
+  <Carried>crwdns484428:0crwdne484428:0</Carried>
+  <RideableAnimalsPerPeople>crwdns484430:0crwdne484430:0</RideableAnimalsPerPeople>
+  <MultiplierFromRiddenAnimals>crwdns484432:0crwdne484432:0</MultiplierFromRiddenAnimals>
+  <MultiplierForCarriedMass>crwdns484434:0{0}crwdne484434:0</MultiplierForCarriedMass>
+  <RideableAnimalTip>crwdns484436:0crwdne484436:0</RideableAnimalTip>
+  <EncumberedCaravanTilesPerDayTip>crwdns484438:0crwdne484438:0</EncumberedCaravanTilesPerDayTip>
+  <FinalCaravanPawnsMovementSpeed>crwdns484440:0crwdne484440:0</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>crwdns484442:0crwdne484442:0</FinalCaravanMovementSpeed>
+  <Winter>crwdns484444:0crwdne484444:0</Winter>
+  <MovementDifficultyOffsetInWinter>crwdns484446:0{0}crwdne484446:0</MovementDifficultyOffsetInWinter>
+  <RangeTo>crwdns484448:0crwdne484448:0</RangeTo>
+  <NoDietCategoryLetter>crwdns484450:0crwdne484450:0</NoDietCategoryLetter>
+  <ExpiresIn>crwdns484452:0crwdne484452:0</ExpiresIn>
+  <CaravanLeaderCaravanName>crwdns484454:0{1_labelShort}crwdne484454:0</CaravanLeaderCaravanName>
+  <Reason>crwdns484456:0crwdne484456:0</Reason>
+  <RelationsWith>crwdns484458:0{0}crwdne484458:0</RelationsWith>
+  <capturedBy>crwdns484460:0{0}crwdne484460:0</capturedBy>
+  <yourCaravan>crwdns484462:0crwdne484462:0</yourCaravan>
+  <CreatureWildness>crwdns484464:0{0}crwdne484464:0</CreatureWildness>
+  <CreatureTrainability>crwdns484466:0{0}crwdne484466:0</CreatureTrainability>
+  <CreatureFollowDrafted>crwdns484468:0crwdne484468:0</CreatureFollowDrafted>
+  <CreatureFollowFieldwork>crwdns484470:0crwdne484470:0</CreatureFollowFieldwork>
+  <ProximitySingleGoodwillChange>crwdns484472:0{0}crwdnd484472:0{1}crwdne484472:0</ProximitySingleGoodwillChange>
+  <EnterCooldown>crwdns484474:0{0}crwdne484474:0</EnterCooldown>
+  <Caravan>crwdns484476:0crwdne484476:0</Caravan>
+  <HiddenOrNoSitePartDescription>crwdns484478:0crwdne484478:0</HiddenOrNoSitePartDescription>
+  <PreciousLumpHostileThreat>crwdns484480:0crwdne484480:0</PreciousLumpHostileThreat>
+  <PreciousLumpLabel>crwdns484482:0{0}crwdne484482:0</PreciousLumpLabel>
+  <NoActiveResearchProjectToFinish>crwdns484484:0crwdne484484:0</NoActiveResearchProjectToFinish>
+  <Turret>crwdns484486:0crwdne484486:0</Turret>
+  <Turrets>crwdns484488:0crwdne484488:0</Turrets>
+  <Mortar>crwdns484490:0crwdne484490:0</Mortar>
+  <Mortars>crwdns484492:0crwdne484492:0</Mortars>
+  <Enemy>crwdns484494:0crwdne484494:0</Enemy>
+  <Location>crwdns484496:0crwdne484496:0</Location>
+  <AnimalsLower>crwdns484498:0crwdne484498:0</AnimalsLower>
+  <ItemsLower>crwdns484500:0crwdne484500:0</ItemsLower>
+  <FilthLabel>crwdns484502:0{0}crwdnd484502:0{1}crwdne484502:0</FilthLabel>
+  <FilthLabelWithSource>crwdns484504:0{0}crwdnd484504:0{1}crwdnd484504:0{2}crwdne484504:0</FilthLabelWithSource>
+  <Required>crwdns484506:0crwdne484506:0</Required>
+  <GiveGiftViaTransportPodsTradeRequestWarning>crwdns484508:0crwdne484508:0</GiveGiftViaTransportPodsTradeRequestWarning>
+  <PrisonerLower>crwdns484510:0crwdne484510:0</PrisonerLower>
+  <PrisonersLower>crwdns484512:0crwdne484512:0</PrisonersLower>
+  <ClickToViewInQuestsTab>crwdns484514:0crwdne484514:0</ClickToViewInQuestsTab>
+  <Mood>crwdns484516:0crwdne484516:0</Mood>
+  <Quest>crwdns484518:0crwdne484518:0</Quest>
+  <BringsRaidsEvery>crwdns484520:0{0}crwdne484520:0</BringsRaidsEvery>
+  <GeneratesResourcesEvery>crwdns484522:0{0}crwdnd484522:0{1}crwdne484522:0</GeneratesResourcesEvery>
+  <FoliageKillRadius>crwdns484524:0crwdne484524:0</FoliageKillRadius>
+  <RadiusExpandRate>crwdns484526:0crwdne484526:0</RadiusExpandRate>
+  <ViewHyperlink>crwdns484528:0{0}crwdne484528:0</ViewHyperlink>
+  <DetonationCountdown>crwdns484530:0{0}crwdne484530:0</DetonationCountdown>
+  <ExplosionOnDamageWarning>crwdns484532:0crwdne484532:0</ExplosionOnDamageWarning>
+  <MechCluster>crwdns484534:0crwdne484534:0</MechCluster>
+  <SpawningNextPawnIn>crwdns484536:0{0}crwdne484536:0</SpawningNextPawnIn>
+  <MechAssemblyCompleteIn>crwdns484538:0{0}crwdnd484538:0{1}crwdne484538:0</MechAssemblyCompleteIn>
+  <MechAssemblyNextType>crwdns484540:0crwdne484540:0</MechAssemblyNextType>
+  <ThingsProduced>crwdns484542:0crwdne484542:0</ThingsProduced>
+  <PlantsHarvested>crwdns484544:0crwdne484544:0</PlantsHarvested>
+  <PawnsKilled>crwdns484546:0{0}crwdne484546:0</PawnsKilled>
+  <PawnsLent>crwdns484548:0{0}crwdnd484548:0{1}crwdne484548:0</PawnsLent>
+  <DormantCompInactive>crwdns484550:0crwdne484550:0</DormantCompInactive>
+  <DormantCompSealed>crwdns484552:0crwdne484552:0</DormantCompSealed>
+  <DormantCompBeacon>crwdns484554:0crwdne484554:0</DormantCompBeacon>
+  <DormantCompExpired>crwdns484556:0crwdne484556:0</DormantCompExpired>
+  <InitiatesIn>crwdns484558:0crwdne484558:0</InitiatesIn>
+  <SendSignalOnCountdownCompTime>crwdns484560:0{0}crwdne484560:0</SendSignalOnCountdownCompTime>
+  <PsychicEntropy>crwdns484562:0crwdne484562:0</PsychicEntropy>
+  <PsychicEntropyShort>crwdns484564:0crwdne484564:0</PsychicEntropyShort>
+  <PsychicEntropyPainFocus>crwdns484566:0{0}crwdne484566:0</PsychicEntropyPainFocus>
+  <ConditionCauserRadius>crwdns484568:0{0}crwdne484568:0</ConditionCauserRadius>
+  <LowPsyfocus>crwdns484570:0crwdne484570:0</LowPsyfocus>
+  <DurationLeft>crwdns484572:0{0}crwdne484572:0</DurationLeft>
+  <AnyOf>crwdns484574:0crwdne484574:0</AnyOf>
+  <TraitRequired>crwdns484576:0{0}crwdne484576:0</TraitRequired>
+  <Goodwill>crwdns484578:0crwdne484578:0</Goodwill>
+  <NaturalGoodwill>crwdns484580:0crwdne484580:0</NaturalGoodwill>
+  <NaturalGoodwillRange>crwdns484582:0crwdne484582:0</NaturalGoodwillRange>
+  <NaturalGoodwillDescription>crwdns484584:0{0}crwdne484584:0</NaturalGoodwillDescription>
+  <JobReport_ReduceResistance>crwdns484586:0{0_nameIndef}crwdne484586:0</JobReport_ReduceResistance>
+  <TooLargeForBed>crwdns484588:0crwdne484588:0</TooLargeForBed>
+  <Warning>crwdns484590:0crwdne484590:0</Warning>
+  <HasSubquest>crwdns484592:0crwdne484592:0</HasSubquest>
+  <SubquestOf>crwdns484594:0crwdne484594:0</SubquestOf>
+  <Raid>crwdns484596:0crwdne484596:0</Raid>
+  <ApparelRequirementDisabledLabel>crwdns484598:0crwdne484598:0</ApparelRequirementDisabledLabel>
+  <Nudism>crwdns484600:0crwdne484600:0</Nudism>
+  <StudyProgress>crwdns484602:0crwdne484602:0</StudyProgress>
+  <StudyCompleted>crwdns484604:0crwdne484604:0</StudyCompleted>
+  <AttackToDestroy>crwdns484606:0crwdne484606:0</AttackToDestroy>
+  <RemoveByAttackingTooltip>crwdns484608:0crwdne484608:0</RemoveByAttackingTooltip>
+  <ThoughtFoodEatenFood>crwdns484610:0crwdne484610:0</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenIngredients>crwdns484612:0crwdne484612:0</ThoughtFoodEatenIngredients>
+  <ShieldInbuilt>crwdns484614:0crwdne484614:0</ShieldInbuilt>
+  <PuncturedWillExplode>crwdns484616:0crwdne484616:0</PuncturedWillExplode>
+  <ClickToOpenResearchTab>crwdns484618:0crwdne484618:0</ClickToOpenResearchTab>
+  <TargetBelongsToNPCFaction>crwdns484620:0crwdne484620:0</TargetBelongsToNPCFaction>
+  <MoreLower>crwdns484622:0crwdne484622:0</MoreLower>
+  <RequiredTechprintTip>crwdns484624:0crwdne484624:0</RequiredTechprintTip>
+  <Size>crwdns484626:0crwdne484626:0</Size>
+  <Cost>crwdns484628:0crwdne484628:0</Cost>
+  <BackstoryTitle>crwdns484630:0crwdne484630:0</BackstoryTitle><!-- text_todo -->
+  <Person>crwdns484632:0crwdne484632:0</Person>
 
-  <Reward_RoyalFavor>crwdns450136:0{1}crwdnd450136:0{0_royalFavorLabel}crwdnd450136:0{0_name}crwdne450136:0</Reward_RoyalFavor>
-  <Reward_RoyalFavor_ChoosePawn>crwdns450138:0{2}crwdnd450138:0{1}crwdnd450138:0{0_royalFavorLabel}crwdnd450138:0{0_name}crwdne450138:0</Reward_RoyalFavor_ChoosePawn>
-  
-  <!-- Ship landing beacons -->
-  <NotUsable>crwdns450140:0crwdne450140:0</NotUsable>
-  <Unpowered>crwdns450142:0crwdne450142:0</Unpowered>
-  <BlockedByRoof>crwdns450144:0crwdne450144:0</BlockedByRoof>
-  <TooCloseToOtherBeacon>crwdns450146:0crwdne450146:0</TooCloseToOtherBeacon>
+  <!-- Scanning -->
+  <UserScanAbility>crwdns484634:0crwdne484634:0</UserScanAbility>
+  <ScanAverageInterval>crwdns484636:0crwdne484636:0</ScanAverageInterval>
+  <ScanningProgressToGuaranteedFind>crwdns484638:0crwdne484638:0</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
-  <Psyfocus>crwdns450148:0crwdne450148:0</Psyfocus>
-  <PsyfocusLabelGizmo>crwdns450150:0crwdne450150:0</PsyfocusLabelGizmo>
-  <PsyfocusDesc>crwdns450152:0crwdne450152:0</PsyfocusDesc>
-  <PsyfocusLevelInfoRange>crwdns450154:0{0}crwdnd450154:0{1}crwdne450154:0</PsyfocusLevelInfoRange>
-  <PsyfocusLevelInfoPsycasts>crwdns450156:0{0}crwdne450156:0</PsyfocusLevelInfoPsycasts>
-  <PsyfocusLevelInfoFallRate>crwdns450158:0{0}crwdne450158:0</PsyfocusLevelInfoFallRate>
-  <UserMeditationFocusStrength>crwdns450160:0{LASTUSER_labelShort}crwdne450160:0</UserMeditationFocusStrength>
-  <MeditationFocusImpacted>crwdns450162:0crwdne450162:0</MeditationFocusImpacted>
-  <MeditationFocusPerAnimusStoneAbstract>crwdns450164:0{1}crwdnd450164:0{0}crwdne450164:0</MeditationFocusPerAnimusStoneAbstract>
-  <MeditationFocusPerAnimusStone>crwdns450166:0{2}crwdnd450166:0{0}crwdnd450166:0{1}crwdne450166:0</MeditationFocusPerAnimusStone>
-  <MeditationFocusPerAnimusStoneAndShrineAbstract>crwdns450168:0{2}crwdnd450168:0{1}crwdnd450168:0{0}crwdne450168:0</MeditationFocusPerAnimusStoneAndShrineAbstract>
-  <MeditationFocusPerAnimusStoneAndShrine>crwdns450170:0{3}crwdnd450170:0{2}crwdnd450170:0{0}crwdnd450170:0{1}crwdne450170:0</MeditationFocusPerAnimusStoneAndShrine>
-  <MeditationFocusPerSculptureAbstract>crwdns450172:0{1}crwdnd450172:0{0}crwdne450172:0</MeditationFocusPerSculptureAbstract>
-  <MeditationFocusPerSculpture>crwdns450174:0{2}crwdnd450174:0{0}crwdnd450174:0{1}crwdne450174:0</MeditationFocusPerSculpture>
-  <MeditationFocusPerGraveAbstract>crwdns450176:0{1}crwdnd450176:0{2}crwdnd450176:0{0}crwdne450176:0</MeditationFocusPerGraveAbstract>
-  <MeditationFocusPerGrave>crwdns450178:0{2}crwdnd450178:0{3}crwdnd450178:0{0}crwdnd450178:0{1}crwdne450178:0</MeditationFocusPerGrave>
-  <MeditationFocusPerFlameAbstract>crwdns450180:0{1}crwdnd450180:0{0}crwdne450180:0</MeditationFocusPerFlameAbstract>
-  <MeditationFocusPerFlame>crwdns450182:0{2}crwdnd450182:0{0}crwdnd450182:0{1}crwdne450182:0</MeditationFocusPerFlame>
-  <PsyfocusPerDayOfMeditation>crwdns450184:0{0}crwdne450184:0</PsyfocusPerDayOfMeditation>
-  <DesiredPsyfocus>crwdns450186:0crwdne450186:0</DesiredPsyfocus>
-  <DesiredPsyfocusDesc>crwdns450188:0crwdne450188:0</DesiredPsyfocusDesc>
+  <MeditatingAt>crwdns484640:0crwdne484640:0</MeditatingAt>
 
-  <AbilitySpeechDisabledNoThroneAssigned>crwdns450190:0crwdne450190:0</AbilitySpeechDisabledNoThroneAssigned>
-  <AbilitySpeechDisabledNoThroneIsNotAccessible>crwdns450192:0crwdne450192:0</AbilitySpeechDisabledNoThroneIsNotAccessible>
-  <AbilitySpeechDisabledNoThroneUndignified>crwdns450194:0crwdne450194:0</AbilitySpeechDisabledNoThroneUndignified>
-  <AbilitySpeechDisabledAlreadyGivingSpeech>crwdns450196:0crwdne450196:0</AbilitySpeechDisabledAlreadyGivingSpeech>
-  <AbilitySpeechPossibleOutcomes>crwdns450198:0crwdne450198:0</AbilitySpeechPossibleOutcomes>
-  <AbilitySpeechStatInfo>crwdns450200:0{ORGANIZER_labelShort}crwdnd450200:0{1}crwdne450200:0</AbilitySpeechStatInfo>
-  <AbilitySpeechTargetDescThrone>crwdns450202:0crwdne450202:0</AbilitySpeechTargetDescThrone>
+  <!-- Fermentation barrel -->
+  <ContainsWort>crwdns484642:0{0}crwdnd484642:0{1}crwdne484642:0</ContainsWort>
+  <ContainsBeer>crwdns484644:0{0}crwdnd484644:0{1}crwdne484644:0</ContainsBeer>
+  <Contains>crwdns484646:0crwdne484646:0</Contains>
+  <Fermented>crwdns484648:0crwdne484648:0</Fermented>
+  <FermentationProgress>crwdns484650:0{0}crwdnd484650:0{1}crwdne484650:0</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>crwdns484652:0{0}crwdne484652:0</FermentationBarrelOutOfIdealTemperature>
+
+  <!-- TextMotes -->
+  <Headshot>crwdns484654:0crwdne484654:0</Headshot>
+  <TextMote_TreatSuccess>crwdns484656:0{0}crwdne484656:0</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>crwdns484658:0{0}crwdne484658:0</TextMote_TreatFailed>
+  <TextMote_HarvestFailed>crwdns484660:0crwdne484660:0</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>crwdns484662:0crwdne484662:0</TextMote_YieldWasted>
+  <TextMote_ProductWasted>crwdns484664:0crwdne484664:0</TextMote_ProductWasted>
+  <TextMote_RecruitFail>crwdns484666:0{0}crwdne484666:0</TextMote_RecruitFail>
+  <TextMote_ResistanceReduced>crwdns484668:0{0}crwdnd484668:0{1}crwdne484668:0</TextMote_ResistanceReduced>
+  <TextMote_TameFail>crwdns484670:0{0}crwdne484670:0</TextMote_TameFail>
+  <TextMote_TameSuccess>crwdns484672:0crwdne484672:0</TextMote_TameSuccess>
+  <TextMote_TrainFail>crwdns484674:0{0}crwdnd484674:0{1}crwdne484674:0</TextMote_TrainFail>
+  <TextMote_TrainSuccess>crwdns484676:0{0}crwdnd484676:0{1}crwdne484676:0</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>crwdns484678:0crwdne484678:0</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>crwdns484680:0crwdne484680:0</TextMote_ConstructionFail>
+  <TextMote_Dodge>crwdns484682:0crwdne484682:0</TextMote_Dodge>
+  <TextMote_Immune>crwdns484684:0crwdne484684:0</TextMote_Immune>
+  <TextMote_Tended>crwdns484686:0{0}crwdne484686:0</TextMote_Tended>
+  <TextMote_SkillUp>crwdns484688:0{0}crwdne484688:0</TextMote_SkillUp>
+  <lowMood>crwdns484690:0crwdne484690:0</lowMood>
+  <lowOpinion>crwdns484692:0crwdne484692:0</lowOpinion>
+
+  <!-- Areas -->
+  <Home>crwdns484694:0crwdne484694:0</Home>
+  <BuildRoof>crwdns484696:0crwdne484696:0</BuildRoof>
+  <NoRoof>crwdns484698:0crwdne484698:0</NoRoof>
+  <SnowClear>crwdns484700:0crwdne484700:0</SnowClear>
+  <AreaDefaultLabel>crwdns484702:0{0}crwdne484702:0</AreaDefaultLabel>
+  <NoAreaAllowed>crwdns484704:0crwdne484704:0</NoAreaAllowed>
+  <NewArea>crwdns484706:0crwdne484706:0</NewArea>
+  <InvertArea>crwdns484708:0crwdne484708:0</InvertArea>
+
+  <!-- Animal pens -->
+  <PenUnenclosedLabel>crwdns484710:0crwdne484710:0</PenUnenclosedLabel>
+  <PenOpenDoorLabel>crwdns484712:0crwdne484712:0</PenOpenDoorLabel>
+  <RenameAnimalPen>crwdns484714:0crwdne484714:0</RenameAnimalPen>
+  <AnimalPenMarkerDefaultLabel>crwdns484716:0{0}crwdne484716:0</AnimalPenMarkerDefaultLabel>
+  <InPen>crwdns484718:0crwdne484718:0</InPen>
+  <Unpenned>crwdns484720:0crwdne484720:0</Unpenned>
+  <UnpennedTooltip>crwdns484722:0crwdne484722:0</UnpennedTooltip>
+  <RopedByPawn>crwdns484724:0crwdne484724:0</RopedByPawn>
+  <RopedToThing>crwdns484726:0crwdne484726:0</RopedToThing>
+  <RopedToSpot>crwdns484728:0crwdne484728:0</RopedToSpot>
+  <PenSizeLabel>crwdns484730:0crwdne484730:0</PenSizeLabel>
+  <PenSizeDesc_VerySmall>crwdns484732:0crwdne484732:0</PenSizeDesc_VerySmall>
+  <PenSizeDesc_Small>crwdns484734:0crwdne484734:0</PenSizeDesc_Small>
+  <PenSizeDesc_Medium>crwdns484736:0crwdne484736:0</PenSizeDesc_Medium>
+  <PenSizeDesc_Large>crwdns484738:0crwdne484738:0</PenSizeDesc_Large>
+  <PenSizeDesc_Unenclosed>crwdns484740:0crwdne484740:0</PenSizeDesc_Unenclosed>
+  <PenCapacityDesc>crwdns484742:0{ANIMALDEF_label}crwdne484742:0</PenCapacityDesc>
+  <PenExampleAnimals>crwdns484744:0crwdne484744:0</PenExampleAnimals>
+  <NoExteriorAccess>crwdns484746:0crwdne484746:0</NoExteriorAccess>
+
+  <!-- Cell Inspector -->
+  <Beauty_Label>crwdns484748:0crwdne484748:0</Beauty_Label>
+  <Zone_Label>crwdns484750:0crwdne484750:0</Zone_Label>
+  <Roof_Label>crwdns484752:0crwdne484752:0</Roof_Label>
+  <Terrain_Label>crwdns484754:0crwdne484754:0</Terrain_Label>
+  <Snow_Label>crwdns484756:0crwdne484756:0</Snow_Label>
+  <WalkSpeed_Label>crwdns484758:0crwdne484758:0</WalkSpeed_Label>
+  <Fertility_Label>crwdns484760:0crwdne484760:0</Fertility_Label>
+  <Temperature_Label>crwdns484762:0crwdne484762:0</Temperature_Label>
+  <LightLevel_Label>crwdns484764:0crwdne484764:0</LightLevel_Label>
+  <Biome_Label>crwdns484766:0crwdne484766:0</Biome_Label>
+  <Hilliness_Label>crwdns484768:0crwdne484768:0</Hilliness_Label>
+  <Road_Label>crwdns484770:0crwdne484770:0</Road_Label>
+  <River_Label>crwdns484772:0crwdne484772:0</River_Label> 
+  <MovementDifficulty_Label>crwdns484774:0crwdne484774:0</MovementDifficulty_Label>
+  <Pollution_Label>crwdns484776:0crwdne484776:0</Pollution_Label>
+  <Filth_Label>crwdns484778:0crwdne484778:0</Filth_Label>
   
-  <RitualDisabledNoAltar>crwdns450204:0crwdne450204:0</RitualDisabledNoAltar>
-  <RitualBestowingCeremony>crwdns450206:0crwdne450206:0</RitualBestowingCeremony>
-
-  <TotalMeditationToday>crwdns450208:0{0}crwdnd450208:0{1}crwdne450208:0</TotalMeditationToday>
-  <ProgressToNextSubplant>crwdns450210:0{0}crwdne450210:0</ProgressToNextSubplant>
-  <BeginLinkingRitualFloatMenu>crwdns450212:0crwdne450212:0</BeginLinkingRitualFloatMenu>
-  <BeginLinkingRitualNeedSubplants>crwdns450214:0{0}crwdnd450214:0{1}crwdnd450214:0{2}crwdne450214:0</BeginLinkingRitualNeedSubplants>
-  <BeginLinkingRitualNeedFocus>crwdns450216:0{0}crwdne450216:0</BeginLinkingRitualNeedFocus>
-  <BeginLinkingRitualMaxPsylinkLevel>crwdns450218:0crwdne450218:0</BeginLinkingRitualMaxPsylinkLevel>
-  <BeginLinkingRitualNeedLinkSpot>crwdns450220:0crwdne450220:0</BeginLinkingRitualNeedLinkSpot>
-  <LetterLabelLinkingRitualCompleted>crwdns450222:0crwdne450222:0</LetterLabelLinkingRitualCompleted>
-  <LetterTextLinkingRitualCompleted>crwdns450224:0{PAWN_labelShort}crwdnd450224:0{LINKABLE_labelShort}crwdnd450224:0{PAWN_pronoun}crwdne450224:0</LetterTextLinkingRitualCompleted>
-  <LetterTextLinkingRitualCompletedAnimaGrass>crwdns450226:0{0}crwdne450226:0</LetterTextLinkingRitualCompletedAnimaGrass>
-
-  <LandHere>crwdns450228:0crwdne450228:0</LandHere>
-  <MessageShuttleDestinationIsTooFar>crwdns450230:0crwdne450230:0</MessageShuttleDestinationIsTooFar>
-
-  <BeginCeremony>crwdns450232:0{0_labelShort}crwdne450232:0</BeginCeremony>
-  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>crwdns450234:0{PAWN_definite}crwdnd450234:0{TITLE}crwdne450234:0</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
-  <BestowingCeremonyThroneroomRequirementsNotSatisfied>crwdns450236:0{PAWN_definite}crwdnd450236:0{TITLE}crwdne450236:0</BestowingCeremonyThroneroomRequirementsNotSatisfied>
-  <BestowingCeremonyLabel>crwdns450238:0crwdne450238:0</BestowingCeremonyLabel>
-  <BestowingOutcomeQualitySpecific>crwdns450240:0{0}crwdne450240:0</BestowingOutcomeQualitySpecific>
+  <Faction_Label>crwdns484780:0crwdne484780:0</Faction_Label>
+  <Relationship_Label>crwdns484782:0crwdne484782:0</Relationship_Label>
+  <CaravanColonists_Label>crwdns484784:0crwdne484784:0</CaravanColonists_Label>
+  <CaravanStatus_Label>crwdns484786:0crwdne484786:0</CaravanStatus_Label>
+  <CaravanTTD_Label>crwdns484788:0crwdne484788:0</CaravanTTD_Label>
   
-  <RitualTargetAnimaTreeNoPawnsToLink>crwdns450242:0crwdne450242:0</RitualTargetAnimaTreeNoPawnsToLink>
-  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>crwdns450244:0crwdne450244:0</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
-  <RitualTargetAnimaTreeNotEnoughAnimaGrass>crwdns450246:0{0}crwdne450246:0</RitualTargetAnimaTreeNotEnoughAnimaGrass>
-  <RitualTargetAnimaTreeInfo>crwdns450248:0crwdne450248:0</RitualTargetAnimaTreeInfo>
-  <RitualTargetAnimaTreeMustBeCapableOfNature>crwdns450250:0crwdne450250:0</RitualTargetAnimaTreeMustBeCapableOfNature>
-  <RitualTargetAnimaTreeMustBePsychicallySensitive>crwdns450252:0crwdne450252:0</RitualTargetAnimaTreeMustBePsychicallySensitive>
 
-  <AnimaLinkingExplanationBase>crwdns450254:0{0}crwdnd450254:0{1}crwdne450254:0</AnimaLinkingExplanationBase>
-  <ShuttleRequiredItemsNotSatisfied>crwdns450256:0crwdne450256:0</ShuttleRequiredItemsNotSatisfied>
+  <!-- Control -->
+  <CannotOrderNonControlled>crwdns484790:0crwdne484790:0</CannotOrderNonControlled>
+  <IsIncapableOfViolence>crwdns484792:0{1_labelShort}crwdne484792:0</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>crwdns484794:0crwdne484794:0</IsIncapableOfViolenceShort>
+  <IsNotDrafted>crwdns484796:0{1_labelShort}crwdne484796:0</IsNotDrafted>
+  <ApparelPreventsShooting>crwdns484798:0{PAWN_nameDef}crwdnd484798:0{PAWN_possessive}crwdnd484798:0{APPAREL_label}crwdne484798:0</ApparelPreventsShooting>
 
-  <AbilityNoEntropyToDump>crwdns450258:0crwdne450258:0</AbilityNoEntropyToDump>
+  <!-- Snow -->
+  <Snow>crwdns484800:0crwdne484800:0</Snow>
+  <SnowNone>crwdns484802:0crwdne484802:0</SnowNone>
+  <SnowDusting>crwdns484804:0crwdne484804:0</SnowDusting>
+  <SnowThin>crwdns484806:0crwdne484806:0</SnowThin>
+  <SnowMedium>crwdns484808:0crwdne484808:0</SnowMedium>
+  <SnowThick>crwdns484810:0crwdne484810:0</SnowThick>
 
-  <LevelNum>crwdns450260:0{0}crwdne450260:0</LevelNum> <!-- Psylink level as reported in health tab-->
+  <!-- Turrets -->
+  <GunInstalled>crwdns484812:0crwdne484812:0</GunInstalled>
+  <MinimumRange>crwdns484814:0crwdne484814:0</MinimumRange>
+  <CanFireIn>crwdns484816:0crwdne484816:0</CanFireIn>
+  <CannotFire>crwdns484818:0crwdne484818:0</CannotFire>
+  <Roofed>crwdns484820:0crwdne484820:0</Roofed>
+  <ShellLoaded>crwdns484822:0{1_label}crwdne484822:0</ShellLoaded>
+  <ShellNotLoaded>crwdns484824:0crwdne484824:0</ShellNotLoaded>
+  <AlreadyActive>crwdns484826:0crwdne484826:0</AlreadyActive>
+  <OrderActivation>crwdns484828:0crwdne484828:0</OrderActivation>
+  <OrderActivationDesc>crwdns484830:0{THING_definite}crwdne484830:0</OrderActivationDesc>
+  <MustBeActivatedByColonist>crwdns484832:0crwdne484832:0</MustBeActivatedByColonist>
+  <NoNearbyFire>crwdns484834:0crwdne484834:0</NoNearbyFire>
+  <NoNearbyFireNoFuelUsed>crwdns484836:0crwdne484836:0</NoNearbyFireNoFuelUsed>
+  <ChooseWhoShouldActivate>crwdns484838:0crwdne484838:0</ChooseWhoShouldActivate>
+  <NoFuel>crwdns484840:0crwdne484840:0</NoFuel>
+
+  <!-- Job reports -->
+  <ReportHaulingTo>crwdns484842:0{THING_label}crwdnd484842:0{DESTINATION}crwdne484842:0</ReportHaulingTo>
+  <ReportHaulingToGrave>crwdns484844:0{THING_label}crwdnd484844:0{DESTINATION}crwdne484844:0</ReportHaulingToGrave>
+  <ReportHauling>crwdns484846:0{1_label}crwdne484846:0</ReportHauling>
+  <ReportHaulingUnknown>crwdns484848:0crwdne484848:0</ReportHaulingUnknown>
+  <ReportSleeping>crwdns484850:0crwdne484850:0</ReportSleeping>
+  <ReportResting>crwdns484852:0crwdne484852:0</ReportResting>
+  <ReportLayingDown>crwdns484854:0crwdne484854:0</ReportLayingDown>
+  <WatchingSunrise>crwdns484856:0crwdne484856:0</WatchingSunrise>
+  <CloudWatching>crwdns484858:0crwdne484858:0</CloudWatching>
+  <WatchingSunset>crwdns484860:0crwdne484860:0</WatchingSunset>
+  <Stargazing>crwdns484862:0crwdne484862:0</Stargazing>
+  <WatchingEclipse>crwdns484864:0crwdne484864:0</WatchingEclipse>
+  <WatchingAurora>crwdns484866:0crwdne484866:0</WatchingAurora>
+  <UsingVerb>crwdns484868:0{0}crwdnd484868:0{1}crwdne484868:0</UsingVerb>
+  <UsingVerbNoTarget>crwdns484870:0{0}crwdne484870:0</UsingVerbNoTarget>
+  <AreaLower>crwdns484872:0crwdne484872:0</AreaLower>
+  <ReportCowering>crwdns484874:0crwdne484874:0</ReportCowering>
+  <ReportStanding>crwdns484876:0crwdne484876:0</ReportStanding>
+  <ReportExtinguishingFire>crwdns484878:0crwdne484878:0</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>crwdns484880:0{TARGET_label}crwdne484880:0</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>crwdns484882:0crwdne484882:0</ReportDiggingUpCorpse>
+  <CarriedBy>crwdns484884:0{0_labelShort}crwdne484884:0</CarriedBy> 
+  <InContainer>crwdns484886:0{0_labelShort}crwdne484886:0</InContainer> 
+
+  <!-- Lord job reports -->
+  <LordReportAttendingMarriageCeremony>crwdns484888:0crwdne484888:0</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>crwdns484890:0crwdne484890:0</LordReportAttendingParty>
+  <LordReportAttendingConcert>crwdns484892:0crwdne484892:0</LordReportAttendingConcert>
+  <LordReportHoldingConcert>crwdns484894:0crwdne484894:0</LordReportHoldingConcert>
+  <LordReportGivingSpeech>crwdns484896:0crwdne484896:0</LordReportGivingSpeech>
+  <LordReportListeningSpeech>crwdns484898:0{ORGANIZER_labelShort}crwdne484898:0</LordReportListeningSpeech>
+  <LordReportFormingCaravan>crwdns484900:0crwdne484900:0</LordReportFormingCaravan>
+
+  <!-- Shooting report -->
+  <WeaponMissRadius>crwdns484902:0crwdne484902:0</WeaponMissRadius>
+  <ShootReportShooterAbility>crwdns484904:0crwdne484904:0</ShootReportShooterAbility>
+  <ShootReportWeapon>crwdns484906:0crwdne484906:0</ShootReportWeapon>
+  <Darkness>crwdns484908:0crwdne484908:0</Darkness>
+  <TargetProne>crwdns484910:0crwdne484910:0</TargetProne>
+  <TargetSize>crwdns484912:0crwdne484912:0</TargetSize>
+  <Weather>crwdns484914:0crwdne484914:0</Weather>
+  <ShootingCover>crwdns484916:0crwdne484916:0</ShootingCover>
+  <CoverThingBlocksPercentOfShots>crwdns484918:0{COVER_label}crwdnd484918:0{1}crwdne484918:0</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>crwdns484920:0crwdne484920:0</NoCoverLower>
+  <Execution>crwdns484922:0crwdne484922:0</Execution>
+
+  <!-- Generated recipes -->
+  <RecipeMake>crwdns484924:0{0}crwdne484924:0</RecipeMake>
+  <RecipeMakeDescription>crwdns484926:0{0}crwdne484926:0</RecipeMakeDescription>
+  <RecipeMakeJobString>crwdns484928:0{0}crwdne484928:0</RecipeMakeJobString>
+  <RecipeAdminister>crwdns484930:0{0}crwdne484930:0</RecipeAdminister>
+  <RecipeAdministerJobString>crwdns484932:0{0}crwdne484932:0</RecipeAdministerJobString>
+  <TeetotalerUnhappy>crwdns484934:0crwdne484934:0</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>crwdns484936:0crwdne484936:0</ProsthophobeUnhappy>
+
+  <!-- Thoughts -->
+  <ThoughtExpiresIn>crwdns484938:0{0}crwdne484938:0</ThoughtExpiresIn>
+  <ThoughtNullifiedBy>crwdns484940:0crwdne484940:0</ThoughtNullifiedBy>
+  <ThoughtStartsExpiringIn>crwdns484942:0{0}crwdne484942:0</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>crwdns484944:0{0}crwdne484944:0</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>crwdns484946:0crwdne484946:0</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>crwdns484948:0crwdne484948:0</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>crwdns484950:0crwdne484950:0</MentalBreakThresholdMinor>
+
+  <!-- Pawn info readout -->
+  <PawnMainDescGendered>crwdns484952:0{PAWN_gender}crwdnd484952:0{1}crwdne484952:0</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>crwdns484954:0{0}crwdnd484954:0{1}crwdne484954:0</PawnMainDescFactionedWrap>
+  <PawnTitleDescWrap>crwdns484956:0{0}crwdnd484956:0{1}crwdne484956:0</PawnTitleDescWrap>
+  <PawnMainDescUnderFactionedWrap>crwdns484958:0{0}crwdnd484958:0{1}crwdne484958:0</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescLifestageWrap>crwdns484960:0{2_lifeStageAdjective}crwdnd484960:0{0}crwdne484960:0</PawnMainDescLifestageWrap>
+  <Faction>crwdns484962:0crwdne484962:0</Faction>
+  <FactionDesc>crwdns484964:0{PAWN_labelShort}crwdne484964:0</FactionDesc>
+  <ExtraFactionDesc>crwdns484966:0{PAWN_labelShort}crwdne484966:0</ExtraFactionDesc>
+  <Equipped>crwdns484968:0crwdne484968:0</Equipped>
+  <EquippedNothing>crwdns484970:0crwdne484970:0</EquippedNothing>
+  <Dead>crwdns484972:0crwdne484972:0</Dead>
+  <Unconscious>crwdns484974:0crwdne484974:0</Unconscious>
+  <PainShock>crwdns484976:0crwdne484976:0</PainShock>
+  <PainShockShort>crwdns484978:0crwdne484978:0</PainShockShort>
+  <Incapacitated>crwdns484980:0crwdne484980:0</Incapacitated>
+  <InRestraints>crwdns484982:0crwdne484982:0</InRestraints>
+  <Carrying>crwdns484984:0crwdne484984:0</Carrying>
+  <AffectedBy>crwdns484986:0crwdne484986:0</AffectedBy>
+  <Queued>crwdns484988:0crwdne484988:0</Queued>
+  <State>crwdns484990:0crwdne484990:0</State>
+  <StunLower>crwdns484992:0crwdne484992:0</StunLower>
+  <SlowedByDamage>crwdns484994:0crwdne484994:0</SlowedByDamage>
+
+  <!-- Inspector general stuff -->
+  <SelectNextInSquareTip>crwdns484996:0{0}crwdne484996:0</SelectNextInSquareTip>
+  <DefInfoTip>crwdns484998:0crwdne484998:0</DefInfoTip>
+  <SelectNextInSquareTipController>crwdns485000:0crwdne485000:0</SelectNextInSquareTipController>
+
+  <!-- Hostility response -->
+  <HostilityReponseTip>crwdns485002:0crwdne485002:0</HostilityReponseTip>
+  <HostilityResponseCurrentMode>crwdns485004:0crwdne485004:0</HostilityResponseCurrentMode>
+
+  <!-- like 'Blood of John' -->
+  <OfLower>crwdns485006:0crwdne485006:0</OfLower>
+
+  <!-- Power readout -->
+  <PowerNotConnected>crwdns485008:0crwdne485008:0</PowerNotConnected>
+  <PowerConnectedRateStored>crwdns485010:0{0}crwdnd485010:0{1}crwdne485010:0</PowerConnectedRateStored>
+  <PowerNeeded>crwdns485012:0crwdne485012:0</PowerNeeded>
+  <PowerOutput>crwdns485014:0crwdne485014:0</PowerOutput>
+  <PowerActiveNeeded>crwdns485016:0{0}crwdne485016:0</PowerActiveNeeded>
+  <PowerBatteryStored>crwdns485018:0crwdne485018:0</PowerBatteryStored>
+  <PowerBatteryEfficiency>crwdns485020:0crwdne485020:0</PowerBatteryEfficiency>
+  <SelfDischarging>crwdns485022:0crwdne485022:0</SelfDischarging>
+
+  <!-- Temperature control -->
+  <TargetTemperature>crwdns485024:0crwdne485024:0</TargetTemperature>
+  <PowerConsumptionMode>crwdns485026:0crwdne485026:0</PowerConsumptionMode>
+  <PowerConsumptionHigh>crwdns485028:0crwdne485028:0</PowerConsumptionHigh>
+  <PowerConsumptionLow>crwdns485030:0crwdne485030:0</PowerConsumptionLow>
+
+  <!-- Temperature readout -->
+  <Indoors>crwdns485032:0crwdne485032:0</Indoors>
+  <IndoorsUnroofed>crwdns485034:0crwdne485034:0</IndoorsUnroofed>
+  <Outdoors>crwdns485036:0crwdne485036:0</Outdoors>
+
+  <!-- Rotting -->
+  <RotStateFresh>crwdns485038:0crwdne485038:0</RotStateFresh>
+  <RotStateRotting>crwdns485040:0crwdne485040:0</RotStateRotting>
+  <RotStateDessicated>crwdns485042:0crwdne485042:0</RotStateDessicated>
+  <CurrentlyFrozen>crwdns485044:0crwdne485044:0</CurrentlyFrozen>
+  <CurrentlyRefrigerated>crwdns485046:0{0}crwdne485046:0</CurrentlyRefrigerated>
+  <NotRefrigerated>crwdns485048:0{0}crwdne485048:0</NotRefrigerated>
+  <OverADecade>crwdns485050:0crwdne485050:0</OverADecade>
+  <LessThanADay>crwdns485052:0crwdne485052:0</LessThanADay>
+
+  <!-- Shooting tooltip -->
+  <ShotBy>crwdns485054:0{1_labelShort}crwdne485054:0</ShotBy>
+  <CannotHit>crwdns485056:0crwdne485056:0</CannotHit>
+  <ManhunterPerHit>crwdns485058:0crwdne485058:0</ManhunterPerHit>
+
+  <!-- Meal -->
+  <Ingredients>crwdns485060:0crwdne485060:0</Ingredients>
+  <IngredientsDesc>crwdns485062:0crwdne485062:0</IngredientsDesc>
+  <DietaryType>crwdns485064:0crwdne485064:0</DietaryType>
+  <DietaryTypeDesc>crwdns485066:0crwdne485066:0</DietaryTypeDesc>
+  <OnlyStacksWithCompatibleMeals>crwdns485068:0crwdne485068:0</OnlyStacksWithCompatibleMeals>
+
+  <!-- Plants -->
+  <PercentGrowth>crwdns485070:0{0}crwdne485070:0</PercentGrowth>
+  <GrowthRate>crwdns485072:0crwdne485072:0</GrowthRate>
+  <FullyGrownIn>crwdns485074:0{0}crwdne485074:0</FullyGrownIn>
+  <PlantNeedsLightLevel>crwdns485076:0crwdne485076:0</PlantNeedsLightLevel>
+  <PlantResting>crwdns485078:0crwdne485078:0</PlantResting>
+  <OutOfIdealTemperatureRange>crwdns485080:0{0}crwdne485080:0</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>crwdns485082:0crwdne485082:0</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>crwdns485084:0crwdne485084:0</ReadyToHarvest>
+  <Mature>crwdns485086:0crwdne485086:0</Mature>
+  <AveragePlantAge>crwdns485088:0crwdne485088:0</AveragePlantAge>
+  <OldestPlantAge>crwdns485090:0crwdne485090:0</OldestPlantAge>
+  <OutdoorGrowingPeriod>crwdns485092:0crwdne485092:0</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>crwdns485094:0crwdne485094:0</NoGrowingPeriod>
+  <GrowYearRound>crwdns485096:0crwdne485096:0</GrowYearRound>
+  <GrowSeasonHereNow>crwdns485098:0crwdne485098:0</GrowSeasonHereNow>
+  <CannotGrowBadSeasonTemperature>crwdns485100:0crwdne485100:0</CannotGrowBadSeasonTemperature>
+  <Blighted>crwdns485102:0crwdne485102:0</Blighted>
+  <DyingBecauseExposedToLight>crwdns485104:0crwdne485104:0</DyingBecauseExposedToLight>
+  <AutoCutNow>crwdns485106:0crwdne485106:0</AutoCutNow>
+  <HarvestGerund>crwdns485108:0crwdne485108:0</HarvestGerund>
+  <CutGerund>crwdns485110:0crwdne485110:0</CutGerund>
+  <CutAllBlight>crwdns485112:0crwdne485112:0</CutAllBlight>
+  <CutAllBlightDesc>crwdns485114:0crwdne485114:0</CutAllBlightDesc>
+
+  <!-- Zones -->
+  <Zone>crwdns485116:0crwdne485116:0</Zone>
+  <GrowingZone>crwdns485118:0crwdne485118:0</GrowingZone>
+  <Stockpile>crwdns485120:0crwdne485120:0</Stockpile>
+  <DumpingStockpile>crwdns485122:0crwdne485122:0</DumpingStockpile>
+  <Priority>crwdns485124:0crwdne485124:0</Priority>
+  <ClearAll>crwdns485126:0crwdne485126:0</ClearAll>
+  <AllowAll>crwdns485128:0crwdne485128:0</AllowAll>
+
+  <!-- ThingFilter -->
+  <HitPoints>crwdns485130:0{0}crwdne485130:0</HitPoints>
+  <AnyQuality>crwdns485132:0crwdne485132:0</AnyQuality>
+  <OnlyQuality>crwdns485134:0{0}crwdne485134:0</OnlyQuality>
+
+  <!-- Mouseover indicator -->
+  <Undiscovered>crwdns485136:0crwdne485136:0</Undiscovered>
+
+  <!-- Buttons -->
+  <ShowLearningHelperWhenEmptyToggleButton>crwdns485138:0crwdne485138:0</ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>crwdns485140:0crwdne485140:0</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>crwdns485142:0crwdne485142:0</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>crwdns485144:0crwdne485144:0</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>crwdns485146:0crwdne485146:0</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButtonController>crwdns485148:0crwdne485148:0</ShowColonistBarToggleButtonController>
+  <AutoHomeAreaToggleButton>crwdns485150:0crwdne485150:0</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>crwdns485152:0crwdne485152:0</AutoRebuildButton>
+  <CategorizedResourceReadoutToggleButton>crwdns485154:0crwdne485154:0</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>crwdns485156:0crwdne485156:0</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>crwdns485158:0crwdne485158:0</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>crwdns485160:0crwdne485160:0</ShowFertilityOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>crwdns485162:0crwdne485162:0</ShowTerrainAffordanceOverlayToggleButton>
+  <LockNorthUpToggleButton>crwdns485164:0crwdne485164:0</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>crwdns485166:0crwdne485166:0</UsePlanetDayNightSystemToggleButton>
+  <ShowExpandingIconsToggleButton>crwdns485168:0crwdne485168:0</ShowExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>crwdns485170:0crwdne485170:0</ShowWorldFeaturesToggleButton>
+  <ShowTemperatureOverlayToggleButton>crwdns485172:0crwdne485172:0</ShowTemperatureOverlayToggleButton>
+
+  <!-- Fire -->
+  <FireOn>crwdns485174:0{1_label}crwdne485174:0</FireOn>
+  <Burning>crwdns485176:0crwdne485176:0</Burning>
+  <FireSizeLower>crwdns485178:0{0}crwdne485178:0</FireSizeLower>
+
+  <!-- Game conditions -->
+  <GameConditionsTip>crwdns485180:0crwdne485180:0</GameConditionsTip>
+  <TimeLeft>crwdns485182:0crwdne485182:0</TimeLeft>
+  <ImpactDate>crwdns485184:0crwdne485184:0</ImpactDate>
+  <SourceUnknown>crwdns485186:0crwdne485186:0</SourceUnknown>
+  <ClickToJumpToSource>crwdns485188:0crwdne485188:0</ClickToJumpToSource>
+  <ClickToJumpToFlashstorm>crwdns485190:0crwdne485190:0</ClickToJumpToFlashstorm>
+  <CausedByQuest>crwdns485192:0{0}crwdne485192:0</CausedByQuest>
+
+  <!-- Building placement -->
+  <NoStuffsToBuildWith>crwdns485194:0crwdne485194:0</NoStuffsToBuildWith>
+
+  <!-- Building placement restricters -->
+  <WillGetWorkSpeedPenalty>crwdns485196:0{0}crwdne485196:0</WillGetWorkSpeedPenalty>
+  <MustPlaceUnroofed>crwdns485198:0crwdne485198:0</MustPlaceUnroofed>
+  <MustPlaceUnderThickRoof>crwdns485200:0crwdne485200:0</MustPlaceUnderThickRoof>
+  <MustPlaceHeadOnShipBeam>crwdns485202:0crwdne485202:0</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>crwdns485204:0crwdne485204:0</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>crwdns485206:0crwdne485206:0</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>crwdns485208:0crwdne485208:0</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>crwdns485210:0crwdne485210:0</MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>crwdns485212:0crwdne485212:0</MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>crwdns485214:0crwdne485214:0</MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>crwdns485216:0crwdne485216:0</MustPlaceOnDrillable>
+  <CannotPlaceAdjacentTrap>crwdns485218:0crwdne485218:0</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentSameDef>crwdns485220:0crwdne485220:0</CannotPlaceAdjacentSameDef>
+
+  <!-- Wind Turbine -->
+  <WindTurbine_WindPathIsBlockedBy>crwdns485222:0crwdne485222:0</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>crwdns485224:0crwdne485224:0</WindTurbine_WindPathIsBlockedByRoof>
+
+  <!-- Watermill generator -->
+  <Watermill_WaterUsedTwice>crwdns485226:0crwdne485226:0</Watermill_WaterUsedTwice>
+
+  <!-- Cryptosleep casket -->
+  <CasketContains>crwdns485228:0crwdne485228:0</CasketContains>
+  <CasketWarning>crwdns485230:0{PAWN_nameDef}crwdnd485230:0{PAWN_objective}crwdne485230:0</CasketWarning>
+
+  <!-- Ship launch report -->
+  <ShipReportCannotLaunch>crwdns485232:0crwdne485232:0</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>crwdns485234:0crwdne485234:0</ShipReportCanLaunch>
+  <ShipReportMissingPart>crwdns485236:0crwdne485236:0</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>crwdns485238:0crwdne485238:0</ShipReportMissingPartRequires>
+  <ShipReportNoFullPods>crwdns485240:0crwdne485240:0</ShipReportNoFullPods>
+  <ShipReportHibernating>crwdns485242:0crwdne485242:0</ShipReportHibernating>
+  <ShipReportNotReady>crwdns485244:0crwdne485244:0</ShipReportNotReady>
+  <HibernateWarning>crwdns485246:0crwdne485246:0</HibernateWarning>
+  <HibernateWarningStandalone>crwdns485248:0crwdne485248:0</HibernateWarningStandalone>
+  <HibernateWarningPacifist>crwdns485250:0crwdne485250:0</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>crwdns485252:0crwdne485252:0</HibernateWarningStandalonePacifist>
+
+  <!-- Neurotrainer -->
+  <SkillNeurotrainerLabel>crwdns485254:0{0}crwdne485254:0</SkillNeurotrainerLabel>
+  <SkillNeurotrainerUseLabel>crwdns485256:0{0}crwdne485256:0</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerDescription>crwdns485258:0crwdne485258:0</SkillNeurotrainerDescription>
+  <SkillNeurotrainerUsed>crwdns485260:0{USER_labelShort}crwdnd485260:0{1}crwdnd485260:0{2}crwdnd485260:0{3}crwdne485260:0</SkillNeurotrainerUsed>
+
+  <!-- Minification -->
+  <Installed>crwdns485262:0crwdne485262:0</Installed>
+  <NotInstalled>crwdns485264:0crwdne485264:0</NotInstalled>
+  <MinifiedTreeWillDieIn>crwdns485266:0{time}crwdne485266:0</MinifiedTreeWillDieIn>
+
+  <!-- Art -->
+  <Title>crwdns485268:0crwdne485268:0</Title>
+  <Untitled>crwdns485270:0crwdne485270:0</Untitled>
+
+  <!-- Unfinished thing -->
+  <UnfinishedItem>crwdns485272:0{0}crwdne485272:0</UnfinishedItem>
+  <UnfinishedItemWithStuff>crwdns485274:0{0}crwdnd485274:0{1}crwdne485274:0</UnfinishedItemWithStuff>
+
+  <!-- Quality -->
+  <Quality>crwdns485276:0crwdne485276:0</Quality>
+  <quality>crwdns485278:0crwdne485278:0</quality>
+  <QualityDescription>crwdns485280:0crwdne485280:0</QualityDescription>
+  <QualityIs>crwdns485282:0{0}crwdne485282:0</QualityIs>
+
+  <!-- Mood descriptions -->
+  <Mood_MentalState>crwdns485284:0crwdne485284:0</Mood_MentalState>
+  <Mood_AboutToBreak>crwdns485286:0crwdne485286:0</Mood_AboutToBreak>
+  <Mood_OnEdge>crwdns485288:0crwdne485288:0</Mood_OnEdge>
+  <Mood_Stressed>crwdns485290:0crwdne485290:0</Mood_Stressed>
+  <Mood_Neutral>crwdns485292:0crwdne485292:0</Mood_Neutral>
+  <Mood_Content>crwdns485294:0crwdne485294:0</Mood_Content>
+  <Mood_Happy>crwdns485296:0crwdne485296:0</Mood_Happy>
+
+  <!-- Game over -->
+  <GameOverEveryoneDead>crwdns485298:0crwdne485298:0</GameOverEveryoneDead>
+  <GameOverPlanetkillerImpact>crwdns485300:0{0}crwdne485300:0</GameOverPlanetkillerImpact>
+  <GameOverShipLaunchedIntro>crwdns485302:0crwdne485302:0</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedEnding>crwdns485304:0crwdne485304:0</GameOverShipLaunchedEnding>
+  <GameOverColonistsEscaped>crwdns485306:0{0}crwdne485306:0</GameOverColonistsEscaped>
+  <GameOverColonistsLeft>crwdns485308:0{0}crwdne485308:0</GameOverColonistsLeft>
+  <GameOverInMemoryOf>crwdns485310:0crwdne485310:0</GameOverInMemoryOf>
+  <GameOverKeepPlaying>crwdns485312:0crwdne485312:0</GameOverKeepPlaying>
+  <GameOverMainMenu>crwdns485314:0crwdne485314:0</GameOverMainMenu>
+
+  <!-- Generic lifespan -->
+  <LifespanExpiry>crwdns485316:0crwdne485316:0</LifespanExpiry>
+
+  <!-- Facilities -->
+  <InactiveFacility>crwdns485318:0crwdne485318:0</InactiveFacility>
+  <FacilityPotentiallyLinkedTo>crwdns485320:0crwdne485320:0</FacilityPotentiallyLinkedTo>
+  <FacilityNoPotentialLinks>crwdns485322:0crwdne485322:0</FacilityNoPotentialLinks>
+
+  <!-- Hediffs growth modes -->
+  <DiseaseGrowthModeChanged_Growing>crwdns485324:0{PAWN_labelShort}crwdnd485324:0{1}crwdne485324:0</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>crwdns485326:0{PAWN_labelShort}crwdnd485326:0{1}crwdne485326:0</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>crwdns485328:0{PAWN_labelShort}crwdnd485328:0{1}crwdne485328:0</DiseaseGrowthModeChanged_Remission>
+
+  <!-- Marriage spot -->
+  <MarriageSpotUsable>crwdns485330:0crwdne485330:0</MarriageSpotUsable>
+  <MarriageSpotNotUsable>crwdns485332:0{0}crwdne485332:0</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>crwdns485334:0crwdne485334:0</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>crwdns485336:0{1_labelShort}crwdne485336:0</MarriageSpotDangerous>
+  <MarriageSpotForbidden>crwdns485338:0{1_labelShort}crwdne485338:0</MarriageSpotForbidden>
+  <MarriageSpotReserved>crwdns485340:0crwdne485340:0</MarriageSpotReserved>
+  <MarriageSpotUnreachable>crwdns485342:0{1_labelShort}crwdne485342:0</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>crwdns485344:0crwdne485344:0</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>crwdns485346:0crwdne485346:0</NotEnjoyableOutsideTemperature>
+
+  <!-- Colonist bar -->
+  <ActivityIconMedicalRest>crwdns485348:0crwdne485348:0</ActivityIconMedicalRest>
+  <ActivityIconSleeping>crwdns485350:0crwdne485350:0</ActivityIconSleeping>
+  <ActivityIconFleeing>crwdns485352:0crwdne485352:0</ActivityIconFleeing>
+  <ActivityIconAttacking>crwdns485354:0crwdne485354:0</ActivityIconAttacking>
+  <ActivityIconIdle>crwdns485356:0crwdne485356:0</ActivityIconIdle>
+  <ActivityIconBurning>crwdns485358:0crwdne485358:0</ActivityIconBurning>
+  <ActivityIconFormingCaravan>crwdns485360:0crwdne485360:0</ActivityIconFormingCaravan>
+
+  <!-- Maintainable -->
+  <DueForMaintenance>crwdns485362:0crwdne485362:0</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>crwdns485364:0crwdne485364:0</DeterioratingDueToLackOfMaintenance>
+
+  <!-- Deep drill -->
+  <ProgressToNextLump>crwdns485366:0crwdne485366:0</ProgressToNextLump>
+  <ResourceBelow>crwdns485368:0crwdne485368:0</ResourceBelow>
+  <ProgressToNextPortion>crwdns485370:0crwdne485370:0</ProgressToNextPortion>
+  <DeepDrillNoResources>crwdns485372:0crwdne485372:0</DeepDrillNoResources>
+  <DeepDrillExhausted>crwdns485374:0{0}crwdne485374:0</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>crwdns485376:0crwdne485376:0</DeepDrillExhaustedNoFallback>
+
+  <!-- reloading ammo -->
+  <ChargesRemaining>crwdns485378:0crwdne485378:0</ChargesRemaining>
+  
+  <!-- Learning helper -->
+  <LearningHelper>crwdns485380:0crwdne485380:0</LearningHelper>
+  <LearningHelperTooltip>crwdns485382:0crwdne485382:0</LearningHelperTooltip>
+  <MarkLearned>crwdns485384:0crwdne485384:0</MarkLearned>
+  <AlreadyLearned>crwdns485386:0crwdne485386:0</AlreadyLearned>
+  <Filter>crwdns485388:0crwdne485388:0</Filter>
+
+  <!-- Compass -->
+  <CompassTip>crwdns485390:0crwdne485390:0</CompassTip>
+
+  <!-- World route planner -->
+  <RoutePlannerButtonTip>crwdns485392:0crwdne485392:0</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>crwdns485394:0crwdne485394:0</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>crwdns485396:0crwdne485396:0</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>crwdns485398:0{0}crwdne485398:0</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>crwdns485400:0crwdne485400:0</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>crwdns485402:0{0}crwdne485402:0</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>crwdns485404:0crwdne485404:0</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>crwdns485406:0crwdne485406:0</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressEscapeToExit>crwdns485408:0crwdne485408:0</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExitController>crwdns485410:0{Key:Cancel}crwdne485410:0</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>crwdns485412:0crwdne485412:0</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>crwdns485414:0{Key:Cancel}crwdne485414:0</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <EstimatedTimeToWaypoint>crwdns485416:0{0}crwdne485416:0</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>crwdns485418:0{0}crwdne485418:0</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>crwdns485420:0{0}crwdne485420:0</EstimatedTimeToTile>
+  <ForagedFoodAmount>crwdns485422:0crwdne485422:0</ForagedFoodAmount>
+
+  <!-- Outfits -->
+  <OutfitAnything>crwdns485424:0crwdne485424:0</OutfitAnything>
+  <OutfitWorker>crwdns485426:0crwdne485426:0</OutfitWorker>
+  <OutfitSoldier>crwdns485428:0crwdne485428:0</OutfitSoldier>
+  <OutfitNudist>crwdns485430:0crwdne485430:0</OutfitNudist>
+
+  <!-- Hibernatable -->
+  <HibernatableHibernating>crwdns485432:0crwdne485432:0</HibernatableHibernating>
+  <HibernatableStartingUp>crwdns485434:0crwdne485434:0</HibernatableStartingUp>
+
+  <!-- Transport pods -->
+  <ClickToSeeAvailableOrders_WorldObject>crwdns485436:0{0}crwdne485436:0</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>crwdns485438:0crwdne485438:0</ClickToSeeAvailableOrders_Empty>
+  
+  <!-- Pawn tooltips -->
+  <PawnTooltipWithDescAndPrimaryEquip>crwdns485440:0{0}crwdnd485440:0{1}crwdnd485440:0{2}crwdnd485440:0{3}crwdne485440:0</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>crwdns485442:0{0}crwdnd485442:0{1}crwdnd485442:0{2}crwdne485442:0</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithPrimaryEquipNoDesc>crwdns485444:0{0}crwdnd485444:0{1}crwdnd485444:0{2}crwdne485444:0</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipNoDescNoPrimaryEquip>crwdns485446:0{0}crwdnd485446:0{1}crwdne485446:0</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipPsychicEntropyStats>crwdns485448:0{0}crwdnd485448:0{1}crwdne485448:0</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyDesc>crwdns485450:0crwdne485450:0</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyPainFocus>crwdns485452:0{0}crwdnd485452:0{1}crwdne485452:0</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyLimit>crwdns485454:0crwdne485454:0</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsyfocus>crwdns485456:0{0}crwdne485456:0</PawnTooltipPsyfocus>
+  
+  <!-- Pawn tooltip description -->
+  <PawnTooltipGenderAndKindLabel>crwdns485458:0{0}crwdnd485458:0{1}crwdne485458:0</PawnTooltipGenderAndKindLabel>
+
+  <!-- Rewards -->
+  <Reward_Pawn_DropPod>crwdns485460:0{0_age}crwdnd485460:0{0_title}crwdnd485460:0{0_nameDef}crwdnd485460:0{0_relationInfoInParentheses}crwdne485460:0</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>crwdns485462:0{0_age}crwdnd485462:0{0_title}crwdnd485462:0{0_nameDef}crwdnd485462:0{0_relationInfoInParentheses}crwdne485462:0</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>crwdns485464:0{0_age}crwdnd485464:0{0_title}crwdnd485464:0{0_nameDef}crwdnd485464:0{0_relationInfoInParentheses}crwdne485464:0</Reward_Pawn_Caravan>
+  <Reward_Items>crwdns485466:0{1}crwdnd485466:0{0}crwdne485466:0</Reward_Items>
+  <Reward_Items_Caravan>crwdns485468:0{1}crwdnd485468:0{0}crwdne485468:0</Reward_Items_Caravan>
+  <Reward_Goodwill>crwdns485470:0{0_name}crwdnd485470:0{1}crwdne485470:0</Reward_Goodwill>
+  <Reward_PassageOffworld>crwdns485472:0crwdne485472:0</Reward_PassageOffworld>
+  <Reward_PassageOffworld_Label>crwdns485474:0crwdne485474:0</Reward_PassageOffworld_Label>
+  <Reward_CampLoot>crwdns485476:0crwdne485476:0</Reward_CampLoot>
+  <Reward_CampLoot_Label>crwdns485478:0crwdne485478:0</Reward_CampLoot_Label>
+  <Reward_VisitorsHelp>crwdns485480:0crwdne485480:0</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp_Label>crwdns485482:0crwdne485482:0</Reward_VisitorsHelp_Label>
+  <Reward_BestowingCeremony_Label>crwdns485484:0crwdne485484:0</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony>crwdns485486:0{PAWNNAME}crwdne485486:0</Reward_BestowingCeremony>
+  <Reward_ShuttleLoot_Label>crwdns485488:0crwdne485488:0</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot>crwdns485490:0crwdne485490:0</Reward_ShuttleLoot>
+  <Reward_PossibleFutureReward_Label>crwdns485492:0crwdne485492:0</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward>crwdns485494:0crwdne485494:0</Reward_PossibleFutureReward>
+  <Reward_Title_Label>crwdns485496:0{TITLE}crwdne485496:0</Reward_Title_Label>
+  <Reward_Title>crwdns485498:0{PAWNNAME}crwdnd485498:0{TITLE}crwdnd485498:0{FACTION}crwdne485498:0</Reward_Title>
+  <TotalValue>crwdns485500:0{0}crwdne485500:0</TotalValue>
+  
+  <!-- Bladelink -->
+  <BondedWith>crwdns485502:0{0}crwdne485502:0</BondedWith>
+  <NotBonded>crwdns485504:0crwdne485504:0</NotBonded>
+  <BladelinkBondedToSomeoneElse>crwdns485506:0crwdne485506:0</BladelinkBondedToSomeoneElse>
+  <BladelinkAlreadyBonded>crwdns485508:0crwdne485508:0</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBondedDialog>crwdns485510:0{WEAPON_labelShort}crwdnd485510:0{PAWN_nameDef}crwdnd485510:0{BONDEDWEAPON_labelShort}crwdne485510:0</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedMessage>crwdns485512:0{PAWN_nameDef}crwdnd485512:0{BONDEDWEAPON_labelShort}crwdne485512:0</BladelinkAlreadyBondedMessage>
+
+  <!-- Biocoded weapons -->
+  <Biocoded>crwdns485514:0{0}crwdne485514:0</Biocoded>
+  <CodedFor>crwdns485516:0{0}crwdne485516:0</CodedFor>
+  <BiocodedCodedForSomeoneElse>crwdns485518:0crwdne485518:0</BiocodedCodedForSomeoneElse>
+
+  <!-- Projectile interceptor -->
+  <InterceptsProjectilesEvery>crwdns485520:0{0}crwdnd485520:0{1}crwdne485520:0</InterceptsProjectilesEvery>
+  <InterceptsProjectiles>crwdns485522:0{0}crwdne485522:0</InterceptsProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>crwdns485524:0crwdne485524:0</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>crwdns485526:0crwdne485526:0</InterceptsProjectiles_AerialProjectiles>
+
+  <!-- Condition causers -->
+  <AffectedGender>crwdns485528:0crwdne485528:0</AffectedGender>
+
+  <!-- Hediff misc -->
+  <CausedByHediff>crwdns485530:0{0}crwdne485530:0</CausedByHediff>
+  
+  <!-- Healing -->
+  <HealingCureHediff>crwdns485532:0{0_nameDef}crwdnd485532:0{1}crwdne485532:0</HealingCureHediff>
+  <HealingRestoreBodyPart>crwdns485534:0{0_nameDef}crwdnd485534:0{1}crwdne485534:0</HealingRestoreBodyPart>
+
+  <WarningBuildingCausesHostility>crwdns485536:0{FACTION_name}crwdne485536:0</WarningBuildingCausesHostility>
+
+  <ChooseLandingSite>crwdns485538:0crwdne485538:0</ChooseLandingSite>
+  
+  <!-- Rituals -->
+  <Ritual>crwdns485540:0crwdne485540:0</Ritual>
+
+  <RitualTakesPlaceAt>crwdns485542:0crwdne485542:0</RitualTakesPlaceAt>
+  <RitualTargetThingDefsInfo>crwdns485544:0{0}crwdne485544:0</RitualTargetThingDefsInfo>
+  <LordReportAttending>crwdns485546:0{0}crwdne485546:0</LordReportAttending>
+  <RitualCalledOff>crwdns485548:0{0}crwdne485548:0</RitualCalledOff>
+  <RitualNobodyAttended>crwdns485550:0{0}crwdne485550:0</RitualNobodyAttended>
+  <RitualFinished>crwdns485552:0{0}crwdne485552:0</RitualFinished>
+  <RitualEndsIn>crwdns485554:0{0}crwdne485554:0</RitualEndsIn>
+  <RitualStartAnyTime>crwdns485556:0crwdne485556:0</RitualStartAnyTime>
+  <RitualStartEvent>crwdns485558:0crwdne485558:0</RitualStartEvent>
+  <RitualFocusObjects>crwdns485560:0crwdne485560:0</RitualFocusObjects>
+  <RitualParticipatingRoles>crwdns485562:0crwdne485562:0</RitualParticipatingRoles>
+  <Organizers>crwdns485564:0crwdne485564:0</Organizers>
+  <QualityFactors>crwdns485566:0crwdne485566:0</QualityFactors>
+  <QualityFactorTooltipUncertain>crwdns485568:0crwdne485568:0</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipNotFulfilled>crwdns485570:0crwdne485570:0</QualityFactorTooltipNotFulfilled>
+  <Spectators>crwdns485572:0crwdne485572:0</Spectators>
+  <NotParticipating>crwdns485574:0crwdne485574:0</NotParticipating>
+  <DragPawnsToRolesInfo>crwdns485576:0crwdne485576:0</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfoController>crwdns485578:0crwdne485578:0</DragPawnsToRolesInfoController>
+  <RitualBeginSlaveDesc>crwdns485580:0crwdne485580:0</RitualBeginSlaveDesc>
+  <RitualBeginSleepingDesc>crwdns485582:0{0_labelShort}crwdnd485582:0{0_pronoun}crwdne485582:0</RitualBeginSleepingDesc>
+  <RitualBeginSleepingWarning>crwdns485584:0crwdne485584:0</RitualBeginSleepingWarning>
+  <RitualRoleRequiresSocialRole>crwdns485586:0{0}crwdne485586:0</RitualRoleRequiresSocialRole>
+  <RitualRoleCantSubstitute>crwdns485588:0{0}crwdne485588:0</RitualRoleCantSubstitute>
+  <RitualOutcomeProgress>crwdns485590:0{0}crwdne485590:0</RitualOutcomeProgress>
+  <RitualOutcomeQualityAbstract>crwdns485592:0{0}crwdne485592:0</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualitySpecific>crwdns485594:0{0}crwdnd485594:0{1}crwdne485594:0</RitualOutcomeQualitySpecific>
+  <RitualOutcomeChances>crwdns485596:0{0}crwdne485596:0</RitualOutcomeChances>
+  <RitualOutcomePerformedRecently>crwdns485598:0crwdne485598:0</RitualOutcomePerformedRecently>
+  <RitualQualityExpectations>crwdns485600:0{0}crwdne485600:0</RitualQualityExpectations>
+  <RitualAmbienceSound>crwdns485602:0crwdne485602:0</RitualAmbienceSound>
+  <RitualQualityLowWarning>crwdns485604:0{0}crwdnd485604:0{1}crwdne485604:0</RitualQualityLowWarning>
+  <AbilitySpeechDisabledNoSpot>crwdns485606:0crwdne485606:0</AbilitySpeechDisabledNoSpot>
+  <AbilityDisabledNoCapacity>crwdns485608:0{0_labelShort}crwdnd485608:0{1}crwdne485608:0</AbilityDisabledNoCapacity>
+  <RitualOutcomeExtraDesc_Mood>crwdns485610:0{0}crwdnd485610:0{1}crwdne485610:0</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeNoQuality>crwdns485612:0crwdne485612:0</RitualOutcomeNoQuality>
+  
+  <ChooseParticipants>crwdns485614:0{RITUAL_labelDef}crwdne485614:0</ChooseParticipants>
+  <Begin>crwdns485616:0crwdne485616:0</Begin>
+  <BeginRitual>crwdns485618:0{0}crwdne485618:0</BeginRitual>
+  <BeginRitualFor>crwdns485620:0{0}crwdnd485620:0{1}crwdne485620:0</BeginRitualFor>
+  <QualityOutOf>crwdns485622:0{0}crwdnd485622:0{1}crwdne485622:0</QualityOutOf>
+  <DateRitualNoObligation>crwdns485624:0{0}crwdnd485624:0{1}crwdnd485624:0{2}crwdne485624:0</DateRitualNoObligation>
+
+  <PreceptReplaceWith>crwdns485626:0crwdne485626:0</PreceptReplaceWith>
+  <RitualSeatOf>crwdns485628:0{IDEOS}crwdne485628:0</RitualSeatOf>
+  <ExpectedRitualQuality>crwdns485630:0crwdne485630:0</ExpectedRitualQuality>
+  <StartingQuality>crwdns485632:0crwdne485632:0</StartingQuality>
+  <ExpectedRitualDuration>crwdns485634:0crwdne485634:0</ExpectedRitualDuration>
+  
+  <RitualPredictedOutcomeDescPawnStat>crwdns485636:0{PAWN_labelShort}crwdnd485636:0{1}crwdne485636:0</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescRoomBeauty>crwdns485638:0crwdne485638:0</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescParticipantCount>crwdns485640:0crwdne485640:0</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescPawnExpectations>crwdns485642:0{PAWN_labelShort}crwdne485642:0</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualOutcomeLovedOnePresentLabel>crwdns485644:0crwdne485644:0</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentTip>crwdns485646:0{PAWN_labelShort}crwdne485646:0</RitualOutcomeLovedOnePresentTip>
+
+  <RitualOutcomeLabelAnyOfThese>crwdns485648:0crwdne485648:0</RitualOutcomeLabelAnyOfThese>
+  <RitualRoleReplaces>crwdns485650:0{PAWN_labelShort}crwdne485650:0</RitualRoleReplaces>
+
+  <Present>crwdns485652:0crwdne485652:0</Present>
+  <Used>crwdns485654:0{0}crwdne485654:0</Used>
+  <StartingRitualQuality>crwdns485656:0{0}crwdne485656:0</StartingRitualQuality>
+
+  <OutcomeBonusDesc_Quality>crwdns485658:0{0}crwdne485658:0</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_QualitySingleOffset>crwdns485660:0{0}crwdne485660:0</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeLetterLabel>crwdns485662:0{OUTCOMELABEL}crwdnd485662:0{RITUALLABEL}crwdne485662:0</OutcomeLetterLabel>
+  <MaxValue>crwdns485664:0{0}crwdne485664:0</MaxValue>
+
+  <ThingOf>crwdns485666:0{0}crwdne485666:0</ThingOf>
+  <ThingOfSource>crwdns485668:0{0}crwdnd485668:0{1}crwdne485668:0</ThingOfSource>
+  <ThingOfTwoSources>crwdns485670:0{0}crwdnd485670:0{1}crwdnd485670:0{2}crwdne485670:0</ThingOfTwoSources>
+
+  <!-- Gas types -->
+  <BlindSmoke>crwdns485672:0crwdne485672:0</BlindSmoke>
+  <ToxGas>crwdns485674:0crwdne485674:0</ToxGas>
+  <RotStink>crwdns485676:0crwdne485676:0</RotStink>
+
+  <!-- Abilities -->
+  <AbilityDisabledUndrafted>crwdns485678:0crwdne485678:0</AbilityDisabledUndrafted>
+  <AbilityOnCooldown>crwdns485680:0{0}crwdne485680:0</AbilityOnCooldown>
+  <AbilityAlreadyQueued>crwdns485682:0crwdne485682:0</AbilityAlreadyQueued>
+  <AbilityReadyLabel>crwdns485684:0{0}crwdne485684:0</AbilityReadyLabel>
+  <AbilityReadyText>crwdns485686:0{0_nameDef}crwdnd485686:0{1}crwdne485686:0</AbilityReadyText>
+  <AbilityDisabledInRitual>crwdns485688:0{0_labelShort}crwdnd485688:0{1}crwdne485688:0</AbilityDisabledInRitual>
+  <Charges>crwdns485690:0crwdne485690:0</Charges>
+
+  <PawnIsInMentalState>crwdns485692:0{0_nameDef}crwdne485692:0</PawnIsInMentalState>
+
+  <DisabledWorkLabel>crwdns485694:0crwdne485694:0</DisabledWorkLabel>
+
+  <!-- Glowers -->
+  <GlowerChangeColor>crwdns485696:0crwdne485696:0</GlowerChangeColor>
+  <GlowerChangeColorDescription>crwdns485698:0crwdne485698:0</GlowerChangeColorDescription>
+  <GlowerChangeColorNeedsResearch>crwdns485700:0{0}crwdne485700:0</GlowerChangeColorNeedsResearch>
+
+  <!-- Shields -->
+  <ShieldPersonalTip>crwdns485702:0crwdne485702:0</ShieldPersonalTip>
+
+  <UnrecruitableDesc>crwdns485704:0{PAWN_nameDef}crwdnd485704:0{PAWN_possessive}crwdnd485704:0{PAWN_pronoun}crwdne485704:0</UnrecruitableDesc>
+
+  <Random>crwdns485706:0crwdne485706:0</Random>
+
+  <PlantThing>crwdns485708:0{0_label}crwdne485708:0</PlantThing>
+  <PlantThingDesc>crwdns485710:0{0_label}crwdne485710:0</PlantThingDesc>
+  <CancelPlantThing>crwdns485712:0{0_label}crwdne485712:0</CancelPlantThing>
+  <CancelPlantThingDesc>crwdns485714:0{0_label}crwdne485714:0</CancelPlantThingDesc>
+
+  <AbilitySpeechDisabledAnotherGatheringInProgress>crwdns485716:0crwdne485716:0</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechCooldown>crwdns485718:0crwdne485718:0</AbilitySpeechCooldown>
+  <AbilitySpeechTargetsLabel>crwdns485720:0crwdne485720:0</AbilitySpeechTargetsLabel>
 
 </LanguageData>
