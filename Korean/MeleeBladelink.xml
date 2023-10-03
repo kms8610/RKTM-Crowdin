@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeleeWeapon_MonoSwordBladelink.label>결속 단분자검</MeleeWeapon_MonoSwordBladelink.label>
-  <MeleeWeapon_MonoSwordBladelink.description>항상 압도적인 날카로움을 유지하는 나노 기술이 적용된 결정질 장검입니다. 가볍지만 두꺼운 갑옷까지도 쉽게 뚫어냅니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_MonoSwordBladelink.description>
-  <MeleeWeapon_MonoSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_MonoSwordBladelink.tools.handle.label>
-  <MeleeWeapon_MonoSwordBladelink.tools.point.label>칼끝</MeleeWeapon_MonoSwordBladelink.tools.point.label>
-  <MeleeWeapon_MonoSwordBladelink.tools.edge.label>도끼날</MeleeWeapon_MonoSwordBladelink.tools.edge.label>
-  
-  <MeleeWeapon_PlasmaSwordBladelink.label>결속 플라즈마검</MeleeWeapon_PlasmaSwordBladelink.label>
-  <MeleeWeapon_PlasmaSwordBladelink.description>최첨단 금속 검입니다. 작동시키면 뜨거운 플라즈마가 검신을 감싼 채로 고정됩니다. 공격 대상은 베이는 동시에 타들어갈 것입니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_PlasmaSwordBladelink.description>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>손잡이</MeleeWeapon_PlasmaSwordBladelink.tools.handle.label>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.point.label>칼끝</MeleeWeapon_PlasmaSwordBladelink.tools.point.label>
-  <MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>도끼날</MeleeWeapon_PlasmaSwordBladelink.tools.edge.label>
-  
-  <MeleeWeapon_ZeusHammerBladelink.label>결속 제우스망치</MeleeWeapon_ZeusHammerBladelink.label>
-  <MeleeWeapon_ZeusHammerBladelink.description>EMP 발생장치가 내장된 전투망치입니다. 피해를 가할 때마다 EMP 폭발이 동반되어 전자기기를 마비시킵니다.\n\n결속 무기는 자아를 지니고 있으며 오직 한 사람의 주인만 인정합니다. 무기 자아는 사용자의 신속성, 정확성, 분석력을 가속하여 적을 유린할 수 있게 합니다. 주인이 아닌 자는 사용할 수 없습니다.</MeleeWeapon_ZeusHammerBladelink.description>
-  <MeleeWeapon_ZeusHammerBladelink.tools.handle.label>손잡이</MeleeWeapon_ZeusHammerBladelink.tools.handle.label>
-  <MeleeWeapon_ZeusHammerBladelink.tools.head.label>둔기</MeleeWeapon_ZeusHammerBladelink.tools.head.label>
+  <NamerWeaponBladelink.rulePack.rulesStrings>
+    <li>r_weapon_name(p=3)->[noun][verber]</li>
+    <li>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[beginSyl][endSyl]</li>
+    <li>r_weapon_name(p=1)->[NamePerson]</li>
+    <li>r_weapon_name(p=1)->[nameAnimal]</li>
+    <li>nameAnimal->[NameAnimalUnisex]</li>
+    <li>nameAnimal->[NameAnimalMale]</li>
+    <li>nameAnimal->[NameAnimalFemale]</li>
+    <li>noun->oath</li>
+    <li>noun->promise</li>
+    <li>noun->death</li>
+    <li>noun->pain</li>
+    <li>noun->blood</li>
+    <li>noun->doom</li>
+    <li>noun->murder</li>
+    <li>noun->justice</li>
+    <li>noun->fear</li>
+    <li>noun->terror</li>
+    <li>noun->chaos</li>
+    <li>noun->order</li>
+    <li>noun->war</li>
+    <li>noun->silence</li>
+    <li>noun->debt</li>
+    <li>verber->keeper</li>
+    <li>verber->bringer</li>
+    <li>verber->sender</li>
+    <li>verber->giver</li>
+    <li>verber->maker</li>
+    <li>verber->crusher</li>
+    <li>verber->breaker</li>
+    <li>verber->smasher</li>
+    <li>verber->bender</li>
+    <li>verber->knower</li>
+    <li>verber->doer</li>
+    <li>beginSyl->vi</li>
+    <li>beginSyl->na</li>
+    <li>beginSyl->lo</li>
+    <li>beginSyl->ra</li>
+    <li>beginSyl->to</li>
+    <li>beginSyl->ger</li>
+    <li>beginSyl->xan</li>
+    <li>beginSyl->kel</li>
+    <li>middleSyl->ser</li>
+    <li>middleSyl->gar</li>
+    <li>middleSyl->lor</li>
+    <li>middleSyl->ven</li>
+    <li>middleSyl->zan</li>
+    <li>middleSyl->xal</li>
+    <li>endSyl->ys</li>
+    <li>endSyl->or</li>
+    <li>endSyl->ar</li>
+    <li>endSyl->sum</li>
+    <li>endSyl->dor</li>
+    <li>endSyl->mar</li>
+    <li>endSyl->gur</li>
+  </NamerWeaponBladelink.rulePack.rulesStrings>
 </LanguageData>
