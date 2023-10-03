@@ -1,47 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- WITab titles -->
-  <TabTerrain>crwdns485930:0crwdne485930:0</TabTerrain>
-  <TabPlanet>crwdns485932:0crwdne485932:0</TabPlanet>
-  <TabCaravanFeeding>crwdns485934:0crwdne485934:0</TabCaravanFeeding>
-  <TabCaravanSocial>crwdns485936:0crwdne485936:0</TabCaravanSocial>
-  <TabCaravanHealth>crwdns485938:0crwdne485938:0</TabCaravanHealth>
-  <TabCaravanNeeds>crwdns485940:0crwdne485940:0</TabCaravanNeeds>
-  <TabCaravanGear>crwdns485942:0crwdne485942:0</TabCaravanGear>
-  <TabCaravanItems>crwdns485944:0crwdne485944:0</TabCaravanItems>
-  
-  <!-- Misc -->
-  <AbandonSliderText>crwdns485946:0{{0}}crwdnd485946:0{0}crwdne485946:0</AbandonSliderText>
-  <ConfirmAbandonItemDialog>crwdns485948:0{0}crwdne485948:0</ConfirmAbandonItemDialog>
-  <AbandonTip>crwdns485950:0crwdne485950:0</AbandonTip>
-  <BanishTip>crwdns485952:0crwdne485952:0</BanishTip>
-  <AbandonSpecificCountTip>crwdns485954:0crwdne485954:0</AbandonSpecificCountTip>
-  <AbandonAllTip>crwdns485956:0crwdne485956:0</AbandonAllTip>
-  <AbandonItemTipExtraText>crwdns485958:0crwdne485958:0</AbandonItemTipExtraText>
-  <BanishTipWillDie>crwdns485960:0{1_labelShort}crwdne485960:0</BanishTipWillDie>
-  
-  <!-- Caravan inspect -->
-  <CaravanColonists>crwdns485962:0crwdne485962:0</CaravanColonists>
-  <CaravanPrisonersAndAnimals>crwdns485964:0crwdne485964:0</CaravanPrisonersAndAnimals>
-  <CaravanItems>crwdns485966:0crwdne485966:0</CaravanItems>
-  <OpenSpecificTabButtonTip>crwdns485968:0crwdne485968:0</OpenSpecificTabButtonTip>
-  <CaravanPrisoners>crwdns485970:0crwdne485970:0</CaravanPrisoners>
-  <CaravanWeaponsAndApparel>crwdns485972:0crwdne485972:0</CaravanWeaponsAndApparel>
-  <NoneCapable>crwdns485974:0crwdne485974:0</NoneCapable>
-  <GainingJoyBecauseCaravanNotMoving>crwdns485976:0crwdne485976:0</GainingJoyBecauseCaravanNotMoving>
-  
-  <!-- Caravan gear -->
-  <DragToRearrange>crwdns485978:0crwdne485978:0</DragToRearrange>
-
-  <!-- Caravan items -->
-  <AssignDrugPolicies>crwdns485980:0crwdne485980:0</AssignDrugPolicies>
-
-  <!-- Caravan health -->
-  <BeCarriedIfSickTip>crwdns485982:0crwdne485982:0</BeCarriedIfSickTip>
-  
-  <!-- Planet -->
-  <PlanetSeed>crwdns485984:0crwdne485984:0</PlanetSeed>
-  <PlanetCoverageShort>crwdns485986:0crwdne485986:0</PlanetCoverageShort>
+  <CaravanPrisonersAnimalsAndMechs>crwdns430682:0crwdne430682:0</CaravanPrisonersAnimalsAndMechs>
 
 </LanguageData>
