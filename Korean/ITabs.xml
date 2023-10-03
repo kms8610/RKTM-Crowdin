@@ -1,75 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RecipeRequiresMechanitor>{0}에는 기계공학자가 필요합니다. 정착민중 기계공학자가 없어서 아무도 이 작업을 실행하지 않을 것 입니다.</RecipeRequiresMechanitor>
+  <!-- Character -->
+  <OverridesSomePrecepts>Overrides some precepts related to</OverridesSomePrecepts>
+  <AgreeableMemes>Agrees with memes</AgreeableMemes>
+  <DisagreeableMemes>Conflicts with memes</DisagreeableMemes>
 
-  <GenepackPlural>유전자 팩</GenepackPlural>
-  <TraitsDevelopLaterBaby>특성은 유년기 후반에 개발됩니다.</TraitsDevelopLaterBaby>
-  <SkillsDevelopLaterBaby>기술은 유년기 후반에 성장합니다.</SkillsDevelopLaterBaby>
-  <TabGenes>유전자</TabGenes>
+  <!-- ITab titles -->
+  <TabSlave>노예</TabSlave>
+  <SlaveReleaseRelationGainsDesc>The faction goodwill you will gain if you release a slave. This is affected by the slaves's physical and mental health.</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>해방 시 얻는 우호도</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>Slave rebellion interval</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>The average number of days between slave rebellion attempts. Only time awake is counted. This is affected by suppression, mood, health, proximity to weapons, the number of slaves on the map, and the presence of colonists on the map.</SlaveRebellionMTBDaysDescription>
 
-  <ViewGenes>유전자 보기</ViewGenes>
-  <ViewGenesDesc>{PAWN_nameDef}의 유전자를 보려면 클릭하세요.</ViewGenesDesc>
+  <!-- Slave tab -->
+  <Suppression>복종심</Suppression>
+  <SuppressionDesc>복종심은 노예가 느끼는 공포와 억압의 수준을 수치화한 것입니다. 복종심이 낮으면 노예가 반란을 일으킬 확률이 높아집니다.</SuppressionDesc>
+  <SuppressionFallRate>복종심 하락률</SuppressionFallRate>
+  <SuppressionFallRateDesc>복종심은 지속적으로 하락합니다.\n\n- {1} 이상: 매일 {0} 하락\n- {4} - {3}: 매일 {2} 하락\n- {6} 이하: 매일 {5} 하락\n\n옷과 공포심도 복종심 하락 속도에 영향을 줍니다. 이 노예의 복종심 하락 속도는 다음과 같습니다. :</SuppressionFallRateDesc>
+  <CannotEmancipate>Cannot emancipate</CannotEmancipate>
+  <CannotImprison>Cannot imprison</CannotImprison>
+  <CurrentSuppression>현재 복종심</CurrentSuppression>
+  <Terror>테러</Terror>
+  <TerrorDescription>공포는 노예를 억압하는 수단입니다. 노예가 공포 조각상처럼 끔찍한 대상의 주위에 머물면 공포 수치가 상승합니다. 한 번에 최대 세 개의 공포 요인에만 영향을 받습니다.\n\n공포가 높으면 아래 수치만큼 억압이 느리게 하락합니다</TerrorDescription>
+  <TerrorCurrentThoughts>Recent terrifying observations</TerrorCurrentThoughts>
 
-  <!-- Feeding tab (human babies) -->
-  <TabFeeding>돌보기</TabFeeding>
-  <AutofeedSectionHeader>자동 수유 설정</AutofeedSectionHeader>
-  <AutofeedModeNever>금지</AutofeedModeNever>
-  <AutofeedModeChildcare>육아</AutofeedModeChildcare>
-  <AutofeedModeUrgent>긴급</AutofeedModeUrgent>
-  <AutofeedNone>아무도 이 아기를 먹일 수 없습니다.</AutofeedNone>
-  <AutofeedModeTooltipNever>{FEEDER_nameDef}(은)는 {BABY_nameDef}에게 자동으로 음식을 먹이지 않습니다.</AutofeedModeTooltipNever>
-  <AutofeedModeTooltipChildcare>{FEEDER_nameDef}(은)는 보육 업무로 {BABY_nameDef}를 먹일 것입니다.</AutofeedModeTooltipChildcare>
-  <AutofeedModeTooltipUrgent>{FEEDER_nameDef}(이)가 보육에 배정되지 않았거나 보육이 불가능하더라도 {FEEDER_nameDef}(은)는 밤낮으로 {BABY_nameDef}을 먹일 것입니다.</AutofeedModeTooltipUrgent>
-  <BabyFoodConsumables>섭취가능 음식</BabyFoodConsumables>
+  <SuppressionBaseInterval>Base interval</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>Moving capacity</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>복종심</SuppressionFactor>
+  <SuppressionMoodFactor>기분</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>Slave count</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>빈틈 존재</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>Weapon proximity</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>Final interval</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>Unattended</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>At least one of the {0} slaves on this map is expected rebel on average every {1}.</SuppressionRebellionAnySlave>
 
-  <!-- Social tab (human babies) -->
-  <IdeoExposureSectionHeader>사상 노출</IdeoExposureSectionHeader>
-  <IdeoExposureNoExposure>{BABY_labelShort}(은)는 아직 어떤 사상에도 노출되지 않았습니다.</IdeoExposureNoExposure>
-  <IdeoExposureNoExposureDetail>{BABY_pronoun}(은)는 특정 사상을 따르는 자들과 상호작용하며 그 사상에 노출될 수 있습니다. 이 상호작용은 모유 수유, 업어주기, 놀아주기 등이 포함됩니다. 나이가 {CHILDAGE}(이)가 되면 {BABY_labelShort}(은)는 {BABY_pronoun}에게 노출되었던 사상 중 하나를 골라 믿을 것 입니다.</IdeoExposureNoExposureDetail>
-  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort}(은)는 {IDEO_name} 이념에 합류할 가능성이 {PERCENT}입니다.</IdeoExposurePointsTooltipJoinLikelihood>
-  <IdeoExposurePointsTooltipJoinDescription>{BABY_labelShort}(이)가 이념의 신봉자와 상호작용함에 따라 {BABY_pronoun}가 그 이념에 참여할 가능성이 높아집니다. {BABY_labelShort}(은)는 {CHILDAGE}의 나이에 {BABY_pronoun}가 겪었던 이념 중 하나에 합류할 것입니다.</IdeoExposurePointsTooltipJoinDescription>
-  <IdeoExposurePointsTooltipExposureDescription>이념적 경험은 노출 지점으로 측정됩니다. 모유 수유, 운반 또는 가지고 노는 것과 같은 상호 작용은 {BABY_labelShort}(이)가 그 {BABY_pronoun}가 상호 작용하는 이념에 대한 경험 포인트를 얻게 합니다.</IdeoExposurePointsTooltipExposureDescription>
-  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} 경험 지점</IdeoExposurePointsTooltipIdeoExposure>
-  <IdeoExposurePointsTooltipTotalExposure>총 경험 수치</IdeoExposurePointsTooltipTotalExposure>
+  <WillLevel>Will</WillLevel>
+  <WillLevelDesc>수감자가 얼마나 버틸 수 있는지를 나타냅니다. 0이 되면 노예로 삼을 수 있습니다.</WillLevelDesc>
+  <WillFromPawnKind>{0} base will</WillFromPawnKind>
+  <IdeoConversionTarget>Target ideoligion</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>간수가 수감자 교화에 사용할 사상입니다.</IdeoConversionTargetDesc>
 
-  <!-- Social tab (romance) -->
-  <TryRomanceButtonLabel>로맨스</TryRomanceButtonLabel>
-  <TryRomanceNoOptsMessage>{0_labelShort}에 연애할 사람이 없습니다.</TryRomanceNoOptsMessage>
-  <CantRomanceTargetUnreachable>도달 불가</CantRomanceTargetUnreachable>
-  <CantRomanceTargetSleeping>수면</CantRomanceTargetSleeping>
-  <CantRomanceTargetDowned>무력화됨</CantRomanceTargetDowned>
-  <CantRomanceTargetDrafted>소집됨</CantRomanceTargetDrafted>
-  <CantRomanceTargetMentalState>정신이상</CantRomanceTargetMentalState>
-  <CantRomanceTargetIncest>근친상간</CantRomanceTargetIncest>
-  <CantRomanceTargetOpinion>낮은 의견</CantRomanceTargetOpinion>
-  <CantRomanceTargetSexuality>성적 지향 불일치</CantRomanceTargetSexuality>
-  <CantRomanceTargetPrisoner>수감자</CantRomanceTargetPrisoner>
-  <CantRomanceTargetYoung>너무 어림</CantRomanceTargetYoung>
-  <CantRomanceTargetZeroChance>확률 없음</CantRomanceTargetZeroChance>
-  <CantRomanceInitiateMessagePrisoner>{0_labelShort}(은)는 {0_pronoun}(이)가 수감자라 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessagePrisoner>
-  <CantRomanceInitiateMessageSlave>{0_labelShort}(은)는 {0_pronoun}(이)가 노예라서 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageSlave>
-  <CantRomanceInitiateMessageAsexual>{0_labelShort}(은)는 {0_pronoun}(이)가 무성애자 특성을 지녀 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageAsexual>
-  <CantRomanceInitiateMessageDowned>{0_labelShort}(은)는 {0_pronoun}(이)가 무력화 되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageDowned>
-  <CantRomanceInitiateMessageDrafted>{0_labelShort}(은)는 {0_pronoun}(이)가 소집되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageDrafted>
-  <CantRomanceInitiateMessageMentalState>{0_labelShort}(은)는 {0_pronoun}(이)가 정신이상 상태가되어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageMentalState>
-  <CantRomanceInitiateMessageTalk>{0_labelShort}(은)는 {0_pronoun}(이)가 말을 할 수 없어 연애 시도를 할 수 없습니다.</CantRomanceInitiateMessageTalk>
-  <CantRomanceInitiateMessageCooldown>{0_labelShort}(은)는 이미 연애 시도를 했으며, 다시 시도할때까지 {1}(을)를 기다려야 합니다.</CantRomanceInitiateMessageCooldown>
-  <TryRomanceFailedMessage>{0_labelShort}의 {1_labelShort}(을)를 향한 연애시도는 실패했습니다.</TryRomanceFailedMessage>
-  <RomanceExistingRelationshipWarning>{INITIATOR_nameDef}와 {TARGET_nameDef}가 로맨스를 갖는 것은 기존 부부 사이에 원한을 심고, 이별을 일으키고, 말다툼을 일으킬 수 있습니다.</RomanceExistingRelationshipWarning>
-  <RomanceChance>로맨스 확률</RomanceChance>
-  <RomanceChanceExistingRelation>이미 {PAWN_nameDef}의 {RELATION}</RomanceChanceExistingRelation>
-  <RomanceChanceCant>로맨스 불가</RomanceChanceCant>
-  <RomanceChanceAgeFactor>상대 연령</RomanceChanceAgeFactor>
-  <RomanceChanceBeautyFactor>미관</RomanceChanceBeautyFactor>
-  <RomanceChanceOpinionFactor>의견</RomanceChanceOpinionFactor>
-  <RomanceChancePartnerFactor>배우자의 의견</RomanceChancePartnerFactor>
-  <RomanceFailedUnexpected>{0_labelShort}(은)는 {1_labelShort}와 로맨스에 실패</RomanceFailedUnexpected>
-  <RomanceWarningMonogamous>{0_nameDef}(은)는 이미 관계에 있습니다.</RomanceWarningMonogamous>
-  <RomanceWarningPolygamous>{0_nameDef}는 이미 {1}명의 배우자가 있습니다.</RomanceWarningPolygamous>
+  <!-- Social -->
+  <CertaintyChangePerDay>Change per day due to mood</CertaintyChangePerDay>
+  <MoodChangeRate>Change rate based on mood</MoodChangeRate>
+  <CertaintyInIdeo>{PAWN_nameDef}'s certainty in {IDEO_name}</CertaintyInIdeo>
+  <RoleDesc>이 사람이 자신의 사상에서 맡고 있는 특별한 지위입니다. 바꾸거나 박탈할 경우 기분이 나빠질 것입니다.</RoleDesc>
+  <RoleAssignmentTip>지위를 변경하기 위해서는 취임식이 필요합니다. 제단이나 행사 장소를 우클릭하여 '취임식 시작'을 선택하세요.</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>대상의 특성과 사상이 잘 어울리기 때문에 개종 효율이 약해짐</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>대상의 특성과 사상이 충돌하기 때문에 개종 효율이 상승함</ConversionStrongerDueToTraitAgreements>
 
-  <!-- Guest tab (prisoners) -->
-  <FactorForGenes>유전자 계수</FactorForGenes>
-  <PrisonBreakingDisabledDueToGene>탈옥은 {GENE_label} 유전자에 의해 비활성화됩니다.</PrisonBreakingDisabledDueToGene>
+  <Cut>절제</Cut>
+  <CutBothEyes>Cut both eyes</CutBothEyes>
 
 </LanguageData>
