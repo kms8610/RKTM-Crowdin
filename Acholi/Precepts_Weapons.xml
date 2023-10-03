@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <KillWithNobleWeapon.stages.victory_by_noble_weapon.label>crwdns442538:0crwdne442538:0</KillWithNobleWeapon.stages.victory_by_noble_weapon.label>
-  <KillWithNobleWeapon.stages.victory_by_noble_weapon.description>crwdns442540:0crwdne442540:0</KillWithNobleWeapon.stages.victory_by_noble_weapon.description>
+  <KillWithDespisedWeapon.label>crwdns431152:0crwdne431152:0</KillWithDespisedWeapon.label>
   
-  <UsedDespisedWeapon.stages.used_despised_weapon.label>crwdns442542:0crwdne442542:0</UsedDespisedWeapon.stages.used_despised_weapon.label>
-  <UsedDespisedWeapon.stages.used_despised_weapon.description>crwdns442544:0crwdne442544:0</UsedDespisedWeapon.stages.used_despised_weapon.description>
+  <KillWithNobleWeapon.label>crwdns431154:0crwdne431154:0</KillWithNobleWeapon.label>
   
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>crwdns442546:0{WEAPON_label}crwdne442546:0</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
-  <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>crwdns442548:0{WEAPON_label}crwdne442548:0</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
-  <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>crwdns442550:0{WEAPON_label}crwdne442550:0</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
-  <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>crwdns442552:0{WEAPON_label}crwdne442552:0</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
+  <UsedDespisedWeapon.label>crwdns431156:0crwdne431156:0</UsedDespisedWeapon.label>
+  
+  <UsedNobleWeapon.label>crwdns431158:0crwdne431158:0</UsedNobleWeapon.label>
 </LanguageData>
