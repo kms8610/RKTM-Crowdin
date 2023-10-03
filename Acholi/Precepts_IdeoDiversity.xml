@@ -1,38 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoDiversity_Abhorrent.label>crwdns436350:0crwdne436350:0</IdeoDiversity_Abhorrent.label>
-  <IdeoDiversity_Abhorrent.description>crwdns436352:0crwdne436352:0</IdeoDiversity_Abhorrent.description>
-  <IdeoDiversity_Abhorrent.comps.2.description>crwdns436354:0crwdne436354:0</IdeoDiversity_Abhorrent.comps.2.description>
-  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>crwdns436356:0crwdne436356:0</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>crwdns436358:0crwdne436358:0</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>crwdns441572:0crwdne441572:0</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>crwdns441574:0{ALTAR_labelShort}crwdne441574:0</IdeoDiverity_Abhorrent_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Approved.label>crwdns436360:0crwdne436360:0</IdeoDiversity_Approved.label>
-  <IdeoDiversity_Approved.description>crwdns436362:0crwdne436362:0</IdeoDiversity_Approved.description>
-  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>crwdns436364:0crwdne436364:0</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>crwdns436366:0crwdne436366:0</IdeoDiversity_Approved.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>crwdns441576:0crwdne441576:0</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>crwdns441578:0{ALTAR_labelShort}crwdne441578:0</IdeoDiverity_Disapproved_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Disapproved.label>crwdns436368:0crwdne436368:0</IdeoDiversity_Disapproved.label>
-  <IdeoDiversity_Disapproved.description>crwdns436370:0crwdne436370:0</IdeoDiversity_Disapproved.description>
-  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>crwdns436372:0crwdne436372:0</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>crwdns436374:0crwdne436374:0</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>crwdns441580:0crwdne441580:0</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>crwdns441582:0{ALTAR_labelShort}crwdne441582:0</IdeoDiverity_Horrible_AltarSharing.stages.false_altar.description>
   
-  <IdeoDiversity_Exalted.label>crwdns436376:0crwdne436376:0</IdeoDiversity_Exalted.label>
-  <IdeoDiversity_Exalted.description>crwdns436378:0crwdne436378:0</IdeoDiversity_Exalted.description>
-  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>crwdns436380:0crwdne436380:0</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>crwdns436382:0crwdne436382:0</IdeoDiversity_Exalted.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>crwdns441584:0crwdne441584:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>crwdns441586:0crwdne441586:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>crwdns441588:0crwdne441588:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>crwdns441590:0crwdne441590:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>crwdns441592:0crwdne441592:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>crwdns441594:0crwdne441594:0</IdeoDiversity_Abhorrent.stages.diverse_thoughts-2.description>
   
-  <IdeoDiversity_Horrible.label>crwdns436384:0crwdne436384:0</IdeoDiversity_Horrible.label>
-  <IdeoDiversity_Horrible.description>crwdns436386:0crwdne436386:0</IdeoDiversity_Horrible.description>
-  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>crwdns436388:0crwdne436388:0</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.0>
-  <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>crwdns436390:0crwdne436390:0</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>crwdns441596:0crwdne441596:0</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>crwdns441598:0crwdne441598:0</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.false_ritual.description>
   
-  <IdeoDiversity_Respected.label>crwdns436392:0crwdne436392:0</IdeoDiversity_Respected.label>
-  <IdeoDiversity_Respected.description>crwdns436394:0crwdne436394:0</IdeoDiversity_Respected.description>
-  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>crwdns436396:0crwdne436396:0</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>crwdns436398:0crwdne436398:0</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>crwdns441600:0crwdne441600:0</IdeoDiversity_Abhorrent_Social.stages.different_ideoligion.label>
   
-  <IdeoDiversity_Standard.label>crwdns436400:0crwdne436400:0</IdeoDiversity_Standard.label>
-  <IdeoDiversity_Standard.description>crwdns436402:0crwdne436402:0</IdeoDiversity_Standard.description>
-  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>crwdns436404:0crwdne436404:0</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.0>
-  <IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>crwdns436406:0crwdne436406:0</IdeoDiversity_Standard.comps.1.thoughtStageDescriptions.1>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>crwdns441602:0{ADJECTIVE}crwdne441602:0</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>crwdns441604:0{ADJECTIVE}crwdnd441604:0{STYLES}crwdne441604:0</IdeoDiversity_Abhorrent_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>crwdns441606:0{ADJECTIVE}crwdne441606:0</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>crwdns441608:0{ADJECTIVE}crwdnd441608:0{STYLES}crwdne441608:0</IdeoDiversity_Abhorrent_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>crwdns441610:0crwdne441610:0</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>crwdns441612:0crwdne441612:0</IdeoDiversity_Abhorrent_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.label>crwdns441614:0crwdne441614:0</IdeoDiversity_Approved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-0.description>crwdns441616:0crwdne441616:0</IdeoDiversity_Approved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.label>crwdns441618:0crwdne441618:0</IdeoDiversity_Approved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-1.description>crwdns441620:0crwdne441620:0</IdeoDiversity_Approved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.label>crwdns441622:0crwdne441622:0</IdeoDiversity_Approved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Approved.stages.diverse_thoughts-2.description>crwdns441624:0crwdne441624:0</IdeoDiversity_Approved.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>crwdns441626:0{ADJECTIVE}crwdne441626:0</IdeoDiversity_Approved_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>crwdns441628:0{ADJECTIVE}crwdne441628:0</IdeoDiversity_Approved_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>crwdns441630:0{ADJECTIVE}crwdne441630:0</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>crwdns441632:0{ADJECTIVE}crwdne441632:0</IdeoDiversity_Approved_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>crwdns441634:0crwdne441634:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>crwdns441636:0crwdne441636:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>crwdns441638:0crwdne441638:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>crwdns441640:0crwdne441640:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>crwdns441642:0crwdne441642:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>crwdns441644:0crwdne441644:0</IdeoDiversity_Disapproved.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>crwdns441646:0crwdne441646:0</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>crwdns441648:0crwdne441648:0</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.false_ritual.description>
+  
+  <IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>crwdns441650:0crwdne441650:0</IdeoDiversity_Disapproved_Social.stages.different_ideoligion.label>
+  
+  <IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>crwdns441652:0{ADJECTIVE}crwdne441652:0</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>crwdns441654:0{ADJECTIVE}crwdnd441654:0{STYLES}crwdne441654:0</IdeoDiversity_Disapproved_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>crwdns441656:0{ADJECTIVE}crwdne441656:0</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>crwdns441658:0{ADJECTIVE}crwdnd441658:0{STYLES}crwdne441658:0</IdeoDiversity_Disapproved_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>crwdns441660:0crwdne441660:0</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>crwdns441662:0crwdne441662:0</IdeoDiversity_Disapproved_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>crwdns441664:0crwdne441664:0</IdeoDiversity_Exalted.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>crwdns441666:0crwdne441666:0</IdeoDiversity_Exalted.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>crwdns441668:0crwdne441668:0</IdeoDiversity_Exalted.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>crwdns441670:0crwdne441670:0</IdeoDiversity_Exalted.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>crwdns441672:0crwdne441672:0</IdeoDiversity_Exalted.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>crwdns441674:0crwdne441674:0</IdeoDiversity_Exalted.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>crwdns441676:0{ADJECTIVE}crwdne441676:0</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>crwdns441678:0{ADJECTIVE}crwdne441678:0</IdeoDiversity_Exalted_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>crwdns441680:0{ADJECTIVE}crwdne441680:0</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>crwdns441682:0{ADJECTIVE}crwdne441682:0</IdeoDiversity_Exalted_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>crwdns441684:0crwdne441684:0</IdeoDiversity_Horrible.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>crwdns441686:0crwdne441686:0</IdeoDiversity_Horrible.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>crwdns441688:0crwdne441688:0</IdeoDiversity_Horrible.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>crwdns441690:0crwdne441690:0</IdeoDiversity_Horrible.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>crwdns441692:0crwdne441692:0</IdeoDiversity_Horrible.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>crwdns441694:0crwdne441694:0</IdeoDiversity_Horrible.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>crwdns441696:0crwdne441696:0</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.label>
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>crwdns441698:0crwdne441698:0</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.false_ritual.description>
+  
+  <IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>crwdns441700:0crwdne441700:0</IdeoDiversity_Horrible_Social.stages.different_ideoligion.label>
+  
+  <IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>crwdns441702:0{ADJECTIVE}crwdne441702:0</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>crwdns441704:0{ADJECTIVE}crwdnd441704:0{STYLES}crwdne441704:0</IdeoDiversity_Horrible_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>crwdns441706:0{ADJECTIVE}crwdne441706:0</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>crwdns441708:0{ADJECTIVE}crwdnd441708:0{STYLES}crwdne441708:0</IdeoDiversity_Horrible_StyleDominance.stages.Nonstyle_surroundings.description>
+  
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>crwdns441710:0crwdne441710:0</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.label>
+  <IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>crwdns441712:0crwdne441712:0</IdeoDiversity_Horrible_Uniform.stages.uniform_thoughts.description>
+  
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.label>crwdns441714:0crwdne441714:0</IdeoDiversity_Respected.stages.diverse_thoughts-0.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-0.description>crwdns441716:0crwdne441716:0</IdeoDiversity_Respected.stages.diverse_thoughts-0.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.label>crwdns441718:0crwdne441718:0</IdeoDiversity_Respected.stages.diverse_thoughts-1.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-1.description>crwdns441720:0crwdne441720:0</IdeoDiversity_Respected.stages.diverse_thoughts-1.description>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.label>crwdns441722:0crwdne441722:0</IdeoDiversity_Respected.stages.diverse_thoughts-2.label>
+  <IdeoDiversity_Respected.stages.diverse_thoughts-2.description>crwdns441724:0crwdne441724:0</IdeoDiversity_Respected.stages.diverse_thoughts-2.description>
+  
+  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>crwdns441726:0{ADJECTIVE}crwdne441726:0</IdeoDiversity_Respected_StyleDominance.stages.surroundings.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>crwdns441728:0{ADJECTIVE}crwdne441728:0</IdeoDiversity_Respected_StyleDominance.stages.surroundings.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>crwdns441730:0{ADJECTIVE}crwdne441730:0</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>crwdns441732:0{ADJECTIVE}crwdne441732:0</IdeoDiversity_Respected_StyleDominance.stages.Non_surroundings.description>
+  
+  <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>crwdns441734:0{ADJECTIVE}crwdne441734:0</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>crwdns441736:0{ADJECTIVE}crwdnd441736:0{STYLES}crwdne441736:0</IdeoDiversity_Standard_StyleDominance.stages.style_surroundings.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>crwdns441738:0{ADJECTIVE}crwdne441738:0</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>crwdns441740:0{ADJECTIVE}crwdnd441740:0{ADJECTIVE}crwdnd441740:0{ADJECTIVE}crwdnd441740:0{STYLES}crwdne441740:0</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
 </LanguageData>
