@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <GauranlenConnection.label>crwdns432352:0crwdne432352:0</GauranlenConnection.label>
+  <GauranlenConnection_Strong.label>crwdns437080:0crwdne437080:0</GauranlenConnection_Strong.label>
+  <GauranlenConnection_Strong.description>crwdns437082:0crwdne437082:0</GauranlenConnection_Strong.description>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>crwdns437084:0crwdne437084:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.0>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>crwdns437086:0crwdne437086:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.1>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>crwdns437088:0crwdne437088:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.2>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>crwdns437090:0crwdne437090:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.3>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>crwdns437092:0crwdne437092:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
+  <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>crwdns437094:0crwdne437094:0</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
+  <GauranlenConnection_Strong.comps.1.eventLabel>crwdns437096:0crwdne437096:0</GauranlenConnection_Strong.comps.1.eventLabel>
   
-  <Trees.label>crwdns432354:0crwdne432354:0</Trees.label>
+  <Trees_Desired.label>crwdns437098:0crwdne437098:0</Trees_Desired.label>
+  <Trees_Desired.description>crwdns437100:0crwdne437100:0</Trees_Desired.description>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.0>crwdns437102:0crwdne437102:0</Trees_Desired.comps.1.thoughtStageDescriptions.0>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.1>crwdns437104:0crwdne437104:0</Trees_Desired.comps.1.thoughtStageDescriptions.1>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.2>crwdns437106:0crwdne437106:0</Trees_Desired.comps.1.thoughtStageDescriptions.2>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.3>crwdns437108:0crwdne437108:0</Trees_Desired.comps.1.thoughtStageDescriptions.3>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.4>crwdns437110:0crwdne437110:0</Trees_Desired.comps.1.thoughtStageDescriptions.4>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.5>crwdns437112:0crwdne437112:0</Trees_Desired.comps.1.thoughtStageDescriptions.5>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.6>crwdns437114:0crwdne437114:0</Trees_Desired.comps.1.thoughtStageDescriptions.6>
+  <Trees_Desired.comps.1.thoughtStageDescriptions.7>crwdns437116:0crwdne437116:0</Trees_Desired.comps.1.thoughtStageDescriptions.7>
 </LanguageData>
