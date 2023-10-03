@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Ambrosia.label>crwdns471152:0crwdne471152:0</Ambrosia.label>
-  <Ambrosia.description>crwdns471154:0crwdne471154:0</Ambrosia.description>
+  <AmbrosiaHigh.stages.ambrosia_warmth.label>crwdns474288:0crwdne474288:0</AmbrosiaHigh.stages.ambrosia_warmth.label>
+  <AmbrosiaHigh.stages.ambrosia_warmth.description>crwdns474290:0crwdne474290:0</AmbrosiaHigh.stages.ambrosia_warmth.description>
+  
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>crwdns474292:0crwdne474292:0</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.label>
+  <AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>crwdns474294:0crwdne474294:0</AmbrosiaWithdrawal.stages.ambrosia_withdrawal.description>
 </LanguageData>
