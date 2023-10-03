@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Darklight_Preferred.label>crwdns436434:0crwdne436434:0</Darklight_Preferred.label>
-  <Darklight_Preferred.description>crwdns436436:0crwdne436436:0</Darklight_Preferred.description>
+  <Darklight_Preferred_BlindingLight.stages.blinding_light.label>crwdns441776:0crwdne441776:0</Darklight_Preferred_BlindingLight.stages.blinding_light.label>
+  <Darklight_Preferred_BlindingLight.stages.blinding_light.description>crwdns441778:0crwdne441778:0</Darklight_Preferred_BlindingLight.stages.blinding_light.description>
   
-  <DarknessCombat_Preferred.label>crwdns436438:0crwdne436438:0</DarknessCombat_Preferred.label>
-  <DarknessCombat_Preferred.description>crwdns436440:0crwdne436440:0</DarknessCombat_Preferred.description>
+  <Darklight_Preferred_Darklight.stages.darklight.label>crwdns441780:0crwdne441780:0</Darklight_Preferred_Darklight.stages.darklight.label>
+  <Darklight_Preferred_Darklight.stages.darklight.description>crwdns441782:0crwdne441782:0</Darklight_Preferred_Darklight.stages.darklight.description>
   
-  <Eclipse_Beautiful.label>crwdns436442:0crwdne436442:0</Eclipse_Beautiful.label>
-  <Eclipse_Beautiful.description>crwdns436444:0crwdne436444:0</Eclipse_Beautiful.description>
+  <Darklight_Preferred_IndoorLight.stages.indoor_light.label>crwdns441784:0crwdne441784:0</Darklight_Preferred_IndoorLight.stages.indoor_light.label>
+  <Darklight_Preferred_IndoorLight.stages.indoor_light.description>crwdns441786:0crwdne441786:0</Darklight_Preferred_IndoorLight.stages.indoor_light.description>
+  
+  <Eclipse_Beautiful.stages.beautiful_eclipse.label>crwdns441788:0crwdne441788:0</Eclipse_Beautiful.stages.beautiful_eclipse.label>
+  <Eclipse_Beautiful.stages.beautiful_eclipse.description>crwdns441790:0crwdne441790:0</Eclipse_Beautiful.stages.beautiful_eclipse.description>
 </LanguageData>
