@@ -1,8 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <PiercingSpine.label>crwdns427060:0crwdne427060:0</PiercingSpine.label>
+  <AnimalCalm.label>crwdns430684:0crwdne430684:0</AnimalCalm.label>
+  <AnimalCalm.description>crwdns430686:0crwdne430686:0</AnimalCalm.description>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>crwdns430688:0{INITIATOR_labelShort}crwdnd430688:0{RECIPIENT_labelShort}crwdne430688:0</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
-  <Proj_Acid.label>crwdns427062:0crwdne427062:0</Proj_Acid.label>
+  <BerserkTrance.label>crwdns430690:0crwdne430690:0</BerserkTrance.label>
+  <BerserkTrance.description>crwdns430692:0crwdne430692:0</BerserkTrance.description>
   
-  <Proj_Foam_Ability.label>crwdns427064:0crwdne427064:0</Proj_Foam_Ability.label>
+  <CombatCommand.label>crwdns430694:0crwdne430694:0</CombatCommand.label>
+  <CombatCommand.description>crwdns430696:0crwdne430696:0</CombatCommand.description>
+  
+  <ConversionRitual.label>crwdns430698:0crwdne430698:0</ConversionRitual.label>
+  <ConversionRitual.description>crwdns430700:0crwdne430700:0</ConversionRitual.description>
+  
+  <Convert.label>crwdns430702:0crwdne430702:0</Convert.label>
+  <Convert.description>crwdns430704:0crwdne430704:0</Convert.description>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>crwdns430706:0{INITIATOR_labelShort}crwdnd430706:0{RECIPIENT_labelShort}crwdnd430706:0{RECIPIENT_labelShort}crwdnd430706:0{RECIPIENT_possessive}crwdnd430706:0{CERTAINTYBEFORE}crwdnd430706:0{CERTAINTYAFTER}crwdne430706:0</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>crwdns430708:0{INITIATOR_labelShort}crwdnd430708:0{RECIPIENT_labelShort}crwdnd430708:0{IDEO}crwdne430708:0</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  
+  <Counsel.label>crwdns430710:0crwdne430710:0</Counsel.label>
+  <Counsel.description>crwdns430712:0crwdne430712:0</Counsel.description>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>crwdns430714:0{INITIATOR_labelShort}crwdnd430714:0{RECIPIENT_labelShort}crwdnd430714:0{RECIPIENT_labelShort}crwdne430714:0</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>crwdns430716:0{INITIATOR_labelShort}crwdnd430716:0{RECIPIENT_labelShort}crwdnd430716:0{2}crwdne430716:0</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>crwdns430718:0{INITIATOR_labelShort}crwdnd430718:0{RECIPIENT_labelShort}crwdnd430718:0{RECIPIENT_possessive}crwdnd430718:0{MOODBONUS}crwdne430718:0</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  
+  <FarmingCommand.label>crwdns430720:0crwdne430720:0</FarmingCommand.label>
+  <FarmingCommand.description>crwdns430722:0crwdne430722:0</FarmingCommand.description>
+  
+  <ImmunityDrive.label>crwdns430724:0crwdne430724:0</ImmunityDrive.label>
+  <ImmunityDrive.description>crwdns430726:0crwdne430726:0</ImmunityDrive.description>
+  
+  <LeaderSpeech.label>crwdns430728:0crwdne430728:0</LeaderSpeech.label>
+  <LeaderSpeech.description>crwdns430730:0crwdne430730:0</LeaderSpeech.description>
+  
+  <MarksmanCommand.label>crwdns430732:0crwdne430732:0</MarksmanCommand.label>
+  <MarksmanCommand.description>crwdns430734:0crwdne430734:0</MarksmanCommand.description>
+  
+  <MiningCommand.label>crwdns430736:0crwdne430736:0</MiningCommand.label>
+  <MiningCommand.description>crwdns430738:0crwdne430738:0</MiningCommand.description>
+  
+  <PreachHealth.label>crwdns430740:0crwdne430740:0</PreachHealth.label>
+  <PreachHealth.description>crwdns430742:0crwdne430742:0</PreachHealth.description>
+  
+  <ProductionCommand.label>crwdns430744:0crwdne430744:0</ProductionCommand.label>
+  <ProductionCommand.description>crwdns430746:0crwdne430746:0</ProductionCommand.description>
+  
+  <Reassure.label>crwdns430748:0crwdne430748:0</Reassure.label>
+  <Reassure.description>crwdns430750:0crwdne430750:0</Reassure.description>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>crwdns430752:0{INITIATOR_labelShort}crwdnd430752:0{RECIPIENT_labelShort}crwdnd430752:0{RECIPIENT_possessive}crwdnd430752:0{IDEO}crwdnd430752:0{BEFORECERTAINTY}crwdnd430752:0{AFTERCERTAINTY}crwdne430752:0</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  
+  <ResearchCommand.label>crwdns430754:0crwdne430754:0</ResearchCommand.label>
+  <ResearchCommand.description>crwdns430756:0crwdne430756:0</ResearchCommand.description>
+  
+  <Trial.label>crwdns430758:0crwdne430758:0</Trial.label>
+  <Trial.description>crwdns430760:0crwdne430760:0</Trial.description>
+  
+  <WorkDrive.label>crwdns430762:0crwdne430762:0</WorkDrive.label>
+  <WorkDrive.description>crwdns430764:0crwdne430764:0</WorkDrive.description>
 </LanguageData>
