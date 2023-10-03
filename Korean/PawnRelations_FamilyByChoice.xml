@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChildInLaw.label>사위</ChildInLaw.label>
-  <ChildInLaw.labelFemale>며느리</ChildInLaw.labelFemale>
+  <ChildInLaw.label>son-in-law</ChildInLaw.label>
+  <ChildInLaw.labelFemale>daughter-in-law</ChildInLaw.labelFemale>
   
-  <ExLover.label>전애인</ExLover.label>
+  <ExLover.label>ex-lover</ExLover.label>
   
-  <ExSpouse.label>전남편</ExSpouse.label>
-  <ExSpouse.labelFemale>전부인</ExSpouse.labelFemale>
+  <ExSpouse.label>ex-husband</ExSpouse.label>
+  <ExSpouse.labelFemale>ex-wife</ExSpouse.labelFemale>
   
-  <Fiance.label>약혼자</Fiance.label>
-  <Fiance.labelFemale>약혼자</Fiance.labelFemale>
+  <Fiance.label>fiance</Fiance.label>
+  <Fiance.labelFemale>fiancée</Fiance.labelFemale>
   
-  <Lover.label>애인</Lover.label>
+  <Lover.label>lover</Lover.label>
   
-  <ParentInLaw.label>장인/시부</ParentInLaw.label>
-  <ParentInLaw.labelFemale>장인/시모</ParentInLaw.labelFemale>
+  <ParentInLaw.label>father-in-law</ParentInLaw.label>
+  <ParentInLaw.labelFemale>mother-in-law</ParentInLaw.labelFemale>
   
-  <Spouse.label>남편</Spouse.label>
-  <Spouse.labelFemale>아내</Spouse.labelFemale>
+  <Spouse.label>husband</Spouse.label>
+  <Spouse.labelFemale>wife</Spouse.labelFemale>
   
-  <Stepchild.label>의붓아들</Stepchild.label>
-  <Stepchild.labelFemale>의붓딸</Stepchild.labelFemale>
+  <Stepchild.label>stepson</Stepchild.label>
+  <Stepchild.labelFemale>stepdaughter</Stepchild.labelFemale>
   
-  <Stepparent.label>의붓아버지</Stepparent.label>
-  <Stepparent.labelFemale>의붓어머니</Stepparent.labelFemale>
+  <Stepparent.label>stepfather</Stepparent.label>
+  <Stepparent.labelFemale>stepmother</Stepparent.labelFemale>
 </LanguageData>
