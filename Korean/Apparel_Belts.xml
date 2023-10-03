@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Apparel_ShieldBelt.label>보호막 벨트</Apparel_ShieldBelt.label>
-  <Apparel_ShieldBelt.description>투사체 방어 장치입니다. 다가오는 모든 투사체나 파편을 방어하지만 근접 공격이나 열기는 막지 못합니다. 착용자의 사격도 차단하며 전자기 공격을 받으면 즉시 해제됩니다.</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.label>shield belt</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.description>A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP.</Apparel_ShieldBelt.description>
 </LanguageData>
