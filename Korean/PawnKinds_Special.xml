@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Slave.label>노예</Slave.label>
+  <Beggar.label>beggar</Beggar.label>
   
-  <StrangerInBlack.label>검은 옷의 이방인</StrangerInBlack.label>
-  <StrangerInBlack.labelFemale>검은 옷의 여성</StrangerInBlack.labelFemale>
-  <StrangerInBlack.labelMale>구세주</StrangerInBlack.labelMale>
-  <StrangerInBlack.labelPlural>검은 이방인들</StrangerInBlack.labelPlural>
+  <PovertyPilgrim.label>pilgrim</PovertyPilgrim.label>
   
-  <WildMan.label>야인</WildMan.label>
-  <WildMan.labelFemale>야인 여성</WildMan.labelFemale>
-  <WildMan.labelFemalePlural>야인 여성들</WildMan.labelFemalePlural>
-  <WildMan.labelPlural>야인</WildMan.labelPlural>
+  <WellEquippedTraveler.label>well-equipped traveler</WellEquippedTraveler.label>
 </LanguageData>
