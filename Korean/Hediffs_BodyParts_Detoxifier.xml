@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <InstallDetoxifierKidney.label>install detoxifier kidney</InstallDetoxifierKidney.label>
-  <InstallDetoxifierKidney.description>Install a detoxifier kidney.</InstallDetoxifierKidney.description>
-  <InstallDetoxifierKidney.jobString>Installing detoxifier kidney.</InstallDetoxifierKidney.jobString>
+  <DetoxifierKidney.label>detoxifier kidney</DetoxifierKidney.label>
+  <DetoxifierKidney.description>An advanced artificial kidney. Using a series of nanofilters, it can rapidly remove a vast range of toxins from the blood, making it effective against environmental toxins, venoms, and injected poisons.</DetoxifierKidney.description>
   
-  <InstallDetoxifierLung.label>install detoxifier lung</InstallDetoxifierLung.label>
-  <InstallDetoxifierLung.description>Install a detoxifier lung.</InstallDetoxifierLung.description>
-  <InstallDetoxifierLung.jobString>Installing detoxifier lung.</InstallDetoxifierLung.jobString>
+  <DetoxifierLung.label>detoxifier lung</DetoxifierLung.label>
+  <DetoxifierLung.description>An advanced artificial lung that uses microfilters to reduce the intake of environmental toxins, allowing the user to survive longer in polluted environments. Additionally, it negates the irritation of acidic smog and prevents lung rot in this lung.</DetoxifierLung.description>
 </LanguageData>
