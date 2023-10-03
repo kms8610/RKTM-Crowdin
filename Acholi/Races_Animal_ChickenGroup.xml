@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Chicken.label>crwdns473258:0crwdne473258:0</Chicken.label>
-  <Chicken.description>crwdns473260:0crwdne473260:0</Chicken.description>
-  <Chicken.tools.claws.label>crwdns473262:0crwdne473262:0</Chicken.tools.claws.label>
-  <Chicken.tools.beak.label>crwdns473264:0crwdne473264:0</Chicken.tools.beak.label>
-  <Chicken.tools.head.label>crwdns473266:0crwdne473266:0</Chicken.tools.head.label>
+  <Chicken.label>crwdns460786:0crwdne460786:0</Chicken.label>
+  <Chicken.labelFemale>crwdns460788:0crwdne460788:0</Chicken.labelFemale>
+  <Chicken.labelMale>crwdns460790:0crwdne460790:0</Chicken.labelMale>
+  <Chicken.lifeStages.chick.label>crwdns460792:0crwdne460792:0</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelMale>crwdns460794:0crwdne460794:0</Chicken.lifeStages.cockerel.labelMale>
   
-  <Duck.label>crwdns473268:0crwdne473268:0</Duck.label>
-  <Duck.description>crwdns473270:0crwdne473270:0</Duck.description>
-  <Duck.tools.claws.label>crwdns473272:0crwdne473272:0</Duck.tools.claws.label>
-  <Duck.tools.beak.label>crwdns473274:0crwdne473274:0</Duck.tools.beak.label>
-  <Duck.tools.head.label>crwdns473276:0crwdne473276:0</Duck.tools.head.label>
+  <Duck.label>crwdns460796:0crwdne460796:0</Duck.label>
+  <Duck.lifeStages.duckling.label>crwdns460798:0crwdne460798:0</Duck.lifeStages.duckling.label>
   
-  <Goose.label>crwdns473278:0crwdne473278:0</Goose.label>
-  <Goose.description>crwdns473280:0crwdne473280:0</Goose.description>
-  <Goose.tools.claws.label>crwdns473282:0crwdne473282:0</Goose.tools.claws.label>
-  <Goose.tools.beak.label>crwdns473284:0crwdne473284:0</Goose.tools.beak.label>
-  <Goose.tools.head.label>crwdns473286:0crwdne473286:0</Goose.tools.head.label>
+  <Goose.label>crwdns460800:0crwdne460800:0</Goose.label>
+  <Goose.labelPlural>crwdns460802:0crwdne460802:0</Goose.labelPlural>
   
-  <Turkey.label>crwdns473288:0crwdne473288:0</Turkey.label>
-  <Turkey.description>crwdns473290:0crwdne473290:0</Turkey.description>
-  <Turkey.tools.claws.label>crwdns473292:0crwdne473292:0</Turkey.tools.claws.label>
-  <Turkey.tools.beak.label>crwdns473294:0crwdne473294:0</Turkey.tools.beak.label>
-  <Turkey.tools.head.label>crwdns473296:0crwdne473296:0</Turkey.tools.head.label>
+  <Turkey.label>crwdns460804:0crwdne460804:0</Turkey.label>
 </LanguageData>
