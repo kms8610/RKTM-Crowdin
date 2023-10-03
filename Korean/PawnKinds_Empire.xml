@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Empire_Common_Laborer.label>제국 노동자</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.label>imperial laborer</Empire_Common_Laborer.label>
   
-  <Empire_Common_Lodger.label>제국 시민</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.label>imperial citizen</Empire_Common_Lodger.label>
   
-  <Empire_Common_Trader.label>제국 상선</Empire_Common_Trader.label>
+  <Empire_Common_Trader.label>imperial trader</Empire_Common_Trader.label>
   
-  <Empire_Fighter_Cataphract.label>근위병</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.label>cataphract</Empire_Fighter_Cataphract.label>
   
-  <Empire_Fighter_Champion.label>용사</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.label>champion</Empire_Fighter_Champion.label>
   
-  <Empire_Fighter_Grenadier.label>제국 척탄병</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Grenadier.label>imperial grenadier</Empire_Fighter_Grenadier.label>
   
-  <Empire_Fighter_Janissary.label>친위병</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.label>janissary</Empire_Fighter_Janissary.label>
   
-  <Empire_Fighter_StellicGuardMelee.label>별의 감시자</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.label>stellic warden</Empire_Fighter_StellicGuardMelee.label>
   
-  <Empire_Fighter_StellicGuardRanged.label>별의 수호자</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.label>stellic defender</Empire_Fighter_StellicGuardRanged.label>
   
-  <Empire_Fighter_Trooper.label>돌격병</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.label>trooper</Empire_Fighter_Trooper.label>
   
-  <Empire_Royal_Acolyte.label>향사</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Acolyte.label>acolyte</Empire_Royal_Acolyte.label>
   
-  <Empire_Royal_Baron.label>남작</Empire_Royal_Baron.label>
-  <Empire_Royal_Baron.labelFemale>남작부인</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.label>baron</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.labelFemale>baroness</Empire_Royal_Baron.labelFemale>
   
-  <Empire_Royal_Bestower.label>수여자</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.label>bestower</Empire_Royal_Bestower.label>
   
-  <Empire_Royal_Consul.label>총독</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.label>consul</Empire_Royal_Consul.label>
   
-  <Empire_Royal_Count.label>백작</Empire_Royal_Count.label>
-  <Empire_Royal_Count.labelFemale>백작부인</Empire_Royal_Count.labelFemale>
+  <Empire_Royal_Count.label>count</Empire_Royal_Count.label>
+  <Empire_Royal_Count.labelFemale>countess</Empire_Royal_Count.labelFemale>
   
-  <Empire_Royal_Duke.label>공작</Empire_Royal_Duke.label>
-  <Empire_Royal_Duke.labelFemale>공작부인</Empire_Royal_Duke.labelFemale>
+  <Empire_Royal_Duke.label>duke</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.labelFemale>duchess</Empire_Royal_Duke.labelFemale>
   
-  <Empire_Royal_Knight.label>기사</Empire_Royal_Knight.label>
-  <Empire_Royal_Knight.labelFemale>부인</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_Knight.label>knight</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.labelFemale>dame</Empire_Royal_Knight.labelFemale>
   
-  <Empire_Royal_NobleWimp.label>귀족</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.label>noble</Empire_Royal_NobleWimp.label>
   
-  <Empire_Royal_Praetor.label>영사</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.label>praetor</Empire_Royal_Praetor.label>
   
-  <Empire_Royal_Stellarch.label>항성군주</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.label>stellarch</Empire_Royal_Stellarch.label>
   
-  <Empire_Royal_Yeoman.label>시종</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.label>yeoman</Empire_Royal_Yeoman.label>
   
-  <Slave_Empire.label>노예</Slave_Empire.label>
+  <Slave_Empire.label>slave</Slave_Empire.label>
 </LanguageData>
