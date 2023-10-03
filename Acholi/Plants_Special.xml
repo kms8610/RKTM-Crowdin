@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <ChoppedStump_Gauranlen.label>crwdns440738:0crwdne440738:0</ChoppedStump_Gauranlen.label>
-  <ChoppedStump_Gauranlen.description>crwdns440740:0crwdne440740:0</ChoppedStump_Gauranlen.description>
+  <BurnedTree.label>crwdns472948:0crwdne472948:0</BurnedTree.label>
+  <BurnedTree.description>crwdns472950:0crwdne472950:0</BurnedTree.description>
   
-  <GauranlenSeed.label>crwdns440742:0crwdne440742:0</GauranlenSeed.label>
-  <GauranlenSeed.description>crwdns440744:0crwdne440744:0</GauranlenSeed.description>
+  <ChoppedStump.label>crwdns472952:0crwdne472952:0</ChoppedStump.label>
+  <ChoppedStump.description>crwdns472954:0crwdne472954:0</ChoppedStump.description>
   
-  <Plant_Fibercorn.label>crwdns440746:0crwdne440746:0</Plant_Fibercorn.label>
-  <Plant_Fibercorn.description>crwdns440748:0crwdne440748:0</Plant_Fibercorn.description>
+  <Dye.label>crwdns472956:0crwdne472956:0</Dye.label>
+  <Dye.description>crwdns472958:0crwdne472958:0</Dye.description>
   
-  <Plant_MossGauranlen.label>crwdns440750:0crwdne440750:0</Plant_MossGauranlen.label>
-  <Plant_MossGauranlen.description>crwdns440752:0crwdne440752:0</Plant_MossGauranlen.description>
+  <Plant_Ambrosia.label>crwdns472960:0crwdne472960:0</Plant_Ambrosia.label>
+  <Plant_Ambrosia.description>crwdns472962:0crwdne472962:0</Plant_Ambrosia.description>
   
-  <Plant_Nutrifungus.label>crwdns440754:0crwdne440754:0</Plant_Nutrifungus.label>
-  <Plant_Nutrifungus.description>crwdns440756:0crwdne440756:0</Plant_Nutrifungus.description>
+  <Plant_Tinctoria.label>crwdns472964:0crwdne472964:0</Plant_Tinctoria.label>
+  <Plant_Tinctoria.description>crwdns472966:0crwdne472966:0</Plant_Tinctoria.description>
   
-  <Plant_PodGauranlen.label>crwdns440758:0crwdne440758:0</Plant_PodGauranlen.label>
-  <Plant_PodGauranlen.description>crwdns440760:0crwdne440760:0</Plant_PodGauranlen.description>
-  
-  <Plant_Timbershroom.label>crwdns440762:0crwdne440762:0</Plant_Timbershroom.label>
-  <Plant_Timbershroom.description>crwdns440764:0crwdne440764:0</Plant_Timbershroom.description>
-  
-  <Plant_TreeBonsai.label>crwdns440766:0crwdne440766:0</Plant_TreeBonsai.label>
-  <Plant_TreeBonsai.description>crwdns440768:0crwdne440768:0</Plant_TreeBonsai.description>
-  
-  <Plant_TreeGauranlen.label>crwdns440770:0crwdne440770:0</Plant_TreeGauranlen.label>
-  <Plant_TreeGauranlen.description>crwdns440772:0crwdne440772:0</Plant_TreeGauranlen.description>
-  
-  <SmashedStump_Gauranlen.label>crwdns440774:0crwdne440774:0</SmashedStump_Gauranlen.label>
-  <SmashedStump_Gauranlen.description>crwdns440776:0crwdne440776:0</SmashedStump_Gauranlen.description>
+  <SmashedStump.label>crwdns472968:0crwdne472968:0</SmashedStump.label>
+  <SmashedStump.description>crwdns472970:0crwdne472970:0</SmashedStump.description>
 </LanguageData>
