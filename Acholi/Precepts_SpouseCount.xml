@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <SpouseCount_Female_MaxOne.label>crwdns461180:0crwdne461180:0</SpouseCount_Female_MaxOne.label>
-  <SpouseCount_Female_MaxOne.description>crwdns461182:0crwdne461182:0</SpouseCount_Female_MaxOne.description>
+  <GotMarried_SpouseCount_FiveOrMore.label>crwdns431142:0crwdne431142:0</GotMarried_SpouseCount_FiveOrMore.label>
   
-  <SpouseCount_Male_MaxOne.label>crwdns461184:0crwdne461184:0</SpouseCount_Male_MaxOne.label>
-  <SpouseCount_Male_MaxOne.description>crwdns461186:0crwdne461186:0</SpouseCount_Male_MaxOne.description>
+  <GotMarried_SpouseCount_Four.label>crwdns431144:0crwdne431144:0</GotMarried_SpouseCount_Four.label>
+  
+  <GotMarried_SpouseCount_Three.label>crwdns431146:0crwdne431146:0</GotMarried_SpouseCount_Three.label>
 </LanguageData>
