@@ -1,22 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Make_StoneBlocksGranite.label>crwdns462098:0crwdne462098:0</Make_StoneBlocksGranite.label>
-  <Make_StoneBlocksGranite.description>crwdns462100:0crwdne462100:0</Make_StoneBlocksGranite.description>
-  <Make_StoneBlocksGranite.jobString>crwdns462102:0crwdne462102:0</Make_StoneBlocksGranite.jobString>
+  <BlocksGranite.label>crwdns474142:0crwdne474142:0</BlocksGranite.label>
+  <BlocksGranite.description>crwdns474144:0crwdne474144:0</BlocksGranite.description>
+  <BlocksGranite.stuffProps.stuffAdjective>crwdns474146:0crwdne474146:0</BlocksGranite.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksLimestone.label>crwdns462104:0crwdne462104:0</Make_StoneBlocksLimestone.label>
-  <Make_StoneBlocksLimestone.description>crwdns462106:0crwdne462106:0</Make_StoneBlocksLimestone.description>
-  <Make_StoneBlocksLimestone.jobString>crwdns462108:0crwdne462108:0</Make_StoneBlocksLimestone.jobString>
+  <BlocksLimestone.label>crwdns474148:0crwdne474148:0</BlocksLimestone.label>
+  <BlocksLimestone.description>crwdns474150:0crwdne474150:0</BlocksLimestone.description>
+  <BlocksLimestone.stuffProps.stuffAdjective>crwdns474152:0crwdne474152:0</BlocksLimestone.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksMarble.label>crwdns462110:0crwdne462110:0</Make_StoneBlocksMarble.label>
-  <Make_StoneBlocksMarble.description>crwdns462112:0crwdne462112:0</Make_StoneBlocksMarble.description>
-  <Make_StoneBlocksMarble.jobString>crwdns462114:0crwdne462114:0</Make_StoneBlocksMarble.jobString>
+  <BlocksMarble.label>crwdns474154:0crwdne474154:0</BlocksMarble.label>
+  <BlocksMarble.description>crwdns474156:0crwdne474156:0</BlocksMarble.description>
+  <BlocksMarble.stuffProps.stuffAdjective>crwdns474158:0crwdne474158:0</BlocksMarble.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksSandstone.label>crwdns462116:0crwdne462116:0</Make_StoneBlocksSandstone.label>
-  <Make_StoneBlocksSandstone.description>crwdns462118:0crwdne462118:0</Make_StoneBlocksSandstone.description>
-  <Make_StoneBlocksSandstone.jobString>crwdns462120:0crwdne462120:0</Make_StoneBlocksSandstone.jobString>
+  <BlocksSandstone.label>crwdns474160:0crwdne474160:0</BlocksSandstone.label>
+  <BlocksSandstone.description>crwdns474162:0crwdne474162:0</BlocksSandstone.description>
+  <BlocksSandstone.stuffProps.stuffAdjective>crwdns474164:0crwdne474164:0</BlocksSandstone.stuffProps.stuffAdjective>
   
-  <Make_StoneBlocksSlate.label>crwdns462122:0crwdne462122:0</Make_StoneBlocksSlate.label>
-  <Make_StoneBlocksSlate.description>crwdns462124:0crwdne462124:0</Make_StoneBlocksSlate.description>
-  <Make_StoneBlocksSlate.jobString>crwdns462126:0crwdne462126:0</Make_StoneBlocksSlate.jobString>
+  <BlocksSlate.label>crwdns474166:0crwdne474166:0</BlocksSlate.label>
+  <BlocksSlate.description>crwdns474168:0crwdne474168:0</BlocksSlate.description>
+  <BlocksSlate.stuffProps.stuffAdjective>crwdns474170:0crwdne474170:0</BlocksSlate.stuffProps.stuffAdjective>
+  
+  <ChunkGranite.label>crwdns474172:0crwdne474172:0</ChunkGranite.label>
+  <ChunkGranite.description>crwdns474174:0crwdne474174:0</ChunkGranite.description>
+  
+  <ChunkLimestone.label>crwdns474176:0crwdne474176:0</ChunkLimestone.label>
+  <ChunkLimestone.description>crwdns474178:0crwdne474178:0</ChunkLimestone.description>
+  
+  <ChunkMarble.label>crwdns474180:0crwdne474180:0</ChunkMarble.label>
+  <ChunkMarble.description>crwdns474182:0crwdne474182:0</ChunkMarble.description>
+  
+  <ChunkSandstone.label>crwdns474184:0crwdne474184:0</ChunkSandstone.label>
+  <ChunkSandstone.description>crwdns474186:0crwdne474186:0</ChunkSandstone.description>
+  
+  <ChunkSlagSteel.label>crwdns474188:0crwdne474188:0</ChunkSlagSteel.label>
+  <ChunkSlagSteel.description>crwdns474190:0crwdne474190:0</ChunkSlagSteel.description>
+  
+  <ChunkSlate.label>crwdns474192:0crwdne474192:0</ChunkSlate.label>
+  <ChunkSlate.description>crwdns474194:0crwdne474194:0</ChunkSlate.description>
+  
+  <Granite.label>crwdns474196:0crwdne474196:0</Granite.label>
+  <Granite.description>crwdns474198:0crwdne474198:0</Granite.description>
+  
+  <Limestone.label>crwdns474200:0crwdne474200:0</Limestone.label>
+  <Limestone.description>crwdns474202:0crwdne474202:0</Limestone.description>
+  
+  <Marble.label>crwdns474204:0crwdne474204:0</Marble.label>
+  <Marble.description>crwdns474206:0crwdne474206:0</Marble.description>
+  
+  <Sandstone.label>crwdns474208:0crwdne474208:0</Sandstone.label>
+  <Sandstone.description>crwdns474210:0crwdne474210:0</Sandstone.description>
+  
+  <Slate.label>crwdns474212:0crwdne474212:0</Slate.label>
+  <Slate.description>crwdns474214:0crwdne474214:0</Slate.description>
+  
+  <SmoothedGranite.label>crwdns474216:0crwdne474216:0</SmoothedGranite.label>
+  <SmoothedGranite.description>crwdns474218:0crwdne474218:0</SmoothedGranite.description>
+  
+  <SmoothedLimestone.label>crwdns474220:0crwdne474220:0</SmoothedLimestone.label>
+  <SmoothedLimestone.description>crwdns474222:0crwdne474222:0</SmoothedLimestone.description>
+  
+  <SmoothedMarble.label>crwdns474224:0crwdne474224:0</SmoothedMarble.label>
+  <SmoothedMarble.description>crwdns474226:0crwdne474226:0</SmoothedMarble.description>
+  
+  <SmoothedSandstone.label>crwdns474228:0crwdne474228:0</SmoothedSandstone.label>
+  <SmoothedSandstone.description>crwdns474230:0crwdne474230:0</SmoothedSandstone.description>
+  
+  <SmoothedSlate.label>crwdns474232:0crwdne474232:0</SmoothedSlate.label>
+  <SmoothedSlate.description>crwdns474234:0crwdne474234:0</SmoothedSlate.description>
 </LanguageData>
