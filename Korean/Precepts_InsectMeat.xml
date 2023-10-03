@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.label>ate cooked insect meat</AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.label>
-  <AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.description>I ate a meal that contained insect meat. I could still taste hints of bug-slime!</AteInsectMeatAsIngredient_Loved.stages.ate_cooked_insect_meat.description>
-  
-  <AteInsectMeat_Loved.stages.ate_insect_meat.label>ate insect meat</AteInsectMeat_Loved.stages.ate_insect_meat.label>
-  <AteInsectMeat_Loved.stages.ate_insect_meat.description>I ate some insect meat. So smooth and succulent.</AteInsectMeat_Loved.stages.ate_insect_meat.description>
+  <InsectMeatEating_Loved.label>사랑함</InsectMeatEating_Loved.label>
+  <InsectMeatEating_Loved.description>이 육즙 많고 끈적끈적한 곤충 고기만큼 신성한 것은 없다.</InsectMeatEating_Loved.description>
 </LanguageData>
