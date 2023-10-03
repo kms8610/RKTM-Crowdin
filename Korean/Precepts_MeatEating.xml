@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <MeatEating_Abhorrent.label>혐오함</MeatEating_Abhorrent.label>
-  <MeatEating_Abhorrent.description>육식은 악마들이나 하는 짓거리다.</MeatEating_Abhorrent.description>
+  <AteMeat_Abhorrent.stages.ate_meat.label>고기 섭취</AteMeat_Abhorrent.stages.ate_meat.label>
+  <AteMeat_Abhorrent.stages.ate_meat.description>고기를 먹어야만 했어. 내가 믿는 모든 것에 대한 혐오스러운 모독이었어.</AteMeat_Abhorrent.stages.ate_meat.description>
   
-  <MeatEating_Disapproved.label>못마땅함</MeatEating_Disapproved.label>
-  <MeatEating_Disapproved.description>육식은 가급적 자제해야 한다.</MeatEating_Disapproved.description>
+  <AteMeat_Disapproved.stages.ate_meat.label>고기 섭취</AteMeat_Disapproved.stages.ate_meat.label>
+  <AteMeat_Disapproved.stages.ate_meat.description>고기를 먹어야만 했어. 그러고 싶지 않았다고.</AteMeat_Disapproved.stages.ate_meat.description>
   
-  <MeatEating_Horrible.label>끔찍함</MeatEating_Horrible.label>
-  <MeatEating_Horrible.description>육식은 끔찍한 식습관이다.</MeatEating_Horrible.description>
+  <AteMeat_Horrible.stages.ate_meat.label>고기 섭취</AteMeat_Horrible.stages.ate_meat.label>
+  <AteMeat_Horrible.stages.ate_meat.description>고기를 먹어야만 했어. 내 신념에 대한 끔찍한 모독이었어.</AteMeat_Horrible.stages.ate_meat.description>
   
-  <MeatEating_NonMeat_Abhorrent.label>채식주의자 혐오</MeatEating_NonMeat_Abhorrent.label>
-  <MeatEating_NonMeat_Abhorrent.description>채식주의자는 누구나 도덕심이 매우 부족하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 포함되지 않은 가공식품도 좋다.</MeatEating_NonMeat_Abhorrent.description>
+  <AteMeat_Know_Abhorrent.stages.ate_meat.label>고기 섭취 목격</AteMeat_Know_Abhorrent.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Disapproved.label>채식주의자 싫어함</MeatEating_NonMeat_Disapproved.label>
-  <MeatEating_NonMeat_Disapproved.description>채식 음식을 먹는 것은 불쾌하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 없는 가공식품도 좋다.</MeatEating_NonMeat_Disapproved.description>
+  <AteMeat_Know_Disapproved.stages.ate_meat.label>고기 섭취 목격</AteMeat_Know_Disapproved.stages.ate_meat.label>
   
-  <MeatEating_NonMeat_Horrible.label>채식주의자 질색함</MeatEating_NonMeat_Horrible.label>
-  <MeatEating_NonMeat_Horrible.description>채식 음식을 먹는 것은 끔찍하다. 모든 식사에는 고기가 있어야 한다. 계란, 우유, 야채가 없는 가공식품도 좋다.</MeatEating_NonMeat_Horrible.description>
+  <AteMeat_Know_Horrible.stages.ate_meat.label>고기 섭취 목격</AteMeat_Know_Horrible.stages.ate_meat.label>
+  
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.label>채식</AteNonMeat_Abhorrent.stages.ate_vegetarian.label>
+  <AteNonMeat_Abhorrent.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에 대한 끔찍한 위반이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Abhorrent.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.label>채식</AteNonMeat_Disapproved.stages.ate_vegetarian.label>
+  <AteNonMeat_Disapproved.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에서 용납할 수 없는 일탈이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Disapproved.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Horrible.stages.ate_vegetarian.label>채식</AteNonMeat_Horrible.stages.ate_vegetarian.label>
+  <AteNonMeat_Horrible.stages.ate_vegetarian.description>나는 고기 없이 밥을 먹었다. 그것은 올바른 고기 식단에 대한 혐오스러운 위반이야. 계란, 우유 또는 야채가 없는 일부 가공 식품도 괜찮았을 것 같아.</AteNonMeat_Horrible.stages.ate_vegetarian.description>
+  
+  <AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Abhorrent.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Disapproved.stages.ate_vegetarian.label>
+  
+  <AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>채식</AteNonMeat_Know_Horrible.stages.ate_vegetarian.label>
 </LanguageData>
