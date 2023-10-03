@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Abasia.label>crwdns445632:0crwdne445632:0</Abasia.label>
-  <Abasia.description>crwdns445634:0crwdne445634:0</Abasia.description>
-  <Abasia.descriptionShort>crwdns445636:0crwdne445636:0</Abasia.descriptionShort>
+  <CureAbasia.label>crwdns447922:0crwdne447922:0</CureAbasia.label>
+  <CureAbasia.description>crwdns447924:0crwdne447924:0</CureAbasia.description>
+  <CureAbasia.jobString>crwdns447926:0crwdne447926:0</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>crwdns447928:0{0}crwdnd447928:0{1}crwdne447928:0</CureAbasia.successfullyRemovedHediffMessage>
   
-  <BloodRot.label>crwdns445638:0crwdne445638:0</BloodRot.label>
-  <BloodRot.description>crwdns445640:0crwdne445640:0</BloodRot.description>
-  <BloodRot.descriptionShort>crwdns445642:0crwdne445642:0</BloodRot.descriptionShort>
-  <BloodRot.stages.minor.label>crwdns445644:0crwdne445644:0</BloodRot.stages.minor.label>
-  <BloodRot.stages.major.label>crwdns445646:0crwdne445646:0</BloodRot.stages.major.label>
-  <BloodRot.stages.extreme.label>crwdns445648:0crwdne445648:0</BloodRot.stages.extreme.label>
+  <CureBloodRot.label>crwdns447930:0crwdne447930:0</CureBloodRot.label>
+  <CureBloodRot.description>crwdns447932:0crwdne447932:0</CureBloodRot.description>
+  <CureBloodRot.jobString>crwdns447934:0crwdne447934:0</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>crwdns447936:0{0}crwdnd447936:0{1}crwdne447936:0</CureBloodRot.successfullyRemovedHediffMessage>
 </LanguageData>
