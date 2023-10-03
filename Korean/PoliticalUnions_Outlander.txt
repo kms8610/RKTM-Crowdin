@@ -1,19 +1,19 @@
 ﻿//Common with tribals
-union
-nation
-confederacy
-confederation
-alliance
-covenant
-treaty
-pact
-coalition
+조합
+연맹국
+연합
+연합
+동맹
+조약
+맹약
+연맹
+연합체
 
 //Outlander specific (different from empire)
-federation
-league
-compact
-accord
-concord
-amalgamation
-unification
+연방
+연맹
+협약
+조화
+화합
+자치령
+연방국
