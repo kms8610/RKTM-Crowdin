@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>crwdns440906:0crwdne440906:0</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>
-  <AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>crwdns440908:0crwdne440908:0</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>
+  <AteVeneratedAnimalMeat.label>crwdns431042:0crwdne431042:0</AteVeneratedAnimalMeat.label>
   
-  <TameVeneratedAnimalDied.stages.venerated_died.label>crwdns440910:0{ANIMALKIND}crwdne440910:0</TameVeneratedAnimalDied.stages.venerated_died.label>
-  <TameVeneratedAnimalDied.stages.venerated_died.description>crwdns440912:0{ANIMALKIND}crwdne440912:0</TameVeneratedAnimalDied.stages.venerated_died.description>
+  <HuntedVeneratedAnimal.label>crwdns431044:0crwdne431044:0</HuntedVeneratedAnimal.label>
   
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>crwdns440914:0{ANIMAL_label}crwdne440914:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.description>crwdns440916:0crwdne440916:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.description>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.label>crwdns440918:0{ANIMAL_label}crwdne440918:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.label>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.description>crwdns440920:0crwdne440920:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-1.description>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.label>crwdns440922:0{ANIMAL_label}crwdne440922:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.label>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.description>crwdns440924:0crwdne440924:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-2.description>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.label>crwdns440926:0{ANIMAL_label}crwdne440926:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.label>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.description>crwdns440928:0crwdne440928:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-3.description>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.label>crwdns440930:0{ANIMAL_label}crwdne440930:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.label>
-  <VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.description>crwdns440932:0crwdne440932:0</VeneratedAnimalsOnMapOrCaravan.stages.venerated-4.description>
+  <SlaughteredVeneratedAnimal.label>crwdns431046:0crwdne431046:0</SlaughteredVeneratedAnimal.label>
+  
+  <TameVeneratedAnimalDied.label>crwdns431048:0crwdne431048:0</TameVeneratedAnimalDied.label>
 </LanguageData>
