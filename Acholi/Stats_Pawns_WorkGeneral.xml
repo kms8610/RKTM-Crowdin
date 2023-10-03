@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <WorkSpeedGlobalOffsetMech.label>crwdns427024:0crwdne427024:0</WorkSpeedGlobalOffsetMech.label>
-  <WorkSpeedGlobalOffsetMech.description>crwdns427026:0crwdne427026:0</WorkSpeedGlobalOffsetMech.description>
+  <HackingSpeed.label>crwdns439906:0crwdne439906:0</HackingSpeed.label>
+  <HackingSpeed.description>crwdns439908:0crwdne439908:0</HackingSpeed.description>
+  
+  <PruningSpeed.label>crwdns439910:0crwdne439910:0</PruningSpeed.label>
+  <PruningSpeed.description>crwdns439912:0crwdne439912:0</PruningSpeed.description>
+  
+  <SuppressionPower.label>crwdns439914:0crwdne439914:0</SuppressionPower.label>
+  <SuppressionPower.description>crwdns439916:0crwdne439916:0</SuppressionPower.description>
 </LanguageData>
