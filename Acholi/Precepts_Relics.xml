@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <IdeoRelic.label>crwdns436762:0crwdne436762:0</IdeoRelic.label>
-  <IdeoRelic.description>crwdns436764:0crwdne436764:0</IdeoRelic.description>
+  <RelicDestroyed.stages.relic_destroyed.label>crwdns442166:0crwdne442166:0</RelicDestroyed.stages.relic_destroyed.label>
+  <RelicDestroyed.stages.relic_destroyed.description>crwdns442168:0crwdne442168:0</RelicDestroyed.stages.relic_destroyed.description>
+  
+  <RelicLost.stages.relic_lost.label>crwdns442170:0crwdne442170:0</RelicLost.stages.relic_lost.label>
+  <RelicLost.stages.relic_lost.description>crwdns442172:0crwdne442172:0</RelicLost.stages.relic_lost.description>
 </LanguageData>
