@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <BurnedTree.label>crwdns472948:0crwdne472948:0</BurnedTree.label>
-  <BurnedTree.description>crwdns472950:0crwdne472950:0</BurnedTree.description>
+  <ChoppedStump_Polux.label>crwdns427702:0crwdne427702:0</ChoppedStump_Polux.label>
+  <ChoppedStump_Polux.description>crwdns427704:0crwdne427704:0</ChoppedStump_Polux.description>
   
-  <ChoppedStump.label>crwdns472952:0crwdne472952:0</ChoppedStump.label>
-  <ChoppedStump.description>crwdns472954:0crwdne472954:0</ChoppedStump.description>
+  <Plant_TreePolux.label>crwdns427706:0crwdne427706:0</Plant_TreePolux.label>
+  <Plant_TreePolux.description>crwdns427708:0crwdne427708:0</Plant_TreePolux.description>
   
-  <Dye.label>crwdns472956:0crwdne472956:0</Dye.label>
-  <Dye.description>crwdns472958:0crwdne472958:0</Dye.description>
+  <PoluxSeed.label>crwdns427710:0crwdne427710:0</PoluxSeed.label>
+  <PoluxSeed.description>crwdns427712:0crwdne427712:0</PoluxSeed.description>
   
-  <Plant_Ambrosia.label>crwdns472960:0crwdne472960:0</Plant_Ambrosia.label>
-  <Plant_Ambrosia.description>crwdns472962:0crwdne472962:0</Plant_Ambrosia.description>
-  
-  <Plant_Tinctoria.label>crwdns472964:0crwdne472964:0</Plant_Tinctoria.label>
-  <Plant_Tinctoria.description>crwdns472966:0crwdne472966:0</Plant_Tinctoria.description>
-  
-  <SmashedStump.label>crwdns472968:0crwdne472968:0</SmashedStump.label>
-  <SmashedStump.description>crwdns472970:0crwdne472970:0</SmashedStump.description>
+  <SmashedStump_Polux.label>crwdns427714:0crwdne427714:0</SmashedStump_Polux.label>
+  <SmashedStump_Polux.description>crwdns427716:0crwdne427716:0</SmashedStump_Polux.description>
 </LanguageData>
