@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <AnimalSlaughter.label>crwdns432266:0crwdne432266:0</AnimalSlaughter.label>
+  <AnimalSlaughter_Disapproved.label>crwdns436118:0crwdne436118:0</AnimalSlaughter_Disapproved.label>
+  <AnimalSlaughter_Disapproved.description>crwdns436120:0crwdne436120:0</AnimalSlaughter_Disapproved.description>
+  <AnimalSlaughter_Disapproved.comps.1.description>crwdns436122:0crwdne436122:0</AnimalSlaughter_Disapproved.comps.1.description>
+  
+  <AnimalSlaughter_Horrible.label>crwdns436124:0crwdne436124:0</AnimalSlaughter_Horrible.label>
+  <AnimalSlaughter_Horrible.description>crwdns436126:0crwdne436126:0</AnimalSlaughter_Horrible.description>
+  <AnimalSlaughter_Horrible.comps.1.description>crwdns436128:0crwdne436128:0</AnimalSlaughter_Horrible.comps.1.description>
+  
+  <AnimalSlaughter_Prohibited.label>crwdns436130:0crwdne436130:0</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.description>crwdns436132:0crwdne436132:0</AnimalSlaughter_Prohibited.description>
+  <AnimalSlaughter_Prohibited.comps.1.description>crwdns436134:0crwdne436134:0</AnimalSlaughter_Prohibited.comps.1.description>
+  <AnimalSlaughter_Prohibited.comps.2.description>crwdns436136:0crwdne436136:0</AnimalSlaughter_Prohibited.comps.2.description>
 </LanguageData>
