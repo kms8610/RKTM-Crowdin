@@ -1,32 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <Beggars.label>crwdns430798:0crwdne430798:0</Beggars.label>
-  <Beggars.description>crwdns430800:0crwdne430800:0</Beggars.description>
-  <Beggars.leaderTitle>crwdns430802:0crwdne430802:0</Beggars.leaderTitle>
-  <Beggars.pawnSingular>crwdns430804:0crwdne430804:0</Beggars.pawnSingular>
-  <Beggars.pawnsPlural>crwdns430806:0crwdne430806:0</Beggars.pawnsPlural>
-  
-  <CannibalPirate.label>crwdns430808:0crwdne430808:0</CannibalPirate.label>
-  <CannibalPirate.description>crwdns430810:0crwdne430810:0</CannibalPirate.description>
-  <CannibalPirate.leaderTitle>crwdns430812:0crwdne430812:0</CannibalPirate.leaderTitle>
-  <CannibalPirate.pawnSingular>crwdns430814:0crwdne430814:0</CannibalPirate.pawnSingular>
-  <CannibalPirate.pawnsPlural>crwdns430816:0crwdne430816:0</CannibalPirate.pawnsPlural>
-  
-  <NudistTribe.label>crwdns430818:0crwdne430818:0</NudistTribe.label>
-  <NudistTribe.description>crwdns430820:0crwdne430820:0</NudistTribe.description>
-  <NudistTribe.leaderTitle>crwdns430822:0crwdne430822:0</NudistTribe.leaderTitle>
-  <NudistTribe.pawnSingular>crwdns430824:0crwdne430824:0</NudistTribe.pawnSingular>
-  <NudistTribe.pawnsPlural>crwdns430826:0crwdne430826:0</NudistTribe.pawnsPlural>
-  
-  <Pilgrims.label>crwdns430828:0crwdne430828:0</Pilgrims.label>
-  <Pilgrims.description>crwdns430830:0crwdne430830:0</Pilgrims.description>
-  <Pilgrims.leaderTitle>crwdns430832:0crwdne430832:0</Pilgrims.leaderTitle>
-  <Pilgrims.pawnSingular>crwdns430834:0crwdne430834:0</Pilgrims.pawnSingular>
-  <Pilgrims.pawnsPlural>crwdns430836:0crwdne430836:0</Pilgrims.pawnsPlural>
-  
-  <TribeCannibal.label>crwdns430838:0crwdne430838:0</TribeCannibal.label>
-  <TribeCannibal.description>crwdns430840:0crwdne430840:0</TribeCannibal.description>
-  <TribeCannibal.leaderTitle>crwdns430842:0crwdne430842:0</TribeCannibal.leaderTitle>
-  <TribeCannibal.pawnSingular>crwdns430844:0crwdne430844:0</TribeCannibal.pawnSingular>
-  <TribeCannibal.pawnsPlural>crwdns430846:0crwdne430846:0</TribeCannibal.pawnsPlural>
+  <OutlanderRefugee.label>crwdns445350:0crwdne445350:0</OutlanderRefugee.label>
+  <OutlanderRefugee.description>crwdns445352:0crwdne445352:0</OutlanderRefugee.description>
+  <OutlanderRefugee.leaderTitle>crwdns445354:0crwdne445354:0</OutlanderRefugee.leaderTitle>
+  <OutlanderRefugee.pawnSingular>crwdns445356:0crwdne445356:0</OutlanderRefugee.pawnSingular>
+  <OutlanderRefugee.pawnsPlural>crwdns445358:0crwdne445358:0</OutlanderRefugee.pawnsPlural>
 </LanguageData>
