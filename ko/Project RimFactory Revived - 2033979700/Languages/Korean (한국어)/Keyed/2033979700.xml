@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PRF.AutoMachineTool.MustInWall>벽에 설치해야 합니다.</PRF.AutoMachineTool.MustInWall>
+  <PRF.AutoMachineTool.SelectOutputDirectionDesc>완제품의 출력 지점을 지정합니다. 완성된 물품은 출력 지점에 쌓이거나, 출력 영역이 출력 물품을 저장할 수 있는 저장구역과 겹칠 경우 해당 저장구역으로 이동합니다.</PRF.AutoMachineTool.SelectOutputDirectionDesc>
+  <PRF.AutoMachineTool.ForbidOutputItemLabel>출력 금지 물품</PRF.AutoMachineTool.ForbidOutputItemLabel>
+  <PRF.AutoMachineTool.ForbidOutputItemDesc>장치가 자동으로 배출된 물품의 상호작용을 금지하므로 정착민들은 수동으로 물품을 이동하려고 시도하지 않습니다.</PRF.AutoMachineTool.ForbidOutputItemDesc>
+  <PRF.AutoMachineTool.OutputDirectionN>북쪽</PRF.AutoMachineTool.OutputDirectionN>
+  <PRF.AutoMachineTool.OutputDirectionNE>북동쪽</PRF.AutoMachineTool.OutputDirectionNE>
+  <PRF.AutoMachineTool.OutputDirectionE>동쪽</PRF.AutoMachineTool.OutputDirectionE>
+  <PRF.AutoMachineTool.OutputDirectionSE>남동쪽</PRF.AutoMachineTool.OutputDirectionSE>
+  <PRF.AutoMachineTool.OutputDirectionS>남쪽</PRF.AutoMachineTool.OutputDirectionS>
+  <PRF.AutoMachineTool.OutputDirectionSW>남서쪽</PRF.AutoMachineTool.OutputDirectionSW>
+  <PRF.AutoMachineTool.OutputDirectionW>서쪽</PRF.AutoMachineTool.OutputDirectionW>
+  <PRF.AutoMachineTool.OutputDirectionNW>북서쪽</PRF.AutoMachineTool.OutputDirectionNW>
+  <PRF.AutoMachineTool.PlaceNotAllowed>AutoMachineTool must face the work table and be placed in the working position.</PRF.AutoMachineTool.PlaceNotAllowed>
+  <PRF.AutoMachineTool.StatWorking>작업 중. [{0} / {1} ({2}%)]</PRF.AutoMachineTool.StatWorking>
+  <PRF.AutoMachineTool.StatWorkingNotParam>작동 중.</PRF.AutoMachineTool.StatWorkingNotParam>
+  <PRF.AutoMachineTool.StatReady>준비</PRF.AutoMachineTool.StatReady>
+  <PRF.AutoMachineTool.StatPlacing>배치 중. [보류 중인 배치위치 {0}]</PRF.AutoMachineTool.StatPlacing>
+  <PRF.AutoMachineTool.PlacingSingle>{0} 놓는 중.</PRF.AutoMachineTool.PlacingSingle>
+  <PRF.AutoMachineTool.Priority>우선순위</PRF.AutoMachineTool.Priority>
+  <PRF.AutoMachineTool.OutputDirection>출력 방향. [{0}]</PRF.AutoMachineTool.OutputDirection>
+  <PRF.AutoMachineTool.OutputDirection.N>북쪽</PRF.AutoMachineTool.OutputDirection.N>
+  <PRF.AutoMachineTool.OutputDirection.NE>북동쪽</PRF.AutoMachineTool.OutputDirection.NE>
+  <PRF.AutoMachineTool.OutputDirection.E>동쪽</PRF.AutoMachineTool.OutputDirection.E>
+  <PRF.AutoMachineTool.OutputDirection.SE>남동쪽</PRF.AutoMachineTool.OutputDirection.SE>
+  <PRF.AutoMachineTool.OutputDirection.S>남쪽</PRF.AutoMachineTool.OutputDirection.S>
+  <PRF.AutoMachineTool.OutputDirection.SW>남서쪽</PRF.AutoMachineTool.OutputDirection.SW>
+  <PRF.AutoMachineTool.OutputDirection.W>서쪽</PRF.AutoMachineTool.OutputDirection.W>
+  <PRF.AutoMachineTool.OutputDirection.NW>북서쪽</PRF.AutoMachineTool.OutputDirection.NW>
+  <PRF.AutoMachineTool.SupplyPower.TabName>오버클록</PRF.AutoMachineTool.SupplyPower.TabName>
+  <PRF.AutoMachineTool.SupplyPower.Description>Overclock power usage to increase work speed</PRF.AutoMachineTool.SupplyPower.Description>
+  <PRF.AutoMachineTool.SupplyPower.DescriptionForRange>Overclock power usage to increase work range</PRF.AutoMachineTool.SupplyPower.DescriptionForRange>
+  <PRF.AutoMachineTool.SupplyPower.ValueLabelForSpeed>Overclock power for speed ({0} W)</PRF.AutoMachineTool.SupplyPower.ValueLabelForSpeed>
+  <PRF.AutoMachineTool.SupplyPower.ValueLabelForRange>Overclock power for range ({0} W)</PRF.AutoMachineTool.SupplyPower.ValueLabelForRange>
+  <PRF.AutoMachineTool.SupplyPower.SunLampText>Sun lamp (power: 2000)</PRF.AutoMachineTool.SupplyPower.SunLampText>
+  <PRF.AutoMachineTool.SupplyPower.BreakDownLine_Start>Total power usage:\nBase [{0}] + Work Speed [{1}] + Range [{2}]</PRF.AutoMachineTool.SupplyPower.BreakDownLine_Start>
+  <PRF.AutoMachineTool.SupplyPower.BreakDownLine_Append> + {0} [{1}]</PRF.AutoMachineTool.SupplyPower.BreakDownLine_Append>
+  <PRF.AutoMachineTool.SupplyPower.BreakDownLine_End> = [{0} W]</PRF.AutoMachineTool.SupplyPower.BreakDownLine_End>
+  <PRF.AutoMachineTool.SupplyPower.wdLabel>{0} W</PRF.AutoMachineTool.SupplyPower.wdLabel>
+  <PRF.AutoMachineTool.SupplyPower.PercentLabel>{0}%</PRF.AutoMachineTool.SupplyPower.PercentLabel>
+  <PRF.AutoMachineTool.SupplyPower.CurrentPercent>현재 작업 속도 {0}%</PRF.AutoMachineTool.SupplyPower.CurrentPercent>
+  <PRF.AutoMachineTool.SupplyPower.CellsLabel>{0} 칸</PRF.AutoMachineTool.SupplyPower.CellsLabel>
+  <PRF.AutoMachineTool.SupplyPower.CurrentCellRadius>Current range radius {0} cells</PRF.AutoMachineTool.SupplyPower.CurrentCellRadius>
+  <PRF.AutoMachineTool.ProductLimitation.ValueLabel>Limit value</PRF.AutoMachineTool.ProductLimitation.ValueLabel>
+  <PRF.AutoMachineTool.ProductLimitation.ValueLabelTip>Set the maximum number of items/stacks </PRF.AutoMachineTool.ProductLimitation.ValueLabelTip>
+  <PRF.AutoMachineTool.ProductLimitation.CheckBoxLabel>제한 활성</PRF.AutoMachineTool.ProductLimitation.CheckBoxLabel>
+  <PRF.AutoMachineTool.ProductLimitation.CheckBoxLabelTip>제품이나 물품 수가 한계 값을 초과하면 처리가 중지됩니다. 영역을 지정할 수 있습니다. 해당 구역에 배치할 수 있는지 확인하세요.</PRF.AutoMachineTool.ProductLimitation.CheckBoxLabelTip>
+  <PRF.AutoMachineTool.ProductLimitation.CountStacks>저장량 계산</PRF.AutoMachineTool.ProductLimitation.CountStacks>
+  <PRF.AutoMachineTool.ProductLimitation.CountStacksTip>Count item stacks instead of the total amount of the given item</PRF.AutoMachineTool.ProductLimitation.CountStacksTip>
+  <PRF.AutoMachineTool.EntierMap>제한 없음 - 계속 내보내기</PRF.AutoMachineTool.EntierMap>
+  <PRF.AutoMachineTool.CountZone>어떤 구역을?</PRF.AutoMachineTool.CountZone>
+  <PRF.AutoMachineTool.ProductLimitation.SelectAreaTip>Select the area in which to count. Selecting "No zone" will count all items</PRF.AutoMachineTool.ProductLimitation.SelectAreaTip>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.TabName>설정</PRF.AutoMachineTool.Slaughterhouse.Setting.TabName>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.Description>이 기계의 도축 대상을 지정합니다.</PRF.AutoMachineTool.Slaughterhouse.Setting.Description>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.DoSlaughterTip>이 기계가 동물을 도살해야 합니까?</PRF.AutoMachineTool.Slaughterhouse.Setting.DoSlaughterTip>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.BondsTip>이 기계가 각별한 동물을 도살해야 합니까?</PRF.AutoMachineTool.Slaughterhouse.Setting.BondsTip>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.PregnancyTip>이 기계가 임신한 동물을 도살해야 합니까?</PRF.AutoMachineTool.Slaughterhouse.Setting.PregnancyTip>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.TrainedTip>이 기계가 훈련된 동물을 도살해야 합니까?</PRF.AutoMachineTool.Slaughterhouse.Setting.TrainedTip>
+  <PRF.AutoMachineTool.Slaughterhouse.Setting.KeepCountTip>도축하지 않으려면 {0} {1}의 숫자를 지정하세요.</PRF.AutoMachineTool.Slaughterhouse.Setting.KeepCountTip>
+  <PRF.AutoMachineTool.Male>수컷</PRF.AutoMachineTool.Male>
+  <PRF.AutoMachineTool.Female>암컷</PRF.AutoMachineTool.Female>
+  <PRF.AutoMachineTool.None>없음</PRF.AutoMachineTool.None>
+  <PRF.AutoMachineTool.Adult>성인</PRF.AutoMachineTool.Adult>
+  <PRF.AutoMachineTool.Young>어린</PRF.AutoMachineTool.Young>
+  <PRF.AutoMachineTool.RaceName>종족 이름</PRF.AutoMachineTool.RaceName>
+  <PRF.AutoMachineTool.Puller.SwitchActiveLabel>Toggle pulling</PRF.AutoMachineTool.Puller.SwitchActiveLabel>
+  <PRF.NeedToTurnOnPuller>배출기를 토글하여 전원을 켜주세요.</PRF.NeedToTurnOnPuller>
+  <PRF.AutoMachineTool.Puller.SwitchActiveDesc>Switch the operating status on/off.</PRF.AutoMachineTool.Puller.SwitchActiveDesc>
+  <PRF.AutoMachineTool.Puller.SwitchOutputSideLabel>출력 방향을 전환합니다.</PRF.AutoMachineTool.Puller.SwitchOutputSideLabel>
+  <PRF.AutoMachineTool.Puller.SwitchOutputSideDesc>출력 방향을 전환합니다.</PRF.AutoMachineTool.Puller.SwitchOutputSideDesc>
+  <PRF.Puller.TakeForbiddenItems>금지된 물품 끌어오기</PRF.Puller.TakeForbiddenItems>
+  <PRF.Puller.TakeForbiddenItemsDesc>If set, this puller will also take forbidden items. This will automatically unforbid all items taken by the puller. This is a per-puller setting.</PRF.Puller.TakeForbiddenItemsDesc>
+  <PRF.Puller.takeSingleItemsHmm>Take single item at a time</PRF.Puller.takeSingleItemsHmm>
+  <PRF.Puller.takeSingleItemsDesc>If set, this puller will only take a single item at a time. Otherwise, it pulls entire stacks of items at once! This is a per-puller setting.</PRF.Puller.takeSingleItemsDesc>
+  <PRF.AutoMachineTool.Puller.OutputItemFilter.TabName>저장고</PRF.AutoMachineTool.Puller.OutputItemFilter.TabName>
+  <PRF.AutoMachineTool.Puller.OutputItemFilter.Description>꺼낼 항목에 대한 필터를 설정합니다.</PRF.AutoMachineTool.Puller.OutputItemFilter.Description>
+  <PRF.AutoMachineTool.Puller.FilterCopyFrom>여기에서 복사</PRF.AutoMachineTool.Puller.FilterCopyFrom>
+  <PRF.AutoMachineTool.AutoMiner.MineOre>{0} 채굴 중</PRF.AutoMachineTool.AutoMiner.MineOre>
+  <PRF_DropFromConveyorDesc>컨베이어에 있는 물건을 컨베이어 어딘가에서- 땅에 떨어뜨립니다. 분명히, 이것은 지하 컨베이어에는 말이 되지 않지만, 터널에서 이상한 것들을 빼내는 폰을 쓰는 것보다 이것을 하도록 하는 것이 훨씬 더 쉽습니다.</PRF_DropFromConveyorDesc>
+  <PRF.Conveyor.Splitter.MustHaveActiveOutput>분배기는 활성화된 배출부가 있어야 합니다!</PRF.Conveyor.Splitter.MustHaveActiveOutput>
+  <PRF.Conveyor.IsEndOfLineSetting>Holding belt</PRF.Conveyor.IsEndOfLineSetting>
+  <PRF.Conveyor.IsEndOfLineSetting.Desc>Is this belt the end of its line or unloading into an assembler? If checked, it will hold onto items until something takes them. If unchecked, it will send items on to the next conveyor or dump them on the ground (if there is room).</PRF.Conveyor.IsEndOfLineSetting.Desc>
+  <PRF.Conveyor.IsAtEndOfLine>End of conveyor line</PRF.Conveyor.IsAtEndOfLine>
+  <PRF.AutoMachineTool.Conveyor.DirectionPriority.VeryHigh>매우 높음</PRF.AutoMachineTool.Conveyor.DirectionPriority.VeryHigh>
+  <PRF.AutoMachineTool.Conveyor.DirectionPriority.High>높음</PRF.AutoMachineTool.Conveyor.DirectionPriority.High>
+  <PRF.AutoMachineTool.Conveyor.DirectionPriority.Normal>평균</PRF.AutoMachineTool.Conveyor.DirectionPriority.Normal>
+  <PRF.AutoMachineTool.Conveyor.DirectionPriority.Low>낮음</PRF.AutoMachineTool.Conveyor.DirectionPriority.Low>
+  <PRF.AutoMachineTool.Conveyor.OutputItemFilter.TabName>검색</PRF.AutoMachineTool.Conveyor.OutputItemFilter.TabName>
+  <PRF.AutoMachineTool.Conveyor.OutputItemFilter.Description>출력 방향에 대한 필터를 설정합니다.</PRF.AutoMachineTool.Conveyor.OutputItemFilter.Description>
+  <PRF.AutoMachineTool.Conveyor.OutputItemFilter.NothingOutputDestination>(연결 해제됨)</PRF.AutoMachineTool.Conveyor.OutputItemFilter.NothingOutputDestination>
+  <PRF.AutoMachineTool.Conveyor.FilterCopyFrom>여기에서 복사</PRF.AutoMachineTool.Conveyor.FilterCopyFrom>
+  <CultivatorTools_AdjustDirection_Desc>클릭하면 시계방향으로 회전합니다. 현재 방향: {0}</CultivatorTools_AdjustDirection_Desc>
+  <CultivatorTools_SeedsPleaseActiveDesc>NOTE: Because you are using SeedsPlease, the cultivator will search for seeds in its radius to plant (brown zone).</CultivatorTools_SeedsPleaseActiveDesc>
+  <CultivatorTools_SeedsPleaseInactiveDesc>The mod SeedsPlease has not been detected. This device does not require seeds.</CultivatorTools_SeedsPleaseInactiveDesc>
+  <PRFHelp>도움말</PRFHelp>
+  <PRFHelpDesc>이 항목에 대한 도움말 보기</PRFHelpDesc>
+  <PRFViewOrdo>오르도 히스토리아: {0}</PRFViewOrdo>
+  <PRF_Recycler_HelpText>이 기계는 거의 모든 의복이나 무기를 적절한 효율성으로 원자재로 재활용할 수 있습니다. 출구가 막히지 않도록 빨리 치워야 합니다.</PRF_Recycler_HelpText>
+  <PRF_PartAssembler_HelpText/>
+  <PRF_FurnaceI_HelpText/>
+  <PRF_FurnaceII_HelpText/>
+  <PRF_FurnaceIII_HelpText/>
+  <PRF_MetalRefinery_HelpText/>
+  <PRF_StoneWorks_HelpText/>
+  <PRF_RecipeDatabase_HelpText>To start importing recipes, place this near a powered worktable, go to "Import recipe...", and select the recipe you want to import.\n\nAfterward, reinstall this near assembler(s) to share recipes.\n\nCan store multiple recipes from different workbenches.</PRF_RecipeDatabase_HelpText>
+  <PRF_TypeOneAssembler_I_HelpText>To set up an assembler building, go to its "Bills" tab and add the bills you want in order. Then configure its output so that the yellow cell is where you want the products to go. Finally, place the required ingredients around it (if you're using a smart hopper, remember to check "toggle allow forbidden"), and give it power.\n\nTo feed recipes into this assembler, build a recipe database and place it next to the work table you want to copy bills from (see the recipe database help for additional instructions). Once finished with the import(s), reinstall it near this building.\n\nPlease note maximum recipe level for this assembler is 10, with an art level of 9.</PRF_TypeOneAssembler_I_HelpText>
+  <PRF_TypeTwoAssembler_I_HelpText>This assembler is special in that it gets faster and better quality at its recipes the more it works on them. This speed bonus decays over time when not in operation though.\n\nTo set up an assembler building, go to its "Bills" tab and add the bills you want in order. Then configure its output so that the yellow cell is where you want the products to go. Finally, place the required ingredients around it (if you're using a smart hopper, remember to check "toggle allow forbidden"), and give it power.\n\nTo feed recipes into this assembler, build a recipe database and place it next to the work table you want to copy bills from (see the recipe database help for additional instructions). Once finished with the import(s), reinstall it near this building.\n\nPlease note the maximum recipe level for this assembler is 20, with an art level is 12.</PRF_TypeTwoAssembler_I_HelpText>
+  <Lighting_FloorLampArrow_HelpText>방향을 나타내거나 단순히 공장을 장식하기 위한 표지판. 곤충류가 빛을 발하는데 사용하는 것과 같은 종류의 생물발광 물질을 기반으로 합니다.</Lighting_FloorLampArrow_HelpText>
+  <Lighting_RedFloorLampArrow_HelpText>방향을 나타내거나 단순히 공장을 장식하기 위한 표지판. 곤충류가 빛을 발하는데 사용하는 것과 같은 종류의 생물발광 물질을 기반으로 합니다.</Lighting_RedFloorLampArrow_HelpText>
+  <Lighting_GreenFloorLampArrow_HelpText>방향을 나타내거나 단순히 공장을 장식하기 위한 표지판. 곤충류가 빛을 발하는데 사용하는 것과 같은 종류의 생물발광 물질을 기반으로 합니다.</Lighting_GreenFloorLampArrow_HelpText>
+  <Lighting_FloorLampX_HelpText>방향을 나타내거나 단순히 공장을 장식하기 위한 표지판. 곤충류가 빛을 발하는데 사용하는 것과 같은 종류의 생물발광 물질을 기반으로 합니다.</Lighting_FloorLampX_HelpText>
+  <PRF_Shearer_HelpText>동물이 건물 근처를 돌아다니면 자동으로 털을 깎습니다. 동물들의 털을 깎기 위해 끌어들일 미끼로 음식을 저장하십시오.</PRF_Shearer_HelpText>
+  <PRF_Milker_HelpText>동물이 건물 근처를 돌아다니면 자동으로 착유를 합니다. 동물에게서 착유를 할 수 있도록 먹이를 미끼로 저장하십시오.</PRF_Milker_HelpText>
+  <PRF_GenericAnimalHarvester_HelpText>동물이 건물 근처를 돌아다니면 자동으로 수확합니다. 동물을 수확을 위해 끌어들일 수 있도록 음식을 미끼로 저장하십시오.</PRF_GenericAnimalHarvester_HelpText>
+  <PRF_Slaughterhouse_HelpText>Automatically slaughters animals if they meet specified criteria such as age, gender, or total quantity of animals. Also, check out the meat grinder and animal stations for a truly automated farming experience.</PRF_Slaughterhouse_HelpText>
+  <PRF_GenericAnimalHarvester_II_HelpText/>
+  <PRF_DeepQuarry_mkI_HelpText>The tier 1 auger drill will automatically produce one random resource every eight hours. This is based on the actual commonality of those materials in the world, so expect to see a lot of rock chunks relative to the amount of actually valuable stuff you get. The auger drill can anger insectoids and draw infestations.</PRF_DeepQuarry_mkI_HelpText>
+  <PRF_DeepQuarry_mkII_helpText>The tier 2 pulse drill Mk.I will automatically produce one random resource every three hours. This is based on the actual commonality of those materials in the world, so expect to see a lot of rock chunks relative to the amount of actually valuable stuff you get. The auger drill can anger insectoids and draw infestations.</PRF_DeepQuarry_mkII_helpText>
+  <PRF_DeepQuarry_mkIII_HelpText>The tier 3 pulse drill Mk.II will automatically produce random resources for you on a regular basis, but it will not produce rock chunks or cause infestations, meaning that the return in valuable materials is much higher.\n\nMods that add additional materials are automatically included, but there's no way to tell if a mod is adding more rock chunks. If this drill is producing rock chunks, the mod in question will require a patch.</PRF_DeepQuarry_mkIII_HelpText>
+  <PRF_BillTypeMiner_I_HelpText>The tier 3 plasma drill will produce specific resources by demand. Select what you'd like using the "Bills" tab. The plasma drill will not draw insectoid infestations to you.</PRF_BillTypeMiner_I_HelpText>
+  <PRF_SelfPrepper_HelpText>자동 음식 준비 제작대가 만들어졌습니다. 원재료가 공급되면 레시피에 따라 생성한 다음 결과를 노란색 타일에 출력합니다.</PRF_SelfPrepper_HelpText>
+  <PRF_MeatGrinder_HelpText>이 위험해 보이는 기계는 죽은 생물을 처리하고 고기, 가죽 및 기타 부산물을 적절하게 출력하는 작업을 합니다. 한 번에 하나의 제품만 배치할 수 있고 대부분의 동물은 최소 두 개를 갖기 때문에 출력 칸이 막히지 않도록 빠르게 치워야 합니다.</PRF_MeatGrinder_HelpText>
+  <PRF_SelfCookerI_HelpText>To configure an assembler, go to its "Bills" tab and add the bills you want in order. Then configure its output so that the yellow cell is where you want the products to go. Finally, place the required ingredients around it (if you're using a smart hopper, remember to check "toggle allow forbidden"), and give it power.\n\nThe maximum recipe level for this assembler is 8.\n\nThe tier 1 cooking station has a limited selection of recipes, please upgrade to a more advanced model to get more.</PRF_SelfCookerI_HelpText>
+  <PRF_SelfCookerII_HelpText>To configure an assembler, go to its "Bills" tab and add the bills you want in order. Then configure its output so that the yellow cell is where you want the products to go. Finally, place the required ingredients around it (if you're using a smart hopper, remember to check "toggle allow forbidden"), and give it power.\n\nThe maximum recipe level for this assembler is 12.\n\nThis device copies all recipes from the electric stove which can be made with a cooking skill of 12 or less.</PRF_SelfCookerII_HelpText>
+  <PRF_SelfCookerIII_HelpText>To configure an assembler, go to its "Bills" tab and add the bills you want in order. Then configure its output so that the yellow cell is where you want the products to go. Finally, place the required ingredients around it (if you're using a smart hopper, remember to check "toggle allow forbidden"), and give it power.\n\nThe maximum recipe level for this assembler is 20.\n\nThis device copies all recipes from the electric stove and its output will never cause food poisoning.</PRF_SelfCookerIII_HelpText>
+  <PRF_FermentingBarrel_HelpText>To set up this building, go to the “Bills” tab and add the bills you want in order. Then configure the output so that the yellow cell is where you want the products to be placed after fermentation. Finally, place the raw ingredients around it (if you are using a smart hopper, remember to check "toggle allow forbidden"), and give it power.</PRF_FermentingBarrel_HelpText>
+  <PRF_WoodCrate_I_HelpText>작은 나무 보관 상자.</PRF_WoodCrate_I_HelpText>
+  <PRF_WoodCrate_II_HelpText>큰 나무 보관 상자.</PRF_WoodCrate_II_HelpText>
+  <PRF_SteelCrate_I_HelpText>작은 강철 보관 상자.</PRF_SteelCrate_I_HelpText>
+  <PRF_SteelCrate_II_HelpText>큰 강철 보관 상자.</PRF_SteelCrate_II_HelpText>
+  <PRF_DigitalStorageUnit_I_HelpText>The digital storage unit (DSU) functions like any other storage building, except all items put inside are moved to the middle cell, allowing for virtually infinite storage capacity. The actual limit is specified in the mod settings. Be cautious, as setting it too high can result in significant lag.\n\nTo mitigate lag in heavily used cargo platforms, the item readout in the "Items" tab only displays the first 500 items. You can, however, search for the item you want using the search bar.\n\nTo set direct DSU output right-click the desired output item in the DSU item list to have it move to the DSU output cell.\nYou can also right-click and select a pawn and force wear to equip items from storage.\n\nThe pawn access button controls whether pawns can directly manipulate the items in the DSU or if they are limited to interacting using the I/O ports.</PRF_DigitalStorageUnit_I_HelpText>
+  <PRF_IOPort_I_HelpText>To configure the storage unit I/O port, set the mode (input or output), and the unit you want to connect to. If you choose output, remember to also select the item that you want to pull.\nYou can use right click on the storage tab to directly output that item/stack eq. a weapon, into the selected I/O port.</PRF_IOPort_I_HelpText>
+  <PRF_IOPort_IFridge_HelpText>This works like an I/O port.\nBehavior with RimFridge can be strange. If the port is not working, double-check the settings and toggle it between input and output mode. It may be a bit fiddly.</PRF_IOPort_IFridge_HelpText>
+  <PRF_Conveyor_Simple_I_HelpText>Conveyor belts will send items along their path. They automatically connect to other belts, including other belts facing different directions, excluding belts facing each other. You can split stacks or selectively filter items to other belts using belt splitters (so long as the belt and splitter are both above or below ground). Linking above and below ground belts requires a subterranean entrance or exit, but pullers do not require this conversion regardless of their position.\n\nBelts are not sophisticated, they will shove the objects into any empty space in front of them, including storage containers and stockpiles. They also do not obey filter settings, this function requires using pullers.\n\nYou can set any segment as the "end belt" in settings to make the item stop in order to be used by an assembler, this does not require a shelf or hopper.</PRF_Conveyor_Simple_I_HelpText>
+  <PRF_Conveyor_Wall_I_HelpText>벽 컨베이어 벨트는 방을 서로 분리된 상태로 유지한다는 점을 제외하면 표준 컨베이어 벨트와 유사하게 작동합니다. 모든 배출기과 작동하며 표준 벨트와 원활하게 연결됩니다. 풀러를 사용하지 않고 출력물을 저장고로 보낼 수 있습니다.</PRF_Conveyor_Wall_I_HelpText>
+  <PRF_Conveyor_UG_I_HelpText>Underground belts are capable of going under machinery and walls without issue. However, they do not interact with standard belts unless linked with subterranean entrances and exits. Underground belts also require the use of a puller or subterranean exit in order to retrieve items from underground. Keep in mind that splitters must also match: Above-ground belts use above-ground splitters, and underground belts use underground splitters respectively.</PRF_Conveyor_UG_I_HelpText>
+  <PRF_Conveyor_Connector_To_UG_HelpText>Underground entrance: Required for use to merge standard belts with underground belts, however, they are not required in order to initiate any length of underground belt. In other words, you can link an above-ground puller directly to a standard underground belt to send it underground.</PRF_Conveyor_Connector_To_UG_HelpText>
+  <PRF_Conveyor_Connector_To_Floor_HelpText>Underground exit: Required by underground belts in order to exit or interact with above-ground storage, stockpiles, and belts. Without an exit, an unterminated underground belt will carry items until something pulls it or another section of the underground belt is added.</PRF_Conveyor_Connector_To_Floor_HelpText>
+  <PRF_Conveyor_Splitter_I_HelpText>Conveyer belt splitters work by splitting or filtering objects on a belt into two or three other directions. To do this, face the splitter away from your current belt then enable the output directions in settings. Each direction must be selected and then enabled, and each direction has its own set of filters. For instance: You can select north, enable north, and only select "chunks", then select and enable east, selecting everything but chunks. This would effectively filter any amount of chunks to the north, and the belt would continue east. With everything selected, the splitter splits stacks. With nothing selected, the splitter holds items.</PRF_Conveyor_Splitter_I_HelpText>
+  <PRF_SimplePuller_I_HelpText>A simple item puller, slower than later versions.\nIt can pull from belts, crates, DSU, stockpile zones, shelves, and smart hoppers. Is toggled off by default and requires being activated in order to function. Not required to terminate a belt into storage, but can help with more advanced logic. To get better control, set filters and settings. By default, pullers will not output if the item is not allowed in at the target destination or if the output is blocked by a wall or another item.\n\nThe white cells represent the input range, and the yellow cell represents the output.</PRF_SimplePuller_I_HelpText>
+  <PRF_GrowzonePuller_I_HelpText>A growzone puller works like any other puller, but instead of drawing from a stockpile zone, it will collect any items on the floor in an adjacent growzone. This allows it to pick up harvested plants that haven't been hauled yet.</PRF_GrowzonePuller_I_HelpText>
+  <PRF_SimplePuller_II_HelpText>The latest-generation Mk.II pullers with advanced options.</PRF_SimplePuller_II_HelpText>
+  <PRF_SimplePuller_II_Wall_HelpText>This is the walled version of the Mk.II puller.</PRF_SimplePuller_II_Wall_HelpText>
+  <PRF_SimplePuller_II_Side_HelpText>An angled puller that works at 90-degree angles. Has similar features to the standard puller, with white cells as input and yellow cells as output. The direction can be changed after placing. Might be useful in some cases.</PRF_SimplePuller_II_Side_HelpText>
+  <PRF_SmartHopper_HelpText>The smart hopper pulls in nearby items from the ground or stockpile cells onto itself and holds them so that they can be used by an assembler.\n\nIf you want to use it on an assembler, remember to enable the assembler's "toggle allow forbidden" option to allow the assembler to pull from the hopper.</PRF_SmartHopper_HelpText>
+  <PRF_FuelingMachine_HelpText>The fueling machine is quite simple to use. Point the robotic arm designated by the yellow cell at the structure you want to fuel, place fuel next to it in the white cells, and give it power.\n\nRefuels most standard refuelables.\nIt is also capable of fueling mortars and some modded mortars/turrets.\n(Supports CE turrets and SoS Torpedos.)</PRF_FuelingMachine_HelpText>
+  <PRF_4k_Battery_HelpText>50%의 효율로 4,000와트-일의 전력을 유지할 수 있는 축전지입니다.</PRF_4k_Battery_HelpText>
+  <PRF_16k_Battery_HelpText>50%의 효율로 16,000와트-일의 전력을 유지할 수 있는 축전지입니다.</PRF_16k_Battery_HelpText>
+  <PRF_64k_Battery_HelpText>90%의 효율로 64,000와트-일의 전력을 유지할 수 있는 축전지입니다.</PRF_64k_Battery_HelpText>
+  <PRF_256k_Battery_HelpText>100%의 효율로 256,000와트-일의 전력을 유지할 수 있는 축전지입니다.</PRF_256k_Battery_HelpText>
+  <PRF_DroneCultivator_I_HelpText>A first-generation agricultural drone specifically tasked to tend to plants. It will not haul the final product to storage.</PRF_DroneCultivator_I_HelpText>
+  <PRF_DroneCultivator_II_sun_HelpText>An improved version of the initial drone cultivator variant. This second-generation drone cultivator is capable of faster tending of crops, hauling, and cutting. This variant has a sun lamp attached to it, allowing crops to grow even in the dark.</PRF_DroneCultivator_II_sun_HelpText>
+  <PRF_DroneCultivator_II_HelpText>초기 드론 수확기의 개선된 버전입니다. 이 2세대 드론 수확기는 더 빠른 작물 관리, 운반 및 제초가 가능합니다.</PRF_DroneCultivator_II_HelpText>
+  <PRF_DroneCultivator_III_HelpText>A third-generation drone cultivator, and of the latest design. It will work with superior agricultural skills and hold additional drones compared to its predecessor. It will cut, grow, harvest, and haul any items to a stockpile if available within the range.</PRF_DroneCultivator_III_HelpText>
+  <PRF_OldTypeCultivator_I_HelpText>A state-of-the-art cultivator that operates using incredibly complex nanotechnology. Unlike other computerized cultivators, this variant requires no drones and will perform the same farming tasks at twice the speed. It can cut, grow, harvest, maintain hydroponics, and haul any items to a stockpile if available within the range.</PRF_OldTypeCultivator_I_HelpText>
+  <PRF_OldTypeCultivator_Sun_HelpText>A state-of-the-art cultivator that operates using incredibly complex nanotechnology. Unlike other computerized cultivators, this variant requires no drones and will perform the same farming tasks at twice the speed. It can cut, grow, harvest, maintain hydroponics, and haul any items to a stockpile if available within the range.\nThis specific variant features a fully operational sun lamp for your plants.</PRF_OldTypeCultivator_Sun_HelpText>
+  <PRF_OldTypeCultivator_Xl_HelpText>1세대 나노 수확기의 고급 버전. 이 모델은 이전 모델에 비해 5배 빠른 속도로 작동하도록 업그레이드되었습니다.</PRF_OldTypeCultivator_Xl_HelpText>
+  <PRF_Sprinkler_I_HelpText>스프링클러는 라운드마다 1시간씩 작물과 식물의 성장을 무작위로 증가시킵니다. 셀을 선택하여 현재 작업 중인 셀을 확인할 수 있습니다.</PRF_Sprinkler_I_HelpText>
+  <PRF_Sprinkler_II_HelpText/>
+  <PRF_AutoCrafterSimple_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis first-generation unit is capable of performing most bills at a skill level of 5 and cooking with a skill level of 4. This unit produces art with no skill, so expect poor results.</PRF_AutoCrafterSimple_HelpText>
+  <PRF_AutoCrafter_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis second-generation unit is capable of performing most bills at a skill level of 12 and cooking with a skill level of 8. This unit produces art with no skill, so expect poor results.</PRF_AutoCrafter_HelpText>
+  <PRF_TheArtMachine_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis specialized art unit is only capable of performing most bills at a skill level of 3, but it can do crafting jobs with a skill level of 7 and art jobs with a skill level of 8.</PRF_TheArtMachine_HelpText>
+  <PRF_TheArtMaster_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis advanced art-producing unit is only capable of performing most bills at a skill level of 3, but it can do crafting work at a skill level of 8 and produces art at a skill level of 18.</PRF_TheArtMaster_HelpText>
+  <PRF_OverclockedAutoAssembler_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis overclocked unit is capable of performing most bills at a skill level of only 1, but it does its work very quickly.</PRF_OverclockedAutoAssembler_HelpText>
+  <PRF_OverclockedAutoAssemblerII_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis advanced overclocked unit is capable of crafting most bills at a skill level of only 1, but it does its work EXTREMELY quickly.</PRF_OverclockedAutoAssemblerII_HelpText>
+  <PRF_SALAutoCooker_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis specialized cooking unit is capable of crafting most bills at a skill level of 5 but is specialized for cooking with a skill level of 12, allowing it to easily produce great quantities of fine cuisine.</PRF_SALAutoCooker_HelpText>
+  <PRF_SALAutoMinerI_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis specialized mining unit is poor for most work but is capable of performing mining bills with a skill level of 12.</PRF_SALAutoMinerI_HelpText>
+  <PRF_GodlyCrafter_HelpText>The S.A.L or "Station Automation and Logistics" is an alternative style of automation that replaces a regular pawn at a workbench. If you place it where a pawn would stand facing a workbench and power it, it will do the work as if it were a pawn with stats appropriate to each model of S.A.L. Materials for recipes can be placed adjacent to the device. The S.A.L will perform work in ways that standalone factory buildings might not be capable of without significant compatibility patching, so feel free to use them anywhere you see fit.\n\nThis final unit, which is not called "godly" for nothing, is capable of producing any bill except art with a skill level of 20 and performs art with a skill level of 18. Though, at the speed this device runs at feel free to just produce thirty times as much art until you receive the desired quality anyway.</PRF_GodlyCrafter_HelpText>
+  <PRF_MiniHelper_HelpText/>
+  <PRF_MiniDroneColumn_HelpText/>
+  <PRF_UTD_ModExtension_Skills_ThisOverrides>Base skill:</PRF_UTD_ModExtension_Skills_ThisOverrides>
+  <PRF_UTD_ModExtension_Skills_ReserchIsCapping>Skill level (capped by research):</PRF_UTD_ModExtension_Skills_ReserchIsCapping>
+  <PRF_UTD_ModExtension_Skills_ThisIsCapping>Maximum skill level (based on research):</PRF_UTD_ModExtension_Skills_ThisIsCapping>
+  <PRF_UTD_ModExtension_Skills_ReserchOverrides>Skill depends on research</PRF_UTD_ModExtension_Skills_ReserchOverrides>
+  <PRF_UTD_ModExtension_Skills_Base> {0}</PRF_UTD_ModExtension_Skills_Base>
+  <PRF_UTD_CompProperties_PowerWorkSetting_Speed>속도: {0}</PRF_UTD_CompProperties_PowerWorkSetting_Speed>
+  <PRF_UTD_CompProperties_PowerWorkSetting_Range>범위: {0}</PRF_UTD_CompProperties_PowerWorkSetting_Range>
+  <PRF_UTD_CompProperties_PowerWorkSetting_RangeType>Range type: {0}</PRF_UTD_CompProperties_PowerWorkSetting_RangeType>
+  <PRF_UTD_CompProperties_PowerWorkSetting_RangeTypeChange>The range type may be changed manually</PRF_UTD_CompProperties_PowerWorkSetting_RangeTypeChange>
+  <PRF_UTD_ModExtension_LearningAssembler_Speed>Speed factor: {0}%</PRF_UTD_ModExtension_LearningAssembler_Speed>
+  <PRF_UTD_ModExtension_LearningAssembler_PositiveInfinity>∞</PRF_UTD_ModExtension_LearningAssembler_PositiveInfinity>
+  <PRF_UTD_ModExtension_LearningAssembler_Quality>품질: {0}</PRF_UTD_ModExtension_LearningAssembler_Quality>
+  <PRF_UTD_CompProperties_RecipeImportRange_Range>Recipe import range: {0}</PRF_UTD_CompProperties_RecipeImportRange_Range>
+  <PRF_UTD_DefModExtension_DroneStation_MaxDrones>Max. drones: {0}</PRF_UTD_DefModExtension_DroneStation_MaxDrones>
+  <PRF_UTD_DefModExtension_DroneStation_IncludedDrones>Spawns with {0} drones</PRF_UTD_DefModExtension_DroneStation_IncludedDrones>
+  <PRF_UTD_DefModExtension_DroneStation_SleepTimes>휴면 중:{0}</PRF_UTD_DefModExtension_DroneStation_SleepTimes>
+  <PRF_UTD_DefModExtension_DroneStation_Range>범위: {0}</PRF_UTD_DefModExtension_DroneStation_Range>
+  <PRF_UTD_DefModExtension_DroneStation_UnlimitedRange>∞</PRF_UTD_DefModExtension_DroneStation_UnlimitedRange>
+  <PRF_UTD_DefModExtension_DroneStation_WorkTypes>Work types:</PRF_UTD_DefModExtension_DroneStation_WorkTypes>
+  <PRF_UTD_CultivatorDefModExtension_Range>범위: {0}</PRF_UTD_CultivatorDefModExtension_Range>
+  <PRF_UTD_CultivatorDefModExtension_Tickdev>매 {0} 틱마다 작업</PRF_UTD_CultivatorDefModExtension_Tickdev>
+  <PRF_PlaceWorker_NaturalWall_denied>Must place in natural or smoothed rock.</PRF_PlaceWorker_NaturalWall_denied>
+  <PRF_PlaceWorker_GrowZonePuller>Input cell must touch a growzone.</PRF_PlaceWorker_GrowZonePuller>
+  <PRF_PlaceWorker_ItemSlide_Denied>Can't place next to another item chute.</PRF_PlaceWorker_ItemSlide_Denied>
+  <PRF_Toggle_ForbidOnPlacement>Toggle forbid on placement</PRF_Toggle_ForbidOnPlacement>
+  <PRF_Toggle_ForbidOnPlacementDesc>Use this to toggle between forbidding items after they have been placed or not.</PRF_Toggle_ForbidOnPlacementDesc>
+  <PRF_SettingsITab_TipSignal_RotInputRange>Rotate the input range clockwise</PRF_SettingsITab_TipSignal_RotInputRange>
+  <PRF_DropThing>{0} 떨구기</PRF_DropThing>
+  <PRF_CouldNotPlaceThing>{0}에 물품을 놓을 수 없습니다.</PRF_CouldNotPlaceThing>
+  <PRFBlockedBy>{0}에 막힘</PRFBlockedBy>
+  <PRF_Default_Tag>{0} (기본값)</PRF_Default_Tag>
+  <PRF_TotalStacksNum>총 저장된 수: {0}</PRF_TotalStacksNum>
+  <PRFItemsTab>물품</PRFItemsTab>
+  <PRFSettingsTab>설정</PRFSettingsTab>
+  <PRF.Common.OutputToStockpile>Can output to entire stockpile</PRF.Common.OutputToStockpile>
+  <PRF.Common.OutputToStockpileDesc>Select whether this PRF machine can put its output anywhere in the stockpile instead of the single cell right in front of it. This makes sense for some machines with long robotic arms, for pullers filling a giant skip with slag for processing, and for conveyors creating a mountain of coal. Use your common sense (or not), and decide how you want it to work! (note: for giant stockpiles, this may slow things down slightly when placing items?)</PRF.Common.OutputToStockpileDesc>
+  <PRF.Common.ObeysStorageFilters>Obeys storage filters</PRF.Common.ObeysStorageFilters>
+  <PRF.Common.ObeysStorageFiltersDesc>Select behavior when this PRF machine outputs into a stockpile: set whether the machine pays attention to the stockpile's filter. If not selected, the machine will happily add any products to the stockpile, even if the stockpile is not set to accept them. If it is checked, the machine will hold products until it has a clear place to put them down.</PRF.Common.ObeysStorageFiltersDesc>
+  <PRFStorageBuildingGainsName>이 저장건물은 이제 {0}(으)로 불립니다.</PRFStorageBuildingGainsName>
+  <PRFItemsTabLabel>모든 품목(총 {0} 저장 가능, 결과 {1} 보임)</PRFItemsTabLabel>
+  <PRFItemsTabLabel_Crate>{0} 저장됨, 최대 {1}, 결과 {2} 보임</PRFItemsTabLabel_Crate>
+  <PRFItemsTabLabel_Empty>아무 물품도 저장되어 있지 않습니다.</PRFItemsTabLabel_Empty>
+  <PRFRenameMassStorageUnitLabel>이름 변경</PRFRenameMassStorageUnitLabel>
+  <PRFRenameMassStorageUnitDesc>이 건물의 이름을 변경합니다.</PRFRenameMassStorageUnitDesc>
+  <PRFMassStorageUIThingLabel>{0} 더미</PRFMassStorageUIThingLabel>
+  <PRFCrateUIThingLabel>{0}/{1} 저장됨</PRFCrateUIThingLabel>
+  <PRFMassStorageRightClickSelectPawn>정착민 선택...</PRFMassStorageRightClickSelectPawn>
+  <PRFReorganize>재설정</PRFReorganize>
+  <PRFIOOutputSettings>출력 설정...</PRFIOOutputSettings>
+  <PRFReorganize_Desc>입출력 포트 재등록, 재설정 및 물품 재저장</PRFReorganize_Desc>
+  <PRFReorganize_Message>재설정 완료.</PRFReorganize_Message>
+  <PRFIOMode>입출력 방식</PRFIOMode>
+  <PRFIOInput>입력</PRFIOInput>
+  <PRFIOOutput>출력</PRFIOOutput>
+  <PRFBoundStorageBuilding>물품 공급</PRFBoundStorageBuilding>
+  <IOPort_Minimum_UseTooltip>이것이 활성화되면, 입출력 포트는 아이템이 X 저장 크기보다 작은 경우 출력된 아이템을 화물 플랫폼으로 반환합니다. 저장소에 최솟값을 초과할 만큼 충분한 품목이 있는 경우에만 품목을 가져갑니다.</IOPort_Minimum_UseTooltip>
+  <IOPort_Maximum_UseTooltip>이 기능을 활성화하면 저장량이 가득 찼거나 저장 크기가 X보다 크거나 같은 경우 입출력 포트가 품목 가져오기를 중지합니다.</IOPort_Maximum_UseTooltip>
+  <IOPort_Minimum>현재 최소값: {0}</IOPort_Minimum>
+  <IOPort_Maximum>현재 최대값: {0}</IOPort_Maximum>
+  <PRFSlaughterhouseTab>도축</PRFSlaughterhouseTab>
+  <PRF_ITab_ProductionSettings_OutputSettings_Header>&lt;b>Output Settings:&lt;/b></PRF_ITab_ProductionSettings_OutputSettings_Header>
+  <PRF_ITab_ProductionSettings_ProductLimitation_Header>&lt;b>Processing Limit:&lt;/b></PRF_ITab_ProductionSettings_ProductLimitation_Header>
+  <PRFNoDesc>설명 없음</PRFNoDesc>
+  <PaperclipFuelConsumption>연료 사용량: {0} EMC/초</PaperclipFuelConsumption>
+  <PaperclipProductionPerSecond>EMC 생산량: {0} EMC/초</PaperclipProductionPerSecond>
+  <PaperclipGeneratorEfficiency>현재 효율: {0}%/{1}%</PaperclipGeneratorEfficiency>
+  <PaperclipsRunOutIn>비축된 EMC 소모량: {0}</PaperclipsRunOutIn>
+  <SetPaperclipConsumptionPerSecond>EMC 소모량 설정</SetPaperclipConsumptionPerSecond>
+  <SetPaperclipProductionPerSecond>EMC 생산량 설정</SetPaperclipProductionPerSecond>
+  <SetPaperclipConsumptionPerSecond_Desc>초당 EMC 소모 속도 수정</SetPaperclipConsumptionPerSecond_Desc>
+  <SetPaperclipProductionPerSecond_Desc>초당 EMC 생산 속도 수정</SetPaperclipProductionPerSecond_Desc>
+  <AtomicReconstructorProgress>재건설 진행도: {0}</AtomicReconstructorProgress>
+  <PRFAtomicReconstructionTab>환경설정</PRFAtomicReconstructionTab>
+  <AtomicReconstructionTab_NowProducing>생산 중:</AtomicReconstructionTab_NowProducing>
+  <AtomicReconstructionTab_PaperclipCost>EMC 비용:</AtomicReconstructionTab_PaperclipCost>
+  <AtomicReconstructionTab_ConsumptionPerSecond>초당 소모량:</AtomicReconstructionTab_ConsumptionPerSecond>
+  <AtomicReconstructionTab_Progress>진행률 :</AtomicReconstructionTab_Progress>
+  <AtomicReconstructionTab_Speed>속도 조절: {0} (EMC 사용량 수정: {1}x)</AtomicReconstructionTab_Speed>
+  <PRF_ArchoCipher_BankOverflow>EMC 복제기의 인공지능 칩이 당신에게 다음과 같은 메시지를 보냈습니다:\n\축하합니다! 당신은 복제기에서 EMC의 최대잔액을 이루었습니다. 진짜 질문은: 이 모든 EMC를 어떻게 할 것입니까?</PRF_ArchoCipher_BankOverflow>
+  <PRF_SettingsTab_RangeType_Label>Change zone type</PRF_SettingsTab_RangeType_Label>
+  <PRF_SettingsTab_RangeType_CircleRange>Circle type</PRF_SettingsTab_RangeType_CircleRange>
+  <PRF_SettingsTab_RangeType_FacingRectRange>Facing rectangle</PRF_SettingsTab_RangeType_FacingRectRange>
+  <PRF_SettingsTab_RangeType_RectRange>Center square</PRF_SettingsTab_RangeType_RectRange>
+  <PRF_RecipeTab_TabName>데이터베이스</PRF_RecipeTab_TabName>
+  <PRF_RecipeTab_FilterSaved>Show saved</PRF_RecipeTab_FilterSaved>
+  <PRF_RecipeTab_FilterLearnable>Show learnable</PRF_RecipeTab_FilterLearnable>
+  <PRF_RecipeTab_FilterQueue>Show queued</PRF_RecipeTab_FilterQueue>
+  <PRF_RecipeTab_Button_Learn>배움</PRF_RecipeTab_Button_Learn>
+  <PRF_RecipeTab_Button_Cancel>취소</PRF_RecipeTab_Button_Cancel>
+  <PRF_RecipeTab_Button_Forget>삭제</PRF_RecipeTab_Button_Forget>
+  <PRF_RecipeTab_Button_Abort>({0}) 중단</PRF_RecipeTab_Button_Abort>
+  <PRF_DescriptionUpdate_CanMine>Can mine:\n</PRF_DescriptionUpdate_CanMine>
+  <PRF_ModifyProduct_AdditionalChance>추가 가능성 {0}%:\n</PRF_ModifyProduct_AdditionalChance>
+  <PRF_ModifyProduct_ReplaceChance>{0}% Chance to replace with:\n</PRF_ModifyProduct_ReplaceChance>
+  <PRF_ModifyProduct_Percent>확률:</PRF_ModifyProduct_Percent>
+  <PRF_MakeStockpileZoneLabel>Create stockpile zone</PRF_MakeStockpileZoneLabel>
+  <PRF_TimeLeftToDisintegrate>분해될 때까지 남은 시간: {0}</PRF_TimeLeftToDisintegrate>
+  <PRF_DisintegrationMessage>{0}(이)가 분해되었습니다.</PRF_DisintegrationMessage>
+  <PRFPaperclipDuplicatorTab>복제기</PRFPaperclipDuplicatorTab>
+  <PaperclipsInDuplicator>복제기에 있는 EMC:{0}</PaperclipsInDuplicator>
+  <PaperclipsInStorageUnit>저장 장치에 있는 EMC: {0}</PaperclipsInStorageUnit>
+  <PRFDepositWithdraw>입금 / 출금</PRFDepositWithdraw>
+  <PRFDepositWithdrawMode>모드:</PRFDepositWithdrawMode>
+  <PRFDeposit>입금</PRFDeposit>
+  <PRFWithdraw>출금</PRFWithdraw>
+  <PRFAmount>양</PRFAmount>
+  <PRFNotEnoughPaperclips>EMC 부족.</PRFNotEnoughPaperclips>
+  <PRFInputInvalid>올바르지 않은 입력.</PRFInputInvalid>
+  <PRFNoBoundStorageUnit>연결된 저장장치 없음.</PRFNoBoundStorageUnit>
+  <PRFBoundStorageUnitNotAvailableForIO>연결된 저장고가 물품을 전송할 수 없는 상태입니다.</PRFBoundStorageUnitNotAvailableForIO>
+  <SuccessfullyDepositedPaperclips>EMC {0} 개를 성공적으로 입금했습니다.</SuccessfullyDepositedPaperclips>
+  <SuccessfullyWithdrawnPaperclips>EMC {0} 개를 성공적으로 출금했습니다.</SuccessfullyWithdrawnPaperclips>
+  <PRFDroneStation_NumberOfDrones>저장된 드론들: {0}</PRFDroneStation_NumberOfDrones>
+  <PRFDroneName>드론</PRFDroneName>
+  <PRFDroneStationLockdown>잠금</PRFDroneStationLockdown>
+  <PRFDroneStationLockdownDesc>Recall all active drones and disable the drone station.</PRFDroneStationLockdownDesc>
+  <PRFDroneStationLockdownAll>Lockdown all</PRFDroneStationLockdownAll>
+  <PRFDroneStationLockdownAllDesc>Activate the lockdown for all drone stations on the map.</PRFDroneStationLockdownAllDesc>
+  <PRFDroneStationLiftLockdownAll>모두 재활성</PRFDroneStationLiftLockdownAll>
+  <PRFDroneStationLiftLockdownAllDesc>지도상의 모든 드론 스테이션을 재활성화합니다.</PRFDroneStationLiftLockdownAllDesc>
+  <PRFDroneStationSelectArea>{0}\nSelect area</PRFDroneStationSelectArea>
+  <PRFDroneStationUnrestricted>제한 없음</PRFDroneStationUnrestricted>
+  <ITab_DroneStation_labelKey>설정</ITab_DroneStation_labelKey>
+  <ITab_DroneStation_InfoLabel>Toggle jobs for this drone station</ITab_DroneStation_InfoLabel>
+  <ITab_DroneStation_HeaderLabel>Drone station settings</ITab_DroneStation_HeaderLabel>
+  <ITab_DroneStation_averageskill>평균적인 관련 기술: </ITab_DroneStation_averageskill>
+  <ITab_DroneStation_Sleeptimes>Drone station sleep times (marked in red)</ITab_DroneStation_Sleeptimes>
+  <ITab_DroneStation_SetTargetFuel>Drone station fuel level</ITab_DroneStation_SetTargetFuel>
+  <PRFOutputItems>출력 물품</PRFOutputItems>
+  <PRFPawnAccessLabel>접근 허용</PRFPawnAccessLabel>
+  <PRFPawnAccessDesc>접근 허용</PRFPawnAccessDesc>
+  <PRF_ChangeColorGizmo>색상 ({0})</PRF_ChangeColorGizmo>
+  <PRF_Warm_White>따뜻한 흰색</PRF_Warm_White>
+  <PRF_Cool_White>차가운 흰색</PRF_Cool_White>
+  <PRF_Red>빨간색</PRF_Red>
+  <PRF_Blue>파란색</PRF_Blue>
+  <PRF_Green>초록색</PRF_Green>
+  <PRF_Cyan>남색</PRF_Cyan>
+  <PRF_Yellow>노란색</PRF_Yellow>
+  <PRF_Magenta>자홍색</PRF_Magenta>
+  <PRF_None>없음</PRF_None>
+  <SALMessage_NoDataDiskFound>데이터 디스크를 먼저 근처에 두세요.</SALMessage_NoDataDiskFound>
+  <SearchingForIngredients>재료 검색....</SearchingForIngredients>
+  <SAL3_BillReport>현재 계획서: {0} ({1} 남음)</SAL3_BillReport>
+  <SAL3_Products>배치되기를 기다리는 제작품: {0}/{1}</SAL3_Products>
+  <PRF_OutputBufferWarning>출력 버퍼가 가득 찼습니다</PRF_OutputBufferWarning>
+  <SALMessage_NoRecipes>계획서가 없습니다.</SALMessage_NoRecipes>
+  <SALDataStartEncoding>계획서 불러오는 중...</SALDataStartEncoding>
+  <SALDataStartEncoding_Desc>근처의 제작대에서 새 계획서를 가져옵니다.</SALDataStartEncoding_Desc>
+  <SALDataCancelBills>계획 취소</SALDataCancelBills>
+  <AdjustDirection_Output>출력 방향 조정</AdjustDirection_Output>
+  <SAL_Name>기계</SAL_Name>
+  <SALInspect_RecipeReport>현재 계획서: {0}\n남은 작업: {1}</SALInspect_RecipeReport>
+  <SAL3_StoredRecipes>저장된 계획서: {0}</SAL3_StoredRecipes>
+  <SAL3Alert_SomeBillsRemoved>계획서가 삭제되어서 자동 조립기에서 더 이상 제작할 수 없습니다.</SAL3Alert_SomeBillsRemoved>
+  <SAL3_BillsTabLabel>계획서</SAL3_BillsTabLabel>
+  <AssemblerIdle>대기</AssemblerIdle>
+  <AssemblerNoBills>계획 대기중</AssemblerNoBills>
+  <SwitchedOff>사용 중지</SwitchedOff>
+  <SALToggleForbidden>금지된 물품 사용 허용</SALToggleForbidden>
+  <SALToggleForbidden_Desc>자동 조립기가 금지된 품목을 가져오도록 허용 / 금지합니다. 체크함은 허용을 의미합니다.</SALToggleForbidden_Desc>
+  <SALCurrentProductionSpeed>현재 계획서의 제작 속도 ({0}): {1}</SALCurrentProductionSpeed>
+  <DeepQuarry_TotalSoFar>지금까지 채굴한 총 암석 수: {0}</DeepQuarry_TotalSoFar>
+  <SmartHopper_SetTargetAmount>최소/최대 양 설정</SmartHopper_SetTargetAmount>
+  <SmartHopper_Minimum_Label>최솟값 사용?</SmartHopper_Minimum_Label>
+  <SmartHopper_Maximum_Label>최댓값 사용?</SmartHopper_Maximum_Label>
+  <SmartHopper_MaximumKeyword>최대</SmartHopper_MaximumKeyword>
+  <SmartHopper_MinimumKeyword>최소</SmartHopper_MinimumKeyword>
+  <SmartHopper_Minimum>현재 물품 최소 제한: {0}</SmartHopper_Minimum>
+  <SmartHopper_Maximum>현재 물품 최대 제한: {0}</SmartHopper_Maximum>
+  <SmartHopper_Minimum_UseTooltip>이 기능을 사용하면 저장된 항목의 X 스택 크기보다 작은 경우 스마트 투입구에서 해당 항목을 금지 해제합니다. 또한, 최솟값을 초과할 만큼 충분한 품목이 있는 경우에만 품목을 가져갑니다.</SmartHopper_Minimum_UseTooltip>
+  <SmartHopper_Maximum_UseTooltip>이 기능을 활성화하면 저장량이 가득 찼거나 저장 크기가 X보다 크거나 같은 경우 스마트 투입구가 품목 가져오기를 중지합니다.</SmartHopper_Maximum_UseTooltip>
+  <PRF_CantCreateStockpile>저장구역을 만들 수 없습니다(빈 공간 없음).</PRF_CantCreateStockpile>
+  <PRF.SmartHopper.ITab.Name>Pickup</PRF.SmartHopper.ITab.Name>
+  <PRF.SmartHopper.ITab.Description>Pickup Settings:</PRF.SmartHopper.ITab.Description>
+  <PRF.SmartHopper.ITab.AllowGround>Ground</PRF.SmartHopper.ITab.AllowGround>
+  <PRF.SmartHopper.ITab.AllowStockpile>저장</PRF.SmartHopper.ITab.AllowStockpile>
+  <PRF.SmartHopper.ITab.AllowStorage>Storage Building</PRF.SmartHopper.ITab.AllowStorage>
+  <PRF.SmartHopper.ITab.AllowForbidden>Allow forbidden</PRF.SmartHopper.ITab.AllowForbidden>
+  <PRF.SmartHopper.ITab.AllowBelt>Allow Belt</PRF.SmartHopper.ITab.AllowBelt>
+  <ProjectRimFactoryModName>프로젝트 림팩토리</ProjectRimFactoryModName>
+  <PRF_Settings_C_Lite_Header>PRF 라이트 모드 전환</PRF_Settings_C_Lite_Header>
+  <PRF_Settings_C_Lite_Label>PRF 라이트 모드</PRF_Settings_C_Lite_Label>
+  <PRF_Settings_C_Lite_ToolTip>Checking this item will enable PRF Lite Mode, which will disable all machines while leaving the logistics and storage devices intact.\n\nThis is primarily for those who only want to use the logistics items with another automation mod such as VEF: Mechanoids.</PRF_Settings_C_Lite_ToolTip>
+  <PRF_Settings_C_Patches_Header>패치들</PRF_Settings_C_Patches_Header>
+  <PRF_Settings_C_Patches_Reachability_CanReach_ToolTip>Toggles the Advanced IO CanReach Patch.\n\nWhen checked, the patch is active and allows pawns to reach the DSU contents using advanced IO ports even if the path to the DSU is blocked.\n\nThis patch is not active by default as it may cause spikes and is only useful in some cases.\n\n(ProjectRimFactory.Common.HarmonyPatches.Patch_Reachability_CanReach:Postfix)</PRF_Settings_C_Patches_Reachability_CanReach_ToolTip>
+  <PRF_Settings_C_Patches_Reachability_CanReach>Toggle the Advanced IO CanReach Patch</PRF_Settings_C_Patches_Reachability_CanReach>
+  <PRF_Settings_GeneralOptions_Header>General Options</PRF_Settings_GeneralOptions_Header>
+  <PRF_Settings_GeneralOptions_DSU_UseFuzzySearch_ToolTip>Toggle the use of the Fuzzy Search algorithm for the storage item view\nIf Active Fuzzy Search will be used, otherwise it will use exact matches.</PRF_Settings_GeneralOptions_DSU_UseFuzzySearch_ToolTip>
+  <PRF_Settings_GeneralOptions_DSU_UseFuzzySearch>Use Fuzzy-Search for the storage item view</PRF_Settings_GeneralOptions_DSU_UseFuzzySearch>
+  <PRF.Common.ForbidOnPlacingDefault>Forbid items on placement</PRF.Common.ForbidOnPlacingDefault>
+  <PRF.Common.ForbidOnPlacingDefaultDesc>When enabled machine products will be automatically forbidden on placement.</PRF.Common.ForbidOnPlacingDefaultDesc>
+  <PRF.Settings.RequireReboot>Changes will require a reboot to apply the setting.</PRF.Settings.RequireReboot>
+  <PRF.Settings.Select>선택</PRF.Settings.Select>
+  <PRF.Settings.TopMessage>&lt;size=20>Any setting changes will &lt;b>&lt;i>&lt;color=red>require a restart&lt;/color>&lt;/i>&lt;/b>&lt;/size></PRF.Settings.TopMessage>
+  <PRF.Settings.restartMessage>Any changes will cause RimWorld to automatically restart on closing this menu.</PRF.Settings.restartMessage>
+  <PRF.Settings.AssemblerMessage>조립기 설정</PRF.Settings.AssemblerMessage>
+  <PRF.Settings.OtherMessage>기타 설정</PRF.Settings.OtherMessage>
+  <PRF.Settings.StorageMessage>저장소 설정</PRF.Settings.StorageMessage>
+  <PRF.Settings.TurnOffHelpButton.Label>Disable "Help" button</PRF.Settings.TurnOffHelpButton.Label>
+  <PRF.Settings.TurnOffHelpButton.Desc>Disabling this will remove the "Help" button that appears along the bottom when you have a PRF machine selected.</PRF.Settings.TurnOffHelpButton.Desc>
+  <PRF.Settings.TurnOffPulseGlowerEffect.Label>펄스 반짝임 효과 켜기</PRF.Settings.TurnOffPulseGlowerEffect.Label>
+  <PRF.Settings.TurnOffPulseGlowerEffect.Desc>펄스 반짝임 효과 켜기</PRF.Settings.TurnOffPulseGlowerEffect.Desc>
+  <PRF.Settings.TurnOffSwapTexture.Label>텍스처 전환 효과 끄기</PRF.Settings.TurnOffSwapTexture.Label>
+  <PRF.Settings.TurnOffSwapTexture.Desc>Disables dynamic switching of building textures to a "working" state when they're in use.</PRF.Settings.TurnOffSwapTexture.Desc>
+  <PRF.Settings.TurnOffDrawStatus.Label>Disable working status label</PRF.Settings.TurnOffDrawStatus.Label>
+  <PRF.Settings.TurnOffDrawStatus.Desc>Disables the written labels that appear over a machine announcing its status.</PRF.Settings.TurnOffDrawStatus.Desc>
+  <PRF.Settings.TurnOffDoEffect.Label>Disable audiovisual effects for recipes</PRF.Settings.TurnOffDoEffect.Label>
+  <PRF.Settings.TurnOffDoEffect.Desc>Disables sounds and drawings of things like animated food particles over machines while working.</PRF.Settings.TurnOffDoEffect.Desc>
+  <PRF.Settings.TurnOffStorageDefault.Label>기본 저장소 설정 비활성화</PRF.Settings.TurnOffStorageDefault.Label>
+  <PRF.Settings.TurnOffStorageDefault.Desc>If disabled, crates and other storage items will allow any item by default.</PRF.Settings.TurnOffStorageDefault.Desc>
+  <PRF.Settings.TurnOffDsuDestroy.Label>Disable loss of items on DSU deconstruction</PRF.Settings.TurnOffDsuDestroy.Label>
+  <PRF.Settings.TurnOffDsuDestroy.Desc>When deconstructed manually, any items in the DSU are lost. Turning off this setting will cause them to be returned normally.</PRF.Settings.TurnOffDsuDestroy.Desc>
+  <PRF.Settings.DsuLimit.Label>Override DSU storage limit</PRF.Settings.DsuLimit.Label>
+  <PRF.Settings.DsuLimit.Desc>Check this to enable the override slider on the right.</PRF.Settings.DsuLimit.Desc>
+  <PRF.Settings.recipeDB.Label>Override range for recipe database</PRF.Settings.recipeDB.Label>
+  <PRF.Settings.recipeDB.Desc>Check this to enable the override slider on the right.</PRF.Settings.recipeDB.Desc>
+  <PRF.Settings.TurnOffInfestation.Label>Disable infestation for T1/T2 miners</PRF.Settings.TurnOffInfestation.Label>
+  <PRF.Settings.TurnOffInfestation.Desc>Stops tier 1 and 2 automated miners from drawing insectoid infestations.\n\nCould be unbalanced, since this is the only real limit on your ability to run fifty of them at a time.</PRF.Settings.TurnOffInfestation.Desc>
+  <PRF.Settings.TurnOffMinerNerf.Label>Miners can mine all ore types</PRF.Settings.TurnOffMinerNerf.Label>
+  <PRF.Settings.TurnOffMinerNerf.Desc>All tiers of miners can now mine any ore, ignoring any limits defined for them.\n\nCould be unbalanced, since you can dig up an infinite amount of whatever you want so long as it's defined as an ore.</PRF.Settings.TurnOffMinerNerf.Desc>
+  <PRF.Settings.TurnOffGrouping.Label>Disable some of the menu grouping/dropdown</PRF.Settings.TurnOffGrouping.Label>
+  <PRF.Settings.TurnOffGrouping.Desc>Limited effects right now, but it makes a few of the grouped-up architect menu items unstack into separate entries.</PRF.Settings.TurnOffGrouping.Desc>
+  <PRF.Settings.TurnOffFurnacefuel.Label>Disable fuel use on T1 furnace</PRF.Settings.TurnOffFurnacefuel.Label>
+  <PRF.Settings.TurnOffFurnacefuel.Desc>Makes the tier 1 furnace free to use.</PRF.Settings.TurnOffFurnacefuel.Desc>
+  <PRF.Settings.TurnOffCoalGen.Label>천연 석탄 생성 비활성화</PRF.Settings.TurnOffCoalGen.Label>
+  <PRF.Settings.TurnOffCoalGen.Desc>Disable natural coal generation.</PRF.Settings.TurnOffCoalGen.Desc>
+  <PRF.ThornyMemorialTitle>손스워스의 페가수스</PRF.ThornyMemorialTitle>
+  <PRF.ThornyMemorialDesc>이 페가수스는 컵케이크에 똥을 싼 것처럼 보입니다. 이 예술은 위대한 예술가이자 코더인 손스워스의 마지막 작품입니다. 그는 장님으로 변해가고 있었죠. 페가수스는 행복한 친구들에게 둘러싸여 있습니다.\n\nRIP Thinsworth, 2020년 9월 19일.\n\n당신이 그리울 거예요.</PRF.ThornyMemorialDesc>
+  <PRF.ThornyAuthor>손스워스</PRF.ThornyAuthor>
+</LanguageData>
