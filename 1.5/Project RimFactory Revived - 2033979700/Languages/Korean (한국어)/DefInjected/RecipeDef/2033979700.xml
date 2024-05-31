@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ButcherCorpseDrone.label>salvage drone corpse</ButcherCorpseDrone.label>
+  <ButcherCorpseDrone.description>Salvage the materials from a broken drone.</ButcherCorpseDrone.description>
+  <ButcherCorpseDrone.jobString>Salvaging drone corpse.</ButcherCorpseDrone.jobString>
+  <BrewBeer_sixpack.label>brew beer x10</BrewBeer_sixpack.label>
+  <BrewBeer_sixpack.description>Brew beer in a batch lot of 10 units at once.</BrewBeer_sixpack.description>
+  <BrewBeer_sixpack.jobString>Brewing beer.</BrewBeer_sixpack.jobString>
+  <BrewBeer_case.label>brew beer x25</BrewBeer_case.label>
+  <BrewBeer_case.description>Brew beer in a batch lot of 25 units at once.</BrewBeer_case.description>
+  <BrewBeer_case.jobString>Brewing beer.</BrewBeer_case.jobString>
+  <BrewBeer_keg.label>brew beer x50</BrewBeer_keg.label>
+  <BrewBeer_keg.description>Brew beer in a batch lot of 50 units at once.</BrewBeer_keg.description>
+  <BrewBeer_keg.jobString>Brewing beer.</BrewBeer_keg.jobString>
+  <MakeDataDisk.label>make audio tape reel</MakeDataDisk.label>
+  <MakeDataDisk.description>Make a roll of magnetic data tape.</MakeDataDisk.description>
+  <MakeDataDisk.jobString>Making data disk.</MakeDataDisk.jobString>
+  <MakePRF_RoboticArm.label>make robotic arm</MakePRF_RoboticArm.label>
+  <MakePRF_RoboticArm.description>Make a robotic arm.</MakePRF_RoboticArm.description>
+  <MakePRF_RoboticArm.jobString>Making robotic arm.</MakePRF_RoboticArm.jobString>
+  <MakePRF_ElectronicChip_I.label>make basic AI chip</MakePRF_ElectronicChip_I.label>
+  <MakePRF_ElectronicChip_I.description>Make a basic AI chip.</MakePRF_ElectronicChip_I.description>
+  <MakePRF_ElectronicChip_I.jobString>Making basic AI chip.</MakePRF_ElectronicChip_I.jobString>
+  <MakePRF_ElectronicChip_II.label>make advanced AI core</MakePRF_ElectronicChip_II.label>
+  <MakePRF_ElectronicChip_II.description>Make an advanced AI core.</MakePRF_ElectronicChip_II.description>
+  <MakePRF_ElectronicChip_II.jobString>Making advanced AI core.</MakePRF_ElectronicChip_II.jobString>
+  <MakePRF_ElectronicChip_III.label>make qubit processor</MakePRF_ElectronicChip_III.label>
+  <MakePRF_ElectronicChip_III.description>Make a qubit processor.</MakePRF_ElectronicChip_III.description>
+  <MakePRF_ElectronicChip_III.jobString>Making qubit processor.</MakePRF_ElectronicChip_III.jobString>
+  <MakePRF_DroneModule.label>make UAV (packed)</MakePRF_DroneModule.label>
+  <MakePRF_DroneModule.description>Make a drone module.</MakePRF_DroneModule.description>
+  <MakePRF_DroneModule.jobString>Making drone module.</MakePRF_DroneModule.jobString>
+  <MakeSmallFrame.label>make small machine frame</MakeSmallFrame.label>
+  <MakeSmallFrame.description>Make a small machine frame for use in factory buildings.</MakeSmallFrame.description>
+  <MakeSmallFrame.jobString>Making frame.</MakeSmallFrame.jobString>
+  <MakeMediumFrame.label>make medium machine frame</MakeMediumFrame.label>
+  <MakeMediumFrame.description>Make a medium machine frame for a factory building.</MakeMediumFrame.description>
+  <MakeMediumFrame.jobString>Making frame.</MakeMediumFrame.jobString>
+  <MakeLargeFrame.label>make advanced machine frame</MakeLargeFrame.label>
+  <MakeLargeFrame.description>Make an advanced machine frame for factory buildings.</MakeLargeFrame.description>
+  <MakeLargeFrame.jobString>Making frame.</MakeLargeFrame.jobString>
+  <MakeNutrientPaste.label>cook nutrient paste meal</MakeNutrientPaste.label>
+  <MakeNutrientPaste.description>Make a nutrient paste meal by extracting nutrients from raw food.</MakeNutrientPaste.description>
+  <MakeNutrientPaste.jobString>Cooking nutrient paste meal.</MakeNutrientPaste.jobString>
+  <MakeNutrientPasteBulk.label>cook nutrient paste meal x10</MakeNutrientPasteBulk.label>
+  <MakeNutrientPasteBulk.description>Make a batch of 10 nutrient paste meals by extracting nutrients from raw food.</MakeNutrientPasteBulk.description>
+  <MakeNutrientPasteBulk.jobString>Cooking nutrient paste meals in bulk.</MakeNutrientPasteBulk.jobString>
+  <PRF_Excavate_Granite.label>mine granite</PRF_Excavate_Granite.label>
+  <PRF_Excavate_Granite.description>Mining granite.</PRF_Excavate_Granite.description>
+  <PRF_Excavate_Granite.jobString>Mining granite.</PRF_Excavate_Granite.jobString>
+  <PRF_Excavate_Sandstone.label>mine sandstone</PRF_Excavate_Sandstone.label>
+  <PRF_Excavate_Sandstone.description>Mining sandstone.</PRF_Excavate_Sandstone.description>
+  <PRF_Excavate_Sandstone.jobString>Mining sandstone.</PRF_Excavate_Sandstone.jobString>
+  <PRF_Excavate_Limestone.label>mine limestone</PRF_Excavate_Limestone.label>
+  <PRF_Excavate_Limestone.description>Mining limestone.</PRF_Excavate_Limestone.description>
+  <PRF_Excavate_Limestone.jobString>Mining limestone.</PRF_Excavate_Limestone.jobString>
+  <PRF_Excavate_Slate.label>mine slate</PRF_Excavate_Slate.label>
+  <PRF_Excavate_Slate.description>Mining slate.</PRF_Excavate_Slate.description>
+  <PRF_Excavate_Slate.jobString>Mining slate.</PRF_Excavate_Slate.jobString>
+  <PRF_Excavate_Marble.label>mine marble</PRF_Excavate_Marble.label>
+  <PRF_Excavate_Marble.description>Mining marble.</PRF_Excavate_Marble.description>
+  <PRF_Excavate_Marble.jobString>Mining marble.</PRF_Excavate_Marble.jobString>
+  <PRF_RefinePlasteel.label>refine plasteel</PRF_RefinePlasteel.label>
+  <PRF_RefinePlasteel.description>Refine plasteel from chemfuel and steel.</PRF_RefinePlasteel.description>
+  <PRF_RefinePlasteel.jobString>Refining plasteel.</PRF_RefinePlasteel.jobString>
+  <PRF_MetalFromSlagBulk.label>smelt metal from slag in bulk</PRF_MetalFromSlagBulk.label>
+  <PRF_MetalFromSlagBulk.description>Use heat and strong electromagnets to extract useful metal from slag chunks in bulk.</PRF_MetalFromSlagBulk.description>
+  <PRF_MetalFromSlagBulk.jobString>Smelting metal from slag.</PRF_MetalFromSlagBulk.jobString>
+  <PRF_StoneBlocksAnyBulk.label>make any stone blocks in bulk</PRF_StoneBlocksAnyBulk.label>
+  <PRF_StoneBlocksAnyBulk.description>Cut rock chunks into usable stone blocks in bulk.</PRF_StoneBlocksAnyBulk.description>
+  <PRF_SandstoneBlocksBulk.label>make sandstone blocks in bulk</PRF_SandstoneBlocksBulk.label>
+  <PRF_SandstoneBlocksBulk.description>Cut sandstone chunks into usable sandstone blocks in bulk.</PRF_SandstoneBlocksBulk.description>
+  <PRF_GraniteBlocksBulk.label>make granite blocks in bulk</PRF_GraniteBlocksBulk.label>
+  <PRF_GraniteBlocksBulk.description>Cut granite chunks into usable granite blocks in bulk.</PRF_GraniteBlocksBulk.description>
+  <PRF_LimestoneBlocksBulk.label>make limestone blocks in bulk</PRF_LimestoneBlocksBulk.label>
+  <PRF_LimestoneBlocksBulk.description>Cut limestone chunks into usable limestone blocks in bulk.</PRF_LimestoneBlocksBulk.description>
+  <PRF_SlateBlocksBulk.label>make slate blocks in bulk</PRF_SlateBlocksBulk.label>
+  <PRF_SlateBlocksBulk.description>Cut slate chunks into usable slate blocks in bulk.</PRF_SlateBlocksBulk.description>
+  <PRF_MarbleBlocksBulk.label>make marble blocks in bulk</PRF_MarbleBlocksBulk.label>
+  <PRF_MarbleBlocksBulk.description>Cut marble chunks into usable marble blocks in bulk.</PRF_MarbleBlocksBulk.description>
+  <PRF_Recycle_Apparel.label>recycle apparel</PRF_Recycle_Apparel.label>
+  <PRF_Recycle_Apparel.description>Recycle apparel back into raw resources.</PRF_Recycle_Apparel.description>
+  <PRF_Recycle_Apparel.jobString>Recycling apparel.</PRF_Recycle_Apparel.jobString>
+  <PRF_Recycle_Weapon.label>recycle weapon</PRF_Recycle_Weapon.label>
+  <PRF_Recycle_Weapon.description>Recycle weapons back into raw resources.</PRF_Recycle_Weapon.description>
+  <PRF_Recycle_Weapon.jobString>Smelting weapon.</PRF_Recycle_Weapon.jobString>
+  <PRF_Destroy_Chunks.label>destroy stone chunks</PRF_Destroy_Chunks.label>
+  <PRF_Destroy_Chunks.description>Crush unwanted stone chunks to dust in order to completely destroy them.</PRF_Destroy_Chunks.description>
+  <PRF_Destroy_Chunks.jobString>Chrushing.</PRF_Destroy_Chunks.jobString>
+  <PRF_Destroy_Anything.label>destroy anything</PRF_Destroy_Anything.label>
+  <PRF_Destroy_Anything.description>Destroy anything. This will remove any unwanted stuff quickly.\nSet filters before running this bill or your pawns will melt all your expensive stuff.</PRF_Destroy_Anything.description>
+  <PRF_Destroy_Anything.jobString>Pulverizing stuff.</PRF_Destroy_Anything.jobString>
+  <PRF_Destroy_Wastepack.label>destroy Wastepack</PRF_Destroy_Wastepack.label>
+  <PRF_Destroy_Wastepack.description>Destroy Wastepack.</PRF_Destroy_Wastepack.description>
+  <PRF_Destroy_Wastepack.jobString>Pulverizing Wastepack.</PRF_Destroy_Wastepack.jobString>
+  <Make_PRF_FishFood.label>make fish food</Make_PRF_FishFood.label>
+  <Make_PRF_FishFood.description>Make fish food by combining raw meat and plants.</Make_PRF_FishFood.description>
+  <Make_PRF_FishFood.jobString>Making fish food.</Make_PRF_FishFood.jobString>
+  <PRF_FreshwaterFish.label>grow freshwater fish</PRF_FreshwaterFish.label>
+  <PRF_FreshwaterFish.description>Start the process of farming freshwater fish.</PRF_FreshwaterFish.description>
+  <PRF_FreshwaterFish.jobString>Farming fish.</PRF_FreshwaterFish.jobString>
+  <PRF_OceanwaterFish.label>grow oceanwater fish</PRF_OceanwaterFish.label>
+  <PRF_OceanwaterFish.description>Start the process of farming oceanwater fish.</PRF_OceanwaterFish.description>
+  <PRF_OceanwaterFish.jobString>Farming fish.</PRF_OceanwaterFish.jobString>
+  <Brew_VBE_AmbrandyNormal.label>brew ambrandy x10</Brew_VBE_AmbrandyNormal.label>
+  <Brew_VBE_AmbrandyNormal.description>Brew ambrandy x10.</Brew_VBE_AmbrandyNormal.description>
+  <Brew_VBE_AmbrandyNormal.jobString>Brewing ambrandy.</Brew_VBE_AmbrandyNormal.jobString>
+  <Brew_VBE_Gin.label>brew gin x10</Brew_VBE_Gin.label>
+  <Brew_VBE_Gin.description>Brew gin x10.</Brew_VBE_Gin.description>
+  <Brew_VBE_Gin.jobString>Brewing gin.</Brew_VBE_Gin.jobString>
+  <Brew_VBE_Tequila.label>brew tequila x10</Brew_VBE_Tequila.label>
+  <Brew_VBE_Tequila.description>Brew tequila x10.</Brew_VBE_Tequila.description>
+  <Brew_VBE_Tequila.jobString>Brewing tequila.</Brew_VBE_Tequila.jobString>
+  <Brew_VBE_Vodka.label>brew vodka x10</Brew_VBE_Vodka.label>
+  <Brew_VBE_Vodka.description>Brew vodka x10.</Brew_VBE_Vodka.description>
+  <Brew_VBE_Vodka.jobString>Brewing vodka.</Brew_VBE_Vodka.jobString>
+  <Brew_VBE_Whiskey.label>brew whiskey x10</Brew_VBE_Whiskey.label>
+  <Brew_VBE_Whiskey.description>Brew whiskey x10.</Brew_VBE_Whiskey.description>
+  <Brew_VBE_Whiskey.jobString>Brewing whiskey.</Brew_VBE_Whiskey.jobString>
+  <Brew_VBE_Soda.label>brew soda x10</Brew_VBE_Soda.label>
+  <Brew_VBE_Soda.description>Brew soda x10.</Brew_VBE_Soda.description>
+  <Brew_VBE_Soda.jobString>Brewing soda.</Brew_VBE_Soda.jobString>
+  <Brew_VBE_Cider.label>brew cider x10</Brew_VBE_Cider.label>
+  <Brew_VBE_Cider.description>Brew cider x10.</Brew_VBE_Cider.description>
+  <Brew_VBE_Cider.jobString>Brewing cider.</Brew_VBE_Cider.jobString>
+  <Brew_VFEM_Wine.label>brew wine x10</Brew_VFEM_Wine.label>
+  <Brew_VFEM_Wine.description>Brew wine x10.</Brew_VFEM_Wine.description>
+  <Brew_VFEM_Wine.jobString>Brewing wine.</Brew_VFEM_Wine.jobString>
+  <Brew_VFEV_Mead.label>brew mead x10</Brew_VFEV_Mead.label>
+  <Brew_VFEV_Mead.description>Brew mead x10.</Brew_VFEV_Mead.description>
+  <Brew_VFEV_Mead.jobString>Brewing mead.</Brew_VFEV_Mead.jobString>
+  <PRF_Excavate_Pink_Marble.label>mine pink marble</PRF_Excavate_Pink_Marble.label>
+  <PRF_Excavate_Pink_Marble.description>Mining pink marble.</PRF_Excavate_Pink_Marble.description>
+  <PRF_Excavate_Pink_Marble.jobString>Mining pink marble.</PRF_Excavate_Pink_Marble.jobString>
+  <PRF_Excavate_Blue_Granite.label>mine blue granite</PRF_Excavate_Blue_Granite.label>
+  <PRF_Excavate_Blue_Granite.description>Mining blue granite.</PRF_Excavate_Blue_Granite.description>
+  <PRF_Excavate_Blue_Granite.jobString>Mining blue granite.</PRF_Excavate_Blue_Granite.jobString>
+  <PRF_Excavate_Green_Marble.label>mine green marble</PRF_Excavate_Green_Marble.label>
+  <PRF_Excavate_Green_Marble.description>Mining green marble.</PRF_Excavate_Green_Marble.description>
+  <PRF_Excavate_Green_Marble.jobString>Mining green marble.</PRF_Excavate_Green_Marble.jobString>
+  <PRF_Excavate_Claystone.label>mine claystone</PRF_Excavate_Claystone.label>
+  <PRF_Excavate_Claystone.description>Mining claystone.</PRF_Excavate_Claystone.description>
+  <PRF_Excavate_Claystone.jobString>Mining claystone.</PRF_Excavate_Claystone.jobString>
+  <PRF_Excavate_Andesite.label>mine andesite</PRF_Excavate_Andesite.label>
+  <PRF_Excavate_Andesite.description>Mining andesite.</PRF_Excavate_Andesite.description>
+  <PRF_Excavate_Andesite.jobString>Mining andesite.</PRF_Excavate_Andesite.jobString>
+  <PRF_Excavate_Syenite.label>mine syenite</PRF_Excavate_Syenite.label>
+  <PRF_Excavate_Syenite.description>Mining syenite.</PRF_Excavate_Syenite.description>
+  <PRF_Excavate_Syenite.jobString>Mining syenite.</PRF_Excavate_Syenite.jobString>
+  <PRF_Excavate_Gneiss.label>mine gneiss</PRF_Excavate_Gneiss.label>
+  <PRF_Excavate_Gneiss.description>Mining gneiss.</PRF_Excavate_Gneiss.description>
+  <PRF_Excavate_Gneiss.jobString>Mining gneiss.</PRF_Excavate_Gneiss.jobString>
+  <PRF_Excavate_Quartzite.label>mine quartzite</PRF_Excavate_Quartzite.label>
+  <PRF_Excavate_Quartzite.description>Mining quartzite.</PRF_Excavate_Quartzite.description>
+  <PRF_Excavate_Quartzite.jobString>Mining quartzite.</PRF_Excavate_Quartzite.jobString>
+  <PRF_Excavate_Schist.label>mine schist</PRF_Excavate_Schist.label>
+  <PRF_Excavate_Schist.description>Mining schist.</PRF_Excavate_Schist.description>
+  <PRF_Excavate_Schist.jobString>Mining schist.</PRF_Excavate_Schist.jobString>
+  <PRF_Excavate_Gabbro.label>mine gabbro</PRF_Excavate_Gabbro.label>
+  <PRF_Excavate_Gabbro.description>Mining gabbro.</PRF_Excavate_Gabbro.description>
+  <PRF_Excavate_Gabbro.jobString>Mining gabbro.</PRF_Excavate_Gabbro.jobString>
+  <PRF_Excavate_Diorite.label>mine diorite</PRF_Excavate_Diorite.label>
+  <PRF_Excavate_Diorite.description>Mining diorite.</PRF_Excavate_Diorite.description>
+  <PRF_Excavate_Diorite.jobString>Mining diorite.</PRF_Excavate_Diorite.jobString>
+  <PRF_Excavate_Dunite.label>mine dunite</PRF_Excavate_Dunite.label>
+  <PRF_Excavate_Dunite.description>Mining dunite.</PRF_Excavate_Dunite.description>
+  <PRF_Excavate_Dunite.jobString>Mining dunite.</PRF_Excavate_Dunite.jobString>
+  <PRF_Excavate_Pegmatite.label>mine pegmatite</PRF_Excavate_Pegmatite.label>
+  <PRF_Excavate_Pegmatite.description>Mining pegmatite.</PRF_Excavate_Pegmatite.description>
+  <PRF_Excavate_Pegmatite.jobString>Mining pegmatite.</PRF_Excavate_Pegmatite.jobString>
+  <PRF_Excavate_Anorthosite.label>mine anorthosite</PRF_Excavate_Anorthosite.label>
+  <PRF_Excavate_Anorthosite.description>Mining anorthosite.</PRF_Excavate_Anorthosite.description>
+  <PRF_Excavate_Anorthosite.jobString>Mining anorthosite.</PRF_Excavate_Anorthosite.jobString>
+  <PRF_Excavate_Basalt.label>mine basalt</PRF_Excavate_Basalt.label>
+  <PRF_Excavate_Basalt.description>Mining basalt.</PRF_Excavate_Basalt.description>
+  <PRF_Excavate_Basalt.jobString>Mining basalt.</PRF_Excavate_Basalt.jobString>
+  <PRF_Excavate_Blue_Schist.label>mine blue schist</PRF_Excavate_Blue_Schist.label>
+  <PRF_Excavate_Blue_Schist.description>Mining blue schist.</PRF_Excavate_Blue_Schist.description>
+  <PRF_Excavate_Blue_Schist.jobString>Mining blue schist.</PRF_Excavate_Blue_Schist.jobString>
+  <PRF_Excavate_Chalk.label>mine chalk</PRF_Excavate_Chalk.label>
+  <PRF_Excavate_Chalk.description>Mining chalk.</PRF_Excavate_Chalk.description>
+  <PRF_Excavate_Chalk.jobString>Mining chalk.</PRF_Excavate_Chalk.jobString>
+  <PRF_Excavate_Charnockite.label>mine charnockite</PRF_Excavate_Charnockite.label>
+  <PRF_Excavate_Charnockite.description>Mining charnockite.</PRF_Excavate_Charnockite.description>
+  <PRF_Excavate_Charnockite.jobString>Mining charnockite.</PRF_Excavate_Charnockite.jobString>
+  <PRF_Excavate_Creole_Marble.label>mine creole marble</PRF_Excavate_Creole_Marble.label>
+  <PRF_Excavate_Creole_Marble.description>Mining creole marble.</PRF_Excavate_Creole_Marble.description>
+  <PRF_Excavate_Creole_Marble.jobString>Mining creole marble.</PRF_Excavate_Creole_Marble.jobString>
+  <PRF_Excavate_Dacite.label>mine dacite</PRF_Excavate_Dacite.label>
+  <PRF_Excavate_Dacite.description>Mining dacite.</PRF_Excavate_Dacite.description>
+  <PRF_Excavate_Dacite.jobString>Mining dacite.</PRF_Excavate_Dacite.jobString>
+  <PRF_Excavate_Emperador_Dark.label>mine emperador dark</PRF_Excavate_Emperador_Dark.label>
+  <PRF_Excavate_Emperador_Dark.description>Mining emperador dark.</PRF_Excavate_Emperador_Dark.description>
+  <PRF_Excavate_Emperador_Dark.jobString>Mining emperador dark.</PRF_Excavate_Emperador_Dark.jobString>
+  <PRF_Excavate_Etowah_Marble.label>mine etowah marble</PRF_Excavate_Etowah_Marble.label>
+  <PRF_Excavate_Etowah_Marble.description>Mining etowah marble.</PRF_Excavate_Etowah_Marble.description>
+  <PRF_Excavate_Etowah_Marble.jobString>Mining etowah marble.</PRF_Excavate_Etowah_Marble.jobString>
+  <PRF_Excavate_Green_Schist.label>mine green schist</PRF_Excavate_Green_Schist.label>
+  <PRF_Excavate_Green_Schist.description>Mining green schist.</PRF_Excavate_Green_Schist.description>
+  <PRF_Excavate_Green_Schist.jobString>Mining green schist.</PRF_Excavate_Green_Schist.jobString>
+  <PRF_Excavate_Jaspillite.label>mine jaspillite</PRF_Excavate_Jaspillite.label>
+  <PRF_Excavate_Jaspillite.description>Mining jaspillite.</PRF_Excavate_Jaspillite.description>
+  <PRF_Excavate_Jaspillite.jobString>Mining jaspillite.</PRF_Excavate_Jaspillite.jobString>
+  <PRF_Excavate_Lepidolite.label>mine lepidolite</PRF_Excavate_Lepidolite.label>
+  <PRF_Excavate_Lepidolite.description>Mining lepidolite.</PRF_Excavate_Lepidolite.description>
+  <PRF_Excavate_Lepidolite.jobString>Mining lepidolite.</PRF_Excavate_Lepidolite.jobString>
+  <PRF_Excavate_Lherzolite.label>mine lherzolite</PRF_Excavate_Lherzolite.label>
+  <PRF_Excavate_Lherzolite.description>Mining lherzolite.</PRF_Excavate_Lherzolite.description>
+  <PRF_Excavate_Lherzolite.jobString>Mining lherzolite.</PRF_Excavate_Lherzolite.jobString>
+  <PRF_Excavate_Lignite.label>mine lignite</PRF_Excavate_Lignite.label>
+  <PRF_Excavate_Lignite.description>Mining lignite.</PRF_Excavate_Lignite.description>
+  <PRF_Excavate_Lignite.jobString>Mining lignite.</PRF_Excavate_Lignite.jobString>
+  <PRF_Excavate_Migmatite.label>mine migmatite</PRF_Excavate_Migmatite.label>
+  <PRF_Excavate_Migmatite.description>Mining migmatite.</PRF_Excavate_Migmatite.description>
+  <PRF_Excavate_Migmatite.jobString>Mining migmatite.</PRF_Excavate_Migmatite.jobString>
+  <PRF_Excavate_Monzonite.label>mine monzonite</PRF_Excavate_Monzonite.label>
+  <PRF_Excavate_Monzonite.description>Mining monzonite.</PRF_Excavate_Monzonite.description>
+  <PRF_Excavate_Monzonite.jobString>Mining monzonite.</PRF_Excavate_Monzonite.jobString>
+  <PRF_Excavate_Obsidian.label>mine obsidian</PRF_Excavate_Obsidian.label>
+  <PRF_Excavate_Obsidian.description>Mining obsidian.</PRF_Excavate_Obsidian.description>
+  <PRF_Excavate_Obsidian.jobString>Mining obsidian.</PRF_Excavate_Obsidian.jobString>
+  <PRF_Excavate_Rhyolite.label>mine rhyolite</PRF_Excavate_Rhyolite.label>
+  <PRF_Excavate_Rhyolite.description>Mining rhyolite.</PRF_Excavate_Rhyolite.description>
+  <PRF_Excavate_Rhyolite.jobString>Mining rhyolite.</PRF_Excavate_Rhyolite.jobString>
+  <PRF_Excavate_Scoria.label>mine scoria</PRF_Excavate_Scoria.label>
+  <PRF_Excavate_Scoria.description>Mining scoria.</PRF_Excavate_Scoria.description>
+  <PRF_Excavate_Scoria.jobString>Mining scoria.</PRF_Excavate_Scoria.jobString>
+  <PRF_Excavate_Serpentinite.label>mine serpentinite</PRF_Excavate_Serpentinite.label>
+  <PRF_Excavate_Serpentinite.description>Mining serpentinite.</PRF_Excavate_Serpentinite.description>
+  <PRF_Excavate_Serpentinite.jobString>Mining serpentinite.</PRF_Excavate_Serpentinite.jobString>
+  <PRF_Excavate_Siltstone.label>mine siltstone</PRF_Excavate_Siltstone.label>
+  <PRF_Excavate_Siltstone.description>Mining siltstone.</PRF_Excavate_Siltstone.description>
+  <PRF_Excavate_Siltstone.jobString>Mining siltstone.</PRF_Excavate_Siltstone.jobString>
+  <PRF_Excavate_Sovite.label>mine sovite</PRF_Excavate_Sovite.label>
+  <PRF_Excavate_Sovite.description>Mining sovite.</PRF_Excavate_Sovite.description>
+  <PRF_Excavate_Sovite.jobString>Mining sovite.</PRF_Excavate_Sovite.jobString>
+  <PRF_Excavate_Thometzekite.label>mine thometzekite</PRF_Excavate_Thometzekite.label>
+  <PRF_Excavate_Thometzekite.description>Mining thometzekite.</PRF_Excavate_Thometzekite.description>
+  <PRF_Excavate_Thometzekite.jobString>Mining thometzekite.</PRF_Excavate_Thometzekite.jobString>
+  <PRF_Excavate_DarkAndesite.label>mine dark andesite</PRF_Excavate_DarkAndesite.label>
+  <PRF_Excavate_DarkAndesite.description>Mining dark andesite.</PRF_Excavate_DarkAndesite.description>
+  <PRF_Excavate_DarkAndesite.jobString>Mining dark andesite.</PRF_Excavate_DarkAndesite.jobString>
+  <PRF_Excavate_Blueschist.label>mine blueschist</PRF_Excavate_Blueschist.label>
+  <PRF_Excavate_Blueschist.description>Mining blueschist.</PRF_Excavate_Blueschist.description>
+  <PRF_Excavate_Blueschist.jobString>Mining blueschist.</PRF_Excavate_Blueschist.jobString>
+  <PRF_Excavate_CreoleMarble.label>mine creole marble</PRF_Excavate_CreoleMarble.label>
+  <PRF_Excavate_CreoleMarble.description>Mining creole marble.</PRF_Excavate_CreoleMarble.description>
+  <PRF_Excavate_CreoleMarble.jobString>Mining creole marble.</PRF_Excavate_CreoleMarble.jobString>
+  <PRF_Excavate_VibrantDunite.label>mine vibrant dunite</PRF_Excavate_VibrantDunite.label>
+  <PRF_Excavate_VibrantDunite.description>Mining vibrant dunite.</PRF_Excavate_VibrantDunite.description>
+  <PRF_Excavate_VibrantDunite.jobString>Mining vibrant dunite.</PRF_Excavate_VibrantDunite.jobString>
+  <PRF_Excavate_Emperadordark.label>mine emperadordark</PRF_Excavate_Emperadordark.label>
+  <PRF_Excavate_Emperadordark.description>Mining emperadordark.</PRF_Excavate_Emperadordark.description>
+  <PRF_Excavate_Emperadordark.jobString>Mining emperadordark.</PRF_Excavate_Emperadordark.jobString>
+  <PRF_Excavate_EtowahMarble.label>mine etowah marble</PRF_Excavate_EtowahMarble.label>
+  <PRF_Excavate_EtowahMarble.description>Mining etowah marble.</PRF_Excavate_EtowahMarble.description>
+  <PRF_Excavate_EtowahMarble.jobString>Mining etowah marble.</PRF_Excavate_EtowahMarble.jobString>
+  <PRF_Excavate_GreenGabbro.label>mine green gabbro</PRF_Excavate_GreenGabbro.label>
+  <PRF_Excavate_GreenGabbro.description>Mining green gabbro.</PRF_Excavate_GreenGabbro.description>
+  <PRF_Excavate_GreenGabbro.jobString>Mining green gabbro.</PRF_Excavate_GreenGabbro.jobString>
+  <PRF_Excavate_GreenSchist.label>mine green schist</PRF_Excavate_GreenSchist.label>
+  <PRF_Excavate_GreenSchist.description>Mining green schist.</PRF_Excavate_GreenSchist.description>
+  <PRF_Excavate_GreenSchist.jobString>Mining green schist.</PRF_Excavate_GreenSchist.jobString>
+</LanguageData>

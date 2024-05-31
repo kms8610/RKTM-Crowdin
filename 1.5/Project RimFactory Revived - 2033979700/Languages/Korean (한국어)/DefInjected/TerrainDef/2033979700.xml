@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PRF_ConcreteYellow.description>Rough concrete which is cheap and quick to build.\n\nThis colored version takes slightly longer to build but is also less ugly.</PRF_ConcreteYellow.description>
+  <PRF_ConcreteYellow.label>concrete yellow</PRF_ConcreteYellow.label>
+  <PRF_ConcreteBlack.description>Rough concrete which is cheap and quick to build.\n\nThis colored version takes slightly longer to build but is also less ugly.</PRF_ConcreteBlack.description>
+  <PRF_ConcreteBlack.label>concrete black</PRF_ConcreteBlack.label>
+  <PRF_ConcreteDarkGrey.description>Rough concrete which is cheap and quick to build.\n\nThis colored version takes slightly longer to build but is also less ugly.</PRF_ConcreteDarkGrey.description>
+  <PRF_ConcreteDarkGrey.label>concrete dark grey</PRF_ConcreteDarkGrey.label>
+  <PRF_ConcreteWhite.description>Rough concrete which is cheap and quick to build.\n\nThis colored version takes slightly longer to build but is also less ugly.</PRF_ConcreteWhite.description>
+  <PRF_ConcreteWhite.label>concrete white</PRF_ConcreteWhite.label>
+  <PRF_StripedTileRight.label>striped tile right</PRF_StripedTileRight.label>
+  <PRF_StripedTileRight.description>A metal tile painted with yellow stripes to indicate critical areas.</PRF_StripedTileRight.description>
+  <PRF_StripedTileLeft.label>striped tile left</PRF_StripedTileLeft.label>
+  <PRF_StripedTileLeft.description>A metal tile painted with yellow stripes to indicate critical areas.</PRF_StripedTileLeft.description>
+</LanguageData>
