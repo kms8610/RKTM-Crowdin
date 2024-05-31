@@ -115,9 +115,9 @@
   <AA_DrainerEggFertilized.label>드레이너 수정란</AA_DrainerEggFertilized.label>
   <AA_DrainerEggFertilized.description>수정된 드레이너의 알입니다. 별탈없이 때가되면 드레이너가 부화합니다. 날로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 낫습니다.</AA_DrainerEggFertilized.description>
   <AA_FireWaspEggFertilized.label>화염 말벌 유정란</AA_FireWaspEggFertilized.label>
-  <AA_FireWaspEggFertilized.description>화염말벌의 유정란입니다. 별탈없이 때가되면 화염말벌로 부화합니다. 화염말벌의 알은 엄청난 양의 열을 발산하므로 방치하면 위험하며, 먹기 매우 불편합니다.</AA_FireWaspEggFertilized.description>
+  <AA_FireWaspEggFertilized.description>화염 말벌의 유정란입니다. 별탈없이 때가되면 화염 말벌로 부화합니다. 화염 말벌의 알은 엄청난 양의 열을 발산하므로 방치하면 위험하며, 먹기 매우 불편합니다.</AA_FireWaspEggFertilized.description>
   <AA_FireWaspEggUnfertilized.label>화염 말벌 무정란</AA_FireWaspEggUnfertilized.label>
-  <AA_FireWaspEggUnfertilized.description>화염말벌의 무정란입니다. 화염말벌의 알은 엄청난 양의 열을 발산하므로 방치하면 위험하며, 먹기 매우 불편합니다.</AA_FireWaspEggUnfertilized.description>
+  <AA_FireWaspEggUnfertilized.description>화염 말벌의 무정란입니다. 화염 말벌의 알은 엄청난 양의 열을 발산하므로 방치하면 위험하며, 먹기 매우 불편합니다.</AA_FireWaspEggUnfertilized.description>
   <AA_EggFlamingoPhoenixFertilized.label>플라밍고 피닉스 알(수정됨)</AA_EggFlamingoPhoenixFertilized.label>
   <AA_EggFlamingoPhoenixFertilized.description>수정된 플라밍고 피닉스의 알입니다. 별탈없이 때가되면 플라밍고 피닉스가 부화합니다. 날로 먹을 수도 있지만, 요리해서 먹는 편이 훨씬 낫습니다.</AA_EggFlamingoPhoenixFertilized.description>
   <AA_EggCrescendoAnoleFertilized.label>아놀도마뱀 수정란</AA_EggCrescendoAnoleFertilized.label>
@@ -160,8 +160,8 @@
 이 동물조차 싫어할 것 같은 슬러리는 육식, 잡식동물이 어떻게든 먹을 수 있으나, 초식동물에게는 적합하지 않습니다.</AA_DisgustingMealNutrientPaste.description>
   <AA_GallatrossHorn.label>갈라트로스 뿔</AA_GallatrossHorn.label>
   <AA_GallatrossHorn.description>갈라트로스의 뿔입니다. 이 바위처럼 단단한 뿔은 엄청난 고가의 물건이지만, 육중하고 희귀한 갈라트로스를 사냥하는 위험성을 고려하면 충분히 납득할만 합니다.</AA_GallatrossHorn.description>
-  <AA_GallatrossHorn.tools.0.label>끝</AA_GallatrossHorn.tools.0.label>
-  <AA_GallatrossHorn.tools.1.label>상아날</AA_GallatrossHorn.tools.1.label>
+  <AA_GallatrossHorn.tools.0.label>뿔 끝</AA_GallatrossHorn.tools.0.label>
+  <AA_GallatrossHorn.tools.1.label>뿔</AA_GallatrossHorn.tools.1.label>
   <GU_RedWood.label>붉은 나무</GU_RedWood.label>
   <GU_RedWood.description>이 붉은빛의 나무는 이상하리만큼 강하고 달콤한 향기가 납니다. 지상의 목재보다 가연성이 적지만 보기 흉합니다.</GU_RedWood.description>
   <GU_RedWood.stuffProps.stuffAdjective>붉은 나무</GU_RedWood.stuffProps.stuffAdjective>
@@ -179,7 +179,7 @@
   <AA_AgariluxRawFungus.label>대형 발광 버섯</AA_AgariluxRawFungus.label>
   <AA_AgariluxRawFungus.description>아가리포드, 또는 곰팡이 나무늘보에서 채집할 수 있는 아가릴룩스 버섯입니다. 일반 버섯에 비해 보관기한도 길고 날것으로도 먹기 좋습니다.</AA_AgariluxRawFungus.description>
   <AA_RottingMoundItem.label>발효된 유기물 더미</AA_RottingMoundItem.label>
-  <AA_RottingMoundItem.description>썩어가는 유기물 덩어리입니다. 발효가 진행되어 썩은내와 술 냄새가 진동하기 시작했습니다.</AA_RottingMoundItem.description>
+  <AA_RottingMoundItem.description>썩어가는 유기물 덩어리로 발효가 진행되면서 썩은 냄새와 술 냄새가 진동하기 시작했습니다.</AA_RottingMoundItem.description>
   <AA_HugeAnimaPearl.label>거대 영혼 진주</AA_HugeAnimaPearl.label>
   <AA_HugeAnimaPearl.description>이 거대한 영혼진주는 터질듯한 생명에너지로 빛나고 있습니다. 이것을 심어 영혼나무를 파종할 수 있습니다.</AA_HugeAnimaPearl.description>
   <AA_HugeAnimaPearl.comps.0.useLabel>거대 영혼 진주 심기</AA_HugeAnimaPearl.comps.0.useLabel>
@@ -244,7 +244,7 @@
   <AA_Bullet_Barb.label>투척된 깃털칼날</AA_Bullet_Barb.label>
   <AA_PoisonBolt.label>맹독 타액</AA_PoisonBolt.label>
   <AA_ToxicInk.label>독성 잉크 침</AA_ToxicInk.label>
-  <AA_AcidBolt.label>침 (산성)</AA_AcidBolt.label>
+  <AA_AcidBolt.label>산성 타액</AA_AcidBolt.label>
   <AA_RedPoisonBolt.label>빨간 독성 침</AA_RedPoisonBolt.label>
   <AA_Plasma.label>플라즈마 화상</AA_Plasma.label>
   <AA_ElectricBolt.label>전격</AA_ElectricBolt.label>
@@ -252,7 +252,7 @@
   <AA_WindBolt.label>돌풍</AA_WindBolt.label>
   <AA_Quill.label>깃</AA_Quill.label>
   <AA_Bullet_VenomBarb.label>독성 미늘</AA_Bullet_VenomBarb.label>
-  <AA_Bullet_Rock.label>찌그러짐</AA_Bullet_Rock.label>
+  <AA_Bullet_Rock.label>바위</AA_Bullet_Rock.label>
   <AA_FrostWeb.label>서리 거미줄</AA_FrostWeb.label>
   <AA_FireWeb.label>화염 거미줄</AA_FireWeb.label>
   <AA_AcidicWeb.label>산성 거미줄</AA_AcidicWeb.label>
@@ -278,7 +278,7 @@
 
 이 특별한 식물은 저고도 지형에서도 자라날 수 있도록 유전적으로 변형되었습니다.</AA_Heat_Ambrosia.description>
   <AA_RottingMound.label>발효된 유기물 더미</AA_RottingMound.label>
-  <AA_RottingMound.description>썩어가는 유기물 덩어리입니다. 발효가 진행되어 썩은내와 술 냄새가 진동하기 시작했습니다.</AA_RottingMound.description>
+  <AA_RottingMound.description>썩어가는 유기물 덩어리로 발효가 진행되면서 썩은 냄새와 술 냄새가 진동하기 시작했습니다.</AA_RottingMound.description>
   <AA_AlienGrass.label>외계 잡초</AA_AlienGrass.label>
   <AA_AlienGrass.description>이 풀은 외계종이 분명해 보이며, 탄소 기반 유기물이 아닌 것으로 판단됩니다. 또한 지상 환경에 노출되면 빠르게 부식 할 것 같습니다.</AA_AlienGrass.description>
   <AA_RedLeaves.label>외계 식물</AA_RedLeaves.label>
@@ -306,14 +306,14 @@
   <AA_ColossalAerofleet.tools.1.label>촉수</AA_ColossalAerofleet.tools.1.label>
   <AA_Agaripawn.label>아가리폰</AA_Agaripawn.label>
   <AA_Agaripawn.description>아가리폰은 진균류 정글의 외딴 환경에서 성장하는 돌연변이 와일드폰입니다. 공생관계의 대형 발광버섯으로 몸이 덮여있으며, 아가리포드보다 총격에 대한 방호력이 떨어지나 불이 약점인 것은 동일합니다. 흥미롭게도 몇 주마다 포자 덩어리를 방출함으로서 무성생식을 하는데, 부모와 자식의 개념없이 완전히 독립된 개체가 태어납니다.\n\n위험하긴 하지만 아가리폰을 사냥하거나 길들여 대형 발광버섯을 얻을 수 있습니다.</AA_Agaripawn.description>
-  <AA_Agaripawn.tools.0.label>왼쪽 발톱</AA_Agaripawn.tools.0.label>
-  <AA_Agaripawn.tools.1.label>오른쪽 발톱</AA_Agaripawn.tools.1.label>
+  <AA_Agaripawn.tools.0.label>왼쪽 발</AA_Agaripawn.tools.0.label>
+  <AA_Agaripawn.tools.1.label>오른쪽 발</AA_Agaripawn.tools.1.label>
   <AA_Agaripawn.tools.3.label>머리</AA_Agaripawn.tools.3.label>
   <AA_Agaripawn.comps.0.customString>포자 방출: </AA_Agaripawn.comps.0.customString>
   <AA_Agaripod.label>아가리포드</AA_Agaripod.label>
   <AA_Agaripod.description>아가리포드는 진균류 정글의 외딴 환경에서 성장하는 와일드포드의 아종입니다. 공생관계의 대형 발광버섯으로 몸이 덮여있으며, 아가리포드는 총격에 거의 영향을 받지 않지만 화염에 매우 취약합니다. 흥미롭게도 몇 주마다 포자 덩어리를 방출함으로서 무성생식을 하는데, 부모와 자식의 개념없이 완전히 독립된 개체가 태어납니다.\n\n위험하긴 하지만 아가리포드를 사냥하거나 길들여 대형 발광버섯을 얻을 수 있습니다.</AA_Agaripod.description>
-  <AA_Agaripod.tools.0.label>왼쪽 발톱</AA_Agaripod.tools.0.label>
-  <AA_Agaripod.tools.1.label>오른쪽 발톱</AA_Agaripod.tools.1.label>
+  <AA_Agaripod.tools.0.label>왼쪽 발</AA_Agaripod.tools.0.label>
+  <AA_Agaripod.tools.1.label>오른쪽 발</AA_Agaripod.tools.1.label>
   <AA_Agaripod.tools.3.label>머리</AA_Agaripod.tools.3.label>
   <AA_Agaripod.comps.0.customString>포자 방출: </AA_Agaripod.comps.0.customString>
   <AA_AngelMothLarva.label>천사 나방 고치</AA_AngelMothLarva.label>
@@ -390,10 +390,8 @@
   <AA_Barbslinger.tools.3.label>머리</AA_Barbslinger.tools.3.label>
   <AA_Barbslinger.verbs.0.label>깃털칼날</AA_Barbslinger.verbs.0.label>
   <AA_BedBug.label>해악충</AA_BedBug.label>
-  <AA_BedBug.description>이 거대한 외계 곤충은 해충 혹은 성가신 존재로 간주됩니다. 크게 위험하거나 강력하진 않지만, 먹이를 마비시키는 맹독은 자신보다 몸집이 큰 사냥감을 손쉽게 무력화시킵니다. 다행스럽게도, 이들에게 있어서 정착민은 너무 거대한 사냥감입니다. 모종의 이유로 화가 난 상태가 아니라면 말이죠... 때문에 절대 혼자서 사냥을 시도해선 안됩니다!
-
-텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BedBug.description>
-  <AA_BedBug.tools.0.label>턱</AA_BedBug.tools.0.label>
+  <AA_BedBug.description>이 거대한 외계 곤충은 해충이나 성가신 존재로 여겨집니다. 크게 위험하거나 강력하지는 않지만, 먹이를 마비시키는 강력한 독은 자신보다 커다란 사냥감도 쉽게 제압합니다. 다행히도 이 곤충들에게 정착민은 너무나도 커다란 사냥감이죠. 화가 나지 않는 이상 그들은 사람을 공격하지 않습니다. 그러니 절대로 혼자 사냥을 시도해서는 안 됩니다!\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BedBug.description>
+  <AA_BedBug.tools.0.label>하악골</AA_BedBug.tools.0.label>
   <AA_BedBug.tools.1.label>머리</AA_BedBug.tools.1.label>
   <AA_Behemoth.label>베헤모스</AA_Behemoth.label>
   <AA_Behemoth.description>포세이큰이라는 존재는 외계 별띠에 서식하는 것으로 알려져 있습니다. 전설에는 믿을 수 없을 만큼 지능적이고 험하며 파괴적인 용들이 전능한 불숨과 이해할 수 없는 힘을 가지고 행성 전체를 지배한다고 전해집니다. 그들의 목소리는 천둥이며 그들의 도래를 알립니다. 예전에는 그들이 수백 명이었지만 이제는 소수만 남아있습니다. 포세이큰의 마지막 날에 다시 일어나 하늘을 어둡게 할 것이라고 전해집니다, 심판의 날이 오면서.
@@ -406,7 +404,7 @@
   <AA_Behemoth.verbs.0.label>화염 숨결</AA_Behemoth.verbs.0.label>
   <AA_BlackScarab.label>블랙 스캐럽</AA_BlackScarab.label>
   <AA_BlackScarab.description>유전공학으로 만들어진 이 거대한 딱정벌레는 메카노이드의 침입에 대항하기 위해 고안된 '검은 둥지'의 일원입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 개중 블랙 스캐럽은 적의 주의를 끌기 위해 곤충무리에 앞서 나타나는 첨병입니다. 곤충사회의 생물체는 개별적으로 번식할 수 없습니다.\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BlackScarab.description>
-  <AA_BlackScarab.tools.0.label>턱</AA_BlackScarab.tools.0.label>
+  <AA_BlackScarab.tools.0.label>하악골</AA_BlackScarab.tools.0.label>
   <AA_BlackScarab.tools.1.label>머리</AA_BlackScarab.tools.1.label>
   <AA_BlackSpelopede.label>블랙 스펠로피드</AA_BlackSpelopede.label>
   <AA_BlackSpelopede.description>메카노이드에 대항하기 위해 개량된 적당한 크기의 생체공학 곤충입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 스펠로피드는 둥지의 중간계급으로, 거의 모든 작업을 수행할 수 있으며 날카로운 발톱으로 전투에서도 활약합니다. 확실히 위협적이기는 하지만 평지에서의 이동속도는 다소 느린 편입니다.\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BlackSpelopede.description>
@@ -439,7 +437,7 @@
   <AA_BlizzariskClutchMother.tools.0.label>왼쪽 첫 번째 다리</AA_BlizzariskClutchMother.tools.0.label>
   <AA_BlizzariskClutchMother.tools.1.label>오른쪽 첫 번째 다리</AA_BlizzariskClutchMother.tools.1.label>
   <AA_BlizzariskClutchMother.tools.3.label>머리</AA_BlizzariskClutchMother.tools.3.label>
-  <AA_BloodShrimp.label>블러드쉬림프</AA_BloodShrimp.label>
+  <AA_BloodShrimp.label>블러드 쉬림프</AA_BloodShrimp.label>
   <AA_BloodShrimp.description>블러드 쉬림프는 랩터 쉬림프에 비해 상대적으로 작은편이며, 비교적 재생 능력이 부족하지만 민첩한 움직임으로 이러한 단점을 보완하는 개체입니다.
 
 블러드 쉬림프는 피를 먹이로 하기 때문에 다른 개체를 흡혈하여 자신의 상처를 재생시킬 수 있습니다.
@@ -647,7 +645,7 @@
   <AA_FeraliskClutchMother.tools.1.label>오른쪽 첫 번째 다리</AA_FeraliskClutchMother.tools.1.label>
   <AA_FeraliskClutchMother.tools.3.label>머리</AA_FeraliskClutchMother.tools.3.label>
   <AA_FireWasp.label>화염 말벌</AA_FireWasp.label>
-  <AA_FireWasp.description>화염말벌은 불타는 살점과 초목을 먹고 사는 포식동물입니다. 인간에게는 특별히 위협적이지 않지만 정착민들의 소중한 애완동물 정도는 순식간에 잡아먹을 수 있습니다. 이것들의 알은 수정 여부와는 상관 없이 강한 열을 발산하기에 위험합니다. 근처에 있는 물건에 불을 붙일 수 있을 정도로 말이죠. 생각없이 넣어둔 화염말벌의 알 한 개면, 안에 있는 모든 음식을 썩히기에 충분할 것입니다.</AA_FireWasp.description>
+  <AA_FireWasp.description>화염 말벌은 불타는 살점과 초목을 먹고 사는 포식동물입니다. 인간에게는 특별히 위협적이지 않지만 정착민들의 소중한 애완동물 정도는 순식간에 잡아먹을 수 있습니다. 이것들의 알은 수정 여부와는 상관 없이 강한 열을 발산하기에 위험합니다. 근처에 있는 물건에 불을 붙일 수 있을 정도로 말이죠. 생각없이 넣어둔 화염 말벌의 알 한 개면, 안에 있는 모든 음식을 썩히기에 충분할 것입니다.</AA_FireWasp.description>
   <AA_FireWasp.tools.1.label>발톱</AA_FireWasp.tools.1.label>
   <AA_FissionMouse.label>세포분열 쥐</AA_FissionMouse.label>
   <AA_FissionMouse.description>일반적으로는 그냥 '쥐'라고 불리는 이 생물은, 사실 이족보행하는 꼬리 달린 캥거루 쥐에 더 가깝습니다.\n\n이들은 인간 유전공학의 또다른 실험 결과물로, 아마도 실험 목적은 생쥐의 내성과 수명을 늘림으로써 더욱 유용하게 만드는 것으로 보입니다. 하지만 이 실험의 예기치 못한 부작용으로 인해, 이 생물은 성별이 없게 되었습니다. 대신, 사망 시 '부모'의 기억을 공유하는 세 개의 복제동물이 탄생합니다.\n\n물론 이렇게 급속한 세포분열은 몸에 매우 해롭습니다. 만약 이러한 분열이 자주 발생한다면, 얼마 지나지 않아 결국 쥐는 생체기능을 잃고 끝내는 죽고 말 것입니다.\n\nFeroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그녀의 인스타그램을 확인하세요).</AA_FissionMouse.description>
@@ -805,11 +803,7 @@ Feroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그�
   <AA_InfectedAerofleet.tools.1.label>촉수</AA_InfectedAerofleet.tools.1.label>
   <AA_InfectedAerofleet.comps.0.customString>분열 생식: </AA_InfectedAerofleet.comps.0.customString>
   <AA_IronhuskBeetle.label>철갑 딱정벌레</AA_IronhuskBeetle.label>
-  <AA_IronhuskBeetle.description>철갑 벌레는 변경계의 수많은 광산회사들 중 한 곳에 의해 탄생한 유전조작 생명체입니다. 채굴작업에 중장비가 반드시 필요하다는 고정관념을 깨트린 상당히 온순한 가축이며 일정 주기마다 강철로 활용할 수 있는 금속 껍질을 탈피합니다.
-
-유일한 단점은 엄청난 양의 생나무를 섭취한다는 것인데, 철갑 벌레를 고안한 광산회사는 원할한 판매를 위해 이 중대한 사실을 설명하지 않았고, 이 이기적인 판단은 변경계의 많은 행성들을 불모지로 만들어버리는 재앙을 초래하게 되었습니다.
-
-텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious/).</AA_IronhuskBeetle.description>
+  <AA_IronhuskBeetle.description>철갑 벌레는 변경계의 수많은 광산 회사들 중 한 곳에서 창조된 유전자 조작 생명체입니다. 채굴 작업에 중장비가 필수라는 통념을 깨고, 온순한 가축으로서 주기적으로 강철로 사용 가능한 금속 껍데기를 탈피합니다. 단점은 엄청난 양의 생나무를 섭취한다는 점인데, 철갑 딱정벌레를 개발한 광산 회사는 원활한 판매를 위해 이 중요한 사실을 공개하지 않았습니다.\n\n이러한 이기적인 결정은 변경계의 많은 행성들을 불모지로 전락시키는 재앙을 불러왔습니다.\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious/)</AA_IronhuskBeetle.description>
   <AA_IronhuskBeetle.tools.1.label>머리</AA_IronhuskBeetle.tools.1.label>
   <AA_Junglelisk.label>정글리스크</AA_Junglelisk.label>
   <AA_Junglelisk.description>정글리스크는 변경계의 깊은 정글에서나 발견되는 일종의 돌연변이 페라리스크입니다. 일부 학자들은 정글리스크가 다른 모든 거미종들의 시조라고 주장하는데, 그런 추측이 합당할만큼 빠르게 번식합니다. 정글리스크는 매번 번식시도를 할 필요없이 단 한번의 사정으로도 체내에 오랫동안 수컷의 유전 물질을 저장하여 유정란을 만들기 위해 사용할 수 있습니다.
@@ -977,18 +971,18 @@ Feroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그�
   <AA_Radyak.tools.0.label>머리</AA_Radyak.tools.0.label>
   <AA_Radyak.tools.1.label>왼쪽 발굽</AA_Radyak.tools.1.label>
   <AA_Radyak.tools.2.label>오른쪽 발굽</AA_Radyak.tools.2.label>
-  <AA_RaptorShrimp.label>랩터쉬림프</AA_RaptorShrimp.label>
+  <AA_RaptorShrimp.label>랩터 쉬림프</AA_RaptorShrimp.label>
   <AA_RaptorShrimp.description>유전 조작된 거대 생명체이며 그 기원은 알 수가 없습니다. 주로 열대지방에 서식지를 마련하는 것으로 알려져 있는데, 지역 주민들의 이야기에 따르면 이 서식지 근처를 지나는 사람들이 종종 실종되었으며 시체조차 찾을 수 없었다는 이야기가 전해져 내려옵니다. 
 
 이 괴물들과 마주친 뒤 살아남은 극소수 생존자들의 증언에 따르면, 총탄이 하등 쓸모가 없어 동료들의 팔다리가 찢겨나가는 것을 지켜보는 수 밖에 없었으며, 생김새를 묻는 질문에 "수풀 사이에... 눈이 달려있었다." 라고 답을 합니다.
 
-랩터쉬림프는 지독한 재생능력을 가지고 있기 때문에 "정말 완벽하게" 죽였다고 생각될 때까지는 속단해선 안됩니다.
+랩터 쉬림프는 지독한 재생능력을 가지고 있기 때문에 "정말 완벽하게" 죽였다고 생각될 때까지는 속단해선 안됩니다.
 
 텍스처 지원: prayogaardip, courtesy of Oskar Potocki.</AA_RaptorShrimp.description>
   <AA_RaptorShrimp.tools.0.label>머리</AA_RaptorShrimp.tools.0.label>
   <AA_RaptorShrimp.tools.2.label>왼쪽 칼날</AA_RaptorShrimp.tools.2.label>
   <AA_RaptorShrimp.tools.3.label>오른쪽 칼날</AA_RaptorShrimp.tools.3.label>
-  <AA_RaptorShrimp.race.meatLabel>랩터쉬림프 속살</AA_RaptorShrimp.race.meatLabel>
+  <AA_RaptorShrimp.race.meatLabel>랩터 쉬림프 속살</AA_RaptorShrimp.race.meatLabel>
   <AA_Ravager.label>유린자</AA_Ravager.label>
   <AA_Ravager.description>유린자라 불리는 이 대형 곤충은 메카노이드의 침공에 맞서기 위해 유전공학을 통해 탄생한 "검은 둥지"의 일원입니다. 유린자는 드롭포드를 가득 채운 뒤 적 선박에 발사하는 형태로 활용된 우주 생물학 병기이며, 배의 도금판을 찢고 내부의 메카노이드들을 완전히 파괴하는데 사용되었습니다. 그러나 불확실한 행동 패턴으로 재생산을 위한 유전자는 폐기되었습니다.\n\n세월이 흘러 일부 약탈자들은 버려진 우주선, 우주 정거장, 소행성 등에서 발견될 수 있습니다. 다행히 이들은 우주 생활에 완벽하게 적응했기 때문에, 지상의 다른 검은 둥지 구성원들과는 독립적으로 존재합니다.\n\n&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 메카노이드와의 전투 시 추가 피해를 입힙니다.</AA_Ravager.description>
   <AA_Ravager.tools.0.label>세 개의 위</AA_Ravager.tools.0.label>
@@ -1113,7 +1107,7 @@ Feroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그�
   <AA_TarGuzzler.tools.1.label>오른쪽 발톱</AA_TarGuzzler.tools.1.label>
   <AA_TarGuzzler.tools.2.label>벌어진 입</AA_TarGuzzler.tools.2.label>
   <AA_TarGuzzler.tools.3.label>머리</AA_TarGuzzler.tools.3.label>
-  <AA_TeratogenicOriginator.label>기형 생명공학체</AA_TeratogenicOriginator.label>
+  <AA_TeratogenicOriginator.label>기형 시조</AA_TeratogenicOriginator.label>
   <AA_TeratogenicOriginator.description>이 비정형적인 살색 생물은 본능에 따라 느릿느릿 움직이며, 종종 접촉하는 식물을 삼켜서 자신의 세포질에 포함시킵니다. 반투명한 탓에 몸속에 팔다리로 보이는 고깃덩이가 떠다니고 있는 것을 손쉽게 볼 수 있습니다.\n\n기형시조는 막대한 양의 분열 가능한 만능 줄기 세포 클론 집합체입니다. 이식에 사용할 장기와 신체부위를 배양하기 위하여 비윤리적인 과학자 집단에 의해 개발되었으나, 마냥 성공적이지는 않았습니다. 어찌되었든 이 이상한 돌연변이 생물에게서 사지를 추출하여 사용할 수 있습니다.</AA_TeratogenicOriginator.description>
   <AA_TeratogenicOriginator.tools.0.label>촉수</AA_TeratogenicOriginator.tools.0.label>
   <AA_TeratogenicOriginator.comps.0.customString>복제: </AA_TeratogenicOriginator.comps.0.customString>
@@ -1124,7 +1118,7 @@ Feroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그�
   <AA_Terramorph.tools.0.label>송곳니</AA_Terramorph.tools.0.label>
   <AA_Terramorph.tools.1.label>머리</AA_Terramorph.tools.1.label>
   <AA_TetraSlug.label>테트라슬러그</AA_TetraSlug.label>
-  <AA_TetraSlug.description>번화계 지역에서는 흔히 볼 수 있는 이 거대한 민달팽이들은 육중한 이동식 발전소이며 번화계 탐사팀을 위한 휴대용 발전기이기도 합니다. 그 쓰임새 때문에 등 위로 돌출된 전력원 "아이코닉 동력 코어"가 없는 개체는 매우 드뭅니다. 동력 코어의 전력 발생량은 자연적인 전력원을 훨씬 능가하기 때문에 은하 전역의 모든 발전된 문명들 사이에서 비싸게 거래되곤 합니다.\n\n본디 싸움보다는 도망가기를 좋아하는 온화한 거대 생물이지만 튼튼한 플라스틸 외피와 테슬라 캐논 역할을 할 수 있는 아이코닉 쿼드 코어, 그리고 뇌에 삽입된 전술 AI로 인해 주변에서 감지된 위협들을 제거하기를 주저하지 않는 냉혹한 포식자가 되기도 합니다.\n\n적절한 장비를 갖춘 테트라 슬러그는 주변에 있는 축전지를 천천히 충전시킬 것입니다. (대부분의 축전지모드와 호환됩니다.)</AA_TetraSlug.description>
+  <AA_TetraSlug.description>번화계 지역에서는 흔히 볼 수 있는 이 거대한 민달팽이들은 육중한 이동식 발전소이며 번화계 탐사팀을 위한 휴대용 발전기이기도 합니다. 그 쓰임새 때문에 등 위로 돌출된 전력원 "아이코닉 동력 코어"가 없는 개체는 매우 드뭅니다. 동력 코어의 전력 발생량은 자연적인 전력원을 훨씬 능가하기 때문에 은하 전역의 모든 발전된 문명들 사이에서 비싸게 거래되곤 합니다.\n\n본디 싸움보다는 도망가기를 좋아하는 온화한 거대 생물이지만 튼튼한 플라스틸 외피와 테슬라 캐논 역할을 할 수 있는 아이코닉 쿼드 코어, 그리고 뇌에 삽입된 전술 AI로 인해 주변에서 감지된 위협들을 제거하기를 주저하지 않는 냉혹한 포식자가 되기도 합니다.\n\n적절한 장비를 갖춘 테트라슬러그는 주변에 있는 축전지를 천천히 충전시킬 것입니다. (대부분의 축전지모드와 호환됩니다.)</AA_TetraSlug.description>
   <AA_TetraSlug.tools.0.label>몸통</AA_TetraSlug.tools.0.label>
   <AA_TetraSlug.verbs.0.label>쿼드 테슬라 캐논</AA_TetraSlug.verbs.0.label>
   <AA_Thermadon.label>테르마돈</AA_Thermadon.label>
@@ -1186,7 +1180,7 @@ Feroxiious의 작품입니다 (https://www.instagram.com/feroxiious/에서 그�
   <AA_ElderAlienTree.description>이 나무는 외계종임이 분명하며, 탄소 기반 유기물이 아닌 것 같습니다. 그리고 지구 환경에 노출되어 자라기 위해 애쓰고 있는 것처럼 보입니다. 눈알을 닮은 이상한 과일이 나무에 매달려 있지만, 아마 먹을 수 없을 것입니다. 나무는 강하고 달콤한 향기를 발산합니다. 다른 나무들보다 더 큰 것 같고, 혼란과 절망의 분위기를 풍기고 있습니다. 현실의 구조가 이것을 중심으로 풀리고 있는 것 같습니다.\n\n&lt;color=#b51509>경고:&lt;/color>이것은 재미있는 기능이지만, 기본 게임의 생태 조작 함선 파편만큼 렉을 유발할 수 있습니다.</AA_ElderAlienTree.description>
   <AA_BlackScarab_Temporary.label>소환된 블랙 스캐럽</AA_BlackScarab_Temporary.label>
   <AA_BlackScarab_Temporary.description>유전공학으로 만들어진 이 거대한 딱정벌레는 메카노이드의 침입에 대항하기 위해 고안된 '검은 둥지'의 일원입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 개중 블랙 스캐럽은 적의 주의를 끌기 위해 곤충무리에 앞서 나타나는 첨병입니다. 곤충사회의 생물체는 개별적으로 번식할 수 없습니다.\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BlackScarab_Temporary.description>
-  <AA_BlackScarab_Temporary.tools.0.label>턱</AA_BlackScarab_Temporary.tools.0.label>
+  <AA_BlackScarab_Temporary.tools.0.label>하악골</AA_BlackScarab_Temporary.tools.0.label>
   <AA_BlackScarab_Temporary.tools.1.label>머리</AA_BlackScarab_Temporary.tools.1.label>
   <AA_BlackSpelopede_Temporary.label>소환된 블랙 스펠로피드</AA_BlackSpelopede_Temporary.label>
   <AA_BlackSpelopede_Temporary.description>메카노이드에 대항하기 위해 개량된 적당한 크기의 생체공학 곤충입니다. '검은 둥지'는 매우 호전적이며, 인공적으로 개량된 돌연변이 곤충들로 인해 매우 위협적입니다. 스펠로피드는 둥지의 중간계급으로, 거의 모든 작업을 수행할 수 있으며 날카로운 발톱으로 전투에서도 활약합니다. 확실히 위협적이기는 하지만 평지에서의 이동속도는 다소 느린 편입니다.\n\n텍스처 지원: Feroxiious (https://www.instagram.com/feroxiious)</AA_BlackSpelopede_Temporary.description>
