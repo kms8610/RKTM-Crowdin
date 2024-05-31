@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AA_ExtractUranium.label>process uranium crystals</AA_ExtractUranium.label>
+  <AA_ExtractUranium.description>Extract uranium from .</AA_ExtractUranium.description>
+  <AA_ExtractUranium.jobString>Extracting useful materials from unrefined uranium crystals.</AA_ExtractUranium.jobString>
+  <AA_BlueGel_To_Hexagel.label>Compress blue gel to hexagel.</AA_BlueGel_To_Hexagel.label>
+  <AA_BlueGel_To_Hexagel.description>Make a crystallized cube of hexagel by compressing blue gel under high pressure.</AA_BlueGel_To_Hexagel.description>
+  <AA_BlueGel_To_Hexagel.jobString>Compressing blue gel.</AA_BlueGel_To_Hexagel.jobString>
+  <AA_Make_HexagelCore.label>Make hexagel cores.</AA_Make_HexagelCore.label>
+  <AA_Make_HexagelCore.description>Craft hexagel cores using hexagel and uranium as a stabilizer.</AA_Make_HexagelCore.description>
+  <AA_Make_HexagelCore.jobString>Crafting hexagel cores.</AA_Make_HexagelCore.jobString>
+  <AA_InstallMutantLeg.label>install mutant leg</AA_InstallMutantLeg.label>
+  <AA_InstallMutantLeg.description>Install a mutant leg.</AA_InstallMutantLeg.description>
+  <AA_InstallMutantLeg.jobString>Installing mutant leg.</AA_InstallMutantLeg.jobString>
+  <AA_InstallMutantArm.label>install mutant arm</AA_InstallMutantArm.label>
+  <AA_InstallMutantArm.description>Install a mutant arm.</AA_InstallMutantArm.description>
+  <AA_InstallMutantArm.jobString>Installing mutant arm.</AA_InstallMutantArm.jobString>
+  <AA_InstallMutantEye.label>install mutant eye</AA_InstallMutantEye.label>
+  <AA_InstallMutantEye.description>Install a mutant eye.</AA_InstallMutantEye.description>
+  <AA_InstallMutantEye.jobString>Installing mutant eye.</AA_InstallMutantEye.jobString>
+  <AA_ShutDownMechanoid.label>shut down</AA_ShutDownMechanoid.label>
+  <AA_ShutDownMechanoid.description>Shuts down a mechanoid.</AA_ShutDownMechanoid.description>
+  <AA_ShutDownMechanoid.jobString>Shutting down mechanoid.</AA_ShutDownMechanoid.jobString>
+  <AA_InstallOmniscientEye.label>install omniscient eye</AA_InstallOmniscientEye.label>
+  <AA_InstallOmniscientEye.description>Install an omniscient eye.</AA_InstallOmniscientEye.description>
+  <AA_InstallOmniscientEye.jobString>Installing omniscient eye.</AA_InstallOmniscientEye.jobString>
+  <AA_InstallRecalcitrantEye.label>install recalcitrant eye</AA_InstallRecalcitrantEye.label>
+  <AA_InstallRecalcitrantEye.description>Install a recalcitrant eye.</AA_InstallRecalcitrantEye.description>
+  <AA_InstallRecalcitrantEye.jobString>Installing recalcitrant eye.</AA_InstallRecalcitrantEye.jobString>
+  <AA_InstallQuiescentEye.label>install quiescent eye</AA_InstallQuiescentEye.label>
+  <AA_InstallQuiescentEye.description>Install a quiescent eye.</AA_InstallQuiescentEye.description>
+  <AA_InstallQuiescentEye.jobString>Installing quiescent eye.</AA_InstallQuiescentEye.jobString>
+  <AA_InstallNumbingEye.label>install numbing eye</AA_InstallNumbingEye.label>
+  <AA_InstallNumbingEye.description>Install a numbing eye.</AA_InstallNumbingEye.description>
+  <AA_InstallNumbingEye.jobString>Installing numbing eye.</AA_InstallNumbingEye.jobString>
+  <AA_InstallSpasmodicEye.label>install spasmodic eye</AA_InstallSpasmodicEye.label>
+  <AA_InstallSpasmodicEye.description>Install an spasmodic eye.</AA_InstallSpasmodicEye.description>
+  <AA_InstallSpasmodicEye.jobString>Installing spasmodic eye.</AA_InstallSpasmodicEye.jobString>
+  <AA_InstallMeretriciousEye.label>install meretricious eye</AA_InstallMeretriciousEye.label>
+  <AA_InstallMeretriciousEye.description>Install a meretricious eye.</AA_InstallMeretriciousEye.description>
+  <AA_InstallMeretriciousEye.jobString>Installing meretricious eye.</AA_InstallMeretriciousEye.jobString>
+  <AA_InstallHeuristicEye.label>install heuristic eye</AA_InstallHeuristicEye.label>
+  <AA_InstallHeuristicEye.description>Install a heuristic eye.</AA_InstallHeuristicEye.description>
+  <AA_InstallHeuristicEye.jobString>Installing heuristic eye.</AA_InstallHeuristicEye.jobString>
+  <RB_MakeSynthreadCloth.label>weave eleven synthread cloth from silk</RB_MakeSynthreadCloth.label>
+  <RB_MakeSynthreadCloth.description>weave synthread cloth from Synthread Silk and plasteel thread. \n\nMakes 11 cloth.</RB_MakeSynthreadCloth.description>
+  <RB_MakeSynthreadCloth.jobString>weaving synthread cloth.</RB_MakeSynthreadCloth.jobString>
+  <RB_MakeHyperweaveCloth.label>weave fifteen hyperweave cloth from silk</RB_MakeHyperweaveCloth.label>
+  <RB_MakeHyperweaveCloth.description>weave hyperweave cloth from hyperweave Silk and plasteel thread. \n\nMakes 15 cloth.</RB_MakeHyperweaveCloth.description>
+  <RB_MakeHyperweaveCloth.jobString>weaving hyperweave cloth.</RB_MakeHyperweaveCloth.jobString>
+</LanguageData>
