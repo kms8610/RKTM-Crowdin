@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlasteelSternum.label>plasteel sternum</PlasteelSternum.label>
+  <PlasteelSternum.labelNoun>a plasteel sternum</PlasteelSternum.labelNoun>
+  <PlasteelSternum.description>An installed plasteel sternum.</PlasteelSternum.description>
+  <PlasteelClavicle.label>plasteel clavicle</PlasteelClavicle.label>
+  <PlasteelClavicle.labelNoun>a plasteel clavicle</PlasteelClavicle.labelNoun>
+  <PlasteelClavicle.description>An installed plasteel clavicle.</PlasteelClavicle.description>
+  <PlasteelHumerus.label>plasteel humerus</PlasteelHumerus.label>
+  <PlasteelHumerus.labelNoun>a plasteel humerus</PlasteelHumerus.labelNoun>
+  <PlasteelHumerus.description>An installed plasteel humerus.</PlasteelHumerus.description>
+  <PlasteelRadius.label>plasteel radius</PlasteelRadius.label>
+  <PlasteelRadius.labelNoun>a plasteel radius</PlasteelRadius.labelNoun>
+  <PlasteelRadius.description>An installed plasteel radius.</PlasteelRadius.description>
+  <PlasteelFemur.label>plasteel femur</PlasteelFemur.label>
+  <PlasteelFemur.labelNoun>a plasteel femur</PlasteelFemur.labelNoun>
+  <PlasteelFemur.description>An installed plasteel femur.</PlasteelFemur.description>
+  <PlasteelTibia.label>plasteel tibia</PlasteelTibia.label>
+  <PlasteelTibia.labelNoun>a plasteel tibia</PlasteelTibia.labelNoun>
+  <PlasteelTibia.description>An installed plasteel tibia.</PlasteelTibia.description>
+  <SimpleProstheticSternum.label>prosthetic sternum</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.labelNoun>a prosthetic sternum</SimpleProstheticSternum.labelNoun>
+  <SimpleProstheticSternum.description>An installed prosthetic sternum.</SimpleProstheticSternum.description>
+  <SimpleProstheticClavicle.label>prosthetic clavicle</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.labelNoun>a prosthetic clavicle</SimpleProstheticClavicle.labelNoun>
+  <SimpleProstheticClavicle.description>An installed prosthetic clavicle.</SimpleProstheticClavicle.description>
+  <SimpleProstheticHumerus.label>prosthetic humerus</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.labelNoun>a prosthetic humerus</SimpleProstheticHumerus.labelNoun>
+  <SimpleProstheticHumerus.description>An installed prosthetic humerus.</SimpleProstheticHumerus.description>
+  <SimpleProstheticRadius.label>prosthetic radius</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.labelNoun>a prosthetic radius</SimpleProstheticRadius.labelNoun>
+  <SimpleProstheticRadius.description>An installed prosthetic radius.</SimpleProstheticRadius.description>
+  <SimpleProstheticFemur.label>prosthetic femur</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.labelNoun>a prosthetic femur</SimpleProstheticFemur.labelNoun>
+  <SimpleProstheticFemur.description>An installed prosthetic femur.</SimpleProstheticFemur.description>
+  <SimpleProstheticTibia.label>prosthetic tibia</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.labelNoun>a prosthetic tibia</SimpleProstheticTibia.labelNoun>
+  <SimpleProstheticTibia.description>An installed prosthetic tibia.</SimpleProstheticTibia.description>
+  <ArchotechInternalSupport.label>archotech internal support</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.labelNoun>an archotech internal support</ArchotechInternalSupport.labelNoun>
+  <ArchotechInternalSupport.description>An installed archotech internal support.</ArchotechInternalSupport.description>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.labelNoun>an archotech arm</ArchotechArm.labelNoun>
+  <ArchotechArm.description>An installed archotech arm.</ArchotechArm.description>
+  <ArchotechForearm.label>archotech forearm</ArchotechForearm.label>
+  <ArchotechForearm.labelNoun>an archotech forearm</ArchotechForearm.labelNoun>
+  <ArchotechForearm.description>An installed archotech forearm.</ArchotechForearm.description>
+  <ArchotechHand.label>archotech hand</ArchotechHand.label>
+  <ArchotechHand.labelNoun>an archotech hand</ArchotechHand.labelNoun>
+  <ArchotechHand.description>An installed archotech hand.</ArchotechHand.description>
+  <ArchotechFinger.label>archotech finger</ArchotechFinger.label>
+  <ArchotechFinger.labelNoun>an archotech finger</ArchotechFinger.labelNoun>
+  <ArchotechFinger.description>An installed archotech finger.</ArchotechFinger.description>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>an archotech leg</ArchotechLeg.labelNoun>
+  <ArchotechLeg.description>An installed archotech leg.</ArchotechLeg.description>
+  <ArchotechFoot.label>archotech foot</ArchotechFoot.label>
+  <ArchotechFoot.labelNoun>an archotech foot</ArchotechFoot.labelNoun>
+  <ArchotechFoot.description>An installed archotech foot.</ArchotechFoot.description>
+  <ArchotechToe.label>archotech toe</ArchotechToe.label>
+  <ArchotechToe.labelNoun>an archotech toe</ArchotechToe.labelNoun>
+  <ArchotechToe.description>An installed archotech toe.</ArchotechToe.description>
+  <BionicInternalSupport.label>bionic internal support</BionicInternalSupport.label>
+  <BionicInternalSupport.labelNoun>a bionic internal support</BionicInternalSupport.labelNoun>
+  <BionicInternalSupport.description>An installed bionic internal support.</BionicInternalSupport.description>
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.labelNoun>a bionic arm</BionicArm.labelNoun>
+  <BionicArm.description>An installed bionic arm.</BionicArm.description>
+  <BionicForearm.label>bionic forearm</BionicForearm.label>
+  <BionicForearm.labelNoun>a bionic forearm</BionicForearm.labelNoun>
+  <BionicForearm.description>An installed bionic forearm.</BionicForearm.description>
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.labelNoun>a bionic hand</BionicHand.labelNoun>
+  <BionicHand.description>An installed bionic hand.</BionicHand.description>
+  <BionicFinger.label>bionic finger</BionicFinger.label>
+  <BionicFinger.labelNoun>a bionic finger</BionicFinger.labelNoun>
+  <BionicFinger.description>An installed bionic finger.</BionicFinger.description>
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.labelNoun>a bionic leg</BionicLeg.labelNoun>
+  <BionicLeg.description>An installed bionic leg.</BionicLeg.description>
+  <BionicFoot.label>bionic foot</BionicFoot.label>
+  <BionicFoot.labelNoun>a bionic foot</BionicFoot.labelNoun>
+  <BionicFoot.description>An installed bionic foot.</BionicFoot.description>
+  <BionicToe.label>bionic toe</BionicToe.label>
+  <BionicToe.labelNoun>a bionic toe</BionicToe.labelNoun>
+  <BionicToe.description>An installed bionic toe.</BionicToe.description>
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>a prosthetic arm</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.description>An installed prosthetic arm.</SimpleProstheticArm.description>
+  <SimpleProstheticForearm.label>prosthetic forearm</SimpleProstheticForearm.label>
+  <SimpleProstheticForearm.labelNoun>a prosthetic forearm</SimpleProstheticForearm.labelNoun>
+  <SimpleProstheticForearm.description>An installed prosthetic forearm.</SimpleProstheticForearm.description>
+  <SimpleProstheticHand.label>prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.labelNoun>a prosthetic hand</SimpleProstheticHand.labelNoun>
+  <SimpleProstheticHand.description>An installed prosthetic hand.</SimpleProstheticHand.description>
+  <SimpleProstheticFinger.label>prosthetic finger</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.labelNoun>a prosthetic finger</SimpleProstheticFinger.labelNoun>
+  <SimpleProstheticFinger.description>An installed prosthetic finger.</SimpleProstheticFinger.description>
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>a prosthetic leg</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.description>An installed prosthetic leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticFoot.label>prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.labelNoun>a prosthetic foot</SimpleProstheticFoot.labelNoun>
+  <SimpleProstheticFoot.description>An installed prosthetic foot.</SimpleProstheticFoot.description>
+  <SimpleProstheticToe.label>prosthetic toe</SimpleProstheticToe.label>
+  <SimpleProstheticToe.labelNoun>a prosthetic toe</SimpleProstheticToe.labelNoun>
+  <SimpleProstheticToe.description>An installed prosthetic toe.</SimpleProstheticToe.description>
+  <MakeshiftRepair.label>makeshift repair</MakeshiftRepair.label>
+  <MakeshiftRepair.labelNoun>a temporary repair to a prosthesis</MakeshiftRepair.labelNoun>
+  <MakeshiftRepair.description>This is a temporary repair to a prosthesis, it is worse than the original part, but it is better than nothing.</MakeshiftRepair.description>
+  <MSE_ModuleSlot.label>module slot</MSE_ModuleSlot.label>
+  <MSE_ModuleSlot.labelNoun>a module slot</MSE_ModuleSlot.labelNoun>
+  <MSE_ModuleSlot.description>A slot for upgrading</MSE_ModuleSlot.description>
+  <RangedPlatformModule.label>ranged platform module</RangedPlatformModule.label>
+  <RangedPlatformModule.labelNoun>a ranged platform module</RangedPlatformModule.labelNoun>
+  <RangedPlatformModule.description>An installed ranged platform module.</RangedPlatformModule.description>
+  <MeleePlatformModule.label>melee platform module</MeleePlatformModule.label>
+  <MeleePlatformModule.labelNoun>a melee platform module</MeleePlatformModule.labelNoun>
+  <MeleePlatformModule.description>An installed melee platform module.</MeleePlatformModule.description>
+  <PowerClaw.label>power claw module</PowerClaw.label>
+  <PowerClaw.labelNoun>a power claw</PowerClaw.labelNoun>
+  <PowerClaw.description>An installed power claw module.</PowerClaw.description>
+  <ModuleEfficiency_Effector.label>advanced processing module</ModuleEfficiency_Effector.label>
+  <ModuleEfficiency_Effector.labelNoun>an advanced processing module</ModuleEfficiency_Effector.labelNoun>
+  <ModuleEfficiency_Effector.description>An installed advanced processing module.</ModuleEfficiency_Effector.description>
+  <ModuleEfficiency.label>advanced processing module</ModuleEfficiency.label>
+  <ModuleEfficiency.labelNoun>an advanced processing module</ModuleEfficiency.labelNoun>
+  <ModuleEfficiency.description>An installed advanced processing module.</ModuleEfficiency.description>
+  <CraftingToolsModule.label>crafting tools module</CraftingToolsModule.label>
+  <CraftingToolsModule.labelNoun>a crafting tools module</CraftingToolsModule.labelNoun>
+  <CraftingToolsModule.description>An installed crafting tools module.</CraftingToolsModule.description>
+</LanguageData>
