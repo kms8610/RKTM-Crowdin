@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandAddExistingSubpart_Label>Add sub-part</CommandAddExistingSubpart_Label>
+  <CommandAddExistingSubpart_Description>Choose a part to add to this one's sub-parts.</CommandAddExistingSubpart_Description>
+  <CommandAddExistingSubpart_AddTo>{0} (to {1})</CommandAddExistingSubpart_AddTo>
+  <CommandAddExistingSubpart_CouldNotFindPart>Could not find a compatible part to add.</CommandAddExistingSubpart_CouldNotFindPart>
+  <Command_SetTargetLimb_Label>Select version</Command_SetTargetLimb_Label>
+  <Command_SetTargetLimb_Description>Choose what limb this will replace</Command_SetTargetLimb_Description>
+  <Command_SetTargetLimb_NoTarget>Segment</Command_SetTargetLimb_NoTarget>
+  <CommandSplitOffSubpart_Label>Remove sub-part</CommandSplitOffSubpart_Label>
+  <CommandSplitOffSubpart_Description>Choose a part to remove from this one's subparts.</CommandSplitOffSubpart_Description>
+  <CommandSplitOffSubpart_RemoveFrom>{0} (from {1})</CommandSplitOffSubpart_RemoveFrom>
+  <GoodwillChangedReason_RemovedMSE2Module>removed modules</GoodwillChangedReason_RemovedMSE2Module>
+  <LimbComplete>complete</LimbComplete>
+  <LimbSegment>segment</LimbSegment>
+  <LimbSimple>simple</LimbSimple>
+  <LimbVersion>version</LimbVersion>
+  <LimbCompatible>compatible</LimbCompatible>
+  <LimbIncompatible>not compatible</LimbIncompatible>
+  <LimbSelected> (current version)</LimbSelected>
+  <RecipeMakeSegment>make {0} segment</RecipeMakeSegment>
+  <RecipeMakeUpgrade>assemble {0}</RecipeMakeUpgrade>
+  <RecipeMakeForLimb>make complete {0} ({1})</RecipeMakeForLimb>
+  <RecipeMakeForLimbNoComparison>make complete {0}</RecipeMakeForLimbNoComparison>
+  <RecipeMakeForLimbDescription>Make {0} {1}. It will be installable on the following races: {2}.</RecipeMakeForLimbDescription>
+  <RecipeMakeForLimbJobString>Making {0} ({1}).</RecipeMakeForLimbJobString>
+  <StatsReport_ValueOfSubParts>Includes {0}: {1}</StatsReport_ValueOfSubParts>
+  <StatsReport_MassOfSubParts>Contains {0}: {1}</StatsReport_MassOfSubParts>
+  <CompIncludedChildParts_InspectStringIncludes>Includes {0} direct subparts.</CompIncludedChildParts_InspectStringIncludes>
+  <CompIncludedChildParts_InspectStringTarget>Version: {0}</CompIncludedChildParts_InspectStringTarget>
+  <CompIncludedChildParts_InspectStringMissing> ({0} missing parts)</CompIncludedChildParts_InspectStringMissing>
+  <CompIncludedChildParts_StatIncludedParts_Label>Included subparts</CompIncludedChildParts_StatIncludedParts_Label>
+  <CompIncludedChildParts_StatIncludedParts_Description>When implanted it will also install theese:</CompIncludedChildParts_StatIncludedParts_Description>
+  <CompIncludedChildParts_StatCompatibility_Label>Compatibile versions</CompIncludedChildParts_StatCompatibility_Label>
+  <CompIncludedChildParts_StatCompatibility_Value>{0} of {1}</CompIncludedChildParts_StatCompatibility_Value>
+  <CompIncludedChildParts_StatMissing_Label>Missing parts</CompIncludedChildParts_StatMissing_Label>
+  <CompIncludedChildParts_StatMissing_Description>The following parts are missing:</CompIncludedChildParts_StatMissing_Description>
+  <CompIncludedChildParts_StatMissing_Desc_None>No parts are missing.</CompIncludedChildParts_StatMissing_Desc_None>
+  <ModuleHolder_Compatible_Label>Module slots</ModuleHolder_Compatible_Label>
+  <ModuleHolder_Compatible_ReportText>The following modules can be installed in slots belonging to this bionic:</ModuleHolder_Compatible_ReportText>
+  <Bill_MedicalLimbAware_AllowIncomplete>Allow installation of incomplete prostheses.</Bill_MedicalLimbAware_AllowIncomplete>
+  <Bill_MedicalLimbAware_OnlyComplete>Only allow installation of compatible prostheses.</Bill_MedicalLimbAware_OnlyComplete>
+  <HediffHideModeSetting_Title>Hide standard sub-parts</HediffHideModeSetting_Title>
+  <HediffHideModeSetting_Description>Choose when standard subparts should be hidden in the Health Overview tab.
+ - Always: standard sub-parts will be always hidden
+ - Never: standard sub-parts will be always visible
+ - Clean: standard sub-parts will be hidden when there are no other hediffs on their part
+ - Clean or modules: standard sub-parts will be hidden when there are no other hediffs on their part or they only have modules</HediffHideModeSetting_Description>
+  <HediffHideModeSetting_Always>Always</HediffHideModeSetting_Always>
+  <HediffHideModeSetting_Never>Never</HediffHideModeSetting_Never>
+  <HediffHideModeSetting_Clean>Clean</HediffHideModeSetting_Clean>
+  <HediffHideModeSetting_CleanOrModules>Clean or modules</HediffHideModeSetting_CleanOrModules>
+  <RemoveAllFromSegmentSetting_Title>Remove all sub-parts from segment version</RemoveAllFromSegmentSetting_Title>
+  <RemoveAllFromSegmentSetting_Description>Enabling this will remove and spawn all sub-parts after switching a prosthetic to Segment version.</RemoveAllFromSegmentSetting_Description>
+  <HideModuleSlotsSetting_Title>Hide module slots</HideModuleSlotsSetting_Title>
+  <HideModuleSlotsSetting_Description>When toggled on, module slots will not be visible in the health tab.</HideModuleSlotsSetting_Description>
+</LanguageData>
