@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowProsthesesIncomplete.label>미완성품 허용</AllowProsthesesIncomplete.label>
+  <AllowProsthesesIncomplete.description>선택한 버전의 일부 하위부품이 빠진 보철물들을 허용합니다.</AllowProsthesesIncomplete.description>
+  <AllowProsthesesComplete.label>완성품 허용</AllowProsthesesComplete.label>
+  <AllowProsthesesComplete.description>어떠한 하위부품도 빠지지 않은 보철물을 허용합니다.</AllowProsthesesComplete.description>
+</LanguageData>
