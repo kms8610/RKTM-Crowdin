@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AAVPE_VenomSpit.label>venom spit</AAVPE_VenomSpit.label>
+  <AAVPE_VenomSpit.description>Generates a small blob of caustic liquid by linking a microscopic skipgate to an underground reservoir of acid. This blob is then psychically charged and accelerated in the desired direction.</AAVPE_VenomSpit.description>
+  <AAVPE_SummonBlackScarab.label>summon black scarab</AAVPE_SummonBlackScarab.label>
+  <AAVPE_SummonBlackScarab.description>Psychically skips a black scarab to help defend the colony. The black scarab will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonBlackScarab.description>
+  <AAVPE_SummonBlackSpelopede.label>summon black spelopede</AAVPE_SummonBlackSpelopede.label>
+  <AAVPE_SummonBlackSpelopede.description>Psychically skips a black spelopede to help defend the colony. The black spelopede will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonBlackSpelopede.description>
+  <AAVPE_StrengthenInsect.label>strengthen insect</AAVPE_StrengthenInsect.label>
+  <AAVPE_StrengthenInsect.description>Creates an aura of psychic power around a Black Hive insect, making it more proficient in combat.</AAVPE_StrengthenInsect.description>
+  <AAVPE_SummonBlackSpider.label>summon black spider</AAVPE_SummonBlackSpider.label>
+  <AAVPE_SummonBlackSpider.description>Psychically skips a black spider to help defend the colony. The black spider will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonBlackSpider.description>
+  <AAVPE_SummonMammothWorm.label>summon mammoth worm</AAVPE_SummonMammothWorm.label>
+  <AAVPE_SummonMammothWorm.description>Psychically skips a mammoth worm to help defend the colony. The mammoth worm will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonMammothWorm.description>
+  <AAVPE_SummonBlackQueen.label>summon black queen</AAVPE_SummonBlackQueen.label>
+  <AAVPE_SummonBlackQueen.description>Psychically skips a black queen to help defend the colony. The black queen will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonBlackQueen.description>
+  <AAVPE_SummonHive.label>summon entrance to the hive</AAVPE_SummonHive.label>
+  <AAVPE_SummonHive.description>Psychically forces a black hive insect to open a connection to the deep underground tunnels of the black hive. This hive entrance will produce black larva periodically, which will mature into random black hive insects. These are not temporary and the colonists can tame them as normal animals. Your colony can only have one hive entrance, and no more than four insects will be present at the same time.</AAVPE_SummonHive.description>
+  <AAVPE_SummonEyeling.label>summon eyeling</AAVPE_SummonEyeling.label>
+  <AAVPE_SummonEyeling.description>Uses psychic potential to rend a gaping hole between our reality and a trans-dimensional realm of pure madness, skipping one of its inhabitants into our universe. This eyeling will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonEyeling.description>
+  <AAVPE_OcularSprout.label>ocular sprout</AAVPE_OcularSprout.label>
+  <AAVPE_OcularSprout.description>Creates a wound in reality to skip several trees from a trans-dimensional realm of pure madness.</AAVPE_OcularSprout.description>
+  <AAVPE_StrikeEyes.label>destroy eyes</AAVPE_StrikeEyes.label>
+  <AAVPE_StrikeEyes.description>Psychically causes the vitreous humour inside the target's eyes to heat to a boiling point, destroying them and leaving the poor victim forever blind.</AAVPE_StrikeEyes.description>
+  <AAVPE_EyeEruption.label>ocular eruption</AAVPE_EyeEruption.label>
+  <AAVPE_EyeEruption.description>Channels a wave of psychic power to rip the flesh of the target and connect it to an extradimensional realm of pure madness. Bloated, malevolent looking eyes will tear through the skin in random places, causing an extreme amount of pain and suffering.\nThese eyes will however provide the afflicted with extra sight, making using this psycast on a friendly target a risky, but potentially very useful strategy, assuming they can be treated and removed afterwards.</AAVPE_EyeEruption.description>
+  <AAVPE_SummonOcularOriginator.label>summon ocular originator</AAVPE_SummonOcularOriginator.label>
+  <AAVPE_SummonOcularOriginator.description>Uses psychic potential to rend a gaping hole between our reality and a trans-dimensional realm of pure madness, skipping a terrifying ocular originator into our universe. The originator is not hostile, and will need to be penned by the colonists. Only one ocular originator can be on a single map. It will produce helpful eye implants every 40 days.</AAVPE_SummonOcularOriginator.description>
+  <AAVPE_SummonEyelingHorde.label>summon eyeling horde</AAVPE_SummonEyelingHorde.label>
+  <AAVPE_SummonEyelingHorde.description>Uses psychic potential to rend a gaping hole between our reality and a trans-dimensional realm of pure madness, skipping several of its inhabitants into our universe. These eyelings will stay around for a day before vanishing, and will be hostile to any enemy from outside the colony.</AAVPE_SummonEyelingHorde.description>
+  <AAVPE_GreaterOcularSprout.label>greater ocular sprout</AAVPE_GreaterOcularSprout.label>
+  <AAVPE_GreaterOcularSprout.description>Creates a wound in reality to skip an elder ocular tree from a trans-dimensional realm of pure madness. This tree will convert the land into an ocular nightmare (if Alpha Biomes is installed, it will convert terrain, as well as flora, and 30% each day it will cause red fog weather).\n\n&lt;color=#b51509>Warning:&lt;/color> This is a cool but laggy thing, as much as defoliator ship parts in the base game.</AAVPE_GreaterOcularSprout.description>
+  <AAVPE_Slice.label>savage psychic slice</AAVPE_Slice.label>
+  <AAVPE_Slice.description>Teleport a short distance to a target and slice a random body part.</AAVPE_Slice.description>
+  <AAVPE_ClawFrenzy.label>claw frenzy</AAVPE_ClawFrenzy.label>
+  <AAVPE_ClawFrenzy.description>Envelopes the caster's melee weapon on terrifyingly sharp psychic claws, striking the target with three consecutive ferocious attacks. Only usable on melee range.</AAVPE_ClawFrenzy.description>
+  <AAVPE_DisablingStrike.label>disabling strike</AAVPE_DisablingStrike.label>
+  <AAVPE_DisablingStrike.description>Psychically charges the hilt of the caster's weapon to strike with it, in an attempt to disable the target for capture. Ineffective against armour.</AAVPE_DisablingStrike.description>
+  <AAVPE_Skewer.label>skewer</AAVPE_Skewer.label>
+  <AAVPE_Skewer.description>Psychically charges the caster's weapon with an obscene amount of energy, skewering the target straight through the torso and dealing immense damage.\n\nBear in mind this psycast won't work on animals, as they are considered to lack a torso.</AAVPE_Skewer.description>
+  <AAVPE_Charge.label>leaping charge</AAVPE_Charge.label>
+  <AAVPE_Charge.description>Channels the wild energy of felines to perform a psychic jump that charges into the target, furiously striking it twice.</AAVPE_Charge.description>
+  <AAVPE_ChargeAndSkewer.label>charge and skewer</AAVPE_ChargeAndSkewer.label>
+  <AAVPE_ChargeAndSkewer.description>Charges the caster's weapon with an obscene amount of energy, and then performs a psychic jump that charges into the target, furiously striking it twice and skewering it straight through the torso, dealing immense damage.\n\nBear in mind this psycast won't work on animals, as they are considered to lack a torso.</AAVPE_ChargeAndSkewer.description>
+  <AAVPE_EmpBlow.label>EMP blow</AAVPE_EmpBlow.label>
+  <AAVPE_EmpBlow.description>Strike the target with such powerful psychic energy that it sends an electromagnetic pulse through their body. Mechanoids will adapt after one blow.</AAVPE_EmpBlow.description>
+  <AAVPE_SpinCut.label>spin cut</AAVPE_SpinCut.label>
+  <AAVPE_SpinCut.description>The caster skips a short distance and spins their melee weapon around, cutting anyone adjacent to the original target.</AAVPE_SpinCut.description>
+  <AAVPE_LegSkip.label>leg skip</AAVPE_LegSkip.label>
+  <AAVPE_LegSkip.description>Charging their weapon with psychic energy, the caster teleports besides the target and mercilessly strikes at their legs, instantly destroying them. Likely -but not always- fatal.</AAVPE_LegSkip.description>
+  <AAVPE_KO.label>KO</AAVPE_KO.label>
+  <AAVPE_KO.description>Imbues the caster's melee weapon with an overcharged pulse of psychic energy that will knock the target unconscious, with the goal of leaving no lasting damage.</AAVPE_KO.description>
+  <AAVPE_FatalBlow.label>fatal blow</AAVPE_FatalBlow.label>
+  <AAVPE_FatalBlow.description>Calling upon the latent psychic potentials of wild animals, the caster analyzes their target to find their weakest point, striking it mercilessly and killing them on the spot.</AAVPE_FatalBlow.description>
+  <AAVPE_ChemfuelNodules.label>chemfuel nodules</AAVPE_ChemfuelNodules.label>
+  <AAVPE_ChemfuelNodules.description>Skips small amounts of chemfuel inside the target's skin, carefully covering with a psychic barrier to avoid the target suffering from pain and organ rejection. When the target dies, the chemfuel nodules will explode. This change in the target is permanent.</AAVPE_ChemfuelNodules.description>
+  <AAVPE_Hover.label>hover</AAVPE_Hover.label>
+  <AAVPE_Hover.description>Confers the ability of limited psychic flight, allowing the target to hop and glide small distances over terrain. The target will ignore terrain movement costs for the duration of the ability.</AAVPE_Hover.description>
+  <AAVPE_FungalSkin.label>fungal skin</AAVPE_FungalSkin.label>
+  <AAVPE_FungalSkin.description>Causes several giant fungi to sprout from the target's skin. These fungi cause no pain to the target and provide a considerable amount of natural armor, at the cost of making the target VERY vulnerable to fire.</AAVPE_FungalSkin.description>
+  <AAVPE_WebSlinging.label>web slinging</AAVPE_WebSlinging.label>
+  <AAVPE_WebSlinging.description>Psychically generates strands of pure mental energy in the form of a glowing psy web. These webs will stun and burn the target.</AAVPE_WebSlinging.description>
+  <AAVPE_LightSustenance.label>light sustenance</AAVPE_LightSustenance.label>
+  <AAVPE_LightSustenance.description>Psychically changes the target's skin to be part plant, eliminating almost entirely their need to eat, but requiring them to be constantly exposed to light for sustenance. This change in the target is permanent, and quite traumatic.</AAVPE_LightSustenance.description>
+  <AAVPE_AcidSpit.label>acid spit</AAVPE_AcidSpit.label>
+  <AAVPE_AcidSpit.description>Creates a very powerful stream of acidic liquid that doesn't hurt the caster. This acid will cause burns on its target, as well as residual damage afterwards.</AAVPE_AcidSpit.description>
+  <AAVPE_Laser.label>concentrated light</AAVPE_Laser.label>
+  <AAVPE_Laser.description>Psychically redirects sunlight and concentrates it in a brutal laser blast.</AAVPE_Laser.description>
+  <AAVPE_Electrify.label>electrify</AAVPE_Electrify.label>
+  <AAVPE_Electrify.description>Creates an intense psychic discharge that fills the target's blood with reverse entropy potential, allowing them to recharge electrical batteries merely by being close to them. This change in the target is permanent, and quite traumatic.</AAVPE_Electrify.description>
+  <AAVPE_Regeneration.label>regeneration</AAVPE_Regeneration.label>
+  <AAVPE_Regeneration.description>Imbues the target with a psychically active field of regeneration, allowing them to heal their wounds much faster than usual.</AAVPE_Regeneration.description>
+</LanguageData>
