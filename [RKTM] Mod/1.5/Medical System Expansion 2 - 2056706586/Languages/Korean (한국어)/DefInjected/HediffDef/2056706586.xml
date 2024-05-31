@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlasteelSternum.label>플라스틸 흉골</PlasteelSternum.label>
+  <PlasteelSternum.labelNoun>플라스틸 흉골</PlasteelSternum.labelNoun>
+  <PlasteelSternum.description>플라스틸 흉골이 설치되어 있습니다.</PlasteelSternum.description>
+  <PlasteelClavicle.label>플라스틸 쇄골</PlasteelClavicle.label>
+  <PlasteelClavicle.labelNoun>플라스틸 쇄골</PlasteelClavicle.labelNoun>
+  <PlasteelClavicle.description>플라스틸 쇄골이 설치되어 있습니다.</PlasteelClavicle.description>
+  <PlasteelHumerus.label>플라스틸 상완골</PlasteelHumerus.label>
+  <PlasteelHumerus.labelNoun>플라스틸 상완골</PlasteelHumerus.labelNoun>
+  <PlasteelHumerus.description>플라스틸 상완골이 설치되어 있습니다.</PlasteelHumerus.description>
+  <PlasteelRadius.label>플라스틸 요골</PlasteelRadius.label>
+  <PlasteelRadius.labelNoun>플라스틸 요골</PlasteelRadius.labelNoun>
+  <PlasteelRadius.description>플라스틸 요골이 설치되어 있습니다.</PlasteelRadius.description>
+  <PlasteelFemur.label>플라스틸 대퇴골</PlasteelFemur.label>
+  <PlasteelFemur.labelNoun>플라스틸 대퇴골</PlasteelFemur.labelNoun>
+  <PlasteelFemur.description>플라스틸 대퇴골이 설치되어 있습니다.</PlasteelFemur.description>
+  <PlasteelTibia.label>플라스틸 경골</PlasteelTibia.label>
+  <PlasteelTibia.labelNoun>플라스틸 경골</PlasteelTibia.labelNoun>
+  <PlasteelTibia.description>플라스틸 경골이 설치되어 있습니다.</PlasteelTibia.description>
+  <SimpleProstheticSternum.label>간단한 흉골</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.labelNoun>간단한 흉골</SimpleProstheticSternum.labelNoun>
+  <SimpleProstheticSternum.description>간단한 흉골이 설치되어 있습니다.</SimpleProstheticSternum.description>
+  <SimpleProstheticClavicle.label>간단한 쇄골</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.labelNoun>간단한 쇄골</SimpleProstheticClavicle.labelNoun>
+  <SimpleProstheticClavicle.description>간단한 쇄골이 설치되어 있습니다.</SimpleProstheticClavicle.description>
+  <SimpleProstheticHumerus.label>간단한 상완골</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.labelNoun>간단한 상완골</SimpleProstheticHumerus.labelNoun>
+  <SimpleProstheticHumerus.description>간단한 상완골이 설치되어 있습니다.</SimpleProstheticHumerus.description>
+  <SimpleProstheticRadius.label>간단한 요골</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.labelNoun>간단한 요골</SimpleProstheticRadius.labelNoun>
+  <SimpleProstheticRadius.description>간단한 요골이 설치되어 있습니다.</SimpleProstheticRadius.description>
+  <SimpleProstheticFemur.label>간단한 대퇴골</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.labelNoun>간단한 대퇴골</SimpleProstheticFemur.labelNoun>
+  <SimpleProstheticFemur.description>간단한 대퇴골이 설치되어 있습니다.</SimpleProstheticFemur.description>
+  <SimpleProstheticTibia.label>간단한 경골</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.labelNoun>간단한 경골</SimpleProstheticTibia.labelNoun>
+  <SimpleProstheticTibia.description>간단한 경골이 설치되어 있습니다.</SimpleProstheticTibia.description>
+  <ArchotechInternalSupport.label>초월공학 내부 지지대</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.labelNoun>초월공학 내부 지지대.</ArchotechInternalSupport.labelNoun>
+  <ArchotechInternalSupport.description>초월공학 내부 지지대가 설치되어 있습니다.</ArchotechInternalSupport.description>
+  <ArchotechArm.label>초월공학 팔</ArchotechArm.label>
+  <ArchotechArm.labelNoun>초월공학 팔</ArchotechArm.labelNoun>
+  <ArchotechArm.description>초월공학 팔이 설치되어 있습니다.</ArchotechArm.description>
+  <ArchotechForearm.label>초월공학 팔뚝</ArchotechForearm.label>
+  <ArchotechForearm.labelNoun>초월공학 팔뚝</ArchotechForearm.labelNoun>
+  <ArchotechForearm.description>초월공학 팔뚝이 설치되어 있습니다.</ArchotechForearm.description>
+  <ArchotechHand.label>초월공학 손</ArchotechHand.label>
+  <ArchotechHand.labelNoun>초월공학 손</ArchotechHand.labelNoun>
+  <ArchotechHand.description>초월공학 손이 설치되어 있습니다.</ArchotechHand.description>
+  <ArchotechFinger.label>초월공학 손가락</ArchotechFinger.label>
+  <ArchotechFinger.labelNoun>초월공학 손가락</ArchotechFinger.labelNoun>
+  <ArchotechFinger.description>초월공학 손가락이 설치되어 있습니다.</ArchotechFinger.description>
+  <ArchotechLeg.label>초월공학 다리</ArchotechLeg.label>
+  <ArchotechLeg.labelNoun>초월공학 다리</ArchotechLeg.labelNoun>
+  <ArchotechLeg.description>초월공학 다리가 설치되어 있습니다.</ArchotechLeg.description>
+  <ArchotechFoot.label>초월공학 발</ArchotechFoot.label>
+  <ArchotechFoot.labelNoun>초월공학 발</ArchotechFoot.labelNoun>
+  <ArchotechFoot.description>초월공학 발이 설치되어 있습니다.</ArchotechFoot.description>
+  <ArchotechToe.label>초월공학 발가락</ArchotechToe.label>
+  <ArchotechToe.labelNoun>초월공학 발가락</ArchotechToe.labelNoun>
+  <ArchotechToe.description>초월공학 코가 설치되어 있습니다.</ArchotechToe.description>
+  <BionicInternalSupport.label>생체공학 내부 지지대</BionicInternalSupport.label>
+  <BionicInternalSupport.labelNoun>생체공학 내부 지지대</BionicInternalSupport.labelNoun>
+  <BionicInternalSupport.description>생체공학 내부 지지대가 설치되어 있습니다.</BionicInternalSupport.description>
+  <BionicArm.label>생체공학 팔</BionicArm.label>
+  <BionicArm.labelNoun>생체공학 팔</BionicArm.labelNoun>
+  <BionicArm.description>생체공학 팔이 설치되어 있습니다.</BionicArm.description>
+  <BionicForearm.label>생체공학 팔뚝</BionicForearm.label>
+  <BionicForearm.labelNoun>생체공학 팔뚝</BionicForearm.labelNoun>
+  <BionicForearm.description>생체공학 팔뚝이 설치되어 있습니다.</BionicForearm.description>
+  <BionicHand.label>생체공학 손</BionicHand.label>
+  <BionicHand.labelNoun>생체공학 손</BionicHand.labelNoun>
+  <BionicHand.description>생체공학 손이 설치되어 있습니다.</BionicHand.description>
+  <BionicFinger.label>생체공학 손가락</BionicFinger.label>
+  <BionicFinger.labelNoun>생체공학 손가락</BionicFinger.labelNoun>
+  <BionicFinger.description>생체공학 손가락이 설치되어 있습니다.</BionicFinger.description>
+  <BionicLeg.label>생체공학 다리</BionicLeg.label>
+  <BionicLeg.labelNoun>생체공학 다리</BionicLeg.labelNoun>
+  <BionicLeg.description>생체공학 다리가 설치되어 있습니다.</BionicLeg.description>
+  <BionicFoot.label>생체공학 발</BionicFoot.label>
+  <BionicFoot.labelNoun>생체공학 발</BionicFoot.labelNoun>
+  <BionicFoot.description>생체공학 발이 설치되어 있습니다.</BionicFoot.description>
+  <BionicToe.label>생체공학 발가락</BionicToe.label>
+  <BionicToe.labelNoun>생체공학 발가락</BionicToe.labelNoun>
+  <BionicToe.description>생체공학 발가락이 설치되어 있습니다.</BionicToe.description>
+  <SimpleProstheticArm.label>간단한 강철 의수</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>간단한 강철 의수</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticArm.description>간단한 강철 의수가 설치되어 있습니다.</SimpleProstheticArm.description>
+  <SimpleProstheticForearm.label>간단한 팔뚝</SimpleProstheticForearm.label>
+  <SimpleProstheticForearm.labelNoun>간단한 팔뚝</SimpleProstheticForearm.labelNoun>
+  <SimpleProstheticForearm.description>간단한 팔뚝이 설치되어 있습니다.</SimpleProstheticForearm.description>
+  <SimpleProstheticHand.label>간단한 손</SimpleProstheticHand.label>
+  <SimpleProstheticHand.labelNoun>간단한 손</SimpleProstheticHand.labelNoun>
+  <SimpleProstheticHand.description>간단한 손이 설치되어 있습니다.</SimpleProstheticHand.description>
+  <SimpleProstheticFinger.label>간단한 손가락</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.labelNoun>간단한 손가락</SimpleProstheticFinger.labelNoun>
+  <SimpleProstheticFinger.description>간단한 손가락이 설치되어 있습니다.</SimpleProstheticFinger.description>
+  <SimpleProstheticLeg.label>간단한 강철 의족</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>간단한 강철 의족</SimpleProstheticLeg.labelNoun>
+  <SimpleProstheticLeg.description>간단한 강철 의족이 설치되어 있습니다.</SimpleProstheticLeg.description>
+  <SimpleProstheticFoot.label>간단한 발</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.labelNoun>간단한 발</SimpleProstheticFoot.labelNoun>
+  <SimpleProstheticFoot.description>간단한 발이 설치되어 있습니다.</SimpleProstheticFoot.description>
+  <SimpleProstheticToe.label>간단한 발가락</SimpleProstheticToe.label>
+  <SimpleProstheticToe.labelNoun>간단한 발가락</SimpleProstheticToe.labelNoun>
+  <SimpleProstheticToe.description>간단한 발가락이 설치되어 있습니다.</SimpleProstheticToe.description>
+  <MakeshiftRepair.label>급조 수리</MakeshiftRepair.label>
+  <MakeshiftRepair.labelNoun>보철물 임시 수리</MakeshiftRepair.labelNoun>
+  <MakeshiftRepair.description>보철물을 임시로 수리합니다, 원래 부품보다 효율이 떨어지나, 아무것도 없는 것 보단 낫습니다.</MakeshiftRepair.description>
+  <MSE_ModuleSlot.label>장치 홈</MSE_ModuleSlot.label>
+  <MSE_ModuleSlot.labelNoun>장치 홈</MSE_ModuleSlot.labelNoun>
+  <MSE_ModuleSlot.description>업그레이드를 위한 슬롯입니다.</MSE_ModuleSlot.description>
+  <RangedPlatformModule.label>사격 기반장치</RangedPlatformModule.label>
+  <RangedPlatformModule.labelNoun>사격 기반장치</RangedPlatformModule.labelNoun>
+  <RangedPlatformModule.description>사격 기반장치가 설치되어 있습니다.</RangedPlatformModule.description>
+  <MeleePlatformModule.label>근접 기반장치</MeleePlatformModule.label>
+  <MeleePlatformModule.labelNoun>근접 기반장치</MeleePlatformModule.labelNoun>
+  <MeleePlatformModule.description>근접 기반장치가 설치되어 있습니다.</MeleePlatformModule.description>
+  <PowerClaw.label>강화 발톱 장치</PowerClaw.label>
+  <PowerClaw.labelNoun>강화 발톱</PowerClaw.labelNoun>
+  <PowerClaw.description>강화 발톱 장치가 설치되어 있습니다.</PowerClaw.description>
+  <ModuleEfficiency_Effector.label>고급 처리 장치</ModuleEfficiency_Effector.label>
+  <ModuleEfficiency_Effector.labelNoun>고급 처리 장치</ModuleEfficiency_Effector.labelNoun>
+  <ModuleEfficiency_Effector.description>고급 처리 장치가 설치되어 있습니다.</ModuleEfficiency_Effector.description>
+  <ModuleEfficiency.label>고급 처리 장치</ModuleEfficiency.label>
+  <ModuleEfficiency.labelNoun>고급 처리 장치</ModuleEfficiency.labelNoun>
+  <ModuleEfficiency.description>고급 처리 장치가 설치되어 있습니다.</ModuleEfficiency.description>
+  <CraftingToolsModule.label>제작 도구 모듈</CraftingToolsModule.label>
+  <CraftingToolsModule.labelNoun>제작 도구 모듈</CraftingToolsModule.labelNoun>
+  <CraftingToolsModule.description>제작 도구 모듈이 설치되어 있습니다.</CraftingToolsModule.description>
+</LanguageData>
