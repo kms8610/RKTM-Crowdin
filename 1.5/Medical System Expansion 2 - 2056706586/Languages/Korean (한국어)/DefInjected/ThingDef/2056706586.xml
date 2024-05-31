@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlasteelSternum.label>plasteel sternum</PlasteelSternum.label>
+  <PlasteelSternum.description>An advanced artificial sternum.</PlasteelSternum.description>
+  <PlasteelClavicle.label>plasteel clavicle</PlasteelClavicle.label>
+  <PlasteelClavicle.description>An advanced artificial clavicle.</PlasteelClavicle.description>
+  <PlasteelHumerus.label>plasteel humerus</PlasteelHumerus.label>
+  <PlasteelHumerus.description>An advanced artificial humerus.</PlasteelHumerus.description>
+  <PlasteelRadius.label>plasteel radius</PlasteelRadius.label>
+  <PlasteelRadius.description>An advanced artificial radius.</PlasteelRadius.description>
+  <PlasteelFemur.label>plasteel femur</PlasteelFemur.label>
+  <PlasteelFemur.description>An advanced artificial femur.</PlasteelFemur.description>
+  <PlasteelTibia.label>plasteel tibia</PlasteelTibia.label>
+  <PlasteelTibia.description>An advanced artificial tibia.</PlasteelTibia.description>
+  <SimpleProstheticSternum.label>prosthetic sternum</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.description>A sternum prosthesis. It is inferior to a real sternum.</SimpleProstheticSternum.description>
+  <SimpleProstheticClavicle.label>prosthetic clavicle</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.description>A clavicle prosthesis. It is inferior to a real clavicle.</SimpleProstheticClavicle.description>
+  <SimpleProstheticHumerus.label>prosthetic humerus</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.description>A humerus prosthesis. It is inferior to a real humerus.</SimpleProstheticHumerus.description>
+  <SimpleProstheticRadius.label>prosthetic radius</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.description>A radius prosthesis. It is inferior to a real radius.</SimpleProstheticRadius.description>
+  <SimpleProstheticFemur.label>prosthetic femur</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.description>A femur prosthesis. It is inferior to a real femur.</SimpleProstheticFemur.description>
+  <SimpleProstheticTibia.label>prosthetic tibia</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.description>A tibia prosthesis. It is inferior to a real tibia.</SimpleProstheticTibia.description>
+  <ArchotechInternalSupport.label>archotech internal support</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.description>An artificial internal support built by an archotech. Useful replacement to have on hand for when an internal component of an archotech prosthesis breaks.</ArchotechInternalSupport.description>
+  <ArchotechArm.label>archotech arm</ArchotechArm.label>
+  <ArchotechArm.description>An artifical arm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechArm.description>
+  <ArchotechForearm.label>archotech forearm</ArchotechForearm.label>
+  <ArchotechForearm.description>An artifical forearm built by an archotech. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechForearm.description>
+  <ArchotechHand.label>archotech hand</ArchotechHand.label>
+  <ArchotechHand.description>An artifical hand built by an archotech. It looks and feels like natural hand, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechHand.description>
+  <ArchotechFinger.label>archotech finger</ArchotechFinger.label>
+  <ArchotechFinger.description>An artifical finger built by an archotech. It looks and feels like natural finger, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechFinger.description>
+  <ArchotechLeg.label>archotech leg</ArchotechLeg.label>
+  <ArchotechLeg.description>An artifical leg built by an archotech. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds.</ArchotechLeg.description>
+  <ArchotechFoot.label>archotech foot</ArchotechFoot.label>
+  <ArchotechFoot.description>An artifical foot built by an archotech. It looks and feels like natural foot, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechFoot.description>
+  <ArchotechToe.label>archotech toe</ArchotechToe.label>
+  <ArchotechToe.description>An artifical toe built by an archotech. It looks and feels like a natural toe, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Requires archotech surgery research to install it.</ArchotechToe.description>
+  <BionicInternalSupport.label>bionic internal support</BionicInternalSupport.label>
+  <BionicInternalSupport.description>An advanced artificial internal support. Useful replacement to have on hand for when an internal component of a bionic prosthesis breaks.</BionicInternalSupport.description>
+  <BionicArm.label>bionic arm</BionicArm.label>
+  <BionicArm.description>An advanced artificial arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArm.description>
+  <BionicForearm.label>bionic forearm</BionicForearm.label>
+  <BionicForearm.description>An advanced artificial forearm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicForearm.description>
+  <BionicHand.label>bionic hand</BionicHand.label>
+  <BionicHand.description>An advanced artificial hand. With its biogel nerve-link and lattice-dust healing system, it is better than a biological hand in almost every way.</BionicHand.description>
+  <BionicFinger.label>bionic finger</BionicFinger.label>
+  <BionicFinger.description>An advanced artificial finger. With its biogel nerve-link and lattice-dust healing system, it is better than a biological finger in almost every way.</BionicFinger.description>
+  <BionicLeg.label>bionic leg</BionicLeg.label>
+  <BionicLeg.description>An advanced artificial leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way.</BionicLeg.description>
+  <BionicFoot.label>bionic foot</BionicFoot.label>
+  <BionicFoot.description>An advanced artificial foot. With its biogel nerve-link and lattice-dust healing system, it is better than a biological foot in almost every way.</BionicFoot.description>
+  <BionicToe.label>bionic toe</BionicToe.label>
+  <BionicToe.description>An advanced artificial toe. With its biogel nerve-link and lattice-dust healing system, it is better than a biological toe in almost every way.</BionicToe.description>
+  <SimpleProstheticArm.label>prosthetic arm</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>An arm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real arm.</SimpleProstheticArm.description>
+  <SimpleProstheticForearm.label>prosthetic forearm</SimpleProstheticForearm.label>
+  <SimpleProstheticForearm.description>A forearm prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real forearm.</SimpleProstheticForearm.description>
+  <SimpleProstheticHand.label>prosthetic hand</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>A hand prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real hand.</SimpleProstheticHand.description>
+  <SimpleProstheticFinger.label>prosthetic finger</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>A finger prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real finger.</SimpleProstheticFinger.description>
+  <SimpleProstheticLeg.label>prosthetic leg</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>A leg prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real leg.</SimpleProstheticLeg.description>
+  <SimpleProstheticFoot.label>prosthetic foot</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>A foot prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real foot.</SimpleProstheticFoot.description>
+  <SimpleProstheticToe.label>prosthetic toe</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>A toe prosthesis. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real toe.</SimpleProstheticToe.description>
+  <RangedPlatformModule.label>ranged platform module</RangedPlatformModule.label>
+  <RangedPlatformModule.description>An advanced ranged platform module. With stabilizer and targeting system can give your pawn great accuracy and improve your pawn's ranged combat ability.</RangedPlatformModule.description>
+  <MeleePlatformModule.label>melee platform module</MeleePlatformModule.label>
+  <MeleePlatformModule.description>An advanced melee platform module. With sensory motor and targeting system can give your pawn great melee damage and improve your pawn's melee combat ability.</MeleePlatformModule.description>
+  <PowerClaw.label>power claw module</PowerClaw.label>
+  <PowerClaw.description>A combat-oriented hand module that adds hooked claws on each of its fingers. It cuts deep, and it improves strength enough to crush a skull like a hand crushes an egg. The claws can be retracted, to not impede non-combat tasks, however its overall ungainlyness slows down movement slightly.</PowerClaw.description>
+  <ModuleEfficiency.label>advanced processing module</ModuleEfficiency.label>
+  <ModuleEfficiency.description>Extra processing power to optimize and boost the performance of a bionic prosthesis. It will improve the efficiency of the part it is installed on and of any connected bionics.</ModuleEfficiency.description>
+  <CraftingToolsModule.label>crafting tools module</CraftingToolsModule.label>
+  <CraftingToolsModule.description>A crafting tools module. Provides screwdrivers, shears, welders and other miniaturized mechanical tools to help with smithing, producing items and building. The tools can be retracted to allow normal functionality of the part, however its overall ungainlyness slows down movement slightly.</CraftingToolsModule.description>
+</LanguageData>
