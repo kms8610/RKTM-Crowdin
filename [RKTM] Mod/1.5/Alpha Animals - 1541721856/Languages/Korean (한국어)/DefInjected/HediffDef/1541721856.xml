@@ -14,11 +14,11 @@
   <AA_Nocturnal.description>더 이상 사용되지 않는 야행성 동물 Hediff. 이것은 게임 내에서 나타나지 않아야 합니다.</AA_Nocturnal.description>
   <AA_LockJawDisease.description>턱에 발생한 염증은 불편함과 고통을 동반하는 질환으로, 씹거나 말하는 데 큰 어려움을 줍니다. 적절한 조치를 몇 차례 취하면 곧 호전될 것입니다.</AA_LockJawDisease.description>
   <AA_LockJawDisease.label>파상풍</AA_LockJawDisease.label>
-  <AA_Paralysis.description>정맥을 타고 빠르게 작용하는 독소가 근육을 마비시키고 있습니다. 잠시 후 증상이 완화될 것입니다.</AA_Paralysis.description>
+  <AA_Paralysis.description>생명체의 정맥을 타고 빠르게 작용하는 독소가 근육을 마비시키고 있습니다. 잠시 후 증상이 완화될 것입니다.</AA_Paralysis.description>
   <AA_Paralysis.label>마비</AA_Paralysis.label>
   <AA_Paralysis.stages.0.label>초기</AA_Paralysis.stages.0.label>
-  <AA_Paralysis.stages.1.label>심각함</AA_Paralysis.stages.1.label>
-  <AA_Paralysis.stages.2.label>극심함</AA_Paralysis.stages.2.label>
+  <AA_Paralysis.stages.1.label>기절함</AA_Paralysis.stages.1.label>
+  <AA_Paralysis.stages.2.label>의식불명</AA_Paralysis.stages.2.label>
   <AA_Paralysis.stages.3.label>마비됨</AA_Paralysis.stages.3.label>
   <AA_Electric.description>위험한 전기 충격입니다. 심장에 손상을 줄 수 있고, 강도가 높아질 경우 심장마비의 위험이 커집니다.</AA_Electric.description>
   <AA_Electric.label>전기 충격</AA_Electric.label>
@@ -26,10 +26,10 @@
   <AA_Electric.stages.1.label>감전됨</AA_Electric.stages.1.label>
   <AA_Electric.stages.2.label>심각한 감전</AA_Electric.stages.2.label>
   <AA_Electric.stages.3.label>마비됨</AA_Electric.stages.3.label>
-  <AA_ToxicBuildup.description>혈류에 독이 흐르고 있습니다. 환경적인 요인으로 시작해, 독성이 있는 물림 혹은 독이 묻은 무기 등, 다양한 이유로 일어날 수 있습니다.
-\n대량의 독은 매우 위험하며, 소량의 독으로도 암을 발생시킬 수 있습니다.
-\n유독성 낙진의 중독과는 다르게, 이 맹독으로 죽은 생물은 먹을 수 있습니다.</AA_ToxicBuildup.description>
-  <AA_ToxicBuildup.label>중독</AA_ToxicBuildup.label>
+  <AA_ToxicBuildup.description>독이 몸에 퍼질 수 있는 원인은 환경적 요인이나 독성 물질의 체내 유입 등 다양합니다.
+\n소량의 독도 암을 유발할 수 있고, 대량의 독이 체내에 들어오면 인체에 치명적일 수 있습니다.
+\n유독성 낙진에 의한 중독과 달리, 이 독에 의해 죽은 생물은 섭취가 가능합니다.</AA_ToxicBuildup.description>
+  <AA_ToxicBuildup.label>독 축적됨</AA_ToxicBuildup.label>
   <AA_ToxicBuildup.stages.0.label>초기</AA_ToxicBuildup.stages.0.label>
   <AA_ToxicBuildup.stages.1.label>초기</AA_ToxicBuildup.stages.1.label>
   <AA_ToxicBuildup.stages.2.label>가벼움</AA_ToxicBuildup.stages.2.label>
