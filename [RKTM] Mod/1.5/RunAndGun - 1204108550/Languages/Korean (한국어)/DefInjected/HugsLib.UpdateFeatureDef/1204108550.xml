@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <RunAndGun_1_17_6.modNameReadable>RunAndGun</RunAndGun_1_17_6.modNameReadable>
-  <RunAndGun_1_17_6.content>RunAndGun has been updated with the following changes: 
-- The RunAndGun movement penalty now depends on how heavy weapons are. What are considered heavy weapons and the penalty per weapon type can be configured in the mod options. 
-- Added a mod option that can be used to set the chance that enemy pawns will use RunAndGun while fleeing. 
-- Improved compatibility with non-human races. 
-- Changed the position of the RunAndGun button. 
-		</RunAndGun_1_17_6.content>
-  <RunAndGun_1_18_2.modNameReadable>런앤건</RunAndGun_1_18_2.modNameReadable>
-  <RunAndGun_1_18_2.content>RunAndGun has been updated with the following changes: 
-- Tabs are added to the mods settings 
-- New mod option is added that allows users to forbid RunAndGun for certain weapons. This also applies to the weapons used by enemy pawns.
-- Pawns can no longer RunAndGun while burning
-- Fixed issue that caused the weapon cooldown to be circumvented when a pawn stops moving while running and gunning.
-- Korean translations added
-		</RunAndGun_1_18_2.content>
-  <RunAndGun_1_18_3.modNameReadable>런앤건</RunAndGun_1_18_3.modNameReadable>
-  <RunAndGun_1_18_3.content>RunAndGun has been updated with the following changes: 
-- Weapon selector for forbidding and in the mod settings has been completely re-implemented to a more user-friendly design. 
-- When mods that add new weapons are installed, the weight filter is applied automatically so new weapons are generally configured well from now on. 
-- Unfortunately, anything configured in the previous version of the weapon selector has to be re-configured. 
-		</RunAndGun_1_18_3.content>
-  <RunAndGun_2_0_0.modNameReadable>런앤건</RunAndGun_2_0_0.modNameReadable>
-  <RunAndGun_2_0_0.content>
-RunAndGun has been updated to support Rimworld version 1.1 (including the expansion). Credits for this update go to Ogliss. Thanks to this amazing community my mods are being kept alive!
-This version also supports Rimworld 1.0, so no need to worry if you're still using that version. 
-		</RunAndGun_2_0_0.content>
+  <RunAndGun_1_17_6.content>RunAndGun이 다음과 같이 변경되었습니다:
+- RunAndGun 이동 불이익은 이제 무거운 무기가 얼마나 많은 지에 달려 있습니다. 무거운 무기로 간주되는 무기 종류별 불이익은 모드 설정에서 구성할 수 있습니다.
+- 도주하는 동안 적들이 RunAndGun을 사용할 기회를 설정하는 데 사용할 수 있는 모드 설정이 추가되었습니다.
+- 비인간 종족과의 호환성이 향상 되었습니다.
+- RunAndGun 버튼의 위치를 변경했습니다.</RunAndGun_1_17_6.content>
+  <RunAndGun_1_18_2.modNameReadable>RunAndGun</RunAndGun_1_18_2.modNameReadable>
+  <RunAndGun_1_18_2.content>RunAndGun이 다음과 같이 변경되었습니다:
+- 탭이 모드 설정에 추가되었습니다.
+- 사용자가 특정 무기에 대하여 RunAndGun을 금지 할 수 있는 모드 설정이 추가되었습니다. 적이 사용하는 무기에도 적용됩니다.
+- 더 이상 불타고 있는 중에 RunAndGun을 하지 않습니다.
+- 무기 재사용 대기시간 중에 회피를 하면 폰들이 멈추는 문제가 수정되었습니다.
+- 한국어 번역이 추가 되었습니다.</RunAndGun_1_18_2.content>
+  <RunAndGun_1_18_3.modNameReadable>RunAndGun</RunAndGun_1_18_3.modNameReadable>
+  <RunAndGun_1_18_3.content>RunAndGun이 다음과 같이 변경되었습니다:
+- 모드 설정에서 금지 무기 선택이 완전히 사용자 친화적인 디자인으로 다시 구현되었습니다.
+- 새로운 무기를 추가하는 모드가 설치되면 자동으로 가중치 필터가 적용되므로 새로운 무기 모드와 호환이 잘 됩니다.
+- 안타깝지만, 이전 버전의 무기 선택 설정에서 구성한 모든 구성을 다시 구성해야합니다.</RunAndGun_1_18_3.content>
+  <RunAndGun_2_0_0.modNameReadable>RunAndGun</RunAndGun_2_0_0.modNameReadable>
+  <RunAndGun_2_0_0.content>RunAndGun이 Rimworld 버전 1.1(확장팩 포함)을 지원하도록 업데이트되었습니다. 이번 업데이트의 공로는 Ogliss에게 있습니다. 멋진 커뮤니티 덕분에 제 모드가 계속해서 살아남을 수 있었습니다!
+이 버전은 Rimworld 1.0도 지원하기 때문에, 해당 버전을 사용 중이신 분들도 걱정하지 않으셔도 됩니다.</RunAndGun_2_0_0.content>
 </LanguageData>
