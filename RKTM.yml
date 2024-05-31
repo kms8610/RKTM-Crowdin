@@ -1,4 +1,6 @@
 files:
   - source: '*.xml'
+    ignore:
+      - '\[RKTM] Mod'
     translation: /**/%language%/1.5/%original_path%/%original_file_name%
     content_segmentation: 0
