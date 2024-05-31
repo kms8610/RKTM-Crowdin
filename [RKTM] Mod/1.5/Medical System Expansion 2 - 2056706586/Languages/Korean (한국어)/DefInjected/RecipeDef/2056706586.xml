@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallPlasteelSternum.label>플라스틸 흉골 이식</InstallPlasteelSternum.label>
+  <InstallPlasteelSternum.description>플라스틸 흉골을 이식합니다.</InstallPlasteelSternum.description>
+  <InstallPlasteelSternum.jobString>플라스틸 흉골 이식 중.</InstallPlasteelSternum.jobString>
+  <InstallPlasteelClavicle.label>플라스틸 쇄골 이식</InstallPlasteelClavicle.label>
+  <InstallPlasteelClavicle.description>플라스틸 쇄골을 이식합니다.</InstallPlasteelClavicle.description>
+  <InstallPlasteelClavicle.jobString>플라스틸 쇄골 이식 중.</InstallPlasteelClavicle.jobString>
+  <InstallPlasteelHumerus.label>플라스틸 상완골 이식</InstallPlasteelHumerus.label>
+  <InstallPlasteelHumerus.description>플라스틸 상완골을 이식합니다.</InstallPlasteelHumerus.description>
+  <InstallPlasteelHumerus.jobString>플라스틸 상완골 이식 중.</InstallPlasteelHumerus.jobString>
+  <InstallPlasteelRadius.label>플라스틸 요골 이식</InstallPlasteelRadius.label>
+  <InstallPlasteelRadius.description>플라스틸 요골을 이식합니다.</InstallPlasteelRadius.description>
+  <InstallPlasteelRadius.jobString>플라스틸 요골 이식 중.</InstallPlasteelRadius.jobString>
+  <InstallPlasteelFemur.label>플라스틸 대퇴골 이식</InstallPlasteelFemur.label>
+  <InstallPlasteelFemur.description>플라스틸 대퇴골을 이식합니다.</InstallPlasteelFemur.description>
+  <InstallPlasteelFemur.jobString>플라스틸 대퇴골 이식 중.</InstallPlasteelFemur.jobString>
+  <InstallPlasteelTibia.label>플라스틸 경골 이식</InstallPlasteelTibia.label>
+  <InstallPlasteelTibia.description>플라스틸 경골을 이식합니다.</InstallPlasteelTibia.description>
+  <InstallPlasteelTibia.jobString>플라스틸 경골 이식 중.</InstallPlasteelTibia.jobString>
+  <InstallSimpleProstheticSternum.label>간단한 흉골 이식</InstallSimpleProstheticSternum.label>
+  <InstallSimpleProstheticSternum.description>간단한 흉골을 이식합니다.</InstallSimpleProstheticSternum.description>
+  <InstallSimpleProstheticSternum.jobString>간단한 흉골 이식 중.</InstallSimpleProstheticSternum.jobString>
+  <InstallSimpleProstheticClavicle.label>간단한 쇄골 이식</InstallSimpleProstheticClavicle.label>
+  <InstallSimpleProstheticClavicle.description>간단한 쇄골을 이식합니다.</InstallSimpleProstheticClavicle.description>
+  <InstallSimpleProstheticClavicle.jobString>간단한 쇄골 이식 중.</InstallSimpleProstheticClavicle.jobString>
+  <InstallSimpleProstheticHumerus.label>간단한 상완골 이식</InstallSimpleProstheticHumerus.label>
+  <InstallSimpleProstheticHumerus.description>간단한 상완골을 이식합니다.</InstallSimpleProstheticHumerus.description>
+  <InstallSimpleProstheticHumerus.jobString>간단한 상완골 이식 중.</InstallSimpleProstheticHumerus.jobString>
+  <InstallSimpleProstheticRadius.label>간단한 요골 이식</InstallSimpleProstheticRadius.label>
+  <InstallSimpleProstheticRadius.description>간단한 요골을 이식합니다.</InstallSimpleProstheticRadius.description>
+  <InstallSimpleProstheticRadius.jobString>간단한 요골 이식 중.</InstallSimpleProstheticRadius.jobString>
+  <InstallSimpleProstheticFemur.label>간단한 대퇴골 이식</InstallSimpleProstheticFemur.label>
+  <InstallSimpleProstheticFemur.description>간단한 대퇴골을 이식합니다.</InstallSimpleProstheticFemur.description>
+  <InstallSimpleProstheticFemur.jobString>간단한 대퇴골 이식 중.</InstallSimpleProstheticFemur.jobString>
+  <InstallSimpleProstheticTibia.label>간단한 경골 이식</InstallSimpleProstheticTibia.label>
+  <InstallSimpleProstheticTibia.description>간단한 경골을 이식합니다.</InstallSimpleProstheticTibia.description>
+  <InstallSimpleProstheticTibia.jobString>간단한 경골 이식 중.</InstallSimpleProstheticTibia.jobString>
+  <InstallArchotechInternalSupport.label>초월공학 내부 지지대 설치</InstallArchotechInternalSupport.label>
+  <InstallArchotechInternalSupport.description>초월공학 내부 지지대를 설치합니다.</InstallArchotechInternalSupport.description>
+  <InstallArchotechInternalSupport.jobString>초월공학 내부 지지대 설치 중.</InstallArchotechInternalSupport.jobString>
+  <InstallArchotechArm.label>초월공학 팔 이식</InstallArchotechArm.label>
+  <InstallArchotechArm.description>초월공학 팔을 이식합니다.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>초월공학 팔 이식 중.</InstallArchotechArm.jobString>
+  <InstallArchotechForearm.label>초월공학 팔뚝 이식</InstallArchotechForearm.label>
+  <InstallArchotechForearm.description>초월공학 팔뚝을 이식합니다.</InstallArchotechForearm.description>
+  <InstallArchotechForearm.jobString>초월공학 팔뚝 이식 중.</InstallArchotechForearm.jobString>
+  <InstallArchotechHand.label>초월공학 손 이식</InstallArchotechHand.label>
+  <InstallArchotechHand.description>초월공학 손을 이식합니다.</InstallArchotechHand.description>
+  <InstallArchotechHand.jobString>초월공학 손 이식 중.</InstallArchotechHand.jobString>
+  <InstallArchotechFinger.label>초월공학 손가락 이식</InstallArchotechFinger.label>
+  <InstallArchotechFinger.description>초월공학 손가락을 이식합니다.</InstallArchotechFinger.description>
+  <InstallArchotechFinger.jobString>초월공학 손가락 이식 중.</InstallArchotechFinger.jobString>
+  <InstallArchotechLeg.label>초월공학 다리 이식</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>초월공학 다리를 이식합니다.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>초월공학 다리 이식 중.</InstallArchotechLeg.jobString>
+  <InstallArchotechFoot.label>초월공학 발 이식</InstallArchotechFoot.label>
+  <InstallArchotechFoot.description>초월공학 발을 이식합니다.</InstallArchotechFoot.description>
+  <InstallArchotechFoot.jobString>초월공학 발 이식 중.</InstallArchotechFoot.jobString>
+  <InstallArchotechToe.label>초월공학 발가락 이식</InstallArchotechToe.label>
+  <InstallArchotechToe.description>초월공학 발가락을 이식합니다.</InstallArchotechToe.description>
+  <InstallArchotechToe.jobString>초월공학 발가락 이식 중.</InstallArchotechToe.jobString>
+  <InstallBionicInternalSupport.label>생체공학 내부 지지대 이식</InstallBionicInternalSupport.label>
+  <InstallBionicInternalSupport.description>생체공학 내부 지지대를 이식합니다.</InstallBionicInternalSupport.description>
+  <InstallBionicInternalSupport.jobString>생체공학 내부 지지대 이식 중.</InstallBionicInternalSupport.jobString>
+  <InstallBionicArm.label>생체공학 팔 이식</InstallBionicArm.label>
+  <InstallBionicArm.description>생체공학 팔을 이식합니다.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>생체공학 팔 이식 중.</InstallBionicArm.jobString>
+  <InstallBionicForearm.label>생체공학 팔뚝 이식</InstallBionicForearm.label>
+  <InstallBionicForearm.description>생체공학 팔뚝을 이식합니다.</InstallBionicForearm.description>
+  <InstallBionicForearm.jobString>생체공학 팔뚝 이식 중.</InstallBionicForearm.jobString>
+  <InstallBionicHand.label>생체공학 손 이식</InstallBionicHand.label>
+  <InstallBionicHand.description>생체공학 손을 이식합니다.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>생체공학 손 이식 중.</InstallBionicHand.jobString>
+  <InstallBionicFinger.label>생체공학 손가락 이식</InstallBionicFinger.label>
+  <InstallBionicFinger.description>생체공학 손가락을 이식합니다.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>생체공학 손가락 이식 중.</InstallBionicFinger.jobString>
+  <InstallBionicLeg.label>생체공학 다리 이식</InstallBionicLeg.label>
+  <InstallBionicLeg.description>생체공학 다리를 이식합니다.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>생체공학 다리 이식 중.</InstallBionicLeg.jobString>
+  <InstallBionicFoot.label>생체공학 발 이식</InstallBionicFoot.label>
+  <InstallBionicFoot.description>생체공학 발을 이식합니다.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>생체공학 발 이식 중.</InstallBionicFoot.jobString>
+  <InstallBionicToe.label>생체공학 발가락 이식</InstallBionicToe.label>
+  <InstallBionicToe.description>생체공학 발가락을 이식합니다.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>생체공학 발가락 이식 중.</InstallBionicToe.jobString>
+  <InstallSimpleProstheticArm.label>간단한 강철 의수 장착</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>간단한 강철 의수을 장착합니다.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>간단한 강철 의수 설치 중.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticForearm.label>간단한 팔뚝 장착</InstallSimpleProstheticForearm.label>
+  <InstallSimpleProstheticForearm.description>간단한 팔뚝을 장착합니다.</InstallSimpleProstheticForearm.description>
+  <InstallSimpleProstheticForearm.jobString>간단한 팔뚝 장착 중.</InstallSimpleProstheticForearm.jobString>
+  <InstallSimpleProstheticHand.label>간단한 손 이식</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>간단한 손을 이식합니다.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>간단한 손 이식 중.</InstallSimpleProstheticHand.jobString>
+  <InstallSimpleProstheticFinger.label>간단한 손가락 이식</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.description>간단한 손가락을 이식합니다.</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.jobString>간단한 손가락 이식 중.</InstallSimpleProstheticFinger.jobString>
+  <InstallSimpleProstheticLeg.label>간단한 강철 의족 장착</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>간단한 강철 의족을 장착합니다.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>간단한 강철 의족 설치 중.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticFoot.label>간단한 발 이식</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>간단한 발을 이식합니다.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>간단한 발 이식 중.</InstallSimpleProstheticFoot.jobString>
+  <InstallSimpleProstheticToe.label>간단한 발가락 이식</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.description>간단한 발가락을 이식합니다.</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.jobString>간단한 발가락 이식 중.</InstallSimpleProstheticToe.jobString>
+  <MakeshiftRepair.label>급조 수리</MakeshiftRepair.label>
+  <MakeshiftRepair.description>원재료를 사용하여 보철물 수리</MakeshiftRepair.description>
+  <MakeshiftRepair.jobString>보철물 수리 중.</MakeshiftRepair.jobString>
+  <MSE_RemoveModules.label>모듈 제거</MSE_RemoveModules.label>
+  <MSE_RemoveModules.description>신체부위에서 모든 모듈을 제거합니다.</MSE_RemoveModules.description>
+  <MSE_RemoveModules.jobString>모듈 제거 중.</MSE_RemoveModules.jobString>
+  <InstallRangedPlatformModule.label>사격 기반장치 설치</InstallRangedPlatformModule.label>
+  <InstallRangedPlatformModule.description>사격 기반장치를 설치합니다.</InstallRangedPlatformModule.description>
+  <InstallRangedPlatformModule.jobString>사격 기반장치 설치 중.</InstallRangedPlatformModule.jobString>
+  <InstallMeleePlatformModule.label>격투 기반장치 설치</InstallMeleePlatformModule.label>
+  <InstallMeleePlatformModule.description>격투 기반장치를 설치합니다.</InstallMeleePlatformModule.description>
+  <InstallMeleePlatformModule.jobString>격투 기반장치 설치 중</InstallMeleePlatformModule.jobString>
+  <InstallPowerClaw.label>강화 발톱 장치 설치</InstallPowerClaw.label>
+  <InstallPowerClaw.description>강화 발톱을 이식합니다.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>강화 발톱 이식 중.</InstallPowerClaw.jobString>
+  <InstallModuleEfficiency.label>고급 처리 장치 설치.</InstallModuleEfficiency.label>
+  <InstallModuleEfficiency.description>고급 처리 장치를 설치합니다.</InstallModuleEfficiency.description>
+  <InstallModuleEfficiency.jobString>고급 처리 장치 설치 중.</InstallModuleEfficiency.jobString>
+  <InstallCraftingToolsModule.label>제작 도구 모듈 설치</InstallCraftingToolsModule.label>
+  <InstallCraftingToolsModule.description>제작 도구 모듈을 설치합니다.</InstallCraftingToolsModule.description>
+  <InstallCraftingToolsModule.jobString>제작 도구 모듈 설치 중.</InstallCraftingToolsModule.jobString>
+</LanguageData>

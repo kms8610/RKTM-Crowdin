@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlasteelSternum.label>플라스틸 흉골</PlasteelSternum.label>
+  <PlasteelSternum.description>고급 인공 흉골입니다.</PlasteelSternum.description>
+  <PlasteelClavicle.label>플라스틸 쇄골</PlasteelClavicle.label>
+  <PlasteelClavicle.description>고급 인공 쇄골입니다.</PlasteelClavicle.description>
+  <PlasteelHumerus.label>플라스틸 상완골</PlasteelHumerus.label>
+  <PlasteelHumerus.description>고급 인공 상완골입니다.</PlasteelHumerus.description>
+  <PlasteelRadius.label>플라스틸 요골</PlasteelRadius.label>
+  <PlasteelRadius.description>고급 인공 요골입니다.</PlasteelRadius.description>
+  <PlasteelFemur.label>플라스틸 대퇴골</PlasteelFemur.label>
+  <PlasteelFemur.description>고급 인공 대퇴골입니다.</PlasteelFemur.description>
+  <PlasteelTibia.label>플라스틸 경골</PlasteelTibia.label>
+  <PlasteelTibia.description>고급 플라스틸 경골입니다.</PlasteelTibia.description>
+  <SimpleProstheticSternum.label>간단한 흉골</SimpleProstheticSternum.label>
+  <SimpleProstheticSternum.description>흉골 보철물입니다. 생물학적 흉골보다는 못합니다.</SimpleProstheticSternum.description>
+  <SimpleProstheticClavicle.label>간단한 쇄골</SimpleProstheticClavicle.label>
+  <SimpleProstheticClavicle.description>인공적인 쇄골입니다. 생물학적 쇄골보다는 못합니다.</SimpleProstheticClavicle.description>
+  <SimpleProstheticHumerus.label>간단한 상완골</SimpleProstheticHumerus.label>
+  <SimpleProstheticHumerus.description>인공적인 상완골입니다. 생물학적 상완골보다는 못합니다.</SimpleProstheticHumerus.description>
+  <SimpleProstheticRadius.label>간단한 요골</SimpleProstheticRadius.label>
+  <SimpleProstheticRadius.description>인공적인 요골입니다. 생물학적 요골보다는 못합니다.</SimpleProstheticRadius.description>
+  <SimpleProstheticFemur.label>간단한 대퇴골</SimpleProstheticFemur.label>
+  <SimpleProstheticFemur.description>인공적인 대퇴골입니다. 생물학적 대퇴골보다는 못합니다.</SimpleProstheticFemur.description>
+  <SimpleProstheticTibia.label>간단한 경골</SimpleProstheticTibia.label>
+  <SimpleProstheticTibia.description>인공적인 경골입니다. 생물학적 경골보다는 못합니다.</SimpleProstheticTibia.description>
+  <ArchotechInternalSupport.label>초월공학 내부 지지대</ArchotechInternalSupport.label>
+  <ArchotechInternalSupport.description>초월공학으로 만들어낸 인공적인 내부 지지대입니다. 초월공학 이식물의 내부 부품이 파손되었을 때 사용할 수 있는 유용한 교체품입니다.</ArchotechInternalSupport.description>
+  <ArchotechArm.label>초월공학 팔</ArchotechArm.label>
+  <ArchotechArm.description>초월공학으로 제작된 인공 팔입니다. 겉으로 보기에는 평범한 팔과 거의 구분할 수 없지만, 두꺼운 나무토막을 쥐어 으깰 수 있을 정도로 강하며, 쌀알 표면에 시조 하나를 채워넣을 수 있을 만큼 정교하며, 플라스틸 제품보다도 더 튼튼하고, 손상을 받으면 스스로 복원합니다. 그것이 어떻게 작동하는지는 수수께끼입니다.</ArchotechArm.description>
+  <ArchotechForearm.label>초월공학 팔뚝</ArchotechForearm.label>
+  <ArchotechForearm.description>초월공학을 이용해 만들어진 인공 팔뚝입니다. 손에 쥔 굵은 나뭇가지를 뭉개버릴 만큼 튼튼하고, 쌀알에 글귀를 쓸 만큼 정밀합니다. 실제 인체처럼 보이고 느껴지지만, 플라스틸보다 훼손하기가 더 어렵습니다. 만약 손상이 되어도, 시간이 지나면 자연히 복구됩니다. 초월공학 이식 연구가 필요합니다.</ArchotechForearm.description>
+  <ArchotechHand.label>초월공학 손</ArchotechHand.label>
+  <ArchotechHand.description>초월공학을 이용해 만들어진 인공 손입니다. 실제 인체처럼 보이고 느껴지지만, 플라스틸보다 훼손되기 더 어렵습니다. 만약 훼손되더라도, 시간이 지나면 자체적으로 회복됩니다. 초월공학 이식 연구가 필요합니다.</ArchotechHand.description>
+  <ArchotechFinger.label>초월공학 손가락</ArchotechFinger.label>
+  <ArchotechFinger.description>초월공학을 이용해 만들어진 인공 손가락입니다. 실제 인체처럼 보이고 느껴지지만, 플라스틸보다 훼손되기 더 어렵습니다. 만약 훼손되더라도, 시간이 지나면 자체적으로 회복됩니다. 초월공학 이식 연구가 필요합니다.</ArchotechFinger.description>
+  <ArchotechLeg.label>초월공학 다리</ArchotechLeg.label>
+  <ArchotechLeg.description>초월공학으로 제작된 인공 다리입니다. 겉으로 보기에는 평범한 다리와 거의 구분할 수 없지만, 차량보다 빠르게 움직일 수 있으며, 플라스틸 제품보다도 더 튼튼하고, 손상을 받으면 스스로 복원합니다. 그것이 어떻게 작동하는지는 수수께끼입니다.</ArchotechLeg.description>
+  <ArchotechFoot.label>초월공학 발</ArchotechFoot.label>
+  <ArchotechFoot.description>초월공학을 이용해 만들어진 인공 손가락입니다. 실제 인체처럼 보이고 느껴지지만, 플라스틸보다 훼손되기 더 어렵습니다. 만약 훼손되더라도, 시간이 지나면 자체적으로 회복됩니다. 초월공학 이식 연구가 필요합니다.</ArchotechFoot.description>
+  <ArchotechToe.label>초월공학 발가락</ArchotechToe.label>
+  <ArchotechToe.description>초월공학을 이용해 만들어진 인공 발가락입니다. 실제 인체처럼 보이고 느껴지지만, 플라스틸보다 훼손하기가 더 어렵습니다. 만약 손상이 되어도, 시간이 지나면 자연히 복구됩니다. 초월공학 이식 연구가 필요합니다.</ArchotechToe.description>
+  <BionicInternalSupport.label>생체공학 내부 지지대</BionicInternalSupport.label>
+  <BionicInternalSupport.description>향상된 내부 지원을 해주는 인공물입니다. 생체공학 보철물이 손상되었을 때 사용할 수 있는 유용한 대체품입니다.</BionicInternalSupport.description>
+  <BionicArm.label>생체공학 팔</BionicArm.label>
+  <BionicArm.description>팔의 정교한 대체제입니다. 피시술자에게 강력한 힘을 제공합니다.</BionicArm.description>
+  <BionicForearm.label>생체공학 팔뚝</BionicForearm.label>
+  <BionicForearm.description>향상된 인공 팔뚝입니다. 무소음 소형 서보는 강력한 임을 제공하며, 바이오겔 신경 링크는 정교한 조작을 가능하게 합니다. 격자무늬의 회복 체계는 피해로부터 회복할 수 있게 허용하며. 거의 모든 면에서 생물학적 팔보다 월등합니다.</BionicForearm.description>
+  <BionicHand.label>생체공학 손</BionicHand.label>
+  <BionicHand.description>진보된 인공 손. 바이오겔 신경기, 강력한 자동 제어 장치, 미세 격자 치유 시스템 등 모든 면에서 생물학적 손보다 월등합니다.</BionicHand.description>
+  <BionicFinger.label>생체공학 손가락</BionicFinger.label>
+  <BionicFinger.description>진보된 인공 손가락. 바이오겔 신경기, 강력한 자동 제어 장치, 미세 격자 치유 시스템 등 모든 면에서 생물학적 손가락보다 월등합니다.</BionicFinger.description>
+  <BionicLeg.label>생체공학 다리</BionicLeg.label>
+  <BionicLeg.description>진보된 인공 다리. 바이오겔 신경기, 강력한 자동 제어 장치, 미세 격자 치유 시스템 등 모든 면에서 생물학적 다리보다 월등합니다.</BionicLeg.description>
+  <BionicFoot.label>생체공학 발</BionicFoot.label>
+  <BionicFoot.description>진보된 인공 발. 바이오겔 신경기, 강력한 자동 제어 장치, 미세 격자 치유 시스템 등 모든 면에서 생물학적 발보다 월등합니다.</BionicFoot.description>
+  <BionicToe.label>생체공학 발가락</BionicToe.label>
+  <BionicToe.description>진보된 인공 발가락. 바이오겔 신경기, 강력한 자동 제어 장치, 미세 격자 치유 시스템 등 모든 면에서 생물학적 발가락보다 월등합니다.</BionicToe.description>
+  <SimpleProstheticArm.label>간단한 강철 의수</SimpleProstheticArm.label>
+  <SimpleProstheticArm.description>팔 보철물로, 신경적 요소가 부족하며, 복잡한 내부 관절의 배열로 인해 움직임을 자연스럽게 흉내 낼 수 있지만, 인체의 팔보다는 못합니다.</SimpleProstheticArm.description>
+  <SimpleProstheticForearm.label>간단한 팔뚝</SimpleProstheticForearm.label>
+  <SimpleProstheticForearm.description>팔뚝 보철물입니다. 신경과 상호작용을 할 수 없지만, 복잡한 내부 관절 배열을 통해 자연스러운 움직임을 상당히 비슷하게 흉내낼 수 있습니다. 생물학적 팔뚝보다는 못합니다.</SimpleProstheticForearm.description>
+  <SimpleProstheticHand.label>간단한 손</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>인공적인 손입니다. 신경 인터페이스가 부족하지만, 복잡한 내부 관절 배열을 통해 자연스러운 움직임을 상당히 비슷하게 흉내낼 수 있습니다. 인체의 발가락보다 못합니다.</SimpleProstheticHand.description>
+  <SimpleProstheticFinger.label>간단한 손가락</SimpleProstheticFinger.label>
+  <SimpleProstheticFinger.description>손가락 보철물로, 신경적 요소가 부족하나, 복잡한 내부 관절의 배열을 통해 자연스러운 움직임을 상당히 비슷하게 흉내낼 수 있습니다. 인체의 손가락보다 못합니다.</SimpleProstheticFinger.description>
+  <SimpleProstheticLeg.label>간단한 강철 의족</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.description>다리 보철물로, 신경적 요소가 부족하며, 복잡한 내부 관절의 배열로 인해 움직임을 자연스럽게 흉내 낼 수 있지만, 인체의 다리보다는 못합니다.</SimpleProstheticLeg.description>
+  <SimpleProstheticFoot.label>간단한 발</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>인공적인 발입니다. 신경 인터페이스가 부족하지만, 복잡한 내부 관절 배열을 통해 자연스러운 움직임을 상당히 비슷하게 흉내낼 수 있습니다. 인체의 발가락보다 못합니다.</SimpleProstheticFoot.description>
+  <SimpleProstheticToe.label>간단한 발가락</SimpleProstheticToe.label>
+  <SimpleProstheticToe.description>발가락 보철물로, 신경적 요소가 부족하나, 복잡한 내부 관절 배열을 통해 자연스러운 움직임을 상당히 비슷하게 흉내낼 수 있습니다. 인체의 발가락보다는 못합니다.</SimpleProstheticToe.description>
+  <RangedPlatformModule.label>사격 기반장치</RangedPlatformModule.label>
+  <RangedPlatformModule.description>고급 원거리 기반장치입니다. 안정화 장치와 목표적중 시스템은 정착민의 정확성을 높이고, 원거리 전투력을 크게 높일 수 있습니다.</RangedPlatformModule.description>
+  <MeleePlatformModule.label>근접 기반장치</MeleePlatformModule.label>
+  <MeleePlatformModule.description>고급 격투 기반장치. 감각 모터 및 목표적중 시스템을 사용하면 정착민이 큰 근접 피해를 입히고 정착민을 근접 전투에 특화되게 만들 수 있습니다.</MeleePlatformModule.description>
+  <PowerClaw.label>강화 발톱 장치</PowerClaw.label>
+  <PowerClaw.description>갈고리모양의 발톱을 각 손가락마다 추가시키는 전투 중심의 손 모듈입니다. 깊숙히 베어버리며, 두개골을 달걀 부수듯이 자연스럽게 부술 수 있을 정도로 힘을 강화시킵니다. 비전투 시의 과업에 방해가 되지 않기 위해, 날을 숨길 수 있습니다만, 전체적으로 꼴사나운 형태로 인해, 움직임을 약간 저하시킵니다.</PowerClaw.description>
+  <ModuleEfficiency.label>고급 처리 장치</ModuleEfficiency.label>
+  <ModuleEfficiency.description>생체공학 보철물들의 성능을 가속하고 최적화하기 위해 추가로 가공된 동력입니다. 설치된 부위와 연결된 생체공학 부위의 효율을 증진시킵니다.</ModuleEfficiency.description>
+  <CraftingToolsModule.label>제작 도구 모듈</CraftingToolsModule.label>
+  <CraftingToolsModule.description>제작 도구 모듈입니다. 제련하거나, 아이템을 생산하거나, 건설하기 위한 드라이버, 가위, 용접, 그리고 다른 소형 기계적 도구를 제공합니다. 이 도구는 해당 부위가 일반적인 기능으로 작동하도록 하기 위해 숨길 수 있습니다만, 전체적으로 꼴사나운 형태로 인해, 움직임을 약간 저하시킵니다.</CraftingToolsModule.description>
+</LanguageData>
