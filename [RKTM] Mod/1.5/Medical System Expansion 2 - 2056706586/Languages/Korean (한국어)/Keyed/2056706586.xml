@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CommandAddExistingSubpart_Label>하위 부품 추가</CommandAddExistingSubpart_Label>
+  <CommandAddExistingSubpart_Description>이 부품에 추가할 하위 부품을 선택하십시오</CommandAddExistingSubpart_Description>
+  <CommandAddExistingSubpart_AddTo>{0}에서 {1}(으)로)</CommandAddExistingSubpart_AddTo>
+  <CommandAddExistingSubpart_CouldNotFindPart>호환되는 부품을 찾지 못했습니다.</CommandAddExistingSubpart_CouldNotFindPart>
+  <Command_SetTargetLimb_Label>버전 선택</Command_SetTargetLimb_Label>
+  <Command_SetTargetLimb_Description>어떤 부위를 대체할지 선택하십시오.</Command_SetTargetLimb_Description>
+  <Command_SetTargetLimb_NoTarget>세그먼트</Command_SetTargetLimb_NoTarget>
+  <CommandSplitOffSubpart_Label>하위 부품 제거</CommandSplitOffSubpart_Label>
+  <CommandSplitOffSubpart_Description>이 부품에서 제거할 하위 부품을 선택하십시오</CommandSplitOffSubpart_Description>
+  <CommandSplitOffSubpart_RemoveFrom>{1}에서 {0}(으)로)</CommandSplitOffSubpart_RemoveFrom>
+  <GoodwillChangedReason_RemovedMSE2Module>제거된 모듈들</GoodwillChangedReason_RemovedMSE2Module>
+  <LimbComplete>전체</LimbComplete>
+  <LimbSegment>마디</LimbSegment>
+  <LimbSimple>단순한</LimbSimple>
+  <LimbVersion>버전</LimbVersion>
+  <LimbCompatible>호환됨</LimbCompatible>
+  <LimbIncompatible>호환되지 않음</LimbIncompatible>
+  <LimbSelected>(현재 버전)</LimbSelected>
+  <RecipeMakeSegment>{0} 세그먼트 만들기</RecipeMakeSegment>
+  <RecipeMakeUpgrade>{0} 조립하기</RecipeMakeUpgrade>
+  <RecipeMakeForLimb>완성된 {0} 만들기 ({1})</RecipeMakeForLimb>
+  <RecipeMakeForLimbNoComparison>완성된 {0} 만들기</RecipeMakeForLimbNoComparison>
+  <RecipeMakeForLimbDescription>{0} {1}을 만듭니다. 이는 아래 세력에게 설치할 수 있습니다: {2}.</RecipeMakeForLimbDescription>
+  <RecipeMakeForLimbJobString>{0} 제작 중 ({1})</RecipeMakeForLimbJobString>
+  <StatsReport_ValueOfSubParts>{0} 포함 : {1}</StatsReport_ValueOfSubParts>
+  <StatsReport_MassOfSubParts>{0} 포함 : {1}</StatsReport_MassOfSubParts>
+  <CompIncludedChildParts_InspectStringIncludes>하위 부품을 직접 {0}개 포함함</CompIncludedChildParts_InspectStringIncludes>
+  <CompIncludedChildParts_InspectStringTarget>버전: {0}</CompIncludedChildParts_InspectStringTarget>
+  <CompIncludedChildParts_InspectStringMissing>(빠진 부품 {0}개)</CompIncludedChildParts_InspectStringMissing>
+  <CompIncludedChildParts_StatIncludedParts_Label>하위 부품 포함</CompIncludedChildParts_StatIncludedParts_Label>
+  <CompIncludedChildParts_StatIncludedParts_Description>이식될 시, 아래의 품목도 설치됩니다:</CompIncludedChildParts_StatIncludedParts_Description>
+  <CompIncludedChildParts_StatCompatibility_Label>호환 가능한 버전</CompIncludedChildParts_StatCompatibility_Label>
+  <CompIncludedChildParts_StatCompatibility_Value>{1} {0}일</CompIncludedChildParts_StatCompatibility_Value>
+  <CompIncludedChildParts_StatMissing_Label>빠진 부품</CompIncludedChildParts_StatMissing_Label>
+  <CompIncludedChildParts_StatMissing_Description>아래 부품이 빠져 있습니다 :</CompIncludedChildParts_StatMissing_Description>
+  <CompIncludedChildParts_StatMissing_Desc_None>빠진 부품이 없습니다.</CompIncludedChildParts_StatMissing_Desc_None>
+  <ModuleHolder_Compatible_Label>모듈 슬롯</ModuleHolder_Compatible_Label>
+  <ModuleHolder_Compatible_ReportText>아래 모듈들은 이 생체공학 장치에 설치할 수 있습니다 :</ModuleHolder_Compatible_ReportText>
+  <Bill_MedicalLimbAware_AllowIncomplete>미완성된 보철물에 설치물 설치 허가</Bill_MedicalLimbAware_AllowIncomplete>
+  <Bill_MedicalLimbAware_OnlyComplete>호환되는 보철물에만 설치할 수 있도록 허용합니다.</Bill_MedicalLimbAware_OnlyComplete>
+  <HediffHideModeSetting_Title>기본 하위 부품 숨기기</HediffHideModeSetting_Title>
+  <HediffHideModeSetting_Description>체력 개요 탭에 어떤 기본 하위부품을 숨길 지 선택합니다.
+ - 숨김 : 기본 하위 부품은 항상 숨겨질 것입니다.
+ - 표시 : 기본 하위 부품은 항상 보여질 것입니다.
+ - 정리 : 기본 하위 부품들은 부위에 다른 상태가 없다면 숨겨질 것입니다.
+ - 정리(모듈) : 기본 하위 부품들은 부위에 다른 상태가 없거나, 모듈만 있다면 숨겨질 것입니다.</HediffHideModeSetting_Description>
+  <HediffHideModeSetting_Always>항상</HediffHideModeSetting_Always>
+  <HediffHideModeSetting_Never>없음</HediffHideModeSetting_Never>
+  <HediffHideModeSetting_Clean>청소</HediffHideModeSetting_Clean>
+  <HediffHideModeSetting_CleanOrModules>정리(모듈)</HediffHideModeSetting_CleanOrModules>
+  <RemoveAllFromSegmentSetting_Title>각 세그먼트 버전으로부터 모든 하위 부품 제거</RemoveAllFromSegmentSetting_Title>
+  <RemoveAllFromSegmentSetting_Description>해당 옵션을 설정할 경우, 보철물의 세그먼트 버전을 바꾼 후, 모든 하위 부품이 제거된 후 다시 생성됩니다</RemoveAllFromSegmentSetting_Description>
+  <HideModuleSlotsSetting_Title>모듈 슬롯 숨기기</HideModuleSlotsSetting_Title>
+  <HideModuleSlotsSetting_Description>해당 옵션을 선택한 경우, 모듈 슬롯은 건강 상태창에 보이지 않게 됩니다.</HideModuleSlotsSetting_Description>
+</LanguageData>

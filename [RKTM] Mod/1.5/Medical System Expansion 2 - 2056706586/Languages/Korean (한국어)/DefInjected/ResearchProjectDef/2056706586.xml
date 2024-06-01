@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BoneProstheticsSimple.label>뼈 대체물</BoneProstheticsSimple.label>
+  <BoneProstheticsSimple.description>강철 인공 뼈 보철물을 제작합니다.</BoneProstheticsSimple.description>
+  <BoneProstheticsPlasteel.label>향상된 뼈 대체물</BoneProstheticsPlasteel.label>
+  <BoneProstheticsPlasteel.description>플라스틸 인공 뼈 보철물을 제작합니다.</BoneProstheticsPlasteel.description>
+  <BionicModules.label>생체 모듈</BionicModules.label>
+  <BionicModules.description>생체공학 보철물을 강화하는 모듈을 제작할 수 있게 합니다.</BionicModules.description>
+</LanguageData>
