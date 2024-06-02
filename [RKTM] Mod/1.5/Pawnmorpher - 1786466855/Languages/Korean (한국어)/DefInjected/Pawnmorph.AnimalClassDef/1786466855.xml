@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animal.label>동물</Animal.label>
+  <Avian.label>조류</Avian.label>
+  <Anserigalliform.label>오리기러기목</Anserigalliform.label>
+  <Anseriform.label>오리목</Anseriform.label>
+  <Galliform.label>꿩목</Galliform.label>
+  <Ratite.label>타조목</Ratite.label>
+  <Powerful.label>강력한</Powerful.label>
+  <ThickFur.label>털이 두터운</ThickFur.label>
+  <ThickHide.label>두꺼운 가죽</ThickHide.label>
+  <Elephantidae.label>코끼리과</Elephantidae.label>
+  <Rhinocerotidae.label>코뿔소과</Rhinocerotidae.label>
+  <PawFooted.label>발바닥이 있음</PawFooted.label>
+  <Carnivora.label>식육목</Carnivora.label>
+  <Canid.label>개과</Canid.label>
+  <Familiaris.label>개과</Familiaris.label>
+  <Wolf.label>늑대</Wolf.label>
+  <Scavenger.label>넝마주이</Scavenger.label>
+  <Feline.label>고양이과</Feline.label>
+  <BigFelis.label>큰 고양잇과</BigFelis.label>
+  <Felis.label>고양잇과</Felis.label>
+  <Pantherine.label>흑표범 귀</Pantherine.label>
+  <Fox.label>묶은 머리</Fox.label>
+  <Exotic.label>이국적인</Exotic.label>
+  <Leporid.label>토끼과</Leporid.label>
+  <Rodent.label>설치류</Rodent.label>
+  <Arboreal.label>수목성</Arboreal.label>
+  <Cerebral.label>뇌의</Cerebral.label>
+  <Ursine.label>곰</Ursine.label>
+  <Reptile.label>파충류</Reptile.label>
+  <Lacertilia.label>유비목</Lacertilia.label>
+  <Ophidia.label>뱀목</Ophidia.label>
+  <Testudinidae.label>거북과</Testudinidae.label>
+  <Simian.label>원숭이</Simian.label>
+  <Monkeys.label>원숭이</Monkeys.label>
+  <Ungulate.label>유제류</Ungulate.label>
+  <EvenToedUngulate.label>우제류</EvenToedUngulate.label>
+  <Bovid.label>소과</Bovid.label>
+  <DomesticatedBovid.label>가축화된 소과</DomesticatedBovid.label>
+  <WildBovid.label>야생 소과</WildBovid.label>
+  <Camelid.label>낙타과</Camelid.label>
+  <Caprid.label>염소과</Caprid.label>
+  <Cervid.label>사슴과</Cervid.label>
+  <BigCervid.label>큰 사슴과</BigCervid.label>
+  <SmallCervid.label>작은 사슴과</SmallCervid.label>
+  <Suid.label>멧돼지과</Suid.label>
+  <OddToedUngulate.label>기제류</OddToedUngulate.label>
+  <Equine.label>말의 귀</Equine.label>
+</LanguageData>
