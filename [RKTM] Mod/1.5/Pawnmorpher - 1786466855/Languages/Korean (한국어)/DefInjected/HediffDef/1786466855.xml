@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AntigenEffective.description>항원성입니다.</AntigenEffective.description>
+  <AntigenEffective.label>항원이 효과적임</AntigenEffective.label>
+  <ProductionPillUdderEffect.label>생산량 증가</ProductionPillUdderEffect.label>
+  <ProductionPillUdderEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillUdderEffect.description>
+  <ProductionPillChemfuelUdderEffect.label>생산량 증가</ProductionPillChemfuelUdderEffect.label>
+  <ProductionPillChemfuelUdderEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillChemfuelUdderEffect.description>
+  <ProductionPillEggEffect.label>생산량 증가</ProductionPillEggEffect.label>
+  <ProductionPillEggEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillEggEffect.description>
+  <ProductionPillWoolEffect.label>생산량 증가</ProductionPillWoolEffect.label>
+  <ProductionPillWoolEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillWoolEffect.description>
+  <ProductionPillMegawoolEffect.label>생산량 증가</ProductionPillMegawoolEffect.label>
+  <ProductionPillMegawoolEffect.description>비정상적인 hediff입니다. 무시하거나 개발자 모드로 지우셔도 무관 합니다.</ProductionPillMegawoolEffect.description>
+  <StabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</StabiliserHigh.description>
+  <StabiliserHigh.label>변형물질 안정회됨</StabiliserHigh.label>
+  <AcceleratorHigh.label>변형물질 가속됨</AcceleratorHigh.label>
+  <AcceleratorHigh.description>이 폰의 변이가 가속된 속도로 나타납니다.</AcceleratorHigh.description>
+  <SapiencePillSapienceIncrease.label>인간화 중</SapiencePillSapienceIncrease.label>
+  <SapiencePillSapienceIncrease.description>이 PAWN_nameDef의 지성이 인텔리부스트 알약을 통해 서서히 인간 수준으로 향상되고 있습니다.</SapiencePillSapienceIncrease.description>
+  <Bullrush.description>이 PAWN_nameDef은 현재 황소돌진의 영향을 받고 있습니다.</Bullrush.description>
+  <Bullrush.label>불러쉬</Bullrush.label>
+  <PM_Reverting.description>이 PAWN_nameDef은 서서히 인간으로 되돌아가고 있습니다.</PM_Reverting.description>
+  <PM_Reverting.label>변형물질 복귀</PM_Reverting.label>
+  <PM_ExperimentalInjector.label>실험용 주사기</PM_ExperimentalInjector.label>
+  <PM_ExperimentalInjector.description>이 PAWN_nameDef은 실험적 인젝터의 주사를 받았으며, 이는 무작위 변이를 만들지만 주어진 변이에 대해 태그를 달아야 합니다.</PM_ExperimentalInjector.description>
+  <TransformedHuman.label>변이된 인간</TransformedHuman.label>
+  <TransformedHuman.description>PAWN_nameDef(은)는 한때 인간이었지만 어떤 수단을 통해 이제는 현재의 형태로 변형되었습니다. 이 상태에서 PAWN_pronoun은 되돌릴 수 있습니다.</TransformedHuman.description>
+  <TransformedHuman.stages.0.label>지성적</TransformedHuman.stages.0.label>
+  <TransformedHuman.stages.1.label>거의 지성적</TransformedHuman.stages.1.label>
+  <TransformedHuman.stages.2.label>충동적</TransformedHuman.stages.2.label>
+  <TransformedHuman.stages.3.label>거의 야생적</TransformedHuman.stages.3.label>
+  <TransformedHuman.stages.4.label>거의 야생적</TransformedHuman.stages.4.label>
+  <Animalistic.label>짐승같은</Animalistic.label>
+  <Animalistic.description>특정 변이 혹은 동물로서 보낸 시간으로 인해, 이 폰은 지성을 유지하는 것이 힘들어 졌습니다.</Animalistic.description>
+  <Animalistic.stages.0.label>지성적</Animalistic.stages.0.label>
+  <Animalistic.stages.1.label>거의 지성적</Animalistic.stages.1.label>
+  <Animalistic.stages.2.label>충동적</Animalistic.stages.2.label>
+  <Animalistic.stages.3.label>거의 야생적</Animalistic.stages.3.label>
+  <Animalistic.stages.4.label>거의 야생적</Animalistic.stages.4.label>
+  <!-- <2xMergedHuman.label>2x merged morph</2xMergedHuman.label>
+  <2xMergedHuman.description>[PAWN_nameDef] is a creature that should never have been, a fusion of two beings which mutated to become one animalistic monstrosity.</2xMergedHuman.description>
+  <2xMergedHuman.stages.0.label>sapient</2xMergedHuman.stages.0.label>
+  <2xMergedHuman.stages.1.label>mostly sapient</2xMergedHuman.stages.1.label>
+  <2xMergedHuman.stages.2.label>conflicted</2xMergedHuman.stages.2.label>
+  <2xMergedHuman.stages.3.label>mostly feral</2xMergedHuman.stages.3.label>
+  <2xMergedHuman.stages.4.label>mostly feral</2xMergedHuman.stages.4.label> -->
+  <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
+  <PermanentlyFeral.description>PAWN_nameDef 은 예전에는 인간이었지만, [PAWN_possessive] 체계 안의 메카나이트가 그의 예전 형태를 잊었습니다 — PAWN_pronoun 는 이제 [PAWN_possessive] 생애 나머지 기간 동안 이 형태에 고정되었습니다. 되돌리는 혈청은 효과가 없을 것입니다.</PermanentlyFeral.description>
+  <WasAnimal.label>동물이었던</WasAnimal.label>
+  <WasAnimal.description>PAWN_nameDef(은)는 동물로 변했다가 다시 돌아왔습니다만, PAWN_pronoun은 그것에 대해 너무 행복하지 않습니다.</WasAnimal.description>
+  <WasAnimal.stages.0.label>영구적</WasAnimal.stages.0.label>
+  <WasAnimal.stages.1.label>야생</WasAnimal.stages.1.label>
+  <WasAnimal.stages.2.label>지성적</WasAnimal.stages.2.label>
+  <WasAnimal.stages.3.label>미쳐버림</WasAnimal.stages.3.label>
+  <WasMergedRelieved.label>뒤섞인</WasMergedRelieved.label>
+  <WasMergedRelieved.description>PAWN_nameDef(은)는 다른 사람과 함께 살과 살점들이 무질서하게 뒤섞여 결합되었지만, 그 통찰력을 가치 있게 생각합니다.</WasMergedRelieved.description>
+  <WasMergedRelieved.stages.0.label>영구적</WasMergedRelieved.stages.0.label>
+  <WasMergedRelieved.stages.1.label>야생</WasMergedRelieved.stages.1.label>
+  <WasMergedRelieved.stages.2.label>지성적</WasMergedRelieved.stages.2.label>
+  <WasMergedRelieved.stages.3.label>미쳐버림</WasMergedRelieved.stages.3.label>
+  <WasMerged.label>뒤섞인</WasMerged.label>
+  <WasMerged.description>PAWN_nameDef 는 다른 사람과 혼돈스러운 고기와 고기의 혼합에 합쳐졌으며, 그 경험으로 인해 흉터가 남았습니다.</WasMerged.description>
+  <WasMerged.stages.0.label>영구적</WasMerged.stages.0.label>
+  <WasMerged.stages.1.label>야생</WasMerged.stages.1.label>
+  <WasMerged.stages.2.label>지성적</WasMerged.stages.2.label>
+  <WasMerged.stages.3.label>미쳐버림</WasMerged.stages.3.label>
+  <WasAnimalRelieved.label>동물이었던</WasAnimalRelieved.label>
+  <WasAnimalRelieved.description>PAWN_nameDef 는 동물로 변했었지만 PAWN_pronoun 은 좋아졌습니다. 하지만 PAWN_pronoun 은 그것을 학습 기회로 받아들입니다.</WasAnimalRelieved.description>
+  <WasAnimalRelieved.stages.0.label>영구적</WasAnimalRelieved.stages.0.label>
+  <WasAnimalRelieved.stages.1.label>야생</WasAnimalRelieved.stages.1.label>
+  <WasAnimalRelieved.stages.2.label>지성적</WasAnimalRelieved.stages.2.label>
+  <WasAnimalRelieved.stages.3.label>미쳐버림</WasAnimalRelieved.stages.3.label>
+  <FeralPillSapienceDrop.label>야생화</FeralPillSapienceDrop.label>
+  <FeralPillSapienceDrop.description>이 폰의 지능은 야생 알약의 투여 덕분에 급격히 동물 수준으로 저하되고 있습니다.</FeralPillSapienceDrop.description>
+  <PM_InstantStabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</PM_InstantStabiliserHigh.description>
+  <PM_InstantStabiliserHigh.label>변형물질 안정회됨</PM_InstantStabiliserHigh.label>
+  <MutagenicBuildup_Weapon.stages.0.label>초기</MutagenicBuildup_Weapon.stages.0.label>
+  <MutagenicBuildup_Weapon.stages.1.label>초기</MutagenicBuildup_Weapon.stages.1.label>
+  <MutagenicBuildup_Weapon.stages.2.label>가벼움</MutagenicBuildup_Weapon.stages.2.label>
+  <MutagenicBuildup_Weapon.stages.3.label>진행됨</MutagenicBuildup_Weapon.stages.3.label>
+  <MutagenicBuildup_Weapon.stages.4.label>심각함</MutagenicBuildup_Weapon.stages.4.label>
+  <MutagenicBuildup_Weapon.stages.5.label>극심함</MutagenicBuildup_Weapon.stages.5.label>
+  <MutagenicBuildup_Weapon.stages.6.label>극심함</MutagenicBuildup_Weapon.stages.6.label>
+  <MutagenicBuildup_Weapon.stages.7.label>극심함</MutagenicBuildup_Weapon.stages.7.label>
+  <MutagenicBuildup_Weapon.stages.8.label>극심함</MutagenicBuildup_Weapon.stages.8.label>
+  <MutagenicBuildup_Weapon.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_Weapon.description>
+  <MutagenicBuildup_SmallExplosion.stages.0.label>초기</MutagenicBuildup_SmallExplosion.stages.0.label>
+  <MutagenicBuildup_SmallExplosion.stages.1.label>초기</MutagenicBuildup_SmallExplosion.stages.1.label>
+  <MutagenicBuildup_SmallExplosion.stages.2.label>가벼움</MutagenicBuildup_SmallExplosion.stages.2.label>
+  <MutagenicBuildup_SmallExplosion.stages.3.label>진행됨</MutagenicBuildup_SmallExplosion.stages.3.label>
+  <MutagenicBuildup_SmallExplosion.stages.4.label>심각함</MutagenicBuildup_SmallExplosion.stages.4.label>
+  <MutagenicBuildup_SmallExplosion.stages.5.label>극심함</MutagenicBuildup_SmallExplosion.stages.5.label>
+  <MutagenicBuildup_SmallExplosion.stages.6.label>극심함</MutagenicBuildup_SmallExplosion.stages.6.label>
+  <MutagenicBuildup_SmallExplosion.stages.7.label>극심함</MutagenicBuildup_SmallExplosion.stages.7.label>
+  <MutagenicBuildup_SmallExplosion.stages.8.label>극심함</MutagenicBuildup_SmallExplosion.stages.8.label>
+  <MutagenicBuildup_SmallExplosion.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_SmallExplosion.description>
+  <MutagenicBuildup_LargeExplosion.stages.0.label>초기</MutagenicBuildup_LargeExplosion.stages.0.label>
+  <MutagenicBuildup_LargeExplosion.stages.1.label>초기</MutagenicBuildup_LargeExplosion.stages.1.label>
+  <MutagenicBuildup_LargeExplosion.stages.2.label>가벼움</MutagenicBuildup_LargeExplosion.stages.2.label>
+  <MutagenicBuildup_LargeExplosion.stages.3.label>진행됨</MutagenicBuildup_LargeExplosion.stages.3.label>
+  <MutagenicBuildup_LargeExplosion.stages.4.label>심각함</MutagenicBuildup_LargeExplosion.stages.4.label>
+  <MutagenicBuildup_LargeExplosion.stages.5.label>극심함</MutagenicBuildup_LargeExplosion.stages.5.label>
+  <MutagenicBuildup_LargeExplosion.stages.6.label>극심함</MutagenicBuildup_LargeExplosion.stages.6.label>
+  <MutagenicBuildup_LargeExplosion.stages.7.label>극심함</MutagenicBuildup_LargeExplosion.stages.7.label>
+  <MutagenicBuildup_LargeExplosion.stages.8.label>극심함</MutagenicBuildup_LargeExplosion.stages.8.label>
+  <MutagenicBuildup_LargeExplosion.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup_LargeExplosion.description>
+  <MutagenicBuildup.description>변형 유인 메카나이트에 높은 수준으로 노출된 결과, 그것들이 폰의 신체의 쌓이기 시작했습니다. 농도가 높아지게 된다면 변이를 일으킬 수 있습니다.</MutagenicBuildup.description>
+  <MutagenicBuildup.label>변형 유인체 축적</MutagenicBuildup.label>
+  <MutagenicBuildup.stages.0.label>초기</MutagenicBuildup.stages.0.label>
+  <MutagenicBuildup.stages.1.label>초기</MutagenicBuildup.stages.1.label>
+  <MutagenicBuildup.stages.2.label>가벼움</MutagenicBuildup.stages.2.label>
+  <MutagenicBuildup.stages.3.label>진행됨</MutagenicBuildup.stages.3.label>
+  <MutagenicBuildup.stages.4.label>심각함</MutagenicBuildup.stages.4.label>
+  <MutagenicBuildup.stages.5.label>극심함</MutagenicBuildup.stages.5.label>
+  <MutagenicBuildup.stages.6.label>극심함</MutagenicBuildup.stages.6.label>
+  <MutagenicBuildup.stages.7.label>극심함</MutagenicBuildup.stages.7.label>
+  <MutagenicBuildup.stages.8.label>극심함</MutagenicBuildup.stages.8.label>
+  <SyringeRifleHediff.label>정신변이</SyringeRifleHediff.label>
+  <SyringeRifleHediff.description>이 폰은 강력하고 빠르게 작용하는 변형 유인 메카나이트가 주입되었습니다. 높은 확률로 다른 무언가로 빠르게 변하고, 그로인한 일시적인 마비현상을 겪을 수 있습니다.</SyringeRifleHediff.description>
+  <SapienceLimiterHediff.label>지성 복구망</SapienceLimiterHediff.label>
+  <SapienceLimiterHediff.description>삽입된 지성 복구망</SapienceLimiterHediff.description>
+  <TransformationParalysis.label>변이 무력화</TransformationParalysis.label>
+  <TransformationParalysis.description>갑작스러운 전신의 변이에 의한 충격</TransformationParalysis.description>
+  <PawnmorphGunshotTF.description>이 폰은 강력하고 빠르게 작용하는 변형 유인 메카나이트가 주입되었습니다. 높은 확률로 다른 무언가로 빠르게 변하고, 그로인한 일시적인 마비현상을 겪을 수 있습니다.</PawnmorphGunshotTF.description>
+  <PawnmorphGunshotTF.label>정신변이</PawnmorphGunshotTF.label>
+  <PawnmorphGunshotTF.stages.0.label>감아내기</PawnmorphGunshotTF.stages.0.label>
+  <PawnmorphGunshotTF.stages.1.label>변이-무력화</PawnmorphGunshotTF.stages.1.label>
+  <MutagenicDisease.label>변형 유인체 질병</MutagenicDisease.label>
+  <MutagenicDisease.description>이 폰은 체내의 높은 수준의 변형 유인체 메카나이트로 인해 변형성 질병에 걸렸습니다. 치료하지 않으면, 폰은 동물에 가까워질 수 있습니다...</MutagenicDisease.description>
+  <MutagenicDisease.stages.0.label>초기</MutagenicDisease.stages.0.label>
+  <MutagenicDisease.stages.1.label>가벼움</MutagenicDisease.stages.1.label>
+  <MutagenicDisease.stages.2.label>심각함</MutagenicDisease.stages.2.label>
+  <MutagenicDisease.stages.3.label>극심함</MutagenicDisease.stages.3.label>
+  <MutagenicDisease.stages.4.label>tf time</MutagenicDisease.stages.4.label>
+  <PM_MutagenicInfection.label>변형 유인체 감염</PM_MutagenicInfection.label>
+  <PM_MutagenicInfection.labelNoun>변형 유인체 감염</PM_MutagenicInfection.labelNoun>
+  <PM_MutagenicInfection.description>변형 유인체 메카나이트가 이 상처에 감염되어 치료하지 않으면 변이를 일으키게 됩니다.</PM_MutagenicInfection.description>
+  <PM_MutagenicInfection.stages.0.label>가벼움</PM_MutagenicInfection.stages.0.label>
+  <PM_MutagenicInfection.stages.1.label>심각함</PM_MutagenicInfection.stages.1.label>
+  <PM_MutagenicInfection.stages.2.label>극심함</PM_MutagenicInfection.stages.2.label>
+  <PM_MutagenicInfection.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</PM_MutagenicInfection.stages.2.letterText>
+  <PM_MutagenicInfection.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</PM_MutagenicInfection.stages.2.letterLabel>
+  <PM_MutagenicInfection.stages.3.label>넓은 수염</PM_MutagenicInfection.stages.3.label>
+  <FoxFlu.label>여우 열병 (중단됨)</FoxFlu.label>
+  <FoxFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 묘한 '여우'로움을 느낍니다.</FoxFlu.description>
+  <FoxFlu.stages.0.label>가벼움</FoxFlu.stages.0.label>
+  <FoxFlu.stages.1.label>심각함</FoxFlu.stages.1.label>
+  <FoxFlu.stages.2.label>극심함</FoxFlu.stages.2.label>
+  <FoxFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</FoxFlu.stages.2.letterText>
+  <FoxFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</FoxFlu.stages.2.letterLabel>
+  <FoxFlu.stages.3.label>넓은 수염</FoxFlu.stages.3.label>
+  <Chookflu.label>닭 진드기 (중단됨)</Chookflu.label>
+  <Chookflu.description>이 폰은 변형 유인 질병에 걸렸습니다. '꼬꼬댁'' 거리며 고개를 앞뒤로 흔들게 만드는 것 같습니다.</Chookflu.description>
+  <Chookflu.stages.0.label>가벼움</Chookflu.stages.0.label>
+  <Chookflu.stages.1.label>심각함</Chookflu.stages.1.label>
+  <Chookflu.stages.2.label>극심함</Chookflu.stages.2.label>
+  <Chookflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chookflu.stages.2.letterText>
+  <Chookflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chookflu.stages.2.letterLabel>
+  <Chookflu.stages.3.label>넓은 수염</Chookflu.stages.3.label>
+  <Swineflu.label>돼지 독감 (중단됨)</Swineflu.label>
+  <Swineflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 땅을 파고 진흙에 뒹굴고 싶은 충동을 주는 것 같습니다.</Swineflu.description>
+  <Swineflu.stages.0.label>가벼움</Swineflu.stages.0.label>
+  <Swineflu.stages.1.label>심각함</Swineflu.stages.1.label>
+  <Swineflu.stages.2.label>극심함</Swineflu.stages.2.label>
+  <Swineflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Swineflu.stages.2.letterText>
+  <Swineflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Swineflu.stages.2.letterLabel>
+  <Swineflu.stages.3.label>넓은 수염</Swineflu.stages.3.label>
+  <Cowflu.label>광우병 (중단됨)</Cowflu.label>
+  <Cowflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 큰 소리로 '음머' 하고 울고 싶은 충동을 주는 것 같습니다.</Cowflu.description>
+  <Cowflu.stages.0.label>가벼움</Cowflu.stages.0.label>
+  <Cowflu.stages.1.label>심각함</Cowflu.stages.1.label>
+  <Cowflu.stages.2.label>극심함</Cowflu.stages.2.label>
+  <Cowflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Cowflu.stages.2.letterText>
+  <Cowflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Cowflu.stages.2.letterLabel>
+  <Cowflu.stages.3.label>넓은 수염</Cowflu.stages.3.label>
+  <Chaoflu.label>변형 유인체 메카나이트 (중단됨)</Chaoflu.label>
+  <Chaoflu.description>이 폰은 굉장히 무작위적이고 혼돈적인 변형 유인 질병에 걸렸습니다. 이것은 체내의 쌓인 변형 유인체 메카나이트의 충돌로 인해 발생 하였습니다.</Chaoflu.description>
+  <Chaoflu.stages.0.label>가벼움</Chaoflu.stages.0.label>
+  <Chaoflu.stages.1.label>심각함</Chaoflu.stages.1.label>
+  <Chaoflu.stages.2.label>극심함</Chaoflu.stages.2.label>
+  <Chaoflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chaoflu.stages.2.letterText>
+  <Chaoflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chaoflu.stages.2.letterLabel>
+  <Chaoflu.stages.3.label>넓은 수염</Chaoflu.stages.3.label>
+  <HuskyFlu.label>켄넬 기침 (중단됨)</HuskyFlu.label>
+  <HuskyFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 자기의 꼬리를 쫓으며 짖고 싶은 충동을 주는 것 같습니다.</HuskyFlu.description>
+  <HuskyFlu.stages.0.label>가벼움</HuskyFlu.stages.0.label>
+  <HuskyFlu.stages.1.label>심각함</HuskyFlu.stages.1.label>
+  <HuskyFlu.stages.2.label>극심함</HuskyFlu.stages.2.label>
+  <HuskyFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</HuskyFlu.stages.2.letterText>
+  <HuskyFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</HuskyFlu.stages.2.letterLabel>
+  <HuskyFlu.stages.3.label>넓은 수염</HuskyFlu.stages.3.label>
+  <PawnmorphChickenTF.label>닭 변이체</PawnmorphChickenTF.label>
+  <PawnmorphChickenTF.description>이 사람의 혈액에는 신체를 천천히 닭 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 새에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphChickenTF.description>
+  <PawnmorphChickenTF.stages.0.label>감아내기</PawnmorphChickenTF.stages.0.label>
+  <PawnmorphChickenTF.stages.1.label>변이중</PawnmorphChickenTF.stages.1.label>
+  <PawnmorphChickenTF.stages.2.label>동물화중</PawnmorphChickenTF.stages.2.label>
+  <PawnmorphChickenTFPartial.label>불완전한 닭 변이체</PawnmorphChickenTFPartial.label>
+  <PawnmorphChickenTFPartial.description>이 사람의 혈액속에는 닭과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphChickenTFPartial.description>
+  <PawnmorphTurkeyTF.label>터키모프</PawnmorphTurkeyTF.label>
+  <PawnmorphTurkeyTF.description>이 사람의 혈액속에는 그들을 점차적으로 칠면조로 변이시키는 메카나이트가 있습니다. 그들 주변을 잘 살펴야 합니다, 메카나이트를 방치하면 그들이 훨씬 더 조류보다는 인간에 가까워질 위험이 있습니다.</PawnmorphTurkeyTF.description>
+  <PawnmorphTurkeyTF.stages.0.label>감아내기</PawnmorphTurkeyTF.stages.0.label>
+  <PawnmorphTurkeyTF.stages.1.label>변이중</PawnmorphTurkeyTF.stages.1.label>
+  <PawnmorphTurkeyTF.stages.2.label>동물화중</PawnmorphTurkeyTF.stages.2.label>
+  <PawnmorphTurkeyTFPartial.label>칠면조로 변형 부분적</PawnmorphTurkeyTFPartial.label>
+  <PawnmorphTurkeyTFPartial.description>이 사람의 혈액속에는 칠면조 같은 변이를 유도하는 메카나이트가 있습니다.</PawnmorphTurkeyTFPartial.description>
+  <PawnmorphDuckTF.label>오리형 변형체</PawnmorphDuckTF.label>
+  <PawnmorphDuckTF.description>이 사람의 혈액속에는 그들을 점차적으로 오리형 변형체로 변이시키는 메카나이트가 있습니다. 그들 주변을 잘 살펴야 합니다, 메카나이트를 방치하면 그들이 훨씬 더 조류보다는 인간에 가까워질 위험이 있습니다.</PawnmorphDuckTF.description>
+  <PawnmorphDuckTF.stages.0.label>감아내기</PawnmorphDuckTF.stages.0.label>
+  <PawnmorphDuckTF.stages.1.label>변이중</PawnmorphDuckTF.stages.1.label>
+  <PawnmorphDuckTF.stages.2.label>동물화중</PawnmorphDuckTF.stages.2.label>
+  <PawnmorphDuckTFPartial.label>오리형 변형 부분적</PawnmorphDuckTFPartial.label>
+  <PawnmorphDuckTFPartial.description>이 사람의 혈액속에는 오리 같은 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDuckTFPartial.description>
+  <PawnmorphGooseTF.label>거위모프</PawnmorphGooseTF.label>
+  <PawnmorphGooseTF.description>이 사람의 혈액에는 신체를 천천히 거위 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphGooseTF.description>
+  <PawnmorphGooseTF.stages.0.label>감아내기</PawnmorphGooseTF.stages.0.label>
+  <PawnmorphGooseTF.stages.1.label>변이중</PawnmorphGooseTF.stages.1.label>
+  <PawnmorphGooseTF.stages.2.label>동물화중</PawnmorphGooseTF.stages.2.label>
+  <PawnmorphGooseTFPartial.label>거위 변이체 부분적</PawnmorphGooseTFPartial.label>
+  <PawnmorphGooseTFPartial.description>이 사람의 혈액에는 그들에게 거위 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphGooseTFPartial.description>
+  <PawnmorphCassowaryTF.label>코사와리모프</PawnmorphCassowaryTF.label>
+  <PawnmorphCassowaryTF.description>이 사람의 혈액에는 신체를 천천히 카소와리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphCassowaryTF.description>
+  <PawnmorphCassowaryTF.stages.0.label>감아내기</PawnmorphCassowaryTF.stages.0.label>
+  <PawnmorphCassowaryTF.stages.1.label>변이중</PawnmorphCassowaryTF.stages.1.label>
+  <PawnmorphCassowaryTF.stages.2.label>동물화중</PawnmorphCassowaryTF.stages.2.label>
+  <PawnmorphCassowaryTFPartial.label>카소와리 변이체 부분적</PawnmorphCassowaryTFPartial.label>
+  <PawnmorphCassowaryTFPartial.description>이 사람의 혈액에는 그들에게 카소와리 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphCassowaryTFPartial.description>
+  <PawnmorphEmuTF.label>이뮤모프</PawnmorphEmuTF.label>
+  <PawnmorphEmuTF.description>이 사람의 혈액에는 신체를 천천히 에뮤 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphEmuTF.description>
+  <PawnmorphEmuTF.stages.0.label>감아내기</PawnmorphEmuTF.stages.0.label>
+  <PawnmorphEmuTF.stages.1.label>변이중</PawnmorphEmuTF.stages.1.label>
+  <PawnmorphEmuTF.stages.2.label>동물화중</PawnmorphEmuTF.stages.2.label>
+  <PawnmorphEmuTFPartial.label>에뮤 변이체 부분적</PawnmorphEmuTFPartial.label>
+  <PawnmorphEmuTFPartial.description>이 사람의 혈액에는 그들에게 에뮤 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphEmuTFPartial.description>
+  <PawnmorphOstrichTF.label>오스트리치모프</PawnmorphOstrichTF.label>
+  <PawnmorphOstrichTF.description>이 사람의 혈액에는 신체를 천천히 타조 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphOstrichTF.description>
+  <PawnmorphOstrichTF.stages.0.label>감아내기</PawnmorphOstrichTF.stages.0.label>
+  <PawnmorphOstrichTF.stages.1.label>변이중</PawnmorphOstrichTF.stages.1.label>
+  <PawnmorphOstrichTF.stages.2.label>동물화중</PawnmorphOstrichTF.stages.2.label>
+  <PawnmorphOstrichTFPartial.label>타조모프 부분</PawnmorphOstrichTFPartial.label>
+  <PawnmorphOstrichTFPartial.description>이 사람의 혈액에는 타조와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphOstrichTFPartial.description>
+  <PawnmorphMegaslothTF.label>거대나무늘보 변이체</PawnmorphMegaslothTF.label>
+  <PawnmorphMegaslothTF.description>이 사람의 혈액에는 신체를 천천히 거대나무늘보 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 훨씬 복슬복슬한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphMegaslothTF.description>
+  <PawnmorphMegaslothTF.stages.0.label>감아내기</PawnmorphMegaslothTF.stages.0.label>
+  <PawnmorphMegaslothTF.stages.1.label>변이중</PawnmorphMegaslothTF.stages.1.label>
+  <PawnmorphMegaslothTF.stages.2.label>동물화중</PawnmorphMegaslothTF.stages.2.label>
+  <PawnmorphMegaslothTFPartial.label>불완전한 거대나무늘보 변이체</PawnmorphMegaslothTFPartial.label>
+  <PawnmorphMegaslothTFPartial.description>이 사람의 혈액속에는 거대나무늘보와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphMegaslothTFPartial.description>
+  <PawnmorphElephantTF.label>코끼리 변이체</PawnmorphElephantTF.label>
+  <PawnmorphElephantTF.description>이 사람의 혈액에는 신체를 천천히 코끼리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 상상 이상으로 거대해 질 수 있으니 주의 바랍니다.</PawnmorphElephantTF.description>
+  <PawnmorphElephantTF.stages.0.label>감아내기</PawnmorphElephantTF.stages.0.label>
+  <PawnmorphElephantTF.stages.1.label>변이중</PawnmorphElephantTF.stages.1.label>
+  <PawnmorphElephantTF.stages.2.label>동물화중</PawnmorphElephantTF.stages.2.label>
+  <PawnmorphElephantTFPartial.label>불완전한 코끼리 변이체</PawnmorphElephantTFPartial.label>
+  <PawnmorphElephantTFPartial.description>이 사람의 혈액속에는 코끼리와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphElephantTFPartial.description>
+  <PawnmorphRhinocerosTF.label>코뿔소 변이체</PawnmorphRhinocerosTF.label>
+  <PawnmorphRhinocerosTF.description>이 사람의 혈액에는 신체를 천천히 코뿔소 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 훨씬 뿔난 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRhinocerosTF.description>
+  <PawnmorphRhinocerosTF.stages.0.label>감아내기</PawnmorphRhinocerosTF.stages.0.label>
+  <PawnmorphRhinocerosTF.stages.1.label>변이중</PawnmorphRhinocerosTF.stages.1.label>
+  <PawnmorphRhinocerosTF.stages.2.label>동물화중</PawnmorphRhinocerosTF.stages.2.label>
+  <PawnmorphRhinocerosTFPartial.label>불완전한 코뿔소 변이체</PawnmorphRhinocerosTFPartial.label>
+  <PawnmorphRhinocerosTFPartial.description>이 사람의 혈액속에는 코뿔소와같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRhinocerosTFPartial.description>
+  <PawnmorphThrumboTF.label>트럼보 변이체</PawnmorphThrumboTF.label>
+  <PawnmorphThrumboTF.description>이 사람의 혈액에는 신체를 천천히 트럼보 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 지나치게 현명한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphThrumboTF.description>
+  <PawnmorphThrumboTF.stages.0.label>감아내기</PawnmorphThrumboTF.stages.0.label>
+  <PawnmorphThrumboTF.stages.1.label>변이중</PawnmorphThrumboTF.stages.1.label>
+  <PawnmorphThrumboTF.stages.2.label>동물화중</PawnmorphThrumboTF.stages.2.label>
+  <PawnmorphThrumboTFPartial.label>불완전한 트럼보 변이체</PawnmorphThrumboTFPartial.label>
+  <PawnmorphThrumboTFPartial.description>이 사람의 혈액속에는 트럼보와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphThrumboTFPartial.description>
+  <PawnmorphHuskyTF.label>허스키 변이체</PawnmorphHuskyTF.label>
+  <PawnmorphHuskyTF.description>이 사람의 혈액에는 신체를 천천히 허스키 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 개에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphHuskyTF.description>
+  <PawnmorphHuskyTF.stages.0.label>감아내기</PawnmorphHuskyTF.stages.0.label>
+  <PawnmorphHuskyTF.stages.1.label>변이중</PawnmorphHuskyTF.stages.1.label>
+  <PawnmorphHuskyTF.stages.2.label>동물화중</PawnmorphHuskyTF.stages.2.label>
+  <PawnmorphHuskyTFPartial.label>불완전한 허스키 변이체</PawnmorphHuskyTFPartial.label>
+  <PawnmorphHuskyTFPartial.description>이 사람의 혈액속에는 허스키와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHuskyTFPartial.description>
+  <PawnmorphLabradorRetrieverTF.label>래브라도리트리버모프</PawnmorphLabradorRetrieverTF.label>
+  <PawnmorphLabradorRetrieverTF.description>이 사람의 혈액에는 신체를 천천히 랩모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 개 같아질 수 있으니 주의해야 합니다.</PawnmorphLabradorRetrieverTF.description>
+  <PawnmorphLabradorRetrieverTF.stages.0.label>감아내기</PawnmorphLabradorRetrieverTF.stages.0.label>
+  <PawnmorphLabradorRetrieverTF.stages.1.label>변이중</PawnmorphLabradorRetrieverTF.stages.1.label>
+  <PawnmorphLabradorRetrieverTF.stages.2.label>동물화중</PawnmorphLabradorRetrieverTF.stages.2.label>
+  <PawnmorphLabradorRetrieverTFPartial.label>랩모프 부분</PawnmorphLabradorRetrieverTFPartial.label>
+  <PawnmorphLabradorRetrieverTFPartial.description>이 사람의 혈액에는 래브라도와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphLabradorRetrieverTFPartial.description>
+  <PawnmorphTerrierTF.label>테리어모프</PawnmorphTerrierTF.label>
+  <PawnmorphTerrierTF.description>이 사람의 혈액에는 신체를 천천히 테리어모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 개 같아질 수 있으니 주의해야 합니다.</PawnmorphTerrierTF.description>
+  <PawnmorphTerrierTF.stages.0.label>감아내기</PawnmorphTerrierTF.stages.0.label>
+  <PawnmorphTerrierTF.stages.1.label>변이중</PawnmorphTerrierTF.stages.1.label>
+  <PawnmorphTerrierTF.stages.2.label>동물화중</PawnmorphTerrierTF.stages.2.label>
+  <PawnmorphTerrierTFPartial.label>테리어모프 부분</PawnmorphTerrierTFPartial.label>
+  <PawnmorphTerrierTFPartial.description>이 사람의 혈액에는 요크셔 테리어와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphTerrierTFPartial.description>
+  <PawnmorphArcticWolfTF.label>북극여우 변이체</PawnmorphArcticWolfTF.label>
+  <PawnmorphArcticWolfTF.description>이 사람의 혈액에는 신체를 천천히 북극 늑대 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 늑대에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphArcticWolfTF.description>
+  <PawnmorphArcticWolfTF.stages.0.label>감아내기</PawnmorphArcticWolfTF.stages.0.label>
+  <PawnmorphArcticWolfTF.stages.1.label>변이중</PawnmorphArcticWolfTF.stages.1.label>
+  <PawnmorphArcticWolfTF.stages.2.label>동물화중</PawnmorphArcticWolfTF.stages.2.label>
+  <PawnmorphArcticWolfTFPartial.label>불완전한 극지늑대 변이체</PawnmorphArcticWolfTFPartial.label>
+  <PawnmorphArcticWolfTFPartial.description>이 사람의 혈액속에는 북극 늑대같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphArcticWolfTFPartial.description>
+  <PawnmorphWolfTF.label>늑대 변이체</PawnmorphWolfTF.label>
+  <PawnmorphWolfTF.description>이 사람의 혈액에는 신체를 천천히 북극 늑대 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 늑대에 가까운 결과물을 초래할수 있으니 주의 바랍니다. 하지만, 그렇게나 나쁜걸까요?</PawnmorphWolfTF.description>
+  <PawnmorphWolfTF.stages.0.label>감아내기</PawnmorphWolfTF.stages.0.label>
+  <PawnmorphWolfTF.stages.1.label>변이중</PawnmorphWolfTF.stages.1.label>
+  <PawnmorphWolfTF.stages.2.label>동물화중</PawnmorphWolfTF.stages.2.label>
+  <PawnmorphWolfTFPartial.label>불완전한 늑대 변이체</PawnmorphWolfTFPartial.label>
+  <PawnmorphWolfTFPartial.description>이 사람의 혈액속에는 회색 늑대같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphWolfTFPartial.description>
+  <PM_HellhoundTf.label>지옥개 변이체</PM_HellhoundTf.label>
+  <PM_HellhoundTf.description>이 사람의 혈액에는 신체를 천천히 개 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 개와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PM_HellhoundTf.description>
+  <PM_HellhoundTf.stages.0.label>감아내기</PM_HellhoundTf.stages.0.label>
+  <PM_HellhoundTf.stages.1.label>변이중</PM_HellhoundTf.stages.1.label>
+  <PM_HellhoundTf.stages.2.label>동물화중</PM_HellhoundTf.stages.2.label>
+  <PM_HellhoundTfPartial.label>불완전한 지옥개 변이체</PM_HellhoundTfPartial.label>
+  <PM_HellhoundTfPartial.description>이 사람의 혈액속에는 지옥개 변이를 유도하는 메카나이트가 있습니다.</PM_HellhoundTfPartial.description>
+  <PawnmorphWargTF.label>와르그 변이체</PawnmorphWargTF.label>
+  <PawnmorphWargTF.description>이 사람의 혈액에는 신체를 천천히 와르그 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 훨씬 포악한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphWargTF.description>
+  <PawnmorphWargTF.stages.0.label>감아내기</PawnmorphWargTF.stages.0.label>
+  <PawnmorphWargTF.stages.1.label>변이중</PawnmorphWargTF.stages.1.label>
+  <PawnmorphWargTF.stages.2.label>동물화중</PawnmorphWargTF.stages.2.label>
+  <PawnmorphWargTFPartial.label>불완전한 와르그 변이체</PawnmorphWargTFPartial.label>
+  <PawnmorphWargTFPartial.description>이 사람의 혈액속에는 와르그와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphWargTFPartial.description>
+  <PawnmorphCougarTF.label>퓨마 변이체</PawnmorphCougarTF.label>
+  <PawnmorphCougarTF.description>이 사람의 혈액에는 신체를 천천히 퓨마 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCougarTF.description>
+  <PawnmorphCougarTF.stages.0.label>감아내기</PawnmorphCougarTF.stages.0.label>
+  <PawnmorphCougarTF.stages.1.label>변이중</PawnmorphCougarTF.stages.1.label>
+  <PawnmorphCougarTF.stages.2.label>동물화중</PawnmorphCougarTF.stages.2.label>
+  <PawnmorphCougarTFPartial.label>불완전한 퓨마 변이체</PawnmorphCougarTFPartial.label>
+  <PawnmorphCougarTFPartial.description>이 사람의 혈액속에는 퓨마같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCougarTFPartial.description>
+  <PawnmorphLynxTF.label>삵 변이체</PawnmorphLynxTF.label>
+  <PawnmorphLynxTF.description>이 사람의 혈액에는 신체를 천천히 삵 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphLynxTF.description>
+  <PawnmorphLynxTF.stages.0.label>감아내기</PawnmorphLynxTF.stages.0.label>
+  <PawnmorphLynxTF.stages.1.label>변이중</PawnmorphLynxTF.stages.1.label>
+  <PawnmorphLynxTF.stages.2.label>동물화중</PawnmorphLynxTF.stages.2.label>
+  <PawnmorphLynxTFPartial.label>불완전한 삵 변이체</PawnmorphLynxTFPartial.label>
+  <PawnmorphLynxTFPartial.description>이 사람의 혈액속에는 삵과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphLynxTFPartial.description>
+  <PawnmorphCatTF.label>고양이 변이체</PawnmorphCatTF.label>
+  <PawnmorphCatTF.description>이 사람의 혈액에는 신체를 천천히 고양이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCatTF.description>
+  <PawnmorphCatTF.stages.0.label>감아내기</PawnmorphCatTF.stages.0.label>
+  <PawnmorphCatTF.stages.1.label>변이중</PawnmorphCatTF.stages.1.label>
+  <PawnmorphCatTF.stages.2.label>동물화중</PawnmorphCatTF.stages.2.label>
+  <PawnmorphCatTFPartial.label>불완전한 고양이 변이체</PawnmorphCatTFPartial.label>
+  <PawnmorphCatTFPartial.description>이 사람의 혈액속에는 고양이 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCatTFPartial.description>
+  <PawnmorphPantherTF.label>흑표 변이체</PawnmorphPantherTF.label>
+  <PawnmorphPantherTF.description>이 사람의 혈액에는 신체를 천천히 흑표 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 고양이과에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPantherTF.description>
+  <PawnmorphPantherTF.stages.0.label>감아내기</PawnmorphPantherTF.stages.0.label>
+  <PawnmorphPantherTF.stages.1.label>변이중</PawnmorphPantherTF.stages.1.label>
+  <PawnmorphPantherTF.stages.2.label>동물화중</PawnmorphPantherTF.stages.2.label>
+  <PawnmorphPantherTFPartial.label>불완전한 흑표 변이체</PawnmorphPantherTFPartial.label>
+  <PawnmorphPantherTFPartial.description>이 사람의 혈액속에는 흑표와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPantherTFPartial.description>
+  <PawnmorphArcticFoxTF.label>아틱폭스모프</PawnmorphArcticFoxTF.label>
+  <PawnmorphArcticFoxTF.description>이 사람의 혈액에는 신체를 천천히 북극 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 여우에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphArcticFoxTF.description>
+  <PawnmorphArcticFoxTF.stages.0.label>감아내기</PawnmorphArcticFoxTF.stages.0.label>
+  <PawnmorphArcticFoxTF.stages.1.label>변이중</PawnmorphArcticFoxTF.stages.1.label>
+  <PawnmorphArcticFoxTF.stages.2.label>동물화중</PawnmorphArcticFoxTF.stages.2.label>
+  <PawnmorphArcticFoxTFPartial.label>불완전한 북극여우 변이체</PawnmorphArcticFoxTFPartial.label>
+  <PawnmorphArcticFoxTFPartial.description>이 사람의 혈액속에는 북극 여우같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphArcticFoxTFPartial.description>
+  <PawnmorphFennecFoxTF.label>불완전한 사막여우 변이체</PawnmorphFennecFoxTF.label>
+  <PawnmorphFennecFoxTF.description>이 사람의 혈액에는 신체를 천천히 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 여우에 가까운 결과물을 초래할수 있으니 주의 바랍니다. 하지만, 그게 그렇게나 나쁜걸까요?</PawnmorphFennecFoxTF.description>
+  <PawnmorphFennecFoxTF.stages.0.label>감아내기</PawnmorphFennecFoxTF.stages.0.label>
+  <PawnmorphFennecFoxTF.stages.1.label>변이중</PawnmorphFennecFoxTF.stages.1.label>
+  <PawnmorphFennecFoxTF.stages.2.label>동물화중</PawnmorphFennecFoxTF.stages.2.label>
+  <PawnmorphFennecFoxTFPartial.label>불완전한 사막여우 변이체</PawnmorphFennecFoxTFPartial.label>
+  <PawnmorphFennecFoxTFPartial.description>이 사람의 혈액속에는 사막 여우와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphFennecFoxTFPartial.description>
+  <PawnmorphFoxTF.label>레드폭스모프</PawnmorphFoxTF.label>
+  <PawnmorphFoxTF.description>이 사람의 혈액에는 신체를 천천히 북극 여우 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 이와 같은 개채들 보다 훨씬 영악한 존재로 거듭날 수도 있습니다.</PawnmorphFoxTF.description>
+  <PawnmorphFoxTF.stages.0.label>감아내기</PawnmorphFoxTF.stages.0.label>
+  <PawnmorphFoxTF.stages.1.label>변이중</PawnmorphFoxTF.stages.1.label>
+  <PawnmorphFoxTF.stages.2.label>동물화중</PawnmorphFoxTF.stages.2.label>
+  <PawnmorphFoxTFPartial.label>불완전한 여우 변이체</PawnmorphFoxTFPartial.label>
+  <PawnmorphFoxTFPartial.description>이 사람의 혈액속에는 여우와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphFoxTFPartial.description>
+  <PawnmorphRaccoonTF.label>너구리 변이체</PawnmorphRaccoonTF.label>
+  <PawnmorphRaccoonTF.description>이 사람의 혈액에는 신체를 천천히 너구리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 너구리에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRaccoonTF.description>
+  <PawnmorphRaccoonTF.stages.0.label>감아내기</PawnmorphRaccoonTF.stages.0.label>
+  <PawnmorphRaccoonTF.stages.1.label>변이중</PawnmorphRaccoonTF.stages.1.label>
+  <PawnmorphRaccoonTF.stages.2.label>동물화중</PawnmorphRaccoonTF.stages.2.label>
+  <PawnmorphRaccoonTFPartial.label>불완전한 너구리 변이체</PawnmorphRaccoonTFPartial.label>
+  <PawnmorphRaccoonTFPartial.description>이 사람의 혈액속에는 너구리와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRaccoonTFPartial.description>
+  <PawnmorphHareTF.label>토끼 변이체</PawnmorphHareTF.label>
+  <PawnmorphHareTF.description>이 사람의 혈액에는 신체를 천천히 토끼 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 토끼에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphHareTF.description>
+  <PawnmorphHareTF.stages.0.label>감아내기</PawnmorphHareTF.stages.0.label>
+  <PawnmorphHareTF.stages.1.label>변이중</PawnmorphHareTF.stages.1.label>
+  <PawnmorphHareTF.stages.2.label>동물화중</PawnmorphHareTF.stages.2.label>
+  <PawnmorphHareTFPartial.label>불완전한 토끼 변이체</PawnmorphHareTFPartial.label>
+  <PawnmorphHareTFPartial.description>이 사람의 혈액속에는 토끼와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHareTFPartial.description>
+  <PawnmorphSnowhareTF.label>눈토끼 변이체</PawnmorphSnowhareTF.label>
+  <PawnmorphSnowhareTF.description>이 사람의 혈액에는 신체를 천천히 눈토끼 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 다산할 수도 있으니, 주의 바랍니다.</PawnmorphSnowhareTF.description>
+  <PawnmorphSnowhareTF.stages.0.label>감아내기</PawnmorphSnowhareTF.stages.0.label>
+  <PawnmorphSnowhareTF.stages.1.label>변이중</PawnmorphSnowhareTF.stages.1.label>
+  <PawnmorphSnowhareTF.stages.2.label>동물화중</PawnmorphSnowhareTF.stages.2.label>
+  <PawnmorphSnowhareTFPartial.label>불완전한 눈토끼 변이체</PawnmorphSnowhareTFPartial.label>
+  <PawnmorphSnowhareTFPartial.description>이 사람의 혈액속에는 눈토끼와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnowhareTFPartial.description>
+  <PawnmorphAlphabeaverTF.label>알파비버모프</PawnmorphAlphabeaverTF.label>
+  <PawnmorphAlphabeaverTF.description>이 사람의 혈액에는 신체를 천천히 알파비버모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 비버 같아질 수 있으니 주의해야 합니다.</PawnmorphAlphabeaverTF.description>
+  <PawnmorphAlphabeaverTF.stages.0.label>감아내기</PawnmorphAlphabeaverTF.stages.0.label>
+  <PawnmorphAlphabeaverTF.stages.1.label>변이중</PawnmorphAlphabeaverTF.stages.1.label>
+  <PawnmorphAlphabeaverTF.stages.2.label>동물화중</PawnmorphAlphabeaverTF.stages.2.label>
+  <PawnmorphAlphabeaverTFPartial.label>알파비버모프 부분</PawnmorphAlphabeaverTFPartial.label>
+  <PawnmorphAlphabeaverTFPartial.description>이 사람의 혈액에는 비버와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphAlphabeaverTFPartial.description>
+  <PawnmorphCapybaraTF.label>카피바라모프</PawnmorphCapybaraTF.label>
+  <PawnmorphCapybaraTF.description>이 사람의 혈액에는 신체를 천천히 카피바라모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 카피바라 같아질 수 있으니 주의해야 합니다.</PawnmorphCapybaraTF.description>
+  <PawnmorphCapybaraTF.stages.0.label>감아내기</PawnmorphCapybaraTF.stages.0.label>
+  <PawnmorphCapybaraTF.stages.1.label>변이중</PawnmorphCapybaraTF.stages.1.label>
+  <PawnmorphCapybaraTF.stages.2.label>동물화중</PawnmorphCapybaraTF.stages.2.label>
+  <PawnmorphCapybaraTFPartial.label>카피바라모프 부분</PawnmorphCapybaraTFPartial.label>
+  <PawnmorphCapybaraTFPartial.description>이 사람의 혈액에는 카피바라와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphCapybaraTFPartial.description>
+  <PawnmorphSquirrelTF.label>다람쥐 변이체</PawnmorphSquirrelTF.label>
+  <PawnmorphSquirrelTF.description>이 사람의 혈액에는 신체를 천천히 다람쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 다람쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphSquirrelTF.description>
+  <PawnmorphSquirrelTF.stages.0.label>감아내기</PawnmorphSquirrelTF.stages.0.label>
+  <PawnmorphSquirrelTF.stages.1.label>변이중</PawnmorphSquirrelTF.stages.1.label>
+  <PawnmorphSquirrelTF.stages.2.label>동물화중</PawnmorphSquirrelTF.stages.2.label>
+  <PawnmorphSquirrelTFPartial.label>불완전한 양 변이체</PawnmorphSquirrelTFPartial.label>
+  <PawnmorphSquirrelTFPartial.description>이 사람의 혈액속에는 다람쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSquirrelTFPartial.description>
+  <PawnmorphBoomratTF.label>붐랫모프</PawnmorphBoomratTF.label>
+  <PawnmorphBoomratTF.description>이 사람의 혈액에는 신체를 천천히 붐랫모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 원하지 않는 폭발적인 결과를 초래할 수 있으니 주의해야 합니다.</PawnmorphBoomratTF.description>
+  <PawnmorphBoomratTF.stages.0.label>감아내기</PawnmorphBoomratTF.stages.0.label>
+  <PawnmorphBoomratTF.stages.1.label>변이중</PawnmorphBoomratTF.stages.1.label>
+  <PawnmorphBoomratTF.stages.2.label>동물화중</PawnmorphBoomratTF.stages.2.label>
+  <PawnmorphBoomratTFPartial.label>붐랫모프 부분</PawnmorphBoomratTFPartial.label>
+  <PawnmorphBoomratTFPartial.description>이 사람의 혈액에는 붐랫 변이를 제공하는 메카나이트가 있습니다.</PawnmorphBoomratTFPartial.description>
+  <PawnmorphChinchillaTF.label>치칠라모프</PawnmorphChinchillaTF.label>
+  <PawnmorphChinchillaTF.description>이 사람의 혈액에는 신체를 천천히 친칠라모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 친칠라 같아질 수 있으니 주의해야 합니다.</PawnmorphChinchillaTF.description>
+  <PawnmorphChinchillaTF.stages.0.label>감아내기</PawnmorphChinchillaTF.stages.0.label>
+  <PawnmorphChinchillaTF.stages.1.label>변이중</PawnmorphChinchillaTF.stages.1.label>
+  <PawnmorphChinchillaTF.stages.2.label>동물화중</PawnmorphChinchillaTF.stages.2.label>
+  <PawnmorphChinchillaTFPartial.label>진칠라 변종 부분적</PawnmorphChinchillaTFPartial.label>
+  <PawnmorphChinchillaTFPartial.description>이 사람의 혈액에는 진드기 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphChinchillaTFPartial.description>
+  <PawnmorphGuineaPigTF.label>기니피그모프</PawnmorphGuineaPigTF.label>
+  <PawnmorphGuineaPigTF.description>이 사람의 혈액에는 천천히 기니피그 변이체로 변이시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 인간보다 기니피그처럼 되어갈 수 있으니 주의 바랍니다.</PawnmorphGuineaPigTF.description>
+  <PawnmorphGuineaPigTF.stages.0.label>감아내기</PawnmorphGuineaPigTF.stages.0.label>
+  <PawnmorphGuineaPigTF.stages.1.label>변이중</PawnmorphGuineaPigTF.stages.1.label>
+  <PawnmorphGuineaPigTF.stages.2.label>동물화중</PawnmorphGuineaPigTF.stages.2.label>
+  <PawnmorphGuineaPigTFPartial.label>기니피그 변종 부분적</PawnmorphGuineaPigTFPartial.label>
+  <PawnmorphGuineaPigTFPartial.description>이 사람의 혈액에는 기니피그 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphGuineaPigTFPartial.description>
+  <PawnmorphRatTF.label>쥐 변이체</PawnmorphRatTF.label>
+  <PawnmorphRatTF.description>이 사람의 혈액에는 신체를 천천히 쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRatTF.description>
+  <PawnmorphRatTF.stages.0.label>감아내기</PawnmorphRatTF.stages.0.label>
+  <PawnmorphRatTF.stages.1.label>변이중</PawnmorphRatTF.stages.1.label>
+  <PawnmorphRatTF.stages.2.label>동물화중</PawnmorphRatTF.stages.2.label>
+  <PawnmorphRatTFPartial.label>불완전한 쥐 변이체</PawnmorphRatTFPartial.label>
+  <PawnmorphRatTFPartial.description>이 사람의 혈액속에는 쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphRatTFPartial.description>
+  <PawnmorphBearTF.label>그리즐리베어모프</PawnmorphBearTF.label>
+  <PawnmorphBearTF.description>이 사람의 혈액에는 신체를 천천히 곰 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 곰에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBearTF.description>
+  <PawnmorphBearTF.stages.0.label>감아내기</PawnmorphBearTF.stages.0.label>
+  <PawnmorphBearTF.stages.1.label>변이중</PawnmorphBearTF.stages.1.label>
+  <PawnmorphBearTF.stages.2.label>동물화중</PawnmorphBearTF.stages.2.label>
+  <PawnmorphBearTFPartial.label>불완전한 곰 변이체</PawnmorphBearTFPartial.label>
+  <PawnmorphBearTFPartial.description>이 사람의 혈액속에는 불곰과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBearTFPartial.description>
+  <PawnmorphPolarBearTF.label>폴라베어모프</PawnmorphPolarBearTF.label>
+  <PawnmorphPolarBearTF.description>이 사람의 혈액에는 신체를 천천히 곰 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 북극곰에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPolarBearTF.description>
+  <PawnmorphPolarBearTF.stages.0.label>감아내기</PawnmorphPolarBearTF.stages.0.label>
+  <PawnmorphPolarBearTF.stages.1.label>변이중</PawnmorphPolarBearTF.stages.1.label>
+  <PawnmorphPolarBearTF.stages.2.label>동물화중</PawnmorphPolarBearTF.stages.2.label>
+  <PawnmorphPolarBearTFPartial.label>불완전한 곰 변이체</PawnmorphPolarBearTFPartial.label>
+  <PawnmorphPolarBearTFPartial.description>이 사람의 혈액속에는 북극곰과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPolarBearTFPartial.description>
+  <PawnmorphIguanaTF.label>이구아나 변이체</PawnmorphIguanaTF.label>
+  <PawnmorphIguanaTF.description>이 사람의 혈액에는 신체를 천천히 이구아나 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 파충류에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphIguanaTF.description>
+  <PawnmorphIguanaTF.stages.0.label>감아내기</PawnmorphIguanaTF.stages.0.label>
+  <PawnmorphIguanaTF.stages.1.label>변이중</PawnmorphIguanaTF.stages.1.label>
+  <PawnmorphIguanaTF.stages.2.label>동물화중</PawnmorphIguanaTF.stages.2.label>
+  <PawnmorphIguanaTFPartial.label>불완전한 이구아나 변이체</PawnmorphIguanaTFPartial.label>
+  <PawnmorphIguanaTFPartial.description>이 사람의 혈액속에는 이구아나와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphIguanaTFPartial.description>
+  <PawnmorphSnakeTF.label>코브라 변이체</PawnmorphSnakeTF.label>
+  <PawnmorphSnakeTF.description>이 사람의 혈액에는 신체를 천천히 코브라 변이체로 변이 시키는 메카나이트가 있습니다. 주의 하지 않으면 뱀과 같은 교활함에 당할 수 있습니다.</PawnmorphSnakeTF.description>
+  <PawnmorphSnakeTF.stages.0.label>감아내기</PawnmorphSnakeTF.stages.0.label>
+  <PawnmorphSnakeTF.stages.1.label>변이중</PawnmorphSnakeTF.stages.1.label>
+  <PawnmorphSnakeTF.stages.2.label>동물화중</PawnmorphSnakeTF.stages.2.label>
+  <PawnmorphSnakeTFPartial.label>불완전한 코브라 변이체</PawnmorphSnakeTFPartial.label>
+  <PawnmorphSnakeTFPartial.description>이 사람의 혈액속에는 코브라 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnakeTFPartial.description>
+  <PawnmorphTortoiseTF.label>거북이 변이체</PawnmorphTortoiseTF.label>
+  <PawnmorphTortoiseTF.description>이 사람의 혈액에는 천천히 거북이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 인간보다 거북이처럼 될 수 있으니 주의 바랍니다.</PawnmorphTortoiseTF.description>
+  <PawnmorphTortoiseTF.stages.0.label>감아내기</PawnmorphTortoiseTF.stages.0.label>
+  <PawnmorphTortoiseTF.stages.1.label>변이중</PawnmorphTortoiseTF.stages.1.label>
+  <PawnmorphTortoiseTF.stages.2.label>동물화중</PawnmorphTortoiseTF.stages.2.label>
+  <PawnmorphTortoiseTFPartial.label>불왕전한 거북이 변이체</PawnmorphTortoiseTFPartial.label>
+  <PawnmorphTortoiseTFPartial.description>이 사람의 혈액에는 거북이 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphTortoiseTFPartial.description>
+  <PawnmorphMonkeyTF.label>원숭이 변이체</PawnmorphMonkeyTF.label>
+  <PawnmorphMonkeyTF.description>이 사람의 혈액에는 신체를 천천히 원숭이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 지나가던 사람들에게 똥을 던질 수도 있으니 바랍니다.</PawnmorphMonkeyTF.description>
+  <PawnmorphMonkeyTF.stages.0.label>감아내기</PawnmorphMonkeyTF.stages.0.label>
+  <PawnmorphMonkeyTF.stages.1.label>변이중</PawnmorphMonkeyTF.stages.1.label>
+  <PawnmorphMonkeyTF.stages.2.label>동물화중</PawnmorphMonkeyTF.stages.2.label>
+  <PawnmorphMonkeyTFPartial.label>불완전한 원숭이 변이체</PawnmorphMonkeyTFPartial.label>
+  <PawnmorphMonkeyTFPartial.description>이 사람의 혈액속에는 원숭이와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphMonkeyTFPartial.description>
+  <PawnmorphCowTF.label>소 변이체</PawnmorphCowTF.label>
+  <PawnmorphCowTF.description>이 사람의 혈액에는 신체를 천천히 소 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 소와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphCowTF.description>
+  <PawnmorphCowTF.stages.0.label>감아내기</PawnmorphCowTF.stages.0.label>
+  <PawnmorphCowTF.stages.1.label>변이중</PawnmorphCowTF.stages.1.label>
+  <PawnmorphCowTF.stages.2.label>동물화중</PawnmorphCowTF.stages.2.label>
+  <PawnmorphCowTFPartial.label>불완전한 소 변이체</PawnmorphCowTFPartial.label>
+  <PawnmorphCowTFPartial.description>이 사람의 혈액속에는 소와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCowTFPartial.description>
+  <PawnmorphMuffaloTF.label>머팔로모프</PawnmorphMuffaloTF.label>
+  <PawnmorphMuffaloTF.description>이 사람의 혈액에는 천천히 머플로 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 사람보다 소처럼 될 수 있으니 주의 바랍니다.</PawnmorphMuffaloTF.description>
+  <PawnmorphMuffaloTF.stages.0.label>감아내기</PawnmorphMuffaloTF.stages.0.label>
+  <PawnmorphMuffaloTF.stages.1.label>변이중</PawnmorphMuffaloTF.stages.1.label>
+  <PawnmorphMuffaloTF.stages.2.label>동물화중</PawnmorphMuffaloTF.stages.2.label>
+  <PawnmorphMuffaloTFPartial.label>머플로 변종 부분적</PawnmorphMuffaloTFPartial.label>
+  <PawnmorphMuffaloTFPartial.description>이 사람의 혈액에는 머플로 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphMuffaloTFPartial.description>
+  <PawnmorphYakTF.label>야크모프</PawnmorphYakTF.label>
+  <PawnmorphYakTF.description>이 사람의 혈액에는 천천히 야크 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 사람보다 소처럼 될 수 있으니 주의 바랍니다.</PawnmorphYakTF.description>
+  <PawnmorphYakTF.stages.0.label>감아내기</PawnmorphYakTF.stages.0.label>
+  <PawnmorphYakTF.stages.1.label>변이중</PawnmorphYakTF.stages.1.label>
+  <PawnmorphYakTF.stages.2.label>동물화중</PawnmorphYakTF.stages.2.label>
+  <PawnmorphYakTFPartial.label>불완전한 야크 변이체</PawnmorphYakTFPartial.label>
+  <PawnmorphYakTFPartial.description>이 사람은 혈액 속에 야크와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphYakTFPartial.description>
+  <PawnmorphBisonTF.label>바이슨모프</PawnmorphBisonTF.label>
+  <PawnmorphBisonTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 바이슨모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 우와 같아질 수 있습니다.</PawnmorphBisonTF.description>
+  <PawnmorphBisonTF.stages.0.label>감아내기</PawnmorphBisonTF.stages.0.label>
+  <PawnmorphBisonTF.stages.1.label>변이중</PawnmorphBisonTF.stages.1.label>
+  <PawnmorphBisonTF.stages.2.label>동물화중</PawnmorphBisonTF.stages.2.label>
+  <PawnmorphBisonTFPartial.label>불완전한 바이슨 변이체</PawnmorphBisonTFPartial.label>
+  <PawnmorphBisonTFPartial.description>이 사람은 혈액 속에 바이슨과 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphBisonTFPartial.description>
+  <PawnmorphAlpacaTF.label>알파카 변이체</PawnmorphAlpacaTF.label>
+  <PawnmorphAlpacaTF.description>이 사람의 혈액에는 신체를 천천히 알파카 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 알파카에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphAlpacaTF.description>
+  <PawnmorphAlpacaTF.stages.0.label>감아내기</PawnmorphAlpacaTF.stages.0.label>
+  <PawnmorphAlpacaTF.stages.1.label>변이중</PawnmorphAlpacaTF.stages.1.label>
+  <PawnmorphAlpacaTF.stages.2.label>동물화중</PawnmorphAlpacaTF.stages.2.label>
+  <PawnmorphAlpacaTFPartial.label>불완전한 알파카 변이체</PawnmorphAlpacaTFPartial.label>
+  <PawnmorphAlpacaTFPartial.description>이 사람의 혈액속에는 알파카와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphAlpacaTFPartial.description>
+  <PawnmorphDromedaryTF.label>드로메다리모프</PawnmorphDromedaryTF.label>
+  <PawnmorphDromedaryTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 드로메다리 모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 낙타와 같아질 수 있습니다.</PawnmorphDromedaryTF.description>
+  <PawnmorphDromedaryTF.stages.0.label>감아내기</PawnmorphDromedaryTF.stages.0.label>
+  <PawnmorphDromedaryTF.stages.1.label>변이중</PawnmorphDromedaryTF.stages.1.label>
+  <PawnmorphDromedaryTF.stages.2.label>동물화중</PawnmorphDromedaryTF.stages.2.label>
+  <PawnmorphDromedaryTFPartial.label>불완전한 드로메다리 변이체</PawnmorphDromedaryTFPartial.label>
+  <PawnmorphDromedaryTFPartial.description>이 사람은 혈액 속에 드로메다리와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphDromedaryTFPartial.description>
+  <PawnmorphGoatTF.label>염소모프</PawnmorphGoatTF.label>
+  <PawnmorphGoatTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 고트모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 염소와 같아질 수 있습니다.</PawnmorphGoatTF.description>
+  <PawnmorphGoatTF.stages.0.label>감아내기</PawnmorphGoatTF.stages.0.label>
+  <PawnmorphGoatTF.stages.1.label>변이중</PawnmorphGoatTF.stages.1.label>
+  <PawnmorphGoatTF.stages.2.label>동물화중</PawnmorphGoatTF.stages.2.label>
+  <PawnmorphGoatTFPartial.label>불완전한 고트 변이체</PawnmorphGoatTFPartial.label>
+  <PawnmorphGoatTFPartial.description>이 사람은 혈액 속에 염소와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphGoatTFPartial.description>
+  <PawnmorphIbexTF.label>아이벡스모프</PawnmorphIbexTF.label>
+  <PawnmorphIbexTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 이벡스모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 야생 염소와 같아질 수 있습니다.</PawnmorphIbexTF.description>
+  <PawnmorphIbexTF.stages.0.label>감아내기</PawnmorphIbexTF.stages.0.label>
+  <PawnmorphIbexTF.stages.1.label>변이중</PawnmorphIbexTF.stages.1.label>
+  <PawnmorphIbexTF.stages.2.label>동물화중</PawnmorphIbexTF.stages.2.label>
+  <PawnmorphIbexTFPartial.label>불완전한 이벡스 변이체</PawnmorphIbexTFPartial.label>
+  <PawnmorphIbexTFPartial.description>이 사람은 혈액 속에 이벡스와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphIbexTFPartial.description>
+  <PawnmorphSheepTF.label>양 변이체</PawnmorphSheepTF.label>
+  <PawnmorphSheepTF.description>이 사람의 혈액에는 신체를 천천히 양 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 너무 양같이 될수 있으니 주의 바랍니다.</PawnmorphSheepTF.description>
+  <PawnmorphSheepTF.stages.0.label>감아내기</PawnmorphSheepTF.stages.0.label>
+  <PawnmorphSheepTF.stages.1.label>변이중</PawnmorphSheepTF.stages.1.label>
+  <PawnmorphSheepTF.stages.2.label>동물화중</PawnmorphSheepTF.stages.2.label>
+  <PawnmorphSheepTFPartial.label>불완전한 양 변이체</PawnmorphSheepTFPartial.label>
+  <PawnmorphSheepTFPartial.description>이 사람의 혈액속에는 양과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSheepTFPartial.description>
+  <PawnmorphCaribouTF.label>순록모프</PawnmorphCaribouTF.label>
+  <PawnmorphCaribouTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 카리부 모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 순록과 같아질 수 있습니다.</PawnmorphCaribouTF.description>
+  <PawnmorphCaribouTF.stages.0.label>감아내기</PawnmorphCaribouTF.stages.0.label>
+  <PawnmorphCaribouTF.stages.1.label>변이중</PawnmorphCaribouTF.stages.1.label>
+  <PawnmorphCaribouTF.stages.2.label>동물화중</PawnmorphCaribouTF.stages.2.label>
+  <PawnmorphCaribouTFPartial.label>불완전한 카리부 변이체</PawnmorphCaribouTFPartial.label>
+  <PawnmorphCaribouTFPartial.description>이 사람은 혈액 속에 순록과 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphCaribouTFPartial.description>
+  <PawnmorphElkTF.label>엘크모프</PawnmorphElkTF.label>
+  <PawnmorphElkTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 엘크모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 더 많은 엘크와 같아질 수 있습니다.</PawnmorphElkTF.description>
+  <PawnmorphElkTF.stages.0.label>감아내기</PawnmorphElkTF.stages.0.label>
+  <PawnmorphElkTF.stages.1.label>변이중</PawnmorphElkTF.stages.1.label>
+  <PawnmorphElkTF.stages.2.label>동물화중</PawnmorphElkTF.stages.2.label>
+  <PawnmorphElkTFPartial.label>불완전한 엘크 변이체</PawnmorphElkTFPartial.label>
+  <PawnmorphElkTFPartial.description>이 사람의 혈액속에는 사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphElkTFPartial.description>
+  <PawnmorphBoomalopeTF.label>폭탄사슴 변이체</PawnmorphBoomalopeTF.label>
+  <PawnmorphBoomalopeTF.description>이 사람의 혈액에는 신체를 천천히 폭탄사슴 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 폭탄사슴에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoomalopeTF.description>
+  <PawnmorphBoomalopeTF.stages.0.label>감아내기</PawnmorphBoomalopeTF.stages.0.label>
+  <PawnmorphBoomalopeTF.stages.1.label>변이중</PawnmorphBoomalopeTF.stages.1.label>
+  <PawnmorphBoomalopeTF.stages.2.label>동물화중</PawnmorphBoomalopeTF.stages.2.label>
+  <PawnmorphBoomalopeTFPartial.label>불완전한 폭탄사슴 변이체</PawnmorphBoomalopeTFPartial.label>
+  <PawnmorphBoomalopeTFPartial.description>이 사람의 혈액속에는 폭탄사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBoomalopeTFPartial.description>
+  <PawnmorphDeerTF.label>사슴 변이체</PawnmorphDeerTF.label>
+  <PawnmorphDeerTF.description>이 사람의 혈액에는 신체를 천천히 사슴 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 사슴과 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphDeerTF.description>
+  <PawnmorphDeerTF.stages.0.label>감아내기</PawnmorphDeerTF.stages.0.label>
+  <PawnmorphDeerTF.stages.1.label>변이중</PawnmorphDeerTF.stages.1.label>
+  <PawnmorphDeerTF.stages.2.label>동물화중</PawnmorphDeerTF.stages.2.label>
+  <PawnmorphDeerTFPartial.label>불완전한 사슴 변이체</PawnmorphDeerTFPartial.label>
+  <PawnmorphDeerTFPartial.description>이 사람의 혈액속에는 사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDeerTFPartial.description>
+  <PawnmorphGazelleTF.label>가젤모프</PawnmorphGazelleTF.label>
+  <PawnmorphGazelleTF.description>이 사람의 혈액속에는 천천히 가젤모프로 변이시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 가젤에 가까워질 수 있으니 주의를 기울이세요.</PawnmorphGazelleTF.description>
+  <PawnmorphGazelleTF.stages.0.label>감아내기</PawnmorphGazelleTF.stages.0.label>
+  <PawnmorphGazelleTF.stages.1.label>변이중</PawnmorphGazelleTF.stages.1.label>
+  <PawnmorphGazelleTF.stages.2.label>동물화중</PawnmorphGazelleTF.stages.2.label>
+  <PawnmorphGazelleTFPartial.label>가젤모프 부분적</PawnmorphGazelleTFPartial.label>
+  <PawnmorphGazelleTFPartial.description>이 사람의 혈액속에는 가젤과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphGazelleTFPartial.description>
+  <PawnmorphBoarTF.label>멧돼지 변이체</PawnmorphBoarTF.label>
+  <PawnmorphBoarTF.description>이 사람의 혈액에는 신체를 천천히 멧돼지 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 멧돼지에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoarTF.description>
+  <PawnmorphBoarTF.stages.0.label>감아내기</PawnmorphBoarTF.stages.0.label>
+  <PawnmorphBoarTF.stages.1.label>변이중</PawnmorphBoarTF.stages.1.label>
+  <PawnmorphBoarTF.stages.2.label>동물화중</PawnmorphBoarTF.stages.2.label>
+  <PawnmorphBoarTFPartial.label>불완전한 멧돼지 변이체</PawnmorphBoarTFPartial.label>
+  <PawnmorphBoarTFPartial.description>이 사람의 혈액속에는 멧돼지 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphBoarTFPartial.description>
+  <PawnmorphPigTF.label>돼지 변이체</PawnmorphPigTF.label>
+  <PawnmorphPigTF.description>이 사람의 혈액에는 신체를 천천히 돼지 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 돼지와 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphPigTF.description>
+  <PawnmorphPigTF.stages.0.label>감아내기</PawnmorphPigTF.stages.0.label>
+  <PawnmorphPigTF.stages.1.label>변이중</PawnmorphPigTF.stages.1.label>
+  <PawnmorphPigTF.stages.2.label>동물화중</PawnmorphPigTF.stages.2.label>
+  <PawnmorphPigTFPartial.label>불완전한 돼지 변이체</PawnmorphPigTFPartial.label>
+  <PawnmorphPigTFPartial.description>이 사람의 혈액속에는 돼지와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphPigTFPartial.description>
+  <PawnmorphDonkeyTF.label>당나귀 변이체</PawnmorphDonkeyTF.label>
+  <PawnmorphDonkeyTF.description>이 사람의 혈액에는 신체를 천천히 당나귀 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 당나귀 울음소리를 더 자주 들어야 할 수도 있으니, 주의 바랍니다.</PawnmorphDonkeyTF.description>
+  <PawnmorphDonkeyTF.stages.0.label>감아내기</PawnmorphDonkeyTF.stages.0.label>
+  <PawnmorphDonkeyTF.stages.1.label>변이중</PawnmorphDonkeyTF.stages.1.label>
+  <PawnmorphDonkeyTF.stages.2.label>동물화중</PawnmorphDonkeyTF.stages.2.label>
+  <PawnmorphDonkeyTFPartial.label>불완전한 당나귀 변이체</PawnmorphDonkeyTFPartial.label>
+  <PawnmorphDonkeyTFPartial.description>이 사람의 혈액속에는 당나귀와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDonkeyTFPartial.description>
+  <PawnmorphHorseTF.label>말 변이체</PawnmorphHorseTF.label>
+  <PawnmorphHorseTF.description>이 사람의 혈액에는 신체를 천천히 말 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 마력을 느낄수도 있으니 주의 바랍니다.</PawnmorphHorseTF.description>
+  <PawnmorphHorseTF.stages.0.label>감아내기</PawnmorphHorseTF.stages.0.label>
+  <PawnmorphHorseTF.stages.1.label>변이중</PawnmorphHorseTF.stages.1.label>
+  <PawnmorphHorseTF.stages.2.label>동물화중</PawnmorphHorseTF.stages.2.label>
+  <PawnmorphHorseTFPartial.label>불완전한 말 변이체</PawnmorphHorseTFPartial.label>
+  <PawnmorphHorseTFPartial.description>이 사람의 혈액속에는 말과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHorseTFPartial.description>
+  <FullRandomTFAnyOutcome.label>혼돈변이체</FullRandomTFAnyOutcome.label>
+  <FullRandomTFAnyOutcome.description>이 사람은 정제되지않은, 무작위적인 메카나이트가 체내에 있으며, 이는 상상 가능한 모든 동물로 끊임없이 변이를 발생시킵니다. 결과가 절망적이지 않길 랜디에게 기도하세요.</FullRandomTFAnyOutcome.description>
+  <FullRandomTFAnyOutcome.stages.0.label>감아내기</FullRandomTFAnyOutcome.stages.0.label>
+  <FullRandomTFAnyOutcome.stages.1.label>변이중</FullRandomTFAnyOutcome.stages.1.label>
+  <FullRandomTFAnyOutcome.stages.2.label>동물화중</FullRandomTFAnyOutcome.stages.2.label>
+  <FullRandomTF.label>혼돈변이체</FullRandomTF.label>
+  <FullRandomTF.description>이 사람의 혈액속에는 모든 형태의 변이를 유도하는 메카나이트가 있습니다.</FullRandomTF.description>
+  <TFDirtInEyes.label>변이성 먼지</TFDirtInEyes.label>
+  <TFDirtInEyes.description>구현 안된부분이라 볼수 없어야 합니다.</TFDirtInEyes.description>
+  <TFDirtInEyes.labelNoun>변이성 먼지</TFDirtInEyes.labelNoun>
+  <OozeInEyes.label>새어나옴</OozeInEyes.label>
+  <OozeInEyes.description>구현 안된부분이라 볼수 없어야 합니다.</OozeInEyes.description>
+  <OozeInEyes.labelNoun>새어나옴</OozeInEyes.labelNoun>
+  <TFPlantAddiction.label>변이 식물 중독</TFPlantAddiction.label>
+  <TFPlantAddiction.description>이 사람은 변형 유인 작물 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFPlantAddiction.description>
+  <TFPlantAddiction.stages.1.label>금단현상</TFPlantAddiction.stages.1.label>
+  <StabiliserLow.description>이 폰은 그들의 시스템에서 정제되지 않은 항원을 순환시켜 변형 유인체 메카나이트의 효과를 늦춥니다. 이것은 하루 동안 지속됩니다.</StabiliserLow.description>
+  <StabiliserLow.label>변이 느려짐</StabiliserLow.label>
+</LanguageData>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallPlasteelSternum.label>install plasteel sternum</InstallPlasteelSternum.label>
+  <InstallPlasteelSternum.description>Install a plasteel sternum.</InstallPlasteelSternum.description>
+  <InstallPlasteelSternum.jobString>Installing plasteel sternum.</InstallPlasteelSternum.jobString>
+  <InstallPlasteelClavicle.label>install plasteel clavicle</InstallPlasteelClavicle.label>
+  <InstallPlasteelClavicle.description>Install a plasteel clavicle.</InstallPlasteelClavicle.description>
+  <InstallPlasteelClavicle.jobString>Installing plasteel clavicle.</InstallPlasteelClavicle.jobString>
+  <InstallPlasteelHumerus.label>install plasteel humerus</InstallPlasteelHumerus.label>
+  <InstallPlasteelHumerus.description>Install a plasteel humerus.</InstallPlasteelHumerus.description>
+  <InstallPlasteelHumerus.jobString>Installing plasteel humerus.</InstallPlasteelHumerus.jobString>
+  <InstallPlasteelRadius.label>install plasteel radius</InstallPlasteelRadius.label>
+  <InstallPlasteelRadius.description>Install a plasteel radius.</InstallPlasteelRadius.description>
+  <InstallPlasteelRadius.jobString>Installing plasteel radius.</InstallPlasteelRadius.jobString>
+  <InstallPlasteelFemur.label>install plasteel femur</InstallPlasteelFemur.label>
+  <InstallPlasteelFemur.description>Install a plasteel femur.</InstallPlasteelFemur.description>
+  <InstallPlasteelFemur.jobString>Installing plasteel femur.</InstallPlasteelFemur.jobString>
+  <InstallPlasteelTibia.label>install plasteel tibia</InstallPlasteelTibia.label>
+  <InstallPlasteelTibia.description>Install a plasteel tibia.</InstallPlasteelTibia.description>
+  <InstallPlasteelTibia.jobString>Installing plasteel tibia.</InstallPlasteelTibia.jobString>
+  <InstallSimpleProstheticSternum.label>install prosthetic sternum</InstallSimpleProstheticSternum.label>
+  <InstallSimpleProstheticSternum.description>Install a prosthetic sternum.</InstallSimpleProstheticSternum.description>
+  <InstallSimpleProstheticSternum.jobString>Installing prosthetic sternum.</InstallSimpleProstheticSternum.jobString>
+  <InstallSimpleProstheticClavicle.label>install prosthetic clavicle</InstallSimpleProstheticClavicle.label>
+  <InstallSimpleProstheticClavicle.description>Install a prosthetic clavicle.</InstallSimpleProstheticClavicle.description>
+  <InstallSimpleProstheticClavicle.jobString>Installing prosthetic clavicle.</InstallSimpleProstheticClavicle.jobString>
+  <InstallSimpleProstheticHumerus.label>install prosthetic humerus</InstallSimpleProstheticHumerus.label>
+  <InstallSimpleProstheticHumerus.description>Install a prosthetic humerus.</InstallSimpleProstheticHumerus.description>
+  <InstallSimpleProstheticHumerus.jobString>Installing prosthetic humerus.</InstallSimpleProstheticHumerus.jobString>
+  <InstallSimpleProstheticRadius.label>install prosthetic radius</InstallSimpleProstheticRadius.label>
+  <InstallSimpleProstheticRadius.description>Install a prosthetic radius.</InstallSimpleProstheticRadius.description>
+  <InstallSimpleProstheticRadius.jobString>Installing prosthetic radius.</InstallSimpleProstheticRadius.jobString>
+  <InstallSimpleProstheticFemur.label>install prosthetic femur</InstallSimpleProstheticFemur.label>
+  <InstallSimpleProstheticFemur.description>Install a prosthetic femur.</InstallSimpleProstheticFemur.description>
+  <InstallSimpleProstheticFemur.jobString>Installing prosthetic femur.</InstallSimpleProstheticFemur.jobString>
+  <InstallSimpleProstheticTibia.label>install prosthetic tibia</InstallSimpleProstheticTibia.label>
+  <InstallSimpleProstheticTibia.description>Install a prosthetic tibia.</InstallSimpleProstheticTibia.description>
+  <InstallSimpleProstheticTibia.jobString>Installing prosthetic tibia.</InstallSimpleProstheticTibia.jobString>
+  <InstallArchotechInternalSupport.label>install archotech internal support</InstallArchotechInternalSupport.label>
+  <InstallArchotechInternalSupport.description>Install an archotech internal support.</InstallArchotechInternalSupport.description>
+  <InstallArchotechInternalSupport.jobString>Installing archotech internal support.</InstallArchotechInternalSupport.jobString>
+  <InstallArchotechArm.label>install archotech arm</InstallArchotechArm.label>
+  <InstallArchotechArm.description>Install an archotech arm.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>Installing archotech arm.</InstallArchotechArm.jobString>
+  <InstallArchotechForearm.label>install archotech forearm</InstallArchotechForearm.label>
+  <InstallArchotechForearm.description>Install an archotech forearm.</InstallArchotechForearm.description>
+  <InstallArchotechForearm.jobString>Installing archotech forearm.</InstallArchotechForearm.jobString>
+  <InstallArchotechHand.label>install archotech hand</InstallArchotechHand.label>
+  <InstallArchotechHand.description>Install an archotech hand.</InstallArchotechHand.description>
+  <InstallArchotechHand.jobString>Installing archotech hand.</InstallArchotechHand.jobString>
+  <InstallArchotechFinger.label>install archotech finger</InstallArchotechFinger.label>
+  <InstallArchotechFinger.description>Install an archotech finger.</InstallArchotechFinger.description>
+  <InstallArchotechFinger.jobString>Installing archotech finger.</InstallArchotechFinger.jobString>
+  <InstallArchotechLeg.label>install archotech leg</InstallArchotechLeg.label>
+  <InstallArchotechLeg.description>Install an archotech leg.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>Installing archotech leg.</InstallArchotechLeg.jobString>
+  <InstallArchotechFoot.label>install archotech foot</InstallArchotechFoot.label>
+  <InstallArchotechFoot.description>Install an archotech foot.</InstallArchotechFoot.description>
+  <InstallArchotechFoot.jobString>Installing archotech foot.</InstallArchotechFoot.jobString>
+  <InstallArchotechToe.label>install archotech toe</InstallArchotechToe.label>
+  <InstallArchotechToe.description>Install an archotech toe.</InstallArchotechToe.description>
+  <InstallArchotechToe.jobString>Installing archotech toe.</InstallArchotechToe.jobString>
+  <InstallBionicInternalSupport.label>install bionic internal support</InstallBionicInternalSupport.label>
+  <InstallBionicInternalSupport.description>Install a bionic internal support.</InstallBionicInternalSupport.description>
+  <InstallBionicInternalSupport.jobString>Installing bionic internal support.</InstallBionicInternalSupport.jobString>
+  <InstallBionicArm.label>install bionic arm</InstallBionicArm.label>
+  <InstallBionicArm.description>Install a bionic arm.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>Installing bionic arm.</InstallBionicArm.jobString>
+  <InstallBionicForearm.label>install bionic forearm</InstallBionicForearm.label>
+  <InstallBionicForearm.description>Installs a bionic forearm.</InstallBionicForearm.description>
+  <InstallBionicForearm.jobString>Installing bionic forearm.</InstallBionicForearm.jobString>
+  <InstallBionicHand.label>install bionic hand</InstallBionicHand.label>
+  <InstallBionicHand.description>Install a bionic hand.</InstallBionicHand.description>
+  <InstallBionicHand.jobString>Installing bionic hand.</InstallBionicHand.jobString>
+  <InstallBionicFinger.label>install bionic finger</InstallBionicFinger.label>
+  <InstallBionicFinger.description>Install a bionic finger.</InstallBionicFinger.description>
+  <InstallBionicFinger.jobString>Installing bionic finger.</InstallBionicFinger.jobString>
+  <InstallBionicLeg.label>install bionic leg</InstallBionicLeg.label>
+  <InstallBionicLeg.description>Install a bionic leg.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>Installing bionic leg.</InstallBionicLeg.jobString>
+  <InstallBionicFoot.label>install bionic foot</InstallBionicFoot.label>
+  <InstallBionicFoot.description>Install a bionic foot.</InstallBionicFoot.description>
+  <InstallBionicFoot.jobString>Installing bionic foot.</InstallBionicFoot.jobString>
+  <InstallBionicToe.label>install bionic toe</InstallBionicToe.label>
+  <InstallBionicToe.description>Install a bionic toe.</InstallBionicToe.description>
+  <InstallBionicToe.jobString>Installing bionic toe.</InstallBionicToe.jobString>
+  <InstallSimpleProstheticArm.label>install prosthetic arm</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.description>Install a prosthetic arm.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>Installing prosthetic arm.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticForearm.label>install prosthetic forearm</InstallSimpleProstheticForearm.label>
+  <InstallSimpleProstheticForearm.description>Installs a prosthetic forearm.</InstallSimpleProstheticForearm.description>
+  <InstallSimpleProstheticForearm.jobString>Installing prosthetic forearm.</InstallSimpleProstheticForearm.jobString>
+  <InstallSimpleProstheticHand.label>install prosthetic hand</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>Install a prosthetic hand.</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>Installing prosthetic hand.</InstallSimpleProstheticHand.jobString>
+  <InstallSimpleProstheticFinger.label>install prosthetic finger</InstallSimpleProstheticFinger.label>
+  <InstallSimpleProstheticFinger.description>Install a prosthetic finger.</InstallSimpleProstheticFinger.description>
+  <InstallSimpleProstheticFinger.jobString>Installing prosthetic finger.</InstallSimpleProstheticFinger.jobString>
+  <InstallSimpleProstheticLeg.label>install prosthetic leg</InstallSimpleProstheticLeg.label>
+  <InstallSimpleProstheticLeg.description>Install a prosthetic leg.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>Installing prosthetic leg.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticFoot.label>install prosthetic foot</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>Install a prosthetic foot.</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>Installing prosthetic foot.</InstallSimpleProstheticFoot.jobString>
+  <InstallSimpleProstheticToe.label>install prosthetic toe</InstallSimpleProstheticToe.label>
+  <InstallSimpleProstheticToe.description>Install a prosthetic toe.</InstallSimpleProstheticToe.description>
+  <InstallSimpleProstheticToe.jobString>Installing prosthetic toe.</InstallSimpleProstheticToe.jobString>
+  <MakeshiftRepair.label>makeshift repair</MakeshiftRepair.label>
+  <MakeshiftRepair.description>Repair a prosthesis using raw materials.</MakeshiftRepair.description>
+  <MakeshiftRepair.jobString>Repairing prosthesis.</MakeshiftRepair.jobString>
+  <MSE_RemoveModules.label>remove modules</MSE_RemoveModules.label>
+  <MSE_RemoveModules.description>Remove all modules from a bodypart.</MSE_RemoveModules.description>
+  <MSE_RemoveModules.jobString>Removing modules.</MSE_RemoveModules.jobString>
+  <InstallRangedPlatformModule.label>install ranged platform module</InstallRangedPlatformModule.label>
+  <InstallRangedPlatformModule.description>Install a ranged platform module.</InstallRangedPlatformModule.description>
+  <InstallRangedPlatformModule.jobString>Installing ranged platform module.</InstallRangedPlatformModule.jobString>
+  <InstallMeleePlatformModule.label>install melee platform module</InstallMeleePlatformModule.label>
+  <InstallMeleePlatformModule.description>Install a melee platform module.</InstallMeleePlatformModule.description>
+  <InstallMeleePlatformModule.jobString>Installing melee platform module.</InstallMeleePlatformModule.jobString>
+  <InstallPowerClaw.label>install power claw module</InstallPowerClaw.label>
+  <InstallPowerClaw.description>Install a power claw.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+  <InstallModuleEfficiency.label>install advanced processing module</InstallModuleEfficiency.label>
+  <InstallModuleEfficiency.description>Install an advanced processing module.</InstallModuleEfficiency.description>
+  <InstallModuleEfficiency.jobString>Installing advanced processing module.</InstallModuleEfficiency.jobString>
+  <InstallCraftingToolsModule.label>install crafting tools module</InstallCraftingToolsModule.label>
+  <InstallCraftingToolsModule.description>Install a crafting tools module.</InstallCraftingToolsModule.description>
+  <InstallCraftingToolsModule.jobString>Installing crafting tools module.</InstallCraftingToolsModule.jobString>
+</LanguageData>
