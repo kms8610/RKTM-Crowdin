@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BrickHempcrete.description>성의 느낌을 주는 세심하게 자른 석재 타일입니다. 보기에 예쁘지만, 까는데 시간이 오래 걸립니다.</BrickHempcrete.description>
+  <BrickHempcrete.label>대마콘크리트 벽돌</BrickHempcrete.label>
+  <FlagstoneHempcrete.description>거칠게 자른 돌 타일입니다. 아주 예쁘지는 않지만, 도로와 실외 보도를 만드는데 좋습니다. 판석을 해체하면 자원이 나오지 않습니다.</FlagstoneHempcrete.description>
+  <FlagstoneHempcrete.label>대마콘크리트 판석</FlagstoneHempcrete.label>
+  <Hempcrete.label>대마콘크리트</Hempcrete.label>
+  <Hempcrete.description>매끈한 대마콘크리트 바닥. 걷기 빠르고 청소하기 쉽습니다.</Hempcrete.description>
+  <HempcreteTile.label>대마콘크리트 타일</HempcreteTile.label>
+  <HempcreteTile.description>크게 만든 대마콘크리트 타일입니다. 예쁘지만 노동과 재료 면에서 많은 수고가 필요합니다.</HempcreteTile.description>
+  <HempcretePlate.label>대마콘크리트 판</HempcretePlate.label>
+  <HempcretePlate.description>크게 만든 대마콘크리트 타일입니다. 예쁘지만 노동과 재료 면에서 많은 수고가 필요합니다.</HempcretePlate.description>
+  <HempcretePath.label>대마콘크리트 길</HempcretePath.label>
+  <HempcretePath.description>매끄러운 대마콘크리트 조각으로 만든 무작위 보도입니다.</HempcretePath.description>
+  <CarpetHemp.label>대마 양탄자</CarpetHemp.label>
+  <CarpetHemp.description>대마 섬유로 짠 내구성 있는 양탄자입니다. 약간 난연성이 있습니다.</CarpetHemp.description>
+  <CarpetDevilsleaf.label>악마잎 양탄자</CarpetDevilsleaf.label>
+  <CarpetDevilsleaf.description>악마잎 섬유로 짠 양탄자입니다. 약간 난연성이 있습니다.</CarpetDevilsleaf.description>
+  <HempStalkFloor.label>대마 줄기 바닥</HempStalkFloor.label>
+  <HempStalkFloor.description>연초의 줄기로 만든 판재는 바닥을 아름답게 만듭니다. 불에는 조심하세요.</HempStalkFloor.description>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SLI_SmokeleafHigh.label>연초에 취함</SLI_SmokeleafHigh.label>
+  <SLI_SmokeleafHigh.description>기분이 높아지고, 이완된다.</SLI_SmokeleafHigh.description>
+  <SLI_SmokeleafHigh.labelNoun>연초에 취함</SLI_SmokeleafHigh.labelNoun>
+  <SLI_SmokeleafHigh.stages.0.label>약간 들뜬 상태</SLI_SmokeleafHigh.stages.0.label>
+  <SLI_SmokeleafHigh.stages.1.label>황홀감</SLI_SmokeleafHigh.stages.1.label>
+  <SLI_SmokeleafHigh.stages.2.label>완전히 취함</SLI_SmokeleafHigh.stages.2.label>
+  <SLI_SmokeleafHigh.stages.3.label>완전히 망가짐</SLI_SmokeleafHigh.stages.3.label>
+  <SLI_SmokeleafHigh.stages.4.label>초록이 되어감</SLI_SmokeleafHigh.stages.4.label>
+  <SLI_SmokeleafTolerance.stages.0.label>작음</SLI_SmokeleafTolerance.stages.0.label>
+  <SLI_SmokeleafTolerance.stages.1.label>작음</SLI_SmokeleafTolerance.stages.1.label>
+  <SLI_SmokeleafTolerance.stages.2.label>큼</SLI_SmokeleafTolerance.stages.2.label>
+  <SLI_SmokeleafTolerance.stages.3.label>심각함</SLI_SmokeleafTolerance.stages.3.label>
+  <SLI_SmokeleafTolerance.label>연초 내성</SLI_SmokeleafTolerance.label>
+  <SLI_SmokeleafTolerance.description>연초를 너무 많이 소비한다. 약간의 효과가 줄고 있다.</SLI_SmokeleafTolerance.description>
+  <SLI_SmokeleafAddiction.label>연초 의존증</SLI_SmokeleafAddiction.label>
+  <SLI_SmokeleafAddiction.description>규칙적으로 연초를 섭취하지 않으면 기분이 나빠진다.</SLI_SmokeleafAddiction.description>
+  <SLI_SmokeleafAddiction.stages.1.label>금단현상</SLI_SmokeleafAddiction.stages.1.label>
+  <SmokeleafLotionHigh.label>연초 로션</SmokeleafLotionHigh.label>
+  <SmokeleafLotionHigh.description>피부, 근육, 관절이 따끔거린다.</SmokeleafLotionHigh.description>
+  <SmokeleafPillsHigh.label>연초 알약 진정제</SmokeleafPillsHigh.label>
+  <SmokeleafPillsHigh.description>면역력 증가. 이미 더 나아지는 느낌이다.</SmokeleafPillsHigh.description>
+  <SmokeleafTinctureHigh.label>연초 팅크약</SmokeleafTinctureHigh.label>
+  <SmokeleafTinctureHigh.description>매우 이완되고, 낮잠을 자고 싶은 느낌.</SmokeleafTinctureHigh.description>
+  <EdibleSickness.label>식용 질병</EdibleSickness.label>
+  <EdibleSickness.description>연초 에디블을 섭취해서 매우 아픈 기분이에요.</EdibleSickness.description>
+  <InfusedBuzz.label>충전된 기분</InfusedBuzz.label>
+  <InfusedBuzz.description>연초 식사를 해서 가벼운 기분이 들어요.</InfusedBuzz.description>
+</LanguageData>
