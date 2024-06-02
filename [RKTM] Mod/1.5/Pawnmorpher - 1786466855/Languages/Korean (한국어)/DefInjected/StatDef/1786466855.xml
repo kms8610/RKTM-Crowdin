@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PM_NaturalMeleeEffectiveness.label>natural melee weapon effectiveness</PM_NaturalMeleeEffectiveness.label>
-  <PM_NaturalMeleeEffectiveness.description>how effect this pawn is using 'natural' weapons like claws and fangs</PM_NaturalMeleeEffectiveness.description>
-  <PM_NaturalMeleeSpeed.label>natural melee weapon speed</PM_NaturalMeleeSpeed.label>
-  <PM_NaturalMeleeSpeed.description>how quick this pawn is using 'natural' weapons like claws and fangs</PM_NaturalMeleeSpeed.description>
+  <PM_NaturalMeleeEffectiveness.label>천연 근접 무기의 효율성</PM_NaturalMeleeEffectiveness.label>
+  <PM_NaturalMeleeEffectiveness.description>'천연' 무기인 발톱과 송곳니 등을 이용하는 이 폰의 효과는 어떠한가</PM_NaturalMeleeEffectiveness.description>
+  <PM_NaturalMeleeSpeed.label>천연 근접 무기 속도</PM_NaturalMeleeSpeed.label>
+  <PM_NaturalMeleeSpeed.description>'천연' 무기인 발톱과 송곳니 등을 이용하는 이 폰의 속도는 얼마나 빠른가</PM_NaturalMeleeSpeed.description>
   <DangerousFoodSensitivity.label>위험한 음식 민감도</DangerousFoodSensitivity.label>
   <DangerousFoodSensitivity.description>폰이 위험한 음식을 먹고 식중독에 걸릴 확률</DangerousFoodSensitivity.description>
   <RottenFoodSensitivity.label>썩은 음식 민감도</RottenFoodSensitivity.label>
   <RottenFoodSensitivity.description>폰이 썩은 음식을 먹고 식중독에 걸릴 확률</RottenFoodSensitivity.description>
   <MutationAdaptability.label>변이 적응성</MutationAdaptability.label>
-  <MutationAdaptability.description>Multiplier on how well a pawn can adapt to mutations.</MutationAdaptability.description>
+  <MutationAdaptability.description>폰이 변이에 어떻게 적응하는지에 대한 배수.</MutationAdaptability.description>
   <MutagenSensitivity.label>변형물질 민감성</MutagenSensitivity.label>
   <MutagenSensitivity.description>변형 유인 효과가 이 생물에 미치는 값.</MutagenSensitivity.description>
-  <PM_MutagenPainSensitivity.label>mutagen pain sensitivity</PM_MutagenPainSensitivity.label>
-  <PM_MutagenPainSensitivity.description>how much pain a pawn receives from mutations and transformations</PM_MutagenPainSensitivity.description>
+  <PM_MutagenPainSensitivity.label>변형물질에 대한 통증 민감도</PM_MutagenPainSensitivity.label>
+  <PM_MutagenPainSensitivity.description>변이와 변형으로 인해 폰이 얼마나 많은 통증을 받는가에 대하여</PM_MutagenPainSensitivity.description>
   <TransformationSensitivity.label>번형 민감도</TransformationSensitivity.label>
   <TransformationSensitivity.description>폰에게 미치는 변형효과 배율. 높을수록 전신 변이 확률이 높아집니다.</TransformationSensitivity.description>
   <MutationHaltChance.label>변이 정지 확률</MutationHaltChance.label>
@@ -34,10 +34,10 @@
   <SapienceRecoverFactor.description>폰의 지성 회복 속도를 조종합니다.</SapienceRecoverFactor.description>
   <SapienceLimit.label>지성 제한</SapienceLimit.label>
   <SapienceLimit.description>이 폰이 가질수 있는 최고 지성.</SapienceLimit.description>
-  <PM_HasMorphStat.label>Taggable Morph</PM_HasMorphStat.label>
-  <PM_HasMorphStat.description>The morph type that can be tagged from this animal, if any.  Tagging a morph allows you to create injectors for that morph at the Injector lab, once the appropriate research has been complete.  You can also scan the animal's genome for mutations at a Mutation Sequencer.</PM_HasMorphStat.description>
-  <PM_BodySize.label>altered body size</PM_BodySize.label>
-  <PM_BodySize.description>Mutations have caused this pawn to change size.</PM_BodySize.description>
-  <PM_Lift.label>Lift</PM_Lift.label>
-  <PM_Lift.description>How much weight mutations currently provide lift for.</PM_Lift.description>
+  <PM_HasMorphStat.label>태그할 수 있는 형태</PM_HasMorphStat.label>
+  <PM_HasMorphStat.description>이 동물에서 태그할 수 있는 형태의 유형이 있습니다. 형태를 태그하면 해당 형태의 인젝터를 인젝터 연구소에서 만들 수 있습니다. 적절한 연구가 완료되면, 또한 동물의 유전체를 변이 시퀀서에서 변이를 검색 할 수 있습니다.</PM_HasMorphStat.description>
+  <PM_BodySize.label>변형된 몸통 크기</PM_BodySize.label>
+  <PM_BodySize.description>변이로 인해 이 폰의 크기가 변경되었습니다.</PM_BodySize.description>
+  <PM_Lift.label>들어올림</PM_Lift.label>
+  <PM_Lift.description>변이로 인해 현재 얼마만큼의 무게를 들어 올릴 수 있는지에 대하여.</PM_Lift.description>
 </LanguageData>
