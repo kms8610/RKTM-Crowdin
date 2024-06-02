@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechSerumMutagenicHealer.label>mutagenic healer mech serum</MechSerumMutagenicHealer.label>
+  <MechSerumMutagenicHealer.description>A lesser version of the healer mech serum made from reprogrammed mutagenic mechanites. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable, including reconstructing lost tissue and limbs. \n\nBecause some of the mechanites have leftover mutagenic programming, there is a high risk that the restored body part will end up mutated, regardless of any anti-mutagenic agent in the user's body.</MechSerumMutagenicHealer.description>
+  <MechSerumMutagenicHealer.comps.0.useLabel>Use mutagenic healer mech serum</MechSerumMutagenicHealer.comps.0.useLabel>
+  <MechSerumResurrectorTf.label>transformative resurrector mech serum</MechSerumResurrectorTf.label>
+  <MechSerumResurrectorTf.description>Death is irrelevant.</MechSerumResurrectorTf.description>
+  <MechSerumResurrectorTf.comps.0.useLabel>Use resurrector mech serum</MechSerumResurrectorTf.comps.0.useLabel>
+  <PM_ParagonInjector.label>paragon injector</PM_ParagonInjector.label>
+  <PM_ParagonInjector.description>A special injector that tunes the mechanites within the user's body, causing their existing mutations to adapt much better then normal. "Paragon" mutations, as they're known, often combine the best aspects of human and animal anatomy to increase their benefits and minimize their downsides.
+
+Paragon injectors are more powerful than adaption cream, and so can produce even more powerful adapations than what adaption cream can.</PM_ParagonInjector.description>
+  <PM_ParagonInjector.comps.0.useLabel>Use a paragon injector</PM_ParagonInjector.comps.0.useLabel>
+  <Antigen.label>antigen</Antigen.label>
+  <Antigen.description>A concentration of antigenic mechanites that have been distilled from glowvine seedpods. When injected, it can neutralize any active mutagenic mechanites in the body, but it offers no long term protection against future exposure. Also used in the production of many mutagen-neutralising or reversing agents.
+
+Raw antigen is often used as an emergency treatment for mutagenic diseases and mutagenic buildup. Those who intentionally inject themselves with morph serums also find it a cheap and reliable way to halt the effects of the serum before they fully transform.</Antigen.description>
+  <PM_HaltCream.label>halt cream</PM_HaltCream.label>
+  <PM_HaltCream.description>A balm of concentrated antigen that, when applied to a mutation, has a chance to halt its progression. It can't remove mutations, but if applied immediately after an unwanted mutation is gained it can prevent it from getting worse. Higher medical skill increases the chances of success.
+
+Halting cream is often used by industrial nations that lack the technology to produce reverter to prevent mutagen exposure victims from losing use of their hands.</PM_HaltCream.description>
+  <PM_AdaptionCream.label>adaption cream</PM_AdaptionCream.label>
+  <PM_AdaptionCream.description>An advanced balm of antigen and slurry that, when applied to a mutation, stimulates the mutation to begin adapting to a more morph-friendly state. Adapted mutations are more beneficial or less hindering than normal mutations, though not all kinds of mutations can adapt. Paragon morphs are already adapted beyond the limits of adaption cream and so will not benefit further from its effects.
+
+Adaption cream is often used to partially restore manipulation to unlucky morphs that lose their fingers to mutations.</PM_AdaptionCream.description>
+  <GenekitColorPicker.label>dermal repigmentation genekit</GenekitColorPicker.label>
+  <GenekitColorPicker.description>Dermal repigmentation genekits are a favorite of party crowds on some glitterworlds. With a simple push of a button, a person's skin and hair color can be nearly instaneously and permanently altered on the genetic level. Another kit can be used afterward to either revert the effect, or change the color selection.</GenekitColorPicker.description>
+  <GenekitColorPicker.comps.0.useLabel>Apply kit</GenekitColorPicker.comps.0.useLabel>
+  <PM_ExperimentalInjector.label>experimental injector</PM_ExperimentalInjector.label>
+  <PM_ExperimentalInjector.description>A slightly more stable alternative to raw mechanite slurry, the experimental injector is used to give random mutations to pawns in a slightly less risky fashion. As an added feature, each injector comes equipped with a temporary genebank uplink microchip that logs and stores any and all mutations gained while under the effect of this serum.</PM_ExperimentalInjector.description>
+  <PM_ChaoThrumboGenome.label>Unstable genome</PM_ChaoThrumboGenome.label>
+  <PM_ChaoThrumboGenome.description>A strange and corrupted genome. Having this interact with regular data storage would fry the system, but a new option has become available in the chamber under animals. Warning: Due to the extremely cryptic genome data contained within, the resulting animal may be far larger than the chambers can safely handle. Prepare accordingly.</PM_ChaoThrumboGenome.description>
+  <MechaniteSlurry.label>mechanite slurry</MechaniteSlurry.label>
+  <MechaniteSlurry.description>Mechanites suspended in an organic binding agent composes this pseudofluid. It is strongly recommended not to ingest raw slurry, as it will cause constant, rapid, and uncontrolled mutation. With further processing, it can be refined into safer and more controlled forms.
+
+Although it induces rapid and uncontrollable mutations, some desperate individuals are known to injest it in the hopes it may provide them useful mutations, or simply because they enjoy the transformation process. Some rimworld warlords are known to feed prisoners slurry to make them into production slaves, or simply as a form of sadistic entertainment.</MechaniteSlurry.description>
+  <UdderPill.ingestible.ingestCommandString>Take {0}</UdderPill.ingestible.ingestCommandString>
+  <UdderPill.ingestible.ingestReportString>Taking {0}.</UdderPill.ingestible.ingestReportString>
+  <UdderPill.label>mutapill, booster</UdderPill.label>
+  <UdderPill.description>A pill containing reconfigured mechanites tuned specifically to boost production mutations. Taking them will cause a morph to produce resources more rapidly, at a cost of increased hunger. Taking multiple doses will further improve production rates, but is not recommended. Side effects may include increased discomfort, hair growth, hunger, coma, and in rare cases, fiery explosions.
+
+Booster pills are illegal throughout civilized space, but are a staple for certain unethical farms to increase the yield of their "alternative livestock".</UdderPill.description>
+  <ColorsPill.ingestible.ingestCommandString>Take {0}</ColorsPill.ingestible.ingestCommandString>
+  <ColorsPill.ingestible.ingestReportString>Taking {0}.</ColorsPill.ingestible.ingestReportString>
+  <ColorsPill.label>mutapill, rgb</ColorsPill.label>
+  <ColorsPill.description>A pill that induces a random change in genes affecting pigmentation that accompanies other mutations. In short, they give the user a random new fur, feather, or scale color.
+
+RGB pills are a common party drug in some mutation-positive societies. Pranksters also find great amusement in hiding RGB pills in unsuspecting victims' meals.</ColorsPill.description>
+  <FeralPill.ingestible.ingestCommandString>Take {0}</FeralPill.ingestible.ingestCommandString>
+  <FeralPill.ingestible.ingestReportString>Taking {0}.</FeralPill.ingestible.ingestReportString>
+  <FeralPill.label>mutapill, feral</FeralPill.label>
+  <FeralPill.description>A pill to tip the scales on morphs that are reeling, but did not change fully. A single dose will kickstart the mechanites once more, guaranteeing a full transformation into an animal. Use this if you really, really want a pawn to be an animal instead of a human.
+
+When ingested by someone not currently mutating, feral pills have a side effect of gradually destabilizing higher brain functions associated with sapience. In humans and morphs this can cause them to temporarily succumb to their base instincts, while in former human animals it will cause a permanant loss of sapience as the mechanites which maintain their human consciousness are damaged.
+
+Feral pills are highly illegal in civilized space. At least one exotic animal trader has been found guilty of kidnapping, transforming, and selling former human victims drugged with feral pills until they act no differently than any other animal. Unethical farmers are also known to use them to keep their "alternative livestock" passive and easier to manage.</FeralPill.description>
+  <DryPills.ingestible.ingestCommandString>Take {0}</DryPills.ingestible.ingestCommandString>
+  <DryPills.ingestible.ingestReportString>Taking {0}.</DryPills.ingestible.ingestReportString>
+  <DryPills.label>mutapill, dry</DryPills.label>
+  <DryPills.description>A pill containing targeted mechanites that permanantly suppresses certain unwanted biological processes. It will permanantly disable all production mutations on a pawn, preventing them from producing any resources.
+
+Dry pills are often used to make mutagen exposure victims more comfortable until they can be reverted. It also works as a preventative measure against becoming etherbroken/bonded for production morphs who prefer to keep their forms but don't wish to produce.</DryPills.description>
+  <AspectReverterPills.ingestible.ingestCommandString>Take {0}</AspectReverterPills.ingestible.ingestCommandString>
+  <AspectReverterPills.ingestible.ingestReportString>Taking {0}.</AspectReverterPills.ingestible.ingestReportString>
+  <AspectReverterPills.label>mutapill, X-aspect</AspectReverterPills.label>
+  <AspectReverterPills.description>A pill that triggers a soft mechanite "reboot" within a pawn's body, restoring it to a base state. This has the effect of removing all aspects from a mutated pawn, but does not remove any mutations. It will cure etherbonded and etherbroken pawns, allow dry pawns to produce resources again, and restore boosted pawns to normal production levels once more.
+
+It will not cure certain species-specific aspects, such as pack or herd mentalties. Warning: Paragon morphs will lose their paragon status if given X-aspect.
+
+X-aspect is most commonly used to restore human-level sapience to etherbroken and etherbonded pawns when reverter is not an option. It does not prevent a pawn from becoming etherbroken a second time, however, so it is usually followed up with a course of dry pills. However, certain unethical farmers are known to exploit this property to ensure their "alternative livestock" become etherbonded.</AspectReverterPills.description>
+  <MutagenStabiliser.ingestible.ingestCommandString>Take {0}</MutagenStabiliser.ingestible.ingestCommandString>
+  <MutagenStabiliser.ingestible.ingestReportString>Taking {0}.</MutagenStabiliser.ingestible.ingestReportString>
+  <MutagenStabiliser.label>mutapill, stabiliser</MutagenStabiliser.label>
+  <MutagenStabiliser.description>These pills contain a refined form of antigen in a slow-release capsule.  When taken, they will neutralize any active mutagenic mechanites in the body after a short duration while preventing further mutations for five days.
+
+Stabilizer is commonly used as a prophylaxis to protect the user from mutagenic diseases and mutagenic buildup when working in highly contaminated areas. It's also officially prescribed alongside mutagen injectors to halt the transformation process when finished, though most mutagen junkies prefer raw antigen as a cheaper and equally-effective alternative.</MutagenStabiliser.description>
+  <MutagenAccelerator.ingestible.ingestCommandString>Take {0}</MutagenAccelerator.ingestible.ingestCommandString>
+  <MutagenAccelerator.ingestible.ingestReportString>Taking {0}.</MutagenAccelerator.ingestible.ingestReportString>
+  <MutagenAccelerator.label>mutapill, accelerator</MutagenAccelerator.label>
+  <MutagenAccelerator.description>These pills contain booster mechanites, which will link up with any mutagenic mechanites in the body and allow them to work faster. This greatly increases the rate of gaining and adapting to mutations for five days. It also increases the likelihood of a pawn fully transforming into an animal.
+
+Accelerators are commonly used by mutagen junkies looking to quickly get their transformation fix. More than a few have misjudged their stabilizer dose and accidentally ended up on all fours.</MutagenAccelerator.description>
+  <SapiencePill.ingestible.ingestCommandString>Take {0}</SapiencePill.ingestible.ingestCommandString>
+  <SapiencePill.ingestible.ingestReportString>Taking {0}.</SapiencePill.ingestible.ingestReportString>
+  <SapiencePill.label>mutapill, intelliboost</SapiencePill.label>
+  <SapiencePill.description>An advanced form of pill that contains a cocktail of repair mechanites and sapience-boosting drugs. When given to a former human, the pills will stimulate the regrowth of their higher-order consciousness while also repairing the mechanite support network that maintainas it, allowing them to gradually regain sapience.
+
+Intelliboost is unable to restore the consciousness of permanantly feral humans, as the mechanite network within them has been damaged beyond repair.</SapiencePill.description>
+  <ReversionSyringe.label>reverter</ReversionSyringe.label>
+  <ReversionSyringe.description>A powerful dose of specially-tuned mutagenic mechanites, stabilized and kept in check by antigen. When administered to a mutated human or former human, it will use the data stored within the mechanites in their body to reconstruct their original form, and then initiate a controlled mutation back towards that form. It can restore a former-human animal to a humanoid form, or gradually remove all mutations from a humanoid pawn.
+
+Because reverter relies on the data stored within the mutagenic mechanites to revert an animal back to human form, it will reconstruct their body exactly as it was when they first transformed, bionics and health conditions included. It cannot revert permanantly feral pawns, as the mechanites within them have degraded to the point that the data on their original form has been permanantly lost.</ReversionSyringe.description>
+  <RandomTransformer.label>mutaserum</RandomTransformer.label>
+  <RandomTransformer.description>A serum filled with mechanites and animal DNA that causes random mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomTransformer.description>
+  <RandomAridTransformer.label>mutaserum, arid</RandomAridTransformer.label>
+  <RandomAridTransformer.description>A serum filled with mechanites and animal DNA that causes mutations suited for arid environments. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomAridTransformer.description>
+  <RandomColdTransformer.label>mutaserum, cold</RandomColdTransformer.label>
+  <RandomColdTransformer.description>A serum filled with mechanites and animal DNA that causes mutations suited for cold environments. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomColdTransformer.description>
+  <RandomTemperateTransformer.label>mutaserum, temperate</RandomTemperateTransformer.label>
+  <RandomTemperateTransformer.description>A serum filled with mechanites and animal DNA that causes mutations suited for temperate environments. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomTemperateTransformer.description>
+  <RandomTropicalTransformer.label>mutaserum, tropical</RandomTropicalTransformer.label>
+  <RandomTropicalTransformer.description>A serum filled with mechanites and animal DNA that causes mutations suited for tropical environments. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomTropicalTransformer.description>
+  <RandomCombatTransformer.label>mutaserum, combat</RandomCombatTransformer.label>
+  <RandomCombatTransformer.description>A serum filled with mechanites and animal DNA that causes combat-oriented mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomCombatTransformer.description>
+  <RandomProductionTransformer.label>mutaserum, production</RandomProductionTransformer.label>
+  <RandomProductionTransformer.description>A serum filled with mechanites and animal DNA that causes production-oriented mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomProductionTransformer.description>
+  <RandomCrafterTransformer.label>mutaserum, crafter</RandomCrafterTransformer.label>
+  <RandomCrafterTransformer.description>A serum filled with mechanites and animal DNA that causes crafting-oriented mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomCrafterTransformer.description>
+  <RandomSocialTransformer.label>mutaserum, social</RandomSocialTransformer.label>
+  <RandomSocialTransformer.description>A serum filled with mechanites and animal DNA that causes socially-inclined mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomSocialTransformer.description>
+  <RandomPowerfulTransformer.label>mutaserum, powerful</RandomPowerfulTransformer.label>
+  <RandomPowerfulTransformer.description>An unidentified serum with powerful effects dissimilar to anything else. These ones take longer, and consume more hunger than other types of serums...but provide very powerful creatures.</RandomPowerfulTransformer.description>
+  <RandomDomesticTransformer.label>mutaserum, domestic</RandomDomesticTransformer.label>
+  <RandomDomesticTransformer.description>A serum filled with mechanites and animal DNA that causes domestic animal mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomDomesticTransformer.description>
+  <RandomAvianTransformer.label>mutaserum, avian</RandomAvianTransformer.label>
+  <RandomAvianTransformer.description>A serum filled with mechanites and animal DNA that causes avian mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomAvianTransformer.description>
+  <RandomBovidTransformer.label>mutaserum, bovid</RandomBovidTransformer.label>
+  <RandomBovidTransformer.description>A serum filled with mechanites and animal DNA that causes bovid mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomBovidTransformer.description>
+  <RandomCanineTransformer.label>mutaserum, canid</RandomCanineTransformer.label>
+  <RandomCanineTransformer.description>A serum filled with mechanites and animal DNA that causes canid mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomCanineTransformer.description>
+  <RandomCervidTransformer.label>mutaserum, cervid</RandomCervidTransformer.label>
+  <RandomCervidTransformer.description>A serum filled with mechanites and animal DNA that causes cervid mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomCervidTransformer.description>
+  <RandomEquineTransformer.label>mutaserum, equine</RandomEquineTransformer.label>
+  <RandomEquineTransformer.description>A serum filled with mechanites and animal DNA that causes equine mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomEquineTransformer.description>
+  <RandomFelineTransformer.label>mutaserum, feline</RandomFelineTransformer.label>
+  <RandomFelineTransformer.description>A serum filled with mechanites and animal DNA that causes feline mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomFelineTransformer.description>
+  <RandomRodentTransformer.label>mutaserum, rodent</RandomRodentTransformer.label>
+  <RandomRodentTransformer.description>A serum filled with mechanites and animal DNA that causes rodent mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomRodentTransformer.description>
+  <RandomReptileTransformer.label>mutaserum, reptilian</RandomReptileTransformer.label>
+  <RandomReptileTransformer.description>A serum filled with mechanites and animal DNA that causes reptilian mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomReptileTransformer.description>
+  <RandomUrsineTransformer.label>mutaserum, ursine</RandomUrsineTransformer.label>
+  <RandomUrsineTransformer.description>A serum filled with mechanites and animal DNA that causes ursine mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomUrsineTransformer.description>
+  <SapientChip.label>sapiostore mesh</SapientChip.label>
+  <SapientChip.description>A powerful and rare implant that acts as a mesh between mutagenic mechanites in a pawn's system and the brain. Provides a backup and restore point for intelligence, gradually restoring sapience and prevents further loss of sapience.\n\nTransfers between forms if reverted or changed.</SapientChip.description>
+  <MegaslothTransformer.label>mutasyringe, megasloth</MegaslothTransformer.label>
+  <MegaslothTransformer.description>A mutagenic injector filled with mechanites and megasloth DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</MegaslothTransformer.description>
+  <ElephantTransformer.label>mutasyringe, elephant</ElephantTransformer.label>
+  <ElephantTransformer.description>A mutagenic injector filled with mechanites and elephant DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</ElephantTransformer.description>
+  <RhinocerosTransformer.label>mutasyringe, rhinoceros</RhinocerosTransformer.label>
+  <RhinocerosTransformer.description>A mutagenic injector filled with mechanites and rhinoceros DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</RhinocerosTransformer.description>
+  <ThrumboTransformer.label>mutasyringe, thrumbo</ThrumboTransformer.label>
+  <ThrumboTransformer.description>A mutagenic injector filled with mechanites and thrumbo DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</ThrumboTransformer.description>
+  <SnakeMorph.label>naga</SnakeMorph.label>
+  <SnakeMorph.description>A snakelike human, with a large and powerful tail that has replaced its legs. This allows for viper-quick movement, and while you might expect them to lack arms, most cobramorphs do retain their arms. In many respects, they are a mutagenic-born mythological naga.</SnakeMorph.description>
+  <SnakeMorph.tools.0.label>left fist</SnakeMorph.tools.0.label>
+  <SnakeMorph.tools.1.label>right fist</SnakeMorph.tools.1.label>
+  <SnakeMorph.tools.2.label>teeth</SnakeMorph.tools.2.label>
+  <SnakeMorph.tools.3.label>head</SnakeMorph.tools.3.label>
+  <EtherHellhound.label>hellhound</EtherHellhound.label>
+  <EtherHellhound.description>Hellhounds resemble the more common warg, but they are even larger and more terrifying, with unnatural bone claws, large horns, and spikes all over their body. They are extremely vicious and possess a cunning intelligence. Every hellhound was once a human who was transformed by a strange interaction between mutagenic mechanites and luciferium mechanites.\n\nNo one knows why they resemble ancient depictions of demons. Scientists suspect it may be an intentional subroutine built into the mechanites for unknown reasons, while the more superstitious believe hellhounds were cursed for making a deal with a dark god.</EtherHellhound.description>
+  <EtherHellhound.tools.0.label>left claw</EtherHellhound.tools.0.label>
+  <EtherHellhound.tools.1.label>right claw</EtherHellhound.tools.1.label>
+  <EtherHellhound.tools.2.label>razorfangs</EtherHellhound.tools.2.label>
+  <EtherHellhound.tools.3.label>head</EtherHellhound.tools.3.label>
+  <Chaoboar.label>Chaoboar</Chaoboar.label>
+  <Chaoboar.description>A tusked mix of what seems to be elephantine and porcine features, chaoboars are the result of extreme mutagenic exposure. They have hands of a sort, with thick hoofnails at the end, but they show remarkable aptitude with them if sapient.</Chaoboar.description>
+  <Chaoboar.tools.0.label>horn</Chaoboar.tools.0.label>
+  <Chaoboar.tools.1.label>tusk</Chaoboar.tools.1.label>
+  <Chaoboar.tools.2.label>head</Chaoboar.tools.2.label>
+  <Chaoboar.tools.3.label>left hoofhand</Chaoboar.tools.3.label>
+  <Chaoboar.tools.4.label>right hoofhand</Chaoboar.tools.4.label>
+  <Chaoboom.label>Chaoboom</Chaoboom.label>
+  <Chaoboom.description>A large, unpredictable beast only found through extreme mutagenic exposure upon a human. Chaobooms produce chemfuel, in higher quantities than boomalopes.</Chaoboom.description>
+  <Chaoboom.tools.1.label>horn</Chaoboom.tools.1.label>
+  <Chaoboom.tools.2.label>head</Chaoboom.tools.2.label>
+  <Chaoboom.tools.3.label>left hoof</Chaoboom.tools.3.label>
+  <Chaoboom.tools.4.label>right hoof</Chaoboom.tools.4.label>
+  <Chaocow.label>Chaocow</Chaocow.label>
+  <Chaocow.description>A large, unpredictable beast only found through extreme mutagenic exposure upon a human. They cannot breed, but are very powerful fighters. They also produce milk, if only a mutagen-infused strain that you should be careful of eating.</Chaocow.description>
+  <Chaocow.tools.1.label>horn</Chaocow.tools.1.label>
+  <Chaocow.tools.2.label>tusk</Chaocow.tools.2.label>
+  <Chaocow.tools.3.label>head</Chaocow.tools.3.label>
+  <Chaocow.tools.4.label>left claw</Chaocow.tools.4.label>
+  <Chaocow.tools.5.label>right claw</Chaocow.tools.5.label>
+  <Chaocow.race.meatLabel>chaomeat</Chaocow.race.meatLabel>
+  <Chaodino.label>Chaodino</Chaodino.label>
+  <Chaodino.description>A raptor-like, nimble and clawed carnivore terrifies the local populace. Outrunning most prey, the Chaodino is one of the fastest, and fluffiest killers on the rim. If you planned to revert it, you may have trouble — they might eat you first. Like all chaomorphs, they are sterile. However, these chaodinos also produce many clutches of mutagen-infused eggs.</Chaodino.description>
+  <Chaodino.tools.1.label>head</Chaodino.tools.1.label>
+  <Chaodino.tools.2.label>left claw</Chaodino.tools.2.label>
+  <Chaodino.tools.3.label>right claw</Chaodino.tools.3.label>
+  <Chaofox.label>Chaofox</Chaofox.label>
+  <Chaofox.description>A large, graceful creature that most resembles a mix of fox and horse that can move quite swiftly. Like all chaomorphs, they are sterile. Also, the wings are non-functional because wing-powered flight as a concept does not exist on the rim — I mean they're far too heavy.</Chaofox.description>
+  <Chaofox.tools.1.label>head</Chaofox.tools.1.label>
+  <Chaofox.tools.2.label>left claw</Chaofox.tools.2.label>
+  <Chaofox.tools.3.label>right claw</Chaofox.tools.3.label>
+  <ChaofusionRhino.label>Chaofusion</ChaofusionRhino.label>
+  <ChaofusionRhino.description>A towering fusion of two morphs, who first begin their transformation inside a mutagenic chamber, which one is then siphoned to and melded with another. They share two minds, yet one body — so while they have higher consciousness it may take some time for them to get used to their new arragement. This meld is gigantic and terrifyingly efficient in combat.</ChaofusionRhino.description>
+  <ChaofusionRhino.tools.2.label>head</ChaofusionRhino.tools.2.label>
+  <ChaofusionRhino.tools.3.label>head</ChaofusionRhino.tools.3.label>
+  <ChaofusionRhino.tools.4.label>rhinohorn</ChaofusionRhino.tools.4.label>
+  <ChaofusionRhino.tools.5.label>thrumbohorn</ChaofusionRhino.tools.5.label>
+  <ChaomeldCow.label>Chaomeld</ChaomeldCow.label>
+  <ChaomeldCow.description>A fusion of two morphs, who first begin their transformation inside a mutagenic chamber, which one is then siphoned to and melded with another. They share two minds, yet one body — so while they have higher consciousness it may take some time for them to get used to their new arragement.</ChaomeldCow.description>
+  <ChaomeldCow.tools.2.label>head</ChaomeldCow.tools.2.label>
+  <ChaomeldCow.tools.3.label>head</ChaomeldCow.tools.3.label>
+  <ChaomeldCow.tools.4.label>horn</ChaomeldCow.tools.4.label>
+  <ChaomeldDog.label>chaomeld</ChaomeldDog.label>
+  <ChaomeldDog.description>A fusion of two morphs, who first begin their transformation inside a mutagenic chamber, which one is then siphoned to and melded with another. They share two minds, yet one body — so while they have higher consciousness it may take some time for them to get used to their new arragement. Chaodogs produce mutagenic milk.</ChaomeldDog.description>
+  <ChaomeldDog.tools.2.label>head</ChaomeldDog.tools.2.label>
+  <ChaomeldDog.tools.3.label>head</ChaomeldDog.tools.3.label>
+  <ChaomeldDragon.label>Chaomeld</ChaomeldDragon.label>
+  <ChaomeldDragon.description>A fusion of two morphs, who first begin their transformation inside a mutagenic chamber, which one is then siphoned to and melded with another. They share two minds, yet one body — so while they have higher consciousness it may take some time for them to get used to their new arragement. Chaodragons produce mutagenic eggs very rapidly.</ChaomeldDragon.description>
+  <ChaomeldDragon.tools.2.label>head</ChaomeldDragon.tools.2.label>
+  <ChaomeldDragon.tools.3.label>head</ChaomeldDragon.tools.3.label>
+  <ChaomeldDragon.tools.4.label>dragonbreath</ChaomeldDragon.tools.4.label>
+  <ChaomeldDragon.tools.5.label>dragonbreath</ChaomeldDragon.tools.5.label>
+  <ChaomeldDragon.tools.6.label>horn</ChaomeldDragon.tools.6.label>
+  <PM_Chaothrumbo.label>chaothrumbo</PM_Chaothrumbo.label>
+  <PM_Chaothrumbo.description>A terrifyingly massive type of former human, a chaothrumbo is a relentlessly tough being equipped with claws and horns, including an oversized thrumbo horn. An absolutely formidable foe, pray that it's on your side.</PM_Chaothrumbo.description>
+  <PM_Chaothrumbo.tools.0.label>horn</PM_Chaothrumbo.tools.0.label>
+  <PM_Chaothrumbo.tools.2.label>left claws</PM_Chaothrumbo.tools.2.label>
+  <PM_Chaothrumbo.tools.3.label>right claws</PM_Chaothrumbo.tools.3.label>
+  <PM_Chaothrumbo.tools.4.label>head</PM_Chaothrumbo.tools.4.label>
+  <Leather_Chao.label>chaopelt</Leather_Chao.label>
+  <Leather_Chao.description>The pelt of a chaomorph. Depending on the sourced morph, it can be scaled, furred, spiny, rough, smooth or anything in between (with plenty of overlap). It is a versatile material because of this, however, due to the many different materials composing it, it does not have very high durability.</Leather_Chao.description>
+  <Mutonite.label>mutonite</Mutonite.label>
+  <Mutonite.description>A glowing rock of pure, radiant mechanites.</Mutonite.description>
+  <Mutanite.label>mutanite</Mutanite.label>
+  <Mutanite.description>A glowing green hunk of activated mechanites, whatever that means. The smaller lumps are safer to handle than the meteors they come from.</Mutanite.description>
+  <PM_Genebank.label>genebank</PM_Genebank.label>
+  <PM_Genebank.description>A morphsilk tape-reel storage device that's optimised for storing genetic information. Can store 64 kMutabytes of information.</PM_Genebank.description>
+  <PM_GenebankLarge.label>Advanced genebank</PM_GenebankLarge.label>
+  <PM_GenebankLarge.description>A morphsilk tape-reel storage device that's optimised for storing genetic information. This advanced version can store 256 kMutabytes of information.</PM_GenebankLarge.description>
+  <PM_InjectorLab.label>injector lab</PM_InjectorLab.label>
+  <PM_InjectorLab.description>A work bench equipped with more advanced components for creating and reverse-engineering mechanite mutagens.</PM_InjectorLab.description>
+  <PM_NewMutagenicChamber.label>mutagenic chamber</PM_NewMutagenicChamber.label>
+  <PM_NewMutagenicChamber.description>A chamber full of mutagenic liquid, capable of transforming pawns into animals in a much shorter period of time. However, it can only make things up to a certain size. A thrumbo does not fit in here.</PM_NewMutagenicChamber.description>
+  <CrashedMutagenicShipPart.label>ship part (mutagenic)</CrashedMutagenicShipPart.label>
+  <CrashedMutagenicShipPart.description>A mysterious crashed piece of a spaceship. It may contain any manner of deadly defenders and exotic materials. This one seems to have mutagenic effects.</CrashedMutagenicShipPart.description>
+  <CrashedMutagenicShipPartIncoming.label>crashed ship part (incoming)</CrashedMutagenicShipPartIncoming.label>
+  <MutagenLab.label>mutagen lab</MutagenLab.label>
+  <MutagenLab.description>A work bench equipped with more advanced components for creating and reverse-engineering mechanite mutagens.</MutagenLab.description>
+  <PM_MutationScanner.label>Mutation Sequencer</PM_MutationScanner.label>
+  <PM_MutationScanner.description>Accesses your genebanks and sequences the animal genomes you've stored. Over time, will unlock mutations to be used in chambers, if manned.</PM_MutationScanner.description>
+  <PM_Filth_Slurry.label>slurry puddle</PM_Filth_Slurry.label>
+  <PM_Filth_Slurry.description>A puddle of mutagenic slurry.</PM_Filth_Slurry.description>
+  <Plant_MutatedGrass.label>mutagrass</Plant_MutatedGrass.label>
+  <Plant_MutatedGrass.description>Wild, somewhat mutated grass. A product of groundwater contamination. Can be sown, but only useful for decoration.</Plant_MutatedGrass.description>
+  <Plant_MutatedBrambles.label>mutabrambles</Plant_MutatedBrambles.label>
+  <Plant_MutatedBrambles.description>Tangled, red-thorned, woody shoots topped with blue flowers. Brambles grow in clusters, and slow down anyone moving over them.</Plant_MutatedBrambles.description>
+  <Plant_MutatedBush.label>mutant bush</Plant_MutatedBush.label>
+  <Plant_MutatedBush.description>An otherworldly shrub, looks nice but not much use beyond that.</Plant_MutatedBush.description>
+  <Plant_GnarledTree.label>GnarledTree</Plant_GnarledTree.label>
+  <Plant_GnarledTree.description>A tree that's been twisted into an eerie shape by mutagens. Gnarled wood is useless, brittle and flaky, disintegrating when chopped.</Plant_GnarledTree.description>
+  <Plant_ChaoBulb.label>chaobulb</Plant_ChaoBulb.label>
+  <Plant_ChaoBulb.description>A mutagen-infused plant that sprouts odd orange bulbs. Chaobulb plants naturally collect trace amounts of raw resources out of the ground, which are then used by mutagenic mechanites to replicate. The mechanites are stored in the orange bulbs that give the plant its name, which can be harvested and processed into mechanite slurry.
+
+Chaobulb plants are delicate, and the bulbs are prone to rupturing if harvested incorrectly. They are slow to plant and harvest compared to other plants, and harvest failures have a risk of mutating the hapless farmer.</Plant_ChaoBulb.description>
+  <Plant_ChaoBulb_Domestic.label>chaobulb</Plant_ChaoBulb_Domestic.label>
+  <Plant_ChaoBulb_Domestic.description>A mutagen-infused plant that sprouts odd orange bulbs. Chaobulb plants naturally collect trace amounts of raw resources out of the ground, which are then used by mutagenic mechanites to replicate. The mechanites are stored in the orange bulbs that give the plant its name, which can be harvested and processed into mechanite slurry.
+
+Chaobulb plants are delicate, and the bulbs are prone to rupturing if harvested incorrectly. They are slow to plant and harvest compared to other plants, and harvest failures have a risk of mutating the hapless farmer.</Plant_ChaoBulb_Domestic.description>
+  <Plant_Glowvine.label>glowvine</Plant_Glowvine.label>
+  <Plant_Glowvine.description>A mutagen-infused plant that sprouts odd blue bulbs, glowvines are a form of healroot that has been mutated by exposure to mechanite contamination. Similar to chaobulbs, they produce glowing bulbs full of mechanites. However, the mechanites within glowvines have been altered somehow by the substances in the healroot, and as a result they now have an anti-mutagenic effect. The bulbs can be harvested and processed into antigen.
+
+Antigen plants are delicate and sensitive to temperature. They take a long time to sow and harvest compared to other plants, and they will only grow in moderately cold temperatures. However, mutation has rendered them capable of growing without light, and so they are commonly grown within refridgerated darkhouses or caves.</Plant_Glowvine.description>
+  <Plant_Glowvine_Domestic.label>glowvine</Plant_Glowvine_Domestic.label>
+  <Plant_Glowvine_Domestic.description>A mutagen-infused plant that sprouts odd blue bulbs, glowvines are a form of healroot that has been mutated by exposure to mechanite contamination. Similar to chaobulbs, they produce glowing bulbs full of mechanites. However, the mechanites within glowvines have been altered somehow by the substances in the healroot, and as a result they now have an anti-mutagenic effect. The bulbs can be harvested and processed into antigen.
+
+Antigen plants are delicate and sensitive to temperature. They take a long time to sow and harvest compared to other plants, and they will only grow in moderately cold temperatures. However, mutation has rendered them capable of growing without light, and so they are commonly grown within refridgerated darkhouses or caves.</Plant_Glowvine_Domestic.description>
+  <Chaobulb.label>chaobulb seedpod</Chaobulb.label>
+  <Chaobulb.description>A bulbous, warty-looking seed pod from a chaovine. Orange in colour and pungent in smell, it is said to be uncomfortably delicious, and leaves a fuzzy aftertaste in the mouth. Mutagenic mechanites replicate within chaobulb plants and congregate in their bulbs, making it a simple, if work-intensive, way to produce more of them.
+
+Raw chaobulbs are often used by tribes to connect with nature and bring out their inner warrior animal.</Chaobulb.description>
+  <Glowvine.label>glowvine seedpod</Glowvine.label>
+  <Glowvine.description>A blue seedpod harvested from a mutated healroot plant. It contains a naturally-occuring strain of mutagenic mechanites known as antigen, which have dampening effects on most other kinds of mutagenic mechanites. Antigen can be extracted and refined into various anti-mutagenic drugs.
+
+When eaten in its raw form, glowvine will slow down the effects of mutagenic mechanites, though it's not powerful to halt them completely. Tribes often use them as a low-tech treatment to lessen the effects of mutagenic diseases and buildup.</Glowvine.description>
+  <PM_AnimalGenome.label>Animal genome</PM_AnimalGenome.label>
+  <PM_AnimalGenome.description>Contains an animal's genome that can be downloaded into genebank.</PM_AnimalGenome.description>
+  <PM_RestrictedAnimalGenome.label>Animal genome - Restricted</PM_RestrictedAnimalGenome.label>
+  <PM_RestrictedAnimalGenome.description>Contains a restricted animal's genome that can be downloaded into genebank.</PM_RestrictedAnimalGenome.description>
+  <XM_MutagenicBullet.label>XM_MutagenicBullet</XM_MutagenicBullet.label>
+  <TFMilk.label>mutagenic milk</TFMilk.label>
+  <TFMilk.description>This milk smells odd, but not off. Saturated with mutagenic mechanites that the original species can no longer be determined. Drinking this will probably cause unpredictable though milk-related mutations.</TFMilk.description>
+  <TFMilk.modExtensions.0.rulePack.rulesStrings.0>mutagen_cause->drinking strange milk</TFMilk.modExtensions.0.rulePack.rulesStrings.0>
+  <TFMilk.modExtensions.0.rulePack.rulesStrings.1>caused_by->after</TFMilk.modExtensions.0.rulePack.rulesStrings.1>
+  <TFEgg.label>mutagenic egg</TFEgg.label>
+  <TFEgg.description>A strange egg usually laid by some avian morphs. It's basically a normal egg, but saturated with enough mutagenic mechanites that the original species can no longer be determined. Eating it can cause unpredictable avian-based mutations unless properly cooked into a meal.</TFEgg.description>
+  <TFEgg.modExtensions.0.rulePack.rulesStrings.0>mutagen_cause->eating a strange egg</TFEgg.modExtensions.0.rulePack.rulesStrings.0>
+  <TFEgg.modExtensions.0.rulePack.rulesStrings.1>caused_by->after</TFEgg.modExtensions.0.rulePack.rulesStrings.1>
+  <Bullet_MutagenicRocket.label>mutagenic rocket</Bullet_MutagenicRocket.label>
+  <Morphsilk.label>morphsilk</Morphsilk.label>
+  <Morphsilk.description>Scraps of fabric that have been impregnated with mutagenic nanites. The nanites will passively link with and boost any mutagenic mechanites in the bloodstream, increasing the rate of mutation of the pawn wearing it. Despite its improved flexibility and durability compared to regular fabric, it’s not recommended to make clothing out of this.
+
+Morphsilk is commonly created as a byproduct of full-body transformations, as the hapless victim sheds large amounts of mechanites into their clothing before tearing it apart upon transforming. Because of the risk it poses to the wearer and how commonly it can be found at any mutagenic battleground, most merchants will pay but a pittance for morphsilk.</Morphsilk.description>
+  <PM_Hazsilk.label>hazsilk</PM_Hazsilk.label>
+  <PM_Hazsilk.description>By doping morphsilk with antigen, the mechanites active in the fibres have been reconfigured to reduce mutagen sensitivity rather than increase it. Hazsilk is not much more protective against physical damage than cloth, but it can be used to create special clothing that protects the user from mutagenic weaponry and other mutagenic hazards.
+
+Hazsilk is often used as a protective underlayer for soldiers going into battle against enemies known to use mutagenic weaponry.</PM_Hazsilk.description>
+  <FlightIncoming.label>flying (incoming)</FlightIncoming.label>
+  <FlightLeaving.label>flying (leaving)</FlightLeaving.label>
+  <Gas_Mutagen.label>mutagen cloud</Gas_Mutagen.label>
+  <MutagenicArrow.label>mutagenic arrow</MutagenicArrow.label>
+  <Mutabow.label>mutabow</Mutabow.label>
+  <Mutabow.description>A bow that fires arrows with mutanite arrowhead, mutating the victim.</Mutabow.description>
+  <Mutabow.tools.0.label>limb</Mutabow.tools.0.label>
+  <Mutarifle.label>mutarifle</Mutarifle.label>
+  <Mutarifle.description>A rifle that fires balls of jellied mutanite, which mutate on contact.</Mutarifle.description>
+  <Mutarifle.tools.0.label>grip</Mutarifle.tools.0.label>
+  <Mutarifle.tools.1.label>barrel</Mutarifle.tools.1.label>
+  <Bullet_EtherGun.label>Ether bullet</Bullet_EtherGun.label>
+  <Bullet_TaggingGun.label>genetic tagger</Bullet_TaggingGun.label>
+  <TST_Gun_EtherGun.label>Mutagun</TST_Gun_EtherGun.label>
+  <TST_Gun_EtherGun.description>Forged from mutanite and charged with mutagenic syringes, the Mutagun can force a person hit by it to begin to mutate.</TST_Gun_EtherGun.description>
+  <TST_Gun_EtherGun.tools.0.label>grip</TST_Gun_EtherGun.tools.0.label>
+  <TST_Gun_EtherGun.tools.1.label>barrel</TST_Gun_EtherGun.tools.1.label>
+  <TST_Gun_TaggingGun.label>Tagging rifle</TST_Gun_TaggingGun.label>
+  <TST_Gun_TaggingGun.description>Use this rifle to add animals to your genetic database. Not to be used as an actual weapon, but can still trigger manhunter as, well, it does kinda hurt to be shot by it.</TST_Gun_TaggingGun.description>
+  <TST_Gun_TaggingGun.tools.0.label>grip</TST_Gun_TaggingGun.tools.0.label>
+  <TST_Gun_TaggingGun.tools.1.label>barrel</TST_Gun_TaggingGun.tools.1.label>
+  <Weapon_GrenadeTF.label>mutagenic grenades</Weapon_GrenadeTF.label>
+  <Weapon_GrenadeTF.description>A highly presurized canister filled with DNA and mechanites that aerosolizes when thrown. The resulting mist can mutate any organics caught in it.</Weapon_GrenadeTF.description>
+  <Weapon_GrenadeTF.verbs.0.label>throw mutagenic grenade</Weapon_GrenadeTF.verbs.0.label>
+  <Proj_GrenadeTF.label>mutagenic grenade</Proj_GrenadeTF.label>
+  <Shell_TF.label>mutagenic shell</Shell_TF.label>
+  <Shell_TF.description>A shell filled with a chaotic mix of DNA and mechanites that aerosolizes on impact. The mist can mutate any organics caught in it. Can be fired from mortars or installed as a trap. Bursts when damaged.</Shell_TF.description>
+  <Bullet_Shell_TF.label>mutagenic shell</Bullet_Shell_TF.label>
+  <MeleeWeapon_MutaniteKnife.label>mutanite knife</MeleeWeapon_MutaniteKnife.label>
+  <MeleeWeapon_MutaniteKnife.description>A shaped piece of mutanite with a handle for safe operation. Tends to mutate anyone who's on the receiving end of the blade.</MeleeWeapon_MutaniteKnife.description>
+  <MeleeWeapon_MutaniteKnife.tools.0.label>handle</MeleeWeapon_MutaniteKnife.tools.0.label>
+  <MeleeWeapon_MutaniteKnife.tools.1.label>blade</MeleeWeapon_MutaniteKnife.tools.1.label>
+  <MeleeWeapon_MutaniteKnife.tools.2.label>point</MeleeWeapon_MutaniteKnife.tools.2.label>
+  <MeleeWeapon_MutaniteSpear.label>mutanite spear</MeleeWeapon_MutaniteSpear.label>
+  <MeleeWeapon_MutaniteSpear.description>A long rod is tipped with a pointed piece of mutanite, which tends to mutate anyone who gets stabbed by it.</MeleeWeapon_MutaniteSpear.description>
+  <MeleeWeapon_MutaniteSpear.tools.0.label>shaft</MeleeWeapon_MutaniteSpear.tools.0.label>
+  <MeleeWeapon_MutaniteSpear.tools.1.label>point</MeleeWeapon_MutaniteSpear.tools.1.label>
+  <Gun_MutagenicRocketLauncher.label>mutagenic rocket launcher</Gun_MutagenicRocketLauncher.label>
+  <Gun_MutagenicRocketLauncher.description>A single-use rocket launcher that fires a massive mutagenic explosive projectile. Good against large groups targets.\n\nVery rapidly mutates anyone caught in the blast radius which is a very painful situation to be in.</Gun_MutagenicRocketLauncher.description>
+  <Gun_MutagenicRocketLauncher.tools.0.label>barrel</Gun_MutagenicRocketLauncher.tools.0.label>
+  <MeleeWeapon_MutagenicStunStick.label>mutagenic stun stick</MeleeWeapon_MutagenicStunStick.label>
+  <MeleeWeapon_MutagenicStunStick.description>Electricity hums through a machined crystalline form of mutanite, causing mutations in anyone struck by it as well as stunning them with a shock.</MeleeWeapon_MutagenicStunStick.description>
+  <MeleeWeapon_MutagenicStunStick.tools.0.label>handle</MeleeWeapon_MutagenicStunStick.tools.0.label>
+  <MeleeWeapon_MutagenicStunStick.tools.1.label>head</MeleeWeapon_MutagenicStunStick.tools.1.label>
+  <TrapIED_TF.label>IED mutagen trap</TrapIED_TF.label>
+  <TrapIED_TF.description>A pair of mutagenic shells connected to a trigger which detonates on touch or bullet impact. The explosion can mutate organics caught in the blast. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_TF.description>
+</LanguageData>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChookMorph.label>chookmorph</ChookMorph.label>
+  <ChookMorph.description>A human who now shares many features with chickens due to exposure to mechanite mutagens. Usually found covered in feathers, and arms more resembling wings. For odd reasons, both genders are capable of producing eggs.</ChookMorph.description>
+  <TurkeyMorph.label>turkeymorph</TurkeyMorph.label>
+  <TurkeyMorph.description>A human who now shares many features with turkeys due to exposure to mechanite mutagens. Usually found covered in feathers, and arms more resembling wings. For odd reasons, both genders can fan their tailfeathers.</TurkeyMorph.description>
+  <DuckMorph.label>duckmorph</DuckMorph.label>
+  <DuckMorph.description>A human who now shares many features with ducks due to exposure to mechanite mutagens. Usually found covered in feathers and with a duck beak.</DuckMorph.description>
+  <GooseMorph.label>goosemorph</GooseMorph.label>
+  <GooseMorph.description>A human who now shares many features with geese due to exposure to mechanite mutagens. They are usually coated in white feathers and have large goose beaks. They can be very loud.</GooseMorph.description>
+  <CassowaryMorph.label>cassowarymorph</CassowaryMorph.label>
+  <CassowaryMorph.description>A human who now shares many features with cassowaries due to exposure to mechanite mutagens. They usually have sharp talons and large beaks. Their glare can frighten even the best melee fighters.</CassowaryMorph.description>
+  <EmuMorph.label>emumorph</EmuMorph.label>
+  <EmuMorph.description>A human who now shares many features with emus due to exposure to mechanite mutagens. Usually found covered in feathers, and stubby arms more resembling wings. They are great runners.</EmuMorph.description>
+  <OstrichMorph.label>ostrichmorph</OstrichMorph.label>
+  <OstrichMorph.description>A human who now shares many features with ostriches due to exposure to mechanite mutagens. Usually found covered in feathers, and arms more resembling wings. They are capable of running very fast.</OstrichMorph.description>
+  <MegaslothMorph.label>slothmorph</MegaslothMorph.label>
+  <MegaslothMorph.description>Slothmorphs are massive herbivorous humanoids covered in fluff. Their fur is very insulating, and can be shaved to make clothing, bedrolls and other fluffy stuff. And no, they won't be your pillow, so don't ask them (it's rude).</MegaslothMorph.description>
+  <ElephantMorph.label>elephantmorph</ElephantMorph.label>
+  <ElephantMorph.description>A large human that has been exposed to large amounts of elephant specific mutagens. They usually have much in common with their feral counterparts like thick hide and large tusks, making them very dangerous in combat.</ElephantMorph.description>
+  <RhinocerosMorph.label>rhinomorph</RhinocerosMorph.label>
+  <RhinocerosMorph.description>A massive humanoid resembling a rhinoceros, usually with a horned nose and an angry look in their eyes. They are dangerous at combat, often utilizing their horn to charge their victims.</RhinocerosMorph.description>
+  <ThrumboMorph.label>thrumbomorph</ThrumboMorph.label>
+  <ThrumboMorph.description>A large humanoid often resembling a bipedal thrumbo, usually sporting the characteristic horn. Much like feral thrumbos they are exceptionally dangerous in combat, and enjoy eating trees.</ThrumboMorph.description>
+  <HuskyMorph.description>Always dependable and willing to defend their home, dogmorphs will get along with everyone.</HuskyMorph.description>
+  <HuskyMorph.label>huskymorph</HuskyMorph.label>
+  <LabradorRetrieverMorph.description>Always dependable and willing to defend their home, dogmorphs will get along with everyone.</LabradorRetrieverMorph.description>
+  <LabradorRetrieverMorph.label>labmorph</LabradorRetrieverMorph.label>
+  <TerrierMorph.description>Always dependable and willing to defend their home, dogmorphs will get along with everyone.</TerrierMorph.description>
+  <TerrierMorph.label>terriermorph</TerrierMorph.label>
+  <ArcticWolfMorph.description>Wolfmorphs usually stand on their paws and possess keen nose seeking prey, with grey or brown fur covering them. They make excellent fighters.</ArcticWolfMorph.description>
+  <ArcticWolfMorph.label>arcticwolfmorph</ArcticWolfMorph.label>
+  <WolfMorph.description>Wolfmorphs usually stand on their paws and possess keen nose seeking prey, with grey or brown fur covering them. They make excellent fighters.</WolfMorph.description>
+  <WolfMorph.label>timberwolfmorph</WolfMorph.label>
+  <PM_HellhoundMorph.label>hellhoundmorph</PM_HellhoundMorph.label>
+  <PM_HellhoundMorph.description>A large, heavily mutated canid morph resembling a warg morph but significantly larger and usually with additional mutations.</PM_HellhoundMorph.description>
+  <WargMorph.label>wargmorph</WargMorph.label>
+  <WargMorph.description>A large humanoid canine resulting from a human that has been exposed to warg specific mutagens. Much like feral wargs, they are exceptionally dangerous in combat, and easily upset if there aren't other canines around.</WargMorph.description>
+  <CougarMorph.label>cougarmorph</CougarMorph.label>
+  <CougarMorph.description>A human variant with feline-like features. They have a similar appearance to cats, but are bigger and have larger jowls. They are faster and more dexterous than regular humans, and they have an advantage in melee. Some of them prefer the terms "pumamorph" or "mountain-lionmorph."</CougarMorph.description>
+  <LynxMorph.label>lynxmorph</LynxMorph.label>
+  <LynxMorph.description>A human variant with feline-like features. They have a similar appearance to cats, but usually have tufted ears and a stubby tail. They are faster and more dexterous than regular humans, and they have an advantage in melee.</LynxMorph.description>
+  <CatMorph.description>A human variant with many cat features. Uusually defined by a short whiskered muzzle, a long, thin tail and sharp clawed hands. They are faster and more dextrous than regular humans, and they have an advantage in melee.</CatMorph.description>
+  <CatMorph.label>catmorph</CatMorph.label>
+  <PantherMorph.label>panthermorph</PantherMorph.label>
+  <PantherMorph.description>A large catlike morph covered in a sleek black fur. They are natural predators, and have the agility and killing power to prove it.</PantherMorph.description>
+  <ArcticFoxMorph.description>A somewhat smaller fox-like humanoid, often the result of exposure to the associated mutagens. In addition to physical changes, these humanoids now share many traits with their feral counterparts like their keen hunting instincts, especially towards chickens.</ArcticFoxMorph.description>
+  <ArcticFoxMorph.label>arcticfoxmorph</ArcticFoxMorph.label>
+  <FennecFoxMorph.description>A somewhat smaller fox-like humanoid, often the result of exposure to the associated mutagens. In addition to physical changes, these humanoids now share many traits with their feral counterparts like their keen hunting instincts, especially towards chickens.</FennecFoxMorph.description>
+  <FennecFoxMorph.label>fennecfoxmorph</FennecFoxMorph.label>
+  <FoxMorph.description>A somewhat smaller fox-like humanoid, often the result of exposure to the associated mutagens. In addition to physical changes, these humanoids now share many traits with their feral counterparts like their keen hunting instincts, especially towards chickens.</FoxMorph.description>
+  <FoxMorph.label>redfoxmorph</FoxMorph.label>
+  <RaccoonMorph.label>raccoonmorph</RaccoonMorph.label>
+  <RaccoonMorph.description>A shorter humanoid that looks very similar to a raccoon due to exposure to mutagens. They usually have a mask of black fur around their eyes and a striped tail. Although they would prefer digging through trash, they make excellent crafters.</RaccoonMorph.description>
+  <HareMorph.description>The result of a mad scientist's attempt to take over the world, these docile creatures were designed to breed an army. Unfortunately for the morphs, they proved too timid to serve as proper militia and were abandoned soon after.</HareMorph.description>
+  <HareMorph.label>haremorph</HareMorph.label>
+  <SnowhareMorph.description>The result of a mad scientist's attempt to take over the world, these docile creatures were designed to breed an army. Unfortunately for the morphs, they proved too timid to serve as proper militia and were abandoned soon after.</SnowhareMorph.description>
+  <SnowhareMorph.label>snowharemorph</SnowhareMorph.label>
+  <AlphabeaverMorph.label>alphabeavermorph</AlphabeaverMorph.label>
+  <AlphabeaverMorph.description>Usually called 'beavermorphs', these morphs are well adapted to completing construction projects ahead of schedule, and felling any trees or plants in their way. Their accurate teeth can be useful in a variety of architectural projects, as can their tail.</AlphabeaverMorph.description>
+  <CapybaraMorph.label>capybaramorph</CapybaraMorph.label>
+  <CapybaraMorph.description>The capybaramorph is the result of a human highly contaminated by mechanites. It's highly social, friendly and even tempered.</CapybaraMorph.description>
+  <SquirrelMorph.label>squirrelmorph</SquirrelMorph.label>
+  <SquirrelMorph.description>A smaller, squirrel-like humanoid. These former humans share many characteristics with squirrels, usually making them fragile in combat, but their dextrous paws make them good crafters and artists.</SquirrelMorph.description>
+  <BoomratMorph.label>boomratmorph</BoomratMorph.label>
+  <BoomratMorph.description>A rat like humanoid covered with chemfuel boils as a result of exposure to boomrat specific mutagens. Keep them away from fire!</BoomratMorph.description>
+  <ChinchillaMorph.label>chinchillamorph</ChinchillaMorph.label>
+  <ChinchillaMorph.description>A small chinchillalike humanoid. They are fragile in combat, but so adorable! They are very soft, but please ask before petting them...</ChinchillaMorph.description>
+  <GuineaPigMorph.label>guineapigmorph</GuineaPigMorph.label>
+  <GuineaPigMorph.description>A smaller, guinea pig humanoid. These former humans share many characteristics with guinea pigs, usually making them fragile in combat, but their dextrous paws make them good crafters and artists.</GuineaPigMorph.description>
+  <RatMorph.label>ratmorph</RatMorph.label>
+  <RatMorph.description>A smaller, ratlike humanoid. These former humans share many characteristics with rats, usually making them fragile in combat, but their dextrous paws make them good crafters and artists.</RatMorph.description>
+  <BearMorph.description>Bearmorphs are combat experts. Usually equipped with large claws, paws and maws, they are devastatingly dangerous up close. But they have a tender heart, and a soft spot for plush toys of the ursine variety.</BearMorph.description>
+  <BearMorph.label>grizzlybearmorph</BearMorph.label>
+  <PolarBearMorph.description>Bearmorphs are combat experts. Usually equipped with large claws, paws and maws, they are devastatingly dangerous up close. But they have a tender heart, and a soft spot for plush toys of the ursine variety.</PolarBearMorph.description>
+  <PolarBearMorph.label>polarbearmorph</PolarBearMorph.label>
+  <IguanaMorph.label>iguanamorph</IguanaMorph.label>
+  <IguanaMorph.description>A scaly reptile morph with traits similar to that of an iguana.</IguanaMorph.description>
+  <SnakeMorph.label>cobramorph</SnakeMorph.label>
+  <SnakeMorph.description>A large, muscular morph whose head and lower body are that of a snake. They have a venomous bite, so be mindful not to get on their bad side.</SnakeMorph.description>
+  <TortoiseMorph.label>tortoisemorph</TortoiseMorph.label>
+  <TortoiseMorph.description>Tortoisemorphs are defensive morphs characterised by their hard shell. While a shell does generally make them slower, conventional tortoises are slow due to energy conservation -- which is not necessarily an issue with morphs.</TortoiseMorph.description>
+  <MonkeyMorph.label>monkeymorph</MonkeyMorph.label>
+  <MonkeyMorph.description>A fun-loving morph type, Monkeymorphs tend to like playing pranks on their friends.</MonkeyMorph.description>
+  <CowMorph.label>cowmorph</CowMorph.label>
+  <CowMorph.description>A bovine humanoid resulting when a human is exposed to cow specific mutagens. Usually capable of producing milk.</CowMorph.description>
+  <MuffaloMorph.label>muffalomorph</MuffaloMorph.label>
+  <MuffaloMorph.description>A large humanoid resulting when a human is exposed to muffalo specific mutagens. Usually covered in long thick fur.</MuffaloMorph.description>
+  <YakMorph.label>yakmorph</YakMorph.label>
+  <YakMorph.description>A large humanoid resulting when a human is exposed to yak specific mutagens.</YakMorph.description>
+  <BisonMorph.label>bisonmorph</BisonMorph.label>
+  <BisonMorph.description>A large humanoid resulting when a human is exposed to bison specific mutagens. Usually covered in long thick fur.</BisonMorph.description>
+  <AlpacaMorph.label>alpacamorph</AlpacaMorph.label>
+  <AlpacaMorph.description>Alpacamorphs are rather woolly herbivorous humanoids who often have hooves. They produce good amounts of soft wool, which they can shave off themselves... and they don't need your help, thank you.</AlpacaMorph.description>
+  <DromedaryMorph.label>dromedarymorph</DromedaryMorph.label>
+  <DromedaryMorph.description>Dromedaromorphs are the result of humans contaminated by high levels of mutating mechanites. Their ability to store water and vent excess heat makes them excel in desert environments</DromedaryMorph.description>
+  <GoatMorph.label>goatmorph</GoatMorph.label>
+  <GoatMorph.description>With a beard and cuboid pupils, goatmorphs are a 'farm'-type morph who are rowdy in combat. Female goatmorphs can produce milk.</GoatMorph.description>
+  <IbexMorph.label>ibexmorph</IbexMorph.label>
+  <IbexMorph.description>Ibexmorphs are similar but wilder relatives of goatmorphs. Their headbutts can be pretty effective at combat.</IbexMorph.description>
+  <SheepMorph.label>sheepmorph</SheepMorph.label>
+  <SheepMorph.description>With cute, fluffy wool and cuboid pupils, sheepmorphs are a 'farm'-type morph who can be shorn for wool. They often have hooves and are covered in wool that makes them useful in cold biomes.</SheepMorph.description>
+  <CaribouMorph.label>cariboumorph</CaribouMorph.label>
+  <CaribouMorph.description>Cariboumorphs are usually peaceful and imposing herbivorous humanoids who can live under harsh winters. However, if you bother them, their big antlers may hurt you pretty badly...</CaribouMorph.description>
+  <ElkMorph.label>elkmorph</ElkMorph.label>
+  <ElkMorph.description>A humanoid with many elk-like characteristics resulting from exposure to elk specific mutagens. They sometimes feel lonely without others of their kind.</ElkMorph.description>
+  <BoomalopeMorph.label>boomamorph</BoomalopeMorph.label>
+  <BoomalopeMorph.description>A humanoid sharing many characteristics with boomalopes, due to heavy mutagen exposure. They usually have thick hide, and an urge to seek out chemfuel.</BoomalopeMorph.description>
+  <DeerMorph.label>deermorph</DeerMorph.label>
+  <DeerMorph.description>A humanoid with many deer-like characteristics resulting from exposure to deer specific mutagens. They are often uncomfortable without others like them around.</DeerMorph.description>
+  <GazelleMorph.label>gazellemorph</GazelleMorph.label>
+  <GazelleMorph.description>Gazellemorphs are fast and graceful but skittish and generally prefers flight over confrontation</GazelleMorph.description>
+  <BoarMorph.label>boarmorph</BoarMorph.label>
+  <BoarMorph.description>A humanoid with many boar like characteristics resulting when a human is exposed to boar specific mutagens. Usually found with thick hide and large tusks making them dangerous combatants.</BoarMorph.description>
+  <PigMorph.label>pigmorph</PigMorph.label>
+  <PigMorph.description>A humanoid race resulting from a human being exposed to pig specific mutagens. They are often fond of looking through dirt and grass to find edible mushrooms.</PigMorph.description>
+  <DonkeyMorph.label>donkeymorph</DonkeyMorph.label>
+  <DonkeyMorph.description>Donkeymorphs are strong pack morphs that often have hoofed feet and a broad snout that snorts when they get upset. They're very good haulers, but often rather stubborn.</DonkeyMorph.description>
+  <HorseMorph.label>horsemorph</HorseMorph.label>
+  <HorseMorph.description>Horsemorphs are strong pack morphs that often have hoofed feet and a broad snout that snorts when they get upset. They are quite fast, and useful for hauling.</HorseMorph.description>
+  <ChaocowMorph.description>A human variant with a large number of random mutations. With such a mish-mash of changes there is no easy way to categorize them, but based on key features like the ability to produce morph-milk, this one can be considered a "chaocow".</ChaocowMorph.description>
+  <ChaocowMorph.label>chaocow morph</ChaocowMorph.label>
+  <ChaoboomMorph.description>A human variant with a large number of random mutations. With such a mish-mash of changes there is no easy way to categorize them, but based on key features like the ability to produce chemfuel, this one can be considered a "chaoboom".</ChaoboomMorph.description>
+  <ChaoboomMorph.label>ChaoboomMorph</ChaoboomMorph.label>
+  <ChaofoxMorph.label>chaofox morph</ChaofoxMorph.label>
+  <ChaofoxMorph.description>A human variant with a large number of random mutations. With such a mish-mash of changes there is no easy way to categorize them, but based on key features such as a swathes of fur and a vulpine snout, this one can be considered a "chaofox".</ChaofoxMorph.description>
+  <ChaodinoMorph.description>A human variant with a large number of random mutations. With such a mish-mash of changes there is no easy way to categorize them, but based on key features like the ability to lay morph-eggs, this one can be considered a "chaodino".</ChaodinoMorph.description>
+  <ChaodinoMorph.label>chaodino morph</ChaodinoMorph.label>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallInstinctLimiter.label>install sapiostore mesh</InstallInstinctLimiter.label>
+  <InstallInstinctLimiter.description>Install a sapiostore mesh.</InstallInstinctLimiter.description>
+  <InstallInstinctLimiter.jobString>Installing sapiostore mesh.</InstallInstinctLimiter.jobString>
+  <PM_TagAnimal.label>tag animal</PM_TagAnimal.label>
+  <PM_TagAnimal.description>tag genetic material from an animal</PM_TagAnimal.description>
+  <PM_TagAnimal.jobString>tagging TargetA.</PM_TagAnimal.jobString>
+  <PM_TagAnimal.successfullyRemovedHediffMessage>{0} has successfully tagged {1}.</PM_TagAnimal.successfullyRemovedHediffMessage>
+  <Make_GenekitColorPicker.label>fabricate dermal repigmentation genekit</Make_GenekitColorPicker.label>
+  <Make_GenekitColorPicker.description>Reshape mechanites into a dermal repigmentation genekit.</Make_GenekitColorPicker.description>
+  <Make_GenekitColorPicker.jobString>Fabricating dermal repigmentation genekit</Make_GenekitColorPicker.jobString>
+  <Make_Slurry.label>make slurry from mutagens</Make_Slurry.label>
+  <Make_Slurry.description>Make slurry using mechanites from different mutagens.</Make_Slurry.description>
+  <Make_Slurry.jobString>Refining slurry.</Make_Slurry.jobString>
+  <Make_SlurryBulk.label>make slurry from mutagens x4</Make_SlurryBulk.label>
+  <Make_SlurryBulk.description>Make slurry using mechanites from different mutagens.</Make_SlurryBulk.description>
+  <Make_SlurryBulk.jobString>Refining 4 slurry.</Make_SlurryBulk.jobString>
+  <Make_ComponentsFromSlurry.label>fabricate components</Make_ComponentsFromSlurry.label>
+  <Make_ComponentsFromSlurry.description>Process mechanites into components.</Make_ComponentsFromSlurry.description>
+  <Make_ComponentsFromSlurry.jobString>Processing components from slurry.</Make_ComponentsFromSlurry.jobString>
+  <Make_ResurrectorFromMutonite.label>fabricate reincarnator mech serum</Make_ResurrectorFromMutonite.label>
+  <Make_ResurrectorFromMutonite.description>Reshape mechanites into a reincarnator serum from slurry. Caution, this may have unintended side-effects being made from mutagenic mechanites.</Make_ResurrectorFromMutonite.description>
+  <Make_ResurrectorFromMutonite.jobString>fabricating reincarnator mech serum</Make_ResurrectorFromMutonite.jobString>
+  <Make_HealerFromMutonite.label>fabricate mutagenic healer mech serum</Make_HealerFromMutonite.label>
+  <Make_HealerFromMutonite.description>Reprogram a large quantity of mutagenic mechanites with healer protocols. Due to the sheer number of mechanites being reprogrammed, a few mechanites will fail to be neutralised and there is a high probability that the restored areas will be mutated as a result.</Make_HealerFromMutonite.description>
+  <Make_HealerFromMutonite.jobString>fabricating mutagenic healer mech serum</Make_HealerFromMutonite.jobString>
+  <Make_GlitterMedsFromMutonite.label>fabricate glitterworld medicine</Make_GlitterMedsFromMutonite.label>
+  <Make_GlitterMedsFromMutonite.description>Reshape mechanites into glitterworld medicine from antigen. This does require quite a lot.</Make_GlitterMedsFromMutonite.description>
+  <Make_GlitterMedsFromMutonite.jobString>Refining antigen into glitterworld medicine</Make_GlitterMedsFromMutonite.jobString>
+  <AdministerMutagenicMechSerumHealer.label>administer mutagenic healer mech serum</AdministerMutagenicMechSerumHealer.label>
+  <AdministerMutagenicMechSerumHealer.description>Administer a mutagenic healer mech serum.</AdministerMutagenicMechSerumHealer.description>
+  <AdministerMutagenicMechSerumHealer.jobString>Administering mutagenic healer mech serum.</AdministerMutagenicMechSerumHealer.jobString>
+  <PMMake_Hazsilk.label>make hazsilk</PMMake_Hazsilk.label>
+  <PMMake_Hazsilk.description>Turn cloth into hazsilk using antigen.</PMMake_Hazsilk.description>
+  <PMMake_Hazsilk.jobString>creating hazsilk</PMMake_Hazsilk.jobString>
+  <PMMake_HazsilkBulk.label>make hazsilk x4</PMMake_HazsilkBulk.label>
+  <PMMake_HazsilkBulk.description>Turn cloth into hazsilk using antigen.</PMMake_HazsilkBulk.description>
+  <PMMake_HazsilkBulk.jobString>creating hazsilk x4</PMMake_HazsilkBulk.jobString>
+  <PMMake_Morphsilk.label>make morphsilk</PMMake_Morphsilk.label>
+  <PMMake_Morphsilk.description>Turn cloth into morphskilk using mechanite slurry.</PMMake_Morphsilk.description>
+  <PMMake_Morphsilk.jobString>creating morphsilk</PMMake_Morphsilk.jobString>
+  <PMMake_MorphsilkBulk.label>make morphsilk x4</PMMake_MorphsilkBulk.label>
+  <PMMake_MorphsilkBulk.description>Turn cloth into morphskilk using mechanite slurry.</PMMake_MorphsilkBulk.description>
+  <PMMake_MorphsilkBulk.jobString>creating morphsilk x4</PMMake_MorphsilkBulk.jobString>
+  <PM_ApplyHaltCream.label>apply halt cream</PM_ApplyHaltCream.label>
+  <PM_ApplyHaltCream.description>Apply halt cream to a mutation</PM_ApplyHaltCream.description>
+  <PM_ApplyHaltCream.jobString>Applying halt cream.</PM_ApplyHaltCream.jobString>
+  <PM_ApplyAdaptionCream.label>apply adaption cream</PM_ApplyAdaptionCream.label>
+  <PM_ApplyAdaptionCream.description>Apply adaption cream to a mutation</PM_ApplyAdaptionCream.description>
+  <PM_ApplyAdaptionCream.jobString>Applying adaption cream.</PM_ApplyAdaptionCream.jobString>
+</LanguageData>

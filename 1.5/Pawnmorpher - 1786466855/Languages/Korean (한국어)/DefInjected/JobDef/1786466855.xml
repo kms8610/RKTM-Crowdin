@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PMResurrect.reportString>resurrecting TargetA.</PMResurrect.reportString>
+  <PM_OperateSequencer.reportString>scanning at TargetA.</PM_OperateSequencer.reportString>
+  <PM_UseMutationGenome.reportString>applying TargetB.</PM_UseMutationGenome.reportString>
+  <EnterMutagenChamber.reportString>entering mutagen chamber.</EnterMutagenChamber.reportString>
+  <CarryToMutagenChamber.reportString>carrying TargetA to mutagen chamber.</CarryToMutagenChamber.reportString>
+  <PM_CarrySpecialToMutagenChamber.reportString>carrying TargetA to mutagen chamber.</PM_CarrySpecialToMutagenChamber.reportString>
+  <PM_PlantMutagenicPlant.reportString>planting TargetA.</PM_PlantMutagenicPlant.reportString>
+  <PM_MutagenicSow.reportString>sowing TargetA.</PM_MutagenicSow.reportString>
+  <PM_TransformPrisoner.reportString>transforming TargetA.</PM_TransformPrisoner.reportString>
+  <RecruitSapientFormerHuman.reportString>recruiting TargetA</RecruitSapientFormerHuman.reportString>
+  <PMLayEgg.reportString>laying egg.</PMLayEgg.reportString>
+  <PMMilkSelf.reportString>milking myself.</PMMilkSelf.reportString>
+  <PMDrainChemcyst.reportString>draining my chemcyst.</PMDrainChemcyst.reportString>
+  <PMShaveSelf.reportString>shaving myself.</PMShaveSelf.reportString>
+  <PMHuntingForMushrooms.reportString>foraging for mushrooms.</PMHuntingForMushrooms.reportString>
+</LanguageData>

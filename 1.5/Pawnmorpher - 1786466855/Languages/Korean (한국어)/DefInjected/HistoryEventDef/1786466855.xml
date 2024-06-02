@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutationGained.label>mutation gained</MutationGained.label>
+  <MutationLost.label>mutation lost</MutationLost.label>
+  <Transformed.label>transformed into former human</Transformed.label>
+  <Reverted.label>transformed from fromer human</Reverted.label>
+  <Morphed.label>transformed</Morphed.label>
+  <DeMorphed.label>reverted</DeMorphed.label>
+  <SapienceLevelChanged.label>sapience level changed</SapienceLevelChanged.label>
+  <PermanentlyFeral.label>permanently feral</PermanentlyFeral.label>
+  <FormerHumanHunted.label>hunted</FormerHumanHunted.label>
+  <FormerHumanGrazed.label>grazed</FormerHumanGrazed.label>
+  <FormerHumanAteCorpse.label>ate corpse</FormerHumanAteCorpse.label>
+  <ApplyMutagenicsOn.label>apply mutagenics on</ApplyMutagenicsOn.label>
+  <SowMutagenicPlants.label>Sow Mutagenic Plants</SowMutagenicPlants.label>
+  <CreateMutagenicWeapon.label>Create Mutagenic Weapon</CreateMutagenicWeapon.label>
+</LanguageData>
