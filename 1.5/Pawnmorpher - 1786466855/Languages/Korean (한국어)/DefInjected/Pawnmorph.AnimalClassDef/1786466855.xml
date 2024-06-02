@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animal.label>animal</Animal.label>
+  <Avian.label>avian</Avian.label>
+  <Anserigalliform.label>anserigalliform</Anserigalliform.label>
+  <Anseriform.label>anseriform</Anseriform.label>
+  <Galliform.label>galliform</Galliform.label>
+  <Ratite.label>ratite</Ratite.label>
+  <Powerful.label>powerful</Powerful.label>
+  <ThickFur.label>thickly furred</ThickFur.label>
+  <ThickHide.label>thick hide</ThickHide.label>
+  <Elephantidae.label>Elephantidae</Elephantidae.label>
+  <Rhinocerotidae.label>rhinocerotidae</Rhinocerotidae.label>
+  <PawFooted.label>paw footed</PawFooted.label>
+  <Carnivora.label>carnivora</Carnivora.label>
+  <Canid.label>canid</Canid.label>
+  <Familiaris.label>canid</Familiaris.label>
+  <Wolf.label>wolf</Wolf.label>
+  <Scavenger.label>scavenger</Scavenger.label>
+  <Feline.label>feline</Feline.label>
+  <BigFelis.label>big felis</BigFelis.label>
+  <Felis.label>felis</Felis.label>
+  <Pantherine.label>pantherine</Pantherine.label>
+  <Fox.label>fox</Fox.label>
+  <Exotic.label>exotic</Exotic.label>
+  <Leporid.label>leporid</Leporid.label>
+  <Rodent.label>rodent</Rodent.label>
+  <Arboreal.label>arboreal</Arboreal.label>
+  <Cerebral.label>cerebral</Cerebral.label>
+  <Ursine.label>ursine</Ursine.label>
+  <Reptile.label>reptile</Reptile.label>
+  <Lacertilia.label>lacertilia</Lacertilia.label>
+  <Ophidia.label>ophidia</Ophidia.label>
+  <Testudinidae.label>testudinidae</Testudinidae.label>
+  <Simian.label>simian</Simian.label>
+  <Monkeys.label>monkeys</Monkeys.label>
+  <Ungulate.label>ungulate</Ungulate.label>
+  <EvenToedUngulate.label>even-toed ungulate</EvenToedUngulate.label>
+  <Bovid.label>bovid</Bovid.label>
+  <DomesticatedBovid.label>domesticated bovid</DomesticatedBovid.label>
+  <WildBovid.label>wild bovid</WildBovid.label>
+  <Camelid.label>camelid</Camelid.label>
+  <Caprid.label>caprid</Caprid.label>
+  <Cervid.label>cervid</Cervid.label>
+  <BigCervid.label>big cervid</BigCervid.label>
+  <SmallCervid.label>small cervid</SmallCervid.label>
+  <Suid.label>suid</Suid.label>
+  <OddToedUngulate.label>odd-toed ungulate</OddToedUngulate.label>
+  <Equine.label>equine</Equine.label>
+</LanguageData>
