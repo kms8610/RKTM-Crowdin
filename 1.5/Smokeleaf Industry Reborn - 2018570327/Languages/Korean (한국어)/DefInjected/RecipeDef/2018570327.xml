@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulkRollCrudeSmokeleafJointCraftingSpot.label>make crude smokeleaf joints (x5)</BulkRollCrudeSmokeleafJointCraftingSpot.label>
+  <BulkRollCrudeSmokeleafJointCraftingSpot.description>Roll more crude joints at a time.</BulkRollCrudeSmokeleafJointCraftingSpot.description>
+  <BulkRollCrudeSmokeleafJointCraftingSpot.jobString>making smokeleaf joints</BulkRollCrudeSmokeleafJointCraftingSpot.jobString>
+  <BulkRollSmokeleafJointDrugLab.label>make smokeleaf joints (x5)</BulkRollSmokeleafJointDrugLab.label>
+  <BulkRollSmokeleafJointDrugLab.description>Roll more joints at a time.</BulkRollSmokeleafJointDrugLab.description>
+  <BulkRollSmokeleafJointDrugLab.jobString>making smokeleaf joints</BulkRollSmokeleafJointDrugLab.jobString>
+  <BulkMakeSmokeleafHash.label>make smokeleaf hash (x5)</BulkMakeSmokeleafHash.label>
+  <BulkMakeSmokeleafHash.description>Make smokeleaf hash in larger quantities.</BulkMakeSmokeleafHash.description>
+  <BulkMakeSmokeleafHash.jobString>making smokeleaf hash</BulkMakeSmokeleafHash.jobString>
+  <BulkMakeCHO.label>make chemfuel hash oil (x5)</BulkMakeCHO.label>
+  <BulkMakeCHO.description>Make chemfuel hash oil in larger quantities.</BulkMakeCHO.description>
+  <BulkMakeCHO.jobString>making chemfuel hash oil</BulkMakeCHO.jobString>
+  <BulkMakeSmokeleafDistillate.label>make smokeleaf distillate (x5)</BulkMakeSmokeleafDistillate.label>
+  <BulkMakeSmokeleafDistillate.description>Make smokeleaf distillate in larger quantities.</BulkMakeSmokeleafDistillate.description>
+  <BulkMakeSmokeleafDistillate.jobString>extracting smokeleaf distillate</BulkMakeSmokeleafDistillate.jobString>
+  <BulkMakeSmokeleafCannagar.label>make smokeleaf cannagar (x5)</BulkMakeSmokeleafCannagar.label>
+  <BulkMakeSmokeleafCannagar.description>Make smokeleaf cannagar in larger quantities.</BulkMakeSmokeleafCannagar.description>
+  <BulkMakeSmokeleafCannagar.jobString>making smokeleaf cannagar</BulkMakeSmokeleafCannagar.jobString>
+  <BulkMakeSmokeleafTincture.label>make smokeleaf tincture (x5)</BulkMakeSmokeleafTincture.label>
+  <BulkMakeSmokeleafTincture.description>Make smokeleaf tincture in larger quantities.</BulkMakeSmokeleafTincture.description>
+  <BulkMakeSmokeleafTincture.jobString>making smokeleaf tincture</BulkMakeSmokeleafTincture.jobString>
+  <BulkMakeSmokeleafPills.label>make smokeleaf pills (x5)</BulkMakeSmokeleafPills.label>
+  <BulkMakeSmokeleafPills.description>Make smokeleaf pills in larger quantities.</BulkMakeSmokeleafPills.description>
+  <BulkMakeSmokeleafPills.jobString>making smokeleaf pills</BulkMakeSmokeleafPills.jobString>
+  <BulkMakeSmokeleafLotion.label>make smokeleaf lotion (x5)</BulkMakeSmokeleafLotion.label>
+  <BulkMakeSmokeleafLotion.description>Make smokeleaf lotion in larger quantities.</BulkMakeSmokeleafLotion.description>
+  <BulkMakeSmokeleafLotion.jobString>making smokeleaf lotion</BulkMakeSmokeleafLotion.jobString>
+  <ExtractCBD.label>extract CBD</ExtractCBD.label>
+  <ExtractCBD.description>Extract CBD from smokeleaf buds.</ExtractCBD.description>
+  <ExtractCBD.jobString>Extracting CBD</ExtractCBD.jobString>
+  <BulkExtractCBD.label>extract CBD (x5)</BulkExtractCBD.label>
+  <BulkExtractCBD.description>Extract CBD from smokeleaf buds in larger quantities.</BulkExtractCBD.description>
+  <BulkExtractCBD.jobString>Extracting CBD</BulkExtractCBD.jobString>
+  <BulkInfusedMedicine.label>make infused medicine (x5)</BulkInfusedMedicine.label>
+  <BulkInfusedMedicine.description>Make infused medicine in larger quantities.</BulkInfusedMedicine.description>
+  <BulkInfusedMedicine.jobString>making infuse medicine</BulkInfusedMedicine.jobString>
+  <AutoTrimSmokeleaf.label>auto trim smokeleaf</AutoTrimSmokeleaf.label>
+  <AutoTrimSmokeleaf.description>Trim large amounts of smokeleaf very quickly. Due to the machine process, a small percentage of buds and seeds will be lost.</AutoTrimSmokeleaf.description>
+  <AutoTrimSmokeleaf.jobString>Trimming Smokeleaf.</AutoTrimSmokeleaf.jobString>
+  <BulkAutoTrimSmokeleaf.label>bulk auto trim smokeleaf</BulkAutoTrimSmokeleaf.label>
+  <BulkAutoTrimSmokeleaf.description>Trim even larger amounts of smokeleaf very quickly. Due to the machine process, a small percentage of buds and seeds will be lost.</BulkAutoTrimSmokeleaf.description>
+  <BulkAutoTrimSmokeleaf.jobString>Trimming Smokeleaf.</BulkAutoTrimSmokeleaf.jobString>
+  <TrimSmokeleafCraftingSpot.label>trim smokeleaf</TrimSmokeleafCraftingSpot.label>
+  <TrimSmokeleafCraftingSpot.description>Trim smokeleaf into usable ingredients.</TrimSmokeleafCraftingSpot.description>
+  <TrimSmokeleafCraftingSpot.jobString>Trimming Smokeleaf.</TrimSmokeleafCraftingSpot.jobString>
+  <BulkTrimSmokeleafCraftingSpot.label>bulk trim smokeleaf</BulkTrimSmokeleafCraftingSpot.label>
+  <BulkTrimSmokeleafCraftingSpot.description>Bulk trim smokeleaf into usable ingredients.</BulkTrimSmokeleafCraftingSpot.description>
+  <BulkTrimSmokeleafCraftingSpot.jobString>Trimming Smokeleaf.</BulkTrimSmokeleafCraftingSpot.jobString>
+  <TrimSmokeleafDrugLab.label>trim smokeleaf</TrimSmokeleafDrugLab.label>
+  <TrimSmokeleafDrugLab.description>Trim smokeleaf into usable ingredients.</TrimSmokeleafDrugLab.description>
+  <TrimSmokeleafDrugLab.jobString>Trimming Smokeleaf.</TrimSmokeleafDrugLab.jobString>
+  <BulkTrimSmokeleafDrugLab.label>bulk trim smokeleaf</BulkTrimSmokeleafDrugLab.label>
+  <BulkTrimSmokeleafDrugLab.description>Bulk trim smokeleaf into usable ingredients.</BulkTrimSmokeleafDrugLab.description>
+  <BulkTrimSmokeleafDrugLab.jobString>Trimming Smokeleaf.</BulkTrimSmokeleafDrugLab.jobString>
+  <TrimSmokeleafCultLab.label>trim smokeleaf</TrimSmokeleafCultLab.label>
+  <TrimSmokeleafCultLab.description>Expertly trim smokeleaf into usable ingredients with greater yields.</TrimSmokeleafCultLab.description>
+  <TrimSmokeleafCultLab.jobString>Trimming Smokeleaf.</TrimSmokeleafCultLab.jobString>
+  <BulkTrimSmokeleafCultLab.label>bulk trim smokeleaf</BulkTrimSmokeleafCultLab.label>
+  <BulkTrimSmokeleafCultLab.description>Expertly trim smokeleaf into usable ingredients with greater yields.</BulkTrimSmokeleafCultLab.description>
+  <BulkTrimSmokeleafCultLab.jobString>Trimming Smokeleaf.</BulkTrimSmokeleafCultLab.jobString>
+  <BulkCraftHempFibers.label>craft hemp fabric</BulkCraftHempFibers.label>
+  <BulkCraftHempFibers.description>Process hemp fibers into a durable fabric.</BulkCraftHempFibers.description>
+  <BulkCraftHempFibers.jobString>Crafting hemp fabric.</BulkCraftHempFibers.jobString>
+  <BulkCraftDevilsleafFibers.label>craft devilsleaf fabric</BulkCraftDevilsleafFibers.label>
+  <BulkCraftDevilsleafFibers.description>Process hemp fibers and devilstrand into an extrememly durable and heat resistant fabric.</BulkCraftDevilsleafFibers.description>
+  <BulkCraftDevilsleafFibers.jobString>Crafting devilsleaf fabric.</BulkCraftDevilsleafFibers.jobString>
+  <BulkCraftHempBiocomposite.label>craft hemp biocomposite</BulkCraftHempBiocomposite.label>
+  <BulkCraftHempBiocomposite.description>Process hemp fibers and hemp biocoal into a lightweight biocomposite.</BulkCraftHempBiocomposite.description>
+  <BulkCraftHempBiocomposite.jobString>Crafting hemp biocomposite.</BulkCraftHempBiocomposite.jobString>
+  <BulkCraftHempBiocoal.label>make hemp biocoal</BulkCraftHempBiocoal.label>
+  <BulkCraftHempBiocoal.description>Heat hemp fibers at extremely high temperatures to carbonize it.</BulkCraftHempBiocoal.description>
+  <BulkCraftHempBiocoal.jobString>Making hemp biocoal.</BulkCraftHempBiocoal.jobString>
+  <BulkCraftNanosheet.label>craft hemp nanosheets</BulkCraftNanosheet.label>
+  <BulkCraftNanosheet.description>Process hemp biocoal and hemp fabric into advanced nanosheets.</BulkCraftNanosheet.description>
+  <BulkCraftNanosheet.jobString>Crafting hemp nanosheet.</BulkCraftNanosheet.jobString>
+  <MakeBulkHempoline.label>make hempoline from hemp products</MakeBulkHempoline.label>
+  <MakeBulkHempoline.description>Make a batch of hempoline by refining oil pressed from smokeleaf seeds and fibers.</MakeBulkHempoline.description>
+  <MakeBulkHempoline.jobString>Making hempoline from smokeleaf seeds.</MakeBulkHempoline.jobString>
+  <MakeBulkChemfuelFromSmokeleafProducts.label>make chemfuel from hempoline</MakeBulkChemfuelFromSmokeleafProducts.label>
+  <MakeBulkChemfuelFromSmokeleafProducts.description>Make a batch of stable chemfuel by refining hempoline.</MakeBulkChemfuelFromSmokeleafProducts.description>
+  <MakeBulkChemfuelFromSmokeleafProducts.jobString>Refining chemfuel from smokeleaf biofuel.</MakeBulkChemfuelFromSmokeleafProducts.jobString>
+  <MakeHempcreteBlocks.label>make hempcrete blocks</MakeHempcreteBlocks.label>
+  <MakeHempcreteBlocks.description>Compress hemp products into hempcrete blocks.</MakeHempcreteBlocks.description>
+  <MakeHempcreteBlocks.jobString>Making hempcrete blocks.</MakeHempcreteBlocks.jobString>
+  <CraftHempFlour.label>grind hemp flour</CraftHempFlour.label>
+  <CraftHempFlour.description>Process smokeleaf seeds into flour for baking.</CraftHempFlour.description>
+  <CraftHempFlour.jobString>Grinding hemp flour.</CraftHempFlour.jobString>
+  <BulkCraftHempFlour.label>grind hemp flour (bulk)</BulkCraftHempFlour.label>
+  <BulkCraftHempFlour.description>Process smokeleaf seeds into flour for baking in larger quantities.</BulkCraftHempFlour.description>
+  <BulkCraftHempFlour.jobString>Grinding hemp flour.</BulkCraftHempFlour.jobString>
+  <CraftFlourFromHempFlour.label>process hemp flour into baking flour</CraftFlourFromHempFlour.label>
+  <CraftFlourFromHempFlour.description>Process hemp flour into flour for other food products.</CraftFlourFromHempFlour.description>
+  <CraftFlourFromHempFlour.jobString>Grinding flour.</CraftFlourFromHempFlour.jobString>
+  <CraftSmokeleafSeedOil.label>press smokeleleaf seed oil</CraftSmokeleafSeedOil.label>
+  <CraftSmokeleafSeedOil.description>Press smokeleaf seeds into oil.</CraftSmokeleafSeedOil.description>
+  <CraftSmokeleafSeedOil.jobString>Pressing smokeleaf seeds.</CraftSmokeleafSeedOil.jobString>
+  <BulkCraftSmokeleafSeedOil.label>press smokeleleaf seed oil (bulk)</BulkCraftSmokeleafSeedOil.label>
+  <BulkCraftSmokeleafSeedOil.description>Press smokeleaf seeds into oil in larger quantities.</BulkCraftSmokeleafSeedOil.description>
+  <BulkCraftSmokeleafSeedOil.jobString>Pressing smokeleaf seeds.</BulkCraftSmokeleafSeedOil.jobString>
+  <MakeHempMilk.label>make hemp milk</MakeHempMilk.label>
+  <MakeHempMilk.description>Grind seeds that have been soaking in water to make "milk".</MakeHempMilk.description>
+  <MakeHempMilk.jobString>Making hemp milk.</MakeHempMilk.jobString>
+  <MakeHempMilkBulk.label>make hemp milk (bulk)</MakeHempMilkBulk.label>
+  <MakeHempMilkBulk.description>Grind seeds that have been soaking in water to make "milk" in bulk.</MakeHempMilkBulk.description>
+  <MakeHempMilkBulk.jobString>Making hemp milk.</MakeHempMilkBulk.jobString>
+  <MakeHempProtein.label>make hemp protein</MakeHempProtein.label>
+  <MakeHempProtein.description>Grind seeds into a fine powder to use as a protein supplement.</MakeHempProtein.description>
+  <MakeHempProtein.jobString>Making hemp protein.</MakeHempProtein.jobString>
+  <MakeHempProteinBulk.label>make hemp protein (bulk)</MakeHempProteinBulk.label>
+  <MakeHempProteinBulk.description>Grind seeds into a fine powder to use as a protein supplement in bulk.</MakeHempProteinBulk.description>
+  <MakeHempProteinBulk.jobString>Making hemp protein.</MakeHempProteinBulk.jobString>
+  <MakeSmokeleafButter.label>make smokeleaf butter</MakeSmokeleafButter.label>
+  <MakeSmokeleafButter.description>Simmer milk and smokeleaf buds to make infused butter.</MakeSmokeleafButter.description>
+  <MakeSmokeleafButter.jobString>Making butter.</MakeSmokeleafButter.jobString>
+  <MakeSmokeleafButterBulk.label>make smokeleaf butter (bulk)</MakeSmokeleafButterBulk.label>
+  <MakeSmokeleafButterBulk.description>Simmer milk and smokeleaf buds to make infused butter.</MakeSmokeleafButterBulk.description>
+  <MakeSmokeleafButterBulk.jobString>Making butter.</MakeSmokeleafButterBulk.jobString>
+  <BakeSmokeleafCookies.label>bake smokeleaf cookies</BakeSmokeleafCookies.label>
+  <BakeSmokeleafCookies.description>Bake delicious "special" cookies.</BakeSmokeleafCookies.description>
+  <BakeSmokeleafCookies.jobString>Baking cookies.</BakeSmokeleafCookies.jobString>
+  <BakeSmokeleafCookiesBulk.label>bake smokeleaf cookies (bulk)</BakeSmokeleafCookiesBulk.label>
+  <BakeSmokeleafCookiesBulk.description>Bake delicious "special" cookies.</BakeSmokeleafCookiesBulk.description>
+  <BakeSmokeleafCookiesBulk.jobString>Baking cookies.</BakeSmokeleafCookiesBulk.jobString>
+  <BakeSmokeleafBrownies.label>bake smokeleaf brownies</BakeSmokeleafBrownies.label>
+  <BakeSmokeleafBrownies.description>Bake delicious "special" brownies.</BakeSmokeleafBrownies.description>
+  <BakeSmokeleafBrownies.jobString>Baking brownies.</BakeSmokeleafBrownies.jobString>
+  <BakeSmokeleafBrowniesBulk.label>bake smokeleaf brownies (bulk)</BakeSmokeleafBrowniesBulk.label>
+  <BakeSmokeleafBrowniesBulk.description>Bake delicious "special" brownies.</BakeSmokeleafBrowniesBulk.description>
+  <BakeSmokeleafBrowniesBulk.jobString>Baking brownies.</BakeSmokeleafBrowniesBulk.jobString>
+  <MakeSmokeleafNutriLeafBar.label>make NutriLeaf bar</MakeSmokeleafNutriLeafBar.label>
+  <MakeSmokeleafNutriLeafBar.description>Make NutriLeaf bar.</MakeSmokeleafNutriLeafBar.description>
+  <MakeSmokeleafNutriLeafBar.jobString>Making NutriLeaf bar.</MakeSmokeleafNutriLeafBar.jobString>
+  <MakeSmokeleafNutriLeafBarBulk.label>make NutriLeaf bar (bulk)</MakeSmokeleafNutriLeafBarBulk.label>
+  <MakeSmokeleafNutriLeafBarBulk.description>Make NutriLeaf bars.</MakeSmokeleafNutriLeafBarBulk.description>
+  <MakeSmokeleafNutriLeafBarBulk.jobString>Making NutriLeaf bars.</MakeSmokeleafNutriLeafBarBulk.jobString>
+  <MakeSmokeleafDeEnergyDrink.label>make smokeleaf de-energy drink</MakeSmokeleafDeEnergyDrink.label>
+  <MakeSmokeleafDeEnergyDrink.description>A smokeleaf drink Ricky's been working on...he calls it 5 hour de-energy. It's probably pretty potent.</MakeSmokeleafDeEnergyDrink.description>
+  <MakeSmokeleafDeEnergyDrink.jobString>Making De-Energy drink.</MakeSmokeleafDeEnergyDrink.jobString>
+  <MakeSmokeleafDeEnergyDrinkBulk.label>make smokeleaf de-energy drink (bulk)</MakeSmokeleafDeEnergyDrinkBulk.label>
+  <MakeSmokeleafDeEnergyDrinkBulk.description>A smokeleaf drink Ricky's been working on...he calls it 5 hour de-energy. It's probably pretty potent.</MakeSmokeleafDeEnergyDrinkBulk.description>
+  <MakeSmokeleafDeEnergyDrinkBulk.jobString>Making De-Energy drink.</MakeSmokeleafDeEnergyDrinkBulk.jobString>
+  <MakeSmokeleafSmoothie.label>make smokeleaf smoothie</MakeSmokeleafSmoothie.label>
+  <MakeSmokeleafSmoothie.description>Berries blended with distillate to make a delicious smokeleaf smoothie.</MakeSmokeleafSmoothie.description>
+  <MakeSmokeleafSmoothie.jobString>Making smokeleaf smoothie.</MakeSmokeleafSmoothie.jobString>
+  <MakeSmokeleafSmoothieBulk.label>make smokeleaf smoothie (bulk)</MakeSmokeleafSmoothieBulk.label>
+  <MakeSmokeleafSmoothieBulk.description>Berries blended with distillate to make a delicious smokeleaf smoothie.</MakeSmokeleafSmoothieBulk.description>
+  <MakeSmokeleafSmoothieBulk.jobString>Making smokeleaf smoothie.</MakeSmokeleafSmoothieBulk.jobString>
+  <MakeSmokeleafCandy.label>make smokeleaf candy</MakeSmokeleafCandy.label>
+  <MakeSmokeleafCandy.description>Fruit juices, distillate and seed oil are simmered into a syrup and formed into hard candies.</MakeSmokeleafCandy.description>
+  <MakeSmokeleafCandy.jobString>Making smokeleaf candy.</MakeSmokeleafCandy.jobString>
+  <MakeSmokeleafCandyBulk.label>make smokeleaf candy (bulk)</MakeSmokeleafCandyBulk.label>
+  <MakeSmokeleafCandyBulk.description>Fruit juices, distillate and seed oil are simmered into a syrup and formed into hard candies in larger quantities.</MakeSmokeleafCandyBulk.description>
+  <MakeSmokeleafCandyBulk.jobString>Making smokeleaf smoothie.</MakeSmokeleafCandyBulk.jobString>
+  <CookMealInfused.label>cook infused meal</CookMealInfused.label>
+  <CookMealInfused.description>Add some smokeleaf butter to a meal to make it happy.</CookMealInfused.description>
+  <CookMealInfused.jobString>Cooking infused meal.</CookMealInfused.jobString>
+  <BulkCookMealInfused.label>cook infused meal (bulk)</BulkCookMealInfused.label>
+  <BulkCookMealInfused.description>Add some smokeleaf butter to a meal to make it happy. For five.</BulkCookMealInfused.description>
+  <BulkCookMealInfused.jobString>Cooking infused meal.</BulkCookMealInfused.jobString>
+  <MSI-VG_MakeBiofuel.label>make biofuel from grains (bulk)</MSI-VG_MakeBiofuel.label>
+  <MSI-VG_MakeBiofuel.description>Make a batch of biofuel by extracting biofuel from wheat, corn, or beans.</MSI-VG_MakeBiofuel.description>
+  <MSI-VG_MakeBiofuel.jobString>Refining biofuel from organics.</MSI-VG_MakeBiofuel.jobString>
+</LanguageData>
