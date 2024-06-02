@@ -1,7 +1,10 @@
 files:
-  - source: '*.*'
+  - source: '*.xml'
     ignore:
       - '\[RKTM] Mod'
-      - '*.md'
-    translation: /**/%language%/%original_path%/%original_file_name%
+    translation: /%language%/%original_path%/%original_file_name%
     content_segmentation: 0
+  - source: '*.txt'
+    ignore:
+      - '\[RKTM]'
+    translation: /%language%/%original_path%/%original_file_name%
