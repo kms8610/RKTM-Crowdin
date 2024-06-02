@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExposureVictim.title>노출 피해자</ExposureVictim.title>
+  <ExposureVictim.titleShort>노출됨</ExposureVictim.titleShort>
+  <ExposureVictim.description>[PAWN_nameDef](은)는 뮤타나이트 운석에 너무 근접해있는 [PAWN_objective](을)를 발견했고 곧 그것이 [PAWN_possessive] 인생을 완전히 바꾸어 버렸다는 것을 알았습니다.</ExposureVictim.description>
+  <MutagenJunkie.title>변형물질 중독자</MutagenJunkie.title>
+  <MutagenJunkie.titleShort>중독자</MutagenJunkie.titleShort>
+  <MutagenJunkie.description>[PAWN_nameDef](은)는 자신이 변이되어 가는 것에 중독되어 [PAWN_objective]자신을 반복적으로 변이시켰습니다. [PAWN_pronoun]는 당장은 좋아졌지만, 변이 피해는 영구적이었습니다.</MutagenJunkie.description>
+  <VolunteerMorph.title>변이 지원자</VolunteerMorph.title>
+  <VolunteerMorph.titleShort>자원 봉사자</VolunteerMorph.titleShort>
+  <VolunteerMorph.description>[PAWN_nameDef](은)는 유전자 치료 프로그램에 등록했고, 그것은 그(그녀)를 특별히 변이시키기 위해 고안되었습니다. 그것이 종료되었을 때, 분명 효과는 있었지만 결과는 처음 예상했던 것과는 약간 달랐습니다.</VolunteerMorph.description>
+  <WishFulfilment.title>변이 기원자</WishFulfilment.title>
+  <WishFulfilment.titleShort>자원 봉사자</WishFulfilment.titleShort>
+  <WishFulfilment.description>[PAWN_nameDef](은)는 [PAWN_objective]스스로 유전자 연구실을 통해 변이 되기를 [PAWN_pronoun](이)가 원했습니다. 결국 원하는 것들 중 하나를 [PAWN_pronoun]가 받았는지 아닌지는 또 다른 이야기입니다.</WishFulfilment.description>
+  <TestSubject.title>연구 대상</TestSubject.title>
+  <TestSubject.titleShort>중세민</TestSubject.titleShort>
+  <TestSubject.description>[PAWN_nameDef](은)는 불법적인 연구 기관에 포획되어 [PAWN_possessive] 의지와 상관 없이 변이를 겪어 신체의 대부분이 여러번 변질되었습니다. 그 변화의 흔적들은 아직도 남아 있습니다.</TestSubject.description>
+  <CombatMorph.title>전투 변이체</CombatMorph.title>
+  <CombatMorph.titleShort>전투변이체</CombatMorph.titleShort>
+  <CombatMorph.description>[PAWN_nameDef](은)는 파벌 전쟁의 최전선에 투입되기 위해 변이 당했습니다. 휴전 중, [PAWN_pronoun]는 [PAWN_possessive] 스스로의 인생을 찾기 위해 떠났습니다.</CombatMorph.description>
+  <ProductionMorph.title>생산 변이체</ProductionMorph.title>
+  <ProductionMorph.titleShort>생산변이체</ProductionMorph.titleShort>
+  <ProductionMorph.description>[PAWN_nameDef](은)는 헛간에 갇혀 있었고, [PAWN_pronoun]가 [PAWN_possessive] 몸에서 생성된 변형물질을 경비에게 먹여 탈출 전까지 거의 모든 종류의 식료품들을 생산하도록 강요당하고 있었습니다. 이러한 고립은 [PAWN_possessive] 사회성을 저해했지만, 때때로 [PAWN_pronoun]는... 다른 수감자들을 "돕기" 위해서도 불려 나갔습니다.</ProductionMorph.description>
+  <CultEscapee.title>종교집단 탈출자</CultEscapee.title>
+  <CultEscapee.titleShort>탈출자</CultEscapee.titleShort>
+  <CultEscapee.description>[PAWN_nameDef](은)는 억압적인 돌연변이 숭배 집단의 손아귀에서 간신히 벗어났고, 아직도 그때의 흉터가 남아 있습니다.</CultEscapee.description>
+  <CultEscapeeFarm.title>종교집단 농장 탈출자</CultEscapeeFarm.title>
+  <CultEscapeeFarm.titleShort>탈출자</CultEscapeeFarm.titleShort>
+  <CultEscapeeFarm.description>[PAWN_nameDef](은)는 억압적인 돌연변이 숭배 집단의 손아귀에서 간신히 벗어났고, 아직도 그때의 흉터가 남아 있습니다.</CultEscapeeFarm.description>
+  <ChookmorphGeneral.title>경품 닭</ChookmorphGeneral.title>
+  <ChookmorphGeneral.titleShort>닭 변이체</ChookmorphGeneral.titleShort>
+  <ChookmorphGeneral.description>[PAWN_nameDef](은)는 비윤리적인 사업 방식을 지닌 낙농에게 팔렸고, 그는 [PAWN_nameDef](을)를 빠르게 닭 무리로 만들어 버렸습니다. [PAWN_pronoun]는 [PAWN_pronoun]자신의 "가격" [PAWN_possessive] 을 지불한 후에야 떠날 수 있었습니다.</ChookmorphGeneral.description>
+  <TurkeymorphGeneral.title>칠면조</TurkeymorphGeneral.title>
+  <TurkeymorphGeneral.titleShort>터키모프</TurkeymorphGeneral.titleShort>
+  <TurkeymorphGeneral.description>[PAWN_nameDef]는 부유한 식인종의 호화로운 식사에 사용하기 위해 [PAWN_pronoun] 의지와 상관없이 유전자 변형되었습니다.</TurkeymorphGeneral.description>
+  <DuckmorphChef.title>미식가</DuckmorphChef.title>
+  <DuckmorphChef.titleShort>덕모프</DuckmorphChef.titleShort>
+  <DuckmorphChef.description>[PAWN_nameDef]은 5성급 레스토랑의 단골이었습니다. 생태 테러 단체에 의한 변형 유인체 공격 이후, [PAWN_nameDef]은 [PAWN_pronoun]이 오렌지 소스에 코팅되어 제공되어야 할 것처럼 보이게 되었습니다.</DuckmorphChef.description>
+  <GoosemorphPurist.title>안네티다포브</GoosemorphPurist.title>
+  <GoosemorphPurist.titleShort>거위모프</GoosemorphPurist.titleShort>
+  <GoosemorphPurist.description>호숫가에서의 소풍이 거위에 의해 망친 후, [PAWN_nameDef]의 부리 상처는 호수의 변형 유인체 오염으로 인해 감염되었습니다.</GoosemorphPurist.description>
+  <CassowarymorphGeneral.title>사냥감 피해자</CassowarymorphGeneral.title>
+  <CassowarymorphGeneral.titleShort>코사와리모프</CassowarymorphGeneral.titleShort>
+  <CassowarymorphGeneral.description>[PAWN_nameDef]의 이전 정착지는 사나운 코사와리 한 무리에 의해 공격을 받았습니다. 공격 이후, [PAWN_nameDef]은 파괴된 정착지에서 이런 모습으로 깨어났습니다.</CassowarymorphGeneral.description>
+  <EmumorphGeneral.title>고생물학 마니아</EmumorphGeneral.title>
+  <EmumorphGeneral.titleShort>이뮤모프</EmumorphGeneral.titleShort>
+  <EmumorphGeneral.description>[PAWN_nameDef]이 공룡처럼 변형하는 유전자 수정에 동의했을 때, 이런 모습이 [PAWN_pronoun]이 염두에 둔 것은 아니었습니다.</EmumorphGeneral.description>
+  <OstrichmorphGeneral.title>빠른 발걸음</OstrichmorphGeneral.title>
+  <OstrichmorphGeneral.titleShort>오스트리치모프</OstrichmorphGeneral.titleShort>
+  <OstrichmorphGeneral.description>[PAWN_nameDef]은 1등 트로피가 절실히 필요한 달리기 선수였습니다. 안타깝게도 성능 향상 약물은 [PAWN_nameDef]을 단지 더 나은 달리기 선수로 만드는 것 이상을 했습니다.</OstrichmorphGeneral.description>
+  <WolfmorphAlphaGeneral.title>알파 무리</WolfmorphAlphaGeneral.title>
+  <WolfmorphAlphaGeneral.titleShort>알파 늑대</WolfmorphAlphaGeneral.titleShort>
+  <WolfmorphAlphaGeneral.description>[PAWN_nameDef](은)는 늑대 무리들의 지배적 후계체제에 대한 반증된 연구의 일부였습니다. 곧 연구 내용이 기밀로 부쳐졌을 때, 그것은 [PAWN_nameDef]의 인간성을 앗아갔고 [PAWN_objective](은)는 "알파"로 불려지게 되었다.</WolfmorphAlphaGeneral.description>
+  <WolfmorphBetaGeneral.title>베타 무리</WolfmorphBetaGeneral.title>
+  <WolfmorphBetaGeneral.titleShort>베타 늑대</WolfmorphBetaGeneral.titleShort>
+  <WolfmorphBetaGeneral.description>[PAWN_nameDef](은)는 늑대 무리들의 지배적 후계체제에 대한 반증된 연구의 일부였습니다. 곧 연구 내용이 기밀로 부쳐졌을 때, 그것은 [PAWN_nameDef]의 인간성을 앗아갔고 [PAWN_objective](은)는 "베타"로 불려지게 되었다.</WolfmorphBetaGeneral.description>
+  <FoxmorphGeneral.title>샤냥된 여우</FoxmorphGeneral.title>
+  <FoxmorphGeneral.titleShort>여우 변이체</FoxmorphGeneral.titleShort>
+  <FoxmorphGeneral.description>[PAWN_nameDef](은)는 개를 이용해 사람을 쫓는 뒤틀린 사냥 클럽에 붙잡혔고, 빠져가기 위한 궁리를 해야만 했습니다. 다행히도, [PAWN_nameDef](은)는 다시 탈출할 수 있을 정도로 영리해졌습니다.</FoxmorphGeneral.description>
+  <CowmorphGeneral.title>젖소</CowmorphGeneral.title>
+  <CowmorphGeneral.titleShort>소 변이체</CowmorphGeneral.titleShort>
+  <CowmorphGeneral.description>[PAWN_nameDef](은)는 비윤리적인 사업 방식을 지닌 낙농에게 팔렸고, 그는 [PAWN_nameDef](을)를 빠르게 가축으로 만들어 버렸습니다. [PAWN_pronoun]는 [PAWN_pronoun]자신의 "가격" [PAWN_possessive] 을 지불한 후에야 떠날 수 있었습니다.</CowmorphGeneral.description>
+  <GoatmorphGeneral.title>난폭한 염소</GoatmorphGeneral.title>
+  <GoatmorphGeneral.titleShort>GOAT</GoatmorphGeneral.titleShort>
+  <GoatmorphGeneral.description>[PAWN_nameDef]는 고향에서 빼앗겨 염소같은 신을 숭배하는 암호도적 컬트에 의해 변형되었습니다. [PAWN_pronoun]은 모든 시간의 가장 염소 같은 존재로 증명되었고, 컬트는 [PAWN_pronoun]을 다룰 수 없었으며, 이것은 탈출할 수 있는 수단을 제공했습니다.</GoatmorphGeneral.description>
+  <GoatmorphCultist.title>염소 종교 단원</GoatmorphCultist.title>
+  <GoatmorphCultist.titleShort>숭배자</GoatmorphCultist.titleShort>
+  <GoatmorphCultist.description>[PAWN_nameDef]은 염소 같은 신을 숭배하는 비밀스러운 단체와 연관된 삶을 보냈습니다. 그 단체가 집단적인 변형 기술을 손에 넣는 것과 동시에 자신들을 신에게 가까워지게 하는 집단적인 집단 변형에 자신들을 즉각 주입시켰습니다. [PAWN_nameDef]은 측정 가능한 지성을 가진 유일한 존재로 남아 헤매고 있습니다.</GoatmorphCultist.description>
+  <SheepmorphGeneral.title>목장 양</SheepmorphGeneral.title>
+  <SheepmorphGeneral.titleShort>양 변이체</SheepmorphGeneral.titleShort>
+  <SheepmorphGeneral.description>[PAWN_nameDef](은)는 비윤리적인 사업 방식을 지닌 낙농에게 팔렸고, 그는 [PAWN_nameDef](을)를 빠르게 양떼의 일원으로 만들었습니다. [PAWN_pronoun]는 털이 깎이기 전에 도망쳤고, [PAWN_possessive] 등에는 아직 [PAWN_possessive] 양털이 붇어있습니다.</SheepmorphGeneral.description>
+  <BoarmorphGeneral.title>숲 멧돼지</BoarmorphGeneral.title>
+  <BoarmorphGeneral.titleShort>멧돼지 변이체</BoarmorphGeneral.titleShort>
+  <BoarmorphGeneral.description>[PAWN_nameDef] 은 숲속의 화학 물질이 유출된 곳 옆에 있는 의심스러운 버섯들 중 몇개를 집어 먹었고, [PAWN_objective]는 좀더 돼지 같아진 자신을 발견할 수 있었습니다.</BoarmorphGeneral.description>
+  <PigmorphGeneral.title>농장 돼지</PigmorphGeneral.title>
+  <PigmorphGeneral.titleShort>돼지 변이체</PigmorphGeneral.titleShort>
+  <PigmorphGeneral.description>[PAWN_nameDef](은)는 비윤리적인 사업 방식을 지닌 낙농에게 팔렸고, 그는 [PAWN_nameDef](을)를 빠르게 돼지 무리의 일부로 만들어 버렸습니다. [PAWN_pronoun]는 [PAWN_pronoun]자신이 1등급 돼지라는 칭호를 얻기 직전에야 시상식 도중에 간신히 탈출할 수 있었습니다.</PigmorphGeneral.description>
+  <DonkeymorphGeneral.title>도망친 당나귀</DonkeymorphGeneral.title>
+  <DonkeymorphGeneral.titleShort>당나귀 변이체</DonkeymorphGeneral.titleShort>
+  <DonkeymorphGeneral.description>[PAWN_nameDef](은)는 한 인기없는 축제에서 당나귀로 변했지만, [PAWN_possessive] 인간성을 일부 유지한 채 도망 칠 수 있었습니다.</DonkeymorphGeneral.description>
+  <HorsemorphGeneral.title>말 징집</HorsemorphGeneral.title>
+  <HorsemorphGeneral.titleShort>말 변이체</HorsemorphGeneral.titleShort>
+  <HorsemorphGeneral.description>[PAWN_nameDef](은)는 비윤리적인 사업 방식을 지닌 낙농에게 팔려, 쟁기 같은 농장 도구들을 쉴 새 없이 끌고 다녀야 했습니다. 결국 [PAWN_possessive] 다리가 부러져, 또다시 어딘가로 팔려나가게 되었지만, 그곳에서 탈출에 성공했습니다. 목적지도 모르지만, 계속 나아갑니다.</HorsemorphGeneral.description>
+</LanguageData>
