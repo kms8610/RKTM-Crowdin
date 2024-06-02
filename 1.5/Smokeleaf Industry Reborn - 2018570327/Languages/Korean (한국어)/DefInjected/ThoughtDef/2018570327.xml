@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Stoner.stages.0.label>slightly baked</Stoner.stages.0.label>
+  <Stoner.stages.0.description>Do I look high?</Stoner.stages.0.description>
+  <Stoner.stages.1.label>euphoric</Stoner.stages.1.label>
+  <Stoner.stages.1.description>Haha! Holy crap.</Stoner.stages.1.description>
+  <Stoner.stages.2.label>ripped</Stoner.stages.2.label>
+  <Stoner.stages.2.description>This. Is. Amazing!</Stoner.stages.2.description>
+  <Stoner.stages.3.label>completely wrecked</Stoner.stages.3.label>
+  <Stoner.stages.3.description>Wow... I am blasted...</Stoner.stages.3.description>
+  <Stoner.stages.4.label>greening out</Stoner.stages.4.label>
+  <Stoner.stages.4.description>I'm freaking out, man!</Stoner.stages.4.description>
+  <SLI_SmokeleafWithdrawal.stages.1.label>Smokeleaf withdrawal</SLI_SmokeleafWithdrawal.stages.1.label>
+  <SLI_SmokeleafWithdrawal.stages.1.description>Counting the days 'til I get high again.</SLI_SmokeleafWithdrawal.stages.1.description>
+  <SmokeleafLotionRelief.stages.0.label>used smokeleaf lotion</SmokeleafLotionRelief.stages.0.label>
+  <SmokeleafLotionRelief.stages.0.description>My aches and pains are all gone.</SmokeleafLotionRelief.stages.0.description>
+  <SmokeleafPillsBuzz.stages.0.label>took smokeleaf pills</SmokeleafPillsBuzz.stages.0.label>
+  <SmokeleafPillsBuzz.stages.0.description>I feel much better.</SmokeleafPillsBuzz.stages.0.description>
+  <TinctureBuzz.stages.0.label>relaxed with tincture</TinctureBuzz.stages.0.label>
+  <TinctureBuzz.stages.0.description>These drops really help with my pain.</TinctureBuzz.stages.0.description>
+  <AteInfusedMeal.stages.0.label>ate infused meal</AteInfusedMeal.stages.0.label>
+  <AteInfusedMeal.stages.0.description>That meal was delicious! I feel great!</AteInfusedMeal.stages.0.description>
+  <IngestCannagar.stages.0.label>smoked cannagar</IngestCannagar.stages.0.label>
+  <IngestCannagar.stages.0.description>I smoked a cannagar! I can't believe I got my hands on one.</IngestCannagar.stages.0.description>
+  <IngestDistillate.stages.0.label>vaped distillate</IngestDistillate.stages.0.label>
+  <IngestDistillate.stages.0.description>I vaped some distillate. That shit's smooooth.</IngestDistillate.stages.0.description>
+  <IngestCHO.stages.0.label>smoked hash oil</IngestCHO.stages.0.label>
+  <IngestCHO.stages.0.description>I smoked hash oil. Very potent.</IngestCHO.stages.0.description>
+  <IngestHash.stages.0.label>smoked hash</IngestHash.stages.0.label>
+  <IngestHash.stages.0.description>I smoked hash. Pretty harsh, but does the trick.</IngestHash.stages.0.description>
+  <IngestCrudeJoint.stages.0.label>smoked crude joint</IngestCrudeJoint.stages.0.label>
+  <IngestCrudeJoint.stages.0.description>I smoked a crude joint. This is giving me a headache.</IngestCrudeJoint.stages.0.description>
+  <IngestSmokeleafJoint.stages.0.label>smoked joint</IngestSmokeleafJoint.stages.0.label>
+  <IngestSmokeleafJoint.stages.0.description>I smoked a joint. Nice...</IngestSmokeleafJoint.stages.0.description>
+  <IngestSmokeleafButter.stages.0.label>ate smokeleaf butter</IngestSmokeleafButter.stages.0.label>
+  <IngestSmokeleafButter.stages.0.description>Disgusting. Am I that desperate to get high?</IngestSmokeleafButter.stages.0.description>
+  <IngestRawSmokeleaf.stages.0.label>ate raw smokeleaf</IngestRawSmokeleaf.stages.0.label>
+  <IngestRawSmokeleaf.stages.0.description>What am I doing? I feel pathetic.</IngestRawSmokeleaf.stages.0.description>
+  <IngestSmokeleafBrownie.stages.0.label>ate smokeleaf brownie</IngestSmokeleafBrownie.stages.0.label>
+  <IngestSmokeleafBrownie.stages.0.description>Mmmm. Special brownies!</IngestSmokeleafBrownie.stages.0.description>
+  <IngestSmokeleafCookie.stages.0.label>ate smokeleaf cookie</IngestSmokeleafCookie.stages.0.label>
+  <IngestSmokeleafCookie.stages.0.description>Would've prefered a brownie, but this works, too.</IngestSmokeleafCookie.stages.0.description>
+  <IngestSmokeleafNutriLeaf.stages.0.label>ate NutriLeaf bar</IngestSmokeleafNutriLeaf.stages.0.label>
+  <IngestSmokeleafNutriLeaf.stages.0.description>Taste is ok, I guess.</IngestSmokeleafNutriLeaf.stages.0.description>
+  <IngestSmokeleafDeEnergyDrink.stages.0.label>drank smokeleaf de-energy drink</IngestSmokeleafDeEnergyDrink.stages.0.label>
+  <IngestSmokeleafDeEnergyDrink.stages.0.description>I need to find a couch.</IngestSmokeleafDeEnergyDrink.stages.0.description>
+  <IngestSmokeleafSmoothie.stages.0.label>drank smokeleaf smoothie</IngestSmokeleafSmoothie.stages.0.label>
+  <IngestSmokeleafSmoothie.stages.0.description>Man, that was satisfying!</IngestSmokeleafSmoothie.stages.0.description>
+  <IngestSmokeleafCandy.stages.0.label>ate smokeleaf candy</IngestSmokeleafCandy.stages.0.label>
+  <IngestSmokeleafCandy.stages.0.description>So sweet! My teeth kinda ache.</IngestSmokeleafCandy.stages.0.description>
+  <Catharsis_Mild.stages.0.label>catharsis</Catharsis_Mild.stages.0.label>
+  <Catharsis_Mild.stages.0.description>I'm feeling a little better.</Catharsis_Mild.stages.0.description>
+</LanguageData>

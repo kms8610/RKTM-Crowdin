@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmokeleafFarmer.degreeDatas.0.label>smokeleaf farmer</SmokeleafFarmer.degreeDatas.0.label>
+  <SmokeleafFarmer.degreeDatas.0.description>[PAWN_nameDef] has a passion for gardening and smokeleaf. [PAWN_pronoun] gets a mood bonus for every plant [PAWN_pronoun] sows.</SmokeleafFarmer.degreeDatas.0.description>
+  <Stoner.degreeDatas.0.label>stoner</Stoner.degreeDatas.0.label>
+  <Stoner.degreeDatas.0.description>[PAWN_nameDef] has a high tolerance for smokeleaf. [PAWN_pronoun] rarely suffers any withdrawal effects.</Stoner.degreeDatas.0.description>
+</LanguageData>
