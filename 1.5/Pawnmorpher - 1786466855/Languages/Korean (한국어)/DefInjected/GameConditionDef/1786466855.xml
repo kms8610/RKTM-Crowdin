@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutagenicFallout.label>mutagenic fallout</MutagenicFallout.label>
+  <MutagenicFallout.description>A plume of mutagenic mechanites from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly mutated, and may eventually become animals.</MutagenicFallout.description>
+  <MutagenicFallout.endMessage>The worst of the toxic fallout has settled.</MutagenicFallout.endMessage>
+  <MutagenicFallout.letterText>An unknown source far away has released a plume of mutagenic mechanites into the air, which are now passing over the area. \n\nAnyone outside will slowly mutate, and as the number of mechanites in their system increases, the mutations will increase in severity. \n\nIt can last from a few days to over a season.</MutagenicFallout.letterText>
+</LanguageData>

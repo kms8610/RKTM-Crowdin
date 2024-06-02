@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FailFly_Roofed>Cannot fly from under roof.</FailFly_Roofed>
+  <FailFly_Lift>Mutations do not provide enough lift to fly.</FailFly_Lift>
+  <Fail_Downed>Downed.</Fail_Downed>
+  <Cooldown_Hours>Cooling down: {0}h</Cooldown_Hours>
+  <Cooldown_Seconds>Cooling down: {0}s</Cooldown_Seconds>
+  <MentalStateReason_Aspect>This happened because of: {0}.</MentalStateReason_Aspect>
+  <PMAspectCouldNotBeAddedInjector>Unable to add {Aspect} to {Pawn}</PMAspectCouldNotBeAddedInjector>
+  <BillRequiresMutanite>Requires {0} raw mutanites.</BillRequiresMutanite>
+  <MutaniteCentrifugeRunModeDesc>Enable or disable 'high yield' mode. This makes the centrifuge more efficent and faster, but dangerous to be around.</MutaniteCentrifugeRunModeDesc>
+  <MutaniteCentrifugeRunModeLabel>High yield</MutaniteCentrifugeRunModeLabel>
+  <CentrifugeHighYield>High Yield</CentrifugeHighYield>
+  <CentrifugeNormalYield>Normal Yield</CentrifugeNormalYield>
+  <CentrifugeRunningText>{0} done.</CentrifugeRunningText>
+  <MutaniteCentrifugeNotActive>Inactive, need: {0} more {1}</MutaniteCentrifugeNotActive>
+  <PMMutaniteCentrifugeNotActive>Inactive, {0} filled</PMMutaniteCentrifugeNotActive>
+  <MutaniteCentrifugeReadyToStart>Ready to start</MutaniteCentrifugeReadyToStart>
+  <PMAnimalPickerGizmo_Scanner>Select Animal</PMAnimalPickerGizmo_Scanner>
+  <PMAnimalPickerGizmoDescription_Scanner>Select a tagged animal's genome for mutation sequencing.</PMAnimalPickerGizmoDescription_Scanner>
+  <UserSequenceAbility>User sequencing speed</UserSequenceAbility>
+  <SequencingProgress>Sequencing {animal}</SequencingProgress>
+  <SequencingComplete>{animal} sequenced!</SequencingComplete>
+  <SequenceButtonStart>Sequence!</SequenceButtonStart>
+  <SequenceTableColumnRace>Race</SequenceTableColumnRace>
+  <SequenceTableColumnMorph>Morph</SequenceTableColumnMorph>
+  <SequenceTableColumnMutations>Mutations</SequenceTableColumnMutations>
+  <PMAnimalPickerGizmoNoChoices>No available choices</PMAnimalPickerGizmoNoChoices>
+  <PMExtractSlurryLabel>Extract slurry</PMExtractSlurryLabel>
+  <PMExtractSlurryDesc>Extract some mechanite slurry from the tank. A pawn will come to extract it.</PMExtractSlurryDesc>
+  <ChamberDatabaseIgnoresDataLimit>Infinite genebank capacity.</ChamberDatabaseIgnoresDataLimit>
+  <ChamberDatabaseIgnoresDataLimitTooltip>If true, adding things to the chamber database will not require data storage.</ChamberDatabaseIgnoresDataLimitTooltip>
+  <PMStorageSpaceMessage>Provides</PMStorageSpaceMessage>
+  <PMAnimalGenomeDescription>Stores the genetic information of {ANIMAL}.</PMAnimalGenomeDescription>
+  <PMChamberAddingMutations>Adding mutations</PMChamberAddingMutations>
+  <PMChamberTransforming> - Transforming {0} into {1}</PMChamberTransforming>
+  <PMCannotTransformPrisoner>Cannot transform {0}.</PMCannotTransformPrisoner>
+  <PMWaitingForPawn>Waiting for pawn.</PMWaitingForPawn>
+  <PMWaitingForPawnMerging>Waiting for pawn.</PMWaitingForPawnMerging>
+  <PMIdle>Idle.</PMIdle>
+  <PMActive>Active.</PMActive>
+  <PMWaitingForSpecialThing>Waiting for {0}</PMWaitingForSpecialThing>
+  <PMChamberMissingSpecialThing>{0} is required.</PMChamberMissingSpecialThing>
+  <PMAnimalPickerGizmo_Chamber>Animal Picker</PMAnimalPickerGizmo_Chamber>
+  <PMAnimalPickerGizmoDescription_Chamber>Start a mutagenic transformation into the selected animal.</PMAnimalPickerGizmoDescription_Chamber>
+  <PMPartPickerGizmo>Mutation Picker</PMPartPickerGizmo>
+  <PMPartPickerGizmoDescription>Precisely control mechanite configuration to select mutations for specific body parts.</PMPartPickerGizmoDescription>
+  <PMMergeGizmo>Merge</PMMergeGizmo>
+  <PMMergeGizmoDescription>Merge two unfortunate pawns into one chaotic abomination.</PMMergeGizmoDescription>
+  <ColorPicker_Title>Color picker for {0}</ColorPicker_Title>
+  <ColorPicker_RemovalHint></ColorPicker_RemovalHint>
+  <ColorPicker_CustomSkinColorCheckbox>Override skin color</ColorPicker_CustomSkinColorCheckbox>
+  <ColorPicker_CustomHairColorCheckbox>Override hair color</ColorPicker_CustomHairColorCheckbox>
+  <ColorPicker_r>Red</ColorPicker_r>
+  <ColorPicker_g>Green</ColorPicker_g>
+  <ColorPicker_b>Blue</ColorPicker_b>
+  <ColorPicker_Confirm>Apply</ColorPicker_Confirm>
+  <NotEnoughStorageSpaceToTagPK>There is not enough storage to tag {0}. Requires {1} but only have {2}</NotEnoughStorageSpaceToTagPK>
+  <PMDatabaseWithoutPower>Genebanks have lost power, cannot record new data.</PMDatabaseWithoutPower>
+  <AlreadyTaggedAnimal>{0} is already in genetic database.</AlreadyTaggedAnimal>
+  <PMAlreadyTaggedMulti>All mutations are already in genetic database.</PMAlreadyTaggedMulti>
+  <AnimalNotTaggable>{0} is too genetically corrupted to be added.</AnimalNotTaggable>
+  <NotValidAnimal>{0} is not a taggable animal.</NotValidAnimal>
+  <PMMutationNotTaggable>{0} is not taggable.</PMMutationNotTaggable>
+  <PMMutationRestricted>{0} is a restricted mutation.</PMMutationRestricted>
+  <AnimalAddedToDatabase>{0} added to database.</AnimalAddedToDatabase>
+  <PMNoMoreMutations>All {0} mutations have already been tagged.</PMNoMoreMutations>
+  <PMDesignatorRecruitSapient>Recruit</PMDesignatorRecruitSapient>
+  <PMDesignatorRecruitSapientDesc>Recruit a sapient person.</PMDesignatorRecruitSapientDesc>
+  <PMSheepChefLetter>Between frantic bleats, the sheep that has arrived at the colony appears to say he's a celebrity chef. He can cook excellent meals if you'll let him stay.</PMSheepChefLetter>
+  <PMSheepChefLetterLabel>A ram approaches.</PMSheepChefLetterLabel>
+  <GoodwillChangedReason_PawnTransformed>{memberLabel} turned into a {species}.</GoodwillChangedReason_PawnTransformed>
+  <FactionLeaderTransformedLabel>The {leaderTitle} of {factionName} turned into a {species}.</FactionLeaderTransformedLabel>
+  <FactionLeaderTransformedContent>{memberName}, former {leaderTitle} of the {factionName}, was turned into a {species} and can no longer lead. They've been replaced by {newLeader}.</FactionLeaderTransformedContent>
+  <GoodwillChangedReason_PawnReverted>{memberLabel} is no longer a {species}.</GoodwillChangedReason_PawnReverted>
+  <PMNoFormerHumanSculpting>Cannot Biosculpt former humans</PMNoFormerHumanSculpting>
+  <RelatedWildFormerHumanContent>{0} is a former human related to {1} and has appeared on the map. They may still need to be tamed. They are {1}'s {2}.</RelatedWildFormerHumanContent>
+  <RelatedWildFormerHumanLabel>Sapient animal (relationship)</RelatedWildFormerHumanLabel>
+  <RelatedSoldFormerHumanContent>{0} is a former human related to {1} and has appeared as part of a morph trader's stock. You can buy them if you want. They are {1}'s {2}.</RelatedSoldFormerHumanContent>
+  <RelatedSoldFormerHumanLabel>Morph trader (relationship)</RelatedSoldFormerHumanLabel>
+  <PMLetterFormerHumanJoinLabel>Former human (relationship)</PMLetterFormerHumanJoinLabel>
+  <PMLetterFormerHumanJoinTitle>{formerHuman} asks for help</PMLetterFormerHumanJoinTitle>
+  <PMLetterFormerHumanJoinContent>{formerHuman_kindBaseIndef} approaches the colony. It seems {formerHuman_pronoun} is actually a former human, turned into {formerHuman_kindBaseIndef} by some terrible mishap! {formerHuman_pronoun} claims to be {formerHuman_nameFull}, {relatedPawn}'s {relationship}, and is begging you to let {formerHuman_objective} join the colony.
+    
+As {formerHuman_kindBaseIndef}, {formerHuman} won't be able to do most kinds of work, but you can craft, buy, or find reverter serum to turn {formerHuman_objective} back into a human. Because {formerHuman} is related to {relatedPawn}, {relatedPawn} will be upset if you turn {formerHuman_objective} away.</PMLetterFormerHumanJoinContent>
+  <PMLetterFormerHumanJoinFeralLabel>Feral former human (relationship)</PMLetterFormerHumanJoinFeralLabel>
+  <PMLetterFormerHumanJoinFeralTitle>{formerHuman_kindBaseIndef} asks for help</PMLetterFormerHumanJoinFeralTitle>
+  <PMLetterFormerHumanJoinFeralContent>{formerHuman_kindBaseIndef} approaches the colony. It seems to be more intelligent than most animals, and your colonists believe {formerHuman_objective} to be a former human that's lost {formerHuman_possessive} ability to speak. {formerHuman_kindBaseDef} seems particularly attached to {relatedPawn}, and is probably someone {relatedPawn_pronoun} is related to.
+    
+As a feral {formerHuman_kindBase}, {formerHuman} will act no differently than other {formerHuman_kindBasePlural}, but you can craft, buy, or find reverter serum to turn {formerHuman_objective} back into a human. Because {formerHuman} is related to {relatedPawn}, {relatedPawn} will be upset if you turn {formerHuman_objective} away.</PMLetterFormerHumanJoinFeralContent>
+  <PMRejectUpset>Reject ({relatedPawn} will be upset)</PMRejectUpset>
+  <FormerHumanConflicted_DecreaseTransitionLabel>[PAWN_nameDef] sapience has dropped significantly.</FormerHumanConflicted_DecreaseTransitionLabel>
+  <FormerHumanConflicted_DecreaseTransitionContent>[PAWN_nameDef] sapience has dropped to the point they are no longer considered a full colonist.</FormerHumanConflicted_DecreaseTransitionContent>
+  <FormerHumanConflicted_IncreaseTransitionLabel>[PAWN_nameDef] sapience has increased.</FormerHumanConflicted_IncreaseTransitionLabel>
+  <FormerHumanConflicted_IncreaseTransitionContent>[PAWN_nameDef] sapience has increased to the point they are considered to be fully part of the colony.</FormerHumanConflicted_IncreaseTransitionContent>
+  <Sapient>sapient</Sapient>
+  <MostlySapient>mostly sapient</MostlySapient>
+  <Conflicted>conflicted</Conflicted>
+  <MostlyFeral>mostly feral</MostlyFeral>
+  <Feral>feral</Feral>
+  <PermanentlyFeral>permanently feral</PermanentlyFeral>
+  <MutagenChamberProgress>Mutation progress</MutagenChamberProgress>
+  <EnterMutagenChamber>Enter mutation chamber</EnterMutagenChamber>
+  <PMEnterMutagenChamberMerge>Enter mutagen chamber to merge</PMEnterMutagenChamberMerge>
+  <LetterLabelChaomorphPasses>{0}s wander in</LetterLabelChaomorphPasses>
+  <LetterChaomorphPasses>A group of {0}s has wandered into the area. They will stay for a while and then leave. You can choose to hunt, tame or revert them if you have the serum for it.</LetterChaomorphPasses>
+  <LetterHediffFromTransformationLabel>{0} -> {1}</LetterHediffFromTransformationLabel>
+  <LetterHediffFromTransformation>{0} has turned into a {1}!</LetterHediffFromTransformation>
+  <LetterHediffFromTransformationBondLabel>{0} -> {1}</LetterHediffFromTransformationBondLabel>
+  <LetterHediffFromTransformationBond>{0} has turned into a {1}! \n\n {0} has bonded with {2} because of their good relationship.</LetterHediffFromTransformationBond>
+  <LetterHediffFromTransformationMergeLabel>{0} + {1} -> {2}</LetterHediffFromTransformationMergeLabel>
+  <LetterHediffFromTransformationMerge>{0} and {1} have melded into a {2}!</LetterHediffFromTransformationMerge>
+  <LetterHediffFromPermanentTFLabel>{0} permanently feral</LetterHediffFromPermanentTFLabel>
+  <LetterHediffFromPermanentTF>There is no visible change in {0}'s body as the mutagenic mechanites in their system simultaneously purge their memory of the original form. {0} can no longer be turned human with reversion serum -- they will remain an animal forever now.</LetterHediffFromPermanentTF>
+  <LetterHediffFromDietChangeLabel>{0} is now a {1}</LetterHediffFromDietChangeLabel>
+  <LetterHediffFromDietChange>{0}'s diet has now changed to be a {1}! Remember to feed them right.</LetterHediffFromDietChange>
+  <LetterHediffFromEtherBondLabel>Etherbonded: {0}</LetterHediffFromEtherBondLabel>
+  <LetterHediffFromEtherBond>Constant production has caused {0} to accept change, and for some reason will now enjoy producing.</LetterHediffFromEtherBond>
+  <LetterHediffFromEtherBrokenLabel>Etherbroken: {0}</LetterHediffFromEtherBrokenLabel>
+  <LetterHediffFromEtherBroken>Constant production has caused {0} to become numb and submit to their fate.</LetterHediffFromEtherBroken>
+  <RaceChangeMessage>{0} is no longer considered {1}!</RaceChangeMessage>
+  <HumanAgainMessage>{0} is human again!</HumanAgainMessage>
+  <TransformationStageWarningLabel>{0} is at risk of fully changing very soon.</TransformationStageWarningLabel>
+  <TransformationStageWarningContent>{0} is at risk of transforming into an animal soon. You can use stabilizer to prevent this.</TransformationStageWarningContent>
+  <CarryToChamber>Carry {1_label} to mutagen chamber.</CarryToChamber>
+  <PMCarryToChamberMerge>Carry {1_label} to mutagen chamber for merging.</PMCarryToChamberMerge>
+  <CannotCarryToChamber>Cannot carry to mutagen chamber.</CannotCarryToChamber>
+  <PawnmorphTooltipShe>She</PawnmorphTooltipShe>
+  <PawnmorphTooltipHe>He</PawnmorphTooltipHe>
+  <PawnmorphTooltipHer>Her</PawnmorphTooltipHer>
+  <PawnmorphTooltipHim>Him</PawnmorphTooltipHim>
+  <PawnmorphTooltipHis>His</PawnmorphTooltipHis>
+  <PMMutationAdaptedGreater>+</PMMutationAdaptedGreater>
+  <MessagePawnResurrectedTransformed>{0} was resurrected, but the mechanite infusion in the serum brought them back as a {2}!</MessagePawnResurrectedTransformed>
+  <PMReelingLabel>reeling</PMReelingLabel>
+  <PMTransformingLabel>transforming</PMTransformingLabel>
+  <PMChangingLabel>changing</PMChangingLabel>
+  <PMFullMorphTfDescription>This person has mechanites in their blood that are slowly mutating them into a {Morph}. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more {MorphAdjective} than human.</PMFullMorphTfDescription>
+  <PMPartialMorphTfDescription>
+		This person has mechanites in their blood that are slowly mutating them into a {Morph}. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more {MorphAdjective} than human.
+	</PMPartialMorphTfDescription>
+  <PMInjectorLabel>mutasyringe, {Animal}</PMInjectorLabel>
+  <PMInjectorIngestCommand>Inject &lt;0></PMInjectorIngestCommand>
+  <PMInjectorReport>Injecting &lt;0></PMInjectorReport>
+  <LetterLabelMutagenicLeak>Pssst...</LetterLabelMutagenicLeak>
+  <LetterTextMutagenicLeak>A malfunction caused a mutagenic pipe to explode. Some hazardous slurry was leaked all over the floor.</LetterTextMutagenicLeak>
+  <MutagenicLeakWasLarge>That leak was massive! Your janitors may not return fully human...</MutagenicLeakWasLarge>
+  <injectorLabel>mutasyringe, {0}</injectorLabel>
+  <injectorDescription>A mutagenic injector filled with mechanites and {0} DNA. Use with caution, as leaving the mechanites unchecked may transform the user.</injectorDescription>
+  <GenomeLabel>Mutation genome ({MUTATION_label})</GenomeLabel>
+  <GenomeDesc>Genome that provides information for {MUTATION} mutation.</GenomeDesc>
+  <PMApplyGenome>download {0}</PMApplyGenome>
+  <PMNoMutationBenchAvailable>No mutation bench is available.</PMNoMutationBenchAvailable>
+  <PMNoStorageAvailableForGenome>Not enough space for {0} in the chamber database.</PMNoStorageAvailableForGenome>
+  <PmUnkownMutagenCause>PmUnkownMutagenCause</PmUnkownMutagenCause>
+  <Log_CausedBy>caused by</Log_CausedBy>
+  <PMFoodStackMultiplierCaption>Max meal size.</PMFoodStackMultiplierCaption>
+  <PMFoodStackMultiplierDescription>Multiplies the max meal size by pawn bodysize.</PMFoodStackMultiplierDescription>
+  <PMPawnScalingCaption>Pawn scaling.</PMPawnScalingCaption>
+  <PMPawnScalingDescription>Changes the size of pawns based on their bodysize.\nThis patch is experimental and may incur visual bugs and glitches.</PMPawnScalingDescription>
+  <PMPawnScalingScaleMultiplier>Scaling offset multiplier.</PMPawnScalingScaleMultiplier>
+  <PMPawnScalingScaleMultiplierTooltip>Multiplier added to the size offset on a pawn.\n Ex. +50% will render as +75% with 150% multipler.</PMPawnScalingScaleMultiplierTooltip>
+  <PMPawnScalingMinScale>Minimum pawn scale.</PMPawnScalingMinScale>
+  <PMPawnScalingMinScaleTooltip>Minimum size a pawn will be able to render.</PMPawnScalingMinScaleTooltip>
+  <PMPawnScalingMaxScale>Maximum pawn scale.</PMPawnScalingMaxScale>
+  <PMPawnScalingMaxScaleTooltip>Maximum size a pawn will be able to render.</PMPawnScalingMaxScaleTooltip>
+  <PMPawnScalingUseBodysize>Scale by actual bodysize.</PMPawnScalingUseBodysize>
+  <PMPawnScalingUseBodysizeTooltip>If the scaling algorithm should visually scale everything by using a pawns actual body size rather than just those affected by pawnmorpher.</PMPawnScalingUseBodysizeTooltip>
+  <PartPickerMenuTitle>Mutation Configuration Menu</PartPickerMenuTitle>
+  <NoMutationsOnPart>None</NoMutationsOnPart>
+  <EditParams>Details...</EditParams>
+  <IsPaused>Progression paused?</IsPaused>
+  <ToggleClothes>Toggle clothes visibility</ToggleClothes>
+  <RotCW>Rotate clockwise</RotCW>
+  <RotCCW>Rotate counter clockwise</RotCCW>
+  <CrownLabel>Crown</CrownLabel>
+  <BodyLabel>Body</BodyLabel>
+  <SkinSync>Sync Skin</SkinSync>
+  <DoSymmetry>Sync L/R</DoSymmetry>
+  <SummaryTitle>Summary</SummaryTitle>
+  <SummaryAddedMutation>Adding \"[MUTATION_NAME]\" mutation to [PAWN_nameDef]'s [MUTATION_PART] at a severity of [MUTATION_SEVERITY].</SummaryAddedMutation>
+  <SummaryHaltedMutation>It will not progess further.</SummaryHaltedMutation>
+  <SummaryRemovedMutation>Removing \"[MUTATION_NAME]\" mutation from [PAWN_nameDef]'s [MUTATION_PART].</SummaryRemovedMutation>
+  <PartDescTitle>Mutation description(s)</PartDescTitle>
+  <ApplyButtonText>Apply</ApplyButtonText>
+  <ResetButtonText>Reset</ResetButtonText>
+  <CancelButtonText>Cancel</CancelButtonText>
+  <Skin>Skin</Skin>
+  <Core>Core</Core>
+  <PMFailedChaobulbHarvest>{PAWN} failed at harvesting a Chaobulb and was contaminated with mutagenic buildup.</PMFailedChaobulbHarvest>
+  <MinOptimalGrowthTemperature>Min optimal growth temperature</MinOptimalGrowthTemperature>
+  <MaxOptimalGrowthTemperature>Max optimal growth temperature</MaxOptimalGrowthTemperature>
+  <MinOptimalGrowthTemperature_Desc>The minimum temperature at which this plant will grow the fastest.</MinOptimalGrowthTemperature_Desc>
+  <MaxOptimalGrowthTemperature_Desc>The maximum temperature at which this plant will grow the fastest.</MaxOptimalGrowthTemperature_Desc>
+  <PM_PawnMutatated_Ritual>{Count} {Member} were affected by the ritual</PM_PawnMutatated_Ritual>
+  <ScenPart_PawnsHaveAspect>Forced aspect</ScenPart_PawnsHaveAspect>
+  <ScenPart_SetSapience>Forced sapience</ScenPart_SetSapience>
+  <ScenPart_SetMorph>Forced morph</ScenPart_SetMorph>
+  <PawnmorpherModName>Pawnmorpher</PawnmorpherModName>
+  <enableFalloutCheckboxLabel>Enable Mutagenic Fallout</enableFalloutCheckboxLabel>
+  <enableFalloutCheckboxTooltip>Toggles a special fallout event that can spawn and mutate exposed pawns.</enableFalloutCheckboxTooltip>
+  <enableMutagenLeakCheckboxLabel>Enable Mutagenic Leaks</enableMutagenLeakCheckboxLabel>
+  <enableMutagenLeakCheckboxTooltip>Toggles a special event where slurry pipes can explode and leak slurry.</enableMutagenLeakCheckboxTooltip>
+  <enableMutagenCheckboxLabel>Enable Mutagenic Ship Parts</enableMutagenCheckboxLabel>
+  <enableMutagenCheckboxTooltip>Toggles a new ship part type that mutates pawns in an expanding radius.</enableMutagenCheckboxTooltip>
+  <enableMutagenDiseasesCheckboxLabel>Enable Mutagenic Diseases</enableMutagenDiseasesCheckboxLabel>
+  <enableMutagenDiseasesCheckboxTooltip>Toggles mutagenic disease events that will morph pawns (requires restart).</enableMutagenDiseasesCheckboxTooltip>
+  <enableMutagenMeteorCheckboxLabel>Enable Mutagenic Meteorite Mutation Radius</enableMutagenMeteorCheckboxLabel>
+  <enableMutagenMeteorCheckboxTooltip>Toggles the ability of mutonite meteors to mutate nearby pawns.</enableMutagenMeteorCheckboxTooltip>
+  <enableWildFormersCheckboxLabel>Enable Wild Former Humans</enableWildFormersCheckboxLabel>
+  <enableWildFormersCheckboxTooltip>Toggles animals spawning onto the map as former humans, allowing them to be reverted.</enableWildFormersCheckboxTooltip>
+  <enableMutationAdaptedStageLabelCheckboxLabel>Enable stage labels for adapted mutations.</enableMutationAdaptedStageLabelCheckboxLabel>
+  <enableMutationAdaptedStageLabelCheckboxTooltip>Enables stage labels on fully adjusted mutations. (Adapted, Grown, etc.)</enableMutationAdaptedStageLabelCheckboxTooltip>
+  <PMHazardousChaobulbs>Enable Hazardous Chaobulbs</PMHazardousChaobulbs>
+  <PMHazardousChaobulbsTooltip>If failed, chaobulb harvests can give mutagenic buildup.</PMHazardousChaobulbsTooltip>
+  <transformChanceSliderLabel>Chance for mutagens to fully transform pawns</transformChanceSliderLabel>
+  <formerChanceSliderLabel>Chance for animals to spawn as former humans</formerChanceSliderLabel>
+  <partialChanceSliderLabel>Chance for morph eggs/milk to trigger a complete transformation instead of a single mutation</partialChanceSliderLabel>
+  <maxMutationThoughtsSliderLabel>How many mutation related thoughts will show up at once</maxMutationThoughtsSliderLabel>
+  <friendlyManhunterTfChance>Chance for friendly pawns to go manhunter when transformed</friendlyManhunterTfChance>
+  <manhunterTfChance>Chance for pawns to go manhunter when transformed</manhunterTfChance>
+  <hostileKeepFactionTfChance>Chance for pawns of other factions to keep their faction when transformed</hostileKeepFactionTfChance>
+  <PMGenerateEndoGenesForAliens>Generate alien endo genes on first revert.</PMGenerateEndoGenesForAliens>
+  <PMGenerateEndoGenesForAliensTooltip>Generate endo genes (skin and hair color) when alien is reverted to human for the first time.</PMGenerateEndoGenesForAliensTooltip>
+  <PMInjectorsRequireTagging>Injectors Require Tagging</PMInjectorsRequireTagging>
+  <PMInjectorsRequireTaggingTooltip>If true, tagging animals is required to make injectors.</PMInjectorsRequireTaggingTooltip>
+  <PMEnableMutationVisualsButton>Show mutations on races.</PMEnableMutationVisualsButton>
+  <PMEnableMutationVisualsHeader>Enable mutations visuals for races.</PMEnableMutationVisualsHeader>
+  <PMEnableMutationVisualsText>Selected races will be patched to show mutations as if they were human, and depending on the race aesthetic results may vary.</PMEnableMutationVisualsText>
+  <PMRequiresRestart>Requires a game restart to take affect.</PMRequiresRestart>
+  <PMRaceReplacementButton>Set morph replacements.</PMRaceReplacementButton>
+  <PMRaceReplacementHeader>Set morph replacements for morphs.</PMRaceReplacementHeader>
+  <PMRaceReplacementText>Here you can replace morphs with races from other installed HAR mods.\nThis may not work with all races, use with caution and test before using in a save.</PMRaceReplacementText>
+  <PMRaceReplacementLocked>Locked by patch.</PMRaceReplacementLocked>
+  <PMOptionalPatchesButton>Toggle optional patches.</PMOptionalPatchesButton>
+  <PMOptionalPatchesHeader>Toggle optional patches.</PMOptionalPatchesHeader>
+  <PMOptionalPatchesText>Enable or disable patches that are not strictly necessary for the mod to function.\nHover over a patch to see description.</PMOptionalPatchesText>
+  <PMFailedToParse>Failed to parse.</PMFailedToParse>
+  <PMAnimalAssociationsButton>Associate animals.</PMAnimalAssociationsButton>
+  <PMAnimalAssociationsHeader>Associate animals.</PMAnimalAssociationsHeader>
+  <PMAnimalAssociationsText>Associate additional animals with morphs that will act as both additional outcomes, source of sequencing morph mutations and unlocking the injector.</PMAnimalAssociationsText>
+  <PMBlacklistFormerHumansButton>Former human animals</PMBlacklistFormerHumansButton>
+  <PMBlacklistFormerHumansHeader>Can be former humans</PMBlacklistFormerHumansHeader>
+  <PMBlacklistFormerHumansText>Enable, restrict or disable animals from randomly appearing as former humans in game.\nAnimals associated with morphs can only be restricted.</PMBlacklistFormerHumansText>
+  <PMBlacklistFormerHumansEnabled>Enabled</PMBlacklistFormerHumansEnabled>
+  <PMBlacklistFormerHumansRestricted>Restricted</PMBlacklistFormerHumansRestricted>
+  <PMBlacklistFormerHumansDisabled>Disabled</PMBlacklistFormerHumansDisabled>
+  <PMBlacklistFormerHumansEnabledDescription>Can freely appear as former human in game.</PMBlacklistFormerHumansEnabledDescription>
+  <PMBlacklistFormerHumansRestrictedDescription>Can exist as former human but not spawn at random.</PMBlacklistFormerHumansRestrictedDescription>
+  <PMBlacklistFormerHumansDisabledDescription>Cannot exist as former human at all.</PMBlacklistFormerHumansDisabledDescription>
+  <PMBlacklistFormerHumansAddedBy>Added by {0}</PMBlacklistFormerHumansAddedBy>
+  <PMDebug>Debug</PMDebug>
+  <PMDebugLevel>Debug level</PMDebugLevel>
+  <PMSequencer>Sequencer</PMSequencer>
+  <PMSequencerMultipler>Sequencing multiplier</PMSequencerMultipler>
+  <PMSequencerMultiplerTooltip>Speed multiplier when sequencing mutations.</PMSequencerMultiplerTooltip>
+  <PMSequencerAutoAnimalGenome>Auto sequence animal genomes</PMSequencerAutoAnimalGenome>
+  <PMSequencerAutoAnimalGenomeTooltip>Automatically sequence all mutations from animal genome when downloaded.</PMSequencerAutoAnimalGenomeTooltip>
+  <mutationLogLength>Mutation log length</mutationLogLength>
+  <mutationLogLengthTooltip>Max number of entries remembered by the mutation log.</mutationLogLengthTooltip>
+  <PMTagGizmoLabel>Tag Animal</PMTagGizmoLabel>
+  <PMTagGizmoDescription>Tag an animal</PMTagGizmoDescription>
+  <CannotTagFormerHuman>Due to mechanite contamination, this animal cannot be tagged.</CannotTagFormerHuman>
+  <PMMutationTagged>Mutation "{mutation}" sequenced from {animal}.</PMMutationTagged>
+  <PMNothingTaggable>{animal} has nothing worth recording.</PMNothingTaggable>
+  <PMMutationNotEnoughSpace>{animal} has mutations that can be recorded, but there is not enough space to store them.</PMMutationNotEnoughSpace>
+  <PMAnimalAddedToDatabase>{animal} got added to the genebank database.</PMAnimalAddedToDatabase>
+  <MutationAddedToDatabase>{Mutation} got added to the genebank.</MutationAddedToDatabase>
+  <PM_Genebank_Header>Genebank Storage</PM_Genebank_Header>
+  <PM_Genebank_AvailableHeader>Available Storage</PM_Genebank_AvailableHeader>
+  <PM_Genebank_TotalHeader>Total Storage</PM_Genebank_TotalHeader>
+  <PM_Genebank_DeleteButton>Delete</PM_Genebank_DeleteButton>
+  <PM_Genebank_SelectButton>Select</PM_Genebank_SelectButton>
+  <PM_Genebank_FontButton>Font</PM_Genebank_FontButton>
+  <PM_Genebank_FontButtonTiny>Tiny</PM_Genebank_FontButtonTiny>
+  <PM_Genebank_FontButtonSmall>Small</PM_Genebank_FontButtonSmall>
+  <PM_Genebank_FontButtonMedium>Medium</PM_Genebank_FontButtonMedium>
+  <PM_Column_Stats_Size>Size</PM_Column_Stats_Size>
+  <PM_Genebank_MutationTab_Caption>Mutations</PM_Genebank_MutationTab_Caption>
+  <PM_Genebank_MutationTab_Column_Mutation>Mutation</PM_Genebank_MutationTab_Column_Mutation>
+  <PM_Genebank_MutationTab_Column_BodyPart>Part</PM_Genebank_MutationTab_Column_BodyPart>
+  <PM_Genebank_MutationTab_Column_Animal>Animal</PM_Genebank_MutationTab_Column_Animal>
+  <PM_Genebank_MutationTab_Column_Paragon>Paragon</PM_Genebank_MutationTab_Column_Paragon>
+  <PM_Genebank_MutationTab_Column_Abilities>Abilities</PM_Genebank_MutationTab_Column_Abilities>
+  <PM_Genebank_MutationTab_Column_Stats>Stats</PM_Genebank_MutationTab_Column_Stats>
+  <PM_Genebank_MutationTab_Details_Stages>Stages: </PM_Genebank_MutationTab_Details_Stages>
+  <PM_Genebank_MutationTab_Details_Attacks>Attacks:</PM_Genebank_MutationTab_Details_Attacks>
+  <PM_Genebank_MutationTab_Details_Abilities>Abilities:</PM_Genebank_MutationTab_Details_Abilities>
+  <PM_Genebank_MutationTab_Details_OtherInfluences>others.</PM_Genebank_MutationTab_Details_OtherInfluences>
+  <PM_Genebank_MutationTab_Details_AbilityCooldown>Cooldown:</PM_Genebank_MutationTab_Details_AbilityCooldown>
+  <PM_Genebank_MutationTab_Details_DamagePerSecond>dps</PM_Genebank_MutationTab_Details_DamagePerSecond>
+  <PM_Genebank_AnimalsTab_Caption>Animals</PM_Genebank_AnimalsTab_Caption>
+  <PM_Genebank_AnimalsTab_Column_Race>Race</PM_Genebank_AnimalsTab_Column_Race>
+  <PM_Genebank_AnimalsTab_Column_Temperature>Temperature</PM_Genebank_AnimalsTab_Column_Temperature>
+  <PM_Genebank_AnimalsTab_Column_Lifespan>Lifespan</PM_Genebank_AnimalsTab_Column_Lifespan>
+  <PM_Genebank_AnimalsTab_Column_Diet>Diet</PM_Genebank_AnimalsTab_Column_Diet>
+  <PM_Genebank_AnimalsTab_Column_Value>Value</PM_Genebank_AnimalsTab_Column_Value>
+  <PM_Genebank_AnimalsTab_Column_Mutations>Mutations</PM_Genebank_AnimalsTab_Column_Mutations>
+  <PM_Genebank_AnimalsTab_Details_Mutations>Sequenced mutations:</PM_Genebank_AnimalsTab_Details_Mutations>
+  <PM_Genebank_TemplateTab_Caption>Templates</PM_Genebank_TemplateTab_Caption>
+  <PM_Genebank_TemplateTab_Column_Template>Template</PM_Genebank_TemplateTab_Column_Template>
+  <PM_Genebank_TemplateTab_Column_Mutations>Mutations</PM_Genebank_TemplateTab_Column_Mutations>
+  <PM_Genebank_TemplateTab_Button_Import>Import</PM_Genebank_TemplateTab_Button_Import>
+  <PM_Genebank_TemplateTab_Button_Export>Export</PM_Genebank_TemplateTab_Button_Export>
+  <PM_Genebank_TemplateTab_ParsingError>Failed to parse text.</PM_Genebank_TemplateTab_ParsingError>
+  <TabMutations>Mutations</TabMutations>
+  <MorphsITabHeader>Morphs</MorphsITabHeader>
+  <TraitsITabHeader>Aspects</TraitsITabHeader>
+  <ProductionITabHeader>Production</ProductionITabHeader>
+  <MutationLogButtonText>Log</MutationLogButtonText>
+  <MutationLogHeader>Mutation Log</MutationLogHeader>
+  <TableControlSearchPlaceholder>Search...</TableControlSearchPlaceholder>
+  <PPRemivingMutationDesc>Removing {MUTATION} mutation from {PAWN_nameDef}'s {PART}.</PPRemivingMutationDesc>
+  <PPAddingMutationDesc>Adding {MUTATION} mutation to {PAWN_nameDef}'s {PART} at a severity of {SEVERITY}.</PPAddingMutationDesc>
+  <PPNewMutationIsHalted>It will not progess further.</PPNewMutationIsHalted>
+  <PmMorphInfo_NoMorph>No Morphs</PmMorphInfo_NoMorph>
+  <PmMorphInfo_MorphDisplay>{MORPH}</PmMorphInfo_MorphDisplay>
+  <PmDaysAgo>{0} days ago</PmDaysAgo>
+  <PmHoursAgo>{0} hours ago</PmHoursAgo>
+  <PmLessThanHour>Less than an hour ago</PmLessThanHour>
+  <PMAnimalPickerGizmo_Mutagun>Random</PMAnimalPickerGizmo_Mutagun>
+  <PMAnimalPickerGizmoDescription_Mutagun>Animal mutation to inflict on the target.</PMAnimalPickerGizmoDescription_Mutagun>
+</LanguageData>
