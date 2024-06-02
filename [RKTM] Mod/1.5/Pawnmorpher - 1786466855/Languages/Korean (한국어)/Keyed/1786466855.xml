@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FailFly_Roofed>지붕 아래에서는 날 수 없습니다.</FailFly_Roofed>
+  <FailFly_Lift>변이는 날기 위한 충분한 양력을 제공하지 않습니다.</FailFly_Lift>
+  <Fail_Downed>쓰러짐.</Fail_Downed>
+  <Cooldown_Hours>냉각 시간: {0}시간</Cooldown_Hours>
+  <Cooldown_Seconds>냉각 시간: {0}초</Cooldown_Seconds>
+  <MentalStateReason_Aspect>다음 문제 때문에 발생함: {0}.</MentalStateReason_Aspect>
+  <PMAspectCouldNotBeAddedInjector>{Aspect}을(를) {Pawn}(으)로 추가할 수 없습니다</PMAspectCouldNotBeAddedInjector>
+  <BillRequiresMutanite>{0} 개의 생물 변이체가 필요합니다.</BillRequiresMutanite>
+  <MutaniteCentrifugeRunModeDesc>'고수익' 모드를 활성화하거나 비활성화합니다. 이것은 원심분리기를 더 효율적이고 빠르게 만들지만 주변에서 위험할 수 있습니다.</MutaniteCentrifugeRunModeDesc>
+  <MutaniteCentrifugeRunModeLabel>고수익</MutaniteCentrifugeRunModeLabel>
+  <CentrifugeHighYield>넓은 범위</CentrifugeHighYield>
+  <CentrifugeNormalYield>평범한 수확량</CentrifugeNormalYield>
+  <CentrifugeRunningText>{0} 완료.</CentrifugeRunningText>
+  <MutaniteCentrifugeNotActive>비활성, {0} 개의 {1}가 더 필요합니다</MutaniteCentrifugeNotActive>
+  <PMMutaniteCentrifugeNotActive>비활성, {0} 채워짐</PMMutaniteCentrifugeNotActive>
+  <MutaniteCentrifugeReadyToStart>시작 준비 완료</MutaniteCentrifugeReadyToStart>
+  <PMAnimalPickerGizmo_Scanner>동물 선택</PMAnimalPickerGizmo_Scanner>
+  <PMAnimalPickerGizmoDescription_Scanner>변이 시퀀싱을 위해 태그로 지정된 동물의 유전체를 선택합니다.</PMAnimalPickerGizmoDescription_Scanner>
+  <UserSequenceAbility>사용자 시퀀싱 속도</UserSequenceAbility>
+  <SequencingProgress>{animal} 시퀀싱 중</SequencingProgress>
+  <SequencingComplete>{animal} 시퀀싱 완료!</SequencingComplete>
+  <SequenceButtonStart>시퀀싱!</SequenceButtonStart>
+  <SequenceTableColumnRace>종족</SequenceTableColumnRace>
+  <SequenceTableColumnMorph>형태 변환</SequenceTableColumnMorph>
+  <SequenceTableColumnMutations>변이</SequenceTableColumnMutations>
+  <PMAnimalPickerGizmoNoChoices>가능한 선택이 없습니다</PMAnimalPickerGizmoNoChoices>
+  <PMExtractSlurryLabel>슬러리 추출</PMExtractSlurryLabel>
+  <PMExtractSlurryDesc>탱크에서 메카나이트 슬러리를 추출합니다. 한 명의 폰이 와서 추출할 것입니다.</PMExtractSlurryDesc>
+  <ChamberDatabaseIgnoresDataLimit>무한 유전자은행 용량.</ChamberDatabaseIgnoresDataLimit>
+  <ChamberDatabaseIgnoresDataLimitTooltip>참으로, 챔버 데이터베이스에 무언가를 추가하는 것은 데이터 저장을 필요로 하지 않을 것입니다.</ChamberDatabaseIgnoresDataLimitTooltip>
+  <PMStorageSpaceMessage>공급</PMStorageSpaceMessage>
+  <PMAnimalGenomeDescription>{ANIMAL}의 유전자 정보를 저장합니다.</PMAnimalGenomeDescription>
+  <PMChamberAddingMutations>변이를 추가하는 중</PMChamberAddingMutations>
+  <PMChamberTransforming> - {0}(을)를 {1}(으)로 변화시키는 중</PMChamberTransforming>
+  <PMCannotTransformPrisoner>{0}(을)를 변형할 수 없습니다.</PMCannotTransformPrisoner>
+  <PMWaitingForPawn>폰을 기다리는 중입니다.</PMWaitingForPawn>
+  <PMWaitingForPawnMerging>폰을 기다리는 중입니다.</PMWaitingForPawnMerging>
+  <PMIdle>유휴 상태.</PMIdle>
+  <PMActive>적용.</PMActive>
+  <PMWaitingForSpecialThing>{0}을 기다리는 중입니다</PMWaitingForSpecialThing>
+  <PMChamberMissingSpecialThing>{0} 필수 항목입니다.</PMChamberMissingSpecialThing>
+  <PMAnimalPickerGizmo_Chamber>동물 선택기</PMAnimalPickerGizmo_Chamber>
+  <PMAnimalPickerGizmoDescription_Chamber>선택한 동물로 변형 유인체 변환을 시작합니다.</PMAnimalPickerGizmoDescription_Chamber>
+  <PMPartPickerGizmo>변이 선택자</PMPartPickerGizmo>
+  <PMPartPickerGizmoDescription>특정 몸통 부위에 대한 변이를 선택하기 위해 메카나이트 구성을 정확하게 제어합니다.</PMPartPickerGizmoDescription>
+  <PMMergeGizmo>병합</PMMergeGizmo>
+  <PMMergeGizmoDescription>두 명의 불행한 PAWN_nameDef을 하나의 혼돈스러운 소름끼치는 것으로 합칩니다.</PMMergeGizmoDescription>
+  <ColorPicker_Title>{0}의 색 선택자</ColorPicker_Title>
+  <ColorPicker_RemovalHint/>
+  <ColorPicker_CustomSkinColorCheckbox>피부색 교체</ColorPicker_CustomSkinColorCheckbox>
+  <ColorPicker_CustomHairColorCheckbox>머리 색 교체</ColorPicker_CustomHairColorCheckbox>
+  <ColorPicker_r>붉은</ColorPicker_r>
+  <ColorPicker_g>녹색</ColorPicker_g>
+  <ColorPicker_b>청색</ColorPicker_b>
+  <ColorPicker_Confirm>적용</ColorPicker_Confirm>
+  <NotEnoughStorageSpaceToTagPK>{0}에 태그를 지정할 충분한 저장 공간이 없습니다. {1}이(가) 필요하지만 {2}만 가지고 있습니다</NotEnoughStorageSpaceToTagPK>
+  <PMDatabaseWithoutPower>유전자 은행에 전력이 끊겨 새로운 데이터를 기록할 수 없습니다.</PMDatabaseWithoutPower>
+  <AlreadyTaggedAnimal>{0}은(는) 이미 유전자 데이터베이스에 있습니다.</AlreadyTaggedAnimal>
+  <PMAlreadyTaggedMulti>모든 변이는 이미 유전자 데이터베이스에 있습니다.</PMAlreadyTaggedMulti>
+  <AnimalNotTaggable>{0}은(는) 유전적으로 너무 손상되어 추가될 수 없습니다.</AnimalNotTaggable>
+  <NotValidAnimal>{0}은(는) 태그 지정이 가능한 동물이 아닙니다.</NotValidAnimal>
+  <PMMutationNotTaggable>{0}은(는) 태그 지정이 가능하지 않습니다.</PMMutationNotTaggable>
+  <PMMutationRestricted>{0}은(는) 제한된 변이입니다.</PMMutationRestricted>
+  <AnimalAddedToDatabase>{0}을(를) 데이터베이스에 추가했습니다.</AnimalAddedToDatabase>
+  <PMNoMoreMutations>모든 {0} 변이는 이미 태그 지정되었습니다.</PMNoMoreMutations>
+  <PMDesignatorRecruitSapient>포섭</PMDesignatorRecruitSapient>
+  <PMDesignatorRecruitSapientDesc>지각 있는 사람을 모집합니다.</PMDesignatorRecruitSapientDesc>
+  <PMSheepChefLetter>당신의 정착지에 도착한 양은 정신없이 메에에- 거리며 자신이 유명한 요리사라고 합니다. 정착지에 머물게 해준다면 맛있는 음식을 요리해 줄 것입니다.</PMSheepChefLetter>
+  <PMSheepChefLetterLabel>'양'식 조리의 대가가 옵니다.</PMSheepChefLetterLabel>
+  <GoodwillChangedReason_PawnTransformed>{memberLabel}(이)가 {species}(으)로 변함.</GoodwillChangedReason_PawnTransformed>
+  <FactionLeaderTransformedLabel>{factionName}의 {leaderTitle}이(가) {species}(으)로 변했습니다.</FactionLeaderTransformedLabel>
+  <FactionLeaderTransformedContent>{factionName}의 {leaderTitle}였던 {memberName}(이)가 {species}(으)로 변해 더이상 그의 사람들을 이끌어 나갈 수 없습니다. {newLeader}가 그 자리를 대신 할 것입니다.</FactionLeaderTransformedContent>
+  <GoodwillChangedReason_PawnReverted>{memberLabel}은(는) 더 이상 {species}이(가) 아닙니다.</GoodwillChangedReason_PawnReverted>
+  <PMNoFormerHumanSculpting>전 인간에게 바이오스컬핑 할 수 없음</PMNoFormerHumanSculpting>
+  <RelatedWildFormerHumanContent>{1}의 지인이었던 변이된 인간 {0}이 지도에 나타났습니다. 아직 길들일 수 있을지도 모릅니다. {0}(은)는 {1}의 {2}이었습니다.</RelatedWildFormerHumanContent>
+  <RelatedWildFormerHumanLabel>지성이 있는 동물 (관계)</RelatedWildFormerHumanLabel>
+  <RelatedSoldFormerHumanContent>{1}의 지인이었던 변이된 인간 {0}이 변이체 상인의 상품으로 나타났습니다. 원한다면 구매 할 수 있습니다. {0}(은)는 {1}의 {2}이었습니다.</RelatedSoldFormerHumanContent>
+  <RelatedSoldFormerHumanLabel>변이체 상인 (관계)</RelatedSoldFormerHumanLabel>
+  <PMLetterFormerHumanJoinLabel>전 인간 (관계)</PMLetterFormerHumanJoinLabel>
+  <PMLetterFormerHumanJoinTitle>{formerHuman}이(가) 도움을 요청합니다</PMLetterFormerHumanJoinTitle>
+  <PMLetterFormerHumanJoinContent>{formerHuman_kindBaseIndef}이(가) 정착지로 다가옵니다. {formerHuman_pronoun}은(는) 어떤 끔찍한 불행에 의해 {formerHuman_kindBaseIndef}이(가) 되었던 전 인간인 것 같습니다! {formerHuman_pronoun}은(는) {relatedPawn}의 {relationship}이며, {formerHuman_nameFull}이라고 주장하며 {formerHuman_objective}을 정착지에 합류하게 해달라고 간청하고 있습니다.
+    
+{formerHuman_kindBaseIndef}(으로서), {formerHuman}은 대부분의 일을 할 수 없지만, {formerHuman_objective}을 다시 인간으로 되돌릴 수 있는 리버터 혈청을 만들거나 사거나 찾을 수 있습니다. {formerHuman}이 {relatedPawn}과 관련이 있기 때문에, {formerHuman_objective}을 떠나보내면 {relatedPawn}이 실망할 것입니다.</PMLetterFormerHumanJoinContent>
+  <PMLetterFormerHumanJoinFeralLabel>사나운 전 인간 (관계)</PMLetterFormerHumanJoinFeralLabel>
+  <PMLetterFormerHumanJoinFeralTitle>{formerHuman_kindBaseIndef}이(가) 도움을 청합니다</PMLetterFormerHumanJoinFeralTitle>
+  <PMLetterFormerHumanJoinFeralContent>{formerHuman_kindBaseIndef}이(가) 정착지에 접근합니다. 그것은 대부분의 동물들보다 더 똑똑해 보이며, 당신의 정착민들은 {formerHuman_objective}이(가) 말하는 능력을 잃은 전 인간이라고 믿습니다. {formerHuman_kindBaseDef}은(는) 특히 {relatedPawn}에게 애착을 보이며, 아마도 {relatedPawn_pronoun}과 관련이 있는 사람일 것입니다.
+    
+야생의 {formerHuman_kindBase}로서, {formerHuman}은 다른 {formerHuman_kindBasePlural}과 다를 바 없이 행동할 것이지만, {formerHuman_objective}을 다시 인간으로 되돌리기 위해 리버터 세럼을 만들거나 사거나 찾을 수 있습니다. {formerHuman}이 {relatedPawn}과 관련이 있기 때문에, {relatedPawn}은 {formerHuman_objective}을 떠나보내면 상심할 것입니다.</PMLetterFormerHumanJoinFeralContent>
+  <PMRejectUpset>거절하기 ({relatedPawn}이(가) 상심할 것입니다)</PMRejectUpset>
+  <FormerHumanConflicted_DecreaseTransitionLabel>[PAWN_nameDef]의 지능이 크게 떨어졌습니다.</FormerHumanConflicted_DecreaseTransitionLabel>
+  <FormerHumanConflicted_DecreaseTransitionContent>[PAWN_지름길] 지능이 떨어져 전체 정착민으로 간주되지 않습니다.</FormerHumanConflicted_DecreaseTransitionContent>
+  <FormerHumanConflicted_IncreaseTransitionLabel>[PAWN_지름길] 지능이 증가했습니다.</FormerHumanConflicted_IncreaseTransitionLabel>
+  <FormerHumanConflicted_IncreaseTransitionContent>[PAWN_지름길] 의 지능이 증가하여 정착지의 완전한 일원으로 간주됩니다.</FormerHumanConflicted_IncreaseTransitionContent>
+  <Sapient>지성적</Sapient>
+  <MostlySapient>거의 지성적</MostlySapient>
+  <Conflicted>충동적</Conflicted>
+  <MostlyFeral>거의 야생적</MostlyFeral>
+  <Feral>야생</Feral>
+  <PermanentlyFeral>영구적인 야생인간</PermanentlyFeral>
+  <MutagenChamberProgress>변이 진행</MutagenChamberProgress>
+  <EnterMutagenChamber>변형 유도실 들어가기</EnterMutagenChamber>
+  <PMEnterMutagenChamberMerge>융합을 위해 변형 유도실로 들어가기</PMEnterMutagenChamberMerge>
+  <LetterLabelChaomorphPasses>{0}(이)가 방황함</LetterLabelChaomorphPasses>
+  <LetterChaomorphPasses>한 무리의 {0}(이)가 지역을 배회하고 있습니다. 이들은 잠시동안 이곳에 머무를 것입니다. 사냥하거나, 길들이거나, 혹은 혈청이 있다면 되돌리기를 선택할 수 있습니다.</LetterChaomorphPasses>
+  <LetterHediffFromTransformationLabel>{0} -> {1}</LetterHediffFromTransformationLabel>
+  <LetterHediffFromTransformation>{0}(이)가 {1}(으)로 변이됨!</LetterHediffFromTransformation>
+  <LetterHediffFromTransformationBondLabel>{0} -> {1}</LetterHediffFromTransformationBondLabel>
+  <LetterHediffFromTransformationBond>{0}(이)가 {1}(으)로 변했습니다!\n\n전에 있던 관계 덕분에, {0}(은)는 {2}(와)과 각별한 사이가 되었습니다.</LetterHediffFromTransformationBond>
+  <LetterHediffFromTransformationMergeLabel>{0} + {1} -> {2}</LetterHediffFromTransformationMergeLabel>
+  <LetterHediffFromTransformationMerge>{0}(와)과 {1}(이)가 {2}(으)로 혼합되었습니다!</LetterHediffFromTransformationMerge>
+  <LetterHediffFromPermanentTFLabel>{0}(은)는 영구적으로 야생화 됨</LetterHediffFromPermanentTFLabel>
+  <LetterHediffFromPermanentTF>이들의 시스템에 있는 변형 유인체 메카나이트들이 원래 형태의 기억을 동시에 제거하였기 때문에, {0}의 몸에는 가시적인 변화가 없습니다. {0}(은)는 더 이상 회귀 혈청으로도 인간이 될 수 없습니다. {0}(은)는 이제 영원히 동물로 남게 될 것입니다.</LetterHediffFromPermanentTF>
+  <LetterHediffFromDietChangeLabel>이제 {0}(은)는 {1}(이)가 됨</LetterHediffFromDietChangeLabel>
+  <LetterHediffFromDietChange>{0}의 음식은 이제 {1}(으)로 변경되었습니다! 제대로 먹이는 것 잊지 마세요.</LetterHediffFromDietChange>
+  <LetterHediffFromEtherBondLabel>에테르결합: {0}</LetterHediffFromEtherBondLabel>
+  <LetterHediffFromEtherBond>지속적인 생산으로 인해 {0}(은)는 변화를 받아들이게 되었으며, 어떤 이유가 되었든 이제 생산을 즐기게 될 것입니다.</LetterHediffFromEtherBond>
+  <LetterHediffFromEtherBrokenLabel>에테르깨짐: {0}</LetterHediffFromEtherBrokenLabel>
+  <LetterHediffFromEtherBroken>지속적인 생산으로 인해 {0}(은)는 자신의 상태에 무감각해졌으며, 자신의 운명에 복종하게 되었습니다.</LetterHediffFromEtherBroken>
+  <RaceChangeMessage>{0}이(가) 더 이상 {1}(으)로 간주되지 않습니다!</RaceChangeMessage>
+  <HumanAgainMessage>{0}(은)는 다시 인간이 되었습니다!</HumanAgainMessage>
+  <TransformationStageWarningLabel>{0}(은)는 곧 전신 변이를 겪게 될 수 있습니다.</TransformationStageWarningLabel>
+  <TransformationStageWarningContent>{0}가 곧 동물로 변형될 위험이 있습니다. 이를 방지하기 위해 안정제를 사용할 수 있습니다.</TransformationStageWarningContent>
+  <CarryToChamber>{1_label}을 변형물질실로 옮기세요.</CarryToChamber>
+  <PMCarryToChamberMerge>병합을 위해 {1_label}을 변형물질실로 옮기세요.</PMCarryToChamberMerge>
+  <CannotCarryToChamber>변형물질실로 옮길 수 없습니다.</CannotCarryToChamber>
+  <PawnmorphTooltipShe>그녀</PawnmorphTooltipShe>
+  <PawnmorphTooltipHe>그</PawnmorphTooltipHe>
+  <PawnmorphTooltipHer>그녀의</PawnmorphTooltipHer>
+  <PawnmorphTooltipHim>그의</PawnmorphTooltipHim>
+  <PawnmorphTooltipHis>그의</PawnmorphTooltipHis>
+  <PMMutationAdaptedGreater>+</PMMutationAdaptedGreater>
+  <MessagePawnResurrectedTransformed>{0}(은)는 되살아났지만, 혈청에 주입된 메카나이트로 인해 {2}(으)로 변했습니다.</MessagePawnResurrectedTransformed>
+  <PMReelingLabel>감아내기</PMReelingLabel>
+  <PMTransformingLabel>변이중</PMTransformingLabel>
+  <PMChangingLabel>동물화중</PMChangingLabel>
+  <PMFullMorphTfDescription>이 사람의 혈액에는 점진적으로 {Morph}(으)로 변이시키는 메카나이트가 있습니다. 주의 깊게 관찰해야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 {MorphAdjective}하게 될 수 있습니다.</PMFullMorphTfDescription>
+  <PMPartialMorphTfDescription>
+		이 사람의 혈액에는 점진적으로 {Morph}(으)로 변이시키는 메카나이트가 있습니다. 주의 깊게 관찰해야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 {MorphAdjective}하게 될 수 있습니다.
+	</PMPartialMorphTfDescription>
+  <PMInjectorLabel>뮤타주사기, {Animal}</PMInjectorLabel>
+  <PMInjectorIngestCommand>&lt;0>을(를) 주사합니다.</PMInjectorIngestCommand>
+  <PMInjectorReport>&lt;0>을(를) 주사하는 중입니다.</PMInjectorReport>
+  <LetterLabelMutagenicLeak>Pssst...</LetterLabelMutagenicLeak>
+  <LetterTextMutagenicLeak>기능장애로 인해 변형 유인체 파이프가 폭발하여 위험한 슬러리가 바닥에 고여버렸습니다.</LetterTextMutagenicLeak>
+  <MutagenicLeakWasLarge>그 누설은 거대했습니다! 당신의 청소부들이 완전한 인간의 모습으로 돌아올지는 미지수입니다...</MutagenicLeakWasLarge>
+  <injectorLabel>뮤타주사기, {0}</injectorLabel>
+  <injectorDescription>메카나이트와 {0}의 DNA가 들어있는 변형 유인체 주사기입니다. 메카나이트를 방치하면 사용자가 변형될 수 있으니 주의하여 사용하세요.</injectorDescription>
+  <GenomeLabel>변이 유전체 ({MUTATION_label})</GenomeLabel>
+  <GenomeDesc>{MUTATION} 변이에 대한 정보를 제공하는 유전체입니다.</GenomeDesc>
+  <PMApplyGenome>{0} 다운로드</PMApplyGenome>
+  <PMNoMutationBenchAvailable>변이 작업대를 사용할 수 없습니다.</PMNoMutationBenchAvailable>
+  <PMNoStorageAvailableForGenome>챔버 데이터베이스에 {0}을(를) 위한 충분한 공간이 없습니다.</PMNoStorageAvailableForGenome>
+  <PmUnkownMutagenCause>PmUnkownMutagenCause</PmUnkownMutagenCause>
+  <Log_CausedBy>에 의해 발생합니다</Log_CausedBy>
+  <PMFoodStackMultiplierCaption>최대 식사 크기.</PMFoodStackMultiplierCaption>
+  <PMFoodStackMultiplierDescription>폰의 몸집에 따라 최대 식사 크기를 곱합니다.</PMFoodStackMultiplierDescription>
+  <PMPawnScalingCaption>폰 크기 조정.</PMPawnScalingCaption>
+  <PMPawnScalingDescription>폰의 몸 크기에 따라 크기를 변경합니다.\n해당 패치는 실험적이며 시각적 버그와 오류가 발생할 수 있습니다.</PMPawnScalingDescription>
+  <PMPawnScalingScaleMultiplier>크기 조정 오프셋 배수.</PMPawnScalingScaleMultiplier>
+  <PMPawnScalingScaleMultiplierTooltip>폰의 크기 오프셋에 추가되는 배수입니다.\n예: +50%는 150% 배수로 +75%로 표시됩니다.</PMPawnScalingScaleMultiplierTooltip>
+  <PMPawnScalingMinScale>최소 폰 크기.</PMPawnScalingMinScale>
+  <PMPawnScalingMinScaleTooltip>폰이 렌더링할 수 있는 최소 크기입니다.</PMPawnScalingMinScaleTooltip>
+  <PMPawnScalingMaxScale>최대 폰 크기.</PMPawnScalingMaxScale>
+  <PMPawnScalingMaxScaleTooltip>폰이 렌더링될 수 있는 최대 크기.</PMPawnScalingMaxScaleTooltip>
+  <PMPawnScalingUseBodysize>실제 몸통 크기에 따라 스케일.</PMPawnScalingUseBodysize>
+  <PMPawnScalingUseBodysizeTooltip>스케일링 알고리즘이 폰모퍼에 의해 영향을 받는 것들뿐만 아니라 실제 몸통 크기를 사용하여 모든 것을 시각적으로 스케일해야 하는지 여부.</PMPawnScalingUseBodysizeTooltip>
+  <PartPickerMenuTitle>변이 설정 메뉴</PartPickerMenuTitle>
+  <NoMutationsOnPart>없음</NoMutationsOnPart>
+  <EditParams>자세히...</EditParams>
+  <IsPaused>진행이 일시 정지되었습니까?</IsPaused>
+  <ToggleClothes>옷 표시 토글</ToggleClothes>
+  <RotCW>시계 방향으로 회전</RotCW>
+  <RotCCW>시계 반대 방향으로 회전</RotCCW>
+  <CrownLabel>얼굴형태</CrownLabel>
+  <BodyLabel>본체</BodyLabel>
+  <SkinSync>피부 동기화</SkinSync>
+  <DoSymmetry>좌우 동기화</DoSymmetry>
+  <SummaryTitle>줄거리</SummaryTitle>
+  <SummaryAddedMutation>[PAWN_nameDef]의 [MUTATION_PART]에 [MUTATION_SEVERITY] 수준의 \"[MUTATION_NAME]\" 변이를 추가중.</SummaryAddedMutation>
+  <SummaryHaltedMutation>더이상 진행되지 않습니다.</SummaryHaltedMutation>
+  <SummaryRemovedMutation>[PAWN_nameDef]의 [MUTATION_PART]에서 \"[MUTATION_NAME]\" 변이를 제거중</SummaryRemovedMutation>
+  <PartDescTitle>변이 설명</PartDescTitle>
+  <ApplyButtonText>적용</ApplyButtonText>
+  <ResetButtonText>재설정</ResetButtonText>
+  <CancelButtonText>취소</CancelButtonText>
+  <Skin>피부</Skin>
+  <Core>코어</Core>
+  <PMFailedChaobulbHarvest>{PAWN}이 Chaobulb 수확에 실패하고 변형 유인체 축적에 오염되었다.</PMFailedChaobulbHarvest>
+  <MinOptimalGrowthTemperature>최소 최적 성장 온도</MinOptimalGrowthTemperature>
+  <MaxOptimalGrowthTemperature>최대 최적 성장 온도</MaxOptimalGrowthTemperature>
+  <MinOptimalGrowthTemperature_Desc>이 식물이 가장 빠르게 성장할 수 있는 최소 온도.</MinOptimalGrowthTemperature_Desc>
+  <MaxOptimalGrowthTemperature_Desc>이 식물이 가장 빠르게 성장할 수 있는 최대 온도.</MaxOptimalGrowthTemperature_Desc>
+  <PM_PawnMutatated_Ritual>{Count} {Member}가 의식으로 인해 영향을 받았다</PM_PawnMutatated_Ritual>
+  <ScenPart_PawnsHaveAspect>강제된 모습</ScenPart_PawnsHaveAspect>
+  <ScenPart_SetSapience>강제된 지성</ScenPart_SetSapience>
+  <ScenPart_SetMorph>강제된 변이</ScenPart_SetMorph>
+  <PawnmorpherModName>폰모퍼</PawnmorpherModName>
+  <enableFalloutCheckboxLabel>변이 유발 낙진 활성화</enableFalloutCheckboxLabel>
+  <enableFalloutCheckboxTooltip>노출된 폰들에게 변이를 일으키는 새로운 낙진 이벤트를 활성화 합니다.</enableFalloutCheckboxTooltip>
+  <enableMutagenLeakCheckboxLabel>변이 유발 누출 활성화</enableMutagenLeakCheckboxLabel>
+  <enableMutagenLeakCheckboxTooltip>슬러리 파이프가 폭발하고 슬러리가 샐 수 있는 특별 이벤트를 전환합니다.</enableMutagenLeakCheckboxTooltip>
+  <enableMutagenCheckboxLabel>변형 유인체 함선 잔해 활성</enableMutagenCheckboxLabel>
+  <enableMutagenCheckboxTooltip>범위를 넓혀가며 그 안에 있는 폰들을 변이시키는 새로운 우주선 잔해를 활성화 합니다.</enableMutagenCheckboxTooltip>
+  <enableMutagenDiseasesCheckboxLabel>변형유인 질병 활성</enableMutagenDiseasesCheckboxLabel>
+  <enableMutagenDiseasesCheckboxTooltip>폰들을 변이시킬 변이 유발 질병 이벤트를 전환합니다 (재시작 필요).</enableMutagenDiseasesCheckboxTooltip>
+  <enableMutagenMeteorCheckboxLabel>변형 유인체 운석 변이범위 활성화</enableMutagenMeteorCheckboxLabel>
+  <enableMutagenMeteorCheckboxTooltip>뮤타나이트 운석이 주변 폰을 감염 허용</enableMutagenMeteorCheckboxTooltip>
+  <enableWildFormersCheckboxLabel>야인으로 변이된 인간이 나오도록 허용</enableWildFormersCheckboxLabel>
+  <enableWildFormersCheckboxTooltip>맵에 등장하는 동물들이 변이된 인간으로 등장 및 인간으로 되돌리기 허용</enableWildFormersCheckboxTooltip>
+  <enableMutationAdaptedStageLabelCheckboxLabel>적응된 변이에 대한 단계 라벨 활성화.</enableMutationAdaptedStageLabelCheckboxLabel>
+  <enableMutationAdaptedStageLabelCheckboxTooltip>완전히 조정된 변이에 대한 단계 라벨을 활성화합니다. (적응된, 성장한 등)</enableMutationAdaptedStageLabelCheckboxTooltip>
+  <PMHazardousChaobulbs>위험한 혼돈방울 활성</PMHazardousChaobulbs>
+  <PMHazardousChaobulbsTooltip>실패한 경우, chaobulb 수확이 변형 유인체 축적을 줄 수 있습니다.</PMHazardousChaobulbsTooltip>
+  <transformChanceSliderLabel>변형물질이 폰을 완전변이 시킬 확률</transformChanceSliderLabel>
+  <formerChanceSliderLabel>동물이 변이된 인간으로 등장 할 확률</formerChanceSliderLabel>
+  <partialChanceSliderLabel>변이달걀과 우유가 하나의 변이가 아닌, 완전변이를 일으 킬 확률</partialChanceSliderLabel>
+  <maxMutationThoughtsSliderLabel>변이 관련 생각이 한번에 몇개까지 나올수 있는가</maxMutationThoughtsSliderLabel>
+  <friendlyManhunterTfChance>우호적인 폰이 변이했을 때 인간사냥 상태에 들어갈 확률</friendlyManhunterTfChance>
+  <manhunterTfChance>폰이 변이했을때 인간사냥 상태에 들어갈 확률</manhunterTfChance>
+  <hostileKeepFactionTfChance>다른 세력의 폰들이 변형되었을 때 그들의 세력을 유지할 확률</hostileKeepFactionTfChance>
+  <PMGenerateEndoGenesForAliens>처음 인간으로 되돌릴 때 외계인에게 내인 유전자 생성.</PMGenerateEndoGenesForAliens>
+  <PMGenerateEndoGenesForAliensTooltip>외계인이 처음으로 인간으로 되돌아갔을 때 내인 유전자(피부 및 머리색)를 생성합니다.</PMGenerateEndoGenesForAliensTooltip>
+  <PMInjectorsRequireTagging>주사기가 인식표를 요구함</PMInjectorsRequireTagging>
+  <PMInjectorsRequireTaggingTooltip>주사기를 만들기 위해 동물들에게 인식표를 달아야 하는 경우.</PMInjectorsRequireTaggingTooltip>
+  <PMEnableMutationVisualsButton>종에 변이 표시.</PMEnableMutationVisualsButton>
+  <PMEnableMutationVisualsHeader>종에 대한 변이 시각 효과를 활성화합니다.</PMEnableMutationVisualsHeader>
+  <PMEnableMutationVisualsText>선택된 종족은 인간처럼 변이를 보여주도록 패치될 것이며, 종족에 따라 미적 결과는 다를 수 있습니다.</PMEnableMutationVisualsText>
+  <PMRequiresRestart>영향을 받으려면 게임을 다시 시작해야 합니다.</PMRequiresRestart>
+  <PMRaceReplacementButton>모프 대체 설정하기.</PMRaceReplacementButton>
+  <PMRaceReplacementHeader>모프에 대한 모프 대체 설정하기.</PMRaceReplacementHeader>
+  <PMRaceReplacementText>여기에서 다른 설치된 HAR 모드의 종족으로 모프를 대체할 수 있습니다.\n모든 종족에서 작동하지 않을 수 있으므로 주의하여 사용하고 저장하기 전에 테스트하세요.</PMRaceReplacementText>
+  <PMRaceReplacementLocked>패치에 의해 잠김.</PMRaceReplacementLocked>
+  <PMOptionalPatchesButton>선택적 패치 토글.</PMOptionalPatchesButton>
+  <PMOptionalPatchesHeader>선택적 패치 토글.</PMOptionalPatchesHeader>
+  <PMOptionalPatchesText>모드 작동에 반드시 필요하지 않은 패치를 활성화하거나 비활성화합니다.\n패치 위에 마우스를 올려 설명을 확인하세요.</PMOptionalPatchesText>
+  <PMFailedToParse>구문을 분석하지 못했습니다.</PMFailedToParse>
+  <PMAnimalAssociationsButton>동물 연결.</PMAnimalAssociationsButton>
+  <PMAnimalAssociationsHeader>동물 연결.</PMAnimalAssociationsHeader>
+  <PMAnimalAssociationsText>추가된 동물을 모프와 연계하여 추가 결과물, 모프 변이의 시퀀싱 소스 및 인젝터의 잠금 해제에 모두 사용합니다.</PMAnimalAssociationsText>
+  <PMBlacklistFormerHumansButton>전(前) 인간 동물</PMBlacklistFormerHumansButton>
+  <PMBlacklistFormerHumansHeader>전 인간이 될 수 있는 동물</PMBlacklistFormerHumansHeader>
+  <PMBlacklistFormerHumansText>게임에서 무작위로 전 인간으로 나타나는 동물을 활성화, 제한 또는 비활성화합니다.\n모프와 연계된 동물은 제한만 할 수 있습니다.</PMBlacklistFormerHumansText>
+  <PMBlacklistFormerHumansEnabled>활성</PMBlacklistFormerHumansEnabled>
+  <PMBlacklistFormerHumansRestricted>제한됨</PMBlacklistFormerHumansRestricted>
+  <PMBlacklistFormerHumansDisabled>비활성</PMBlacklistFormerHumansDisabled>
+  <PMBlacklistFormerHumansEnabledDescription>게임에서 자유롭게 전 인간으로 나타날 수 있습니다.</PMBlacklistFormerHumansEnabledDescription>
+  <PMBlacklistFormerHumansRestrictedDescription>전 인간으로 존재할 수는 있지만 무작위로 생성되지는 않습니다.</PMBlacklistFormerHumansRestrictedDescription>
+  <PMBlacklistFormerHumansDisabledDescription>전혀 전 인간으로 존재할 수 없습니다.</PMBlacklistFormerHumansDisabledDescription>
+  <PMBlacklistFormerHumansAddedBy>{0}에 의해 추가됨</PMBlacklistFormerHumansAddedBy>
+  <PMDebug>디버그</PMDebug>
+  <PMDebugLevel>디버그 수준</PMDebugLevel>
+  <PMSequencer>시퀀서</PMSequencer>
+  <PMSequencerMultipler>시퀀싱 배수</PMSequencerMultipler>
+  <PMSequencerMultiplerTooltip>변이 시퀀싱할 때 속도 배수입니다.</PMSequencerMultiplerTooltip>
+  <PMSequencerAutoAnimalGenome>자동으로 동물 유전체 시퀀스</PMSequencerAutoAnimalGenome>
+  <PMSequencerAutoAnimalGenomeTooltip>다운로드된 동물 유전체에서 모든 변이를 자동으로 시퀀싱합니다.</PMSequencerAutoAnimalGenomeTooltip>
+  <mutationLogLength>변이 로그 길이</mutationLogLength>
+  <mutationLogLengthTooltip>변이 로그가 기억하는 항목의 최대 수입니다.</mutationLogLengthTooltip>
+  <PMTagGizmoLabel>인식표 부착</PMTagGizmoLabel>
+  <PMTagGizmoDescription>동물에 태그 달기</PMTagGizmoDescription>
+  <CannotTagFormerHuman>메카나이트 오염으로 인해 이 동물은 태그를 달 수 없습니다.</CannotTagFormerHuman>
+  <PMMutationTagged>"{mutation}" 변이가 {animal}에서 시퀀싱되었습니다.</PMMutationTagged>
+  <PMNothingTaggable>{animal}에서 기록할 가치 있는 것이 없습니다.</PMNothingTaggable>
+  <PMMutationNotEnoughSpace>{animal}에 기록할 변이가 있으나, 저장할 공간이 충분하지 않습니다.</PMMutationNotEnoughSpace>
+  <PMAnimalAddedToDatabase>{animal}(이)가 유전자은행 데이터 베이스게 추가 되었습니다.</PMAnimalAddedToDatabase>
+  <MutationAddedToDatabase>{변이}가 유전자은행에 추가되었습니다.</MutationAddedToDatabase>
+  <PM_Genebank_Header>유전자은행 저장고</PM_Genebank_Header>
+  <PM_Genebank_AvailableHeader>사용 가능한 저장공간</PM_Genebank_AvailableHeader>
+  <PM_Genebank_TotalHeader>총 저장공간</PM_Genebank_TotalHeader>
+  <PM_Genebank_DeleteButton>제거</PM_Genebank_DeleteButton>
+  <PM_Genebank_SelectButton>선택</PM_Genebank_SelectButton>
+  <PM_Genebank_FontButton>Font</PM_Genebank_FontButton>
+  <PM_Genebank_FontButtonTiny>티니</PM_Genebank_FontButtonTiny>
+  <PM_Genebank_FontButtonSmall>소형</PM_Genebank_FontButtonSmall>
+  <PM_Genebank_FontButtonMedium>중형</PM_Genebank_FontButtonMedium>
+  <PM_Column_Stats_Size>크기</PM_Column_Stats_Size>
+  <PM_Genebank_MutationTab_Caption>변이</PM_Genebank_MutationTab_Caption>
+  <PM_Genebank_MutationTab_Column_Mutation>변이</PM_Genebank_MutationTab_Column_Mutation>
+  <PM_Genebank_MutationTab_Column_BodyPart>부위</PM_Genebank_MutationTab_Column_BodyPart>
+  <PM_Genebank_MutationTab_Column_Animal>조련</PM_Genebank_MutationTab_Column_Animal>
+  <PM_Genebank_MutationTab_Column_Paragon>파라곤</PM_Genebank_MutationTab_Column_Paragon>
+  <PM_Genebank_MutationTab_Column_Abilities>능력</PM_Genebank_MutationTab_Column_Abilities>
+  <PM_Genebank_MutationTab_Column_Stats>통계</PM_Genebank_MutationTab_Column_Stats>
+  <PM_Genebank_MutationTab_Details_Stages>단계: </PM_Genebank_MutationTab_Details_Stages>
+  <PM_Genebank_MutationTab_Details_Attacks>공격:</PM_Genebank_MutationTab_Details_Attacks>
+  <PM_Genebank_MutationTab_Details_Abilities>능력:</PM_Genebank_MutationTab_Details_Abilities>
+  <PM_Genebank_MutationTab_Details_OtherInfluences>기타.</PM_Genebank_MutationTab_Details_OtherInfluences>
+  <PM_Genebank_MutationTab_Details_AbilityCooldown>재사용 대기시간:</PM_Genebank_MutationTab_Details_AbilityCooldown>
+  <PM_Genebank_MutationTab_Details_DamagePerSecond>초당 데미지</PM_Genebank_MutationTab_Details_DamagePerSecond>
+  <PM_Genebank_AnimalsTab_Caption>동물</PM_Genebank_AnimalsTab_Caption>
+  <PM_Genebank_AnimalsTab_Column_Race>종족</PM_Genebank_AnimalsTab_Column_Race>
+  <PM_Genebank_AnimalsTab_Column_Temperature>온도</PM_Genebank_AnimalsTab_Column_Temperature>
+  <PM_Genebank_AnimalsTab_Column_Lifespan>수명</PM_Genebank_AnimalsTab_Column_Lifespan>
+  <PM_Genebank_AnimalsTab_Column_Diet>식성</PM_Genebank_AnimalsTab_Column_Diet>
+  <PM_Genebank_AnimalsTab_Column_Value>값</PM_Genebank_AnimalsTab_Column_Value>
+  <PM_Genebank_AnimalsTab_Column_Mutations>변이</PM_Genebank_AnimalsTab_Column_Mutations>
+  <PM_Genebank_AnimalsTab_Details_Mutations>순서대로 변이:</PM_Genebank_AnimalsTab_Details_Mutations>
+  <PM_Genebank_TemplateTab_Caption>템플릿</PM_Genebank_TemplateTab_Caption>
+  <PM_Genebank_TemplateTab_Column_Template>템플릿</PM_Genebank_TemplateTab_Column_Template>
+  <PM_Genebank_TemplateTab_Column_Mutations>변이</PM_Genebank_TemplateTab_Column_Mutations>
+  <PM_Genebank_TemplateTab_Button_Import>수입</PM_Genebank_TemplateTab_Button_Import>
+  <PM_Genebank_TemplateTab_Button_Export>내보내기</PM_Genebank_TemplateTab_Button_Export>
+  <PM_Genebank_TemplateTab_ParsingError>텍스트를 구문 분석하지 못했습니다.</PM_Genebank_TemplateTab_ParsingError>
+  <TabMutations>변이</TabMutations>
+  <MorphsITabHeader>신체 변이</MorphsITabHeader>
+  <TraitsITabHeader>특질</TraitsITabHeader>
+  <ProductionITabHeader>생산</ProductionITabHeader>
+  <MutationLogButtonText>일지</MutationLogButtonText>
+  <MutationLogHeader>변이 일지</MutationLogHeader>
+  <TableControlSearchPlaceholder>검색...</TableControlSearchPlaceholder>
+  <PPRemivingMutationDesc>{PAWN_nameDef}의 {PART}에서 {변이} 변이 제거 중.</PPRemivingMutationDesc>
+  <PPAddingMutationDesc>{PAWN_nameDef}의 {PART}에 {SEVERITY}의 심각도로 {변이} 변이를 추가하는 중입니다.</PPAddingMutationDesc>
+  <PPNewMutationIsHalted>더이상 진행되지 않습니다.</PPNewMutationIsHalted>
+  <PmMorphInfo_NoMorph>변형 없음</PmMorphInfo_NoMorph>
+  <PmMorphInfo_MorphDisplay>{MORPH}</PmMorphInfo_MorphDisplay>
+  <PmDaysAgo>{0}일 전</PmDaysAgo>
+  <PmHoursAgo>{0}시간 전</PmHoursAgo>
+  <PmLessThanHour>한 시간 미만 전</PmLessThanHour>
+  <PMAnimalPickerGizmo_Mutagun>무작위</PMAnimalPickerGizmo_Mutagun>
+  <PMAnimalPickerGizmoDescription_Mutagun>대상에게 가할 동물 변이.</PMAnimalPickerGizmoDescription_Mutagun>
+</LanguageData>

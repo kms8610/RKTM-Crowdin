@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmokeleafFarmer.degreeDatas.0.label>연초 농부</SmokeleafFarmer.degreeDatas.0.label>
+  <SmokeleafFarmer.degreeDatas.0.description>PAWN_nameDef(은)는 정원 가꾸기와 연초에 열정을 가지고 있습니다. PAWN_pronoun(은)는 PAWN_pronoun(이) 심는 모든 식물에 대해 기분이 좋아집니다.</SmokeleafFarmer.degreeDatas.0.description>
+  <Stoner.degreeDatas.0.label>골초</Stoner.degreeDatas.0.label>
+  <Stoner.degreeDatas.0.description>PAWN_nameDef(은)는 연초에 대한 내성이 높습니다. PAWN_pronoun(은)는 금단 증상을 거의 겪지 않습니다.</Stoner.degreeDatas.0.description>
+</LanguageData>

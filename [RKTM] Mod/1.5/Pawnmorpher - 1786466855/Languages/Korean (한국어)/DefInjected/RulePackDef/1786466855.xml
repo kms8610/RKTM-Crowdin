@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.0>TalkedAbout(p=4)->에 대해 이야기했다</PMInteractionRules_Chitchat.rulePack.rulesStrings.0>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.1>TalkedAbout->에 대한 언급을 나누다</PMInteractionRules_Chitchat.rulePack.rulesStrings.1>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.2>TalkedAbout->에 대해 말하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.2>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.3>TalkedAbout->에 대해 수다를 떨다</PMInteractionRules_Chitchat.rulePack.rulesStrings.3>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.4>TalkedAbout->에 대해 이야기하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.4>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.5>TalkedAbout->에 대해 농담하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.5>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.6>TalkedAbout->에 대해 재치있게 말하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.6>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.7>CommentedAbout->에 대해 무언가 말하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.7>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.8>CommentedAbout->에 대한 한마디 말하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.8>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.9>CommentedAbout->에 대해 답하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.9>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.10>CommentedAbout->에 대해 언급하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.10>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.11>CommentedAbout->에 대해 농담을 하다</PMInteractionRules_Chitchat.rulePack.rulesStrings.11>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.12>MorphTopic->변이</PMInteractionRules_Chitchat.rulePack.rulesStrings.12>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.13>MorphTopic->변형</PMInteractionRules_Chitchat.rulePack.rulesStrings.13>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.14>MorphTopic->변형물질</PMInteractionRules_Chitchat.rulePack.rulesStrings.14>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.15>MorphTopic->항원</PMInteractionRules_Chitchat.rulePack.rulesStrings.15>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.16>MorphTopic->안정제</PMInteractionRules_Chitchat.rulePack.rulesStrings.16>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.17>MorphTopic->환원혈청</PMInteractionRules_Chitchat.rulePack.rulesStrings.17>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.18>MorphTopic->지성</PMInteractionRules_Chitchat.rulePack.rulesStrings.18>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.19>MorphTopic->생산 변이</PMInteractionRules_Chitchat.rulePack.rulesStrings.19>
+  <PMInteractionRules_Chitchat.rulePack.rulesStrings.20>MorphTopic->대체 축산물</PMInteractionRules_Chitchat.rulePack.rulesStrings.20>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.0>DeepTalkedAbout->깊이 있다 이야기하다</PMInteractionRules_DeepTalk.rulePack.rulesStrings.0>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.1>DeepTalkedAbout->[INITIATOR_possessive] 경험을 공유하다</PMInteractionRules_DeepTalk.rulePack.rulesStrings.1>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.2>DeepTalkedAbout->주제에 대해 논의함</PMInteractionRules_DeepTalk.rulePack.rulesStrings.2>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.3>DeepTalkedAbout->진심을 담아 이야기함</PMInteractionRules_DeepTalk.rulePack.rulesStrings.3>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.4>DeepTalkedAbout->조용히 대화함</PMInteractionRules_DeepTalk.rulePack.rulesStrings.4>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.5>DeepTalkedAbout->깊이 있게 대화함</PMInteractionRules_DeepTalk.rulePack.rulesStrings.5>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.6>DeepTalkedAbout->마음을 움직이는 이야기를 들려줌</PMInteractionRules_DeepTalk.rulePack.rulesStrings.6>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.7>DeepTalkedAbout->당황스러운 이야기를 공유했음</PMInteractionRules_DeepTalk.rulePack.rulesStrings.7>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.8>DeepMorphTopic->변이와 함께 살기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.8>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.9>DeepMorphTopic->동물로 살기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.9>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.10>DeepMorphTopic->변형 유인체 자율성</PMInteractionRules_DeepTalk.rulePack.rulesStrings.10>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.11>DeepMorphTopic->지성 유지하기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.11>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.12>DeepMorphTopic->본능 저항하기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.12>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.13>DeepMorphTopic->본능에 굴복하기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.13>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.14>DeepMorphTopic->영구적으로 야생화하기</PMInteractionRules_DeepTalk.rulePack.rulesStrings.14>
+  <PMInteractionRules_DeepTalk.rulePack.rulesStrings.15>DeepMorphTopic->되돌림 혈청</PMInteractionRules_DeepTalk.rulePack.rulesStrings.15>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.0>Insulted(p=3)->모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.0>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.1>Insulted->공개적으로 모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.1>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.2>Insulted->큰소리로 모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.2>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.3>Insulted->뻔뻔하게 모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.3>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.4>Insulted->직접적으로 모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.4>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.5>Insulted->악독하게 모욕당함</PMInteractionRules_Insult.rulePack.rulesStrings.5>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.6>Insulted->뻔뻔하게 무시당함</PMInteractionRules_Insult.rulePack.rulesStrings.6>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.7>Insulted->헐뜯김</PMInteractionRules_Insult.rulePack.rulesStrings.7>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.8>Insulted->욕설을 퍼부음</PMInteractionRules_Insult.rulePack.rulesStrings.8>
+  <PMInteractionRules_Insult.rulePack.rulesStrings.9>Insulted->조롱당함</PMInteractionRules_Insult.rulePack.rulesStrings.9>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.0>KindAdverb->친절하게</PMInteractionRules_KindWords.rulePack.rulesStrings.0>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.1>KindAdverb->애정을 담아</PMInteractionRules_KindWords.rulePack.rulesStrings.1>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.2>KindAdverb->감사하게</PMInteractionRules_KindWords.rulePack.rulesStrings.2>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.3>KindAdverb->행복하게</PMInteractionRules_KindWords.rulePack.rulesStrings.3>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.4>MaybeKindAdv-></PMInteractionRules_KindWords.rulePack.rulesStrings.4>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.5>MaybeKindAdv->[친절하게]</PMInteractionRules_KindWords.rulePack.rulesStrings.5>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.6>KindAdj->멋진</PMInteractionRules_KindWords.rulePack.rulesStrings.6>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.7>KindAdj->기쁜</PMInteractionRules_KindWords.rulePack.rulesStrings.7>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.8>KindAdj->놀라운</PMInteractionRules_KindWords.rulePack.rulesStrings.8>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.9>KindAdj->달콤한</PMInteractionRules_KindWords.rulePack.rulesStrings.9>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.10>KindAdj->사랑스러운</PMInteractionRules_KindWords.rulePack.rulesStrings.10>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.11>KindAdj->위대한</PMInteractionRules_KindWords.rulePack.rulesStrings.11>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.12>MaybeKindAdj-></PMInteractionRules_KindWords.rulePack.rulesStrings.12>
+  <PMInteractionRules_KindWords.rulePack.rulesStrings.13>MaybeKindAdj->[친절한Adj]</PMInteractionRules_KindWords.rulePack.rulesStrings.13>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.0>ComparedRecipientTo->called [대상]</PMInteractionRules_Misc.rulePack.rulesStrings.0>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.1>ComparedRecipientTo->[대상]을 비교하여</PMInteractionRules_Misc.rulePack.rulesStrings.1>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.2>ComparedTargetTo->called [대상]</PMInteractionRules_Misc.rulePack.rulesStrings.2>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.3>ComparedTargetTo->[대상]을 비교하여</PMInteractionRules_Misc.rulePack.rulesStrings.3>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.4>Target(p=4)->[RECIPIENT_nameDef]</PMInteractionRules_Misc.rulePack.rulesStrings.4>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.5>Target->[RECIPIENT_nameDef]의 [PersonFamily]</PMInteractionRules_Misc.rulePack.rulesStrings.5>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.6>Refusal->거절</PMInteractionRules_Misc.rulePack.rulesStrings.6>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.7>Refusal->거부감</PMInteractionRules_Misc.rulePack.rulesStrings.7>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.8>Man(initiator_gender==Male)->남자</PMInteractionRules_Misc.rulePack.rulesStrings.8>
+  <PMInteractionRules_Misc.rulePack.rulesStrings.9>Man(initiator_gender==Female)->여자</PMInteractionRules_Misc.rulePack.rulesStrings.9>
+  <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 눈에 침을 뱉음.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 눈에 변형 유인체가 섞인 침을 뱉음.</Maneuver_SpitMaterialInEyes_MeleeHit.rulePack.rulesStrings.1>
+  <Maneuver_SpitMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 눈에 침을 뱉으려 했으나 빗나갔음.</Maneuver_SpitMaterialInEyes_MeleeMiss.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 눈에 침을 뱉으려 했으나 [RECIPIENT_definite](이)가 피함.</Maneuver_SpitMaterialInEyes_MeleeDodge.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 얼굴에 메카나이트 주입된 침을 뱉었고, [talkedabout].</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.1>r_logentry(p=0.2)->[INITIATOR_definite](이)가 [RECIPIENT_definite]의 얼굴에 변이 유발성 침을 뱉었고, [talkedabout].</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.1>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.2>talkedabout->더 털이 많아지고 있는 것 같다고 말했다.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.2>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.3>talkedabout->귀가 가려운 것 같다고 말했다.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.3>
+  <Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.4>talkedabout->얼굴이 이상한 느낌이라고 말했다.</Maneuver_SpitMaterialInMouth_MeleeHit.rulePack.rulesStrings.4>
+  <Maneuver_SpitMaterialInMouth_MeleeMiss.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 얼굴에 침을 뱉으려 했으나 빗나갔음.</Maneuver_SpitMaterialInMouth_MeleeMiss.rulePack.rulesStrings.0>
+  <Maneuver_SpitMaterialInMouth_MeleeDodge.rulePack.rulesStrings.0>r_logentry->[INITIATOR_definite](은)는 [RECIPIENT_definite]의 얼굴에 침을 뱉으려 했으나 [RECIPIENT_definite](이)가 피함.</Maneuver_SpitMaterialInMouth_MeleeDodge.rulePack.rulesStrings.0>
+  <FurGrowthLogPack.rulePack.rulesStrings.0>label_text->털</FurGrowthLogPack.rulePack.rulesStrings.0>
+  <FurGrowthLogPack.rulePack.rulesStrings.1>bulk_label->겹</FurGrowthLogPack.rulePack.rulesStrings.1>
+  <FurGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</FurGrowthLogPack.rulePack.rulesStrings.2>
+  <FurGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</FurGrowthLogPack.rulePack.rulesStrings.3>
+  <FurGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</FurGrowthLogPack.rulePack.rulesStrings.4>
+  <HideGrowthLogPack.rulePack.rulesStrings.0>label_text->가죽</HideGrowthLogPack.rulePack.rulesStrings.0>
+  <HideGrowthLogPack.rulePack.rulesStrings.1>bulk_label->겹</HideGrowthLogPack.rulePack.rulesStrings.1>
+  <HideGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</HideGrowthLogPack.rulePack.rulesStrings.2>
+  <HideGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</HideGrowthLogPack.rulePack.rulesStrings.3>
+  <HideGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</HideGrowthLogPack.rulePack.rulesStrings.4>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.0>label_text->비늘</ScaleGrowthLogPack.rulePack.rulesStrings.0>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.1>bulk_label->막</ScaleGrowthLogPack.rulePack.rulesStrings.1>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</ScaleGrowthLogPack.rulePack.rulesStrings.2>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</ScaleGrowthLogPack.rulePack.rulesStrings.3>
+  <ScaleGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</ScaleGrowthLogPack.rulePack.rulesStrings.4>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.0>label_text->깃털</FeatherGrowthLogPack.rulePack.rulesStrings.0>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.1>bulk_label->겹</FeatherGrowthLogPack.rulePack.rulesStrings.1>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.2>initial->[PART_label]</FeatherGrowthLogPack.rulePack.rulesStrings.2>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.3>bulk_label_group->[bulk_label]</FeatherGrowthLogPack.rulePack.rulesStrings.3>
+  <FeatherGrowthLogPack.rulePack.rulesStrings.4>pname->[PAWN_nameDef]</FeatherGrowthLogPack.rulePack.rulesStrings.4>
+  <InjectorCauseLogPack.rulePack.rulesStrings.0>mutagen_cause->주사기에 찔렸을 때</InjectorCauseLogPack.rulePack.rulesStrings.0>
+  <InjectorCauseLogPack.rulePack.rulesStrings.1>mutagen_cause->주사기</InjectorCauseLogPack.rulePack.rulesStrings.1>
+  <InjectorCauseLogPack.rulePack.rulesStrings.2>caused_by->에서</InjectorCauseLogPack.rulePack.rulesStrings.2>
+  <InjectorCauseLogPack.rulePack.rulesStrings.3>caused_by->로 인해</InjectorCauseLogPack.rulePack.rulesStrings.3>
+  <InjectorCauseLogPack.rulePack.rulesStrings.4>caused_by->~ 때문에</InjectorCauseLogPack.rulePack.rulesStrings.4>
+  <InjectorCauseLogPack.rulePack.rulesStrings.5>caused_by->이후</InjectorCauseLogPack.rulePack.rulesStrings.5>
+  <MutationTaleRulePack.rulePack.rulesStrings.0>mutation_log->[DATE], [images]. [sentence_group]</MutationTaleRulePack.rulePack.rulesStrings.0>
+  <MutationTaleRulePack.rulePack.rulesStrings.1>images->[image]</MutationTaleRulePack.rulePack.rulesStrings.1>
+  <MutationTaleRulePack.rulePack.rulesStrings.2>sentence_group->[desc_sentence]</MutationTaleRulePack.rulePack.rulesStrings.2>
+  <MutationTaleRulePack.rulePack.rulesStrings.3>circumstance_group->[circumstance_phrase]</MutationTaleRulePack.rulePack.rulesStrings.3>
+  <MutationRulePackTaleless.rulePack.rulesStrings.0>mutation_log->[PAWN_nameDef] [MUTATION_label]</MutationRulePackTaleless.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.0>a_an->한</DefaultTailMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.1>label_text->[MUTATION_label]</DefaultTailMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.2>action->자람</DefaultTailMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultTailMutationLogPack.rulePack.rulesStrings.3>pname->[PAWN_nameDef]</DefaultTailMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.0>a_an-></DefaultHornMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.1>label_text->[MUTATION_label]</DefaultHornMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.2>action->자람</DefaultHornMutationLogPack.rulePack.rulesStrings.2>
+  <DefaultHornMutationLogPack.rulePack.rulesStrings.3>pname->[PAWN_nameDef]</DefaultHornMutationLogPack.rulePack.rulesStrings.3>
+  <DefaultMutationLogPack.rulePack.rulesStrings.0>action->변함</DefaultMutationLogPack.rulePack.rulesStrings.0>
+  <DefaultMutationLogPack.rulePack.rulesStrings.1>label_text->[MUTATION_label]</DefaultMutationLogPack.rulePack.rulesStrings.1>
+  <DefaultMutationLogPack.rulePack.rulesStrings.2>pname->[PAWN_nameDef]의</DefaultMutationLogPack.rulePack.rulesStrings.2>
+  <SapientAnimalChatRules.rulePack.rulesStrings.0>animalTalk->에게 [TalkTopicAny]에 대한 이야기를 에게 해 줌.</SapientAnimalChatRules.rulePack.rulesStrings.0>
+  <SapientAnimalChatRules.rulePack.rulesStrings.1>animalTalk->에게 부드럽게 한숨을 내쉼.</SapientAnimalChatRules.rulePack.rulesStrings.1>
+  <SapientAnimalChatRules.rulePack.rulesStrings.2>animalTalk->옆에 앉음.</SapientAnimalChatRules.rulePack.rulesStrings.2>
+  <SapientAnimalChatRules.rulePack.rulesStrings.3>animalTalk->옆에 잠시 웅크림.</SapientAnimalChatRules.rulePack.rulesStrings.3>
+  <SapientAnimalChatRules.rulePack.rulesStrings.4>animalTalk->를 툭 건드림.</SapientAnimalChatRules.rulePack.rulesStrings.4>
+  <SapientAnimalChatRules.rulePack.rulesStrings.5>animalTalk->[TalkTopicAny]에 대해 다음과 같이 말함.</SapientAnimalChatRules.rulePack.rulesStrings.5>
+  <SapientAnimalChatRules.rulePack.rulesStrings.6>animalTalk->와 [TalkTopicAny]에 대해 불평함.</SapientAnimalChatRules.rulePack.rulesStrings.6>
+  <SapientAnimalChatRules.rulePack.rulesStrings.7>animalTalk->와 삶에 대해 한탄함.</SapientAnimalChatRules.rulePack.rulesStrings.7>
+  <SapientAnimalChatRules.rulePack.rulesStrings.8>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef] 근처에 앉아 [animalLife]에 대해 이야기 함.</SapientAnimalChatRules.rulePack.rulesStrings.8>
+  <SapientAnimalChatRules.rulePack.rulesStrings.9>r_logentry->[RECIPIENT_nameDef](은)는 [INITIATOR_nameDef] 옆에 앉아 [animalLife]에 대해 이야기함.</SapientAnimalChatRules.rulePack.rulesStrings.9>
+  <SapientAnimalChatRules.rulePack.rulesStrings.10>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef] 근처에 앉아 [TalkTopicAny]에 대해 이야기함.</SapientAnimalChatRules.rulePack.rulesStrings.10>
+  <SapientAnimalChatRules.rulePack.rulesStrings.11>r_logentry->[RECIPIENT_nameDef](은)는 [INITIATOR_nameDef] 옆에 앉아 [TalkTopicAny]에 대해 이야기함.</SapientAnimalChatRules.rulePack.rulesStrings.11>
+  <SapientAnimalChatRules.rulePack.rulesStrings.12>r_logentry->[RECIPIENT_nameDef](은)는 [INITIATOR_nameDef](와)과 [TalkTopicAny]에 대해 이야기함.</SapientAnimalChatRules.rulePack.rulesStrings.12>
+  <SapientAnimalChatRules.rulePack.rulesStrings.13>r_logentry->[RECIPIENT_nameDef](와)과 [INITIATOR_nameDef](은)는 [animalLife]에 대해 이야기 함.</SapientAnimalChatRules.rulePack.rulesStrings.13>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.0>animalTalk->에게 부드럽게 한숨을 내쉼.</MostlySapientAnimalChatRules.rulePack.rulesStrings.0>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.1>animalTalk->코를 비벼댐.</MostlySapientAnimalChatRules.rulePack.rulesStrings.1>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.2>animalTalk->에 비벼댐.</MostlySapientAnimalChatRules.rulePack.rulesStrings.2>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.3>animalTalk->옆에 앉음.</MostlySapientAnimalChatRules.rulePack.rulesStrings.3>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.4>animalTalk->옆에 잠시 웅크림.</MostlySapientAnimalChatRules.rulePack.rulesStrings.4>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.5>animalTalk->를 툭 건드림.</MostlySapientAnimalChatRules.rulePack.rulesStrings.5>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.6>animalTalk->말을 걸려고 하다 실패함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.6>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.7>animalTalk->대화를 시도함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.7>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.8>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef] 근처에 앉아 [animalLife]에 대해 이야기 함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.8>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.9>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef] 근처에 앉아 [TalkTopicAny]에 대해 이야기함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.9>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.10>r_logentry->[RECIPIENT_nameDef](은)는 [INITIATOR_nameDef](와)과 [TalkTopicAny]에 대해 이야기함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.10>
+  <MostlySapientAnimalChatRules.rulePack.rulesStrings.11>r_logentry->[RECIPIENT_nameDef](와)과 [INITIATOR_nameDef](은)는 [animalLife]에 대해 이야기 함.</MostlySapientAnimalChatRules.rulePack.rulesStrings.11>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.0>animalTalk->에게 부드럽게 한숨을 내쉼.</ConflictedAnimalChatRules.rulePack.rulesStrings.0>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.1>animalTalk->로부터 관심을 끌기 위해 낑낑거림.</ConflictedAnimalChatRules.rulePack.rulesStrings.1>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.2>animalTalk->코를 비벼댐.</ConflictedAnimalChatRules.rulePack.rulesStrings.2>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.3>animalTalk->에 비벼댐.</ConflictedAnimalChatRules.rulePack.rulesStrings.3>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.4>animalTalk->옆에 앉음.</ConflictedAnimalChatRules.rulePack.rulesStrings.4>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.5>animalTalk->옆에 잠시 웅크림.</ConflictedAnimalChatRules.rulePack.rulesStrings.5>
+  <ConflictedAnimalChatRules.rulePack.rulesStrings.6>animalTalk->를 툭 건드림.</ConflictedAnimalChatRules.rulePack.rulesStrings.6>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.0>animalTalk->로부터 관심을 끌기 위해 낑낑거림.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.0>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.1>animalTalk->코를 비벼댐.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.1>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.2>animalTalk->에 비벼댐.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.2>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.3>animalTalk->옆에 앉음.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.3>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.4>animalTalk->옆에 잠시 웅크림.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.4>
+  <MostlyFeralAnimalChatRules.rulePack.rulesStrings.5>animalTalk->를 툭 건드림.</MostlyFeralAnimalChatRules.rulePack.rulesStrings.5>
+  <SapientAnimalRecruitSuccess.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef](은)는 받아들이고 [INITIATOR_nameDef]의 정착지에 합류함.</SapientAnimalRecruitSuccess.rulePack.rulesStrings.0>
+  <MostlySapientAnimalRecruitSuccess.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef](은)는 받아들이고 [INITIATOR_nameDef]의 정착지에 합류함.</MostlySapientAnimalRecruitSuccess.rulePack.rulesStrings.0>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef](은)는 거절함.</SapientAnimalRecruitRejected.rulePack.rulesStrings.0>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef](은)는 꺼지라고 말함.</SapientAnimalRecruitRejected.rulePack.rulesStrings.1>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef](은)는 꺼지라고 말함.</SapientAnimalRecruitRejected.rulePack.rulesStrings.2>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.3>sent->[RECIPIENT_nameDef](이)가 소리침.</SapientAnimalRecruitRejected.rulePack.rulesStrings.3>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.4>sent->[RECIPIENT_nameDef](은)는 [INITIATOR_pronoun]에게 무례한 제스처를 취함.</SapientAnimalRecruitRejected.rulePack.rulesStrings.4>
+  <SapientAnimalRecruitRejected.rulePack.rulesStrings.5>sent->[RECIPIENT_nameDef](은)는 [RECIPIENT_possessive] 눈을 [INITIATOR_pronoun]에게 굴림.</SapientAnimalRecruitRejected.rulePack.rulesStrings.5>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>sent->[RECIPIENT_nameDef](은)는 거절함.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.0>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>sent->[RECIPIENT_nameDef](은)는 [INITIATOR_pronoun]에게 무례한 제스처를 취함.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.1>
+  <MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>sent->[RECIPIENT_nameDef](은)는 [RECIPIENT_possessive] 눈을 [INITIATOR_pronoun]에게 굴림.</MostlySapientAnimalRecruitRejected.rulePack.rulesStrings.2>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallInstinctLimiter.label>지성 복구망 삽입</InstallInstinctLimiter.label>
+  <InstallInstinctLimiter.description>지성 복구망 삽입</InstallInstinctLimiter.description>
+  <InstallInstinctLimiter.jobString>지성 복구망 설치중</InstallInstinctLimiter.jobString>
+  <PM_TagAnimal.label>동물 태그하기</PM_TagAnimal.label>
+  <PM_TagAnimal.description>동물의 유전자 소재 태그하기</PM_TagAnimal.description>
+  <PM_TagAnimal.jobString>{TargetA} 태그 중.</PM_TagAnimal.jobString>
+  <PM_TagAnimal.successfullyRemovedHediffMessage>{0}가 {1}을(를) 성공적으로 태그했습니다.</PM_TagAnimal.successfullyRemovedHediffMessage>
+  <Make_GenekitColorPicker.label>피부 재착색 유전키트 제작</Make_GenekitColorPicker.label>
+  <Make_GenekitColorPicker.description>메카나이트를 피부 재착색 유전키트로 재구성.</Make_GenekitColorPicker.description>
+  <Make_GenekitColorPicker.jobString>피부 재착색 유전키트 제작중</Make_GenekitColorPicker.jobString>
+  <Make_Slurry.label>변형물질로 슬러리 만들기</Make_Slurry.label>
+  <Make_Slurry.description>다양한 변형물질로부터 메카나이트를 이용해 슬러리 만들기.</Make_Slurry.description>
+  <Make_Slurry.jobString>슬러리 정제 중.</Make_Slurry.jobString>
+  <Make_SlurryBulk.label>변형물질로 슬러리 x4 만들기</Make_SlurryBulk.label>
+  <Make_SlurryBulk.description>다양한 변형물질로부터 메카나이트를 이용해 슬러리 만들기.</Make_SlurryBulk.description>
+  <Make_SlurryBulk.jobString>슬러리 4개 정제 중.</Make_SlurryBulk.jobString>
+  <Make_ComponentsFromSlurry.label>부품 제조</Make_ComponentsFromSlurry.label>
+  <Make_ComponentsFromSlurry.description>메카나이트 구성품을 부품으로 가공합니다.</Make_ComponentsFromSlurry.description>
+  <Make_ComponentsFromSlurry.jobString>혼합물로부터 부품 정제중</Make_ComponentsFromSlurry.jobString>
+  <Make_ResurrectorFromMutonite.label>부활혈청 제작</Make_ResurrectorFromMutonite.label>
+  <Make_ResurrectorFromMutonite.description>혼합물에서 메카나이트를 추출해 부활혈청으로 만듭니다. 변형 유인체 메카나이트를 이용해 만들기 때문에, 의도치 않은 부작용이 있을 수 있습니다.</Make_ResurrectorFromMutonite.description>
+  <Make_ResurrectorFromMutonite.jobString>환생 메카 세럼 제작 중</Make_ResurrectorFromMutonite.jobString>
+  <Make_HealerFromMutonite.label>변형 유인체 회복혈청 제조</Make_HealerFromMutonite.label>
+  <Make_HealerFromMutonite.description>많은 양의 변형 유인체 메카나이트를 재생 프로토콜을 이용해 재설정 합니다. 매우 많은 양의 메카나이트가 재설정됨에 따라, 무력화에 실패한 메카나이트가 있을 수 있으며, 이로인해 높은 확률로 재생된 부위가 변이를 일으킬 수 있습니다.</Make_HealerFromMutonite.description>
+  <Make_HealerFromMutonite.jobString>변형 유인체 회복혈청 제작 중</Make_HealerFromMutonite.jobString>
+  <Make_GlitterMedsFromMutonite.label>번화계 약품 제작</Make_GlitterMedsFromMutonite.label>
+  <Make_GlitterMedsFromMutonite.description>항원에서 번화계 약품으로 메카나이트를 재조정합니다. 이것은 상당히 많이 필요합니다.</Make_GlitterMedsFromMutonite.description>
+  <Make_GlitterMedsFromMutonite.jobString>항원을 번화계 약품으로 정제 중</Make_GlitterMedsFromMutonite.jobString>
+  <AdministerMutagenicMechSerumHealer.label>치료용 변형 유인체 메카나이트 투여</AdministerMutagenicMechSerumHealer.label>
+  <AdministerMutagenicMechSerumHealer.description>치료용 변형 유인체 메카나이트 투여</AdministerMutagenicMechSerumHealer.description>
+  <AdministerMutagenicMechSerumHealer.jobString>변이혈청, 치료용 메카나이트 투여 중</AdministerMutagenicMechSerumHealer.jobString>
+  <PMMake_Hazsilk.label>핵실크 만들기</PMMake_Hazsilk.label>
+  <PMMake_Hazsilk.description>항원을 이용해 천을 핵실크로 전환하기.</PMMake_Hazsilk.description>
+  <PMMake_Hazsilk.jobString>핵실크 제작 중</PMMake_Hazsilk.jobString>
+  <PMMake_HazsilkBulk.label>핵실크 x4 만들기</PMMake_HazsilkBulk.label>
+  <PMMake_HazsilkBulk.description>항원을 이용해 천을 핵실크로 전환하기.</PMMake_HazsilkBulk.description>
+  <PMMake_HazsilkBulk.jobString>핵실크 x4 제작 중</PMMake_HazsilkBulk.jobString>
+  <PMMake_Morphsilk.label>변이비단 만들기</PMMake_Morphsilk.label>
+  <PMMake_Morphsilk.description>메카나이트 슬러리를 이용해 천을 변이비단으로 전환하기.</PMMake_Morphsilk.description>
+  <PMMake_Morphsilk.jobString>변이비단 제작 중</PMMake_Morphsilk.jobString>
+  <PMMake_MorphsilkBulk.label>변이비단 x4 만들기</PMMake_MorphsilkBulk.label>
+  <PMMake_MorphsilkBulk.description>메카나이트 슬러리를 이용해 천을 변이비단으로 전환하기.</PMMake_MorphsilkBulk.description>
+  <PMMake_MorphsilkBulk.jobString>변이비단 x4 제작 중</PMMake_MorphsilkBulk.jobString>
+  <PM_ApplyHaltCream.label>정지 크림 바르기</PM_ApplyHaltCream.label>
+  <PM_ApplyHaltCream.description>변이 부위에 정지 크림 바르기</PM_ApplyHaltCream.description>
+  <PM_ApplyHaltCream.jobString>정지 크림 적용 중.</PM_ApplyHaltCream.jobString>
+  <PM_ApplyAdaptionCream.label>적응 크림을 바르다</PM_ApplyAdaptionCream.label>
+  <PM_ApplyAdaptionCream.description>변이에 적응 크림을 적용하십시오</PM_ApplyAdaptionCream.description>
+  <PM_ApplyAdaptionCream.jobString>적응 크림을 적용 중입니다.</PM_ApplyAdaptionCream.jobString>
+</LanguageData>
