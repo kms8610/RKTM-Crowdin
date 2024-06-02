@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SmokeleafCannagar.label>smokeleaf cannagar</SmokeleafCannagar.label>
+  <SmokeleafCannagar.description>Smokeleaf buds wrapped around a stick and rolled in leaves soaked with oil. Very potent and very expensive. The drug improves mood, but also increases appetite, reduces focus and slows movement.  While not physically addictive, users may still develop a psychological dependence.</SmokeleafCannagar.description>
+  <CHO.label>smokeleaf hash oil</CHO.label>
+  <CHO.description>Smokeleaf Hash Oil is a smokeleaf extract prepared using Chemfuel. Since S.H.O. is vaporized, some of the harmful effects are eliminated, but due to the method of it's extraction, other risks are increased. While not physically addictive, users may still develop a psychological dependence.</CHO.description>
+  <CrudeSmokeleafJoint.label>crude smokeleaf joint</CrudeSmokeleafJoint.label>
+  <CrudeSmokeleafJoint.description>Smokeleaf plant material clumsily rolled for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Can be produced without equipment, at a crafting spot. Smoking a crude joint is a very wasteful method. While not physically addictive, users may still develop a psychological dependence.</CrudeSmokeleafJoint.description>
+  <SmokeleafDistillate.label>smokeleaf distillate</SmokeleafDistillate.label>
+  <SmokeleafDistillate.description>Smokeleaf distillate is the ultimate extract. Gives a clean high without the risks of other smokeleaf products. While not physically addictive, users may still develop a psychological dependence.</SmokeleafDistillate.description>
+  <SmokeleafDistillate.ingestible.ingestCommandString>Vape {0}</SmokeleafDistillate.ingestible.ingestCommandString>
+  <SmokeleafDistillate.ingestible.ingestReportString>Vaping {0}.</SmokeleafDistillate.ingestible.ingestReportString>
+  <SmokeleafHash.ingestible.ingestCommandString>{0} 피우기</SmokeleafHash.ingestible.ingestCommandString>
+  <SmokeleafHash.ingestible.ingestReportString>{0} 피우는 중.</SmokeleafHash.ingestible.ingestReportString>
+  <SmokeleafHash.ingestible.ingestReportStringEat>{0} 사용 중.</SmokeleafHash.ingestible.ingestReportStringEat>
+  <SmokeleafHash.label>smokeleaf hash</SmokeleafHash.label>
+  <SmokeleafHash.description>Smokeleaf hash is the original concentrated form of smokeleaf. It is made from the resin collected from the buds.  While not physically addictive, users may still develop a psychological dependence.</SmokeleafHash.description>
+  <SmokeleafLotion.ingestible.ingestCommandString>{0} 복용</SmokeleafLotion.ingestible.ingestCommandString>
+  <SmokeleafLotion.ingestible.ingestReportString>{0} 복용 중.</SmokeleafLotion.ingestible.ingestReportString>
+  <SmokeleafLotion.label>연초 로션</SmokeleafLotion.label>
+  <SmokeleafLotion.description>A topical lotion that can heal old scars, numb pain and restore some movement.</SmokeleafLotion.description>
+  <SmokeleafPills.ingestible.ingestCommandString>{0} 복용</SmokeleafPills.ingestible.ingestCommandString>
+  <SmokeleafPills.ingestible.ingestReportString>{0} 복용 중.</SmokeleafPills.ingestible.ingestReportString>
+  <SmokeleafPills.label>smokeleaf pills</SmokeleafPills.label>
+  <SmokeleafPills.description>A pill form medicinal that offers preventative treatment (Malaria and Plague), aids in recovery and provides mild pain relief.  May cause drowsiness.</SmokeleafPills.description>
+  <SmokeleafTincture.ingestible.ingestCommandString>{0} 복용</SmokeleafTincture.ingestible.ingestCommandString>
+  <SmokeleafTincture.ingestible.ingestReportString>{0} 복용 중.</SmokeleafTincture.ingestible.ingestReportString>
+  <SmokeleafTincture.label>연초 팅크약</SmokeleafTincture.label>
+  <SmokeleafTincture.description>A potent tincture that offers considerable pain relief, and helps with sleep. Best taken before bed.</SmokeleafTincture.description>
+  <Mote_StonedCloud.label>Mote</Mote_StonedCloud.label>
+  <GrowLamp.label>grow lamp</GrowLamp.label>
+  <GrowLamp.description>A power efficient grow light designed for indoor use, with a built-in timer.</GrowLamp.description>
+  <GrowLamp.comps.2.offMessage>Timer set for optimal growing.</GrowLamp.comps.2.offMessage>
+  <MSI_TubeGrowLights.label>grow light fixture</MSI_TubeGrowLights.label>
+  <MSI_TubeGrowLights.description>A tube light system designed for growing plants, but, is cost effective enough, that it works well in other areas too. Stays lit 24 hours a day.</MSI_TubeGrowLights.description>
+  <MSI_StonePlanter.label>화분</MSI_StonePlanter.label>
+  <MSI_StonePlanter.description>A stone planter for smokeleaf or other plants. The soil is fertilized to encourage rapid growth at 1.5x the normal rate. Requires light and heat.</MSI_StonePlanter.description>
+  <MSI_WoodenPlanter.label>화분</MSI_WoodenPlanter.label>
+  <MSI_WoodenPlanter.description>A wooden planter for smokeleaf or other plants. The soil is fertilized to encourage rapid growth at 2x the normal rate. Requires light and heat.</MSI_WoodenPlanter.description>
+  <SpaceBucket.label>space bucket</SpaceBucket.label>
+  <SpaceBucket.description>A self-contained growing system. Uses a fair amount of power for a single plant, but grows plants at 5x the normal rate. Ideal for growing in confined spaces.  Requires heat.</SpaceBucket.description>
+  <HempolineGenerator.label>hempoline-powered generator</HempolineGenerator.label>
+  <HempolineGenerator.description>Produces power by burning hempoline. Must be periodically refueled by hand.</HempolineGenerator.description>
+  <HempPowerConduit.label>hempene power conduit</HempPowerConduit.label>
+  <HempPowerConduit.description>A hempene Glittertech power conduit. Casts a nice green light around it, making it less of an eyesore. Can be placed under walls, other buildings and connects to regular conduits.</HempPowerConduit.description>
+  <HempBattery.label>hempene battery</HempBattery.label>
+  <HempBattery.description>A Glittertech battery made from superconductive hemp nanosheets, capable of storing more power than normal battery. Warning - charged batteries tend to explode when exposed to rain or fire.</HempBattery.description>
+  <HempSolarGenerator.label>hempene solar generator</HempSolarGenerator.label>
+  <HempSolarGenerator.description>A Glittertech solar generator, made with superconductive hempene, which is much more efficient than traditional solar generators. Does not work in the dark.</HempSolarGenerator.description>
+  <PoweredCultivationBench.label>cultivation bench</PoweredCultivationBench.label>
+  <PoweredCultivationBench.description>A workbench designed specifically to process smokeleaf. New recreational drugs and bulk recipes have been added. Can work without electricity at a severly reduced speed.</PoweredCultivationBench.description>
+  <MedicinalsLab.label>medicinals lab</MedicinalsLab.label>
+  <MedicinalsLab.description>An advanced lab for the processing of smokeleaf into it's purest medicinal forms. Must have power to function.</MedicinalsLab.description>
+  <SmokeleafAutoTrimmer.label>smokeleaf auto trimmer</SmokeleafAutoTrimmer.label>
+  <SmokeleafAutoTrimmer.description>Processes raw smokeleaf into usable products with increased speed and reduced power usage in large quantities.</SmokeleafAutoTrimmer.description>
+  <TrimmingTools.label>trimming tools</TrimmingTools.label>
+  <TrimmingTools.description>Increases work speed. Needs to be placed near workbench. One workbench can be simultaneously linked to only two tools cabinets.</TrimmingTools.description>
+  <BlocksHempcrete.label>hempcrete blocks</BlocksHempcrete.label>
+  <BlocksHempcrete.description>Blocks made of a hemp composite. Hempcrete is not flammable, but it's not very strong either.</BlocksHempcrete.description>
+  <BlocksHempcrete.stuffProps.stuffAdjective>대마콘크리트</BlocksHempcrete.stuffProps.stuffAdjective>
+  <SmokeleafButter.ingestible.ingestCommandString>마시기 {0}</SmokeleafButter.ingestible.ingestCommandString>
+  <SmokeleafButter.ingestible.ingestReportString>{0} 사용 중.</SmokeleafButter.ingestible.ingestReportString>
+  <SmokeleafButter.label>연초잎 버터</SmokeleafButter.label>
+  <SmokeleafButter.description>Butter made from simmering smokeleaf buds with milk. Creates a potent base for edibles. Can be eaten raw to get high, although it tastes horrible.</SmokeleafButter.description>
+  <HempFlour.ingestible.ingestCommandString>마시기 {0}</HempFlour.ingestible.ingestCommandString>
+  <HempFlour.ingestible.ingestReportString>{0} 사용 중.</HempFlour.ingestible.ingestReportString>
+  <HempFlour.label>hemp flour</HempFlour.label>
+  <HempFlour.description>Smokeleaf seeds can be ground into a fine flour for baking.</HempFlour.description>
+  <HempMilk.ingestible.ingestCommandString>마시기 {0}</HempMilk.ingestible.ingestCommandString>
+  <HempMilk.ingestible.ingestReportString>{0} 사용 중.</HempMilk.ingestible.ingestReportString>
+  <HempMilk.label>hemp milk</HempMilk.label>
+  <HempMilk.description>"Milk" made from smokeleaf seeds that are soaked and ground in water. Can be used as an alternative to animal milk when cooking.</HempMilk.description>
+  <HempProtein.ingestible.ingestCommandString>마시기 {0}</HempProtein.ingestible.ingestCommandString>
+  <HempProtein.ingestible.ingestReportString>{0} 사용 중.</HempProtein.ingestible.ingestReportString>
+  <HempProtein.label>hemp Protein</HempProtein.label>
+  <HempProtein.description>A protein powder made from crushed smokeleaf seeds. Can be used as an alternative protein source when cooking.</HempProtein.description>
+  <SmokeleafSeedOil.ingestible.ingestCommandString>마시기 {0}</SmokeleafSeedOil.ingestible.ingestCommandString>
+  <SmokeleafSeedOil.ingestible.ingestReportString>{0} 사용 중.</SmokeleafSeedOil.ingestible.ingestReportString>
+  <SmokeleafSeedOil.label>smokeleaf seed oil</SmokeleafSeedOil.label>
+  <SmokeleafSeedOil.description>Oils pressed from smokeleaf seeds. While seed oil does not possess any medicinal qualities, it has many various uses.</SmokeleafSeedOil.description>
+  <SmokeleafBrownie.ingestible.ingestCommandString>마시기 {0}</SmokeleafBrownie.ingestible.ingestCommandString>
+  <SmokeleafBrownie.ingestible.ingestReportString>{0} 사용 중.</SmokeleafBrownie.ingestible.ingestReportString>
+  <SmokeleafBrownie.label>smokeleaf brownie</SmokeleafBrownie.label>
+  <SmokeleafBrownie.description>The infamous "special" smokeleaf brownie. Slightly addictive!</SmokeleafBrownie.description>
+  <SmokeleafCookie.ingestible.ingestCommandString>마시기 {0}</SmokeleafCookie.ingestible.ingestCommandString>
+  <SmokeleafCookie.ingestible.ingestReportString>{0} 사용 중.</SmokeleafCookie.ingestible.ingestReportString>
+  <SmokeleafCookie.label>smokeleaf cookie</SmokeleafCookie.label>
+  <SmokeleafCookie.description>A smokeleaf butter cookie. Get comfortable.</SmokeleafCookie.description>
+  <SmokeleafNutriLeaf.ingestible.ingestCommandString>마시기 {0}</SmokeleafNutriLeaf.ingestible.ingestCommandString>
+  <SmokeleafNutriLeaf.ingestible.ingestReportString>{0} 사용 중.</SmokeleafNutriLeaf.ingestible.ingestReportString>
+  <SmokeleafNutriLeaf.label>NutriLeaf bar (smokeleaf)</SmokeleafNutriLeaf.label>
+  <SmokeleafNutriLeaf.description>A chewy, fruit filled, smokeleaf infused snack bar. Great snack to bring on the road.</SmokeleafNutriLeaf.description>
+  <SmokeleafDeEnergyDrink.ingestible.ingestCommandString>마시기 {0}</SmokeleafDeEnergyDrink.ingestible.ingestCommandString>
+  <SmokeleafDeEnergyDrink.ingestible.ingestReportString>{0} 사용 중.</SmokeleafDeEnergyDrink.ingestible.ingestReportString>
+  <SmokeleafDeEnergyDrink.label>smokeleaf de-energy drink</SmokeleafDeEnergyDrink.label>
+  <SmokeleafDeEnergyDrink.description>Don't make plans for 5 hours.</SmokeleafDeEnergyDrink.description>
+  <SmokeleafSmoothie.ingestible.ingestCommandString>마시기 {0}</SmokeleafSmoothie.ingestible.ingestCommandString>
+  <SmokeleafSmoothie.ingestible.ingestReportString>{0} 사용 중.</SmokeleafSmoothie.ingestible.ingestReportString>
+  <SmokeleafSmoothie.label>smokeleaf smoothie</SmokeleafSmoothie.label>
+  <SmokeleafSmoothie.description>A delicious fruit smoothie with a smokeleaf kick. Very nutritious.</SmokeleafSmoothie.description>
+  <SmokeleafCandy.ingestible.ingestCommandString>마시기 {0}</SmokeleafCandy.ingestible.ingestCommandString>
+  <SmokeleafCandy.ingestible.ingestReportString>{0} 사용 중.</SmokeleafCandy.ingestible.ingestReportString>
+  <SmokeleafCandy.label>smokeleaf candy</SmokeleafCandy.label>
+  <SmokeleafCandy.description>A tasty fruit flavored infused confection.</SmokeleafCandy.description>
+  <MealInfused.label>infused meal</MealInfused.label>
+  <MealInfused.description>A filling meal that also gives a slight buzz.</MealInfused.description>
+  <HempFiber.label>hemp fibers</HempFiber.label>
+  <HempFiber.description>Leftover stalks and leaves from trimming the smokeleaf plant.</HempFiber.description>
+  <HempFiber.stuffProps.stuffAdjective>삼베</HempFiber.stuffProps.stuffAdjective>
+  <SmokeleafBuds.ingestible.ingestCommandString>마시기 {0}</SmokeleafBuds.ingestible.ingestCommandString>
+  <SmokeleafBuds.ingestible.ingestReportString>{0} 사용 중.</SmokeleafBuds.ingestible.ingestReportString>
+  <SmokeleafBuds.label>smokeleaf buds</SmokeleafBuds.label>
+  <SmokeleafBuds.description>The flower of the smokeleaf plant. Contains all the good stuff.</SmokeleafBuds.description>
+  <SmokeleafSeed.label>smokeleaf seed</SmokeleafSeed.label>
+  <SmokeleafSeed.description>The seed of a smokeleaf plant.</SmokeleafSeed.description>
+  <HempCloth.label>hemp fabric</HempCloth.label>
+  <HempCloth.description>Fabric woven from hemp fibers.</HempCloth.description>
+  <DevilsleafFabric.label>devilsleaf fabric</DevilsleafFabric.label>
+  <DevilsleafFabric.description>Hemp fibers woven into devilstrand to make a new textile with the best qualities of each material.</DevilsleafFabric.description>
+  <HempBiocomposite.label>hemp biocomposite</HempBiocomposite.label>
+  <HempBiocomposite.description>A biocomposite material made from hemp fibers, hemp fabric and biocoal. Useful as a sustainable alternative for metals. Slightly greater tensile strength than steel.</HempBiocomposite.description>
+  <HempBiocoal.label>hemp biocoal</HempBiocoal.label>
+  <HempBiocoal.description>The result of heating up hemp fibers to extremely high temperatures. Originally intended for use as a fuel source, it is now mainly recognized for it's utility in the creation of a renewable alternative to steel.</HempBiocoal.description>
+  <HempNanosheet.label>hemp nanosheet</HempNanosheet.label>
+  <HempNanosheet.description>A Glitterworld material made from carbonized hemp fibers and plasteel. It is used in advanced equipment for it's highly conductive properties.</HempNanosheet.description>
+  <Hempoline.label>hempoline</Hempoline.label>
+  <Hempoline.description>A safe, stable fuel produced from refined smokeleaf stalks and seeds. Non-volatile, but goes bad eventually. Can be used in hempoline-powered generators, or as an alternative fuel for the chemfuel-powered generator.</Hempoline.description>
+  <CBD.label>CBD</CBD.label>
+  <CBD.description>A compound identified in the smokeleaf plant that has vast medical potential. On it's own, it is more effective than herbal medicine, but not as effective as standard industrial medicine. CBD can be combined with other medicine to create an even more effective form of treatment.</CBD.description>
+  <InfusedMedicine.label>infused medicine</InfusedMedicine.label>
+  <InfusedMedicine.description>Industrial medicine infused with CBD. More effective than regular medicine, but not as effective as glitterworld medicine.</InfusedMedicine.description>
+  <MSI_SOG.label>smokeleaf plant (SOG)</MSI_SOG.label>
+  <MSI_SOG.description>A leafy plant cultivated for its psychological effects. Using the 'Sea Of Green' technique takes less time to grow, but produces a smaller yeild.</MSI_SOG.description>
+  <MSI_SCROG.label>smokeleaf plant (SCROG)</MSI_SCROG.label>
+  <MSI_SCROG.description>A leafy plant cultivated for its psychological effects. Using the 'Screen Of Green' technique takes more time to grow, but produces a higher yeild.</MSI_SCROG.description>
+  <SmokeleafJoint.description.description>Smokeleaf buds broken up and rolled into a joint. The drug improves mood, but also increases appetite, reduces focus and slows movement. While not physically addictive, users may still develop a psychological dependence.</SmokeleafJoint.description.description>
+  <Plant_Smokeleaf.description.description>A leafy plant cultivated for its psychological effects. Smokeleaf provides a relaxed, mellow high. Smokeleaf plants can be seperated into a few base ingredients. These ingredients can make food, medicine, and powerful drugs.</Plant_Smokeleaf.description.description>
+</LanguageData>
