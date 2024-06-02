@@ -129,7 +129,7 @@
   <PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.64>animalbehavior->shared mutual nuzzles with [RECIPIENT_nameDef]</PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.64>
   <PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.65>animalbehavior->and [RECIPIENT_nameDef] gave each other mutual headpats</PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.65>
   <PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.66>animalbehavior->shared a howl with [RECIPIENT_nameDef]</PMBark_DeepTalkCanine.logRulesInitiator.rulesStrings.66>
-  <PMBark_Slight.label>growl</PMBark_Slight.label>
+  <PMBark_Slight.label>으으렁</PMBark_Slight.label>
   <PMBark_Slight.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [noisedat] [RECIPIENT_nameDef].</PMBark_Slight.logRulesInitiator.rulesStrings.0>
   <PMBark_Slight.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [noisedabout] [Target]'s [characteristic].</PMBark_Slight.logRulesInitiator.rulesStrings.1>
   <PMBark_Slight.logRulesInitiator.rulesStrings.2>r_logentry(p=0.5)->[INITIATOR_nameDef] [annoyingbehavior].</PMBark_Slight.logRulesInitiator.rulesStrings.2>
@@ -153,7 +153,7 @@
   <PMBark_Slight.logRulesInitiator.rulesStrings.20>annoyingbehavior->annoyingly licked [RECIPIENT_nameDef] face</PMBark_Slight.logRulesInitiator.rulesStrings.20>
   <PMBark_Slight.logRulesInitiator.rulesStrings.21>annoyingbehavior->drooled on [RECIPIENT_nameDef]</PMBark_Slight.logRulesInitiator.rulesStrings.21>
   <PMBark_Slight.logRulesInitiator.rulesStrings.22>annoyingbehavior->loudly howled while [RECIPIENT_nameDef] covered [RECIPIENT_possessive] ears</PMBark_Slight.logRulesInitiator.rulesStrings.22>
-  <PMBark_Insult.label>snarl</PMBark_Insult.label>
+  <PMBark_Insult.label>울음</PMBark_Insult.label>
   <PMBark_Insult.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [noisedat] [RECIPIENT_nameDef].</PMBark_Insult.logRulesInitiator.rulesStrings.0>
   <PMBark_Insult.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [noisedabout] [Target]'s [characteristic].</PMBark_Insult.logRulesInitiator.rulesStrings.1>
   <PMBark_Insult.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [comparedtargetto] [insult].</PMBark_Insult.logRulesInitiator.rulesStrings.2>
@@ -943,7 +943,7 @@
   <PMBok_DirectedInsult.logRulesInitiator.rulesStrings.30>insultingjoketopics->cowardice</PMBok_DirectedInsult.logRulesInitiator.rulesStrings.30>
   <PMBok_DirectedInsult.logRulesInitiator.rulesStrings.31>insultingjoketopics->an egg pun</PMBok_DirectedInsult.logRulesInitiator.rulesStrings.31>
   <PMBok_DirectedInsult.logRulesInitiator.rulesStrings.32>insultingjoketopics->fried chicken</PMBok_DirectedInsult.logRulesInitiator.rulesStrings.32>
-  <PMBoom_Chitchat.label>boom</PMBoom_Chitchat.label>
+  <PMBoom_Chitchat.label>퍼엉</PMBoom_Chitchat.label>
   <PMBoom_Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [noisedat] [RECIPIENT_nameDef].</PMBoom_Chitchat.logRulesInitiator.rulesStrings.0>
   <PMBoom_Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [topic].</PMBoom_Chitchat.logRulesInitiator.rulesStrings.1>
   <PMBoom_Chitchat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [talkedabout] [topic] with [RECIPIENT_nameDef].</PMBoom_Chitchat.logRulesInitiator.rulesStrings.2>
@@ -1445,7 +1445,7 @@
   <PMChao_Insult.logRulesInitiator.rulesStrings.52>chaoscreech->[noised] repeatedly at [RECIPIENT_nameDef], punctuated with a few [noises] for emphasis</PMChao_Insult.logRulesInitiator.rulesStrings.52>
   <PMChao_Insult.logRulesInitiator.rulesStrings.53>chaoscreech->[noise]-[noised] that [RECIPIENT_nameDef] is a mad scientist</PMChao_Insult.logRulesInitiator.rulesStrings.53>
   <PMChao_KindWords.label>kind chaonoises</PMChao_KindWords.label>
-  <PMChao_KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [characteristic].</PMChao_KindWords.logRulesInitiator.rulesStrings.0>
+  <PMChao_KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 [characteristic][complimented].</PMChao_KindWords.logRulesInitiator.rulesStrings.0>
   <PMChao_KindWords.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [MaybeKindAdv] [kindbehavior] [RECIPIENT_nameDef].</PMChao_KindWords.logRulesInitiator.rulesStrings.1>
   <PMChao_KindWords.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [MaybeKindAdv] [comparedtargetto] [compliment].</PMChao_KindWords.logRulesInitiator.rulesStrings.2>
   <PMChao_KindWords.logRulesInitiator.rulesStrings.3>comparedtargetto->[ComparedRecipientTo]</PMChao_KindWords.logRulesInitiator.rulesStrings.3>
@@ -2725,7 +2725,7 @@
   <PMMeow_Insult.logRulesInitiator.rulesStrings.37>adj->stinking</PMMeow_Insult.logRulesInitiator.rulesStrings.37>
   <PMMeow_Insult.logRulesInitiator.rulesStrings.38>adj->smelly</PMMeow_Insult.logRulesInitiator.rulesStrings.38>
   <PMMeow_Insult.logRulesInitiator.rulesStrings.39>adj->annoying</PMMeow_Insult.logRulesInitiator.rulesStrings.39>
-  <PMMeow_Insult.logRulesInitiator.rulesStrings.40>adj->stupid</PMMeow_Insult.logRulesInitiator.rulesStrings.40>
+  <PMMeow_Insult.logRulesInitiator.rulesStrings.40>adj->능지딸리는</PMMeow_Insult.logRulesInitiator.rulesStrings.40>
   <PMMeow_Insult.logRulesInitiator.rulesStrings.41>adj->ugly</PMMeow_Insult.logRulesInitiator.rulesStrings.41>
   <PMMeow_Insult.logRulesInitiator.rulesStrings.42>adj->noisy</PMMeow_Insult.logRulesInitiator.rulesStrings.42>
   <PMMeow_Insult.logRulesInitiator.rulesStrings.43>adj->damn</PMMeow_Insult.logRulesInitiator.rulesStrings.43>
@@ -3014,7 +3014,7 @@
   <PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.26>insultingjoketopics->lactose intolerance</PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.26>
   <PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.27>insultingjoketopics->an udder pun</PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.27>
   <PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.28>insultingjoketopics->spherical cows</PMMoo_DirectedInsult.logRulesInitiator.rulesStrings.28>
-  <PMOink_Chitchat.label>oink</PMOink_Chitchat.label>
+  <PMOink_Chitchat.label>꽤액</PMOink_Chitchat.label>
   <PMOink_Chitchat.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [noisedat] [RECIPIENT_nameDef].</PMOink_Chitchat.logRulesInitiator.rulesStrings.0>
   <PMOink_Chitchat.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [topic].</PMOink_Chitchat.logRulesInitiator.rulesStrings.1>
   <PMOink_Chitchat.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [talkedabout] [topic] with [RECIPIENT_nameDef].</PMOink_Chitchat.logRulesInitiator.rulesStrings.2>
@@ -3165,7 +3165,7 @@
   <PMOink_Insult.logRulesInitiator.rulesStrings.26>insult->a bear</PMOink_Insult.logRulesInitiator.rulesStrings.26>
   <PMOink_Insult.logRulesInitiator.rulesStrings.27>insult->a predator</PMOink_Insult.logRulesInitiator.rulesStrings.27>
   <PMOink_KindWords.label>kind oinks</PMOink_KindWords.label>
-  <PMOink_KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [characteristic].</PMOink_KindWords.logRulesInitiator.rulesStrings.0>
+  <PMOink_KindWords.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef](은)는 [RECIPIENT_nameDef]의 [characteristic][complimented].</PMOink_KindWords.logRulesInitiator.rulesStrings.0>
   <PMOink_KindWords.logRulesInitiator.rulesStrings.1>r_logentry->[INITIATOR_nameDef] [kindbehavior] [RECIPIENT_nameDef].</PMOink_KindWords.logRulesInitiator.rulesStrings.1>
   <PMOink_KindWords.logRulesInitiator.rulesStrings.2>r_logentry->[INITIATOR_nameDef] [adv] called [RECIPIENT_nameDef] a [pigcompliment].</PMOink_KindWords.logRulesInitiator.rulesStrings.2>
   <PMOink_KindWords.logRulesInitiator.rulesStrings.3>characteristic->[PersonalCharacteristic]</PMOink_KindWords.logRulesInitiator.rulesStrings.3>

@@ -17,184 +17,184 @@
   <PackMinded.stages.3.label>huge pack</PackMinded.stages.3.label>
   <PackMinded.stages.3.description>내 패거리에는 많은 사람들이 있어, 이건 굉장해!</PackMinded.stages.3.description>
   <PawnmorphBark.stages.0.label>짖음</PawnmorphBark.stages.0.label>
-  <PMBark_DeepTalkMemory.stages.0.label>deep bark</PMBark_DeepTalkMemory.stages.0.label>
+  <PMBark_DeepTalkMemory.stages.0.label>깊은 짖음</PMBark_DeepTalkMemory.stages.0.label>
   <PMBark_DeepTalkCanineMemory.stages.0.label>packchat</PMBark_DeepTalkCanineMemory.stages.0.label>
-  <PMBark_Slight.stages.0.label>growl</PMBark_Slight.stages.0.label>
-  <PMBark_InsultMemory.stages.0.label>snarl</PMBark_InsultMemory.stages.0.label>
+  <PMBark_Slight.stages.0.label>으으렁</PMBark_Slight.stages.0.label>
+  <PMBark_InsultMemory.stages.0.label>울음</PMBark_InsultMemory.stages.0.label>
   <PMBark_InsultedMood.stages.0.label>snarled at</PMBark_InsultedMood.stages.0.label>
   <PMBark_InsultedMood.stages.0.description>I've been snarled at! What an awful canine!</PMBark_InsultedMood.stages.0.description>
-  <PMBark_KindWordsMemory.stages.0.label>kind licks</PMBark_KindWordsMemory.stages.0.label>
-  <PMBark_KindWordsMood.stages.0.label>kind licks</PMBark_KindWordsMood.stages.0.label>
+  <PMBark_KindWordsMemory.stages.0.label>친절한 핥기</PMBark_KindWordsMemory.stages.0.label>
+  <PMBark_KindWordsMood.stages.0.label>친절한 핥기</PMBark_KindWordsMood.stages.0.label>
   <PMBark_KindWordsMood.stages.0.description>I've been given a kind lick! What a nice canine!</PMBark_KindWordsMood.stages.0.description>
-  <PMBeaver_ChitchatMemory.stages.0.label>whine</PMBeaver_ChitchatMemory.stages.0.label>
-  <PMBeaver_DeepTalkMemory.stages.0.label>deep whine</PMBeaver_DeepTalkMemory.stages.0.label>
+  <PMBeaver_ChitchatMemory.stages.0.label>헐떡임</PMBeaver_ChitchatMemory.stages.0.label>
+  <PMBeaver_DeepTalkMemory.stages.0.label>깊은 헐떡임</PMBeaver_DeepTalkMemory.stages.0.label>
   <PMBeaver_DeepTalkBeaverMemory.stages.0.label>shared experience</PMBeaver_DeepTalkBeaverMemory.stages.0.label>
-  <PMBeaver_Slight.stages.0.label>growl</PMBeaver_Slight.stages.0.label>
+  <PMBeaver_Slight.stages.0.label>으으렁</PMBeaver_Slight.stages.0.label>
   <PMBeaver_Insult.stages.0.label>grunted at</PMBeaver_Insult.stages.0.label>
-  <PMBeaver_InsultedMood.stages.0.label>grunted at</PMBeaver_InsultedMood.stages.0.label>
+  <PMBeaver_InsultedMood.stages.0.label>투덜거림</PMBeaver_InsultedMood.stages.0.label>
   <PMBeaver_InsultedMood.stages.0.description>I've been insultingly grunted at! What an awful beaver!</PMBeaver_InsultedMood.stages.0.description>
   <PMBeaver_KindWordsMemory.stages.0.label>kind bark</PMBeaver_KindWordsMemory.stages.0.label>
-  <PMBeaver_KindWordsMood.stages.0.label>kind bark</PMBeaver_KindWordsMood.stages.0.label>
+  <PMBeaver_KindWordsMood.stages.0.label>친절한 짖음</PMBeaver_KindWordsMood.stages.0.label>
   <PMBeaver_KindWordsMood.stages.0.description>I've been complimented! What a nice beaver!</PMBeaver_KindWordsMood.stages.0.description>
   <PawnmorphBleat.stages.0.label>메에에</PawnmorphBleat.stages.0.label>
-  <PMBleat_DeepTalkMemory.stages.0.label>deep baa</PMBleat_DeepTalkMemory.stages.0.label>
+  <PMBleat_DeepTalkMemory.stages.0.label>깊은 메에</PMBleat_DeepTalkMemory.stages.0.label>
   <PMBleat_DeepTalkOvineMemory.stages.0.label>flock friends</PMBleat_DeepTalkOvineMemory.stages.0.label>
   <PMBleat_Slight.stages.0.label>slighting bleat</PMBleat_Slight.stages.0.label>
   <PMBleat_Insult.stages.0.label>insulting bleat</PMBleat_Insult.stages.0.label>
   <PMBleat_InsultedMood.stages.0.label>bleated at</PMBleat_InsultedMood.stages.0.label>
   <PMBleat_InsultedMood.stages.0.description>I've been bleated at! What an awful sheep!</PMBleat_InsultedMood.stages.0.description>
   <PMBleat_KindWordsMemory.stages.0.label>kind baa</PMBleat_KindWordsMemory.stages.0.label>
-  <PMBleat_KindWordsMood.stages.0.label>kind baa</PMBleat_KindWordsMood.stages.0.label>
+  <PMBleat_KindWordsMood.stages.0.label>친절한 메에</PMBleat_KindWordsMood.stages.0.label>
   <PMBleat_KindWordsMood.stages.0.description>I've been sung a kind baa! What a nice sheep!</PMBleat_KindWordsMood.stages.0.description>
-  <PawnmorphBok.stages.0.label>bok</PawnmorphBok.stages.0.label>
-  <PMBok_DeepTalkMemory.stages.0.label>deep bok</PMBok_DeepTalkMemory.stages.0.label>
+  <PawnmorphBok.stages.0.label>복</PawnmorphBok.stages.0.label>
+  <PMBok_DeepTalkMemory.stages.0.label>깊은 복</PMBok_DeepTalkMemory.stages.0.label>
   <PMBok_DeepTalkAvianMemory.stages.0.label>birds of a feather</PMBok_DeepTalkAvianMemory.stages.0.label>
   <PMBok_SlightMemory.stages.0.label>bukaw</PMBok_SlightMemory.stages.0.label>
   <PMBok_InsultMemory.stages.0.label>crowed at</PMBok_InsultMemory.stages.0.label>
-  <PMBok_InsultedMood.stages.0.label>crowed at</PMBok_InsultedMood.stages.0.label>
+  <PMBok_InsultedMood.stages.0.label>울부짖음</PMBok_InsultedMood.stages.0.label>
   <PMBok_InsultedMood.stages.0.description>I've been crowed at! What an awful chook!</PMBok_InsultedMood.stages.0.description>
   <PMBok_KindWordsMemory.stages.0.label>kind bok</PMBok_KindWordsMemory.stages.0.label>
-  <PMBok_KindWordsMood.stages.0.label>kind bok</PMBok_KindWordsMood.stages.0.label>
+  <PMBok_KindWordsMood.stages.0.label>친절한 복</PMBok_KindWordsMood.stages.0.label>
   <PMBok_KindWordsMood.stages.0.description>I've been complimented! What a nice chook!</PMBok_KindWordsMood.stages.0.description>
-  <PMBoom_ChitchatMemory.stages.0.label>boom</PMBoom_ChitchatMemory.stages.0.label>
-  <PMBoom_DeepTalkMemory.stages.0.label>deep boom</PMBoom_DeepTalkMemory.stages.0.label>
-  <PMBoom_DeepTalkBoomMemory.stages.0.label>shared experience</PMBoom_DeepTalkBoomMemory.stages.0.label>
-  <PMBoom_Slight.stages.0.label>booma-slight</PMBoom_Slight.stages.0.label>
-  <PMBoom_InsultMemory.stages.0.label>booma-insult</PMBoom_InsultMemory.stages.0.label>
-  <PMBoom_InsultedMood.stages.0.label>booma-insult</PMBoom_InsultedMood.stages.0.label>
+  <PMBoom_ChitchatMemory.stages.0.label>퍼엉</PMBoom_ChitchatMemory.stages.0.label>
+  <PMBoom_DeepTalkMemory.stages.0.label>깊은 우렁</PMBoom_DeepTalkMemory.stages.0.label>
+  <PMBoom_DeepTalkBoomMemory.stages.0.label>나눈 경험</PMBoom_DeepTalkBoomMemory.stages.0.label>
+  <PMBoom_Slight.stages.0.label>우렁-살짝</PMBoom_Slight.stages.0.label>
+  <PMBoom_InsultMemory.stages.0.label>우렁-모욕</PMBoom_InsultMemory.stages.0.label>
+  <PMBoom_InsultedMood.stages.0.label>우렁-모욕</PMBoom_InsultedMood.stages.0.label>
   <PMBoom_InsultedMood.stages.0.description>I've been threatened with being blown up! What an awful boomalope!</PMBoom_InsultedMood.stages.0.description>
-  <PMBoom_KindWordsMemory.stages.0.label>booma-kindness</PMBoom_KindWordsMemory.stages.0.label>
-  <PMBoom_KindWordsMood.stages.0.label>booma-kindness</PMBoom_KindWordsMood.stages.0.label>
+  <PMBoom_KindWordsMemory.stages.0.label>우렁-친절</PMBoom_KindWordsMemory.stages.0.label>
+  <PMBoom_KindWordsMood.stages.0.label>우렁-친절</PMBoom_KindWordsMood.stages.0.label>
   <PMBoom_KindWordsMood.stages.0.description>I've been complimented! What a nice boomalope!</PMBoom_KindWordsMood.stages.0.description>
-  <PMChao_ChitchatMemory.stages.0.label>chaotalk</PMChao_ChitchatMemory.stages.0.label>
-  <PMChao_DeepTalkMemory.stages.0.label>deep chaotalk</PMChao_DeepTalkMemory.stages.0.label>
-  <PMChao_DeepTalkChaoMemory.stages.0.label>shared experience</PMChao_DeepTalkChaoMemory.stages.0.label>
-  <PMChao_Slight.stages.0.label>chaoslight</PMChao_Slight.stages.0.label>
-  <PMChao_Insult.stages.0.label>chaoinsult</PMChao_Insult.stages.0.label>
+  <PMChao_ChitchatMemory.stages.0.label>혼돈의 대화</PMChao_ChitchatMemory.stages.0.label>
+  <PMChao_DeepTalkMemory.stages.0.label>깊은 혼돈의 대화</PMChao_DeepTalkMemory.stages.0.label>
+  <PMChao_DeepTalkChaoMemory.stages.0.label>나눈 경험</PMChao_DeepTalkChaoMemory.stages.0.label>
+  <PMChao_Slight.stages.0.label>혼돈의 빛</PMChao_Slight.stages.0.label>
+  <PMChao_Insult.stages.0.label>혼돈의 모욕</PMChao_Insult.stages.0.label>
   <PMChao_InsultedMood.stages.0.label>chaoinsulted</PMChao_InsultedMood.stages.0.label>
   <PMChao_InsultedMood.stages.0.description>I can't even describe the horrible sound that was made at me! What an awful chaomorph!</PMChao_InsultedMood.stages.0.description>
-  <PMChao_KindWordsMemory.stages.0.label>kind chaonoises</PMChao_KindWordsMemory.stages.0.label>
-  <PMChao_KindWordsMood.stages.0.label>kind chaonoises</PMChao_KindWordsMood.stages.0.label>
+  <PMChao_KindWordsMemory.stages.0.label>친절한 혼돈의 소리</PMChao_KindWordsMemory.stages.0.label>
+  <PMChao_KindWordsMood.stages.0.label>친절한 차오네스</PMChao_KindWordsMood.stages.0.label>
   <PMChao_KindWordsMood.stages.0.description>I've been given a kind, uh, animal noise! What a nice chaomorph!</PMChao_KindWordsMood.stages.0.description>
-  <PawnmorphChitter.stages.0.label>chitter</PawnmorphChitter.stages.0.label>
-  <PMChitter_DeepTalkMemory.stages.0.label>deep chitter</PMChitter_DeepTalkMemory.stages.0.label>
+  <PawnmorphChitter.stages.0.label>지잘</PawnmorphChitter.stages.0.label>
+  <PMChitter_DeepTalkMemory.stages.0.label>깊은 지잘</PMChitter_DeepTalkMemory.stages.0.label>
   <PMChitter_DeepTalkRaccoonMemory.stages.0.label>trash buddies</PMChitter_DeepTalkRaccoonMemory.stages.0.label>
   <PMChitter_Slight.stages.0.label>chittered</PMChitter_Slight.stages.0.label>
   <PMChitter_Insult.stages.0.label>chittered at</PMChitter_Insult.stages.0.label>
-  <PMChitter_InsultedMood.stages.0.label>chittered at</PMChitter_InsultedMood.stages.0.label>
+  <PMChitter_InsultedMood.stages.0.label>지잘거렸다</PMChitter_InsultedMood.stages.0.label>
   <PMChitter_InsultedMood.stages.0.description>I've been rudely chittered at! What an awful raccoon!</PMChitter_InsultedMood.stages.0.description>
   <PMChitter_KindWordsMemory.stages.0.label>kind chitter</PMChitter_KindWordsMemory.stages.0.label>
-  <PMChitter_KindWordsMood.stages.0.label>kind chitter</PMChitter_KindWordsMood.stages.0.label>
+  <PMChitter_KindWordsMood.stages.0.label>상냥한 지저귐</PMChitter_KindWordsMood.stages.0.label>
   <PMChitter_KindWordsMood.stages.0.description>I've been complimented! What a nice raccoon!</PMChitter_KindWordsMood.stages.0.description>
   <PawnmorphCommonBleat.stages.0.label>메에에</PawnmorphCommonBleat.stages.0.label>
-  <PMCommonBleat_DeepTalkMemory.stages.0.label>deep bleat</PMCommonBleat_DeepTalkMemory.stages.0.label>
+  <PMCommonBleat_DeepTalkMemory.stages.0.label>낮은 메에에</PMCommonBleat_DeepTalkMemory.stages.0.label>
   <PMCommonBleat_DeepTalkUngulateMemory.stages.0.label>herd kin</PMCommonBleat_DeepTalkUngulateMemory.stages.0.label>
   <PMCommonBleat_Slight.stages.0.label>bleated</PMCommonBleat_Slight.stages.0.label>
-  <PMCommonBleat_Insult.stages.0.label>bleated at</PMCommonBleat_Insult.stages.0.label>
-  <PMCommonBleat_InsultedMood.stages.0.label>bleated at</PMCommonBleat_InsultedMood.stages.0.label>
+  <PMCommonBleat_Insult.stages.0.label>메에에 했다</PMCommonBleat_Insult.stages.0.label>
+  <PMCommonBleat_InsultedMood.stages.0.label>메에에 하며 경멸함</PMCommonBleat_InsultedMood.stages.0.label>
   <PMCommonBleat_InsultedMood.stages.0.description>I've been rudely bleated at! What an awful animal!</PMCommonBleat_InsultedMood.stages.0.description>
   <PMCommonBleat_KindWordsMemory.stages.0.label>kind bleat</PMCommonBleat_KindWordsMemory.stages.0.label>
-  <PMCommonBleat_KindWordsMood.stages.0.label>kind bleat</PMCommonBleat_KindWordsMood.stages.0.label>
+  <PMCommonBleat_KindWordsMood.stages.0.label>상냥한 메에에</PMCommonBleat_KindWordsMood.stages.0.label>
   <PMCommonBleat_KindWordsMood.stages.0.description>I've been complimented! What a nice animal!</PMCommonBleat_KindWordsMood.stages.0.description>
   <PawnmorphGoatBleat.stages.0.label>메에에</PawnmorphGoatBleat.stages.0.label>
-  <PMGoatBleat_DeepTalkMemory.stages.0.label>deep bleat</PMGoatBleat_DeepTalkMemory.stages.0.label>
-  <PMGoatBleat_DeepTalkUngulateMemory.stages.0.label>herd kin</PMGoatBleat_DeepTalkUngulateMemory.stages.0.label>
-  <PMGoatBleat_Slight.stages.0.label>bleated</PMGoatBleat_Slight.stages.0.label>
-  <PMGoatBleat_Insult.stages.0.label>bleated at</PMGoatBleat_Insult.stages.0.label>
-  <PMGoatBleat_InsultedMood.stages.0.label>bleated at</PMGoatBleat_InsultedMood.stages.0.label>
-  <PMGoatBleat_InsultedMood.stages.0.description>I've been rudely bleated at! What an awful animal!</PMGoatBleat_InsultedMood.stages.0.description>
-  <PMGoatBleat_KindWordsMemory.stages.0.label>kind bleat</PMGoatBleat_KindWordsMemory.stages.0.label>
-  <PMGoatBleat_KindWordsMood.stages.0.label>kind bleat</PMGoatBleat_KindWordsMood.stages.0.label>
-  <PMGoatBleat_KindWordsMood.stages.0.description>I've been complimented! What a nice animal!</PMGoatBleat_KindWordsMood.stages.0.description>
-  <PMSnakeHiss_ChitchatMemory.stages.0.label>hiss</PMSnakeHiss_ChitchatMemory.stages.0.label>
-  <PMSnakeHiss_DeepTalkMemory.stages.0.label>deep hiss</PMSnakeHiss_DeepTalkMemory.stages.0.label>
-  <PMSnakeHiss_DeepTalkSnakeMemory.stages.0.label>shared experience</PMSnakeHiss_DeepTalkSnakeMemory.stages.0.label>
-  <PMSnakeHiss_Slight.stages.0.label>hiss</PMSnakeHiss_Slight.stages.0.label>
+  <PMGoatBleat_DeepTalkMemory.stages.0.label>낮은 메에에</PMGoatBleat_DeepTalkMemory.stages.0.label>
+  <PMGoatBleat_DeepTalkUngulateMemory.stages.0.label>무리의 친척</PMGoatBleat_DeepTalkUngulateMemory.stages.0.label>
+  <PMGoatBleat_Slight.stages.0.label>메에에</PMGoatBleat_Slight.stages.0.label>
+  <PMGoatBleat_Insult.stages.0.label>메에에 하며 경멸함</PMGoatBleat_Insult.stages.0.label>
+  <PMGoatBleat_InsultedMood.stages.0.label>메에에 하며 경멸받음</PMGoatBleat_InsultedMood.stages.0.label>
+  <PMGoatBleat_InsultedMood.stages.0.description>나를 무례하게 메에에 거렸어! 정말 끔찍한 동물이야!</PMGoatBleat_InsultedMood.stages.0.description>
+  <PMGoatBleat_KindWordsMemory.stages.0.label>상냥한 메에에</PMGoatBleat_KindWordsMemory.stages.0.label>
+  <PMGoatBleat_KindWordsMood.stages.0.label>상냥한 메에에</PMGoatBleat_KindWordsMood.stages.0.label>
+  <PMGoatBleat_KindWordsMood.stages.0.description>칭찬받았어! 참 좋은 동물이네!</PMGoatBleat_KindWordsMood.stages.0.description>
+  <PMSnakeHiss_ChitchatMemory.stages.0.label>쉬잇</PMSnakeHiss_ChitchatMemory.stages.0.label>
+  <PMSnakeHiss_DeepTalkMemory.stages.0.label>낮은 쉬잇</PMSnakeHiss_DeepTalkMemory.stages.0.label>
+  <PMSnakeHiss_DeepTalkSnakeMemory.stages.0.label>공유된 경험</PMSnakeHiss_DeepTalkSnakeMemory.stages.0.label>
+  <PMSnakeHiss_Slight.stages.0.label>쉬잇</PMSnakeHiss_Slight.stages.0.label>
   <PMSnakeHiss_Insult.stages.0.label>hissed</PMSnakeHiss_Insult.stages.0.label>
   <PMSnakeHiss_InsultedMood.stages.0.label>hissed at</PMSnakeHiss_InsultedMood.stages.0.label>
   <PMSnakeHiss_InsultedMood.stages.0.description>I've been hissed at! What an awful snake!</PMSnakeHiss_InsultedMood.stages.0.description>
-  <PMSnakeHiss_KindWordsMemory.stages.0.label>kind hiss</PMSnakeHiss_KindWordsMemory.stages.0.label>
-  <PMSnakeHiss_KindWordsMood.stages.0.label>kind hiss</PMSnakeHiss_KindWordsMood.stages.0.label>
+  <PMSnakeHiss_KindWordsMemory.stages.0.label>상냥한 쉬잇</PMSnakeHiss_KindWordsMemory.stages.0.label>
+  <PMSnakeHiss_KindWordsMood.stages.0.label>상냥한 쉬잇</PMSnakeHiss_KindWordsMood.stages.0.label>
   <PMSnakeHiss_KindWordsMood.stages.0.description>I've been given a kind hiss... I think. What a nice snake!</PMSnakeHiss_KindWordsMood.stages.0.description>
   <PawnmorphMeow.stages.0.label>야옹</PawnmorphMeow.stages.0.label>
-  <PMMeow_DeepTalkMemory.stages.0.label>deep meow</PMMeow_DeepTalkMemory.stages.0.label>
-  <PMMeow_DeepTalkFelineMemory.stages.0.label>shared experience</PMMeow_DeepTalkFelineMemory.stages.0.label>
-  <PMMeow_Slight.stages.0.label>yowl</PMMeow_Slight.stages.0.label>
-  <PMMeow_Insult.stages.0.label>hiss</PMMeow_Insult.stages.0.label>
-  <PMMeow_InsultedMood.stages.0.label>hissed at</PMMeow_InsultedMood.stages.0.label>
+  <PMMeow_DeepTalkMemory.stages.0.label>낮은 야옹</PMMeow_DeepTalkMemory.stages.0.label>
+  <PMMeow_DeepTalkFelineMemory.stages.0.label>공유된 경험</PMMeow_DeepTalkFelineMemory.stages.0.label>
+  <PMMeow_Slight.stages.0.label>야웅</PMMeow_Slight.stages.0.label>
+  <PMMeow_Insult.stages.0.label>쉬잇</PMMeow_Insult.stages.0.label>
+  <PMMeow_InsultedMood.stages.0.label>후두려 경고하다</PMMeow_InsultedMood.stages.0.label>
   <PMMeow_InsultedMood.stages.0.description>I've been hissed at! What an awful feline!</PMMeow_InsultedMood.stages.0.description>
-  <PMMeow_KindWordsMemory.stages.0.label>kind purr</PMMeow_KindWordsMemory.stages.0.label>
-  <PMMeow_KindWordsMood.stages.0.label>kind purr</PMMeow_KindWordsMood.stages.0.label>
+  <PMMeow_KindWordsMemory.stages.0.label>상냥한 골골</PMMeow_KindWordsMemory.stages.0.label>
+  <PMMeow_KindWordsMood.stages.0.label>상냥한 골골</PMMeow_KindWordsMood.stages.0.label>
   <PMMeow_KindWordsMood.stages.0.description>I've been given a kind purr! What a nice feline!</PMMeow_KindWordsMood.stages.0.description>
   <PawnmorphMoo.stages.0.label>음머</PawnmorphMoo.stages.0.label>
-  <PMMoo_DeepTalkMemory.stages.0.label>deep moo</PMMoo_DeepTalkMemory.stages.0.label>
-  <PMMoo_DeepTalkCowMemory.stages.0.label>shared experience</PMMoo_DeepTalkCowMemory.stages.0.label>
+  <PMMoo_DeepTalkMemory.stages.0.label>깊은 음</PMMoo_DeepTalkMemory.stages.0.label>
+  <PMMoo_DeepTalkCowMemory.stages.0.label>공유된 경험</PMMoo_DeepTalkCowMemory.stages.0.label>
   <PMMoo_Slight.stages.0.label>whinny</PMMoo_Slight.stages.0.label>
   <PMMoo_InsultMemory.stages.0.label>mooed at</PMMoo_InsultMemory.stages.0.label>
-  <PMMoo_InsultedMood.stages.0.label>mooed at</PMMoo_InsultedMood.stages.0.label>
+  <PMMoo_InsultedMood.stages.0.label>음메하다</PMMoo_InsultedMood.stages.0.label>
   <PMMoo_InsultedMood.stages.0.description>I've been insultingly mooed at! What an awful cow!</PMMoo_InsultedMood.stages.0.description>
   <PMMoo_KindWordsMemory.stages.0.label>kind moo</PMMoo_KindWordsMemory.stages.0.label>
-  <PMMoo_KindWordsMood.stages.0.label>kind moo</PMMoo_KindWordsMood.stages.0.label>
+  <PMMoo_KindWordsMood.stages.0.label>친절한 울음소리</PMMoo_KindWordsMood.stages.0.label>
   <PMMoo_KindWordsMood.stages.0.description>I've been complimented! What a nice cow!</PMMoo_KindWordsMood.stages.0.description>
-  <PMOink_ChitchatMemory.stages.0.label>oink</PMOink_ChitchatMemory.stages.0.label>
-  <PMOink_DeepTalkMemory.stages.0.label>deep oink</PMOink_DeepTalkMemory.stages.0.label>
-  <PMOink_DeepTalkPigMemory.stages.0.label>shared experience</PMOink_DeepTalkPigMemory.stages.0.label>
-  <PMOink_Slight.stages.0.label>snort</PMOink_Slight.stages.0.label>
-  <PMOink_InsultMemory.stages.0.label>squeal</PMOink_InsultMemory.stages.0.label>
+  <PMOink_ChitchatMemory.stages.0.label>꽤액</PMOink_ChitchatMemory.stages.0.label>
+  <PMOink_DeepTalkMemory.stages.0.label>깊은 꿀꿀</PMOink_DeepTalkMemory.stages.0.label>
+  <PMOink_DeepTalkPigMemory.stages.0.label>공유된 경험</PMOink_DeepTalkPigMemory.stages.0.label>
+  <PMOink_Slight.stages.0.label>크흡크흡</PMOink_Slight.stages.0.label>
+  <PMOink_InsultMemory.stages.0.label>킁킁</PMOink_InsultMemory.stages.0.label>
   <PMOink_InsultedMood.stages.0.label>squealed at</PMOink_InsultedMood.stages.0.label>
   <PMOink_InsultedMood.stages.0.description>I've been squealed at! What an awful pig!</PMOink_InsultedMood.stages.0.description>
   <PMOink_KindWordsMemory.stages.0.label>kind oink</PMOink_KindWordsMemory.stages.0.label>
-  <PMOink_KindWordsMood.stages.0.label>kind oink</PMOink_KindWordsMood.stages.0.label>
+  <PMOink_KindWordsMood.stages.0.label>친절한 꿀꿀</PMOink_KindWordsMood.stages.0.label>
   <PMOink_KindWordsMood.stages.0.description>I've been complimented! What a nice pig!</PMOink_KindWordsMood.stages.0.description>
-  <PMReptileHiss_ChitchatMemory.stages.0.label>hiss</PMReptileHiss_ChitchatMemory.stages.0.label>
-  <PMReptileHiss_DeepTalkMemory.stages.0.label>deep hiss</PMReptileHiss_DeepTalkMemory.stages.0.label>
-  <PMReptileHiss_DeepTalkReptileMemory.stages.0.label>shared experience</PMReptileHiss_DeepTalkReptileMemory.stages.0.label>
-  <PMReptileHiss_Slight.stages.0.label>hiss</PMReptileHiss_Slight.stages.0.label>
-  <PMReptileHiss_Insult.stages.0.label>hissed</PMReptileHiss_Insult.stages.0.label>
-  <PMReptileHiss_InsultedMood.stages.0.label>hissed at</PMReptileHiss_InsultedMood.stages.0.label>
+  <PMReptileHiss_ChitchatMemory.stages.0.label>히스</PMReptileHiss_ChitchatMemory.stages.0.label>
+  <PMReptileHiss_DeepTalkMemory.stages.0.label>깊은 히스</PMReptileHiss_DeepTalkMemory.stages.0.label>
+  <PMReptileHiss_DeepTalkReptileMemory.stages.0.label>공유된 경험</PMReptileHiss_DeepTalkReptileMemory.stages.0.label>
+  <PMReptileHiss_Slight.stages.0.label>히스</PMReptileHiss_Slight.stages.0.label>
+  <PMReptileHiss_Insult.stages.0.label>히스했다</PMReptileHiss_Insult.stages.0.label>
+  <PMReptileHiss_InsultedMood.stages.0.label>히스했다</PMReptileHiss_InsultedMood.stages.0.label>
   <PMReptileHiss_InsultedMood.stages.0.description>I've been hissed at! What an awful lizard!</PMReptileHiss_InsultedMood.stages.0.description>
   <PMReptileHiss_KindWordsMemory.stages.0.label>kind smile</PMReptileHiss_KindWordsMemory.stages.0.label>
-  <PMReptileHiss_KindWordsMood.stages.0.label>kind smile</PMReptileHiss_KindWordsMood.stages.0.label>
+  <PMReptileHiss_KindWordsMood.stages.0.label>친절한 미소</PMReptileHiss_KindWordsMood.stages.0.label>
   <PMReptileHiss_KindWordsMood.stages.0.description>I've been given a kind smile! What a nice reptile!</PMReptileHiss_KindWordsMood.stages.0.description>
-  <PMSquawk_ChitchatMemory.stages.0.label>squawk</PMSquawk_ChitchatMemory.stages.0.label>
-  <PMSquawk_DeepTalkMemory.stages.0.label>deep bok</PMSquawk_DeepTalkMemory.stages.0.label>
-  <PMSquawk_DeepTalkAvianMemory.stages.0.label>birds of a feather</PMSquawk_DeepTalkAvianMemory.stages.0.label>
-  <PMSquawk_SlightMemory.stages.0.label>squawk</PMSquawk_SlightMemory.stages.0.label>
+  <PMSquawk_ChitchatMemory.stages.0.label>꽥</PMSquawk_ChitchatMemory.stages.0.label>
+  <PMSquawk_DeepTalkMemory.stages.0.label>깊은 꼬꼬댁</PMSquawk_DeepTalkMemory.stages.0.label>
+  <PMSquawk_DeepTalkAvianMemory.stages.0.label>똑같은 깃털의 새</PMSquawk_DeepTalkAvianMemory.stages.0.label>
+  <PMSquawk_SlightMemory.stages.0.label>꽥</PMSquawk_SlightMemory.stages.0.label>
   <PMSquawk_InsultMemory.stages.0.label>squawked at</PMSquawk_InsultMemory.stages.0.label>
-  <PMSquawk_InsultedMood.stages.0.label>squawked at</PMSquawk_InsultedMood.stages.0.label>
+  <PMSquawk_InsultedMood.stages.0.label>꽥대고 있다</PMSquawk_InsultedMood.stages.0.label>
   <PMSquawk_InsultedMood.stages.0.description>I've been squawked at! What an awful bird!</PMSquawk_InsultedMood.stages.0.description>
   <PMSquawk_KindWordsMemory.stages.0.label>kind chirp</PMSquawk_KindWordsMemory.stages.0.label>
-  <PMSquawk_KindWordsMood.stages.0.label>kind chirp</PMSquawk_KindWordsMood.stages.0.label>
+  <PMSquawk_KindWordsMood.stages.0.label>친절한 지저귐</PMSquawk_KindWordsMood.stages.0.label>
   <PMSquawk_KindWordsMood.stages.0.description>I've been complimented! What a nice bird!</PMSquawk_KindWordsMood.stages.0.description>
-  <PMSqueak_ChitchatMemory.stages.0.label>squeak</PMSqueak_ChitchatMemory.stages.0.label>
-  <PMSqueak_DeepTalkMemory.stages.0.label>deep squeak</PMSqueak_DeepTalkMemory.stages.0.label>
-  <PMSqueak_DeepTalkRodentMemory.stages.0.label>shared experience</PMSqueak_DeepTalkRodentMemory.stages.0.label>
-  <PMSqueak_Slight.stages.0.label>chittered</PMSqueak_Slight.stages.0.label>
+  <PMSqueak_ChitchatMemory.stages.0.label>찍찍</PMSqueak_ChitchatMemory.stages.0.label>
+  <PMSqueak_DeepTalkMemory.stages.0.label>깊은 찍찍</PMSqueak_DeepTalkMemory.stages.0.label>
+  <PMSqueak_DeepTalkRodentMemory.stages.0.label>공유된 경험</PMSqueak_DeepTalkRodentMemory.stages.0.label>
+  <PMSqueak_Slight.stages.0.label>짹짹거렸다</PMSqueak_Slight.stages.0.label>
   <PMSqueak_Insult.stages.0.label>squeaked at</PMSqueak_Insult.stages.0.label>
-  <PMSqueak_InsultedMood.stages.0.label>squeaked at</PMSqueak_InsultedMood.stages.0.label>
+  <PMSqueak_InsultedMood.stages.0.label>찍찍대고 있다</PMSqueak_InsultedMood.stages.0.label>
   <PMSqueak_InsultedMood.stages.0.description>I've been rudely squeaked at! What an awful rodent!</PMSqueak_InsultedMood.stages.0.description>
   <PMSqueak_KindWordsMemory.stages.0.label>kind squeak</PMSqueak_KindWordsMemory.stages.0.label>
-  <PMSqueak_KindWordsMood.stages.0.label>kind squeak</PMSqueak_KindWordsMood.stages.0.label>
+  <PMSqueak_KindWordsMood.stages.0.label>친절한 찍찍</PMSqueak_KindWordsMood.stages.0.label>
   <PMSqueak_KindWordsMood.stages.0.description>I've been complimented! What a nice rodent!</PMSqueak_KindWordsMood.stages.0.description>
-  <PMTortoiseHiss_ChitchatMemory.stages.0.label>hiss</PMTortoiseHiss_ChitchatMemory.stages.0.label>
-  <PMTortoiseHiss_DeepTalkMemory.stages.0.label>deep hiss</PMTortoiseHiss_DeepTalkMemory.stages.0.label>
-  <PMTortoiseHiss_DeepTalkTortoiseMemory.stages.0.label>shared experience</PMTortoiseHiss_DeepTalkTortoiseMemory.stages.0.label>
-  <PMTortoiseHiss_Slight.stages.0.label>hiss</PMTortoiseHiss_Slight.stages.0.label>
-  <PMTortoiseHiss_Insult.stages.0.label>hissed</PMTortoiseHiss_Insult.stages.0.label>
-  <PMTortoiseHiss_InsultedMood.stages.0.label>hissed at</PMTortoiseHiss_InsultedMood.stages.0.label>
+  <PMTortoiseHiss_ChitchatMemory.stages.0.label>히스</PMTortoiseHiss_ChitchatMemory.stages.0.label>
+  <PMTortoiseHiss_DeepTalkMemory.stages.0.label>깊은 히스</PMTortoiseHiss_DeepTalkMemory.stages.0.label>
+  <PMTortoiseHiss_DeepTalkTortoiseMemory.stages.0.label>공유된 경험</PMTortoiseHiss_DeepTalkTortoiseMemory.stages.0.label>
+  <PMTortoiseHiss_Slight.stages.0.label>히스</PMTortoiseHiss_Slight.stages.0.label>
+  <PMTortoiseHiss_Insult.stages.0.label>히스하다</PMTortoiseHiss_Insult.stages.0.label>
+  <PMTortoiseHiss_InsultedMood.stages.0.label>히스하며</PMTortoiseHiss_InsultedMood.stages.0.label>
   <PMTortoiseHiss_InsultedMood.stages.0.description>I've been hissed at! What an awful tortoise!</PMTortoiseHiss_InsultedMood.stages.0.description>
-  <PMTortoiseHiss_KindWordsMemory.stages.0.label>kind smile</PMTortoiseHiss_KindWordsMemory.stages.0.label>
-  <PMTortoiseHiss_KindWordsMood.stages.0.label>kind smile</PMTortoiseHiss_KindWordsMood.stages.0.label>
+  <PMTortoiseHiss_KindWordsMemory.stages.0.label>친절한 미소</PMTortoiseHiss_KindWordsMemory.stages.0.label>
+  <PMTortoiseHiss_KindWordsMood.stages.0.label>친절한 미소</PMTortoiseHiss_KindWordsMood.stages.0.label>
   <PMTortoiseHiss_KindWordsMood.stages.0.description>I've been given a kind smile! What a nice tortoise!</PMTortoiseHiss_KindWordsMood.stages.0.description>
   <PawnmorphYip.stages.0.label>깽깽- 댐</PawnmorphYip.stages.0.label>
-  <PMYip_DeepTalkMemory.stages.0.label>deep yip</PMYip_DeepTalkMemory.stages.0.label>
-  <PMYip_DeepTalkVulpineMemory.stages.0.label>shared experience</PMYip_DeepTalkVulpineMemory.stages.0.label>
+  <PMYip_DeepTalkMemory.stages.0.label>깊은 짖음</PMYip_DeepTalkMemory.stages.0.label>
+  <PMYip_DeepTalkVulpineMemory.stages.0.label>공유된 경험</PMYip_DeepTalkVulpineMemory.stages.0.label>
   <PMYip_Slight.stages.0.label>gekker</PMYip_Slight.stages.0.label>
-  <PMYip_Insult.stages.0.label>screech</PMYip_Insult.stages.0.label>
+  <PMYip_Insult.stages.0.label>날카로운 비명</PMYip_Insult.stages.0.label>
   <PMYip_InsultedMood.stages.0.label>screeched at</PMYip_InsultedMood.stages.0.label>
   <PMYip_InsultedMood.stages.0.description>I've been screeched at! What an awful fox!</PMYip_InsultedMood.stages.0.description>
-  <PMYip_KindWordsMemory.stages.0.label>kind licks</PMYip_KindWordsMemory.stages.0.label>
-  <PMYip_KindWordsMood.stages.0.label>kind licks</PMYip_KindWordsMood.stages.0.label>
+  <PMYip_KindWordsMemory.stages.0.label>친절한 핥기</PMYip_KindWordsMemory.stages.0.label>
+  <PMYip_KindWordsMood.stages.0.label>친절한 핥기</PMYip_KindWordsMood.stages.0.label>
   <PMYip_KindWordsMood.stages.0.description>I've been given a kind lick! What a nice fox!</PMYip_KindWordsMood.stages.0.description>
   <PawnmorphHeadpats.stages.0.label>머리를 쓰다듬다</PawnmorphHeadpats.stages.0.label>
   <PawnmorphHeadpatsRecipient.label>머리를 쓰다듬다</PawnmorphHeadpatsRecipient.label>
@@ -271,9 +271,9 @@
   <GooseTransformationMemory.stages.3.label>변이됨</GooseTransformationMemory.stages.3.label>
   <GooseTransformationMemory.stages.3.description>Honk! Honk honk!</GooseTransformationMemory.stages.3.description>
   <GooseRevertedMemory.stages.0.label>되돌아옴</GooseRevertedMemory.stages.0.label>
-  <GooseRevertedMemory.stages.0.description>I'm back to my normal, human self again! No more feathers...</GooseRevertedMemory.stages.0.description>
+  <GooseRevertedMemory.stages.0.description>다시 내 정상적인, 인간의 모습으로 돌아왔어! 이제 깃털은 끝...</GooseRevertedMemory.stages.0.description>
   <GooseRevertedMemory.stages.1.label>되돌아옴</GooseRevertedMemory.stages.1.label>
-  <GooseRevertedMemory.stages.1.description>But the feathers! My beak! I would have preferred to stay that way.</GooseRevertedMemory.stages.1.description>
+  <GooseRevertedMemory.stages.1.description>하지만 깃털! 내 부리! 그렇게 있고 싶었어.</GooseRevertedMemory.stages.1.description>
   <GooseRevertedMemory.stages.2.label>되돌아옴</GooseRevertedMemory.stages.2.label>
   <GooseRevertedMemory.stages.2.description>Hands at last. I'd prefer not to be a demon-spawn bird.</GooseRevertedMemory.stages.2.description>
   <GooseRevertedMemory.stages.3.label>되돌아옴</GooseRevertedMemory.stages.3.label>
@@ -303,7 +303,7 @@
   <EmuTransformationMemory.stages.3.label>변이됨</EmuTransformationMemory.stages.3.label>
   <EmuTransformationMemory.stages.3.description>This is pretty cool. I wonder how fast I can run now.</EmuTransformationMemory.stages.3.description>
   <EmuRevertedMemory.stages.0.label>되돌아옴</EmuRevertedMemory.stages.0.label>
-  <EmuRevertedMemory.stages.0.description>I'm back to normal! I very much prefer not being a living dinosaur.</EmuRevertedMemory.stages.0.description>
+  <EmuRevertedMemory.stages.0.description>정상으로 돌아왔어! 살아있는 공룡이 아니어서 정말 다행이야.</EmuRevertedMemory.stages.0.description>
   <EmuRevertedMemory.stages.1.label>되돌아옴</EmuRevertedMemory.stages.1.label>
   <EmuRevertedMemory.stages.1.description>Awww... I'll miss those fast legs.</EmuRevertedMemory.stages.1.description>
   <EmuRevertedMemory.stages.2.label>되돌아옴</EmuRevertedMemory.stages.2.label>
@@ -311,19 +311,19 @@
   <EmuRevertedMemory.stages.3.label>되돌아옴</EmuRevertedMemory.stages.3.label>
   <EmuRevertedMemory.stages.3.description>또 인간이야? 내가 바란건 반대라구...</EmuRevertedMemory.stages.3.description>
   <OstrichTransformationMemory.stages.0.label>변이됨</OstrichTransformationMemory.stages.0.label>
-  <OstrichTransformationMemory.stages.0.description>I don't think I can get used to walking around like this.</OstrichTransformationMemory.stages.0.description>
+  <OstrichTransformationMemory.stages.0.description>이렇게 걸어 다니는 건 익숙해질 수 없을 것 같아.</OstrichTransformationMemory.stages.0.description>
   <OstrichTransformationMemory.stages.1.label>변이됨</OstrichTransformationMemory.stages.1.label>
   <OstrichTransformationMemory.stages.1.description>Is anyone up for a race?</OstrichTransformationMemory.stages.1.description>
   <OstrichTransformationMemory.stages.2.label>변이됨</OstrichTransformationMemory.stages.2.label>
-  <OstrichTransformationMemory.stages.2.description>These feathers are coarse and disgusting. I don't want to be an overgrown chicken!</OstrichTransformationMemory.stages.2.description>
+  <OstrichTransformationMemory.stages.2.description>이 깃털은 거칠고 역겨워. 커다란 닭이 되고 싶지 않아!</OstrichTransformationMemory.stages.2.description>
   <OstrichTransformationMemory.stages.3.label>변이됨</OstrichTransformationMemory.stages.3.label>
-  <OstrichTransformationMemory.stages.3.description>This is pretty cool. I wonder how fast I can run now.</OstrichTransformationMemory.stages.3.description>
+  <OstrichTransformationMemory.stages.3.description>이거 꽤 멋져. 내가 얼마나 빨리 달릴 수 있는지 궁금하네.</OstrichTransformationMemory.stages.3.description>
   <OstrichRevertedMemory.stages.0.label>되돌아옴</OstrichRevertedMemory.stages.0.label>
-  <OstrichRevertedMemory.stages.0.description>I'm back to normal! I very much prefer not being a living dinosaur.</OstrichRevertedMemory.stages.0.description>
+  <OstrichRevertedMemory.stages.0.description>정상으로 돌아왔어! 살아있는 공룡이 아니어서 정말 다행이야.</OstrichRevertedMemory.stages.0.description>
   <OstrichRevertedMemory.stages.1.label>되돌아옴</OstrichRevertedMemory.stages.1.label>
-  <OstrichRevertedMemory.stages.1.description>Awww... I'll miss those fast legs.</OstrichRevertedMemory.stages.1.description>
+  <OstrichRevertedMemory.stages.1.description>아아... 그 빠른 다리가 그리울 거야.</OstrichRevertedMemory.stages.1.description>
   <OstrichRevertedMemory.stages.2.label>되돌아옴</OstrichRevertedMemory.stages.2.label>
-  <OstrichRevertedMemory.stages.2.description>No more rough feathers! No more beak!</OstrichRevertedMemory.stages.2.description>
+  <OstrichRevertedMemory.stages.2.description>거친 깃털도 더 이상, 부리도 더 이상!</OstrichRevertedMemory.stages.2.description>
   <OstrichRevertedMemory.stages.3.label>되돌아옴</OstrichRevertedMemory.stages.3.label>
   <OstrichRevertedMemory.stages.3.description>또 인간이야? 내가 바란건 반대라구...</OstrichRevertedMemory.stages.3.description>
   <MegaslothTransformationMemory.stages.0.label>변이 끝남</MegaslothTransformationMemory.stages.0.label>
@@ -380,7 +380,7 @@
   <EtherElephantTrunk.stages.0.description>이게... 무슨 일인코?</EtherElephantTrunk.stages.0.description>
   <EtherElephantTrunk.stages.1.label>Elephant Trunk</EtherElephantTrunk.stages.1.label>
   <EtherElephantTrunk.stages.1.description>뿌와앙 한번 해봐야겠다.</EtherElephantTrunk.stages.1.description>
-  <EtherElephantTrunk.stages.2.label>Elephant Trunk</EtherElephantTrunk.stages.2.label>
+  <EtherElephantTrunk.stages.2.label>코끼리 코</EtherElephantTrunk.stages.2.label>
   <EtherElephantTrunk.stages.2.description>내 코... 너무 끔찍해!</EtherElephantTrunk.stages.2.description>
   <EtherElephantEar.stages.0.label>커다란 귀</EtherElephantEar.stages.0.label>
   <EtherElephantEar.stages.0.description>흔들거리고 걸리적 거려...</EtherElephantEar.stages.0.description>
@@ -474,21 +474,21 @@
   <EtherThrumboHorn.stages.2.description>이걸 잘라서 팔면... 아마도 이걸 되돌릴수 있는 약을 구할수 있지 않을까... 제발...</EtherThrumboHorn.stages.2.description>
   <EtherCanidMuzzle.stages.0.label>Canid muzzle</EtherCanidMuzzle.stages.0.label>
   <EtherCanidMuzzle.stages.0.description>이거가지고 말하는거 정말 우스꽝스럽다.</EtherCanidMuzzle.stages.0.description>
-  <EtherCanidMuzzle.stages.1.label>Canid muzzle</EtherCanidMuzzle.stages.1.label>
+  <EtherCanidMuzzle.stages.1.label>개과의 주둥이</EtherCanidMuzzle.stages.1.label>
   <EtherCanidMuzzle.stages.1.description>엄청나게 다양한 냄새들! 이거 대단한걸!</EtherCanidMuzzle.stages.1.description>
-  <EtherCanidMuzzle.stages.2.label>Canid muzzle</EtherCanidMuzzle.stages.2.label>
+  <EtherCanidMuzzle.stages.2.label>개과의 주둥이</EtherCanidMuzzle.stages.2.label>
   <EtherCanidMuzzle.stages.2.description>별로 맡고싶지 않은 냄새까지 맡게 되버렸어. 다시 되돌리고 싶어.</EtherCanidMuzzle.stages.2.description>
   <EtherCanidEar.stages.0.label>Canid ears</EtherCanidEar.stages.0.label>
   <EtherCanidEar.stages.0.description>약간 너무 민감한데, 편하게 있기엔 모든게 너무 크게 들려.</EtherCanidEar.stages.0.description>
-  <EtherCanidEar.stages.1.label>Canid ears</EtherCanidEar.stages.1.label>
+  <EtherCanidEar.stages.1.label>개과의 귀</EtherCanidEar.stages.1.label>
   <EtherCanidEar.stages.1.description>귀가 정말 잘들린다. 정착지 반대편에서 바늘 떨어트리는 소리도 들을 수 있을것 같아!</EtherCanidEar.stages.1.description>
-  <EtherCanidEar.stages.2.label>Canid ears</EtherCanidEar.stages.2.label>
+  <EtherCanidEar.stages.2.label>개과의 귀</EtherCanidEar.stages.2.label>
   <EtherCanidEar.stages.2.description>나에 관해서 말하는게 다 들려. 도대체 왜 이런일이 일어나는거야?</EtherCanidEar.stages.2.description>
   <EtherCanidTail.stages.0.label>Canid tail</EtherCanidTail.stages.0.label>
   <EtherCanidTail.stages.0.description>바지에 꼬리구멍 뚫는게 어렵지 않길 바래.</EtherCanidTail.stages.0.description>
-  <EtherCanidTail.stages.1.label>Canid tail</EtherCanidTail.stages.1.label>
+  <EtherCanidTail.stages.1.label>개과의 꼬리</EtherCanidTail.stages.1.label>
   <EtherCanidTail.stages.1.description>생각만 해도 꼬리가 춤을 춰!</EtherCanidTail.stages.1.description>
-  <EtherCanidTail.stages.2.label>Canid tail</EtherCanidTail.stages.2.label>
+  <EtherCanidTail.stages.2.label>개과의 꼬리</EtherCanidTail.stages.2.label>
   <EtherCanidTail.stages.2.description>걸리적거리지 않고는 의자에 앉을 수 조차 없어!</EtherCanidTail.stages.2.description>
   <FamiliarisTransformationMemory.stages.0.label>변이 끝남</FamiliarisTransformationMemory.stages.0.label>
   <FamiliarisTransformationMemory.stages.0.description>So I'm the pet dog now? ...arf?</FamiliarisTransformationMemory.stages.0.description>
@@ -506,23 +506,23 @@
   <FamiliarisRevertedMemory.stages.2.description>더이상 냄새나는 개가 아니다!</FamiliarisRevertedMemory.stages.2.description>
   <FamiliarisRevertedMemory.stages.3.label>되돌아옴</FamiliarisRevertedMemory.stages.3.label>
   <FamiliarisRevertedMemory.stages.3.description>No more napping on laps for me.</FamiliarisRevertedMemory.stages.3.description>
-  <EtherFamiliarisJaw.stages.0.label>dog face</EtherFamiliarisJaw.stages.0.label>
+  <EtherFamiliarisJaw.stages.0.label>개 얼굴</EtherFamiliarisJaw.stages.0.label>
   <EtherFamiliarisJaw.stages.0.description>하루 죙일 헥헥거려야돼...</EtherFamiliarisJaw.stages.0.description>
-  <EtherFamiliarisJaw.stages.1.label>dog face</EtherFamiliarisJaw.stages.1.label>
+  <EtherFamiliarisJaw.stages.1.label>개 얼굴</EtherFamiliarisJaw.stages.1.label>
   <EtherFamiliarisJaw.stages.1.description>BARK BARK BARK!</EtherFamiliarisJaw.stages.1.description>
-  <EtherFamiliarisJaw.stages.2.label>dog face</EtherFamiliarisJaw.stages.2.label>
+  <EtherFamiliarisJaw.stages.2.label>개 얼굴</EtherFamiliarisJaw.stages.2.label>
   <EtherFamiliarisJaw.stages.2.description>슬퍼도 미소밖에 지을 수 없어...</EtherFamiliarisJaw.stages.2.description>
-  <EtherFamiliarisEar.stages.0.label>dog ears</EtherFamiliarisEar.stages.0.label>
+  <EtherFamiliarisEar.stages.0.label>개 귀</EtherFamiliarisEar.stages.0.label>
   <EtherFamiliarisEar.stages.0.description>이거 꽤 귀엽네.</EtherFamiliarisEar.stages.0.description>
-  <EtherFamiliarisEar.stages.1.label>dog ears</EtherFamiliarisEar.stages.1.label>
+  <EtherFamiliarisEar.stages.1.label>개 귀</EtherFamiliarisEar.stages.1.label>
   <EtherFamiliarisEar.stages.1.description>생긴것도 귀엽고. 전보다 잘들려! 윈-윈이 이런거구나!</EtherFamiliarisEar.stages.1.description>
-  <EtherFamiliarisEar.stages.2.label>dog ears</EtherFamiliarisEar.stages.2.label>
+  <EtherFamiliarisEar.stages.2.label>개 귀</EtherFamiliarisEar.stages.2.label>
   <EtherFamiliarisEar.stages.2.description>내 귀,커컹! 돌려내!</EtherFamiliarisEar.stages.2.description>
-  <EtherFamiliarisTail.stages.0.label>dog tail</EtherFamiliarisTail.stages.0.label>
+  <EtherFamiliarisTail.stages.0.label>개 꼬리</EtherFamiliarisTail.stages.0.label>
   <EtherFamiliarisTail.stages.0.description>진정해야 하는데, 자꾸 꼬리가 흔들려...</EtherFamiliarisTail.stages.0.description>
-  <EtherFamiliarisTail.stages.1.label>dog tail</EtherFamiliarisTail.stages.1.label>
+  <EtherFamiliarisTail.stages.1.label>개 꼬리</EtherFamiliarisTail.stages.1.label>
   <EtherFamiliarisTail.stages.1.description>너무 흥분돼! 꼬리가 엄청 빨리 흔들린다!</EtherFamiliarisTail.stages.1.description>
-  <EtherFamiliarisTail.stages.2.label>dog tail</EtherFamiliarisTail.stages.2.label>
+  <EtherFamiliarisTail.stages.2.label>개 꼬리</EtherFamiliarisTail.stages.2.label>
   <EtherFamiliarisTail.stages.2.description>내가 왜 이 쉴틈없이 움직이는 꼬랑지 때문에 바지 전부를 망쳐놔야 하는거냐구!</EtherFamiliarisTail.stages.2.description>
   <WolfTransformationMemory.stages.0.label>변이 끝남</WolfTransformationMemory.stages.0.label>
   <WolfTransformationMemory.stages.0.description>이 털가죽때문에 너무 더워서, 가만히 있어도 숨을 헐떡거리게 돼</WolfTransformationMemory.stages.0.description>
@@ -592,27 +592,27 @@
   <EtherWargTail.stages.2.description>억세고, 뻣뻣하고, 부자연스럽게 근육질이야... 역겨워.</EtherWargTail.stages.2.description>
   <EtherFelineJaw.stages.0.label>feline face</EtherFelineJaw.stages.0.label>
   <EtherFelineJaw.stages.0.description>갸르릉 소리 안내고 말하기 힘들어.</EtherFelineJaw.stages.0.description>
-  <EtherFelineJaw.stages.1.label>feline face</EtherFelineJaw.stages.1.label>
+  <EtherFelineJaw.stages.1.label>고양이과의 얼굴</EtherFelineJaw.stages.1.label>
   <EtherFelineJaw.stages.1.description>이야옹!</EtherFelineJaw.stages.1.description>
-  <EtherFelineJaw.stages.2.label>feline face</EtherFelineJaw.stages.2.label>
+  <EtherFelineJaw.stages.2.label>고양이 얼굴</EtherFelineJaw.stages.2.label>
   <EtherFelineJaw.stages.2.description>안돼! 갸릉갸릉 거리기 싫어!</EtherFelineJaw.stages.2.description>
   <EtherFelineEar.stages.0.label>feline ear</EtherFelineEar.stages.0.label>
   <EtherFelineEar.stages.0.description>아얏! 이거 모든 소리를 다 듣네.</EtherFelineEar.stages.0.description>
-  <EtherFelineEar.stages.1.label>feline ear</EtherFelineEar.stages.1.label>
+  <EtherFelineEar.stages.1.label>고양이 귀</EtherFelineEar.stages.1.label>
   <EtherFelineEar.stages.1.description>모든 소리가 들려!</EtherFelineEar.stages.1.description>
-  <EtherFelineEar.stages.2.label>feline ear</EtherFelineEar.stages.2.label>
+  <EtherFelineEar.stages.2.label>고양이 귀</EtherFelineEar.stages.2.label>
   <EtherFelineEar.stages.2.description>애니 등장인물 같은데?</EtherFelineEar.stages.2.description>
   <EtherFelineTail.stages.0.label>feline tail</EtherFelineTail.stages.0.label>
   <EtherFelineTail.stages.0.description>꼬리가 거치적대긴 한데, 균형잡는데 도움이 되네.</EtherFelineTail.stages.0.description>
-  <EtherFelineTail.stages.1.label>feline tail</EtherFelineTail.stages.1.label>
+  <EtherFelineTail.stages.1.label>고양이 꼬리</EtherFelineTail.stages.1.label>
   <EtherFelineTail.stages.1.description>아아! 너무 귀여워!</EtherFelineTail.stages.1.description>
-  <EtherFelineTail.stages.2.label>feline tail</EtherFelineTail.stages.2.label>
+  <EtherFelineTail.stages.2.label>고양이 꼬리</EtherFelineTail.stages.2.label>
   <EtherFelineTail.stages.2.description>자꾸 꼬리에 걸려 넘어지잖아!</EtherFelineTail.stages.2.description>
   <EtherFelineEye.stages.0.label>feline eyes</EtherFelineEye.stages.0.label>
   <EtherFelineEye.stages.0.description>내 눈에서 이상한 느낌이 나는데, 전보다 훨씬 잘보이긴 해.</EtherFelineEye.stages.0.description>
-  <EtherFelineEye.stages.1.label>feline eyes</EtherFelineEye.stages.1.label>
+  <EtherFelineEye.stages.1.label>고양이 눈</EtherFelineEye.stages.1.label>
   <EtherFelineEye.stages.1.description>어둠속에서도 훤히 보이고, 정말 신비로워 보여!</EtherFelineEye.stages.1.description>
-  <EtherFelineEye.stages.2.label>feline eyes</EtherFelineEye.stages.2.label>
+  <EtherFelineEye.stages.2.label>고양이 눈</EtherFelineEye.stages.2.label>
   <EtherFelineEye.stages.2.description>이 얇은 동공때문에 비정상적으로 보여.</EtherFelineEye.stages.2.description>
   <EtherFelineClaws.stages.0.label>발톱</EtherFelineClaws.stages.0.label>
   <EtherFelineClaws.stages.0.description>뜨악! 또 찔렸어.</EtherFelineClaws.stages.0.description>
@@ -848,21 +848,21 @@
   <EtherDextrousPawHand.stages.2.description>아아아!!!! 너무 쭈글쭈글해! 떼줘!</EtherDextrousPawHand.stages.2.description>
   <EtherRodentJaw.stages.0.label>rodent face</EtherRodentJaw.stages.0.label>
   <EtherRodentJaw.stages.0.description>What's up with these teeth?</EtherRodentJaw.stages.0.description>
-  <EtherRodentJaw.stages.1.label>rodent face</EtherRodentJaw.stages.1.label>
+  <EtherRodentJaw.stages.1.label>설치류 얼굴</EtherRodentJaw.stages.1.label>
   <EtherRodentJaw.stages.1.description>I can eat whatever I want!</EtherRodentJaw.stages.1.description>
-  <EtherRodentJaw.stages.2.label>rodent face</EtherRodentJaw.stages.2.label>
+  <EtherRodentJaw.stages.2.label>설치류 얼굴</EtherRodentJaw.stages.2.label>
   <EtherRodentJaw.stages.2.description>God, I look so ugly with this thing...</EtherRodentJaw.stages.2.description>
   <EtherRodentEar.stages.0.label>rodent ears</EtherRodentEar.stages.0.label>
   <EtherRodentEar.stages.0.description>Why are my ears so small?</EtherRodentEar.stages.0.description>
-  <EtherRodentEar.stages.1.label>rodent ears</EtherRodentEar.stages.1.label>
+  <EtherRodentEar.stages.1.label>설치류 귀</EtherRodentEar.stages.1.label>
   <EtherRodentEar.stages.1.description>These tiny ears are so cute!</EtherRodentEar.stages.1.description>
-  <EtherRodentEar.stages.2.label>rodent ears</EtherRodentEar.stages.2.label>
+  <EtherRodentEar.stages.2.label>설치류 귀</EtherRodentEar.stages.2.label>
   <EtherRodentEar.stages.2.description>Does anyone have a hat I can hide these things under?</EtherRodentEar.stages.2.description>
   <EtherRodentTail.stages.0.label>rodent tail</EtherRodentTail.stages.0.label>
   <EtherRodentTail.stages.0.description>덜렁덜렁 붙어있구먼</EtherRodentTail.stages.0.description>
-  <EtherRodentTail.stages.1.label>rodent tail</EtherRodentTail.stages.1.label>
+  <EtherRodentTail.stages.1.label>설치류 꼬리</EtherRodentTail.stages.1.label>
   <EtherRodentTail.stages.1.description>뭔가 쓸모가 있었더라면...</EtherRodentTail.stages.1.description>
-  <EtherRodentTail.stages.2.label>rodent tail</EtherRodentTail.stages.2.label>
+  <EtherRodentTail.stages.2.label>설치류 꼬리</EtherRodentTail.stages.2.label>
   <EtherRodentTail.stages.2.description>더러운 느낌이나. 도둑이 된거같고.... 그래서 벌을 받고 있는걸까..?</EtherRodentTail.stages.2.description>
   <AlphabeaverTransformationMemory.stages.0.label>변이됨</AlphabeaverTransformationMemory.stages.0.label>
   <AlphabeaverTransformationMemory.stages.0.description>I have.. An unpleasant urge to chew on trees. It's very distracting.</AlphabeaverTransformationMemory.stages.0.description>
@@ -882,21 +882,21 @@
   <AlphabeaverRevertedMemory.stages.3.description>So close to my dream, and yet, so far...</AlphabeaverRevertedMemory.stages.3.description>
   <EtherAlphabeaverJaw.stages.0.label>Beaver face</EtherAlphabeaverJaw.stages.0.label>
   <EtherAlphabeaverJaw.stages.0.description>That tree over there looks delicious...</EtherAlphabeaverJaw.stages.0.description>
-  <EtherAlphabeaverJaw.stages.1.label>Beaver face</EtherAlphabeaverJaw.stages.1.label>
+  <EtherAlphabeaverJaw.stages.1.label>비버 얼굴</EtherAlphabeaverJaw.stages.1.label>
   <EtherAlphabeaverJaw.stages.1.description>I CAN EAT TREES!</EtherAlphabeaverJaw.stages.1.description>
-  <EtherAlphabeaverJaw.stages.2.label>Beaver face</EtherAlphabeaverJaw.stages.2.label>
+  <EtherAlphabeaverJaw.stages.2.label>비버 얼굴</EtherAlphabeaverJaw.stages.2.label>
   <EtherAlphabeaverJaw.stages.2.description>I CAN EAT TREES?!?</EtherAlphabeaverJaw.stages.2.description>
   <EtherAlphabeaverEar.stages.0.label>Beaver ear</EtherAlphabeaverEar.stages.0.label>
   <EtherAlphabeaverEar.stages.0.description>These ears are kind of weird.</EtherAlphabeaverEar.stages.0.description>
-  <EtherAlphabeaverEar.stages.1.label>Beaver ear</EtherAlphabeaverEar.stages.1.label>
+  <EtherAlphabeaverEar.stages.1.label>비버 귀</EtherAlphabeaverEar.stages.1.label>
   <EtherAlphabeaverEar.stages.1.description>Can I hear underwater now?</EtherAlphabeaverEar.stages.1.description>
-  <EtherAlphabeaverEar.stages.2.label>Beaver ear</EtherAlphabeaverEar.stages.2.label>
+  <EtherAlphabeaverEar.stages.2.label>비버 귀</EtherAlphabeaverEar.stages.2.label>
   <EtherAlphabeaverEar.stages.2.description>These ears are really weird, get them off!</EtherAlphabeaverEar.stages.2.description>
   <EtherAlphabeaverTail.stages.0.label>Beaver tail</EtherAlphabeaverTail.stages.0.label>
   <EtherAlphabeaverTail.stages.0.description>Why is it so flat?</EtherAlphabeaverTail.stages.0.description>
-  <EtherAlphabeaverTail.stages.1.label>Beaver tail</EtherAlphabeaverTail.stages.1.label>
+  <EtherAlphabeaverTail.stages.1.label>비버 꼬리</EtherAlphabeaverTail.stages.1.label>
   <EtherAlphabeaverTail.stages.1.description>Time to build a dam!</EtherAlphabeaverTail.stages.1.description>
-  <EtherAlphabeaverTail.stages.2.label>Beaver tail</EtherAlphabeaverTail.stages.2.label>
+  <EtherAlphabeaverTail.stages.2.label>비버 꼬리</EtherAlphabeaverTail.stages.2.label>
   <EtherAlphabeaverTail.stages.2.description>I want to use this thing to slap whoever did this to me!</EtherAlphabeaverTail.stages.2.description>
   <CapybaraTransformationMemory.stages.0.label>변이됨</CapybaraTransformationMemory.stages.0.label>
   <CapybaraTransformationMemory.stages.0.description>I'm a.. Rodent of some kind? These teeth are awkward.</CapybaraTransformationMemory.stages.0.description>
@@ -950,25 +950,25 @@
   <EtherSquirrelTail.stages.2.description>꼬리가 이렇게 큰 이유가 뭐야?</EtherSquirrelTail.stages.2.description>
   <BoomratTransformationMemory.stages.0.label>Became boomrat morph</BoomratTransformationMemory.stages.0.label>
   <BoomratTransformationMemory.stages.0.description>Being a rat is one thing, but an explosive one...?</BoomratTransformationMemory.stages.0.description>
-  <BoomratTransformationMemory.stages.1.label>Became boomrat morph</BoomratTransformationMemory.stages.1.label>
+  <BoomratTransformationMemory.stages.1.label>붐랫 변신 완료</BoomratTransformationMemory.stages.1.label>
   <BoomratTransformationMemory.stages.1.description>These sacs are kinda' gross, but also really cool! I'm a chemfuel factory!</BoomratTransformationMemory.stages.1.description>
-  <BoomratTransformationMemory.stages.2.label>Became boomrat morph</BoomratTransformationMemory.stages.2.label>
+  <BoomratTransformationMemory.stages.2.label>붐랫 변신 완료</BoomratTransformationMemory.stages.2.label>
   <BoomratTransformationMemory.stages.2.description>I'm covered in chemical pustules. This is disgusting, change me back!</BoomratTransformationMemory.stages.2.description>
-  <BoomratTransformationMemory.stages.3.label>Became boomrat morph</BoomratTransformationMemory.stages.3.label>
+  <BoomratTransformationMemory.stages.3.label>붐랫 변신 완료</BoomratTransformationMemory.stages.3.label>
   <BoomratTransformationMemory.stages.3.description>Not far from the real deal!</BoomratTransformationMemory.stages.3.description>
   <BoomratRevertedMemory.stages.0.label>Reverted</BoomratRevertedMemory.stages.0.label>
   <BoomratRevertedMemory.stages.0.description>I'm no longer high-explosive, which is nice. Maybe people will stop avoiding me now.</BoomratRevertedMemory.stages.0.description>
-  <BoomratRevertedMemory.stages.1.label>Reverted</BoomratRevertedMemory.stages.1.label>
+  <BoomratRevertedMemory.stages.1.label>되돌림</BoomratRevertedMemory.stages.1.label>
   <BoomratRevertedMemory.stages.1.description>I kinda' miss being a weapon of mass destruction.</BoomratRevertedMemory.stages.1.description>
-  <BoomratRevertedMemory.stages.2.label>Reverted</BoomratRevertedMemory.stages.2.label>
+  <BoomratRevertedMemory.stages.2.label>되돌림</BoomratRevertedMemory.stages.2.label>
   <BoomratRevertedMemory.stages.2.description>The memories will haunt me, but I'm normal again!</BoomratRevertedMemory.stages.2.description>
-  <BoomratRevertedMemory.stages.3.label>Reverted</BoomratRevertedMemory.stages.3.label>
+  <BoomratRevertedMemory.stages.3.label>되돌림</BoomratRevertedMemory.stages.3.label>
   <BoomratRevertedMemory.stages.3.description>I could have been so much more, what a waste.</BoomratRevertedMemory.stages.3.description>
   <EtherBoomratJaw.stages.0.label>Petrol face</EtherBoomratJaw.stages.0.label>
   <EtherBoomratJaw.stages.0.description>Everything smells like chemfuel...</EtherBoomratJaw.stages.0.description>
-  <EtherBoomratJaw.stages.1.label>Petrol face</EtherBoomratJaw.stages.1.label>
+  <EtherBoomratJaw.stages.1.label>붐랫 얼굴</EtherBoomratJaw.stages.1.label>
   <EtherBoomratJaw.stages.1.description>I look cute, for an explosive rat.</EtherBoomratJaw.stages.1.description>
-  <EtherBoomratJaw.stages.2.label>Petrol face</EtherBoomratJaw.stages.2.label>
+  <EtherBoomratJaw.stages.2.label>붐랫 얼굴</EtherBoomratJaw.stages.2.label>
   <EtherBoomratJaw.stages.2.description>HOW? How could there be something worse than a rat!?</EtherBoomratJaw.stages.2.description>
   <EtherBoomratEar.stages.0.label>폭탄사슴 귀</EtherBoomratEar.stages.0.label>
   <EtherBoomratEar.stages.0.description>They feel weird... very weird.</EtherBoomratEar.stages.0.description>
@@ -978,9 +978,9 @@
   <EtherBoomratEar.stages.2.description>I have a deep feeling that makes me want to hear an explosion, I don't like this one bit!</EtherBoomratEar.stages.2.description>
   <EtherBoomratTail.stages.0.label>Petrol tail</EtherBoomratTail.stages.0.label>
   <EtherBoomratTail.stages.0.description>I keep getting this useless skinny tail stuck in all the doors.</EtherBoomratTail.stages.0.description>
-  <EtherBoomratTail.stages.1.label>Petrol tail</EtherBoomratTail.stages.1.label>
+  <EtherBoomratTail.stages.1.label>붐랫 꼬리</EtherBoomratTail.stages.1.label>
   <EtherBoomratTail.stages.1.description>Cute little skin tail!</EtherBoomratTail.stages.1.description>
-  <EtherBoomratTail.stages.2.label>Petrol tail</EtherBoomratTail.stages.2.label>
+  <EtherBoomratTail.stages.2.label>붐랫 꼬리</EtherBoomratTail.stages.2.label>
   <EtherBoomratTail.stages.2.description>I'm cutting this skin tag off!</EtherBoomratTail.stages.2.description>
   <ChinchillaTransformationMemory.stages.0.label>변이 끝남</ChinchillaTransformationMemory.stages.0.label>
   <ChinchillaTransformationMemory.stages.0.description>Now everyone wants to pet me... Great...</ChinchillaTransformationMemory.stages.0.description>
@@ -1002,41 +1002,41 @@
   <EtherChinchillaJaw.stages.2.description>내 얼굴 너무 작아!</EtherChinchillaJaw.stages.2.description>
   <EtherChinchillaEar.stages.0.label>Tiny rodent ears</EtherChinchillaEar.stages.0.label>
   <EtherChinchillaEar.stages.0.description>Huh... they're kinda cute, I guess.</EtherChinchillaEar.stages.0.description>
-  <EtherChinchillaEar.stages.1.label>Tiny rodent ears</EtherChinchillaEar.stages.1.label>
+  <EtherChinchillaEar.stages.1.label>작은 설치류 귀</EtherChinchillaEar.stages.1.label>
   <EtherChinchillaEar.stages.1.description>These ears are adorable!</EtherChinchillaEar.stages.1.description>
-  <EtherChinchillaEar.stages.2.label>Tiny rodent ears</EtherChinchillaEar.stages.2.label>
-  <EtherChinchillaEar.stages.2.description>Does anyone have a hat I can hide these things under?</EtherChinchillaEar.stages.2.description>
+  <EtherChinchillaEar.stages.2.label>작은 설치류 귀</EtherChinchillaEar.stages.2.label>
+  <EtherChinchillaEar.stages.2.description>이걸 가릴 모자 없나요?</EtherChinchillaEar.stages.2.description>
   <EtherChinchillaTail.stages.0.label>Tiny rodent tail</EtherChinchillaTail.stages.0.label>
   <EtherChinchillaTail.stages.0.description>Well, it *is* a little cool, I guess.</EtherChinchillaTail.stages.0.description>
-  <EtherChinchillaTail.stages.1.label>Tiny rodent tail</EtherChinchillaTail.stages.1.label>
+  <EtherChinchillaTail.stages.1.label>작은 설치류 꼬리</EtherChinchillaTail.stages.1.label>
   <EtherChinchillaTail.stages.1.description>Awww, it's so tiny! I love it!</EtherChinchillaTail.stages.1.description>
-  <EtherChinchillaTail.stages.2.label>Tiny rodent tail</EtherChinchillaTail.stages.2.label>
+  <EtherChinchillaTail.stages.2.label>작은 설치류 꼬리</EtherChinchillaTail.stages.2.label>
   <EtherChinchillaTail.stages.2.description>적어도 숨길순 있곘어...</EtherChinchillaTail.stages.2.description>
   <GuineaPigTransformationMemory.stages.0.label>Became guinea pig morph</GuineaPigTransformationMemory.stages.0.label>
   <GuineaPigTransformationMemory.stages.0.description>I'm literally being used as a guinea pig!</GuineaPigTransformationMemory.stages.0.description>
-  <GuineaPigTransformationMemory.stages.1.label>Became guinea pig morph</GuineaPigTransformationMemory.stages.1.label>
+  <GuineaPigTransformationMemory.stages.1.label>기니피그 형태가 되었다</GuineaPigTransformationMemory.stages.1.label>
   <GuineaPigTransformationMemory.stages.1.description>This is so cool, I might break into squeak!</GuineaPigTransformationMemory.stages.1.description>
-  <GuineaPigTransformationMemory.stages.2.label>Became guinea pig morph</GuineaPigTransformationMemory.stages.2.label>
+  <GuineaPigTransformationMemory.stages.2.label>기니피그 형태가 되었다</GuineaPigTransformationMemory.stages.2.label>
   <GuineaPigTransformationMemory.stages.2.description>I don't want to be used for any more experiments!</GuineaPigTransformationMemory.stages.2.description>
-  <GuineaPigRevertedMemory.stages.0.label>Reverted</GuineaPigRevertedMemory.stages.0.label>
+  <GuineaPigRevertedMemory.stages.0.label>되돌려진</GuineaPigRevertedMemory.stages.0.label>
   <GuineaPigRevertedMemory.stages.0.description>Back to normal. I have my face back!</GuineaPigRevertedMemory.stages.0.description>
-  <GuineaPigRevertedMemory.stages.1.label>Reverted</GuineaPigRevertedMemory.stages.1.label>
+  <GuineaPigRevertedMemory.stages.1.label>되돌려진</GuineaPigRevertedMemory.stages.1.label>
   <GuineaPigRevertedMemory.stages.1.description>No one calls me cute anymore.</GuineaPigRevertedMemory.stages.1.description>
-  <GuineaPigRevertedMemory.stages.2.label>Reverted</GuineaPigRevertedMemory.stages.2.label>
+  <GuineaPigRevertedMemory.stages.2.label>되돌려진</GuineaPigRevertedMemory.stages.2.label>
   <GuineaPigRevertedMemory.stages.2.description>Finally! It was so humiliating!</GuineaPigRevertedMemory.stages.2.description>
-  <GuineaPigRevertedMemory.stages.3.label>Reverted</GuineaPigRevertedMemory.stages.3.label>
+  <GuineaPigRevertedMemory.stages.3.label>되돌려진</GuineaPigRevertedMemory.stages.3.label>
   <GuineaPigRevertedMemory.stages.3.description>But I liked being cute and fluffy!</GuineaPigRevertedMemory.stages.3.description>
   <EtherGuineaPigJaw.stages.0.label>Guinea pig face</EtherGuineaPigJaw.stages.0.label>
   <EtherGuineaPigJaw.stages.0.description>I don't like these chubby cheeks.</EtherGuineaPigJaw.stages.0.description>
-  <EtherGuineaPigJaw.stages.1.label>Guinea pig face</EtherGuineaPigJaw.stages.1.label>
+  <EtherGuineaPigJaw.stages.1.label>기니피그 얼굴</EtherGuineaPigJaw.stages.1.label>
   <EtherGuineaPigJaw.stages.1.description>Now everyone wants to give me a boop. I like it!</EtherGuineaPigJaw.stages.1.description>
-  <EtherGuineaPigJaw.stages.2.label>Guinea pig face</EtherGuineaPigJaw.stages.2.label>
+  <EtherGuineaPigJaw.stages.2.label>기니피그 얼굴</EtherGuineaPigJaw.stages.2.label>
   <EtherGuineaPigJaw.stages.2.description>How am I supposed to eat with only four teeth?!</EtherGuineaPigJaw.stages.2.description>
   <EtherGuineaPigEar.stages.0.label>Guinea pig ears</EtherGuineaPigEar.stages.0.label>
   <EtherGuineaPigEar.stages.0.description>I guess I can hear a little better.</EtherGuineaPigEar.stages.0.description>
-  <EtherGuineaPigEar.stages.1.label>Guinea pig ears</EtherGuineaPigEar.stages.1.label>
+  <EtherGuineaPigEar.stages.1.label>기니피그 귀</EtherGuineaPigEar.stages.1.label>
   <EtherGuineaPigEar.stages.1.description>Hey, they're kind of cute.</EtherGuineaPigEar.stages.1.description>
-  <EtherGuineaPigEar.stages.2.label>Guinea pig ears</EtherGuineaPigEar.stages.2.label>
+  <EtherGuineaPigEar.stages.2.label>기니피그 귀</EtherGuineaPigEar.stages.2.label>
   <EtherGuineaPigEar.stages.2.description>Can't these things stay up at least? They keep folding over.</EtherGuineaPigEar.stages.2.description>
   <EtherGuineaPigHand.stages.0.label>설치류 손</EtherGuineaPigHand.stages.0.label>
   <EtherGuineaPigHand.stages.0.description>These paws aren't the worst thing that's happened to me. They're almost useful.</EtherGuineaPigHand.stages.0.description>
@@ -1046,9 +1046,9 @@
   <EtherGuineaPigHand.stages.2.description>They're too small and delicate. They look rediculous!</EtherGuineaPigHand.stages.2.description>
   <EtherGuineaPigFoot.stages.0.label>Guinea pig feet</EtherGuineaPigFoot.stages.0.label>
   <EtherGuineaPigFoot.stages.0.description>발가락 다섯개 아녔나?</EtherGuineaPigFoot.stages.0.description>
-  <EtherGuineaPigFoot.stages.1.label>Guinea pig feet</EtherGuineaPigFoot.stages.1.label>
+  <EtherGuineaPigFoot.stages.1.label>기니피그 발</EtherGuineaPigFoot.stages.1.label>
   <EtherGuineaPigFoot.stages.1.description>I like these feet. They're cute.</EtherGuineaPigFoot.stages.1.description>
-  <EtherGuineaPigFoot.stages.2.label>Guinea pig feet</EtherGuineaPigFoot.stages.2.label>
+  <EtherGuineaPigFoot.stages.2.label>기니피그 발</EtherGuineaPigFoot.stages.2.label>
   <EtherGuineaPigFoot.stages.2.description>These tiny delicate feet are useless!</EtherGuineaPigFoot.stages.2.description>
   <RatTransformationMemory.stages.0.label>쥐 변이체가 됨</RatTransformationMemory.stages.0.label>
   <RatTransformationMemory.stages.0.description>실험용 쥐가 된듯한 느낌이야... 진짜로!</RatTransformationMemory.stages.0.description>
@@ -1278,23 +1278,23 @@
   <MonkeyRevertedMemory.stages.3.description>이건 내가 원한게 아닌데...</MonkeyRevertedMemory.stages.3.description>
   <EtherBovidMuzzle.stages.0.label>Bovid muzzle</EtherBovidMuzzle.stages.0.label>
   <EtherBovidMuzzle.stages.0.description>It sure makes sallads better...</EtherBovidMuzzle.stages.0.description>
-  <EtherBovidMuzzle.stages.1.label>Bovid muzzle</EtherBovidMuzzle.stages.1.label>
+  <EtherBovidMuzzle.stages.1.label>우제류 코</EtherBovidMuzzle.stages.1.label>
   <EtherBovidMuzzle.stages.1.description>Eating veggies has never been better!</EtherBovidMuzzle.stages.1.description>
-  <EtherBovidMuzzle.stages.2.label>Bovid muzzle</EtherBovidMuzzle.stages.2.label>
+  <EtherBovidMuzzle.stages.2.label>우제류 코</EtherBovidMuzzle.stages.2.label>
   <EtherBovidMuzzle.stages.2.description>This will go away on its own right...?</EtherBovidMuzzle.stages.2.description>
-  <EtherBovidMuzzle.stages.3.label>Bovid muzzle</EtherBovidMuzzle.stages.3.label>
+  <EtherBovidMuzzle.stages.3.label>우제류 코</EtherBovidMuzzle.stages.3.label>
   <EtherBovidMuzzle.stages.3.description>I'll never want for anything but grass ever again!</EtherBovidMuzzle.stages.3.description>
   <EtherBovidEar.stages.0.label>Bovid ears</EtherBovidEar.stages.0.label>
   <EtherBovidEar.stages.0.description>I think I can hear the wind through the grass more intensely than before....</EtherBovidEar.stages.0.description>
-  <EtherBovidEar.stages.1.label>Bovid ears</EtherBovidEar.stages.1.label>
+  <EtherBovidEar.stages.1.label>우제류 귀</EtherBovidEar.stages.1.label>
   <EtherBovidEar.stages.1.description>Oh I think I can hear some good grass with these!</EtherBovidEar.stages.1.description>
-  <EtherBovidEar.stages.2.label>Bovid ears</EtherBovidEar.stages.2.label>
+  <EtherBovidEar.stages.2.label>우제류 귀</EtherBovidEar.stages.2.label>
   <EtherBovidEar.stages.2.description>Hope no one tries to put a tag in these!</EtherBovidEar.stages.2.description>
   <EtherBovidTail.stages.0.label>Bovid tail</EtherBovidTail.stages.0.label>
   <EtherBovidTail.stages.0.description>This won't help against megascarabs will it?</EtherBovidTail.stages.0.description>
-  <EtherBovidTail.stages.1.label>Bovid tail</EtherBovidTail.stages.1.label>
+  <EtherBovidTail.stages.1.label>우제류 꼬리</EtherBovidTail.stages.1.label>
   <EtherBovidTail.stages.1.description>I like feeling it flick back and forth on its own like that!</EtherBovidTail.stages.1.description>
-  <EtherBovidTail.stages.2.label>Bovid tail</EtherBovidTail.stages.2.label>
+  <EtherBovidTail.stages.2.label>우제류 꼬리</EtherBovidTail.stages.2.label>
   <EtherBovidTail.stages.2.description>I don't think I'll be able to hide this...</EtherBovidTail.stages.2.description>
   <CowTransformationMemory.stages.0.label>변이 끝남</CowTransformationMemory.stages.0.label>
   <CowTransformationMemory.stages.0.description>으어, 너무 몸이 너무 무거워... 다이어트를 해야하나봐</CowTransformationMemory.stages.0.description>
@@ -1379,7 +1379,7 @@
   <BisonTransformationMemory.stages.2.label>변이 끝남</BisonTransformationMemory.stages.2.label>
   <BisonTransformationMemory.stages.2.description>I've turned into a giant hairy monster!</BisonTransformationMemory.stages.2.description>
   <BisonTransformationMemory.stages.3.label>변이 끝남</BisonTransformationMemory.stages.3.label>
-  <BisonTransformationMemory.stages.3.description>I wish I could be grazing in a field right now.</BisonTransformationMemory.stages.3.description>
+  <BisonTransformationMemory.stages.3.description>지금 이 순간 나도 들판에서 풀을 뜯고 있었으면 좋겠어.</BisonTransformationMemory.stages.3.description>
   <BisonRevertedMemory.stages.0.label>되돌아옴</BisonRevertedMemory.stages.0.label>
   <BisonRevertedMemory.stages.0.description>그래... 그 정도면 충분했던거 같아.</BisonRevertedMemory.stages.0.description>
   <BisonRevertedMemory.stages.1.label>되돌아옴</BisonRevertedMemory.stages.1.label>
@@ -1390,21 +1390,21 @@
   <BisonRevertedMemory.stages.3.description>그래, 그냥 내 인생의 모든 재미를 빼앗아가지 그래?</BisonRevertedMemory.stages.3.description>
   <EtherCamelidMuzzle.stages.0.label>Camelid face</EtherCamelidMuzzle.stages.0.label>
   <EtherCamelidMuzzle.stages.0.description>Why do I want a smoke all of a sudden?</EtherCamelidMuzzle.stages.0.description>
-  <EtherCamelidMuzzle.stages.1.label>Camelid face</EtherCamelidMuzzle.stages.1.label>
+  <EtherCamelidMuzzle.stages.1.label>낙타과 동물 얼굴</EtherCamelidMuzzle.stages.1.label>
   <EtherCamelidMuzzle.stages.1.description>I'll look so classy with a cigar!</EtherCamelidMuzzle.stages.1.description>
-  <EtherCamelidMuzzle.stages.2.label>Camelid face</EtherCamelidMuzzle.stages.2.label>
+  <EtherCamelidMuzzle.stages.2.label>낙타과 동물 얼굴</EtherCamelidMuzzle.stages.2.label>
   <EtherCamelidMuzzle.stages.2.description>My lips are so swollen, did I get stung by a bee?</EtherCamelidMuzzle.stages.2.description>
   <EtherCamelidEar.stages.0.label>camelid ears</EtherCamelidEar.stages.0.label>
   <EtherCamelidEar.stages.0.description>What am I supposed to do with these?</EtherCamelidEar.stages.0.description>
-  <EtherCamelidEar.stages.1.label>camelid ears</EtherCamelidEar.stages.1.label>
+  <EtherCamelidEar.stages.1.label>낙타과 동물 귀</EtherCamelidEar.stages.1.label>
   <EtherCamelidEar.stages.1.description>Perfect for the desert heat!</EtherCamelidEar.stages.1.description>
-  <EtherCamelidEar.stages.2.label>camelid ears</EtherCamelidEar.stages.2.label>
+  <EtherCamelidEar.stages.2.label>낙타과 동물 귀</EtherCamelidEar.stages.2.label>
   <EtherCamelidEar.stages.2.description>왜이렇게 꼼지락대는거야! 떼줘!</EtherCamelidEar.stages.2.description>
   <EtherCamelidTail.stages.0.label>Camelid tail</EtherCamelidTail.stages.0.label>
   <EtherCamelidTail.stages.0.description>What is this useful for again?</EtherCamelidTail.stages.0.description>
-  <EtherCamelidTail.stages.1.label>Camelid tail</EtherCamelidTail.stages.1.label>
+  <EtherCamelidTail.stages.1.label>낙타과 동물 꼬리</EtherCamelidTail.stages.1.label>
   <EtherCamelidTail.stages.1.description>Look at it back there! So cute!</EtherCamelidTail.stages.1.description>
-  <EtherCamelidTail.stages.2.label>Camelid tail</EtherCamelidTail.stages.2.label>
+  <EtherCamelidTail.stages.2.label>낙타과 동물 꼬리</EtherCamelidTail.stages.2.label>
   <EtherCamelidTail.stages.2.description>Can't keep it still even if I wanted to!</EtherCamelidTail.stages.2.description>
   <AlpacaTransformationMemory.stages.0.label>변이됨</AlpacaTransformationMemory.stages.0.label>
   <AlpacaTransformationMemory.stages.0.description>털복숭이가 되버린데다가 사람들한테 너무 침을 뱉고싶어.</AlpacaTransformationMemory.stages.0.description>
@@ -1559,10 +1559,10 @@
   <EtherCaribouJaw.stages.2.label>순록 얼굴</EtherCaribouJaw.stages.2.label>
   <EtherCaribouJaw.stages.2.description>징글벨 그만불러!</EtherCaribouJaw.stages.2.description>
   <EtherCaribouEar.stages.0.label>Reindeer ears</EtherCaribouEar.stages.0.label>
-  <EtherCaribouEar.stages.0.description>At least they keep the flies off themselves...?</EtherCaribouEar.stages.0.description>
-  <EtherCaribouEar.stages.1.label>Reindeer ears</EtherCaribouEar.stages.1.label>
+  <EtherCaribouEar.stages.0.description>그래도 파리는 쫓아낼수 있곘어...?</EtherCaribouEar.stages.0.description>
+  <EtherCaribouEar.stages.1.label>순록 귀</EtherCaribouEar.stages.1.label>
   <EtherCaribouEar.stages.1.description>모든 소리가 들려!</EtherCaribouEar.stages.1.description>
-  <EtherCaribouEar.stages.2.label>Reindeer ears</EtherCaribouEar.stages.2.label>
+  <EtherCaribouEar.stages.2.label>순록 귀</EtherCaribouEar.stages.2.label>
   <EtherCaribouEar.stages.2.description>왜이렇게 꼼지락대는거야! 떼줘!</EtherCaribouEar.stages.2.description>
   <EtherCaribouTail.stages.0.label>짧은 꼬리</EtherCaribouTail.stages.0.label>
   <EtherCaribouTail.stages.0.description>Is this thing... a tail?</EtherCaribouTail.stages.0.description>
@@ -1571,32 +1571,32 @@
   <EtherCaribouTail.stages.2.label>짧은 꼬리</EtherCaribouTail.stages.2.label>
   <EtherCaribouTail.stages.2.description>Just big enough to be hard to hide... great...</EtherCaribouTail.stages.2.description>
   <EtherCaribouAntlers.stages.0.label>짧은 꼬리</EtherCaribouAntlers.stages.0.label>
-  <EtherCaribouAntlers.stages.0.description>Is this thing... a tail?</EtherCaribouAntlers.stages.0.description>
+  <EtherCaribouAntlers.stages.0.description>이것... 꼬리인가요?</EtherCaribouAntlers.stages.0.description>
   <EtherCaribouAntlers.stages.1.label>짧은 꼬리</EtherCaribouAntlers.stages.1.label>
-  <EtherCaribouAntlers.stages.1.description>It's so fluffy!</EtherCaribouAntlers.stages.1.description>
+  <EtherCaribouAntlers.stages.1.description>정말 푹신하네요!</EtherCaribouAntlers.stages.1.description>
   <EtherCaribouAntlers.stages.2.label>짧은 꼬리</EtherCaribouAntlers.stages.2.label>
-  <EtherCaribouAntlers.stages.2.description>Just big enough to be hard to hide... great...</EtherCaribouAntlers.stages.2.description>
+  <EtherCaribouAntlers.stages.2.description>숨기기에는 너무 커서... 좋네요...</EtherCaribouAntlers.stages.2.description>
   <ElkTransformationMemory.stages.0.label>Became elk morph</ElkTransformationMemory.stages.0.label>
   <ElkTransformationMemory.stages.0.description>Great, now I look like a big, shaggy lump.</ElkTransformationMemory.stages.0.description>
-  <ElkTransformationMemory.stages.1.label>Became elk morph</ElkTransformationMemory.stages.1.label>
+  <ElkTransformationMemory.stages.1.label>코뿔소 변이체가 됨</ElkTransformationMemory.stages.1.label>
   <ElkTransformationMemory.stages.1.description>I feel so majestic, so imposing. This is awesome!</ElkTransformationMemory.stages.1.description>
-  <ElkTransformationMemory.stages.2.label>Became elk morph</ElkTransformationMemory.stages.2.label>
+  <ElkTransformationMemory.stages.2.label>엘크로 변했다</ElkTransformationMemory.stages.2.label>
   <ElkTransformationMemory.stages.2.description>An elk? Isn't that just a big deer? Oh I don't care! Just make it stop!</ElkTransformationMemory.stages.2.description>
-  <ElkTransformationMemory.stages.3.label>Became elk morph</ElkTransformationMemory.stages.3.label>
+  <ElkTransformationMemory.stages.3.label>엘크로 변했다</ElkTransformationMemory.stages.3.label>
   <ElkTransformationMemory.stages.3.description>A good start, how far can I go?</ElkTransformationMemory.stages.3.description>
-  <ElkRevertedMemory.stages.0.label>Reverted</ElkRevertedMemory.stages.0.label>
+  <ElkRevertedMemory.stages.0.label>되돌림</ElkRevertedMemory.stages.0.label>
   <ElkRevertedMemory.stages.0.description>It's me, I'm back!</ElkRevertedMemory.stages.0.description>
-  <ElkRevertedMemory.stages.1.label>Reverted</ElkRevertedMemory.stages.1.label>
+  <ElkRevertedMemory.stages.1.label>되돌림</ElkRevertedMemory.stages.1.label>
   <ElkRevertedMemory.stages.1.description>No! My magesty!</ElkRevertedMemory.stages.1.description>
-  <ElkRevertedMemory.stages.2.label>Reverted</ElkRevertedMemory.stages.2.label>
+  <ElkRevertedMemory.stages.2.label>되돌림</ElkRevertedMemory.stages.2.label>
   <ElkRevertedMemory.stages.2.description>Oh the humanity! MY humanity! Yay!</ElkRevertedMemory.stages.2.description>
-  <ElkRevertedMemory.stages.3.label>Reverted</ElkRevertedMemory.stages.3.label>
+  <ElkRevertedMemory.stages.3.label>되돌림</ElkRevertedMemory.stages.3.label>
   <ElkRevertedMemory.stages.3.description>But I was so close to perfection...</ElkRevertedMemory.stages.3.description>
   <EtherElkJaw.stages.0.label>Elk face</EtherElkJaw.stages.0.label>
   <EtherElkJaw.stages.0.description>I can barely talk with this thing...</EtherElkJaw.stages.0.description>
-  <EtherElkJaw.stages.1.label>Elk face</EtherElkJaw.stages.1.label>
+  <EtherElkJaw.stages.1.label>엘크 얼굴</EtherElkJaw.stages.1.label>
   <EtherElkJaw.stages.1.description>...This is kinda cool, I guess?</EtherElkJaw.stages.1.description>
-  <EtherElkJaw.stages.2.label>Elk face</EtherElkJaw.stages.2.label>
+  <EtherElkJaw.stages.2.label>엘크 얼굴</EtherElkJaw.stages.2.label>
   <EtherElkJaw.stages.2.description>What happened to my face?!?</EtherElkJaw.stages.2.description>
   <EtherElkEar.stages.0.label>순록 귀</EtherElkEar.stages.0.label>
   <EtherElkEar.stages.0.description>Will they ever stop itching?</EtherElkEar.stages.0.description>
@@ -1766,27 +1766,27 @@
   <PigRevertedMemory.stages.3.description>이건 내가 원한게 아닌데...</PigRevertedMemory.stages.3.description>
   <EtherEquineMuzzle.stages.0.label>Equine face</EtherEquineMuzzle.stages.0.label>
   <EtherEquineMuzzle.stages.0.description>Not sure if it's practical but I'll make it work.</EtherEquineMuzzle.stages.0.description>
-  <EtherEquineMuzzle.stages.1.label>Equine face</EtherEquineMuzzle.stages.1.label>
+  <EtherEquineMuzzle.stages.1.label>말 얼굴</EtherEquineMuzzle.stages.1.label>
   <EtherEquineMuzzle.stages.1.description>My mule is the cutest thing I've ever seen!</EtherEquineMuzzle.stages.1.description>
-  <EtherEquineMuzzle.stages.2.label>Equine face</EtherEquineMuzzle.stages.2.label>
+  <EtherEquineMuzzle.stages.2.label>말 얼굴</EtherEquineMuzzle.stages.2.label>
   <EtherEquineMuzzle.stages.2.description>I don't want to have a long face!</EtherEquineMuzzle.stages.2.description>
-  <EtherEquineMuzzle.stages.3.label>Equine face</EtherEquineMuzzle.stages.3.label>
-  <EtherEquineMuzzle.stages.3.description>I'll never want for anything but grass ever again!</EtherEquineMuzzle.stages.3.description>
+  <EtherEquineMuzzle.stages.3.label>말 얼굴</EtherEquineMuzzle.stages.3.label>
+  <EtherEquineMuzzle.stages.3.description>다시는 풀 외에는 아무것도 원하지 않겠어!</EtherEquineMuzzle.stages.3.description>
   <EtherEquineEar.stages.0.label>Equine ears</EtherEquineEar.stages.0.label>
   <EtherEquineEar.stages.0.description>It's a look for sure.</EtherEquineEar.stages.0.description>
-  <EtherEquineEar.stages.1.label>Equine ears</EtherEquineEar.stages.1.label>
+  <EtherEquineEar.stages.1.label>말 귀</EtherEquineEar.stages.1.label>
   <EtherEquineEar.stages.1.description>The only advantage I need is the cool factor!</EtherEquineEar.stages.1.description>
-  <EtherEquineEar.stages.2.label>Equine ears</EtherEquineEar.stages.2.label>
+  <EtherEquineEar.stages.2.label>말 귀</EtherEquineEar.stages.2.label>
   <EtherEquineEar.stages.2.description>How will I wear hats with these?!</EtherEquineEar.stages.2.description>
-  <EtherEquineEar.stages.3.label>Equine ears</EtherEquineEar.stages.3.label>
+  <EtherEquineEar.stages.3.label>말 귀</EtherEquineEar.stages.3.label>
   <EtherEquineEar.stages.3.description>I'm sure they'll let me hear anyone creeping up on me!</EtherEquineEar.stages.3.description>
   <EtherEquineTail.stages.0.label>Equine tail</EtherEquineTail.stages.0.label>
   <EtherEquineTail.stages.0.description>It doesn't get in the way at least.</EtherEquineTail.stages.0.description>
-  <EtherEquineTail.stages.1.label>Equine tail</EtherEquineTail.stages.1.label>
+  <EtherEquineTail.stages.1.label>말 꼬리</EtherEquineTail.stages.1.label>
   <EtherEquineTail.stages.1.description>Flies beware my mighty tail!</EtherEquineTail.stages.1.description>
-  <EtherEquineTail.stages.2.label>Equine tail</EtherEquineTail.stages.2.label>
+  <EtherEquineTail.stages.2.label>말 꼬리</EtherEquineTail.stages.2.label>
   <EtherEquineTail.stages.2.description>No this isn't right at all!</EtherEquineTail.stages.2.description>
-  <EtherEquineTail.stages.3.label>Equine tail</EtherEquineTail.stages.3.label>
+  <EtherEquineTail.stages.3.label>말 꼬리</EtherEquineTail.stages.3.label>
   <EtherEquineTail.stages.3.description>It's a natural part of me now!</EtherEquineTail.stages.3.description>
   <DonkeyTransformationMemory.stages.0.label>변이 끝남</DonkeyTransformationMemory.stages.0.label>
   <DonkeyTransformationMemory.stages.0.description>괜히 고집부리고 싶고, 너랑 말도 하기 싫어.</DonkeyTransformationMemory.stages.0.description>
@@ -1840,19 +1840,19 @@
   <PM_CThrumboTfThought.stages.3.description>I'm a massive, hulking titan of flesh and fur and horns...this is the best thing that's ever happened to me!</PM_CThrumboTfThought.stages.3.description>
   <PMFormerHumanAccepted_VeryClose.stages.0.label>relative {0} helped</PMFormerHumanAccepted_VeryClose.stages.0.label>
   <PMFormerHumanAccepted_VeryClose.stages.0.description>A close relative of mine was turned into an animal and came to us for help. I'm glad we took them in.</PMFormerHumanAccepted_VeryClose.stages.0.description>
-  <PMFormerHumanAccepted_Close.stages.0.label>relative {0} helped</PMFormerHumanAccepted_Close.stages.0.label>
-  <PMFormerHumanAccepted_Close.stages.0.description>A close relative of mine was turned into an animal and came to us for help. I'm glad we took them in.</PMFormerHumanAccepted_Close.stages.0.description>
-  <PMFormerHumanAccepted_Moderate.stages.0.label>relative {0} helped</PMFormerHumanAccepted_Moderate.stages.0.label>
+  <PMFormerHumanAccepted_Close.stages.0.label>친척 {0} 도왔음</PMFormerHumanAccepted_Close.stages.0.label>
+  <PMFormerHumanAccepted_Close.stages.0.description>내 친척 한 명이 동물로 변해 우리에게 도움을 요청했다. 우리가 받아들인 것이 다행이다.</PMFormerHumanAccepted_Close.stages.0.description>
+  <PMFormerHumanAccepted_Moderate.stages.0.label>친척 {0} 도왔음</PMFormerHumanAccepted_Moderate.stages.0.label>
   <PMFormerHumanAccepted_Moderate.stages.0.description>A relative of mine was turned into an animal and came to us for help. I'm glad we took them in.</PMFormerHumanAccepted_Moderate.stages.0.description>
-  <PMFormerHumanAccepted_Distant.stages.0.label>relative {0} helped</PMFormerHumanAccepted_Distant.stages.0.label>
+  <PMFormerHumanAccepted_Distant.stages.0.label>친척 {0} 도왔음</PMFormerHumanAccepted_Distant.stages.0.label>
   <PMFormerHumanAccepted_Distant.stages.0.description>A distant relative of mine was turned into an animal and came to us for help. I'm glad we took them in.</PMFormerHumanAccepted_Distant.stages.0.description>
   <PMFormerHumanRejected_VeryClose.stages.0.label>relative {0} turned away</PMFormerHumanRejected_VeryClose.stages.0.label>
   <PMFormerHumanRejected_VeryClose.stages.0.description>A close relative of mine was turned into an animal and came to us for help, but the colony just left them out in the wild!</PMFormerHumanRejected_VeryClose.stages.0.description>
-  <PMFormerHumanRejected_Close.stages.0.label>relative {0} turned away</PMFormerHumanRejected_Close.stages.0.label>
+  <PMFormerHumanRejected_Close.stages.0.label>친척 {0} 거절함</PMFormerHumanRejected_Close.stages.0.label>
   <PMFormerHumanRejected_Close.stages.0.description>A close relative of mine was turned into an animal and came to us for help, but the colony just left them out in the wild.</PMFormerHumanRejected_Close.stages.0.description>
-  <PMFormerHumanRejected_Moderate.stages.0.label>relative {0} turned away</PMFormerHumanRejected_Moderate.stages.0.label>
+  <PMFormerHumanRejected_Moderate.stages.0.label>친척 {0} 거절함</PMFormerHumanRejected_Moderate.stages.0.label>
   <PMFormerHumanRejected_Moderate.stages.0.description>A relative of mine was turned into an animal and came to us for help, but the colony rejected them.</PMFormerHumanRejected_Moderate.stages.0.description>
-  <PMFormerHumanRejected_Distant.stages.0.label>relative {0} turned away</PMFormerHumanRejected_Distant.stages.0.label>
+  <PMFormerHumanRejected_Distant.stages.0.label>친척 {0} 거절함</PMFormerHumanRejected_Distant.stages.0.label>
   <PMFormerHumanRejected_Distant.stages.0.description>A distant relative of mine was turned into an animal and came to us for help, but the colony rejected them.</PMFormerHumanRejected_Distant.stages.0.description>
   <EtherThickHideLimb.stages.0.label>두꺼운 가죽</EtherThickHideLimb.stages.0.label>
   <EtherThickHideLimb.stages.0.description>내 피부가 두꺼운 가죽같아, 약간 불편하다.</EtherThickHideLimb.stages.0.description>
@@ -2026,9 +2026,9 @@
   <DefaultMergedThought.stages.2.description>미치광이 과학자나 할짓을 포로한테 한거야. 그들을 괴물로 만드는건 잘못됐어.</DefaultMergedThought.stages.2.description>
   <DefaultMergedThought.stages.3.label>방문객 융합됨</DefaultMergedThought.stages.3.label>
   <DefaultMergedThought.stages.3.description>사람들이 환대를 바라고 우리 정착지를 왔는데, 이제는 그냥 괴물이 되어버렸어.</DefaultMergedThought.stages.3.description>
-  <DefaultMergedThought.stages.4.label>slave guest</DefaultMergedThought.stages.4.label>
+  <DefaultMergedThought.stages.4.label>노예 손님</DefaultMergedThought.stages.4.label>
   <DefaultMergedThought.stages.4.description>Being a slave does not mean it's ok to become a freak.</DefaultMergedThought.stages.4.description>
-  <DefaultMergedThought.stages.5.label>guilty prisoner guest</DefaultMergedThought.stages.5.label>
+  <DefaultMergedThought.stages.5.label>유죄 죄수 손님</DefaultMergedThought.stages.5.label>
   <DefaultMergedThought.stages.5.description>While it must be painful, I do not feel bad for them.</DefaultMergedThought.stages.5.description>
   <DefaultRevertedPawnReaction.stages.0.label>야인 되돌아옴</DefaultRevertedPawnReaction.stages.0.label>
   <DefaultRevertedPawnReaction.stages.0.description>야인 한명이 다시 인간이 되었어. 우린 좋은일을 한거야.</DefaultRevertedPawnReaction.stages.0.description>
@@ -2038,9 +2038,9 @@
   <DefaultRevertedPawnReaction.stages.2.description>적어도 되돌릴 순 있지.</DefaultRevertedPawnReaction.stages.2.description>
   <DefaultRevertedPawnReaction.stages.3.label>방문객 되돌아옴</DefaultRevertedPawnReaction.stages.3.label>
   <DefaultRevertedPawnReaction.stages.3.description>손님이 다시 인간이 되었어. 언젠간 다시 우리를 믿어주길 바래야지.</DefaultRevertedPawnReaction.stages.3.description>
-  <DefaultRevertedPawnReaction.stages.4.label>slave guest</DefaultRevertedPawnReaction.stages.4.label>
+  <DefaultRevertedPawnReaction.stages.4.label>노예 손님</DefaultRevertedPawnReaction.stages.4.label>
   <DefaultRevertedPawnReaction.stages.4.description>They are at least freed from animality.</DefaultRevertedPawnReaction.stages.4.description>
-  <DefaultRevertedPawnReaction.stages.5.label>guilty prisoner guest</DefaultRevertedPawnReaction.stages.5.label>
+  <DefaultRevertedPawnReaction.stages.5.label>유죄 죄수 손님</DefaultRevertedPawnReaction.stages.5.label>
   <DefaultRevertedPawnReaction.stages.5.description>This is good for them, I guess?</DefaultRevertedPawnReaction.stages.5.description>
   <DefaultPermanentlyFeralReaction.stages.0.label>야인이 영원히 야생화됨</DefaultPermanentlyFeralReaction.stages.0.label>
   <DefaultPermanentlyFeralReaction.stages.0.description>진정한 야생으로 간거지...</DefaultPermanentlyFeralReaction.stages.0.description>
@@ -2050,9 +2050,9 @@
   <DefaultPermanentlyFeralReaction.stages.2.description>다시 되돌리길 바란건 아니지?</DefaultPermanentlyFeralReaction.stages.2.description>
   <DefaultPermanentlyFeralReaction.stages.3.label>방문객이 영원히 야생화됨</DefaultPermanentlyFeralReaction.stages.3.label>
   <DefaultPermanentlyFeralReaction.stages.3.description>엇, 앗차...</DefaultPermanentlyFeralReaction.stages.3.description>
-  <DefaultPermanentlyFeralReaction.stages.4.label>slave guest</DefaultPermanentlyFeralReaction.stages.4.label>
+  <DefaultPermanentlyFeralReaction.stages.4.label>노예 손님</DefaultPermanentlyFeralReaction.stages.4.label>
   <DefaultPermanentlyFeralReaction.stages.4.description>Let's wish they can be free in nature.</DefaultPermanentlyFeralReaction.stages.4.description>
-  <DefaultPermanentlyFeralReaction.stages.5.label>guilty prisoner guest</DefaultPermanentlyFeralReaction.stages.5.label>
+  <DefaultPermanentlyFeralReaction.stages.5.label>유죄인 게스트 죄수</DefaultPermanentlyFeralReaction.stages.5.label>
   <DefaultPermanentlyFeralReaction.stages.5.description>I guess this is a punishment for their crimes.</DefaultPermanentlyFeralReaction.stages.5.description>
   <FriendMergedThought.stages.0.label>친구가 합성됨</FriendMergedThought.stages.0.label>
   <FriendMergedThought.stages.0.description>식민지가 내 친구에게 미친 과학을 했는데 이제 그는 괴물이 되어 버렸어!</FriendMergedThought.stages.0.description>
@@ -2103,34 +2103,34 @@
   <PM_HumanPrimacyMutated.stages.0.label>돌연변이</PM_HumanPrimacyMutated.stages.0.label>
   <PM_HumanPrimacyMutated.stages.0.description>I feel less than human like this.</PM_HumanPrimacyMutated.stages.0.description>
   <PM_HumanPrimacyMutated.stages.1.label>돌연변이</PM_HumanPrimacyMutated.stages.1.label>
-  <PM_HumanPrimacyMutated.stages.1.description>I shouldn't be as carefree about these changes as I am.</PM_HumanPrimacyMutated.stages.1.description>
+  <PM_HumanPrimacyMutated.stages.1.description>이 변화들에 대해 지금처럼 무심해선 안 될 것 같아요.</PM_HumanPrimacyMutated.stages.1.description>
   <PM_HumanPrimacyMutated.stages.2.label>돌연변이</PM_HumanPrimacyMutated.stages.2.label>
   <PM_HumanPrimacyMutated.stages.2.description>I am stained by the tarnish of animalism on my human form.</PM_HumanPrimacyMutated.stages.2.description>
   <PM_GainedVeneratedMutation.stages.0.label>venerated {ANIMALKIND} mutation</PM_GainedVeneratedMutation.stages.0.label>
   <PM_GainedVeneratedMutation.stages.0.description>It's certainly eye-catching.</PM_GainedVeneratedMutation.stages.0.description>
-  <PM_GainedVeneratedMutation.stages.1.label>venerated {ANIMALKIND} mutation</PM_GainedVeneratedMutation.stages.1.label>
+  <PM_GainedVeneratedMutation.stages.1.label>존경하는 {ANIMALKIND} 변이</PM_GainedVeneratedMutation.stages.1.label>
   <PM_GainedVeneratedMutation.stages.1.description>If I change enough, will people venerate me?.</PM_GainedVeneratedMutation.stages.1.description>
-  <PM_GainedVeneratedMutation.stages.2.label>venerated {ANIMALKIND} mutation</PM_GainedVeneratedMutation.stages.2.label>
+  <PM_GainedVeneratedMutation.stages.2.label>존경하는 {ANIMALKIND} 변이</PM_GainedVeneratedMutation.stages.2.label>
   <PM_GainedVeneratedMutation.stages.2.description>I venerate them, I don't necessarily want to *be* them!</PM_GainedVeneratedMutation.stages.2.description>
-  <PM_GainedVeneratedMutation.stages.3.label>venerated {ANIMALKIND} mutation</PM_GainedVeneratedMutation.stages.3.label>
+  <PM_GainedVeneratedMutation.stages.3.label>존경하는 {ANIMALKIND} 변이</PM_GainedVeneratedMutation.stages.3.label>
   <PM_GainedVeneratedMutation.stages.3.description>When I change enough, people will venerate *me*.</PM_GainedVeneratedMutation.stages.3.description>
   <PM_FleshPuristTransformed.stages.0.label>purist transformed</PM_FleshPuristTransformed.stages.0.label>
   <PM_FleshPuristTransformed.stages.0.description>My pure body is permanently stained by this horrific transformation!</PM_FleshPuristTransformed.stages.0.description>
-  <PM_FleshPuristTransformed.stages.1.label>purist transformed</PM_FleshPuristTransformed.stages.1.label>
+  <PM_FleshPuristTransformed.stages.1.label>순수주의자 변형됨</PM_FleshPuristTransformed.stages.1.label>
   <PM_FleshPuristTransformed.stages.1.description>I feel so different. Can I still be pure like this? Surely not...</PM_FleshPuristTransformed.stages.1.description>
-  <PM_FleshPuristTransformed.stages.2.label>purist transformed</PM_FleshPuristTransformed.stages.2.label>
+  <PM_FleshPuristTransformed.stages.2.label>순수주의자 변형됨</PM_FleshPuristTransformed.stages.2.label>
   <PM_FleshPuristTransformed.stages.2.description>UNCLEAN! UNCLEAN! UNCLEAN!</PM_FleshPuristTransformed.stages.2.description>
   <PM_NaturePrimacyTransformed.stages.0.label>naturist transformed</PM_NaturePrimacyTransformed.stages.0.label>
   <PM_NaturePrimacyTransformed.stages.0.description>A little on the extreme side, but if this is what must be done for nature to be prime, then I am all for it.</PM_NaturePrimacyTransformed.stages.0.description>
-  <PM_NaturePrimacyTransformed.stages.1.label>naturist transformed</PM_NaturePrimacyTransformed.stages.1.label>
+  <PM_NaturePrimacyTransformed.stages.1.label>자연주의자 변형됨</PM_NaturePrimacyTransformed.stages.1.label>
   <PM_NaturePrimacyTransformed.stages.1.description>I am more than one with nature, I *am* nature.</PM_NaturePrimacyTransformed.stages.1.description>
-  <PM_NaturePrimacyTransformed.stages.2.label>naturist transformed</PM_NaturePrimacyTransformed.stages.2.label>
+  <PM_NaturePrimacyTransformed.stages.2.label>자연주의자 변형됨</PM_NaturePrimacyTransformed.stages.2.label>
   <PM_NaturePrimacyTransformed.stages.2.description>Sure, I'm part of nature now, but what if nature thinks we're impostors? I'm not sold...</PM_NaturePrimacyTransformed.stages.2.description>
   <PM_HumanPrimacyTransformed.stages.0.label>primist transformed</PM_HumanPrimacyTransformed.stages.0.label>
   <PM_HumanPrimacyTransformed.stages.0.description>Well, there go my weekend plans for BEING A PURE HUMAN BEING.</PM_HumanPrimacyTransformed.stages.0.description>
-  <PM_HumanPrimacyTransformed.stages.1.label>primist transformed</PM_HumanPrimacyTransformed.stages.1.label>
+  <PM_HumanPrimacyTransformed.stages.1.label>원시주의자 변형됨</PM_HumanPrimacyTransformed.stages.1.label>
   <PM_HumanPrimacyTransformed.stages.1.description>I feel so very different. I'm surely impure like this.</PM_HumanPrimacyTransformed.stages.1.description>
-  <PM_HumanPrimacyTransformed.stages.2.label>primist transformed</PM_HumanPrimacyTransformed.stages.2.label>
+  <PM_HumanPrimacyTransformed.stages.2.label>원시주의자 변형됨</PM_HumanPrimacyTransformed.stages.2.label>
   <PM_HumanPrimacyTransformed.stages.2.description>I am a HUMAN BEING, not an animal, this is the unholiest thing I can imagine.</PM_HumanPrimacyTransformed.stages.2.description>
   <PM_FleshPuristReverted.stages.0.label>purist reverted</PM_FleshPuristReverted.stages.0.label>
   <PM_FleshPuristReverted.stages.0.description>Their flesh is restored. They are once again clean.</PM_FleshPuristReverted.stages.0.description>
@@ -2145,7 +2145,7 @@
   <PM_NaturePrimacyMorphed.stages.0.label>변이됨</PM_NaturePrimacyMorphed.stages.0.label>
   <PM_NaturePrimacyMorphed.stages.0.description>My body is a temple to nature.</PM_NaturePrimacyMorphed.stages.0.description>
   <PM_HumanPrimacyMorphed.stages.0.label>변이됨</PM_HumanPrimacyMorphed.stages.0.label>
-  <PM_HumanPrimacyMorphed.stages.0.description>My body is cursed and animalistic.</PM_HumanPrimacyMorphed.stages.0.description>
+  <PM_HumanPrimacyMorphed.stages.0.description>내 몸통은 저주받고 동물적입니다.</PM_HumanPrimacyMorphed.stages.0.description>
   <PM_VeneratedAnimalMorphed.stages.0.label>venerated {ANIMALKIND} morph</PM_VeneratedAnimalMorphed.stages.0.label>
   <PM_VeneratedAnimalMorphed.stages.0.description>I am blessed to become closer to the wonderful {ANIMALKIND}.</PM_VeneratedAnimalMorphed.stages.0.description>
   <PM_FleshPuristMorphedReverted.stages.0.label>되돌아옴</PM_FleshPuristMorphedReverted.stages.0.label>
@@ -2326,39 +2326,39 @@
   <FH_PersistentThoughtVeneratedAnimal.stages.4.description>...음식?</FH_PersistentThoughtVeneratedAnimal.stages.4.description>
   <FH_PersistentThoughtVeneratedAnimal.stages.5.label>... (venerated animal)</FH_PersistentThoughtVeneratedAnimal.stages.5.label>
   <FH_PersistentThoughtVeneratedAnimal.stages.5.description>음식!</FH_PersistentThoughtVeneratedAnimal.stages.5.description>
-  <FH_PersistentThoughtMAVeneratedAnimal.stages.0.label>changed (venerated)</FH_PersistentThoughtMAVeneratedAnimal.stages.0.label>
+  <FH_PersistentThoughtMAVeneratedAnimal.stages.0.label>변경됨 (존경함)</FH_PersistentThoughtMAVeneratedAnimal.stages.0.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.0.description>Look at me, I am venerated now.</FH_PersistentThoughtMAVeneratedAnimal.stages.0.description>
-  <FH_PersistentThoughtMAVeneratedAnimal.stages.1.label>lingering instinct (venerated)</FH_PersistentThoughtMAVeneratedAnimal.stages.1.label>
+  <FH_PersistentThoughtMAVeneratedAnimal.stages.1.label>남아 있는 본능 (존경함)</FH_PersistentThoughtMAVeneratedAnimal.stages.1.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.1.description>More patting, yes. It just feels right.</FH_PersistentThoughtMAVeneratedAnimal.stages.1.description>
-  <FH_PersistentThoughtMAVeneratedAnimal.stages.2.label>conflicted mind (venerated)</FH_PersistentThoughtMAVeneratedAnimal.stages.2.label>
+  <FH_PersistentThoughtMAVeneratedAnimal.stages.2.label>갈등하는 마음 (존경함)</FH_PersistentThoughtMAVeneratedAnimal.stages.2.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.2.description>I love the attention...</FH_PersistentThoughtMAVeneratedAnimal.stages.2.description>
-  <FH_PersistentThoughtMAVeneratedAnimal.stages.3.label>hard to think (venerated)</FH_PersistentThoughtMAVeneratedAnimal.stages.3.label>
+  <FH_PersistentThoughtMAVeneratedAnimal.stages.3.label>생각하기 어렵다 (존경함)</FH_PersistentThoughtMAVeneratedAnimal.stages.3.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.3.description>What is...worship...?</FH_PersistentThoughtMAVeneratedAnimal.stages.3.description>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.4.label>feral animal (venerated) </FH_PersistentThoughtMAVeneratedAnimal.stages.4.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.4.description>...음식?</FH_PersistentThoughtMAVeneratedAnimal.stages.4.description>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.5.label>...</FH_PersistentThoughtMAVeneratedAnimal.stages.5.label>
   <FH_PersistentThoughtMAVeneratedAnimal.stages.5.description>음식!</FH_PersistentThoughtMAVeneratedAnimal.stages.5.description>
-  <FH_PersistentThoughtBPVeneratedAnimal.stages.0.label>changed (venerated)</FH_PersistentThoughtBPVeneratedAnimal.stages.0.label>
+  <FH_PersistentThoughtBPVeneratedAnimal.stages.0.label>변경됨 (존경함)</FH_PersistentThoughtBPVeneratedAnimal.stages.0.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.0.description>Venerate me all you want you twisted weirdos, I just want to be human again.</FH_PersistentThoughtBPVeneratedAnimal.stages.0.description>
-  <FH_PersistentThoughtBPVeneratedAnimal.stages.1.label>lingering instinct (venerated)</FH_PersistentThoughtBPVeneratedAnimal.stages.1.label>
+  <FH_PersistentThoughtBPVeneratedAnimal.stages.1.label>남아 있는 본능 (존경함)</FH_PersistentThoughtBPVeneratedAnimal.stages.1.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.1.description>Ugh, I can hear the whispered thoughts of instinct nibbling at my brain. And stop patting me!</FH_PersistentThoughtBPVeneratedAnimal.stages.1.description>
-  <FH_PersistentThoughtBPVeneratedAnimal.stages.2.label>conflicted mind (venerated)</FH_PersistentThoughtBPVeneratedAnimal.stages.2.label>
+  <FH_PersistentThoughtBPVeneratedAnimal.stages.2.label>갈등하는 마음 (존경함)</FH_PersistentThoughtBPVeneratedAnimal.stages.2.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.2.description>Ghh...I'm human...I'm human...leave me alone...</FH_PersistentThoughtBPVeneratedAnimal.stages.2.description>
-  <FH_PersistentThoughtBPVeneratedAnimal.stages.3.label>hard to think (venerated)</FH_PersistentThoughtBPVeneratedAnimal.stages.3.label>
+  <FH_PersistentThoughtBPVeneratedAnimal.stages.3.label>생각하기 어렵다 (존경함)</FH_PersistentThoughtBPVeneratedAnimal.stages.3.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.3.description>I'm hu...man...I think...no...wrong...</FH_PersistentThoughtBPVeneratedAnimal.stages.3.description>
-  <FH_PersistentThoughtBPVeneratedAnimal.stages.4.label>feral animal (venerated)</FH_PersistentThoughtBPVeneratedAnimal.stages.4.label>
+  <FH_PersistentThoughtBPVeneratedAnimal.stages.4.label>야생 동물 (존경함)</FH_PersistentThoughtBPVeneratedAnimal.stages.4.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.4.description>...음식?</FH_PersistentThoughtBPVeneratedAnimal.stages.4.description>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.5.label>...</FH_PersistentThoughtBPVeneratedAnimal.stages.5.label>
   <FH_PersistentThoughtBPVeneratedAnimal.stages.5.description>음식!</FH_PersistentThoughtBPVeneratedAnimal.stages.5.description>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.0.label>primal wish fulfilled (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.0.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.0.description>I am your god now, and I want nothing less than the respect I deserve.</FH_PersistentThoughtPWVeneratedAnimal.stages.0.description>
-  <FH_PersistentThoughtPWVeneratedAnimal.stages.1.label>lingering instinct (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.1.label>
+  <FH_PersistentThoughtPWVeneratedAnimal.stages.1.label>남아 있는 본능 (존경함)</FH_PersistentThoughtPWVeneratedAnimal.stages.1.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.1.description>I am your god, so give me pats and treats.</FH_PersistentThoughtPWVeneratedAnimal.stages.1.description>
-  <FH_PersistentThoughtPWVeneratedAnimal.stages.2.label>conflicted mind (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.2.label>
+  <FH_PersistentThoughtPWVeneratedAnimal.stages.2.label>갈등하는 마음 (존경함)</FH_PersistentThoughtPWVeneratedAnimal.stages.2.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.2.description>I'm ok...with this life...</FH_PersistentThoughtPWVeneratedAnimal.stages.2.description>
-  <FH_PersistentThoughtPWVeneratedAnimal.stages.3.label>hard to think (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.3.label>
+  <FH_PersistentThoughtPWVeneratedAnimal.stages.3.label>생각하기 어렵다 (존경함)</FH_PersistentThoughtPWVeneratedAnimal.stages.3.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.3.description>I can finally...relax and...enjoy life...</FH_PersistentThoughtPWVeneratedAnimal.stages.3.description>
-  <FH_PersistentThoughtPWVeneratedAnimal.stages.4.label>feral animal (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.4.label>
+  <FH_PersistentThoughtPWVeneratedAnimal.stages.4.label>야생 동물 (숭배됨)</FH_PersistentThoughtPWVeneratedAnimal.stages.4.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.4.description>...음식?</FH_PersistentThoughtPWVeneratedAnimal.stages.4.description>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.5.label>... (venerated)</FH_PersistentThoughtPWVeneratedAnimal.stages.5.label>
   <FH_PersistentThoughtPWVeneratedAnimal.stages.5.description>음식!</FH_PersistentThoughtPWVeneratedAnimal.stages.5.description>
@@ -2448,13 +2448,13 @@
   <PW_AnimalisticThoughtPersistant.stages.3.description>집중하기가 어려워... 근데 왜 집중해야 하지?</PW_AnimalisticThoughtPersistant.stages.3.description>
   <PW_AnimalisticThoughtPersistant.stages.4.label>야생</PW_AnimalisticThoughtPersistant.stages.4.label>
   <PW_AnimalisticThoughtPersistant.stages.4.description>기분 조아!</PW_AnimalisticThoughtPersistant.stages.4.description>
-  <HerdMindedAThought.stages.0.label>no herd</HerdMindedAThought.stages.0.label>
+  <HerdMindedAThought.stages.0.label>무리 없음</HerdMindedAThought.stages.0.label>
   <HerdMindedAThought.stages.0.description>나와 같은 종류의 사람은 나 혼자뿐이에요. 혼자라서 너무 불안해요.</HerdMindedAThought.stages.0.description>
-  <HerdMindedAThought.stages.1.label>small herd</HerdMindedAThought.stages.1.label>
+  <HerdMindedAThought.stages.1.label>작은 무리</HerdMindedAThought.stages.1.label>
   <HerdMindedAThought.stages.1.description>나와 같은 사람이 있긴 하지만, 우리는 여전히 소수의 무리일 뿐이에요. 아직 안전하다고 느끼지 못해요.</HerdMindedAThought.stages.1.description>
-  <HerdMindedAThought.stages.2.label>decent herd</HerdMindedAThought.stages.2.label>
+  <HerdMindedAThought.stages.2.label>적당한 무리</HerdMindedAThought.stages.2.label>
   <HerdMindedAThought.stages.2.description>우리 무리 안에는 사람들이 꽤 있어요. 수가 많으니 안전해요!</HerdMindedAThought.stages.2.description>
-  <HerdMindedAThought.stages.3.label>huge herd</HerdMindedAThought.stages.3.label>
+  <HerdMindedAThought.stages.3.label>거대한 무리</HerdMindedAThought.stages.3.label>
   <HerdMindedAThought.stages.3.description>우리 무리 안에는 사람들이 많아요. 두려울 것이 없어요!</HerdMindedAThought.stages.3.description>
   <PM_HerdMindedBedroom.stages.0.label>끔찍한 침실</PM_HerdMindedBedroom.stages.0.label>
   <PM_HerdMindedBedroom.stages.0.description>I had to sleep alone in an awful room, without even my herd to keep me safe.</PM_HerdMindedBedroom.stages.0.description>
@@ -2463,7 +2463,7 @@
   <PM_HerdMindedBedroom.stages.2.label>평범한 침실</PM_HerdMindedBedroom.stages.2.label>
   <PM_HerdMindedBedroom.stages.2.description>I had to sleep in a room all by myself, away from the safety of the herd.</PM_HerdMindedBedroom.stages.2.description>
   <PM_HerdMindedBedroom.stages.3.label>적당한 침실</PM_HerdMindedBedroom.stages.3.label>
-  <PM_HerdMindedBedroom.stages.3.description>I had to sleep in a room all by myself, away from the safety of the herd.</PM_HerdMindedBedroom.stages.3.description>
+  <PM_HerdMindedBedroom.stages.3.description>나는 무리의 안전함으로부터 멀리 혼자서 방에서 잠을 자야 했다.</PM_HerdMindedBedroom.stages.3.description>
   <PM_HerdMindedBedroom.stages.4.label>약간 인상적인 침실</PM_HerdMindedBedroom.stages.4.label>
   <PM_HerdMindedBedroom.stages.4.description>I had to sleep on my own in a slightly impressive bedroom. It was alright, but I felt unsafe without the rest of my herd.</PM_HerdMindedBedroom.stages.4.description>
   <PM_HerdMindedBedroom.stages.5.label>인상적인 침실</PM_HerdMindedBedroom.stages.5.label>
@@ -2500,13 +2500,13 @@
   <PM_HerdMindedAscetic.stages.0.description>I had to sleep in a room by myself, away from the safety of my herd.</PM_HerdMindedAscetic.stages.0.description>
   <PM_HerdMindedAscetic.stages.1.label>ascetic slept with herd</PM_HerdMindedAscetic.stages.1.label>
   <PM_HerdMindedAscetic.stages.1.description>I was able to share a barrack with my herd. It felt safe and comfy.</PM_HerdMindedAscetic.stages.1.description>
-  <PackMindAThought.stages.0.label>no pack</PackMindAThought.stages.0.label>
+  <PackMindAThought.stages.0.label>팩 없음</PackMindAThought.stages.0.label>
   <PackMindAThought.stages.0.description>나와 같은 종류의 사람은 나 혼자뿐이에요. 제대로된 무리가 없어서 너무 외로워요.</PackMindAThought.stages.0.description>
-  <PackMindAThought.stages.1.label>small pack</PackMindAThought.stages.1.label>
+  <PackMindAThought.stages.1.label>작은 팩</PackMindAThought.stages.1.label>
   <PackMindAThought.stages.1.description>나와 같은 사람이 있기는 하지만, 우리는 아직 작은 무리일 뿐이에요. 조금 쓸쓸해요.</PackMindAThought.stages.1.description>
-  <PackMindAThought.stages.2.label>decent pack</PackMindAThought.stages.2.label>
+  <PackMindAThought.stages.2.label>괜찮은 팩</PackMindAThought.stages.2.label>
   <PackMindAThought.stages.2.description>우리 무리 안에 사람들이 괜찮은 수로 있어요. 함께 있어서 기뻐요.</PackMindAThought.stages.2.description>
-  <PackMindAThought.stages.3.label>huge pack</PackMindAThought.stages.3.label>
+  <PackMindAThought.stages.3.label>거대한 팩</PackMindAThought.stages.3.label>
   <PackMindAThought.stages.3.description>내 패거리에는 많은 사람들이 있어, 이건 굉장해!</PackMindAThought.stages.3.description>
   <PM_PackMindedBedroom.stages.0.label>끔찍한 침실</PM_PackMindedBedroom.stages.0.label>
   <PM_PackMindedBedroom.stages.0.description>I had to sleep in an awful room, and I didn't even get to share it with my pack.</PM_PackMindedBedroom.stages.0.description>
@@ -2515,7 +2515,7 @@
   <PM_PackMindedBedroom.stages.2.label>평범한 침실</PM_PackMindedBedroom.stages.2.label>
   <PM_PackMindedBedroom.stages.2.description>I had to sleep on my own, separated from my pack.</PM_PackMindedBedroom.stages.2.description>
   <PM_PackMindedBedroom.stages.3.label>적당한 침실</PM_PackMindedBedroom.stages.3.label>
-  <PM_PackMindedBedroom.stages.3.description>I had to sleep on my own, separated from my pack.</PM_PackMindedBedroom.stages.3.description>
+  <PM_PackMindedBedroom.stages.3.description>나는 내 팩에서 떨어져 혼자 잠을 자야만 했다.</PM_PackMindedBedroom.stages.3.description>
   <PM_PackMindedBedroom.stages.4.label>약간 인상적인 침실</PM_PackMindedBedroom.stages.4.label>
   <PM_PackMindedBedroom.stages.4.description>I had to sleep on my own in a slightly impressive bedroom. It was alright, but I'd prefer to sleep with my pack.</PM_PackMindedBedroom.stages.4.description>
   <PM_PackMindedBedroom.stages.5.label>인상적인 침실</PM_PackMindedBedroom.stages.5.label>
@@ -2548,7 +2548,7 @@
   <PM_PackMindedBarrack.stages.8.description>The pack got to share a barrack that was unbelievably impressive. There's nothing better than sleeping with my pack in a room like this.</PM_PackMindedBarrack.stages.8.description>
   <PM_PackMindedBarrack.stages.9.label>놀랄 만큼 인상적인 막사</PM_PackMindedBarrack.stages.9.label>
   <PM_PackMindedBarrack.stages.9.description>The pack got to share a barrack that was simply wondrous. I could just stay here with my pack forever.</PM_PackMindedBarrack.stages.9.description>
-  <PM_PackMindedAscetic.stages.0.label>ascetic slept alone</PM_PackMindedAscetic.stages.0.label>
+  <PM_PackMindedAscetic.stages.0.label>금욕적인 자가 혼자 잤다</PM_PackMindedAscetic.stages.0.label>
   <PM_PackMindedAscetic.stages.0.description>I had to sleep in a room by myself, away from my pack.</PM_PackMindedAscetic.stages.0.description>
   <PM_PackMindedAscetic.stages.1.label>ascetic slept with pack</PM_PackMindedAscetic.stages.1.label>
   <PM_PackMindedAscetic.stages.1.description>I was able to share a barrack with my pack. It was nice and cozy together.</PM_PackMindedAscetic.stages.1.description>

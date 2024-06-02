@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>mutagen_cause->bulidup from [weapon_label]</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>
-  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>caused_by->caused by</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>
-  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>caused_by->because of</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>
-  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>
-  <PM_FalloutMutagen.causeRulePack.rulesStrings.0>mutagen_cause->bulidup from mutagenic fallout</PM_FalloutMutagen.causeRulePack.rulesStrings.0>
-  <PM_FalloutMutagen.causeRulePack.rulesStrings.1>caused_by->caused by</PM_FalloutMutagen.causeRulePack.rulesStrings.1>
-  <PM_FalloutMutagen.causeRulePack.rulesStrings.2>caused_by->because of</PM_FalloutMutagen.causeRulePack.rulesStrings.2>
-  <PM_FalloutMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_FalloutMutagen.causeRulePack.rulesStrings.3>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.0>mutagen_cause->standing too close to mutanite</PM_MutaniteMutagen.causeRulePack.rulesStrings.0>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.1>mutagen_cause->licking weird glowing rocks</PM_MutaniteMutagen.causeRulePack.rulesStrings.1>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.2>caused_by->from</PM_MutaniteMutagen.causeRulePack.rulesStrings.2>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.3>caused_by->caused by</PM_MutaniteMutagen.causeRulePack.rulesStrings.3>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.4>caused_by->because of</PM_MutaniteMutagen.causeRulePack.rulesStrings.4>
-  <PM_MutaniteMutagen.causeRulePack.rulesStrings.5>caused_by->after</PM_MutaniteMutagen.causeRulePack.rulesStrings.5>
-  <PM_ChaobulbHarvest.label>chaobulb harvest</PM_ChaobulbHarvest.label>
-  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>mutagen_cause->failed chaobulb harvest</PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>
-  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>caused_by->from</PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>
-  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>caused_by->caused by</PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>
-  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>caused_by->because of</PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>
-  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>caused_by->after</PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>
-  <PM_FightingMutagen.causeRulePack.rulesStrings.0>mutagen_cause->a fight</PM_FightingMutagen.causeRulePack.rulesStrings.0>
-  <PM_FightingMutagen.causeRulePack.rulesStrings.1>mutagen_cause->fighting someone</PM_FightingMutagen.causeRulePack.rulesStrings.1>
-  <PM_FightingMutagen.causeRulePack.rulesStrings.2>caused_by->from</PM_FightingMutagen.causeRulePack.rulesStrings.2>
-  <PM_FightingMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_FightingMutagen.causeRulePack.rulesStrings.3>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>mutagen_cause->무기 라벨에서의 축적</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>caused_by->로 인해</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>caused_by->~ 때문에</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>caused_by->이후</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.0>mutagen_cause->변형 유인체 fallout에서의 축적</PM_FalloutMutagen.causeRulePack.rulesStrings.0>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.1>caused_by->로 인해</PM_FalloutMutagen.causeRulePack.rulesStrings.1>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.2>caused_by->~ 때문에</PM_FalloutMutagen.causeRulePack.rulesStrings.2>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.3>caused_by->이후</PM_FalloutMutagen.causeRulePack.rulesStrings.3>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.0>mutagen_cause->뮤타나이트 근처에서 너무 오래 있기</PM_MutaniteMutagen.causeRulePack.rulesStrings.0>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.1>mutagen_cause->이상하게 빛나는 바위 핥기</PM_MutaniteMutagen.causeRulePack.rulesStrings.1>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.2>caused_by->에서</PM_MutaniteMutagen.causeRulePack.rulesStrings.2>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.3>caused_by->로 인해</PM_MutaniteMutagen.causeRulePack.rulesStrings.3>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.4>caused_by->~ 때문에</PM_MutaniteMutagen.causeRulePack.rulesStrings.4>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.5>caused_by->이후</PM_MutaniteMutagen.causeRulePack.rulesStrings.5>
+  <PM_ChaobulbHarvest.label>chaobulb 수확</PM_ChaobulbHarvest.label>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>mutagen_cause->실패한 chaobulb 수확</PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>caused_by->에서</PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>caused_by->로 인해</PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>caused_by->~ 때문에</PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>caused_by->이후</PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.0>mutagen_cause->싸움</PM_FightingMutagen.causeRulePack.rulesStrings.0>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.1>mutagen_cause->누군가와 싸움</PM_FightingMutagen.causeRulePack.rulesStrings.1>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.2>caused_by->에서</PM_FightingMutagen.causeRulePack.rulesStrings.2>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.3>caused_by->이후</PM_FightingMutagen.causeRulePack.rulesStrings.3>
   <defaultMutagen.label>메카나이트 변형물질</defaultMutagen.label>
   <PM_ChamberMutagen.label>메카나이트 변형물질</PM_ChamberMutagen.label>
-  <PM_ChamberMutagen.causeRulePack.rulesStrings.0>mutagen_cause->being in a chamber</PM_ChamberMutagen.causeRulePack.rulesStrings.0>
-  <PM_ChamberMutagen.causeRulePack.rulesStrings.1>mutagen_cause->mutachamber</PM_ChamberMutagen.causeRulePack.rulesStrings.1>
+  <PM_ChamberMutagen.causeRulePack.rulesStrings.0>mutagen_cause->챔버 안에 있기</PM_ChamberMutagen.causeRulePack.rulesStrings.0>
+  <PM_ChamberMutagen.causeRulePack.rulesStrings.1>mutagen_cause->뮤타챔버</PM_ChamberMutagen.causeRulePack.rulesStrings.1>
   <MergeMutagen.label>변형물질 융합</MergeMutagen.label>
-  <MergeMutagen.causeRulePack.rulesStrings.0>mutagen_cause->being in a chamber</MergeMutagen.causeRulePack.rulesStrings.0>
-  <MergeMutagen.causeRulePack.rulesStrings.1>mutagen_cause->mutachamber</MergeMutagen.causeRulePack.rulesStrings.1>
+  <MergeMutagen.causeRulePack.rulesStrings.0>mutagen_cause->챔버 안에 있기</MergeMutagen.causeRulePack.rulesStrings.0>
+  <MergeMutagen.causeRulePack.rulesStrings.1>mutagen_cause->뮤타챔버</MergeMutagen.causeRulePack.rulesStrings.1>
   <HealerMutagen.label>메카나이트 변형물질</HealerMutagen.label>
 </LanguageData>
