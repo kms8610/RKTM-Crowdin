@@ -19,7 +19,7 @@
   <SapiencePillSapienceIncrease.label>인간화 중</SapiencePillSapienceIncrease.label>
   <SapiencePillSapienceIncrease.description>이 PAWN_nameDef의 지성이 인텔리부스트 알약을 통해 서서히 인간 수준으로 향상되고 있습니다.</SapiencePillSapienceIncrease.description>
   <Bullrush.description>이 PAWN_nameDef은 현재 황소돌진의 영향을 받고 있습니다.</Bullrush.description>
-  <Bullrush.label>Bullrush</Bullrush.label>
+  <Bullrush.label>불러쉬</Bullrush.label>
   <PM_Reverting.description>이 PAWN_nameDef은 서서히 인간으로 되돌아가고 있습니다.</PM_Reverting.description>
   <PM_Reverting.label>변형물질 복귀</PM_Reverting.label>
   <PM_ExperimentalInjector.label>실험용 주사기</PM_ExperimentalInjector.label>
@@ -46,7 +46,7 @@
   <2xMergedHuman.stages.3.label>mostly feral</2xMergedHuman.stages.3.label>
   <2xMergedHuman.stages.4.label>mostly feral</2xMergedHuman.stages.4.label> -->
   <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
-  <PermanentlyFeral.description>[PAWN_nameDef] used to be a human, but the mechanites in [PAWN_possessive] system have forgotten his prior form — [PAWN_pronoun] is now sealed in this form for the rest of [PAWN_possessive] life. Reversion serums will not work.</PermanentlyFeral.description>
+  <PermanentlyFeral.description>PAWN_nameDef 은 예전에는 인간이었지만, [PAWN_possessive] 체계 안의 메카나이트가 그의 예전 형태를 잊었습니다 — PAWN_pronoun 는 이제 [PAWN_possessive] 생애 나머지 기간 동안 이 형태에 고정되었습니다. 되돌리는 혈청은 효과가 없을 것입니다.</PermanentlyFeral.description>
   <WasAnimal.label>동물이었던</WasAnimal.label>
   <WasAnimal.description>PAWN_nameDef(은)는 동물로 변했다가 다시 돌아왔습니다만, PAWN_pronoun은 그것에 대해 너무 행복하지 않습니다.</WasAnimal.description>
   <WasAnimal.stages.0.label>영구적</WasAnimal.stages.0.label>
@@ -60,19 +60,19 @@
   <WasMergedRelieved.stages.2.label>지성적</WasMergedRelieved.stages.2.label>
   <WasMergedRelieved.stages.3.label>미쳐버림</WasMergedRelieved.stages.3.label>
   <WasMerged.label>뒤섞인</WasMerged.label>
-  <WasMerged.description>[PAWN_nameDef] was joined with another person in a chaotic mash of flesh and flesh, and is scarred from the experience.</WasMerged.description>
+  <WasMerged.description>PAWN_nameDef 는 다른 사람과 혼돈스러운 고기와 고기의 혼합에 합쳐졌으며, 그 경험으로 인해 흉터가 남았습니다.</WasMerged.description>
   <WasMerged.stages.0.label>영구적</WasMerged.stages.0.label>
   <WasMerged.stages.1.label>야생</WasMerged.stages.1.label>
   <WasMerged.stages.2.label>지성적</WasMerged.stages.2.label>
   <WasMerged.stages.3.label>미쳐버림</WasMerged.stages.3.label>
   <WasAnimalRelieved.label>동물이었던</WasAnimalRelieved.label>
-  <WasAnimalRelieved.description>[PAWN_nameDef] was turned into an animal, but [PAWN_pronoun] got better. However, [PAWN_pronoun] takes it as a learning opportunity.</WasAnimalRelieved.description>
+  <WasAnimalRelieved.description>PAWN_nameDef 는 동물로 변했었지만 PAWN_pronoun 은 좋아졌습니다. 하지만 PAWN_pronoun 은 그것을 학습 기회로 받아들입니다.</WasAnimalRelieved.description>
   <WasAnimalRelieved.stages.0.label>영구적</WasAnimalRelieved.stages.0.label>
   <WasAnimalRelieved.stages.1.label>야생</WasAnimalRelieved.stages.1.label>
   <WasAnimalRelieved.stages.2.label>지성적</WasAnimalRelieved.stages.2.label>
   <WasAnimalRelieved.stages.3.label>미쳐버림</WasAnimalRelieved.stages.3.label>
   <FeralPillSapienceDrop.label>야생화</FeralPillSapienceDrop.label>
-  <FeralPillSapienceDrop.description>This pawn's sapience is rapidly degrading to an animal level, thanks to the administration of feral pills.</FeralPillSapienceDrop.description>
+  <FeralPillSapienceDrop.description>이 폰의 지능은 야생 알약의 투여 덕분에 급격히 동물 수준으로 저하되고 있습니다.</FeralPillSapienceDrop.description>
   <PM_InstantStabiliserHigh.description>이 폰의 상태가 안정화 되어 추가적인 변이를 막습니다. 이 상태는 5일동안 지속되며, 지속되는 동안에는 추가적인 변이를 받을 수 없습니다.</PM_InstantStabiliserHigh.description>
   <PM_InstantStabiliserHigh.label>변형물질 안정회됨</PM_InstantStabiliserHigh.label>
   <MutagenicBuildup_Weapon.stages.0.label>초기</MutagenicBuildup_Weapon.stages.0.label>
@@ -127,7 +127,7 @@
   <PawnmorphGunshotTF.stages.0.label>감아내기</PawnmorphGunshotTF.stages.0.label>
   <PawnmorphGunshotTF.stages.1.label>변이-무력화</PawnmorphGunshotTF.stages.1.label>
   <MutagenicDisease.label>변형 유인체 질병</MutagenicDisease.label>
-  <MutagenicDisease.description>This pawn has contracted a mutagenic disease due to a high level of mutagenic mechanites in their body. If untreated, the pawn may become closer to an animal...</MutagenicDisease.description>
+  <MutagenicDisease.description>이 폰은 체내의 높은 수준의 변형 유인체 메카나이트로 인해 변형성 질병에 걸렸습니다. 치료하지 않으면, 폰은 동물에 가까워질 수 있습니다...</MutagenicDisease.description>
   <MutagenicDisease.stages.0.label>초기</MutagenicDisease.stages.0.label>
   <MutagenicDisease.stages.1.label>가벼움</MutagenicDisease.stages.1.label>
   <MutagenicDisease.stages.2.label>심각함</MutagenicDisease.stages.2.label>
@@ -135,14 +135,14 @@
   <MutagenicDisease.stages.4.label>tf time</MutagenicDisease.stages.4.label>
   <PM_MutagenicInfection.label>변형 유인체 감염</PM_MutagenicInfection.label>
   <PM_MutagenicInfection.labelNoun>변형 유인체 감염</PM_MutagenicInfection.labelNoun>
-  <PM_MutagenicInfection.description>Mutagenic mechanites have infected this wound, causing mutations unless treated.</PM_MutagenicInfection.description>
+  <PM_MutagenicInfection.description>변형 유인체 메카나이트가 이 상처에 감염되어 치료하지 않으면 변이를 일으키게 됩니다.</PM_MutagenicInfection.description>
   <PM_MutagenicInfection.stages.0.label>가벼움</PM_MutagenicInfection.stages.0.label>
   <PM_MutagenicInfection.stages.1.label>심각함</PM_MutagenicInfection.stages.1.label>
   <PM_MutagenicInfection.stages.2.label>극심함</PM_MutagenicInfection.stages.2.label>
   <PM_MutagenicInfection.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</PM_MutagenicInfection.stages.2.letterText>
   <PM_MutagenicInfection.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</PM_MutagenicInfection.stages.2.letterLabel>
   <PM_MutagenicInfection.stages.3.label>넓은 수염</PM_MutagenicInfection.stages.3.label>
-  <FoxFlu.label>fox fever (depreciated)</FoxFlu.label>
+  <FoxFlu.label>여우 열병 (중단됨)</FoxFlu.label>
   <FoxFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 묘한 '여우'로움을 느낍니다.</FoxFlu.description>
   <FoxFlu.stages.0.label>가벼움</FoxFlu.stages.0.label>
   <FoxFlu.stages.1.label>심각함</FoxFlu.stages.1.label>
@@ -150,7 +150,7 @@
   <FoxFlu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</FoxFlu.stages.2.letterText>
   <FoxFlu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</FoxFlu.stages.2.letterLabel>
   <FoxFlu.stages.3.label>넓은 수염</FoxFlu.stages.3.label>
-  <Chookflu.label>chook pox (depreciated)</Chookflu.label>
+  <Chookflu.label>닭 진드기 (중단됨)</Chookflu.label>
   <Chookflu.description>이 폰은 변형 유인 질병에 걸렸습니다. '꼬꼬댁'' 거리며 고개를 앞뒤로 흔들게 만드는 것 같습니다.</Chookflu.description>
   <Chookflu.stages.0.label>가벼움</Chookflu.stages.0.label>
   <Chookflu.stages.1.label>심각함</Chookflu.stages.1.label>
@@ -158,7 +158,7 @@
   <Chookflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chookflu.stages.2.letterText>
   <Chookflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chookflu.stages.2.letterLabel>
   <Chookflu.stages.3.label>넓은 수염</Chookflu.stages.3.label>
-  <Swineflu.label>swine flu (depreciated)</Swineflu.label>
+  <Swineflu.label>돼지 독감 (중단됨)</Swineflu.label>
   <Swineflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 땅을 파고 진흙에 뒹굴고 싶은 충동을 주는 것 같습니다.</Swineflu.description>
   <Swineflu.stages.0.label>가벼움</Swineflu.stages.0.label>
   <Swineflu.stages.1.label>심각함</Swineflu.stages.1.label>
@@ -166,7 +166,7 @@
   <Swineflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Swineflu.stages.2.letterText>
   <Swineflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Swineflu.stages.2.letterLabel>
   <Swineflu.stages.3.label>넓은 수염</Swineflu.stages.3.label>
-  <Cowflu.label>mad cow disease (depreciated)</Cowflu.label>
+  <Cowflu.label>광우병 (중단됨)</Cowflu.label>
   <Cowflu.description>이 폰은 변형 유인 질병에 걸렸습니다. 큰 소리로 '음머' 하고 울고 싶은 충동을 주는 것 같습니다.</Cowflu.description>
   <Cowflu.stages.0.label>가벼움</Cowflu.stages.0.label>
   <Cowflu.stages.1.label>심각함</Cowflu.stages.1.label>
@@ -174,7 +174,7 @@
   <Cowflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Cowflu.stages.2.letterText>
   <Cowflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Cowflu.stages.2.letterLabel>
   <Cowflu.stages.3.label>넓은 수염</Cowflu.stages.3.label>
-  <Chaoflu.label>mutagenic mechanites (depreciated)</Chaoflu.label>
+  <Chaoflu.label>변형 유인체 메카나이트 (중단됨)</Chaoflu.label>
   <Chaoflu.description>이 폰은 굉장히 무작위적이고 혼돈적인 변형 유인 질병에 걸렸습니다. 이것은 체내의 쌓인 변형 유인체 메카나이트의 충돌로 인해 발생 하였습니다.</Chaoflu.description>
   <Chaoflu.stages.0.label>가벼움</Chaoflu.stages.0.label>
   <Chaoflu.stages.1.label>심각함</Chaoflu.stages.1.label>
@@ -182,7 +182,7 @@
   <Chaoflu.stages.2.letterText>[PAWN_nameDef](은)는 곧 동물로 변하게 될 위험이 있습니다. 안정제를 사용해서 변이를 방지 할 수 있습니다.</Chaoflu.stages.2.letterText>
   <Chaoflu.stages.2.letterLabel>[PAWN_nameDef](은)는 곧 전신 변이를 겪게 될 수 있습니다.</Chaoflu.stages.2.letterLabel>
   <Chaoflu.stages.3.label>넓은 수염</Chaoflu.stages.3.label>
-  <HuskyFlu.label>kennel cough (depreciated)</HuskyFlu.label>
+  <HuskyFlu.label>켄넬 기침 (중단됨)</HuskyFlu.label>
   <HuskyFlu.description>이 폰은 변형 유인 질병에 걸렸습니다. 자기의 꼬리를 쫓으며 짖고 싶은 충동을 주는 것 같습니다.</HuskyFlu.description>
   <HuskyFlu.stages.0.label>가벼움</HuskyFlu.stages.0.label>
   <HuskyFlu.stages.1.label>심각함</HuskyFlu.stages.1.label>
@@ -198,47 +198,47 @@
   <PawnmorphChickenTFPartial.label>불완전한 닭 변이체</PawnmorphChickenTFPartial.label>
   <PawnmorphChickenTFPartial.description>이 사람의 혈액속에는 닭과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphChickenTFPartial.description>
   <PawnmorphTurkeyTF.label>터키모프</PawnmorphTurkeyTF.label>
-  <PawnmorphTurkeyTF.description>This person has mechanites in their blood that are slowly mutating them into a turkeymorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphTurkeyTF.description>
+  <PawnmorphTurkeyTF.description>이 사람의 혈액속에는 그들을 점차적으로 칠면조로 변이시키는 메카나이트가 있습니다. 그들 주변을 잘 살펴야 합니다, 메카나이트를 방치하면 그들이 훨씬 더 조류보다는 인간에 가까워질 위험이 있습니다.</PawnmorphTurkeyTF.description>
   <PawnmorphTurkeyTF.stages.0.label>감아내기</PawnmorphTurkeyTF.stages.0.label>
   <PawnmorphTurkeyTF.stages.1.label>변이중</PawnmorphTurkeyTF.stages.1.label>
   <PawnmorphTurkeyTF.stages.2.label>동물화중</PawnmorphTurkeyTF.stages.2.label>
-  <PawnmorphTurkeyTFPartial.label>turkeymorph partial</PawnmorphTurkeyTFPartial.label>
-  <PawnmorphTurkeyTFPartial.description>This person has mechanites in their blood that are providing them with turkey-esque mutations.</PawnmorphTurkeyTFPartial.description>
-  <PawnmorphDuckTF.label>Duckmorph</PawnmorphDuckTF.label>
-  <PawnmorphDuckTF.description>This person has mechanites in their blood that are slowly mutating them into a duckmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphDuckTF.description>
+  <PawnmorphTurkeyTFPartial.label>칠면조로 변형 부분적</PawnmorphTurkeyTFPartial.label>
+  <PawnmorphTurkeyTFPartial.description>이 사람의 혈액속에는 칠면조 같은 변이를 유도하는 메카나이트가 있습니다.</PawnmorphTurkeyTFPartial.description>
+  <PawnmorphDuckTF.label>오리형 변형체</PawnmorphDuckTF.label>
+  <PawnmorphDuckTF.description>이 사람의 혈액속에는 그들을 점차적으로 오리형 변형체로 변이시키는 메카나이트가 있습니다. 그들 주변을 잘 살펴야 합니다, 메카나이트를 방치하면 그들이 훨씬 더 조류보다는 인간에 가까워질 위험이 있습니다.</PawnmorphDuckTF.description>
   <PawnmorphDuckTF.stages.0.label>감아내기</PawnmorphDuckTF.stages.0.label>
   <PawnmorphDuckTF.stages.1.label>변이중</PawnmorphDuckTF.stages.1.label>
   <PawnmorphDuckTF.stages.2.label>동물화중</PawnmorphDuckTF.stages.2.label>
-  <PawnmorphDuckTFPartial.label>duckmorph partial</PawnmorphDuckTFPartial.label>
-  <PawnmorphDuckTFPartial.description>This person has mechanites in their blood that are providing them with duck-esque mutations.</PawnmorphDuckTFPartial.description>
+  <PawnmorphDuckTFPartial.label>오리형 변형 부분적</PawnmorphDuckTFPartial.label>
+  <PawnmorphDuckTFPartial.description>이 사람의 혈액속에는 오리 같은 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDuckTFPartial.description>
   <PawnmorphGooseTF.label>거위모프</PawnmorphGooseTF.label>
-  <PawnmorphGooseTF.description>This person has mechanites in their blood that are slowly mutating them into a goosemorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphGooseTF.description>
+  <PawnmorphGooseTF.description>이 사람의 혈액에는 신체를 천천히 거위 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphGooseTF.description>
   <PawnmorphGooseTF.stages.0.label>감아내기</PawnmorphGooseTF.stages.0.label>
   <PawnmorphGooseTF.stages.1.label>변이중</PawnmorphGooseTF.stages.1.label>
   <PawnmorphGooseTF.stages.2.label>동물화중</PawnmorphGooseTF.stages.2.label>
-  <PawnmorphGooseTFPartial.label>goosemorph partial</PawnmorphGooseTFPartial.label>
-  <PawnmorphGooseTFPartial.description>This person has mechanites in their blood that are providing them with goose-esque mutations.</PawnmorphGooseTFPartial.description>
+  <PawnmorphGooseTFPartial.label>거위 변이체 부분적</PawnmorphGooseTFPartial.label>
+  <PawnmorphGooseTFPartial.description>이 사람의 혈액에는 그들에게 거위 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphGooseTFPartial.description>
   <PawnmorphCassowaryTF.label>코사와리모프</PawnmorphCassowaryTF.label>
-  <PawnmorphCassowaryTF.description>This person has mechanites in their blood that are slowly mutating them into a cassowarymorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphCassowaryTF.description>
+  <PawnmorphCassowaryTF.description>이 사람의 혈액에는 신체를 천천히 카소와리 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphCassowaryTF.description>
   <PawnmorphCassowaryTF.stages.0.label>감아내기</PawnmorphCassowaryTF.stages.0.label>
   <PawnmorphCassowaryTF.stages.1.label>변이중</PawnmorphCassowaryTF.stages.1.label>
   <PawnmorphCassowaryTF.stages.2.label>동물화중</PawnmorphCassowaryTF.stages.2.label>
-  <PawnmorphCassowaryTFPartial.label>cassowarymorph partial</PawnmorphCassowaryTFPartial.label>
-  <PawnmorphCassowaryTFPartial.description>This person has mechanites in their blood that are providing them with cassowary-esque mutations.</PawnmorphCassowaryTFPartial.description>
+  <PawnmorphCassowaryTFPartial.label>카소와리 변이체 부분적</PawnmorphCassowaryTFPartial.label>
+  <PawnmorphCassowaryTFPartial.description>이 사람의 혈액에는 그들에게 카소와리 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphCassowaryTFPartial.description>
   <PawnmorphEmuTF.label>이뮤모프</PawnmorphEmuTF.label>
-  <PawnmorphEmuTF.description>This person has mechanites in their blood that are slowly mutating them into an emumorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphEmuTF.description>
+  <PawnmorphEmuTF.description>이 사람의 혈액에는 신체를 천천히 에뮤 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphEmuTF.description>
   <PawnmorphEmuTF.stages.0.label>감아내기</PawnmorphEmuTF.stages.0.label>
   <PawnmorphEmuTF.stages.1.label>변이중</PawnmorphEmuTF.stages.1.label>
   <PawnmorphEmuTF.stages.2.label>동물화중</PawnmorphEmuTF.stages.2.label>
-  <PawnmorphEmuTFPartial.label>emumorph partial</PawnmorphEmuTFPartial.label>
-  <PawnmorphEmuTFPartial.description>This person has mechanites in their blood that are providing them with Emu-esque mutations.</PawnmorphEmuTFPartial.description>
+  <PawnmorphEmuTFPartial.label>에뮤 변이체 부분적</PawnmorphEmuTFPartial.label>
+  <PawnmorphEmuTFPartial.description>이 사람의 혈액에는 그들에게 에뮤 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphEmuTFPartial.description>
   <PawnmorphOstrichTF.label>오스트리치모프</PawnmorphOstrichTF.label>
-  <PawnmorphOstrichTF.description>This person has mechanites in their blood that are slowly mutating them into an ostrichmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more avian than human.</PawnmorphOstrichTF.description>
+  <PawnmorphOstrichTF.description>이 사람의 혈액에는 신체를 천천히 타조 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 조류에 가까운 결과물을 초래할 수 있으니 주의 바랍니다.</PawnmorphOstrichTF.description>
   <PawnmorphOstrichTF.stages.0.label>감아내기</PawnmorphOstrichTF.stages.0.label>
   <PawnmorphOstrichTF.stages.1.label>변이중</PawnmorphOstrichTF.stages.1.label>
   <PawnmorphOstrichTF.stages.2.label>동물화중</PawnmorphOstrichTF.stages.2.label>
-  <PawnmorphOstrichTFPartial.label>ostrichmorph partial</PawnmorphOstrichTFPartial.label>
-  <PawnmorphOstrichTFPartial.description>This person has mechanites in their blood that are providing them with Ostrich-esque mutations.</PawnmorphOstrichTFPartial.description>
+  <PawnmorphOstrichTFPartial.label>타조모프 부분</PawnmorphOstrichTFPartial.label>
+  <PawnmorphOstrichTFPartial.description>이 사람의 혈액에는 타조와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphOstrichTFPartial.description>
   <PawnmorphMegaslothTF.label>거대나무늘보 변이체</PawnmorphMegaslothTF.label>
   <PawnmorphMegaslothTF.description>이 사람의 혈액에는 신체를 천천히 거대나무늘보 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 훨씬 복슬복슬한 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphMegaslothTF.description>
   <PawnmorphMegaslothTF.stages.0.label>감아내기</PawnmorphMegaslothTF.stages.0.label>
@@ -274,20 +274,20 @@
   <PawnmorphHuskyTF.stages.2.label>동물화중</PawnmorphHuskyTF.stages.2.label>
   <PawnmorphHuskyTFPartial.label>불완전한 허스키 변이체</PawnmorphHuskyTFPartial.label>
   <PawnmorphHuskyTFPartial.description>이 사람의 혈액속에는 허스키와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphHuskyTFPartial.description>
-  <PawnmorphLabradorRetrieverTF.label>labradorretrievermorph</PawnmorphLabradorRetrieverTF.label>
-  <PawnmorphLabradorRetrieverTF.description>This person has mechanites in their blood that are slowly mutating them into a labmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more canine.</PawnmorphLabradorRetrieverTF.description>
+  <PawnmorphLabradorRetrieverTF.label>래브라도리트리버모프</PawnmorphLabradorRetrieverTF.label>
+  <PawnmorphLabradorRetrieverTF.description>이 사람의 혈액에는 신체를 천천히 랩모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 개 같아질 수 있으니 주의해야 합니다.</PawnmorphLabradorRetrieverTF.description>
   <PawnmorphLabradorRetrieverTF.stages.0.label>감아내기</PawnmorphLabradorRetrieverTF.stages.0.label>
   <PawnmorphLabradorRetrieverTF.stages.1.label>변이중</PawnmorphLabradorRetrieverTF.stages.1.label>
   <PawnmorphLabradorRetrieverTF.stages.2.label>동물화중</PawnmorphLabradorRetrieverTF.stages.2.label>
-  <PawnmorphLabradorRetrieverTFPartial.label>labmorph partial</PawnmorphLabradorRetrieverTFPartial.label>
-  <PawnmorphLabradorRetrieverTFPartial.description>This person has mechanites in their blood that are providing them with labrador-esque mutations.</PawnmorphLabradorRetrieverTFPartial.description>
+  <PawnmorphLabradorRetrieverTFPartial.label>랩모프 부분</PawnmorphLabradorRetrieverTFPartial.label>
+  <PawnmorphLabradorRetrieverTFPartial.description>이 사람의 혈액에는 래브라도와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphLabradorRetrieverTFPartial.description>
   <PawnmorphTerrierTF.label>테리어모프</PawnmorphTerrierTF.label>
-  <PawnmorphTerrierTF.description>This person has mechanites in their blood that are slowly mutating them into a terriermorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more canine than human.</PawnmorphTerrierTF.description>
+  <PawnmorphTerrierTF.description>이 사람의 혈액에는 신체를 천천히 테리어모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 개 같아질 수 있으니 주의해야 합니다.</PawnmorphTerrierTF.description>
   <PawnmorphTerrierTF.stages.0.label>감아내기</PawnmorphTerrierTF.stages.0.label>
   <PawnmorphTerrierTF.stages.1.label>변이중</PawnmorphTerrierTF.stages.1.label>
   <PawnmorphTerrierTF.stages.2.label>동물화중</PawnmorphTerrierTF.stages.2.label>
-  <PawnmorphTerrierTFPartial.label>terriermorph partial</PawnmorphTerrierTFPartial.label>
-  <PawnmorphTerrierTFPartial.description>This person has mechanites in their blood that are providing them with yorkshire terrier-esque mutations.</PawnmorphTerrierTFPartial.description>
+  <PawnmorphTerrierTFPartial.label>테리어모프 부분</PawnmorphTerrierTFPartial.label>
+  <PawnmorphTerrierTFPartial.description>이 사람의 혈액에는 요크셔 테리어와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphTerrierTFPartial.description>
   <PawnmorphArcticWolfTF.label>북극여우 변이체</PawnmorphArcticWolfTF.label>
   <PawnmorphArcticWolfTF.description>이 사람의 혈액에는 신체를 천천히 북극 늑대 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 늑대에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphArcticWolfTF.description>
   <PawnmorphArcticWolfTF.stages.0.label>감아내기</PawnmorphArcticWolfTF.stages.0.label>
@@ -387,19 +387,19 @@
   <PawnmorphSnowhareTFPartial.label>불완전한 눈토끼 변이체</PawnmorphSnowhareTFPartial.label>
   <PawnmorphSnowhareTFPartial.description>이 사람의 혈액속에는 눈토끼와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnowhareTFPartial.description>
   <PawnmorphAlphabeaverTF.label>알파비버모프</PawnmorphAlphabeaverTF.label>
-  <PawnmorphAlphabeaverTF.description>This person has mechanites in their blood that are slowly mutating them into an alphabeavermorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more beaver than human.</PawnmorphAlphabeaverTF.description>
+  <PawnmorphAlphabeaverTF.description>이 사람의 혈액에는 신체를 천천히 알파비버모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 비버 같아질 수 있으니 주의해야 합니다.</PawnmorphAlphabeaverTF.description>
   <PawnmorphAlphabeaverTF.stages.0.label>감아내기</PawnmorphAlphabeaverTF.stages.0.label>
   <PawnmorphAlphabeaverTF.stages.1.label>변이중</PawnmorphAlphabeaverTF.stages.1.label>
   <PawnmorphAlphabeaverTF.stages.2.label>동물화중</PawnmorphAlphabeaverTF.stages.2.label>
-  <PawnmorphAlphabeaverTFPartial.label>alphabeavermorph partial</PawnmorphAlphabeaverTFPartial.label>
-  <PawnmorphAlphabeaverTFPartial.description>This person has mechanites in their blood that are providing them with beaver-esque mutations.</PawnmorphAlphabeaverTFPartial.description>
+  <PawnmorphAlphabeaverTFPartial.label>알파비버모프 부분</PawnmorphAlphabeaverTFPartial.label>
+  <PawnmorphAlphabeaverTFPartial.description>이 사람의 혈액에는 비버와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphAlphabeaverTFPartial.description>
   <PawnmorphCapybaraTF.label>카피바라모프</PawnmorphCapybaraTF.label>
-  <PawnmorphCapybaraTF.description>This person has mechanites in their blood that are slowly mutating them into an capybaramorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more capybara than human.</PawnmorphCapybaraTF.description>
+  <PawnmorphCapybaraTF.description>이 사람의 혈액에는 신체를 천천히 카피바라모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 카피바라 같아질 수 있으니 주의해야 합니다.</PawnmorphCapybaraTF.description>
   <PawnmorphCapybaraTF.stages.0.label>감아내기</PawnmorphCapybaraTF.stages.0.label>
   <PawnmorphCapybaraTF.stages.1.label>변이중</PawnmorphCapybaraTF.stages.1.label>
   <PawnmorphCapybaraTF.stages.2.label>동물화중</PawnmorphCapybaraTF.stages.2.label>
-  <PawnmorphCapybaraTFPartial.label>capybaramorph partial</PawnmorphCapybaraTFPartial.label>
-  <PawnmorphCapybaraTFPartial.description>This person has mechanites in their blood that are providing them with capybara-esque mutations.</PawnmorphCapybaraTFPartial.description>
+  <PawnmorphCapybaraTFPartial.label>카피바라모프 부분</PawnmorphCapybaraTFPartial.label>
+  <PawnmorphCapybaraTFPartial.description>이 사람의 혈액에는 카피바라와 같은 변이를 제공하는 메카나이트가 있습니다.</PawnmorphCapybaraTFPartial.description>
   <PawnmorphSquirrelTF.label>다람쥐 변이체</PawnmorphSquirrelTF.label>
   <PawnmorphSquirrelTF.description>이 사람의 혈액에는 신체를 천천히 다람쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 다람쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphSquirrelTF.description>
   <PawnmorphSquirrelTF.stages.0.label>감아내기</PawnmorphSquirrelTF.stages.0.label>
@@ -408,26 +408,26 @@
   <PawnmorphSquirrelTFPartial.label>불완전한 양 변이체</PawnmorphSquirrelTFPartial.label>
   <PawnmorphSquirrelTFPartial.description>이 사람의 혈액속에는 다람쥐와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSquirrelTFPartial.description>
   <PawnmorphBoomratTF.label>붐랫모프</PawnmorphBoomratTF.label>
-  <PawnmorphBoomratTF.description>This person has mechanites in their blood that are slowly mutating them into a boomrat morph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming more explosive than they'd like.</PawnmorphBoomratTF.description>
+  <PawnmorphBoomratTF.description>이 사람의 혈액에는 신체를 천천히 붐랫모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 원하지 않는 폭발적인 결과를 초래할 수 있으니 주의해야 합니다.</PawnmorphBoomratTF.description>
   <PawnmorphBoomratTF.stages.0.label>감아내기</PawnmorphBoomratTF.stages.0.label>
   <PawnmorphBoomratTF.stages.1.label>변이중</PawnmorphBoomratTF.stages.1.label>
   <PawnmorphBoomratTF.stages.2.label>동물화중</PawnmorphBoomratTF.stages.2.label>
-  <PawnmorphBoomratTFPartial.label>boomratmorph partial</PawnmorphBoomratTFPartial.label>
-  <PawnmorphBoomratTFPartial.description>This person has mechanites in their blood that are providing them with boomrat mutations.</PawnmorphBoomratTFPartial.description>
+  <PawnmorphBoomratTFPartial.label>붐랫모프 부분</PawnmorphBoomratTFPartial.label>
+  <PawnmorphBoomratTFPartial.description>이 사람의 혈액에는 붐랫 변이를 제공하는 메카나이트가 있습니다.</PawnmorphBoomratTFPartial.description>
   <PawnmorphChinchillaTF.label>치칠라모프</PawnmorphChinchillaTF.label>
-  <PawnmorphChinchillaTF.description>This person has mechanites in their blood that are slowly mutating them into a chinchillamorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more chinchilla-like than human.</PawnmorphChinchillaTF.description>
+  <PawnmorphChinchillaTF.description>이 사람의 혈액에는 신체를 천천히 친칠라모프로 변이 시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 친칠라 같아질 수 있으니 주의해야 합니다.</PawnmorphChinchillaTF.description>
   <PawnmorphChinchillaTF.stages.0.label>감아내기</PawnmorphChinchillaTF.stages.0.label>
   <PawnmorphChinchillaTF.stages.1.label>변이중</PawnmorphChinchillaTF.stages.1.label>
   <PawnmorphChinchillaTF.stages.2.label>동물화중</PawnmorphChinchillaTF.stages.2.label>
-  <PawnmorphChinchillaTFPartial.label>chinchillamorph partial</PawnmorphChinchillaTFPartial.label>
-  <PawnmorphChinchillaTFPartial.description>This person has mechanites in their blood that are providing them with chinchilla-esque mutations.</PawnmorphChinchillaTFPartial.description>
+  <PawnmorphChinchillaTFPartial.label>진칠라 변종 부분적</PawnmorphChinchillaTFPartial.label>
+  <PawnmorphChinchillaTFPartial.description>이 사람의 혈액에는 진드기 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphChinchillaTFPartial.description>
   <PawnmorphGuineaPigTF.label>기니피그모프</PawnmorphGuineaPigTF.label>
-  <PawnmorphGuineaPigTF.description>This person has mechanites in their blood that are slowly mutating them into a guinea pig morph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more like a guinea pig than human.</PawnmorphGuineaPigTF.description>
+  <PawnmorphGuineaPigTF.description>이 사람의 혈액에는 천천히 기니피그 변이체로 변이시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 인간보다 기니피그처럼 되어갈 수 있으니 주의 바랍니다.</PawnmorphGuineaPigTF.description>
   <PawnmorphGuineaPigTF.stages.0.label>감아내기</PawnmorphGuineaPigTF.stages.0.label>
   <PawnmorphGuineaPigTF.stages.1.label>변이중</PawnmorphGuineaPigTF.stages.1.label>
   <PawnmorphGuineaPigTF.stages.2.label>동물화중</PawnmorphGuineaPigTF.stages.2.label>
-  <PawnmorphGuineaPigTFPartial.label>guineapigmorph partial</PawnmorphGuineaPigTFPartial.label>
-  <PawnmorphGuineaPigTFPartial.description>This person has mechanites in their blood that are providing them with guinea pig-esque mutations.</PawnmorphGuineaPigTFPartial.description>
+  <PawnmorphGuineaPigTFPartial.label>기니피그 변종 부분적</PawnmorphGuineaPigTFPartial.label>
+  <PawnmorphGuineaPigTFPartial.description>이 사람의 혈액에는 기니피그 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphGuineaPigTFPartial.description>
   <PawnmorphRatTF.label>쥐 변이체</PawnmorphRatTF.label>
   <PawnmorphRatTF.description>이 사람의 혈액에는 신체를 천천히 쥐 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 쥐에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphRatTF.description>
   <PawnmorphRatTF.stages.0.label>감아내기</PawnmorphRatTF.stages.0.label>
@@ -464,12 +464,12 @@
   <PawnmorphSnakeTFPartial.label>불완전한 코브라 변이체</PawnmorphSnakeTFPartial.label>
   <PawnmorphSnakeTFPartial.description>이 사람의 혈액속에는 코브라 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSnakeTFPartial.description>
   <PawnmorphTortoiseTF.label>거북이 변이체</PawnmorphTortoiseTF.label>
-  <PawnmorphTortoiseTF.description>This person has mechanites in their blood that are slowly mutating them into a tortoisemorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more tortoise than human.</PawnmorphTortoiseTF.description>
+  <PawnmorphTortoiseTF.description>이 사람의 혈액에는 천천히 거북이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 인간보다 거북이처럼 될 수 있으니 주의 바랍니다.</PawnmorphTortoiseTF.description>
   <PawnmorphTortoiseTF.stages.0.label>감아내기</PawnmorphTortoiseTF.stages.0.label>
   <PawnmorphTortoiseTF.stages.1.label>변이중</PawnmorphTortoiseTF.stages.1.label>
   <PawnmorphTortoiseTF.stages.2.label>동물화중</PawnmorphTortoiseTF.stages.2.label>
   <PawnmorphTortoiseTFPartial.label>불왕전한 거북이 변이체</PawnmorphTortoiseTFPartial.label>
-  <PawnmorphTortoiseTFPartial.description>This person has mechanites in their blood that are providing them with tortois-esque mutations.</PawnmorphTortoiseTFPartial.description>
+  <PawnmorphTortoiseTFPartial.description>이 사람의 혈액에는 거북이 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphTortoiseTFPartial.description>
   <PawnmorphMonkeyTF.label>원숭이 변이체</PawnmorphMonkeyTF.label>
   <PawnmorphMonkeyTF.description>이 사람의 혈액에는 신체를 천천히 원숭이 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 지나가던 사람들에게 똥을 던질 수도 있으니 바랍니다.</PawnmorphMonkeyTF.description>
   <PawnmorphMonkeyTF.stages.0.label>감아내기</PawnmorphMonkeyTF.stages.0.label>
@@ -485,26 +485,26 @@
   <PawnmorphCowTFPartial.label>불완전한 소 변이체</PawnmorphCowTFPartial.label>
   <PawnmorphCowTFPartial.description>이 사람의 혈액속에는 소와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphCowTFPartial.description>
   <PawnmorphMuffaloTF.label>머팔로모프</PawnmorphMuffaloTF.label>
-  <PawnmorphMuffaloTF.description>This person has mechanites in their blood that are slowly mutating them into a muffalomorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more bovine than human.</PawnmorphMuffaloTF.description>
+  <PawnmorphMuffaloTF.description>이 사람의 혈액에는 천천히 머플로 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 사람보다 소처럼 될 수 있으니 주의 바랍니다.</PawnmorphMuffaloTF.description>
   <PawnmorphMuffaloTF.stages.0.label>감아내기</PawnmorphMuffaloTF.stages.0.label>
   <PawnmorphMuffaloTF.stages.1.label>변이중</PawnmorphMuffaloTF.stages.1.label>
   <PawnmorphMuffaloTF.stages.2.label>동물화중</PawnmorphMuffaloTF.stages.2.label>
-  <PawnmorphMuffaloTFPartial.label>muffalomorph partial</PawnmorphMuffaloTFPartial.label>
-  <PawnmorphMuffaloTFPartial.description>This person has mechanites in their blood that are providing them with muffalo-esque mutations.</PawnmorphMuffaloTFPartial.description>
+  <PawnmorphMuffaloTFPartial.label>머플로 변종 부분적</PawnmorphMuffaloTFPartial.label>
+  <PawnmorphMuffaloTFPartial.description>이 사람의 혈액에는 머플로 변이와 비슷한 변이를 제공하는 메카나이트가 있습니다.</PawnmorphMuffaloTFPartial.description>
   <PawnmorphYakTF.label>야크모프</PawnmorphYakTF.label>
-  <PawnmorphYakTF.description>This person has mechanites in their blood that are slowly mutating them into a yakmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more bovine than human.</PawnmorphYakTF.description>
+  <PawnmorphYakTF.description>이 사람의 혈액에는 천천히 야크 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면, 사람보다 소처럼 될 수 있으니 주의 바랍니다.</PawnmorphYakTF.description>
   <PawnmorphYakTF.stages.0.label>감아내기</PawnmorphYakTF.stages.0.label>
   <PawnmorphYakTF.stages.1.label>변이중</PawnmorphYakTF.stages.1.label>
   <PawnmorphYakTF.stages.2.label>동물화중</PawnmorphYakTF.stages.2.label>
-  <PawnmorphYakTFPartial.label>yakmorph partial</PawnmorphYakTFPartial.label>
-  <PawnmorphYakTFPartial.description>This person has mechanites in their blood that are providing them with yak-esque mutations.</PawnmorphYakTFPartial.description>
+  <PawnmorphYakTFPartial.label>불완전한 야크 변이체</PawnmorphYakTFPartial.label>
+  <PawnmorphYakTFPartial.description>이 사람은 혈액 속에 야크와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphYakTFPartial.description>
   <PawnmorphBisonTF.label>바이슨모프</PawnmorphBisonTF.label>
-  <PawnmorphBisonTF.description>This person has mechanites in their blood that are slowly mutating them into a bisonmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more bovine than human.</PawnmorphBisonTF.description>
+  <PawnmorphBisonTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 바이슨모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 우와 같아질 수 있습니다.</PawnmorphBisonTF.description>
   <PawnmorphBisonTF.stages.0.label>감아내기</PawnmorphBisonTF.stages.0.label>
   <PawnmorphBisonTF.stages.1.label>변이중</PawnmorphBisonTF.stages.1.label>
   <PawnmorphBisonTF.stages.2.label>동물화중</PawnmorphBisonTF.stages.2.label>
-  <PawnmorphBisonTFPartial.label>bisonmorph partial</PawnmorphBisonTFPartial.label>
-  <PawnmorphBisonTFPartial.description>This person has mechanites in their blood that are providing them with bison-esque mutations.</PawnmorphBisonTFPartial.description>
+  <PawnmorphBisonTFPartial.label>불완전한 바이슨 변이체</PawnmorphBisonTFPartial.label>
+  <PawnmorphBisonTFPartial.description>이 사람은 혈액 속에 바이슨과 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphBisonTFPartial.description>
   <PawnmorphAlpacaTF.label>알파카 변이체</PawnmorphAlpacaTF.label>
   <PawnmorphAlpacaTF.description>이 사람의 혈액에는 신체를 천천히 알파카 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 알파카에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphAlpacaTF.description>
   <PawnmorphAlpacaTF.stages.0.label>감아내기</PawnmorphAlpacaTF.stages.0.label>
@@ -513,26 +513,26 @@
   <PawnmorphAlpacaTFPartial.label>불완전한 알파카 변이체</PawnmorphAlpacaTFPartial.label>
   <PawnmorphAlpacaTFPartial.description>이 사람의 혈액속에는 알파카와 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphAlpacaTFPartial.description>
   <PawnmorphDromedaryTF.label>드로메다리모프</PawnmorphDromedaryTF.label>
-  <PawnmorphDromedaryTF.description>This person has mechanites in their blood that are slowly mutating them into an dromedarymorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more dromedary than human.</PawnmorphDromedaryTF.description>
+  <PawnmorphDromedaryTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 드로메다리 모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 낙타와 같아질 수 있습니다.</PawnmorphDromedaryTF.description>
   <PawnmorphDromedaryTF.stages.0.label>감아내기</PawnmorphDromedaryTF.stages.0.label>
   <PawnmorphDromedaryTF.stages.1.label>변이중</PawnmorphDromedaryTF.stages.1.label>
   <PawnmorphDromedaryTF.stages.2.label>동물화중</PawnmorphDromedaryTF.stages.2.label>
-  <PawnmorphDromedaryTFPartial.label>dromedarymorph partial</PawnmorphDromedaryTFPartial.label>
-  <PawnmorphDromedaryTFPartial.description>This person has mechanites in their blood that are providing them with dromedary-esque mutations.</PawnmorphDromedaryTFPartial.description>
+  <PawnmorphDromedaryTFPartial.label>불완전한 드로메다리 변이체</PawnmorphDromedaryTFPartial.label>
+  <PawnmorphDromedaryTFPartial.description>이 사람은 혈액 속에 드로메다리와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphDromedaryTFPartial.description>
   <PawnmorphGoatTF.label>염소모프</PawnmorphGoatTF.label>
-  <PawnmorphGoatTF.description>This person has mechanites in their blood that are slowly mutating them into a goatmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more caprine.</PawnmorphGoatTF.description>
+  <PawnmorphGoatTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 고트모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 염소와 같아질 수 있습니다.</PawnmorphGoatTF.description>
   <PawnmorphGoatTF.stages.0.label>감아내기</PawnmorphGoatTF.stages.0.label>
   <PawnmorphGoatTF.stages.1.label>변이중</PawnmorphGoatTF.stages.1.label>
   <PawnmorphGoatTF.stages.2.label>동물화중</PawnmorphGoatTF.stages.2.label>
-  <PawnmorphGoatTFPartial.label>Goatmorph partial</PawnmorphGoatTFPartial.label>
-  <PawnmorphGoatTFPartial.description>This person has mechanites in their blood that are providing them with goat-esque mutations.</PawnmorphGoatTFPartial.description>
+  <PawnmorphGoatTFPartial.label>불완전한 고트 변이체</PawnmorphGoatTFPartial.label>
+  <PawnmorphGoatTFPartial.description>이 사람은 혈액 속에 염소와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphGoatTFPartial.description>
   <PawnmorphIbexTF.label>아이벡스모프</PawnmorphIbexTF.label>
-  <PawnmorphIbexTF.description>This person has mechanites in their blood that are slowly mutating them into an ibexmorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more ibex than human.</PawnmorphIbexTF.description>
+  <PawnmorphIbexTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 이벡스모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 야생 염소와 같아질 수 있습니다.</PawnmorphIbexTF.description>
   <PawnmorphIbexTF.stages.0.label>감아내기</PawnmorphIbexTF.stages.0.label>
   <PawnmorphIbexTF.stages.1.label>변이중</PawnmorphIbexTF.stages.1.label>
   <PawnmorphIbexTF.stages.2.label>동물화중</PawnmorphIbexTF.stages.2.label>
-  <PawnmorphIbexTFPartial.label>ibexmorph partial</PawnmorphIbexTFPartial.label>
-  <PawnmorphIbexTFPartial.description>This person has mechanites in their blood that are providing them with ibe-sque mutations.</PawnmorphIbexTFPartial.description>
+  <PawnmorphIbexTFPartial.label>불완전한 이벡스 변이체</PawnmorphIbexTFPartial.label>
+  <PawnmorphIbexTFPartial.description>이 사람은 혈액 속에 이벡스와 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphIbexTFPartial.description>
   <PawnmorphSheepTF.label>양 변이체</PawnmorphSheepTF.label>
   <PawnmorphSheepTF.description>이 사람의 혈액에는 신체를 천천히 양 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 너무 양같이 될수 있으니 주의 바랍니다.</PawnmorphSheepTF.description>
   <PawnmorphSheepTF.stages.0.label>감아내기</PawnmorphSheepTF.stages.0.label>
@@ -541,19 +541,19 @@
   <PawnmorphSheepTFPartial.label>불완전한 양 변이체</PawnmorphSheepTFPartial.label>
   <PawnmorphSheepTFPartial.description>이 사람의 혈액속에는 양과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphSheepTFPartial.description>
   <PawnmorphCaribouTF.label>순록모프</PawnmorphCaribouTF.label>
-  <PawnmorphCaribouTF.description>This person has mechanites in their blood that are slowly mutating them into an cariboubaramorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more caribou than human.</PawnmorphCaribouTF.description>
+  <PawnmorphCaribouTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 카리부 모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 훨씬 더 순록과 같아질 수 있습니다.</PawnmorphCaribouTF.description>
   <PawnmorphCaribouTF.stages.0.label>감아내기</PawnmorphCaribouTF.stages.0.label>
   <PawnmorphCaribouTF.stages.1.label>변이중</PawnmorphCaribouTF.stages.1.label>
   <PawnmorphCaribouTF.stages.2.label>동물화중</PawnmorphCaribouTF.stages.2.label>
-  <PawnmorphCaribouTFPartial.label>cariboumorph partial</PawnmorphCaribouTFPartial.label>
-  <PawnmorphCaribouTFPartial.description>This person has mechanites in their blood that are providing them with caribou-esque mutations.</PawnmorphCaribouTFPartial.description>
+  <PawnmorphCaribouTFPartial.label>불완전한 카리부 변이체</PawnmorphCaribouTFPartial.label>
+  <PawnmorphCaribouTFPartial.description>이 사람은 혈액 속에 순록과 같은 변이를 일으키는 메카나이트가 있습니다.</PawnmorphCaribouTFPartial.description>
   <PawnmorphElkTF.label>엘크모프</PawnmorphElkTF.label>
-  <PawnmorphElkTF.description>This person has mechanites in their blood that are slowly mutating them into an elk morph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming more elk than human.</PawnmorphElkTF.description>
+  <PawnmorphElkTF.description>이 사람은 혈액 속에 있는 메카나이트가 서서히 엘크모프로 변형시키고 있습니다. 주의를 기울여야 합니다. 메카나이트를 방치하면 인간보다 더 많은 엘크와 같아질 수 있습니다.</PawnmorphElkTF.description>
   <PawnmorphElkTF.stages.0.label>감아내기</PawnmorphElkTF.stages.0.label>
   <PawnmorphElkTF.stages.1.label>변이중</PawnmorphElkTF.stages.1.label>
   <PawnmorphElkTF.stages.2.label>동물화중</PawnmorphElkTF.stages.2.label>
-  <PawnmorphElkTFPartial.label>elkmorph partial</PawnmorphElkTFPartial.label>
-  <PawnmorphElkTFPartial.description>This person has mechanites in their blood that are providing them with elk-like mutations.</PawnmorphElkTFPartial.description>
+  <PawnmorphElkTFPartial.label>불완전한 엘크 변이체</PawnmorphElkTFPartial.label>
+  <PawnmorphElkTFPartial.description>이 사람의 혈액속에는 사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphElkTFPartial.description>
   <PawnmorphBoomalopeTF.label>폭탄사슴 변이체</PawnmorphBoomalopeTF.label>
   <PawnmorphBoomalopeTF.description>이 사람의 혈액에는 신체를 천천히 폭탄사슴 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 폭탄사슴에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoomalopeTF.description>
   <PawnmorphBoomalopeTF.stages.0.label>감아내기</PawnmorphBoomalopeTF.stages.0.label>
@@ -569,12 +569,12 @@
   <PawnmorphDeerTFPartial.label>불완전한 사슴 변이체</PawnmorphDeerTFPartial.label>
   <PawnmorphDeerTFPartial.description>이 사람의 혈액속에는 사슴과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphDeerTFPartial.description>
   <PawnmorphGazelleTF.label>가젤모프</PawnmorphGazelleTF.label>
-  <PawnmorphGazelleTF.description>This person has mechanites in their blood that are slowly mutating them into an gazellemorph. Keep an eye on them, as leaving the mechanites unattended could lead to them becoming far more gazelle than human.</PawnmorphGazelleTF.description>
+  <PawnmorphGazelleTF.description>이 사람의 혈액속에는 천천히 가젤모프로 변이시키는 메카나이트가 있습니다. 메카나이트를 방치하면 인간보다 훨씬 더 가젤에 가까워질 수 있으니 주의를 기울이세요.</PawnmorphGazelleTF.description>
   <PawnmorphGazelleTF.stages.0.label>감아내기</PawnmorphGazelleTF.stages.0.label>
   <PawnmorphGazelleTF.stages.1.label>변이중</PawnmorphGazelleTF.stages.1.label>
   <PawnmorphGazelleTF.stages.2.label>동물화중</PawnmorphGazelleTF.stages.2.label>
-  <PawnmorphGazelleTFPartial.label>gazellemorph partial</PawnmorphGazelleTFPartial.label>
-  <PawnmorphGazelleTFPartial.description>This person has mechanites in their blood that are providing them with gazell-esque mutations.</PawnmorphGazelleTFPartial.description>
+  <PawnmorphGazelleTFPartial.label>가젤모프 부분적</PawnmorphGazelleTFPartial.label>
+  <PawnmorphGazelleTFPartial.description>이 사람의 혈액속에는 가젤과 같은 형태로 변이를 유도하는 메카나이트가 있습니다.</PawnmorphGazelleTFPartial.description>
   <PawnmorphBoarTF.label>멧돼지 변이체</PawnmorphBoarTF.label>
   <PawnmorphBoarTF.description>이 사람의 혈액에는 신체를 천천히 멧돼지 변이체로 변이 시키는 메카나이트가 있습니다. 이 메카나이트를 너무 오래 방치하면 인간보다 멧돼지에 가까운 결과물을 초래할수 있으니 주의 바랍니다.</PawnmorphBoarTF.description>
   <PawnmorphBoarTF.stages.0.label>감아내기</PawnmorphBoarTF.stages.0.label>
@@ -619,6 +619,6 @@
   <TFPlantAddiction.label>변이 식물 중독</TFPlantAddiction.label>
   <TFPlantAddiction.description>이 사람은 변형 유인 작물 의존성이 생겼습니다. 금단현상으로 인해 동물로 변할수 있으니, 주의하십시오.</TFPlantAddiction.description>
   <TFPlantAddiction.stages.1.label>금단현상</TFPlantAddiction.stages.1.label>
-  <StabiliserLow.description>This pawn has unrefined antigen circulating in their system, slowing the effects of mutagenic mechanites. This lasts for a day.</StabiliserLow.description>
-  <StabiliserLow.label>mutations slowed</StabiliserLow.label>
+  <StabiliserLow.description>이 폰은 그들의 시스템에서 정제되지 않은 항원을 순환시켜 변형 유인체 메카나이트의 효과를 늦춥니다. 이것은 하루 동안 지속됩니다.</StabiliserLow.description>
+  <StabiliserLow.label>변이 느려짐</StabiliserLow.label>
 </LanguageData>
