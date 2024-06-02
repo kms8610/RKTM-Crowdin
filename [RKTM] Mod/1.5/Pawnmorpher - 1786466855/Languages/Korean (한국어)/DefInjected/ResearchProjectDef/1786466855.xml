@@ -19,7 +19,7 @@
   <Injectors.label>주사기</Injectors.label>
   <Injectors.description>메카나이트에서 유전체를 분리하여, 특정 동물의 변형물질의 서열을 제작 할 수 있도록 합니다. 살아있는 동물로부터 유전적 구조를 배열하고 그것을 데이터베이스에 저장을 해 상호 참조를 한다면, 주어진 동물의 유전체를 분리 할 수 있습니다. 이를 위해선 '인식표'를 발사하도록 개조한 사냥용 소총을 사용하여 동물의 유전정보를 수집하고 변이비단 테이프 기반의 유전자은행에 저장을 해야합니다.</Injectors.description>
   <Reversion.label>회귀</Reversion.label>
-  <Reversion.description>With this, it'll be possible to turn former humans back into humans again — ones made here, and ones we find elsewhere. This is only possible because mechanites seem to store everything about the pawn prior to their transformation. However, it will not help permanent ferals.</Reversion.description>
+  <Reversion.description>이것을 사용하면, 여기에서 만들어진 인간들과 우리가 다른 곳에서 찾은 인간들을 다시 인간으로 되돌릴 수 있을 것입니다. 이것이 가능한 이유는 메카나이트가 변신 전의 폰에 대한 모든 것을 저장하는 것처럼 보이기 때문입니다. 그러나 영구적인 야만인들에게는 도움이 되지 않을 것입니다.</Reversion.description>
   <MutagenChambers.label>변형 유도실</MutagenChambers.label>
   <MutagenChambers.description>림들이 들어가거나 운반해 넣을 수 있는 변형물질을 사용할 수 있습니다. 일반적으로 훨씬 짧은 시간에, 그리고 메카나이트 혼합물 한 병을 사용하지만 이들을 무작위 동물로 변형시킵니다. 하지만 우리는 누군가를 동물로 바꾸기 전에, 그 동물의 유전자 정보를 수집해야 합니다. 아곳은 볼트 액션으로 작동하는 소총에 '인식표'탄환을 발사하여 맞은 대상의 유전자 코드를 우리의 데이터베이스에 추가하면 가능합니다.</MutagenChambers.description>
   <PowerfulInjectors.label>강력한 주사기</PowerfulInjectors.label>
