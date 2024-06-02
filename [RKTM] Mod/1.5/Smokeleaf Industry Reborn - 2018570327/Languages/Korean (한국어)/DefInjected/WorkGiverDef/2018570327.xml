@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <DoBillsAutoTrimmer.label>연초 자동 다듬기</DoBillsAutoTrimmer.label>
-  <DoBillsAutoTrimmer.verb>trimming smokeleaf</DoBillsAutoTrimmer.verb>
-  <DoBillsAutoTrimmer.gerund>trimming smokeleaf at</DoBillsAutoTrimmer.gerund>
-  <DoBillsCultivationBench.label>produce smokeleaf products at the cultivation bench</DoBillsCultivationBench.label>
-  <DoBillsCultivationBench.verb>produce smokeleaf products</DoBillsCultivationBench.verb>
-  <DoBillsCultivationBench.gerund>producing smokeleaf products at</DoBillsCultivationBench.gerund>
-  <DoBillsProduceMedicinals.label>produce smokeleaf medicinals at medicinals lab</DoBillsProduceMedicinals.label>
-  <DoBillsProduceMedicinals.verb>produce medicinals</DoBillsProduceMedicinals.verb>
-  <DoBillsProduceMedicinals.gerund>producing medicinals at</DoBillsProduceMedicinals.gerund>
+  <DoBillsAutoTrimmer.verb>연초 다듬기</DoBillsAutoTrimmer.verb>
+  <DoBillsAutoTrimmer.gerund>연초를 다듬고 있어</DoBillsAutoTrimmer.gerund>
+  <DoBillsCultivationBench.label>재배대에서 연초 제휴 제품 생산</DoBillsCultivationBench.label>
+  <DoBillsCultivationBench.verb>연초 제품 생산</DoBillsCultivationBench.verb>
+  <DoBillsCultivationBench.gerund>재배대에서 연초 제품을 생산하고</DoBillsCultivationBench.gerund>
+  <DoBillsProduceMedicinals.label>의료용 실습실에서 연초 의약품 생산</DoBillsProduceMedicinals.label>
+  <DoBillsProduceMedicinals.verb>의약품 생산</DoBillsProduceMedicinals.verb>
+  <DoBillsProduceMedicinals.gerund>치료제 제조:</DoBillsProduceMedicinals.gerund>
 </LanguageData>
