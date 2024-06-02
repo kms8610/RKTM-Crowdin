@@ -55,7 +55,7 @@
   <AndroidCustomizationCostLabel>출력 비용</AndroidCustomizationCostLabel>
   <AndroidCustomizationTraitsLabel>활성화 특징</AndroidCustomizationTraitsLabel>
   <AndroidCustomizationAddTraitLabel>({0}/{1}) 특징 추가...</AndroidCustomizationAddTraitLabel>
-  <AndroidCustomizationOriginalTraitFloatMenu>&lt;{0}> 원래 특성</AndroidCustomizationOriginalTraitFloatMenu>
+  <AndroidCustomizationOriginalTraitFloatMenu>&lt;{0}> 고유 특징</AndroidCustomizationOriginalTraitFloatMenu>
   <AndroidCustomizationUpgrades>업그레이드</AndroidCustomizationUpgrades>
   <AndroidCustomizationTimeCost>출력 시간</AndroidCustomizationTimeCost>
   <AndroidCustomizationRequiredResearch>연구 필요</AndroidCustomizationRequiredResearch>
@@ -84,13 +84,13 @@
   <AndroidSettingsDroidWearDown>드로이드 노후화 활성화</AndroidSettingsDroidWearDown>
   <AndroidSettingsDroidWearDownQuadrum>분기마다 노후화 체크가 진행됩니다.</AndroidSettingsDroidWearDownQuadrum>
   <expensiveAndroids>비싼 안드로이드</expensiveAndroids>
-  <costSizeScale>크기 비용 확대</costSizeScale>
-  <techTreeShuffling>안드로이드 프린터 기술을 ATR 뒤에 숨기다</techTreeShuffling>
-  <expensiveAndroidsTooltip>안드로이드를 더 비싸게 만들어, 우라늄, 금, 그리고 드론 업그레이드가 없다면, 인격 핵이 필요합니다</expensiveAndroidsTooltip>
-  <costSizeScaleTooltip>안드로이드 비용을 몸통 크기에 따라 조정</costSizeScaleTooltip>
-  <techTreeShufflingTooltip>안드로이드 프린터를 T4 안드로이드 기술 뒤에 잠그다(! 안드로이드 티어 리포지드 필요 !)</techTreeShufflingTooltip>
-  <AndroidSettingsPrintTimeMult>안드로이드 업그레이드 시간 배수</AndroidSettingsPrintTimeMult>
+  <costSizeScale>크기에 따른 비용 조정</costSizeScale>
+  <techTreeShuffling>안드로이드 프린터 기술 잠금</techTreeShuffling>
+  <expensiveAndroidsTooltip>안드로이드를 더 비싸게 만들기 위해서는 우라늄과 금이 필요하며, 드론 업그레이드가 없을 경우 인공 자아 핵이 필요합니다.</expensiveAndroidsTooltip>
+  <costSizeScaleTooltip>안드로이드 비용을 신체 크기에 맞게 조정합니다.</costSizeScaleTooltip>
+  <techTreeShufflingTooltip>T4 안드로이드 테크를 사용하기 위해 안드로이드 프린터를 잠급니다. (Android Tiers Reforged 모드 필요)</techTreeShufflingTooltip>
+  <AndroidSettingsPrintTimeMult>안드로이드 업그레이드 시간 계수</AndroidSettingsPrintTimeMult>
   <AndroidSettingsBasePrintTime>안드로이드 기본 출력 시간</AndroidSettingsBasePrintTime>
-  <printTimeMultTooltip>추가 안드로이드 업그레이드가 추가하는 추가 출력 시간의 양이 이만큼 곱해집니다</printTimeMultTooltip>
-  <basePrintTimeTooltip>기본 안드로이드를 인쇄하는 데 걸리는 기본 시간</basePrintTimeTooltip>
+  <printTimeMultTooltip>안드로이드 업그레이드가 추가될 때마다 필요한 출력 시간이 증가합니다.</printTimeMultTooltip>
+  <basePrintTimeTooltip>기본 안드로이드를 출력하는데 걸리는 시간입니다.</basePrintTimeTooltip>
 </LanguageData>
