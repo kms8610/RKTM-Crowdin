@@ -38,13 +38,13 @@
   <Animalistic.stages.2.label>conflicted</Animalistic.stages.2.label>
   <Animalistic.stages.3.label>mostly feral</Animalistic.stages.3.label>
   <Animalistic.stages.4.label>mostly feral</Animalistic.stages.4.label>
-  <2xMergedHuman.label>2x merged morph</2xMergedHuman.label>
+  <!-- <2xMergedHuman.label>2x merged morph</2xMergedHuman.label>
   <2xMergedHuman.description>[PAWN_nameDef] is a creature that should never have been, a fusion of two beings which mutated to become one animalistic monstrosity.</2xMergedHuman.description>
   <2xMergedHuman.stages.0.label>sapient</2xMergedHuman.stages.0.label>
   <2xMergedHuman.stages.1.label>mostly sapient</2xMergedHuman.stages.1.label>
   <2xMergedHuman.stages.2.label>conflicted</2xMergedHuman.stages.2.label>
   <2xMergedHuman.stages.3.label>mostly feral</2xMergedHuman.stages.3.label>
-  <2xMergedHuman.stages.4.label>mostly feral</2xMergedHuman.stages.4.label>
+  <2xMergedHuman.stages.4.label>mostly feral</2xMergedHuman.stages.4.label> -->
   <PermanentlyFeral.label>permanently feral</PermanentlyFeral.label>
   <PermanentlyFeral.description>[PAWN_nameDef] used to be a human, but the mechanites in [PAWN_possessive] system have forgotten his prior form — [PAWN_pronoun] is now sealed in this form for the rest of [PAWN_possessive] life. Reversion serums will not work.</PermanentlyFeral.description>
   <WasAnimal.label>was animal</WasAnimal.label>
