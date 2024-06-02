@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BrickHempcrete.description>Refined, carefully-cut stone tiles for a castle feeling. Pretty to look at, but they take a long time to lay.</BrickHempcrete.description>
+  <BrickHempcrete.label>hempcrete bricks</BrickHempcrete.label>
+  <FlagstoneHempcrete.description>Roughly-cut stone tiles. Not super pretty, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources.</FlagstoneHempcrete.description>
+  <FlagstoneHempcrete.label>hempcrete flagstone</FlagstoneHempcrete.label>
+  <Hempcrete.label>hempcrete</Hempcrete.label>
+  <Hempcrete.description>Smooth hempcrete floor. Fast to walk on, easy to clean.</Hempcrete.description>
+  <HempcreteTile.label>hempcrete tile</HempcreteTile.label>
+  <HempcreteTile.description>Large hempcrete tiles. Pretty, but labor and material-intensive.</HempcreteTile.description>
+  <HempcretePlate.label>hempcrete plate</HempcretePlate.label>
+  <HempcretePlate.description>Large hempcrete tiles. Pretty, but labor and material-intensive.</HempcretePlate.description>
+  <HempcretePath.label>hempcrete path</HempcretePath.label>
+  <HempcretePath.description>A random looking path made from smooth hempcrete chunks.</HempcretePath.description>
+  <CarpetHemp.label>hemp carpet</CarpetHemp.label>
+  <CarpetHemp.description>Durable carpet woven from hemp fibers. It is slightly flame resistant.</CarpetHemp.description>
+  <CarpetDevilsleaf.label>devilsleaf carpet</CarpetDevilsleaf.label>
+  <CarpetDevilsleaf.description>Carpet woven from devilsleaf fibers. It is slightly flame resistant.</CarpetDevilsleaf.description>
+  <HempStalkFloor.label>hemp stalk floor</HempStalkFloor.label>
+  <HempStalkFloor.description>Boards made from the stalks of smokeleaf make for a beautiful floor.  Be careful for fires.</HempStalkFloor.description>
+</LanguageData>
