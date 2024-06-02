@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoBillsAutoTrimmer.label>auto trim smokeleaf</DoBillsAutoTrimmer.label>
+  <DoBillsAutoTrimmer.verb>trimming smokeleaf</DoBillsAutoTrimmer.verb>
+  <DoBillsAutoTrimmer.gerund>trimming smokeleaf at</DoBillsAutoTrimmer.gerund>
+  <DoBillsCultivationBench.label>produce smokeleaf products at the cultivation bench</DoBillsCultivationBench.label>
+  <DoBillsCultivationBench.verb>produce smokeleaf products</DoBillsCultivationBench.verb>
+  <DoBillsCultivationBench.gerund>producing smokeleaf products at</DoBillsCultivationBench.gerund>
+  <DoBillsProduceMedicinals.label>produce smokeleaf medicinals at medicinals lab</DoBillsProduceMedicinals.label>
+  <DoBillsProduceMedicinals.verb>produce medicinals</DoBillsProduceMedicinals.verb>
+  <DoBillsProduceMedicinals.gerund>producing medicinals at</DoBillsProduceMedicinals.gerund>
+</LanguageData>
