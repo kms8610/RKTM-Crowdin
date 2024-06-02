@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechSerumMutagenicHealer.label>변이혈청, 치료용 메카나이트</MechSerumMutagenicHealer.label>
+  <MechSerumMutagenicHealer.description>재구성된 변형 유인체 메카나이트로 만든 소형 버전의 회복혈청입니다. 메카나이트는 신체부위중 가장 훼손된 부분을 찾아 회복시킵니다. 절단된 신체부위처럼 일반적인 방법으로 치료가 불가능한 부상도 회복됩니다. \n\n변형 유인체 재구성 중 미처 재구성 되지 않은 메카나이트가 남아있어, 복구된 신체부위가 변이될 확률이 높습니다. 이 변이는 체내의 항변이 효과를 무시합니다.</MechSerumMutagenicHealer.description>
+  <MechSerumMutagenicHealer.comps.0.useLabel>변형 유인 회복혈청 투여</MechSerumMutagenicHealer.comps.0.useLabel>
+  <MechSerumResurrectorTf.label>변이혈청, 회귀용 메카나이트</MechSerumResurrectorTf.label>
+  <MechSerumResurrectorTf.description>죽음은 중요하지 않습니다.</MechSerumResurrectorTf.description>
+  <MechSerumResurrectorTf.comps.0.useLabel>부활 혈청 사용</MechSerumResurrectorTf.comps.0.useLabel>
+  <PM_ParagonInjector.label>paragon injector</PM_ParagonInjector.label>
+  <PM_ParagonInjector.description>A special injector that tunes the mechanites within the user's body, causing their existing mutations to adapt much better then normal. "Paragon" mutations, as they're known, often combine the best aspects of human and animal anatomy to increase their benefits and minimize their downsides.
+
+Paragon injectors are more powerful than adaption cream, and so can produce even more powerful adapations than what adaption cream can.</PM_ParagonInjector.description>
+  <PM_ParagonInjector.comps.0.useLabel>Use a paragon injector</PM_ParagonInjector.comps.0.useLabel>
+  <Antigen.label>antigen</Antigen.label>
+  <Antigen.description>A concentration of antigenic mechanites that have been distilled from glowvine seedpods. When injected, it can neutralize any active mutagenic mechanites in the body, but it offers no long term protection against future exposure. Also used in the production of many mutagen-neutralising or reversing agents.
+
+Raw antigen is often used as an emergency treatment for mutagenic diseases and mutagenic buildup. Those who intentionally inject themselves with morph serums also find it a cheap and reliable way to halt the effects of the serum before they fully transform.</Antigen.description>
+  <PM_HaltCream.label>halt cream</PM_HaltCream.label>
+  <PM_HaltCream.description>A balm of concentrated antigen that, when applied to a mutation, has a chance to halt its progression. It can't remove mutations, but if applied immediately after an unwanted mutation is gained it can prevent it from getting worse. Higher medical skill increases the chances of success.
+
+Halting cream is often used by industrial nations that lack the technology to produce reverter to prevent mutagen exposure victims from losing use of their hands.</PM_HaltCream.description>
+  <PM_AdaptionCream.label>adaption cream</PM_AdaptionCream.label>
+  <PM_AdaptionCream.description>An advanced balm of antigen and slurry that, when applied to a mutation, stimulates the mutation to begin adapting to a more morph-friendly state. Adapted mutations are more beneficial or less hindering than normal mutations, though not all kinds of mutations can adapt. Paragon morphs are already adapted beyond the limits of adaption cream and so will not benefit further from its effects.
+
+Adaption cream is often used to partially restore manipulation to unlucky morphs that lose their fingers to mutations.</PM_AdaptionCream.description>
+  <GenekitColorPicker.label>피부 재착색 유전키트</GenekitColorPicker.label>
+  <GenekitColorPicker.description>피부 재착색 유전키트는 몇몇 번화계의 파티광들이 정말 좋아하는 물건입니다. 간단하게 버튼을 누르는것 만으로도 사람의 피부와 머리색의 유전정보를 거의 즉시, 영구적으로 바꿀 수 있습니다. 또 다른 키트를 이용해서 변화를 되돌리거나 새로운 색상을 고를 수도 있습니다.</GenekitColorPicker.description>
+  <GenekitColorPicker.comps.0.useLabel>키트를 사용</GenekitColorPicker.comps.0.useLabel>
+  <PM_ExperimentalInjector.label>실험용 주사기</PM_ExperimentalInjector.label>
+  <PM_ExperimentalInjector.description>메카나이트 혼합물보다 약간 더 안정된 대체품으로서, 기존 혼합물보다는 조금 더 안정적으로 폰들에게 무작위 변이를 일으킵니다. 추가적인 기능으로, 주사기에 임시 유전자은행 업링크 마이크로칩이 내재되어 있어, 이 주사기로 일으킨 모든 변이들을 기록하고 저장합니다.</PM_ExperimentalInjector.description>
+  <PM_ChaoThrumboGenome.label>Unstable genome</PM_ChaoThrumboGenome.label>
+  <PM_ChaoThrumboGenome.description>A strange and corrupted genome. Having this interact with regular data storage would fry the system, but a new option has become available in the chamber under animals. Warning: Due to the extremely cryptic genome data contained within, the resulting animal may be far larger than the chambers can safely handle. Prepare accordingly.</PM_ChaoThrumboGenome.description>
+  <MechaniteSlurry.label>메카나이트 혼합물</MechaniteSlurry.label>
+  <MechaniteSlurry.description>Mechanites suspended in an organic binding agent composes this pseudofluid. It is strongly recommended not to ingest raw slurry, as it will cause constant, rapid, and uncontrolled mutation. With further processing, it can be refined into safer and more controlled forms.
+
+Although it induces rapid and uncontrollable mutations, some desperate individuals are known to injest it in the hopes it may provide them useful mutations, or simply because they enjoy the transformation process. Some rimworld warlords are known to feed prisoners slurry to make them into production slaves, or simply as a form of sadistic entertainment.</MechaniteSlurry.description>
+  <UdderPill.ingestible.ingestCommandString>{0} 복용</UdderPill.ingestible.ingestCommandString>
+  <UdderPill.ingestible.ingestReportString>{0} 복용 중.</UdderPill.ingestible.ingestReportString>
+  <UdderPill.label>변이알약, 부스터</UdderPill.label>
+  <UdderPill.description>A pill containing reconfigured mechanites tuned specifically to boost production mutations. Taking them will cause a morph to produce resources more rapidly, at a cost of increased hunger. Taking multiple doses will further improve production rates, but is not recommended. Side effects may include increased discomfort, hair growth, hunger, coma, and in rare cases, fiery explosions.
+
+Booster pills are illegal throughout civilized space, but are a staple for certain unethical farms to increase the yield of their "alternative livestock".</UdderPill.description>
+  <ColorsPill.ingestible.ingestCommandString>{0} 복용</ColorsPill.ingestible.ingestCommandString>
+  <ColorsPill.ingestible.ingestReportString>{0} 복용 중.</ColorsPill.ingestible.ingestReportString>
+  <ColorsPill.label>변이알약, RGB</ColorsPill.label>
+  <ColorsPill.description>A pill that induces a random change in genes affecting pigmentation that accompanies other mutations. In short, they give the user a random new fur, feather, or scale color.
+
+RGB pills are a common party drug in some mutation-positive societies. Pranksters also find great amusement in hiding RGB pills in unsuspecting victims' meals.</ColorsPill.description>
+  <FeralPill.ingestible.ingestCommandString>{0} 복용</FeralPill.ingestible.ingestCommandString>
+  <FeralPill.ingestible.ingestReportString>{0} 복용 중.</FeralPill.ingestible.ingestReportString>
+  <FeralPill.label>변이알약, 야생</FeralPill.label>
+  <FeralPill.description>A pill to tip the scales on morphs that are reeling, but did not change fully. A single dose will kickstart the mechanites once more, guaranteeing a full transformation into an animal. Use this if you really, really want a pawn to be an animal instead of a human.
+
+When ingested by someone not currently mutating, feral pills have a side effect of gradually destabilizing higher brain functions associated with sapience. In humans and morphs this can cause them to temporarily succumb to their base instincts, while in former human animals it will cause a permanant loss of sapience as the mechanites which maintain their human consciousness are damaged.
+
+Feral pills are highly illegal in civilized space. At least one exotic animal trader has been found guilty of kidnapping, transforming, and selling former human victims drugged with feral pills until they act no differently than any other animal. Unethical farmers are also known to use them to keep their "alternative livestock" passive and easier to manage.</FeralPill.description>
+  <DryPills.ingestible.ingestCommandString>{0} 복용</DryPills.ingestible.ingestCommandString>
+  <DryPills.ingestible.ingestReportString>{0} 복용 중.</DryPills.ingestible.ingestReportString>
+  <DryPills.label>변이알약, 마름</DryPills.label>
+  <DryPills.description>A pill containing targeted mechanites that permanantly suppresses certain unwanted biological processes. It will permanantly disable all production mutations on a pawn, preventing them from producing any resources.
+
+Dry pills are often used to make mutagen exposure victims more comfortable until they can be reverted. It also works as a preventative measure against becoming etherbroken/bonded for production morphs who prefer to keep their forms but don't wish to produce.</DryPills.description>
+  <AspectReverterPills.ingestible.ingestCommandString>{0} 복용</AspectReverterPills.ingestible.ingestCommandString>
+  <AspectReverterPills.ingestible.ingestReportString>{0} 복용 중.</AspectReverterPills.ingestible.ingestReportString>
+  <AspectReverterPills.label>변이알약, X-관</AspectReverterPills.label>
+  <AspectReverterPills.description>A pill that triggers a soft mechanite "reboot" within a pawn's body, restoring it to a base state. This has the effect of removing all aspects from a mutated pawn, but does not remove any mutations. It will cure etherbonded and etherbroken pawns, allow dry pawns to produce resources again, and restore boosted pawns to normal production levels once more.
+
+It will not cure certain species-specific aspects, such as pack or herd mentalties. Warning: Paragon morphs will lose their paragon status if given X-aspect.
+
+X-aspect is most commonly used to restore human-level sapience to etherbroken and etherbonded pawns when reverter is not an option. It does not prevent a pawn from becoming etherbroken a second time, however, so it is usually followed up with a course of dry pills. However, certain unethical farmers are known to exploit this property to ensure their "alternative livestock" become etherbonded.</AspectReverterPills.description>
+  <MutagenStabiliser.ingestible.ingestCommandString>{0} 복용</MutagenStabiliser.ingestible.ingestCommandString>
+  <MutagenStabiliser.ingestible.ingestReportString>{0} 복용 중.</MutagenStabiliser.ingestible.ingestReportString>
+  <MutagenStabiliser.label>변이 안정제</MutagenStabiliser.label>
+  <MutagenStabiliser.description>These pills contain a refined form of antigen in a slow-release capsule.  When taken, they will neutralize any active mutagenic mechanites in the body after a short duration while preventing further mutations for five days.
+
+Stabilizer is commonly used as a prophylaxis to protect the user from mutagenic diseases and mutagenic buildup when working in highly contaminated areas. It's also officially prescribed alongside mutagen injectors to halt the transformation process when finished, though most mutagen junkies prefer raw antigen as a cheaper and equally-effective alternative.</MutagenStabiliser.description>
+  <MutagenAccelerator.ingestible.ingestCommandString>{0} 복용</MutagenAccelerator.ingestible.ingestCommandString>
+  <MutagenAccelerator.ingestible.ingestReportString>{0} 복용 중.</MutagenAccelerator.ingestible.ingestReportString>
+  <MutagenAccelerator.label>변이알약, 가속제</MutagenAccelerator.label>
+  <MutagenAccelerator.description>These pills contain booster mechanites, which will link up with any mutagenic mechanites in the body and allow them to work faster. This greatly increases the rate of gaining and adapting to mutations for five days. It also increases the likelihood of a pawn fully transforming into an animal.
+
+Accelerators are commonly used by mutagen junkies looking to quickly get their transformation fix. More than a few have misjudged their stabilizer dose and accidentally ended up on all fours.</MutagenAccelerator.description>
+  <SapiencePill.ingestible.ingestCommandString>{0} 복용</SapiencePill.ingestible.ingestCommandString>
+  <SapiencePill.ingestible.ingestReportString>{0} 복용 중.</SapiencePill.ingestible.ingestReportString>
+  <SapiencePill.label>mutapill, intelliboost</SapiencePill.label>
+  <SapiencePill.description>An advanced form of pill that contains a cocktail of repair mechanites and sapience-boosting drugs. When given to a former human, the pills will stimulate the regrowth of their higher-order consciousness while also repairing the mechanite support network that maintainas it, allowing them to gradually regain sapience.
+
+Intelliboost is unable to restore the consciousness of permanantly feral humans, as the mechanite network within them has been damaged beyond repair.</SapiencePill.description>
+  <ReversionSyringe.label>reverter</ReversionSyringe.label>
+  <ReversionSyringe.description>A powerful dose of specially-tuned mutagenic mechanites, stabilized and kept in check by antigen. When administered to a mutated human or former human, it will use the data stored within the mechanites in their body to reconstruct their original form, and then initiate a controlled mutation back towards that form. It can restore a former-human animal to a humanoid form, or gradually remove all mutations from a humanoid pawn.
+
+Because reverter relies on the data stored within the mutagenic mechanites to revert an animal back to human form, it will reconstruct their body exactly as it was when they first transformed, bionics and health conditions included. It cannot revert permanantly feral pawns, as the mechanites within them have degraded to the point that the data on their original form has been permanantly lost.</ReversionSyringe.description>
+  <RandomTransformer.label>변이혈청</RandomTransformer.label>
+  <RandomTransformer.description>메카나이트와 동물의 유전자로 무작위 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomTransformer.description>
+  <RandomAridTransformer.label>변이혈청, 건조지역</RandomAridTransformer.label>
+  <RandomAridTransformer.description>메카나이트와 동물의 유전자로 건조한 기후에 알맞은 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomAridTransformer.description>
+  <RandomColdTransformer.label>변이혈청, 한랭</RandomColdTransformer.label>
+  <RandomColdTransformer.description>메카나이트와 동물의 유전자로 추운 기후에 알맞은 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomColdTransformer.description>
+  <RandomTemperateTransformer.label>변이혈청, 온대</RandomTemperateTransformer.label>
+  <RandomTemperateTransformer.description>메카나이트와 동물의 유전자로 온대림 기후에 알맞은 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomTemperateTransformer.description>
+  <RandomTropicalTransformer.label>변이혈청, 열대</RandomTropicalTransformer.label>
+  <RandomTropicalTransformer.description>메카나이트와 동물의 유전자로 열대림 기후에 알맞은 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomTropicalTransformer.description>
+  <RandomCombatTransformer.label>변이혈청, 전투</RandomCombatTransformer.label>
+  <RandomCombatTransformer.description>메카나이트와 동물의 유전자로 전투와 관련된 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomCombatTransformer.description>
+  <RandomProductionTransformer.label>변이혈청, 생산</RandomProductionTransformer.label>
+  <RandomProductionTransformer.description>메카나이트와 동물의 유전자로 생산과 관련된 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomProductionTransformer.description>
+  <RandomCrafterTransformer.label>변이혈청, 제작자</RandomCrafterTransformer.label>
+  <RandomCrafterTransformer.description>메카나이트와 동물의 유전자로 제작과 관련된 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomCrafterTransformer.description>
+  <RandomSocialTransformer.label>변이혈청, 사회적</RandomSocialTransformer.label>
+  <RandomSocialTransformer.description>메카나이트와 동물의 유전자로 사교관련 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomSocialTransformer.description>
+  <RandomPowerfulTransformer.label>변이혈청, 강력함</RandomPowerfulTransformer.label>
+  <RandomPowerfulTransformer.description>강력한 효과를 지닌, 그 어떤 혈청과도 다른 정체불명의 혈청입니다. 이런 것들은 다른 종류의 혈청보다 더 오래 걸리고, 더 많은 배고픔을 유발하지만, 매우 강력한 생명체가 될 것입니다.</RandomPowerfulTransformer.description>
+  <RandomDomesticTransformer.label>변이혈청, 가축</RandomDomesticTransformer.label>
+  <RandomDomesticTransformer.description>메카나이트와 동물의 유전자로 가축동물형 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomDomesticTransformer.description>
+  <RandomAvianTransformer.label>변이혈청, 조류</RandomAvianTransformer.label>
+  <RandomAvianTransformer.description>메카나이트와 동물의 유전자로 조류형 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomAvianTransformer.description>
+  <RandomBovidTransformer.label>변이혈청, 소과</RandomBovidTransformer.label>
+  <RandomBovidTransformer.description>메카나이트와 동물의 유전자로 소과 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomBovidTransformer.description>
+  <RandomCanineTransformer.label>변이혈청, 개과</RandomCanineTransformer.label>
+  <RandomCanineTransformer.description>메카나이트와 동물의 유전자로 개과 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomCanineTransformer.description>
+  <RandomCervidTransformer.label>변이혈청, 사슴과</RandomCervidTransformer.label>
+  <RandomCervidTransformer.description>메카나이트와 동물의 유전자로 사슴과 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomCervidTransformer.description>
+  <RandomEquineTransformer.label>mutaserum, equine</RandomEquineTransformer.label>
+  <RandomEquineTransformer.description>A serum filled with mechanites and animal DNA that causes equine mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomEquineTransformer.description>
+  <RandomFelineTransformer.label>변이혈청, 고양이과</RandomFelineTransformer.label>
+  <RandomFelineTransformer.description>메카나이트와 동물의 유전자로 고양이과 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomFelineTransformer.description>
+  <RandomRodentTransformer.label>변이혈청, 쥐과</RandomRodentTransformer.label>
+  <RandomRodentTransformer.description>메카나이트와 동물의 유전자로 쥐과 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomRodentTransformer.description>
+  <RandomReptileTransformer.label>변이혈청, 파충류</RandomReptileTransformer.label>
+  <RandomReptileTransformer.description>메카나이트와 동물의 유전자로 파충류 변이를 일으키는 혈청입니다. 방치하게 되면 동물로 변할 수 있으니 사용에 주의 하세요.</RandomReptileTransformer.description>
+  <RandomUrsineTransformer.label>mutaserum, ursine</RandomUrsineTransformer.label>
+  <RandomUrsineTransformer.description>A serum filled with mechanites and animal DNA that causes ursine mutations. Use with caution, as leaving the mechanites unchecked may transform the user.</RandomUrsineTransformer.description>
+  <SapientChip.label>지성 복구망</SapientChip.label>
+  <SapientChip.description>강력하고 희귀한 이식물로, 변형 유인체 메카나이트와 이 폰의 뇌 및 다른 신체기관 사이를 막는 그물망 같은 역활을 합니다. 지능의 백업 데이터와 복구점을 제공하여 서서히 지성을 복구하고 지성을 잃는것을 방지합니다.\n\n이식된 상태에서 변이를 해도 유지 됩니다.</SapientChip.description>
+  <MegaslothTransformer.label>변이주사기, 메가슬로스</MegaslothTransformer.label>
+  <MegaslothTransformer.description>메카나이트와 거대나무늘보의 유전자로 차있는 주사기 입니다. 메카나이트를 방치했을 경우 사용자를 변신 시킬 수 있으니 사용에 주의 바랍니다.</MegaslothTransformer.description>
+  <ElephantTransformer.label>변이주사기, 코끼리</ElephantTransformer.label>
+  <ElephantTransformer.description>메카나이트와 코끼리의 유전자로 차있는 주사기 입니다. 메카나이트를 방치했을 경우 사용자를 변신 시킬 수 있으니 사용에 주의 바랍니다.</ElephantTransformer.description>
+  <RhinocerosTransformer.label>변이주사기, 코뿔소</RhinocerosTransformer.label>
+  <RhinocerosTransformer.description>메카나이트와 코뿔소의 유전자로 차있는 주사기 입니다. 메카나이트를 방치했을 경우 사용자를 변신 시킬 수 있으니 사용에 주의 바랍니다.</RhinocerosTransformer.description>
+  <ThrumboTransformer.label>변이주사기, 트럼보</ThrumboTransformer.label>
+  <ThrumboTransformer.description>메카나이트와 트럼보의 유전자로 차있는 주사기 입니다. 메카나이트를 방치했을 경우 사용자를 변신 시킬 수 있으니 사용에 주의 바랍니다.</ThrumboTransformer.description>
+  <SnakeMorph.label>나가</SnakeMorph.label>
+  <SnakeMorph.description>뱀의 형상을 한 인간입니다. 다리를 대신하는 커다랗고 강력한 꼬리 덕분에, 뱀과 같이 재빠른 움직임이 가능합니다. 팔이 없을거라 생각할 수 도 있지만, 대부분의 코브라 변이체는 팔을 유지 합니다. 여러 방면에서 이들은 유전자 조작으로 탄생한 신화적 나가 라고 볼수 있습니다.</SnakeMorph.description>
+  <SnakeMorph.tools.0.label>왼쪽 주먹</SnakeMorph.tools.0.label>
+  <SnakeMorph.tools.1.label>오른쪽 주먹</SnakeMorph.tools.1.label>
+  <SnakeMorph.tools.2.label>이빨</SnakeMorph.tools.2.label>
+  <SnakeMorph.tools.3.label>머리</SnakeMorph.tools.3.label>
+  <EtherHellhound.label>지옥개</EtherHellhound.label>
+  <EtherHellhound.description>Hellhounds resemble the more common warg, but they are even larger and more terrifying, with unnatural bone claws, large horns, and spikes all over their body. They are extremely vicious and possess a cunning intelligence. Every hellhound was once a human who was transformed by a strange interaction between mutagenic mechanites and luciferium mechanites.\n\nNo one knows why they resemble ancient depictions of demons. Scientists suspect it may be an intentional subroutine built into the mechanites for unknown reasons, while the more superstitious believe hellhounds were cursed for making a deal with a dark god.</EtherHellhound.description>
+  <EtherHellhound.tools.0.label>왼쪽 발톱</EtherHellhound.tools.0.label>
+  <EtherHellhound.tools.1.label>오른쪽 발톱</EtherHellhound.tools.1.label>
+  <EtherHellhound.tools.2.label>날카로운 송곳니</EtherHellhound.tools.2.label>
+  <EtherHellhound.tools.3.label>머리</EtherHellhound.tools.3.label>
+  <Chaoboar.label>혼돈맷돼지</Chaoboar.label>
+  <Chaoboar.description>코끼리 특징과 고슴도치의 특징들이 뒤섞인, 혼돈맷돼지는 극단적인 변형 유인체 노출의 결과물입니다. 두꺼운 발굽이 자라난, 독특한 손을 가지고 있지만, 지성만 갖추고 있다면 많은 일을 할 수 있습니다.</Chaoboar.description>
+  <Chaoboar.tools.0.label>뿔</Chaoboar.tools.0.label>
+  <Chaoboar.tools.1.label>엄니</Chaoboar.tools.1.label>
+  <Chaoboar.tools.2.label>머리</Chaoboar.tools.2.label>
+  <Chaoboar.tools.3.label>왼쪽 발굽</Chaoboar.tools.3.label>
+  <Chaoboar.tools.4.label>오른쪽 발굽</Chaoboar.tools.4.label>
+  <Chaoboom.label>혼돈폭탄체</Chaoboom.label>
+  <Chaoboom.description>거대하고 예측할 수 없는 짐승은 인간에 대한 극단적인 변이를 통해서만 발견됩니다. 혼돈폭탄체는 일반적인 폭탄 사슴보다 더 많은 양의 화학 연료를 생산합니다.</Chaoboom.description>
+  <Chaoboom.tools.1.label>뿔</Chaoboom.tools.1.label>
+  <Chaoboom.tools.2.label>머리</Chaoboom.tools.2.label>
+  <Chaoboom.tools.3.label>왼쪽 발굽</Chaoboom.tools.3.label>
+  <Chaoboom.tools.4.label>오른쪽 발굽</Chaoboom.tools.4.label>
+  <Chaocow.label>혼돈소</Chaocow.label>
+  <Chaocow.description>이 크고 예측할 수 없는 짐승은 인간이 극단적인 변형 유인체에 노출되었을 때 생겨납니다. 이들은 번식할 수는 없지만, 매우 강력한 전투원입니다.</Chaocow.description>
+  <Chaocow.tools.1.label>뿔</Chaocow.tools.1.label>
+  <Chaocow.tools.2.label>엄니</Chaocow.tools.2.label>
+  <Chaocow.tools.3.label>머리</Chaocow.tools.3.label>
+  <Chaocow.tools.4.label>왼쪽 발톱</Chaocow.tools.4.label>
+  <Chaocow.tools.5.label>오른쪽 발톱</Chaocow.tools.5.label>
+  <Chaocow.race.meatLabel>혼돈육</Chaocow.race.meatLabel>
+  <Chaodino.label>혼돈공룡</Chaodino.label>
+  <Chaodino.description>랩터처럼 날렵하고 발톱이 있는 육식동물은 지역 주민들을 위협합니다. 대부분의 먹잇감을 능가하는 혼돈공룡은 가장 빠르고 냉혹한 포식자들 중 하나입니다. 만약 이들을 인간으로 되돌릴 계획이 있다면 조심해야 합니다. 그보다 먼저 잡아먹힐지도 모릅니다.</Chaodino.description>
+  <Chaodino.tools.1.label>머리</Chaodino.tools.1.label>
+  <Chaodino.tools.2.label>왼쪽 발톱</Chaodino.tools.2.label>
+  <Chaodino.tools.3.label>오른쪽 발톱</Chaodino.tools.3.label>
+  <Chaofox.label>혼돈여우</Chaofox.label>
+  <Chaofox.description>여우와 말을 혼합한 듯 크고 우아한 생명체로, 꽤나 재빠른 편입니다. 모든 혼돈변이체처럼 이들은 번식이 불가능합니다. 또한 날개를 이용한 비행의 개념은 변방계엔 존재하지 않기 때문에, 이들은 날개를 사용하지 못합니다.</Chaofox.description>
+  <Chaofox.tools.1.label>머리</Chaofox.tools.1.label>
+  <Chaofox.tools.2.label>왼쪽 발톱</Chaofox.tools.2.label>
+  <Chaofox.tools.3.label>오른쪽 발톱</Chaofox.tools.3.label>
+  <ChaofusionRhino.label>혼돈결합체</ChaofusionRhino.label>
+  <ChaofusionRhino.description>변이 유도실에서 처음으로 변이가 시작된 두 변이체의 거대한 융합체 입니다. 둘중 하나가 흡수되어 다른이에게 융합되었습니다. 이들은 두개의 정신을 가지고 하나의 몸을 공유하기 때문에 더욱 높은 의식을 가지고 있지만, 이 새로운 변화에 익숙해 지기까지 시간이 걸릴 것 입니다. 이 융합체는 매우 거대하고 전투에 공포스러울 정도로 효과적입니다.</ChaofusionRhino.description>
+  <ChaofusionRhino.tools.2.label>머리</ChaofusionRhino.tools.2.label>
+  <ChaofusionRhino.tools.3.label>머리</ChaofusionRhino.tools.3.label>
+  <ChaofusionRhino.tools.4.label>코뿔소 뿔</ChaofusionRhino.tools.4.label>
+  <ChaofusionRhino.tools.5.label>트럼보 뿔</ChaofusionRhino.tools.5.label>
+  <ChaomeldCow.label>혼돈융합체</ChaomeldCow.label>
+  <ChaomeldCow.description>변형 유도실안에서 변형된, 두 변이체의 융합체입니다. 이들은 두 개의 정신과 하나의 몸을 공유하고 있으며, 의식 수준이 높을 수록 새로운 의식에 적응하는데 어느정도 시간이 걸릴 수 있습니다.</ChaomeldCow.description>
+  <ChaomeldCow.tools.2.label>머리</ChaomeldCow.tools.2.label>
+  <ChaomeldCow.tools.3.label>머리</ChaomeldCow.tools.3.label>
+  <ChaomeldCow.tools.4.label>뿔</ChaomeldCow.tools.4.label>
+  <ChaomeldDog.label>혼돈융합체</ChaomeldDog.label>
+  <ChaomeldDog.description>변형 유도실안에서 변형된, 두 변이체의 융합체입니다. 이들은 두 개의 정신과 하나의 몸을 공유하고 있으며, 의식 수준이 높을 수록 새로운 의식에 적응하는데 어느정도 시간이 걸릴 수 있습니다. --혼돈개는 변형 유인체 우유를 생산합니다.</ChaomeldDog.description>
+  <ChaomeldDog.tools.2.label>머리</ChaomeldDog.tools.2.label>
+  <ChaomeldDog.tools.3.label>머리</ChaomeldDog.tools.3.label>
+  <ChaomeldDragon.label>혼돈융합체</ChaomeldDragon.label>
+  <ChaomeldDragon.description>변형 유도실안에서 변형된, 두 변이체의 융합체입니다. 이들은 두 개의 정신과 하나의 몸을 공유하고 있으며, 의식 수준이 높을 수록 새로운 의식에 적응하는데 어느정도 시간이 걸릴 수 있습니다. - 혼돈용은 변형 유인체 알을 아주 빠르게 낳습니다.</ChaomeldDragon.description>
+  <ChaomeldDragon.tools.2.label>머리</ChaomeldDragon.tools.2.label>
+  <ChaomeldDragon.tools.3.label>머리</ChaomeldDragon.tools.3.label>
+  <ChaomeldDragon.tools.4.label>용담</ChaomeldDragon.tools.4.label>
+  <ChaomeldDragon.tools.5.label>용담</ChaomeldDragon.tools.5.label>
+  <ChaomeldDragon.tools.6.label>뿔</ChaomeldDragon.tools.6.label>
+  <PM_Chaothrumbo.label>카오스럼보</PM_Chaothrumbo.label>
+  <PM_Chaothrumbo.description>A terrifyingly massive type of former human, a chaothrumbo is a relentlessly tough being equipped with claws and horns, including an oversized thrumbo horn. An absolutely formidable foe, pray that it's on your side.</PM_Chaothrumbo.description>
+  <PM_Chaothrumbo.tools.0.label>뿔</PM_Chaothrumbo.tools.0.label>
+  <PM_Chaothrumbo.tools.2.label>왼쪽 발톱</PM_Chaothrumbo.tools.2.label>
+  <PM_Chaothrumbo.tools.3.label>오른쪽 발톱</PM_Chaothrumbo.tools.3.label>
+  <PM_Chaothrumbo.tools.4.label>머리</PM_Chaothrumbo.tools.4.label>
+  <Leather_Chao.label>혼돈가죽</Leather_Chao.label>
+  <Leather_Chao.description>혼돈변이체의 생가죽. 원종의 형태에 따라 비늘 달린, 털복숭이, 가시가 있는, 거칠고 매끄러운, 또는 그 사이에 있는 어떤 것이든(중첩이 많이 있을 수 있음)있을 수 있습니다. 이 때문에 매우 다재다능한 소재로, 비싸게 팔립니다. 그러나, 그것을 구성하는 많은 다른 원료들 때문에, 그것은 높은 내구성을 가지고 있지는 않습니다.</Leather_Chao.description>
+  <Mutonite.label>뮤토나이트</Mutonite.label>
+  <Mutonite.description>순수하고 빛나는 메카나이트들로 이루어진 빛나는 덩어리입니다.</Mutonite.description>
+  <Mutanite.label>뮤타나이트</Mutanite.label>
+  <Mutanite.description>활성화된 메카나이트로 이루어진 빛나는 녹색 덩어리입니다. 작은 덩어리들은 이들을 변방계에 전달한 유성보다 다루기에 더욱 안전합니다.</Mutanite.description>
+  <PM_Genebank.label>유전자은행</PM_Genebank.label>
+  <PM_Genebank.description>유전적 정보를 저장하는데 최적화 된 변이비단 테이프 기반의 저장도구입니다. 64 kMutabytes 만큼의 정보를 저장 할 수 있습니다.</PM_Genebank.description>
+  <PM_GenebankLarge.label>Advanced genebank</PM_GenebankLarge.label>
+  <PM_GenebankLarge.description>A morphsilk tape-reel storage device that's optimised for storing genetic information. This advanced version can store 256 kMutabytes of information.</PM_GenebankLarge.description>
+  <PM_InjectorLab.label>주사기 실험대</PM_InjectorLab.label>
+  <PM_InjectorLab.description>메카나이트 변형물질 만들거나 역설계를 할 수 있는, 보다 진보된 구성요소를 갖춘 작업대입니다.</PM_InjectorLab.description>
+  <PM_NewMutagenicChamber.label>변형 유도실</PM_NewMutagenicChamber.label>
+  <PM_NewMutagenicChamber.description>변형 유인 액체로 가득찬 방으로, 훨씬 짧은 시간 안에 림들을 동물로 변형시킬 수 있습니다. 하지만 이는 방의 크기에 맞춰 특정 크기 만큼의 동물로 변형될 수 있습니다. 예컨데 트럼보 같은 동물은 여기서는 만들 수 없습니다.</PM_NewMutagenicChamber.description>
+  <CrashedMutagenicShipPart.label>함선 파편 (변형 유인체)</CrashedMutagenicShipPart.label>
+  <CrashedMutagenicShipPart.description>알수없는 함선으로부터 떨어져나와 추락한 조각입니다. 치명적인 방어자와 함께, 외계의 물질이 포함되어있을 수 있습니다. 변이를 일으키는 효과가 있는 듯 합니다.</CrashedMutagenicShipPart.description>
+  <CrashedMutagenicShipPartIncoming.label>추락한 선박 부분 (들어오는 중)</CrashedMutagenicShipPartIncoming.label>
+  <MutagenLab.label>변형물질 작업대</MutagenLab.label>
+  <MutagenLab.description>메카나이트 변형물질 만들거나 역설계를 할 수 있는, 보다 진보된 구성요소를 갖춘 작업대입니다.</MutagenLab.description>
+  <PM_MutationScanner.label>변이 시퀀서</PM_MutationScanner.label>
+  <PM_MutationScanner.description>유전자은행에 접근하고 저장된 동물 유전체 배열에 사용됩니다. 추후, 인간이 조종하여 변이 유도실에서 사용될 변이를 해금할 수 있습니다.</PM_MutationScanner.description>
+  <PM_Filth_Slurry.label>slurry puddle</PM_Filth_Slurry.label>
+  <PM_Filth_Slurry.description>A puddle of mutagenic slurry.</PM_Filth_Slurry.description>
+  <Plant_MutatedGrass.label>변종 풀</Plant_MutatedGrass.label>
+  <Plant_MutatedGrass.description>야생에 있는 다소 변이된 풀, 지하수 오염의 산물입니다.</Plant_MutatedGrass.description>
+  <Plant_MutatedBrambles.label>변종 딸기덤불</Plant_MutatedBrambles.label>
+  <Plant_MutatedBrambles.description>탱글탱글하고 빨간 가시나무가 우거진 새싹들 위에 푸른 꽃과 함께 자라났습니다. 딸기덤불들은 떼지어 자라고, 그 위를 지나는 누구든 속도를 늦춥니다.</Plant_MutatedBrambles.description>
+  <Plant_MutatedBush.label>변종 덤불</Plant_MutatedBush.label>
+  <Plant_MutatedBush.description>이세계에서 온듯한 덤불입니다. 예쁘게 생겼지만, 그 외에 쓰임새는 없습니다.</Plant_MutatedBush.description>
+  <Plant_GnarledTree.label>뒤틀린 나무</Plant_GnarledTree.label>
+  <Plant_GnarledTree.description>변형물질에 의해 섬뜩한 모양으로 뒤틀린 나무입니다. 뒤틀린 나무는 쓸모가 없고 부서지기 쉬우며, 잘라내면 으스러집니다.</Plant_GnarledTree.description>
+  <Plant_ChaoBulb.label>혼돈방울</Plant_ChaoBulb.label>
+  <Plant_ChaoBulb.description>A mutagen-infused plant that sprouts odd orange bulbs. Chaobulb plants naturally collect trace amounts of raw resources out of the ground, which are then used by mutagenic mechanites to replicate. The mechanites are stored in the orange bulbs that give the plant its name, which can be harvested and processed into mechanite slurry.
+
+Chaobulb plants are delicate, and the bulbs are prone to rupturing if harvested incorrectly. They are slow to plant and harvest compared to other plants, and harvest failures have a risk of mutating the hapless farmer.</Plant_ChaoBulb.description>
+  <Plant_ChaoBulb_Domestic.label>혼돈방울</Plant_ChaoBulb_Domestic.label>
+  <Plant_ChaoBulb_Domestic.description>A mutagen-infused plant that sprouts odd orange bulbs. Chaobulb plants naturally collect trace amounts of raw resources out of the ground, which are then used by mutagenic mechanites to replicate. The mechanites are stored in the orange bulbs that give the plant its name, which can be harvested and processed into mechanite slurry.
+
+Chaobulb plants are delicate, and the bulbs are prone to rupturing if harvested incorrectly. They are slow to plant and harvest compared to other plants, and harvest failures have a risk of mutating the hapless farmer.</Plant_ChaoBulb_Domestic.description>
+  <Plant_Glowvine.label>글로우바인</Plant_Glowvine.label>
+  <Plant_Glowvine.description>A mutagen-infused plant that sprouts odd blue bulbs, glowvines are a form of healroot that has been mutated by exposure to mechanite contamination. Similar to chaobulbs, they produce glowing bulbs full of mechanites. However, the mechanites within glowvines have been altered somehow by the substances in the healroot, and as a result they now have an anti-mutagenic effect. The bulbs can be harvested and processed into antigen.
+
+Antigen plants are delicate and sensitive to temperature. They take a long time to sow and harvest compared to other plants, and they will only grow in moderately cold temperatures. However, mutation has rendered them capable of growing without light, and so they are commonly grown within refridgerated darkhouses or caves.</Plant_Glowvine.description>
+  <Plant_Glowvine_Domestic.label>글로우바인</Plant_Glowvine_Domestic.label>
+  <Plant_Glowvine_Domestic.description>A mutagen-infused plant that sprouts odd blue bulbs, glowvines are a form of healroot that has been mutated by exposure to mechanite contamination. Similar to chaobulbs, they produce glowing bulbs full of mechanites. However, the mechanites within glowvines have been altered somehow by the substances in the healroot, and as a result they now have an anti-mutagenic effect. The bulbs can be harvested and processed into antigen.
+
+Antigen plants are delicate and sensitive to temperature. They take a long time to sow and harvest compared to other plants, and they will only grow in moderately cold temperatures. However, mutation has rendered them capable of growing without light, and so they are commonly grown within refridgerated darkhouses or caves.</Plant_Glowvine_Domestic.description>
+  <Chaobulb.label>혼돈방울 씨낭</Chaobulb.label>
+  <Chaobulb.description>A bulbous, warty-looking seed pod from a chaovine. Orange in colour and pungent in smell, it is said to be uncomfortably delicious, and leaves a fuzzy aftertaste in the mouth. Mutagenic mechanites replicate within chaobulb plants and congregate in their bulbs, making it a simple, if work-intensive, way to produce more of them.
+
+Raw chaobulbs are often used by tribes to connect with nature and bring out their inner warrior animal.</Chaobulb.description>
+  <Glowvine.label>glowvine seedpod</Glowvine.label>
+  <Glowvine.description>A blue seedpod harvested from a mutated healroot plant. It contains a naturally-occuring strain of mutagenic mechanites known as antigen, which have dampening effects on most other kinds of mutagenic mechanites. Antigen can be extracted and refined into various anti-mutagenic drugs.
+
+When eaten in its raw form, glowvine will slow down the effects of mutagenic mechanites, though it's not powerful to halt them completely. Tribes often use them as a low-tech treatment to lessen the effects of mutagenic diseases and buildup.</Glowvine.description>
+  <PM_AnimalGenome.label>Animal genome</PM_AnimalGenome.label>
+  <PM_AnimalGenome.description>Contains an animal's genome that can be downloaded into genebank.</PM_AnimalGenome.description>
+  <PM_RestrictedAnimalGenome.label>Animal genome - Restricted</PM_RestrictedAnimalGenome.label>
+  <PM_RestrictedAnimalGenome.description>Contains a restricted animal's genome that can be downloaded into genebank.</PM_RestrictedAnimalGenome.description>
+  <XM_MutagenicBullet.label>XM_변이유도총알</XM_MutagenicBullet.label>
+  <TFMilk.label>mutagenic milk</TFMilk.label>
+  <TFMilk.description>This milk smells odd, but not off. Saturated with mutagenic mechanites that the original species can no longer be determined. Drinking this will probably cause unpredictable though milk-related mutations.</TFMilk.description>
+  <TFMilk.modExtensions.0.rulePack.rulesStrings.0>mutagen_cause->drinking strange milk</TFMilk.modExtensions.0.rulePack.rulesStrings.0>
+  <TFMilk.modExtensions.0.rulePack.rulesStrings.1>caused_by->after</TFMilk.modExtensions.0.rulePack.rulesStrings.1>
+  <TFEgg.label>mutagenic egg</TFEgg.label>
+  <TFEgg.description>A strange egg usually laid by some avian morphs. It's basically a normal egg, but saturated with enough mutagenic mechanites that the original species can no longer be determined. Eating it can cause unpredictable avian-based mutations unless properly cooked into a meal.</TFEgg.description>
+  <TFEgg.modExtensions.0.rulePack.rulesStrings.0>mutagen_cause->eating a strange egg</TFEgg.modExtensions.0.rulePack.rulesStrings.0>
+  <TFEgg.modExtensions.0.rulePack.rulesStrings.1>caused_by->after</TFEgg.modExtensions.0.rulePack.rulesStrings.1>
+  <Bullet_MutagenicRocket.label>변형 유인체 로켓</Bullet_MutagenicRocket.label>
+  <Morphsilk.label>변이비단</Morphsilk.label>
+  <Morphsilk.description>Scraps of fabric that have been impregnated with mutagenic nanites. The nanites will passively link with and boost any mutagenic mechanites in the bloodstream, increasing the rate of mutation of the pawn wearing it. Despite its improved flexibility and durability compared to regular fabric, it’s not recommended to make clothing out of this.
+
+Morphsilk is commonly created as a byproduct of full-body transformations, as the hapless victim sheds large amounts of mechanites into their clothing before tearing it apart upon transforming. Because of the risk it poses to the wearer and how commonly it can be found at any mutagenic battleground, most merchants will pay but a pittance for morphsilk.</Morphsilk.description>
+  <PM_Hazsilk.label>hazsilk</PM_Hazsilk.label>
+  <PM_Hazsilk.description>By doping morphsilk with antigen, the mechanites active in the fibres have been reconfigured to reduce mutagen sensitivity rather than increase it. Hazsilk is not much more protective against physical damage than cloth, but it can be used to create special clothing that protects the user from mutagenic weaponry and other mutagenic hazards.
+
+Hazsilk is often used as a protective underlayer for soldiers going into battle against enemies known to use mutagenic weaponry.</PM_Hazsilk.description>
+  <FlightIncoming.label>flying (incoming)</FlightIncoming.label>
+  <FlightLeaving.label>flying (leaving)</FlightLeaving.label>
+  <Gas_Mutagen.label>변이체 구름</Gas_Mutagen.label>
+  <MutagenicArrow.label>변형 유인체 화살</MutagenicArrow.label>
+  <Mutabow.label>mutabow</Mutabow.label>
+  <Mutabow.description>A bow that fires arrows with mutanite arrowhead, mutating the victim.</Mutabow.description>
+  <Mutabow.tools.0.label>활대</Mutabow.tools.0.label>
+  <Mutarifle.label>변이소총</Mutarifle.label>
+  <Mutarifle.description>접촉 시 변이를 유발시키는 젤형 변이유도 탄환을 발사하는 소총입니다.</Mutarifle.description>
+  <Mutarifle.tools.0.label>손잡이</Mutarifle.tools.0.label>
+  <Mutarifle.tools.1.label>총열</Mutarifle.tools.1.label>
+  <Bullet_EtherGun.label>에테르 탄환</Bullet_EtherGun.label>
+  <Bullet_TaggingGun.label>유전학 인식표</Bullet_TaggingGun.label>
+  <TST_Gun_EtherGun.label>뮤타건</TST_Gun_EtherGun.label>
+  <TST_Gun_EtherGun.description>뮤타나이트로 만들어졌으며, 변형 유인체 주사기가 들어있습니다. 뮤타건은 맞은 사람에게 강제적으로 변이를 일으 킬 수 있습니다.</TST_Gun_EtherGun.description>
+  <TST_Gun_EtherGun.tools.0.label>손잡이</TST_Gun_EtherGun.tools.0.label>
+  <TST_Gun_EtherGun.tools.1.label>총열</TST_Gun_EtherGun.tools.1.label>
+  <TST_Gun_TaggingGun.label>인식표 소총</TST_Gun_TaggingGun.label>
+  <TST_Gun_TaggingGun.description>이 소총으로 유전자 데이터베이스에 동물을 추가할 수 있습니다. 실제 무기로 사용하긴 어렵지만, 그래도 인간사냥을 시작하게 할 수는 있습니다. 총에 맞으면 뭐가되었든 아픈건 마찬가지니까요.</TST_Gun_TaggingGun.description>
+  <TST_Gun_TaggingGun.tools.0.label>손잡이</TST_Gun_TaggingGun.tools.0.label>
+  <TST_Gun_TaggingGun.tools.1.label>총열</TST_Gun_TaggingGun.tools.1.label>
+  <Weapon_GrenadeTF.label>변형 유인 수류탄</Weapon_GrenadeTF.label>
+  <Weapon_GrenadeTF.description>DNA와 메카나이트로 채워진 고압 용기로, 던져지면 공기중에 분사됩니다. 그 결과로 생긴 안개는 그 안에 있는 모든 유기체들을 변형시킬 수 있습니다.</Weapon_GrenadeTF.description>
+  <Weapon_GrenadeTF.verbs.0.label>변형 유인 수류탄 투척</Weapon_GrenadeTF.verbs.0.label>
+  <Proj_GrenadeTF.label>변형 유인 수류탄</Proj_GrenadeTF.label>
+  <Shell_TF.label>변형유인 포탄</Shell_TF.label>
+  <Shell_TF.description>충돌시 DNA와 메카나이트가 혼합된 안개를 만드는 포탄입니다. 이 안개 안에서는 그 어떤 유기체도 변형될 수 있습니다. 박격포에서 발사하거나, 함정으로 설치할 수 있습니다. 손상시 폭발을 일으킵니다.</Shell_TF.description>
+  <Bullet_Shell_TF.label>변형유인 포탄</Bullet_Shell_TF.label>
+  <MeleeWeapon_MutaniteKnife.label>변이체 나이프</MeleeWeapon_MutaniteKnife.label>
+  <MeleeWeapon_MutaniteKnife.description>안전하게 사용하기위한 손잡이가 달린 뮤타나이트 조각입니다. 칼날에 찔리는 희생양을 변이 시킵니다.</MeleeWeapon_MutaniteKnife.description>
+  <MeleeWeapon_MutaniteKnife.tools.0.label>손잡이</MeleeWeapon_MutaniteKnife.tools.0.label>
+  <MeleeWeapon_MutaniteKnife.tools.1.label>날</MeleeWeapon_MutaniteKnife.tools.1.label>
+  <MeleeWeapon_MutaniteKnife.tools.2.label>끝</MeleeWeapon_MutaniteKnife.tools.2.label>
+  <MeleeWeapon_MutaniteSpear.label>변이체 창</MeleeWeapon_MutaniteSpear.label>
+  <MeleeWeapon_MutaniteSpear.description>뾰족한 뮤타나이트 조각이 끝에 달려있는 긴 막대기입니다. 찔리는 대상에게 변이를 부여합니다.</MeleeWeapon_MutaniteSpear.description>
+  <MeleeWeapon_MutaniteSpear.tools.0.label>주먹</MeleeWeapon_MutaniteSpear.tools.0.label>
+  <MeleeWeapon_MutaniteSpear.tools.1.label>끝</MeleeWeapon_MutaniteSpear.tools.1.label>
+  <Gun_MutagenicRocketLauncher.label>변형 유인체 로켓 발사기</Gun_MutagenicRocketLauncher.label>
+  <Gun_MutagenicRocketLauncher.description>거대한 변형 유인체 폭발물을 발사하는 1회용 로켓 발사기입니다. 대규모 목표를 상대하기에 적합합니다.\n\n폭발 반경에 잡힌 사람은 누구든 매우 큰 고통을 동반하는 급속변이를 일으킵니다.</Gun_MutagenicRocketLauncher.description>
+  <Gun_MutagenicRocketLauncher.tools.0.label>총열</Gun_MutagenicRocketLauncher.tools.0.label>
+  <MeleeWeapon_MutagenicStunStick.label>변형 유인체 스턴봉</MeleeWeapon_MutagenicStunStick.label>
+  <MeleeWeapon_MutagenicStunStick.description>가공된 뮤타나이트 결정 위로 전기가 흐르며 윙 윙 거리는 소리가 납니다. 이 둔기는 모든 피해자에게 변이와 전기충격으로 인한 기절을 유발합니다.</MeleeWeapon_MutagenicStunStick.description>
+  <MeleeWeapon_MutagenicStunStick.tools.0.label>손잡이</MeleeWeapon_MutagenicStunStick.tools.0.label>
+  <MeleeWeapon_MutagenicStunStick.tools.1.label>머리</MeleeWeapon_MutagenicStunStick.tools.1.label>
+  <TrapIED_TF.label>급조 변형물질 함정</TrapIED_TF.label>
+  <TrapIED_TF.description>A pair of mutagenic shells connected to a trigger which detonates on touch or bullet impact. The explosion can mutate organics caught in the blast. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</TrapIED_TF.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MutationGained.label>변이 획득</MutationGained.label>
+  <MutationLost.label>변이 상실</MutationLost.label>
+  <Transformed.label>원래 인간으로 변환됨</Transformed.label>
+  <Reverted.label>원래 인간에서 변환됨</Reverted.label>
+  <Morphed.label>변환됨</Morphed.label>
+  <DeMorphed.label>되돌아옴</DeMorphed.label>
+  <SapienceLevelChanged.label>지능 수준 변경됨</SapienceLevelChanged.label>
+  <PermanentlyFeral.label>영구적인 야생인간</PermanentlyFeral.label>
+  <FormerHumanHunted.label>사냥함</FormerHumanHunted.label>
+  <FormerHumanGrazed.label>방목됨</FormerHumanGrazed.label>
+  <FormerHumanAteCorpse.label>시체를 먹음.</FormerHumanAteCorpse.label>
+  <ApplyMutagenicsOn.label>변형 유인체를 적용하다</ApplyMutagenicsOn.label>
+  <SowMutagenicPlants.label>변형 유인체 식물 파종</SowMutagenicPlants.label>
+  <CreateMutagenicWeapon.label>변형 유인체 무기 만들기</CreateMutagenicWeapon.label>
+</LanguageData>

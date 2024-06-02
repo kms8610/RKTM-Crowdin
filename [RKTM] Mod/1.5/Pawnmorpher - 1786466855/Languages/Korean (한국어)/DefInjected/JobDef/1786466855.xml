@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PMResurrect.reportString>TargetA 부활 중.</PMResurrect.reportString>
+  <PM_OperateSequencer.reportString>TargetA 탐사 중.</PM_OperateSequencer.reportString>
+  <PM_UseMutationGenome.reportString>TargetB 사용중</PM_UseMutationGenome.reportString>
+  <EnterMutagenChamber.reportString>변형 유도실에 들어가는중.</EnterMutagenChamber.reportString>
+  <CarryToMutagenChamber.reportString>변형 유도실로 TargetA 운송.</CarryToMutagenChamber.reportString>
+  <PM_CarrySpecialToMutagenChamber.reportString>변형 유도실로 TargetA 운송.</PM_CarrySpecialToMutagenChamber.reportString>
+  <PM_PlantMutagenicPlant.reportString>TargetA 심는 중</PM_PlantMutagenicPlant.reportString>
+  <PM_MutagenicSow.reportString>TargetA 재배 중.</PM_MutagenicSow.reportString>
+  <PM_TransformPrisoner.reportString>TargetA 변이시키는 중</PM_TransformPrisoner.reportString>
+  <RecruitSapientFormerHuman.reportString>TargetA 영입중</RecruitSapientFormerHuman.reportString>
+  <PMLayEgg.reportString>산란함.</PMLayEgg.reportString>
+  <PMMilkSelf.reportString>직접 젖 짜는 중.</PMMilkSelf.reportString>
+  <PMDrainChemcyst.reportString>약물을 소비하는 중.</PMDrainChemcyst.reportString>
+  <PMShaveSelf.reportString>직접 면도중.</PMShaveSelf.reportString>
+  <PMHuntingForMushrooms.reportString>버섯을 수확하는 중.</PMHuntingForMushrooms.reportString>
+</LanguageData>

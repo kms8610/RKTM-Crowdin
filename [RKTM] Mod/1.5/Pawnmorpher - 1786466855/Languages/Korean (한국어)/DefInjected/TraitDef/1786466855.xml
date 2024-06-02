@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NaturalHunter.degreeDatas.0.label>타고난 사냥꾼</NaturalHunter.degreeDatas.0.label>
+  <NaturalHunter.degreeDatas.0.description>{PAWN_nameDef}(은)는 이제 타고난 사냥꾼입니다.</NaturalHunter.degreeDatas.0.description>
+  <MutationAffinity.degreeDatas.0.label>변이 친화력</MutationAffinity.degreeDatas.0.label>
+  <MutationAffinity.degreeDatas.0.description>{PAWN_nameDef}(은)는 인간 이외의 무언가가 된다는것에 흥미를 가지고 있습니다.</MutationAffinity.degreeDatas.0.description>
+  <PM_PridefulTrait.degreeDatas.0.label>자부심이 강한</PM_PridefulTrait.degreeDatas.0.label>
+  <PM_PridefulTrait.degreeDatas.0.description>[PAWN_nameDef](은)는 자신이 자신의 자부심의 천연 지도자로서 다른 사람들을 무시하고 쉽게 모욕을 받는다고 봅니다.</PM_PridefulTrait.degreeDatas.0.description>
+</LanguageData>
