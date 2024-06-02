@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>mutagen_cause->bulidup from [weapon_label]</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.0>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>caused_by->caused by</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.1>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>caused_by->because of</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.2>
+  <PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_WeaponChaoticMutagen.causeRulePack.rulesStrings.3>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.0>mutagen_cause->bulidup from mutagenic fallout</PM_FalloutMutagen.causeRulePack.rulesStrings.0>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.1>caused_by->caused by</PM_FalloutMutagen.causeRulePack.rulesStrings.1>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.2>caused_by->because of</PM_FalloutMutagen.causeRulePack.rulesStrings.2>
+  <PM_FalloutMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_FalloutMutagen.causeRulePack.rulesStrings.3>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.0>mutagen_cause->standing too close to mutanite</PM_MutaniteMutagen.causeRulePack.rulesStrings.0>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.1>mutagen_cause->licking weird glowing rocks</PM_MutaniteMutagen.causeRulePack.rulesStrings.1>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.2>caused_by->from</PM_MutaniteMutagen.causeRulePack.rulesStrings.2>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.3>caused_by->caused by</PM_MutaniteMutagen.causeRulePack.rulesStrings.3>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.4>caused_by->because of</PM_MutaniteMutagen.causeRulePack.rulesStrings.4>
+  <PM_MutaniteMutagen.causeRulePack.rulesStrings.5>caused_by->after</PM_MutaniteMutagen.causeRulePack.rulesStrings.5>
+  <PM_ChaobulbHarvest.label>chaobulb harvest</PM_ChaobulbHarvest.label>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>mutagen_cause->failed chaobulb harvest</PM_ChaobulbHarvest.causeRulePack.rulesStrings.0>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>caused_by->from</PM_ChaobulbHarvest.causeRulePack.rulesStrings.1>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>caused_by->caused by</PM_ChaobulbHarvest.causeRulePack.rulesStrings.2>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>caused_by->because of</PM_ChaobulbHarvest.causeRulePack.rulesStrings.3>
+  <PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>caused_by->after</PM_ChaobulbHarvest.causeRulePack.rulesStrings.4>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.0>mutagen_cause->a fight</PM_FightingMutagen.causeRulePack.rulesStrings.0>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.1>mutagen_cause->fighting someone</PM_FightingMutagen.causeRulePack.rulesStrings.1>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.2>caused_by->from</PM_FightingMutagen.causeRulePack.rulesStrings.2>
+  <PM_FightingMutagen.causeRulePack.rulesStrings.3>caused_by->after</PM_FightingMutagen.causeRulePack.rulesStrings.3>
+  <defaultMutagen.label>mechanite mutagen</defaultMutagen.label>
+  <PM_ChamberMutagen.label>mechanite mutagen</PM_ChamberMutagen.label>
+  <PM_ChamberMutagen.causeRulePack.rulesStrings.0>mutagen_cause->being in a chamber</PM_ChamberMutagen.causeRulePack.rulesStrings.0>
+  <PM_ChamberMutagen.causeRulePack.rulesStrings.1>mutagen_cause->mutachamber</PM_ChamberMutagen.causeRulePack.rulesStrings.1>
+  <MergeMutagen.label>merge mutagen</MergeMutagen.label>
+  <MergeMutagen.causeRulePack.rulesStrings.0>mutagen_cause->being in a chamber</MergeMutagen.causeRulePack.rulesStrings.0>
+  <MergeMutagen.causeRulePack.rulesStrings.1>mutagen_cause->mutachamber</MergeMutagen.causeRulePack.rulesStrings.1>
+  <HealerMutagen.label>mechanite mutagen</HealerMutagen.label>
+</LanguageData>
