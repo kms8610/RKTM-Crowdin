@@ -30,13 +30,13 @@
   <PS_DrainOutOfStorage.label>저장소에서 배출되는 물</PS_DrainOutOfStorage.label>
   <PS_DrainOutOfStorage.verb>저장소에서 배출되는 물</PS_DrainOutOfStorage.verb>
   <PS_DrainOutOfStorage.gerund>저장소에서 배출되는 것</PS_DrainOutOfStorage.gerund>
-  <PS_FillStorage.label>fill storage</PS_FillStorage.label>
-  <PS_FillStorage.verb>fill storage</PS_FillStorage.verb>
-  <PS_FillStorage.gerund>filling storage</PS_FillStorage.gerund>
-  <PS_PickUpProcessor.label>pick up result from processor</PS_PickUpProcessor.label>
-  <PS_PickUpProcessor.verb>pick up result</PS_PickUpProcessor.verb>
-  <PS_PickUpProcessor.gerund>picking up result</PS_PickUpProcessor.gerund>
-  <PS_BringToProcessor.label>bring ingredient to processor</PS_BringToProcessor.label>
-  <PS_BringToProcessor.verb>bring ingredient</PS_BringToProcessor.verb>
+  <PS_FillStorage.label>저장소 채우기</PS_FillStorage.label>
+  <PS_FillStorage.verb>저장소 채우기</PS_FillStorage.verb>
+  <PS_FillStorage.gerund>저장소 채워 넣는 중</PS_FillStorage.gerund>
+  <PS_PickUpProcessor.label>처리기에서 결과물 가져오기</PS_PickUpProcessor.label>
+  <PS_PickUpProcessor.verb>결과물 가져오기</PS_PickUpProcessor.verb>
+  <PS_PickUpProcessor.gerund>결과물을 가져오는 중</PS_PickUpProcessor.gerund>
+  <PS_BringToProcessor.label>재료를 처리기로 운반하기</PS_BringToProcessor.label>
+  <PS_BringToProcessor.verb>재료 운반하기</PS_BringToProcessor.verb>
   <PS_BringToProcessor.gerund>재료 운반</PS_BringToProcessor.gerund>
 </LanguageData>

@@ -4,10 +4,10 @@
   <VFEA.AbilityDisableReasonGeneral>{0}(이)가 요구 조건에 부합하지 않음</VFEA.AbilityDisableReasonGeneral>
   <VFEA.AbilityStatsPower>전력</VFEA.AbilityStatsPower>
   <VFEA.AbilityStatsDuration>지속 시간</VFEA.AbilityStatsDuration>
-  <VFEA.TargetMustBeHostile>Target must be hostile</VFEA.TargetMustBeHostile>
-  <VFEA.MinRadius>Minimum radius</VFEA.MinRadius>
-  <VFEA.RClickToAuto>Right-click to enable autocasting.</VFEA.RClickToAuto>
-  <VFEA.RClickToNoAuto>Right-click to disable autocasting.</VFEA.RClickToNoAuto>
+  <VFEA.TargetMustBeHostile>대상은 적대적이어야 합니다</VFEA.TargetMustBeHostile>
+  <VFEA.MinRadius>최소 요골</VFEA.MinRadius>
+  <VFEA.RClickToAuto>자동 시전을 활성화하려면 마우스 오른쪽 버튼을 클릭하세요.</VFEA.RClickToAuto>
+  <VFEA.RClickToNoAuto>자동 시전을 비활성화하려면 마우스 오른쪽 버튼을 클릭하세요.</VFEA.RClickToNoAuto>
   <NocturnalAnimals.BodyClock>생체 시계</NocturnalAnimals.BodyClock>
   <NocturnalAnimals.BodyClock_Description>동물이 언제 자고 언제 깨어있는지 결정합니다.\n\n주행성 동물들은 밤에 자고 낮에는 깨어있는 반면, 야행성 동물들은 낮에 자고 밤에는 깨어있습니다. 박명박모성 동물들은 주로 해 질 녘에 활동합니다.</NocturnalAnimals.BodyClock_Description>
   <NocturnalAnimals.BodyClock_Diurnal>주행성</NocturnalAnimals.BodyClock_Diurnal>
@@ -36,7 +36,7 @@
   <VCE_BuildPeriodicallyOption>동물 건축 허용 (예: 비버들이 댐을 건설).</VCE_BuildPeriodicallyOption>
   <VCE_ChargeBatteriesOption>동물이 운반 및 관리 허용</VCE_ChargeBatteriesOption>
   <VCE_ExplodingEggsOption>가축 알 폭발 허용 (예: 용의 알)</VCE_ExplodingEggsOption>
-  <VCE_HoveringOption>Allow animals "hovering", ignoring terrain movement costs and waterstriding</VCE_HoveringOption>
+  <VCE_HoveringOption>동물의 "호버링"을 허용하여 지형 이동 비용을 무시하고 수상 걷기가 가능하게 함</VCE_HoveringOption>
   <VCE_GraphicChangingOption>동물 그래픽 변경 허용 (예: 카멜레온 야크)</VCE_GraphicChangingOption>
   <VCE_EffecterOption>동물의 상태이상, 정신 상태 및 기분 허용</VCE_EffecterOption>
   <VCE_RegenerationOption>체력 재생 허용 (능동 및 수동)</VCE_RegenerationOption>
@@ -158,7 +158,7 @@
   <VSE.CostGoodwill>비용: {0} 우호도</VSE.CostGoodwill>
   <VWEL_ToggleHotshotLabel>무기 예열</VWEL_ToggleHotshotLabel>
   <VWEL_ToggleHotshotDesc>재빠른 사격을 할 수 있도록 무기를 예열시킵니다. 너무 과한 가열은 폭발로 이어질 수 있습니다.</VWEL_ToggleHotshotDesc>
-  <VFE_DeepDrillNo>Deep drill cannot be used with {0}.</VFE_DeepDrillNo>
+  <VFE_DeepDrillNo>심층 굴착기는 {0}와(과) 함께 사용할 수 없습니다.</VFE_DeepDrillNo>
   <VEF.TeleportTo>{0}로 순간이동</VEF.TeleportTo>
   <VFEMechForceRecharge>강제 재충전</VFEMechForceRecharge>
   <VFEMechForceRechargeDesc>현재 축전지 수준에 관계없이 해당 기계가 충전소로 돌아가 충전하게 합니다.</VFEMechForceRechargeDesc>
@@ -183,46 +183,46 @@
   <VFEMechSetAreaDesc>이 충전소에 연결된 모든 기계에 대해 허가 영역을 설정합니다.</VFEMechSetAreaDesc>
   <VFEMRideableMachineTip>탑승할 수 있는 드로이드입니다. 상단 구성원은 탑승할 수 있는 동물/드로이드 중 가장 빠른 것에 탑승해서 상단의 전체 속도를 높입니다.</VFEMRideableMachineTip>
   <VFEM.CaravanMachineRanOutPower>{MACHINE_nameDef}의 전원이 고갈되어 그대로 남겨졌습니다.</VFEM.CaravanMachineRanOutPower>
-  <VFEM.DroneGainsName>The drone's name is now {0}.</VFEM.DroneGainsName>
+  <VFEM.DroneGainsName>드론의 이름이 이제 {0}입니다.</VFEM.DroneGainsName>
   <MVCF.Toggle>{0} 전환</MVCF.Toggle>
   <MVCF.ToggleUsing>{0}(을)를 사용하여 자동으로 전환합니다.</MVCF.ToggleUsing>
   <MVCF.ToggleAuto>자동 사용 전환</MVCF.ToggleAuto>
-  <MVCF.Cooldown>Still on cooldown. {0} left.</MVCF.Cooldown>
-  <MVCF.Setting>Multi-Verb Combat Framework</MVCF.Setting>
-  <MVCF.Settings.Debug>Developer Mode</MVCF.Settings.Debug>
-  <MVCF.Settings.LogLevel>Log level:</MVCF.Settings.LogLevel>
+  <MVCF.Cooldown>아직 쿨다운 중입니다. {0} 남았습니다.</MVCF.Cooldown>
+  <MVCF.Setting>멀티-버브 전투 프레임워크</MVCF.Setting>
+  <MVCF.Settings.Debug>개발자 모드</MVCF.Settings.Debug>
+  <MVCF.Settings.LogLevel>로그 레벨:</MVCF.Settings.LogLevel>
   <MVCF.Settings.LogLevel.None>없음</MVCF.Settings.LogLevel.None>
-  <MVCF.Settings.LogLevel.Important>Important</MVCF.Settings.LogLevel.Important>
+  <MVCF.Settings.LogLevel.Important>중요</MVCF.Settings.LogLevel.Important>
   <MVCF.Settings.LogLevel.Info>정보</MVCF.Settings.LogLevel.Info>
-  <MVCF.Settings.LogLevel.Verbose>Verbose</MVCF.Settings.LogLevel.Verbose>
+  <MVCF.Settings.LogLevel.Verbose>자세한</MVCF.Settings.LogLevel.Verbose>
   <MVCF.Settings.LogLevel.Silly>강력한</MVCF.Settings.LogLevel.Silly>
   <MVCF.Settings.LogLevel.Tick>Tick</MVCF.Settings.LogLevel.Tick>
-  <MVCF.ToggleAutoReload>Toggle automatic reloading while drafted</MVCF.ToggleAutoReload>
+  <MVCF.ToggleAutoReload>초안 상태에서 자동 재장전 토글</MVCF.ToggleAutoReload>
   <Outposts.Settings.Title>확장된 바닐라 프레임워크 - 전초기지</Outposts.Settings.Title>
   <Outposts.Settings.Multiplier.Production>전역 생산 배수량: {0}</Outposts.Settings.Multiplier.Production>
   <Outposts.Settings.Multiplier.Time>전역 시간 계수: {0}</Outposts.Settings.Multiplier.Time>
-  <Outposts.Settings.RaidDifficulty>Global Raid Difficulty Multiplier: {0}</Outposts.Settings.RaidDifficulty>
-  <Outposts.Settings.RaidFrequency>Raid Frequency Range</Outposts.Settings.RaidFrequency>
+  <Outposts.Settings.RaidDifficulty>글로벌 공격 난이도 승수: {0}</Outposts.Settings.RaidDifficulty>
+  <Outposts.Settings.RaidFrequency>공격 빈도 사거리</Outposts.Settings.RaidFrequency>
   <Outposts.Dialog.Create>새로 만들기</Outposts.Dialog.Create>
   <Outposts.Commands.Create.Label>전초기지 생성</Outposts.Commands.Create.Label>
   <Outposts.Commands.Create.Desc>이 대규모 장사를 이용하여 새로운 전초기지를 생성</Outposts.Commands.Create.Desc>
   <Outposts.Commands.TakeItems.Label>물품 가져가기</Outposts.Commands.TakeItems.Label>
   <Outposts.Commands.TakeItems.Desc>{0}에서 항목을 가져와 대규모 장사에 추가</Outposts.Commands.TakeItems.Desc>
-  <Outposts.Commands.GiveItems.Label>Give items</Outposts.Commands.GiveItems.Label>
-  <Outposts.Commands.GiveItems.Desc>Take items from {0} and add them to the outpost</Outposts.Commands.GiveItems.Desc>
+  <Outposts.Commands.GiveItems.Label>물품 주기</Outposts.Commands.GiveItems.Label>
+  <Outposts.Commands.GiveItems.Desc>{0}의 물품을 가져가서 정착지에 추가하기</Outposts.Commands.GiveItems.Desc>
   <Outposts.Letters.Lost.Label>전초기지 분실</Outposts.Letters.Lost.Label>
   <Outposts.Letters.Lost.Text>안타깝게도, 모든 주민의 사망으로 {0} 전초기지가 우리에게 분실되었습니다.</Outposts.Letters.Lost.Text>
   <Outposts.Letters.BattleWon.Label>전초 전투 승리</Outposts.Letters.BattleWon.Label>
-  <Outposts.Letters.BattleWon.Text>We have successfully won the battle for {0}.{1}</Outposts.Letters.BattleWon.Text>
-  <Outposts.Letters.BattleWon.Captured>We have managed to capture {0} in the aftermath</Outposts.Letters.BattleWon.Captured>
-  <Outposts.Letters.BattleWon.Rescued>We have managed to recover {0}'s body</Outposts.Letters.BattleWon.Rescued>
-  <Outposts.Letters.BattleWon.Secured>We have secured: {0} worth of goods and weapons from the raiders</Outposts.Letters.BattleWon.Secured>
+  <Outposts.Letters.BattleWon.Text>우리는 {0}.{1}의 전투에서 성공적으로 승리하였습니다</Outposts.Letters.BattleWon.Text>
+  <Outposts.Letters.BattleWon.Captured>전투 후 우리는 {0}을 포획할 수 있었습니다</Outposts.Letters.BattleWon.Captured>
+  <Outposts.Letters.BattleWon.Rescued>우리는 {0}의 몸통을 회수할 수 있었습니다</Outposts.Letters.BattleWon.Rescued>
+  <Outposts.Letters.BattleWon.Secured>우리는 공격자들로부터 무기와 상품의 가치가 {0}인 것을 확보했습니다</Outposts.Letters.BattleWon.Secured>
   <Outposts.Letters.Items.Label>{0}의 항목</Outposts.Letters.Items.Label>
   <Outposts.Letters.Items.Text>당신은 전초기지 {0}로부터 아래의 항목을 받았습니다:</Outposts.Letters.Items.Text>
   <Outposts.Commands.AddPawn.Label>폰 추가</Outposts.Commands.AddPawn.Label>
   <Outposts.Commands.AddPawn.Desc>이 대규모 장사로부터 폰을 전초기지에 전송</Outposts.Commands.AddPawn.Desc>
-  <Outposts.Commands.DeliveryColony.Label>Delivery Destination</Outposts.Commands.DeliveryColony.Label>
-  <Outposts.Commands.DeliveryColony.Desc>Select which colony will recieve the goods. Currently: {0}</Outposts.Commands.DeliveryColony.Desc>
+  <Outposts.Commands.DeliveryColony.Label>배달 목적지</Outposts.Commands.DeliveryColony.Label>
+  <Outposts.Commands.DeliveryColony.Desc>상품을 받게 될 정착지를 선택하세요. 현재: {0}</Outposts.Commands.DeliveryColony.Desc>
   <Outposts.Commands.Pack.Label>포장</Outposts.Commands.Pack.Label>
   <Outposts.Commands.Pack.Desc>이 전초기지를 대규모 장사로 다시 포장하기 시작</Outposts.Commands.Pack.Desc>
   <Outposts.Commands.StopPack.Label>포장 중지</Outposts.Commands.StopPack.Label>
@@ -282,7 +282,7 @@
   <PipeSystem_ResourceNeeded>{0} 필요:</PipeSystem_ResourceNeeded>
   <PipeSystem_ResourceStored>{0} 저장됨:</PipeSystem_ResourceStored>
   <PipeSystem_NotConnected>연결되지 않았습니다 {}.</PipeSystem_NotConnected>
-  <PipeSystem_ExcessStored>{0} net excess/stored in network: {1} {3}/d / {2} {3}</PipeSystem_ExcessStored>
+  <PipeSystem_ExcessStored>{0} 순 한계/네트워크에 저장됨: {1} {3}/일 / {2} {3}</PipeSystem_ExcessStored>
   <PipeSystem_Stored>네트워크에 저장된 {0}:</PipeSystem_Stored>
   <PipeSystem_ValveClosed>밸브 닫기.</PipeSystem_ValveClosed>
   <PipeSystem_ValveOpened>밸브가 열렸습니다.</PipeSystem_ValveOpened>
@@ -297,34 +297,34 @@
   <PipeSystem_AmountOut>여기에 저장된 최대 양: {0}</PipeSystem_AmountOut>
   <PipeSystem_ProcessorBuffer>버퍼: {0}</PipeSystem_ProcessorBuffer>
   <PipeSystem_Producing>{0} {1} 생산 중. 사이클 진행 상황: {2}.</PipeSystem_Producing>
-  <PipeSystem_Produce>Produce {0} {1} from {2} {3}.</PipeSystem_Produce>
+  <PipeSystem_Produce>{2} {3}에서 {0} {1} 생산하기.</PipeSystem_Produce>
   <PipeSystem_ChooseResult>결과 선택</PipeSystem_ChooseResult>
   <PipeSystem_ChooseResultDesc>프로세서 결과 선택.</PipeSystem_ChooseResultDesc>
-  <PipeSystem_ProduceLabel>Produce {0} {1} using:</PipeSystem_ProduceLabel>
+  <PipeSystem_ProduceLabel>다음을 사용하여 {0} {1} 제작:</PipeSystem_ProduceLabel>
   <PipeSystem_TransferContent>저장소 콘텐츠 전송</PipeSystem_TransferContent>
   <PipeSystem_TransferContentDesc>저장소 콘텐츠를 다른 사용 가능한 저장소로 전송합니다.</PipeSystem_TransferContentDesc>
   <PipeSystem_MarkedToTransferContent>다른 사용 가능한 저장소로 콘텐츠 전송 중...</PipeSystem_MarkedToTransferContent>
-  <PipeSystem_NothingToRefill>No thing to refill {0}</PipeSystem_NothingToRefill>
-  <PipeSystem_AllowManualRefill>Allow manual refill</PipeSystem_AllowManualRefill>
-  <PipeSystem_AllowManualRefillDesc>Allow pawns to directly refill storage</PipeSystem_AllowManualRefillDesc>
-  <PipeSystem_CantExtract>Can't extract: Tanks are full</PipeSystem_CantExtract>
-  <PipeSystem_CantPlaceHere>{0} can only be placed on the {1} deposit. Use ground-penetrating scanner to find the deposits.</PipeSystem_CantPlaceHere>
-  <PipeSystem_ResourceLeft>Amount left in deposit: {0}.</PipeSystem_ResourceLeft>
-  <PipeSystem_NoStorageInNet>No storage connected</PipeSystem_NoStorageInNet>
-  <PipeSystem_NoStorageInNetDesc>The following networks are not connected to any storage building, but need one:</PipeSystem_NoStorageInNetDesc>
-  <PipeSystem_StorageContentRotted>{0} content rotted away due to a lack of power.</PipeSystem_StorageContentRotted>
-  <PipeSystem_ContentWillRot>Content will rot in {0} due to a lack of power.</PipeSystem_ContentWillRot>
-  <PipeSystem_NothingToPickUp>Nothing to pick-up</PipeSystem_NothingToPickUp>
+  <PipeSystem_NothingToRefill>재충전할 {0} 없음</PipeSystem_NothingToRefill>
+  <PipeSystem_AllowManualRefill>수동 재충전 허용</PipeSystem_AllowManualRefill>
+  <PipeSystem_AllowManualRefillDesc>개체가 직접 저장소를 재충전할 수 있도록 허용</PipeSystem_AllowManualRefillDesc>
+  <PipeSystem_CantExtract>추출할 수 없음: 탱크가 가득 참</PipeSystem_CantExtract>
+  <PipeSystem_CantPlaceHere>{0}은(는) {1} 매장지에만 설치할 수 있습니다. 매장지를 찾기 위해 지면 투과 탐색기를 사용하세요.</PipeSystem_CantPlaceHere>
+  <PipeSystem_ResourceLeft>매장지에 남은 양: {0}.</PipeSystem_ResourceLeft>
+  <PipeSystem_NoStorageInNet>연결된 저장소 없음</PipeSystem_NoStorageInNet>
+  <PipeSystem_NoStorageInNetDesc>다음 네트워크들은 어떠한 저장 건물에도 연결되어 있지 않지만 필요합니다:</PipeSystem_NoStorageInNetDesc>
+  <PipeSystem_StorageContentRotted>{0} 내용물이 전력 부족으로 인해 썩었습니다.</PipeSystem_StorageContentRotted>
+  <PipeSystem_ContentWillRot>전력 부족으로 {0} 내에 내용물이 썩을 것입니다.</PipeSystem_ContentWillRot>
+  <PipeSystem_NothingToPickUp>픽업할 것 없음</PipeSystem_NothingToPickUp>
   <PipeSystem_MakeProcess>{0} 제작</PipeSystem_MakeProcess>
-  <PipeSystem_OutputToNet>{0} to net</PipeSystem_OutputToNet>
-  <PipeSystem_OrNet>or {0} net</PipeSystem_OrNet>
-  <PipeSystem_XFromNet>{0} from net</PipeSystem_XFromNet>
+  <PipeSystem_OutputToNet>{0} 넷에 출력</PipeSystem_OutputToNet>
+  <PipeSystem_OrNet>또는 {0} 넷</PipeSystem_OrNet>
+  <PipeSystem_XFromNet>{0}을(를) 넷에서</PipeSystem_XFromNet>
   <PipeSystem_Processes>처리기</PipeSystem_Processes>
-  <PipeSystem_AddProcess>Add process</PipeSystem_AddProcess>
-  <PipeSystem_CancelCurrentProcess>Cancel current process</PipeSystem_CancelCurrentProcess>
-  <PipeSystem_OutputOnGround>Can output on ground</PipeSystem_OutputOnGround>
-  <PipeSystem_NoProcess>No current process</PipeSystem_NoProcess>
-  <PipeSystem_NoProcessAvailable>No process available</PipeSystem_NoProcessAvailable>
+  <PipeSystem_AddProcess>과정 추가</PipeSystem_AddProcess>
+  <PipeSystem_CancelCurrentProcess>현재 과정 취소</PipeSystem_CancelCurrentProcess>
+  <PipeSystem_OutputOnGround>지면에 출력 가능</PipeSystem_OutputOnGround>
+  <PipeSystem_NoProcess>현재 과정 없음</PipeSystem_NoProcess>
+  <PipeSystem_NoProcessAvailable>사용 가능한 과정 없음</PipeSystem_NoProcessAvailable>
   <PipeSystem_Product>제작품</PipeSystem_Product>
   <Reloading.Unload>{GEAR_labelShort} 비우기</Reloading.Unload>
   <Reloading.NoAmmo>탄약 없음</Reloading.NoAmmo>
@@ -333,7 +333,7 @@
   <VEF_GeneralTitle>일반</VEF_GeneralTitle>
   <CSGTitle>사용자 지정 생성:</CSGTitle>
   <CSGLog>지정 생성 디버깅 로그를 사용하도록 설정: </CSGLog>
-  <VEF_TPTitle>Toggleable patches</VEF_TPTitle>
+  <VEF_TPTitle>토글 가능한 패치</VEF_TPTitle>
   <NeedRestart>모든 설정은 적용되려면 재시작이 필요합니다</NeedRestart>
   <XPatchFound>{0} 패치 발견됨</XPatchFound>
   <VEF.WeatherDamages>날씨 피해</VEF.WeatherDamages>
@@ -343,25 +343,25 @@
   <AskForPopUp>세력 추가</AskForPopUp>
   <AskForPopUpExplained>게임에 추가하고 싶은 각 세력에 대해 물어보기 위해 클릭합니다</AskForPopUpExplained>
   <CanAddXFaction>현재 저장에 {0} 개의 세력을 추가할 수 있습니다</CanAddXFaction>
-  <VEF.DisableModSourceReport>Disable mod source reports</VEF.DisableModSourceReport>
+  <VEF.DisableModSourceReport>모드 소스 보고 끄기</VEF.DisableModSourceReport>
   <VEF.Shields.Search>검색: </VEF.Shields.Search>
-  <VEF.Shields.ResetModSettingsToDefault>Reset mod settings to default</VEF.Shields.ResetModSettingsToDefault>
-  <VEF.Shields.ExplanationTitle>Set weapons to be usable or not usable with shields.</VEF.Shields.ExplanationTitle>
-  <VEF.Shields.ShowMeleeWeapons>Show melee weapons</VEF.Shields.ShowMeleeWeapons>
-  <VEF.Shields.ShowRangeWeapons>Show range weapons</VEF.Shields.ShowRangeWeapons>
-  <VEF_DisableTextureCaching>Disable Texture Caching</VEF_DisableTextureCaching>
-  <VEF_EnablePipeSystemNoStorageAlert>Enable PipeSystem no storage alert</VEF_EnablePipeSystemNoStorageAlert>
+  <VEF.Shields.ResetModSettingsToDefault>모드 설정을 기본값으로 재설정</VEF.Shields.ResetModSettingsToDefault>
+  <VEF.Shields.ExplanationTitle>무기를 방패와 함께 사용 가능 혹은 사용 불가능으로 설정합니다.</VEF.Shields.ExplanationTitle>
+  <VEF.Shields.ShowMeleeWeapons>근접 무기 보기</VEF.Shields.ShowMeleeWeapons>
+  <VEF.Shields.ShowRangeWeapons>사정거리 무기 보기</VEF.Shields.ShowRangeWeapons>
+  <VEF_DisableTextureCaching>텍스처 캐싱 끄기</VEF_DisableTextureCaching>
+  <VEF_EnablePipeSystemNoStorageAlert>PipeSystem 저장소 없음 경보 활성화</VEF_EnablePipeSystemNoStorageAlert>
   <VEF_FactionDiscovery>세력 발견</VEF_FactionDiscovery>
-  <VEF_CustomStructureGeneration>Custom Structure Generation:</VEF_CustomStructureGeneration>
-  <VEF_TextureVariations>Texture Variations:</VEF_TextureVariations>
+  <VEF_CustomStructureGeneration>커스텀 구조 생성:</VEF_CustomStructureGeneration>
+  <VEF_TextureVariations>텍스처 변형:</VEF_TextureVariations>
   <VEF_VerboseLogging>상세 기록</VEF_VerboseLogging>
-  <VEF_UnforbidMinedOres>Unforbid mined ores</VEF_UnforbidMinedOres>
+  <VEF_UnforbidMinedOres>채굴된 광물 금지 해제</VEF_UnforbidMinedOres>
   <VEF_Never>없음</VEF_Never>
-  <VEF_HomeArea>Home Area</VEF_HomeArea>
+  <VEF_HomeArea>주거구역</VEF_HomeArea>
   <VEF_Always>항상</VEF_Always>
-  <VEF_NeverDesc>Never unforbid mined ores (this is how the base game works for non-human pawns, such as animals and mechs)</VEF_NeverDesc>
-  <VEF_HomeAreaDesc>Ores mined by pawns are only unforbidden if mined in the home area</VEF_HomeAreaDesc>
-  <VEF_AlwaysDesc>Ores mined by pawns are always unforbidden</VEF_AlwaysDesc>
+  <VEF_NeverDesc>캐낸 광석을 결코 해제하지 마십시오 (이것은 기본 게임이 비인간 폰즈(예: 동물 및 메크)에 대해 작동하는 방식입니다)</VEF_NeverDesc>
+  <VEF_HomeAreaDesc>폰즈가 주거구엽에서 캔 광석은 채굴될 경우에만 해제됩니다</VEF_HomeAreaDesc>
+  <VEF_AlwaysDesc>폰들이 채굴하는 광물은 항상 금지 해제됩니다</VEF_AlwaysDesc>
   <VFECore.IsToo>너무</VFECore.IsToo>
   <VFECore.Advanced>전자기 탄약</VFECore.Advanced>
   <VFECore.Primitive>원시</VFECore.Primitive>
@@ -385,8 +385,8 @@
   <VEF.TimeLeft>남은 시간:</VEF.TimeLeft>
   <VEF.CancelContract>계약 취소</VEF.CancelContract>
   <VEF.NoRefund>계약을 취소해도 소비한 은은 환불되지 않습니다.</VEF.NoRefund>
-  <VEF.Customize>Customize {0}</VEF.Customize>
-  <VEF.CustomizationTitle>{0} Customization</VEF.CustomizationTitle>
+  <VEF.Customize>{0} 사용자 정의</VEF.Customize>
+  <VEF.CustomizationTitle>{0} 사용자 정의</VEF.CustomizationTitle>
   <VEF.Name>이름</VEF.Name>
   <VEF.Cancel>취소</VEF.Cancel>
   <VEF.AvailableContracts>가능한 계약: {0}</VEF.AvailableContracts>
@@ -408,40 +408,40 @@
   <VFE_RandomRock>무작위 석재</VFE_RandomRock>
   <VFE_PleaseSelectOutput>생산품 선택</VFE_PleaseSelectOutput>
   <VFE_NeedsWater>이 건물은 반드시 물 위에 위치해야 합니다.</VFE_NeedsWater>
-  <VFE_ChangeGraphic>Random Graphic</VFE_ChangeGraphic>
+  <VFE_ChangeGraphic>랜덤 그래픽</VFE_ChangeGraphic>
   <VFE_ChangeGraphicDesc>사용 가능한 건물 간에 임의로 이 건물의 그래픽 변경</VFE_ChangeGraphicDesc>
-  <VFE_ChooseGraphic>Choose Graphic</VFE_ChooseGraphic>
-  <VFE_ChooseGraphicDesc>Choose Graphic of this building via a menu with all available options</VFE_ChooseGraphicDesc>
-  <VFE_NoGraphics>This building doesn't have extra random graphics to choose from. Some modder added the comp class to the building without alternative graphics, which is weird</VFE_NoGraphics>
-  <VFE_HideRandomizeButton>Hide the "Random Graphic" and "Choose Graphic" buttons</VFE_HideRandomizeButton>
-  <VFE_RandomBuildingsDontStartRandom>Make random graphics buildings NOT start randomized</VFE_RandomBuildingsDontStartRandom>
+  <VFE_ChooseGraphic>그래픽 선택</VFE_ChooseGraphic>
+  <VFE_ChooseGraphicDesc>이 건물의 그래픽을 모든 가능한 옵션이 있는 메뉴를 통해 선택합니다</VFE_ChooseGraphicDesc>
+  <VFE_NoGraphics>이 건물은 선택할 수 있는 대체 랜덤 그래픽이 없습니다. 어떤 모더가 대안 그래픽 없이 건물에 comp 클래스를 추가했는데, 이것은 이상합니다</VFE_NoGraphics>
+  <VFE_HideRandomizeButton>"랜덤 그래픽" 및 "그래픽 선택" 버튼 숨기기</VFE_HideRandomizeButton>
+  <VFE_RandomBuildingsDontStartRandom>랜덤 그래픽 건물이 랜덤하게 시작되지 않도록 만들기</VFE_RandomBuildingsDontStartRandom>
   <VFE.SwitchLightColor>빛 색상 변경</VFE.SwitchLightColor>
   <VFE.SwitchLightColorDesc>현재 빛 색상 변경.</VFE.SwitchLightColorDesc>
   <VFE.ChangeColorTo>{0} 색상 변경</VFE.ChangeColorTo>
   <VFE.ColorSwitchPowerOff>전기가 없습니다. 색상을 변경할 수 없습니다.</VFE.ColorSwitchPowerOff>
-  <VGE_StatsReport_Over40>over 40ºC</VGE_StatsReport_Over40>
-  <VGE_StatsReport_Below0>below 0ºC</VGE_StatsReport_Below0>
-  <VGE_StatsReport_Armoured>armoured</VGE_StatsReport_Armoured>
-  <VGE_StatsReport_NoSunlight>no sunlight</VGE_StatsReport_NoSunlight>
-  <VGE_StatsReport_Water>on water</VGE_StatsReport_Water>
-  <VGE_StatsReport_NotWater>on dry land</VGE_StatsReport_NotWater>
+  <VGE_StatsReport_Over40>40ºC 이상</VGE_StatsReport_Over40>
+  <VGE_StatsReport_Below0>0ºC 이하</VGE_StatsReport_Below0>
+  <VGE_StatsReport_Armoured>방어력이 있는</VGE_StatsReport_Armoured>
+  <VGE_StatsReport_NoSunlight>햇빛이 없는</VGE_StatsReport_NoSunlight>
+  <VGE_StatsReport_Water>물 위에 있는</VGE_StatsReport_Water>
+  <VGE_StatsReport_NotWater>건조한 육지 위에</VGE_StatsReport_NotWater>
   <VGE_StatsReport_Outside>야외</VGE_StatsReport_Outside>
   <VGE_StatsReport_Inside>실내</VGE_StatsReport_Inside>
-  <VGE_StatsReport_InLight>above 50% lit</VGE_StatsReport_InLight>
-  <VGE_StatsReport_InDarkness>below 50% lit</VGE_StatsReport_InDarkness>
+  <VGE_StatsReport_InLight>50% 이상 밝기</VGE_StatsReport_InLight>
+  <VGE_StatsReport_InDarkness>50% 이하 밝기</VGE_StatsReport_InDarkness>
   <VGE_StatsReport_InPain>고통스러움</VGE_StatsReport_InPain>
-  <VGE_StatsReport_InPollution>in polluted terrain</VGE_StatsReport_InPollution>
-  <VGE_StatsReport_ColonyMap>on colony map</VGE_StatsReport_ColonyMap>
-  <VGE_StatsReport_OutsideColonyMap>outside colony map</VGE_StatsReport_OutsideColonyMap>
-  <VGE_StatsReport_AnyLightSensitivity>light sensitivity</VGE_StatsReport_AnyLightSensitivity>
-  <VGE_EggPregnancy>{0}'s eggs have been fertilized! The egglaying process will continue until a fertile egg is laid.</VGE_EggPregnancy>
-  <VGE_EggPregnancyLabel>{0} fertilized!</VGE_EggPregnancyLabel>
-  <VGE_EggLaid>{0} has laid an egg! Keep it warm and protected.</VGE_EggLaid>
-  <VGE_EggLaidLabel>{0} laid an egg!</VGE_EggLaidLabel>
-  <VGE_EggHatched>{0} has hatched from an egg!</VGE_EggHatched>
-  <VGE_EggHatchedLabel>{0} hatched!</VGE_EggHatchedLabel>
-  <VGE_Male_Egg>Males don't lay eggs</VGE_Male_Egg>
-  <VGE_PregnancyFactor>Pregnancy factor gene: {0} gestation speed</VGE_PregnancyFactor>
-  <VGE_ForGenderOnly>{0} only gene.</VGE_ForGenderOnly>
+  <VGE_StatsReport_InPollution>오염된 지형 안에 있는</VGE_StatsReport_InPollution>
+  <VGE_StatsReport_ColonyMap>정착지 지도 위에 있는</VGE_StatsReport_ColonyMap>
+  <VGE_StatsReport_OutsideColonyMap>정착지 지도 밖에 있는</VGE_StatsReport_OutsideColonyMap>
+  <VGE_StatsReport_AnyLightSensitivity>광 민감성</VGE_StatsReport_AnyLightSensitivity>
+  <VGE_EggPregnancy>{0}의 알이 수정되었습니다! 알 낳기 과정은 수정된 알이 낳아질 때까지 계속됩니다.</VGE_EggPregnancy>
+  <VGE_EggPregnancyLabel>{0} 수정 완료!</VGE_EggPregnancyLabel>
+  <VGE_EggLaid>{0}이 알을 낳았습니다! 따뜻하게 보호하세요.</VGE_EggLaid>
+  <VGE_EggLaidLabel>{0} 알을 낳음!</VGE_EggLaidLabel>
+  <VGE_EggHatched>{0}이 알에서 부화했습니다!</VGE_EggHatched>
+  <VGE_EggHatchedLabel>{0} 부화함!</VGE_EggHatchedLabel>
+  <VGE_Male_Egg>수컷은 알을 낳지 않는다</VGE_Male_Egg>
+  <VGE_PregnancyFactor>임신 인자 유전자: {0} 임신 속도</VGE_PregnancyFactor>
+  <VGE_ForGenderOnly>{0} 전용 유전자.</VGE_ForGenderOnly>
   <VME_MessageNeedsThePairedMeme>{0}는 작동을 위해 {1} 중 하나의 반야구가 선택되어야 합니다.</VME_MessageNeedsThePairedMeme>
 </LanguageData>

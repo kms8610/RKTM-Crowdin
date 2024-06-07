@@ -36,23 +36,23 @@
   <VEF_MeleeAttackDamageFactor.description>근접 공격 데미지에 대한 배수.</VEF_MeleeAttackDamageFactor.description>
   <VEF_RangeAttackDamageFactor.label>원거리 공격 데미지 요소</VEF_RangeAttackDamageFactor.label>
   <VEF_RangeAttackDamageFactor.description>원거리 공격 데미지에 대한 배수.</VEF_RangeAttackDamageFactor.description>
-  <VEF_FoodCapacityMultiplier.label>body food capacity multiplier</VEF_FoodCapacityMultiplier.label>
-  <VEF_FoodCapacityMultiplier.description>Increases the size of the pawn's hunger bar. This does not affect hunger</VEF_FoodCapacityMultiplier.description>
-  <VEF_GrowthPointMultiplier.label>growth point multiplier</VEF_GrowthPointMultiplier.label>
-  <VEF_GrowthPointMultiplier.description>Increases the amount of growth points accumulated by children when learning</VEF_GrowthPointMultiplier.description>
-  <VEF_BodySize_Offset.label>body size offset</VEF_BodySize_Offset.label>
-  <VEF_BodySize_Offset.description>Increases the size of the pawn relative to their current size</VEF_BodySize_Offset.description>
-  <VEF_BodySize_Multiplier.label>body size multiplier</VEF_BodySize_Multiplier.label>
-  <VEF_BodySize_Multiplier.description>Increases the size of the pawn by a multiple of their current size</VEF_BodySize_Multiplier.description>
-  <VEF_CosmeticBodySize_Offset.label>cosmetic body size offset</VEF_CosmeticBodySize_Offset.label>
-  <VEF_CosmeticBodySize_Offset.description>Increases the size of the pawn relative to their current size</VEF_CosmeticBodySize_Offset.description>
-  <VEF_CosmeticBodySize_Multiplier.label>cosmetic body size multiplier</VEF_CosmeticBodySize_Multiplier.label>
-  <VEF_CosmeticBodySize_Multiplier.description>Increases the size of the pawn by a multiple of their current size</VEF_CosmeticBodySize_Multiplier.description>
-  <VEF_HeadSize_Cosmetic.label>head size multiplier</VEF_HeadSize_Cosmetic.label>
-  <VEF_PawnRenderPosOffset.label>pawn render offset</VEF_PawnRenderPosOffset.label>
-  <VEF_PawnRenderPosOffset.description>Modifies the pawn's rendered position in y-axis.</VEF_PawnRenderPosOffset.description>
-  <VEF_MassCarryCapacity.label>Mass carry capacity</VEF_MassCarryCapacity.label>
-  <VEF_MassCarryCapacity.description>Total mass carrying capacity of the pawn in caravans.</VEF_MassCarryCapacity.description>
+  <VEF_FoodCapacityMultiplier.label>몸통 식량 용량 배수</VEF_FoodCapacityMultiplier.label>
+  <VEF_FoodCapacityMultiplier.description>폰의 배고픔 바 크기를 증가시킵니다. 이것은 배고픔에 영향을 주지 않습니다</VEF_FoodCapacityMultiplier.description>
+  <VEF_GrowthPointMultiplier.label>성장 포인트 배수</VEF_GrowthPointMultiplier.label>
+  <VEF_GrowthPointMultiplier.description>자녀들의 학습 시 축적되는 성장 포인트의 양을 증가시킵니다</VEF_GrowthPointMultiplier.description>
+  <VEF_BodySize_Offset.label>몸통 크기 오프셋</VEF_BodySize_Offset.label>
+  <VEF_BodySize_Offset.description>현재 크기 대비 폰의 크기를 증가시킵니다</VEF_BodySize_Offset.description>
+  <VEF_BodySize_Multiplier.label>몸통 크기 배수</VEF_BodySize_Multiplier.label>
+  <VEF_BodySize_Multiplier.description>현재 크기의 배수로 폰의 크기를 증가시킵니다</VEF_BodySize_Multiplier.description>
+  <VEF_CosmeticBodySize_Offset.label>외형상 몸통 크기 오프셋</VEF_CosmeticBodySize_Offset.label>
+  <VEF_CosmeticBodySize_Offset.description>현재 크기 대비 폰의 크기를 증가시킵니다</VEF_CosmeticBodySize_Offset.description>
+  <VEF_CosmeticBodySize_Multiplier.label>외형상 몸통 크기 배수</VEF_CosmeticBodySize_Multiplier.label>
+  <VEF_CosmeticBodySize_Multiplier.description>현재 크기의 배수로 폰의 크기를 증가시킵니다</VEF_CosmeticBodySize_Multiplier.description>
+  <VEF_HeadSize_Cosmetic.label>머리 크기 배수</VEF_HeadSize_Cosmetic.label>
+  <VEF_PawnRenderPosOffset.label>폰 렌더링 위치 오프셋</VEF_PawnRenderPosOffset.label>
+  <VEF_PawnRenderPosOffset.description>y축에서 폰의 렌더링 위치를 수정합니다.</VEF_PawnRenderPosOffset.description>
+  <VEF_MassCarryCapacity.label>최대 수용량</VEF_MassCarryCapacity.label>
+  <VEF_MassCarryCapacity.description>대상의 캐러밴에서의 총 질량 운반 능력입니다.</VEF_MassCarryCapacity.description>
   <VEF_MassCarryCapacity.formatString>{0} kg</VEF_MassCarryCapacity.formatString>
   <VEF_MassCarryCapacity.formatStringUnfinalized>{0} kg</VEF_MassCarryCapacity.formatStringUnfinalized>
 </LanguageData>

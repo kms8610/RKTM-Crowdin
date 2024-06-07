@@ -15,14 +15,14 @@
   <VFE_Mechanoids_Recharge.reportString>충전 중</VFE_Mechanoids_Recharge.reportString>
   <VFEC_EquipShield.reportString>TargetA 장착 중</VFEC_EquipShield.reportString>
   <VFEC_LeaveMap.reportString>떠나는 중</VFEC_LeaveMap.reportString>
-  <VEF_CustomizeItem.reportString>{TargetA} 사용자 정의 중.</VEF_CustomizeItem.reportString>
-  <KCSG_GoToPassage.reportString>TargetA에 들어가는 중.</KCSG_GoToPassage.reportString>
-  <VEF_UseDoorTeleporter.reportString>{TargetA}를 사용하여 {TargetB}로 순간이동</VEF_UseDoorTeleporter.reportString>
-  <PS_DrainFromMarkedStorage.reportString>TargetA에서 빠져 나옵니다.</PS_DrainFromMarkedStorage.reportString>
-  <PS_FillStorage.reportString>TargetA 채우는 중.</PS_FillStorage.reportString>
-  <PS_PickUpProcessor.reportString>{TargetA}에서 가져오기.</PS_PickUpProcessor.reportString>
-  <PS_BringToProcessor.reportString>{TargetB}를 {TargetA}로 가져오는 중.</PS_BringToProcessor.reportString>
-  <BetterReload.reportString>TargetA 장전 중</BetterReload.reportString>
-  <ReloadFromInventory.reportString>TargetA 장전 중</ReloadFromInventory.reportString>
-  <Unload.reportString>TargetA 비우는 중.</Unload.reportString>
+  <VEF_CustomizeItem.reportString>{TargetA} 외형 변경 중</VEF_CustomizeItem.reportString>
+  <KCSG_GoToPassage.reportString>TargetA에 들어가는 중</KCSG_GoToPassage.reportString>
+  <VEF_UseDoorTeleporter.reportString>{TargetA}(을)를 사용하여 {TargetB}(으)로 이동 중</VEF_UseDoorTeleporter.reportString>
+  <PS_DrainFromMarkedStorage.reportString>{TargetA} 배수 중</PS_DrainFromMarkedStorage.reportString>
+  <PS_FillStorage.reportString>{TargetA} 채우는 중</PS_FillStorage.reportString>
+  <PS_PickUpProcessor.reportString>{TargetA} 줍는 중</PS_PickUpProcessor.reportString>
+  <PS_BringToProcessor.reportString>{TargetB}(을)를 {TargetA}(으)로 운반 중</PS_BringToProcessor.reportString>
+  <BetterReload.reportString>{TargetA} 장전 중</BetterReload.reportString>
+  <ReloadFromInventory.reportString>{TargetA} 장전 중</ReloadFromInventory.reportString>
+  <Unload.reportString>{TargetA} 비우는 중</Unload.reportString>
 </LanguageData>
