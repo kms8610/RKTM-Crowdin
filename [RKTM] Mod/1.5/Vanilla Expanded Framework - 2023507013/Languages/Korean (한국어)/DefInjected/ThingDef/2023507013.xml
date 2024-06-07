@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KCSG_PowerConduit.label>전선</KCSG_PowerConduit.label>
+  <KCSG_PowerConduit.description>주위에 전력을 전달합니다.</KCSG_PowerConduit.description>
+  <Mote_Firetrail.label>Mote</Mote_Firetrail.label>
+  <Mote_Smoketrail.label>Mote</Mote_Smoketrail.label>
+  <Mote_FTSmoketrail.label>Mote</Mote_FTSmoketrail.label>
+  <Mote_GreenSmoketrail.label>Mote</Mote_GreenSmoketrail.label>
+  <VEF_OutpostDeliverySpot.label>거점 배달 위치</VEF_OutpostDeliverySpot.label>
+  <VEF_OutpostDeliverySpot.description>거점으로부터 전달된 아이템을 배달받을 장소를 지정합니다.</VEF_OutpostDeliverySpot.description>
+</LanguageData>
