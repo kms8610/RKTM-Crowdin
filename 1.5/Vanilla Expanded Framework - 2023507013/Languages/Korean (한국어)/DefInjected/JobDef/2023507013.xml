@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEA_StandAndFaceTarget.reportString>standing.</VFEA_StandAndFaceTarget.reportString>
+  <VEF_AnimalResource.reportString>gathering animal resource from TargetA.</VEF_AnimalResource.reportString>
+  <VEF_DestroyItem.reportString>destroying an item.</VEF_DestroyItem.reportString>
+  <VEF_LayExplodingEgg.reportString>laying egg.</VEF_LayExplodingEgg.reportString>
+  <VEF_IngestWeird.reportString>consuming TargetA.</VEF_IngestWeird.reportString>
+  <VEF_AutoNutrition.reportString>eating.</VEF_AutoNutrition.reportString>
+  <IP_InsertFirstIngredient.reportString>inserting ingredient.</IP_InsertFirstIngredient.reportString>
+  <IP_InsertSecondIngredient.reportString>inserting ingredient.</IP_InsertSecondIngredient.reportString>
+  <IP_InsertThirdIngredient.reportString>inserting ingredient.</IP_InsertThirdIngredient.reportString>
+  <IP_RemoveProduct.reportString>removing finished product.</IP_RemoveProduct.reportString>
+  <VFE_Mechanoids_RepairMachine.reportString>rebuilding machine.</VFE_Mechanoids_RepairMachine.reportString>
+  <VFE_Mechanoids_AttachTurret.reportString>attaching turret.</VFE_Mechanoids_AttachTurret.reportString>
+  <VFE_Mechanoids_Recharge.reportString>recharging.</VFE_Mechanoids_Recharge.reportString>
+  <VFEC_EquipShield.reportString>equipping TargetA.</VFEC_EquipShield.reportString>
+  <VFEC_LeaveMap.reportString>leaving.</VFEC_LeaveMap.reportString>
+  <VEF_CustomizeItem.reportString>customizing TargetA.</VEF_CustomizeItem.reportString>
+  <KCSG_GoToPassage.reportString>entering TargetA.</KCSG_GoToPassage.reportString>
+  <VEF_UseDoorTeleporter.reportString>using TargetA to teleport to TargetB</VEF_UseDoorTeleporter.reportString>
+  <PS_DrainFromMarkedStorage.reportString>draining out of TargetA.</PS_DrainFromMarkedStorage.reportString>
+  <PS_FillStorage.reportString>filling TargetA.</PS_FillStorage.reportString>
+  <PS_PickUpProcessor.reportString>picking up from TargetA.</PS_PickUpProcessor.reportString>
+  <PS_BringToProcessor.reportString>bringing TargetB to TargetA.</PS_BringToProcessor.reportString>
+  <BetterReload.reportString>reloading TargetA.</BetterReload.reportString>
+  <ReloadFromInventory.reportString>reloading TargetA.</ReloadFromInventory.reportString>
+  <Unload.reportString>unloading TargetA.</Unload.reportString>
+</LanguageData>

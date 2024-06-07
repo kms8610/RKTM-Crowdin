@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_SecondaryAcidBurn.label>acid burn</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0} has been corroded to death.</VEF_SecondaryAcidBurn.deathMessage>
+  <VEF_PermanentBurn.label>permanent burn</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.deathMessage>{0} has been killed by burning.</VEF_PermanentBurn.deathMessage>
+</LanguageData>

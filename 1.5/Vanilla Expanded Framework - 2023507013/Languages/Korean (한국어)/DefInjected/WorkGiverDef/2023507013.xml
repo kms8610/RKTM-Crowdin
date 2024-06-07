@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_AnimalResource.label>gather animal resource</VEF_AnimalResource.label>
+  <VEF_AnimalResource.verb>gather animal resource from</VEF_AnimalResource.verb>
+  <VEF_AnimalResource.gerund>gathering animal resource from</VEF_AnimalResource.gerund>
+  <VEF_DestroyItems.label>destroy items</VEF_DestroyItems.label>
+  <VEF_DestroyItems.verb>destroy items</VEF_DestroyItems.verb>
+  <VEF_DestroyItems.gerund>destroying items</VEF_DestroyItems.gerund>
+  <VEF_Art_ConstructFinishFrames.verb>work on</VEF_Art_ConstructFinishFrames.verb>
+  <VEF_Art_ConstructFinishFrames.gerund>working on</VEF_Art_ConstructFinishFrames.gerund>
+  <VEF_Art_ConstructFinishFrames.label>construct placed frames</VEF_Art_ConstructFinishFrames.label>
+  <VEF_Art_ConstructDeliverResourcesToFrames.verb>work on</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+  <VEF_Art_ConstructDeliverResourcesToFrames.gerund>working on</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+  <VEF_Art_ConstructDeliverResourcesToFrames.label>deliver resources to frames</VEF_Art_ConstructDeliverResourcesToFrames.label>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.verb>work on</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>working on</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.label>deliver resources to blueprints</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+  <IP_InsertFirstIngredient.label>bringing ingredient</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>bring ingredient to</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>bringing ingredient to</IP_InsertFirstIngredient.gerund>
+  <IP_InsertSecondIngredient.label>bringing ingredient</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>bring ingredient to</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>bringing ingredient to</IP_InsertSecondIngredient.gerund>
+  <IP_InsertThirdIngredient.label>bringing ingredient</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>bring ingredient to</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>bringing ingredient to</IP_InsertThirdIngredient.gerund>
+  <IP_RemoveProduct.label>removing finished product</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>remove finished product from</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>removing finished product from</IP_RemoveProduct.gerund>
+  <PS_DrainOutOfStorage.label>drain out of storage</PS_DrainOutOfStorage.label>
+  <PS_DrainOutOfStorage.verb>drain out of storage</PS_DrainOutOfStorage.verb>
+  <PS_DrainOutOfStorage.gerund>draining out of storage</PS_DrainOutOfStorage.gerund>
+  <PS_FillStorage.label>fill storage</PS_FillStorage.label>
+  <PS_FillStorage.verb>fill storage</PS_FillStorage.verb>
+  <PS_FillStorage.gerund>filling storage</PS_FillStorage.gerund>
+  <PS_PickUpProcessor.label>pick up result from processor</PS_PickUpProcessor.label>
+  <PS_PickUpProcessor.verb>pick up result</PS_PickUpProcessor.verb>
+  <PS_PickUpProcessor.gerund>picking up result</PS_PickUpProcessor.gerund>
+  <PS_BringToProcessor.label>bring ingredient to processor</PS_BringToProcessor.label>
+  <PS_BringToProcessor.verb>bring ingredient</PS_BringToProcessor.verb>
+  <PS_BringToProcessor.gerund>bringing ingredient</PS_BringToProcessor.gerund>
+</LanguageData>
