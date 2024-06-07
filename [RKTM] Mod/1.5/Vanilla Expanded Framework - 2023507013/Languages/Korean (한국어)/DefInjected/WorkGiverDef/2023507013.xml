@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_AnimalResource.label>동물자원 수집</VEF_AnimalResource.label>
+  <VEF_AnimalResource.verb>동물 자원을 수집함</VEF_AnimalResource.verb>
+  <VEF_AnimalResource.gerund>동물 자원을 수집함</VEF_AnimalResource.gerund>
+  <VEF_DestroyItems.label>물품 파괴</VEF_DestroyItems.label>
+  <VEF_DestroyItems.verb>물품 파괴</VEF_DestroyItems.verb>
+  <VEF_DestroyItems.gerund>물품 파괴 중</VEF_DestroyItems.gerund>
+  <VEF_Art_ConstructFinishFrames.verb>개간하기</VEF_Art_ConstructFinishFrames.verb>
+  <VEF_Art_ConstructFinishFrames.gerund>개간 중.</VEF_Art_ConstructFinishFrames.gerund>
+  <VEF_Art_ConstructFinishFrames.label>건설</VEF_Art_ConstructFinishFrames.label>
+  <VEF_Art_ConstructDeliverResourcesToFrames.verb>개간하기</VEF_Art_ConstructDeliverResourcesToFrames.verb>
+  <VEF_Art_ConstructDeliverResourcesToFrames.gerund>개간 중.</VEF_Art_ConstructDeliverResourcesToFrames.gerund>
+  <VEF_Art_ConstructDeliverResourcesToFrames.label>건물틀로 자원 운반</VEF_Art_ConstructDeliverResourcesToFrames.label>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.verb>개간하기</VEF_Art_ConstructDeliverResourcesToBlueprints.verb>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>개간 중.</VEF_Art_ConstructDeliverResourcesToBlueprints.gerund>
+  <VEF_Art_ConstructDeliverResourcesToBlueprints.label>청사진으로 자원 운반</VEF_Art_ConstructDeliverResourcesToBlueprints.label>
+  <IP_InsertFirstIngredient.label>재료 운반</IP_InsertFirstIngredient.label>
+  <IP_InsertFirstIngredient.verb>첫 번째 재료 운반</IP_InsertFirstIngredient.verb>
+  <IP_InsertFirstIngredient.gerund>첫 번째 재료 운반</IP_InsertFirstIngredient.gerund>
+  <IP_InsertSecondIngredient.label>재료 운반</IP_InsertSecondIngredient.label>
+  <IP_InsertSecondIngredient.verb>첫 번째 재료 운반</IP_InsertSecondIngredient.verb>
+  <IP_InsertSecondIngredient.gerund>첫 번째 재료 운반</IP_InsertSecondIngredient.gerund>
+  <IP_InsertThirdIngredient.label>재료 운반</IP_InsertThirdIngredient.label>
+  <IP_InsertThirdIngredient.verb>첫 번째 재료 운반</IP_InsertThirdIngredient.verb>
+  <IP_InsertThirdIngredient.gerund>첫 번째 재료 운반</IP_InsertThirdIngredient.gerund>
+  <IP_RemoveProduct.label>완제품 꺼내기</IP_RemoveProduct.label>
+  <IP_RemoveProduct.verb>완제품 꺼내는 중</IP_RemoveProduct.verb>
+  <IP_RemoveProduct.gerund>완제품 꺼내는 중</IP_RemoveProduct.gerund>
+  <PS_DrainOutOfStorage.label>저장소에서 배출되는 물</PS_DrainOutOfStorage.label>
+  <PS_DrainOutOfStorage.verb>저장소에서 배출되는 물</PS_DrainOutOfStorage.verb>
+  <PS_DrainOutOfStorage.gerund>저장소에서 배출되는 것</PS_DrainOutOfStorage.gerund>
+  <PS_FillStorage.label>fill storage</PS_FillStorage.label>
+  <PS_FillStorage.verb>fill storage</PS_FillStorage.verb>
+  <PS_FillStorage.gerund>filling storage</PS_FillStorage.gerund>
+  <PS_PickUpProcessor.label>pick up result from processor</PS_PickUpProcessor.label>
+  <PS_PickUpProcessor.verb>pick up result</PS_PickUpProcessor.verb>
+  <PS_PickUpProcessor.gerund>picking up result</PS_PickUpProcessor.gerund>
+  <PS_BringToProcessor.label>bring ingredient to processor</PS_BringToProcessor.label>
+  <PS_BringToProcessor.verb>bring ingredient</PS_BringToProcessor.verb>
+  <PS_BringToProcessor.gerund>재료 운반</PS_BringToProcessor.gerund>
+</LanguageData>
