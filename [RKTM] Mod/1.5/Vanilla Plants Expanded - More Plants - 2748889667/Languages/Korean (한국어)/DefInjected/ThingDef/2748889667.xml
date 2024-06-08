@@ -1,170 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VCE_RawCanola.label>canola flowers</VCE_RawCanola.label>
-  <VCE_RawCanola.description>A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.</VCE_RawCanola.description>
-  <VCE_RawAvocado.label>avocados</VCE_RawAvocado.label>
-  <VCE_RawAvocado.description>A green or nearly black coloured fruit with a large seed or pit in the center. Avocados have a very mild, creamy texture. Hipsters love them.</VCE_RawAvocado.description>
-  <VCE_RawMelon.label>melons</VCE_RawMelon.label>
-  <VCE_RawMelon.description>A sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.</VCE_RawMelon.description>
-  <VCE_RawPineapple.label>pineapples</VCE_RawPineapple.label>
-  <VCE_RawPineapple.description>A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.</VCE_RawPineapple.description>
-  <VCE_RawCoconut.label>coconuts</VCE_RawCoconut.label>
-  <VCE_RawCoconut.description>The edible fruit of the coconut palm. Coconut flesh is high in fat and can be dried or eaten fresh or processed into coconut milk or coconut oil. The liquid of the nut, known as coconut water, is used in beverages.</VCE_RawCoconut.description>
-  <VCE_RawAlmonds.label>almonds</VCE_RawAlmonds.label>
-  <VCE_RawAlmonds.description>An oval shaped drupe often eaten on its own, raw or toasted, though it can also be used as a component of various dishes. A wide range of classic sweets feature almonds as a central ingredient.</VCE_RawAlmonds.description>
-  <VCE_Mangoes.label>mangoes</VCE_Mangoes.label>
-  <VCE_Mangoes.description>An oval fruit, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.</VCE_Mangoes.description>
-  <VCE_RawCelery.label>celery</VCE_RawCelery.label>
-  <VCE_RawCelery.description>A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.</VCE_RawCelery.description>
-  <VCE_RawLettuce.label>lettuce</VCE_RawLettuce.label>
-  <VCE_RawLettuce.description>A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.</VCE_RawLettuce.description>
-  <VCE_RawRadish.label>radishes</VCE_RawRadish.label>
-  <VCE_RawRadish.description>An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.</VCE_RawRadish.description>
+  <VCE_RawCanola.label>유채꽃</VCE_RawCanola.label>
+  <VCE_RawCanola.description>밝은 노란색을 띠는 유채, 주로 기름진 씨앗을 위해 재배된다.</VCE_RawCanola.description>
+  <VCE_RawAvocado.label>아보카도</VCE_RawAvocado.label>
+  <VCE_RawAvocado.description>녹색 혹은 거의 검정색을 띠는 과일로, 가운데 큰 씨앗이 있다. 아보카도는 매우 부드러운 식감을 가지고 있다. 힙스터들이 좋아한다.</VCE_RawAvocado.description>
+  <VCE_RawMelon.label>멜론</VCE_RawMelon.label>
+  <VCE_RawMelon.description>달콤하고 식용 가능한 크기가 큰 과일. 멜론은 주로 따뜻한 지역에서 재배된다.</VCE_RawMelon.description>
+  <VCE_RawPineapple.label>파인애플</VCE_RawPineapple.label>
+  <VCE_RawPineapple.description>질긴 가죽과정과 꼭대기에 뾰족한 잎사귀가 있는 달콤한 열대 과일. 파인애플이라는 단어는 원래 '소나무 씨뿔'을 의미하는데, 커다란 소나무 씨뿔과 비슷한 모습 때문에 이 이름이 붙여졌다.</VCE_RawPineapple.description>
+  <VCE_RawCoconut.label>코코넛 열매</VCE_RawCoconut.label>
+  <VCE_RawCoconut.description>코코넛 팜의 식용 과일로 코코넛 맛살은 지방이 많고 건조시켜 먹거나 생으로 먹거나 코코넛 밀크 또는 코코넛 오일로 가공할 수 있다. 견과의 액체는 코코넛 워터로 불리며 음료에 사용된다.</VCE_RawCoconut.description>
+  <VCE_RawAlmonds.label>아몬드</VCE_RawAlmonds.label>
+  <VCE_RawAlmonds.description>종종 그 자체로 생으로 또는 구워서 먹는 타원형의 과일로, 여러 요리의 재료로도 사용된다. 다양한 클래식한 단 음식들이 아몬드를 주요 재료로 사용한다.</VCE_RawAlmonds.description>
+  <VCE_Mangoes.label>망고</VCE_Mangoes.label>
+  <VCE_Mangoes.description>빨강과 노랑의 화려한 색상을 띠는 타원형 과일. 단일 대형 씨는 편평하고 둘러싼 과육은 노란색에서 주황색을 띠며 즙이 많고 독특한 달콤하고 향긋한 맛을 가지고 있다.
+
+&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 망고는 얼리면 파괴되므로 냉동금지. 게임은 이를 충분히 감지하지 못하므로 냉동고에서 비활성화해야 한다.</VCE_Mangoes.description>
+  <VCE_RawCelery.label>셀러리</VCE_RawCelery.label>
+  <VCE_RawCelery.description>긴 섬유질 줄기가 잎으로 가늘어지는 구성의 채소. 잎은 맛이 강하여 보통 적게 사용되며, 수프와 스튜의 향료나 건조된 허브로 사용된다. 셀러리는 많은 수프에 필수적이다.</VCE_RawCelery.description>
+  <VCE_RawLettuce.label>상추</VCE_RawLettuce.label>
+  <VCE_RawLettuce.description>일반적으로 신선하게 먹고 그린 샐러드의 기준으로 제공되는 잎 채소. 상추는 일반적으로 비타민 K와 A의 풍부한 소스이다.</VCE_RawLettuce.description>
+  <VCE_RawRadish.label>무</VCE_RawRadish.label>
+  <VCE_RawRadish.description>무척 재배하기 쉽고 수확이 빠른 뿌리 채소입니다. 초보 정원사들이 종종 심는 식물입니다.</VCE_RawRadish.description>
   <VCE_RawBuckwheat.label>벅윗</VCE_RawBuckwheat.label>
-  <VCE_RawBuckwheat.description>A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.</VCE_RawBuckwheat.description>
+  <VCE_RawBuckwheat.description>곡물과 같은 종자를 생산하기 위해 재배되는 유사곡물입니다. 밀색의 꽃은 가지 끝에 무리지어 피고 수분을 받은 후에는 갈색 혹은 회색의 단단한 껍데기 안에 삼각형 모양의 종자가 들어 있습니다.</VCE_RawBuckwheat.description>
   <VCE_RawPeanut.label>피너츠</VCE_RawPeanut.label>
-  <VCE_RawPeanut.description>Seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.</VCE_RawPeanut.description>
-  <VCE_RawSunflower.label>sunflower seeds</VCE_RawSunflower.label>
-  <VCE_RawSunflower.description>The seeds of the sunflower plant are more commonly eaten as a snack than as part of a meal. They can also be used as garnishes or ingredients in various recipes.</VCE_RawSunflower.description>
+  <VCE_RawPeanut.description>납작한 형태의 종자로 종이 같은 종자 껍질을 가지고 있습니다. 호두나 아몬드와 같은 견과류의 맛과 영양 프로필이 비슷하지만 기술적으로는 콩과입니다.</VCE_RawPeanut.description>
+  <VCE_RawSunflower.label>해바라기 씨앗</VCE_RawSunflower.label>
+  <VCE_RawSunflower.description>해바라기 씨앗은 식사의 일부분으로 먹기보다는 간식으로 더 흔히 먹힙니다. 또한 각종 요리의 장식이나 재료로 사용될 수 있습니다.</VCE_RawSunflower.description>
   <VCE_RawOkra.label>오크라</VCE_RawOkra.label>
-  <VCE_RawOkra.description>Edible green seed pods, famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.</VCE_RawOkra.description>
-  <VCE_RawGarlic.label>garlic cloves</VCE_RawGarlic.label>
-  <VCE_RawGarlic.description>A very old crop which is cultivated for its bulb, formed in the base of the leaves. It is highly appreciated in cooking for its pungent and characteristic taste.</VCE_RawGarlic.description>
+  <VCE_RawOkra.description>잘려진 내부가 끈적끈적하거나 점성이 있는 것으로 유명한 식용 녹색 씨앗 꼬투리입니다. 오크라는 가치 있는 영양소의 보고입니다.</VCE_RawOkra.description>
+  <VCE_RawGarlic.label>마늘 쪽</VCE_RawGarlic.label>
+  <VCE_RawGarlic.description>오래된 작물로서 잎의 밑 부분에 형성된 뿌리로 재배됩니다. 특유의 톡 쏘는 맛으로 요리에 매우 감사하게 사용됩니다.</VCE_RawGarlic.description>
   <VCE_RawCarrot.label>당근</VCE_RawCarrot.label>
-  <VCE_RawCarrot.description>A root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist. A versatile food that can be chopped and boiled, fried or steamed, cooked in soups and stews, as well as used for baby and pet foods.</VCE_RawCarrot.description>
-  <VCE_RawBrusselsSprouts.label>brussels sprouts</VCE_RawBrusselsSprouts.label>
-  <VCE_RawBrusselsSprouts.description>A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.</VCE_RawBrusselsSprouts.description>
-  <VCE_RawOlives.label>olives</VCE_RawOlives.label>
-  <VCE_RawOlives.description>A small, egg-shaped black or green fruit that is used as food or for making oil. Olives freshly picked from the tree contain oleuropein, which makes the fruit unpalatable for immediate consumption. They must be brined or fermented to be used.</VCE_RawOlives.description>
-  <VCE_RawSweetPotatoes.label>sweet potatoes</VCE_RawSweetPotatoes.label>
-  <VCE_RawSweetPotatoes.description>Large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.</VCE_RawSweetPotatoes.description>
-  <VCE_RawCassava.label>cassavas</VCE_RawCassava.label>
-  <VCE_RawCassava.description>A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.</VCE_RawCassava.description>
-  <VCE_RawBeans.label>green beans</VCE_RawBeans.label>
-  <VCE_RawBeans.description>Young, unripe fruits of a cultivar of the common bean. They can be steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes such as soups, stews, and casseroles. Green beans can also be pickled, much like cucumbers are.</VCE_RawBeans.description>
-  <VCE_RawBellPeppers.label>red bell peppers</VCE_RawBellPeppers.label>
-  <VCE_RawBellPeppers.description>Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.</VCE_RawBellPeppers.description>
-  <VCE_RawYellowBellPeppers.label>yellow bell peppers</VCE_RawYellowBellPeppers.label>
-  <VCE_RawYellowBellPeppers.description>Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.</VCE_RawYellowBellPeppers.description>
-  <VCE_RawChickpeas.label>chickpeas</VCE_RawChickpeas.label>
-  <VCE_RawChickpeas.description>One of the earliest cultivated legumes. Chickpeas are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.</VCE_RawChickpeas.description>
-  <VCE_RawTaro.label>taro roots</VCE_RawTaro.label>
-  <VCE_RawTaro.description>A starchy root vegetable. It has a brown outer skin and white flesh with purple specks throughout. When cooked, it has a mildly sweet taste and a texture similar to potato.</VCE_RawTaro.description>
-  <VCE_RawWatercress.label>watercress leaves</VCE_RawWatercress.label>
-  <VCE_RawWatercress.description>A green leaf vegetable rich in vitamins and minerals and from the same family as kale and broccoli.</VCE_RawWatercress.description>
-  <VCE_RawLotus.label>lotus seeds</VCE_RawLotus.label>
-  <VCE_RawLotus.description>The seeds of the lotus plant. They are packed with nutritional elements which make them an excellent choice for a healthy diet, with a high content of proteins, carbohydrates, and vitamins.</VCE_RawLotus.description>
-  <VCE_RawWaterChestnut.label>water chestnuts</VCE_RawWaterChestnut.label>
-  <VCE_RawWaterChestnut.description>Small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.</VCE_RawWaterChestnut.description>
-  <VCE_RawCucumber.label>cucumbers</VCE_RawCucumber.label>
-  <VCE_RawCucumber.description>A long thin vegetable with hard green skin and wet transparent flesh. Can be eaten raw.</VCE_RawCucumber.description>
-  <VCE_RawButternutSquash.label>butternut squashes</VCE_RawButternutSquash.label>
-  <VCE_RawButternutSquash.description>A vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.</VCE_RawButternutSquash.description>
-  <VCE_Celery.label>celery plant</VCE_Celery.label>
-  <VCE_Celery.description>A vegetable consisting of a long fibrous stalk tapering into leaves. The leaves are strongly flavored and are used less often, either as a flavoring in soups and stews or as a dried herb. Celery is a staple in many soups.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Celery has a very long growth period (almost a full year!). If it can be kept alive all that time, it produces greater yield than corn.</VCE_Celery.description>
+  <VCE_RawCarrot.description>주로 오렌지색을 띠는 뿌리 채소이지만 보라색, 검정색, 빨간색, 흰색, 노란색 품종도 있습니다. 다양한 음식으로 사용되며 썰어서 끓이거나 볶거나 찌거나, 수프와 스튜에 넣거나 베이비푸드와 펫푸드에 사용됩니다.</VCE_RawCarrot.description>
+  <VCE_RawBrusselsSprouts.label>브뤼셀 숙주</VCE_RawBrusselsSprouts.label>
+  <VCE_RawBrusselsSprouts.description>"싹"으로 불리는 식용 봉오리가 자라는 양배추의 한 형태입니다. 브뤼셀숙초는 주로 삶아서 먹으며, 어린 싹은 오래된 것보다 더 섬세한 맛을 가집니다.</VCE_RawBrusselsSprouts.description>
+  <VCE_RawOlives.label>올리브</VCE_RawOlives.label>
+  <VCE_RawOlives.description>식용 또는 기름을 만드는 데 사용되는 작고 타원형의 검정 또는 녹색 과일. 나무에서 갓 딴 올리브에는 올레우로핀이 함유되어 있어, 바로 먹을 수 없을 만큼 맛이 좋지 않다. 이용할 수 있게 하려면 절임이나 발효 과정이 필요하다.</VCE_RawOlives.description>
+  <VCE_RawSweetPotatoes.label>고구마</VCE_RawSweetPotatoes.label>
+  <VCE_RawSweetPotatoes.description>큰, 전분이 많고 달콤한 맛(호박과 유사한 맛)의 굵은 뿌리로, 뿌리 채소로 사용된다. 고구마는 일반 감자와는 멀리 떨어진 친척 관계이다.</VCE_RawSweetPotatoes.description>
+  <VCE_RawCassava.label>마니옥</VCE_RawCassava.label>
+  <VCE_RawCassava.description>마니옥, 만디오카 또는 유카로도 알려진 식용 근채 식물이다. 약간의 견과류 맛이 있으며 주로 스튜 또는 반찬으로 뿌리 채소로 먹는다. 마니옥 근은 밀가루, 빵, 타피오카, 세탁 전분, 술 등을 만드는 데 사용되는 다용도 채소이다.</VCE_RawCassava.description>
+  <VCE_RawBeans.label>청경채</VCE_RawBeans.label>
+  <VCE_RawBeans.description>일반 콩의 품종 중 어린, 미숙한 열매이다. 찌거나 끓이거나 볶거나 구울 수 있다.청경채는 수프, 스튜 및 캐서롤 등 다른 요리에 흔히 사용된다. 오이처럼 청경채도 절임으로 만들 수 있다.</VCE_RawBeans.description>
+  <VCE_RawBellPeppers.label>빨간 피망</VCE_RawBellPeppers.label>
+  <VCE_RawBellPeppers.description>달콤한 피망으로도 알려진 빨간 피망은 엄밀히 말하면 나이트셰이드 종이고 고추의 일종이지만, 과일에는 아무런 캡사이신도 만들어지지 않게 하는 열성 유전자를 가지고 있어 맵지 않다.</VCE_RawBellPeppers.description>
+  <VCE_RawYellowBellPeppers.label>노란 피망</VCE_RawYellowBellPeppers.label>
+  <VCE_RawYellowBellPeppers.description>달콤한 피망으로도 알려진 빨간 피망은 엄밀히 말하면 나이트셰이드 종이고 고추의 일종이지만, 과일에는 아무런 캡사이신도 만들어지지 않게 하는 열성 유전자를 가지고 있어 맵지 않다.</VCE_RawYellowBellPeppers.description>
+  <VCE_RawChickpeas.label>병아리콩</VCE_RawChickpeas.label>
+  <VCE_RawChickpeas.description>가장 일찍 재배된 콩류 중 하나이다. 병아리콩은 식이섬유와 단백질이 풍부하고 철분, 인, 엽산의 좋은 원천이다.</VCE_RawChickpeas.description>
+  <VCE_RawTaro.label>토란</VCE_RawTaro.label>
+  <VCE_RawTaro.description>전분이 많은 뿌리 채소이다. 겉껍질은 갈색이고 속살은 자주색 반점이 있는 하얗다. 익히면 달짝지근한 맛이 나며 감자와 유사한 질감을 가진다.</VCE_RawTaro.description>
+  <VCE_RawWatercress.label>물냉이 잎</VCE_RawWatercress.label>
+  <VCE_RawWatercress.description>비타민과 미네랄이 풍부한 녹색 잎 채소로 케일과 브로콜리와 같은 가족이다.</VCE_RawWatercress.description>
+  <VCE_RawLotus.label>연꽃 씨앗</VCE_RawLotus.label>
+  <VCE_RawLotus.description>연꽃의 씨앗으로 영양소가 풍부하여 건강한 식단에 아주 좋은 선택이다.단백질, 탄수화물 및 비타민의 함량이 높다.</VCE_RawLotus.description>
+  <VCE_RawWaterChestnut.label>물밤</VCE_RawWaterChestnut.label>
+  <VCE_RawWaterChestnut.description>작고 동그란 괴경으로 바삭바삭한 흰살이 있어 생으로 먹거나 살짝 데쳐서 또는 그릴에 구워 먹을 수 있습니다.</VCE_RawWaterChestnut.description>
+  <VCE_RawCucumber.label>오이</VCE_RawCucumber.label>
+  <VCE_RawCucumber.description>단단한 녹색 껍질과 투명하고 촉촉한 속살이 있는 길고 가는 채소입니다. 생으로 먹을 수 있습니다.</VCE_RawCucumber.description>
+  <VCE_RawButternutSquash.label>버터넛 호박</VCE_RawButternutSquash.label>
+  <VCE_RawButternutSquash.description>호박과 비슷한 달콤하고 고소한 맛이 나는 채소로, 베이지색의 피부와 끝부분에 씨앗이 들어 있는 붉은색 과육이 있습니다.</VCE_RawButternutSquash.description>
+  <VCE_Celery.label>셀러리</VCE_Celery.label>
+  <VCE_Celery.description>끝으로 잎이 점차 좁아져 가는 긴 섬유질의 줄기로 구성된 채소입니다. 잎은 맛이 강해서 스프와 스튜의 향신료로 쓰이거나 건조한 허브로 사용됩니다. 셀러리는 많은 수프에 필수적입니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 셀러리는 성장 기간이 아주 길다(거의 1년!). 그 시간 동악 살아남을 수 있다면, 옥수수보다 많은 수확량을 낼 수 있습니다.</VCE_Celery.description>
   <VCE_Pineapple.label>파인애플</VCE_Pineapple.label>
-  <VCE_Pineapple.description>A sweet tropical fruit with a tough leathery skin and spiky leaves on top. The word pineapple was first used to mean "pine cone," and the fruit was given this name because of its resemblance to a large pine cone.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Pineapples have a very long growth period, but they are very nutritive, taking up less space in stockpiles.</VCE_Pineapple.description>
-  <VCE_Lettuce.label>lettuce plant</VCE_Lettuce.label>
-  <VCE_Lettuce.description>A leaf vegetable commonly eaten fresh and served as the base of green salads. Lettuce is generally a rich source of vitamins K and A.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Lettuce can be eaten raw like strawberries, but needs to be grown in shade: outside, but under roof. It won't grow inside.</VCE_Lettuce.description>
-  <VCE_BrusselsSprout.label>brussels sprout plant</VCE_BrusselsSprout.label>
-  <VCE_BrusselsSprout.description>A form of cabbage grown for its edible buds called "sprouts". Brussels sprouts usually are eaten cooked, and the small young sprouts have a more delicate flavour than older ones.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Contrary to other plants, brussels sprouts thrive in snow, and receive a considerable boost to growth if snowing, AS LONG AS it is also growth season (they won't grow or be able to be planted otherwise). They won't die due to cold.</VCE_BrusselsSprout.description>
-  <VCE_Cassava.label>cassava plant</VCE_Cassava.label>
-  <VCE_Cassava.description>A tuberous edible plant also called manioc, mandioca, or yuca. They have a mild nutty taste and are commonly eaten as root vegetables in stews or as side dishes. Cassava roots are a versatile vegetable that can be used to produce flour, breads, tapioca, a laundry starch, and an alcoholic beverage.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Cassava grows best in tropical, warm and humid climates. As such, it will receive a considerable growth bonus if the weather is foggy.</VCE_Cassava.description>
-  <VCE_SweetPotato.label>sweet potato plant</VCE_SweetPotato.label>
-  <VCE_SweetPotato.description>A plant with large, starchy, sweet-tasting (tasting similar to pumpkin), tuberous roots that are used as a root vegetable. The sweet potato is distantly related to the common potato.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Sweet potatoes show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They do not tolerate frost, growing best at an average temperature of 24 °C, and receinving penalties under 20ºC.</VCE_SweetPotato.description>
-  <VCE_Radish.label>radish plant</VCE_Radish.label>
-  <VCE_Radish.description>An edible root vegetable that is very easy to grow and quick to harvest. Radishes are often planted by novice gardeners.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> This genetically modified radish has a very short growth period (less than 2 days). This means it is an effective crop if you need small amounts of food FAST, and the sowing and harvesting work will be the most important factor.</VCE_Radish.description>
-  <VCE_Buckwheat.label>buckwheat plant</VCE_Buckwheat.label>
-  <VCE_Buckwheat.description>A pseudocereal cultivated for its grain-like seeds. Its white flowers are produced in terminal clusters and after pòllination turn into triangular-shaped seeds that are enclosed by a tough dark brown or gray rind.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Buckwheat is very resistant to fire, and this variety has been modified to be completely non-flammable.</VCE_Buckwheat.description>
-  <VCE_Peanut.label>peanut plant</VCE_Peanut.label>
-  <VCE_Peanut.description>A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!</VCE_Peanut.description>
-  <VCE_PeanutSecondary.label>secondary peanut plant</VCE_PeanutSecondary.label>
-  <VCE_PeanutSecondary.description>A plant that produces seeds with an oblong shape and a papery seed coat. Similar in taste and nutritional profile to tree nuts such as walnuts and almonds, but technically a legume.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> This genetically modified variety of peanuts is sown by throwing the seeds haphazardly on the growing zone, and as such the plants will automatically be planted in the adjacent tiles 75% of the time, reducing the total amount of sowing work needed. Useful!</VCE_PeanutSecondary.description>
-  <VCE_Sunflower.label>sunflower plant</VCE_Sunflower.label>
-  <VCE_Sunflower.description>A large crop used for its edible oil and edible fruits. The name sunflower may derive from the flower's head's shape, which resembles the sun.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Sunflowers grow 30% faster in equatorial regions. The size of the equatorial region depends on the planet's overall temperature: below 15º for Normal, below 35º for Warm, below 65º for Hot and all the planet for Very Hot. Planets with below Normal temperature are considered to have no equator.</VCE_Sunflower.description>
-  <VCE_Okra.label>okra plant</VCE_Okra.label>
-  <VCE_Okra.description>A flowering plant in the mallow family valued for its edible green seed pods, which are famously known for their slimy or sticky texture when cut open. Okra is a powerhouse of valuable nutrients.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Okra is very, VERY resistant to damage. Okra plants will take less damage from prolonged lack of light, and will regenerate damage caused by any other means.</VCE_Okra.description>
+  <VCE_Pineapple.description>단단한 가죽 같은 껍질과 뾰족한 잎이 있는 달콤한 열대 과일입니다. 파인애플이라는 단어는 처음에는 '솔방울'을 뜻하는 말로 사용되었고, 큰 솔방울을 닮아서 이 과일에 이 이름이 지어졌습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 파인애플은 성장 기간이 길지만, 매우 영양가가 높아 저장구역에서 공간을 적게 차지합니다.</VCE_Pineapple.description>
+  <VCE_Lettuce.label>상추</VCE_Lettuce.label>
+  <VCE_Lettuce.description>일반적으로 신선하게 먹고 그린 샐러드의 기초로 제공되는 잎 채소입니다. 상추는 일반적으로 비타민 K와 A가 풍부한 과일입니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 상추는 딸기처럼 생으로 먹을 수 있지만, 그늘에서 재배해야 합니다: 바깥에 있어야 하지만, 지붕 아래 있어야 합니다. 실내에서는 자라지 않습니다.</VCE_Lettuce.description>
+  <VCE_BrusselsSprout.label>브뤼셀 콩나물</VCE_BrusselsSprout.label>
+  <VCE_BrusselsSprout.description>"싹"이라고 불리는 식용 버드로 재배되는 양배추의 한 형태입니다. 브뤼셀 콩나물은 보통 익혀 먹으며, 어린 새싹은 나이든 새싹보다 더 섬세한 맛을 가지고 있습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 다른 식물들과 달리 브뤼셀 콩나물은 눈에서 잘 자라며, 눈이 오는 동안 상당한 성장 증진을 받습니다. 여전히 성장 시즌인 경우에는(그렇지 않으면 자라거나 심을 수 없습니다), 추위로 인해 죽지 않습니다.</VCE_BrusselsSprout.description>
+  <VCE_Cassava.label>카사바 식물</VCE_Cassava.label>
+  <VCE_Cassava.description>마녹이나 유카라고도 불리는 식용 뿌리 식물입니다. 고소한 맛이 나며 스튜나 부식으로 흔히 먹습니다. 카사바 뿌리는 다양한 채소로서 밀가루, 빵, 타피오카, 세탁 전분, 알코올 음료 등을 생산하는 데 사용됩니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 카사바는 열대, 따뜻하고 습한 기후에서 가장 잘 자랍니다. 그래서 날씨가 안개일 경우 상당한 성장 보너스를 받습니다.</VCE_Cassava.description>
+  <VCE_SweetPotato.label>고구마 식물</VCE_SweetPotato.label>
+  <VCE_SweetPotato.description>호박과 비슷한 맛이 나는 크고 전분질이며 단맛이 나는 뿌리를 가진 식물입니다. 고구마는 일반 감자와는 멀리 떨어진 관계이며 뿌리 채소로 사용됩니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 고구마는 돌이 많은 토양을 선호하며 그곳에서 잘 자랍니다. 비옥한 토양은 실제로 고구마에 해로울 수 있습니다. 고구마는 서리를 견디지 못하고 평균 온도가 24°C일 때 가장 잘 자라며, 20ºC 이하에서는 페널티를 받습니다.</VCE_SweetPotato.description>
+  <VCE_Radish.label>무 식물</VCE_Radish.label>
+  <VCE_Radish.description>재배하기 쉽고 수확이 빠른 뿌리 채소입니다. 무는 종종 초보 정원사들이 심습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 이 유전자 변형 무는 매우 짧은 성장 기간(2일 미만)을 가지고 있습니다. 이는 적은 양의 음식이 급하게 필요할 때 효율적인 작물이며, 파종과 수활 작업이 가장 중요한 요인이 될 것입니다.</VCE_Radish.description>
+  <VCE_Buckwheat.label>메밀 식물</VCE_Buckwheat.label>
+  <VCE_Buckwheat.description>음식 곡물처럼 재배되는 화서식물입니다. 화서의 끝에 흰 꽃이 피었다가 수정 후에는 강한 갈색이나 회색 껍질로 싸인 삼각형 모양의 씨앗으로 바뀝니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 메밀은 화재에 매우 강하며 이 품종은 완전히 불에 타지 않도록 수정되었습니다.</VCE_Buckwheat.description>
+  <VCE_Peanut.label>땅콩 식물</VCE_Peanut.label>
+  <VCE_Peanut.description>종이 같은 씨앗 껍질을 가진 타원형 모양의 씨앗을 생산하는 식물입니다. 호두나 아몬드와 같은 나무 견과류의 맛과 영양 프로필이 비슷하지만 기술적으로는 콩과에 속합니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 이 유전자 변형된 땅콩은 씨를 파종 구역에 함부로 뿌려 심는 방식으로, 식물이 자동으로 인접 타일에 75% 확률로 심어져 총 파종 작업량이 줄어듭니다. 유용합니다!</VCE_Peanut.description>
+  <VCE_PeanutSecondary.label>차선 고추땅콩 식물</VCE_PeanutSecondary.label>
+  <VCE_PeanutSecondary.description>종이 같은 씨앗 껍질을 가진 타원형 모양의 씨앗을 생산하는 식물입니다. 호두나 아몬드와 같은 나무 견과류의 맛과 영양 프로필이 비슷하지만 기술적으로는 콩과에 속합니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 이 유전자 변형된 땅콩은 씨를 파종 구역에 함부로 뿌려 심는 방식으로, 식물이 자동으로 인접 타일에 75% 확률로 심어져 총 파종 작업량이 줄어듭니다. 유용합니다!</VCE_PeanutSecondary.description>
+  <VCE_Sunflower.label>해바라기 식물</VCE_Sunflower.label>
+  <VCE_Sunflower.description>식용유와 식용 과일을 얻기 위해 재배되는 큰 작물입니다. 해바라기라는 이름은 태양을 닮은 꽃의 머리 모양에서 유래했을 수 있습니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 해바라기는 적도 지역에서 30% 빠르게 자랍니다. 적도 지역의 크기는 행성의 전체 온도에 따라 다릅니다: 정상 이하 15º, 따뜻한 지역 35º 이하, 더운 지역 65º 이하 그리고 매우 더운 행성은 전체 행성에 적도가 모두 존재합니다. 정상 이하 온도의 행성은 적도가 없는 것으로 간주됩니다.</VCE_Sunflower.description>
+  <VCE_Okra.label>오크라 식물</VCE_Okra.label>
+  <VCE_Okra.description>절단 시 슬라임이나 끈적임이 생기는 것으로 유명한 식용 녹색 씨앗 꼬투리를 가진 목화과의 꽃이 피는 식물입니다. 오크라는 귀중한 영양분의 보고입니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 오크라는 아주, 매우 손상에 강합니다. 오크라 식물은 장기적인 빛 부족으로부터 받는 손상이 적으멀로, 다른 원인으로 인한 손상도 회복합니다.</VCE_Okra.description>
   <VCE_Garlic.label>garlic plant</VCE_Garlic.label>
-  <VCE_Garlic.description>A plant with long, flat grasslike leaves forming a stalk, which rises directly from the flower bulb, the part of the plant used as food and medicine. The bulb is made up of many smaller cloves covered with a papery skin.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Garlic has very little yield, but can grow in almost any terrain and takes an obscene time to rot, as dried garlic can be used to cook too.</VCE_Garlic.description>
+  <VCE_Garlic.description>줄기가 직접적으로 꽃구근에서 솟아나오며, 식품과 약용으로 쓰이는 식물 부분입니다. 구근은 많은 수의 작은 쪽들로 이루어져 있으며 종이처럼 얇은 껍질로 덮여 있습니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 마늘 수확량은 매우 적지만 거의 모든 지형에서 자라고, 말린 마늘도 요리에 사용할 수 있으므로 썩는 데 엄청난 시간이 걸립니다.</VCE_Garlic.description>
   <VCE_Carrot.label>당근 식물</VCE_Carrot.label>
-  <VCE_Carrot.description>A herbaceous plant of the Apiaceae family that produces an edible taproot. An erect rosette of doubly compound, finely divided leaves develops above ground, while the edible carrot and attached roots are below.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Companion planting: carrots will grow faster if green beans are cultivated in the same map (up to 30% faster if 100 are found).</VCE_Carrot.description>
-  <VCE_Beans.label>green bean plant</VCE_Beans.label>
-  <VCE_Beans.description>A herbaceous bush with a long history of cultivation. They are distinguished from the many other varieties of beans in that green beans are harvested and consumed with their enclosing pods, before the bean seeds inside have fully matured, similar to peas.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Companion planting: green beans will grow faster if carrots are cultivated in the same map (up to 30% faster if 100 are found).</VCE_Beans.description>
-  <VCE_Chickpea.label>chickpea plant</VCE_Chickpea.label>
-  <VCE_Chickpea.description>One of the earliest cultivated legumes, widely grown for its nutritious seeds. These are high in fibre and protein and are a good source of iron, phosphorus, and folic acid.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Chickpeas grow quite fast and have good yield, but they require a LOT of space to be stored (this may be negated by stack-increasing mods, you dirty cheater, but it's up to you to decide to mess up the game's balance).</VCE_Chickpea.description>
-  <VCE_BellPepper.label>bell pepper plant</VCE_BellPepper.label>
-  <VCE_BellPepper.description>Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.</VCE_BellPepper.description>
-  <VCE_YellowBellPepper.label>bell pepper plant</VCE_YellowBellPepper.label>
-  <VCE_YellowBellPepper.description>Also known as sweet peppers, bell peppers are technically nightshades and part of the capsicum family, but they are the only chili pepper that carries a recessive gene that stops any capsaicin from being made in the fruit, thus making them not spicy.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> On average, 25% of bell peppers will mature into yellow peppers, while 75% will mature into red peppers. The former are more nutritive. If planted in large numbers this results in increased average yield.</VCE_YellowBellPepper.description>
-  <VCE_Taro.label>taro plant</VCE_Taro.label>
-  <VCE_Taro.description>A tropical plant grown primarily for its edible corm, a root vegetable. Taro is one of the few crops that can be grown under flooded conditions, with the base of the plant always under water. This is due to air spaces in the petiole, which permit underwater gaseous exchange with the atmosphere.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Taro is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Taro is the baseline aquatic plant.</VCE_Taro.description>
-  <VCE_Watercress.label>watercress plant</VCE_Watercress.label>
-  <VCE_Watercress.description>Watercress is a rapidly growing, perennial plant. It is one of the oldest known leaf vegetables consumed by humans. Watercress and many of its relatives are noteworthy for their piquant flavors.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Watercress is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Watercress grows faster than taro but needs a lot of space, blocking sowing in adjacent spaces.</VCE_Watercress.description>
-  <VCE_Lotus.label>lotus plant</VCE_Lotus.label>
-  <VCE_Lotus.description>Sometimes colloquially called a water lily, lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Lotus rhizomes have a crunchy texture with sweet-tangy flavours and can be deep-fried, stir-fried, or stuffed with meats or preserved fruits.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Lotus is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Lotus takes a long time to grow.</VCE_Lotus.description>
-  <VCE_WaterChestnut.label>water chestnut plant</VCE_WaterChestnut.label>
-  <VCE_WaterChestnut.description>An aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves, and small, rounded corms with a crisp, white flesh that may be eaten raw, slightly boiled, or grilled.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Water chestnut is only growable in aquatic growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Water chestnut grows 30% faster in the heat (37-60ºC).</VCE_WaterChestnut.description>
-  <VCE_Melon.label>melon plant</VCE_Melon.label>
-  <VCE_Melon.description>A plant producing a sweet, edible, and fleshy fruit of considerable size. Melons are usually cultivated in warm regions.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Melons are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Melons need a lot of space, blocking sowing in adjacent spaces, but harvesting them can't fail</VCE_Melon.description>
-  <VCE_Cucumber.label>cucumber plant</VCE_Cucumber.label>
-  <VCE_Cucumber.description>A sprawling vine with large leaves and curling tendrils, triangular prickly hairy leaves and yellow flowers. Produces a fruit that is a long thin vegetable with hard green skin and wet transparent flesh. \n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Cucumbers are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Cucumbers grow quite fast, providing little yield but in a short period. They can be eaten raw.</VCE_Cucumber.description>
-  <VCE_ButternutSquash.label>butternut squash plant</VCE_ButternutSquash.label>
-  <VCE_ButternutSquash.description>A vine plant that produces a vegetable with a sweet, nutty taste similar to that of a pumpkin. It has tan-yellow skin and orange fleshy pulp with a compartment of seeds in the blossom end.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Butternut squash is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Butternut squash takes a long time to grow.</VCE_ButternutSquash.description>
+  <VCE_Carrot.description>식용 뿌리줄기를 생산하는 Apiaceae 과에 속한 한해살이 식물입니다. 지상에는 고밀도로 나눠진 잎들이 돌출된 장미 같은 모양을 이루며 성장하고, 아래에는 식용 당근 및 뿌리줄기가 있습니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 혼합 식재: 같은 지도에서 재배된 녹색 콩이 있으면 당근이 더 빨리 자랍니다(100개가 있으면 최대 30%까지 빨라짐).</VCE_Carrot.description>
+  <VCE_Beans.label>녹색 콩 식물</VCE_Beans.label>
+  <VCE_Beans.description>오랜 재배 역사를 가진 한해살이식의 부시입니다. 녹색 콩은 콩나물이 완전히 성숙하기 전에 껍질과 함께 수확되어 섭취된다는 점에서 여러 다른 종류의 콩과 구분됩니다. 완두콩과 비슷합니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 혼합 식재: 같은 지도에서 재배된 당근이 있으면 녹색 콩이 더 빨리 자랍니다(100개가 있으면 최대 30%까지 빨라짐).</VCE_Beans.description>
+  <VCE_Chickpea.label>병아리콩 식물</VCE_Chickpea.label>
+  <VCE_Chickpea.description>오래 전부터 재배된 콩류로, 영양가 높은 씨앗을 널리 재밀기 위해 재배됩니다. 이 콩은 섬유질과 단백질이 많으며, 철분, 인, 엽산이 풍부합니다.\n\n&lt;color=#E5E54C>게임 내 효과:&lt;/color> 병아리콩은 상당히 빨리 자라고 수확량도 좋지만, 저장 공간이 매우 많이 필요합니다(스택을 늘리는 모드를 사용하여 이것을 무효화할 수 있지만, 게임의 밸런스를 무너뜨리기로 결정하는 것은 여러분에게 달려 있습니다, 이 더러운 cheater여).</VCE_Chickpea.description>
+  <VCE_BellPepper.label>고추 식물</VCE_BellPepper.label>
+  <VCE_BellPepper.description>단고추로도 알려진 벨 페퍼는 기술적으로 밤shade에 속하며 고추과에 속하지만, 과일에서 캡사이신이 생성되는 것을 중단하는 열성 유전자를 지닌 유일한 칠리 고추로, 이것으로 인해 매운맛이 없습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 평균적으로 25%의 벨 페퍼는 노란 고추로 성숙할 것이며, 75%는 빨간 고추로 성숙할 것입니다. 전자는 더 영양가가 높습니다. 대량으로 심을 경우 평균 수확량이 증가합니다.</VCE_BellPepper.description>
+  <VCE_YellowBellPepper.label>고추 식물</VCE_YellowBellPepper.label>
+  <VCE_YellowBellPepper.description>단고추로도 알려진 벨 페퍼는 기술적으로 밤shade에 속하며 고추과에 속하지만, 과일에서 캡사이신이 생성되는 것을 중단하는 열성 유전자를 지닌 유일한 칠리 고추로, 이것으로 인해 매운맛이 없습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 평균적으로 25%의 벨 페퍼는 노란 고추로 성숙할 것이며, 75%는 빨간 고추로 성숙할 것입니다. 전자는 더 영양가가 높습니다. 대량으로 심을 경우 평균 수확량이 증가합니다.</VCE_YellowBellPepper.description>
+  <VCE_Taro.label>토란</VCE_Taro.label>
+  <VCE_Taro.description>식용 뿌리인 코름을 주로 생산하기 위해 재배되는 열대 식물인 토란은 물에 잠긴 상태에서도 재배될 수 있는 소수의 작물 중 하나입니다. 이는 공기 구멍이 있는 잎자루에 있어서 대기와 수중에서 가스 교환을 할 수 있기 때문입니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 토란은 비옥도를 무시하는 수생 재배 지역에서만 재배할 수 있습니다. 그러나 이 식물들은 파종 및 수확하는데 상당한 시간이 걸리므로, 일반적으로 사용되지 않는 공간에서 식물을 재배하는 것과 정착민의 작업을 교환하는 셈이 됩니다. 토란은 기본적인 수생 식물입니다.</VCE_Taro.description>
+  <VCE_Watercress.label>미나리</VCE_Watercress.label>
+  <VCE_Watercress.description>미나리는 빠르게 성장하는 다년생 식물입니다. 미나리는 인간이 소비하는 것으로 알려진 가장 오래된 잎 채소 중 하나입니다. 미나리와 그 친척들은 톡 쏘는 맛으로 유명합니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 미나리는 비옥도를 무시하는 수생 재배 지역에서만 재배할 수 있습니다. 그러나 이 식물들은 파종 및 수확하는데 상당한 시간이 걸리므로, 일반적으로 사용되지 않는 공간에서 식물을 재배하는 것과 정착민의 작업을 교환하는 셈이 됩니다. 미나리는 토란보다 빠르게 성장하지만 많은 공간을 필요로 해서 인접 공간에 파종을 방해합니다.</VCE_Watercress.description>
+  <VCE_Lotus.label>연꽃</VCE_Lotus.label>
+  <VCE_Lotus.description>때때로 통칭하여 수련이라고 불리는 연꽃은 느리게 흐르는 강이나 삼각주 지역의 홍수 평야에서 자라도록 적응되어 있습니다. 연근은 바삭바삭한 질감과 달콤 쌉싸래한 맛을 가지고 있으며 튀김, 볶음 또는 고기나 보존용 과일로 채워서 요리할 수 있습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 연꽃은 수생 재배 지역에서만 재배 가능하며, 비옥도를 무시합니다. 그러나 이 식물들은 파종하고 수확하는데 오랜 시간이 걸리며, 기본적으로 정착민의 일에 대한 대가로 평소에 사용하지 않는 공간에서 식물을 키우게 됩니다. 연꽃은 자라는데 오랜 시간이 걸립니다.</VCE_Lotus.description>
+  <VCE_WaterChestnut.label>가래나물</VCE_WaterChestnut.label>
+  <VCE_WaterChestnut.description>습지, 물속, 진흙에서 자라는 물생 식물입니다. 줄기 같은 관형의 녹색 잎과 작고 둥근 코름이 있으멤, 생식, 살짝 끓인 후 먹거나 그릴에 구워서 먹을 수 있는 바삭한 흰 살을 가지고 있습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 가래는 수생 재배 지역에서만 재배 가능하며, 비옥도를 무시합니다. 그러나 이 식물들은 파종하고 수확하는데 오랜 시간이 걸리며, 기본적으로 정착민의 일에 대한 대가로 평소에 사용하지 않는 공간에서 식물을 키우게 됩니다. 가래는 더위(37-60ºC)에서 30% 더 빠르게 자랍니다.</VCE_WaterChestnut.description>
+  <VCE_Melon.label>멜론 식물</VCE_Melon.label>
+  <VCE_Melon.description>상당한 크기의 달콤하고 식용 가능한 과육을 갖는 식물입니다. 멜론은 보통 따뜻한 지역에서 재배됩니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 멜론은 모래 재배 지역에서만 재배 가능하며, 비옥도를 무시합니다. 그러나 이 식물들은 파종하고 수확하는데 오랜 시간이 걸리며, 기본적으로 정착민의 일에 대한 대가로 평소에 사용하지 않는 공간에서 식물을 키우게 됩니다. 멜론은 많은 공간이 필요하며 인접한 공간에서의 재배를 방해하지만, 수확에 실패할 수 없습니다.</VCE_Melon.description>
+  <VCE_Cucumber.label>오이 식물</VCE_Cucumber.label>
+  <VCE_Cucumber.description>큰 잎과 덩굴 줄기가 있는 퍼지는 덩굴식물로, 삼각형의 털북숭이 하고 가시가 있는 잎과 노란색 꽃이 있습니다. 단단한 녹색 껍질과 투명한 식육을 가진 긴 얇은 과실을 생산합니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 오이는 모래 재배 지역에서만 재배 가능하며, 비옥도를 무시합니다. 그러나 이 식물들은 파종하고 수확하는데 오랜 시간이 걸리며, 기본적으로 정착민의 일에 대한 대가로 평소에 사용하지 않는 공간에서 식물을 키우게 됩니다. 오이는 꽤 빠른 속도로 자라며, 적은 수확량을 제공하지만 짧은 시간 내에 이루어집니다. 그대로 먹을 수 있습니다.</VCE_Cucumber.description>
+  <VCE_ButternutSquash.label>버터넛 스쿼시 식물</VCE_ButternutSquash.label>
+  <VCE_ButternutSquash.description>호박과 유사한 달콤하고 고소한 맛을 지닌 채소를 생산하는 덩굴 식물입니다. 갈색-노란 색의 껍질과 꽃 끝 부분에 씨앗이 있는 오렌지색 과육이 있습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 버터넛 스쿼시는 모래 재배 지역에서만 재배 가능하며, 비옥도를 무시합니다. 그러나 이 식물들은 파종하고 수확하는데 오랜 시간이 걸리며, 기본적으로 정착민의 일에 대한 대가로 평소에 사용하지 않는 공간에서 식물을 키우게 됩니다. 버터넛 스쿼시는 자라는데 오랜 시간이 걸립니다.</VCE_ButternutSquash.description>
   <VCE_AloeVera.label>알로에 베라</VCE_AloeVera.label>
-  <VCE_AloeVera.description>A herb with succulent leaves that are arranged in a rosette. The leaves are grey to green and sometimes have white spots on their surfaces. They have sharp, pinkish spines along their edges and are the source of a colourless gel that is used in many medicinal products.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Aloe vera is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Aloe vera is a source of herbal medicine.</VCE_AloeVera.description>
-  <VCE_Canola.label>canola plant</VCE_Canola.label>
-  <VCE_Canola.description>A bright-yellow flowering variety of the rapeseed, cultivated mainly for its oil-rich seed.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Canola, though not directly edible, can be very efficiently converted into chemfuel at a refinery.</VCE_Canola.description>
-  <VCE_TreeAvocado.label>avocado tree</VCE_TreeAvocado.label>
-  <VCE_TreeAvocado.description>An evergreen tree with thick, leathery leaves that produces perfect white, ivory to yellow flowers. The fruit has a large seed or pit in the center and may be green or nearly black.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Avocado trees take a notoriously long period to mature and produce their fruits. If they can be kept alive all that time, they produce greater yield than other fruit trees. Plus if you install the Coffees and Teas mod and pair them with Pumpkin Spice Coffee you can have your dream RimWorld Hipster experience!</VCE_TreeAvocado.description>
+  <VCE_AloeVera.description>장미 배열로 배열된 다육질 잎이 있는 허브입니다. 잎은 회색에서 녹색이며 때로는 표면에 흰 점이 있습니다. 잎 가장자리에 뾰족한 분홍색 가시가 있으며 많은 의약품에서 사용되는 무색 젤의 원천입니다.
+
+&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 알로에 베라는 비옥도를 무시하는 모래밭에서만 재배할 수 있습니다. 이 식물들은 그러나 심고 수확하는 데 오랜 시간이 걸릴 것이며, 사실상 정착민의 노동을 자라지 않는 공간에서 식물을 키우는 것으로 교환합니다. 알로에 베라는 허브 의약품의 원천입니다.</VCE_AloeVera.description>
+  <VCE_Canola.label>유채</VCE_Canola.label>
+  <VCE_Canola.description>밝은 노란색 꽃이 피는 유채종의 한 종류이며 주로 기름기 많은 씨앗을 위해 재배됩니다.
+
+&lt;&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 유채는 직접 먹을 수는 없지만 정유소에서 매우 효율적으로 화학연료로 전환될 수 있습니다.</VCE_Canola.description>
+  <VCE_TreeAvocado.label>아보카도 나무</VCE_TreeAvocado.label>
+  <VCE_TreeAvocado.description>완벽한 백색, 상아색으로 노란색 꽃을 피우는 두꺼운 가죽 같은 잎이 있는 상록수입니다. 열매는 중앙에 큰 씨앗이 있으며 녹색이나 거의 검은색일 수 있습니다.
+
+&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 아보카도 나무는 열매를 맺기까지 악명 높게 긴 시간이 걸립니다. 그 시간 동안 살아남을 수 있다면, 다른 과일 나무보다 더 많은 수확량을 낼 것입니다. 게다가 커피와 차 모드를 설치하고 호박 스파이스 커피와 함께하면 꿈의 변경계 힙스터 경험을 할 수 있습니다!</VCE_TreeAvocado.description>
   <VCE_TreeOlive.label>올리브 나무</VCE_TreeOlive.label>
-  <VCE_TreeOlive.description>A subtropical broad-leaved evergreen tree. Its leaves, leathery and lance-shaped, are dark green above and silvery on the underside and are paired opposite each other on the twig. The wood is resistant to decay. If the top dies back, a new trunk will often arise from the roots.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Interestingly, olive trees show a marked preference for rocky soils, flourishing on them. Rich soils are actually detrimental to them. They will also live for a very, very long time, far longer than other produce trees. Contrary to other tree produce, olives can't be eaten raw.</VCE_TreeOlive.description>
-  <VCE_CoconutPalm.label>coconut palm</VCE_CoconutPalm.label>
-  <VCE_CoconutPalm.description>A palm tree cultivated extensively in tropical areas for its edible fruit, the coconut. Coconut palms flourish best close to the sea on low-lying areas a few feet above high water.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nCoconut palms are only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space.\n\nCoconut palms receive a growth bonus if sea water tiles are found in a 6 tile radius. Coconuts can be used as fruits or processed into milk.</VCE_CoconutPalm.description>
-  <VCE_TreeAlmond.label>almond tree</VCE_TreeAlmond.label>
-  <VCE_TreeAlmond.description>A deciduous tree cultivated for its fruit, almonds. The sweet almond can be eaten plain or be used as ingredient in desserts and confectioneries. The trees are strikingly beautiful when in flower; they produce fragrant, five-petaled, light pink to white flowers.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nAlmond trees are beautiful, but they require water to be present in a 6 tile radius to grow properly. Almonds can be used as fruits or processed into milk.</VCE_TreeAlmond.description>
-  <VCE_TreeMango.label>mango tree</VCE_TreeMango.label>
-  <VCE_TreeMango.description>A tropical evergreen tree that produces oval fruits, vividly coloured with shades of red and yellow. The single large seed is flattened, and the flesh that surrounds it is yellow to orange in colour, juicy, and of distinctive sweet-spicy flavour.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> All fruit trees take about four times as much space as regular crops, take a long time to grow and produce fruits that can be eaten raw. They aren't destroyed after harvesting but have a limited lifespan and will eventually need to be replanted.\n\nMango trees have very good yield, but mangoes cannot be frozen or they get destroyed. The game won't be smart enough to detect this, so disable them from freezers.</VCE_TreeMango.description>
-  <VCE_Carrot.label.label>danvers carrot plant</VCE_Carrot.label.label>
-  <VCE_RawCarrot.label.label>danvers carrots</VCE_RawCarrot.label.label>
-  <VCE_Melon.label.label>honeydew melon plant</VCE_Melon.label.label>
-  <VCE_RawMelon.label.label>honeydew melons</VCE_RawMelon.label.label>
-  <VCE_Cucumber.label.label>bush champion cucumber plant</VCE_Cucumber.label.label>
-  <VCE_RawCucumber.label.label>bush champion cucumbers</VCE_RawCucumber.label.label>
-  <VCE_Plant_AloeVera.label.label>tiger tooth Aloe plant</VCE_Plant_AloeVera.label.label>
-  <VCE_TreeOlive.label.label>seville manzanillo olive tree</VCE_TreeOlive.label.label>
-  <VCE_RawOlives.label.label>seville manzanillo olives</VCE_RawOlives.label.label>
-  <VCE_Pineapple.label.label>abacaxi pineapple plant</VCE_Pineapple.label.label>
-  <VCE_RawPineapple.label.label>abacaxi pineapples</VCE_RawPineapple.label.label>
-  <VCE_RawMoss.label>cave moss</VCE_RawMoss.label>
-  <VCE_RawMoss.description>A nutrient-rich moss that can be used to feed cave animals, but not humans.</VCE_RawMoss.description>
-  <VCE_Moss.label>cave moss</VCE_Moss.label>
-  <VCE_Moss.description>A nutrient-rich moss that can be used to feed cave animals, but not humans. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it.</VCE_Moss.description>
-  <VCE_Tinctshroom.label>tinctshroom</VCE_Tinctshroom.label>
-  <VCE_Tinctshroom.description>A genetically-engineered mushroom which secretes a self-altering dye. This dye can be coaxed into different colors and used to dye apparel. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it.</VCE_Tinctshroom.description>
+  <VCE_TreeOlive.description>아열대 광폭 상록수입니다. 잎은 가죽처럼 질겨서 가장자리가 뾰족하고, 가지에 마주 안고 있는 랜스 모양이며 위는 진한 녹색이고 아래는 은색입니다. 나무는 부패하기 어렵습니다. 만약 위쪽이 죽으면 뿌리에서 새로운 줄기가 자주 자랍니다.
+
+&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 흥미롭게도 올리브 나무는 바위투성이 토양을 선호하여 그 위에서 번성합니다. 비옥한 토양은 사실 그들에게 해로울 수 있습니다. 또한 올리브 나무는 다른 과일 나무보다 훨씬 오래 삽니다. 다른 나무에서 나는 과일과 달리 올리브는 날로 먹을 수 없습니다.</VCE_TreeOlive.description>
+  <VCE_CoconutPalm.label>야자수</VCE_CoconutPalm.label>
+  <VCE_CoconutPalm.description>어느 곳에서나 식용 과일인 코코넛을 생산하기 위해 열대 지역에서 대규모로 재배되는 야자나무입니다. 코코넛 야자수는 해수면보다 몇 피트 높은 저지대에서 가장 잘 번성합니다.
+
+&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 모든 과일 나무는 일반 작물보다 약 네 배 많은 공간을 필요로 하며, 자라고 열매를 맺는 데 오랜 시간이 걸립니다. 수확 후에 파괴되지 않지만 제한된 수명을 가지며 결국 새로 심어야 합니다.
+
+코코넛 야자수는 바다 수타일이 6요골 반경 안에 있는 경우 성장 보너스를 받습니다. 코코넛은 과일로 먹거나 우유로 가공할 수 있습니다.</VCE_CoconutPalm.description>
+  <VCE_TreeAlmond.label>아몬드 나무</VCE_TreeAlmond.label>
+  <VCE_TreeAlmond.description>아몬드 열매를 재배하기 위해 재배되는 낙엽수입니다. 단맛이 나는 아몬드는 그대로 먹거나 디저트나 과자의 재료로 사용할 수 있습니다. 꽃이 피었을 때 이 나무들은 눈에 띄게 아름다운데, 향기롭고 다섯 잎이 달린 연분홍색 또는 하얀색 꽃을 피웁니다.
+
+&lt;color=#E5E54C>게임 플레이 효과:&lt;	mlt;/color> 모든 과일 나무는 일반 작물보다 약 네 배 정도의 공간이 필요하며, 자라고 열매를 맺는 데 오랜 시간이 걸립니다. 수확 후에 파괴되지는 않지만 제한된 수명을 가지고 있어 결국 재배해야 합니다.
+
+아몬드 나무는 아름답지만 제대로 자라려면 6 요골 반경 내에 물이 있어야 합니다. 아몬드는 과일로 사용하거나 우유로 가공할 수 있습니다.</VCE_TreeAlmond.description>
+  <VCE_TreeMango.label>망고 나무</VCE_TreeMango.label>
+  <VCE_TreeMango.description>열대 상록 나무로, 붉고 노란 색조의 타원형 과일을 생산합니다. 큰 종자는 납작하고 주변의 과육은 노랑에서 주황색을 띠며 다즙이고 독특한 달콤하고 매콤한 맛을 가집니다.
+
+&lt;color=#E5E54C>게임 플레이 효과:&lt;	mlt;/color> 모든 과일 나무는 일반 작물보다 약 네 배 정도의 공간이 필요하며, 자라고 열매를 맺는 데 오랜 시간이 걸립니다. 수확 후에 파괴되지는 않지만 제한된 수명을 가지고 있어 결국 재배해야 합니다.
+
+망고 나무는 매우 좋은 수확량을 가지고 있지만, 망고는 동결시킬 수 없으며 그렇게 하면 망고가 파괴됩니다. 게임은 이를 감지할 수 없으니 냉동고에서는 망고를 사용하지 않도록 설정하세요.</VCE_TreeMango.description>
+  <VCE_Carrot.label.label>댄버스 당근 식물</VCE_Carrot.label.label>
+  <VCE_RawCarrot.label.label>댄버스 당근</VCE_RawCarrot.label.label>
+  <VCE_Melon.label.label>하니듀 멜론 식물</VCE_Melon.label.label>
+  <VCE_RawMelon.label.label>하니듀 멜론</VCE_RawMelon.label.label>
+  <VCE_Cucumber.label.label>부시 챔피언 오이 식물</VCE_Cucumber.label.label>
+  <VCE_RawCucumber.label.label>부시 챔피언 오이</VCE_RawCucumber.label.label>
+  <VCE_Plant_AloeVera.label.label>타이거 투스 알로에 식물</VCE_Plant_AloeVera.label.label>
+  <VCE_TreeOlive.label.label>세비야 만사닐로 올리브 나무</VCE_TreeOlive.label.label>
+  <VCE_RawOlives.label.label>세비야 만사닐로 올리브</VCE_RawOlives.label.label>
+  <VCE_Pineapple.label.label>아바카시 파인애플 식물</VCE_Pineapple.label.label>
+  <VCE_RawPineapple.label.label>아바카시 파인애플들</VCE_RawPineapple.label.label>
+  <VCE_RawMoss.label>동굴 이끼</VCE_RawMoss.label>
+  <VCE_RawMoss.description>동물에게 먹일 수 있는 영양가 높은 이끼지만, 사람에게는 먹이지 않습니다.</VCE_RawMoss.description>
+  <VCE_Moss.label>동굴 이끼</VCE_Moss.label>
+  <VCE_Moss.description>동물에게 먹일 수 있는 영양가 높은 이끼지만 사람에게는 먹이지 않습니다. 균사 자갈 위에서 자랄 수 있지만, 빛을 멀리 해야 합니다. 희미한 빛을 포함하여 어떤 종류의 빛에 노출되어도 죽습니다.</VCE_Moss.description>
+  <VCE_Tinctshroom.label>색변경버섯</VCE_Tinctshroom.label>
+  <VCE_Tinctshroom.description>스스로 색을 바꾸는 염료를 분비하는 유전자 변형 버섯입니다. 이 염료는 다양한 색으로 유도할 수 있으며 의류 염색에 사용할 수 있습니다. 균사 자갈 위에서 자랄 수 있지만, 빛을 멀리 해야 합니다. 희미한 빛을 포함하여 어떤 종류의 빛에 노출되어도 죽습니다.</VCE_Tinctshroom.description>
   <VCE_Healshroom.label>약버섯</VCE_Healshroom.label>
-  <VCE_Healshroom.description>A slow-growing mushroom which yields herbal medicine when harvested. Sowing and harvesting healshroom are both very labor-intensive tasks because of its fragility. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it.</VCE_Healshroom.description>
-  <VCE_VegMilkExtractor.label>vegetable milk extractor</VCE_VegMilkExtractor.label>
-  <VCE_VegMilkExtractor.description>A small work station containing a presser and an industrial decanter centrifuge to separate vegetable extract from mash. The high G-forces generated by the decanter centrifuge allow you to extract vegetable milk from rice, almonds, coconuts, oats and soybeans.</VCE_VegMilkExtractor.description>
+  <VCE_Healshroom.description>수확 시 약용 버섯을 얻을 수 있는 천천히 자라는 버섯입니다. 그것의 미묘함 때문에 심고 수확하는 것이 매우 노동 집약적인 작업입니다. 균사 자갈 위에서 자랄 수 있지만, 빛을 멀리 해야 합니다. 희미한 빛을 포함하여 어떤 종류의 빛에 노출되어도 죽습니다.</VCE_Healshroom.description>
+  <VCE_VegMilkExtractor.label>식물성 우유 추출기</VCE_VegMilkExtractor.label>
+  <VCE_VegMilkExtractor.description>주스기와 산업용 원심 분리기가 포함된 소규모 작업 스테이션으로, 이를 통해 매쉬에서 식물 추출물을 분리할 수 있습니다. 원심 분리기로 생성되는 높은 G-힘이 라이스, 아몬드, 코코넛, 귀리, 콩에서 식물성 우유를 추출할 수 있도록 해줍니다.</VCE_VegMilkExtractor.description>
   <VCE_RawOats.label>귀리</VCE_RawOats.label>
-  <VCE_RawOats.description>The grain of the oat plant. Oats have numerous uses in foods; most commonly, they are rolled or crushed into oatmeal. Oatmeal is chiefly eaten as porridge, but may also be used in a variety of baked goods. Oats are also used for production of milk substitutes.</VCE_RawOats.description>
+  <VCE_RawOats.description>귀리 식물의 곡물입니다. 귀리는 식품에서 여러 용도로 사용되며, 주로 굴러서 귀리밀로 만들거나 으깨서 사용합니다. 귀리밀은 주로 죽으로 먹지만, 다양한 베이킹 제품에서도 사용됩니다. 귀리는 또한 우유 대체품 생산에 사용됩니다.</VCE_RawOats.description>
   <VCE_Barley.label>보리</VCE_Barley.label>
-  <VCE_Barley.description>A cereal grain that people can use in bread, beverages, stews, and other dishes. As a whole grain, barley provides fiber, vitamins, and minerals. It has been genetically engineered to gently break into flour with a mere touch.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Barley is a "dual crop", in the sense that it produces both flour and hay.</VCE_Barley.description>
+  <VCE_Barley.description>사람들이 빵, 음료, 스튜 및 기타 요리에 사용할 수 있는 곡물입니다. 전체 곡물로서 보리는 섬유, 비타민, 그리고 미네랄을 제공합니다. 유전자 조작을 통해 쉽게 만짐으로써 가루로 부서집니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 보리는 '이중 작물'입니다. 즉, 가루와 건초 둘 다를 생산합니다.</VCE_Barley.description>
   <VCE_Sorghum.label>수수</VCE_Sorghum.label>
-  <VCE_Sorghum.description>A drought resistant cereal used for food, animal fodder, the production of alcoholic beverages, and biofuels. Sorghum grain is gluten free, high in resistant starch, and more abundant and diverse phenolic compounds compared to other major cereal crops.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Sorghum stalks can grow to up to 2.5 meters in height, and grow very close together. A sorghum field can be used as quite effective cover.</VCE_Sorghum.description>
+  <VCE_Sorghum.description>식품, 동물 사료, 알코올 음료 및 바이오연료 생산에 사용되는 가뭄에 강한 곡물입니다. 수수 곡물은 글루텐 프리이며 저항성 전분이 높고, 다른 주요 곡물 작물에 비해 더 풍부하고 다양한 페놀 화합물을 가지고 있습니다.\n\n&lt;color=#E5E54C>게임 플레이 효과:&lt;/color> 수수 대는 최대 2.5미터까지 자라며 매우 밀실하게 자랍니다. 수수 밭은 꽤 효과적인 은폐물로 사용될 수 있습니다.</VCE_Sorghum.description>
   <VCE_Rye.label>호밀</VCE_Rye.label>
-  <VCE_Rye.description>A plant that grows well in much poorer soils than those necessary for most cereal grains. Thus, it is an especially valuable crop in regions where the soil has sand or peat. It has been genetically engineered to gently break into flour with a mere touch.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Rye is only growable in sandy growing zones, which ignore fertility. These plants will however take a long time to sow and harvest, basically exchanging colonist work for growing plants in a normally unused space. Rye needs to be grown away from large bodies of water (water within 10 tiles of it will stop its growth).</VCE_Rye.description>
-  <VCE_Oats.label>oat plant</VCE_Oats.label>
-  <VCE_Oats.description>The oat, sometimes called the common oat, is a species of cereal grain grown for its seed, which is known by the same name. Oats have numerous uses in gastronomy, and they can also be turned into vegetable milk.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Oat has low yield, but it is very versatile, being a "dual crop", in the sense that it produces both flour and oats which can be either used as a vegetable or turned into milk.</VCE_Oats.description>
-  <VCE_Barley.label.label>maris otter barley plant</VCE_Barley.label.label>
-  <VCE_Sorghum.label.label>maleek sorghum plant</VCE_Sorghum.label.label>
-  <VCE_Oats.label.label>reins oat plant</VCE_Oats.label.label>
-  <VCE_RawOats.label.label>reins oats</VCE_RawOats.label.label>
-  <VCE_RawBlueberries.label>blueberries</VCE_RawBlueberries.label>
-  <VCE_RawBlueberries.description>A sweet, edible fruit hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.</VCE_RawBlueberries.description>
+  <VCE_Rye.description>대부분의 곡물보다 훨씬 빈약한 토양에서도 잘 자라는 식물입니다. 따라서 모래나 이탄이 있는 토양에서 아주 귀중한 작물입니다. 유전자 조작을 통해 단지 손으로 만지면 가루로 쉽게 부서집니다.\n\n&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 호밀은 비옥도를 무시하는 모래 지역에서만 재배할 수 있습니다. 이 식물은 파종과 수확에 시간이 오래 걸리지만, 기본적으로 정착민의 노동을 통해 일반적으로 사용되지 않는 공간에서 식물을 자라게 합니다. 호밀은 큰 물체로부터 멀리 재배해야 합니다(물이 10타일 이내에 있으면 성장이 멈춥니다).</VCE_Rye.description>
+  <VCE_Oats.label>귀리 식물</VCE_Oats.label>
+  <VCE_Oats.description>귀리는 때때로 일반 귀리라고 불리며, 그 식물의 종자로 재배되는 곡물 종류이고 같은 이름으로 알려져 있습니다. 귀리는 요리에 여러 용도가 있으며 식물성 우유로도 만들 수 있습니다.\n\n&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 귀리는 수확량은 낮지만 매우 다재다능하여, </VCE_Oats.description>
+  <VCE_Barley.label.label>매리스 오타 대맥 식물</VCE_Barley.label.label>
+  <VCE_Sorghum.label.label>말릭 수수 식물</VCE_Sorghum.label.label>
+  <VCE_Oats.label.label>레인즈 귀리 식물</VCE_Oats.label.label>
+  <VCE_RawOats.label.label>레인즈 귀리</VCE_RawOats.label.label>
+  <VCE_RawBlueberries.label>블루베리</VCE_RawBlueberries.label>
+  <VCE_RawBlueberries.description>"슈퍼푸드"로 불릴 정도로 영양 가득한 달콤한 식용 과일, 블루베리는 보통 신선한 디저트 과일로 섭취하고 다양한 페이스트리에 넣어 굽습니다.</VCE_RawBlueberries.description>
   <VCE_Blueberry.label>블루베리</VCE_Blueberry.label>
-  <VCE_Blueberry.description>A shrub prized for its sweet edible fruits. Hailed as a "superfood", blueberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Blueberries are pollinated by bees: they will receive a growth boost if an apiary is found in a radius of 6 tiles. To avoid lag this is only calculated once, when the plant is sown, so apiaries placed after sowing it will have no effect. If there are no apiaries it will behave as a slower strawberry plant.</VCE_Blueberry.description>
-  <VCE_Blueberry.label.label>huckleberry plant</VCE_Blueberry.label.label>
-  <VCE_Blueberry.description.description>A shrub prized for its sweet edible fruits. Huckleberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.\n\n&lt;color=#E5E54C>Gameplay effect:&lt;/color> Huckleberries are pollinated by bees: they will receive a growth boost if an apiary is found in a radius of 6 tiles. To avoid lag this is only calculated once, when the plant is sown, so apiaries placed after sowing it will have no effect. If there are no apiaries it will behave as a slower strawberry plant.</VCE_Blueberry.description.description>
-  <VCE_RawBlueberries.label.label>huckleberries</VCE_RawBlueberries.label.label>
-  <VCE_RawBlueberries.description.description>A sweet, edible fruit. Huckleberries are commonly eaten fresh as a dessert fruit and can be baked in a variety of pastries.</VCE_RawBlueberries.description.description>
+  <VCE_Blueberry.description>달콤한 식용 과일을 가진 관목으로, "슈퍼푸드"로 불릴 정도로 영양 가득한 블루베리는 보통 신선한 디저트 과일로 섭취하고 다양한 페이스트리에 넣어 굽습니다.\n\n&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 블루베리는 벌에 의해 수분되며: 6타일 반경 내에 벌통이 있으면 성장이 촉진됩니다. 렉을 피하기 위해 이것은 식물이 심어질 때 한 번만 계산되므로 그 이후에 설치된 벌통은 효과가 없습니다. 벌통이 없다면 성장이 느린 딸기 식물처럼 행동할 것입니다.</VCE_Blueberry.description>
+  <VCE_Blueberry.label.label>서양 접시딸기나무 식물</VCE_Blueberry.label.label>
+  <VCE_Blueberry.description.description>달콤한 식용 과일을 가진 관목으로, 서양 접시딸기나무는 보통 신선한 디저트 과일로 섭취하고 다양한 페이스트리에 넣어 굽습니다.\n\n&lt;color=#E5E54C>게임플레이 효과:&lt;/color> 서양 접시딸기나무는 벌에 의해 수분되며: 6타일 반경 내에 벌통이 있으면 성장이 촉진됩니다. 렉을 피하기 위해 이것은 식물이 심어질 때 한 번만 계산되므로 그 이후에 설치된 벌통은 효과가 없습니다. 벌통이 없다면 성장이 느린 딸기 식물처럼 행동할 것입니다.</VCE_Blueberry.description.description>
+  <VCE_RawBlueberries.label.label>서양 접시딸기나무</VCE_RawBlueberries.label.label>
+  <VCE_RawBlueberries.description.description>슈퍼푸드로 인정받는 달콤한 식용 과일. 서양 접시딸기나무는 보통 신선한 디저트 과일로 섭취하고 다양한 페이스트리에 넣어 굽습니다.</VCE_RawBlueberries.description.description>
 </LanguageData>
