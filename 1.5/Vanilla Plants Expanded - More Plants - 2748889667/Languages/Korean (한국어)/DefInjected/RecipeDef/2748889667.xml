@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_Make_ChemfuelFromCanola.label>make chemfuel from canola</VCE_Make_ChemfuelFromCanola.label>
+  <VCE_Make_ChemfuelFromCanola.description>Make a batch of chemfuel by extracting biofuel from canola flowers.</VCE_Make_ChemfuelFromCanola.description>
+  <VCE_Make_ChemfuelFromCanola.jobString>Refining chemfuel from canola.</VCE_Make_ChemfuelFromCanola.jobString>
+  <VCE_Make_Kibble_Moss.label>make kibble from moss</VCE_Make_Kibble_Moss.label>
+  <VCE_Make_Kibble_Moss.description>Make animal kibble by combining raw meat and moss. This recipe is slightly more efficient than using hay.</VCE_Make_Kibble_Moss.description>
+  <VCE_Make_Kibble_Moss.jobString>Making kibble from moss.</VCE_Make_Kibble_Moss.jobString>
+  <VCE_MilkFromRice.label>extract milk from rice</VCE_MilkFromRice.label>
+  <VCE_MilkFromRice.description>Extract vegetable milk from rice. This milk can be used in any recipe that asks for milk.\n\nRice is very inefficient when converted into milk, and a lot of nutrition is lost in the process.</VCE_MilkFromRice.description>
+  <VCE_MilkFromRice.jobString>Extracting milk from rice.</VCE_MilkFromRice.jobString>
+  <VCE_MilkFromAlmonds.label>extract milk from almonds</VCE_MilkFromAlmonds.label>
+  <VCE_MilkFromAlmonds.description>Extract vegetable milk from almonds. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process.</VCE_MilkFromAlmonds.description>
+  <VCE_MilkFromAlmonds.jobString>Extracting milk from almonds.</VCE_MilkFromAlmonds.jobString>
+  <VCE_MilkFromCoconuts.label>extract milk from coconuts</VCE_MilkFromCoconuts.label>
+  <VCE_MilkFromCoconuts.description>Extract vegetable milk from coconuts. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process.</VCE_MilkFromCoconuts.description>
+  <VCE_MilkFromCoconuts.jobString>Extracting milk from coconuts.</VCE_MilkFromCoconuts.jobString>
+  <VCE_MilkFromOats.label>extract milk from oats</VCE_MilkFromOats.label>
+  <VCE_MilkFromOats.description>Extract vegetable milk from oats. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process.</VCE_MilkFromOats.description>
+  <VCE_MilkFromOats.jobString>Extracting milk from oats.</VCE_MilkFromOats.jobString>
+  <VCE_MilkFromSoybeans.label>extract milk from soybeans</VCE_MilkFromSoybeans.label>
+  <VCE_MilkFromSoybeans.description>Extract vegetable milk from oats. This milk can be used in any recipe that asks for milk.\n\nVegetable milks are generally inefficient, as a lot of nutrition is lost in the process. Soybeans are more efficient than other recipes.</VCE_MilkFromSoybeans.description>
+  <VCE_MilkFromSoybeans.jobString>Extracting milk from soybeans.</VCE_MilkFromSoybeans.jobString>
+</LanguageData>
