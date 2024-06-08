@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AquaticGrowingZone>Aquatic Growing Zone</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>Create a zone where your colonists will try to grow aquatic plants. Aquatic plants ignore terrain fertility but take a very long time to sow and harvest.\n\nThese zones can't be placed on oceanic (salty) water.</VCE_AquaticGrowingZoneDesc>
+  <VCE_SandyGrowingZone>Sand Growing Zone</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>Create a zone where your colonists will try to grow sandy terrain plants. Sand plants ignore terrain fertility but take a very long time to sow and harvest.</VCE_SandyGrowingZoneDesc>
+  <VCE_NotInEquator>Not in equatorial region (in this planet, below {0} latitude). Growing normally.</VCE_NotInEquator>
+  <VCE_InEquator>In equatorial region, growing 30% faster.</VCE_InEquator>
+  <VCE_NeedsShade>This plant needs to grow in shade: outside, but under a roof.</VCE_NeedsShade>
+  <VCE_Pollinated>Apiary found nearby</VCE_Pollinated>
+  <VCE_NotPollinated>No apiary found in a 6 tiles radius (calculated on sowing)</VCE_NotPollinated>
+  <VCE_CarrotsNearby>Carrots planted nearby: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>Green beans planted nearby: {0}/100</VCE_BeansNearby>
+  <VCE_StuntedGrowthFertility>Growth reduced due to non-rocky terrain</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>Growth impossible due to too fertile terrain</VCE_StoppedGrowthFertility>
+  <VCE_WaterNearby>A body of water nearby is impeding this plant's growth</VCE_WaterNearby>
+  <VCE_NoWaterNearby>Lack of a body of water nearby is impeding this plant's growth</VCE_NoWaterNearby>
+  <VCE_NoSeaTilesNearby>Too far away from the sea, no extra growth bonus</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>{0} sea tiles nearby, providing {0}% growth bonus</VCE_SeaTilesNearby>
+</LanguageData>
