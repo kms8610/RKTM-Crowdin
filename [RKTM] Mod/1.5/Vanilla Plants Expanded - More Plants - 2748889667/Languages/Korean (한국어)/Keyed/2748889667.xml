@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCE_AquaticGrowingZone>수생 식물 재배구역</VCE_AquaticGrowingZone>
+  <VCE_AquaticGrowingZoneDesc>정착민들이 수생 식물을 재배하려는 구역을 생성합니다. 수생 식물은 지형의 비옥도를 무시하지만 심고 수확하는 데 많은 시간이 걸립니다.\n\n이 구역들은 바닷물(짠물) 위에는 설치할 수 없습니다.</VCE_AquaticGrowingZoneDesc>
+  <VCE_SandyGrowingZone>모래 식물 재배구역</VCE_SandyGrowingZone>
+  <VCE_SandyGrowingZoneDesc>정착민들이 모래 지형 식물을 재배하려는 구역을 생성합니다. 모래 식물은 지형의 비옥도를 무시하지만 심고 수확하는 데 많은 시간이 걸립니다.</VCE_SandyGrowingZoneDesc>
+  <VCE_NotInEquator>적도 지역이 아닙니다(이 행성에서는 {0} 위도 이하). 정상적으로 성장합니다.</VCE_NotInEquator>
+  <VCE_InEquator>적도 지역에서는 30% 더 빠르게 성장합니다.</VCE_InEquator>
+  <VCE_NeedsShade>이 식물은 그늘이 필요합니다: 밖에 있으나 지붕 아래에.</VCE_NeedsShade>
+  <VCE_Pollinated>근처에 벌통이 발견되었습니다</VCE_Pollinated>
+  <VCE_NotPollinated>파종 시 계산된 6 요골 반경 내에 벌통이 없습니다</VCE_NotPollinated>
+  <VCE_CarrotsNearby>근처에 심은 당근: {0}/100</VCE_CarrotsNearby>
+  <VCE_BeansNearby>근처에 심은 콩: {0}/100</VCE_BeansNearby>
+  <VCE_StuntedGrowthFertility>비암석 지형으로 인해 성장이 줄었습니다</VCE_StuntedGrowthFertility>
+  <VCE_StoppedGrowthFertility>지나치게 비옥한 지형으로 인해 성장이 불가능합니다</VCE_StoppedGrowthFertility>
+  <VCE_WaterNearby>근처에 있는 물이 이 식물의 성장을 방해하고 있습니다</VCE_WaterNearby>
+  <VCE_NoWaterNearby>근처에 물이 없어 이 식물의 성장이 방해받고 있습니다</VCE_NoWaterNearby>
+  <VCE_NoSeaTilesNearby>바다에서 너무 멀어 추가 성장 보너스가 없습니다</VCE_NoSeaTilesNearby>
+  <VCE_SeaTilesNearby>근처에 {0} 바다 타일이 있어 {0}% 성장 보너스를 제공합니다</VCE_SeaTilesNearby>
+</LanguageData>
