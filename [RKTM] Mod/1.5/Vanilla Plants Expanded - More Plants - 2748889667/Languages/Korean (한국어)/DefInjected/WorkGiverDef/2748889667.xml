@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <VCE_HarvestAquatic.label>harvest aquatic crops</VCE_HarvestAquatic.label>
-  <VCE_HarvestAquatic.verb>harvest aquatic</VCE_HarvestAquatic.verb>
-  <VCE_HarvestAquatic.gerund>harvesting aquatic</VCE_HarvestAquatic.gerund>
-  <VCE_SowAquatic.label>sow aquatic crops</VCE_SowAquatic.label>
-  <VCE_SowAquatic.verb>sow aquatic</VCE_SowAquatic.verb>
-  <VCE_SowAquatic.gerund>sowing aquatic</VCE_SowAquatic.gerund>
-  <VCE_HarvestSandy.label>harvest sand crops</VCE_HarvestSandy.label>
-  <VCE_HarvestSandy.verb>harvest sand</VCE_HarvestSandy.verb>
-  <VCE_HarvestSandy.gerund>harvesting sand</VCE_HarvestSandy.gerund>
-  <VCE_SowSandy.label>sow sand crops</VCE_SowSandy.label>
-  <VCE_SowSandy.verb>sow sand</VCE_SowSandy.verb>
-  <VCE_SowSandy.gerund>sowing sand</VCE_SowSandy.gerund>
-  <VCE_DoBillsVegMilkExtractor.label>extract vegetable milks</VCE_DoBillsVegMilkExtractor.label>
-  <VCE_DoBillsVegMilkExtractor.verb>extract vegetable milk</VCE_DoBillsVegMilkExtractor.verb>
-  <VCE_DoBillsVegMilkExtractor.gerund>extracting vegetable milk at</VCE_DoBillsVegMilkExtractor.gerund>
+  <VCE_HarvestAquatic.label>수생 작물 수확</VCE_HarvestAquatic.label>
+  <VCE_HarvestAquatic.verb>수생 작물을 수확하다</VCE_HarvestAquatic.verb>
+  <VCE_HarvestAquatic.gerund>수생 작물을 수확하는 중</VCE_HarvestAquatic.gerund>
+  <VCE_SowAquatic.label>수생 작물 파종</VCE_SowAquatic.label>
+  <VCE_SowAquatic.verb>수생 작물을 파종하다</VCE_SowAquatic.verb>
+  <VCE_SowAquatic.gerund>수생 작물을 파종하는 중</VCE_SowAquatic.gerund>
+  <VCE_HarvestSandy.label>모래 작물 수확</VCE_HarvestSandy.label>
+  <VCE_HarvestSandy.verb>모래를 수확하다</VCE_HarvestSandy.verb>
+  <VCE_HarvestSandy.gerund>모래를 수확하는 중</VCE_HarvestSandy.gerund>
+  <VCE_SowSandy.label>모래 작물 파종</VCE_SowSandy.label>
+  <VCE_SowSandy.verb>모래를 파종하다</VCE_SowSandy.verb>
+  <VCE_SowSandy.gerund>모래를 파종하는 중</VCE_SowSandy.gerund>
+  <VCE_DoBillsVegMilkExtractor.label>식물성 우유 추출</VCE_DoBillsVegMilkExtractor.label>
+  <VCE_DoBillsVegMilkExtractor.verb>식물성 우유를 추출하다</VCE_DoBillsVegMilkExtractor.verb>
+  <VCE_DoBillsVegMilkExtractor.gerund>식물성 우유를 추출하는 중</VCE_DoBillsVegMilkExtractor.gerund>
 </LanguageData>
