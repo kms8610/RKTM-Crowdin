@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BionicTailAnimal.label>생체공핥 동물 꼬리</BionicTailAnimal.label>
+  <BionicTailAnimal.labelNoun>생체공학 동물 꼬리</BionicTailAnimal.labelNoun>
+  <BionicTailAnimal.description>설치된 고급 인공 동물 꼬리. 소리 없는 미니 서보로 힘을 갖추고 있으며, 바이오젤 신경 연결로 정교한 조절이 가능합니다. 격자 먼지 치유 시스템을 통해 손상으로부터 회복이 가능합니다. 거의 모든 면에서 생체 꼬리보다 우수합니다.</BionicTailAnimal.description>
+  <BionicTailAnimal.comps.0.tools.0.label>생체공핥 동물 꼬리</BionicTailAnimal.comps.0.tools.0.label>
+  <BionicEyeAnimal.label>생체공학 동물 눈</BionicEyeAnimal.label>
+  <BionicEyeAnimal.labelNoun>생체 공학적인 동물의 눈</BionicEyeAnimal.labelNoun>
+  <BionicEyeAnimal.description>설치된 생체 공학적인 동물의 눈입니다.</BionicEyeAnimal.description>
+  <BionicArmAnimal.label>생체공학 동물 팔</BionicArmAnimal.label>
+  <BionicArmAnimal.labelNoun>생체공학 동물 팔</BionicArmAnimal.labelNoun>
+  <BionicArmAnimal.description>설치된 고급 인공 동물 팔. 소리 없는 미니 서보로 힘을 갖추고 있으며, 바이오젤 신경 연결로 정교한 조절이 가능합니다. 격자 먼지 치유 시스템을 통해 손상으로부터 회복이 가능합니다. 거의 모든 면에서 생체 팔보다 우수합니다.</BionicArmAnimal.description>
+  <BionicArmAnimal.comps.0.tools.0.label>생체 공학적인 동물의 주먹</BionicArmAnimal.comps.0.tools.0.label>
+  <BionicLegAnimal.label>생체공학 동물 다리</BionicLegAnimal.label>
+  <BionicLegAnimal.labelNoun>생체 공학적인 동물의 다리</BionicLegAnimal.labelNoun>
+  <BionicLegAnimal.description>설치된 생체공학 동물 다리.</BionicLegAnimal.description>
+  <BionicLegAnimal.comps.0.tools.0.label>생체공학 동물 다리</BionicLegAnimal.comps.0.tools.0.label>
+  <BionicSpineAnimal.label>생체공학 동물 척추</BionicSpineAnimal.label>
+  <BionicSpineAnimal.labelNoun>생체공학 동물 척추</BionicSpineAnimal.labelNoun>
+  <BionicSpineAnimal.description>설치된 생체공학 동물 척추.</BionicSpineAnimal.description>
+  <BionicHeartAnimal.label>생체공학 동물 심장</BionicHeartAnimal.label>
+  <BionicHeartAnimal.labelNoun>생체 공학적인 동물의 심장</BionicHeartAnimal.labelNoun>
+  <BionicHeartAnimal.description>설치된 생체공학 동물 심장.</BionicHeartAnimal.description>
+  <BionicStomachAnimal.label>생체공학 동물 위</BionicStomachAnimal.label>
+  <BionicStomachAnimal.labelNoun>생체공학 동물 위</BionicStomachAnimal.labelNoun>
+  <BionicStomachAnimal.description>설치된 생체공학 동물 위.</BionicStomachAnimal.description>
+  <BionicEarAnimal.label>생체공학 동물 귀</BionicEarAnimal.label>
+  <BionicEarAnimal.labelNoun>생체공학 동물 귀</BionicEarAnimal.labelNoun>
+  <BionicEarAnimal.description>설치된 생체공학 동물 귀.</BionicEarAnimal.description>
+  <BionicTongueAnimal.label>생체공학 동물 혀</BionicTongueAnimal.label>
+  <BionicTongueAnimal.labelNoun>생체 공학적인 동물의 혀</BionicTongueAnimal.labelNoun>
+  <BionicTongueAnimal.description>설치된 생체공학 동물 혀.</BionicTongueAnimal.description>
+  <BionicJawAnimal.label>생체공학 동물 턱 이식물</BionicJawAnimal.label>
+  <BionicJawAnimal.labelNoun>생체 공학적인 동물의 턱</BionicJawAnimal.labelNoun>
+  <BionicJawAnimal.description>설치된 생체공학 동물 턱.</BionicJawAnimal.description>
+  <WoodenPawAnimal.label>나무 발</WoodenPawAnimal.label>
+  <WoodenPawAnimal.labelNoun>목재 동물의 발</WoodenPawAnimal.labelNoun>
+  <WoodenPawAnimal.description>설치된 목재 동물의 발입니다.</WoodenPawAnimal.description>
+  <WoodenHoofAnimal.label>목재 발굽</WoodenHoofAnimal.label>
+  <WoodenHoofAnimal.labelNoun>목재 동물의 발굽</WoodenHoofAnimal.labelNoun>
+  <WoodenHoofAnimal.description>설치된 목재 동물의 발굽입니다.</WoodenHoofAnimal.description>
+  <SimpleProstheticTailAnimal.label>인공 동물의 꼬리</SimpleProstheticTailAnimal.label>
+  <SimpleProstheticTailAnimal.labelNoun>인공 동물의 꼬리</SimpleProstheticTailAnimal.labelNoun>
+  <SimpleProstheticTailAnimal.description>설치된 인공 동물의 꼬리. 신경 인터페이스는 없지만 내부 관절의 복잡한 배열을 통해 자연스러운 움직임을 상당히 설득력 있게 모방할 수 있습니다. 그럼에도 불구하고 실제 동물의 꼬리보다는 열등합니다.</SimpleProstheticTailAnimal.description>
+  <SimpleProstheticLegAnimal.label>인공 동물의 다리</SimpleProstheticLegAnimal.label>
+  <SimpleProstheticLegAnimal.labelNoun>인공 동물의 다리</SimpleProstheticLegAnimal.labelNoun>
+  <SimpleProstheticLegAnimal.description>설치된 인공 동물의 다리. 신경 인터페이스는 없지만 내부 관절의 복잡한 배열을 통해 자연스러운 움직임을 상당히 설득력 있게 모방할 수 있습니다. 그럼에도 불구하고 실제 동물의 다리보다는 열등합니다.</SimpleProstheticLegAnimal.description>
+  <SimpleProstheticLegAnimal.comps.0.tools.0.label>동물 의족</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+  <SimpleProstheticArmAnimal.label>동물 팔 보철물</SimpleProstheticArmAnimal.label>
+  <SimpleProstheticArmAnimal.labelNoun>인공 동물의 팔</SimpleProstheticArmAnimal.labelNoun>
+  <SimpleProstheticArmAnimal.description>설치된 인공 동물의 팔. 신경 인터페이스는 없지만 내부 관절의 복잡한 배열을 통해 자연스러운 움직임을 상당히 설득력 있게 모방할 수 있습니다. 그럼에도 불구하고 실제 동물의 팔보다는 열등합니다.</SimpleProstheticArmAnimal.description>
+  <SimpleProstheticArmAnimal.comps.0.tools.0.label>주먹</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+  <SimpleProstheticHeartAnimal.label>인공 동물의 심장</SimpleProstheticHeartAnimal.label>
+  <SimpleProstheticHeartAnimal.labelNoun>인공 동물의 심장</SimpleProstheticHeartAnimal.labelNoun>
+  <SimpleProstheticHeartAnimal.description>설치된 인공 동물의 심장입니다.</SimpleProstheticHeartAnimal.description>
+  <CochlearImplantAnimal.label>동물의 인공 달팽이관 이식물</CochlearImplantAnimal.label>
+  <CochlearImplantAnimal.labelNoun>동물의 인공 달팽이관 이식물입니다</CochlearImplantAnimal.labelNoun>
+  <CochlearImplantAnimal.description>동물용 코클리어 이식물을 착용합니다. 외부 마이크로폰이 소리 신호를 내이의 청각 감지 신경 주위로 감싸인 전극에 전송합니다. 전극은 소리에 따라 신경을 자극하여 청각의 감각을 만들어냅니다. 자연 귀만큼 좋지는 않지만 청각 상실보다는 훨씬 낫습니다. 모든 동물에게 적합합니다.</CochlearImplantAnimal.description>
+  <SyntheticLungAnimal.label>합성 동물 폐</SyntheticLungAnimal.label>
+  <SyntheticLungAnimal.labelNoun>합성 동물 폐</SyntheticLungAnimal.labelNoun>
+  <SyntheticLungAnimal.description>착용된 합성 동물 폐.</SyntheticLungAnimal.description>
+  <SyntheticLiverAnimal.label>합성 동물 간</SyntheticLiverAnimal.label>
+  <SyntheticLiverAnimal.labelNoun>인조 동물의 간</SyntheticLiverAnimal.labelNoun>
+  <SyntheticLiverAnimal.description>이식된 인조 동물의 간.</SyntheticLiverAnimal.description>
+  <SyntheticKidneyAnimal.label>인조 동물의 신장</SyntheticKidneyAnimal.label>
+  <SyntheticKidneyAnimal.labelNoun>인조 동물의 신장</SyntheticKidneyAnimal.labelNoun>
+  <SyntheticKidneyAnimal.description>이식된 인조 동물의 신장.</SyntheticKidneyAnimal.description>
+  <LightReceptorAnimal.label>동물 광수용체</LightReceptorAnimal.label>
+  <LightReceptorAnimal.labelNoun>동물의 광수용체</LightReceptorAnimal.labelNoun>
+  <LightReceptorAnimal.description>이식된 동물 광수용체.</LightReceptorAnimal.description>
+  <SimpleSpineAnimal.label>대체 동물 척추</SimpleSpineAnimal.label>
+  <SimpleSpineAnimal.labelNoun>대체 동물 척추</SimpleSpineAnimal.labelNoun>
+  <SimpleSpineAnimal.description>이식된 기본 대체 동물 척추. 그 당시로서는 매우 진보적이었고, 의족에서 신경 인터페이스를 최초로 복잡하게 적용한 초기 바이오닉 원형으로 간주될 수 있습니다. 그럼에도 불구하고, 진짜 척추에는 미치지 못합니다.</SimpleSpineAnimal.description>
+  <HydraulicJawAnimal.label>유압식 동물 턱</HydraulicJawAnimal.label>
+  <HydraulicJawAnimal.labelNoun>유압식 동물 턱</HydraulicJawAnimal.labelNoun>
+  <HydraulicJawAnimal.description>이식된 유압식 동물 턱. 신경 인터페이스는 없지만 내부 관절의 복잡한 배열이 자연스러운 움직임을 상당히 설득력 있게 모방합니다. 음식은 더 효과적으로 으스러지고 씹힙니다.</HydraulicJawAnimal.description>
+  <HydraulicJawAnimal.comps.0.tools.0.label>이빨</HydraulicJawAnimal.comps.0.tools.0.label>
+  <ArtificialNoseAnimal.label>인조 동물 코</ArtificialNoseAnimal.label>
+  <ArtificialNoseAnimal.labelNoun>인조 동물 코</ArtificialNoseAnimal.labelNoun>
+  <ArtificialNoseAnimal.description>이식된 인조 동물 코. 사라진 코가 있던 얼굴 부위를 덮는 데 사용됩니다.</ArtificialNoseAnimal.description>
+  <SurrogateLungAnimal.label>대리 동물 폐</SurrogateLungAnimal.label>
+  <SurrogateLungAnimal.labelNoun>대리 동물 폐</SurrogateLungAnimal.labelNoun>
+  <SurrogateLungAnimal.description>이식된 대리 동물 폐.</SurrogateLungAnimal.description>
+  <SurrogateStomachAnimal.label>대리 동물 위</SurrogateStomachAnimal.label>
+  <SurrogateStomachAnimal.labelNoun>대리 동물 위</SurrogateStomachAnimal.labelNoun>
+  <SurrogateStomachAnimal.description>이식된 대리 동물 위.</SurrogateStomachAnimal.description>
+  <SurrogateLiverAnimal.label>대리 동물 간</SurrogateLiverAnimal.label>
+  <SurrogateLiverAnimal.labelNoun>대리 동물의 간</SurrogateLiverAnimal.labelNoun>
+  <SurrogateLiverAnimal.description>이식된 대리 동물 간.</SurrogateLiverAnimal.description>
+  <SurrogateKidneyAnimal.label>대용 신장</SurrogateKidneyAnimal.label>
+  <SurrogateKidneyAnimal.labelNoun>대용 신장</SurrogateKidneyAnimal.labelNoun>
+  <SurrogateKidneyAnimal.description>설치된 대용 신장.</SurrogateKidneyAnimal.description>
+  <BrainStimulatorAnimal.label>두뇌 자극기</BrainStimulatorAnimal.label>
+  <BrainStimulatorAnimal.labelNoun>동물의 두뇌 자극기</BrainStimulatorAnimal.labelNoun>
+  <BrainStimulatorAnimal.description>설치된 동물의 두뇌 자극기.</BrainStimulatorAnimal.description>
+  <BionicHeartAnimal.label.label>합성 동물 심장</BionicHeartAnimal.label.label>
+  <BionicHeartAnimal.labelNoun.labelNoun>합성 동물 심장</BionicHeartAnimal.labelNoun.labelNoun>
+  <BionicHeartAnimal.description.description>설치된 합성 동물 심장입니다.</BionicHeartAnimal.description.description>
+  <BionicStomachAnimal.label.label>합성 동물 위</BionicStomachAnimal.label.label>
+  <BionicStomachAnimal.labelNoun.labelNoun>합성 동물 위</BionicStomachAnimal.labelNoun.labelNoun>
+  <BionicStomachAnimal.description.description>설치된 합성 동물 위입니다.</BionicStomachAnimal.description.description>
+  <SimpleProstheticHeartAnimal.label.label>대체 동물 심장</SimpleProstheticHeartAnimal.label.label>
+  <SimpleProstheticHeartAnimal.labelNoun.labelNoun>대체 동물 심장</SimpleProstheticHeartAnimal.labelNoun.labelNoun>
+  <SimpleProstheticHeartAnimal.description.description>설치된 대체 동물 심장입니다.</SimpleProstheticHeartAnimal.description.description>
+  <BionicPawAnimal.label>생체공학 동물 발</BionicPawAnimal.label>
+  <BionicPawAnimal.labelNoun>생체공학 동물 발가락</BionicPawAnimal.labelNoun>
+  <BionicPawAnimal.description>설치된 생체공학 동물 발가락입니다.</BionicPawAnimal.description>
+  <BionicPawAnimal.comps.0.tools.0.label>생체공학 동물 발</BionicPawAnimal.comps.0.tools.0.label>
+  <BionicHoofAnimal.label>생체공학 동물 발굽</BionicHoofAnimal.label>
+  <BionicHoofAnimal.labelNoun>생체공학 동물 굽</BionicHoofAnimal.labelNoun>
+  <BionicHoofAnimal.description>설치된 생체공학 동물 굽입니다.</BionicHoofAnimal.description>
+  <BionicHoofAnimal.comps.0.tools.0.label>생체공학 동물 발굽</BionicHoofAnimal.comps.0.tools.0.label>
+  <BionicFootAnimal.label>생체공학 동물 발</BionicFootAnimal.label>
+  <BionicFootAnimal.labelNoun>생체공학 동물 발</BionicFootAnimal.labelNoun>
+  <BionicFootAnimal.description>설치된 생체공학 동물 발입니다.</BionicFootAnimal.description>
+  <BionicToeAnimal.label>생체공학 동물 발가락</BionicToeAnimal.label>
+  <BionicToeAnimal.labelNoun>생체공학 동물 발가락</BionicToeAnimal.labelNoun>
+  <BionicToeAnimal.description>설치된 생체공학 동물 발가락입니다.</BionicToeAnimal.description>
+  <BionicHandAnimal.label>생체공학 동물 손</BionicHandAnimal.label>
+  <BionicHandAnimal.labelNoun>생체공학 동물 손</BionicHandAnimal.labelNoun>
+  <BionicHandAnimal.description>설치된 생체공학 동물 손입니다.</BionicHandAnimal.description>
+  <BionicHandAnimal.comps.0.tools.0.label>생체 공학적인 동물의 주먹</BionicHandAnimal.comps.0.tools.0.label>
+  <BionicFingerAnimal.label>생체공학 동물 손가락</BionicFingerAnimal.label>
+  <BionicFingerAnimal.labelNoun>생체공학 동물 손가락</BionicFingerAnimal.labelNoun>
+  <BionicFingerAnimal.description>설치된 생체공학 동물 손가락입니다.</BionicFingerAnimal.description>
+  <BionicClawAnimal.label>생체공학 동물 발톱</BionicClawAnimal.label>
+  <BionicClawAnimal.labelNoun>생체공학 동물 발톱</BionicClawAnimal.labelNoun>
+  <BionicClawAnimal.description>이식된 생체공학 동물 발톱.</BionicClawAnimal.description>
+  <SimpleProstheticHandAnimal.label>보철 동물 손</SimpleProstheticHandAnimal.label>
+  <SimpleProstheticHandAnimal.labelNoun>보철 동물 손</SimpleProstheticHandAnimal.labelNoun>
+  <SimpleProstheticHandAnimal.description>이식된 보철 동물 손입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물의 손보다는 못합니다.</SimpleProstheticHandAnimal.description>
+  <SimpleProstheticHandAnimal.comps.0.tools.0.label>주먹</SimpleProstheticHandAnimal.comps.0.tools.0.label>
+  <SimpleProstheticFingerAnimal.label>보철 동물 손가락</SimpleProstheticFingerAnimal.label>
+  <SimpleProstheticFingerAnimal.labelNoun>보철 동물 손가락</SimpleProstheticFingerAnimal.labelNoun>
+  <SimpleProstheticFingerAnimal.description>이식된 보철 동물 손가락입니다. 효율이 매우 뛰어나거나 편안한 것은 아니지만 기능을 충족시킵니다.</SimpleProstheticFingerAnimal.description>
+  <SimpleProstheticFootAnimal.label>보철 동물 발</SimpleProstheticFootAnimal.label>
+  <SimpleProstheticFootAnimal.labelNoun>보철 동물 발</SimpleProstheticFootAnimal.labelNoun>
+  <SimpleProstheticFootAnimal.description>이식된 보철 동물 발입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물의 발보다는 못합니다.</SimpleProstheticFootAnimal.description>
+  <SimpleProstheticToeAnimal.label>보철 동물 발가락</SimpleProstheticToeAnimal.label>
+  <SimpleProstheticToeAnimal.labelNoun>보철 동물 발가락</SimpleProstheticToeAnimal.labelNoun>
+  <SimpleProstheticToeAnimal.description>이식된 보철 동물 발가락입니다. 효율성이 낮고 불편하며 걸을 때 많은 소음을 발생시키지만 기능을 충족시킵니다.</SimpleProstheticToeAnimal.description>
+  <SimpleProstheticPawAnimal.label>보철 동물 발바닥</SimpleProstheticPawAnimal.label>
+  <SimpleProstheticPawAnimal.labelNoun>보철 동물 발바닥</SimpleProstheticPawAnimal.labelNoun>
+  <SimpleProstheticPawAnimal.description>이식된 보철 동물 발바닥입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물의 발바닥보다는 못합니다.</SimpleProstheticPawAnimal.description>
+  <SimpleProstheticPawAnimal.comps.0.tools.0.label>간단한 보철 동물 발굽</SimpleProstheticPawAnimal.comps.0.tools.0.label>
+  <SimpleProstheticHoofAnimal.label>보철 동물 굽</SimpleProstheticHoofAnimal.label>
+  <SimpleProstheticHoofAnimal.labelNoun>보철 동물 굽</SimpleProstheticHoofAnimal.labelNoun>
+  <SimpleProstheticHoofAnimal.description>이식된 보철 동물 굽입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물의 굽보다는 못합니다.</SimpleProstheticHoofAnimal.description>
+  <SimpleProstheticHoofAnimal.comps.0.tools.0.label>보철 동물 발굽</SimpleProstheticHoofAnimal.comps.0.tools.0.label>
+  <SimpleProstheticClawAnimal.label>보철 동물 발톱</SimpleProstheticClawAnimal.label>
+  <SimpleProstheticClawAnimal.labelNoun>보철 동물 발톱</SimpleProstheticClawAnimal.labelNoun>
+  <SimpleProstheticClawAnimal.description>이식된 보철 동물 발톱입니다. 신경 연결 요소가 부족하지만, 내부 관절의 정밀한 배열 덕분에 자연스러운 움직임이 가능합니다. 그렇지만 실제 동물의 발톱보다는 못합니다.</SimpleProstheticClawAnimal.description>
+  <BionicForearmAnimal.label>생체공학 동물 팔뚝</BionicForearmAnimal.label>
+  <BionicForearmAnimal.labelNoun>생체공학 동물 팔뚝</BionicForearmAnimal.labelNoun>
+  <BionicForearmAnimal.description>설치된 고급 인공 동물 팔뚝. 소음이 없는 미니 서보가 힘을 제공하며, 바이오젤 신경 연결은 정교한 컨트롤을 가능하게 합니다. 격자형 치유 시스템은 손상에서 회복할 수 있도록 도와줍니다. 거의 모든 면에서 생물학적 팔뚝보다 낫습니다.</BionicForearmAnimal.description>
+  <BionicInternalSupportAnimal.label>생체공학 동물 내부 지지대</BionicInternalSupportAnimal.label>
+  <BionicInternalSupportAnimal.labelNoun>생체공학 동물 내부 지지대</BionicInternalSupportAnimal.labelNoun>
+  <BionicInternalSupportAnimal.description>설치된 생체공학 동물 내부 지지대.</BionicInternalSupportAnimal.description>
+  <Bionic_RG_FootClaw.label>생체공학 동물 발톱</Bionic_RG_FootClaw.label>
+  <Bionic_RG_FootClaw.labelNoun>생체공학 동물 발톱</Bionic_RG_FootClaw.labelNoun>
+  <Bionic_RG_FootClaw.description>설치된 생체공학 동물 발톱.</Bionic_RG_FootClaw.description>
+  <Bionic_RG_FootClaw.comps.0.tools.0.label>바이오닉 발톱</Bionic_RG_FootClaw.comps.0.tools.0.label>
+  <SimpleProstheticForearmAnimal.label>인공 동물 전완</SimpleProstheticForearmAnimal.label>
+  <SimpleProstheticForearmAnimal.labelNoun>인공 동물 전완</SimpleProstheticForearmAnimal.labelNoun>
+  <SimpleProstheticForearmAnimal.description>설치된 인공 동물 전완. 신경 인터페이스가 없지만 내부 관절의 복잡한 배열로 인해 자연스러운 움직임을 설득력 있게 모방할 수 있습니다. 그럼에도 불구하고, 실제 동물의 전완보다는 열등합니다.</SimpleProstheticForearmAnimal.description>
+  <SimpleProsthetic_RG_FootClaw.label>인공 동물 발톱</SimpleProsthetic_RG_FootClaw.label>
+  <SimpleProsthetic_RG_FootClaw.labelNoun>인공 동물 발톱</SimpleProsthetic_RG_FootClaw.labelNoun>
+  <SimpleProsthetic_RG_FootClaw.description>설치된 인공 동물 발톱.</SimpleProsthetic_RG_FootClaw.description>
+  <SimpleProsthetic_RG_FootClaw.comps.0.tools.0.label>인공 발톱</SimpleProsthetic_RG_FootClaw.comps.0.tools.0.label>
+  <WoodenWingAnimal.label>목재 동물 날개</WoodenWingAnimal.label>
+  <WoodenWingAnimal.labelNoun>목재 동물 날개</WoodenWingAnimal.labelNoun>
+  <WoodenWingAnimal.description>설치된 목재 동물 날개. 다시 날 수 있게 해주지만, 그리 잘 날지는 못합니다.</WoodenWingAnimal.description>
+  <SimpleProstheticWingAnimal.label>인공 동물 날개</SimpleProstheticWingAnimal.label>
+  <SimpleProstheticWingAnimal.labelNoun>인공 동물 날개</SimpleProstheticWingAnimal.labelNoun>
+  <SimpleProstheticWingAnimal.description>설치된 인공 동물 날개. 신경 인터페이스가 없지만, 내부 관절과 인공 막의 복잡한 배열로 인해 자연스러운 움직임을 설득력 있게 모방할 수 있습니다. 그럼에도 불구하고, 실제 동물의 날개보다는 열등합니다.</SimpleProstheticWingAnimal.description>
+  <BionicWingAnimal.label>바이오닉 동물 날개</BionicWingAnimal.label>
+  <BionicWingAnimal.labelNoun>바이오닉 동물 날개</BionicWingAnimal.labelNoun>
+  <BionicWingAnimal.description>설치된 바이오닉 동물 날개. 바이오겔 신경기, 가벼운 합성 막, 미세 격자 치유 시스템 등 모든 면에서 생물학적 날개보다 월등합니다. 모든 동물에 맞습니다.</BionicWingAnimal.description>
+</LanguageData>
