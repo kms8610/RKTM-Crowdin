@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SimpleAnimalProsthetics.label>동물 보형물</SimpleAnimalProsthetics.label>
+  <SimpleAnimalProsthetics.description>인간의 보형물 디자인을 동물용으로 적용합니다. 동물 보형물은 인간의 보형물보다 제작비가 저렴하지만, 성능은 조금 떨어집니다.</SimpleAnimalProsthetics.description>
+  <AnimalBionics.label>생체공학 동물</AnimalBionics.label>
+  <AnimalBionics.description>인간의 바이오닉 디자인을 동물용으로 적용합니다. 동물 바이오닉은 인간의 바이오닉보다 제작비가 저렴하지만, 성능은 조금 떨어집니다.</AnimalBionics.description>
+</LanguageData>
