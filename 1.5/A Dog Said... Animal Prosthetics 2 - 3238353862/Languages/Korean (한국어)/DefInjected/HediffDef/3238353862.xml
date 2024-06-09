@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BionicTailAnimal.label>bionic animal tail</BionicTailAnimal.label>
+  <BionicTailAnimal.labelNoun>a bionic animal tail</BionicTailAnimal.labelNoun>
+  <BionicTailAnimal.description>An installed advanced artificial animal tail. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological tail in almost every way.</BionicTailAnimal.description>
+  <BionicTailAnimal.comps.0.tools.0.label>bionic animal tail</BionicTailAnimal.comps.0.tools.0.label>
+  <BionicEyeAnimal.label>bionic animal eye</BionicEyeAnimal.label>
+  <BionicEyeAnimal.labelNoun>a bionic animal eye</BionicEyeAnimal.labelNoun>
+  <BionicEyeAnimal.description>An installed bionic animal eye.</BionicEyeAnimal.description>
+  <BionicArmAnimal.label>bionic animal arm</BionicArmAnimal.label>
+  <BionicArmAnimal.labelNoun>a bionic animal arm</BionicArmAnimal.labelNoun>
+  <BionicArmAnimal.description>An installed advanced artificial animal arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way.</BionicArmAnimal.description>
+  <BionicArmAnimal.comps.0.tools.0.label>bionic animal fist</BionicArmAnimal.comps.0.tools.0.label>
+  <BionicLegAnimal.label>bionic animal leg</BionicLegAnimal.label>
+  <BionicLegAnimal.labelNoun>a bionic animal leg</BionicLegAnimal.labelNoun>
+  <BionicLegAnimal.description>An installed bionic animal leg.</BionicLegAnimal.description>
+  <BionicLegAnimal.comps.0.tools.0.label>bionic animal leg</BionicLegAnimal.comps.0.tools.0.label>
+  <BionicSpineAnimal.label>bionic animal spine</BionicSpineAnimal.label>
+  <BionicSpineAnimal.labelNoun>a bionic animal spine</BionicSpineAnimal.labelNoun>
+  <BionicSpineAnimal.description>An installed bionic animal spine.</BionicSpineAnimal.description>
+  <BionicHeartAnimal.label>bionic animal heart</BionicHeartAnimal.label>
+  <BionicHeartAnimal.labelNoun>a bionic animal heart</BionicHeartAnimal.labelNoun>
+  <BionicHeartAnimal.description>An installed bionic animal heart.</BionicHeartAnimal.description>
+  <BionicStomachAnimal.label>bionic animal stomach</BionicStomachAnimal.label>
+  <BionicStomachAnimal.labelNoun>a bionic animal stomach</BionicStomachAnimal.labelNoun>
+  <BionicStomachAnimal.description>An installed bionic animal stomach.</BionicStomachAnimal.description>
+  <BionicEarAnimal.label>bionic animal ear</BionicEarAnimal.label>
+  <BionicEarAnimal.labelNoun>a bionic animal ear</BionicEarAnimal.labelNoun>
+  <BionicEarAnimal.description>An installed bionic animal ear.</BionicEarAnimal.description>
+  <BionicTongueAnimal.label>bionic animal tongue</BionicTongueAnimal.label>
+  <BionicTongueAnimal.labelNoun>a bionic animal tongue</BionicTongueAnimal.labelNoun>
+  <BionicTongueAnimal.description>An installed bionic animal tongue.</BionicTongueAnimal.description>
+  <BionicJawAnimal.label>bionic animal jaw</BionicJawAnimal.label>
+  <BionicJawAnimal.labelNoun>a bionic animal jaw</BionicJawAnimal.labelNoun>
+  <BionicJawAnimal.description>An installed bionic animal jaw.</BionicJawAnimal.description>
+  <WoodenPawAnimal.label>wooden paw</WoodenPawAnimal.label>
+  <WoodenPawAnimal.labelNoun>a wooden animal paw</WoodenPawAnimal.labelNoun>
+  <WoodenPawAnimal.description>An installed wooden animal paw.</WoodenPawAnimal.description>
+  <WoodenHoofAnimal.label>wooden hoof</WoodenHoofAnimal.label>
+  <WoodenHoofAnimal.labelNoun>a wooden animal hoof</WoodenHoofAnimal.labelNoun>
+  <WoodenHoofAnimal.description>An installed wooden animal hoof.</WoodenHoofAnimal.description>
+  <SimpleProstheticTailAnimal.label>prosthetic animal tail</SimpleProstheticTailAnimal.label>
+  <SimpleProstheticTailAnimal.labelNoun>a prosthetic animal tail</SimpleProstheticTailAnimal.labelNoun>
+  <SimpleProstheticTailAnimal.description>An installed prosthetic animal tail. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's tail.</SimpleProstheticTailAnimal.description>
+  <SimpleProstheticLegAnimal.label>prosthetic animal leg</SimpleProstheticLegAnimal.label>
+  <SimpleProstheticLegAnimal.labelNoun>a prosthetic animal leg</SimpleProstheticLegAnimal.labelNoun>
+  <SimpleProstheticLegAnimal.description>An installed prosthetic animal leg. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's leg.</SimpleProstheticLegAnimal.description>
+  <SimpleProstheticLegAnimal.comps.0.tools.0.label>prothetic animal leg</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+  <SimpleProstheticArmAnimal.label>prosthetic animal arm</SimpleProstheticArmAnimal.label>
+  <SimpleProstheticArmAnimal.labelNoun>a prosthetic animal arm</SimpleProstheticArmAnimal.labelNoun>
+  <SimpleProstheticArmAnimal.description>An installed prosthetic animal arm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's arm.</SimpleProstheticArmAnimal.description>
+  <SimpleProstheticArmAnimal.comps.0.tools.0.label>fist</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+  <SimpleProstheticHeartAnimal.label>prosthetic animal heart</SimpleProstheticHeartAnimal.label>
+  <SimpleProstheticHeartAnimal.labelNoun>a prosthetic animal heart</SimpleProstheticHeartAnimal.labelNoun>
+  <SimpleProstheticHeartAnimal.description>An installed prosthetic animal heart.</SimpleProstheticHeartAnimal.description>
+  <CochlearImplantAnimal.label>animal cochlear implant</CochlearImplantAnimal.label>
+  <CochlearImplantAnimal.labelNoun>an animal cochlear implant</CochlearImplantAnimal.labelNoun>
+  <CochlearImplantAnimal.description>An installed animal cochlear implant. An external microphone transmits a sound signal to electrodes wrapped around the inner ear's auditory sensing nerves. The electrodes stimulate the nerves according to the sound, creating a sensation of hearing. It's not as good as a natural ear, but it's a lot better than being deaf. Fits all animals.</CochlearImplantAnimal.description>
+  <SyntheticLungAnimal.label>synthetic animal lung</SyntheticLungAnimal.label>
+  <SyntheticLungAnimal.labelNoun>a synthetic animal lung</SyntheticLungAnimal.labelNoun>
+  <SyntheticLungAnimal.description>An installed synthetic animal lung.</SyntheticLungAnimal.description>
+  <SyntheticLiverAnimal.label>synthetic animal liver</SyntheticLiverAnimal.label>
+  <SyntheticLiverAnimal.labelNoun>a synthetic animal liver</SyntheticLiverAnimal.labelNoun>
+  <SyntheticLiverAnimal.description>An installed synthetic animal liver.</SyntheticLiverAnimal.description>
+  <SyntheticKidneyAnimal.label>synthetic animal kidney</SyntheticKidneyAnimal.label>
+  <SyntheticKidneyAnimal.labelNoun>a synthetic animal kidney</SyntheticKidneyAnimal.labelNoun>
+  <SyntheticKidneyAnimal.description>An installed synthetic animal kidney.</SyntheticKidneyAnimal.description>
+  <LightReceptorAnimal.label>animal light receptor</LightReceptorAnimal.label>
+  <LightReceptorAnimal.labelNoun>an animal light receptor</LightReceptorAnimal.labelNoun>
+  <LightReceptorAnimal.description>An installed animal light receptor.</LightReceptorAnimal.description>
+  <SimpleSpineAnimal.label>replacement animal spine</SimpleSpineAnimal.label>
+  <SimpleSpineAnimal.labelNoun>a replacement animal spine</SimpleSpineAnimal.labelNoun>
+  <SimpleSpineAnimal.description>An installed simple replacement animal spine. Highly advanced for its time, can be considered as an early bionic prototype with the first sophisticated application of neural interface in a prosthesis. Still, it is inferior to a real spine.</SimpleSpineAnimal.description>
+  <HydraulicJawAnimal.label>hydraulic animal jaw</HydraulicJawAnimal.label>
+  <HydraulicJawAnimal.labelNoun>a hydraulic animal jaw</HydraulicJawAnimal.labelNoun>
+  <HydraulicJawAnimal.description>An installed hydraulic animal jaw. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Food is crushed and chewed more efficiently.</HydraulicJawAnimal.description>
+  <HydraulicJawAnimal.comps.0.tools.0.label>teeth</HydraulicJawAnimal.comps.0.tools.0.label>
+  <ArtificialNoseAnimal.label>artificial animal nose</ArtificialNoseAnimal.label>
+  <ArtificialNoseAnimal.labelNoun>a artificial animal nose</ArtificialNoseAnimal.labelNoun>
+  <ArtificialNoseAnimal.description>An installed artificial animal nose. Used to cover where the missing nose was on the face.</ArtificialNoseAnimal.description>
+  <SurrogateLungAnimal.label>surrogate animal lung</SurrogateLungAnimal.label>
+  <SurrogateLungAnimal.labelNoun>a surrogate animal lung</SurrogateLungAnimal.labelNoun>
+  <SurrogateLungAnimal.description>An installed surrogate animal lung.</SurrogateLungAnimal.description>
+  <SurrogateStomachAnimal.label>surrogate animal stomach</SurrogateStomachAnimal.label>
+  <SurrogateStomachAnimal.labelNoun>a surrogate animal stomach</SurrogateStomachAnimal.labelNoun>
+  <SurrogateStomachAnimal.description>An installed surrogate animal stomach.</SurrogateStomachAnimal.description>
+  <SurrogateLiverAnimal.label>surrogate animal liver</SurrogateLiverAnimal.label>
+  <SurrogateLiverAnimal.labelNoun>a surrogate animal liver</SurrogateLiverAnimal.labelNoun>
+  <SurrogateLiverAnimal.description>An installed surrogate animal liver.</SurrogateLiverAnimal.description>
+  <SurrogateKidneyAnimal.label>surrogate animal kidney</SurrogateKidneyAnimal.label>
+  <SurrogateKidneyAnimal.labelNoun>a surrogate animal kidney</SurrogateKidneyAnimal.labelNoun>
+  <SurrogateKidneyAnimal.description>An installed surrogate animal kidney.</SurrogateKidneyAnimal.description>
+  <BrainStimulatorAnimal.label>animal brain stimulator</BrainStimulatorAnimal.label>
+  <BrainStimulatorAnimal.labelNoun>a animal brain stimulator</BrainStimulatorAnimal.labelNoun>
+  <BrainStimulatorAnimal.description>An installed animal brain stimulator.</BrainStimulatorAnimal.description>
+  <BionicHeartAnimal.label.label>synthetic animal heart</BionicHeartAnimal.label.label>
+  <BionicHeartAnimal.labelNoun.labelNoun>a synthetic animal heart</BionicHeartAnimal.labelNoun.labelNoun>
+  <BionicHeartAnimal.description.description>An installed synthetic animal heart.</BionicHeartAnimal.description.description>
+  <BionicStomachAnimal.label.label>synthetic animal stomach</BionicStomachAnimal.label.label>
+  <BionicStomachAnimal.labelNoun.labelNoun>a synthetic animal stomach</BionicStomachAnimal.labelNoun.labelNoun>
+  <BionicStomachAnimal.description.description>An installed synthetic animal stomach.</BionicStomachAnimal.description.description>
+  <SimpleProstheticHeartAnimal.label.label>surrogate animal heart</SimpleProstheticHeartAnimal.label.label>
+  <SimpleProstheticHeartAnimal.labelNoun.labelNoun>a surrogate animal heart</SimpleProstheticHeartAnimal.labelNoun.labelNoun>
+  <SimpleProstheticHeartAnimal.description.description>An installed surrogate animal heart.</SimpleProstheticHeartAnimal.description.description>
+  <BionicPawAnimal.label>bionic animal paw</BionicPawAnimal.label>
+  <BionicPawAnimal.labelNoun>a bionic animal paw</BionicPawAnimal.labelNoun>
+  <BionicPawAnimal.description>An installed bionic animal paw.</BionicPawAnimal.description>
+  <BionicPawAnimal.comps.0.tools.0.label>bionic animal paw</BionicPawAnimal.comps.0.tools.0.label>
+  <BionicHoofAnimal.label>bionic animal hoof</BionicHoofAnimal.label>
+  <BionicHoofAnimal.labelNoun>a bionic animal hoof</BionicHoofAnimal.labelNoun>
+  <BionicHoofAnimal.description>An installed bionic animal hoof.</BionicHoofAnimal.description>
+  <BionicHoofAnimal.comps.0.tools.0.label>bionic animal hoof</BionicHoofAnimal.comps.0.tools.0.label>
+  <BionicFootAnimal.label>bionic animal foot</BionicFootAnimal.label>
+  <BionicFootAnimal.labelNoun>a bionic animal foot</BionicFootAnimal.labelNoun>
+  <BionicFootAnimal.description>An installed bionic animal foot.</BionicFootAnimal.description>
+  <BionicToeAnimal.label>bionic animal toe</BionicToeAnimal.label>
+  <BionicToeAnimal.labelNoun>a bionic animal toe</BionicToeAnimal.labelNoun>
+  <BionicToeAnimal.description>An installed bionic animal toe.</BionicToeAnimal.description>
+  <BionicHandAnimal.label>bionic animal hand</BionicHandAnimal.label>
+  <BionicHandAnimal.labelNoun>a bionic animal hand</BionicHandAnimal.labelNoun>
+  <BionicHandAnimal.description>An installed bionic animal hand.</BionicHandAnimal.description>
+  <BionicHandAnimal.comps.0.tools.0.label>bionic animal fist</BionicHandAnimal.comps.0.tools.0.label>
+  <BionicFingerAnimal.label>bionic animal finger</BionicFingerAnimal.label>
+  <BionicFingerAnimal.labelNoun>a bionic animal finger</BionicFingerAnimal.labelNoun>
+  <BionicFingerAnimal.description>An installed bionic animal finger.</BionicFingerAnimal.description>
+  <BionicClawAnimal.label>bionic animal claw</BionicClawAnimal.label>
+  <BionicClawAnimal.labelNoun>a bionic animal claw</BionicClawAnimal.labelNoun>
+  <BionicClawAnimal.description>An installed bionic animal claw.</BionicClawAnimal.description>
+  <SimpleProstheticHandAnimal.label>prosthetic animal hand</SimpleProstheticHandAnimal.label>
+  <SimpleProstheticHandAnimal.labelNoun>a prosthetic animal hand</SimpleProstheticHandAnimal.labelNoun>
+  <SimpleProstheticHandAnimal.description>An installed prosthetic animal hand. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's hand.</SimpleProstheticHandAnimal.description>
+  <SimpleProstheticHandAnimal.comps.0.tools.0.label>fist</SimpleProstheticHandAnimal.comps.0.tools.0.label>
+  <SimpleProstheticFingerAnimal.label>prosthetic animal finger</SimpleProstheticFingerAnimal.label>
+  <SimpleProstheticFingerAnimal.labelNoun>a prosthetic animal finger</SimpleProstheticFingerAnimal.labelNoun>
+  <SimpleProstheticFingerAnimal.description>An installed prosthetic animal finger. Not terribly efficient and certainly not comfortable, but gets the job done.</SimpleProstheticFingerAnimal.description>
+  <SimpleProstheticFootAnimal.label>prosthetic animal foot</SimpleProstheticFootAnimal.label>
+  <SimpleProstheticFootAnimal.labelNoun>a prosthetic animal foot</SimpleProstheticFootAnimal.labelNoun>
+  <SimpleProstheticFootAnimal.description>An installed prosthetic animal foot. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's foot.</SimpleProstheticFootAnimal.description>
+  <SimpleProstheticToeAnimal.label>prosthetic animal toe</SimpleProstheticToeAnimal.label>
+  <SimpleProstheticToeAnimal.labelNoun>a prosthetic animal toe</SimpleProstheticToeAnimal.labelNoun>
+  <SimpleProstheticToeAnimal.description>An installed prosthetic animal toe. Inefficient and uncomfortable, they generate a lot of noise while walking, but they get the job done.</SimpleProstheticToeAnimal.description>
+  <SimpleProstheticPawAnimal.label>prosthetic animal paw</SimpleProstheticPawAnimal.label>
+  <SimpleProstheticPawAnimal.labelNoun>a prosthetic animal paw</SimpleProstheticPawAnimal.labelNoun>
+  <SimpleProstheticPawAnimal.description>An installed prosthetic animal paw. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's paw.</SimpleProstheticPawAnimal.description>
+  <SimpleProstheticPawAnimal.comps.0.tools.0.label>prothetic animal paw</SimpleProstheticPawAnimal.comps.0.tools.0.label>
+  <SimpleProstheticHoofAnimal.label>prosthetic animal hoof</SimpleProstheticHoofAnimal.label>
+  <SimpleProstheticHoofAnimal.labelNoun>a prosthetic animal hoof</SimpleProstheticHoofAnimal.labelNoun>
+  <SimpleProstheticHoofAnimal.description>An installed prosthetic animal hoof. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's hoof.</SimpleProstheticHoofAnimal.description>
+  <SimpleProstheticHoofAnimal.comps.0.tools.0.label>prothetic animal hoof</SimpleProstheticHoofAnimal.comps.0.tools.0.label>
+  <SimpleProstheticClawAnimal.label>prosthetic animal claw</SimpleProstheticClawAnimal.label>
+  <SimpleProstheticClawAnimal.labelNoun>a prosthetic animal claw</SimpleProstheticClawAnimal.labelNoun>
+  <SimpleProstheticClawAnimal.description>An installed prosthetic animal claw. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's claw.</SimpleProstheticClawAnimal.description>
+  <BionicForearmAnimal.label>bionic animal forearm</BionicForearmAnimal.label>
+  <BionicForearmAnimal.labelNoun>a bionic animal forearm</BionicForearmAnimal.labelNoun>
+  <BionicForearmAnimal.description>An installed advanced artificial animal forearm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological forearm in almost every way.</BionicForearmAnimal.description>
+  <BionicInternalSupportAnimal.label>bionic animal internal support</BionicInternalSupportAnimal.label>
+  <BionicInternalSupportAnimal.labelNoun>a bionic animal internal support</BionicInternalSupportAnimal.labelNoun>
+  <BionicInternalSupportAnimal.description>An installed bionic animal internal support.</BionicInternalSupportAnimal.description>
+  <Bionic_RG_FootClaw.label>bionic animal foot claw</Bionic_RG_FootClaw.label>
+  <Bionic_RG_FootClaw.labelNoun>a bionic animal foot claw</Bionic_RG_FootClaw.labelNoun>
+  <Bionic_RG_FootClaw.description>An installed bionic animal foot claw.</Bionic_RG_FootClaw.description>
+  <Bionic_RG_FootClaw.comps.0.tools.0.label>bionic foot claw</Bionic_RG_FootClaw.comps.0.tools.0.label>
+  <SimpleProstheticForearmAnimal.label>prosthetic animal forearm</SimpleProstheticForearmAnimal.label>
+  <SimpleProstheticForearmAnimal.labelNoun>a prosthetic animal forearm</SimpleProstheticForearmAnimal.labelNoun>
+  <SimpleProstheticForearmAnimal.description>An installed prosthetic animal forearm. While it lacks a neural interface, its complex arrangement of internal joints allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's forearm.</SimpleProstheticForearmAnimal.description>
+  <SimpleProsthetic_RG_FootClaw.label>prosthetic animal foot claw</SimpleProsthetic_RG_FootClaw.label>
+  <SimpleProsthetic_RG_FootClaw.labelNoun>a prosthetic animal foot claw</SimpleProsthetic_RG_FootClaw.labelNoun>
+  <SimpleProsthetic_RG_FootClaw.description>An installed prosthetic animal foot claw.</SimpleProsthetic_RG_FootClaw.description>
+  <SimpleProsthetic_RG_FootClaw.comps.0.tools.0.label>prosthetic foot claw</SimpleProsthetic_RG_FootClaw.comps.0.tools.0.label>
+  <WoodenWingAnimal.label>wooden animal wing</WoodenWingAnimal.label>
+  <WoodenWingAnimal.labelNoun>a wooden animal wing</WoodenWingAnimal.labelNoun>
+  <WoodenWingAnimal.description>An installed wooden animal wing. Allows the user to fly again, albeit not very well.</WoodenWingAnimal.description>
+  <SimpleProstheticWingAnimal.label>prosthetic animal wing</SimpleProstheticWingAnimal.label>
+  <SimpleProstheticWingAnimal.labelNoun>a prosthetic animal wing</SimpleProstheticWingAnimal.labelNoun>
+  <SimpleProstheticWingAnimal.description>An installed prosthetic animal wing. While it lacks a neural interface, its complex arrangement of internal joints and artifical membrane allows it to mimic natural movement quite convincingly. Still, it is inferior to a real animal's wing.</SimpleProstheticWingAnimal.description>
+  <BionicWingAnimal.label>bionic animal wing</BionicWingAnimal.label>
+  <BionicWingAnimal.labelNoun>a bionic animal wing</BionicWingAnimal.labelNoun>
+  <BionicWingAnimal.description>An installed bionic animal wing. With its biogel nerve-link, lightweight synthetic membrane, and lattice-dust healing system, it is better than a biological wing in almost every way. Fits all animals.</BionicWingAnimal.description>
+</LanguageData>
