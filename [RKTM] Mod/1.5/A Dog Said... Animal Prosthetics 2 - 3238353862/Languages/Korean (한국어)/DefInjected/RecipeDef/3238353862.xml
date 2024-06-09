@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallBionicTailAnimal.label>install bionic animal tail</InstallBionicTailAnimal.label>
+  <InstallBionicTailAnimal.description>Installs a bionic animal tail.</InstallBionicTailAnimal.description>
+  <InstallBionicTailAnimal.jobString>Installing bionic animal tail.</InstallBionicTailAnimal.jobString>
+  <InstallBionicEyeAnimal.label>생체공학 동물 눈 이식</InstallBionicEyeAnimal.label>
+  <InstallBionicEyeAnimal.description>Installs a bionic animal eye.</InstallBionicEyeAnimal.description>
+  <InstallBionicEyeAnimal.jobString>생체공학 동물 눈 이식 중</InstallBionicEyeAnimal.jobString>
+  <InstallBionicArmAnimal.label>install bionic animal arm</InstallBionicArmAnimal.label>
+  <InstallBionicArmAnimal.description>Installs a bionic animal arm.</InstallBionicArmAnimal.description>
+  <InstallBionicArmAnimal.jobString>생체공학 동물 팔 이식 중</InstallBionicArmAnimal.jobString>
+  <InstallBionicLegAnimal.label>생체공학 동물 다리 이식</InstallBionicLegAnimal.label>
+  <InstallBionicLegAnimal.description>Installs bionic leg. Requires a min skill in medicine of 4.</InstallBionicLegAnimal.description>
+  <InstallBionicLegAnimal.jobString>Installing bionic animal leg.</InstallBionicLegAnimal.jobString>
+  <InstallBionicSpineAnimal.label>생체공학 동물 척추 이식</InstallBionicSpineAnimal.label>
+  <InstallBionicSpineAnimal.description>Installs a bionic animal spine.</InstallBionicSpineAnimal.description>
+  <InstallBionicSpineAnimal.jobString>생체공학 동물 척추 이식 중</InstallBionicSpineAnimal.jobString>
+  <InstallBionicHeartAnimal.label>생체공학 동물 심장 이식</InstallBionicHeartAnimal.label>
+  <InstallBionicHeartAnimal.description>Installs a bionic animal heart.</InstallBionicHeartAnimal.description>
+  <InstallBionicHeartAnimal.jobString>생체공학 동물 심장 이식 중</InstallBionicHeartAnimal.jobString>
+  <InstallBionicStomachAnimal.label>생체공학 동물 위 이식</InstallBionicStomachAnimal.label>
+  <InstallBionicStomachAnimal.description>Installs a bionic animal stomach.</InstallBionicStomachAnimal.description>
+  <InstallBionicStomachAnimal.jobString>생체공학 동물 위 이식 중</InstallBionicStomachAnimal.jobString>
+  <InstallBionicEarAnimal.label>install bionic animal ear</InstallBionicEarAnimal.label>
+  <InstallBionicEarAnimal.description>Installs a bionic animal ear.</InstallBionicEarAnimal.description>
+  <InstallBionicEarAnimal.jobString>Installing bionic animal ear.</InstallBionicEarAnimal.jobString>
+  <InstallBionicTongueAnimal.label>install bionic animal tongue</InstallBionicTongueAnimal.label>
+  <InstallBionicTongueAnimal.description>Installs a bionic animal tongue.</InstallBionicTongueAnimal.description>
+  <InstallBionicTongueAnimal.jobString>Installing bionic animal tongue.</InstallBionicTongueAnimal.jobString>
+  <InstallBionicJawAnimal.label>생체공학 동물 턱 이식</InstallBionicJawAnimal.label>
+  <InstallBionicJawAnimal.description>Installs bionic jaw. Requires a min skill in medicine of 4.</InstallBionicJawAnimal.description>
+  <InstallBionicJawAnimal.jobString>생체공학 동물 턱 이식 중</InstallBionicJawAnimal.jobString>
+  <InstallDentureAnimal.label>install animal denture</InstallDentureAnimal.label>
+  <InstallDentureAnimal.description>Installs animal denture.</InstallDentureAnimal.description>
+  <InstallDentureAnimal.jobString>Installing an animal denture.</InstallDentureAnimal.jobString>
+  <InstallPegLegAnimal.label>동물 목발 이식</InstallPegLegAnimal.label>
+  <InstallPegLegAnimal.description>동물 목발을 이식합니다.</InstallPegLegAnimal.description>
+  <InstallPegLegAnimal.jobString>의족 설치 중</InstallPegLegAnimal.jobString>
+  <InstallWoodenPawAnimal.label>install wooden animal paw</InstallWoodenPawAnimal.label>
+  <InstallWoodenPawAnimal.description>Installs a wooden animal paw.</InstallWoodenPawAnimal.description>
+  <InstallWoodenPawAnimal.jobString>Installing a wooden animal paw.</InstallWoodenPawAnimal.jobString>
+  <InstallWoodenHoofAnimal.label>install wooden animal hoof</InstallWoodenHoofAnimal.label>
+  <InstallWoodenHoofAnimal.description>Installs a wooden animal hoof.</InstallWoodenHoofAnimal.description>
+  <InstallWoodenHoofAnimal.jobString>Installing a wooden animal hoof.</InstallWoodenHoofAnimal.jobString>
+  <InstallWoodenHandAnimal.label>install wooden animal hand</InstallWoodenHandAnimal.label>
+  <InstallWoodenHandAnimal.description>Installs a wooden animal hand.</InstallWoodenHandAnimal.description>
+  <InstallWoodenHandAnimal.jobString>Installing a wooden animal hand.</InstallWoodenHandAnimal.jobString>
+  <InstallWoodenFootAnimal.label>install wooden animal foot</InstallWoodenFootAnimal.label>
+  <InstallWoodenFootAnimal.description>Installs a wooden animal foot.</InstallWoodenFootAnimal.description>
+  <InstallWoodenFootAnimal.jobString>Installing a wooden animal foot.</InstallWoodenFootAnimal.jobString>
+  <InstallPowerClawAnimal.label>강화 손톱 이식</InstallPowerClawAnimal.label>
+  <InstallPowerClawAnimal.description>강화 발톱을 이식합니다.</InstallPowerClawAnimal.description>
+  <InstallPowerClawAnimal.jobString>강화 손톱 이식 중</InstallPowerClawAnimal.jobString>
+  <InstallVenomFangsAnimal.label>독니 설치</InstallVenomFangsAnimal.label>
+  <InstallVenomFangsAnimal.description>독니를 설치합니다.</InstallVenomFangsAnimal.description>
+  <InstallVenomFangsAnimal.jobString>독니 설치 중.</InstallVenomFangsAnimal.jobString>
+  <InstallSimpleProstheticTailAnimal.label>install prosthetic animal tail</InstallSimpleProstheticTailAnimal.label>
+  <InstallSimpleProstheticTailAnimal.description>Install a prosthetic animal tail.</InstallSimpleProstheticTailAnimal.description>
+  <InstallSimpleProstheticTailAnimal.jobString>Installing prosthetic animal tail.</InstallSimpleProstheticTailAnimal.jobString>
+  <InstallSimpleProstheticLegAnimal.label>install prosthetic animal leg</InstallSimpleProstheticLegAnimal.label>
+  <InstallSimpleProstheticLegAnimal.description>Installs prosthetic leg. Requires a min skill in medicine of 4.</InstallSimpleProstheticLegAnimal.description>
+  <InstallSimpleProstheticLegAnimal.jobString>Installing prosthetic animal leg.</InstallSimpleProstheticLegAnimal.jobString>
+  <InstallSimpleProstheticArmAnimal.label>install prosthetic animal arm</InstallSimpleProstheticArmAnimal.label>
+  <InstallSimpleProstheticArmAnimal.description>Installs a prosthetic animal arm.</InstallSimpleProstheticArmAnimal.description>
+  <InstallSimpleProstheticArmAnimal.jobString>Installing prosthetic animal arm.</InstallSimpleProstheticArmAnimal.jobString>
+  <InstallSimpleProstheticHeartAnimal.label>install prosthetic animal heart</InstallSimpleProstheticHeartAnimal.label>
+  <InstallSimpleProstheticHeartAnimal.description>Install a prosthetic animal heart.</InstallSimpleProstheticHeartAnimal.description>
+  <InstallSimpleProstheticHeartAnimal.jobString>Installing prosthetic animal heart.</InstallSimpleProstheticHeartAnimal.jobString>
+  <InstallCochlearImplantAnimal.label>install animal cochlear implant</InstallCochlearImplantAnimal.label>
+  <InstallCochlearImplantAnimal.description>Install an animal cochlear implant.</InstallCochlearImplantAnimal.description>
+  <InstallCochlearImplantAnimal.jobString>Installing animal cochlear implant.</InstallCochlearImplantAnimal.jobString>
+  <InstallSyntheticLungAnimal.label>install synthetic animal lung</InstallSyntheticLungAnimal.label>
+  <InstallSyntheticLungAnimal.description>Installs a synthetic animal lung.</InstallSyntheticLungAnimal.description>
+  <InstallSyntheticLungAnimal.jobString>Installing synthetic animal lung.</InstallSyntheticLungAnimal.jobString>
+  <InstallSyntheticLiverAnimal.label>install synthetic animal liver</InstallSyntheticLiverAnimal.label>
+  <InstallSyntheticLiverAnimal.description>Installs a synthetic animal liver.</InstallSyntheticLiverAnimal.description>
+  <InstallSyntheticLiverAnimal.jobString>Installing synthetic animal liver.</InstallSyntheticLiverAnimal.jobString>
+  <InstallSyntheticKidneyAnimal.label>install synthetic animal kidney</InstallSyntheticKidneyAnimal.label>
+  <InstallSyntheticKidneyAnimal.description>Installs a synthetic animal kidney.</InstallSyntheticKidneyAnimal.description>
+  <InstallSyntheticKidneyAnimal.jobString>Installing synthetic animal kidney.</InstallSyntheticKidneyAnimal.jobString>
+  <InstallHookHandAnimal.label>install hook animal hand</InstallHookHandAnimal.label>
+  <InstallHookHandAnimal.description>Installs a hook animal hand.</InstallHookHandAnimal.description>
+  <InstallHookHandAnimal.jobString>Installing a hook animal hand.</InstallHookHandAnimal.jobString>
+  <InstallGoldenEyeAnimal.label>황금의안 이식</InstallGoldenEyeAnimal.label>
+  <InstallGoldenEyeAnimal.description>Installs a golden eye.</InstallGoldenEyeAnimal.description>
+  <InstallGoldenEyeAnimal.jobString>Installing a golden eye.</InstallGoldenEyeAnimal.jobString>
+  <InstallLightReceptorAnimal.label>install animal light receptor</InstallLightReceptorAnimal.label>
+  <InstallLightReceptorAnimal.description>Install an animal light receptor.</InstallLightReceptorAnimal.description>
+  <InstallLightReceptorAnimal.jobString>Installing animal light receptor.</InstallLightReceptorAnimal.jobString>
+  <InstallSimpleSpineAnimal.label>install replacement animal spine</InstallSimpleSpineAnimal.label>
+  <InstallSimpleSpineAnimal.description>Install a replacement animal spine.</InstallSimpleSpineAnimal.description>
+  <InstallSimpleSpineAnimal.jobString>Installing replacement animal spine.</InstallSimpleSpineAnimal.jobString>
+  <InstallHydraulicJawAnimal.label>install hydraulic animal jaw</InstallHydraulicJawAnimal.label>
+  <InstallHydraulicJawAnimal.description>Installs a hydraulic animal jaw.</InstallHydraulicJawAnimal.description>
+  <InstallHydraulicJawAnimal.jobString>Installing hydraulic animal jaw.</InstallHydraulicJawAnimal.jobString>
+  <InstallArtificialNoseAnimal.label>install artificial animal nose</InstallArtificialNoseAnimal.label>
+  <InstallArtificialNoseAnimal.description>Install a artificial animal nose.</InstallArtificialNoseAnimal.description>
+  <InstallArtificialNoseAnimal.jobString>Installing artificial animal nose.</InstallArtificialNoseAnimal.jobString>
+  <InstallSurrogateLungAnimal.label>install surrogate animal lung</InstallSurrogateLungAnimal.label>
+  <InstallSurrogateLungAnimal.description>Install a surrogate animal lung.</InstallSurrogateLungAnimal.description>
+  <InstallSurrogateLungAnimal.jobString>Installing surrogate animal lung.</InstallSurrogateLungAnimal.jobString>
+  <InstallSurrogateStomachAnimal.label>install surrogate animal stomach</InstallSurrogateStomachAnimal.label>
+  <InstallSurrogateStomachAnimal.description>Install a surrogate animal stomach.</InstallSurrogateStomachAnimal.description>
+  <InstallSurrogateStomachAnimal.jobString>Installing surrogate animal stomach.</InstallSurrogateStomachAnimal.jobString>
+  <InstallSurrogateLiverAnimal.label>install surrogate animal liver</InstallSurrogateLiverAnimal.label>
+  <InstallSurrogateLiverAnimal.description>Install a surrogate animal liver.</InstallSurrogateLiverAnimal.description>
+  <InstallSurrogateLiverAnimal.jobString>Installing surrogate animal liver.</InstallSurrogateLiverAnimal.jobString>
+  <InstallSurrogateKidneyAnimal.label>install surrogate animal kidney</InstallSurrogateKidneyAnimal.label>
+  <InstallSurrogateKidneyAnimal.description>Install a surrogate animal kidney.</InstallSurrogateKidneyAnimal.description>
+  <InstallSurrogateKidneyAnimal.jobString>Installing surrogate animal kidney.</InstallSurrogateKidneyAnimal.jobString>
+  <InstallBrainStimulatorAnimal.label>동물 두뇌 자극기 이식</InstallBrainStimulatorAnimal.label>
+  <InstallBrainStimulatorAnimal.description>Install a animal brain stimulator.</InstallBrainStimulatorAnimal.description>
+  <InstallBrainStimulatorAnimal.jobString>동물 두뇌 자극기 이식 중</InstallBrainStimulatorAnimal.jobString>
+  <RemoveBrainStimulatorAnimal.label>remove animal brain stimulator</RemoveBrainStimulatorAnimal.label>
+  <RemoveBrainStimulatorAnimal.description>Removes animal brain stimulator.</RemoveBrainStimulatorAnimal.description>
+  <RemoveBrainStimulatorAnimal.jobString>동물 두뇌 자극기 이식 중</RemoveBrainStimulatorAnimal.jobString>
+  <RemoveBrainStimulatorAnimal.successfullyRemovedHediffMessage>{0}(이)가 {1}의 두뇌 자극기를 성공적으로 제거했습니다.</RemoveBrainStimulatorAnimal.successfullyRemovedHediffMessage>
+  <InstallBionicHeartAnimal.label.label>install synthetic animal heart</InstallBionicHeartAnimal.label.label>
+  <InstallBionicHeartAnimal.description.description>Installs a synthetic animal heart.</InstallBionicHeartAnimal.description.description>
+  <InstallBionicHeartAnimal.jobString.jobString>Installing synthetic animal heart.</InstallBionicHeartAnimal.jobString.jobString>
+  <InstallBionicStomachAnimal.label.label>install synthetic animal stomach</InstallBionicStomachAnimal.label.label>
+  <InstallBionicStomachAnimal.description.description>Installs a synthetic animal stomach.</InstallBionicStomachAnimal.description.description>
+  <InstallBionicStomachAnimal.jobString.jobString>Installing synthetic animal stomach.</InstallBionicStomachAnimal.jobString.jobString>
+  <InstallSimpleProstheticHeartAnimal.label.label>install surrogate animal heart</InstallSimpleProstheticHeartAnimal.label.label>
+  <InstallSimpleProstheticHeartAnimal.description.description>Install a surrogate animal heart.</InstallSimpleProstheticHeartAnimal.description.description>
+  <InstallSimpleProstheticHeartAnimal.jobString.jobString>Installing surrogate animal heart.</InstallSimpleProstheticHeartAnimal.jobString.jobString>
+  <InstallBionicPawAnimal.label>install bionic animal paw</InstallBionicPawAnimal.label>
+  <InstallBionicPawAnimal.description>Installs bionic paw.</InstallBionicPawAnimal.description>
+  <InstallBionicPawAnimal.jobString>생체공학 동물 발 이식 중.</InstallBionicPawAnimal.jobString>
+  <InstallBionicHoofAnimal.label>install bionic animal hoof</InstallBionicHoofAnimal.label>
+  <InstallBionicHoofAnimal.description>Installs bionic hoof.</InstallBionicHoofAnimal.description>
+  <InstallBionicHoofAnimal.jobString>생체공학 동물 발굽 이식 중.</InstallBionicHoofAnimal.jobString>
+  <InstallBionicFootAnimal.label>install bionic animal foot</InstallBionicFootAnimal.label>
+  <InstallBionicFootAnimal.description>고급 생체공학 발을 이식합니다.</InstallBionicFootAnimal.description>
+  <InstallBionicFootAnimal.jobString>Installing bionic animal foot.</InstallBionicFootAnimal.jobString>
+  <InstallBionicToeAnimal.label>install bionic animal toe</InstallBionicToeAnimal.label>
+  <InstallBionicToeAnimal.description>생체공학 발가락을 이식합니다.</InstallBionicToeAnimal.description>
+  <InstallBionicToeAnimal.jobString>Installing bionic animal toe.</InstallBionicToeAnimal.jobString>
+  <InstallBionicHandAnimal.label>install bionic animal hand</InstallBionicHandAnimal.label>
+  <InstallBionicHandAnimal.description>생체공학 손을 이식합니다.</InstallBionicHandAnimal.description>
+  <InstallBionicHandAnimal.jobString>Installing bionic animal hand.</InstallBionicHandAnimal.jobString>
+  <InstallBionicFingerAnimal.label>install bionic animal finger</InstallBionicFingerAnimal.label>
+  <InstallBionicFingerAnimal.description>생체공학 손가락을 이식합니다.</InstallBionicFingerAnimal.description>
+  <InstallBionicFingerAnimal.jobString>Installing bionic animal finger.</InstallBionicFingerAnimal.jobString>
+  <InstallBionicClawAnimal.label>install bionic animal claw</InstallBionicClawAnimal.label>
+  <InstallBionicClawAnimal.description>Installs bionic claw.</InstallBionicClawAnimal.description>
+  <InstallBionicClawAnimal.jobString>Installing bionic animal claw.</InstallBionicClawAnimal.jobString>
+  <InstallSimpleProstheticHandAnimal.label>install prosthetic animal hand</InstallSimpleProstheticHandAnimal.label>
+  <InstallSimpleProstheticHandAnimal.description>Installs a prosthetic animal hand.</InstallSimpleProstheticHandAnimal.description>
+  <InstallSimpleProstheticHandAnimal.jobString>Installing prosthetic animal hand.</InstallSimpleProstheticHandAnimal.jobString>
+  <InstallSimpleProstheticFingerAnimal.label>install prosthetic animal finger</InstallSimpleProstheticFingerAnimal.label>
+  <InstallSimpleProstheticFingerAnimal.description>Installs prosthetic finger. Requires a min skill in medicine of 4.</InstallSimpleProstheticFingerAnimal.description>
+  <InstallSimpleProstheticFingerAnimal.jobString>Installing prosthetic animal finger.</InstallSimpleProstheticFingerAnimal.jobString>
+  <InstallSimpleProstheticFootAnimal.label>install prosthetic animal foot</InstallSimpleProstheticFootAnimal.label>
+  <InstallSimpleProstheticFootAnimal.description>Installs prosthetic foot. Requires a min skill in medicine of 4.</InstallSimpleProstheticFootAnimal.description>
+  <InstallSimpleProstheticFootAnimal.jobString>Installing prosthetic animal foot.</InstallSimpleProstheticFootAnimal.jobString>
+  <InstallSimpleProstheticToeAnimal.label>install prosthetic animal toe</InstallSimpleProstheticToeAnimal.label>
+  <InstallSimpleProstheticToeAnimal.description>Installs prosthetic toe. Requires a min skill in medicine of 4.</InstallSimpleProstheticToeAnimal.description>
+  <InstallSimpleProstheticToeAnimal.jobString>Installing prosthetic animal toe.</InstallSimpleProstheticToeAnimal.jobString>
+  <InstallSimpleProstheticPawAnimal.label>install prosthetic animal paw</InstallSimpleProstheticPawAnimal.label>
+  <InstallSimpleProstheticPawAnimal.description>Installs a prosthetic animal paw.</InstallSimpleProstheticPawAnimal.description>
+  <InstallSimpleProstheticPawAnimal.jobString>Installing prosthetic animal paw.</InstallSimpleProstheticPawAnimal.jobString>
+  <InstallSimpleProstheticHoofAnimal.label>install prosthetic animal hoof</InstallSimpleProstheticHoofAnimal.label>
+  <InstallSimpleProstheticHoofAnimal.description>Installs a prosthetic animal hoof.</InstallSimpleProstheticHoofAnimal.description>
+  <InstallSimpleProstheticHoofAnimal.jobString>Installing prosthetic animal hoof.</InstallSimpleProstheticHoofAnimal.jobString>
+  <InstallSimpleProstheticClawAnimal.label>install prosthetic animal claw</InstallSimpleProstheticClawAnimal.label>
+  <InstallSimpleProstheticClawAnimal.description>Installs a prosthetic animal claw.</InstallSimpleProstheticClawAnimal.description>
+  <InstallSimpleProstheticClawAnimal.jobString>Installing prosthetic animal claw.</InstallSimpleProstheticClawAnimal.jobString>
+  <InstallBionicForearmAnimal.label>install bionic animal forearm</InstallBionicForearmAnimal.label>
+  <InstallBionicForearmAnimal.description>Installs a bionic animal forearm.</InstallBionicForearmAnimal.description>
+  <InstallBionicForearmAnimal.jobString>Installing bionic animal forearm.</InstallBionicForearmAnimal.jobString>
+  <InstallBionicInternalSupportAnimal.label>install bionic animal internal support</InstallBionicInternalSupportAnimal.label>
+  <InstallBionicInternalSupportAnimal.description>Installs a bionic animal internal support.</InstallBionicInternalSupportAnimal.description>
+  <InstallBionicInternalSupportAnimal.jobString>Installing bionic animal internal support.</InstallBionicInternalSupportAnimal.jobString>
+  <InstallBionic_RG_FootClaw.label>install bionic animal foot claw</InstallBionic_RG_FootClaw.label>
+  <InstallBionic_RG_FootClaw.description>Installs bionic foot claw.</InstallBionic_RG_FootClaw.description>
+  <InstallBionic_RG_FootClaw.jobString>Installing bionic animal foot claw.</InstallBionic_RG_FootClaw.jobString>
+  <InstallSimpleProstheticForearmAnimal.label>install prosthetic animal forearm</InstallSimpleProstheticForearmAnimal.label>
+  <InstallSimpleProstheticForearmAnimal.description>Installs a prosthetic animal forearm.</InstallSimpleProstheticForearmAnimal.description>
+  <InstallSimpleProstheticForearmAnimal.jobString>Installing prosthetic animal forearm.</InstallSimpleProstheticForearmAnimal.jobString>
+  <InstallSimpleProsthetic_RG_FootClaw.label>install prosthetic animal foot claw</InstallSimpleProsthetic_RG_FootClaw.label>
+  <InstallSimpleProsthetic_RG_FootClaw.description>Installs prosthetic foot claw.</InstallSimpleProsthetic_RG_FootClaw.description>
+  <InstallSimpleProsthetic_RG_FootClaw.jobString>Installing prosthetic animal foot claw.</InstallSimpleProsthetic_RG_FootClaw.jobString>
+  <InstallWoodenWingAnimal.label>install animal wooden wing</InstallWoodenWingAnimal.label>
+  <InstallWoodenWingAnimal.description>Installs animal wooden wing.</InstallWoodenWingAnimal.description>
+  <InstallWoodenWingAnimal.jobString>Installing wooden wing.</InstallWoodenWingAnimal.jobString>
+  <InstallSimpleProstheticWingAnimal.label>install prosthetic animal wing</InstallSimpleProstheticWingAnimal.label>
+  <InstallSimpleProstheticWingAnimal.description>Installs prosthetic wing. Requires a min skill in medicine of 4.</InstallSimpleProstheticWingAnimal.description>
+  <InstallSimpleProstheticWingAnimal.jobString>Installing prosthetic animal wing.</InstallSimpleProstheticWingAnimal.jobString>
+  <InstallBionicWingAnimal.label>install bionic animal wing</InstallBionicWingAnimal.label>
+  <InstallBionicWingAnimal.description>생체공학 날개를 이식합니다. 수술을 위하여 4 이상의 의료 기술이 필요합니다.</InstallBionicWingAnimal.description>
+  <InstallBionicWingAnimal.jobString>Installing bionic animal wing.</InstallBionicWingAnimal.jobString>
+</LanguageData>
