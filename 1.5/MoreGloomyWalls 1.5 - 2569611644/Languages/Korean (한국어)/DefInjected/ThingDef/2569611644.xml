@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GL_SterileWall.label>Sterile Wall Gloomy</GL_SterileWall.label>
+  <GL_SterileWall.description>A Gloomy Wall for your medical needs.</GL_SterileWall.description>
+  <GL_HeavyWall.label>Reinforced Wall</GL_HeavyWall.label>
+  <GL_HeavyWall.description>A strong Gloomy Wall to protect you. Explosion resistant.</GL_HeavyWall.description>
+  <GL_HeavyWallEmb.label>Reinforced Wall (Embrasured)</GL_HeavyWallEmb.label>
+  <GL_HeavyWallEmb.description>A strong Gloomy Wall to protect you with Embrasures to shoot through. Explosion resistant.</GL_HeavyWallEmb.description>
+</LanguageData>
