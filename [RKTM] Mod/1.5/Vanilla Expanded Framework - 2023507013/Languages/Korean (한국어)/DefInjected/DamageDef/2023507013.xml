@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VEF_SecondaryAcidBurn.label>산화상</VEF_SecondaryAcidBurn.label>
+  <VEF_SecondaryAcidBurn.deathMessage>{0}(이)가 부식되어 죽었습니다.</VEF_SecondaryAcidBurn.deathMessage>
+  <VEF_PermanentBurn.label>영구적 화상</VEF_PermanentBurn.label>
+  <VEF_PermanentBurn.deathMessage>{0}(은)는 불타죽었습니다.</VEF_PermanentBurn.deathMessage>
+</LanguageData>

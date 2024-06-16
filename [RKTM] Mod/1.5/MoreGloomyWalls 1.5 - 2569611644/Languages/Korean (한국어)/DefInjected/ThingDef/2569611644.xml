@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GL_SterileWall.label>멸균 벽면 우울</GL_SterileWall.label>
+  <GL_SterileWall.description>의료용으로 적합한 우울한 벽면입니다.</GL_SterileWall.description>
+  <GL_HeavyWall.label>강화 벽</GL_HeavyWall.label>
+  <GL_HeavyWall.description>보호를 위한 강한 우울한 벽. 폭발에 강합니다.</GL_HeavyWall.description>
+  <GL_HeavyWallEmb.label>강화 벽 (강화 총안)</GL_HeavyWallEmb.label>
+  <GL_HeavyWallEmb.description>총안을 통해 사격할 수 있는 강한 우울한 벽으로 보호합니다. 폭발에 강합니다.</GL_HeavyWallEmb.description>
+</LanguageData>
