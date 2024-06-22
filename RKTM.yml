@@ -2,6 +2,7 @@ files:
   - source: '*.xml'
     ignore:
       - '\[RKTM] Mod'
+      - AddThisLoadFolders.xml
     translation: /%language%/%original_path%/%original_file_name%
     content_segmentation: 0
   - source: '*.txt'
