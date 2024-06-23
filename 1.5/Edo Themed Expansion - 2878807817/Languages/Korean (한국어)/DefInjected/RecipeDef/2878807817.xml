@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BambooConversion.label>Bamboo Conversion 1x</BambooConversion.label>
+  <BambooConversion.description>converting bamboo into wood.</BambooConversion.description>
+  <BambooConversion.jobString>converting bamboo into wood.</BambooConversion.jobString>
+  <BambooConversion25x.label>Bamboo Conversion 25x</BambooConversion25x.label>
+  <BambooConversion25x.description>converting bamboo into wood.</BambooConversion25x.description>
+  <BambooConversion25x.jobString>converting bamboo into wood.</BambooConversion25x.jobString>
+  <HSCookBasicDango.label>cook basic dango</HSCookBasicDango.label>
+  <HSCookBasicDango.description>Cook a basic dango from rice.</HSCookBasicDango.description>
+  <HSCookBasicDango.jobString>Cooking simple meal.</HSCookBasicDango.jobString>
+  <HSCookBasicDangoBulk.label>cook basic dango x4</HSCookBasicDangoBulk.label>
+  <HSCookBasicDangoBulk.description>Cook 4 basic dango from rice.</HSCookBasicDangoBulk.description>
+  <HSCookBasicDangoBulk.jobString>Cooking 4 simple meals.</HSCookBasicDangoBulk.jobString>
+  <HSCookAdzukiDango.label>cook adzuki dango</HSCookAdzukiDango.label>
+  <HSCookAdzukiDango.description>Cook a adzuki dango from rice and adzuki paste.</HSCookAdzukiDango.description>
+  <HSCookAdzukiDango.jobString>Cooking simple meal.</HSCookAdzukiDango.jobString>
+  <HSCookAdzukiDangoBulk.label>cook adzuki dango x4</HSCookAdzukiDangoBulk.label>
+  <HSCookAdzukiDangoBulk.description>Cook 4 adzuki dango from rice and adzuki paste.</HSCookAdzukiDangoBulk.description>
+  <HSCookAdzukiDangoBulk.jobString>Cooking 4 simple meals.</HSCookAdzukiDangoBulk.jobString>
+  <HSBundleKoku.label>Bundle Koku</HSBundleKoku.label>
+  <HSBundleKoku.description>Bundling rice into a Koku.</HSBundleKoku.description>
+  <HSBundleKoku.jobString>Bundling rice into a Koku.</HSBundleKoku.jobString>
+  <HSUnbundleKoku.label>unbundle Koku</HSUnbundleKoku.label>
+  <HSUnbundleKoku.description>unbundling Koku into rice.</HSUnbundleKoku.description>
+  <HSUnbundleKoku.jobString>unbundling Koku into rice.</HSUnbundleKoku.jobString>
+</LanguageData>

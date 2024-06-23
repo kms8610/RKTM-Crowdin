@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HS_EdoClanTrader.label>merchant</HS_EdoClanTrader.label>
+  <HS_EdoClan_Peasant.label>peasant</HS_EdoClan_Peasant.label>
+  <HS_BasicTownGuard.label>conscripted guard</HS_BasicTownGuard.label>
+  <HS_RangedNoviceSamurai.label>Novice Samurai Archer</HS_RangedNoviceSamurai.label>
+  <HS_NoviceSamurai.label>Novice Samurai</HS_NoviceSamurai.label>
+  <HS_RangedSamurai.label>Samurai Archer</HS_RangedSamurai.label>
+  <HS_RangedSamuraiGunner.label>Samurai Gunner</HS_RangedSamuraiGunner.label>
+  <HSSamuraiCapable.label>samurai</HSSamuraiCapable.label>
+  <HSSamuraiBrute.label>samurai</HSSamuraiBrute.label>
+  <HS_Onnabushi.labelMale>bushi</HS_Onnabushi.labelMale>
+  <HS_Onnabushi.labelFemale>onna-bushi</HS_Onnabushi.labelFemale>
+  <HS_VeteranSamurai.labelMale>veteran samurai</HS_VeteranSamurai.labelMale>
+  <HS_VeteranSamurai.labelFemale>veteran samurai</HS_VeteranSamurai.labelFemale>
+  <HS_SamuraiGeneralBold.labelMale>general</HS_SamuraiGeneralBold.labelMale>
+  <HS_SamuraiGeneralBold.labelFemale>general</HS_SamuraiGeneralBold.labelFemale>
+  <HS_SamuraiKensei.labelMale>kensei</HS_SamuraiKensei.labelMale>
+  <HS_SamuraiKensei.labelFemale>kensei</HS_SamuraiKensei.labelFemale>
+  <HS_NobleClansfolk.label>Noble</HS_NobleClansfolk.label>
+  <HS_Daimyo.labelMale>daimyo</HS_Daimyo.labelMale>
+  <HS_Daimyo.labelFemale>daimyo</HS_Daimyo.labelFemale>
+  <HS_NoviceShinobi.label>Novice Shinobi</HS_NoviceShinobi.label>
+  <HS_ShinobiThug.label>Shinobi Thug</HS_ShinobiThug.label>
+  <HS_ShinobiMaster.label>Master Shinobi</HS_ShinobiMaster.label>
+  <HS_Shinobi_Sword_Demon.label>Shinobi Sword Demon</HS_Shinobi_Sword_Demon.label>
+  <HS_Shogunate_Samurai.label>samurai</HS_Shogunate_Samurai.label>
+  <HS_Ashigaru.label>ashigaru</HS_Ashigaru.label>
+  <HS_Shinsengumi.labelMale>shinsengumi</HS_Shinsengumi.labelMale>
+  <HS_Shinsengumi.labelFemale>shinsengumi</HS_Shinsengumi.labelFemale>
+  <HS_RangedNoviceSamurai_Shogun.label>Novice Samurai Archer</HS_RangedNoviceSamurai_Shogun.label>
+  <HS_RangedSamurai_Shogun.label>Samurai Archer</HS_RangedSamurai_Shogun.label>
+  <HS_RangedSamuraiGunner_Shogun.label>Samurai Gunner</HS_RangedSamuraiGunner_Shogun.label>
+  <HS_Shogun.labelMale>shogun</HS_Shogun.labelMale>
+  <HS_Shogun.labelFemale>shogun</HS_Shogun.labelFemale>
+  <HSEdo_Member.label>member</HSEdo_Member.label>
+</LanguageData>

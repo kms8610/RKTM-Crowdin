@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSSteelDrop.label>steel drop</HSSteelDrop.label>
+  <HSSteelDrop.description>Call for a drop of 250 steel.</HSSteelDrop.description>
+  <HSKokuDrop.label>koku drop</HSKokuDrop.label>
+  <HSKokuDrop.description>Call for a drop of 4 koku, which is 75 rice per koku. Koku can be unbundled at a crafting spot or cooking station.</HSKokuDrop.description>
+  <HSSilverDrop.label>silver drop</HSSilverDrop.label>
+  <HSSilverDrop.description>Call for a drop of 500 silver.</HSSilverDrop.description>
+  <HSHerbalMedDrop.label>herbal medicine drop</HSHerbalMedDrop.label>
+  <HSHerbalMedDrop.description>Call for a drop of herbal medicine.</HSHerbalMedDrop.description>
+  <HSCallLaborerTeam.label>call laborer team</HSCallLaborerTeam.label>
+  <HSCallLaborerTeam.description>Call a group of 5 peasants to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</HSCallLaborerTeam.description>
+  <HSCallLaborerGang.label>call laborer gang</HSCallLaborerGang.label>
+  <HSCallLaborerGang.description>Call a group of 10 peasants to assist you for 4 days. These workers can only do general labor tasks. You can control them as though they were your own colonists. You are required to keep them safe.</HSCallLaborerGang.description>
+  <HSLegendaryWeaponRequest.label>request a legendary katana</HSLegendaryWeaponRequest.label>
+  <HSLegendaryWeaponRequest.description>send a request to the shogun asking that they grant you a legendary katana from their vault.</HSLegendaryWeaponRequest.description>
+  <HSCallMilitaryAidSmall.label>call novice samurai warband</HSCallMilitaryAidSmall.label>
+  <HSCallMilitaryAidSmall.description>Call a group of 6 novice samurai to aid you in battle.</HSCallMilitaryAidSmall.description>
+  <HSCallMilitaryAidLarge.label>call capable samurai warband</HSCallMilitaryAidLarge.label>
+  <HSCallMilitaryAidLarge.description>Call a group of 4 capable samurai to aid you in battle.</HSCallMilitaryAidLarge.description>
+  <HSCallShinobiSD.label>call for shinobi aid</HSCallShinobiSD.label>
+  <HSCallShinobiSD.description>Call a group of mysterious shinobi blade masters</HSCallShinobiSD.description>
+  <HSCallMilitaryAidGrand.label>call veteran samurai warband</HSCallMilitaryAidGrand.label>
+  <HSCallMilitaryAidGrand.description>Call a group of 4 veteran samurai to aid you in battle.</HSCallMilitaryAidGrand.description>
+</LanguageData>

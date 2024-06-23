@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSAshigaru.label>Ashigaru</HSAshigaru.label>
+  <HSAshigaru.description>Ashigaru are among the highest ranking of the commoner class, they are the few among the commoners who are able to be promoted to Samurai through exemplary service.</HSAshigaru.description>
+  <HSRonin.label>Ronin</HSRonin.label>
+  <HSRonin.description>A ronin is a masterless Samurai, not as prestigious as a Samurai themselves, but they still hold many of the privileges that Samurai do. Thus, they are higher ranking then Ashigaru.</HSRonin.description>
+  <HSSamurai.label>Samurai</HSSamurai.label>
+  <HSSamurai.description>Samurai is a hereditary title of nobility. They are retainers of Daimyo that serve as soldiers and generals in times of war, or stewards and chamberlains in times of peace.</HSSamurai.description>
+  <HSJito.label>Jitō</HSJito.label>
+  <HSJito.description>Jito were stewards apointed by the shogun, their job was to enforce the will of the shogun and ensure that taxes were collected.</HSJito.description>
+  <HSTozamaDaimyo.label>tozama daimyo</HSTozamaDaimyo.label>
+  <HSTozamaDaimyo.description>Tozama Daimyo, roughly translates to Outer Daimyo. While people who hold this rank are a Daimyo by title, it means they are not trusted by those incharge.</HSTozamaDaimyo.description>
+  <HSDaimyo.label>Daimyo</HSDaimyo.label>
+  <HSDaimyo.description>Daimyo are land owners, powerful Japanese lords who were second only to the Shogun, Emperor and Kuge. Daimyo often paid their Samurai with food and land, rather then money.</HSDaimyo.description>
+  <HSFudaiDaimyo.label>fudai daimyo</HSFudaiDaimyo.label>
+  <HSFudaiDaimyo.description>Fudai Daimyo translates roughly to Inner Daimyo. A Fudai Daimyo is a Daimyo who has earned the trust of those in charge, as such they are looked on more favorably then typical Daimyo.</HSFudaiDaimyo.description>
+  <HSShogun.label>shogun</HSShogun.label>
+  <HSShogun.description>The Shogun were military dictators of old Japan, the were apointed by the emperor but were often the true rulers of the country.</HSShogun.description>
+  <HSDivineEmperor.label>divine emperor</HSDivineEmperor.label>
+  <HSDivineEmperor.labelFemale>divine empress</HSDivineEmperor.labelFemale>
+  <HSDivineEmperor.description>The emperor is considered to be the direct descendant of the shinto godess Amaterasu, officially, the emperor rules the country. In reality, they are second to the shogun in power.</HSDivineEmperor.description>
+</LanguageData>

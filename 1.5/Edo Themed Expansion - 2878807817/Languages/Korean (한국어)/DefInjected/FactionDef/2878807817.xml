@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HS_Virtuous_Clan.pawnSingular>Clanfolk</HS_Virtuous_Clan.pawnSingular>
+  <HS_Virtuous_Clan.pawnsPlural>Clanfolks</HS_Virtuous_Clan.pawnsPlural>
+  <HS_Virtuous_Clan.leaderTitle>Clan Head</HS_Virtuous_Clan.leaderTitle>
+  <HS_Virtuous_Clan.label>Virtuous Clan</HS_Virtuous_Clan.label>
+  <HS_Virtuous_Clan.description>A collection of Ronin, samurai and peasants who lost their previous homes. These people choose to band together and walk a virtuous path.</HS_Virtuous_Clan.description>
+  <HS_Bandit_Clan.pawnSingular>Clanfolk</HS_Bandit_Clan.pawnSingular>
+  <HS_Bandit_Clan.pawnsPlural>Clanfolks</HS_Bandit_Clan.pawnsPlural>
+  <HS_Bandit_Clan.leaderTitle>Clan Head</HS_Bandit_Clan.leaderTitle>
+  <HS_Bandit_Clan.label>Bandit Clan</HS_Bandit_Clan.label>
+  <HS_Bandit_Clan.description>Bandits, pirates and bloodthirsty Ronin are the backbone of this Clan. They salvage the remains of clans long lost, using stolen armor to masquerade as a legitimate Samurai.</HS_Bandit_Clan.description>
+  <HS_PlayerEdoClan.label>New Clan</HS_PlayerEdoClan.label>
+  <HS_PlayerEdoClan.description>A new clan.</HS_PlayerEdoClan.description>
+  <HS_PlayerEdoClan.pawnSingular>member</HS_PlayerEdoClan.pawnSingular>
+  <HS_PlayerEdoClan.pawnsPlural>members</HS_PlayerEdoClan.pawnsPlural>
+  <HS_Edo_Shogunate.pawnSingular>Clanfolk</HS_Edo_Shogunate.pawnSingular>
+  <HS_Edo_Shogunate.pawnsPlural>Clanfolks</HS_Edo_Shogunate.pawnsPlural>
+  <HS_Edo_Shogunate.leaderTitle>Shogun</HS_Edo_Shogunate.leaderTitle>
+  <HS_Edo_Shogunate.label>Divine Shogunate</HS_Edo_Shogunate.label>
+  <HS_Edo_Shogunate.description>A collection of Ronin, samurai and peasants who lost their previous homes. These people choose to band together and walk a virtuous path.</HS_Edo_Shogunate.description>
+  <HS_Edo_Shogunate.royalFavorLabel>influence</HS_Edo_Shogunate.royalFavorLabel>
+</LanguageData>

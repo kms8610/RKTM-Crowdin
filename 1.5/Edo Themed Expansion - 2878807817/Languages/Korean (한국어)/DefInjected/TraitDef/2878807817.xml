@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSKensei.degreeDatas.0.label>Kensei</HSKensei.degreeDatas.0.label>
+  <HSKensei.degreeDatas.0.description>{PAWN_nameDef} rejects ranged weapons, instead {PAWN_pronoun} focuses on mastering {PAWN_possessive} blade and footwork.</HSKensei.degreeDatas.0.description>
+  <HSSamurai.degreeDatas.0.label>samurai</HSSamurai.degreeDatas.0.label>
+  <HSSamurai.degreeDatas.0.description>{PAWN_nameDef} is a formally trained samurai and the backbone of any clan's army, {PAWN_pronoun} is versitile, hits hard and is even harder to kill.</HSSamurai.degreeDatas.0.description>
+  <HSWayOfTheBow.degreeDatas.0.label>way of the bow</HSWayOfTheBow.degreeDatas.0.label>
+  <HSWayOfTheBow.degreeDatas.0.description>{PAWN_nameDef} is a practitioner of The Way of The Bow, {PAWN_possessive} well placed shots can be the deciding factor in the outcome of a fight.</HSWayOfTheBow.degreeDatas.0.description>
+  <HSRonin.degreeDatas.0.label>ronin</HSRonin.degreeDatas.0.label>
+  <HSRonin.degreeDatas.0.description>{PAWN_nameDef} is a masterless warrior, {PAWN_possessive} life on the road has been tough, but it has strengthened {PAWN_possessive} body and mind.</HSRonin.degreeDatas.0.description>
+</LanguageData>

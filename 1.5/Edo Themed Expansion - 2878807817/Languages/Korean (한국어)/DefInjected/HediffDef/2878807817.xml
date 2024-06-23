@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSDaimyoBearing.label>daimyo's bearing</HSDaimyoBearing.label>
+  <HSDaimyoBearing.description>A sense of pride and dignity radiates from this person, inspiring nearby allies.</HSDaimyoBearing.description>
+  <HSDaimyoPresenceBuff.label>daimyo's presence</HSDaimyoPresenceBuff.label>
+  <HSDaimyoPresenceBuff.description>The presence of a Daimyo on the battlefield inspires soliders to fight harder.</HSDaimyoPresenceBuff.description>
+  <HS_Banzai.label>Tennōheika Banzai!</HS_Banzai.label>
+  <HS_Banzai.description>A suicidal charge, pawns using this are able to move faster, and deal increased melee damage, at the cost of being more susceptible to damage themselves.</HS_Banzai.description>
+</LanguageData>

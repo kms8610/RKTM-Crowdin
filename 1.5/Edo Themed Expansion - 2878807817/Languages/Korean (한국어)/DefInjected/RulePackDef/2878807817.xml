@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSNamerFactionEdoClan.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] Clan</HSNamerFactionEdoClan.rulePack.rulesStrings.0>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.0>r_name(p=4)->[townname_wordgen]</HSEdoSettlementNamer.rulePack.rulesStrings.0>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.1>r_name(p=2)->[townname_combo]</HSEdoSettlementNamer.rulePack.rulesStrings.1>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.2>townname_combo(p=2)->[HSEdoTownstartLine] [HSEdoLastNames]</HSEdoSettlementNamer.rulePack.rulesStrings.2>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.3>townname_combo(p=2)->[HSEdoLastNames]'s [HSEdoTownendLine]</HSEdoSettlementNamer.rulePack.rulesStrings.3>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.4>townname_combo(p=2)->[HSEdoLastNames]'s [HSEdoSacrifice]</HSEdoSettlementNamer.rulePack.rulesStrings.4>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.5>townname_wordgen(p=2)->[HSEdoLastNames]'s [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.5>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.6>townname_wordgen(p=2)->[HSEdoLastNames]'s [HSEdoTownstartLine] by the [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.6>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.7>HSEdoTownendLine->Fort</HSEdoSettlementNamer.rulePack.rulesStrings.7>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.8>HSEdoTownendLine->Citadel</HSEdoSettlementNamer.rulePack.rulesStrings.8>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.9>HSEdoTownendLine->Bastion</HSEdoSettlementNamer.rulePack.rulesStrings.9>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.10>HSEdoTownendLine->Dojo</HSEdoSettlementNamer.rulePack.rulesStrings.10>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.11>HSEdoTownstartLine->Camp</HSEdoSettlementNamer.rulePack.rulesStrings.11>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.12>HSEdoTownstartLine->Fort</HSEdoSettlementNamer.rulePack.rulesStrings.12>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.13>HSEdoTownstartLine->Castle</HSEdoSettlementNamer.rulePack.rulesStrings.13>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.14>HSEdoSacrifice->End</HSEdoSettlementNamer.rulePack.rulesStrings.14>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.15>HSEdoSacrifice->Duty</HSEdoSettlementNamer.rulePack.rulesStrings.15>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.16>HSEdoSacrifice->Sacrifice</HSEdoSettlementNamer.rulePack.rulesStrings.16>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.17>HSEdoSacrifice->Lament</HSEdoSettlementNamer.rulePack.rulesStrings.17>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.18>HSEdoSacrifice->Memorial</HSEdoSettlementNamer.rulePack.rulesStrings.18>
+  <HSEdoNamerPerson.rulePack.rulesStrings.0>r_name(p=4)->[HSEdoNamesMale] [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.0>
+  <HSEdoNamerPerson.rulePack.rulesStrings.1>r_name(p=0.5)->[HSEdoNamesMale] '[HSEdoNicknamesEastereggs]' [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.1>
+  <HSEdoNamerPerson.rulePack.rulesStrings.2>r_name(p=0.5)->[HSEdoNamesMale] '[HSEdoNicknames]' [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.2>
+  <HSEdoNamerFemale.rulePack.rulesStrings.0>r_name(p=4)->[HSEdoNamesFemale] [HSEdoLastNames]</HSEdoNamerFemale.rulePack.rulesStrings.0>
+  <HSEdoNamerFemale.rulePack.rulesStrings.1>r_name(p=0.5)->[HSEdoNamesFemale] '[HSEdoNicknamesEastereggs]' [HSEdoLastNames]</HSEdoNamerFemale.rulePack.rulesStrings.1>
+  <HSEdoNamerFemale.rulePack.rulesStrings.2>r_name(p=0.5)->[HSEdoNamesFemale] '[HSEdoNicknames]' [HSEdoLastNames]</HSEdoNamerFemale.rulePack.rulesStrings.2>
+  <HS_EdoDeityNamer.rulePack.rulesStrings.0>name->[HSEdoNamesFemale] no [end]</HS_EdoDeityNamer.rulePack.rulesStrings.0>
+  <HS_EdoDeityNamer.rulePack.rulesStrings.1>name->[HSEdoNamesFemale]</HS_EdoDeityNamer.rulePack.rulesStrings.1>
+  <HS_EdoDeityNamer.rulePack.rulesStrings.2>name->[HSEdoNamesMale] no [end]</HS_EdoDeityNamer.rulePack.rulesStrings.2>
+  <HS_EdoDeityNamer.rulePack.rulesStrings.3>name->[HSEdoNamesMale]</HS_EdoDeityNamer.rulePack.rulesStrings.3>
+  <HS_EdoDeityNamer.rulePack.rulesStrings.4>end->kami</HS_EdoDeityNamer.rulePack.rulesStrings.4>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.0>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.1>cultureLeaderAdjective->celestial</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.1>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>cultureLeaderAdjective->divine</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.3>cultureLeaderAdjective->great</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.3>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>cultureLeaderAdjective->Just</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>cultureLeaderAdjective->Sun Blessed</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>cultureLeaderAdjective->Moon Blessed</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>cultureLeaderAdjective->Virtuous</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>cultureLeaderNoun->Clan Head</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>cultureLeaderNoun->Uji no kami</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>cultureLeaderNoun->daimyo</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.11>cultureLeaderNoun->lord</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.11>
+  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>r_deityType->[HSgod] of [memeConcept]</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>
+  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>HSgod->Kami</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>
+  <HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] Shogunate</HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.0>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.1>cultureLeaderAdjective->celestial</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.1>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>cultureLeaderAdjective->divine</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.3>cultureLeaderAdjective->great</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.3>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>cultureLeaderAdjective->Just</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>cultureLeaderAdjective->Sun Blessed</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>cultureLeaderAdjective->Moon Blessed</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>cultureLeaderAdjective->Virtuous</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>cultureLeaderNoun->shogun</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.0>r_weapon_name(p=5)->[HSOpener] [HSEnder]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.0>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.1>r_weapon_name(p=2)->[HSKillerOpen] [HSKillerEnd]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.1>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.2>r_weapon_name(p=2)->[HSPeacefulOpener] [HSPeacefulEnder]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.2>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.3>r_weapon_name(p=1)->[HSEasterEggs]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.3>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>HSOpener->hidden</HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>HSOpener->midnight</HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>HSOpener->spring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>HSOpener->prowling</HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>HSOpener->snow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>HSOpener->warrior's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>HSOpener->dueling</HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>HSOpener->tempest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>HSOpener->stirring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>HSOpener->divine</HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>HSOpener->wicked</HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>HSOpener->hungry</HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>HSOpener->heavenly</HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>HSOpener->cursed</HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>HSOpener->azure</HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>HSOpener->shogun's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>HSOpener->daimyo's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>HSOpener->jito's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>HSOpener->lightning</HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>HSOpener->cherry blossom</HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>HSOpener->immortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>HSOpener->mortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>HSOpener->serene</HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>HSOpener->crimson</HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>HSOpener->raging</HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>HSOpener->deranged</HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>HSOpener->spirit</HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>HSOpener->ancestral</HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>HSOpener->beautiful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>HSEnder->grove</HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>HSEnder->forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>HSEnder->bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>HSEnder->koi</HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>HSEnder->dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>HSEnder->oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>HSEnder->blade</HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>HSEnder->cutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>HSEnder->slasher</HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>HSEnder->fortune</HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>HSEnder->storm</HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>HSEnder->faith</HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>HSEnder->tiger</HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>HSEnder->wing</HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>HSEnder->claw</HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>HSEnder->fang</HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>HSEnder->shadow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>HSEnder->keeper</HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>HSEnder->protector</HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>HSEnder->defender</HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>HSKillerOpen->moon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>HSKillerOpen->sun</HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>HSKillerOpen->mountain</HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>HSKillerOpen->oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>HSKillerOpen->spirit</HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>HSKillerOpen->yokai</HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>HSKillerOpen->dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>HSKillerOpen->immortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>HSKillerEnd->slayer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>HSKillerEnd->cutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>HSKillerEnd->killer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>HSKillerEnd->destroyer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>HSPeacefulOpener->serene</HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>HSPeacefulOpener->silent</HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>HSPeacefulOpener->peaceful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>HSPeacefulOpener->spring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>HSPeacefulOpener->stirring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>HSPeacefulOpener->beautiful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>HSPeacefulOpener->river</HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>HSPeacefulEnder->grove</HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>HSPeacefulEnder->forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>HSPeacefulEnder->bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>HSPeacefulEnder->grass</HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>HSPeacefulEnder->breeze</HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>HSEasterEggs->The Storm of Clan Sakai</HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>HSEasterEggs->Hero of Tsushima</HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>HSEasterEggs->Heavenly Falcon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>HSEasterEggs->Omukade's Revenge</HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>HSEasterEggs->Izanami's Grief</HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>HSEasterEggs->Azure Dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>HSEasterEggs->Bishamon's Fortune</HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>HSEasterEggs->Breath of Hachiman</HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>HSEasterEggs->Dueling Festival</HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>HSEasterEggs->Fuujin's Secret</HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>HSEasterEggs->Genbu's Darkness</HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>HSEasterEggs->Gold Koi River</HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>HSEasterEggs->Hijiki in Sunlight</HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>HSEasterEggs->Hunting Bear</HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>HSEasterEggs->Hidden Forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>HSEasterEggs->Island's Keeper</HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>HSEasterEggs->Mamushi Venom</HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>HSEasterEggs->Midnight Hanabi</HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>HSEasterEggs->Moon Bear's Paw</HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>HSEasterEggs->Shogun's Storm</HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>HSEasterEggs->Sly Tanuki</HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>HSEasterEggs->Spring Bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>HSEasterEggs->Tanuki's Brush</HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>HSEasterEggs->Twilight Oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>HSEasterEggs->Warrior's Brush</HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>HSEasterEggs->Warrior's Faith</HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>HSEasterEggs->Yasha's Embers</HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>HSEasterEggs->Yuzu Peel</HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>HSEasterEggs->Warrior's Shadow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>HSEasterEggs->Prowling Tiger</HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>HSEasterEggs->Emperor's Tears</HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>HSEasterEggs->Snow Demon's Eyes</HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>HSEasterEggs->Sea Dragon's Wing</HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>HSEasterEggs->Tempest’s End</HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>HSEasterEggs->The Spider’s Kiss</HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>HSEasterEggs->Nekoma’s Fang</HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>HSEasterEggs->Immortal Hope</HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>HSEasterEggs->The Stonecutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>HSEasterEggs->Mashira’s Bite</HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>HSEasterEggs->Undying Rage</HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>HSEasterEggs->The Hidden Heart</HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>HSEasterEggs->The Mortal Blade</HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>HSEasterEggs->Fushigiri</HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>HSEasterEggs->Kaimon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>HSEasterEggs->Kusabimaru</HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>HSEasterEggs->Sohoyamaru</HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.0>physical_description_root(p=5)-> [HSSceneSetter] [HSSceneMID] [HSSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.0>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.1>physical_description_root(p=5)-> [HSCalmSceneSetter] [HSCalmSceneMID] [HSCalmSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.1>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.2>physical_description_root(p=1)-> [HSDuelSceneSetter] [HSDuelSceneMID] [HSDuelSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.2>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>HSSceneSetter->Mountains of corpses amid rivers of blood.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>HSSceneSetter->smoke fills the air. The ravaging hordes aproach.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>HSSceneSetter->Shadows surge forth, clouding vision.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>HSSceneSetter->Shoulder to shoulder we stand united.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>HSSceneSetter->The wolves circle, mangy, feral, starved.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>HSSceneSetter->Towering above, we stand ready.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>HSSceneSetter->Standing amid the bamboo grove.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>HSSceneSetter->As night falls, death approaches.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>HSSceneMID->bloody, battered and bruised; at our stories end.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>HSSceneMID->The cowardly die an eternal death, the brave endure forever.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>HSSceneMID->Countless have fallen, few remain.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>HSSceneMID->The body is broken, but the spirit remains.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>HSSceneMID->Riddled with holes, a warriors death awaits.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>HSSceneMID->The voices of the dead beckon us home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>HSSceneMID->Warriors who will sacrifice everything for their homes.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>HSSceneMID->Pure of purpose, prepared to face death.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>HSSceneEND->We meet the end with open arms.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>HSSceneEND->One final fight awaits.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>HSSceneEND->Stand, and fight.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>HSSceneEND->Life is but a fleeting dream.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>HSSceneEND->Darkness fades in brilliant light.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>HSSceneEND->We surge forth to the end.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>HSSceneEND->Duty demands one final sacrifice.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>HSSceneEND->There is beauty in impermanence.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>HSSceneEND->The shadows are deepest before dawn.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>HSCalmSceneSetter->Swaying freely in the wind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>HSCalmSceneSetter->Growth that shelters all it sees.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>HSCalmSceneSetter->Calm waters, calm mind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>HSCalmSceneSetter->Submerged deep in nature's shade.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>HSCalmSceneSetter->Steeling myself for the battles ahead.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>HSCalmSceneMID->Reaching within to find resolve.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>HSCalmSceneMID->Cherry Blossoms flutter in the wind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>HSCalmSceneMID->The gentle breeze flows unbroken.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>HSCalmSceneMID->The strength we need is all around us.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>HSCalmSceneEND-> I remain unshaken.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>HSCalmSceneEND->Stand again, reborn.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>HSCalmSceneEND->A bulwark against the coming storm.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>HSCalmSceneEND->A storm looms on the horizon.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>HSCalmSceneEND->Something wicked this way comes.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>HSDuelSceneSetter->When words fail and tempers run hot.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>HSDuelSceneSetter->Honor, besmirched.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>HSDuelSceneSetter->Sensibility turned to steel.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>HSDuelSceneMID->Blood soaks through the cracked stone.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>HSDuelSceneMID->Blood splattered across the shifting susuki.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>HSDuelSceneMID->Tatami tained by crimson.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>HSDuelSceneEND->The proud do not endure.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>HSDuelSceneEND->Those who can't bend, will break.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>HSDuelSceneEND->Life ends in the blink of an eye.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>HSDuelSceneEND->Life is but a fleeting dream.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>HSHopeSceneSetter->The weary rise, rejuvenated</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>HSHopeSceneSetter->Our spirits mended</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>HSHopeSceneSetter->Our will is reborn</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>HSHopeSceneSetter->Our strength is reforged</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>HSHopeSceneMID->under the suns warm embrace.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>HSHopeSceneMID->by memories of our home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>HSHopeSceneMID->by the warmth of home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>
+</LanguageData>
