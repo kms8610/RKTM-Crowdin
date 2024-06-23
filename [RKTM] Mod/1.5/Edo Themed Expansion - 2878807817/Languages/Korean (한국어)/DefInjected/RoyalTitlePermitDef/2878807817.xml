@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSSteelDrop.label>강철 투하</HSSteelDrop.label>
+  <HSSteelDrop.description>강철 250개를 요청합니다.</HSSteelDrop.description>
+  <HSKokuDrop.label>코쿠 드랍</HSKokuDrop.label>
+  <HSKokuDrop.description>코쿠 4개를 요청합니다. 코쿠 하나에는 쌀 75개가 들어있습니다. 코쿠는 제작 장소나 조리대에서 개봉할 수 있습니다.</HSKokuDrop.description>
+  <HSSilverDrop.label>은 투하</HSSilverDrop.label>
+  <HSSilverDrop.description>은 500개를 요청합니다.</HSSilverDrop.description>
+  <HSHerbalMedDrop.label>약초 의학 드랍</HSHerbalMedDrop.label>
+  <HSHerbalMedDrop.description>약초 의학을 요청합니다.</HSHerbalMedDrop.description>
+  <HSCallLaborerTeam.label>노동대 호출</HSCallLaborerTeam.label>
+  <HSCallLaborerTeam.description>4일 동안 도움을 줄 5명의 평민을 호출합니다. 이 노동자들은 일반 노동 작업만 할 수 있습니다. 마치 당신의 자기 정착민처럼 그들을 통제할 수 있습니다. 그들의 안전을 확보해야 합니다.</HSCallLaborerTeam.description>
+  <HSCallLaborerGang.label>증강된 노동대 호출</HSCallLaborerGang.label>
+  <HSCallLaborerGang.description>4일 동안 도움을 줄 10명의 평민을 호출합니다. 이 노동자들은 일반 노동 작업만 할 수 있습니다. 마치 당신의 자기 정착민처럼 그들을 통제할 수 있습니다. 그들의 안전을 확보해야 합니다.</HSCallLaborerGang.description>
+  <HSLegendaryWeaponRequest.label>전설의 카타나 요청</HSLegendaryWeaponRequest.label>
+  <HSLegendaryWeaponRequest.description>당신에게 그들의 금고 속 전설의 카타나를 수여해달라고 쇼군에게 요청합니다.</HSLegendaryWeaponRequest.description>
+  <HSCallMilitaryAidSmall.label>초보 사무라이 전투대 호출</HSCallMilitaryAidSmall.label>
+  <HSCallMilitaryAidSmall.description>전투를 도와줄 6명의 초보 사무라이를 호출합니다.</HSCallMilitaryAidSmall.description>
+  <HSCallMilitaryAidLarge.label>능력 있는 사무라이 전투대 호출</HSCallMilitaryAidLarge.label>
+  <HSCallMilitaryAidLarge.description>전투를 도와줄 4명의 능력 있는 사무라이를 호출합니다.</HSCallMilitaryAidLarge.description>
+  <HSCallShinobiSD.label>시노비 지원 요청</HSCallShinobiSD.label>
+  <HSCallShinobiSD.description>신비로운 시노비 블레이드 마스터 그룹을 호출합니다</HSCallShinobiSD.description>
+  <HSCallMilitaryAidGrand.label>숙련된 사무라이 전투대 호출</HSCallMilitaryAidGrand.label>
+  <HSCallMilitaryAidGrand.description>전투를 도와줄 4명의 숙련된 사무라이를 호출합니다.</HSCallMilitaryAidGrand.description>
+</LanguageData>
