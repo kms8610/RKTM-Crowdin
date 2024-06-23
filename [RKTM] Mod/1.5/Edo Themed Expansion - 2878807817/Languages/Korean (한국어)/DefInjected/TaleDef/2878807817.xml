@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <PracticedMakingAHaiku.label>Practiced Making A Haiku</PracticedMakingAHaiku.label>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] practicing haiku at a [OBJECT_label]</PracticedMakingAHaiku.rulePack.rulesStrings.0>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] making a haiku</PracticedMakingAHaiku.rulePack.rulesStrings.1>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.2>image->[PAWN_nameFull] drafting a haiku [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.2>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.3>image->[PAWN_nameFull] practicing wrting [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.3>
+  <PracticedMakingAHaiku.label>하이쿠 쓰기 연습</PracticedMakingAHaiku.label>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef]이 [OBJECT_label]에서 하이쿠 연습하기</PracticedMakingAHaiku.rulePack.rulesStrings.0>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef]이 하이쿠 만들기</PracticedMakingAHaiku.rulePack.rulesStrings.1>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.2>image->[PAWN_nameFull]이 하이쿠 초안 작성하기 [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.2>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.3>image->[PAWN_nameFull]이 글쓰기 연습하기 [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.3>
   <PracticedMakingAHaiku.rulePack.rulesStrings.4>image->[circumstance_group] [PAWN_nameFull]는 [OBJECT_label] 옆에 앉음</PracticedMakingAHaiku.rulePack.rulesStrings.4>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.5>image->[PAWN_nameFull] thinking about what to write [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.5>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.5>image->[PAWN_nameFull]이 무엇을 쓸지 생각하기 [circumstance_group]</PracticedMakingAHaiku.rulePack.rulesStrings.5>
   <PracticedMakingAHaiku.rulePack.rulesStrings.6>circumstance_phrase->[angstyverb]</PracticedMakingAHaiku.rulePack.rulesStrings.6>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.7>circumstance_phrase->lost in thought</PracticedMakingAHaiku.rulePack.rulesStrings.7>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.7>circumstance_phrase->생각에 잠기다</PracticedMakingAHaiku.rulePack.rulesStrings.7>
   <PracticedMakingAHaiku.rulePack.rulesStrings.8>circumstance_phrase->바짝 기장합니다</PracticedMakingAHaiku.rulePack.rulesStrings.8>
   <PracticedMakingAHaiku.rulePack.rulesStrings.9>circumstance_phrase->긴장을 풀고 안정을 얻음</PracticedMakingAHaiku.rulePack.rulesStrings.9>
   <PracticedMakingAHaiku.rulePack.rulesStrings.10>desc_sentence->[Color] 오로라가 뒤에서 빛납니다.</PracticedMakingAHaiku.rulePack.rulesStrings.10>
@@ -17,6 +17,6 @@
   <PracticedMakingAHaiku.rulePack.rulesStrings.13>desc_sentence->[PAWN_nameDef](은)는 과장됐습니다.</PracticedMakingAHaiku.rulePack.rulesStrings.13>
   <PracticedMakingAHaiku.rulePack.rulesStrings.14>desc_sentence->[PAWN_nameDef](은)는 보기보다 실력이 좋습니다.</PracticedMakingAHaiku.rulePack.rulesStrings.14>
   <PracticedMakingAHaiku.rulePack.rulesStrings.15>desc_sentence->멀리서 [TerrainFeature]의 모습이 보입니다.</PracticedMakingAHaiku.rulePack.rulesStrings.15>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.16>desc_sentence->A field of [Vegetable]s is nearby.</PracticedMakingAHaiku.rulePack.rulesStrings.16>
-  <PracticedMakingAHaiku.rulePack.rulesStrings.17>desc_sentence->A [TerrainFeature] can be seen far away.</PracticedMakingAHaiku.rulePack.rulesStrings.17>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.16>desc_sentence->[Vegetable] 밭이 가까이 있습니다.</PracticedMakingAHaiku.rulePack.rulesStrings.16>
+  <PracticedMakingAHaiku.rulePack.rulesStrings.17>desc_sentence->눈에 덮인 [TerrainFeature](이)가 저멀리 보입니다.</PracticedMakingAHaiku.rulePack.rulesStrings.17>
 </LanguageData>
