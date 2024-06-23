@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HS_EdoClanTrader.label>상인</HS_EdoClanTrader.label>
+  <HS_EdoClan_Peasant.label>소작농</HS_EdoClan_Peasant.label>
+  <HS_BasicTownGuard.label>징집된 경비</HS_BasicTownGuard.label>
+  <HS_RangedNoviceSamurai.label>초보 사무라이 궁수</HS_RangedNoviceSamurai.label>
+  <HS_NoviceSamurai.label>초보 사무라이</HS_NoviceSamurai.label>
+  <HS_RangedSamurai.label>사무라이 궁수</HS_RangedSamurai.label>
+  <HS_RangedSamuraiGunner.label>사무라이 사수</HS_RangedSamuraiGunner.label>
+  <HSSamuraiCapable.label>사무라이</HSSamuraiCapable.label>
+  <HSSamuraiBrute.label>사무라이</HSSamuraiBrute.label>
+  <HS_Onnabushi.labelMale>부시</HS_Onnabushi.labelMale>
+  <HS_Onnabushi.labelFemale>온나부시</HS_Onnabushi.labelFemale>
+  <HS_VeteranSamurai.labelMale>베테랑 사무라이</HS_VeteranSamurai.labelMale>
+  <HS_VeteranSamurai.labelFemale>베테랑 사무라이</HS_VeteranSamurai.labelFemale>
+  <HS_SamuraiGeneralBold.labelMale>장군</HS_SamuraiGeneralBold.labelMale>
+  <HS_SamuraiGeneralBold.labelFemale>장군</HS_SamuraiGeneralBold.labelFemale>
+  <HS_SamuraiKensei.labelMale>겐세이</HS_SamuraiKensei.labelMale>
+  <HS_SamuraiKensei.labelFemale>겐세이</HS_SamuraiKensei.labelFemale>
+  <HS_NobleClansfolk.label>노블</HS_NobleClansfolk.label>
+  <HS_Daimyo.labelMale>다이묘</HS_Daimyo.labelMale>
+  <HS_Daimyo.labelFemale>다이묘</HS_Daimyo.labelFemale>
+  <HS_NoviceShinobi.label>초보 시노비</HS_NoviceShinobi.label>
+  <HS_ShinobiThug.label>시노비 두목</HS_ShinobiThug.label>
+  <HS_ShinobiMaster.label>시노비 마스터</HS_ShinobiMaster.label>
+  <HS_Shinobi_Sword_Demon.label>시노비 검귀</HS_Shinobi_Sword_Demon.label>
+  <HS_Shogunate_Samurai.label>사무라이</HS_Shogunate_Samurai.label>
+  <HS_Ashigaru.label>아시가루</HS_Ashigaru.label>
+  <HS_Shinsengumi.labelMale>신센구미</HS_Shinsengumi.labelMale>
+  <HS_Shinsengumi.labelFemale>신센구미</HS_Shinsengumi.labelFemale>
+  <HS_RangedNoviceSamurai_Shogun.label>초보 사무라이 궁수</HS_RangedNoviceSamurai_Shogun.label>
+  <HS_RangedSamurai_Shogun.label>사무라이 궁수</HS_RangedSamurai_Shogun.label>
+  <HS_RangedSamuraiGunner_Shogun.label>사무라이 사수</HS_RangedSamuraiGunner_Shogun.label>
+  <HS_Shogun.labelMale>쇼군</HS_Shogun.labelMale>
+  <HS_Shogun.labelFemale>쇼군</HS_Shogun.labelFemale>
+  <HSEdo_Member.label>구성원</HSEdo_Member.label>
+</LanguageData>
