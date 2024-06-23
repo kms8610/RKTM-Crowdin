@@ -1,258 +1,258 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Edo_paperLanternHanging.label>paper lantern</Edo_paperLanternHanging.label>
-  <Edo_paperLanternHanging.description>a paper lantern hanging by a rope</Edo_paperLanternHanging.description>
-  <Edo_paperLanternStrung.label>paper lantern strung</Edo_paperLanternStrung.label>
-  <Edo_paperLanternStrung.description>paper lanterns strung along a rope</Edo_paperLanternStrung.description>
-  <HSSashimono.label>Sashimono</HSSashimono.label>
-  <HSSashimono.description>A small banner traditionally worn by foot soliders. This one, however, has been put in place as a colony banner.</HSSashimono.description>
-  <HSKatanastand.label>Katana Stand</HSKatanastand.label>
-  <HSKatanastand.description>A stand for holding and displaying your Katana, a perfect conversation starter at dinner parties.</HSKatanastand.description>
-  <HSHaka.label>Haka</HSHaka.label>
-  <HSHaka.description>A Haka, or grave. Typically, a Japanese grave is a family grave flowers, incense, and water in front of the monument and a chamber or crypt underneath for the ashes.</HSHaka.description>
-  <HSToriiGate.label>Torii Gate</HSToriiGate.label>
-  <HSToriiGate.description>Found at the entrance or within a Shinto shrine, it symbolizes the exiting of the material and entering of sacred grounds.</HSToriiGate.description>
-  <HSHokora.label>Hokora</HSHokora.label>
-  <HSHokora.description>A Hokora acts as a shrine, or home to Minor Kami not claimed by any large shrine.</HSHokora.description>
-  <HSToro.label>Tōrō</HSToro.label>
-  <HSToro.description>a tōrō is a traditional lantern made of stone, wood, or metal. Like many other elements of Japanese traditional architecture, it originated in China where they can still be found in Buddhist temples and Chinese gardens.</HSToro.description>
-  <HSHaymat.label>hay mat</HSHaymat.label>
-  <HSHaymat.description>A hay mat for sitting, it's not the most comfortable, but there are worse options.</HSHaymat.description>
-  <HSRough_Tatami.label>Rough Tatami</HSRough_Tatami.label>
-  <HSRough_Tatami.description>A Tatami mat only by the loosest of definitions.</HSRough_Tatami.description>
-  <HS_RoughFuton.label>Rough Futon</HS_RoughFuton.label>
-  <HS_RoughFuton.description>A roughly made Futon, it's not the prettiest but its way more comfortable then sleeping on the floor.</HS_RoughFuton.description>
-  <HS_Chabudai.label>chabudai</HS_Chabudai.label>
-  <HS_Chabudai.description>The chabudai is a short-legged table used in traditional Japanese homes, it ranges from 15-30 Cm and often has collapsible legs for easy storage.</HS_Chabudai.description>
-  <HSFancy_Tatami.label>Fancy Tatami</HSFancy_Tatami.label>
-  <HSFancy_Tatami.description>An actual tatami mat, fit for a person of status.</HSFancy_Tatami.description>
-  <HSEdoThrone.label>edo throne</HSEdoThrone.label>
+  <Edo_paperLanternHanging.label>종이 등롱</Edo_paperLanternHanging.label>
+  <Edo_paperLanternHanging.description>밧줄에 걸린 종이 등롱</Edo_paperLanternHanging.description>
+  <Edo_paperLanternStrung.label>열린 종이 등롱</Edo_paperLanternStrung.label>
+  <Edo_paperLanternStrung.description>밧줄에 열린 종이 등롱들</Edo_paperLanternStrung.description>
+  <HSSashimono.label>사시모노</HSSashimono.label>
+  <HSSashimono.description>보병들이 전통적으로 착용했던 작은 배너입니다. 그러나 이제는 정착지 배너로 자리 잡았습니다.</HSSashimono.description>
+  <HSKatanastand.label>카타나 스탠드</HSKatanastand.label>
+  <HSKatanastand.description>카타나를 보관하고 전시하는 스탠드로, 저녁 식사 파티에서 대화의 시작을 도와줄 완벽한 아이템입니다.</HSKatanastand.description>
+  <HSHaka.label>하카</HSHaka.label>
+  <HSHaka.description>하카, 혹은 묘지입니다. 전형적인 일본의 묘지는 기념비 앞에 꽃, 향, 물을 두고 기념비나 암실 아래에 재를 두는 가족 묘입니다.</HSHaka.description>
+  <HSToriiGate.label>토리 게이트</HSToriiGate.label>
+  <HSToriiGate.description>진토 신사의 입구나 내부에서 찾아볼 수 있는 토리 게이트는 물질 세계를 나와 신성한 공간에 들어간다는 것을 상징합니다.</HSToriiGate.description>
+  <HSHokora.label>호코라</HSHokora.label>
+  <HSHokora.description>호코라는 신사나 가벼움 가미를 모시는 집으로 활동합니다.</HSHokora.description>
+  <HSToro.label>토로</HSToro.label>
+  <HSToro.description>토로는 돌, 나무, 금속으로 만든 전통적인 등롱입니다. 일본의 전통 건축의 다른 요소들과 마찬가지로, 그것은 중국에서 유래되었으며 여전히 불교 사찰과 중국 정원에서 볼 수 있습니다.</HSToro.description>
+  <HSHaymat.label>건초 매트</HSHaymat.label>
+  <HSHaymat.description>앉기 위한 건초 매트, 가장 편안한 것은 아니지만 더 나쁜 선택지들도 있습니다.</HSHaymat.description>
+  <HSRough_Tatami.label>거친 다다미</HSRough_Tatami.label>
+  <HSRough_Tatami.description>가장 느슨한 정의에 의한 다다미 매트입니다.</HSRough_Tatami.description>
+  <HS_RoughFuton.label>거친 후톤</HS_RoughFuton.label>
+  <HS_RoughFuton.description>대충 만든 후톤, 가장 예쁜 것은 아니지만 바닥에 그냥 자는 것보다는 훨씬 편안합니다.</HS_RoughFuton.description>
+  <HS_Chabudai.label>차부다이</HS_Chabudai.label>
+  <HS_Chabudai.description>차부다이는 전통적인 일본 가정에서 사용되는 다리가 짧은 테이블로, 높이는 15-30 Cm이며 종종 접이식 다리를 갖고 있어 보관이 용이합니다.</HS_Chabudai.description>
+  <HSFancy_Tatami.label>화려한 타타미</HSFancy_Tatami.label>
+  <HSFancy_Tatami.description>지위가 있는 사람에게 어울리는 실제 타타미 매트.</HSFancy_Tatami.description>
+  <HSEdoThrone.label>에도 왕좌</HSEdoThrone.label>
   <HSEdoThrone.description>귀족만이 앉을 수 있는 크고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</HSEdoThrone.description>
-  <HSAndon.label>Andon</HSAndon.label>
-  <HSAndon.description>The andon is a lamp consisting of paper stretched over a frame of bamboo, wood or metal. The paper protects the flame from the wind.</HSAndon.description>
-  <HS_FancyFutonDouble.label>double fancy futon</HS_FancyFutonDouble.label>
-  <HS_FancyFutonDouble.description>An ornate futon made large enough for two people.</HS_FancyFutonDouble.description>
-  <HS_FancyFuton.label>Fancy Futon</HS_FancyFuton.label>
-  <HS_FancyFuton.description>A fancy futon with decorative patterns, fit for a samurai.</HS_FancyFuton.description>
-  <HSKoto.label>Koto</HSKoto.label>
-  <HSKoto.description>The average Koto is roughly 180 centimetres (71 in) in length, and features 13 strings, it is also the national instrument of Japan.</HSKoto.description>
-  <HSKamado.label>Kamado</HSKamado.label>
-  <HSKamado.description>A traditional Japanese wood or charcoal-fueled stove, it is designed to steam rice but can be used for cooking other meals like flatbreads.</HSKamado.description>
-  <HSElectricKamado.label>Electric Kamado</HSElectricKamado.label>
-  <HSElectricKamado.description>A traditional Japanese wood or charcoal-fueled stove that's been modified for electric use.</HSElectricKamado.description>
-  <HS_Irori_Small.label>Irori 1x1</HS_Irori_Small.label>
-  <HS_Irori_Small.description>A small, simplistic Irori designed for function over form. The Irori is used for heating the home and cooking food.</HS_Irori_Small.description>
-  <HS_HaikuSpot.label>Haiku Spot</HS_HaikuSpot.label>
-  <HS_HaikuSpot.description>A spot for drafting and writing Haiku, trains artistic ability</HS_HaikuSpot.description>
-  <HSShogiboard.label>shogi board</HSShogiboard.label>
-  <HSShogiboard.description>A japanese board game that is quite similar to chess, games can last anywhere from half an hour to many hours. Like the chess table, it needs chairs placed adjacent to be usable.</HSShogiboard.description>
-  <HS_BlackPowderBarrel.label>black powder barrel</HS_BlackPowderBarrel.label>
-  <HS_BlackPowderBarrel.description>a barrel stuffed full of black powder, great for blowing up unsuspecting raiders. Explodes when damaged.</HS_BlackPowderBarrel.description>
+  <HSAndon.label>안돈</HSAndon.label>
+  <HSAndon.description>안돈은 대나무, 나무, 금속의 틀에 종이를 덮어 만든 램프입니다. 종이는 불꽃을 바람으로부터 보호합니다.</HSAndon.description>
+  <HS_FancyFutonDouble.label>이중 화려한 후튼</HS_FancyFutonDouble.label>
+  <HS_FancyFutonDouble.description>두 사람이 사용하기에 충분히 큰 화려한 이불.</HS_FancyFutonDouble.description>
+  <HS_FancyFuton.label>화려한 이불</HS_FancyFuton.label>
+  <HS_FancyFuton.description>사무라이에 어울리는 장식 무늬가 있는 화려한 이불.</HS_FancyFuton.description>
+  <HSKoto.label>코토</HSKoto.label>
+  <HSKoto.description>평균적인 코토는 길이가 대략 180센티미터 (71인치)이며, 13개의 줄이 있고, 일본의 국악기이기도 합니다.</HSKoto.description>
+  <HSKamado.label>가마도</HSKamado.label>
+  <HSKamado.description>전통적인 일본의 나무 또는 숯을 연료로 사용하는 스토브로, 쌀을 찌는데 사용되지만 플랫브레드와 같은 다른 식사를 요리하는 데에도 사용됩니다.</HSKamado.description>
+  <HSElectricKamado.label>전기 가마도</HSElectricKamado.label>
+  <HSElectricKamado.description>전통적인 일본의 나무 또는 숯을 연료로 사용하는 스토브를 전기 사용에 맞게 수정한 것입니다.</HSElectricKamado.description>
+  <HS_Irori_Small.label>일로리 1x1</HS_Irori_Small.label>
+  <HS_Irori_Small.description>기능을 중요시하는 간단한 일로리입니다. 일로리는 집을 데우고 음식을 요리하는 데 사용됩니다.</HS_Irori_Small.description>
+  <HS_HaikuSpot.label>하이쿠 스팟</HS_HaikuSpot.label>
+  <HS_HaikuSpot.description>하이쿠를 짓고 쓰는 장소로, 예술 능력을 훈련시킵니다</HS_HaikuSpot.description>
+  <HSShogiboard.label>쇼기 판</HSShogiboard.label>
+  <HSShogiboard.description>체스와 매우 비슷한 일본의 보드 게임으로, 게임 시간은 30분부터 몇 시간까지 다양합니다. 체스 테이블처럼 사용하려면 인접한 자리에 의자가 필요합니다.</HSShogiboard.description>
+  <HS_BlackPowderBarrel.label>흑색 화약 총열</HS_BlackPowderBarrel.label>
+  <HS_BlackPowderBarrel.description>흑색 화약으로 가득 찬 총열로, 의심 많은 습격자들을 폭파시키기에 좋습니다. 손상될 경우 폭발합니다.</HS_BlackPowderBarrel.description>
   <HS_Shoji_Door.label>쇼지</HS_Shoji_Door.label>
-  <HS_Shoji_Door.description>Shoji consists of a thick, translucent paper stretched over a wooden frame that holds together a lattice made of wood or bamboo. Since it is a simple door it must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</HS_Shoji_Door.description>
-  <HSEdo_PlasterWall.label>Shikkui Wall</HSEdo_PlasterWall.label>
-  <HSEdo_PlasterWall.description>A plaster wall made from lime and eggshells, as well as a wooden frame.</HSEdo_PlasterWall.description>
-  <HSTempleEave.label>Temple Eave</HSTempleEave.label>
-  <HSTempleEave.description>a eave for temple roofs.</HSTempleEave.description>
-  <HSDango.label>Dango</HSDango.label>
-  <HSDango.description>Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Generally Dango is served as a snack with green tea.</HSDango.description>
-  <HSAdzukiBeanPaste.label>adzuki bean paste</HSAdzukiBeanPaste.label>
-  <HSAdzukiBeanPaste.description>Adzuki bean paste, or red bean paste, is prepared by boiling the beans, then mashing or grinding them. From there is can be sweetened or left as is.</HSAdzukiBeanPaste.description>
-  <HSAdzukiDango.label>Adzuki Flavored Dango</HSAdzukiDango.label>
-  <HSAdzukiDango.description>Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Generally Dango is served as a snack with green tea. This kind is flavored with Aduzki bean paste</HSAdzukiDango.description>
-  <HSKoku.label>Koku</HSKoku.label>
-  <HSKoku.description>A Koku is a bundle that contains enough rice to feed a person for roughly a year, and is a source of currency in edo japan. In rimworld terms, however, it is only 75 units of rice, as the actual amount required to feed a pawn per year would be roughly 1,920 units of rice. Koku can be unbundled at a crafting spot or cooking station.</HSKoku.description>
+  <HS_Shoji_Door.description>서까래가 있는 목재 또는 대나무 격자를 견고하게 만들어준 목조 프레임에 두꺼운 반투명 종이를 늘이는 소지입니다. 단순한 문이므로 수동으로 열어야 하며, 이로 인해 사람들의 이동 속도가 느려집니다. 이동 속도의 감소는 문의 제작 재료에 따라 달라집니다.</HS_Shoji_Door.description>
+  <HSEdo_PlasterWall.label>싯쿠이 벽</HSEdo_PlasterWall.label>
+  <HSEdo_PlasterWall.description>석회와 달걀 껍질, 그리고 목조 프레임으로 만들어진 석고벽입니다.</HSEdo_PlasterWall.description>
+  <HSTempleEave.label>절 기와</HSTempleEave.label>
+  <HSTempleEave.description>절 지붕을 위한 처마.</HSTempleEave.description>
+  <HSDango.label>단고</HSDango.label>
+  <HSDango.description>단고는 우루치쌀 가루와 찹쌀 가루를 섞어 만든 일본식 찐빵입니다. 일반적으로 단고는 녹차와 함께 간식으로 제공됩니다.</HSDango.description>
+  <HSAdzukiBeanPaste.label>팥소</HSAdzukiBeanPaste.label>
+  <HSAdzukiBeanPaste.description>팥소, 또는 단팥은 팥을 삶은 후 으깨거나 갈아서 준비합니다. 그 후 설탕을 첨가하거나 그대로 사용할 수 있습니다.</HSAdzukiBeanPaste.description>
+  <HSAdzukiDango.label>팥 맛 단고</HSAdzukiDango.label>
+  <HSAdzukiDango.description>단고는 우루치쌀 가루와 찹쌀 가루를 섞어 만든 일본식 찐빵입니다. 일반적으로 단고는 녹차와 함께 간식으로 제공됩니다. 이 종류는 팥소로 맛을 내었습니다</HSAdzukiDango.description>
+  <HSKoku.label>코쿠</HSKoku.label>
+  <HSKoku.description>코쿠는 대략 일년 동안 한 사람을 먹일 수 있는 충분한 양의 쌀을 담은 묶음으로, 에도 시대 일본의 화폐 단위로 사용되었습니다. 하지만 변경계에서는 75 단위의 쌀로만 구성되어 있으며, 실제로 일년 동안 폰을 먹이는데 필요한 양은 대략 1,920 단위의 쌀입니다. 코쿠는 공예 지점이나 요리 스테이션에서 해체할 수 있습니다.</HSKoku.description>
   <hs_Edo_Bamboo.label>대나무</hs_Edo_Bamboo.label>
-  <hs_Edo_Bamboo.description>bamboo from... bamboo, its flexible and fast growing, while not as strong as some woods it is very good for load bearing and wind resistance, bamboo also tends to be more fire resistant then wood.</hs_Edo_Bamboo.description>
+  <hs_Edo_Bamboo.description>대나무는 유연하며 빠르게 자라며, 일부 목재만큼 강하지는 않지만 하중을 지탱하고 바람 저항에 매우 좋습니다. 또한, 대나무는 목재보다 화재에 잘 견디는 경향이 있습니다.</hs_Edo_Bamboo.description>
   <hs_Edo_Bamboo.stuffProps.stuffAdjective>대나무</hs_Edo_Bamboo.stuffProps.stuffAdjective>
   <hs_Edo_Bamboo.tools.0.label>목재</hs_Edo_Bamboo.tools.0.label>
-  <HSUnfinishedHaybase.label>unfinished Hay item</HSUnfinishedHaybase.label>
-  <HSUnfinishedHaybase.description>An unfinished Hay item.</HSUnfinishedHaybase.description>
-  <HSApparel_Roningasa.label>Roningasa</HSApparel_Roningasa.label>
-  <HSApparel_Roningasa.description>A Roningasa, it helps keep the sun out of your eyes.</HSApparel_Roningasa.description>
-  <HSApparel_Hitaiate.label>Hitai-Ate</HSApparel_Hitaiate.label>
-  <HSApparel_Hitaiate.description>A forehead protector made with a strip of cloth and a metal plate layered over.</HSApparel_Hitaiate.description>
-  <HSApparel_Amigasa.label>Amigasa</HSApparel_Amigasa.label>
-  <HSApparel_Amigasa.description>An Amigasa, it helps keep the sun out of your eyes.</HSApparel_Amigasa.description>
-  <HSApparel_Menpo.label>Menpo</HSApparel_Menpo.label>
-  <HSApparel_Menpo.description>A face mask that helps secure top-heavy Kabuto, its fashioned to look like the face of a demon, and gives off an air of authority.</HSApparel_Menpo.description>
-  <HSApparel_Tengai.label>Tengai</HSApparel_Tengai.label>
-  <HSApparel_Tengai.description>Tengai are often worn by Komusō monks,they symbolize a dismissal of ego or self.</HSApparel_Tengai.description>
-  <HSApparel_Soheiheadwrap.label>Sohei Headwrap</HSApparel_Soheiheadwrap.label>
-  <HSApparel_Soheiheadwrap.description>A Headwrap worn by the Sohei Warrior Monks.</HSApparel_Soheiheadwrap.description>
-  <HSApparel_SamuraiFaceGuard.label>Faceguard</HSApparel_SamuraiFaceGuard.label>
-  <HSApparel_SamuraiFaceGuard.description>this face guard doesn't offer much protection, but it's cheaper to make than a menpo and better then nothing.</HSApparel_SamuraiFaceGuard.description>
-  <HSApparel_Hachimaki.label>Hachimaki</HSApparel_Hachimaki.label>
-  <HSApparel_Hachimaki.description>A headband typically made of red or white cloth and featuring an inspirational slogan. It provides little armor but gives a sort of bravado.</HSApparel_Hachimaki.description>
-  <HSKabuto.label>Kabuto</HSKabuto.label>
-  <HSKabuto.description>A Zunari Kabuto. It is an important part of the samurais equipment, provided they wish to keep their heads.</HSKabuto.description>
-  <HSBoldKabuto.label>Bold Kabuto</HSBoldKabuto.label>
-  <HSBoldKabuto.description>A Zunari Kabuto adorned with deer horns. This ornament is a challenge more than a fashion choice, a bold statement on the battlefield that says "Here I am, try and take me".</HSBoldKabuto.description>
-  <HSKenseiKabuto.label>Kensei Kabuto</HSKenseiKabuto.label>
-  <HSKenseiKabuto.description>A Zunari Kabuto given to sword saints. Those who wear this helmet know this well; The flow of battle may change in but a moment, hesitation is defeat.</HSKenseiKabuto.description>
-  <HSDaimyoKabuto.label>Daimyo's Kabuto</HSDaimyoKabuto.label>
-  <HSDaimyoKabuto.description>A beautifully crafted Kabuto, it's golden visage makes the presence of a Daimyo obvious, inspiring nearby allies to fight and work harder. (Requires Ideology to gain special hediff)</HSDaimyoKabuto.description>
-  <HSVetereanKabuto.label>Veterans Kabuto</HSVetereanKabuto.label>
-  <HSVetereanKabuto.description>A heavy kabuto, while its sheer weight may slow you down, it'll keep your head intact.</HSVetereanKabuto.description>
-  <HSPrestigeKabuto.label>Prestige Kabuto</HSPrestigeKabuto.label>
-  <HSPrestigeKabuto.description>A Kabuto that is more labor intensive then your standard kabuto. The extra effort pays off in the form of a tougher helmet.</HSPrestigeKabuto.description>
-  <HSApparel_ShinobiHalfmask.label>Shinobi Halfmask</HSApparel_ShinobiHalfmask.label>
-  <HSApparel_ShinobiHalfmask.description>A halfmask used to keep ones face hidden.</HSApparel_ShinobiHalfmask.description>
-  <HSApparel_HannyaMask.label>Hannya mask</HSApparel_HannyaMask.label>
-  <HSApparel_HannyaMask.description>A face mask used in Noh theater, it is designed to repersent a jealous  feminine demon. It is also a good choice for shinobi seeking to conceal their faces.</HSApparel_HannyaMask.description>
-  <HSApparel_WorkersHeadband.label>Workers Headband</HSApparel_WorkersHeadband.label>
-  <HSApparel_WorkersHeadband.description>A headband worn by the working class of feudal Japan, it helps keep your hair and sweat out of your eyes.</HSApparel_WorkersHeadband.description>
-  <HSApparel_ChildKimono.label>Child's Kimono</HSApparel_ChildKimono.label>
-  <HSApparel_ChildKimono.description>A traditional Kimono made for children.</HSApparel_ChildKimono.description>
-  <HSApparel_ChildStrawcloak.label>Child's Strawcloak</HSApparel_ChildStrawcloak.label>
-  <HSApparel_ChildStrawcloak.description>A Strawcloak for children, good for keeping dry.</HSApparel_ChildStrawcloak.description>
-  <HSApparel_Kimono.label>Kimono</HSApparel_Kimono.label>
-  <HSApparel_Kimono.description>A traditional Kimono.</HSApparel_Kimono.description>
-  <HSApparel_Strawcloak.label>Strawcloak</HSApparel_Strawcloak.label>
-  <HSApparel_Strawcloak.description>A Strawcloak, good for keeping dry.</HSApparel_Strawcloak.description>
-  <HSApparel_Hakama.label>Hakama</HSApparel_Hakama.label>
-  <HSApparel_Hakama.description>A traditional Hakama.</HSApparel_Hakama.description>
-  <HSApparel_Kataginu.label>Kataginu</HSApparel_Kataginu.label>
-  <HSApparel_Kataginu.description>A Kataginu, work with a Hakama to form a kamishimo.</HSApparel_Kataginu.description>
-  <HSApparel_Do.label>Dō</HSApparel_Do.label>
-  <HSApparel_Do.description>The Dō, also known as Dou or Dō-maru, is the protective breastplate worn by both Ashigaru and Samurai.</HSApparel_Do.description>
+  <HSUnfinishedHaybase.label>미완성 건초 아이템</HSUnfinishedHaybase.label>
+  <HSUnfinishedHaybase.description>미완성 건초 아이템입니다.</HSUnfinishedHaybase.description>
+  <HSApparel_Roningasa.label>조론가사</HSApparel_Roningasa.label>
+  <HSApparel_Roningasa.description>조론가사는 햇빛을 차단하는 데 도움이 됩니다.</HSApparel_Roningasa.description>
+  <HSApparel_Hitaiate.label>히타이아테</HSApparel_Hitaiate.label>
+  <HSApparel_Hitaiate.description>히타이아테는 천의 띠와 그 위에 겹쳐진 금속판으로 만든 이마 보호대입니다.</HSApparel_Hitaiate.description>
+  <HSApparel_Amigasa.label>아미가사</HSApparel_Amigasa.label>
+  <HSApparel_Amigasa.description>아미가사는 햇빛을 차단하는 데 도움이 됩니다.</HSApparel_Amigasa.description>
+  <HSApparel_Menpo.label>멘포</HSApparel_Menpo.label>
+  <HSApparel_Menpo.description>멘포는 무거운 가부토를 고정하는 데 도움이 되는 얼굴 가면으로, 마치 악마의 얼굴처럼 디자인되어 있으며 권위 있는 분위기를 연출합니다.</HSApparel_Menpo.description>
+  <HSApparel_Tengai.label>텐가이</HSApparel_Tengai.label>
+  <HSApparel_Tengai.description>텐가이는 종종 코무소 승려들이 착용하며, 나와 자기 자신을 부정하는 상징입니다.</HSApparel_Tengai.description>
+  <HSApparel_Soheiheadwrap.label>소헤이 헤드랩</HSApparel_Soheiheadwrap.label>
+  <HSApparel_Soheiheadwrap.description>소헤이 전사 승려들이 착용하는 헤드랩입니다.</HSApparel_Soheiheadwrap.description>
+  <HSApparel_SamuraiFaceGuard.label>페이스가드</HSApparel_SamuraiFaceGuard.label>
+  <HSApparel_SamuraiFaceGuard.description>이 페이스 가드는 큰 보호 기능을 제공하지는 않지만, 멘포보다 제작이 저렴하고 아무것도 없는 것보다는 낫습니다.</HSApparel_SamuraiFaceGuard.description>
+  <HSApparel_Hachimaki.label>하치마키</HSApparel_Hachimaki.label>
+  <HSApparel_Hachimaki.description>적색 또는 백색의 천으로 만들어진 머리띠로, 영감을 주는 슬로건이 특징입니다. 아머는 거의 제공하지 않지만 일종의 용기를 부여합니다.</HSApparel_Hachimaki.description>
+  <HSKabuto.label>가부토</HSKabuto.label>
+  <HSKabuto.description>좌나리 가부토입니다. 사무라이의 장비에서 중요한 부분으로, 머리를 지키고 싶다면 필수적입니다.</HSKabuto.description>
+  <HSBoldKabuto.label>볼드 가부토</HSBoldKabuto.label>
+  <HSBoldKabuto.description>사슴 뿔로 장식된 좌나리 가부토. 이 장식은 패션 선택보다는 도전이며, 전장에서 "여기 있소, 나를 잡아보시오"라는 대담한 선언입니다.</HSBoldKabuto.description>
+  <HSKenseiKabuto.label>검성 가부토</HSKenseiKabuto.label>
+  <HSKenseiKabuto.description>검성에게 주어진 즈나리 가부토. 이 투구를 쓴 자는 잘 알고 있다; 전투의 흐름은 한 순간에 바뀔 수 있으며, 주저하는 것은 패배이다.</HSKenseiKabuto.description>
+  <HSDaimyoKabuto.label>다이묘의 가부토</HSDaimyoKabuto.label>
+  <HSDaimyoKabuto.description>아름답게 제작된 가부토는 황금빛 외형으로 다이묘의 존재를 명백히 하여, 근처 동료들이 더 열심히 싸우고 일하도록 영감을 준다. (특별한 해디프를 얻으려면 이데올로기가 필요함)</HSDaimyoKabuto.description>
+  <HSVetereanKabuto.label>용병의 가부토</HSVetereanKabuto.label>
+  <HSVetereanKabuto.description>무거운 가부토는 그 무게 때문에 움직임을 늦출 수 있지만, 머리를 보호하는 데는 충분하다.</HSVetereanKabuto.description>
+  <HSPrestigeKabuto.label>명예의 가부토</HSPrestigeKabuto.label>
+  <HSPrestigeKabuto.description>표준 카부토보다 더 많은 노력이 필요한 카부토입니다. 더 강한 헬멧 형태로 추가 노력이 보상됩니다.</HSPrestigeKabuto.description>
+  <HSApparel_ShinobiHalfmask.label>신노비 하프마스크</HSApparel_ShinobiHalfmask.label>
+  <HSApparel_ShinobiHalfmask.description>얼굴을 숨기기 위해 사용하는 하프마스크입니다.</HSApparel_ShinobiHalfmask.description>
+  <HSApparel_HannyaMask.label>한냐 마스크</HSApparel_HannyaMask.label>
+  <HSApparel_HannyaMask.description>노 극장에서 사용하는 가면으로, 질투심 많은 여성 악귀를 나타내도록 디자인되었습니다. 또한 얼굴을 숨기려는 신노비에게 좋은 선택입니다.</HSApparel_HannyaMask.description>
+  <HSApparel_WorkersHeadband.label>노동자 머리띠</HSApparel_WorkersHeadband.label>
+  <HSApparel_WorkersHeadband.description>일본 봉건 시대 노동 계급이 착용하는 머리띠로, 머리와 땀이 눈에 들어가는 것을 방지하는 데 도움을 줍니다.</HSApparel_WorkersHeadband.description>
+  <HSApparel_ChildKimono.label>아동용 기모노</HSApparel_ChildKimono.label>
+  <HSApparel_ChildKimono.description>어린이용으로 만들어진 전통 기모노입니다.</HSApparel_ChildKimono.description>
+  <HSApparel_ChildStrawcloak.label>아동용 짚망토</HSApparel_ChildStrawcloak.label>
+  <HSApparel_ChildStrawcloak.description>어린이용 짚망토로, 마르게 유지하는 데 좋습니다.</HSApparel_ChildStrawcloak.description>
+  <HSApparel_Kimono.label>기모노</HSApparel_Kimono.label>
+  <HSApparel_Kimono.description>전통 기모노입니다.</HSApparel_Kimono.description>
+  <HSApparel_Strawcloak.label>짚망토</HSApparel_Strawcloak.label>
+  <HSApparel_Strawcloak.description>짚망토로, 마르게 유지하는 데 좋습니다.</HSApparel_Strawcloak.description>
+  <HSApparel_Hakama.label>하카마</HSApparel_Hakama.label>
+  <HSApparel_Hakama.description>전통 하카마입니다.</HSApparel_Hakama.description>
+  <HSApparel_Kataginu.label>카타기누</HSApparel_Kataginu.label>
+  <HSApparel_Kataginu.description>카타기누는 하카마와 함께 입어 카미시모를 형성합니다.</HSApparel_Kataginu.description>
+  <HSApparel_Do.label>도</HSApparel_Do.label>
+  <HSApparel_Do.description>도는 아시가루와 사무라이 모두가 입는 보호용 가슴판입니다.</HSApparel_Do.description>
   <HSApparel_Hanten.label>해턴</HSApparel_Hanten.label>
-  <HSApparel_Hanten.description>The Hanten is a coat made for cold weather, it bears resemblance to the Haori and is worn by both man and woman.</HSApparel_Hanten.description>
-  <HSApparel_Haori.label>Haori</HSApparel_Haori.label>
-  <HSApparel_Haori.description>The Haori is a traditonal jacket that resembles a shortened Kimono, it typically features a thinner collar and was seen as a symbol of wealth and power.</HSApparel_Haori.description>
-  <HSApparel_Tatami.label>Tatami Armor</HSApparel_Tatami.label>
-  <HSApparel_Tatami.description>Tatami was a lightweight portable folding armor, it was used by both samurai and ashigaru, although it was more common among ashigaru since it was cheaper and easier to make.</HSApparel_Tatami.description>
-  <HSApparel_HeavyDo.label>heavy dō</HSApparel_HeavyDo.label>
-  <HSApparel_HeavyDo.description>The Dō, also known as Dou or Dō-maru, is the protective breastplate worn by both Ashigaru and Samurai. This is a very heavy variant of the armor, sacrificing mobility for defense.</HSApparel_HeavyDo.description>
-  <HS_DaikyuBasic.label>daikyū</HS_DaikyuBasic.label>
-  <HS_DaikyuBasic.description>the daikyū is a longer version of the japanese yumi bow.</HS_DaikyuBasic.description>
+  <HSApparel_Hanten.description>한텐은 추운 날씨에 입는 코트로, 하오리와 유사하며 남녀 모두가 입습니다.</HSApparel_Hanten.description>
+  <HSApparel_Haori.label>하오리</HSApparel_Haori.label>
+  <HSApparel_Haori.description>하오리는 기모노를 닮은 전통 재킷으로, 일반적으로 더 얇은 칼라를 특징으로 하며 부와 권력의 상징으로 여겨졌습니다.</HSApparel_Haori.description>
+  <HSApparel_Tatami.label>타타미 갑옷</HSApparel_Tatami.label>
+  <HSApparel_Tatami.description>타타미는 가벼운 휴대용 접이식 갑옷으로, 샤무라이와 아시가루 모두에 의해 사용되었지만, 저렴하고 제작하기 쉬운 탓에 아시가루 사이에서 더 일반적이었습니다.</HSApparel_Tatami.description>
+  <HSApparel_HeavyDo.label>무거운 도</HSApparel_HeavyDo.label>
+  <HSApparel_HeavyDo.description>도(또는 도마루)는 아시가루와 샤무라이 모두가 착용하는 보호용 흉갑입니다. 이것은 갑옷의 아주 무거운 변형으로, 방어를 위해 기동성을 희생한 것입니다.</HSApparel_HeavyDo.description>
+  <HS_DaikyuBasic.label>대규</HS_DaikyuBasic.label>
+  <HS_DaikyuBasic.description>대규는 일본의 유미 활의 더 긴 버전입니다.</HS_DaikyuBasic.description>
   <HS_DaikyuBasic.tools.0.label>활대</HS_DaikyuBasic.tools.0.label>
   <HSDaikyu_Ya.label>Daikyu Ya</HSDaikyu_Ya.label>
-  <HSTanegashimaRifle.label>Tanegashima Rifle</HSTanegashimaRifle.label>
-  <HSTanegashimaRifle.description>Tanegashima rifles were introduced halfway into the Sengoku period, their armor piercing capabilities helped bring about the end of traditional heavily armored samurai.</HSTanegashimaRifle.description>
+  <HSTanegashimaRifle.label>다이큐 총</HSTanegashimaRifle.label>
+  <HSTanegashimaRifle.description>다네가시마 라이플은 센고쿠 시대 중반에 도입되었으며, 그들의 방어구 관통 능력은 전통적인 무거운 갑옷을 입은 사무라이의 종말을 가져왔습니다.</HSTanegashimaRifle.description>
   <HSTanegashimaRifle.tools.0.label>개머리판</HSTanegashimaRifle.tools.0.label>
   <HSTanegashimaRifle.tools.1.label>총열</HSTanegashimaRifle.tools.1.label>
   <HSTanegashima_Leadball.label>납탄</HSTanegashima_Leadball.label>
-  <HSTanegashimaPistol.label>Tanegashima Pistol</HSTanegashimaPistol.label>
-  <HSTanegashimaPistol.description>While it lacks the range of Tangeshima rifle, it is much more versatile in close range combat, its quicker to reload too.</HSTanegashimaPistol.description>
+  <HSTanegashimaPistol.label>다네가시마 권총</HSTanegashimaPistol.label>
+  <HSTanegashimaPistol.description>다네가시마 소총의 사거리는 부족하지만, 근접전에 훨씬 더 다재다능하며 장전도 더 빠릅니다.</HSTanegashimaPistol.description>
   <HSTanegashimaPistol.tools.0.label>개머리판</HSTanegashimaPistol.tools.0.label>
   <HSTanegashimaPistol.tools.1.label>총열</HSTanegashimaPistol.tools.1.label>
-  <HS_Kunai.label>Kunai</HS_Kunai.label>
-  <HS_Kunai.description>Originally made as a masoonry trowel, the Kunai is a multi-use knife like weapon. It can be used as a throwing knife, for slashing, or even be tied to a rope and used as a harpoon. These Kunai are just as lethal in melee combat as they are in ranged.</HS_Kunai.description>
+  <HS_Kunai.label>쿠나이</HS_Kunai.label>
+  <HS_Kunai.description>원래는 벽돌쌓기 용 흙손으로 제작된 쿠나이는 다용도 단검 같은 무기입니다. 던지기용 단검으로, 베기용이거나 심지어 밧줄에 묶어 작살로 사용할 수도 있습니다. 이 쿠나이는 근접전에서도 사거리 전투와 마찬가지로 치명적입니다.</HS_Kunai.description>
   <HS_Kunai.tools.0.label>손잡이</HS_Kunai.tools.0.label>
   <HS_Kunai.tools.1.label>날</HS_Kunai.tools.1.label>
   <HS_Kunai.tools.2.label>끝</HS_Kunai.tools.2.label>
-  <HS_Thrown_Kunai.label>Kunai</HS_Thrown_Kunai.label>
-  <HS_Edo_Blackpowder_Bomb.label>Blackpowder bomb</HS_Edo_Blackpowder_Bomb.label>
-  <HS_Edo_Blackpowder_Bomb.description>An early variation of a grenade, the blackpowder bomb isn't as effective as an industrial grade grenade, but it can get the job done.</HS_Edo_Blackpowder_Bomb.description>
-  <HS_Edo_Blackpowder_Bomb.verbs.0.label>throw blackpowder bomb</HS_Edo_Blackpowder_Bomb.verbs.0.label>
-  <Proj_BlackpowderBomb.label>Blackpowder Bomb</Proj_BlackpowderBomb.label>
-  <HS_BasicKama.label>kama</HS_BasicKama.label>
-  <HS_BasicKama.description>a traditional Japanese farming tool. It's sharp tip is good for puncturing armor and the blade is as good at hacking apart limbs as it is weeds.</HS_BasicKama.description>
+  <HS_Thrown_Kunai.label>쿠나이</HS_Thrown_Kunai.label>
+  <HS_Edo_Blackpowder_Bomb.label>흑색 가루 폭탄</HS_Edo_Blackpowder_Bomb.label>
+  <HS_Edo_Blackpowder_Bomb.description>수류탄의 초기 변형인 흑색 가루 폭탄은 산업용 수류탄만큼 효과적이진 않지만, 필요한 작업을 완수할 수 있습니다.</HS_Edo_Blackpowder_Bomb.description>
+  <HS_Edo_Blackpowder_Bomb.verbs.0.label>흑색 가루 폭탄을 던지다</HS_Edo_Blackpowder_Bomb.verbs.0.label>
+  <Proj_BlackpowderBomb.label>흑색 가루 폭탄</Proj_BlackpowderBomb.label>
+  <HS_BasicKama.label>가마</HS_BasicKama.label>
+  <HS_BasicKama.description>전통적인 일본 농업 도구인 가마는 방어구를 뚫는 데 좋은 날카로운 팁을 가지고 있으며, 잡초를 자르는 것만큼이나 신체 부위를 베는 데도 좋습니다.</HS_BasicKama.description>
   <HS_BasicKama.tools.0.label>손잡이</HS_BasicKama.tools.0.label>
   <HS_BasicKama.tools.1.label>발톱 끝</HS_BasicKama.tools.1.label>
   <HS_BasicKama.tools.2.label>날</HS_BasicKama.tools.2.label>
-  <HS_BasicMasakari.label>masakari</HS_BasicMasakari.label>
-  <HS_BasicMasakari.description>the masakari, or ono, is an often overlooked weapon in the samurai's arsenal. this beast was able to hew both armor and building alike.</HS_BasicMasakari.description>
+  <HS_BasicMasakari.label>마사카리</HS_BasicMasakari.label>
+  <HS_BasicMasakari.description>마사카리, 또는 오노는 사무라이의 무기로 종종 간과되지만, 이 야수는 방어구와 건물 모두를 벨 수 있었습니다.</HS_BasicMasakari.description>
   <HS_BasicMasakari.tools.0.label>자루</HS_BasicMasakari.tools.0.label>
   <HS_BasicMasakari.tools.1.label>날</HS_BasicMasakari.tools.1.label>
-  <HS_BasicKanabo.label>kanabo</HS_BasicKanabo.label>
-  <HS_BasicKanabo.description>The Kanabo is a spiked or studded two-handed war club used in feudal Japan. It's an age old solution to armor: hit them with something bigger and heavier.</HS_BasicKanabo.description>
+  <HS_BasicKanabo.label>가나보</HS_BasicKanabo.label>
+  <HS_BasicKanabo.description>가나보는 일본의 봉건 시대에 사용된 뾰족하거나 머리가 볼록한 두 손으로 드는 전쟁 곤봉입니다. 이것은 방어구에 대한 낡은 해결책입니다: 그들을 더 크고 무거운 것으로 때리세요.</HS_BasicKanabo.description>
   <HS_BasicKanabo.tools.0.label>자루</HS_BasicKanabo.tools.0.label>
   <HS_BasicKanabo.tools.1.label>머리</HS_BasicKanabo.tools.1.label>
-  <HS_BasicNagamaki.label>nagamaki</HS_BasicNagamaki.label>
-  <HS_BasicNagamaki.description>the nagamaki could be seen as something of a fusion between a naginata and a katana. the weapon could be two feet or taller and would be equal parts hilt and blade.</HS_BasicNagamaki.description>
+  <HS_BasicNagamaki.label>나가마키</HS_BasicNagamaki.label>
+  <HS_BasicNagamaki.description>나가마키는 나기나타와 카타나 사이의 무언가로 볼 수 있습니다. 이 무기는 두 피트 또는 그 이상의 높이가 될 수 있으며 손잡이와 날의 길이가 동일합니다.</HS_BasicNagamaki.description>
   <HS_BasicNagamaki.tools.0.label>자루</HS_BasicNagamaki.tools.0.label>
   <HS_BasicNagamaki.tools.1.label>끝</HS_BasicNagamaki.tools.1.label>
   <HS_BasicNagamaki.tools.2.label>날</HS_BasicNagamaki.tools.2.label>
   <HS_BasicKatana.label>카타나</HS_BasicKatana.label>
-  <HS_BasicKatana.description>A basic katana, a side arm of every samurai.</HS_BasicKatana.description>
+  <HS_BasicKatana.description>모든 사무라이의 보조 무기인 기본 카타나.</HS_BasicKatana.description>
   <HS_BasicKatana.tools.0.label>자루</HS_BasicKatana.tools.0.label>
   <HS_BasicKatana.tools.1.label>끝</HS_BasicKatana.tools.1.label>
   <HS_BasicKatana.tools.2.label>날</HS_BasicKatana.tools.2.label>
-  <HS_BasicNaginata.label>naginata</HS_BasicNaginata.label>
-  <HS_BasicNaginata.description>The naginata is a pole arm with the blade of a katana attached at the end, it is most often depicted as being used by Onna-bushi.</HS_BasicNaginata.description>
+  <HS_BasicNaginata.label>나기나타</HS_BasicNaginata.label>
+  <HS_BasicNaginata.description>나기나타는 카타나의 날이 끝에 부착된 폴암으로, 주로 온나부시가 사용하는 것으로 묘사됩니다.</HS_BasicNaginata.description>
   <HS_BasicNaginata.tools.0.label>자루</HS_BasicNaginata.tools.0.label>
   <HS_BasicNaginata.tools.1.label>끝</HS_BasicNaginata.tools.1.label>
   <HS_BasicNaginata.tools.2.label>날</HS_BasicNaginata.tools.2.label>
-  <HS_BasicOdachi.label>odachi</HS_BasicOdachi.label>
-  <HS_BasicOdachi.description>To qualify as an ōdachi a blade must have the length of around 3 shaku, it is so large that one possible use of ōdachi is as an anti-cavalry weapons, to strike down the horse as it approaches.</HS_BasicOdachi.description>
+  <HS_BasicOdachi.label>오다치</HS_BasicOdachi.label>
+  <HS_BasicOdachi.description>오다치가 되기 위해서는 대략 3 샤쿠 길이의 칼날이 있어야 합니다. 이러한 오대치는 그 크기가 매우 크기 때문에 기병을 공격하는 무기로 사용할 수 있으며, 기병이 접근하면 말을 공격하여 제압하는 데 사용될 수 있습니다.</HS_BasicOdachi.description>
   <HS_BasicOdachi.tools.0.label>자루</HS_BasicOdachi.tools.0.label>
   <HS_BasicOdachi.tools.1.label>끝</HS_BasicOdachi.tools.1.label>
   <HS_BasicOdachi.tools.2.label>날</HS_BasicOdachi.tools.2.label>
-  <HS_BasicYari.label>yari</HS_BasicYari.label>
-  <HS_BasicYari.description>Yari is the term for a traditionally-made Japanese blade in the form of a spear, early yari are believed to have been derived from Chinese spears.</HS_BasicYari.description>
+  <HS_BasicYari.label>야리</HS_BasicYari.label>
+  <HS_BasicYari.description>야리는 창 형태의 전통적인 일본 칼날을 말합니다. 초기의 야리는 중국의 창에서 유래한 것으로 여겨집니다.</HS_BasicYari.description>
   <HS_BasicYari.tools.0.label>자루</HS_BasicYari.tools.0.label>
   <HS_BasicYari.tools.1.label>끝</HS_BasicYari.tools.1.label>
   <HS_BasicYari.tools.2.label>날</HS_BasicYari.tools.2.label>
-  <HS_Bokken.label>bokken</HS_Bokken.label>
-  <HS_Bokken.description>the bokken is a wooden weapon, while often shaped like the katana it can be shaped to look like any weapon. It is primarily used for training, but can still be used to kill or harm. The blunt nature of it makes it ideal for taking prisoners.</HS_Bokken.description>
+  <HS_Bokken.label>복겐</HS_Bokken.label>
+  <HS_Bokken.description>복겐은 나무로 만들어진 무기로, 카타나처럼 생겼지만 다른 무기처럼 생길 수도 있습니다. 이것은 주로 훈련에 사용되지만 여전히 살해하거나 해를 입힐 수 있습니다. 그 무딘 특성으로 인해 포로를 잡는 데 이상적입니다.</HS_Bokken.description>
   <HS_Bokken.tools.0.label>자루</HS_Bokken.tools.0.label>
   <HS_Bokken.tools.1.label>끝</HS_Bokken.tools.1.label>
   <HS_Bokken.tools.2.label>날</HS_Bokken.tools.2.label>
-  <HS_BasicTanto.label>Tantō</HS_BasicTanto.label>
-  <HS_BasicTanto.description>The Tanto is a small dagger like weapon, its small and light nature makes it ideal for exploiting weakspots in armor. During the Edo period Samurai were required to wear the Katana with a shorter weapon, like a Tanto or Wakizashi. This pairing was called a Daisho</HS_BasicTanto.description>
+  <HS_BasicTanto.label>탄토</HS_BasicTanto.label>
+  <HS_BasicTanto.description>탄토는 작은 단검과 같은 무기로, 그 작고 가벼운 특성으로 인해 갑옷의 약점을 이용하기에 이상적입니다. 에도 시대에 사무라이는 탄토나 와키자시처럼 짧은 무기를 카타나와 함께 착용해야 했습니다. 이 결합을 다이쇼라고 불렀습니다.</HS_BasicTanto.description>
   <HS_BasicTanto.tools.0.label>자루</HS_BasicTanto.tools.0.label>
   <HS_BasicTanto.tools.1.label>끝</HS_BasicTanto.tools.1.label>
   <HS_BasicTanto.tools.2.label>날</HS_BasicTanto.tools.2.label>
-  <HS_BasicWakizashi.label>Wakizashi</HS_BasicWakizashi.label>
-  <HS_BasicWakizashi.description>Shorter then the Katana, the Wakizashi is often between 30 and 60 cm (12 and 24 in), the shorter size is fit for combat in doors, and was a more popular choice for the mandated Daisho pairing during the Edo Period.</HS_BasicWakizashi.description>
+  <HS_BasicWakizashi.label>와키자시</HS_BasicWakizashi.label>
+  <HS_BasicWakizashi.description>카타나보다 짧은 와키자시는 통상 30cm에서 60cm (12인치와 24인치) 사이 길이로, 좁은 실내 전투에 적합하며, 에도 시대에 필수적인 다이쇼 쌍으로 더욱 인기가 있었습니다.</HS_BasicWakizashi.description>
   <HS_BasicWakizashi.tools.0.label>자루</HS_BasicWakizashi.tools.0.label>
   <HS_BasicWakizashi.tools.1.label>끝</HS_BasicWakizashi.tools.1.label>
   <HS_BasicWakizashi.tools.2.label>날</HS_BasicWakizashi.tools.2.label>
-  <HS_ClanforgedKatana.label>clanforged katana</HS_ClanforgedKatana.label>
-  <HS_ClanforgedKatana.description>An artisanal Katana, built with both form and function in mind.</HS_ClanforgedKatana.description>
+  <HS_ClanforgedKatana.label>클랜포지드 카타나</HS_ClanforgedKatana.label>
+  <HS_ClanforgedKatana.description>형태와 기능을 모두 고려하여 제작된 장인 정신이 깃든 카타나입니다.</HS_ClanforgedKatana.description>
   <HS_ClanforgedKatana.tools.0.label>자루</HS_ClanforgedKatana.tools.0.label>
   <HS_ClanforgedKatana.tools.1.label>끝</HS_ClanforgedKatana.tools.1.label>
   <HS_ClanforgedKatana.tools.2.label>날</HS_ClanforgedKatana.tools.2.label>
-  <HS_ClanforgedNaginata.label>clanforged naginata</HS_ClanforgedNaginata.label>
-  <HS_ClanforgedNaginata.description>An artisanal Naginata, built with both form and function in mind.</HS_ClanforgedNaginata.description>
+  <HS_ClanforgedNaginata.label>클랜포지드 나기나타</HS_ClanforgedNaginata.label>
+  <HS_ClanforgedNaginata.description>형태와 기능을 모두 고려하여 제작된 장인 정신이 깃든 나기나타입니다.</HS_ClanforgedNaginata.description>
   <HS_ClanforgedNaginata.tools.0.label>자루</HS_ClanforgedNaginata.tools.0.label>
   <HS_ClanforgedNaginata.tools.1.label>끝</HS_ClanforgedNaginata.tools.1.label>
   <HS_ClanforgedNaginata.tools.2.label>날</HS_ClanforgedNaginata.tools.2.label>
-  <HS_ClanforgedYari.label>clanforged yari</HS_ClanforgedYari.label>
-  <HS_ClanforgedYari.description>An artisanal Yari, built with both form and function in mind.</HS_ClanforgedYari.description>
+  <HS_ClanforgedYari.label>클랜포지드 야리</HS_ClanforgedYari.label>
+  <HS_ClanforgedYari.description>형태와 기능을 모두 고려하여 제작된 장인 정신이 깃든 야리입니다.</HS_ClanforgedYari.description>
   <HS_ClanforgedYari.tools.0.label>자루</HS_ClanforgedYari.tools.0.label>
   <HS_ClanforgedYari.tools.1.label>끝</HS_ClanforgedYari.tools.1.label>
   <HS_ClanforgedYari.tools.2.label>날</HS_ClanforgedYari.tools.2.label>
-  <HS_ClanforgedOdachi.label>clanforged odachi</HS_ClanforgedOdachi.label>
-  <HS_ClanforgedOdachi.description>An artisanal Odachi, built with both form and function in mind.</HS_ClanforgedOdachi.description>
+  <HS_ClanforgedOdachi.label>클랜포지드 오다치</HS_ClanforgedOdachi.label>
+  <HS_ClanforgedOdachi.description>형태와 기능을 모두 고려하여 제작된 장인 정신이 깃든 오다치입니다.</HS_ClanforgedOdachi.description>
   <HS_ClanforgedOdachi.tools.0.label>자루</HS_ClanforgedOdachi.tools.0.label>
   <HS_ClanforgedOdachi.tools.1.label>끝</HS_ClanforgedOdachi.tools.1.label>
   <HS_ClanforgedOdachi.tools.2.label>날</HS_ClanforgedOdachi.tools.2.label>
-  <HS_ClanForgedNagamaki.label>clanforged nagamaki</HS_ClanForgedNagamaki.label>
-  <HS_ClanForgedNagamaki.description>An artisanal Nagamaki, built with both form and function in mind.</HS_ClanForgedNagamaki.description>
+  <HS_ClanForgedNagamaki.label>클랜포지드 나가마키</HS_ClanForgedNagamaki.label>
+  <HS_ClanForgedNagamaki.description>형태와 기능을 모두 고려하여 제작된 장인 정신이 깃든 나가마키입니다.</HS_ClanForgedNagamaki.description>
   <HS_ClanForgedNagamaki.tools.0.label>자루</HS_ClanForgedNagamaki.tools.0.label>
   <HS_ClanForgedNagamaki.tools.1.label>끝</HS_ClanForgedNagamaki.tools.1.label>
   <HS_ClanForgedNagamaki.tools.2.label>날</HS_ClanForgedNagamaki.tools.2.label>
-  <HS_RoninKatana.label>ronin's katana</HS_RoninKatana.label>
-  <HS_RoninKatana.description>An aged Katana bearing the faded symbol of a long forgotten clan, despite its age the blade is so sharp that it can rend through armor.</HS_RoninKatana.description>
+  <HS_RoninKatana.label>로닌의 카타나</HS_RoninKatana.label>
+  <HS_RoninKatana.description>오래 전 잊혀진 클랜의 퇴색된 상징을 지닌 나이든 카타나로, 그 날카로움은 갑옷조차 찢을 수 있습니다.</HS_RoninKatana.description>
   <HS_RoninKatana.tools.0.label>자루</HS_RoninKatana.tools.0.label>
   <HS_RoninKatana.tools.1.label>끝</HS_RoninKatana.tools.1.label>
   <HS_RoninKatana.tools.2.label>날</HS_RoninKatana.tools.2.label>
-  <HS_LegendaryKatana.label>Legendary Katana</HS_LegendaryKatana.label>
-  <HS_LegendaryKatana.description>An exquisitely crafted blade with a rich history of legends.</HS_LegendaryKatana.description>
+  <HS_LegendaryKatana.label>전설의 카타나</HS_LegendaryKatana.label>
+  <HS_LegendaryKatana.description>전설을 가진 아름답게 제작된 칼날입니다.</HS_LegendaryKatana.description>
   <HS_LegendaryKatana.tools.0.label>손잡이</HS_LegendaryKatana.tools.0.label>
   <HS_LegendaryKatana.tools.1.label>끝</HS_LegendaryKatana.tools.1.label>
   <HS_LegendaryKatana.tools.2.label>날</HS_LegendaryKatana.tools.2.label>
-  <HS_Tenbinbo.label>tenbinbō</HS_Tenbinbo.label>
-  <HS_Tenbinbo.description>The tenbinbō is made of two wooden containers hanging on a stick, it is used for hauling resources such as food or water.</HS_Tenbinbo.description>
-  <HS_Straw_Backpack.label>Straw Backpack</HS_Straw_Backpack.label>
-  <HS_Straw_Backpack.description>A straw backpack used for hauling items.</HS_Straw_Backpack.description>
-  <HSPlant_TallBambooTree.label>tall bamboo tree</HSPlant_TallBambooTree.label>
-  <HSPlant_TallBambooTree.description>A taller variant of bamboo trees, while it takes slightly longer to reach its full height the wood yield is much better.</HSPlant_TallBambooTree.description>
-  <HSPlant_SusukiGrass.label>susuki grass</HSPlant_SusukiGrass.label>
+  <HS_Tenbinbo.label>텐빈보</HS_Tenbinbo.label>
+  <HS_Tenbinbo.description>텐빈보는 막대기의 양쪽에 매달린 두 개의 나무 그릇으로, 음식이나 물과 같은 자원을 나르는 데 사용됩니다.</HS_Tenbinbo.description>
+  <HS_Straw_Backpack.label>짚으로 만든 배낭</HS_Straw_Backpack.label>
+  <HS_Straw_Backpack.description>아이템을 나르기 위해 사용되는 짚으로 만든 배낭입니다.</HS_Straw_Backpack.description>
+  <HSPlant_TallBambooTree.label>큰 대나무</HSPlant_TallBambooTree.label>
+  <HSPlant_TallBambooTree.description>보통 대나무보다 더 큰 종류로, 자라는 데 시간이 조금 더 걸리지만 나무 수확량은 훨씬 좋습니다.</HSPlant_TallBambooTree.description>
+  <HSPlant_SusukiGrass.label>수수키 그라스</HSPlant_SusukiGrass.label>
   <HSPlant_SusukiGrass.description>키가 큰 야생의 잡초입니다. 이동하는 사람의 속도가 느려집니다.</HSPlant_SusukiGrass.description>
-  <HSPlant_SingleBambooTree.label>bamboo stalk</HSPlant_SingleBambooTree.label>
-  <HSPlant_SingleBambooTree.description>A single stalk of tall bamboo, it doesn't yield as much wood as clusters of tall bamboo will, but it does grow a little quicker.</HSPlant_SingleBambooTree.description>
-  <HSPlant_GroveBush.label>grove bush</HSPlant_GroveBush.label>
+  <HSPlant_SingleBambooTree.label>대나무 줄기</HSPlant_SingleBambooTree.label>
+  <HSPlant_SingleBambooTree.description>키가 큰 대나무 가지 한 줄기는 클러스터로 자란 대나무보다 목재를 많이 생산하지는 못하지만, 조금 더 빨리 자랍니다.</HSPlant_SingleBambooTree.description>
+  <HSPlant_GroveBush.label>수풀 덤불</HSPlant_GroveBush.label>
   <HSPlant_GroveBush.description>짧은 관목입니다. 보통 말을 하진 않습니다.</HSPlant_GroveBush.description>
-  <HSPlant_ForestGroundCover.label>grove groundcover</HSPlant_ForestGroundCover.label>
-  <HSPlant_ForestGroundCover.description>an assortment of wild bamboo grove groundcovers.</HSPlant_ForestGroundCover.description>
-  <HSPlant_VioletGroveFlower.label>Violet Flower</HSPlant_VioletGroveFlower.label>
-  <HSPlant_VioletGroveFlower.description>A cluster of Violet flowers native to bamboo groves.</HSPlant_VioletGroveFlower.description>
+  <HSPlant_ForestGroundCover.label>수풀 지피식물</HSPlant_ForestGroundCover.label>
+  <HSPlant_ForestGroundCover.description>대나무 수풀의 야생 지피식물 모음.</HSPlant_ForestGroundCover.description>
+  <HSPlant_VioletGroveFlower.label>제비꽃</HSPlant_VioletGroveFlower.label>
+  <HSPlant_VioletGroveFlower.description>대나무 수풀에서 자라는 제비꽃 무리.</HSPlant_VioletGroveFlower.description>
   <Plant_TreeBamboo.label>대나무</Plant_TreeBamboo.label>
   <Plant_TreeBamboo.description>생물학적으로 나무가 아니지만, 인식적으로는 나무로 분류되는 식물. 키가 크고 빠르게 자라납니다.</Plant_TreeBamboo.description>
-  <HSPlant_Adzuki.label>Adzuki bean plant</HSPlant_Adzuki.label>
-  <HSPlant_Adzuki.description>A bean plant that yields Adzuki beans, also called red beans, they can be mashed up into a sweet paste.</HSPlant_Adzuki.description>
+  <HSPlant_Adzuki.label>팥 식물</HSPlant_Adzuki.label>
+  <HSPlant_Adzuki.description>팥을 수확할 수 있는 콩 식물로, 또한 홍두라고 불리며, 단 팥소로 으깰 수 있습니다.</HSPlant_Adzuki.description>
 </LanguageData>
