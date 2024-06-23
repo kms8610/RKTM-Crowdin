@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Edo_paperLanternHanging.label>paper lantern</Edo_paperLanternHanging.label>
+  <Edo_paperLanternHanging.description>a paper lantern hanging by a rope</Edo_paperLanternHanging.description>
+  <Edo_paperLanternStrung.label>paper lantern strung</Edo_paperLanternStrung.label>
+  <Edo_paperLanternStrung.description>paper lanterns strung along a rope</Edo_paperLanternStrung.description>
+  <HSSashimono.label>Sashimono</HSSashimono.label>
+  <HSSashimono.description>A small banner traditionally worn by foot soliders. This one, however, has been put in place as a colony banner.</HSSashimono.description>
+  <HSKatanastand.label>Katana Stand</HSKatanastand.label>
+  <HSKatanastand.description>A stand for holding and displaying your Katana, a perfect conversation starter at dinner parties.</HSKatanastand.description>
+  <HSHaka.label>Haka</HSHaka.label>
+  <HSHaka.description>A Haka, or grave. Typically, a Japanese grave is a family grave flowers, incense, and water in front of the monument and a chamber or crypt underneath for the ashes.</HSHaka.description>
+  <HSToriiGate.label>Torii Gate</HSToriiGate.label>
+  <HSToriiGate.description>Found at the entrance or within a Shinto shrine, it symbolizes the exiting of the material and entering of sacred grounds.</HSToriiGate.description>
+  <HSHokora.label>Hokora</HSHokora.label>
+  <HSHokora.description>A Hokora acts as a shrine, or home to Minor Kami not claimed by any large shrine.</HSHokora.description>
+  <HSToro.label>Tōrō</HSToro.label>
+  <HSToro.description>a tōrō is a traditional lantern made of stone, wood, or metal. Like many other elements of Japanese traditional architecture, it originated in China where they can still be found in Buddhist temples and Chinese gardens.</HSToro.description>
+  <HSHaymat.label>hay mat</HSHaymat.label>
+  <HSHaymat.description>A hay mat for sitting, it's not the most comfortable, but there are worse options.</HSHaymat.description>
+  <HSRough_Tatami.label>Rough Tatami</HSRough_Tatami.label>
+  <HSRough_Tatami.description>A Tatami mat only by the loosest of definitions.</HSRough_Tatami.description>
+  <HS_RoughFuton.label>Rough Futon</HS_RoughFuton.label>
+  <HS_RoughFuton.description>A roughly made Futon, it's not the prettiest but its way more comfortable then sleeping on the floor.</HS_RoughFuton.description>
+  <HS_Chabudai.label>chabudai</HS_Chabudai.label>
+  <HS_Chabudai.description>The chabudai is a short-legged table used in traditional Japanese homes, it ranges from 15-30 Cm and often has collapsible legs for easy storage.</HS_Chabudai.description>
+  <HSFancy_Tatami.label>Fancy Tatami</HSFancy_Tatami.label>
+  <HSFancy_Tatami.description>An actual tatami mat, fit for a person of status.</HSFancy_Tatami.description>
+  <HSEdoThrone.label>edo throne</HSEdoThrone.label>
+  <HSEdoThrone.description>귀족만이 앉을 수 있는 크고 화려한 의자입니다. 왕좌가 배치된 방은 알현실로 지정되며, 귀족의 욕구를 만족시키기 위해 사용됩니다.</HSEdoThrone.description>
+  <HSAndon.label>Andon</HSAndon.label>
+  <HSAndon.description>The andon is a lamp consisting of paper stretched over a frame of bamboo, wood or metal. The paper protects the flame from the wind.</HSAndon.description>
+  <HS_FancyFutonDouble.label>double fancy futon</HS_FancyFutonDouble.label>
+  <HS_FancyFutonDouble.description>An ornate futon made large enough for two people.</HS_FancyFutonDouble.description>
+  <HS_FancyFuton.label>Fancy Futon</HS_FancyFuton.label>
+  <HS_FancyFuton.description>A fancy futon with decorative patterns, fit for a samurai.</HS_FancyFuton.description>
+  <HSKoto.label>Koto</HSKoto.label>
+  <HSKoto.description>The average Koto is roughly 180 centimetres (71 in) in length, and features 13 strings, it is also the national instrument of Japan.</HSKoto.description>
+  <HSKamado.label>Kamado</HSKamado.label>
+  <HSKamado.description>A traditional Japanese wood or charcoal-fueled stove, it is designed to steam rice but can be used for cooking other meals like flatbreads.</HSKamado.description>
+  <HSElectricKamado.label>Electric Kamado</HSElectricKamado.label>
+  <HSElectricKamado.description>A traditional Japanese wood or charcoal-fueled stove that's been modified for electric use.</HSElectricKamado.description>
+  <HS_Irori_Small.label>Irori 1x1</HS_Irori_Small.label>
+  <HS_Irori_Small.description>A small, simplistic Irori designed for function over form. The Irori is used for heating the home and cooking food.</HS_Irori_Small.description>
+  <HS_HaikuSpot.label>Haiku Spot</HS_HaikuSpot.label>
+  <HS_HaikuSpot.description>A spot for drafting and writing Haiku, trains artistic ability</HS_HaikuSpot.description>
+  <HSShogiboard.label>shogi board</HSShogiboard.label>
+  <HSShogiboard.description>A japanese board game that is quite similar to chess, games can last anywhere from half an hour to many hours. Like the chess table, it needs chairs placed adjacent to be usable.</HSShogiboard.description>
+  <HS_BlackPowderBarrel.label>black powder barrel</HS_BlackPowderBarrel.label>
+  <HS_BlackPowderBarrel.description>a barrel stuffed full of black powder, great for blowing up unsuspecting raiders. Explodes when damaged.</HS_BlackPowderBarrel.description>
+  <HS_Shoji_Door.label>쇼지</HS_Shoji_Door.label>
+  <HS_Shoji_Door.description>Shoji consists of a thick, translucent paper stretched over a wooden frame that holds together a lattice made of wood or bamboo. Since it is a simple door it must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</HS_Shoji_Door.description>
+  <HSEdo_PlasterWall.label>Shikkui Wall</HSEdo_PlasterWall.label>
+  <HSEdo_PlasterWall.description>A plaster wall made from lime and eggshells, as well as a wooden frame.</HSEdo_PlasterWall.description>
+  <HSTempleEave.label>Temple Eave</HSTempleEave.label>
+  <HSTempleEave.description>a eave for temple roofs.</HSTempleEave.description>
+  <HSDango.label>Dango</HSDango.label>
+  <HSDango.description>Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Generally Dango is served as a snack with green tea.</HSDango.description>
+  <HSAdzukiBeanPaste.label>adzuki bean paste</HSAdzukiBeanPaste.label>
+  <HSAdzukiBeanPaste.description>Adzuki bean paste, or red bean paste, is prepared by boiling the beans, then mashing or grinding them. From there is can be sweetened or left as is.</HSAdzukiBeanPaste.description>
+  <HSAdzukiDango.label>Adzuki Flavored Dango</HSAdzukiDango.label>
+  <HSAdzukiDango.description>Dango is a Japanese dumpling made from rice flour mixed with uruchi rice flour and glutinous rice flour. Generally Dango is served as a snack with green tea. This kind is flavored with Aduzki bean paste</HSAdzukiDango.description>
+  <HSKoku.label>Koku</HSKoku.label>
+  <HSKoku.description>A Koku is a bundle that contains enough rice to feed a person for roughly a year, and is a source of currency in edo japan. In rimworld terms, however, it is only 75 units of rice, as the actual amount required to feed a pawn per year would be roughly 1,920 units of rice. Koku can be unbundled at a crafting spot or cooking station.</HSKoku.description>
+  <hs_Edo_Bamboo.label>대나무</hs_Edo_Bamboo.label>
+  <hs_Edo_Bamboo.description>bamboo from... bamboo, its flexible and fast growing, while not as strong as some woods it is very good for load bearing and wind resistance, bamboo also tends to be more fire resistant then wood.</hs_Edo_Bamboo.description>
+  <hs_Edo_Bamboo.stuffProps.stuffAdjective>대나무</hs_Edo_Bamboo.stuffProps.stuffAdjective>
+  <hs_Edo_Bamboo.tools.0.label>목재</hs_Edo_Bamboo.tools.0.label>
+  <HSUnfinishedHaybase.label>unfinished Hay item</HSUnfinishedHaybase.label>
+  <HSUnfinishedHaybase.description>An unfinished Hay item.</HSUnfinishedHaybase.description>
+  <HSApparel_Roningasa.label>Roningasa</HSApparel_Roningasa.label>
+  <HSApparel_Roningasa.description>A Roningasa, it helps keep the sun out of your eyes.</HSApparel_Roningasa.description>
+  <HSApparel_Hitaiate.label>Hitai-Ate</HSApparel_Hitaiate.label>
+  <HSApparel_Hitaiate.description>A forehead protector made with a strip of cloth and a metal plate layered over.</HSApparel_Hitaiate.description>
+  <HSApparel_Amigasa.label>Amigasa</HSApparel_Amigasa.label>
+  <HSApparel_Amigasa.description>An Amigasa, it helps keep the sun out of your eyes.</HSApparel_Amigasa.description>
+  <HSApparel_Menpo.label>Menpo</HSApparel_Menpo.label>
+  <HSApparel_Menpo.description>A face mask that helps secure top-heavy Kabuto, its fashioned to look like the face of a demon, and gives off an air of authority.</HSApparel_Menpo.description>
+  <HSApparel_Tengai.label>Tengai</HSApparel_Tengai.label>
+  <HSApparel_Tengai.description>Tengai are often worn by Komusō monks,they symbolize a dismissal of ego or self.</HSApparel_Tengai.description>
+  <HSApparel_Soheiheadwrap.label>Sohei Headwrap</HSApparel_Soheiheadwrap.label>
+  <HSApparel_Soheiheadwrap.description>A Headwrap worn by the Sohei Warrior Monks.</HSApparel_Soheiheadwrap.description>
+  <HSApparel_SamuraiFaceGuard.label>Faceguard</HSApparel_SamuraiFaceGuard.label>
+  <HSApparel_SamuraiFaceGuard.description>this face guard doesn't offer much protection, but it's cheaper to make than a menpo and better then nothing.</HSApparel_SamuraiFaceGuard.description>
+  <HSApparel_Hachimaki.label>Hachimaki</HSApparel_Hachimaki.label>
+  <HSApparel_Hachimaki.description>A headband typically made of red or white cloth and featuring an inspirational slogan. It provides little armor but gives a sort of bravado.</HSApparel_Hachimaki.description>
+  <HSKabuto.label>Kabuto</HSKabuto.label>
+  <HSKabuto.description>A Zunari Kabuto. It is an important part of the samurais equipment, provided they wish to keep their heads.</HSKabuto.description>
+  <HSBoldKabuto.label>Bold Kabuto</HSBoldKabuto.label>
+  <HSBoldKabuto.description>A Zunari Kabuto adorned with deer horns. This ornament is a challenge more than a fashion choice, a bold statement on the battlefield that says "Here I am, try and take me".</HSBoldKabuto.description>
+  <HSKenseiKabuto.label>Kensei Kabuto</HSKenseiKabuto.label>
+  <HSKenseiKabuto.description>A Zunari Kabuto given to sword saints. Those who wear this helmet know this well; The flow of battle may change in but a moment, hesitation is defeat.</HSKenseiKabuto.description>
+  <HSDaimyoKabuto.label>Daimyo's Kabuto</HSDaimyoKabuto.label>
+  <HSDaimyoKabuto.description>A beautifully crafted Kabuto, it's golden visage makes the presence of a Daimyo obvious, inspiring nearby allies to fight and work harder. (Requires Ideology to gain special hediff)</HSDaimyoKabuto.description>
+  <HSVetereanKabuto.label>Veterans Kabuto</HSVetereanKabuto.label>
+  <HSVetereanKabuto.description>A heavy kabuto, while its sheer weight may slow you down, it'll keep your head intact.</HSVetereanKabuto.description>
+  <HSPrestigeKabuto.label>Prestige Kabuto</HSPrestigeKabuto.label>
+  <HSPrestigeKabuto.description>A Kabuto that is more labor intensive then your standard kabuto. The extra effort pays off in the form of a tougher helmet.</HSPrestigeKabuto.description>
+  <HSApparel_ShinobiHalfmask.label>Shinobi Halfmask</HSApparel_ShinobiHalfmask.label>
+  <HSApparel_ShinobiHalfmask.description>A halfmask used to keep ones face hidden.</HSApparel_ShinobiHalfmask.description>
+  <HSApparel_HannyaMask.label>Hannya mask</HSApparel_HannyaMask.label>
+  <HSApparel_HannyaMask.description>A face mask used in Noh theater, it is designed to repersent a jealous  feminine demon. It is also a good choice for shinobi seeking to conceal their faces.</HSApparel_HannyaMask.description>
+  <HSApparel_WorkersHeadband.label>Workers Headband</HSApparel_WorkersHeadband.label>
+  <HSApparel_WorkersHeadband.description>A headband worn by the working class of feudal Japan, it helps keep your hair and sweat out of your eyes.</HSApparel_WorkersHeadband.description>
+  <HSApparel_ChildKimono.label>Child's Kimono</HSApparel_ChildKimono.label>
+  <HSApparel_ChildKimono.description>A traditional Kimono made for children.</HSApparel_ChildKimono.description>
+  <HSApparel_ChildStrawcloak.label>Child's Strawcloak</HSApparel_ChildStrawcloak.label>
+  <HSApparel_ChildStrawcloak.description>A Strawcloak for children, good for keeping dry.</HSApparel_ChildStrawcloak.description>
+  <HSApparel_Kimono.label>Kimono</HSApparel_Kimono.label>
+  <HSApparel_Kimono.description>A traditional Kimono.</HSApparel_Kimono.description>
+  <HSApparel_Strawcloak.label>Strawcloak</HSApparel_Strawcloak.label>
+  <HSApparel_Strawcloak.description>A Strawcloak, good for keeping dry.</HSApparel_Strawcloak.description>
+  <HSApparel_Hakama.label>Hakama</HSApparel_Hakama.label>
+  <HSApparel_Hakama.description>A traditional Hakama.</HSApparel_Hakama.description>
+  <HSApparel_Kataginu.label>Kataginu</HSApparel_Kataginu.label>
+  <HSApparel_Kataginu.description>A Kataginu, work with a Hakama to form a kamishimo.</HSApparel_Kataginu.description>
+  <HSApparel_Do.label>Dō</HSApparel_Do.label>
+  <HSApparel_Do.description>The Dō, also known as Dou or Dō-maru, is the protective breastplate worn by both Ashigaru and Samurai.</HSApparel_Do.description>
+  <HSApparel_Hanten.label>해턴</HSApparel_Hanten.label>
+  <HSApparel_Hanten.description>The Hanten is a coat made for cold weather, it bears resemblance to the Haori and is worn by both man and woman.</HSApparel_Hanten.description>
+  <HSApparel_Haori.label>Haori</HSApparel_Haori.label>
+  <HSApparel_Haori.description>The Haori is a traditonal jacket that resembles a shortened Kimono, it typically features a thinner collar and was seen as a symbol of wealth and power.</HSApparel_Haori.description>
+  <HSApparel_Tatami.label>Tatami Armor</HSApparel_Tatami.label>
+  <HSApparel_Tatami.description>Tatami was a lightweight portable folding armor, it was used by both samurai and ashigaru, although it was more common among ashigaru since it was cheaper and easier to make.</HSApparel_Tatami.description>
+  <HSApparel_HeavyDo.label>heavy dō</HSApparel_HeavyDo.label>
+  <HSApparel_HeavyDo.description>The Dō, also known as Dou or Dō-maru, is the protective breastplate worn by both Ashigaru and Samurai. This is a very heavy variant of the armor, sacrificing mobility for defense.</HSApparel_HeavyDo.description>
+  <HS_DaikyuBasic.label>daikyū</HS_DaikyuBasic.label>
+  <HS_DaikyuBasic.description>the daikyū is a longer version of the japanese yumi bow.</HS_DaikyuBasic.description>
+  <HS_DaikyuBasic.tools.0.label>활대</HS_DaikyuBasic.tools.0.label>
+  <HSDaikyu_Ya.label>Daikyu Ya</HSDaikyu_Ya.label>
+  <HSTanegashimaRifle.label>Tanegashima Rifle</HSTanegashimaRifle.label>
+  <HSTanegashimaRifle.description>Tanegashima rifles were introduced halfway into the Sengoku period, their armor piercing capabilities helped bring about the end of traditional heavily armored samurai.</HSTanegashimaRifle.description>
+  <HSTanegashimaRifle.tools.0.label>개머리판</HSTanegashimaRifle.tools.0.label>
+  <HSTanegashimaRifle.tools.1.label>총열</HSTanegashimaRifle.tools.1.label>
+  <HSTanegashima_Leadball.label>납탄</HSTanegashima_Leadball.label>
+  <HSTanegashimaPistol.label>Tanegashima Pistol</HSTanegashimaPistol.label>
+  <HSTanegashimaPistol.description>While it lacks the range of Tangeshima rifle, it is much more versatile in close range combat, its quicker to reload too.</HSTanegashimaPistol.description>
+  <HSTanegashimaPistol.tools.0.label>개머리판</HSTanegashimaPistol.tools.0.label>
+  <HSTanegashimaPistol.tools.1.label>총열</HSTanegashimaPistol.tools.1.label>
+  <HS_Kunai.label>Kunai</HS_Kunai.label>
+  <HS_Kunai.description>Originally made as a masoonry trowel, the Kunai is a multi-use knife like weapon. It can be used as a throwing knife, for slashing, or even be tied to a rope and used as a harpoon. These Kunai are just as lethal in melee combat as they are in ranged.</HS_Kunai.description>
+  <HS_Kunai.tools.0.label>손잡이</HS_Kunai.tools.0.label>
+  <HS_Kunai.tools.1.label>날</HS_Kunai.tools.1.label>
+  <HS_Kunai.tools.2.label>끝</HS_Kunai.tools.2.label>
+  <HS_Thrown_Kunai.label>Kunai</HS_Thrown_Kunai.label>
+  <HS_Edo_Blackpowder_Bomb.label>Blackpowder bomb</HS_Edo_Blackpowder_Bomb.label>
+  <HS_Edo_Blackpowder_Bomb.description>An early variation of a grenade, the blackpowder bomb isn't as effective as an industrial grade grenade, but it can get the job done.</HS_Edo_Blackpowder_Bomb.description>
+  <HS_Edo_Blackpowder_Bomb.verbs.0.label>throw blackpowder bomb</HS_Edo_Blackpowder_Bomb.verbs.0.label>
+  <Proj_BlackpowderBomb.label>Blackpowder Bomb</Proj_BlackpowderBomb.label>
+  <HS_BasicKama.label>kama</HS_BasicKama.label>
+  <HS_BasicKama.description>a traditional Japanese farming tool. It's sharp tip is good for puncturing armor and the blade is as good at hacking apart limbs as it is weeds.</HS_BasicKama.description>
+  <HS_BasicKama.tools.0.label>손잡이</HS_BasicKama.tools.0.label>
+  <HS_BasicKama.tools.1.label>발톱 끝</HS_BasicKama.tools.1.label>
+  <HS_BasicKama.tools.2.label>날</HS_BasicKama.tools.2.label>
+  <HS_BasicMasakari.label>masakari</HS_BasicMasakari.label>
+  <HS_BasicMasakari.description>the masakari, or ono, is an often overlooked weapon in the samurai's arsenal. this beast was able to hew both armor and building alike.</HS_BasicMasakari.description>
+  <HS_BasicMasakari.tools.0.label>자루</HS_BasicMasakari.tools.0.label>
+  <HS_BasicMasakari.tools.1.label>날</HS_BasicMasakari.tools.1.label>
+  <HS_BasicKanabo.label>kanabo</HS_BasicKanabo.label>
+  <HS_BasicKanabo.description>The Kanabo is a spiked or studded two-handed war club used in feudal Japan. It's an age old solution to armor: hit them with something bigger and heavier.</HS_BasicKanabo.description>
+  <HS_BasicKanabo.tools.0.label>자루</HS_BasicKanabo.tools.0.label>
+  <HS_BasicKanabo.tools.1.label>머리</HS_BasicKanabo.tools.1.label>
+  <HS_BasicNagamaki.label>nagamaki</HS_BasicNagamaki.label>
+  <HS_BasicNagamaki.description>the nagamaki could be seen as something of a fusion between a naginata and a katana. the weapon could be two feet or taller and would be equal parts hilt and blade.</HS_BasicNagamaki.description>
+  <HS_BasicNagamaki.tools.0.label>자루</HS_BasicNagamaki.tools.0.label>
+  <HS_BasicNagamaki.tools.1.label>끝</HS_BasicNagamaki.tools.1.label>
+  <HS_BasicNagamaki.tools.2.label>날</HS_BasicNagamaki.tools.2.label>
+  <HS_BasicKatana.label>카타나</HS_BasicKatana.label>
+  <HS_BasicKatana.description>A basic katana, a side arm of every samurai.</HS_BasicKatana.description>
+  <HS_BasicKatana.tools.0.label>자루</HS_BasicKatana.tools.0.label>
+  <HS_BasicKatana.tools.1.label>끝</HS_BasicKatana.tools.1.label>
+  <HS_BasicKatana.tools.2.label>날</HS_BasicKatana.tools.2.label>
+  <HS_BasicNaginata.label>naginata</HS_BasicNaginata.label>
+  <HS_BasicNaginata.description>The naginata is a pole arm with the blade of a katana attached at the end, it is most often depicted as being used by Onna-bushi.</HS_BasicNaginata.description>
+  <HS_BasicNaginata.tools.0.label>자루</HS_BasicNaginata.tools.0.label>
+  <HS_BasicNaginata.tools.1.label>끝</HS_BasicNaginata.tools.1.label>
+  <HS_BasicNaginata.tools.2.label>날</HS_BasicNaginata.tools.2.label>
+  <HS_BasicOdachi.label>odachi</HS_BasicOdachi.label>
+  <HS_BasicOdachi.description>To qualify as an ōdachi a blade must have the length of around 3 shaku, it is so large that one possible use of ōdachi is as an anti-cavalry weapons, to strike down the horse as it approaches.</HS_BasicOdachi.description>
+  <HS_BasicOdachi.tools.0.label>자루</HS_BasicOdachi.tools.0.label>
+  <HS_BasicOdachi.tools.1.label>끝</HS_BasicOdachi.tools.1.label>
+  <HS_BasicOdachi.tools.2.label>날</HS_BasicOdachi.tools.2.label>
+  <HS_BasicYari.label>yari</HS_BasicYari.label>
+  <HS_BasicYari.description>Yari is the term for a traditionally-made Japanese blade in the form of a spear, early yari are believed to have been derived from Chinese spears.</HS_BasicYari.description>
+  <HS_BasicYari.tools.0.label>자루</HS_BasicYari.tools.0.label>
+  <HS_BasicYari.tools.1.label>끝</HS_BasicYari.tools.1.label>
+  <HS_BasicYari.tools.2.label>날</HS_BasicYari.tools.2.label>
+  <HS_Bokken.label>bokken</HS_Bokken.label>
+  <HS_Bokken.description>the bokken is a wooden weapon, while often shaped like the katana it can be shaped to look like any weapon. It is primarily used for training, but can still be used to kill or harm. The blunt nature of it makes it ideal for taking prisoners.</HS_Bokken.description>
+  <HS_Bokken.tools.0.label>자루</HS_Bokken.tools.0.label>
+  <HS_Bokken.tools.1.label>끝</HS_Bokken.tools.1.label>
+  <HS_Bokken.tools.2.label>날</HS_Bokken.tools.2.label>
+  <HS_BasicTanto.label>Tantō</HS_BasicTanto.label>
+  <HS_BasicTanto.description>The Tanto is a small dagger like weapon, its small and light nature makes it ideal for exploiting weakspots in armor. During the Edo period Samurai were required to wear the Katana with a shorter weapon, like a Tanto or Wakizashi. This pairing was called a Daisho</HS_BasicTanto.description>
+  <HS_BasicTanto.tools.0.label>자루</HS_BasicTanto.tools.0.label>
+  <HS_BasicTanto.tools.1.label>끝</HS_BasicTanto.tools.1.label>
+  <HS_BasicTanto.tools.2.label>날</HS_BasicTanto.tools.2.label>
+  <HS_BasicWakizashi.label>Wakizashi</HS_BasicWakizashi.label>
+  <HS_BasicWakizashi.description>Shorter then the Katana, the Wakizashi is often between 30 and 60 cm (12 and 24 in), the shorter size is fit for combat in doors, and was a more popular choice for the mandated Daisho pairing during the Edo Period.</HS_BasicWakizashi.description>
+  <HS_BasicWakizashi.tools.0.label>자루</HS_BasicWakizashi.tools.0.label>
+  <HS_BasicWakizashi.tools.1.label>끝</HS_BasicWakizashi.tools.1.label>
+  <HS_BasicWakizashi.tools.2.label>날</HS_BasicWakizashi.tools.2.label>
+  <HS_ClanforgedKatana.label>clanforged katana</HS_ClanforgedKatana.label>
+  <HS_ClanforgedKatana.description>An artisanal Katana, built with both form and function in mind.</HS_ClanforgedKatana.description>
+  <HS_ClanforgedKatana.tools.0.label>자루</HS_ClanforgedKatana.tools.0.label>
+  <HS_ClanforgedKatana.tools.1.label>끝</HS_ClanforgedKatana.tools.1.label>
+  <HS_ClanforgedKatana.tools.2.label>날</HS_ClanforgedKatana.tools.2.label>
+  <HS_ClanforgedNaginata.label>clanforged naginata</HS_ClanforgedNaginata.label>
+  <HS_ClanforgedNaginata.description>An artisanal Naginata, built with both form and function in mind.</HS_ClanforgedNaginata.description>
+  <HS_ClanforgedNaginata.tools.0.label>자루</HS_ClanforgedNaginata.tools.0.label>
+  <HS_ClanforgedNaginata.tools.1.label>끝</HS_ClanforgedNaginata.tools.1.label>
+  <HS_ClanforgedNaginata.tools.2.label>날</HS_ClanforgedNaginata.tools.2.label>
+  <HS_ClanforgedYari.label>clanforged yari</HS_ClanforgedYari.label>
+  <HS_ClanforgedYari.description>An artisanal Yari, built with both form and function in mind.</HS_ClanforgedYari.description>
+  <HS_ClanforgedYari.tools.0.label>자루</HS_ClanforgedYari.tools.0.label>
+  <HS_ClanforgedYari.tools.1.label>끝</HS_ClanforgedYari.tools.1.label>
+  <HS_ClanforgedYari.tools.2.label>날</HS_ClanforgedYari.tools.2.label>
+  <HS_ClanforgedOdachi.label>clanforged odachi</HS_ClanforgedOdachi.label>
+  <HS_ClanforgedOdachi.description>An artisanal Odachi, built with both form and function in mind.</HS_ClanforgedOdachi.description>
+  <HS_ClanforgedOdachi.tools.0.label>자루</HS_ClanforgedOdachi.tools.0.label>
+  <HS_ClanforgedOdachi.tools.1.label>끝</HS_ClanforgedOdachi.tools.1.label>
+  <HS_ClanforgedOdachi.tools.2.label>날</HS_ClanforgedOdachi.tools.2.label>
+  <HS_ClanForgedNagamaki.label>clanforged nagamaki</HS_ClanForgedNagamaki.label>
+  <HS_ClanForgedNagamaki.description>An artisanal Nagamaki, built with both form and function in mind.</HS_ClanForgedNagamaki.description>
+  <HS_ClanForgedNagamaki.tools.0.label>자루</HS_ClanForgedNagamaki.tools.0.label>
+  <HS_ClanForgedNagamaki.tools.1.label>끝</HS_ClanForgedNagamaki.tools.1.label>
+  <HS_ClanForgedNagamaki.tools.2.label>날</HS_ClanForgedNagamaki.tools.2.label>
+  <HS_RoninKatana.label>ronin's katana</HS_RoninKatana.label>
+  <HS_RoninKatana.description>An aged Katana bearing the faded symbol of a long forgotten clan, despite its age the blade is so sharp that it can rend through armor.</HS_RoninKatana.description>
+  <HS_RoninKatana.tools.0.label>자루</HS_RoninKatana.tools.0.label>
+  <HS_RoninKatana.tools.1.label>끝</HS_RoninKatana.tools.1.label>
+  <HS_RoninKatana.tools.2.label>날</HS_RoninKatana.tools.2.label>
+  <HS_LegendaryKatana.label>Legendary Katana</HS_LegendaryKatana.label>
+  <HS_LegendaryKatana.description>An exquisitely crafted blade with a rich history of legends.</HS_LegendaryKatana.description>
+  <HS_LegendaryKatana.tools.0.label>손잡이</HS_LegendaryKatana.tools.0.label>
+  <HS_LegendaryKatana.tools.1.label>끝</HS_LegendaryKatana.tools.1.label>
+  <HS_LegendaryKatana.tools.2.label>날</HS_LegendaryKatana.tools.2.label>
+  <HS_Tenbinbo.label>tenbinbō</HS_Tenbinbo.label>
+  <HS_Tenbinbo.description>The tenbinbō is made of two wooden containers hanging on a stick, it is used for hauling resources such as food or water.</HS_Tenbinbo.description>
+  <HS_Straw_Backpack.label>Straw Backpack</HS_Straw_Backpack.label>
+  <HS_Straw_Backpack.description>A straw backpack used for hauling items.</HS_Straw_Backpack.description>
+  <HSPlant_TallBambooTree.label>tall bamboo tree</HSPlant_TallBambooTree.label>
+  <HSPlant_TallBambooTree.description>A taller variant of bamboo trees, while it takes slightly longer to reach its full height the wood yield is much better.</HSPlant_TallBambooTree.description>
+  <HSPlant_SusukiGrass.label>susuki grass</HSPlant_SusukiGrass.label>
+  <HSPlant_SusukiGrass.description>키가 큰 야생의 잡초입니다. 이동하는 사람의 속도가 느려집니다.</HSPlant_SusukiGrass.description>
+  <HSPlant_SingleBambooTree.label>bamboo stalk</HSPlant_SingleBambooTree.label>
+  <HSPlant_SingleBambooTree.description>A single stalk of tall bamboo, it doesn't yield as much wood as clusters of tall bamboo will, but it does grow a little quicker.</HSPlant_SingleBambooTree.description>
+  <HSPlant_GroveBush.label>grove bush</HSPlant_GroveBush.label>
+  <HSPlant_GroveBush.description>짧은 관목입니다. 보통 말을 하진 않습니다.</HSPlant_GroveBush.description>
+  <HSPlant_ForestGroundCover.label>grove groundcover</HSPlant_ForestGroundCover.label>
+  <HSPlant_ForestGroundCover.description>an assortment of wild bamboo grove groundcovers.</HSPlant_ForestGroundCover.description>
+  <HSPlant_VioletGroveFlower.label>Violet Flower</HSPlant_VioletGroveFlower.label>
+  <HSPlant_VioletGroveFlower.description>A cluster of Violet flowers native to bamboo groves.</HSPlant_VioletGroveFlower.description>
+  <Plant_TreeBamboo.label>대나무</Plant_TreeBamboo.label>
+  <Plant_TreeBamboo.description>생물학적으로 나무가 아니지만, 인식적으로는 나무로 분류되는 식물. 키가 크고 빠르게 자라납니다.</Plant_TreeBamboo.description>
+  <HSPlant_Adzuki.label>Adzuki bean plant</HSPlant_Adzuki.label>
+  <HSPlant_Adzuki.description>A bean plant that yields Adzuki beans, also called red beans, they can be mashed up into a sweet paste.</HSPlant_Adzuki.description>
+</LanguageData>
