@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BambooConversion.label>대나무 전환 1x</BambooConversion.label>
+  <BambooConversion.description>대나무를 목재로 전환합니다.</BambooConversion.description>
+  <BambooConversion.jobString>대나무를 목재로 전환합니다.</BambooConversion.jobString>
+  <BambooConversion25x.label>대나무 전환 25x</BambooConversion25x.label>
+  <BambooConversion25x.description>대나무를 목재로 전환합니다.</BambooConversion25x.description>
+  <BambooConversion25x.jobString>대나무를 목재로 전환합니다.</BambooConversion25x.jobString>
+  <HSCookBasicDango.label>기본 당고 만들기</HSCookBasicDango.label>
+  <HSCookBasicDango.description>쌀로 기본 당고를 만듭니다.</HSCookBasicDango.description>
+  <HSCookBasicDango.jobString>간단한 식사 조리 중.</HSCookBasicDango.jobString>
+  <HSCookBasicDangoBulk.label>기본 당고 x4 만들기</HSCookBasicDangoBulk.label>
+  <HSCookBasicDangoBulk.description>쌀로 기본 당고 4개를 만듭니다.</HSCookBasicDangoBulk.description>
+  <HSCookBasicDangoBulk.jobString>간단한 식사 조리 중</HSCookBasicDangoBulk.jobString>
+  <HSCookAdzukiDango.label>팥 당고 만들기</HSCookAdzukiDango.label>
+  <HSCookAdzukiDango.description>쌀과 팥 페이스트로 팥 당고를 만듭니다.</HSCookAdzukiDango.description>
+  <HSCookAdzukiDango.jobString>간단한 식사 조리 중.</HSCookAdzukiDango.jobString>
+  <HSCookAdzukiDangoBulk.label>팥 당고 x4 만들기</HSCookAdzukiDangoBulk.label>
+  <HSCookAdzukiDangoBulk.description>쌀과 팥 페이스트로 팥 당고 4개를 만듭니다.</HSCookAdzukiDangoBulk.description>
+  <HSCookAdzukiDangoBulk.jobString>간단한 식사 조리 중</HSCookAdzukiDangoBulk.jobString>
+  <HSBundleKoku.label>쌀 묶음</HSBundleKoku.label>
+  <HSBundleKoku.description>쌀을 코쿠로 묶습니다.</HSBundleKoku.description>
+  <HSBundleKoku.jobString>쌀을 코쿠로 묶습니다.</HSBundleKoku.jobString>
+  <HSUnbundleKoku.label>코쿠 풀기</HSUnbundleKoku.label>
+  <HSUnbundleKoku.description>코쿠를 다시 쌀로 풉니다.</HSUnbundleKoku.description>
+  <HSUnbundleKoku.jobString>코쿠를 다시 쌀로 풉니다.</HSUnbundleKoku.jobString>
+</LanguageData>
