@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <HSNamerFactionEdoClan.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] Clan</HSNamerFactionEdoClan.rulePack.rulesStrings.0>
+  <HSNamerFactionEdoClan.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] 클랜</HSNamerFactionEdoClan.rulePack.rulesStrings.0>
   <HSEdoSettlementNamer.rulePack.rulesStrings.0>r_name(p=4)->[townname_wordgen]</HSEdoSettlementNamer.rulePack.rulesStrings.0>
   <HSEdoSettlementNamer.rulePack.rulesStrings.1>r_name(p=2)->[townname_combo]</HSEdoSettlementNamer.rulePack.rulesStrings.1>
   <HSEdoSettlementNamer.rulePack.rulesStrings.2>townname_combo(p=2)->[HSEdoTownstartLine] [HSEdoLastNames]</HSEdoSettlementNamer.rulePack.rulesStrings.2>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.3>townname_combo(p=2)->[HSEdoLastNames]'s [HSEdoTownendLine]</HSEdoSettlementNamer.rulePack.rulesStrings.3>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.4>townname_combo(p=2)->[HSEdoLastNames]'s [HSEdoSacrifice]</HSEdoSettlementNamer.rulePack.rulesStrings.4>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.5>townname_wordgen(p=2)->[HSEdoLastNames]'s [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.5>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.6>townname_wordgen(p=2)->[HSEdoLastNames]'s [HSEdoTownstartLine] by the [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.6>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.7>HSEdoTownendLine->Fort</HSEdoSettlementNamer.rulePack.rulesStrings.7>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.8>HSEdoTownendLine->Citadel</HSEdoSettlementNamer.rulePack.rulesStrings.8>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.9>HSEdoTownendLine->Bastion</HSEdoSettlementNamer.rulePack.rulesStrings.9>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.10>HSEdoTownendLine->Dojo</HSEdoSettlementNamer.rulePack.rulesStrings.10>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.11>HSEdoTownstartLine->Camp</HSEdoSettlementNamer.rulePack.rulesStrings.11>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.12>HSEdoTownstartLine->Fort</HSEdoSettlementNamer.rulePack.rulesStrings.12>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.13>HSEdoTownstartLine->Castle</HSEdoSettlementNamer.rulePack.rulesStrings.13>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.14>HSEdoSacrifice->End</HSEdoSettlementNamer.rulePack.rulesStrings.14>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.15>HSEdoSacrifice->Duty</HSEdoSettlementNamer.rulePack.rulesStrings.15>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.16>HSEdoSacrifice->Sacrifice</HSEdoSettlementNamer.rulePack.rulesStrings.16>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.17>HSEdoSacrifice->Lament</HSEdoSettlementNamer.rulePack.rulesStrings.17>
-  <HSEdoSettlementNamer.rulePack.rulesStrings.18>HSEdoSacrifice->Memorial</HSEdoSettlementNamer.rulePack.rulesStrings.18>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.3>townname_combo(p=2)->[HSEdoLastNames]의 [HSEdoTownendLine]</HSEdoSettlementNamer.rulePack.rulesStrings.3>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.4>townname_combo(p=2)->[HSEdoLastNames]의 희생</HSEdoSettlementNamer.rulePack.rulesStrings.4>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.5>townname_wordgen(p=2)->[HSEdoLastNames]의 [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.5>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.6>townname_wordgen(p=2)->[HSEdoLastNames]의 [HSEdoTownstartLine]과 [TerrainFeature]</HSEdoSettlementNamer.rulePack.rulesStrings.6>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.7>HSEdoTownendLine->요새</HSEdoSettlementNamer.rulePack.rulesStrings.7>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.8>HSEdoTownendLine->시타델</HSEdoSettlementNamer.rulePack.rulesStrings.8>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.9>HSEdoTownendLine->바스티온</HSEdoSettlementNamer.rulePack.rulesStrings.9>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.10>HSEdoTownendLine->도장</HSEdoSettlementNamer.rulePack.rulesStrings.10>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.11>HSEdoTownstartLine->캠프</HSEdoSettlementNamer.rulePack.rulesStrings.11>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.12>HSEdoTownstartLine->요새</HSEdoSettlementNamer.rulePack.rulesStrings.12>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.13>HSEdoTownstartLine->성</HSEdoSettlementNamer.rulePack.rulesStrings.13>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.14>HSEdoSacrifice->종말</HSEdoSettlementNamer.rulePack.rulesStrings.14>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.15>HSEdoSacrifice->의무</HSEdoSettlementNamer.rulePack.rulesStrings.15>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.16>HSEdoSacrifice->희생</HSEdoSettlementNamer.rulePack.rulesStrings.16>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.17>HSEdoSacrifice->애도</HSEdoSettlementNamer.rulePack.rulesStrings.17>
+  <HSEdoSettlementNamer.rulePack.rulesStrings.18>HSEdoSacrifice->기념비</HSEdoSettlementNamer.rulePack.rulesStrings.18>
   <HSEdoNamerPerson.rulePack.rulesStrings.0>r_name(p=4)->[HSEdoNamesMale] [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.0>
   <HSEdoNamerPerson.rulePack.rulesStrings.1>r_name(p=0.5)->[HSEdoNamesMale] '[HSEdoNicknamesEastereggs]' [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.1>
   <HSEdoNamerPerson.rulePack.rulesStrings.2>r_name(p=0.5)->[HSEdoNamesMale] '[HSEdoNicknames]' [HSEdoLastNames]</HSEdoNamerPerson.rulePack.rulesStrings.2>
@@ -33,208 +33,208 @@
   <HS_EdoDeityNamer.rulePack.rulesStrings.4>end->kami</HS_EdoDeityNamer.rulePack.rulesStrings.4>
   <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.0>
   <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.1>cultureLeaderAdjective->celestial</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.1>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>cultureLeaderAdjective->divine</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>cultureLeaderAdjective->신성한</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.2>
   <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.3>cultureLeaderAdjective->위대한</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.3>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>cultureLeaderAdjective->Just</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>cultureLeaderAdjective->Sun Blessed</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>cultureLeaderAdjective->Moon Blessed</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>cultureLeaderAdjective->Virtuous</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>cultureLeaderNoun->Clan Head</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>cultureLeaderNoun->Uji no kami</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>
-  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>cultureLeaderNoun->daimyo</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>cultureLeaderAdjective->정의로운</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.4>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>cultureLeaderAdjective->태양이 축복한</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.5>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>cultureLeaderAdjective->달이 축복한</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.6>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>cultureLeaderAdjective->덕이 있는</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.7>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>cultureLeaderNoun->씨족장</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.8>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>cultureLeaderNoun->우지노카미</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.9>
+  <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>cultureLeaderNoun->다이묘</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.10>
   <HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.11>cultureLeaderNoun->로드</HS_LeaderTitleNamer_EdoClan.rulePack.rulesStrings.11>
-  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>r_deityType->[HSgod] of [memeConcept]</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>
-  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>HSgod->Kami</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>
-  <HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] Shogunate</HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>
+  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>r_deityType->[HSgod]의 [memeConcept]</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.0>
+  <HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>HSgod->카미</HSEdoClanDeityTypeMaker.rulePack.rulesStrings.1>
+  <HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>r_name->[HSEdoLastNames] 쇼군</HSNamerFactionEdoShogunate.rulePack.rulesStrings.0>
   <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.0>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.0>
   <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.1>cultureLeaderAdjective->celestial</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.1>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>cultureLeaderAdjective->divine</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>cultureLeaderAdjective->신성한</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.2>
   <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.3>cultureLeaderAdjective->위대한</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.3>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>cultureLeaderAdjective->Just</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>cultureLeaderAdjective->Sun Blessed</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>cultureLeaderAdjective->Moon Blessed</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>cultureLeaderAdjective->Virtuous</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>
-  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>cultureLeaderNoun->shogun</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>cultureLeaderAdjective->정의로운</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.4>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>cultureLeaderAdjective->태양이 축복한</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.5>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>cultureLeaderAdjective->달이 축복한</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.6>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>cultureLeaderAdjective->덕이 있는</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.7>
+  <HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>cultureLeaderNoun->쇼군</HS_LeaderTitleNamer_Shogunate.rulePack.rulesStrings.8>
   <HSNamer_LegendaryWeapons.rulePack.rulesStrings.0>r_weapon_name(p=5)->[HSOpener] [HSEnder]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.0>
   <HSNamer_LegendaryWeapons.rulePack.rulesStrings.1>r_weapon_name(p=2)->[HSKillerOpen] [HSKillerEnd]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.1>
   <HSNamer_LegendaryWeapons.rulePack.rulesStrings.2>r_weapon_name(p=2)->[HSPeacefulOpener] [HSPeacefulEnder]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.2>
   <HSNamer_LegendaryWeapons.rulePack.rulesStrings.3>r_weapon_name(p=1)->[HSEasterEggs]</HSNamer_LegendaryWeapons.rulePack.rulesStrings.3>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>HSOpener->hidden</HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>HSOpener->midnight</HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>HSOpener->spring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>HSOpener->prowling</HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>HSOpener->snow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>HSOpener->warrior's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>HSOpener->dueling</HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>HSOpener->tempest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>HSOpener->stirring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>HSOpener->divine</HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>HSOpener->wicked</HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>HSOpener->hungry</HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>HSOpener->heavenly</HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>HSOpener->cursed</HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>HSOpener->azure</HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>HSOpener->shogun's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>HSOpener->daimyo's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>HSOpener->jito's</HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>HSOpener->lightning</HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>HSOpener->cherry blossom</HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>HSOpener->immortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>HSOpener->mortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>HSOpener->serene</HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>HSOpener->crimson</HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>HSOpener->raging</HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>HSOpener->deranged</HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>HSOpener->spirit</HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>HSOpener->ancestral</HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>HSOpener->beautiful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>HSEnder->grove</HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>HSEnder->forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>HSEnder->bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>HSEnder->koi</HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>HSEnder->dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>HSEnder->oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>HSEnder->blade</HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>HSEnder->cutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>HSEnder->slasher</HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>HSEnder->fortune</HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>HSEnder->storm</HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>HSEnder->faith</HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>HSEnder->tiger</HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>HSEnder->wing</HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>HSEnder->claw</HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>HSEnder->fang</HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>HSEnder->shadow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>HSEnder->keeper</HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>HSEnder->protector</HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>HSEnder->defender</HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>HSKillerOpen->moon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>HSKillerOpen->sun</HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>HSKillerOpen->mountain</HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>HSKillerOpen->oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>HSKillerOpen->spirit</HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>HSKillerOpen->yokai</HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>HSKillerOpen->dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>HSKillerOpen->immortal</HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>HSKillerEnd->slayer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>HSKillerEnd->cutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>HSKillerEnd->killer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>HSKillerEnd->destroyer</HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>HSPeacefulOpener->serene</HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>HSPeacefulOpener->silent</HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>HSPeacefulOpener->peaceful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>HSPeacefulOpener->spring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>HSPeacefulOpener->stirring</HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>HSPeacefulOpener->beautiful</HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>HSPeacefulOpener->river</HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>HSPeacefulEnder->grove</HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>HSPeacefulEnder->forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>HSPeacefulEnder->bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>HSPeacefulEnder->grass</HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>HSPeacefulEnder->breeze</HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>HSEasterEggs->The Storm of Clan Sakai</HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>HSEasterEggs->Hero of Tsushima</HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>HSEasterEggs->Heavenly Falcon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>HSEasterEggs->Omukade's Revenge</HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>HSEasterEggs->Izanami's Grief</HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>HSEasterEggs->Azure Dragon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>HSEasterEggs->Bishamon's Fortune</HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>HSEasterEggs->Breath of Hachiman</HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>HSEasterEggs->Dueling Festival</HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>HSEasterEggs->Fuujin's Secret</HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>HSEasterEggs->Genbu's Darkness</HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>HSEasterEggs->Gold Koi River</HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>HSEasterEggs->Hijiki in Sunlight</HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>HSEasterEggs->Hunting Bear</HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>HSEasterEggs->Hidden Forest</HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>HSEasterEggs->Island's Keeper</HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>HSEasterEggs->Mamushi Venom</HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>HSEasterEggs->Midnight Hanabi</HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>HSEasterEggs->Moon Bear's Paw</HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>HSEasterEggs->Shogun's Storm</HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>HSEasterEggs->Sly Tanuki</HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>HSEasterEggs->Spring Bamboo</HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>HSEasterEggs->Tanuki's Brush</HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>HSEasterEggs->Twilight Oni</HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>HSEasterEggs->Warrior's Brush</HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>HSEasterEggs->Warrior's Faith</HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>HSEasterEggs->Yasha's Embers</HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>HSEasterEggs->Yuzu Peel</HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>HSEasterEggs->Warrior's Shadow</HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>HSEasterEggs->Prowling Tiger</HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>HSEasterEggs->Emperor's Tears</HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>HSEasterEggs->Snow Demon's Eyes</HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>HSEasterEggs->Sea Dragon's Wing</HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>HSEasterEggs->Tempest’s End</HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>HSEasterEggs->The Spider’s Kiss</HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>HSEasterEggs->Nekoma’s Fang</HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>HSEasterEggs->Immortal Hope</HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>HSEasterEggs->The Stonecutter</HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>HSEasterEggs->Mashira’s Bite</HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>HSEasterEggs->Undying Rage</HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>HSEasterEggs->The Hidden Heart</HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>HSEasterEggs->The Mortal Blade</HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>HSEasterEggs->Fushigiri</HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>HSEasterEggs->Kaimon</HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>HSEasterEggs->Kusabimaru</HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>
-  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>HSEasterEggs->Sohoyamaru</HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>HSOpener->숨겨진</HSNamer_LegendaryWeapons.rulePack.rulesStrings.4>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>HSOpener->한밤 중의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.5>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>HSOpener->봄</HSNamer_LegendaryWeapons.rulePack.rulesStrings.6>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>HSOpener->배회하는</HSNamer_LegendaryWeapons.rulePack.rulesStrings.7>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>HSOpener->눈 내리는</HSNamer_LegendaryWeapons.rulePack.rulesStrings.8>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>HSOpener->전사의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.9>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>HSOpener->결투의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.10>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>HSOpener->폭풍의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.11>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>HSOpener->격동의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.12>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>HSOpener->신성한</HSNamer_LegendaryWeapons.rulePack.rulesStrings.13>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>HSOpener->사악한</HSNamer_LegendaryWeapons.rulePack.rulesStrings.14>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>HSOpener->굶주린</HSNamer_LegendaryWeapons.rulePack.rulesStrings.15>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>HSOpener->천상의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.16>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>HSOpener->저주받은</HSNamer_LegendaryWeapons.rulePack.rulesStrings.17>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>HSOpener->하늘색</HSNamer_LegendaryWeapons.rulePack.rulesStrings.18>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>HSOpener->쇼군의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.19>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>HSOpener->대명의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.20>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>HSOpener->지토의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.21>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>HSOpener->번개</HSNamer_LegendaryWeapons.rulePack.rulesStrings.22>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>HSOpener->벚꽃</HSNamer_LegendaryWeapons.rulePack.rulesStrings.23>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>HSOpener->불사의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.24>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>HSOpener->필멸의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.25>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>HSOpener->고요한</HSNamer_LegendaryWeapons.rulePack.rulesStrings.26>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>HSOpener->진홍색</HSNamer_LegendaryWeapons.rulePack.rulesStrings.27>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>HSOpener->분노한</HSNamer_LegendaryWeapons.rulePack.rulesStrings.28>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>HSOpener->정신나간</HSNamer_LegendaryWeapons.rulePack.rulesStrings.29>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>HSOpener->영혼의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.30>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>HSOpener->조상의</HSNamer_LegendaryWeapons.rulePack.rulesStrings.31>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>HSOpener->아름다운</HSNamer_LegendaryWeapons.rulePack.rulesStrings.32>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>HSEnder->숲</HSNamer_LegendaryWeapons.rulePack.rulesStrings.33>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>HSEnder->밀림</HSNamer_LegendaryWeapons.rulePack.rulesStrings.34>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>HSEnder->대나무</HSNamer_LegendaryWeapons.rulePack.rulesStrings.35>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>HSEnder->잉어</HSNamer_LegendaryWeapons.rulePack.rulesStrings.36>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>HSEnder->용</HSNamer_LegendaryWeapons.rulePack.rulesStrings.37>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>HSEnder->오니</HSNamer_LegendaryWeapons.rulePack.rulesStrings.38>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>HSEnder->칼날</HSNamer_LegendaryWeapons.rulePack.rulesStrings.39>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>HSEnder->참</HSNamer_LegendaryWeapons.rulePack.rulesStrings.40>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>HSEnder->슬래셔</HSNamer_LegendaryWeapons.rulePack.rulesStrings.41>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>HSEnder->포춘</HSNamer_LegendaryWeapons.rulePack.rulesStrings.42>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>HSEnder->스톰</HSNamer_LegendaryWeapons.rulePack.rulesStrings.43>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>HSEnder->페이스</HSNamer_LegendaryWeapons.rulePack.rulesStrings.44>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>HSEnder->타이거</HSNamer_LegendaryWeapons.rulePack.rulesStrings.45>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>HSEnder->윙</HSNamer_LegendaryWeapons.rulePack.rulesStrings.46>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>HSEnder->클로</HSNamer_LegendaryWeapons.rulePack.rulesStrings.47>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>HSEnder->송곳니</HSNamer_LegendaryWeapons.rulePack.rulesStrings.48>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>HSEnder->그림자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.49>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>HSEnder->파수꾼</HSNamer_LegendaryWeapons.rulePack.rulesStrings.50>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>HSEnder->보호자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.51>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>HSEnder->수호자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.52>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>HSKillerOpen->달</HSNamer_LegendaryWeapons.rulePack.rulesStrings.53>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>HSKillerOpen->태양</HSNamer_LegendaryWeapons.rulePack.rulesStrings.54>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>HSKillerOpen->산</HSNamer_LegendaryWeapons.rulePack.rulesStrings.55>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>HSKillerOpen->오니</HSNamer_LegendaryWeapons.rulePack.rulesStrings.56>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>HSKillerOpen->영혼</HSNamer_LegendaryWeapons.rulePack.rulesStrings.57>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>HSKillerOpen->요괴</HSNamer_LegendaryWeapons.rulePack.rulesStrings.58>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>HSKillerOpen->드래곤</HSNamer_LegendaryWeapons.rulePack.rulesStrings.59>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>HSKillerOpen->불멸자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.60>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>HSKillerEnd->학살자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.61>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>HSKillerEnd->절단자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.62>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>HSKillerEnd->살인자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.63>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>HSKillerEnd->파괴자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.64>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>HSPeacefulOpener->고요한</HSNamer_LegendaryWeapons.rulePack.rulesStrings.65>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>HSPeacefulOpener->침묵하는</HSNamer_LegendaryWeapons.rulePack.rulesStrings.66>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>HSPeacefulOpener->평화로운</HSNamer_LegendaryWeapons.rulePack.rulesStrings.67>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>HSPeacefulOpener->샘물</HSNamer_LegendaryWeapons.rulePack.rulesStrings.68>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>HSPeacefulOpener->활기를 띤</HSNamer_LegendaryWeapons.rulePack.rulesStrings.69>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>HSPeacefulOpener->아름다운</HSNamer_LegendaryWeapons.rulePack.rulesStrings.70>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>HSPeacefulOpener->강</HSNamer_LegendaryWeapons.rulePack.rulesStrings.71>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>HSPeacefulEnder->수풀</HSNamer_LegendaryWeapons.rulePack.rulesStrings.72>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>HSPeacefulEnder->숲</HSNamer_LegendaryWeapons.rulePack.rulesStrings.73>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>HSPeacefulEnder->대나무</HSNamer_LegendaryWeapons.rulePack.rulesStrings.74>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>HSPeacefulEnder->풀</HSNamer_LegendaryWeapons.rulePack.rulesStrings.75>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>HSPeacefulEnder->바람</HSNamer_LegendaryWeapons.rulePack.rulesStrings.76>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>HSEasterEggs->사카이 클랜의 폭풍</HSNamer_LegendaryWeapons.rulePack.rulesStrings.77>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>HSEasterEggs->쓰시마의 영웅</HSNamer_LegendaryWeapons.rulePack.rulesStrings.78>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>HSEasterEggs->천상의 매</HSNamer_LegendaryWeapons.rulePack.rulesStrings.79>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>HSEasterEggs->오무카데의 복수</HSNamer_LegendaryWeapons.rulePack.rulesStrings.80>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>HSEasterEggs->이자나미의 슬픔</HSNamer_LegendaryWeapons.rulePack.rulesStrings.81>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>HSEasterEggs->청룡</HSNamer_LegendaryWeapons.rulePack.rulesStrings.82>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>HSEasterEggs->비샤몬의 행운</HSNamer_LegendaryWeapons.rulePack.rulesStrings.83>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>HSEasterEggs->하치만의 숨결</HSNamer_LegendaryWeapons.rulePack.rulesStrings.84>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>HSEasterEggs->결투 축제</HSNamer_LegendaryWeapons.rulePack.rulesStrings.85>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>HSEasterEggs->후우진의 비밀</HSNamer_LegendaryWeapons.rulePack.rulesStrings.86>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>HSEasterEggs->겐부의 어둠</HSNamer_LegendaryWeapons.rulePack.rulesStrings.87>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>HSEasterEggs->황금 잉어 강</HSNamer_LegendaryWeapons.rulePack.rulesStrings.88>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>HSEasterEggs->햇빛에 비친 히지키</HSNamer_LegendaryWeapons.rulePack.rulesStrings.89>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>HSEasterEggs->사냥꾼 곰</HSNamer_LegendaryWeapons.rulePack.rulesStrings.90>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>HSEasterEggs->숨겨진 숲</HSNamer_LegendaryWeapons.rulePack.rulesStrings.91>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>HSEasterEggs->섬의 수호자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.92>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>HSEasterEggs->마무시 독</HSNamer_LegendaryWeapons.rulePack.rulesStrings.93>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>HSEasterEggs->한밤의 하나비</HSNamer_LegendaryWeapons.rulePack.rulesStrings.94>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>HSEasterEggs->달 곰의 발</HSNamer_LegendaryWeapons.rulePack.rulesStrings.95>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>HSEasterEggs->쇼군의 폭풍</HSNamer_LegendaryWeapons.rulePack.rulesStrings.96>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>HSEasterEggs->교활한 타누키</HSNamer_LegendaryWeapons.rulePack.rulesStrings.97>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>HSEasterEggs->봄 대나무</HSNamer_LegendaryWeapons.rulePack.rulesStrings.98>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>HSEasterEggs->타누키의 붓</HSNamer_LegendaryWeapons.rulePack.rulesStrings.99>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>HSEasterEggs->황혼의 오니</HSNamer_LegendaryWeapons.rulePack.rulesStrings.100>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>HSEasterEggs->전사의 붓</HSNamer_LegendaryWeapons.rulePack.rulesStrings.101>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>HSEasterEggs->전사의 신념</HSNamer_LegendaryWeapons.rulePack.rulesStrings.102>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>HSEasterEggs->야샤의 불꽃</HSNamer_LegendaryWeapons.rulePack.rulesStrings.103>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>HSEasterEggs->유자 껍질</HSNamer_LegendaryWeapons.rulePack.rulesStrings.104>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>HSEasterEggs->전사의 그림자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.105>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>HSEasterEggs->잠복하는 호랑이</HSNamer_LegendaryWeapons.rulePack.rulesStrings.106>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>HSEasterEggs->황제의 눈물</HSNamer_LegendaryWeapons.rulePack.rulesStrings.107>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>HSEasterEggs->눈의 수호자 데몬</HSNamer_LegendaryWeapons.rulePack.rulesStrings.108>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>HSEasterEggs->바다 용의 날개</HSNamer_LegendaryWeapons.rulePack.rulesStrings.109>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>HSEasterEggs->템페스트의 종말</HSNamer_LegendaryWeapons.rulePack.rulesStrings.110>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>HSEasterEggs->거미의 키스</HSNamer_LegendaryWeapons.rulePack.rulesStrings.111>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>HSEasterEggs->네코마의 송곳니</HSNamer_LegendaryWeapons.rulePack.rulesStrings.112>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>HSEasterEggs->불멸의 희망</HSNamer_LegendaryWeapons.rulePack.rulesStrings.113>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>HSEasterEggs->돌을 쪼개는 자</HSNamer_LegendaryWeapons.rulePack.rulesStrings.114>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>HSEasterEggs->마시라의 물기</HSNamer_LegendaryWeapons.rulePack.rulesStrings.115>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>HSEasterEggs->불멸의 분노</HSNamer_LegendaryWeapons.rulePack.rulesStrings.116>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>HSEasterEggs->숨겨진 심장</HSNamer_LegendaryWeapons.rulePack.rulesStrings.117>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>HSEasterEggs->필멸의 칼날</HSNamer_LegendaryWeapons.rulePack.rulesStrings.118>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>HSEasterEggs->후시기리</HSNamer_LegendaryWeapons.rulePack.rulesStrings.119>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>HSEasterEggs->개문</HSNamer_LegendaryWeapons.rulePack.rulesStrings.120>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>HSEasterEggs->쿠사비마루</HSNamer_LegendaryWeapons.rulePack.rulesStrings.121>
+  <HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>HSEasterEgg->소호야마루</HSNamer_LegendaryWeapons.rulePack.rulesStrings.122>
   <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.0>physical_description_root(p=5)-> [HSSceneSetter] [HSSceneMID] [HSSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.0>
   <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.1>physical_description_root(p=5)-> [HSCalmSceneSetter] [HSCalmSceneMID] [HSCalmSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.1>
   <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.2>physical_description_root(p=1)-> [HSDuelSceneSetter] [HSDuelSceneMID] [HSDuelSceneEND]  ;</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.2>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>HSSceneSetter->Mountains of corpses amid rivers of blood.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>HSSceneSetter->smoke fills the air. The ravaging hordes aproach.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>HSSceneSetter->Shadows surge forth, clouding vision.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>HSSceneSetter->Shoulder to shoulder we stand united.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>HSSceneSetter->The wolves circle, mangy, feral, starved.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>HSSceneSetter->Towering above, we stand ready.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>HSSceneSetter->Standing amid the bamboo grove.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>HSSceneSetter->As night falls, death approaches.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>HSSceneMID->bloody, battered and bruised; at our stories end.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>HSSceneMID->The cowardly die an eternal death, the brave endure forever.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>HSSceneMID->Countless have fallen, few remain.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>HSSceneMID->The body is broken, but the spirit remains.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>HSSceneMID->Riddled with holes, a warriors death awaits.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>HSSceneMID->The voices of the dead beckon us home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>HSSceneMID->Warriors who will sacrifice everything for their homes.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>HSSceneMID->Pure of purpose, prepared to face death.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>HSSceneEND->We meet the end with open arms.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>HSSceneEND->One final fight awaits.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>HSSceneEND->Stand, and fight.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>HSSceneEND->Life is but a fleeting dream.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>HSSceneEND->Darkness fades in brilliant light.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>HSSceneEND->We surge forth to the end.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>HSSceneEND->Duty demands one final sacrifice.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>HSSceneEND->There is beauty in impermanence.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>HSSceneEND->The shadows are deepest before dawn.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>HSCalmSceneSetter->Swaying freely in the wind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>HSCalmSceneSetter->Growth that shelters all it sees.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>HSCalmSceneSetter->Calm waters, calm mind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>HSCalmSceneSetter->Submerged deep in nature's shade.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>HSCalmSceneSetter->Steeling myself for the battles ahead.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>HSCalmSceneMID->Reaching within to find resolve.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>HSCalmSceneMID->Cherry Blossoms flutter in the wind.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>HSCalmSceneMID->The gentle breeze flows unbroken.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>HSCalmSceneMID->The strength we need is all around us.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>HSCalmSceneEND-> I remain unshaken.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>HSCalmSceneEND->Stand again, reborn.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>HSCalmSceneEND->A bulwark against the coming storm.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>HSCalmSceneEND->A storm looms on the horizon.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>HSCalmSceneEND->Something wicked this way comes.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>HSDuelSceneSetter->When words fail and tempers run hot.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>HSDuelSceneSetter->Honor, besmirched.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>HSDuelSceneSetter->Sensibility turned to steel.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>HSDuelSceneMID->Blood soaks through the cracked stone.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>HSDuelSceneMID->Blood splattered across the shifting susuki.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>HSDuelSceneMID->Tatami tained by crimson.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>HSDuelSceneEND->The proud do not endure.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>HSDuelSceneEND->Those who can't bend, will break.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>HSDuelSceneEND->Life ends in the blink of an eye.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>HSDuelSceneEND->Life is but a fleeting dream.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>HSHopeSceneSetter->The weary rise, rejuvenated</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>HSHopeSceneSetter->Our spirits mended</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>HSHopeSceneSetter->Our will is reborn</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>HSHopeSceneSetter->Our strength is reforged</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>HSHopeSceneMID->under the suns warm embrace.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>HSHopeSceneMID->by memories of our home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>
-  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>HSHopeSceneMID->by the warmth of home.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>HSSceneSetter->산더미 같은 시체와 피의 강.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.3>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>HSSceneSetter->연기가 공기를 가득 메운다. 약탈하는 무리가 다가온다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.4>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>HSSceneSetter->그림자가 쏟아져 나와 시야를 흐리게 한다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.5>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>HSSceneSetter->어깨와 어깨를 나란히 하며 우리는 단결한다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.6>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>HSSceneSetter->늑대들이 둘러싸고, 병들고, 야생적이며, 굶주렸다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.7>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>HSSceneSetter->우뚝 서서, 우리는 준비가 되었다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.8>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>HSSceneSetter->대나무 숲 사이에서 서 있다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.9>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>HSSceneSetter->밤이 내리며, 죽음이 다가온다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.10>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>HSSceneMID->피투성이, 멍들고 상처투성이; 우리 이야기의 끝에서.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.11>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>HSSceneMID->겁쟁이들은 영원한 죽음을 맞이하고, 용감한 자들은 영원히 버틴다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.12>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>HSSceneMID->수없이 많은 이들이 쓰러졌으며, 드물게 몇 명만이 남아있다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.13>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>HSSceneMID->몸통은 부서졌지만, 정신은 남아있다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.14>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>HSSceneMID->구멍 뚫린 채, 전사의 죽음이 기다린다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.15>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>HSSceneMID->죽은 자의 목소리가 우리를 집으로 부른다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.16>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>HSSceneMID->그들의 집을 위해 모든 것을 희생할 용사들.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.17>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>HSSceneMID->목적이 순수하며, 죽음을 마주할 준비가 되어 있다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.18>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>HSSceneEND->우리는 활짝 열린 팔로 최후를 맞이한다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.19>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>HSSceneEND->마지막 싸움이 기다린다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.20>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>HSSceneEND->일어서서 싸우라.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.21>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>HSSceneEND->인생은 덧없는 꿈일 뿐.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.22>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>HSSceneEND->어둠이 밝은 빛으로 사라진다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.23>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>HSSceneEND->우리는 최후까지 밀고 나간다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.24>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>HSSceneEND->의무가 마지막 희생을 요구한다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.25>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>HSSceneEND->무상함 속에 아름다움이 있다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.26>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>HSSceneEND->새벽 전 가장 어두운 그림자가 짙다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.27>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>HSCalmSceneSetter->바람에 자유롭게 흔들린다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.28>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>HSCalmSceneSetter->모든 것을 바라보는 성장.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.29>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>HSCalmSceneSetter->고요한 물, 고요한 마음.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.30>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>HSCalmSceneSetter->자연의 그늘에 깊이 잠기다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.31>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>HSCalmSceneSetter->다가올 전투를 위해 마음을 다잡다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.32>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>HSCalmSceneMID->결단력을 찾기 위해 내면을 탐하다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.33>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>HSCalmSceneMID->벚꽃이 바람에 나부끼다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.34>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>HSCalmSceneMID->부드러운 산들바람이 끊임없이 흐릅니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.35>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>HSCalmSceneMID->우리에게 필요한 힘은 주변에 있습니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.36>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>HSCalmSceneEND-> 나는 흔들리지 않습니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.37>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>HSCalmSceneEND->다시 일어서, 새롭게 태어나다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.38>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>HSCalmSceneEND->다가오는 폭풍에 대한 방벽입니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.39>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>HSCalmSceneEND->폭풍이 지평선에 몰려옵니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.40>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>HSCalmSceneEND->뭔가 사악한 것이 이쪽으로 옵니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.41>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>HSDuelSceneSetter->말이 통하지 않고 기분이 격앙될 때.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.42>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>HSDuelSceneSetter->명예가 더럽혀졌습니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.43>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>HSDuelSceneSetter->분별력이 강철로 바뀌었습니다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.44>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>HSDuelSceneMID->골절된 돌을 통해 피가 스며든다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.45>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>HSDuelSceneMID->변화하는 수스키에 피가 튀었다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.46>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>HSDuelSceneMID->진홍색으로 얼룩진 타타미.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.47>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>HSDuelSceneEND->자랑스러운 자는 오래가지 못한다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.48>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>HSDuelSceneEND->굽히지 않는 자는 부러지리라.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.49>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>HSDuelSceneEND->인생은 눈 깜짝할 순간에 끝난다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.50>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>HSDuelSceneEND->인생은 덧없는 꿈일 뿐이다.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.51>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>HSHopeSceneSetter->피로한 이들이 다시 일어나 새 힘을 얻는다</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.52>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>HSHopeSceneSetter->우리의 영혼은 치유되었다</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.53>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>HSHopeSceneSetter->우리의 의지는 다시 태어났다</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.54>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>HSHopeSceneSetter->우리의 힘은 다시 단련되었다</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.55>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>HSHopeSceneMID->태양의 따스한 품 안에서.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.56>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>HSHopeSceneMID->우리 집의 추억으로 인해.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.57>
+  <HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>HSHopeSceneMID->집의 따스함으로 인해.</HSArtDescription_LegendaryKatana.rulePack.rulesStrings.58>
 </LanguageData>
