@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <HSKensei.degreeDatas.0.label>Kensei</HSKensei.degreeDatas.0.label>
-  <HSKensei.degreeDatas.0.description>{PAWN_nameDef} rejects ranged weapons, instead {PAWN_pronoun} focuses on mastering {PAWN_possessive} blade and footwork.</HSKensei.degreeDatas.0.description>
+  <HSKensei.degreeDatas.0.label>겐세이</HSKensei.degreeDatas.0.label>
+  <HSKensei.degreeDatas.0.description>{PAWN_nameDef}(은)는 원거리 무기를 거부하고, 대신 {PAWN_pronoun}(이)는 {PAWN_possessive} 칼과 발놀림을 마스터하는 데 집중합니다.</HSKensei.degreeDatas.0.description>
   <HSSamurai.degreeDatas.0.label>사무라이</HSSamurai.degreeDatas.0.label>
-  <HSSamurai.degreeDatas.0.description>{PAWN_nameDef} is a formally trained samurai and the backbone of any clan's army, {PAWN_pronoun} is versitile, hits hard and is even harder to kill.</HSSamurai.degreeDatas.0.description>
-  <HSWayOfTheBow.degreeDatas.0.label>way of the bow</HSWayOfTheBow.degreeDatas.0.label>
-  <HSWayOfTheBow.degreeDatas.0.description>{PAWN_nameDef} is a practitioner of The Way of The Bow, {PAWN_possessive} well placed shots can be the deciding factor in the outcome of a fight.</HSWayOfTheBow.degreeDatas.0.description>
+  <HSSamurai.degreeDatas.0.description>{PAWN_nameDef}(은)는 정식으로 훈련된 사무라이이며, 어느 클랜의 군대의 핵심 입니다. {PAWN_pronoun}(은)는 다재다능하며, 강하게 타격하고, 또한 죽기 어려워합니다.</HSSamurai.degreeDatas.0.description>
+  <HSWayOfTheBow.degreeDatas.0.label>활의 길</HSWayOfTheBow.degreeDatas.0.label>
+  <HSWayOfTheBow.degreeDatas.0.description>{PAWN_nameDef}(은)는 활의 길의 수련자이며, {PAWN_possessive} 정확한 샷은 싸움의 결과를 결정짓는 중요한 요소가 될 수 있습니다.</HSWayOfTheBow.degreeDatas.0.description>
   <HSRonin.degreeDatas.0.label>로닌</HSRonin.degreeDatas.0.label>
-  <HSRonin.degreeDatas.0.description>{PAWN_nameDef} is a masterless warrior, {PAWN_possessive} life on the road has been tough, but it has strengthened {PAWN_possessive} body and mind.</HSRonin.degreeDatas.0.description>
+  <HSRonin.degreeDatas.0.description>{PAWN_nameDef}(은)는 주인 없는 전사이며, {PAWN_possessive} 도로 위에서의 삶은 힘들었지만, {PAWN_possessive} 몸통과 마음을 강하게 만들었습니다.</HSRonin.degreeDatas.0.description>
 </LanguageData>
