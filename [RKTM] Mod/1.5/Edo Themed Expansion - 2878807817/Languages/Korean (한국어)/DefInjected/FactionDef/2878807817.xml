@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HS_Virtuous_Clan.pawnSingular>클랜폭</HS_Virtuous_Clan.pawnSingular>
+  <HS_Virtuous_Clan.pawnsPlural>클랜포크스</HS_Virtuous_Clan.pawnsPlural>
+  <HS_Virtuous_Clan.leaderTitle>참주</HS_Virtuous_Clan.leaderTitle>
+  <HS_Virtuous_Clan.label>덕망 있는 클랜</HS_Virtuous_Clan.label>
+  <HS_Virtuous_Clan.description>이전의 집을 잃은 로닌, 사무라이, 그리고 농민들의 집합체입니다. 이들은 함께 모여 덕을 다하는 길을 걷기로 선택했습니다.</HS_Virtuous_Clan.description>
+  <HS_Bandit_Clan.pawnSingular>클랜폭</HS_Bandit_Clan.pawnSingular>
+  <HS_Bandit_Clan.pawnsPlural>클랜포크스</HS_Bandit_Clan.pawnsPlural>
+  <HS_Bandit_Clan.leaderTitle>참주</HS_Bandit_Clan.leaderTitle>
+  <HS_Bandit_Clan.label>도적 클랜</HS_Bandit_Clan.label>
+  <HS_Bandit_Clan.description>도적, 해적, 그리고 피에 굶주린 로닌이 이 클랜의 중심입니다. 오래전 사라진 클랜의 잔해를 이용해 도적들은 훔친 갑옷으로 정통 사무라이 행세를 합니다.</HS_Bandit_Clan.description>
+  <HS_PlayerEdoClan.label>새로운 클랜</HS_PlayerEdoClan.label>
+  <HS_PlayerEdoClan.description>새로운 클랜.</HS_PlayerEdoClan.description>
+  <HS_PlayerEdoClan.pawnSingular>구성원</HS_PlayerEdoClan.pawnSingular>
+  <HS_PlayerEdoClan.pawnsPlural>구성원들</HS_PlayerEdoClan.pawnsPlural>
+  <HS_Edo_Shogunate.pawnSingular>클랜폭</HS_Edo_Shogunate.pawnSingular>
+  <HS_Edo_Shogunate.pawnsPlural>클랜포크스</HS_Edo_Shogunate.pawnsPlural>
+  <HS_Edo_Shogunate.leaderTitle>쇼군</HS_Edo_Shogunate.leaderTitle>
+  <HS_Edo_Shogunate.label>신성한 쇼군령</HS_Edo_Shogunate.label>
+  <HS_Edo_Shogunate.description>이전의 집을 잃은 로닌, 사무라이, 그리고 농민들의 집합체입니다. 이들은 함께 모여 덕을 다하는 길을 걷기로 선택했습니다.</HS_Edo_Shogunate.description>
+  <HS_Edo_Shogunate.royalFavorLabel>영향력 강화</HS_Edo_Shogunate.royalFavorLabel>
+</LanguageData>
