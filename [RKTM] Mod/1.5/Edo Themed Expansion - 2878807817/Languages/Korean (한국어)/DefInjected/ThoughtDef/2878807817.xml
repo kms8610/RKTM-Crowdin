@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <HSHokorathought.stages.0.label>Blessed by Minor Kami</HSHokorathought.stages.0.label>
-  <HSHokorathought.stages.0.description>The Minor Kami that is enshrined in our Hakora protects us from evil, I feel a little safer being near it.</HSHokorathought.stages.0.description>
-  <HSAteDango.stages.0.label>ate Dango</HSAteDango.stages.0.label>
-  <HSAteDango.stages.0.description>I ate Dango. Even plain it still tasted pretty good.</HSAteDango.stages.0.description>
-  <HSAteAdzukiBeanPaste.stages.0.label>ate adzuki bean paste</HSAteAdzukiBeanPaste.stages.0.label>
-  <HSAteAdzukiBeanPaste.stages.0.description>I ate adzuki bean paste, its sweet and delicious.</HSAteAdzukiBeanPaste.stages.0.description>
-  <HSAteAdzukiBeanPasteIngredient.stages.0.label>ate food with Adzuki Bean Paste</HSAteAdzukiBeanPasteIngredient.stages.0.label>
-  <HSAteAdzukiBeanPasteIngredient.stages.0.description>The food I ate was sweetened with Aduzki bean paste, it tasted good.</HSAteAdzukiBeanPasteIngredient.stages.0.description>
-  <HSAteAdzukiDango.stages.0.label>ate Adzuki Dango</HSAteAdzukiDango.stages.0.label>
-  <HSAteAdzukiDango.stages.0.description>I ate Dango. The sweet Adzuki bean paste made it taste so good!</HSAteAdzukiDango.stages.0.description>
+  <HSHokorathought.stages.0.label>가벼움 가미에 의해 축복받다</HSHokorathought.stages.0.label>
+  <HSHokorathought.stages.0.description>우리 하코라에 있는 가벼움 가미가 악에서 우리를 보호해 주니, 그 주위에 있으면 좀더 안전하다고 느낀다.</HSHokorathought.stages.0.description>
+  <HSAteDango.stages.0.label>단고 먹기</HSAteDango.stages.0.label>
+  <HSAteDango.stages.0.description>단고를 먹었다. 심플해도 꽤 맛있었다.</HSAteDango.stages.0.description>
+  <HSAteAdzukiBeanPaste.stages.0.label>앙금 먹기</HSAteAdzukiBeanPaste.stages.0.label>
+  <HSAteAdzukiBeanPaste.stages.0.description>앙금을 먹었다, 달콤하고 맛있었다.</HSAteAdzukiBeanPaste.stages.0.description>
+  <HSAteAdzukiBeanPasteIngredient.stages.0.label>앙금을 곁들인 음식 먹기</HSAteAdzukiBeanPasteIngredient.stages.0.label>
+  <HSAteAdzukiBeanPasteIngredient.stages.0.description>먹은 음식에 앙금이 들어가 있어 달콤했고 맛있었다.</HSAteAdzukiBeanPasteIngredient.stages.0.description>
+  <HSAteAdzukiDango.stages.0.label>앙금 단고 먹기</HSAteAdzukiDango.stages.0.label>
+  <HSAteAdzukiDango.stages.0.description>단고를 먹었다. 단팥 앙금이 너무 달콤해서 맛있었다!</HSAteAdzukiDango.stages.0.description>
 </LanguageData>
