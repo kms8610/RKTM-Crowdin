@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HS_EdoProduction.label>에도 생산</HS_EdoProduction.label>
+  <HS_EdoProduction.description>기본 생산 방법.</HS_EdoProduction.description>
+  <HS_EdoRecreationalFood.label>오락용 식품</HS_EdoRecreationalFood.label>
+  <HS_EdoRecreationalFood.description>에도 시대에 즐긴 오락용 식품.</HS_EdoRecreationalFood.description>
+  <HS_Basic_Samurai_Smithing.label>기본 금속 가공</HS_Basic_Samurai_Smithing.label>
+  <HS_Basic_Samurai_Smithing.description>자급자족은 우리 생존에 매우 중요합니다. 다른 사람에게 의존하기보다는 우리 자신의 장비를 직접 제작해야 합니다.</HS_Basic_Samurai_Smithing.description>
+  <HS_Clanforged_Weapons.label>문중제작 무기</HS_Clanforged_Weapons.label>
+  <HS_Clanforged_Weapons.description>문중의 비밀을 공유하여 가볍고 강하며 우아한 무기를 제작할 수 있습니다.</HS_Clanforged_Weapons.description>
+  <HS_EdoElectricKamado.label>전기 가마도</HS_EdoElectricKamado.label>
+  <HS_EdoElectricKamado.description>가마도를 개조하여 연료 대신 전력을 사용할 수 있습니다.</HS_EdoElectricKamado.description>
+  <HS_HayWeaving.label>건초 직조</HS_HayWeaving.label>
+  <HS_HayWeaving.description>건초를 모자나 망토로 직조합니다.</HS_HayWeaving.description>
+  <HS_EdoClothing.label>에도 옷</HS_EdoClothing.label>
+  <HS_EdoClothing.description>기본적인 에도 테마의 옷 제작법을 배웁니다.</HS_EdoClothing.description>
+  <HS_EdoBuildings.label>에도 건축물</HS_EdoBuildings.label>
+  <HS_EdoBuildings.description>다양한 에도 스타일 건축물을 만드는 방법을 배웁니다.</HS_EdoBuildings.description>
+  <HS_BlackPowder_Research.label>화약 무기</HS_BlackPowder_Research.label>
+  <HS_BlackPowder_Research.description>중국의 네 가지 위대한 발명 중 하나인 화약. 훌륭한 방어 도구로 사용할 수 있으며, 총을 발사하거나 총열에 넣고 불을 붙일 수 있습니다.</HS_BlackPowder_Research.description>
+  <HS_Mastercraft_Armor.label>달인의 갑옷</HS_Mastercraft_Armor.label>
+  <HS_Mastercraft_Armor.description>쇼군에 어울리는 명작 갑옷 제작법을 배웁니다.</HS_Mastercraft_Armor.description>
+</LanguageData>
