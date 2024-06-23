@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HSDaimyoBearing.label>대명의 품위</HSDaimyoBearing.label>
+  <HSDaimyoBearing.description>이 사람으로부터 자부심과 품위가 느껴져, 주변 동료들에게 영감을 줍니다.</HSDaimyoBearing.description>
+  <HSDaimyoPresenceBuff.label>대명의 전령</HSDaimyoPresenceBuff.label>
+  <HSDaimyoPresenceBuff.description>전장에 대명의 존재감이 병사들이 더욱 힘차게 싸우게 합니다.</HSDaimyoPresenceBuff.description>
+  <HS_Banzai.label>천황폐하 만세!</HS_Banzai.label>
+  <HS_Banzai.description>자살 돌격으로, 이를 사용하는 폰들은 더 빨리 움직이고, 증가된 근접 데미지를 줄 수 있으나, 본인들이 받는 데미지에 더 취약해집니다.</HS_Banzai.description>
+</LanguageData>
