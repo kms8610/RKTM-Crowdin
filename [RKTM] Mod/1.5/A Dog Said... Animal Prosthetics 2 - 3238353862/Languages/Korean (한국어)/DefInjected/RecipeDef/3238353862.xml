@@ -2,37 +2,37 @@
 <LanguageData>
   <InstallBionicTailAnimal.label>생체공학 동물 꼬리 이식</InstallBionicTailAnimal.label>
   <InstallBionicTailAnimal.description>생체공학 동물 꼬리를 설치합니다.</InstallBionicTailAnimal.description>
-  <InstallBionicTailAnimal.jobString>Installing bionic animal tail.</InstallBionicTailAnimal.jobString>
+  <InstallBionicTailAnimal.jobString>생체공학 동물 꼬리 이식 중</InstallBionicTailAnimal.jobString>
   <InstallBionicEyeAnimal.label>생체공학 동물 눈 이식</InstallBionicEyeAnimal.label>
-  <InstallBionicEyeAnimal.description>Installs a bionic animal eye.</InstallBionicEyeAnimal.description>
+  <InstallBionicEyeAnimal.description>생체공학 동물 귀를 이식합니다.</InstallBionicEyeAnimal.description>
   <InstallBionicEyeAnimal.jobString>생체공학 동물 눈 이식 중</InstallBionicEyeAnimal.jobString>
-  <InstallBionicArmAnimal.label>install bionic animal arm</InstallBionicArmAnimal.label>
+  <InstallBionicArmAnimal.label>생체공학 동물 팔 이식</InstallBionicArmAnimal.label>
   <InstallBionicArmAnimal.description>Installs a bionic animal arm.</InstallBionicArmAnimal.description>
   <InstallBionicArmAnimal.jobString>생체공학 동물 팔 이식 중</InstallBionicArmAnimal.jobString>
   <InstallBionicLegAnimal.label>생체공학 동물 다리 이식</InstallBionicLegAnimal.label>
   <InstallBionicLegAnimal.description>Installs bionic leg. Requires a min skill in medicine of 4.</InstallBionicLegAnimal.description>
-  <InstallBionicLegAnimal.jobString>Installing bionic animal leg.</InstallBionicLegAnimal.jobString>
+  <InstallBionicLegAnimal.jobString>생체공학 동물 다리 이식 중</InstallBionicLegAnimal.jobString>
   <InstallBionicSpineAnimal.label>생체공학 동물 척추 이식</InstallBionicSpineAnimal.label>
-  <InstallBionicSpineAnimal.description>Installs a bionic animal spine.</InstallBionicSpineAnimal.description>
+  <InstallBionicSpineAnimal.description>생체공학 동물 척추를 이식합니다.</InstallBionicSpineAnimal.description>
   <InstallBionicSpineAnimal.jobString>생체공학 동물 척추 이식 중</InstallBionicSpineAnimal.jobString>
   <InstallBionicHeartAnimal.label>생체공학 동물 심장 이식</InstallBionicHeartAnimal.label>
-  <InstallBionicHeartAnimal.description>Installs a bionic animal heart.</InstallBionicHeartAnimal.description>
+  <InstallBionicHeartAnimal.description>생체공학 동물 심장을 이식합니다.</InstallBionicHeartAnimal.description>
   <InstallBionicHeartAnimal.jobString>생체공학 동물 심장 이식 중</InstallBionicHeartAnimal.jobString>
   <InstallBionicStomachAnimal.label>생체공학 동물 위 이식</InstallBionicStomachAnimal.label>
   <InstallBionicStomachAnimal.description>Installs a bionic animal stomach.</InstallBionicStomachAnimal.description>
   <InstallBionicStomachAnimal.jobString>생체공학 동물 위 이식 중</InstallBionicStomachAnimal.jobString>
-  <InstallBionicEarAnimal.label>install bionic animal ear</InstallBionicEarAnimal.label>
-  <InstallBionicEarAnimal.description>Installs a bionic animal ear.</InstallBionicEarAnimal.description>
-  <InstallBionicEarAnimal.jobString>Installing bionic animal ear.</InstallBionicEarAnimal.jobString>
-  <InstallBionicTongueAnimal.label>install bionic animal tongue</InstallBionicTongueAnimal.label>
-  <InstallBionicTongueAnimal.description>Installs a bionic animal tongue.</InstallBionicTongueAnimal.description>
-  <InstallBionicTongueAnimal.jobString>Installing bionic animal tongue.</InstallBionicTongueAnimal.jobString>
+  <InstallBionicEarAnimal.label>생체공학 동물 귀 이식</InstallBionicEarAnimal.label>
+  <InstallBionicEarAnimal.description>생체공학 동물 귀를 이식합니다.</InstallBionicEarAnimal.description>
+  <InstallBionicEarAnimal.jobString>생체공학 동물 귀 이식 중</InstallBionicEarAnimal.jobString>
+  <InstallBionicTongueAnimal.label>생체공학 동물 혀 이식</InstallBionicTongueAnimal.label>
+  <InstallBionicTongueAnimal.description>생체공학 동물 혀를 이식합니다.</InstallBionicTongueAnimal.description>
+  <InstallBionicTongueAnimal.jobString>생체공학 동물 혀 이식 중</InstallBionicTongueAnimal.jobString>
   <InstallBionicJawAnimal.label>생체공학 동물 턱 이식</InstallBionicJawAnimal.label>
-  <InstallBionicJawAnimal.description>Installs bionic jaw. Requires a min skill in medicine of 4.</InstallBionicJawAnimal.description>
+  <InstallBionicJawAnimal.description>생체공학 동물 턱을 이식합니다. 수술을 위하여 4 이상의 의료 기술이 필요합니다.</InstallBionicJawAnimal.description>
   <InstallBionicJawAnimal.jobString>생체공학 동물 턱 이식 중</InstallBionicJawAnimal.jobString>
-  <InstallDentureAnimal.label>install animal denture</InstallDentureAnimal.label>
-  <InstallDentureAnimal.description>Installs animal denture.</InstallDentureAnimal.description>
-  <InstallDentureAnimal.jobString>Installing an animal denture.</InstallDentureAnimal.jobString>
+  <InstallDentureAnimal.label>동물 틀니 이식</InstallDentureAnimal.label>
+  <InstallDentureAnimal.description>동물 틀니를 이식합니다.</InstallDentureAnimal.description>
+  <InstallDentureAnimal.jobString>동물 틀니 이식 중</InstallDentureAnimal.jobString>
   <InstallPegLegAnimal.label>동물 목발 이식</InstallPegLegAnimal.label>
   <InstallPegLegAnimal.description>동물 목발을 이식합니다.</InstallPegLegAnimal.description>
   <InstallPegLegAnimal.jobString>의족 설치 중</InstallPegLegAnimal.jobString>
