@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <InstallBionicTailAnimal.label>install bionic animal tail</InstallBionicTailAnimal.label>
-  <InstallBionicTailAnimal.description>Installs a bionic animal tail.</InstallBionicTailAnimal.description>
+  <InstallBionicTailAnimal.label>생체공학 동물 꼬리 이식</InstallBionicTailAnimal.label>
+  <InstallBionicTailAnimal.description>생체공학 동물 꼬리를 설치합니다.</InstallBionicTailAnimal.description>
   <InstallBionicTailAnimal.jobString>Installing bionic animal tail.</InstallBionicTailAnimal.jobString>
   <InstallBionicEyeAnimal.label>생체공학 동물 눈 이식</InstallBionicEyeAnimal.label>
   <InstallBionicEyeAnimal.description>Installs a bionic animal eye.</InstallBionicEyeAnimal.description>
